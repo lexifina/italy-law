@@ -1,0 +1,19 @@
+Art. 742-bis.
+
+(( (Ambito di applicazione degli articoli precedenti). ))
+
+((Le disposizioni del presente capo si applicano a tutti i procedimenti in camera di consiglio, ancorche' non regolati dai capi precedenti o che non riguardino materia di famiglia o di stato delle persone)). ((3))
+
+--------------
+
+AGGIORNAMENTO (3)
+
+Il D.Lgs. 5 maggio 1948, n. 483 ha disposto (con l'art. 1, comma 1) che "Fino alla revisione generale del codice di procedura civile, approvato con regio decreto 28 ottobre 1940, n. 1443 e coordinato col codice civile con regio decreto 20 aprile 1942, n. 504, sono ad esso apportate le modificazioni e le aggiunte risultanti dagli articoli seguenti".
+
+Ha inoltre disposto (con l'art. 38, comma 1) che l'introduzione del presente articolo avra' esecuzione a cominciare dal primo gennaio 1949.
+
+La L. 29 dicembre 1948, n. 1470, nel modificare il D.Lgs. 5 maggio 1948, n. 483, ha conseguentemente disposto (con l'articolo unico, comma 1) che "L'entrata in vigore del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni e aggiunte al Codice di procedura civile e' sospesa fino al 31 marzo 1949".
+
+La L. 31 marzo 1949, n. 92, nel modificare il D.Lgs. 5 maggio 1948, n. 483, ha conseguentemente disposto (con l'articolo unico, comma 1) che "L'entrata in vigore del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni e aggiunte al Codice di procedura civile, gia' sospesa fino al 31 marzo 1949 per effetto della legge 29 dicembre 1948, n. 1470, resta ulteriormente sospesa fino al 30 giugno 1949".
+
+La L. 5 luglio 1949, n. 341, nel modificare il D.Lgs. 5 maggio 1948, n. 483, ha conseguentemente disposto (con l'articolo unico, comma 1) che "La sospensione del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni ed aggiunte al Codice di procedura, civile, gia', disposta con la legge 31 marzo 1949, n. 92, e' ulteriormente prorogata sino all'entrata in vigore della legge di ratifica del decreto legislativo medesimo".
