@@ -1,0 +1,11 @@
+# Legge 19 maggio 1952, n. 638
+
+- Tipo: Ordinaria
+- Numero: 638
+- Data: 1952-05-19
+- Titolo: Approvazione  ed  esecuzione  dell'Accordo  provvisorio  di trasporto aereo  tra la Repubblica italiana e la Repubblica Federativa Popolare di Jugoslavia, concluso a Roma il 23 dicembre 1950.
+- Pubblicazione: (Pubblicata nella G.U. del 21 giugno 1952)
+- Legislatura: I legislatura della Repubblica (repubblica_1)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1952-05-19;638
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1952_638
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
