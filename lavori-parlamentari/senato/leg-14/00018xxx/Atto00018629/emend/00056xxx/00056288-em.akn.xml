@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G27"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G27"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/G27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17649" showAs="Tessitore"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/932" showAs="Falomi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3851" showAs="Maconi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3846" showAs="Piatti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/415" showAs="Caddeo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3849" showAs="Piloni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/2321" showAs="Stanisci"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17587" showAs="Iovene"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Tessitore</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Falomi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Maconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Piatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Caddeo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Piloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Stanisci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Iovene</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2003,</an:p>
+				<an:p align="justify">            considerato che le spese eccezionali per definizione di legge non sono rilevanti agli effetti della misurazione del patto di stabilità;</an:p>
+				<an:p align="justify">            ricordato che il patto di stabilità interno è determinato mediante incrementi della spesa sostenuta nei consuntivi del 2000;</an:p>
+				<an:p align="justify">            rilevato che nella regione Campania i maggiori costi dei rifiuti solidi urbani si sono abbattuti sui comuni nel 2001 e che pertanto il patto erroneamente li considera costi ordinari,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a prevedere con una propria interpretazione che l'incremento di spesa risultante dai bilanci di previsione 2002 dei comuni della regione Campania rispetto ai risultati del consuntivo 2000 (approvato a giugno 2001), del servizio smaltimento rifiuti possa essere considerato spesa di carattere straordinario ai fini della misurazione del patto di stabilità interno.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
