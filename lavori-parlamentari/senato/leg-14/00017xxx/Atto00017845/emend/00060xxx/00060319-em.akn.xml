@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1547/A/G1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1547/A/G1"/>
+					<an:FRBRdate date="2003-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1547/A/G1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@"/>
+					<an:FRBRdate date="2003-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@.akn"/>
+					<an:FRBRdate date="2003-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-03-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-03-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1547/A/G1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1547" showAs="DDL 1547"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/199" showAs="Bedin"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/17626" showAs="Rigoni"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/774" showAs="Danieli"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/4479" showAs="Manzione"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/2569" showAs="Toia"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/1305" showAs="Lavagnini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1547</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Bedin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Rigoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Danieli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Manzione</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Toia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Lavagnini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la legge n. 185 del 1990 che regolamenta il commercio e la produzione di armi garantendo trasparenza, controllo al finanziamento, alla produzione e alla esportazione dei materiali di armamento costituisce un esempio normativo molto avanzato a livello internazionale;</an:p>
+				<an:p align="justify">            l'autorità politica, in base a tale legge, assume poteri e responsabilità in materia di destinazione finale di materiali assemblati all'estero o prodotti con pezzi e componenti italiani e che nei casi di coproduzione deve essere dichiarato sin dall'inizio non solo l'industria e il paese con il quale si coproduce, ma anche l'eventuale paese terzo, acquirente del materiale dell'armamento;</an:p>
+				<an:p align="justify">            è sul destinatario finale che il Ministero degli affari esteri valuta la coerenza con i principi e i divieti della legge (divieto di esportazione verso i paesi i cui governi sono responsabili di violazioni dei diritti umani) ed è il destinatario finale che appare nella relazione annuale resa dal Governo italiano al Parlamento;</an:p>
+				<an:p align="justify">            l'accordo quadro per la ristrutturazione e le attività dell'industria europea per la difesa sottoscritto a Farnborough il 27 luglio 2000 tra la Repubblica francese, la Repubblica federale di Germania, la Repubblica italiana, il Regno di Spagna, il Regno di Svezia, e il Regno unito della Gran Bretagna e dell'Irlanda del nord riconduce in una dimensione internazionale l'intera problematica introducendo due nuove fattispecie relative ad accordi intergovernativi o interaziendali approvati dai governi dei paesi firmatari e una nuova modalità autorizzativa denominata «licenza globale del progetto»;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">
+					            tale nuova situazione ha suscitato vasta e legittima apprensione negli ambienti 
+					<an:b>particolarmente</an:b>
+					 sensibili della società italiana e nelle strutture associative da tempo impegnate per il rispetto dei diritti umani e il controllo del commercio delle armi;
+				</an:p>
+				<an:p align="justify">            l'accordo quadro è perfettamente compatibile con la possibilità di mantenere un quadro efficace di garanzie in materia di trasparenza, controllo, destinazione finale e transazioni finanziarie relative ai materiali di armamento, adeguando il dettato della legge n. 185 del 1990 ai nuovi contenuti dell'accordo stesso;</an:p>
+				<an:p align="justify">            in mancanza di tale adeguamento potrebbero risultare inapplicati gli aspetti più qualificanti della normativa nazionale in materia di procedure di autorizzazione, controlli efficaci per evitare triangolazioni irregolari, controlli bancari, divieto di esportazione verso paesi in conflitto tra loro o soggetti a embargo internazionale o la cui politica contrasti con i principi della nostra Costituzione o violi i diritti dell'uomo;</an:p>
+				<an:p align="justify">            appare necessario dare legittimità istituzionale ad un confronto permanente anche con la società civile e le espressioni organizzate di essa che interpretano con più rigore il principio etico della convivenza pacifica tra i popoli e della soluzione negoziata delle crisi internazionali,</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">
+					            a promuovere un incontro annuale con le associazioni non governative maggiormente rappresentative, notoriamente impegnate in materia di rispetto dei diritti umani, nel controllo sul commercio degli armamenti e in iniziative umanitarie di grande valore etico e morale per discutere con loro, 
+					<an:b>valutandone</an:b>
+					 le osservazioni, i contenuti della relazione annuale al Parlamento redatta ai sensi dell'articolo 5 della legge 9 luglio 1990 n. 185.
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo con le parole evidenziate che sostituiscono le altre: «più» e «recependone».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
