@@ -1,0 +1,5 @@
+ALLEGATO 2
+
+PROSPETTO DELLE TRATTE CEDUTE E DEI CANONI GIA' MATURATI
+
+Parte di provvedimento in formato grafico
