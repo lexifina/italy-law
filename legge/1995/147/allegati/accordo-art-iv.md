@@ -1,0 +1,7 @@
+ARTICOLO IV
+
+1. Le Parti contraenti adotteranno tutte le misure possibili al fine di evitare che l'esplorazione delle loro rispettive zone della piattaforma continentale, cosi' come la coltivazione delle risorse minerarie di quest'ultima, possano pregiudicare l'equilibrio ecologico del mare o possano interferire ingiustificatamente con altri usi legittimi del mare stesso.
+
+2. Nel caso si producano sul proprio territorio o sulla propria piattaforma continentale situazioni suscettibili di produrre effetti ambientali negativi sulla piattaforma continentale dell'altra Parte, ciascuna Parte contraente si impegna a fornire immediatamente all'altra adeguate informazioni, e quest'ultima e' a sua volta legittimata a richiedere ed a ricevere tali informazioni, che saranno considerate come riservate , se cio' viene richiesto dalla Parte che le fornisce.
+
+3. La Parte contraente, la cui piattaforma continentale ha probabilita' di essere contaminata dagli effetti negativi sull'ambiente derivanti da attivita' o da omissioni verificatesi sul territorio o sulla piattaforma continentale dell'altra Parte, dopo aver ricevuto le informazioni di cui al paragrafo precedente, o nel caso in cui nessuna informazione sia stata fornita, e' legittimata a richiedere in qualsiasi momento la creazione di una Commissione d'inchiesta, per chiarire e stabilire gli elementi di fatto della situazione in questione, al fine di prevenire l'insorgere di una controversia tra le due Parti contraenti.
