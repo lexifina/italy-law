@@ -1,8 +1,6 @@
 Art. 441-bis.
 
-(( (Provvedimenti del giudice a seguito di nuove contestazioni sul giudizio abbreviato) )).
-
-((
+(Provvedimenti del giudice a seguito di nuove contestazioni sul giudizio abbreviato).
 
 1.
 
@@ -18,7 +16,7 @@ Il giudice, su istanza dell'imputato o del difensore, assegna un termine non sup
 
 4.
 
-Se l'imputato chiede che il procedimento prosegua nelle forme ordinarie, il giudice revoca l'ordinanza con cui era stato disposto il giudizio abbreviato e fissa l'udienza preliminare o la sua eventuale prosecuzione. Gli atti compiuti ai sensi degli articoli 438, comma 5, e 441, comma 5, hanno la stessa efficacia degli atti compiuti ai sensi dell'articolo 422. La richiesta di giudizio abbreviato non puo' essere riproposta.
+Se l'imputato chiede che il procedimento prosegua nelle forme ordinarie, il giudice revoca l'ordinanza con cui era stato disposto il giudizio abbreviato e fissa l'udienza preliminare o la sua eventuale prosecuzione. Gli atti compiuti ai sensi degli articoli 438, comma 5, e 441, comma 5, hanno la stessa efficacia degli atti compiuti ai sensi dell'articolo 422. La richiesta di giudizio abbreviato non puo' essere riproposta. (( Si applicano le disposizioni dell'articolo 303, comma 2 )).
 
 5.
 
