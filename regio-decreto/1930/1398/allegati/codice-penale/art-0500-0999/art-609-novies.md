@@ -1,0 +1,11 @@
+Art. 609-nonies.
+
+(( (Pene accessorie ed altri effetti penali).))
+
+((La condanna per alcuno dei delitti previsti dagli articoli 609-bis, 609-ter, 609-quater, 609-quinquies e 609-octies comporta:
+
+1) la perdita della potesta' del genitore, quando la qualita' di genitore e' elemento costitutivo del reato;
+
+2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela ed alla curatela;
+
+3) la perdita del diritto agli alimenti e l'esclusione dalla successione della persona offesa)).
