@@ -1,0 +1,13 @@
+# Massima n. 6190
+
+- Pronuncia: Corte costituzionale, sentenza 115/1972 (ECLI:IT:COST:1972:115)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1972:115
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 115/72  D.  REGIONE  SICILIANA  -  COMPETENZA LEGISLATIVA - ELEZIONE  DELL'ASSEMBLEA  REGIONALE - STATUTO, ART. 3 - RINVIO AI "PRINCIPI  FISSATI  DALLA  COSTITUENTE  IN  MATERIA  DI  ELEZIONI POLITICHE"  -  NON  OPERA L'ESTENSIONE ALL'ORGANO REGIONALE DELLA INSINDACABILITA',  ANCHE  GIURISDIZIONALE,  PREVISTA DALL'ART. 66 DELLA   COSTITUZIONE   IN  MATERIA  DI  VERIFICA  DEI  TITOLI  DI AMMISSIBILITA' IN PARLAMENTO.
+
+## Testo
+
+Secondo  la  necessaria coerenza (particolarmente affermata nella sentenza  n.  6 del 1970) fra Statuto siciliano e Costituzione, i principi  costituzionali  in  virtu'  dei  quali (a) "elezioni" e "giurisdizione sulle elezioni" costituiscono materie suscettibili di  appartenere  a distinte sfere di attribuzioni; (b) le regioni non  hanno  alcuna competenza in tema di giurisdizione e neppure, quindi,  in  materia  di  "giurisdizione  sulle elezioni", (c) la tutela  giurisdizionale  e' a tutti garantita ed e' affidata agli organi  previsti  dagli  artt. 101 e ss. Cost., al rinvio operato dall'art.  3  Stat.  sic.,  nell'affidare  alla Regione siciliana competenza legislativa sulle elezioni della propria assemblea, ai "principi  fissati  dalla  Costituzione  in  materia  di elezioni politiche"  non  si  puo' assegnare altro significato che non sia quello di circoscrivere ulteriormente, e non gia' di ampliare, il quadro  entro  il  quale la Regione puo' esercitare in materia la propria potesta'. Una  diversa interpretazione dell'art. 3 Stat. sicil. non sarebbe suffragata,   del   resto,  dalla  formulazione  letterale  della disposizione statutaria. D'altronde  la identificazione dei limiti obiettivi della materia delle  "elezioni  dell'assemblea  regionale"  -  prima ancora dei principi costituzionali ai quali la sua regolamentazione da parte della  Regione  deve  portar  rispetto  - gia' di per se induce a respingere  la  tesi che lo stesso art. 3 Stat. sicil., rinviando in proposito ai "principi fissati dalla Costituente in materia di elezioni   politiche",   abbia   reso  operante  per  l'Assemblea regionale   la  insindacabilita',  anche  giurisdizionale,  delle determinazioni  adottate  da quel corpo deliberante riguardo alle elezioni  dei  propri  componenti,  nello  stesso modo in cui, ex art.  66  Cost.,  quell'insindacabilita' caratterizza le analoghe attribuzioni del Parlamento.
