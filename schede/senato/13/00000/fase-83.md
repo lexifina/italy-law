@@ -1,0 +1,14 @@
+# Disegno di legge C.79 (13a legislatura)
+
+- Fase: C.79
+- Id DDL: 79
+- Id fase: 83
+- Natura: ordinaria
+- Data di presentazione: 1996-05-09
+- Titolo: Modifiche alla legge 4 maggio 1983, n. 184, recante disciplina dell' adozione e dell' affidamento dei minori
+- Stato: assorbito
+- Data dello stato: 2001-02-21
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;79
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/83
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).
