@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Visto l'art. 1, n. 7, del regio decreto 14 novembre 1901, n. 466, sulle attribuzioni del Consiglio dei Ministri;
+
+Visto l'art. 16, n. 1, del testo unico delle leggi sul Consiglio di Stato, approvato con il regio decreto 26 giugno 1924, n. 1054;
+
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il decreto del Presidente della Repubblica 10 gennaio 1957, n. 3;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per gli affari esteri; Decreta:
