@@ -1,0 +1,13 @@
+# Massima n. 12428
+
+- Pronuncia: Corte costituzionale, sentenza 153/1986 (ECLI:IT:COST:1986:153)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1986:153
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  153/86  E.  CONFLITTO DI ATTRIBUZIONE TRA REGIONI E  STATO (GIUDIZIO  PER)  - REGIONI  LOMBARDIA,  EMILIA-ROMAGNA,  TOSCANA, UMBRIA,  MOLISE E PUGLIA - BELLEZZE NATURALI (PROTEZIONE DELLE) - PAESAGGIO (TUTELA DEL) - MANCATA ADOZIONE DA PARTE DELLE REGIONI, ENTRO  IL  31 DICEMBRE 1986,  DI STRUMENTI URBANISTICI  ORIENTATI ALLA  TUTELA  DEL  PAESAGGIO - SPETTANZA AL  MINISTERO  DEI  BENI CULTURALI   E   AMBIENTALI  DEL  POTERE  DI  ADOTTARE   (IN   VIA SURROGATORIA),   IN  ORDINE  AL  TERRITORIO  RELATIVO  ALLE  ZONE PROTETTE  DA  VINCOLO  PAESISTICO  EX  LEGE,   I  PREVISTI  PIANI PAESISTICI.
+
+## Testo
+
+Il  particolare rilievo che,  nell'ambito della nuova tutela  del valore estetico-culturale introdotta dalla l.  n.  431, assume la proiezione  (dinamica)  di  tale valore in  campo  urbanistico  e l'esigenza  di pronta e piena realizzazione della tutela  stessa, giustificano  l'attribuzione  allo Stato (in aggiunta  ai  poteri inibitori  connessi al vincolo paesistico) di poteri  surrogatori comprensivi,  per  quel che riguarda il territorio relativo  alle zone  protette,  dell'adozione di piani paesistici in luogo della Regione  rimasta inerte,  ovvero di altri  interventi,  anch'essi limitati  alla specifica considerazione dei valori paesistici  ed ambientali.  Spetta allo Stato - in caso di mancata redazione  da parte delle Regioni,  entro il 31 dicembre 1986, dei piani di cui all'art.  1-bis,  comma  primo,  d.l.  27 giugno  1985,  n.  312, aggiunto  dalla  legge di conversione 8 agosto  1985,  n.  431  - provvedere, sollecitate e sentite le Regioni stesse, ad adottare, in  ordine  al  territorio relativo alle zone protette  ex  comma quinto, art. 82, d.P.R. n. 616 del 1977 (aggiunto dall'art. 1 del d.l.  n.  312,  come  convertito dalla legge  n.  431),  i  piani paesistici  o gli altri interventi previsti dal comma secondo del precitato art.  1-bis;  e sono,  percio',  infondate le doglianze delle Regioni Lombardia,  Emilia-Romagna, Toscana, Umbria, Molise e Puglia, avverso la circolare del Ministero dei beni culturali e ambientali 31 agosto 1985,  n. 8, nella parte in cui afferma che, in caso di inerzia delle Regioni,  l'anzidetto Ministero provvede alla formazione dei piani paesistici.  - S. n. 151/1986.
