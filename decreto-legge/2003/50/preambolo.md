@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visto l'articolo 151, comma 1, del testo unico delle leggi sull'ordinamento degli enti locali, approvato con decreto legislativo 18 agosto 2000, n. 267, il quale fissa al 31 dicembre il termine per la deliberazione del bilancio di previsione per l'anno successivo da parte degli enti locali;
+
+Visto il decreto del Ministro dell'interno in data 19 dicembre 2002, pubblicato nella Gazzetta Ufficiale n. 304 del 30 dicembre 2002, con il quale il termine di cui sopra e' stato differito al 31 marzo 2003, ai sensi del citato articolo 151;
+
+Considerato che, nonostante la predetta proroga, in molteplici circostanze gli enti locali non hanno potuto deliberare tempestivamente i propri bilanci di previsione per l'anno 2003, anche per le innovazioni recentemente introdotte nella disciplina di riferimento;
+
+Ritenuta pertanto la straordinaria necessita' ed urgenza di differire, nel corrente anno, per un periodo di sessanta giorni, il termine gia' prorogato dal citato decreto del Ministro dell'interno in data 19 dicembre 2002;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 marzo 2003;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'interno;
+
+Emana il seguente decreto-legge:
