@@ -1,0 +1,11 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 21 del codice postale e delle telecomunicazioni, approvato con regio decreto 27 febbraio 1936, n. 645;
+
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare - parte prima), approvato con regio decreto 10 aprile 1940, n. 689;
+
+Riconosciuta l'opportunita' di emettere una serie di francobolli celebrativi della 60ª conferenza dell'Unione interparlamentare;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le poste e le telecomunicazioni; Decreta:
