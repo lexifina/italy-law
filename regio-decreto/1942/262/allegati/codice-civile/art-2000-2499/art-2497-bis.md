@@ -1,5 +1,13 @@
 Art. 2497-bis.
 
-((Effetti della pubblicazione nel registro delle imprese))
+(( (Pubblicita').))
 
-Si applicano alla societa' a responsabilita' limitata le disposizioni ((dell'articolo 2457)) ter.
+((La societa' deve indicare la propria soggezione all'altrui attivita' di direzione e coordinamento negli atti e nella corrispondenza, nonche' mediante iscrizione, a cura degli amministratori, presso la sezione del registro delle imprese di cui al comma successivo.
+
+E' istituita presso il registro delle imprese apposita sezione nella quale sono indicati i soggetti che esercitano attivita' di direzione e coordinamento e quelle che vi sono soggette.
+
+Gli amministratori che omettono l'indicazione di cui al comma primo ovvero l'iscrizione di cui al comma secondo, o le mantengono quando la soggezione e' cessata, sono responsabili dei danni che la mancata conoscenza di tali fatti abbia recato ai soci o ai terzi.
+
+La societa' deve esporre, in apposita sezione della nota integrativa, un prospetto riepilogativo dei dati essenziali dell'ultimo bilancio della societa' o dell'ente che esercita su di essa l'attivita' di direzione e coordinamento.
+
+Parimenti, gli amministratori devono indicare nella relazione sulla gestione i rapporti intercorsi con chi esercita l'attivita' di direzione e coordinamento e con le altre societa' che vi sono soggette, nonche' l'effetto che tale attivita' ha avuto sull'esercizio dell'impresa sociale e sui suoi risultati.))

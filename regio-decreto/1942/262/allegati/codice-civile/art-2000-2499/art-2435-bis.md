@@ -1,19 +1,35 @@
 Art. 2435-bis.
 
-(( (Bilancio in forma abbreviata).))
+(( (Bilancio in forma abbreviata). ))
 
-((Le societa' possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
+((Le societa', che non abbiano emesso titoli negoziati in mercati regolamentati, possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
 
-1) totale dell'attivo dello stato patrimoniale: 4.700 milioni di lire;
+1) totale dell'attivo dello stato patrimoniale: 3.125.000 euro;
 
-2) ricavi delle vendite e delle prestazioni: 9.500 milioni di lire;
+2) ricavi delle vendite e delle prestazioni: 6.250.000 euro;
 
 3) dipendenti occupati in media durante l'esercizio: 50 unita'.
 
-Nel bilancio in forma abbreviata lo stato patrimoniale comprende solo le voci contrassegnate nell'articolo 2424 con lettere maiuscole e con numeri romani; dalle voci BI e BII dell'attivo devono essere detratti in forma esplicita gli ammortamenti e le svalutazioni; nelle voci CII dell'attivo e D del passivo devono essere separatamente indicati i crediti e i debiti esigibili oltre l'esercizio successivo.
+Nel bilancio in forma abbreviata lo stato patrimoniale comprende solo le voci contrassegnate nell'articolo 2424 con lettere maiuscole e con numeri romani; le voci A e D dell'attivo possono essere comprese nella voce CII; dalle voci BI e BII dell'attivo devono essere detratti in forma esplicita gli ammortamenti e le svalutazioni; la voce E del passivo puo' essere compresa nella voce D; nelle voci CII dell'attivo e D del passivo devono essere separatamente indicati i crediti e i debiti esigibili oltre l'esercizio successivo.
 
-Nella nota integrativa sono omesse le indicazioni richieste dal numero 10) dell'articolo 2426 e dai numeri 2) 3) 7) 9), 10), 12), 13), 14), 15), 16) e 17) dell'articolo 2427; le indicazioni richieste dal numero 6) dell'articolo 2427 sono riferite all'importo globale dei debiti iscritti in bilancio.
+Nel conto economico del bilancio in forma abbreviata le seguenti voci previste dall'articolo 2425 possono essere tra loro raggruppate:
+
+voci A2 e A3
+
+voci B9(c), B9(d), B9(e)
+
+voci B10(a), B10(b),B10(c)
+
+voci C16(b) e C16(c)
+
+voci D18(a), D18(b), D18(c)
+
+voci D19(a), D19(b), D19(c)
+
+Nel conto economico del bilancio in forma abbreviata nella voce E20 non e' richiesta la separata indicazione delle plusvalenze e nella voce E21 non e' richiesta la separata indicazione delle minusvalenze e delle imposte relative a esercizi precedenti.
+
+Nella nota integrativa sono omesse le indicazioni richieste dal numero 10 dell'articolo 2426 e dai numeri 2), 3), 7), 9), 10), 12), 13), 14), 15), 16) e 17) dell'articolo 2427; le indicazioni richieste dal numero 6) dell'articolo 2427 sono riferite all'importo globale dei debiti iscritti in bilancio.
 
 Qualora le societa' indicate nel primo comma forniscano nella nota integrativa le informazioni richieste dai numeri 3) e 4) dell'articolo 2428, esse sono esonerate dalla redazione della relazione sulla gestione.
 
-Le societa' che a norma del presente articolo redigono il bilancio in forma abbreviata devono redigerlo in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma.))
+Le societa' che a norma del presente articolo redigono il bilancio in forma abbreviata devono redigerlo in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma. ))

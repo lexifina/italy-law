@@ -1,10 +1,10 @@
 Art. 2423-bis.
 
-(( (Principi di redazione del bilancio).))
+(( (Principi di redazione del bilancio). ))
 
 ((Nella redazione del bilancio devono essere osservati i seguenti principi:
 
-1) la valutazione delle voci deve essere fatta secondo prudenza e nella prospettiva della continuazione dell'attivita';
+1) la valutazione delle voci deve essere fatta secondo prudenza e nella prospettiva della continuazione dell'attivita', nonche' tenendo conto della funzione economica dell'elemento dell'attivo o del passivo considerato;
 
 2) si possono indicare esclusivamente gli utili realizzati alla data di chiusura dell'esercizio;
 

@@ -2,16 +2,16 @@ Art. 2433-bis.
 
 (( (Acconti sui dividendi).))
 
-((La distribuzione di acconti sui dividendi e' consentita solo alle societa' il cui bilancio e' assoggettato per legge alla certificazione da parte di societa' di revisione iscritte all'albo speciale.
+((La distribuzione di acconti sui dividendi e' consentita solo alle societa' il cui bilancio e' assoggettato per legge al controllo da parte di societa' di revisione iscritte all'albo speciale.
 
-La distribuzione di acconti sui dividendi deve essere prevista dallo statuto ed e' deliberata dagli amministratori dopo la certificazione e l'approvazione del bilancio dell'esercizio precedente.
+La distribuzione di acconti sui dividendi deve essere prevista dallo statuto ed e' deliberata dagli amministratori dopo il rilascio da parte della societa' di revisione di un giudizio positivo sul bilancio dell'esercizio precedente e la sua approvazione.
 
 Non e' consentita la distribuzione di acconti sui dividendi quando dall'ultimo bilancio approvato risultino perdite relative all'esercizio o a esercizi precedenti.
 
 L'ammontare degli acconti sui dividendi non puo' superare la minor somma tra l'importo degli utili conseguiti dalla chiusura dell'esercizio precedente, diminuito delle quote che dovranno essere destinate a riserva per obbligo legale o statutario, e quello delle riserve disponibili.
 
-Gli amministratori deliberano la distribuzione di acconti sui dividendi sulla base di un prospetto contabile e di una relazione, dai quali risulti che la situazione patrimoniale, economica e finanziaria della societa' consente la distribuzione stessa. Su tali documenti deve essere acquisito il parere del collegio sindacale.
+Gli amministratori deliberano la distribuzione di acconti sui dividendi sulla base di un prospetto contabile e di una relazione, dai quali risulti che la situazione patrimoniale, economica e finanziaria della societa' consente la distribuzione stessa. Su tali documenti deve essere acquisito il parere del soggetto incaricato del controllo contabile.
 
-Il prospetto contabile, la relazione degli amministratori e il parere del collegio sindacale debbono restare depositati in copia nella sede della societa' fino all'approvazione del bilancio dell'esercizio in corso. I soci possono prenderne visione.
+Il prospetto contabile, la relazione degli amministratori e il parere del soggetto incaricato del controllo contabile debbono restare depositati in copia nella sede della societa' fino all'approvazione del bilancio dell'esercizio in corso. I soci possono prenderne visione.
 
 Ancorche' sia successivamente accertata l'inesistenza degli utili di periodo risultanti dal prospetto, gli acconti sui dividendi erogati in conformita' con le altre disposizioni del presente articolo non sono ripetibili se i soci li hanno riscossi in buona fede. ))

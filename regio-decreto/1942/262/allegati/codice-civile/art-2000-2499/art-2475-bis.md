@@ -1,14 +1,10 @@
 Art. 2475-bis.
 
-(Pubblicita').
+(( (Rappresentanza della societa'). ))
 
-Quando le quote appartengono ad un solo socio o muta la persona dell'unico socio, gli amministratori devono depositare per l'iscrizione nel registro delle imprese una dichiarazione contenente l'indicazione del cognome e nome, della data e luogo di nascita, del domicilio e cittadinanza dell'unico socio.
+((Gli amministratori hanno la rappresentanza generale della societa'.
 
-Quando si costituisce o ricostituisce la pluralita' dei soci, gli amministratori ne devono depositare la dichiarazione per l'iscrizione nel registro delle imprese.
-
-L'unico socio o colui che cessi di essere tale puo' provvedere alla pubblicita' prevista nei commi precedenti.
-
-Le dichiarazioni degli amministratori devono essere depositate entro ((trenta giorni)) dall'iscrizione nel libro dei soci e devono indicare la data di tale iscrizione. (91)
+Le limitazioni ai poteri degli amministratori che risultano dall'atto costitutivo o dall'atto di nomina, anche se pubblicate, non sono opponibili ai terzi, salvo che si provi che questi abbiano intenzionalmente agito a danno della societa'.))
 
 ---------------------
 

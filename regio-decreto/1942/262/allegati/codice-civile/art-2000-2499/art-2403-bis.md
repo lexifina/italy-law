@@ -1,12 +1,22 @@
 Art. 2403-bis.
 
-(( (Collaboratori del sindaco).))
+(( (Poteri del collegio sindacale).)).
 
-((Nell'espletamento di specifiche operazioni attinenti al controllo della regolare tenuta della contabilita' e della corrispondenza del bilancio alle risultanze dei libri e delle scritture contabili i sindaci possono avvalersi, sotto la propria responsabilita' e a proprie spese, di dipendenti e ausiliari che non si trovino in una delle condizioni previste dall'art. 2399.
+((I sindaci possono in qualsiasi momento procedere, anche
 
-La societa' puo' rifiutare agli ausiliari l'accesso a informazioni riservate.))
+individualmente, ad atti di ispezione e di controllo.
 
-((84))
+Il collegio sindacale puo' chiedere agli amministratori notizie, anche con riferimento a societa' controllate, sull'andamento delle operazioni sociali o su determinati affari. Puo' altresi' scambiare informazioni con i corrispondenti organi delle societa' controllate in merito ai sistemi di amministrazione e controllo ed all'andamento generale dell'attivita' sociale.
+
+Gli accertamenti eseguiti devono risultare dal libro previsto
+
+dall'articolo 2421, primo comma, n. 5).
+
+Nell'espletamento di specifiche operazioni di ispezione e di controllo i sindaci sotto la propria responsabilita' ed a proprie spese possono avvalersi di propri dipendenti ed ausiliari che non si trovino in una delle condizioni previste dall'articolo 2399.
+
+L'organo amministrativo puo' rifiutare agli ausiliari e ai
+
+dipendenti dei sindaci l'accesso a informazioni riservate.))
 
 -------------------
 

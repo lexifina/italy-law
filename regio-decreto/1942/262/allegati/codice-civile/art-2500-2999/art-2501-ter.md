@@ -1,9 +1,27 @@
 Art. 2501-ter.
 
-(( (Situazione patrimoniale). ))
+(( (Progetto di fusione). ))
 
-((Gli amministratori delle societa' partecipanti alla fusione devono redigere la situazione patrimoniale delle societa' stesse, riferita ad una data non anteriore di oltre quattro mesi dal giorno in cui il progetto di fusione e' depositato nella sede della societa'.
+(( L'organo amministrativo delle societa' partecipanti alla fusione redige un progetto di fusione, dal quale devono in ogni caso risultare:
 
-La situazione patrimoniale e' redatta con l'osservanza delle norme sul bilancio di esercizio.
+1) il tipo, la denominazione o ragione sociale, la sede delle societa' partecipanti alla fusione;
 
-La situazione patrimoniale puo' essere sostituita dal bilancio dell'ultimo esercizio, se questo e' stato chiuso non oltre sei mesi prima del giorno del deposito indicato nel primo comma.))
+2) l'atto costitutivo della nuova societa' risultante dalla fusione o di quella incorporante, con le eventuali modificazioni derivanti dalla fusione;
+
+3) il rapporto di cambio delle azioni o quote, nonche' l'eventuale conguaglio in danaro;
+
+4) le modalita' di assegnazione delle azioni o delle quote della societa' che risulta dalla fusione o di quella incorporante;
+
+5) la data dalla quale tali azioni o quote partecipano agli utili;
+
+6) la data a decorrere dalla quale le operazioni delle societa' partecipanti alla fusione sono imputate al bilancio della societa' che risulta dalla fusione o di quella incorporante;
+
+7) il trattamento eventualmente riservato a particolari categorie di soci e ai possessori di titoli diversi dalle azioni;
+
+8) i vantaggi particolari eventualmente proposti a favore dei soggetti cui compete l'amministrazione delle societa' partecipanti alla fusione.
+
+Il conguaglio in danaro indicato nel numero 3) del comma precedente non puo' essere superiore al dieci per cento del valore nominale delle azioni o delle quote assegnate.
+
+Il progetto di fusione e' depositato per l'iscrizione nel registro delle imprese del luogo ove hanno sede le societa' partecipanti alla fusione.
+
+Tra l'iscrizione del progetto e la data fissata per la decisione in ordine alla fusione devono intercorrere almeno trenta giorni, salvo che i soci rinuncino al termine con consenso unanime.))

@@ -1,27 +1,15 @@
 Art. 2501-bis.
 
-(Progetto di fusione).
+(( (Fusione a seguito di acquisizione con indebitamento).))
 
-Gli amministratori delle societa' partecipanti alla fusione redigono un progetto di fusione, dal quale devono in ogni caso risultare:
+((Nel caso di fusione tra societa', una delle quali abbia contratto debiti per acquisire il controllo dell'altra, quando per effetto della fusione il patrimonio di quest'ultima viene a costituire garanzia generica o fonte di rimborso di detti debiti, si applica la disciplina del presente articolo.
 
-1) il tipo, la denominazione o ragione sociale, la sede delle societa' partecipanti alla fusione;
+Il progetto di fusione di cui all'articolo 2501-ter deve indicare le risorse finanziarie previste per il soddisfacimento delle obbligazioni della societa' risultante dalla fusione.
 
-2) l'atto costitutivo della nuova societa' risultante dalla fusione o di quella incorporante, con le eventuali modificazioni derivanti dalla fusione;
+La relazione di cui all'articolo 2501-quinquies deve indicare le ragioni che giustificano l'operazione e contenere un piano economico e finanziario con indicazione della fonte delle risorse finanziarie e la descrizione degli obiettivi che si intendono raggiungere.
 
-3) il rapporto di cambio delle azioni o quote, nonche' l'eventuale conguaglio in denaro;
+La relazione degli esperti di cui all'articolo 2501-sexies, attesta la ragionevolezza delle indicazioni contenute nel progetto di fusione ai sensi del precedente secondo comma.
 
-4) le modalita' di assegnazione delle azioni o delle quote della societa' che risulta dalla fusione o di quella incorporante;
+Al progetto deve essere allegata relazione della societa' di revisione incaricata della revisione contabile obbligatoria della societa' obiettivo o della societa' acquirente.
 
-5) la data dalla quale tali azioni o quote partecipano agli utili;
-
-6) la data a decorrere dalla quale le operazioni delle societa' partecipanti alla fusione sono imputate al bilancio della societa' che risulta dalla fusione o di quella incorporante;
-
-7) il trattamento eventualmente riservato a particolari categorie di soci e ai possessori di titoli diversi dalle azioni;
-
-8) i vantaggi particolari eventualmente proposti a favore degli amministratori delle societa' partecipanti alla fusione.
-
-Il conguaglio in denaro indicato nel numero 3) del comma precedente non puo' essere superiore al dieci per cento del valore nominale delle azioni o delle quote assegnate.
-
-Il progetto di fusione e' depositato per l'iscrizione nel registro delle imprese del luogo ove hanno sede le societa' partecipanti alla fusione.
-
-((Se alla fusione partecipano societa' regolate dai capi V, VI e VII, tra la data fissata per la delibera di fusione e l'iscrizione del progetto deve intercorrere almeno un mese)).
+Alle fusioni di cui al primo comma non si applicano le disposizioni degli articoli 2505 e 2505-bis.))

@@ -2,13 +2,11 @@ Art. 2359-quater
 
 (( (Casi speciali di acquisto o di possesso di azioni o quote della societa' controllante). ))
 
-((Le limitazioni dell'art. 2359- bis non si applicano quando l'acquisto avvenga ai sensi dei numeri 2, 3 e 4 del primo comma dell'art. 2357-bis.
+((Le limitazioni dell'articolo 2359-bis non si applicano quando l'acquisto avvenga ai sensi dei numeri 2, 3 e 4 del primo comma dell'articolo 2357-bis.
 
-Le azioni o quote cosi' acquistate, che superino il limite stabilito dal terzo comma dell'art. 2359-bis, devono tuttavia essere alienate, secondo modalita' da determinarsi dall'assemblea entro tre anni dall'acquisto. Si applica il secondo comma dell'art. 2359-ter.
+Le azioni o quote cosi' acquistate, che superino il limite stabilito dal terzo comma dell'articolo 2359-bis, devono tuttavia essere alienate, secondo modalita' da determinarsi dall'assemblea, entro tre anni dall'acquisto. Si applica il secondo comma dell'articolo 2359-ter.
 
-Se il limite indicato dal terzo comma dell'art. 2359-bis e' superato per effetto di circostanze sopravvenute, la societa' controllante, entro tre anni dal momento in cui si e' verificata la circostanza che ha determinato il superamento del limite, deve procedere all'annullamento delle azioni o quote in misura proporzionale a quelle possedute da ciascuna societa', con conseguente riduzione del capitale e con rimborso alle societa' controllate secondo i criteri indicati dall'art. 2437. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'art. 2446, secondo comma.))
-
-((97))
+Se il limite indicato dal terzo comma dell'articolo 2359-bis e' superato per effetto di circostanze sopravvenute, la societa' controllante, entro tre anni dal momento in cui si e' verificata la circostanza che ha determinato il superamento del limite, deve procedere all'annullamento delle azioni o quote in misura proporzionale a quelle possedute da ciascuna societa', con conseguente riduzione del capitale e con rimborso alle societa' controllate secondo i criteri indicati dagli articoli 2437-ter e 2437-quater. Qualora l'assemblea non provveda, gli amministratori e i sindaci devono chiedere che la riduzione sia disposta dal tribunale secondo il procedimento previsto dall'articolo 2446, secondo comma.))
 
 -----------------
 
