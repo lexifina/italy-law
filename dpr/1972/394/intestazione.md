@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+08 aprile 1972
+
+394
+
+Esecuzione del protocollo aggiuntivo all'accordo tra l'Italia e l'Austria relativo ai nominativi geografici di origine e alle denominazioni di alcuni prodotti del 1 febbraio 1952, concluso a Vienna il 17 dicembre 1969.
