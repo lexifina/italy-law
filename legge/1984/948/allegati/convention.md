@@ -1,0 +1,5 @@
+CONVENTION-CADRE EUROPEENNE
+
+sur la cooperation transfrontaliere des collectivites ou autorites territoriales
+
+Parte di provvedimento in formato grafico
