@@ -1,0 +1,11 @@
+TABELLA I
+
+TABELLA ORGANICA DELL'ISTITUTO TECNICO PER GEOMETRI DI FERMO
+
+Parte di provvedimento in formato grafico
+
+TABELLA II
+
+TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI FERMO
+
+Parte di provvedimento in formato grafico
