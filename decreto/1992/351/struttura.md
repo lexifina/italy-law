@@ -1,0 +1,3 @@
+- Capo I PESTE SUINA AFRICANA (Art. 1.)
+
+- Capo II PESTE SUINA CLASSICA (Art. 4.)
