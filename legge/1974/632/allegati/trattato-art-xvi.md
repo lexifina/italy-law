@@ -1,0 +1,3 @@
+Articolo XVI
+
+Qualora la Parte richiesta riceva due o piu' domande di estradizione della stessa persona per lo stesso reato o per reati diversi, decidera' a quale degli Stati richiedenti concedere l'estradizione, tenendo conto delle circostanze ed in particolare della possibilita' di una successiva estradizione tra gli Stati richiedenti, della gravita' di ciascun reato, del luogo in cui il reato e' stato commesso, della cittadinanza della persona richiesta, delle date alle quali le richieste sono state ricevute e delle norme dei trattati di estradizione tra la Parte richiesta e l'altro Stato o gli altri Stati richiedenti.
