@@ -1,0 +1,3 @@
+Parte di provvedimento in formato grafico
+
+(Allegato pubblicato nella Raccolta Ufficiale - anno 1911 - Volume Terzo)
