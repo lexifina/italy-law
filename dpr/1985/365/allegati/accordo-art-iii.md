@@ -1,0 +1,3 @@
+Articolo III
+
+Le Parti contraenti si scambiano, conformemente alle loro possibilita' e nel rispetto delle loro norme costituzionali e delle rispettive legislazioni interne, borse di studio a favore di studenti o studiosi dell'altra Parte per scopi di formazione, di perfezionamento o di ricerca. Esse incoraggiano inoltre lo scambio di visite di studiosi o di docenti per tenere conferenze, eseguire lavori di ricerca, partecipare a congressi, conferenze e seminari, per scambiarsi informazioni e comunicarsi le loro esperienze. Queste misure dovranno essere estese, per quanto possibile, agli insegnanti o studenti dei centri di formazione artistica o professionale.
