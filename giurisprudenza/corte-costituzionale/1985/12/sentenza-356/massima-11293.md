@@ -1,0 +1,21 @@
+# Massima n. 11293
+
+- Pronuncia: Corte costituzionale, sentenza 356/1985 (ECLI:IT:COST:1985:356)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1985:356
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  356/85  A.  GIUDIZIO DI LEGITTIMITA' COSTITUZIONALE IN VIA PRINCIPALE   - PROVINCE  AUTONOME  IN  GENERE   - AGRICOLTURA   - INTERVENTI  FINANZIARI DI SOSTEGNO - STANZIAMENTI DESTINATI  ALLE DETTE  PROVINCE - ASSUNTA VIOLAZIONE DELL'ART.  78 DELLO  STATUTO SPECIALE  DELLA  REGIONE  - CRITERI PER LA  DETERMINAZIONE  DELLA QUOTA - MATERIA RIMESSA ALL'INTESA FRA STATO E PROVINCE NEI  MODI E  LIMITI STABILITI DALLA FONTE STATUTARIA - NON FONDATEZZA DELLA QUESTIONE. - l 4 giugno 1984, n. 194, art. 16, comma primo. - stta dpr 31 agosto 1972, n. 670, art. 78.
+
+## Testo
+
+Le  previsioni  dell'art.   78  dello  Statuto  speciale  per  il Trentino-Alto  Adige  concernono le modalita'  procedurali  ed  i criteri  per la determinazione di una quota del gettito erariale, relativo al territorio regionale,  che,  limitatamente ai tributi in  detta  norma indicati (l'imposta generale sull'entrata  e  le imposte  sugli affari),  e' riservata a ciascuna  delle  Province autonome.  Si  tratta  di una quota fissata non  direttamente  in Statuto,  come  accade a proposito degli altri tributi richiamati nello stesso art. 78, ma "annualmente d'accordo fra il Governo ed il Presidente della Giunta provinciale",  tenendo conto - in base ai  parametri  della popolazione e del territorio  - anche  delle spese  per  gli interventi generali disposti  dallo  Stato  nella restante  parte del territorio nazionale negli stessi settori  di competenze  delle  dette  province,  le  quali,  quindi,  possono pretendere  l'osservanza dei principi stabiliti nell'articolo  in discussione  non  di fronte a singole leggi di  stanziamento,  ma solo  in  rapporto  all'arco di tempo (un anno)  ed  al  relativo flusso  delle  spese  disposte  per  gli  interventi  di   ordine generale, cui deve necessariamente riferirsi l'accordo prescritto per definire l'ammontare del gettito ad ognuna di esse spettante. Cio'  vale  anche  quando la spesa stanziata  dallo  Stato  possa annoverarsi  fra quelle di cui andrebbe tenuto conto,  sempre  ai fini  dell'invocato  disposto statutario,  in sede  d'intesa.  Di conseguenza,  il  primo comma dell'art.  16 della legge 4  giugno 1984, n. 194 (concernente interventi a sostegno dell'agricoltura) - il  quale stabilisce che "in relazione al piano finanziario  di cui  all'art.  17  della legge 27 dicembre  1977,  n.  984,  e  a definizione  dei  rapporti finanziari con le  Regioni  a  Statuto speciale  e  le Province autonome di Trento e Bolzano,  a  valere sullo    stanziamento   di   lire   1.520   miliardi    destinato all'attuazione  nell'anno  1984 degli interventi  previsti  nella citata legge n.  984/77, alle Regioni e alle Province autonome e' assegnata  la  complessiva  somma di lire  289.872  miliardi"  -, poiche'  non  riguarda  affatto  la  determinazione  della  quota annuale e complessiva del tributo riservata all'ente autonomo,  e per  cio'  stesso non prescrive nemmeno che  a  quest'ultimo  sia attribuita,  nel  riparto  di ogni singolo stanziamento  disposto dallo Stato, la quota risultante dall'automatica applicazione dei parametri   suindicati,   demandando  implicitamente   il   tutto all'accordo,  non  risulta in alcun modo lesivo della garanzia di cui  fruisce ciascuna delle province sunnominate la  quale  opera esclusivamente   nei   modi  e  limiti  stabiliti   dalla   fonte statutaria.   (Non   fondatezza  - in  riferimento  all'art.   78 succitato - della questione di legittimita' costituzionale  della disposizione  di cui al primo comma della legge n.  194 del 1984, sollevata  sotto  il profilo che con essa sarebbe stato  leso  il parametro  statutario  richiamato  per  effetto  della   puntuale previsione della spesa, che vi figura).  - S. n. 180/1976.
+
+## Norme
+
+- legge, 04/06/1984 n. 194, art. 16, comma 1
+
+## Parametri
+
+- statuto regione Trentino Alto Adige, art. 18
