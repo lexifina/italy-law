@@ -1,0 +1,17 @@
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 28
+
+DICEMBRE 1998, N. 451.
+
+All'articolo 1:
+
+al comma 1, le parole: "rideterminate con riferimento" sono sostituite dalle seguenti: "ridotte mediante allineamento";
+
+al comma 2, le parole: "somme residue per il prepensionamento di cui al" sono sostituite dalle seguenti: "disponibilita' in conto residui dell'unita' previsionale di base 4.1.2.5 ''Pensionamenti anticipati'', capitolo 3662, dello stato di previsione del Ministero del lavoro e della previdenza sociale per l'anno 1998, intendendosi corrispondentemente ridotta l'autorizzazione di spesa per il prepensionamento di cui all'articolo 4, comma 7, del"; le parole: "con decreto del Ministero del tesoro, del bilancio e della programmazione economica" sono sostituite dalle seguenti: "con decreto del Ministro del tesoro, del bilancio e della programmazione economica"; e le parole: "rinvenienti all'INPS" sono sostituite dalle seguenti: "rivenienti all'INPS".
+
+All'articolo 2:
+
+al comma 1, dopo le parole: "n. 556," sono inserite le seguenti: "recante disposizioni fiscali per le imprese di autotrasporto di cose per conto di terzi,";
+
+al comma 2, primo periodo, le parole: "Al fine di ottimizzare le misure di sicurezza e contenere il rilevante fenomeno infortunistico," sono soppresse; e la parola: "rideterminati" e' sostituita dalla seguente: "ridotti";
+
+al comma 3, primo periodo, le parole: "Per l'anno 1999 e' assegnato al comitato centrale per l'albo degli autotrasportatori l'importo di lire 140 miliardi" sono sostituite dalle seguenti: "Per l'anno 1998 e' assegnato al comitato centrale per l'albo degli autotrasportatori l'importo di lire 140 miliardi, da utilizzare entro il 31 dicembre 1999,"; dopo il primo periodo e' inserito il seguente: "Entro il 31 dicembre 1999 il Ministro dei trasporti e della navigazione presenta al Parlamento una relazione sull'attuazione del presente comma"; al secondo periodo, le parole da: "entro quindici giorni" fino a: "presente articolo" sono sostituite dalle seguenti: "entro trenta giorni dalla data di pubblicazione della legge di conversione del presente decreto, emana con apposita direttiva norme per dare attuazione ad un sistema di riduzione compensata di pedaggi autostradali e per interventi di protezione ambientale, al fine di consentire l'utilizzo delle risorse di cui al presente articolo".
