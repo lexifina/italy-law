@@ -1,0 +1,3 @@
+Scambio di note tra l'Italia e la Norvegia per le esenzioni fiscali a favore di istituzioni culturali
+
+Parte di provvedimento in formato grafico
