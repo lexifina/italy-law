@@ -1,0 +1,7 @@
+Abkommen zwischen der Bundesrepublik Deutschland und der Italienischen Republik ueber Sozialversicherung
+
+Parte di provvedimento in formato grafico
+
+Schlussprotokol
+
+Parte di provvedimento in formato grafico
