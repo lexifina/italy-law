@@ -1,0 +1,5 @@
+ALLEGATO N. 4
+
+NUOVA TABELLA DELLE MALATTIE PROFESSIONALI NELL'INDUSTRIA
+
+Parte di provvedimento in formato grafico

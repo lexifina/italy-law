@@ -1,0 +1,5 @@
+ALLEGATO N. 5
+
+NUOVA TABELLA DELLE MALATTIE PROFESSIONALI DELL'AGRICOLTURA
+
+Parte di provvedimento in formato grafico
