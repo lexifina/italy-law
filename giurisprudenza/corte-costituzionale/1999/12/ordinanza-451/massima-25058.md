@@ -1,0 +1,26 @@
+# Massima n. 25058
+
+- Pronuncia: Corte costituzionale, ordinanza 451/1999 (ECLI:IT:COST:1999:451)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:451
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   451/99.   PROCESSO  PENALE - REMISSIONE  DELLA  QUERELA  - CONDANNA  DEL  REMITTENTE AL PAGAMENTO DELLE SPESE PROCESSUALI  - INTRASMISSIBILITA',  AGLI EREDI DEL REMITTENTE, DELL'OBBLIGAZIONE AL PAGAMENTO DI TALI SPESE - MANCATA PREVISIONE - PRETESA LESIONE DEL    PRINCIPIO   DI    EGUAGLIANZA,    IN   RIFERIMENTO    ALLA INTRASMISSIBILITA'  AGLI  EREDI DEL CONDANNATO,  DELL'OBBLIGO  DI RIMBORSO  DELLE SPESE PROCESSUALI, STABILITA DALLA SENTENZA DELLA CORTE  COSTITUZIONALE  N.  98/1998 - INQUADRAMENTO  "CIVILISTICO" DELL'ISTITUTO  DELLA REMISSIONE DELLA QUERELA -  INCOMPATIBILITA' DELLE SITUAZIONI MESSE A RAFFRONTO.
+
+## Testo
+
+E'  manifestamente infondata, con riferimento all'art.  3  Cost., la  questione di legittimita' costituzionale dell'art.  340  cod. proc.    pen.,   nella   parte  in   cui  non  prevede   la   non trasmissibilita'  dell'obbligazione per il pagamento delle  spese del  procedimento  agli  eredi   del  remittente  della  querela. Premesso,  infatti, che l'attrazione dell'obbligo di rifondere le spese  di giustizia, in caso di remissione di querela, al 'genus' delle  obbligazioni  trasmissibili agli eredi secondo i  principi civilistici  risulta implicitamente dalla sent.  n.  211 del 1995 ed  e'  acquisita dalla giurisprudenza costituzionale  fin  dalla sent.   n.   151  del 1975, che, proprio  sul  presupposto  della trasmissibilita'  'jure successionis' di tale obbligazione, senza possibilita'  alcuna per gli eredi del querelante di sottrarvisi, dichiaro'  l'illegittimita'  costituzionale dell'art.   156  cod. pen.,  nella parte in cui non attribuiva l'esercizio del  diritto di  remissione della querela agli eredi della persona offesa  dal reato;   e  che  l'inquadramento  civilistico  dell'istituto  non risulta  smentito  dalla  sent.   n.  98 del  1998,  dove  si  e' rilevato  che  il  debito di rimborso  delle  spese  processuali, gravante  sul  condannato,  a seguito  della  introduzione  della remissione  del  debito  (art.  56 l.  n.  354 del  1975)  e  del rilievo   che  in  essa  assumono   l'esistenza  di   indici   di ravvedimento  del  condannato  e   l'esigenza  di  agevolarne  il reinserimento  sociale,  e' divenuto assimilabile  alle  sanzioni economiche  accessorie  alla pena - ed e' quindi partecipe  della finalita'  di emenda e del carattere di personalita' propri della pena,  in forza dell'art.  27 Cost.  - stante la diversita' delle situazioni  poste a raffronto, nessuna illegittima disparita'  di trattamento e', conseguentemente, configurabile tra il condannato e  il  remittente  la  querela,  in  riferimento  all'obbligo  di sostenere   le   spese  del   processo,  ne'  alcuna   disarmonia censurabile  alla luce del parametro evocato e' ravvisabile in un sistema  che,  riconosciuto il carattere  strettamente  personale delle  sanzioni  economiche  accessorie della pena,  lo  nega  ad obblighi  che  a  tali  sanzioni non  sono  neppure  lontanamente riconducibili,  quale quello che il vecchio testo dell'art.  340, comma  4, cod.  proc.  pen.  (ora modificato dall'art.  13 l.  25 giugno  1999, n.  205) poneva a carico del remittente la  querela in assenza di diversa pattuizione tra remittente e querelato.
+
+
+
+- S. nn. 151/1975, 211/1995 e 98/1998.
+
+## Norme
+
+- legge, 25/06/1999 n. 205, art. 13
+- codice di procedura penale, art. 340, comma 4
+
+## Parametri
+
+- Costituzione, art. 3
