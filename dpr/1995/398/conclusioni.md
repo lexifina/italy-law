@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 27 luglio 1995
+
+SCALFARO DINI, Presidente del Consiglio dei Ministri FRATTINI, Ministro per la funzione pubblica e gli affari regionali GUZZANTI, Ministro della sanita' CLO', Ministro dell'industria, del commercio e dell'artigianato e del commercio con l'estero Visto, il Guardasigilli: MANCUSO Registrato alla Corte dei conti il 12 settembre 1995 Atti di Governo, registro n. 97, foglio n. 3 AVVERTENZA: Il testo delle note qui pubblicato e' stato redatto ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985 n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.
