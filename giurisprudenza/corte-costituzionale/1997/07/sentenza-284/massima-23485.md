@@ -1,0 +1,18 @@
+# Massima n. 23485
+
+- Pronuncia: Corte costituzionale, sentenza 284/1997 (ECLI:IT:COST:1997:284)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:284
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    284/97.    PREVIDENZA  E   ASSISTENZA  -   PENSIONE   DI RIVERSIBILITA'  - VEDOVA SEPARATA PER COLPA CON SENTENZA  PASSATA IN  GIUDICATO - ESCLUSIONE - VIOLAZIONE DEGLI ARTT.  3 E 38 COST. -  ILLEGITTIMITA' COSTITUZIONALE 'IN PARTE QUA' -  ILLEGITTIMITA' COSTITUZIONALE PARZIALE CONSEGUENZIALE.
+
+## Testo
+
+E'  costituzionalmente illegittimo, per violazione degli artt.  3 e  38  Cost., l'art.  81, quarto comma, del d.P.R.   29  dicembre 1973,  n.   1092  (Approvazione del testo unico delle  norme  sul trattamento  di quiescenza dei dipendenti civili e militari dello Stato),  <<nella parte in cui esclude il diritto alla pensione di riversibilita'  in favore della vedova, alla quale la separazione sia stata addebitata con sentenza passata in giudicato, allorche' a  questa spettasse il diritto agli alimenti da parte del coniuge poi  deceduto>>,  in  quanto - premesso che <<il  trattamento  di riversibilita'  ha  la funzione di assicurare la continuita'  dei mezzi  di  sostentamento  che  il  titolare  della  pensione  era obbligato  a fornire al coniuge>> - <<il relativo diritto  spetta al  coniuge superstite, per colpa del quale e' stata  pronunziata (o  al  quale  e' stata addebitata) la separazione,  quando  egli avesse  diritto  agli  alimenti a carico del  coniuge  deceduto>> (cfr.  S.  n.  450/1989). Peraltro,  tale presupposto, che e' indice dello stato di bisogno del  coniuge  titolare  dell'assegno,  pone  la  normativa  sulla separazione in sintonia con quella sul divorzio e segna il limite della   pretesa  economica  dell'avente   diritto  (v.   S.    n. 777/1988). Conseguentemente,    deve     altresi'      essere     dichiarata costituzionalmente  illegittima,  ai  sensi dell'art.   27  della legge  11  marzo  1953, n.  87, l'ultima proposizione  del  sesto comma  del  medesimo art.  81, che estende  l'applicabilita'  del quarto  comma  anche  al marito separato per colpa  con  sentenza passata in giudicato.  -  In  un  primo tempo, la Corte, con la S.  n.   14/1980,  aveva ritenuto   l'infondatezza   della   questione   di   legittimita' costituzionale dell'art.  24 della legge 30 aprile 1969, n.  153, che sanciva il divieto di fruire della pensione di riversibilita' per  il  coniuge  separato  per colpa  con  sentenza  passata  in giudicato.  Tale divieto trovava giustificazione - secondo quanto si  legge nella motivazione della predetta sentenza - soprattutto nella disaffezione ed estraneita' del coniuge superstite rispetto al  coniuge  defunto, al quale non era stata addebitata la  colpa della separazione.  -  Un  diverso  orientamento si afferma, a partire dalla  S.   n. 286/1987,  nella quale la Corte e' pervenuta alla conclusione che il  divieto  apparisse  ormai   ingiustificato,  ed  ha  ritenuto illegittime  "due norme relative a lavoratori del settore privato che  impedivano  al coniuge separato per colpa di  conseguire  la pensione di riversibilita'". Tale  nuovo  orientamento  e'  stato  ribadito  con  le  S.   nn. 1009/1988 e 450/1989 e, piu' di recente, con la S.  n.  346/1993.                                                  red.: G. Leo
+
+## Norme
+
+- decreto del Presidente della Repubblica, 29/12/1973 n. 1092, art. 81, comma 4
+- decreto del Presidente della Repubblica, 29/12/1973 n. 1092, art. 81, comma 6 ult. prop.
