@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la domanda del presidente dell'Associazione nazionale veterani e reduci garibaldini "Giuseppe Garibaldi", con sede in Roma, per il riconoscimento della personalita' giuridica dell'Associazione;
+
+Visto l'atto costitutivo dell'Ente per notar avv. Giovanni Marini di Roma, n. 9821-3637 di repertorio, 31 agosto 1944;
+
+Visto lo statuto dell'Associazione;
+
+Visto l'art. 12 del Codice civile;
+
+Udito il parere del Consiglio di Stato;
+
+Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:
