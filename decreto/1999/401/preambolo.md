@@ -1,0 +1,29 @@
+IL MINISTRO
+
+PER LE POLITICHE AGRICOLE
+
+Visto l'articolo 1, commi 3 e 4, del decreto legislativo 30 aprile 1998, n. 173, recante disposizioni in materia di contenimento dei costi di produzione e per il rafforzamento strutturale delle imprese agricole;
+
+Visti gli articoli 18 e 29 del decreto legislativo 31 marzo 1998, n. 112, recante il conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della legge 15 marzo 1997, n. 59;
+
+Visto il regolamento (CE) del Consiglio del 20 maggio 1997, n. 950;
+
+Visti gli orientamenti comunitari per gli aiuti di Stato relativi agli investimenti nel settore della trasformazione e della
+
+commercializzazione dei prodotti agricoli 96/C/29/03, pubblicati
+
+nella Gazzetta Ufficiale delle Comunita' europee C/29 del 2 febbraio 1996;
+
+Tenuto conto degli obiettivi prefissati dalla Conferenza di Kyoto del 1 -11 dicembre 1997, in materia di riduzione delle emissioni gassose nocive;
+
+Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+Di concerto con il Ministro dell'industria, del commercio e dell'artigianato ed il Ministro dell'ambiente;
+
+Acquisita l'intesa della Conferenza permanente per i rapporti tra lo Stato le regioni e le province autonome;
+
+Visto il parere del Consiglio di Stato n. 74/99, espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 26 aprile 1999;
+
+Vista la comunicazione alla Presidenza del Consiglio dei Ministri a norma dell'articolo 17 della legge 23 agosto 1988, n. 400, effettuata con nota del 12 maggio 1999, n. 6553;
+
+Adotta il seguente regolamento:
