@@ -1,0 +1,171 @@
+ALLEGATO 1
+
+DISCIPLINE D'ESAME
+
+A) La circolazione stradale.
+
+- Veicoli eccezionali e trasporti in condizione di eccezionalita'.
+
+- Nozione di veicolo.
+
+- Classificazione e caratteristiche dei veicoli.
+
+- Masse e sagome limiti.
+
+- Traino di veicoli.
+
+- Norme costruttive e di equipaggiamento.
+
+- Accertamenti tecnici per la circolazione.
+
+- Destinazione ed uso dei veicoli.
+
+- Documenti di circolazione ed immatricolazione.
+
+- Estratto dei documenti di circolazione e di guida.
+
+- Circolazione su strada delle macchine agricole e delle macchine operatrici.
+
+- Guida dei veicoli.
+
+- Formalita' necessarie per la circolazione degli autoveicoli, dei motoveicoli e dei rimorchi.
+
+- Formalita' necessarie per il trasferimento di proprieta' degli autoveicoli, dei motoveicoli e dei rimorchi e per il trasferimento di residenza dell'intestatario.
+
+B) Il trasporto di merci.
+
+- Albo nazionale degli autotrasportatori di cose per conto terzi.
+
+- Comitati dell'albo e loro attribuzioni.
+
+- Iscrizioni nell'albo, requisiti e condizioni.
+
+- Iscrizioni delle imprese estere.
+
+- Fusioni e trasformazioni.
+
+- Abilitazioni per trasporti speciali.
+
+- Variazioni dell'albo.
+
+- Sospensioni dall'albo.
+
+- Cancellazione dall'albo.
+
+- Sanzioni disciplinari.
+
+- Effetti delle condanne penali.
+
+- Reiscrizioni, decisioni, competenze, ricorsi.
+
+- Omissione di comunicazioni all'albo.
+
+- Autorizzazioni.
+
+- Tariffe a forcella per i trasporti di merci.
+
+- Documentazione obbligatoria per il trasporto di cose per conto di terzi.
+
+- Trasporto merci in conto proprio.
+
+- Licenze.
+
+- Commissione per le licenze, esame e parere.
+
+- Elencazione delle cose trasportabili.
+
+- Revoca delle licenze.
+
+- Ricorsi.
+
+- Servizi di piazza e di noleggio.
+
+- Esenzioni dal disciplinamento del trasporto merci.
+
+- Trasporti internazionali.
+
+C) Navigazione.
+
+- Accenni sulle norme che regolano la navigazione in generale.
+
+- Acque marittime entro ed oltre sei miglia dalla costa.
+
+- Navi e galleggianti.
+
+- Unita' da diporto.
+
+- Costruzione delle imbarcazioni da diporto.
+
+- Accertamenti e stazzatura delle imbarcazioni e delle navi.
+
+- Iscrizione ed abilitazione alla navigazione delle imbarcazioni e delle navi da diporto.
+
+- Rilascio, rinnovo ed aggiornamento delle licenze.
+
+- Visite periodiche ed occasionali delle imbarcazioni e delle navi.
+
+- Collaudo e rilascio certificato d'uso dei motori.
+
+- Competenze del R.I.Na.
+
+- Iscrizione nei registri di imbarcazioni e navi (per dichiarazione di costruzione, prima iscrizione, trasferimento).
+
+Cancellazione dai registri.
+
+- Trascrizione nei registri di atti relativi alla proprieta' e di altri atti e documenti per i quali occorre la trascrizione; iscrizione o cancellazione di ipoteche; rilascio estratto matricolare o copia di documenti.
+
+- Autorizzazione per la navigazione temporanea di prova e licenza provvisoria di navigazione.
+
+- Noleggio e locazione.
+
+- Importazione ed esportazione delle imbarcazioni, delle navi e dei motori.
+
+- Regime fiscale ed assicurativo.
+
+- Esami per il conseguimento dell'abilitazione al comando ed alla condotta di imbarcazioni.
+
+- Esami per il conseguimento dell'abilitazione al comando di navi.
+
+- Esami per il conseguimento dell'abilitazione alla condotta di motori.
+
+- Validita' e revisione delle patenti nautiche.
+
+- Norme per l'esercizio dello sci nautico.
+
+D) Il P.R.A.
+
+- Legge del P.R.A.
+
+- Legge istitutiva I.E.T.
+
+- Compilazione delle note.
+
+- Iscrizioni.
+
+- Trascrizioni.
+
+- Annotazioni.
+
+- Cancellazioni.
+
+E) Il regime tributario.
+
+- Le imposte dirette ed indirette in generale.
+
+- L'IVA: classificazione delle operazioni, momento impositivo.
+
+- Fatturazione delle operazioni.
+
+- Fatturazione delle prestazioni professionali.
+
+- Ricevuta fiscale: forma e contenuti.
+
+- Il principio di territorialita' dell'imposta: operazioni internazionali e intercomunitarie.
+
+- Registri contabilita' IVA.
+
+- Dichiarazione annuale IVA.
+
+- Regimi speciali per la determinazione del reddito d'impresa e dell'IVA.
+
+- Imposte indirette relative alla circolazione dei veicoli.
