@@ -1,0 +1,15 @@
+ALLEGATO N. 1
+
+Elenco dei terreni intestati alla ditta Campani Dina di Luigi, maritata Inghirami, in comune di Volterra (provincia di Pisa), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e decreto Presidenziale 7 febbraio 1951, n. 66.
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 18 - 24 maggio 1967, n. 63 (in G.U. 1a s.s. 27/05/1967, n. 132), ha dichiarato "la illegittimita' costituzionale dei decreti del Presidente della Repubblica 25 luglio 1952, n. 1185, e 28 dicembre 1952, n. 4344, in quanto per la formazione del piano di espropriazione s'e' tenuto conto dei dati del nuovo catasto entrato in vigore, nella zona,
+
+successivamente al 15 novembre 1949."
