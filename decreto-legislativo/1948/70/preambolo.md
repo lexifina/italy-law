@@ -1,0 +1,9 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 4 del decreto-legge luogotenenziale 25 giugno 1944, n. 151, con le modificazioni da esso apportato dall'art. 3, comma primo, del decreto legislativo luogotenenziale 16 marzo 1946, n. 98;
+
+Viste le disposizioni transitorie 1 e XV della Costituzione, Visto l'art. 87, comma quinto, della Costituzione;
+
+Sulla proposta del Ministro Segretario di Stato per il tesoro, di concerto con il Presidente del Consiglio dei Ministri e con i Ministri per la grazia e giustizia, per le finanze, per l'industria e il commercio, per i lavori pubblici e per il lavoro e la previdenza sociale;
+
+PROMULGA il seguente decreto legislativo, approvato dal Consiglio dei Ministri con deliberazione del 6 dicembre 1947:
