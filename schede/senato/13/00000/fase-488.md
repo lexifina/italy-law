@@ -1,0 +1,14 @@
+# Disegno di legge C.443 (13a legislatura)
+
+- Fase: C.443
+- Id DDL: 454
+- Id fase: 488
+- Natura: costituzionale
+- Data di presentazione: 1996-05-09
+- Titolo: Modifiche all' articolo 104 della Costituzione in materia di composizione del Consiglio superiore della magistratura
+- Stato: concluso l'esame da parte della commissione
+- Data dello stato: 1997-11-04
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;443
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/488
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).
