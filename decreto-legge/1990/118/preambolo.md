@@ -1,0 +1,11 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di differire di due anni il disposto di cui all'articolo 1 del decreto-legge 3 maggio 1988, n. 139, convertito dalla legge 20 giugno 1988, n. 227, concernente l'elevazione a 58 anni del limite di eta' per il collocamento in congedo dei sottufficiali e dei militari di truppa del Corpo degli agenti di custodia;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 18 maggio 1990;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro di grazia e giustizia, di concerto con il Ministro del tesoro;
+
+E M A N A il seguente decreto-legge:
