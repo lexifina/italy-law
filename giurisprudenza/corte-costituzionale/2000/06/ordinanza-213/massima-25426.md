@@ -1,0 +1,22 @@
+# Massima n. 25426
+
+- Pronuncia: Corte costituzionale, ordinanza 213/2000 (ECLI:IT:COST:2000:213)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2000:213
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Sanita'  pubblica   -  Attività   trasfusionali relative  al  sangue  umano  e  produzione  di  plasmaderivati  - Violazione di legge - Trattamento sanzionatorio - Minimo edittale e  pena  accessoria  della   interdizione  dall'esercizio   della professione  sanitaria - Lamentata, irragionevole,  parificazione di  condotte  di diverso disvalore, con lesione del principio  di proporzionalità  e  della  funzione  rieducativa  della  pena  - Erroneita'  del presupposto interpretativo assunto dal rimettente -  Esercizio  della  discrezionalità legislativa  non  eccedente l'ambito consentito - Manifesta infondatezza della questione.
+
+## Testo
+
+Manifesta   infondatezza   della    questione   di   legittimita' costituzionale  dell'art.  17 della legge 4 maggio 1990, n.  107, censurato,  in riferimento agli artt.  3, comma primo e 27, comma terzo,   della   Costituzione,  nella   parte  in   cui   prevede indistintamente  la pena della reclusione da uno a tre anni e  la multa  da lire 400.000 a lire 20.000.000, nonche'  l'interdizione dall'esercizio  della  professione sanitaria per un  periodo  non inferiore  ad  anni  due,  per condotte  attinenti  le  attivita' trasfusionali  relative  al  sangue  umano  e  la  produzione  di plasmoderivati assai differenziate, il cui disvalore sociale puo' anche essere manifestamente disomonogeneo.  Va infatti, osservato che:   a) la disposizione censurata, facendo espresso riferimento a comportamenti commessi "in violazione delle norme di legge" non puo'  essere  letta  (come gia' affermato da questa  Corte  nella ordinanza n.  311 del 1998) come norma penale in bianco, volta ad autorizzare integrazioni di se' medesima con norme poste da fonti secondarie,  quali  i decreti ministeriali emanati in  attuazione della  legge  n.  107 del 1990, sicche', sotto il  profilo  della previsione  dell'applicabilita'  della medesima sanzione  penale, anche  a  comportamenti  costituenti   violazione  dei   suddetti regolamenti  attuativi, e' evidente l'erroneita' del  presupposto interpretativo  dal  quale  procede  il rimettente;   b)  non  si rinviene  alcuna violazione dell'art.  3 della Costituzione anche se  la  sfera  di  appliczione   dell'art.   17  impugnato  viene correttamente  circoscritta  alle sole violazioni delle norme  di legge  in  quanto,  in primo luogo,  considerata  la  particolare importanza  del bene protetto, non puo' dirsi che il legislatore, nel prevedere un trattamento sanzionatorio severo, abiia ecceduto i  limiti della propria discrezionalita', in secondo luogo - come questa  Corte  ha piu' volte affermato - nell'ipotesi in cui  una pluralita'  di  condotte diverse per struttura e disvalore  siano comprese nella medesima fattispecie incriminatrice, e' il giudice che  ha  il  compito  di fare emergere  in  concreto  la  diversa gravita'  delle  varie sottospecie e di graduare su questa  base, nel  rispetto  dei minimi edittali, la pena da erogare;   c)  non puo'  dirsi  violato  neppure  l'art.   27,  comma  terzo,  della Costituzione non risultando, per le medesime ragioni ora esposte, alcuna  sproporzione  tra  l'entita' della sanzione penale  e  il disvalore dell'illecito commesso.  -  ord.   n.   311/1998  con  la quale  e'  stata  dichiarata  la manifesta  inammissibilita'  di identica questione sollevata  dal medesimo  rimettente (per difetto di motivazione sulla rilevanza) ed  e' stato escluso che la disposizione censurata potesse essere letta come norma penale in bianco.  -  ord.  nn.  145/1998, 456/1997, 220/1996 e sent.  n.   281/1991 nelle  quali  si  e'  affermato   che  nell'ipotesi  in  cui  una pluralita'  di condotte diverse per struttura e disvalore sociale siano  comprese nella medesima fattispecie incriminatrice non  si configura  alcuna  violazione  dell'art.  3 Cost.  in  quanto  la diversa   gravita'  dei  comportamenti   emerge   attraverso   la definizione  della  pena  da irrogare in  concreto,  affidata  al giudice.                                                           L.T.
+
+## Norme
+
+- legge, 04/05/1990 n. 107, art. 17
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 27, comma 3
