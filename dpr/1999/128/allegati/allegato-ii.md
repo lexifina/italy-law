@@ -1,0 +1,3 @@
+ALLEGATO II
+
+Parte di provvedimento in formato grafico
