@@ -1,0 +1,3 @@
+ALLEGATO 7/B
+
+Parte di provvedimento in formato grafico
