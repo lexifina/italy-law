@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto del Presidente della Repubblica 14 febbraio 1963, n. 1343, con il quale e' stato approvato il testo unico delle leggi in materia di debito pubblico;
+
+Vista la legge 6 agosto 1966, n. 651, recante nuove norme in materia di debito pubblico;
+
+Visti gli articoli 7 e 28 della legge 6 dicembre 1971, n. 1034;
+
+Visto l'art. 7 della tabella allegato B al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, modificato dall'art. 28 del decreto del Presidente della Repubblica 30 dicembre 1982, n. 955;
+
+Visto l'art. 31 del decreto del Presidente della Repubblica 29 settembre 1973, n. 601;
+
+Visto l'art. 34 della legge 30 marzo 1981, n. 119;
+
+Ritenuta la necessita' di aggiornare il vigente testo unico delle leggi sul debito pubblico con le disposizioni legislative concernenti il debito pubblico che, successivamente all'entrata in vigore del suddetto testo unico, hanno sostituito o integrato le norme del testo unico stesso;
+
+Udito il parere del Consiglio di Stato;
+
+Vista la deliberazione del Consiglio dei Ministri adottata nella riunione del 2 marzo 1984;
+
+Sulla proposta del Ministro del tesoro;
+
+EMANA il seguente decreto:
