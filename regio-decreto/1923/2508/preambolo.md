@@ -1,0 +1,17 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduto il Nostro decreto 6 maggio 1923, n. 1054, relativo all'ordinamento della istruzione media e dei Convitti nazionali;
+
+Veduto l'altro Nostro decreto in data 7 giugno 1923, numero 1408, che stabilisce i contributi finanziari a carico delle Provincie, dei Comuni e di altri Enti pel mantenimento dei licei scientifici e dei licei femminili;
+
+Veduti i voti formulati dall'Amministrazione provinciale di Forli' per la istituzione, a decorrere dal 1° ottobre 1923, di un Regio liceo scientifico in Rimini e dall'Amministrazione comunale di Siena per la istituzione, con la stessa decorrenza, di un Regio liceo femminile in Siena;
+
+Riconosciuta la necessita' di provvedere tempestivamente a tali istituzioni, in modo che i detti istituti possano funzionare all'inizio dell'anno scolastico 1923-24;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:
