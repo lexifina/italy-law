@@ -1,0 +1,17 @@
+PORTO DI CAPRI
+
+Passaggio dalla 4a alla 3a classe della seconda categoria.
+
+Riporto delle quote di spesa a carico della Provincia e dei Comuni.
+
+Quota
+
+di concorso
+
+Provincie: Napoli . . . . . . . . . . . . . . . . . . . . . . . 1.000 Comuni: Capri . . . . . . . . . . . . . . . . . . . . . . . . . 1.000
+
+Visto, d'ordine di Sua Maesta' il Re d'Italia e di Albania Imperatore d'Etiopia
+
+Il Ministro per I lavori pubblici.
+
+COBOLLI-GIGLI
