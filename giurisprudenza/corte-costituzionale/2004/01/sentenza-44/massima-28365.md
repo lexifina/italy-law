@@ -1,0 +1,13 @@
+# Massima n. 28365
+
+- Pronuncia: Corte costituzionale, sentenza 44/2004 (ECLI:IT:COST:2004:44)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2004:44
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Previdenza e assistenza sociale - Cittadini deceduti o invalidi a causa di ordigni bellici in tempo di pace - Concessione del trattamento pensionistico privilegiato - Condizione che gli ordigni siano stati lasciati incustoditi o abbandonati dalle forze armate “in occasione di esercitazioni combinate o isolate” - Prospettata violazione del principio di eguaglianza - Eccezione di inammissibilità della questione prospettata dall’avvocatura generale dello stato sull’assunto che la norma censurata non sia applicabile alla fattispecie concreta - Non fondatezza dell’eccezione.
+
+## Testo
+
+Nel giudizio vertente sulla questione di legittimità costituzionale dell’art. 1 della legge 31 dicembre 1991, n. 437, sollevata in riferimento all’art. 3 della Costituzione, perché, prevedendo la norma impugnata la concessione di un trattamento pensionistico privilegiato per il caso di cittadini deceduti o resi invalidi dallo scoppio di ordigni esplosivi lasciati incustoditi o abbandonati dalle Forze armate in tempo di pace «in occasione di esercitazioni combinate o isolate», essa determinerebbe una ingiustificata disparità di trattamento a sfavore dei cittadini deceduti o resi invalidi dallo scoppio di ordigni esplosivi lasciati incustoditi o abbandonati dalle Forze armate al di fuori del contesto di una esercitazione combinata o isolata, è infondata l’eccezione di inammissibilità della questione, per difetto di rilevanza, prospettata dall’Avvocatura generale dello Stato sull’assunto che la norma censurata non sia applicabile alla fattispecie concreta, posto che il giudice di primo grado, la cui sentenza è oggetto del giudizio 'a quo', avrebbe accertato il difetto di nesso causale tra l’attività operativa delle Forze armate e l’evento dannoso. Ed invero, rilevato che nel giudizio 'a quo' la predetta sentenza di primo grado risulta impugnata proprio sul punto in cui essa respinge l’istanza di concessione del trattamento pensionistico privilegiato in base all’assorbente rilievo che l’ordigno esploso, pur appartenendo alle Forze armate, non risultava essere stato lasciato incustodito o abbandonato in occasione di esercitazioni isolate o congiunte tenute dalle Forze armate in tempo di pace, la questione appare rilevante.
