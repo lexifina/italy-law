@@ -1,0 +1,5 @@
+Articolo VIII
+
+1. Qualsiasi controversia fra le Parti, che sorga dalla possibilita' che le misure adottate in base all'articolo I possono essere in contrasto con le disposizioni della presente Convenzione, o da eventuali risarcimenti da pagarsi in base all'articolo VI, o dall'ammontare di tali indennizzi e che non sia stata definita da negoziati fra le Parti interessate o fra la Parte che ha adottato le misure e le persone fisiche o giuridiche che chiedono il risarcimento, se le Parti non decidono altrimenti, sara' sottoposta, su richiesta di una qualunque delle parti interessate, alla conciliazione o qualora questa non riesca, all'arbitrato, alle condizioni previste dall'Allegato alla presente Convenzione.
+
+2. La Parte che ha adottato le misure non ha il diritto di respingere una richiesta di conciliazione o di arbitrato che sia stata presentata in base al precedente paragrafo, per il solo motivo che i ricorsi davanti ai propri tribunali offerti dalla propria legislazione nazionale non sono stati tutti esauriti.
