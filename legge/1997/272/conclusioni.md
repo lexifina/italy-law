@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 7 agosto 1997
+
+SCALFARO Prodi, Presidente del Consiglio dei Ministri Bindi, Ministro della sanita' Visto, il Guardasigilli: Flick Avvertenza: Il decreto-legge 20 giugno 1997, n. 175, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 144 del 23 giugno 1997. In questa stessa Gazzetta Ufficiale, alla pag. 50, e' ripubblicato il testo del decreto-legge 20 giugno 1997, n. 175, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
