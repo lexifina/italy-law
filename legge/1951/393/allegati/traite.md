@@ -1,0 +1,3 @@
+Traite' d'Amitie', de Conciliation et de Reglement Judiciaire entre la Republique Italienne et la Republique Turque.
+
+Parte di provvedimento in formato grafico
