@@ -1,0 +1,1459 @@
+22 gennaio 1920, n. 82, concernente variazioni allo stato di previsione delal spesa del Ministero della guerra, per lo esercizio finanziario 1919-20.
+
+22 gennaio 1920, n. 83, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per lo esercizio finanziario 1922-23.
+
+22 gennaio 1920, n. 84, che mantiene efficacia a disposizioni di carattere continuativo contenute nei disegni di legge concernenti gli stati di previsione di vari Ministeri, per l'esercizio finanziario 1918-19.
+
+22 gennaio 1920, n. 85, concernente variazioni allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1919-20.
+
+22 gennaio 1920, n. 109, concernente variazioni allo stato di previsione della spesa del Ministero della marina, per lo esercizio finanziario 1919-20.
+
+22 gennaio 1920, n. 110, concernente variazioni allo stato di previsione della spesa del Ministero della marina, per lo esercizio finanziario 1919-20.
+
+22 gennaio 1920, n. 135, che per tutte le gestioni fuori bilancio costituite con qualsiasi ordinamento presso organi civili e militari dell'Amministrazione dello Stato, durante l'ultima guerra e la guerra libica, istituisce l'obbligo della presentazione del rendiconto alla Corte dei conti.
+
+25 gennaio 1920, n. 106, il quale stabilisce che le disposizioni del R. decreto 23 ottobre 1919, n. 1970, sul trattamento di quiescenza del personale dipendente dallo Stato siano applicabili soltanto agli impiegati in servizio al 1° ottobre 1919 ed alle famiglie degli impiegati in servizio alla data stessa.
+
+25 gennaio 1920, n. 108, concernente variazioni allo stato di previsione della spesa del Ministero delle finanze, per lo esercizio finanziario 1919-20.
+
+29 gennaio 1920, n. 127, riguardante la concessione delle indennita', di carica ai primi presidenti degli alti Corpi consultivi di controllo e giudiziari dello Stato, nonche' ai procuratori generali delle Corti di cassazione.
+
+29 gennaio 1920, n. 170, concernente variazioni allo stato di previsione della spesa del Ministero della guerra, per l'esercizio 1919-20.
+
+7 agosto 1920, n. 1093, relativo alla soppressione della Giunta esecutiva del Comitato interministeriale per il passaggio dallo stato di guerra allo stato di pace, istituito con decreto Luogotenenziale 17 novembre 1918, n. 1698, ed alla costituzione presso la Ragioneria generale dello Stato di un Comitato liquidatore delle gestioni di guerra.
+
+14 agosto 1920, n. 1166, che fissa il compenso mensile straordinario da accordarsi ai funzionari addetti ai Gabinetti dei Ministri e dei Sottosegretari di Stato.
+
+1° settembre 1920, n. 1262, portante l'aumento a L. 400,000 del limite massimo per i mandati di anticipazioni da emettersi per il pagamento delle spese riguardanti l'Officina carte-valori.
+
+1° settembre 1920, n. 1265, concernente modificazioni al decreto-legge 3 giugno 1920, n. 737, riguardante l'aumento della indennita' caro-viveri al personale delle Amministrazioni dello Stato.
+
+19 settembre 1920, n. 1341, autorizzante la assunzione di personale avventizio presso il Ministero per il lavoro e la previdenza sociale.
+
+29 ottobre 1920, n. 1521, recante modificazioni all'art. 24 del R. decreto 23 ottobre 1919, n. 1971, relativo al fondo di cointeressenza per i funzionari dello Stato.
+
+29 ottobre 1920, n. 1562, recante-maggiori assegnazioni allo stato di previsione della spesa del Ministero per il lavoro e la previdenza sociale, per l'esercizio finanziario 1920-21.
+
+29 ottobre 1920, n. 1563, concernente la proroga a tutto l'esercizio 1921-22 dei Ministeri dell'industria e commercio e delle terre liberate.
+
+29 ottobre 1920, n. 1601, recante variazioni allo stato di previsione della spesa del Ministero del tesoro e agli stati di previsione dell'entrata e della spesa dell'Amministrazione delle ferrovie di Stato, per l'esercizio finanziario 1919-20.
+
+29 ottobre 1920, n. 1604, recante variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1920-21.
+
+7 novembre 1920, n. 1635, concernente provvedimenti per facilitare l'alienazione del materiale residuato dalla guerra.
+
+7 novembre 1920, n. 1670, recante variazioni allo stato di previsione della spesa dell'Amministrazione del fondo per il culto, per l'esercizio finanziario 1920-21.
+
+7 novembre 1920, n. 1671, recante variazioni allo stato di previsione della spesa del Ministero delle colonie ed agli stati di previsione dell'entrata e della spesa della Cirenaica, per l'esercizio finanziario 1920-21.
+
+16 gennaio 1921, n. 10, che modifica l'articolo 2 di quello 7 giugno 1920, n. 739, circa lo stato giuridico ed economico del personale delle Amministrazioni dello Stato.
+
+16 gennaio 1921, n. 11, che aggiunge un comma all'art. 662 di quello 23 ottobre 1919, n. 1971, concernente lo stato giuridico ed economico del personale della Amministrazioni dello Stato.
+
+10 marzo 1921, n. 231, concernente la sistemazione del personale avventizio delle Amministrazioni dello Stato.
+
+24 marzo 1921, n. 471, concernente modifica al R. decreto-legge 3 ottobre 1919, n. 1792, relativo ai beni della Corona ceduti allo Stato.
+
+3 aprile 1921, n. 473, concernente aumento del limite massimo dell'annualita' per pensioni di autorita' del Ministero dell'interno per l'esercizio finanziario 1920-21.
+
+5 giugno 1921, n. 696, autorizzante maggiori assegnazioni allo stato di previsione del Ministero dell'interno, per l'esercizio finanziario 1920-21.
+
+9 giugno 1921, n. 779, concernente variazioni allo stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio finanziario 1920-21.
+
+16 giugno 1921, n. 780, concernente variazioni allo stato di previsione dell'entrata a quelle della spesa del Ministero delle finanze ed al bilancio del fondo di massa del Corpo della Regia guardia di finanza, per l'esercizio finanziario 1920-21.
+
+16 giugno 1921, n. 808, che interpreta, per l'applicazione, l'art. 4 della legge 7 aprile 1921, n. 464, concernente il trattamento di pensione agli ufficiali di riserva.
+
+16 giugno 1921, n. 837, concernente assegnazioni nello stato di previsione del Ministero dei lavori pubblici, per l'esercizio 1920-21.
+
+16 giugno 1921, n. 838, autorizzante uno storno di fondi nello stato di previsione del Ministero per il lavoro e la previdenza sociale, per l'esercizio finanziario 1920-21.
+
+16 giugno 1921, n. 839, autorizzante maggiori assegnazioni nello stato di previsione del Ministero degli affari esteri, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 840, autorizzante maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione del Ministero delle poste e dei telegrafi, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 841, autorizzante una maggiore assegnazione nello stato di previsione del Ministero per le terre liberate, per l'esercizio finanziario 1920-21, nonche' la modificazione del capitolo 8 dello stato di previsione medesimo.
+
+19 giugno 1921, n. 842, autorizzante maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione del Ministero dell'industria e del commercio, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 863, autorizzante maggiori assegnazioni nello stato di previsione dell'entrata ed in quello del Ministero della guerra, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 864, autorizzante maggiori assegnazioni nello stato di previsione del Ministero di agricoltura, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 865, autorizzante variazioni compensative nel bilancio del Fondo per il culto ed in quello degli economanti generale dei benefici vacanti, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 869, autorizzante maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione del Ministero della pubblica istruzione, per l'esercizio finanziario 1920-21.
+
+19 giugno 1921, n. 895, autorizzante maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione del Ministero dell'interno, nonche' diminuzioni di stanziamento in quelli del tesoro e della guerra, per l'esercizio finanziario 1920-21.
+
+26 giugno 1921, n. 868, che revoca e dichiara privo di ogni efficacia il Regio decreto 10 marzo 1921, n. 231, concernente la sistemazione del personale avventizio delle Amministrazioni dello Stato.
+
+26 giugno 1921, n. 872, autorizzante maggiori assegnazioni agli stati di previsione dei Ministeri del tesoro, dell'istruzione pubblica e dell'agricoltura, per l'esercizio finanziario 1920-21.
+
+26 giugno 1921, n. 892, autorizzante maggiori assegnazioni agli stati di previsione dei Ministeri delle finanze, della giustizia, per gli affari esteri, delle colonie, dei lavori pubblici, della marina, e per il lavoro e la previdenza sociale, per l'esercizio finanziario 1920-21.
+
+10 luglio 1921, n. 949, col quale si modifica il Regio decreto 26 febbraio 1920, n. 219, concernente l'istituzione di un Opera di previdenza a favore degli impiegati dello Stato e dei loro superstiti, non aventi diritto a pensione.
+
+10 luglio 1921, n. 950, autorizzante variazioni allo stato di previsione del Ministero dell'interno, per l'esercizio finanziario 1920-21.
+
+10 luglio 1921, n. 951, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1920-21.
+
+10 luglio 1921, n. 952, autorizzante maggiori assegnazioni allo stato di previsione del Ministero di agricoltura, per l'esercizio 1920-21.
+
+10 luglio 1921, n. 1003, autorizzante maggiore assegnazione allo stato di previsione del Ministero degli affari esteri, per l'esercizio finanziario 1920-21.
+
+10 luglio 1921, n. 1016, autorizzante maggiori assegnazioni agli stati di previsione dei Ministeri delle poste e dei telegrafi e per l'industria ed il commercio, per l'esercizio finanziario 1920-21.
+
+17 luglio 1921, n. 1033, autorizzante le maggiori assegnazioni nello stato di previsione del Ministero dei lavori pubblici, per l'esercizio finanziario 1920-21.
+
+20 agosto 1921, n. 1143, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1920-21.
+
+20 agosto 1921, n. 1187, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1920-21.
+
+20 agosto 1921, n. 1205, concernente variazioni allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1920-21.
+
+20 agosto 1921, n. 1374, concernente l'aumento di L. 200,000 a limite massimo dell'annualita' per pensioni da concedersi per i collocamenti a riposo di autorita' dal Ministero della guerra, per l'esercizio finanziario 1920-21.
+
+24 agosto 1921, n. 1184, concernente modificazioni ai Regi decreti 2 ottobre 1919, n. 1858, e 23 ottobre 1919, n. 1971, circa la corresponsione delle differenze degli stipendi eccedenti le L. 2000 e 1500.
+
+24 agosto 1921, n. 1185, che stabilisce il fondo di cointeressenza, per l'esercizio finanziario 1920-21.
+
+24 agosto 1921, n. 1271, concernente variazioni agli stati di previsione della spesa dei Ministeri del tesoro e della guerra, per l'esercizio finanziario 1921-22.
+
+19 settembre 1921, n. 1372, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro ed agli stati di previsione della entrata e della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio finanziario 1920-21.
+
+16 novembre 1921, n. 1663, concernente approvazione di eccedenza di impegni risultanti dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero delle terre liberate.
+
+16 novembre 1921, n. 1664, concernente approvazioni di eccedenza di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero dell'istruzione pubblica.
+
+16 novembre 1921, n. 1665, concernente approvazione di eccedenza di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero degli affari esteri.
+
+16 novembre 1921, n. 1670, concernente approvazione di eccedenze di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero delle poste e dei telegrafi.
+
+16 novembre 1921, n. 1674, concernente approvazione di eccedenze di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero della marina.
+
+16 novembre 1921, n. 1710, concernente approvazione di eccedenze di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-20 del Ministero delle colonie.
+
+16 novembre 1921, n. 1726, concernente approvazione di eccedenze di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-20 del Ministero del tesoro.
+
+16 novembre 1921, n. 1727, concernente approvazioni di eccedenze di impegni, risultante dal rendiconto consuntivo per l'esercizio 1919-20 del Ministero della giustizia e degli affari di culto.
+
+19 novembre 1921, a 1666, concernente approvazioni di eccedenze di impegni, risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero dell'interno.
+
+19 novembre 1921, n. 1729, concernente approvazione di eccedenze di impegni risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero industria, commercio e lavoro.
+
+19 novembre 1921, n. 1730, concernente approvazione di eccedenze di impegni, risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero delle finanze.
+
+19 novembre 1921, n. 1732, concernente approvazione di eccedenze di impegni, risultante dal rendiconto consuntivo per l'esercizio 1919-1920 del Ministero dei lavori pubblici.
+
+27 novembre 1921, n. 1872, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro ed agli stati di previsione dell'entrata e della spesa dell'Amministrazione delle ferrovie dello Stato, per l'esercizio 1920-21.
+
+26 dicembre 1921, n. 1867. - Proroga del termine stabilito dall'articolo 2 del Regio decreto-legge 7 luglio 1921, n. 894, per il funzionamento della Direzione generale unica dei servizi per gli approvvigionamenti e i consumi.
+
+29 dicembre 1921, n. 1964, recante ulteriori provvedimenti a favore dei pensionati civili e militari.
+
+19 gennaio 1922, n. 49, recante una modificazione all'articolo 43 del Regio decreto 16 novembre 1921, n. 1705.
+
+22 gennaio 1922, n. 34, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1921-22.
+
+22 gennaio 1922, n. 41, che autorizza una maggiore assegnazione di lire 6 milioni allo stato di previsione della spesa del Ministero degli affari estri, per l'esercizio 1921-1922.
+
+22 gennaio 1922, n. 44, recante variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 45, autorizzante variazioni allo stato di previsione della spesa del Ministero delle terre liberate, per l'esercizio finanziario 1921-22.
+
+22 gennaio 1922, n. 60, recante maggiori stanziamenti allo stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 91, recante provvedimenti intesi a regolare la corresponsione del cambio sulle competenze spettanti al personale che presta servizio all'estero.
+
+22 gennaio 1922, n. 94, recante variazioni allo stato di previsione della spesa del Ministero per l'industria ed il commercio, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 95, concernente maggiori assegnazioni nello stato di previsione della spesa del Ministero per l'agricoltura, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 96, autorizzante maggiori assegnazioni nello stato di previsione della spesa del Ministero per il lavoro e la previdenza sociale, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 97, concernente maggiori assegnazioni nello stato di previsione della spesa del Ministero per il lavoro e la previdenza sociale, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 98, recante variazioni in conto competenza ed in conto residui del bilancio della spesa del Ministero dei lavori pubblici, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 99, portante variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1920-21.
+
+22 gennaio 1922, n. 100, autorizzante variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 101, autorizzante variazioni allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 102, recante variazioni allo stato di previsione della spesa del Ministero delle colonie ed ai bilanci della Tripolitania, della Cirenaica, dell'Eritrea e della Somalia Italiana, per l'esercizio 1920-21.
+
+22 gennaio 1922, n. 103, che autorizza variazioni allo stato di previsione della spesa del Ministero del tesoro, nonche' ai bilanci dell'Amministrazione del Fondo per il culto e del Fondo di beneficenza e religione nella citta' di Roma, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 104, che autorizza variazioni allo stato di previsione della spesa del Ministero per le poste ed i telegrafi, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 105, concernente variazioni allo stato di previsione della spesa del Ministero delle poste e dei telegrafi, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 108, autorizzante variazioni allo stato di previsione della spesa del Ministero delle finanze, nonche' al bilancio del Fondo massa del Corpo della Regia guardia di finanza, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 109, autorizzante l'assegnazione straordinaria di lire 10 milioni nello stato di previsione della spesa del Ministero delle colonie, ed in quello della Somalia Italiana, per l'esercizio 1921-22 per sopperire al mutato ragguaglio della rupia alla lira.
+
+22 gennaio 1922, n. 110, autorizzante maggiori assegnazioni allo stato di previsione della spesa del Ministero delle colonie, nonche' variazioni ai bilanci della Tripolitania, della Cirenaica e della Somalia Italiana, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 111, recante variazioni allo stato di previsione della spesa del Ministero delle colonie e nei bilanci della Tripolitania, della Cirenaica, dell'Eritrea e della Somalia Italiana, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 112, recante variazioni allo stato di previsione della spesa del Ministero per l'istruzione pubblica, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 113, concernente variazioni agli stati di previsione della spesa del Ministero del tesoro e per le terre liberate, pel migliore funzionamento del servizio riguardante i risarcimenti dei danni di guerra, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 163, recante variazioni allo stato di previsione della spesa del Ministero della guerra, per l'esercizio 1920-21.
+
+22 gennaio 1922, n. 165, concernente variazioni negli stati di previsione dell'entrata e della spesa degli economati generali dei benefici vacanti, per l'esercizio 1921-22.
+
+22 gennaio 1922, n. 179, che abroga quello 7 giugno 1920, n. 742, recante provvedimenti intesi a stabilire il trattamento economico del personale che dalle Amministrazioni provinciali dello Stato abbia fatto passaggio in quelle centrali.
+
+29 gennaio 1922, n. 118, che definisce le infermita' previste dal n. 1, lett. a), dell'articolo 3 del Regio decreto-legge 26 febbraio 1920, n. 219.
+
+1° marzo 1922, n. 231, concernente il trasferimento al Ministero della marina del Sottosegretariato di Stato per la marina mercantile presso il Ministero per l'industria e il commercio.
+
+5 marzo 1922, n. 287, concernente la proroga delle disposizioni istitutive dei Ministeri dell'industria e del commercio e delle terre liberate dal nemico.
+
+5 marzo 1922, n. 381, concernenti variazioni allo stato di previsione della spesa del Ministeri del tesoro, per l'esercizio finanziario 1921-22.
+
+7 aprile 1922, n. 410, che mantiene in servizio, sino alla pubblicazione delle nuove tabelle organiche per il personale del Ministero del tesoro, i direttori generali del debito pubblico e degli istituti di previdenza presso il Ministero stesso.
+
+7 aprile 1922, n. 411, che reca norme per l'esecuzione delle spese in occasione della Conferena di Genova.
+
+7 aprile 1922, n. 412, che autorizza, per i mesi di aprile e maggio, la continuazione del pagamento degli stipendi percepiti nel mese di marzo dal personale delle Amministrazioni dello Stato, che gode dei benefici concessi in forza del Regio decreto 7 giugno 1920, n. 742, abrogato col Regio decreto 22 gennaio 1922, n. 179.
+
+2 maggio 1922, n. 607, che approva una maggiore assegnazione di L. 4,000,000 allo stato di previsione della spesa del Ministero del tesoro per l'esercizio finanziario 1921-22 per le spese della Conferenza di Genova.
+
+4 giugno 1922, n. 716, concernente la proroga per il mese di giugno 1922 delle disposizioni contenute nel Regio decreto 7 aprile 1922, n. 412.
+
+13 luglio 1922, n. 938, concernente la proroga per il mese di luglio 1922, di talune disposizioni della legge 13 agosto 1921, n. 1080, di quelle del Regio decreto 7 aprile 1922, n. 412, prorogate col Regio decreto 17 luglio 1919, numero 1355.
+
+18 luglio 1922, n. 1047, concernente la proroga a tutto il mese di agosto 1922 delle disposizioni contenute nel Regio decreto 13 luglio 1922, n. 938.
+
+29 ottobre 1922, n. 1395, concernente storno di fondi nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1921-22.
+
+12 novembre 1922, n. 1477, che estende le disposizioni dell'articolo 1 del Regio decreto 8 ottobre 1922, n. 1310, al personale del Consiglio di Stato, della Corte dei conti e delle Avvocature erariali, contemplate dalla legge 7 aprile 1921, n. 355.
+
+19 novembre 1922, n. 1608, concernente assegnazione di lire 2,000,000 nel bilancio del Ministero di agricoltura per l'esercizio 1922-23 per contributi e sussidi ad enti ed altre provvidenze dirette all'incremento della produzione frumentaria.
+
+19 novembre 1922, n. 1609, concernente la istituzione per memoria del capitolo per la sovvenzione a pareggio del disavanzo dell'azienda ferroviaria nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1921-22.
+
+19 novembre 1922, n. 1610, concernente la proroga, fino a tutto l'esercizio 1923.24 dei Ministeri per la industria e il commercio e per le terre liberate dal nemico.
+
+19 novembre 1922, n. 1612, concernente l'aumento del limite delle pensioni d'autorita' da concedersi dal Ministero degli affari esteri, per l'esercizio finanziario 1922-23.
+
+7 dicembre 1922, n. 1644, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1922-23.
+
+7 dicembre 1922, n. 1645, concernente l'assegnazione di una pensione annua vitalizia alla signorina Luisa Zeni.
+
+17 dicembre 1922, n. 1701. - Disposizioni per l'alienazione del materiale residuato dalla guerra e l'assegnazione di quello proveniente dalla raccolta dei rottami ancora esistenti nella zona che fu di guerra.
+
+7 gennaio 1923, n. 57, concernente variazioni allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1922-23.
+
+11 gennaio 1923, n. 194, concernente variazioni allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1922-23.
+
+28 gennaio 1923, n. 197, concernente aumento del limite massimo per pensioni di autorita' da concedere dal Ministero della pubblica istruzione nell'esercizio finanziario 1922-23.
+
+28 gennaio 1923, n. 210, concernente variazioni allo stato di previsione della spesa del Ministero delle colonie per l'esercizio finanziario 1922-23 nonche' variazioni ai bilanci coloniali per lo stesso esercizio finanziario.
+
+28 gennaio 1923, n. 212, concernente variazioni allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1922-23.
+
+28 gennaio 1923, n. 235, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1922-23.
+
+28 gennaio 1923, n. 236, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1922-23.
+
+28 gennaio 1923, n. 250, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1922-23.
+
+28 gennaio 1923, n. 267, concernente variazioni allo stato di previsione del Ministero degli affari esteri, per l'esercizio finanziario 1922-23.
+
+28 gennaio 1923, n. 268, concernente variazioni, allo stato di previsione della spesa del Ministero delle poste o dei telegrafi, per l'esercizio finanziario 1922-23.
+
+28 gennaio 1923, n. 269, concernente aumenti del limite massimo per pensioni di autorita' da concedere dal Ministero degli affari esteri, nell'esercizio finanziario 1922-23.
+
+28 gennaio 1923, n. 270, concernente variazioni allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1922-23.
+
+28 gennaio 1923, n. 298, concernente variazioni allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1922-23.
+
+8 febbraio 1923, n. 433, concernente variazioni agli stati di previsione degli economati generali dei benefici vacanti, per l'esercizio finanziario 1922-23.
+
+8 febbraio 1923, n. 434, concernente variazioni allo stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio finanziario 1922-23.
+
+8 febbraio 1923, n. 435, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1922-23.
+
+8 febbraio 1923, n. 436, concernente variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio finanziario 1922-23.
+
+11 febbraio 1923, n. 619, concernente variazioni allo stato di previsione della spesa del Ministero per il lavoro e la previdenza sociale, per l'esercizio finanziario 1921-22.
+
+15 febbraio 1923, n. 438, concernente variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1922-23.
+
+16 febbraio 1923, n. 294, che affida al Comitato liquidatore delle gestioni di guerra la prosecuzione delle indagini iniziate, e non condotte a termine, dalla Commissione parlamentare di inchiesta sulle spese di guerra.
+
+1S febbraio 1923, n. 580, concernente variazioni allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio 1922-23.
+
+18 febbraio 1923, n. 618, concernente variazioni agli stati di previsione della spesa dei Ministeri delle finanze, della guerra e della marina, per l'esercizio finanziario 1921-22.
+
+18 febbraio 1923, n. 626, concernente variazioni allo stato di previsione della spesa del Ministero della marina, per l'esercizio 1922-23.
+
+25 febbraio 1923, n. 794, concernente eccedenza di impegni verificatasi sull'assegnazione del capitolo n. 9 «Spese varie di ufficio, ecc.», dello stato di previsione della spesa del Ministero per le terre liberate, per l'esercizio finanziario 1920-21.
+
+8 marzo 1923, n. 743, concernente variazioni allo stato di previsione della spesa del Ministero delle poste e dei telegrafi, per l'esercizio 1922-23.
+
+11 marzo 1923, n. 579, concernente variazioni agli stati di previsione delle Amministrazioni del fondo per il culto e del Fondo di beneficenza e di religione per la citta' di Roma, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 585, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1922-23.
+
+11 marzo 1923, n. 586, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1922-23.
+
+11 marzo 1923, n. 627, concernente variazioni allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 628, concernente variazioni allo stato di previsione della spesa del Ministero delle poste e dei telegrafi, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 629, concernente variazioni allo stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 630, concernente variazioni allo stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 631, concernente variazioni allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 632, concernente variazioni allo stato di previsione della spesa del Ministero delle colonie, per l'esercizio finanziario 1921-22.
+
+11 marzo 1923, n. 749, concernente la ulteriore assegnazione di L. 1,200,000 per ultimare la costruzione dell'edificio ad uso di caserma della Regia guardia di finanza di Roma.
+
+11 marzo 1923, n. 772, concernente aumenti del limite massimo per pensioni di autorita' da concedere dal Ministero dell'interno, nell'esercizio finanziario 1922-23.
+
+11 marzo 1923, n. 775, concernente eccedenze di pagamenti verificatesi in conto dei residui passivi degli esercizi finanziari 1919-20 e retro.
+
+11 marzo 1923, n. 776, concernente eccedenze di impegni verificatesi sulle assegnazioni di alcuni capitoli riguardanti «Spese obbligatorie e d'ordine» dello stato di previsione per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 779, concernente maggiori assegnazioni per provvedere al saldo di spese residue inscritte nel conto consuntivo del Ministero della giustizia e degli affari di culto, per l'esercizio finanziarlo 1920-21.
+
+11 marzo 1923, n. 780, concernente maggiori assegnazioni per provvedere al saldo di spese residue inscritte nel conto consuntivo del Ministero dei lavori pubblici, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 781, concernente maggiori assegnazioni per provvedere al saldo di spese residue inscritte nel conto consuntivo del Ministero per il lavoro e la previdenza sociale, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 783, concernente eccedenze di impegni verificatesi sull'assegnazione del capitolo n. 36 «Pensioni ordinarie» dello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 784, concernente eccedenza di impegni verificatasi sulle assegnazioni di alcuni capitoli dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 785, concernente eccedenze di impegni verificatesi sulle assegnazioni di alcuni capitoli dello stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 786, concernente eccedenza di impegni verificatasi sull'assegnazione del capitolo n. 16 «Pensioni ordinarie» dello stato di previsione delle spese del Ministero degli affari esteri, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 787, concernente eccedenze di impegni verificatesi sulle assegnazioni di taluni capitoli dello stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 788, concernente eccedenze di impegni sulle assegnazioni di alcuni capitoli dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 789, concernente eccedenze di impegni verificatesi sulle assegnazioni di alcuni capitoli dello stato
+
+di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio 1920-21.
+
+11 marzo 1923, n. 790, concernente eccedenza di impegni verificatasi sulla assegnazione del capitolo n. 114 «Pensioni ordinarie» dello stato di previsione della spesa del Ministero delle poste e dei telegrafi, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 791, concernente eccedenza di impegni verificatasi sulla assegnazione del capitolo n. 18 «Pensioni ordinarie» dello stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 792, concernente eccedenze di impegni verificatesi sulle assegnazioni di taluni capitoli dello stato di previsione della spesa del Ministero di agricoltura, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 793, concernente eccedenza di impegni verificatasi sull'assegnazione del capitolo n. 21 «Inchieste, ecc.», dello stato di previsione della spesa del Ministero per il lavoro e la previdenza sociale, per l'esercizio finanziario 1920-21.
+
+11 marzo 1923, n. 883, concernente approvazione definitiva di variazioni apportate allo stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1920-21 ed autorizzazione di nuovi fondi da inscrivere negli stati di previsione della spesa del Ministero medesimo per gli esercizi successivi in dipendenza della istituzione di seimila nuove scuole elementari.
+
+11 marzo 1923, n. 960, concernente aumento del limite massimo per pensioni di autorita' da concedere dal Ministero della guerra, nell'esercizio finanziario 1922-23.
+
+18 marzo 1923, n. 577, contenente norme per il pagamento dei debiti dei comuni verso i Consorzi provinciali granari, per la devoluzione degli utili conseguiti dai Consorzi stessi, e per l'accollo delle perdite.
+
+18 marzo 1923, n. 698, concernente variazioni allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1922-23.
+
+22 marzo 1923, n. 697, concernente variazioni allo stato di previsione dell'entrata e a quello della spesa del Ministero delle finanze nonche' agli stati di previsione dell'entrata e della spesa dell'Amministrazione del fondo di massa per la Regia guardia di finanza.
+
+22 marzo 1923, n. 750, concernente il trattamento dovuto al personale incaricato di prendere parte a Commissioni e a Conferenze internazionali che si riuniscono nel Regno.
+
+25 marzo 1923, n. 746, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1922-23.
+
+25 marzo 1923, n. 774, concernente variazioni allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio 1922-23.
+
+25 marzo 1923, n. 777, concernente variazioni allo stato di previsione della spesa del Ministero della giustizia e degli affari di culto, per l'esercizio 1922-23.
+
+25 marzo 1923, n. 778, concernente variazioni allo stato di previsione della spesa del Ministero per il lavoro e la previdenza sociale per l'esercizio finanziario 1922-23.
+
+25 marzo 1923, n. 881, concernente variazioni allo stato di previsione della spesa del Ministero per l'industria e il commercio, per l'esercizio finanziario 1922-23.
+
+25 marzo 1923, n. 885, concernente variazioni allo stato di previsione della spesa del Ministero di agricoltura, per l'esercizio finanziario 1922-23.
+
+25 marzo 1923, n. 962, concernente variazioni allo stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1922-23.
+
+25 marzo 1923, n. 1017, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1922-23.
+
+25 marzo 1923, n. 1046, concernente variazioni allo stato di previsione della spesa del Ministero delle colonie, per l'esercizio 1922-23.
+
+5 aprile 1923, n. 835, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1921-22.
+
+5 aprile 1923, n. 886, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno per l'esercizio finanziario 1922-23 nonche' variazioni nei residui trasferiti nei bilanci dei Ministeri dell'interno e dell'agricoltura da quello del cessato Ministero per le terre liberate.
+
+19 aprile 1923, n. 891, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1922-23.
+
+19 aprile 1923, n. 1078, concernente variazioni agli stati di previsione della spesa dei Ministeri della guerra e della marina, per l'esercizio finanziario 1921-22.
+
+26 aprile 1923, n. 1115, concernente variazioni allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1922-23.
+
+26 aprile 1923, n. 1116, concernente variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1922-23.
+
+26 aprile 1923, n. 1154, concernente variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1922-23.
+
+26 aprile 1923, n. 1155, concernente variazioni allo stato di previsione della spesa del Ministero del tesoro, per l'esercizio 1922-23.
+
+26 aprile 1923, n. 1156, concernente variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1922-23.
+
+26 aprile 1923, n. 1157, concernente variazioni agli stati di previsione delle Amministrazioni del Fondo per il culto e del Fondo di beneficenza e di religione per la citta' di Roma, per l'esercizio finanziario 1922-23.
+
+29 aprile 1923, n. 1016, che approva la convenzione stipulata con la societa' Photogen di Amsterdam per lo acquisto della maggioranza delle azioni della societa' raffinerie olii minerali di Fiume.
+
+3 maggio 1923, n. 1249, concernente variazioni allo stato di previsione della spesa del Ministero della marina, per l'esercizio 1922-23.
+
+3 maggio 1923, n. 1250, concernente variazioni allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio 1922-23.
+
+17 maggio 1923, n. 1284, recante aggiunte e modificazioni alle disposizioni concernenti il trattamento economico e di carriera degli impegni civili e degli ufficiali.
+
+14 giugno 1923, n. 1286, che dispone l'aggregazione di due membri supplenti al Collegio arbitrale istituito con la legge 29 dicembre 1921, n. 1979.
+
+14 giugno 1923, n. 1316, autorizzante a favore del comune di Messina un contributo straordinario di L. 5,000,000 da stanziarsi nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1317, riguardante variazioni nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1318, concernente variazioni nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1319, concernente variazioni nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1320, recante variazioni nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1321, concernente variazioni nello stato di previsione della spesa del Ministero delle poste e telegrafi, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1322, che autorizza una assegnazione straordinaria nello stato di previsione della spesa del Ministero delle poste e telegrafi, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1323, concernente variazioni nello stato di previsione della spesa del Ministero per la giustizia e gli affari di culto, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1344, recante variazioni nello stato di previsione della spesa del Ministero della marina per l'esercizio finanziario 1922-23, elevando il contributo per la costruzione dei piroscafi da carico, costruiti nei cantieri nazionali.
+
+14 giugno 1923, n. 1345, recante variazioni nello stato di previsione della spesa del Ministero del tesoro ed in quello dell'entrata, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1346, concernente variazioni nello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1417, concernente variazioni nello stato di previsione della spesa del Ministero per l'agricoltura, per l'esercizio finanziario 1922-23.
+
+14 giugno 1923, n. 1475, che approva la convenzione 11 maggio 1923, stipulata fra il Regio Governo e le Aziende del gruppo Ansaldo, per la loro definitiva sistemazione.
+
+17 giugno 1923, n. 1387, autorizzante variazioni nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1922-23.
+
+17 giugno 1923, n. 1390, concernente variazioni nello stato di previsione della spesa del Ministero per gli affari esteri, per l'esercizio finanziario 1922-23.
+
+17 giugno 1923, n. 1416, concernente variazioni nello stato di previsione della spesa del Ministero per l'industria ed il commercio, per l'esercizio finanziario 1922-23.
+
+17 giugno 1923, n. 1446, autorizzante variazioni nello stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio finanziario 1922-23.
+
+17 giugno 1923, n. 1447, concernente variazioni nello stato di previsione della spesa del Ministero per le poste ed i telegrafi, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1585, concernente maggiore assegnazione nello stato di previsione della spesa del Ministero della marina per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1586, autorizzante una maggiore assegnazione nello stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1587, concernente variazioni nello stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1588, autorizzante una assegnazione straordinaria nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1590, concernente variazioni nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1591, concernente variazioni nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1592, concernente variazioni nello stato di previsione della spesa del Ministero del tesoro, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1594, concernente variazioni nello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1595, concernente variazioni nello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1596, concernente variazioni nello stato di previsione della spesa, ed in quello dell'entrata degli Economati generali dei benefici vacanti di Bologna e Firenze.
+
+28 giugno 1923, n. 1598, concernente variazioni nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1599, concernente variazioni nello stato di previsione del Ministero per la pubblica istruzione, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1600, autorizzante variazioni nello stato di previsione della spesa del Ministero per l'agricoltura, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1601, autorizzante variazioni nello stato di previsione della spesa del Ministero delle poste e dei telegrafi, per l'esercizio finanziario 1922-23.
+
+28 giugno 1923, n. 1607, concernente variazioni nello stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1922-23.
+
+15 luglio 1923, n. 1719. - Autorizzazione di spesa per la costruzione di fabbricati lungo la nuova linea di confine nella Venezia Tridentina, per uffici di comando e di caserme per la Regia guardia di finanza.
+
+10 agosto 1923, n. 1918. - Aumento di lire 120,000 del limite massimo delle pensioni da concedersi, d'autorita', dal Ministero dell'interno, nell'esercizio finanziario 1922-23.
+
+20 agosto 1923, n. 1938. - Storno della somma di L. 500,000, fra capitoli dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24.
+
+6 settembre 1923, n. 2004. - Maggiore assegnazione di lire 200,000,000 allo stato di previsione della spesa del Ministero della guerra per l'esercizio 1923-24 per il rifornimento delle dotazioni di mobilitazione ed altre inerenti alla difesa dello Stato.
+
+10 settembre 1923, n. 1985. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 1996. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 1998. - Autorizzazione della spesa di L. 1,610,000 per l'esercizio statale provvisorio della linea di navigazione Palermo-Tunisi.
+
+10 settembre 1923, n. 1999. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero delle colonie, per l'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 2001. - Maggiori assegnazioni e diminuzioni di stanziamento su taluni capitoli dello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 2007. - Aumento del fondo per pensioni da concedersi d'autorita' dal Ministero dell'interno, nell'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 2047. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 2048. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+10 settembre 1923, n. 2049. - Maggiore assegnazione allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24, per contributo al Comitato olimpionico nazionale.
+
+10 settembre 1923, n. 2674. - Variazioni allo stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio finanziario 1923-24.
+
+15 settembre 1923, n. 2002. - Maggiore assegnazione allo stato di previsione della spesa del Ministero degli affari esteri per l'esercizio finanziario 1923-24 per contributo a pareggio dei bilanci delle isole dell'Egeo.
+
+15 settembre 1923, n. 2005. - Maggiore assegnazione allo stato di previsione della spesa del Ministero della giustizia per l'esercizio finanziario 1923-24 concernente spese di personale della magistratura.
+
+15 settembre 1923, n. 2006. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero della giustizia, per l'esercizio finanziario 1923-24.
+
+15 settembre 1923, n. 2059. - Maggiore assegnazione allo stato di previsione della spesa del Ministero della marina per l'esercizio finanziario 1923-24 per i lavori di riparazione e manutenzione del naviglio esistente.
+
+15 settembre 1923, n. 2060. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero delle colonie, per l'esercizio finanziario 1923-24.
+
+15 settembre 1923, n. 2061. - Istituzione del capitolo 55-bis, per maggiore assegnazione nello stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1923-24.
+
+15 settembre 1923, n. 2063. - Maggiori assegnazioni allo stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio 1923-24.
+
+15 settembre 1923, n. 2010. - Variazioni agli stati di previsione della entrata e della spesa dei Ministeri delle finanze e della giustizia, per l'esercizio 1923-24.
+
+15 settembre 1923, n. 2091. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero della giustizia, per l'esercizio 1923-24.
+
+15 settembre 1923, n. 2092. - Variazioni allo stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio 1923-24.
+
+15 settembre 1923, n. 2094. - Assegnazione straordinaria allo stato di previsione della spesa del Ministero delle finanze per l'esercizio 1923-24 necessaria per l'estinzione del debito del Consorzio delle banche italiane verso la Banca d'Inghilterra.
+
+15 settembre 1923, n. 2095. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziaria 1923-24.
+
+15 settembre 1923, n. 2096. - Concessione di un contributo suppletivo per la spesa per le feste commemorative e le esposizioni di Roma e Torino nel 1911, di Palermo nel 1910, ed altre.
+
+24 settembre 1923, n. 2232. - Modifica l'articolo 6 del R. decreto 8 febbraio 1923, n. 338, circa la trattazione delle controversie di competenza della Commissione arbitrale istituita con decreto Luogotenenziale 16 giugno 1918, n. 844.
+
+27 settembre 1923, n. 2145. - Assegnazione straordinaria nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1923-24, per soccorsi ai danneggiati dal terremoto del Giappone.
+
+27 settembre 1923, n. 2215. - Spese per maggiori armamenti navali determinate dagli avvenimenti internazionali.
+
+7 ottobre 1923, n. 2191. - Maggiore assegnazione nello stato di previsione della spesa del Ministero dell'economia nazionale per l'esercizio 1923-24 per maggiore contributo dello Stato nelle spese di funzionamento dell'ente nazionale per le industrie turistiche.
+
+7 ottobre 1923, n. 2271. - Maggiore assegnazione per indennita' di tramutamento nello stato di previsione della spesa del Ministero della giustizia, per l'esercizio 1923-24.
+
+7 ottobre 1923, n. 2273. - Storno di fondi fra capitoli dello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+7 ottobre 1923, n. 2270. - Variazioni al conto residui degli stati di previsione della spesa dei Ministeri delle finanze e della guerra, per l'esercizio 1923-24.
+
+7 ottobre 1923, n. 2190. - Maggiori assegnazioni, per spese segrete, nello stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio 1923-24.
+
+7 ottobre 1923, n. 2327. - Assegnazione straordinaria, per spese di espropriazione di aree, allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1923-1924.
+
+7 ottobre 1923, n. 2192. - Variazioni al bilancio dell'entrata ed in quello della spesa del Ministero delle finanze per l'esercizio 1923-24, in dipendenza del versamento da parte del Governo greco, della penalita' di lire 50 milioni per l'eccidio della missione militare italiana per la delimitazione dei confini albanesi.
+
+11 ottobre 1923, n. 2149. - Maggiore assegnazione allo stato di previsione della spesa del Ministero delle finanze per l'esercizio 1923-24 per spese della crociera italiana nell'America latina.
+
+21 ottobre 1923, n. 2296. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio 1923-24.
+
+21 ottobre 1923, n. 2295. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1923-24.
+
+21 ottobre 1923, n. 2297. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero delle colonie, per l'esercizio 1923-24.
+
+21 ottobre 1923, n. 2294. - Maggiori assegnazioni e diminuzioni di stanziamento su taluni capitoli dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1923-24.
+
+21 ottobre 1923, n. 2298. - Istituzione di capitolo concernente spese pel servizio automobilistico, nello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio 1922-23.
+
+21 ottobre 1923, n. 2299. - Aumento del limite massimo per pensioni d'autorita' da concedersi dal Ministero dei lavori pubblici, negli esercizi finanziari 1922-23 e 1923-24.
+
+31 ottobre 1923, n. 2475. - Assegnazioni straordinarie agli stati di previsione dell'entrata e della spesa del Ministero dei lavori pubblici per l'esercizio 1923-24 per il proseguimento dei lavori della linea ferroviaria direttissima Bologna-Firenze.
+
+31 ottobre 1923, n. 2525. - Variazioni agli stati di previsione della spesa dei Ministeri dei lavori pubblici e della marina, per l'esercizio 1923-24 per spese concernenti la costruzione degli edifici a sede di diversi Ministeri nella capitale.
+
+31 ottobre 1923, n. 2474. - Variazioni agli stati di previsione dell'entrata e della spesa dei Ministeri delle finanze della giustizia, per l'esercizio 1923-24 per spese concernenti il servizio di copia dell'Amministrazione delle carceri.
+
+31 ottobre 1923, n. 2387. - Variazioni agli stati di previsione dell'entrata e della spesa del Ministero delle finanze, per l'esercizio 1923-24, per spese varie.
+
+31 ottobre 1923, n. 2469. - Maggiori assegnazioni nello stato di previsione della spesa del Ministero della marina, per l'esercizio 1923-24 per spese di manutenzione del Regio naviglio.
+
+9 novembre 1923, n. 2526. - Variazioni, per spese varie, agli stati di previsione dell'entrata e della spesa dei Ministeri della marina e delle finanze, per l'esercizio 1923-24.
+
+11 novembre 1923, n. 2527. - Maggiore assegnazione allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio 1923-24, per indennita' da corrispondere alla famiglia dell'interprete Craveri deceduto nell'eccidio di Janina.
+
+6 dicembre 1923, n. 2683. - Variazioni, concernenti spese varie, nello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio 1923-24.
+
+6 dicembre 1923, n. 2675. - Modificazioni alla denominazione del capitolo n. 109 dello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio 1923-24.
+
+6 dicembre 1923, n. 2681. - Concessione di un contributo straordinario a favore del comune di Reggio Calabria per spese dipendenti dal terremoto del 28 dicembre 1908.
+
+6 dicembre 1923, n. 2677. - Trasporto di fondi allo stato di previsione della spesa del Ministero delle finanze, da quello dei lavori pubblici, per l'esercizio 1923-24, per spese di indennita' di missione a funzionari delle ragionerie centrali.
+
+6 dicembre 1923, n. 2680. - Maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1923-24.
+
+6 dicembre 1923, n. 2733. - Spese per il Governo marittimo di Fiume.
+
+6 dicembre 1923, n. 2776. - Variazioni allo stato di previsione della spesa del Ministero della guerra, per l'esercizio 1923-24.
+
+6 dicembre 1923, n. 2676. - Assegnazione straordinaria di lire 25 milioni a favore dello stato di previsione della spesa del Ministero della guerra, per l'esercizio 1923-24, per spese derivanti dalla vertenza con la Grecia.
+
+6 dicembre 1923, n. 2678. - Variazioni nello stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio 1923-24.
+
+6 dicembre 1923, n. 2679. - Maggiori assegnazioni nello stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio finanziario 1923-24.
+
+9 dicembre 1923, n. 2685. - Variazioni ai bilanci delle Amministrazioni del fondo per il culto e del fondo di beneficenza e di religione nella citta' di Roma, per l'esercizio 1923-24.
+
+9 dicembre 1923, n. 2731. - Disposizioni per la chiusura del conto corrente fra il Ministero delle colonie ed il Tesoro dello Stato istituito con la legge 16 dicembre 1912, n. 1312.
+
+9 dicembre 1923, n. 2734. - Variazioni nello stato di previsione della spesa del Ministero della marina, per l'esercizio 1923-24.
+
+9 dicembre 1923, n. 2732. - Maggiore assegnazione nello stato di previsione della spesa del Ministero della marina, per l'esercizio 1923-24 per armamenti navali.
+
+9 dicembre 1923, n. 3133. - Autorizzazione di spesa per il funzionamento della Commissione suprema di difesa (finanze).
+
+9 dicembre 1923, n. 2687. - Aumento del limite massimo per pensioni d'autorita' da concedersi dal Ministero degli affari esteri, per l'esercizio 1923-24.
+
+9 dicembre 1923, n. 2684. - Maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1923-24 per spese varie.
+
+16 dicembre 1923, n. 2872. - Trasporto di fondi dallo stato di previsione della spesa del Ministero dell'economia nazionale a quello dei lavori pubblici per l'esercizio 1923-24, per spese concernenti la costruzione di case economiche e popolari.
+
+16 dicembre 1923, n. 2797. - Variazioni nello stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio 1923-24.
+
+16 dicembre 1923, n. 2838. - Storno di fondi in conto residui tra capitoli dello stato di previsione della spesa del Ministero della marina, per l'esercizio 1923-24.
+
+16 dicembre 1923, n. 2800. - Maggiore assegnazione allo stato di previsione della spesa del Ministero delle finanze per l'esercizio 1923-24, per risarcimento a favore dei congiunti delle vittime di Janina.
+
+16 dicembre 1923, n. 2798. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, nello stato di previsione della spesa del Ministero delle finanze, per l'esercizio 1923-24.
+
+16 dicembre 1923, n. 2874. - Maggiore assegnazione nello stato di previsione della spesa del Ministero delle colonie, per l'esercizio 1923-24 e variazioni nel bilancio della Cirenaica.
+
+16 dicembre 1923, n. 2724. - Modificazione alla composizione del collegio arbitrale istituito con la legge 29 dicembre 1921, n. 1979.
+
+23 dicembre 1923, n. 2873. - Autorizzazione della spesa straordinaria di lire 20 milioni per provvedimenti da adottarsi a favore dei danneggiati dal terremoto tosco-romagnolo.
+
+23 dicembre 1923, n. 2837. - Assegnazione straordinaria di lire 600 mila per lavori di restauri e di sistemazione del palazzo della Ca' d'Oro in Venezia.
+
+23 dicembre 1923, n. 2871. - Istituzione di una Commissione di esperti per la determinazione degli strumenti industriali da conservarsi per eventuali necessita' belliche.
+
+30 dicembre 1923, n. 2856. - Maggiori assegnazioni nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1923-24 per spese concernenti la pubblica sicurezza.
+
+30 dicembre 1923, n. 2936. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, nello stato di previsione della spesa del Ministero delle poste e dei telegrafi, per l'esercizio 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per lo stesso esercizio.
+
+30 dicembre 1923, n. 3057. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie nello stato di previsione della spesa del Ministero della giustizia per l'esercizio 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per lo stesso esercizio.
+
+2 gennaio 1924, n. 4. - Autorizzazione di spesa per la partecipazione dell'Italia all'esposizione internazionale di arti decorative a Parigi.
+
+3 gennaio 1924, n. 6. - Maggiore assegnazione dello stato di previsione della spesa del Ministero delle colonie ed al bilancio della Somalia italiana, per l'esercizio 1923-24, per sopperire al mutato ragguaglio della rupia alla lira.
+
+3 gennaio 1924, n. 10. - Maggiori assegnazioni allo stato di previsione della spesa del Ministero delle finanze per l'esercizio 1923-24 per indennita' varie e per la partecipazione dell'Amministrazione dei monopoli industriali alla fiera campionaria primaverile di Praga.
+
+3 gennaio 1924, n. 11. - Maggiori assegnazioni e diminuzioni di stanziamento allo stato di previsione della spesa del Ministero dell'interno per l'esercizio 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per lo stesso esercizio.
+
+3 gennaio 1924, n. 12. - Maggiori assegnazioni per spese varie allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze per lo stesso esercizio.
+
+3 gennaio 1924, n. 17. - Variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio finanziario 1923-24.
+
+3 gennaio 1924, n. 19. - Aumento del limite massimo per le pensioni da concedersi dal Ministero della marina per i collocamenti a riposo d'autorita', durante l'esercizio 1923-1924.
+
+3 gennaio 1924, n. 59. - Variazioni allo stato di previsione dell'entrata ed a quelli della spesa dei Ministeri delle finanze e della marina, per l'esercizio finanziario 1923-24.
+
+24 gennaio 1924, n. 57. - Nomina del commendatore Jung a commissario del Governo per la liquidazione dei beni appartenenti a cittadini di Stati gia' nemici.
+
+27 gennaio 1924, n. 104. - Maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+27 gennaio 1924, n. 105. - Variazioni negli stati di previsione della spesa dei Ministeri delle finanze, dell'interno e dell'economia nazionale, per l'esercizio finanziario 1923-1924, e conseguenti variazioni a quelle dell'entrata per lo stesso esercizio.
+
+27 gennaio 1924, n. 107. - Autorizzazione di spesa straordinaria per anticipazione di contributi statali autorizzanti per le ricostruzioni da eseguirsi nelle localita' danneggiate dai terremoti tosco-emiliani.
+
+27 gennaio 1924, n. 111. - Maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-1924 e conseguenti variazioni nello stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per lo stesso esercizio.
+
+27 gennaio 1924, n. 115. - Variazioni allo stato di previsione dell'entrata ed a quello della spesa dei Ministeri delle finanze e dell'istruzione pubblica, per l'esercizio finanziario 1923-24.
+
+27 gennaio 1924, n. 123. - Maggiore assegnazione di lire 100 milioni allo stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1923-24.
+
+27 gennaio 1924, n. 124. - Assegnazione straordinaria nello stato di previsione della spesa del Ministero delle colonie, per l'esercizio 1923-24 per provvedere a spese sanitarie nella Somalia Italiana.
+
+27 gennaio 1924, n. 167. - Maggiori assegnazioni e diminuzioni di stanziamento allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+27 gennaio 1924, nn. 108, 109, 112, 113, 128, 132, 145, 146, 148, 204, 206, concernenti approvazione di eccedenze di impegni risultanti dal rendiconto consuntivo, per l'esercizio finanziario 1921-22.
+
+27 gennaio 1924, nn. 106, 110, 114, 116, 117, 118, 119, 120, 121, 122, 127, 129, 130, 131, 143, 144, 147, 205, 217, 218, concernenti approvazioni di eccedenze d'impegni risultanti dal rendiconto consuntivo, per l'esercizio finanziario 1922 1923.
+
+31 gennaio 1924, n. 125. - Maggiori assegnazioni, per spese varie, allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1923-24.
+
+31 gennaio 1924, 344. - Variazioni allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24 per spese concernenti la milizia volontaria per la sicurezza nazionale.
+
+7 febbraio 1924, n. 219. - Variazioni allo stato di previsione della spesa del Ministero della pubblica istruzione, per l'esercizio 1923-24.
+
+23 febbraio 1924, n. 234. - Modifiche all'ordinamento degli organi e delle giurisdizioni istituite per la liquidazione delle gestioni transitorie di guerra e per il ricupero di lucri indebiti od eccessivi.
+
+24 febbraio 1924, n. 262. - Autorizzazione alla Cassa depositi e prestiti a fare anticipazioni al Tesoro dello Stato per opere dipendenti dal terremoto del 28 dicembre 1908.
+
+2 marzo 1924, n. 821. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero della giustizia, per l'esercizio finanziario 1923-24, e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze per lo stesso esercizio.
+
+2 marzo 1924, n. 282. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa dell'Amministrazione del fondo per il culto, per l'esercizio finanziario 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per lo stesso esercizio.
+
+2 marzo 1924, n. 284. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1923-24 per premi di operosita' al personale.
+
+2 marzo 1924, n. 285. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+2 marzo 1924, n. 315. - Maggiori assegnazioni per spese varie, allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1923-24.
+
+2 marzo 1924, n. 319. - Indennita' di licenziamento agli avventizi che siano allontanati dall'Amministrazione dello Stato per diminuite esigenze dei servizi.
+
+2 marzo 1924, n. 323. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero dell'economia nazionale, per lo esercizio finanziario 1923-24.
+
+2 marzo 1924, n. 324. - Modificazione alla denominazione dei capitoli 3 e 52 dello stato di previsione della spesa del Ministero delle poste e telegrafi, per l'esercizio finanziario 1923-24.
+
+2 marzo 1924, n. 348. - Maggiori assegnazioni e diminuzioni di stanziamenti per spese varie, nello stato di previsione nella spesa del Ministero delle colonie, per l'esercizio finanziario 1923-24.
+
+2 marzo 1924, n. 349. - Maggiore assegnazione allo stato di previsione alla spesa del Ministero delle colonie per l'esercizio finanziario 1923-24 per rinnovo di dotazioni distrutte dallo scoppio del forte Cecchi nella Somalia Italiana e conseguenti variazioni al bilancio di detta colonia per lo stesso esercizio.
+
+2 marzo 1924, n. 350. - Trasporto di fondi per spese del deposito centrale delle truppe coloniali dal bilancio della Tripolitania per l'esercizio finanziario 1923-24 nello stato di previsione dell'entrata ed in quello della spesa del Ministero delle colonie, per lo stesso esercizio.
+
+3 marzo 1924, n. 314. - Devoluzione allo Stato delle attivita', risultanti alla chiusura della liquidazione del Consorzio nazionale cooperativo importazione.
+
+6 marzo 1924, n. 283. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero delle finanze per d'esercizio finanziario 1923-24, e conseguenti variazioni allo stato di previsione dell'entrata, per lo stesso esercizio.
+
+18 marzo 1924, n. 345. - Maggiori assegnazioni nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24, per spese della Milizia volontaria per la sicurezza nazionale.
+
+20 marzo 1924, n. 441. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, allo stato di previsione della spesa del Ministero della giustizia, per l'esercizio finanziario 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze per lo stesso esercizio.
+
+20 marzo 1924, n. 443. - Maggiori assegnazioni e diminuzioni di stanziamento nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-1924 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per lo stesso esercizio.
+
+20 marzo 1924, n. 444. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie alo stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 446. - Maggiore assegnazione allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1923-24 per spese relative a missioni politiche e commerciali.
+
+20 marzo 1924, n. 447. - Maggiore assegnazione per pensioni ordinarie allo stato di previsione della spesa del Ministero delle colonie, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 448. - Maggiori assegnazioni per spese varie, allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 463. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 473. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, allo stato di previsione della spesa del Ministero dell'istruzione, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 474. - Maggiori assegnazioni e diminuzioni di stanziamento allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 476. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 477. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, nello stato di previsione nella spesa del Ministero delle poste e dei telegrafi, per l'esercizio finanziario 1923-24.
+
+20 marzo 1924, n. 528. - Assegnazione straordinaria per contributi alle missioni italiane in Cina.
+
+23 marzo 1924, n. 438. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, nello stato di previsione della spesa del Ministero delle finanze per l'esercizio finanziario 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata per lo stesso esercizio.
+
+23 marzo 1924, n. 445. - Variazioni compensative al bilancio del fondo per l'emigrazione per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 698. - Maggiore assegnazione per pensioni ordinarie, allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 713. - Maggiori assegnazioni, per spese varie, allo stato di previsione della spesa del Ministero per la giustizia, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 707. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie allo stato di previsione della spesa del Ministero delle poste e telegrafi, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 678. - Storno di fondi su taluni capitoli dello stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 703. - Maggiori assegnazioni, per spese concernenti l'aeronautica, allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 680. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 700. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 708. - Maggiore assegnazione, per provvedimenti a favore della citta' di Fiume, allo stato di previsione della spesa del Ministero delle poste e telegrafi, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 714. - Variazioni compensative al bilancio dell'Amministrazione del fondo per il culto e conseguente diminuzione di stanziamento allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 689. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 712. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie allo stato di previsione della spesa del Ministero dell'istruzione pubblica, e conseguente variazione allo stato di previsione dell'entrata, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 781. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, allo stato di previsione della spesa del Ministero delle poste e telegrafi, e conseguente variazione allo stato di previsione della entrata, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 694. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, allo stato di previsione della spesa del Ministero delle colonie, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 709. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 695. - Maggiori assegnazioni, per spese militari, allo stato di previsione della spesa del Ministero delle colonie, e conseguenti variazioni al bilancio della Cirenaica, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 693. - Maggiori assegnazioni, per spese militari, allo stato di previsione della spesa del Ministero delle colonie, e conseguenti variazioni al bilancio della Tripolitania, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 704. - Maggiore assegnazione, per anticipazione a favore del Governo di Rodi, allo stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 735. - Maggiori assegnazioni per spese varie, allo stato di previsione della spesa del Ministero della giustizia, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 699. - Variazioni agli stati di previsione della spesa dei Ministeri degli affari esteri e della guerra e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 710. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 951. - Maggiori assegnazioni per spese varie, allo stato di previsione della spesa del Ministero della marina, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 732. - Maggiori assegnazioni par spese varie, allo stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 810. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero della guerra, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 711. - Aumento di L. 80,000 del limite massimo per pensioni di autorita' da concedersi dal Ministero dell'istruzione pubblica, fino al 31 dicembre 1923.
+
+8 maggio 1924, n. 679. - Proroga al 30 giugno 1924 del termine per la presentazione delle domande di ratizzazione dei debiti dei Comuni verso consorzi granari.
+
+8 maggio 1924, n. 692. - Maggiori assegnazioni per spese varie allo stato di previsione della spesa del Ministero degli ettari esteri, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 736. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero dell'interno, per l'esercizio finanziario 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze per lo stesso esercizio.
+
+8 maggio 1924, n. 733. - Maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, allo stato di previsione della spesa del Ministero delle finanze, per l'esercizio finanziario 1923-24 e conseguenti variazioni a quello dell'entrata ed al bilancio dell'Amministrazione del Fondo per il culto, per lo stesso esercizio.
+
+8 maggio 1924, n. 777. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie, allo stato di previsione della spesa del Ministero dell'istruzione pubblica, per l'esercizio finanziario 1923-24 e conseguenti variazioni allo stato di previsione dell'entrata ed a quello della spesa del Ministero delle finanze per lo stesso esercizio.
+
+8 maggio 1924, n. 778. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie allo stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 734. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie allo stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio 1923-24.
+
+8 maggio 1924, n. 780. - Variazioni al bilancio delle ferrovie dello Stato, per l'esercizio finanziario 1923-24.
+
+8 maggio 1924, n. 843. - Aggiunte al Regio decreto 11 novembre 1923, n. 2895, e successive modificazioni sull'ordinamento gerarchico delle Amministrazioni dello Stato.
+
+8 maggio 1924, n. 779. - Aggiunte al Regio decreto 21 novembre 1923, n. 2480, e successive modificazioni, sulle pensioni normali del personale dell'Amministrazione dello Stato.
+
+22 maggio 1924, n. 894. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie nello stato di previsione della spesa del Ministero delle poste e telegrafi per l'esercizio 1923-24.
+
+22 maggio 1924, n. 816. - Maggiori assegnazioni per spese varie nello stato di previsione della spesa del Ministero degli affari esteri, per l'esercizio 1923-24.
+
+22 maggio 1924, n. 830. - Maggiore assegnazione per le spese derivanti dalla concessione della franchigia postale agli Istituti di assicurazione sociale, nello stato di previsione della spesa del Ministero dell'economia nazionale, per l'esercizio finanziario 1923-24.
+
+22 maggio 1924, n. 831. - Per storno di fondi nello stato di previsione della spesa del Ministero della giustizia e degli affari di culto per l'esercizio finanziario 1923-24 per spese gestite a cura del Provveditorato generale dello Stato e conseguenti variazioni nello stato di previsione dell'entrata e in quello della spesa del Ministero delle finanze, per l'esercizio medesimo.
+
+22 maggio 1924, n. 789. - Per maggiori assegnazioni e diminuzioni di stanziamento per spese varie, nello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1923-24 e conseguenti variazioni nello stato di previsione dell'entrata, per l'esercizio medesimo.
+
+22 maggio 1924, n. 787. - Maggiori assegnazioni e diminuzioni di stanziamento per spese varie nello stato di previsione della spesa del Ministero dell'interno, per l'esercizio 1923-24.
+
+22 maggio 1924, n. 833. - Per maggiori assegnazioni e diminuzioni di stanziamento per spese varie nello stato di previsione della spesa del Ministero delle colonie, per l'esercizio 1923-24.
+
+22 maggio 1924, n. 832. - Per passaggio di fondi dal bilancio del Ministero delle finanze a quello del Ministero della guerra, per l'esercizio 1923-24 per la regolazione contabile dei crediti di tesoreria derivanti dal cambio delle corone e dal ritiro dalla circolazione di buoni della Cassa veneta.
+
+22 maggio 1924, n. 788. - Per storno di fondi nello stato di previsione della spesa del Ministero delle finanze per l'esercizio 1923-24 per provvedere al rimborso all'Amministrazione delle ferrovie dello Stato dell'importo del carbone fornito alla citta' di Fiume.
+
+22 maggio 1924, n. 845. - Per maggiori assegnazioni e diminuzioni di stanziamento, per spese varie, nello stato di previsione della spesa del Ministero della marina, per l'esercizio 1923-24.
+
+22 maggio 1924, n. 786. - Per proroga al 1° luglio 1925 delle disposizioni relative ai pagamenti delle spese di bilancio che si contengono nel R. decreto 18 novembre 1923, numero 2440, sulla amministrazione del patrimonio e la contabilita' generale dello Stato.
+
+22 maggio 1924, n. 844. - Per norme integrative del R. decreto 30 dicembre 1923, n. 2994, sullo stato giuridico ed il trattamento economico dei salariati dell'Amministrazione dello Stato.
+
+22 maggio 1924, n. 856. - Per devoluzione al Ministero della guerra delle funzioni ed attribuzioni relative alla alienazione del materiale residuato dalla guerra gia' affidato al commissario straordinario delle ferrovie dello Stato.
+
+MINISTERO DELLA GUERRA.
+
+22 aprile 1915, n. 499. - Modificazioni degli articoli 45 e 51 della legge 18 luglio 1912, n. 806, sullo stato degli ufficiali del Regio esercito e della Regia marina.
+
+29 aprile 1915, n. 561. - Esonerazioni temporanee dal servizio effettivo sotto le armi dei militari richiamati.
+
+10 giugno 1915, n. 879. - Approvazione schema di convenzione col comune di Torino per permute di immobili e per la sistemazione dei servizi militari in detta citta'.
+
+5 ottobre 1916, n. 1314. - Riordinamento dell'Arma dei carabinieri Reali.
+
+14 giugno 1917, n. 1032. - Mantenimento e riassunzione in servizio dei militari invalidi della guerra, di cui all'art. 6 della legge 25 marzo 1917, n. 1481.
+
+5 dicembre 1918, n. 2123. - Sostituzione dell'art. 4 del decreto Luogotenenziale 23 dicembre 1915, n. 1950, relativo all'Associazione italiana dei cavalieri del Sovrano militare Ordine di Malta.
+
+20 febbraio 1919 n. 258. Avanzamento degli ufficiali reduci da prigionia di guerra.
+
+1° maggio 1919, n. 2523. - Approvazione schema di convenzione col comune di Torino per permute di immobili e per la sistemazione dei servizi militari in detta citta'.
+
+6 luglio 1919, n. 1420. - Decorrenza assegni in casi di promozione postuma di ufficiali del Regio esercito e della Regia marina, alle cui famiglie spetti la pensione privilegiata di guerra.
+
+12 ottobre 1919, n. 1935. - Avanzamento degli ufficiali reduci dalla prigionia di guerra.
+
+16 ottobre 1919, n. 1957. - Istituzione definitiva del grado di brigadiere generale.
+
+16 ottobre 1919, n. 1996. - Sullo stato dei sottufficiali del Regio esercito.
+
+26 ottobre 1919, n. 2388. - Riordinamento Consiglio di disciplina per gli ufficiali del Regio esercito e della Regia marina.
+
+2 novembre 1919, n. 2079. - Nuovi stipendi ed assegni fissi per gli ufficiali del Regio esercito.
+
+20 novembre 1919, n. 2145. - Istituzione della carica d'ispettore generale dell'esercito e del Consiglio degli ispettori generali.
+
+14 dicembre 1919, nn. 2469 e 2470. - Croce Rossa italiana.
+
+Attribuzioni dell'Associazione e condizione militare del personale della medesima chiamato in servizio d'ordine dell'autorita' militare.
+
+2 gennaio 1920, n. 148. - Nuovi stipendi ed assegni fissi per gli ufficiali del Regio esercito.
+
+29 gennaio 1920, n. 218. - Ordinamento del servizio di polizia mortuaria nel territorio di guerra.
+
+1 febbraio 1920, n. 128. - Arruolamento nell'Arma dei carabinieri Reali.
+
+26 febbraio 1920, n. 240. - Indennita' di carica ai giudici del Tribunale supremo di guerra e marina.
+
+7 marzo 1920, n. 351. - Sullo stato dei sottufficiali del Regio esercito.
+
+11 marzo 1920, n. 317. - Limiti di eta' per la permanenza dei generali dell'esercito in servizio attivo permanente.
+
+21 marzo 1920, n. 480. - Stato giuridico ed economico del personale d'ordine delle Amministrazioni militari provinciali.
+
+8 aprile 1920, n. 458. - Soppressione della sezione di revisione del Tribunale supremo di guerra e marina.
+
+20 aprile 1920, n. 451. - Ordinamento provvisorio del Regio esercito.
+
+20 aprile 1920, n. 452. - Modificazioni al testo unico delle leggi sul reclutamento del Regio esercito.
+
+20 aprile 1920, n. 453. - Sistemazione dei quadri degli ufficiali del Regio esercito per riduzione di ruoli organici.
+
+29 aprile 1920, n. 556. - Cessazione di alcune indennita' militari.
+
+9 maggio 1920, n. 950. - Cessazione del tempo utile per il computo delle indennita' di congedamento agli ufficiali.
+
+3 giugno 1920, n. 710. - Norme a complemento del Regio decreto 20 aprile 1920, n. 453, relativo all'esodo degli ufficiali esuberanti per riduzione di ruoli.
+
+22 gennaio 1920, n. 849. - Soppressione della Direzione generale aeronautica alla dipendenza del Ministero industria e commercio, e trasferimento delle sue attribuzioni al Ministero della guerra.
+
+4 luglio 1920, n. 1165. - Nuova circoscrizione territoriale dei tribunali militari esistenti in ciascun Corpo d'armata.
+
+22 agosto 1920, n. 1263. - Modificazioni al decreto Luogotenenziale 24 giugno 1915, n. 903, ed al Regio decreto 11 settembre 1919, n. 1736, contenenti disposizioni relative al matrimonio dei militari del Regio esercito e della Regia marina.
+
+14 settembre 1920, n. 1481. - Abolizione della qualita' di comandante di Corpo per i comandanti di deposito e dei centri di mobilitazione principali.
+
+5 novembre 1920, n. 1597. - Sostituzione di una Direzione centrale di sanita' militare ai cessati Ispettorati di sanita' e Direzione generale di sanita' militare.
+
+7 novembre 1920, n. 1770. - Concessione al presidente della Corte di cassazione o equiparato, che presiede il Tribunale supremo di guerra e marina nei giudizi di revisione a senso del R. decreto 8 aprile 1920, n. 458, di una indennita' annua di L. 4800.
+
+10 novembre 1920, n. 1852. - Modificazione art. 34 del testo unico delle leggi sul reclutamento 24 dicembre 1911, numero 1497, relativo alla corresponsione di mezzi di viaggio agli inscritti di leva chiamati per l'esame personale.
+
+30 dicembre 1920, n. 1907. - Modificazioni al R. decreto 20 aprile 1920, n. 451, relativo all'ordinamento provvisorio del Regio esercito.
+
+3 febbraio 1921, n. 55. - Nuovi stipendi ed assegni fissi per gli ufficiali del Regio esercito.
+
+6 febbraio 1921, n. 109. - Sostituzione delle indennita' professionali a quella per i servizi speciali stabilita pel corpo sanitario militare della tabella B annessa al R. decreto 2 novembre 1919, n. 2079.
+
+10 febbraio 1921, n. 125. - Sullo stato dei sottufficiali del Regio esercito.
+
+24 agosto 1921, n. 1272. - Modificazioni al testo unico delle leggi sugli stipendi ed assegni fissi pel Regio esercito 14 luglio 1898, n. 830, relativamente alla indennita' cavalli e razioni foraggio.
+
+24 agosto 1921, n. 1375. - Modificazioni dell'elenco delle imperfezioni infermita' che sono causa di assoluta o temporanea al servizio militare.
+
+26 marzo 1922, n. 403. - Nuovi stipendi ed assegni fissi per gli ufficiali del Regio esercito.
+
+22 settembre 1922, n. 1317. - Proroga ai termini fissati dalla legge 11 agosto 1921, n. 1074, per la presentazione delle domande per il trasporto gratuito delle salme dei caduti in guerra.
+
+2 ottobre 1922, n. 1378. - Conferimento ai Comandi di divisione di fanteria e alpini della giurisdizione territoriale agli effetti della formazione e del funzionamento del Consiglio di disciplina.
+
+19 ottobre 1922, n. 1362. - Concessione all'Associazione nazionale madri e vedove dei caduti in guerra dell'esclusivita' della coniazione e vendita della medaglia a ricordo dell'Unita' d'Italia.
+
+23 ottobre 1922, n. 1358. - Il Comando superiore d'aeronautica cessa di appartenere al Ministero della guerra e rientra a far parte dell'Arma aeronautica.
+
+23 ottobre 1922, n. 1474. - Servizio alle armi dei militari ascritti alla ferma ridotta.
+
+27 ottobre 1922, n. 1457. - Tabelle di composizione del Consiglio di disciplina per gli ufficiali del Regio esercito e della Regia marina.
+
+29 ottobre 1922, n. 1552. - Cessazione della carica di vescovo di campo e temporaneo mantenimento di un nucleo di cappellani militari.
+
+3 dicembre 1922, n. 1581. - Sistemazione dei depositi di esplosivi.
+
+3 dicembre 1922, n. 1611. - Tabelle di stipendi e norme di carriera per gli impiegati civili delle Amministrazioni militari dipendenti.
+
+19 luglio 1923, n. 1722. - Conferimento all'Amministrazione militare, sino al 31 dicembre 1924, della facolta' di compilare e di rettificare gli atti di morte dei militari deceduti in guerra.
+
+24 settembre 1923, n. 2307. - Proroga del termine per il temporaneo mantenimento in servizio di un nucleo di cappellani militari.
+
+31 ottobre 1923, n. 2606. - Modificazione al R. decreto-legge 16 ottobre, 1919, n. 1986, concernente lo stato giuridico ed economico dei sottufficiali del Regio esercito.
+
+31 ottobre 1923, n. 2937. - Regolarizzazione delle occupazioni di immobili effettuate, prima e durante la guerra, per opere militari nella ex-zona di guerra.
+
+1° marzo 1924, n. 418. - Modificazioni ai Regi decreti 31 ottobre 1923, nn. 2833 e 2834, relativi ai concorsi per esami per talune categorie di personale civile dell'Istituto geografico militare e delle Amministrazioni militari dipendenti.
+
+17 marzo 1924, n. 383. - Modificazione agli obblighi di servizio militare degli studenti di teologia e dei sacerdoti cattolici.
+
+16 aprile 1924, n. 762, che modifica l'articolo 9 del Regio decreto 30 dicembre 1923, n. 2982, sull'ordinamento della scuola di guerra e sul reclutamento per il servizio di Stato maggiore.
+
+MINISTERO DELLA MARINA.
+
+1° ottobre 1916, n. 1324, col quale i tenenti del Corpo Reale equipaggi possono essere promossi capitani dopo compiuti dodici anni complessivamente nei gradi di tenente e sottotenente.
+
+28 dicembre 1916, n. 1838. - Approvazione della convenzione in data 10 giugno 1916 con l'onorevole Marconi per il servizio radiotelegrafico e radiotelefonico commerciale e militare delle stazioni costiere in Italia e nelle colonie.
+
+27 ottobre 1918, n. 1782. - Modificazione all'art. 2 del decreto luogotenenziale 12 agosto 1915, n. 1428, relativamente ai soci dell'istituto di soccorso «Giuseppe Kirner».
+
+9 febbraio 1919, n. 232. - Istituzione di un tribunale militare marittimo a Taranto.
+
+8 giugno 1919, n. 1067. - Norme circa gli esami degli aspiranti ai gradi di capitano di gran cabotaggio, di macchinista navale in seconda e di costruttore navale di seconda classe.
+
+8 giugno 1919, n. 1085. - Provvedimenti per le navi asilo.
+
+21 giugno 1919, n. 1089. - Istituzione presso il Ministero della marina di un Consiglio ed una Giunta per l'istruzione nautica, determinandone l'ordinamento e le attribuzioni.
+
+17 luglio 1919, n. 1421. - Avanzamento in relazione alle vacanze dei ruoli fuori quadro degli ufficiali di tutti i corpi della Regia marina e nel ruolo dei sotto-ammiragli.
+
+10 agosto 1919, n. 1469. - Provvedimenti a favore del personale civile tecnico della Regia marina.
+
+10 agosto 1919, n. 1473, che fa cessare l'applicazione delle norme di avanzamento per il tempo di guerra per i corpi militari della Regia marina.
+
+20 ottobre 1919, n. 1988. - Ordinamento del Corpo Reale equipaggi e stato giuridico dei sottufficiali della Regia marina; e Regi decreti 24 novembre, 1919, n. 2328; 11 marzo 1920, n. 347; 16 dicembre 1920, n. 1834; 9 febbraio 1922, n. 379; 14 giugno 1923, n. 1483; 2 dicembre 1923, n. 2930; 26 febbraio 1924, n. 317, che lo modificano.
+
+20 novembre 1919, n. 2352, e Regi decreti 2 maggio 1920, n. 643; 21 dicembre 1922, n. 1798; 4 marzo 1923, n. 617; 12 luglio 1923, n. 1715; 21 ottobre 1923, n. 2563 e 27 gennaio 1924, n. 158, riguardanti i corpi consultivi della Regia marina e l'avanzamento degli ufficiali.
+
+(Escluso dalla conversione il 2° comma dell'art. 1 del R. decreto 2 maggio 1920, n. 643, gia' convalidato con la legge 18 febbraio 1923, n. 322).
+
+22 aprile 1920, n. 472; 6 giugno 1920, n. 730, circa la riduzione dei quadri organici degli ufficiali della Regia marina e 5 agosto 1920, n. 1131, che determina i quadri definitivi degli ufficiali della Regia marina.
+
+8 luglio 1920, n. 1028, che modifica l'art. 5 di quello 24 novembre 1919, n. 2326, relativamente ai concorsi per le cattedre dei Regi istituti nautici.
+
+25 agosto 1920, n. 1266, che sostituisce la tabella A annessa al decreto luogotenenziale 21 giugno 1919, n. 1086, relativo alle spese di mantenimento degli Istituti nautici.
+
+3 settembre 1920, n. 1387. - Passaggio al Ministero del lavoro dell'Opera nazionale di patronato delle navi asilo.
+
+28 agosto 1921, n. 1297, che abroga il decreto luogotenenziale 9 dicembre 1915, n. 1737, recante provvedimenti per regolare il movimento del porto di Genova.
+
+28 agosto 1921, n. 1394, e 9 giugno 1921, n. 1213, che prorogano la validita' delle norme relative all'esercizio del diritto di preda approvate col decreto luogotenenziale 25 marzo 1917, n. 600.
+
+6 ottobre 1921, n. 1428, che estende la giurisdizione del tribunale di guerra di Costantinopoli ai militari della Regia marina.
+
+23 novembre 1921, n. 1735, relativo alle scuole nautiche.
+
+29 dicembre 1921, n. 2080. - Ritardo alla presentazione alle armi degli studenti delle scuole medie di grado superiore; e Regio decreto 2 dicembre 1923, n. 2728, circa ritardo alla presentazione al servizio militare degli alunni inscritti negli Istituti nautici privati.
+
+29 gennaio 1922, n. 161, circa la cessazione della limitazione degli stipendi agli ufficiali della Regia marina.
+
+5 febbraio 1922, n. 378, che stabilisce gli assegni dovuti ai militari del Corpo Reale equipaggi in viaggio od in missione per motivi di servizio.
+
+27 ottobre 1922, n. 1462, che stabilisce i nuovi stipendi ed indennita' per gli ufficiali e sottufficiali della Regia marina.
+
+21 dicembre 1922, n. 1799. - Funzionamento delle stazioni radiotelegrafiche all'estero.
+
+21 dicembre 1922, n. 1800, che stabilisce i limiti di servizio effettivo dopo i quali ciascuna unita' inscritta nel Regio naviglio deve essere radiata; e Regi decreti 4 febbraio 1923, n. 429, e 2 dicembre 1923, n. 3221.
+
+21 dicembre 1922, n. 1801, che autorizza la Cassa depositi e prestiti ad anticipare allo Stato la somma occorrente per la costruzione e l'arredamento del Regio Istituto di biologia marina per il Tirreno in San Bartolomeo di Cagliari.
+
+4 gennaio 1923, n. 56, col quale viene indetta una sessione straordinaria di esami di licenza nei Regi istituti nautici.
+
+4 gennaio 1923, n. 74. - Trasferimento nei ruoli del servizio attivo permanente di ufficiali inferiori di vascello di complemento appartenenti alle nuove provincie.
+
+4 febbraio 1923, n. 413, circa compensi da corrispondere ai ricuperatori di siluri, torpedini ed armi subacquee.
+
+4 febbraio 1923, n. 414, circa il computo delle medie quinquennali agli effetti dell'art. 21 della legge sullo stato degli ufficiali.
+
+25 febbraio 1923, n. 557, circa indennita' di carica agli ufficiali destinati al Comando superiore del Corpo Reali equipaggi; e Regio decreto 24 settembre 1923, n. 2212, che lo modifica.
+
+8 marzo 1923, n. 688, che istituisce gli ufficiali chimici farmacisti della Regia marina in servizio attivo permanente; e Regio decreto 12 luglio 1923, n. 1716, che lo modifica.
+
+15 luglio 1923, n. 1721, col quale viene stabilito il diritto a trattamento di pensione alla vedova ed altri eredi del capitano di corvetta Gulli Tommaso e del motorista Rossi Aldo caduti vittime del loro dovere l'11 luglio 1920 a Spalato; e Regio decreto 26 febbraio 1924, n. 325, che lo abroga stabilendo un nuovo trattamento di pensione.
+
+10 settembre 1923, n. 2057. - Modifiche ed aggiunte al decreto 8 giugno 1919, n. 1085, circa le navi asilo.
+
+10 settembre 1923, n. 2058, concernente il trattamento economico dei sottocapi e comuni del Corpo Reale equipaggi.
+
+24 settembre 1923, n. 2214, contenente disposizioni circa impiegati pubblici o privati richiamati in servizio nella qualita' di ufficiali e sottufficiali della Regia marina in congedo.
+
+2 dicembre 1923, n. 2727, circa assegni da corrispondere al nuovo grado di capo di terza classe nei sottufficiali della Regia marina.
+
+26 febbraio 1924, n. 316, che apporta modificazioni all'articolo 13 del Regio decreto-legge 2 maggio 1920, n. 621, circa l'arruolamento volontario nel Corpo Reali equipaggi.
+
+24 aprile 1924, n. 597, circa disposizioni interpretative del Regio decreto 11 gennaio 1923, n. 135, concernente gli ufficiali della Regia marina.
+
+4 maggio 1924, n. 765, che rende possibile di affidare agli insegnanti dei Regi istituti nautici un numero di ore di lezioni eccedenti l'insegnamento d'obbligo.
+
+4 maggio 1924, n. 764. - Abolizione del ruolo invalidi del Corpo Reale equipaggi.
+
+4 maggio 1924, n. 835, che porta varianti alla legge 23 giugno 1912, n. 637, concernente il Corpo civile insegnante della Regia Accademia navale.
+
+4 maggio 1924, n. 994, che modifica la composizione del Regio Comitato talassografico.
+
+4 maggio 1924, n. 871, che concede un'indennizzo ai proprietari del piroscafo «Generoso» affondato in Mar Nero per necessita' belliche.
+
+23 maggio 1924, n. 870, circa promozioni degli ufficiali della Regia marina fuori quadro.
+
+MINISTERO DELL'ISTRUZIONE PUBBLICA.
+
+14 maggio 1916, n. 634. - Norme circa l'efficacia dei titoli di abilitazione all'insegnamento consentiti nell'Impero austro-ungarico e sospensione delle regificazioni, delle istituzioni di scuole medie e normali e dell'attuazione di talune norme della legge 16 luglio 1914, n. 679.
+
+21 maggio 1916, n. 699. - Disposizioni sugli esami nelle scuole medie, normali e nei corsi magistrali per l'anno scolastico 1915-16.
+
+12 ottobre 1916, n. 1570. - Computo dell'insegnamento esercitato dai professori italiani negli istituti superiori della monarchia austro-ungarica.
+
+5 novembre 1916, n. 1649. - Servizio degli economati negli uffici delle antichita' e belle arti durante lo stato di guerra.
+
+7 gennaio 1917, n. 36. - Disposizioni per gli esami nelle scuole medie.
+
+14 gennaio 1917, n. 191. - Permuta di quadri della Galleria nazionale d'arte moderna in Roma.
+
+1° febbraio 1917, n. 325. - Approvazione della convenzione relativa alla sistemazione degli edifici monumentali di S. Miniato al Monte presso Firenze.
+
+10 maggio 1917, n. 832. - Disposizioni pel periodo di prova degli insegnanti e dei capi di istituto d'istruzione media.
+
+24 maggio 1917, n. 969. - Disposizioni per gli esami nelle scuole medie e normali e nei corsi magistrali.
+
+31 maggio 1917, n. 968. - Proroga di un anno per la chiusura dei convitti annessi ai Regi conservatori di musica di Palermo e Parma.
+
+29 luglio 1917, n. 1593. - Stanziamento di fondi per il pagamento del corrispettivo dovuto all'Amministrazione ospedaliera di Pisa per il mantenimento di quelle cliniche universitarie nel biennio 1923-24.
+
+2 settembre 1917, n. 1521. - Istituzione delle biblioteche nelle scuole elementari del Regno.
+
+3 febbraio 1918, n. 348 - Inapplicabilita' delle disposizioni degli articoli 9 e 10 del Testo unico 20 maggio 1917, n. 217, circa le tasse di registro quando da parte del Governo si faccia uso del diritto di prelazione stabilito dall'art. 6 della legge 20 giugno 1909, n. 364.
+
+14 aprile 1918, n. 519. - Provvedimenti per l'istruzione media e normale ed istituzione di una speciale Commissione per l'esame delle domande e dei titoli degli insegnanti che aspirano ad essere trasferiti in sedi di primaria importanza.
+
+28 aprile 1918, n. 734. - Esonero per l'anno scolastico 1917-1918 da qualsiasi tassa per gli alunni provenienti da scuola pubblica e appartenenti a famiglie danneggiate dai terremoti e norme per la concessione medesima.
+
+5 maggio 1918, n. 939. - Modificazioni alla legge 26 giugno 1913, n. 836, relativa all'ordinamento e funzionamento dell'Istituto nazionale per gli orfani dei maestri elementari.
+
+12 maggio 1918, n. 683. - Sostituzione di nuove tabelle alle tabelle A e C annesse al Testo unico delle leggi sull'istruzione superiore e rispettivamente modificate con leggi 5 giugno 1913, n. 768, e 19 luglio 1914, n. 795.
+
+12 maggio 1918, n. 733. - Acquisto da parte dello Stato della biblioteca Chigiana.
+
+16 maggio 1918, n. 731. - Provvedimenti circa la dispensa dagli esami e provvedimenti sugli esami delle Regie scuole medie e magistrali.
+
+14 luglio 1918, n. 1210. - Modifica dell'ultimo comma dell'articolo 10 della legge 8 aprile 1906, n. 142, circa gli stipendi della carriera del personale delle scuole medie governative.
+
+28 luglio 1918, n. 1250. - Esenzione dalla tassa scolastica a favore degli alunni appartenenti a famiglie danneggiate dai terremoti, pel diploma di maturita'.
+
+28 luglio 1918, n. 1342. - Aumento del numero degli insegnanti di canto nelle Regie scuole normali.
+
+19 settembre 1918, n. 1549. - Proroga, fine al termine dell'esercizio finanziario entro il quale sara' conclusa la pace, del termine di cui all'articolo 30, 3° comma della legge 6 luglio 1912, n. 734, circa le spese corrisposte dallo Stato per il personale dei convitti annessi ai Regi conservatori di musica di Palermo e Parma.
+
+29 settembre 1918, n. 1566. - Nomine nel ruolo del personale insegnante delle scuole medie e normali governative.
+
+6 ottobre 1918, n. 1623. - Liquidazione provvisoria e pagamento dei rimborsi e concorsi scolastici per l'anno 1918, dovuti dallo Stato ai comuni che conservano la diretta amministrazione delle proprie scuole elementari.
+
+6 ottobre 1918, n. 1775. - Promozioni ad effettivi ed ordinari dei capi d'istituto incaricati e degli insegnanti straordinari d'istruzione media nel periodo di prova.
+
+27 ottobre 1918, n. 1826. - Nomina degli insegnanti supplenti, incaricati e straordinari d'insegnamenti speciali e di classi aggiunte nei Regi istituti di belle arti, di musica e di arte drammatica e pagamento di indennita' e retribuzioni agli insegnanti medesimi.
+
+21 novembre 1918, n. 2078. - Sopratassa di ammissione di esame e tassa di diploma per inscritti ai corsi pel conseguimento di diplomi speciali.
+
+8 dicembre 1918, n. 1914. - Norme speciali per l'espropriazione e la occupazione degl'immobili compresi nel perimetro della zona monumentale di Roma.
+
+5 gennaio 1919, n. 82. - Scambi di insegnanti e di studenti coi paesi esteri.
+
+20 febbraio 1919, n. 499. - Concessione della dispensa dagli esami di promozione o di licenza agli alunni di scuole medie e normali o di corsi magistrali.
+
+27 febbraio 1919, n. 464. - Modifica al decreto-legge 31 dicembre 1915, n. 1945, sull'ordinamento del Consiglio superiore delle antichita' e belle arti.
+
+27 febbraio 1919, n 564. - Autorizzazione al Ministero della pubblica istruzione a ripartire nell'anno 1919 la quota di concessione di prestiti per edifici scolastici attribuita al 2° semestre 1921 della legge 7 giugno 1911, n. 487.
+
+2 marzo 1919, n. 405. - Esonero per l'anno scolastico 1918-1919 da qualsiasi tassa e sovratassa d'iscrizione alle scuole medie e normali e ai corsi magistrali, nonche' per il conseguimento del relativo diploma agli appartenenti a famiglie danneggiate dai terremoti 1913, 1916 e 1917.
+
+13 aprile 1919, n. 610. - Modificazione dell'ordinamento e del funzionamento del Consiglio superiore dell'istruzione pubblica e della sezione per l'istruzione media costituita in seno al Consiglio medesimo.
+
+21 aprile 1919, n. 717. - Autorizzazione per l'assegnazione di L. 500 mila nella parte straordinaria dello stato di previsione della spesa del Ministero della pubblica istruzione per l'esercizio finanziario 1918-19 per l'arredamento delle scuole elementari nei comuni gia' occupati dal nemico.
+
+24 aprile 1919, n. 719. - Ruoli organici dei posti di professore ordinario delle universita' e di alcuni istituti di istruzione superiore.
+
+25 aprile 1919, n. 615. - Provvedimenti per l'apertura di concorsi a cattedre di scuole medie.
+
+27 aprile 1919, n. 771. - Ordinamento del servizio di vigilanza sull'istruzione primaria e popolare.
+
+27 aprile 1919, n. 812. - Approvazione della convenzione stipulata tra lo Stato e il comune di Firenze per la Galleria d'arte moderna in quella citta'.
+
+8 maggio 1919, n. 811. - Autorizzazione per lo stanziamento di fondi a favore dell'Istituto di elettroterapia e radiologia della Regia universita' di Roma.
+
+12 giugno 1919, n. 1008. - Disposizioni speciali per gli esami nelle scuole medie e magistrali per i mutilati ed invalidi di guerra nonche' di coloro che dalla nascita o per infermita' o per infortunio siano privi degli organi indispensabili pel compimento delle prove.
+
+19 giugno 1919, n. 1090. - Abrogazione dell'articolo 3 del decreto luogotenenziale 31 agosto 1915, n. 1420, e norme per il conferimento delle cattedre vacanti nelle scuole medie e normali pareggiate.
+
+19 giugno 1919, n. 1158. - Proroga per un quinquennio del termine indicato nel secondo comma dell'articolo 59 della legge 16 luglio 1914, n. 679, relativamente ai limiti di eta' dei capi d'istituto ed insegnanti delle scuole medie e normali.
+
+19 giugno 1919, n. 1614. - Nomine di nuovi impiegati e di agenti di ruolo del personale assistente, tecnico e subalterno delle universita', degli istituti di istruzione superiore e degli istituti superiori di magistero femminile.
+
+6 luglio 1919, n. 1186. - Nuovi stipendi e carriera del personale direttivo, insegnante e di servizio nelle scuole medie e normali.
+
+6 luglio 1919, n. 1239. - Tabelle degli stipendi e delle indennita' di residenza dovute agli insegnanti ordinari e straordinari delle scuole elementari.
+
+6 luglio 1919, n. 1387. - Ruoli organici di alcuni Regi educandati.
+
+8 luglio 1919, n. 1522. - Proroga all'anno scolastico 1918-19 delle disposizioni del decreto-legge 28 luglio 1918, n. 1250.
+
+8 luglio 1919, n. 1586. - Trasferimenti di professori italiani che esercitano insegnamenti presso universita' estere e cattedre di universita' e di istituti di istruzione superiore nel Regno.
+
+14 agosto 1919, n. 1836. - Ammissione di mutilati di guerra nel ruolo organico dei custodi dei monumenti gallerie e scavi di antichita';
+
+17 agosto 1919, n. 1703. - Provvedimenti relativi al personale degli istituti superiori di magistero femminile.
+
+17 agosto 1919, n. 1704. - Provvedimenti relativi al personale della scuola normale superiore di Pisa.
+
+17 agosto 1919, n. 1705. - Provvedimenti relativi al personale dell'Ufficio tecnico della Regia universita' di Roma.
+
+17 agosto 1919, n. 1706. - Provvedimenti relativi al personale assistente tecnico subalterno e vario delle universita' e degli istituti di istruzione superiore.
+
+17 agosto 1919, n. 1707. - Provvedimenti relativi al personale insegnante delle universita' ed istituti d'istruzione superiore.
+
+17 agosto 1919, n. 1708. - Conferimento di un premio all'autore della migliore produzione drammatica.
+
+17 agosto 1919, n. 1741. - Provvedimenti relativi alle scuole universitarie annesse ai licei di Aquila, Bari e Catanzaro.
+
+29 agosto 1919, n. 1675. - Modifica delle norme per l'assunzione del personale insegnante nelle pubbliche scuole elementari.
+
+2 settembre 1919, n. 1652. - Concorsi a cattedre universitarie.
+
+2 ottobre 1919, n. 2049. - Provvedimenti relativi al personale dell'Amministrazione universitaria.
+
+2 ottobre 1919, n. 2074. - Ordinamento del personale delle biblioteche pubbliche governative.
+
+6ottobre 1919, n. 2048. - Approvazione di una nuova convenzione per l'universita' di Macerata.
+
+6 ottobre 1919, n. 2127. - Approvazione delle nuove tabelle organiche del personale dell'Amministrazione delle antichita' e belle arti e relativo trattamento economico.
+
+31 ottobre 1919, n. 2593. - Istituzione di una scuola superiore di architettura in Roma.
+
+31 ottobre 1919, n. 2211. - Modificazione delle tabelle D e R annesse alla legge 6 aprile 1912, n. 734, relativamente alle tasse di diploma e annuali per i Regi istituti di belle arti, di musica e norme per il funzionamento degli istituti medesimi.
+
+9 novembre 1919, n. 2285. - Norme per i concorsi dei maestri provvisori e supplenti.
+
+20 novembre 1919, n. 2630. - Decentramento di alcune attribuzioni dell'Amministrazione dell'istruzione pubblica relative alle scuole medie e normali.
+
+25 novembre 1919, n. 2592. - Facolta' al Ministero della pubblica istruzione di provvedere a nomine della meta' dei posti vacanti nel ruolo organico del personale della antichita' approvato con la legge 27 giugno 1907, n. 386.
+
+27 novembre 1919, n. 2639. - Data di inscrizione per l'anno scolastico 1919-20 degli alunni e costituzione delle classi aggiunte nelle scuole medie.
+
+28 dicembre 1919, n. 2590. - Modifica di alcune disposizioni del decreto-legge luogotenenziale 25 aprile 1919, n. 615, riguardante i concorsi a cattedre vacanti nelle scuole medie.
+
+1° febbraio 1920, n. 236. - Abrogazione del decreto Luogotenenziale 25 novembre 1917, n. 1950, contenente provvedimenti a favore del personale degli istituti di istruzione e di educazione dei territori sgombrati dalla popolazione civile per ragioni militari.
+
+7 marzo 1920, n. 563. - Retribuzione ai capi d'istituto e alle maestre giardiniere.
+
+7 marzo 1920, n. 697. - Disposizioni derogative al R. decreto 17 agosto 1919, n. 1568, relativamente agli esami nelle scuole medie.
+
+9 maggio 1920, n. 749. - Provvedimenti per il riconoscimento dei servizi pregovernativi e fuori ruolo degli insegnanti delle scuole medie e normali.
+
+9 maggio 1920, n. 1058. - Aumento della misura delle tasse e sovratasse scolastiche nelle Regie universita', negli istituti superiori di magistero femminile di Roma e Firenze, nelle Regie scuole medie e normali e nei Regi istituti di belle arti, di musica e d'arte drammatica.
+
+30 maggio 1920, n. 793. - Tassa di esportazione sulle cose d'arte di interesse paleontologico, archeologico e numismatico.
+
+30 maggio 1920, n. 926. - Concorsi a cattedre nelle universita', istituti d'istruzione superiore e istituti superiori di magistero femminile.
+
+3 giugno 1920, n. 862. - Nuova misura delle tasse d'ingresso nei musei, nelle gallerie e negli scavi archeologici.
+
+10 giugno 1920, n. 911. - Aumento del numero delle cattedre di scuole medie e normali alle quali potra' provvedersi con concorsi banditi a norma dell'art. 2 del decreto-legge Luogotenenziale 25 aprile 1919, n. 615.
+
+1° settembre 1920, n. 1248. - Disposizioni per i concorsi e nomine del personale direttivo ed insegnante delle scuole elementari.
+
+23 settembre 1920, n. 1561. - Modifica della tabella C annessa al R. decreto-legge 9 maggio 1920, n. 1058, e misura della tassa d'immatricolazione nei licei per l'anno scolastico 1920-21.
+
+8 ottobre 1920, n. 1725. - Miglioramenti economici a favore dell'ufficiale d'ordine dell'Istituto nazionale, per gli orfani dei maestri elementari.
+
+26 ottobre 1920, n. 1720. - Valutazione del servizio prestato nella trattazione degli affari scolastici delle nuove Provincie.
+
+5 dicembre 1920, n. 1929. - Abrogazione del decreto-legge Luogotenenziale 5 gennaio 1919, n. 82, eccezione fatta per le disposizioni transitorie contenute nel decreto stesso.
+
+6 gennaio 1921, n. 512. - Proroga del termine stabilito dall'art. 36 del R. decreto 4 maggio 1920, n. 432, per la dispensa dal servizio del personale dipendente dalla Direzione generale delle antichita' e belle arti.
+
+6 gennaio 1921, n. 184. - Concessione di una quarta sessione straordinaria di licenza dalle regie scuole medie a favore di militari ed ex-militari.
+
+21 gennaio 1921, n. 127. - Modifica del decreto-legge Luogotenenziale 27 aprile 1919, n. 771, circa l'ordinamento del servizio di vigilanza per l'istruzione primaria e popolare.
+
+23 gennaio 1921, n. 364. - Approvazione della tabella dei contributi dovuti all'erario per la regificazione e la istituzione di scuole medie e normali.
+
+25 gennaio 1921, n. 126. - Modificazioni al R. decreto-legge 2 settembre 1919, n. 1652, relativo a concorsi a cattedre universitarie.
+
+20 marzo 1921, n. 475. - Provvedimenti per il personale dei convitti nazionali.
+
+21 marzo 1921, n. 401. - Estensione delle disposizioni relative al fondo per assegni di cointeressenza al personale dei ruoli provinciali speciali e tecnici dipendenti dal Ministero della pubblica istruzione.
+
+24 marzo 1921, n. 400. - Concessione di retribuzione straordinaria a talune categorie del personale dipendente dal Ministero dell'istruzione pubblica.
+
+14 aprile 1921, n. 836. - Ordinamento del servizio di vigilanza per l'istruzione primaria e popolare.
+
+8 giugno 1921, n. 1573. - Estensione alle scuole medie e magistrali e ai licei provinciali di cultura di lingua italiana nelle nuove Provincie della validita' dei titoli di abilitazione all'insegnamento nelle scuole medie e normali richiesti nel Regno.
+
+21 giugno 1921, n. 1661. - Ammissione ai concorsi e conferimenti di incarichi a professori delle nuove Provincie.
+
+26 giugno 1921, n. 1557. - Soppressione del ruolo organico del personale dell'Ufficio tecnico per la Costruzione degli edifici scolastici alla dipendenza del Ministero della pubblica istruzione e passaggio degli ingegneri appartenenti al detto ruolo nel Regio corpo del Genio civile.
+
+28 agosto 1921, n. 1371. - Costituzione dell'opera contro l'analfabetismo.
+
+28 agosto 1921, n. 1627. - Obbligo della frequenza scolastica ed istituzioni di scuole popolari italiane nelle nuove Provincie.
+
+6 settembre 1921, n. 1588. - Proroga del termine fissato dall'art. 32 della legge 19 luglio 1909, n. 496, per la revisione delle tabelle del personale assistente tecnico e subalterno universitario.
+
+25 settembre 1921, n. 1396. - Equipollenza dei diplomi per l'esercizio delle professioni sanitarie conseguiti presso istituti della cessata Monarchia austro-ungarica.
+
+24 novembre 1921, n. 1975. - Proroga per l'anno scolastico 1921-22 delle disposizioni transitorie contenute nel decreto Luogotenenziale 5 gennaio 1919, n. 82, concernente scambi di insegnanti e di studenti con paesi esteri.
+
+24 novembre 1921, n. 2111. Modificazione del R. decreto-legge 9 maggio 1920, n. 749; concernente il riconoscimento dei servizi pregovernativi agli insegnanti delle scuole media e normali.
+
+5 febbraio 1922, n. 206. - Modificazioni alle norme dell'articolo 9 del R. decreto 6 ottobre 1919, n. 2127, circa la corresponsione della differenza tra stipendio di diritto e stipendio di fatto eccedente le lire duemila.
+
+23 febbraio 1922, n. 336. - Estensione al personale dell'Amministrazione universitaria e delle biblioteche governative delle disposizioni del R. decreto 24 agosto 1921, n. 1184, circa la corresponsione degli stipendi agli impiegati delle Amministrazioni dello Stato.
+
+16 novembre 1922, n. 1532. - Soppressione della libera docenza per esame.
+
+16 novembre 1922, n. 1546. - Istituzione di una tassa per l'ammissione a concorsi a cattedre di scuole dipendenti dal Ministero della pubblica istruzione.
+
+16 novembre 1922, n. 1547. - Norme per la decisione dei ricorsi contro provvedimenti inerenti al conferimento di supplenze ed incarichi ed all'assegnazione di insegnamenti per completamento d'orario nelle scuole medie e normali.
+
+16 novembre 1922, n. 1545. - Norme per i concorsi generali e speciali a cattedre di ruolo delle scuole medie e normali.
+
+3 dicembre 1922, n. 1592. - Concessione di una sessione straordinaria di esami di licenza dalle scuole medie e magistrali per gli ex-militari.
+
+21 dicembre 1922, n. 1837. - Autorizzazione all'acquisto della chiesa e dell'ex-convento di Sant'Adriano in Roma.
+
+21 dicembre 1922, n. 1859. - Maggiore assegnazione di lire 385,000 a favore dell'Accademia dei Lincei per tre esercizi a decorrere dall'esercizio 1922-23.
+
+11 febbraio 1923, n. 503. - Conferimento di un posto di bibliotecario nel ruolo del personale delle biblioteche governative alla signorina Pia Lecchi, sorella di Vittorio Locchi.
+
+11 febbraio 1923, n. 529. - Convenzione per l'assetto edilizio delle cliniche universitarie di Pisa.
+
+11 marzo 1923, n. 581. - Acquisto del palazzo Carpegna per la Regia universita' di Roma.
+
+11 marzo 1923, n. 620. - Modificazioni dell'art. 6 del R. decreto-legge 8 giugno 1921, n. 1573, relativo al riconoscimento dei diplomi di abilitazione all'insegnamento nelle scuole medie tedesche conseguiti dopo il 3 novembre 1918.
+
+11 marzo 1923, n. 623. - Istituzione presso il Convitto di Pisino di 80 posti gratuiti destinati ad alunni poveri e meritevoli della Venezia Giulia.
+
+11 marzo 1923, n. 624. - Istituzione presso l'educandato femminile di San Demetrio in Zara di 40 posti gratuiti destinati a giovanette orfane di guerra.
+
+10 maggio 1923, n. 1158. - Norme per il mutamento dei nomi delle vecchie strade e piazze comunali.
+
+12 maggio 1923, n. 1117. - Provvedimenti transitori per il trattamento di quiescenza agli insegnanti elementari.
+
+15 luglio 1923, n. 2213. - Facolta' al Governo di fissare e modificare senza limite di somma le tasse d'ingresso ai musei, monumenti, gallerie e scavi di antichita'.
+
+22 luglio 1923, n. 1981. - Esonero dalle tasse scolastiche degli alunni di scuole medie, magistrali ed agrarie appartenenti a famiglie dei Comuni danneggiati dall'eruzione dell'Etna.
+
+1° settembre 1923, n. 1894. - Istituzione di Regi istituti tecnici in Legnano, Milano, Napoli, Palermo e Roma.
+
+27 settembre 1923, n. 2210. - Istituzione ad Abbazia di un Regio ginnasio intitolato a Dante Alighieri.
+
+27 settembre 1923, n. 2211. - Istituzione di un Regio ginnasio in Brunico.
+
+27 settembre 1923, n. 2224. - Aumento dei posti gratuiti nell'Educandato femminile di San Demetrio in Zara.
+
+27 settembre 1923, n. 2268. - Istituzione in Castellammare Adriatico di un Regio istituto tecnico.
+
+21 ottobre 1923, n. 2415. - Istituzione a Rovigno di un Regio istituto tecnico.
+
+2 dicembre 1923, n. 3153. - Semplificazione della procedura per le pensioni dei maestri elementari.
+
+30 dicembre 1923, n. 2938. - Assegnazione di un fondo di L. 80,000 per la pubblicazione degli atti delle assemblee costituzionali italiane a cura dell'Accademia dei Lincei.
+
+31 dicembre 1923, n. 2996. - Trattamento economico dei Maestri elementari.
+
+3 febbraio 1924, n. 327. - Modificazioni al decreto-legge Luogotenenziale 12 agosto 1915, n. 1428, che costitui' l'istituto di soccorso Giuseppe Kirner di Firenze.
+
+10 febbraio 1924, n. 347. - Convenzione tra il Governo e gli Enti locali della provincia di Milano per l'assetto edilizio di quegli istituti superiori d'istruzione.
+
+28 marzo 1924, n. 507. - Istituzione di una scuola superiore di ingegneria mineraria presso la, scuola d'ingegneria di Roma.
+
+27 marzo 1924, n. 527. - Istituzione presso la Regia universita' di Roma di una scuola di scienze politiche.
+
+6 aprile 1924, n. 654. - Donazione di una raccolta artistica fatta allo Stato dal barone Giorgio Franchetti.
+
+10 aprile 1924, n. 539. - Semplificazione del sistema di liquidazione delle pensioni a favore degli insegnanti elementari collocati a riposo a termini del R. decreto-legge 12 maggio 1923, n. 1117.
+
+10 aprile 1924, n. 594. - Riordinamento dei Regi educandati femminili di Napoli.
+
+1° maggio 1924, n. 653. - Disposizioni concernenti gli istituti medi di istruzione.
+
+22 maggio 1924, n. 742. - Sistemazione del Real Palazzo e Parco di Capodimonte.
+
+22 maggio 1924, n. 743. - Tassa sulle tessere di libero ingresso agli Istituti di antichita' e belle arti.
+
+22 maggio 1924, n. 744. - Disposizioni concernenti l'istruzione superiore.
+
+MINISTERO DEI LAVORI PUBBLICI.
+
+12 ottobre 1913, n. 1261. - Approvazione del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908.
+
+11 luglio 1915, n. 1080. - Modificazioni alla legge 2 gennaio 1910, n. 5, riguardante la costruzione e ricostruzione delle strade di allacciamento per i Comuni isolati.
+
+11 luglio 1915, n. 1082. - Autorizzazione della maggiore spesa di L. 3,400,000 per il completamento del nuovo edificio destinato a sede del Ministero dei lavori pubblici.
+
+19 agosto 1915, n. 1371. - Disposizioni per le strade di accesso alle stazioni ferroviarie, ai porti ed approdi di piroscafi postali.
+
+11 novembre 1915, n. 1676. - Autorizzazione della maggiore spesa di L. 2,000,000 per lavori pel palazzo di Montecitorio in Roma.
+
+2 gennaio 1916, n. 20. - Sulle indennita' da corrispondersi per gite di servizio ai funzionari dell'Amministrazione centrale dei lavori pubblici e del Genio civile.
+
+30 gennaio 1916, n. 141. - Autorizzazione a prorogare la procedura abbreviata per 1a concessione di concorsi o di sussidi governativi.
+
+11 maggio 1916, n. 906. - Estensione ai Comuni colpiti dal terremoto del 28 dicembre 1908 delle norme tecniche ed igieniche per il terremoto del 13 gennaio 1915.
+
+1° giugno 1916, n. 970. - Autorizzazione della maggiore spesa di L. 304,400 per l'esecuzione di maggiori lavori a cura diretta dello Stato per la ferrovia Sacile-Aviano-Pinzano.
+
+13 giugno 1916, n. 971. - Autorizzazione della maggiore spesa di L. 900,000 per l'ultimazione a cura diretta dello Stato del tronco Udine-Paderno della ferrovia Udine-Maiano.
+
+27 agosto 1916, n. 1056. - Provvedimenti a favore dei danneggiati dai terremoti del 17 maggio e del 16 agosto 1916.
+
+3 settembre 1916, n. 1250. - Autorizzazione di spesa per la sistemazione del palazzo di Montecitorio in Roma e per opere urgenti nelle localita' danneggiate dal terremoto del 13 gennaio 1915 ed altre disposizioni concernenti le dette localita'.
+
+1° ottobre 1916, n. 1327. - Autorizzazione agli ingegneri capi del Genio civile nei paesi colpiti dai terremoti del 17 maggio e 16 agosto 1916, a fornire ai privati i materiali occorrenti alle riparazioni dei loro edifici.
+
+5 novembre 1916, n. 1526. - Approvazione del testo unico delle disposizioni emanate pel terremoto del 28 dicembre 1908.
+
+23 novembre 1916, n. 1663. - Applicazione di norme tecniche e igieniche per le costruzioni di edifici nei paesi latineggiati dai terremoti del 13 gennaio 1915, 17 maggio e 16 agosto 1916.
+
+25 gennaio 1917, n. 154. - Provvedimenti in dipendenza dei terremoti del 13 gennaio 1915, 17 maggio e 16 agosto 1916.
+
+22 febbraio 1917, n. 344. - Provvedimenti per le provincie sarde danneggiate dalla alluvione del febbraio 1917.
+
+29 aprile 1917, n. 697. - Provvedimenti a favore delle localita' colpite dal terremoto del 26 aprile 1917.
+
+13 maggio 1917, n. 838. - Autorizzazione di spese straordinarie per opere pubbliche, nonche' maggiori assegnazioni e diminuzioni di stanziamenti.
+
+31 maggio 1917, n. 1028. - Provvedimenti a favore dei danneggiati dai terremoti del 13 gennaio e 10 novembre 1915; del 21 e 22 aprile, 17 maggio, 4 luglio, 16 agosto e 16 novembre 1916; e del 26 aprile 1917.
+
+26 luglio 1917, n. 1340. - Proroga del termine per la somministrazione di materiali da costruzione ai privati danneggiati dai terremoti del 17 maggio e 16 agosto 1916, e da quello del 26 aprile 1917.
+
+26 luglio 1917, n. 1191. - Provvedimenti per la costruzione del nuovo porto di Venezia, in regione Marghera.
+
+26 luglio 1917, n. 1351. - Trasferimento al Ministero dell'istruzione pubblica della gestione dei fondi relativi alla costruzione degli edifici universitari e della Biblioteca nazionale di Napoli.
+
+29 luglio 1917, n. 1358. - Inclusione del comune di Terzigno nella tabella A allegata alla legge 19 luglio 1906, n. 390, che autorizza il rimborso delle spese sostenute per i lavori di sgombero e di riattamento delle strade e per la ricostruzione dei fabbricati nei Comuni danneggiati dalla eruzione del Vesuvio dell'aprile 1906.
+
+19 agosto 1917, n. 1399. - Approvazione del testo unico delle disposizioni emanate in dipendenza del terremoto del 28 dicembre 1908.
+
+23 agosto 1917, n. 1519. - Disposizioni circa il servizio notturno da prestarsi dal personale del Genio civile in caso di piena di corsi d'acqua.
+
+9 settembre 1917, n. 1543. - Autorizzazione di una ulteriore spesa di L. 1,500,000 per la sistemazione del palazzo di Montecitorio in Roma e sue adiacenze.
+
+4 ottobre 1917, n. 1679. - Provvedimenti per opere pubbliche a favore delle provincie di Aquila, Avellino, Benevento, Campobasso, Chieti e Teramo, ed autorizzazione di spesa e modificazioni di stanziamento nello stato di previsione della spesa del Ministero dei lavori pubblici, per l'esercizio 1917-18.
+
+7 ottobre 1917, n. 1807. - Autorizzazione di spese ed altri provvedimenti a favore dei danneggiati dai terremoti del 13 gennaio 1915, 26 aprile e 12 gennaio 1917.
+
+17 gennaio 1918, n. 318. - Proroga di alcuni termini contenuti in precedenti leggi e decreti emanati in seguito ai terremoti del 28 dicembre 1908, 13 gennaio 1915, 16 agosto 1916 e 26 aprile 1917, e norme per determinare il reddito fondiario agli effetti dell'art. 1 del R. decreto 13 maggio 1915, n. 755.
+
+10 marzo 1918, n. 385. - Approvazione del piano regolatore edilizio di ampliamento della zona collinare della citta' di Torino.
+
+10 marzo 1918, n. 448. - Dichiarazione di pubblica utilita' delle opere di ampliamento e sistemazione del porto di Napoli e approvazione della relativa convenzione in data 8 febbraio 1918.
+
+23 maggio 1918, n. 740. - Istituzione di un Ente autonomo colla denominazione di «Azienda portuale dl Milano» per la costruzione e l'esercizio del porto di navigazione di Milano.
+
+23 maggio 1918, n. 741. - Autorizzazione della spesa di L. 2,000,000 in aggiunta a quella precedentemente disposta per la costruzione della nuova aula della Camera dei deputati.
+
+30 giugno 1918, n. 1013. - Autorizzazione all'Unione edilizia nazionale, gia' Messinese, di avvalersi della Regia avvocatura erariale in tutti i giudizi attivi e passivi avanti all'autorita' giudiziaria ed ai Collegi speciali.
+
+30 giugno 1918, n. 1019. - Modificazioni ed aggiunte al decreto Luogotenenziale 4 ottobre 1917, n. 1679, recante provvedimenti per opere pubbliche a favore delle provincie di Aquila, Avellino, Benevento, Campobasso, Chieti e Teramo.
+
+4 agosto 1918, n. 1257. - Autorizzazione della ulteriore spesa di L. 3,000,000 per provvedere ai bisogni ed alle opere urgenti nelle localita', delle provincie di Arezzo e Perugia danneggiate dal terremoto del 26 aprile 1917.
+
+4 agosto 1918, n. 1481. - Modificazione dell'art. 46 del testo unico delle leggi emanate in conseguenza del terremoto del 28 dicembre 1908 approvato con decreto Luogotenenziale 19 agosto 1917, n. 1399, relativamente alla concessione di aree nella zona industriale di Messina.
+
+8 agosto 1918, n. 1255. - Ordinamento dei consorzi di bonifica.
+
+8 agosto 1918, n. 1256. - Autorizzazione a concedere la esecuzione di opere di bonifica a societa' o ad imprenditori singoli, e norme per le relative modalita'.
+
+22 agosto 1918, n. 1258. - Autorizzazione dell'ulteriore spesa di L. 1,000,000 per la prosecuzione dei lavori di costruzione del monumento nazionale al Re Vittorio Emanuele II in Roma.
+
+1° settembre 1918, n. 1446. - Facolta' agli utenti delle strade vicinali di costituirsi in Consorzio per la manutenzione e la sistemazione o la ricostruzione di tali strade.
+
+1° settembre 1918, n. 1482. - Proroga dei termini stabiliti dall'art. 24 del decreto Luogotenenziale 10 marzo 1918, n. 448, e dall'art. 1 della convenzione 8 febbraio 1918 per la presentazione del piano regolatore della zona aperta del porto di Napoli e del programma dei lavori.
+
+27 ottobre 1918, n. 1617. - Istituzione con sede in Torino di un Ente autonomo per la costruzione delle opere di sistemazione e di ampiamento del porto di Savona, nonche' per l'esercizio del porto stesso.
+
+3 novembre 1918, n. 1918. - Proroga del termine assegnato col decreto Luogotenenziale 10 marzo 1918, n. 448, per la presentazione del piano regolatore delle opere della zona aperta del porto di Napoli.
+
+17 novembre 1918, n. 1922. - Modificazioni ed aggiunte al testo unico delle leggi emanate in conseguenza del terremoto 28 dicembre 1908 approvato con decreto Luogotenenziale 19 agosto 1917, n. 1399.
+
+22 dicembre 1918, n. 2066. - Assegnazione del fondo di L. 5,000,000 e norme per la riparazione e ricostruzione delle opere di bonifica idraulica, danneggiate o distrutte in dipendenza della guerra.
+
+22 dicembre 1918, n. 2079. - Provvedimenti vari in dipendenza del terremoto del 13 gennaio 1915.
+
+22 dicembre 1918, n. 2080. - Provvedimenti a favore dei danneggiati dai terremoti del 2 dicembre 1917 e del 10 novembre 1918 nei Comuni delle provincie di Arezzo, Firenze e Forli'.
+
+22 dicembre 1918, n. 2081. - Sistemazione dei torrenti a difesa del comune di Messina e opere di riparazione dei danni prodotti alla frazione Filicudi (Lipari) dal terremoto del 19 giugno 1916.
+
+26 gennaio 1919, n. 85 - Istituzione con sede in Livorno di un Ente autonomo per la costruzione delle opere di sistemazione e di ampliamento del porto di Livorno.
+
+26 gennaio 1919, n. 86. - Norme per la concessione di opere di bonifica idrauliche e marittime e istituzione presso il Ministero dei lavori pubblici della Commissione centrale per le sistemazioni idraulico-forestali e per le bonifiche.
+
+30 gennaio 1919, n. 207. - Istituzione con sede in Rimini di un Ente autonomo per la costruzione delle opere di sistemazione e di esercizio di quel porto.
+
+6 febbraio 1919, n. 107. - Norme per l'esecuzione delle opere pubbliche.
+
+6 febbraio 1919, n. 302. - Determinazione dei funzionari che possono eseguire le prove degli autoveicoli e dei motocicli, e norme per la ripartizione fra l'erario e i funzionari delle indennita' di prova degli autoveicoli e degli esami di idoneita' a conducente dei veicoli stessi.
