@@ -1,0 +1,22 @@
+# Massima n. 19788
+
+- Pronuncia: Corte costituzionale, ordinanza 336/1993 (ECLI:IT:COST:1993:336)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:336
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   336/93.   PENSIONI  - PENSIONI  PREVIDENZIALI  -  PENSIONE SOCIALE  SOSTITUTIVA  - DIRITTO ALLA PENSIONE SOCIALE  ALLE  PIU' FAVOREVOLI  CONDIZIONI  REDDITUALI  RICHIESTE   PER  LA  PENSIONE D'INVALIDITA'   -   ATTRIBUZIONE   MEDIANTE   DECRETO-LEGGE   NON CONVERTITO,  AGLI  INVALIDI RICONOSCIUTI TALI DOPO IL  COMPIMENTO DEI  SESSANTACINQUE  ANNI DI ETA' - SALVEZZA DI TALE  DIRITTO  IN FORZA   DI   NORMA  DICHIARATA   INTERPRETATIVA   DI   PRECEDENTI DISPOSIZIONE  DI  LEGGE,  NEI SOLI CASI IN CUI,  NEL  PERIODO  DI VIGENZA   DEL   D.L.,  SIA   INTERVENUTO  IL   PROVVEDIMENTO   DI LIQUIDAZIONE  DELL'I.N.P.S.  E NON, INVECE, IN QUELLI IN CUI, PUR NON  ESSENDO STATO ADOTTATO IL PROVVEDIMENTO DI LIQUIDAZIONE, SIA STATA,  IN  DETTO PERIODO, GIA' PRESENTATA LA RELATIVA DOMANDA  - LAMENTATA  DISPARITA'  DI TRATTAMENTO - QUESTIONE GIA'  DECISA  - MANIFESTA INFONDATEZZA.
+
+## Testo
+
+Questione   gia'  dichiarata  non   fondata   e, successivamente, manifestamente infondata.  - S. nn. 454/1992, 88/1992, 75/1991, 286/1990; O. n. 155/1993.
+
+## Norme
+
+- legge, 30/12/1991 n. 412, art. 13, comma 3
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 38
