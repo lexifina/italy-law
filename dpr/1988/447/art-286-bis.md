@@ -1,12 +1,12 @@
 Art. 286-bis.
 
-(( (Divieto di custodia cautelare).
+(Divieto di custodia cautelare).
 
 1.
 
 Non puo' essere mantenuta la custodia cautelare in carcere nei confronti di chi sia affetto da infezione da HIV e ricorra una situazione di incompatibilita' con lo stato di detenzione.
 
-L'incompatibilitasussiste, ed e' dichiarata dal giudice, nei casi di AIDS conclamata o di grave deficienza immunitaria; negli altri casi l'incompatibilita' per infezione da HIV e' valutata dal giudice tenendo conto del periodo residuo di custodia cautelare e degli effetti che sulla pericolosita' del detenuto hanno le sue attuali condizioni fisiche. La richiesta di accertamento dello stato di incompatibilita' puo' essere fatta dall'imputato, dal suo difensore o dal servizio sanitario penitenziario. Nei casi di incompatibilita' il giudice dispone la revoca della misura cautelare, ovvero gli arresti domiciliari presso l'abitazione dell'imputato.
+L'incompatibilitasussiste, ed e' dichiarata dal giudice, nei casi di AIDS conclamata o di grave deficienza immunitaria; negli altri casi l'incompatibilita' per infezione da HIV e' valutata dal giudice tenendo conto del periodo residuo di custodia cautelare e degli effetti che sulla pericolosita' del detenuto hanno le sue attuali condizioni fisiche. La richiesta di accertamento dello stato di incompatibilita' puo' essere fatta dall'imputato, dal suo difensore o dal servizio sanitario penitenziario. Nei casi di incompatibilita' il giudice dispone la revoca della misura cautelare, ovvero gli arresti domiciliari presso l'abitazione dell'imputato. ((65))
 
 2.
 
@@ -14,4 +14,10 @@ Con decreto emanato dai Ministri della sanita' e di grazia e giustizia sono defi
 
 3.
 
-Quando ricorrono esigenze diagnostiche per accertare incompatibilita' con lo stato di detenzione ovvero, al di fuori dei casi di cui al comma 1, ricorrono esigenze terapeutiche concernenti l'infezione da HIV e sempre che tali esigenze non possano essere soddisfatte nell'ambito penitenziario, il giudice puo' disporre il ricovero provvisorio in idonea struttura del Servizio sanitario nazionale per il tempo necessario, adottando, ove occorra, i provvedimenti idonei a prevenire il pericolo di fuga. Cessate le esigenze di ricovero, il giudice dispone a norma del comma 1 se risulta accertata l'incompatibilita', altrimenti ripristina la custodia cautelare in carcere, ovvero provvede a norma dell'articolo 299 . Se dispone gli arresti domiciliari, l'esecuzione della misura avviene presso l'abitazione dell'imputato o presso una residenza collettiva o casa alloggio di cui all'articolo 1, comma 2, della legge 5 giugno 1990, n. 135 )).
+Quando ricorrono esigenze diagnostiche per accertare incompatibilita' con lo stato di detenzione ovvero, al di fuori dei casi di cui al comma 1, ricorrono esigenze terapeutiche concernenti l'infezione da HIV e sempre che tali esigenze non possano essere soddisfatte nell'ambito penitenziario, il giudice puo' disporre il ricovero provvisorio in idonea struttura del Servizio sanitario nazionale per il tempo necessario, adottando, ove occorra, i provvedimenti idonei a prevenire il pericolo di fuga. Cessate le esigenze di ricovero, il giudice dispone a norma del comma 1 se risulta accertata l'incompatibilita', altrimenti ripristina la custodia cautelare in carcere, ovvero provvede a norma dell'articolo 299. Se dispone gli arresti domiciliari, l'esecuzione della misura avviene presso l'abitazione dell'imputato o presso una residenza collettiva o casa alloggio di cui all'articolo 1, comma 2, della legge 5 giugno 1990, n. 135.
+
+-----------------
+
+AGGIORNAMENTO (65)
+
+La Corte costituzionale, con sentenza 18 ottobre 1995, n. 439 (in G.U. 1a s.s. 25/10/1995, n. 44) ha disposto l' illegittimita' costituzionale del primo comma del presente articolo " nella parte in cui stabilisce il divieto di custodia cautelare in carcere nei confronti delle persone ivi indicate, anche quando sussistono le esigenze cautelari di eccezionale rilevanza di cui all'art. 275, quarto comma, del medesimo codice, e l'applicazione della misura possa avvenire senza pregiudizio per la salute del soggetto e di quella degli altri detenuti".
