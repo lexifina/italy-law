@@ -1,0 +1,81 @@
+# Corte costituzionale, ordinanza 528/1990
+
+- ECLI: ECLI:IT:COST:1990:528
+- Tipo: ordinanza
+- Presidente: CONSO
+- Relatore: Giovanni Conso
+- Data della decisione: 14/11/1990
+- Data del deposito: 28/11/1990
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 16651
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1990:528
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: prof. Giovanni CONSO;
+ Giudici: prof. Ettore GALLO, dott. Aldo CORASANITI, prof. Giuseppe
+ BORZELLINO, dott. Francesco GRECO, prof. Gabriele PESCATORE, avv.
+ Ugo SPAGNOLI, prof. Francesco Paolo CASAVOLA, prof. Antonio
+ BALDASSARRE, prof. Vincenzo CAIANIELLO, avv. Mauro FERRI, prof.
+ Luigi MENGONI, prof. Enzo CHELI, dott. Renato GRANATA;
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZANel giudizio di legittimità costituzionale dell'art. 452, secondo
+ comma, del codice di procedura penale, promosso con ordinanza  emessa
+ il 17 maggio 1990 dal Tribunale di Avezzano nel procedimento penale a
+ carico di Scarfo' Pasquale ed altro, iscritta al n. 461 del  registro
+ ordinanze 1990 e pubblicata nella Gazzetta Ufficiale della Repubblica
+ n. 33, prima serie speciale, dell'anno 1990.
+    Udito  nella  camera  di consiglio del 14 novembre 1990 il Giudice
+ relatore Giovanni Conso.
+    Ritenuto che il Tribunale di Avezzano, con ordinanza del 17 maggio
+ 1990, ha sollevato, in riferimento agli artt. 3, primo  comma,  e  24
+ della  Costituzione, questione di legittimità dell'art. 452, secondo
+ comma, del codice di  procedura  penale,  "nella  parte  in  cui  non
+ prevede la possibilità, per il giudice del dibattimento, di valutare
+ il  dissenso  del  P.M.  in  ordine  all'instaurazione  del  giudizio
+ abbreviato";
+    Considerato  che  l'ordinanza  di  rimessione è stata pronunciata
+ anteriormente all'apertura di un dibattimento con rito  direttissimo,
+ donde,  appunto,  l'applicabilità  dell'art. 452, secondo comma, del
+ codice di procedura penale;
+      e  che  questa  Corte,  con  sentenza  n.  183 del 1990, ha già
+ dichiarato l'illegittimità  costituzionale  dell'art.  452,  secondo
+ comma, del codice di procedura penale, proprio nella parte in cui non
+ prevede che il pubblico ministero, quando non consente alla richiesta
+ di  trasformazione  del giudizio direttissimo in giudizio abbreviato,
+ debba enunciare le ragioni del suo dissenso e nella parte in cui  non
+ prevede  che  il  giudice,  quando, a giudizio direttissimo concluso,
+ ritiene ingiustificato il  dissenso  del  pubblico  ministero,  possa
+ applicare  all'imputato  la  riduzione  di pena contemplata dall'art.
+ 442, secondo comma, dello stesso codice.
+    Visti  gli  artt. 26, secondo comma, della legge 11 marzo 1953, n.
+ 87, e 9, secondo comma, delle norme integrative per i giudizi davanti
+ alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+                        LA CORTE COSTITUZIONALE
+     Dichiara   la   manifesta  inammissibilità  della  questione  di
+ legittimità costituzionale dell'art. 452, secondo comma, del  codice
+ di  procedura  penale, già dichiarato costituzionalmente illegittimo
+ con sentenza n. 183 del 1990, nella parte in cui non prevede  che  il
+ pubblico   ministero,   quando   non   consente   alla  richiesta  di
+ trasformazione del  giudizio  direttissimo  in  giudizio  abbreviato,
+ debba  enunciare le ragioni del suo dissenso e nella parte in cui non
+ prevede che il giudice,  quando,  a  dibattimento  concluso,  ritiene
+ ingiustificato  il  dissenso  del pubblico ministero, possa applicare
+ all'imputato la riduzione di pena contemplata dall'art. 442,  secondo
+ comma,  dello  stesso  codice,  questione  sollevata dal Tribunale di
+ Avezzano con ordinanza del 17 maggio 1990.
+    Così  deciso  in  Roma,  nella  sede  della Corte costituzionale,
+ Palazzo della Consulta, il 14 novembre 1990.
+                    Il Presidente e Redattore: CONSO
+                        Il cancelliere: MINELLI
+    Depositata in cancelleria il 28 novembre 1990.
+                Il direttore della cancelleria: MINELLI
