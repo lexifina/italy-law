@@ -6,7 +6,7 @@ Il tribunale giudica in composizione collegiale:
 
 1) nelle cause nelle quali e' obbligatorio l'intervento del pubblico ministero, salvo che sia altrimenti disposto;
 
-2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al regio decreto 16 marzo 1942, n. 267, al decreto-legge 30 gennaio 1979, n. 26, convertito con modificazioni dalla legge 3 aprile 1979, n. 95, e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;
+2) nelle cause di opposizione, impugnazione, revocazione e in quelle conseguenti a dichiarazioni tardive di crediti di cui al regio decreto 16 marzo 1942, n. 267, ((...)) e alle altre leggi speciali disciplinanti la liquidazione coatta amministrativa;
 
 3) nelle cause devolute alle sezioni specializzate;
 
@@ -18,7 +18,7 @@ Il tribunale giudica in composizione collegiale:
 
 7) nelle cause di cui alla legge 13 aprile 1988, n. 117.
 
-Il tribunale giudica altresi' in composizione collegiale nei procedimenti in camera di consiglio disciplinati dagli articoli 737 e seguenti, salvo che sia altrimenti disposto.(88)((90))
+Il tribunale giudica altresi' in composizione collegiale nei procedimenti in camera di consiglio disciplinati dagli articoli 737 e seguenti, salvo che sia altrimenti disposto.(88) (90)
 
 ---------------
 
