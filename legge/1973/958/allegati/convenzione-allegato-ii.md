@@ -1,0 +1,5 @@
+ALLEGATO II
+
+CERTIFICATO INTERNAZIONALE DI STAZZATURA DELLE NAVI (1969)
+
+Parte di provvedimento in formato grafico
