@@ -1,0 +1,13 @@
+# Massima n. 20954
+
+- Pronuncia: Corte costituzionale, sentenza 330/1994 (ECLI:IT:COST:1994:330)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1994:330
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   330/94  C.  PROCESSO PENALE - CODICE ABROGATO -  RAPPORTI TRA AZIONE CIVILE E PROCESSO PENALE - ACCESSORIETA' DELLA PRIMA - PRINCIPIO  DELL'UNITA' DELLA GIURISDIZIONE - PROGRESSIVA EROSIONE E RIDIMENSIONAMENTO NELLA GIURISPRUDENZA COSTITUZIONALE.
+
+## Testo
+
+Con  riguardo  ai  rapporti tra azione civile e  processo  penale l'assetto  predisposto  dal codice abrogato risulta informato  ad una  particolare  valorizzazione del principio  di  accessorieta' della   prima,  accessorieta'  che  si  manifesta  non   soltanto relativamente alla necessita' di un adeguamento del suo esercizio alle  vicende  del  processo  penale,   ma  anche  attraverso  la predisposizione  di un regime di preclusioni volte, per un verso, ad  attuare  l'economia  dei giudizi e, per un  altro  verso,  ad impedire  la formazione di giudicati contraddittori, in  perfetta sintonia con la disciplina dell'efficacia del giudicato penale in sede  civile e, in definitiva, con il principio dell'unita' della giurisdizione.   Tuttavia l'entrata in vigore della  Costituzione repubblicana ha determinato, a seguito di interventi della Corte, una  progressiva  erosione  di tale principio ed  un  conseguente ridimensionamento  della accessorieta' dell'azione civile,  tutte le  volte  in cui l'onere di adattare le modalita'  di  esercizio della  pretesa  civile  alle sequenze del processo  penale  fosse divenuto,  in  relazione alle esigenze di tutela del  diritto  di difesa  dell'imputato  nelle  varie  misure  corrispondenti  alle diverse  fasi processuali, un ostacolo invalicabile nella  tutela del   diritto  di  azione  e   difesa  della  parte  civile,  non comprimibile  oltre  quei  limiti  - da  ritenere  ragionevoli  - derivanti  dall'esigenza  primaria  di attuazione  della  pretesa penale.  -  Sul  ridimensionamento dell'accessorieta' dell'azione  civile: S.   nn.  132/1968, 1/1970, 55/1971, 99/1973, 165/1975,  29/1972, ed   inoltre  S.   nn.    222/1985,  171/1982,  39/1982.    Sulle limitazioni  ai  poteri  e facolta' della parte  civile  ritenute conformi  a Costituzione:  S.  nn.  108/1970, 190/1971, 206/1971, 187/1972,  2/1973,  40/1974, 235/1974;  e non conformi:  S.   nn. 132/1968, 1/1970, 55/1971, 99/1973, 165/1975.                                                        red.: F.S.                                                       rev.: S.P.
