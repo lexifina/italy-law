@@ -1,0 +1,23 @@
+# Massima n. 22837
+
+- Pronuncia: Corte costituzionale, sentenza 251/1996 (ECLI:IT:COST:1996:251)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1996:251
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   251/96.  IMPOSTA SULL'INCREMENTO DI VALORE DEGLI IMMOBILI (IN.V.IM)  -  SOCIETA' ED ENTI DI CUI ALL'ART.  3 DEL D.P.R.   N. 643 DEL 1972 - IMMOBILI POSSEDUTI ALLA DATA DEL 31 OTTOBRE 1991 - ANTICIPATO   PAGAMENTO   DELL'INVIM    DECENNALE   (C.D.    INVIM STRAORDINARIA)  -  VALORE AL 31 OTTOBRE 1991 -  DETERMINAZIONE  - CRITERI  AUTOMATICI  - ART.  1, CO.  8, D.L.  N.  299 DEL 1991  - RIFERIMENTO  ALLE  RENDITE CATASTALI REVISIONATE SULLA  BASE  DEL D.M.   20 GENNAIO 1990 A FAR DATA DAL I GENNAIO 1992 -  LAMENTATA ANTICIPATA   APPLICAZIONE  DELLE  NUOVE   RENDITE  -   DENUNZIATA VIOLAZIONE  DEI  PRINCIPI  DI UGUAGLIANZA E  DI  PROPORZIONALITA' RISPETTO   ALLA  CAPACITA'  CONTRIBUTIVA  -  ESCLUSIONE   -   NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Non  e'  fondata,  in riferimento agli artt.  3 e  53  Cost.,  la questione  di  legittimita' costituzionale dell'art.  1, co.   8, del  d.l.   13  settembre 1991, n.  299, convertito in  legge  18 novembre  1991,  n.  363, nella parte in cui - in relazione  alla c.d.    "INVIM   straordinaria",   ossia  all'anticipazione   del pagamento  dell'INVIM  decennale,  ancorche' non sia  decorso  il decennio,  per  gli immobili posseduti alla data del  31  ottobre 1991  da parte di societa' ed enti di cui all'art.  3 del  d.P.R. n.   643  del 1972 - dispone che il valore finale al  31  ottobre 1991  dei fabbricati iscritti in catasto, posseduti dai  suddetti soggetti,  non  e'  sottoposto a rettifica se  e'  dichiarato  in misura  non inferiore a quello che risulta applicando le  rendite catastali  determinate  dal d.m.  20 gennaio 1990 e poi dal  d.m. 27  settembre  1991,  sollevata  sotto il profilo  che  la  norma impugnata,   nel   fare  riferimento   alle   rendite   catastali revisionate  in base al d.m.  20 gennaio 1990, richiama parametri che  avrebbero  dovuto trovare applicazione solo  dall'1  gennaio 1992,  il che comporterebbe una illegittima retroattivita'  della norma  fiscale  per  le  societa' ed enti che  si  trovano  nelle condizioni  temporali  previste dal d.l.  n.  299 del  1991,  con conseguente  lesione del principio di eguaglianza e del principio di   proporzionalita'  rispetto   alla  capacita'   contributiva. Invero,   la  previsione   dell'anticipato  pagamento  dell'INVIM decennale  per  i  detti  immobili  si  collega  ad  una  manovra finanziaria  del  Governo   nonche'  all'abolizione  dell'imposta (sostituita gradualmente dall'ICI, per effetto dell'art.  17, co. 6,  del  d.lgs.   30 dicembre 1992, n.  504, a  decorrere  dall'1 gennaio  1993).   Si  tratta,  quindi,   di  una  imposizione  di carattere  straordinario,  che  non puo' percio' essere  messa  a raffronto  con la disciplina applicabile alle imposte  ordinarie. In  ogni  caso, il riferimento alle tariffe d'estimo  che,  sulla base dell'art.  4, co.  4, della legge n.  405 del 1990, dovevano entrare   in   vigore  l'1  gennaio   1992,  non   comporta   una ingiustificata   e  discriminatoria   retroattivita'  dei   nuovi parametri,  bensi'  indica una diversa decorrenza dei criteri  di congruita'   del  valore  dichiarato,   ponendosi  come  ovvia  e conseguente  implicazione  del peculiare  meccanismo  dell'INVIM. Infatti,  gli  stessi criteri informatori dell'imposta,  tali  da comportare  l'individuazione di una base imponibile  determinata, per  differenza, fra il valore iniziale del bene e gli incrementi di  valore verificatisi per il decorso del tempo, dimostrano,  da un  lato,  che la c.d.  INVIM straordinaria si e' risolta in  una mera  parziale  anticipazione cronologica di  quella  imposizione tributaria  che si sarebbe comunque verificata alla scadenza  del decennio,  e,  dall'altro, che il parametro preso  a  riferimento risponde  ad evidenti ragioni di armonizzazione, dal momento che, se  l'anticipazione  non  vi  fosse   stata,  le  nuove   rendite avrebbero,   in   prosieguo,    al   verificarsi   dell'ordinario presupposto  impositivo,  costituito in ogni caso il  riferimento per il potere di rettifica degli uffici.                                                  red.: A. Franco
+
+## Norme
+
+- decreto-legge, 13/09/1991 n. 299, art. 1, comma 8
+- legge, 18/11/1991 n. 363
+
+## Parametri
+
+- Costituzione, art. 53
+- Costituzione, art. 3
