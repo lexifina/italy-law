@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 12 della Costituzione;
+
+Vista la legge 24 dicembre 1925, n. 2264, concernente conversione in legge del regio decreto-legge 24 settembre 1923, n. 2072, contenente norme per l'uso della bandiera nazionale;
+
+Visto il decreto legislativo del Capo provvisorio dello Stato 25 ottobre 1947, n. 1152, sull'adozione di una bandiera per l'Esercito e per l'Aeronautica nonche' per i reparti della Marina militare;
+
+Vista la legge 23 aprile 1959, n. 189, e successive modificazioni ed integrazioni, concernente l'ordinamento del Corpo della guardia di finanza;
+
+Visto il decreto del Presidente della Repubblica 14 marzo 1977, n. 173, concernente, tra l'altro, concessione di bandiere di istituto militare;
+
+Considerata l'opportunita' di dotare le scuole del Corpo della guardia di finanza di una bandiera di istituto militare;
+
+Sulla proposta del Ministro delle finanze, di concerto con il Ministro della difesa; Decreta:
