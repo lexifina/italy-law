@@ -1,0 +1,15 @@
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Veduta la legge in data 8 luglio 1904, n. 351, concernente provvedimenti per il risorgimento economico di Napoli;
+
+Visto il R. decreto 8 settembre 1878, n. 4498, che determina le attribuzioni del Ministero di agricoltura, industria e commercio;
+
+Sentita la Commissione per il riordinamento delle Scuole industriali e commerciali in Napoli, istituita con decreto Ministeriale del 16 marzo 1905;
+
+Udito il Consiglio dei ministri;
+
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo:
