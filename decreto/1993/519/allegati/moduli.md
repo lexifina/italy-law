@@ -1,0 +1,7 @@
+Mod. A
+
+Parte di provvedimento in formato grafico
+
+Mod. B
+
+Parte di provvedimento in formato grafico
