@@ -1,0 +1,17 @@
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del nostro ministro segretario di Stato per gli affari dell'interno;
+
+Vista la dimanda del comune di Osimo circa l'erezione in corpo morale dell'asilo di mendicita' Vittorio Emanuele II, da istituirsi in detto comune col concorso e coi sussidi rispettivamente votati dalla provincia, dalla camera di commercio, dalla cassa di risparmio e dallo stesso municipio, aggregandovi inoltre l'attuale ospizio dei cronici;
+
+Viste le relative deliberazioni del consiglio comunale, del consiglio e della deputazione provinciale, della camera di commercio e della cassa di risparmio;
+
+Visto lo statuto organico del pio istituto;
+
+Visti i pareri 7 febbraio e 27 ottobre 1880 del consiglio di Stato;
+
+Vista la legge 3 agosto 1862 ed il regolamento 27 novembre stesso anno sulle opere pie; Abbiamo decretato e decretiamo:
