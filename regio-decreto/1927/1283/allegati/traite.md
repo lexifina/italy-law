@@ -1,0 +1,3 @@
+Traite' d'amitie' de conciliation et d'arbitrage entre l'Italie et la Hongrie.
+
+Parte di provvedimento in formato grafico
