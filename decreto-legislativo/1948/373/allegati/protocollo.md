@@ -1,0 +1,3 @@
+Protocollo per lo scioglimento dell'Istituto internazionale di agricoltura e per il trasferimento delle sue funzioni ed attivita' alla "Food and Agriculture Organization" delle Nazioni Unite.
+
+Parte di provvedimento in formato grafico
