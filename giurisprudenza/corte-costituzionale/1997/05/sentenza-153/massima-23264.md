@@ -1,0 +1,24 @@
+# Massima n. 23264
+
+- Pronuncia: Corte costituzionale, sentenza 153/1997 (ECLI:IT:COST:1997:153)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:153
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   153/97  D.   IMPIEGO  PUBBLICO   -  REGIONE  SICILIANA  - AUTORIZZAZIONE  ALL'AMMINISTRAZIONE  REGIONALE  A  PROCEDERE   AL RINNOVO, PER NON PIU' DI UN TRIENNIO, CON DECORRENZA RETROATTIVA, IN RELAZIONE A INDICATI COMPITI DI NATURA IN PARTE PERMANENTE, IN PARTE TEMPORANEA, DEI CONTRATTI A TERMINE BIENNALE GIA' STIPULATI DALLA  STESSA AMMINISTRAZIONE CON PERSONALE GIA' DIPENDENTE DELLE S.P.A.   ITALTER  E  SIRAP  -   RICORSO  IN  VIA  PRINCIPALE  DEL COMMISSARIO  DELLO  STATO  -   OMESSA  VALUTAZIONE,  NELLA  LEGGE REGIONALE  IMPUGNATA, DELLA CONGRUITA' DELLA NORMA IN ORDINE ALLE OBIETTIVE ESIGENZE ORGANIZZATIVE DELL'AMMINISTRAZIONE REGIONALE - CONSEGUENTE  VIOLAZIONE  DEI LIMITI ALL'ESPANSIONE  DEL  PUBBLICO IMPIEGO DERIVANTI DAI PRINCIPI DI RAGIONEVOLEZZA E BUON ANDAMENTO DELLA PUBBLICA AMMINISTRAZIONE - ILLEGITTIMITA' COSTITUZIONALE.
+
+## Testo
+
+E' costituzionalmente illegittima, in quanto lesiva del principio di   buon   andamento   della    pubblica   amministrazione,   la disposizione,  della  legge  approvata  dall'Assemblea  regionale siciliana  nella  seduta  del 10 agosto 1996, con la  quale,  per l'effettuazione  dei  compiti, di natura in parte permanente,  in parte    temporanea,    in    essa    indicati,   si    autorizza l'Amministrazione  regionale  a  continuare   ad  avvalersi   del personale  gia'  dipendente  dell'ITALTER S.p.a.  e  della  SIRAP S.p.a.,  mediante  il rinnovo -per non piu' di un triennio e  con decorrenza  dalla loro data di scadenza- dei contratti a  termine biennale  "gia'  stipulati  e registrati, a norma  dell'art.   76 della  legge regionale 1 settembre 1993, n.  25", tra la medesima Amministrazione  e il medesimo personale.  In tale  disposizione, infatti,  con  la  constatata assenza di una  plausibile  'ratio' legata alle obiettive esigenze organizzative dell'Amministrazione regionale,  si rende conclusivamente manifesto quel rovesciamento di  priorita'  tra  interesse dell'istituzione  alla  funzione  e interesse  delle persone all'impiego che la Costituzione -secondo la  giurisprudenza della Corte costituzionale- ha inteso evitare. Atteso  che, la prevista utilizzazione del personale  interessato nei   programmati  compiti  permanenti  di  istituto   (come   il fronteggiare   le  "specifiche  eventuali   carenze   di   unita' lavorative  della  Regione", e il "sopperire alle  necessita'  di natura  tecnica  e amministrativa connesse alla eliminazione  dei ritardi dell'azione regionale nei settori di intervento assistiti da finanziamento statale e/o comunitario e regionale") richiedeva non  una  mera affermazione di tali esigenze -a cui si limita  il testo  della  delibera-  ma  una  loro  ricognizione  in  termini quantitativi  e qualitativi, e quindi non gia' l'adottato rinnovo dei  contratti  a termine -strumento sicuramente  contraddittorio rispetto  a compiti di tal fatta- ma un inquadramento stabile nei ruoli dell'amministrazione regionale, con il rispetto delle forme e  delle  norme  costituzionali previste a tale  scopo  e  previa valutazione  dei carichi di lavoro del personale gia'  impiegato. Mentre, per quanto riguarda i compiti di carattere temporaneo cui il personale beneficiario della norma e' anche destinato (come il "compimento   delle  opere  destinate   alla   realizzazione   di infrastrutture  urbane ed interurbane sorte in seguito all'evento sismico   verificatosi  nel  dicembre   del  1990  nella  Sicilia orientale",  e "l'espletamento e il completamento delle attivita' inerenti  allo sviluppo intersettoriale delle zone interne di cui all'art.   71,  legge  regionale 29 ottobre 1985,  n.   41"),  si prescinde  totalmente dalla necessaria valutazione circa lo stato di  avanzamento  dei  progetti previsti dalle leggi  regionali  e quindi  dall'effettivita' dell'esigenza di personale  aggiuntivo, cosi'  come  dalla  valutazione  dell'idoneita'  allo  scopo  del personale  medesimo.   Onde  la  irragionevolezza  dell'impugnata delibera  in relazione ai principi posti dall'art.  97 Cost., del quale  i  limiti all'espansione dell'impiego presso le  pubbliche amministrazioni stabiliti dall'art.  2, comma 2, lett.  r), legge 23 ottobre 1992, n.  421, costituiscono un corollario.  - V. le precedenti massime B e C.                                              red.: S. Pomodoro
+
+## Norme
+
+- legge della Regione siciliana, 10/08/1996
+
+## Parametri
+
+- Costituzione, art. 3
+- legge, 23/10/1992 n. 421, art. 2, comma 1 lett. r)
+- Costituzione, art. 97
+- Costituzione, art. 51
