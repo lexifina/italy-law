@@ -1,0 +1,24 @@
+# Massima n. 25263
+
+- Pronuncia: Corte costituzionale, ordinanza 121/2000 (ECLI:IT:COST:2000:121)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2000:121
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Dibattimento - Esame di imputati in  procedimento  connesso  -  Esercizio della  facoltà  di  non rispondere   -  Utilizzabilita'  delle   dichiarazioni  rese   in precedenza  subordinata  all'accordo  delle  parti  -  Denunciata lesione del principio di eguaglianza, del principio di soggezione del   giudice   soltanto   alla  legge   e   del   principio   di obbligatorietà   dell'azione  penale  -  'Ius  superveniens'   - Sopravvenuta   sentenza    dichiarativa    della   illegittimità costituzionale  parziale  della  norma denunciata  (n.   361  del 1998),  successiva  modifica  costituzionale   (legge  cost.   23 novembre  1999,  n.  2) con inserimento dei principi  del  giusto processo nell'articolo 111 della costituzione e norme transitorie (legge  25  febbraio 2000, n.  35) - Restituzione degli  atti  al giudice rimettente.
+
+## Testo
+
+Restituzione degli atti al giudice rimettente perche' riesamini - alla luce sia della sopravvenuta sentenza della Corte n.  361 del 1998  sia della legge costituzionale 23 novembre 1999, n.  2, che ha  introdotto  integrazioni  nell'art.  111  della  Costituzione nonche' del decreto-legge 7 gennaio 2000, n.  2, convertito nella legge  25 febbraio 2000, n.  35 - la rilevanza della questione di legittimita'  costituzionale dell'art.  513, comma 2, del  codice di  procedura penale, come modificato dalla legge 7 agosto  1997, n.   267,  impugnato, in riferimento agli artt.  3, 101,  secondo comma,  e  112 della Costituzione, nella parte in  cui  subordina all'accordo   delle  parti  l'utilizzabilita',   ai  fini   della decisione,  delle  dichiarazioni rese nella fase  delle  indagini preliminari  dall'imputato  in  procedimento   connesso,  che  si avvalga in dibattimento della facolta' di non rispondere.
+
+## Norme
+
+- codice di procedura penale, art. 513, comma 2
+- legge, 07/08/1997 n. 267
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 112
+- Costituzione, art. 101, comma 2
