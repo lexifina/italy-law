@@ -1,0 +1,62 @@
+# Corte costituzionale, ordinanza 305/2004
+
+- ECLI: ECLI:IT:COST:2004:305
+- Tipo: ordinanza
+- Presidente: ONIDA
+- Relatore: Franco Bile
+- Redattore: Franco Bile
+- Data della decisione: 27/09/2004
+- Data del deposito: 30/09/2004
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 28787, 28788
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2004:305
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai Signori: Presidente: Valerio ONIDA; Giudici: Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfonso QUARANTA,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 73, commi 7 e 8, del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi  sull'ordinamento degli enti locali), promosso con ordinanza del 29 gennaio 2004 dal Tribunale amministrativo regionale per l'Abruzzo, sezione distaccata di Pescara, sul ricorso proposto da Felice Antonio Grosso ed altri contro il Comune di Pescara ed altri, iscritta al n. 466 del registro ordinanze 2004 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 18, prima serie speciale, dell'anno 2004.
+    Visti gli atti di costituzione di Felice Antonio Grosso ed altri, del Comune di Pescara, di Michele Di Marco e di Luciano D'Alfonso, nonché l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nell'udienza pubblica del 6 luglio 2004 il Giudice relatore Franco Bile;
+    uditi gli avvocati Marcello Russo e Franco Gaetano Scoca per Felice Antonio Grosso ed altri, Vincenzo Cerulli Irelli per il Comune di Pescara, Tommaso Marchese per Michele Di Marco, Vincenzo Cerulli Irelli, Giulio Cerceo e Sergio Della Rocca per Luciano D'Alfonso e l'avvocato dello Stato Gaetano Zotta per il Presidente del Consiglio dei ministri.
+    Ritenuto che il Tribunale amministrativo regionale per l'Abruzzo, sezione distaccata di Pescara, con ordinanza del 29 gennaio 2004, ha proposto, in riferimento agli articoli 3 e 97 della Costituzione, questione di legittimità costituzionale dei commi 7 e 8 (rectius: 10) dell'art. 73 del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi  sull'ordinamento degli enti locali), i quali rispettivamente prevedono - in tema di elezioni comunali – l'esclusione dall'assegnazione dei seggi consiliari per le liste che abbiano ottenuto al primo turno meno del 3% dei voti validi e non appartengano a nessun raggruppamento che abbia superato tale soglia (comma 7), e l'esclusione dell'assegnazione, a titolo di premio di maggioranza, del 60% dei seggi consiliari (a certe condizioni spettante alla lista o gruppo di liste collegate al candidato eletto sindaco), ove un'altra lista o raggruppamento di liste abbia ottenuto la maggioranza assoluta dei voti validi (comma 10);
+    che l'ordinanza è stata pronunziata nel corso di un giudizio promosso da Felice Antonio Grosso e altri litisconsorti per ottenere l'annullamento della proclamazione degli eletti al Consiglio comunale di Pescara, effettuata il 14 giugno 2003 dall'Ufficio elettorale di Pescara, a seguito delle elezioni amministrative svoltesi nei giorni 25-26 maggio e 8-9 giugno 2003, nella parte in cui sono stati attribuiti 20 consiglieri (anziché 19) al raggruppamento di liste collegato al candidato sindaco Luciano D'Alfonso e quindi 20 consiglieri (anziché 21) a quello collegato al candidato sindaco Carlo Masci;
+    che, nella specie, secondo quanto espone il remittente, al primo turno il raggruppamento di liste collegate al candidato Masci aveva conseguito più del 50% dei voti validi, ma nessun candidato sindaco aveva ottenuto la maggioranza assoluta dei voti, e pertanto i due più votati (Masci e D'Alfonso) erano stati ammessi al turno di ballottaggio, in vista del quale due liste, già collegate a candidati non ammessi a siffatto turno, e rimaste sotto la soglia del 3% dei voti, si erano collegate al candidato D'Alfonso;
+    che nella votazione di ballottaggio la maggioranza dei voti era stata ottenuta dal candidato D'Alfonso, e – poiché al primo turno il raggruppamento di liste collegato al candidato Masci aveva conseguito la maggioranza dei voti validi – il premio di maggioranza non era stato assegnato;
+    che l'Ufficio elettorale aveva proclamato sindaco il candidato D'Alfonso e – dopo aver calcolato la cifra elettorale delle varie liste – aveva assegnato i seggi del consiglio comunale;
+    che in particolare la cifra elettorale delle liste collegate al candidato eletto sindaco era stata calcolata tenendo conto anche dei voti ottenuti dalle due liste a lui collegate solo nel turno di ballottaggio;
+    che dinanzi al TAR si sono costituiti, con distinti atti, il Comune di Pescara, Luciano D'Alfonso, Michele Di Marco e Sandro Damiani, nonché il Ministero dell'interno, la Prefettura di Pescara e l'Ufficio centrale elettorale di Pescara, contestando la fondatezza del ricorso e chiedendone il rigetto;
+    che nell'ordinanza di rimessione il TAR rileva come sulla questione posta dal ricorso – relativa ai criteri di calcolo della cifra elettorale dei raggruppamenti di liste, ai fini dell'attribuzione dei seggi del consiglio comunale, nel caso in cui il sindaco sia eletto al turno di ballottaggio – esistano nella giurisprudenza amministrativa due discordanti orientamenti, favorevole l'uno a tener conto (anche) dei collegamenti dichiarati al secondo turno da liste che al primo erano collegate a candidati non ammessi al ballottaggio ed erano rimaste sotto il 3% dei voti; e l'altro a computare invece solo i collegamenti dichiarati per il primo turno;
+    che il TAR ritiene di dover privilegiare l'interpretazione letterale dell'impugnato comma 7 dell'art. 73, distinguendo così nettamente il primo turno di votazioni (l'unico in cui rileva il voto di lista) dal turno di ballottaggio (in cui il voto è espresso con esclusivo riguardo al candidato sindaco); e da tale interpretazione desume che l'assegnazione dei seggi debba effettuarsi calcolando la cifra elettorale alla stregua dei soli collegamenti dichiarati per il primo turno;
+    che però – dopo avere così interpretato la norma impugnata – il TAR dubita della sua conformità al principio di uguaglianza (art. 3 Cost.), in quanto le liste dei candidati rimaste al primo turno sotto la soglia del 3% dei voti validi sarebbero trattate in modo ingiustificatamente diverso nel primo e nel secondo turno, ed in quanto la mancata valutazione dei collegamenti operati da tali liste in vista del ballottaggio finirebbe col pretermettere ingiustificatamente una parte dell'elettorato;
+    che, per adeguare la normativa all'evocato parametro, il TAR chiede una pronuncia di incostituzionalità del comma 7 dell'art. 73 nella parte in cui, ove il sindaco sia eletto al secondo turno, non ammette all'assegnazione dei seggi le liste che, pur essendo rimaste sotto la soglia di sbarramento al primo turno, si siano però collegate nel secondo ad una lista o ad un gruppo di liste che l'abbia superata;
+    che il TAR censura anche, in riferimento all'art. 97 Cost., il comma 8 (rectius: 10) dell'art. 73, nella parte in cui esclude l'assegnazione del premio di maggioranza alla lista o gruppo di liste collegate al candidato eletto al secondo turno se al primo un'altra lista o raggruppamento di liste abbia ottenuto la maggioranza assoluta dei voti validi; e deduce che tale limite all'attribuzione del premio frustrerebbe la volontà degli elettori e non darebbe rilievo alle scelte da essi operate nel secondo turno di elezione, con elevato rischio di ingovernabilità dell'ente locale;
+    che nel giudizio di costituzionalità si è costituito, con i litisconsorti, Antonio Felice Grosso, candidato consigliere comunale non eletto, del raggruppamento di liste opposto a quello collegato al candidato eletto sindaco, concludendo, anche con successiva memoria, per la manifesta infondatezza delle questioni di costituzionalità;
+    che si sono costituiti il Comune di Pescara ed il sindaco D'Alfonso con due distinte memorie, sostanzialmente analoghe, concludendo per l'infondatezza delle questioni, in quanto le norme censurate sono suscettibili di interpretazione costituzionalmente conforme, e chiedendo, solo in via subordinata, la declaratoria della loro illegittimità costituzionale;
+    che si è costituito Michele Di Marco, eletto come ventesimo consigliere comunale del raggruppamento di liste collegate al candidato eletto sindaco, concludendo, anche con successiva memoria, per l'incostituzionalità delle disposizioni impugnate;
+    che è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, concludendo per l'infondatezza della questione.
+    Considerato che la questione di legittimità costituzionale del comma 10 dell'art. 73 del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle leggi  sull'ordinamento degli enti locali), proposta in riferimento all'art. 97 della Costituzione e relativa ai presupposti di applicabilità del premio di maggioranza, è manifestamente inammissibile;
+    che infatti essa – a parte le ragioni che già hanno indotto questa Corte a ritenere infondata una questione analoga (sentenza n. 107 del 1996) – difetta di rilevanza, in quanto oggetto del giudizio a quo, come risulta dall'ordinanza di rimessione, non è la mancata applicazione del premio nel caso di specie, circostanza pacifica e non contestata, bensì l'assegnazione dell'ultimo seggio del consiglio comunale, controvertendosi in particolare se esso spetti al raggruppamento di liste collegate al candidato eletto sindaco al ballottaggio o al raggruppamento opposto;
+    che altrettanto deve dirsi per la questione di legittimità costituzionale, in riferimento all'art. 3 della Costituzione, del comma 7 del medesimo art. 73, nella parte in cui esclude dall'assegnazione dei seggi consiliari le liste che al primo turno non abbiano superato il 3% dei voti validi e non appartengano a nessun gruppo di liste che lo abbia superato;
+    che – allo scopo di interpretare la norma – il TAR evoca il contrasto esistente nella giurisprudenza amministrativa, la quale a volte ha affermato e altre volte ha negato la rilevanza (per la determinazione della cifra elettorale complessiva dei raggruppamenti di liste e la conseguente assegnazione dei seggi consiliari) dei collegamenti con candidati alla carica di sindaco dichiarati da liste siffatte, in occasione del ballottaggio;
+    che il TAR, premesso di condividere l'orientamento giurisprudenziale che nega tale rilevanza, afferma poi che la norma così interpretata viola l'art. 3 della Costituzione, perché il principio di eguaglianza impone invece di tener conto (anche) dei collegamenti dichiarati solo per il ballottaggio, così come ritiene l'orientamento opposto;
+    che in questo modo il TAR – consapevole dell'esistenza di due contrapposti indirizzi giurisprudenziali e convinto della maggiore plausibilità di uno di essi – chiede alla Corte una pronuncia di incostituzionalità cui conseguirebbe la stessa disciplina risultante dalla tesi interpretativa accolta dall'altro indirizzo, senza né verificare la possibilità di un'interpretazione costituzionalmente orientata, idonea a sottrarre la norma al contrasto con i parametri evocati, né (in alternativa) motivare sull'impossibilità di essa (cfr. ordinanza n. 107 del 2003).
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+
+    dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 73, commi 7 e 10, del decreto legislativo 18 agosto 2000, n. 267 (Testo unico delle  leggi  sull'ordinamento degli enti locali) sollevate, in riferimento agli articoli 3 e 97 della Costituzione, dal Tribunale amministrativo regionale per l'Abruzzo, sezione distaccata di Pescara, con l'ordinanza indicata in epigrafe.
+Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 27 settembre 2004.
+F.to:
+Valerio ONIDA, Presidente
+Franco BILE, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 30 settembre 2004.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
