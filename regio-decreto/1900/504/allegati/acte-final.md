@@ -1,0 +1,3 @@
+Acte final de la Conference internationale de la paix
+
+Parte di provvedimento in formato grafico
