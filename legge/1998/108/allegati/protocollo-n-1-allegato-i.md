@@ -1,0 +1,53 @@
+Allegato I
+
+IMPORTAZIONI DIRETTE
+
+MASSIMALI TARIFFARI COMUNITARI
+
+Categoria
+
+unita'
+
+1996
+
+1997
+
+5
+
+000 pezzi
+
+4216
+
+5059
+
+6
+
+000 pezzi
+
+4470
+
+5364
+
+7
+
+000 pezzi
+
+3098
+
+3718
+
+8
+
+000 pezzi
+
+4309
+
+5171
+
+9
+
+tonnellate
+
+2737
+
+3285
