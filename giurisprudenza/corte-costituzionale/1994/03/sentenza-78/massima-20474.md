@@ -1,0 +1,22 @@
+# Massima n. 20474
+
+- Pronuncia: Corte costituzionale, sentenza 78/1994 (ECLI:IT:COST:1994:78)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1994:78
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   78/94  A.   UNIVERSITA' E ISTITUZIONI DI ALTA  CULTURA  - PROFESSORI  UNIVERSITARI  -  PROFESSORI OPTANTI PER IL  REGIME  A TEMPO  PIENO - TRATTAMENTO ECONOMICO - ASSEGNO AGGIUNTIVO AD ESSI SPETTANTE    -   PENSIONABILITA'   -   ESCLUSIONE   -   LAMENTATA IRRAGIONEVOLEZZA,    IN     CONSIDERAZIONE      DELLE    ASSERITE CARATTERISTICHE  DI  FISSITA' E CONTINUATIVITA'  DELL'EMOLUMENTO, CON   CONSEGUENTE   LESIONE  DELLA   GARANZIA   PREVIDENZIALE   - INSUSSISTENZA - NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Secondo  principi gia' chiariti dalla Corte, non basta addurre la "natura  retributiva"  e,  piu'   esattamente,  il  carattere  di "componente  del normale trattamento economico" di  un'indennita' per   stabilirne,  in  via  di  principio,  la   pensionabilita', occorrendo  invece provare che la non computabilita' della stessa ai   fini   pensionistici  sia    "manifestamente   incongrua   o irragionevole".   Percio', nella specie, nelle censure mosse,  in riferimento agli artt.  38 e 3 Cost., all'art.  39 del d.P.R.  11 luglio   1980,  n.   382,  nella   parte  in  cui  dichiara   non pensionabile  l'assegno  aggiuntivo  riconosciuto  ai  professori universitari  che optano per il regime di impegno a tempo  pieno, non  e'  concludente l'argomentazione dell'autorita'  rimettente, secondo  cui  il  fatto  che l'assegno aggiuntivo  'de  quo',  in seguito  all'abrogazione, ad opera del d.l.  11 gennaio 1985,  n. 2  (conv.   con  modif.   in  legge 8 marzo  1985,  n.   72)  del penultimo capoverso dell'art.  39, - che nel suo testo originario prevedeva  la  corresponsione  dell'assegno aggiuntivo,  sia  pur ridotto  del 50 per cento, anche ai professori a tempo definito - spetti  ora  soltanto ai professori a tempo pieno,  dimostrerebbe che  l'assegno aggiuntivo avrebbe natura di componente essenziale della  retribuzione  di  questi ultimi.  Ne' puo'  dirsi  che  la disposizione  censurata  sia  viziata   da  irrazionalita'.    La circostanza  che  anche l'assegno speciale, gia' previsto, per  i professori  che  non intendessero svolgere  privatamente  "libera attivita' professionale", dall'art.  12 del d.l.  1 ottobre 1973, n.   580  (conv.   con modif.  nella legge 30 novembre  1973,  n. 766)  - in sostituzione del quale e' stato riconosciuto l'assegno aggiuntivo  - non fosse pensionabile, denota che il  legislatore, mantenendo questa caratteristica riguardo all'assegno aggiuntivo, non  ha  agito arbitrariamente.  A sua volta, poi,  la  rilevante differenziazione  tra i professori a tempo pieno e i professori a tempo  definito, stabilita dal combinato disposto dell'art.  36 e dell'art.   40 del d.P.R.  n.  382, computando nel trattamento di quiescenza  la maggiorazione del 40 per cento della retribuzione, spettante   solo   ai  primi,  conferma   che,   pure   ai   fini pensionistici,  e'  assicurata una tutela sufficiente - anche  se perfettibile  -  dell'opzione  per il regime di impegno  a  tempo pieno.   Fermo restando che - come la Corte ha, anche di recente, ribadito  -  l'art.   38  Cost.   non  garantisce  una  integrale corrispondenza  tra retribuzione e pensione.  (Non fondatezza, in riferimento agli artt.  38 e 3 Cost.  - sotto l'anzidetto profilo -  della questione di legittimita' costituzionale dell'art.   39, d.P.R.  11 luglio 1982, n.  382, 'in parte qua').  -  Sui principi in base ai quali determinate "indennita'"  devono essere  riconosciute  "pensionabili",  v.    S.   n.    119/1991. Riguardo  alla  esigenza di "privilegiare sempre piu'" la  scelta dei professori per il regime di impegno a tempo pieno, v.  S.  n. 1019/1988.   A  sua  volta,  per la esclusione  di  una  garanzia costituzionale di una integrale corrispondenza tra retribuzione e pensione, v.  S.  n.  449/1993.                                                      red.: A.M.M.                                                     rev.: S.P.
+
+## Norme
+
+- decreto del Presidente della Repubblica, 11/07/1980 n. 382, art. 39
+
+## Parametri
+
+- Costituzione, art. 38
+- Costituzione, art. 3
