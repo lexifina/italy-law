@@ -1,0 +1,12 @@
+# Legge 4 agosto 1955, n. 706
+
+- Tipo: Ordinaria
+- Numero: 706
+- Data: 1955-08-04
+- Titolo: Norme  integrative  e modificative alla legge 11 luglio 1952, n. 911, sullo  sblocco  dei  titoli  bancari  e  postali,  delle  cassette di sicurezza  e  dei titoli di credito e sulla devoluzione all'Erario di taluni di essi.
+- Pubblicazione: (Pubblicata nella G.U. del 19 agosto 1955)
+- Legislatura: II legislatura della Repubblica (repubblica_02)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-08-04;706
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;2.legislatura;1436
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1955_706
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
