@@ -1,0 +1,26 @@
+# Massima n. 24487
+
+- Pronuncia: Corte costituzionale, ordinanza 71/1999 (ECLI:IT:COST:1999:71)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:71
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   71/99  B.   PAESAGGIO  (TUTELA DEL) -  ZONE  SOTTOPOSTE  A VINCOLO  PAESAGGISTICO  ED AMBIENTALE - DIVIETO DI  MODIFICAZIONE DEL  TERRITORIO  -  INOSSERVANZA  - SANZIONI  PENALI  -  RITENUTA ILLEGITTIMITA'  DELLA  ELENCAZIONE DELLE AREE  PROTETTE  PREVISTA DALL'ART.   1  DEL  D.L.   27  GIUGNO 1985,  N.   312  -  DEDOTTA VIOLAZIONE  DEGLI ARTT.  42, 97, 9, 25, SECONDO COMMA, E 27 COST. -  QUESTIONI GIA' DICHIARATE MANIFESTAMENTE INFONDATE - MANIFESTA INFONDATEZZA.
+
+## Testo
+
+Manifesta   infondatezza   delle   questioni,   gia'   dichiarate manifestamente infondate con l'ordinanza n.  316/1998.
+
+## Norme
+
+- legge, 08/08/1985 n. 431
+- decreto-legge, 27/06/1985 n. 312, art. 1
+- decreto del Presidente della Repubblica, 24/07/1977 n. 616, art. 82, comma 5 lettera h)
+
+## Parametri
+
+- Costituzione, art. 97
+- Costituzione, art. 3
+- Costituzione, art. 9
+- Costituzione, art. 42
