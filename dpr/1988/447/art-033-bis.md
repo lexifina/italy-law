@@ -16,7 +16,7 @@ delitti previsti dal capo I dei titolo II del libro II del codice penale, esclus
 
 c)
 
-delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609quater e 644 del codice penale;
+delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600-sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater e 644 del codice penale;
 
 d)
 
@@ -42,21 +42,9 @@ i)
 
 delitti previsti dalla legge 20 giugno 1952, n. 645, attuativa della XII disposizione transitoria e finale della Costituzione;
 
-1) delitto previsto dall'articolo 18 della legge 22 maggio 1978, n. 194, in materia di interruzione volontaria della gravidanza;
-
-m) delitto previsto dall'articolo 2 della legge 25 gennaio 1982, n. 17, in materia di associazioni segrete;
-
-n) delitto previsto dall'articolo 29 secondo comma, della legge 13 settembre 1982, n. 646, in materia di misure di prevenzione;
-
-o) delitto previsto dall'articolo 12-quinquies, comma 1, del decreto- legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, in materia di trasferimento fraudolento di valori;
-
-p) delitti previsti dall'articolo 6, commi 3 e 4, del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazione, dalla legge 25 giugno 1993, n. 205, in materia di discriminazione razziale, etnica e religiosa;
-
-q) delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in materia di produzione e uso di armi chimiche.
-
 2.
 
-Sono attribuiti altresi' al tribunale in composizione collegiale, salva la disposizione dell'articolo 33-ter, comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni ((, anche nell'ipotesi del tentativo )). Per la determinazione della pena si osservano le disposizioni dell'articolo 4.
+Sono attribuiti altresi' al tribunale in composizione collegiale, salva la disposizione dell'articolo 33-ter, comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni, anche nell'ipotesi del tentativo. Per la determinazione della pena si osservano le disposizioni dell'articolo 4.
 
 ---------------
 
