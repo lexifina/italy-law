@@ -1,0 +1,7 @@
+Articolo XIV
+
+La Commissione calcola i contributi delle Parti contraenti al bilancio e al bilancio supplementare, per mezzo della seguente formula:
+
+(a) Un terzo dell'ammontare totale del bilancio e del bilancio supplementare e' finanziato dalle Parti contraenti in parti uguali. (b) Le Parti contraenti versano, per ogni Comitato regionale o Comitato di studio degli stocks di cui fanno parte, un contributo equivalente ad un terzo dei contributi che esse versano in conformita' con le disposizioni del precedente comma (a). Se sara' necessario, tale proporzione sara' ridotta, affinche' l'ammontare totale dei contributi versati dalle Parti contraenti, in virtu' del presente comma, non superino un terzo dell'ammontare totale del bilancio e del bilancio supplementare.
+
+(c) Ciascuna Parte contraente contribuisce al finanziamento del bilancio e del bilancio supplementare in una proporzione uguale a quella delle sue pescate nominali nella zona della convenzione in rapporto al totale delle pescate nominali di tutte le Parti contraenti in detta zona. Per stabilire questo totale, la Commissione tiene conto di tutti i pesci, crostacei, molluschi ed altri invertebrati marini, con l'eccezione delle specie per le quali la presente convenzione non viene applicata, in conformita' con le disposizioni dell'art. III. Le pescate sono determinate sulla base della media dei due ultimi anni civili per i quali la FAO ha pubblicato delle statistiche.
