@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 32 del codice postale e delle telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+Visto l'art. 2 del decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato con regio decreto 18 aprile 1940, n. 689;
+
+Riconosciuta l'opportunita' di integrare il programma di emissione di francobolli per l'anno 1975 con le seguenti serie di francobolli: commemorativi del 450° anniversario della nascita di Giovanni Pierluigi da Palestrina; celebrativi della XXI sessione dell'Associazione internazionale del congresso delle ferrovie; dedicati agli emigranti italiani nel mondo; celebrativi del centenario della unificazione degli Archivi di Stato; celebrativi del centenario della legge organica del notariato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le poste e le telecomunicazioni; Decreta:
