@@ -1,0 +1,7 @@
+LEGGE
+
+27 maggio 1999
+
+197
+
+Ratifica ed esecuzione dell'accordo di cooperazione tra il Regno del Belgio, la Repubblica federale di Germania, la Repubblica francese, il Granducato di Lussemburgo, il Regno del Paesi Bassi, la Repubblica italiana, il Regno di Spagna, la Repubblica portoghese, la Repubblica ellenica, la Repubblica d'Austria, il Regno di Danimarca, la Repubblica di Finlandia, il Regno di Svezia, parti contraenti dell'accordo e della convenzione di Schengen, e la Repubblica di Islanda ed il Regno di Norvegia, relativo all'eliminazione del controlli delle persone alle frontiere comuni, con dichiarazioni ed allegati, fatto a Lussemburgo il 19 dicembre 1996.
