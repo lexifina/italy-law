@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI TORINO
+
+Parte di provvedimento in formato grafico
