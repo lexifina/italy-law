@@ -1,0 +1,7 @@
+LEGGE
+
+12 aprile 1973
+
+201
+
+Ratifica ed esecuzione delle convenzioni tra la Repubblica italiana e lo Stato di Israele per evitare le doppie imposizioni in materia di imposte sul reddito e sul patrimonio e in materia di imposte sulla successione "mortis causa", concluse a Roma il 22 aprile 1968 e dello scambio di note che modifica la seconda di dette convenzioni effettuato a Roma il 19 febbraio-21 marzo 1970.
