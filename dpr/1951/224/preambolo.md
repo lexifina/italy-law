@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 12 luglio 1912, n. 812, istitutiva del Fondo di previdenza a favore del personale delle dogane;
+
+Visto il regolamento per l'amministrazione e la erogazione del Fondo predetto, approvato con regio decreto 22 luglio 1939, n. 1243, successivamente modificato col regio decreto 5 dicembre 1940, n. 1850, e col decreto del Capo provvisorio dello Stato 22 dicembre 1946, numero 677;
+
+Visto il decreto del Capo provvisorio dello Stato 26 ottobre 1947, n. 1433, con il quale venne modificata la misura delle indennita' stabilite dal citato regolamento;
+
+Ritenuta la necessita' di riordinare e di modificare le disposizioni contenute nei detto regolamento, anche in relazione alla situazione finanziaria del Fondo;
+
+Sentito il Consiglio di amministrazione del fondo;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, di concerto con il Ministro per il lavoro e la previdenza sociale; Decreta:
