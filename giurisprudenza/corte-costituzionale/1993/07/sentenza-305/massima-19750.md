@@ -1,0 +1,13 @@
+# Massima n. 19750
+
+- Pronuncia: Corte costituzionale, sentenza 305/1993 (ECLI:IT:COST:1993:305)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:305
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   305/93  C.   PROCESSO PENALE -  PROCEDIMENTI  SPECIALI  - RICHIESTA  DI RITO ABBREVIATO - IMPOSSIBILITA' PER IL G.I.P.   DI DISATTENDERE,  ANCHE  SE GLI APPAIA MANIFESTAMENTE INFONDATA,  LA CONTESTAZIONE  DA  PARTE DEL P.M., DI REATO PUNIBILE IN  ASTRATTO CON  L'ERGASTOLO (NELLA SPECIE:  OMICIDIO AGGRAVATO) CHE ANCHE IN PRESENZA  DEGLI  ALTRI PRESUPPOSTI RICHIESTI PRECLUDE  IN  QUELLA SEDE IL RITO ABBREVIATO - VIOLAZIONE DEL PRINCIPIO DI EGUAGLIANZA PER  INGIUSTIFICATA  DIVERSITA' DI DISCIPLINA RISPETTO  AD  ALTRE DISPOSIZIONI  CHE  AD ALTRI FINI (DECLARATORIA  DI  INCOMPETENZA, PROSCIOGLIMENTO PER CAUSE ESTINTIVE O DI IMPROCEDIBILITA', ORDINE DI  FORMULARE  L'IMPUTAZIONE)  ABILITANO IL  G.I.P.   A  VALUTARE L'ESATTEZZA  DELLA  CONTESTAZIONE - ESCLUSIONE -  INIDONEITA'  DI TALI DISPOSIZIONI A VENIRE ASSUNTE COME 'TERTIUM COMPARATIONIS' - NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+La  preclusione  per il G.I.P.  a sindacare il titolo  del  reato contestato  dal  P.M.   all'imputato   (nella  specie:   omicidio aggravato),  quando questo comporta in astratto  l'applicabilita' della  pena dell'ergastolo e quindi l'inammissibilita', in quella sede,  del  rito  abbreviato,   anche  se  ritualmente  richiesto dall'imputato,  e'  in  armonia con l'attuale  configurazione,  a norma  del codice, del giudice per le indagini preliminari  quale organo   preposto,   in  via   ordinaria,  alla  verifica   della regolarita'  del  procedimento  nonche' della  sufficienza  degli elementi  di  fatto  addotti  ai fini  della  contestazione.   Le deroghe  a  tale configurazione, previste dal legislatore per  il raggiungimento  di  determinate  finalita' proprie  del  processo (art.   22:  dichiarazione d'incompetenza;  art.  409:  ordine di formulare  l'imputazione e art.  425:  proscioglimento) non  sono in  se'  irragionevoli  e  comunque non  sono  idonee  ad  essere invocate    come    'tertium     comparationis'   per    inferire l'illegittimita'  costituzionale  della  norma  'de  qua'.   (Non fondatezza,  in riferimento all'art.  3 Cost., sotto  l'anzidetto profilo,  della  questione di legittimita'  costituzionale  degli artt.   438, 439 e 440 del codice di procedura penale, 'in  parte qua').  -  V.,  sentt.   nn.   46/1983, 769/1988,  286/1990,  283/1992  e 335/1992.
