@@ -1,0 +1,22 @@
+# Massima n. 24953
+
+- Pronuncia: Corte costituzionale, ordinanza 413/1999 (ECLI:IT:COST:1999:413)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:413
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   413/99.  PROCESSO PENALE - ESECUZIONE - POTERE DEL GIUDICE DI  DICHIARARE  L'ESTINZIONE DEL REATO PER PRESCRIZIONE  MATURATA PRIMA  DEL GIUDICATO - MANCATA PREVISIONE - PRETESA DISPARITA' DI TRATTAMENTO  RISPETTO  A  QUANTO PREVISTO  PER  IPOTESI  ANALOGHE (ARTT.  672 E 673 C.P.P.) - PRETESA LESIONE DEL PRINCIPIO DI BUON ANDAMENTO DELLA P.A.  - MANFIESTA INFONDATEZZA.
+
+## Testo
+
+E'  manifestamente infondata, con riferimento agli artt.  3 e  97 Cost., la questione di legittimita' costituzionale dell'art.  676 cod.   proc.   pen., nella parte ci cui non consente  al  giudice dell'esecuzione   di  dichiarare  l'estinzione   del  reato   per prescrizione   maturata  prima  del   giudicato,  in  quanto   la disposizione  impugnata, stabilendo che la competenza del giudice dell'esecuzione  in tema di estinzione dei reato e' limitata alle cause   estintive  intervenute  dopo  la  condanna,   detta   una disciplina   conforme   al   principio  dell'intangibilita'   del giudicato,  che trova fondamento nell'insopprimibile esigenza  di certezza  e di stabilita' dei rapporti giuridici definiti da  una sentenza  irrevocabile salve le ipotesi del giudizio di revisione e quelle nelle quali la competenza del giudice dell'esecuzione ad incidere  su una sentenza irrevocabile si fonda su situazioni  in cui  la  causa estintiva si ricollega all'intervento  di  fattori successivi  al passaggio in giudicato ed estranei alla  struttura della fattispecie incriminatrice.  - S. nn. 381/1999 e 53/1998.                                          red.: S. Di Palma
+
+## Norme
+
+- codice di procedura penale, art. 676
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
