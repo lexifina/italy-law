@@ -1,0 +1,11 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visto l'art. 2 del decreto legislativo 28 novembre 1947, n. 1430;
+
+Visto il decreto del Capo provvisorio dello Stato 31 dicembre 1947, n. 1646;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri per il tesoro e per il bilancio; Decreta:
