@@ -1,5 +1,7 @@
 Art. 2330-bis.
 
-((Pubblicazione dell'atto costitutivo))
+Pubblicazione dell'atto costitutivo
 
-((L'atto costitutivo e lo statuto devono essere pubblicati nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata.))
+L'atto costitutivo e lo statuto devono essere pubblicati nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata.
+
+((Nel medesimo Bollettino deve essere fatta menzione del deposito, presso l'ufficio del registro delle imprese, della relazione indicata nell'art. 2343)).

@@ -1,0 +1,5 @@
+Art. 2630-bis.
+
+(( (Violazione del divieto di sottoscrizione di azioni proprie).))
+
+((Sono puniti con la reclusione da sei mesi a tre anni e con la multa da lire quattrocentomila a due milioni i promotori, i soci fondatori e gli amministratori che violano la disposizione di cui all'articolo 2357-quater, primo comma.))
