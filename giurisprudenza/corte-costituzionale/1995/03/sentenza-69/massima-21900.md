@@ -1,0 +1,30 @@
+# Massima n. 21900
+
+- Pronuncia: Corte costituzionale, sentenza 69/1995 (ECLI:IT:COST:1995:69)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1995:69
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   69/95.   FIERE  E MERCATI -  PROCEDIMENTI  AMMINISTRATIVI RELATIVI  ALL'  APPROVAZIONE  DELLE   DELIBERAZIONI  DEGLI   ENTI AUTONOMI  FIERISTICI,  AL  RICONOSCIMENTO   DELLA  QUALIFICA   DI INTERNAZIONALE  DELLE MANIFESTAZIONI, ALL'AUTORIZZAZIONE AL  LORO SVOLGIMENTO   E  ALLA  EMANAZIONE   DEL  CALENDARIO  UFFICIALE  - DISCIPLINA  PER  LA  LORO  SEMPLIFICAZIONE  -  ADOZIONE  MEDIANTE REGOLAMENTO  AUTORIZZATO  EX L.N.  537 DEL 1993 -  RICORSO  DELLA PROVINCIA  DI TRENTO PER CONFLITTO DI ATTRIBUZIONE - RICONOSCIUTA LESIONE  DELLE  COMPETENZE  PROVINCIALI  IN MATERIA  DI  FIERE  E MERCATI  E DI REGOLAMENTAZIONE DI PROCEDIMENTI AMMINISTRATIVI  DI PROPRIA  SPETTANZA,  NONCHE' INOSSERVANZA DELLE PROCEDURE  E  DEI LIMITI  PREVISTI  ANCHE  DALLE DISPOSIZIONI DI  ATTUAZIONE  DELLO STATUTO SPECIALE PER L'EMANAZIONE DEGLI ATTI STATALI DI INDIRIZZO E  COORDINAMENTO - NON SPETTANZA ALLO STATO, NEI CONFRONTI  DELLA PROVINCIA  DI TRENTO, DEL POTERE ESERCITATO - ANNULLAMENTO, NELLA PARTE IN CUI SI APPLICANO AD ESSA, DELLE DISPOSIZIONI IMPUGNATE.
+
+## Testo
+
+Nulla  consente  di  ritenere  che  la  l.   n.   537  del  1993, autorizzando  all'art.  2, comma 7, l'emanazione di regolamenti - ai sensi dell'art.  17, secondo comma, l.  n.  400 del 1988 - per la    semplificazione   ed     accelerazione   dei   procedimenti amministrativi,  di  cui all'allegato Elenco n.  4, e tra  questi del  procedimento di approvazione delle deliberazioni degli  enti autonomi  fieristici,  abbia  inteso   (ne',  d'altronde  avrebbe potuto)  innovare, in materia, il riparto di competenze tra Stato e  Province  autonome, poiche' i regolamenti, per il loro  rango, non  sono abilitati a modificare le competenze sostanziali ne'  i presupposti   e  i  requisiti   preordinati  all'emanazione   dei provvedimenti  amministrativi, cui i procedimenti si riferiscono. In  relazione  a tale contesto normativo, il regolamento  emanato con  d.P.R.   18 aprile 1994, n.  390, per la semplificazione  di procedimenti  amministrativi sulle fiere - in relazione al  quale la  Provincia di Trento ha sollevato conflitto di attribuzione  - risulta  -  con riferimento alle norme che tendono  a  conformare procedimenti di competenza provinciale - illegittimo per mancanza di  valida  base legislativa a sua giustificazione  e,  comunque, invasivo della competenza provinciale, primaria, in tema di fiere e  mercati  (art.   8, Statuto speciale per il T.A.A.,  art.   6, d.P.R.    n.    1017   del  1978)  e   di   quella in materia  di regolamentazione   di  procedimenti   amministrativi  di   propria spettanza,  che  costituisce  il corollario della  competenza  in materia   di  ordinamento  degli   uffici.   Inoltre,  il   detto regolamento,   pur   qualificandosi    atto    di   indirizzo   e coordinamento, non e' in regola con i requisiti richiesti, per la efficacia  di tali atti nel territorio della Provincia, dall'art. 3  delle  Norme di attuazione dello Statuto per il  Trentino-Alto Adige, emanate con d.  lgs.  16 marzo 1992, n.  266, giacche' - a parte  la  su rilevata mancanza di base legislativa per  costante giurisprudenza  della  Corte  in ogni caso necessaria  -  risulta emanato  senza la prescritta consultazione della Provincia, e non si   limita  a  fissare  obiettivi,  ma  detta  anche  norme   di organizzazione.   Pertanto, fermo restando che il raccordo tra lo Stato  e  la Provincia autonoma, in vista  dell'elaborazione  del calendario  delle fiere, dovra' svolgersi secondo i canoni  della leale  cooperazione  fra  i due livelli di  governo,  cosi'  come precisato dalla giurisprudenza della Corte, va dichiarato che non spetta  allo  Stato, in relazione al citato d.P.R.  n.   390  del 1994,  adottare  atti di indirizzo e coordinamento nei  confronti della ricorrente Provincia di Trento, al di fuori della procedura e  dei limiti previsti dall'art.  3, d.  lgs.  n.  266 del 1992 e introdurre,   con   norme   regolamentari,   prescrizioni   sullo svolgimento  dei procedimenti amministrativi di competenza  della Provincia  autonoma, con conseguente annullamento degli artt.  1, 2,  commi  primo, secondo lett.  b.), quarto e sesto, 3,  secondo comma,  4, 5, secondo comma, del citato d.P.R.  n.  390 del 1994, nella parte in cui si applicano a detta Provincia.  -  Sulla  competenza in tema di ordinamento degli uffici, v.   S. nn.   461/1992  e 465/1991, mentre, per quanto concerne i  canoni della  leale  cooperazione, tra le varie, v.  S.  nn.   377/1993, 359/1993, 355/1993, 109/1993, 497/1992.  Sulla impossibilita' che le  norme di attuazione statutarie vengano modificate dalla legge ordinaria, e, tanto meno, da una norma regolamentare, v.  S.  nn. 40/1992 e 38/1992.                                                  red.: A.M.M.                                                 rev.: S.P.
+
+## Norme
+
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 5, comma 2
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 2, comma 2 lett. b)
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 2, comma 1
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 2, comma 6
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 2, comma 4
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 1, comma 3
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 4
+- decreto del Presidente della Repubblica, 18/04/1994 n. 390, art. 3, comma 2
+
+## Parametri
+
+- decreto del Presidente della Repubblica, 16/03/1992 n. 266, art. 3
+- decreto legislativo, 31/07/1978 n. 1017, art. 6
+- statuto regione Trentino Alto Adige, art. 8 n.12
