@@ -1,0 +1,22 @@
+# Massima n. 13367
+
+- Pronuncia: Corte costituzionale, sentenza 37/1989 (ECLI:IT:COST:1989:37)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1989:37
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  37/89.   GIUDIZIO  DI LEGITTIMITA' COSTITUZIONALE  IN  VIA PRINCIPALE  - TRENTINO  ALTO ADIGE - STATUTO SPECIALE - NORME  DI ATTUAZIONE   - COMMISSIONE   PARITETICA   - PARERE    - MODIFICHE SUCCESSIVE AL TESTO DEI DECRETI LEGISLATIVI - LIMITI - D.P.R.  N. 527/1987  - MODIFICHE SOSTANZIALI APPORTATE DOPO LA  FORMULAZIONE DEL  PARERE DELLA COMMISSIONE - ILLEGITTIMITA' COSTITUZIONALE  IN "PARTE QUA". - D.P.R.  19 NOVEMBRE 1987 N.  527,  ARTT.  2, SECONDO COMMA, 11, TERZO COMMA; -  STATUTO SPECIALE PER IL T.A.A., ART. 107, PRIMO COMMA.
+
+## Testo
+
+Gli artt.  2,  secondo comma,  e 11,  terzo comma,  del d.P.R. 19 novembre 1987, n. 527 (Norme di attuazione dello Statuto speciale per   il  Trentino-Alto  Adige  in  materia  di  comunicazione  e trasporti  di  interesse  provinciale) riservano  allo  Stato  le attribuzioni in materia di sicurezza,  di cui al d.P.R. 11 luglio 1980,  n.  753,  rispettivamente per i trasporti ferrotranviari e filoviari,    e   per   le   linee   di   trasporto    funiviario interprovinciali o interregionali. Le suindicate disposizioni non erano  peraltro  contenute  nel  testo  del  progetto  sottoposto all'esame della Commissione paritetica,  che,  ai sensi dell'art. 107,  primo comma,  del d.P.R.  31 agosto 1972,  n.  640 (Statuto speciale per il Trentino-Alto Adige), deve esprimere parere sulle norme di attuazione statutaria.  Ma il rispetto dell'esigenza che tale  Commissione  sia  posta in grado di  esprimere  il  proprio avviso  sugli  schemi dei decreti legislativi che il  Governo  si appresta  definitivamente ad adottare impedisce al  Governo,  nel procedimento  di formazione delle norme di attuazione statutaria, di adottare modificazioni o aggiunte suscettibili di alterare  il contenuto sostanziale della disciplina sulla quale la Commissione abbia gia manifestato il proprio parere,  come e' invece avvenuto nel   caso   in  esame,   con  l'introduzione  delle   suindicate disposizioni,  incidenti  sul  piano  della  distribuzione  delle competenze tra lo Stato ed i soggetti di autonomia. Sono pertanto costituzionalmente illegittimi gli artt.  2, secondo comma, e 11, terzo comma, del d.P.R. 19 novembre 1987, n. 527.
+
+## Norme
+
+- decreto del Presidente della Repubblica, 19/11/1987 n. 527, art. 2, comma 2
+- decreto del Presidente della Repubblica, 19/11/1987 n. 527, art. 11, comma 3
+
+## Parametri
+
+- statuto regione Trentino Alto Adige, art. 107, comma 1
