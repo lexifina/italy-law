@@ -1,0 +1,233 @@
+ALLEGATO I
+
+(articolo 3)
+
+1. Unita' di misura della temperatura.
+
+L'unita' di misura della temperatura usato per la gradazione dei termometri e' il grado Celsius.
+
+2. Campo della graduazione e divisione della scala
+
+La graduazione della scala termometrica deve estendersi almeno da 35,5 a 42,0C, e il valore di ogni divisione deve essere di 0,1C.
+
+3. Tipi
+
+3.1. I termometri possono essere dei due tipi seguenti: termometro ad asta e termometro a guaina.
+
+3.1.1. Nel termometro ad asta, la scale e' tracciata direttamente su l'asta stessa.
+
+3.1.2. Nei termometri a guaina, la scala e' tracciata su di un supporto fissato longitudinalmente dietro il capillare; il capillare ed il supporto della scala sono racchiusi in un tubo trasparente fissato ermeticamente al serbatoio e formante una guaina di protezione.
+
+3.2. I termometri sono provvisti di un dispostivo "a massima" tale da impiedire che la colonna di mercurio si ritiri spontaneamente per il semplice effetto del raffreddamento del termometro.
+
+4. Materiali
+
+4.1. Il bulbo dei termometri deve essere fabbricato con un vetro che soddisfi le condizioni di cui al capitolo II. Tale vetro e' identificato in modo visibile ed indelebile:
+
+4.1.1. con un contrassegno incorporato nel vetro dal produttore del vetro in modo che sia chiaramente indentificabile sul bulbo dopo la fabbricazione del termometro;
+
+4.1.2. oppure con contrassegno scelto dal produttore del vetro ed apposto dal produttore del termometro, tale da caratterizzare chiaramente il tipo di vetro utilizzato.
+
+La conformita' di questo vetro con quello approvato in forza delle prescrizioni del punto 11.1.1. deve essere attestata da un certificato di conformita' rilasciato dal produttore del vetro.
+
+4.2. I vetri utilizzati per il dispositivo di massima e per il capillare devono avere una resistenza idrolitica equivalente a quella prevista al capitolo II punto 1.
+
+4.3. Nel caso dei termometri a guaina il supporto della scala deve essere di vetro opalino, di metallo oppure di una sostanza che abbia una stabilita' dimensionale equivalente.
+
+4.4. Nel caso dei termometri a guaina, quest'ultima deve essere di vetro.
+
+5. Costruzione
+
+5.1. Il termometro deve essere privo di ogni difetto che possa impedire il normale funzionamento o indurre in errore chi ne faccia uso.
+
+5.2. Le estremita' del termometro debbono avere una forma tale da evitare ogni rischio di incidenti durante l'uso.
+
+5.3. Il capillare deve permettere di distinguere facilmente sotto un unico ed identico angolo la colonna di mercurio su tutta la sua lunghezza ed il suo menisco. Esso deve essere di forma prismatica, con effetto di ingradimento, od essere costruito in modo da permettere un'identica facilita' di lettura.
+
+5.4. Il mercurio deve essere sufficientemente puro e secco.
+
+Per assicurare il buon funzionamento del termometro, il bulbo, il capillare ed il mercurio devono essere esenti da gas, da schegge di vetro e da corpi estranei.
+
+5.5. Durante il lento riscaldamento del termometro, la colonna di mercurio deve salire in modo uniforme, senza sbalzi rilevanti.
+
+Essa deve scendere al di sotto del tratto numerato piu' basso quando il mercurio subisce un'accelerazione di 600 m/s (elevato al quadrato) al livello del fondo del bulbo, dopo che il termometro sia stato riscaldato almeno a 37C e quindi raffreddato ad una temperatura piu' bassa del valore minimo della scala.
+
+5.6. Nei termometri a guaina, il supporto della scala deve essere posto esattamente a contatto del capillare ed essere fissato nella guaina in modo abbastanza solido da non potersi spostare rispetto al capillare stesso. La posizione del supporto deve essere tale che gli spostamenti dello stesso rispetto al capillare possano essere facilmente individuati grazie ad un trattino indelebile tracciato sulla guaina all'altezza di uno dei tratti di graduazione numerati o mediante un metodo equivalente.
+
+5.7. La guaina non deve contenere umidita', mercurio, schegge di vetro e corpi estranei.
+
+6. Graduazione e numerazione
+
+6.1. La graduazione deve essere tracciata in modo da risultare netta ed uniforme. La graduazione e la numerazione devono essere incise o stampate in modo chiaro e indelebile.
+
+6.2. L'ampiezza di ogni divisione dev'essere pari almeno a 0,5 mm per i termometri ad asta e a 0,6 mm per il termometri a guaina.
+
+6.3. I tratti devono essere perpendicolari all'asse del termometro ed il loro spessore non deve superare un quinto dell'ampiezza di una divisione, aumentata di 0,05 mm nel caso dei termometri a guaina, ed un quarto di tale ampiezza aumentata di 0,05 mm nel caso dei termometri ad asta.
+
+I tratti corrispondenti ai gradi interi ed ai mezzi gradi devono essere piu' lunghi degli altri.
+
+6.4. I tratti corrispondenti ai gradi interi sono numerati. Per i termometri ad asta, la numerazione del tratto corrispondente a 37C e' facoltativa e puo' essere sostituita dall'indicazione di cui al punto 6.5.
+
+6.5. Il tratto corrispondente alla temperatura di 37C puo' essere messo in evidenza mediante un colore diverso da quello della numerazione e/o con un segno supplementare.
+
+6.6. I tratti e le cifre devono essere sistemati in modo da essere visibili contemporaneamente alla colonna di mercurio.
+
+7. Iscrizioni
+
+7.1. Sull'asta, nel caso dei termometri ad asta, o sul supporto della scala, nel caso dei termometri a guaina, devono figurare in modo indelebile le seguenti iscrizioni:
+
+7.1.1. l'indicazione del simbolo dell'unita' di temperatura "C";
+
+7.1.2. il contrassegno di approvazione CEE del modello che, in deroga alla regola generale di cui al punto 3.1. dell'allegato I al decreto del Presidente della Repubblica 12 agosto 1982, n. 798, puo' essere composto, nell'ordine seguente, dalle iscrizioni sottospecificate:
+
+la lettera stilizzata epsilon,
+
+la lettera I oppure, nel caso di approvazione CEE rilasciata da altro Stato membro della CEE, la lettera o le lettere distintive di detto Stato,
+
+le ultime due cifre dell'anno di approvazione,
+
+la designazione nettamente separata dall'indicazione dell'anno, stabilita sul certificato di approvazione CEE;
+
+7.1.3. il marchio di identificazione del produttore o la sua ragione sociale;
+
+7.1.4. all'occorrenza, il contrassegno di cui al punto 4.1.2.
+
+7.2. Altre indicazioni possono essere autorizzate soltanto se non inducono in errore l'utente o se non ostacolano la lettura delle indicazioni.
+
+Il tempo di misura non deve figurare sullo strumento.
+
+8. Errori massimi tollerati
+
+Gli errori massimi tollerati sono + 0,10 C e - 0,15C. Questi valori si applicano alle indicazioni stabilite di un termometro.
+
+Per indicazione stabilita s'intende l'indicazione fornita da un termometro che, dopo aver raggiunto l'equilibrio termico con un bagno d'acqua ad una temperatura compresa nel campo della graduazione del termometro, e' stato raffreddato ad una temperatura compresa tra 15C e 30C.
+
+9. Influenza del tempo di immersione
+
+Se un termometro che si trova inizialmente alla temperatura t1, (15C maggiore o uguale t1 maggiore o uguale 30C)viene bruscamente immerso in un bagno di acqua agitata alla temperatura costante t2 (35,5 maggiore o uguale t2 maggiore o uguale 42,0C) e viene tolto da tale bagno dopo 20 secondi, l'indicazione del termometro dopo il suo raffreddamento alla temperatura ambiente (15C a 30C) deve soddisfare alle seguenti condizioni:
+
+1) rispettare gli errori massimi tollerati;
+
+2) presentare uno scarto non superiore a 0,005 (t2 - t1) dall'indicazione stabilizzata per la temperatura t2.
+
+10. Posizione del marchio di verifica prima CEE.
+
+10.1. Per l'apposizione del marchio di verifica prima CEE deve essere lasciato libero un apposito spazio sull'asta o sulla guaina del termometro a seconda del caso.
+
+10.2. In deroga alla norma generale di cui al punto 3 dell'allegato II del decreto del Presidente della Repubblica 12 agosto 1982, n. 798, il marchio puo' essere composto dalle iscrizioni sottospecificate nell'ordine seguente:
+
+la lettera minuscola "e",
+
+la lettera I,
+
+le due ultime cifre dell'anno di verifica,
+
+se necessario, il numero distintivo dell'ufficio provinciale metrico o del laboratorio che ha eseguito la verifica, nettamente separato dall'indicazione dell'anno suddetto.
+
+10.3 Nel caso di marcatura effettuata mediante la tecnica della sabbiatura, le lettere e le cifre debbono essere interrotte in punti opportuni, tali che non nuocciano alla loro leggibilita'.
+
+11. Approvazione CEE del modello e verifica prima CEE
+
+11.1. Approvazione CEE del modello.
+
+11.1.1. All'atto dell'approvazione CEE del modello, i termometri debbono essere esaminati per verificare la conformita' con le disposizioni tecniche e metrologiche del presente allegato. Si deve inoltre procedere alle prove di cui al capitolo II.
+
+11.1.2. Ogni fabbricante di termometri che per fabbricare il bulbo utilizzi un vetro sprovvisto del marchio del produttore del vetro deve comunicare all'Ufficio centrale metrico e il contrassegno di cui al punto 4.1.2. e la composizione chimica di tale vetro garantita dal produttore del vetro.
+
+11.2. Verifica prima CEE.
+
+L'esame di verifica prima CEE consiste nell'accertare la conformita' dei termometri con il modello approvato.
+
+11.2.1. Per verificare la conformita' dei termometri con le prescrizioni di cui ai punti 8 e 9 del presente allegato occorre procedere alla prova seguente:
+
+i termometri devono essere contrallati in bagni di acqua ben agitata, mediante confronto con termometri campione.
+
+Tale controllo va effettuato ad almeno due temperature, che differiscono di 4C o piu' e comprese entro 35,5C e 42,0C.
+
+La durata dell'immersione deve essere di 20 secondi per una tempetura e di 40 secondi per l'altra con periodica permuta delle temperature o delle durate di immersione.
+
+La lettura dei termometri, tenuti in posizione verticale, va effettuata sempre dopo che i termometri stessi sono stati tolti dal bagno e sono tornati alla temperatura ambiente.
+
+L'incertezza con cui e' determinato l'errore non deve superare 0,03C.
+
+Questo esame deve essere effuttuato almeno 15 giorni dopo aver ricevuto i termometri.
+
+11.2.2. Se il bulbo dei termometri e' fabbricato con vetro non identificato dal produttore del vetro:
+
+a) deve essere tenuto a disposizione dell'Ufficio centrale metrico il certificato di cui al punto 4.1.2. relativo ai termometri presentati alla verifica prima CEE;
+
+b) su iniziativa dell'Ufficio centrale metrico si deve eseguire periodicamente un'analisi che consenta di determinare la composizione chimica del vetro del bulbo di un termometro presentato alla verifica prima CEE onde accertarne la conformita' con il vetro approvato.
+
+CAPITOLO II
+
+REQUISITI DEL VETRO UTILIZZATO
+
+PER LA FABBRICAZIONE DEI BULBI
+
+1. Resistenza idrolitica
+
+Durate l'analisi del vetro conformemente alle prescrizioni della norma ISO R 719-1981 (determinazione della resistenza idrolitica del vetro in grani a 98C), la quantita' di alcali passati in soluzione deve corrispondere al massimo a 263,5 (microgrammi) di Na2O per 1g di vetro.
+
+2. Depressione media dello zero
+
+Per determinare la depressione dello zero si utilizzano appositi termometri sprovvisti del dispositivo di massima, fabbricati con il vetro da controllare conformemente alle disposizioni stabilite dall'Ufficio centrale metrico.
+
+2.1. La depressione media dello zero, determinata secondo il metodo descritto piu' oltre, non deve superare 0,05C.
+
+2.2. I termometri di prova debbono avere i seguenti requisiti.
+
+2.2.1. Campo della scala: da - 3C a + 3C almeno.
+
+2.2.2. Valore della divisione: 0,02C,0,05C oppure 0,1C.
+
+2.2.3. L'ampiezza della divisione deve essere almeno pari a 0,7 mm per i termometri a guaina e a 1,0 mm per i termometri ad asta.
+
+2.2.4. La camera di espansione deve essere sufficientemente ampia per consentire un riscaldamento senza danno del termometro sino a 400C.
+
+2.3. Ciascun termometro di prova deve essere controllato per quanto riguarda la sua buona stabilizzazione, secondo le seguenti disposizioni.
+
+2.3.1. Il termometro e' riscaldato in un mezzo a temperatura controllata (bagno di liquido o forno) dalla temperatura ambiente sino a 350C (piu' o meno) 10C e mantenuto a tale temperatura per cinque minuti almeno. In seguito, esso viene raffreddato nel mezzo a temperatura controllata sino a 50C+ mentre la temperatura controllata sino a 50C, mentre la temperatura del mezzo medesimo diminuisce di 10-15C/ora.
+
+2.3.2. Quando il termometro ha raggiunto la temperatura di 50C, viene tolto dal mezzo a temperatura controllato e si detgermina quindi la correzione a 0C (valore k1).
+
+2.3.3. In seguito il termometro e' riscaldato una seconda volta fino a 350C (piu' o meno) 10C in un mezzo a temperatura controllata e mantenuto a tale temperatura per 24 ore.
+
+Indi il termometro e' raffreddato sino a 50C come disposto al qunto 2.3.1.
+
+2.3.4. Quando il termometro ha raggiunto la temperatura di 50C viene tolto dal mezzo a temperatura controllata e si determina nuovamente la correzione a 0C (valore K2).
+
+2.3.5. Il valore assoluto della differenza tra K2 e K1 deve essere (minore o uguale) 0,15C. I termometri che non soddisfano a tale requisito non possono essere utilizzati per la determinazione della depressione dello zero.
+
+2.4. Svolgimento delle prove.
+
+2.4.1. Debbono essere utilizzati almeno tre termometri che hanno soddisfatto ai requisiti della prova di stabilizzazione di cui al punto 2.3. e che sono stati riscaldati oltre la temperatura ambiente dopo la determinazione di K2.
+
+2.4.2. Ciascun termometro deve essere controllato almeno tre volte secondo le disposizioni dei punti da 2.4.2.1. a 2.4.2.3.
+
+2.4.2.1. Il termometro viene mantenuto per una settimana tra 20C e 25C. Alla fine della settimana, si determina la correzione a 0C (valore K3).
+
+2.4.2.2. In seguito il termometro viene mantenuto in bagno di prova a 100C (piu' o meno) 1C durante 30 minuti e viene in seguito tolto da tale bagno. Il termometro deve raffreddarsi a contatto con l'aria.
+
+Durante il suo raffredamento a temperatura ambiente, il bulbo non deve venire a contatto con altri oggetti.
+
+2.4.2.3. Al massimo 15 minuti dopo aver tolto il termometro dal bagno di prova viene determinata la correzione a 0C. Il valore della correzione e' indicato dal simbolo K4.
+
+2.4.3. Ripetere le operazioni descritte nei punti da 2.4.2.1. a 2.4.2.3. per ottenere una serie di n differenze K4 - K3, K6 - K5,..., K2n+2 - K2n + 1, che rappresentano i valori della depressione dello zero del termometro ottenuti durante la prima, la seconda e rispettivamente l'ennesima serie di misure.
+
+2.4.4. Quando n serie di misure sono state effettuate con m termometri di prova, la depressione media dello zero di tali termometri si esprime con la seguente formula:
+
+m (i) (i) (i) (i) (i) (i)
+
+1 sommatoria [(K4 - K3) + (K6 - K5) + ... + (K2n+2 - K2n+1)].
+
+--
+
+mn i - 1
+
+Conformemente ai punti 2.4.1. e 2.4.2., le condizioni
+
+m (maggiore o uguale) 3 e n (maggiore o uguale) 3
+
+debbono essere soddisfate per m e per n.
+
+Lo scarto tipo della depressione media dello zero, determinata in base alle disposizioni di cui sopra, non deve superare 0,01C.
