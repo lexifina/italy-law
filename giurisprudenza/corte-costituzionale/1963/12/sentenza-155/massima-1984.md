@@ -1,0 +1,22 @@
+# Massima n. 1984
+
+- Pronuncia: Corte costituzionale, sentenza 155/1963 (ECLI:IT:COST:1963:155)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1963:155
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  155/63  A.  IMPOSTE  E  TASSE - LEGGE 10 DICEMBRE 1961, N. 1346,  ART.  2  -  IMPOSIZIONE  DELL'ADDIZIONALE  ECA  SU REDDITI MATURATI   ANTERIORMENTE   ALLA   PUBBLICAZIONE   DELLA  LEGGE  - DISPARITA'  DI  TRATTAMENTO  FRA  CONTRIBUENTI  A  SECONDA CHE LE OBBLIGAZIONI  D'IMPOSTA  SIANO  ISCRITTE A RUOLO PRIMA O DOPO UNA CERTA  DATA  -  VIOLAZIONE  DEGLI  ARTT.  3  E  53 COSTITUZIONE - ILLEGITTIMITA' COSTITUZIONALE PARZIALE.
+
+## Testo
+
+L'art.  2  della  legge  10 dicembre 1961, n. 1346, contrasta con l'art. 53, primo comma, della Costituzione, poiche' l'addizionale ECA  ed  il  suo  aumento - essendo congegnati in modo da gravare sugli   stessi   redditi   per  i  quali  si  deve  l'imposta  (o sovrimposta)  principale  concernente  le  societa', i terreni, i fabbricati  etc.  -  finiscono per incidere, senza che se ne veda una   giustificazione,  in  maniera  diversa  da  contribuente  a contribuente,   nonostante  che  la  situazione  di  ciascuno  di costoro,  presa  come  presupposto  per l'obbligo tributario, sia obiettivamente identica. La  diversita' di trattamento non puo' essere giustificata con la diversa  situazione  di  chi, relativamente ad un dato periodo di imposta,  puo'  assolvere  il  suo  obbligo tributario dopo il 1x gennaio  1961  rispetto a chi, per lo stesso periodo tributario e per  le  stesse  imposte,  ha dovuto pagare  anteriormente quella data,   sia  perche'  il  vantaggio  derivante  dal  ritardo  nel pagamento  non  e'  segno,  di  per se', d'una maggiore capacita' contributiva  (tanto  piu'  in  quanto  e'  compensata, almeno di recente, dall'obbligo  di pagare gli interessi sulle somme dovute a titolo di  imposta);  sia  perche'  risulta,  e dal testo delle norme  denunciate  e  dai  lavori preparatori, che il legislatore non  e'  stato   mosso   dall'intento  di  disciplinare  in  modo diseguale situazioni da esso ritenute diseguali, ma ha emanato la legge con la sola preoccupazione delle necessita' di bilancio. L'illegittimita' costituzionale non colpisce la seconda parte del primo  comma dell'art. 2, che riguarda le imposte di registro, di successione,   ipotecarie  e  sul  valore  dell'asse  ereditario, poiche'   in   tali   casi   l'imposta   e  con  essa   l'aumento dell'addizionale sono dovuti per fatti e situazioni posteriori al 18  gennaio  1962,  giorno  in  cui e' entrata in vigore la legge denunciata:  legge che percio', su questo punto, non si riferisce al tempo anteriore e fa gravare ugualmente l'addizionale su tutti coloro  rispetto  ai  quali si e' prodotto nella stessa epoca uno stesso presupposto. Non  e'  colpita  dal  vizio  di illegittimita' costituzionale la prima parte del primo comma del citato art. 2 nel suo riferimento al periodo d'imposta corrispondente all'anno solare 1960, poiche' la  norma  e' illegittima non perche' ed in quanto si riferisce a periodi  di  imposta  anteriore  al  1961,  ma solo perche' ed in quanto l'incidenza  dell'addizionale sul reddito maturato in tali periodi  da' luogo a diversita' di trattamento fra contribuente e contribuente. Pertanto    l'art.    2,    primo    comma,    prima   parte,  e' costituzionalmente   illegittimo   solo   in  quanto  fa  gravare l'obbligo  dell'addizionale su presupposti maturati in periodi di imposta anteriore al 1960 o al 1959-60. Anche  il  secondo  comma  dell'art. 2 legge 10 dicembre 1961, n. 1346  - nonostante che non vi siano ripetute le parole "ancorche' riferentesi a periodi di imposta anteriore" e' costituzionalmente illegittimo  in  quanto  la  norma  - che appunto e' stata intesa nella   prassi   degli   uffici   finanziari   nel   senso  della retroattivita'    almeno   riguardo   all'addizionale    relativa all'imposta  o  sovrimposta  sui  fabbricati si estende a periodi impositivi   rispetto   ai   quali,   nei   confronti  di  alcuni contribuenti, il tributo si e' reso esigibile anteriormente al 1x gennaio 1962, mentre nei confronti degli altri contribuenti si e' reco esigibile a cominciare da tale data.
+
+## Norme
+
+- legge, 10/12/1961 n. 1346, art. 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 53
