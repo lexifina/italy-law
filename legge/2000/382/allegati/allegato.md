@@ -1,0 +1,7 @@
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 20 OTTOBRE 2000, n. 295
+
+All'articolo 1, dopo il comma 2, e' aggiunto il seguente:
+
+"2-bis. Il Governo presenta al Parlamento una relazione sulle iniziative realizzate ai sensi del presente decreto".
