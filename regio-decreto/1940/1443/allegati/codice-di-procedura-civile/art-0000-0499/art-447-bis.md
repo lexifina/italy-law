@@ -2,9 +2,9 @@ Art. 447-bis
 
 (Norme applicabili alle controversie in materia di locazione, di comodato e di affitto)
 
-Le controversie in materia di locazione e di comodato di immobili urbani e quelle di affitto di aziende sono disciplinate dagli articoli 414, 415, 416, 417, 418, 419, 420, 421, primo comma, 422, 423, primo e terzo comma, 424, 425, 426, 427, 428, 429, primo e secondo comma, 430, 433, 434, 435, 436, 437, 438, 439, 440, 441, in quanto applicabili. (88) ((90))
+Le controversie in materia di locazione e di comodato di immobili urbani e quelle di affitto di aziende sono disciplinate dagli articoli 414, 415, 416, 417, 418, 419, 420, 421, primo comma, 422, 423, primo e terzo comma, 424, 425, 426, 427, 428, 429, primo e secondo comma, 430, 433, 434, 435, 436, 437, 438, 439, 440, 441, in quanto applicabili. (88) (90)
 
-Per le controversie relative ai rapporti di cui all'articolo 8, secondo comma, numero 3), e' competente il guidice del luogo dove si trova la cosa. Sono nulle le clausole di deroga alla competenza.
+((PERIODO SOPPRESSO DAL D.LGS. 19 FEBBRAIO 1998, N. 51)). Sono nulle le clausole di deroga alla competenza. ((90))
 
 Il giudice puo' disporre d'ufficio, in qualsiasi momento, l'ispezione della cosa e l'ammissione di ogni mezzo, di prova, ad eccezione del giuramento decisorio, nonche' la richiesta di informazioni, sia scritte che orali, alle associazioni di categoria indicate dalle parti.
 
