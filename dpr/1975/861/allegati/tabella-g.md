@@ -1,0 +1,5 @@
+TABELLA G
+
+ORGANICO DEL PERSONALE ISPETTIVO DELLE SCUOLE ELEMENTARI, SECONDARIE ED ARTISTICHE DELLA VALLE D'AOSTA
+
+Ispettori tecnici periferici. . . . . . . . . . . . . . . . . . . . 2

@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto l'art. 87, comma quinto, della Costituzione;
+
+Veduta la legge 30 luglio 1973, n. 477, recante delega al Governo per l'emanazione di norme sullo stato giuridico del personale ispettivo, direttivo, docente e non docente della scuola materna, elementare, secondaria ed artistica dello Stato;
+
+Veduta la legge 19 maggio 1975, n. 167, concernente la proroga del termine per l'emanazione di alcuni decreti con valore di legge ordinaria di cui alla predetta legge 30 luglio 1973, n. 477;
+
+Udito il parere della commissione prevista dall'articolo 18 della legge 30 luglio 1973, n. 477;
+
+Sentita la regione della Valle d'Aosta;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con il Ministro per il tesoro; Decreta:
