@@ -4,7 +4,7 @@ Crediti per retribuzioni e provvigioni, crediti dei coltivatori diretti, delle s
 
 Hanno privilegio generale sui mobili i crediti riguardanti:
 
-1) le retribuzioni dovute, sotto qualsiasi forma, ai prestatori di lavoro subordinato e tutte le indennita' dovute per effetto della cessazione del rapporto di lavoro, nonche' il credito del lavoratore per i danni conseguenti alla mancata corresponsione, da parte del datore di lavoro, dei contributi previdenziali ed assicurativi obbligatori ed il credito per il risarcimento del danno subito per effetto di un licenziamento inefficace, nullo o annullabile; (59) (139)
+1) le retribuzioni dovute, sotto qualsiasi forma, ai prestatori di lavoro subordinato e tutte le indennita' dovute per effetto della cessazione del rapporto di lavoro, nonche' il credito del lavoratore per i danni conseguenti alla mancata corresponsione, da parte del datore di lavoro, dei contributi previdenziali ed assicurativi obbligatori ed il credito per il risarcimento del danno subito per effetto di un licenziamento inefficace, nullo o annullabile; (59) (139) ((149))
 
 2) le retribuzioni dei professionisti e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110)
 
@@ -16,7 +16,7 @@ Hanno privilegio generale sui mobili i crediti riguardanti:
 
 5-bis) i crediti delle societa' cooperative agricole e dei loro consorzi per i corrispettivi della vendita dei prodotti.
 
-5-ter. i crediti delle imprese fornitrici di lavoro temporaneo di cui alla legge 24 giugno 1997, n. 196, per gli oneri retributivi e previdenziali addebitati alle imprese utilizzatrici. ((144))
+5-ter. i crediti delle imprese fornitrici di lavoro temporaneo di cui alla legge 24 giugno 1997, n. 196, per gli oneri retributivi e previdenziali addebitati alle imprese utilizzatrici. (144)
 
 ---------------
 
@@ -41,3 +41,9 @@ La Corte Costituzionale con sentenza 22-29 maggio 2002, n. 220, (in G.U. 1a s.s.
 AGGIORNAMENTO (144)
 
 Il D.Lgs. 10 settembre 2003, n. 276, ha disposto (con l'art. 86, comma 4) che "Le disposizioni di cui all'articolo 26-bis della legge 24 giugno 1997, n. 196, e di cui al n. 5-ter dell'articolo 2751-bis del codice civile si intendono riferiti alla disciplina della somministrazione prevista dal presente decreto."
+
+---------------
+
+AGGIORNAMENTO (149)
+
+La Corte Costituzionale con sentenza 25 marzo-6 aprile 2004, n. 113, (in G.U. 1a s.s. 14/04/2004, n. 15) ha dichiarato "l'illegittimita' costituzionale dell'art. 2751-bis, numero 1, del codice civile, nella parte in cui non munisce del privilegio generale sui mobili il credito del lavoratore subordinato per danni da demansionamento subiti a causa dell'illegittimo comportamento del datore di lavoro."
