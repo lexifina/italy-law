@@ -1,0 +1,25 @@
+# Massima n. 20753
+
+- Pronuncia: Corte costituzionale, sentenza 254/1994 (ECLI:IT:COST:1994:254)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1994:254
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   254/94.   REATO IN GENERE - SANZIONI SOSTITUTIVE DI  PENE DETENTIVE   BREVI  -  INAPPLICABILITA'   PER  ESPRESSO   DIVIETO, CONTENUTO  NELLA LEGGE N.  689 DEL 1981, AI REATI DI INQUINAMENTO IDRICO DI CUI ALLA LEGGE N.  319 DEL 1976, DIVERSAMENTE DA QUANTO STABILITO  PER ANALOGHE E PIU' GRAVI FIGURE CRIMINOSE PREVISTE IN MATERIA  DA  LEGGI SUCCESSIVE - SOPRAVVENUTA  IRRAGIONEVOLEZZA  E INGIUSTIFICATA   DISPARITA'  DI   TRATTAMENTO  -   ILLEGITTIMITA' COSTITUZIONALE  PARZIALE - SEGNALATA ESIGENZA DI UN PIU' PUNTUALE COORDINAMENTO, IN SEDE LEGISLATIVA, DELLA NORMATIVA 'DE QUA'.
+
+## Testo
+
+Posto  che  la  legge 24 novembre 1981, n.   689,  all'art.   60, nell'introdurre il sistema dei divieti oggettivi all'applicazione delle  sanzioni  sostitutive delle pene detentive brevi  mediante un'indicazione 'nominatim' delle singole fattispecie di reato, ha tra  l'altro  richiamato  i precetti di cui agli artt.  21  e  22 della  legge  10 maggio 1976, n.  319 (norme per la tutela  delle acque  dall'inquinamento),  la natura tassativa  dell'elenco,  in assenza  di  richiami  generali  e  'ratione  materiae',  non  ha consentito  di  includere, nel sistema preclusivo delle  sanzioni sostitutive,  fattispecie di reato sopravvenute (di cui al d.P.R. 10  settembre  1982, n.  915, artt.  25, 26 e 27, al  d.P.R.   24 maggio  1988,  n.  217, art, 15, secondo  comma,  successivamente abrogato  dal decreto legislativo 17 gennaio 1992, n.  133), che, mentre,   da   un  lato,  per   campo  di   materia,   presentano caratteristiche  identiche (la tutela dell'ambiente da  attivita' di  inquinamento idrico), dall'altro lato restano designate da un giudizio  di  valore  ancor  piu'   negativo  (sotto  il  profilo sanzionatorio) rispetto a quello formulato relativamente ai reati previsti  dagli  artt.   21 e 22 della legge 10 maggio  1976,  n. 319.   Cio'  da'  vita ad un sistema  assolutamente  squilibrato, rendendo  arbitrario,  stante il carattere del tutto  eccezionale del   regime   derogatorio   all'applicabilita'  delle   sanzioni sostitutive,  il  trattamento preclusivo soltanto per  le  citate fattispecie  della legge n.  319/1976.  Conseguentemente, pur non venendo   in  considerazione   l'intrinseca  irrazionalita'   del divieto,  sicuramente congruo in relazione all'assetto  normativo presente  al momento della entrata in vigore della legge n.   689 del  1981,  ma soltanto la discrasia scaturente  dall'assenza  di analoghe  norme  protettive nella specifica materia della  tutela dell'inquinamento,  l'art.   60, secondo comma, l.   24  novembre 1981,  n.   689, per la sua sopravvenuta  irragionevolezza,  deve essere  dichiarato incostituzionale, per violazione dell'art.   3 Cost.    -   risultando  assorbiti   gli  ulteriori  profili   di illegittimita'  -  nella  parte  in   cui  esclude  che  le  pene sostitutive  si applichino ai reati previsti dagli artt.  21 e 22 della  legge  10  maggio 1976, n.  319.  Richiamandosi  al  tempo stesso  l'attenzione  del legislatore sulla esigenza di  un  piu' puntuale coordinamento, in materia, del regime dei divieti.  - Cfr. S. n. 249/1993.                                                        red.: F.S.                                                       rev.: S.P.
+
+## Norme
+
+- legge, 24/11/1981 n. 689, art. 60, comma 2
+- legge, 10/05/1976 n. 319, art. 22
+- legge, 10/05/1976 n. 319, art. 21
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 27
