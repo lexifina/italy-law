@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO TECNICO PER GEOMETRI DI PIANCASTAGNAIO
+
+Parte di provvedimento in formato grafico
