@@ -1,0 +1,25 @@
+# Massima n. 23597
+
+- Pronuncia: Corte costituzionale, sentenza 385/1997 (ECLI:IT:COST:1997:385)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:385
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    385/97.   PROCESSO  CIVILE  -  ORDINANZA   DI   CONDANNA SUCCESSIVA  ALLA CHIUSURA DELL'ISTRUZIONE - OMESSA PREVISIONE, IN CASO  DI  RIGETTO DELL'ISTANZA, DI CONDANNA DELLA  PARTE  ISTANTE ALLE   SPESE   DI  LITE  -  MANCATA  PREVISIONE,  ALTRESI',   CHE L'ORDINANZA  DI  RIGETTO  ACQUISTI, RICORRENDONE  I  PRESUPPOSTI, EFFICACIA DI SENTENZA, COME NEL CASO DI ACCOGLIMENTO DELL'ISTANZA -  PRETESA INGIUSTIFICATA DISPARITA' DI TRATTAMENTO TRA LE  PARTI DEL  PROCESSO,  CON  INCIDENZA SUL DIRITTO DI  DIFESA  -  PRETESA LESIONE  DEL  PRINCIPIO DEL BUON  ANDAMENTO  DELL'AMMINISTRAZIONE DELLA GIUSTIZIA - INFONDATEZZA.
+
+## Testo
+
+Non  e' fondata, con riferimento agli artt.  3, 24 e 97 Cost., la questione  di  legittimita' costituzionale dell'art.   186-quater cod.  proc.  civ., nella parte in cui non prevede che il giudice, ove  rigetti  l'istanza  proposta ai sensi del primo  comma,  per essere  infondata  o non provata la domanda, possa condannare  la parte  istante al pagamento delle spese di lite e che l'ordinanza di   rigetto  sia  suscettibile  di  acquistare  l'efficacia   di sentenza,  in quanto - posto che l'art.  186-quater, cod.   proc. civ.,,  ha introdotto nel sistema processuale un istituto  avente finalita'  anticipatoria  degli effetti della decisione,  che  si realizza  attraverso un meccanismo potenzialmente conclusivo  del giudizio   di  primo  grado   (con  il  peculiare   provvedimento denominato  "ordinanza successiva alla chiusura dell'istruzione", il  giudice, sulla base degli elementi probatori acquisiti,  puo' disporre,  ad istanza di parte, il pagamento di somme, ovvero  la consegna  o  il  rilascio  di   beni,  provvedendo  sulle   spese processuali;   detta  ordinanza, revocabile con la  sentenza  che definisce  il  giudizio, oltre a costituire titolo esecutivo,  e' idonea  ad  acquistare  l'efficacia della  sentenza,  qualora  il processo  si  estingua,  ovvero  la parte  intimata  dichiari  di rinunciare   alla   pronuncia    della    sentenza);    che   con l'introduzione  di tale norma il legislatore ha voluto perseguire una  essenziale finalita', consistente nell'anticipare i tempi di realizzazione   del  "petitum"   rispetto  all'ordinario   schema processuale  e nel semplificarne le modalita', in tutti quei casi in  cui la domanda abbia ad oggetto il pagamento di somme  ovvero la consegna o il rilascio di beni ed il giudice ritenga raggiunta la  prova  del fatto costitutivo invocato;  che tale  effetto  si realizza  mediante l'emanazione di un provvedimento a  cognizione piena, i cui tratti peculiari sono rappresentati dall'agile forma di  ordinanza,  dal  contenuto  decisorio ed  esecutivo  e  dalla potenziale  idoneita' ad acquistare efficacia di sentenza;  e che e'  proprio  in funzione di detta idoneita' che il  provvedimento contiene  tutte  le  statuizioni  della sentenza,  tra  le  quali segnatamente  la  liquidazione  delle  spese,  in  modo  tale  da sostituirsi  ad  essa,  allorche' si verifichi  l'estinzione  del processo  o  intervenga la dichiarazione di rinuncia della  parte intimata  - e' del tutto ragionevole la mancata previsione  della operativita'  del  meccanismo processuale in esame, nel  caso  di rigetto dell'istanza, tenuto conto che, allorquando la domanda di condanna risulti infondata o non provata, vengono meno gli stessi motivi  di  attuazione anticipata (realizzazione  anticipata  del "petitum") della tutela giurisdizionale;  in quanto la scelta del legislatore  di riferire gli effetti anticipatori  dell'ordinanza alla sola ipotesi di accoglimento della domanda di condanna, alla quale   essi   sono     strutturalmente   collegati,   prevedendo esclusivamente   in  tal  caso  che   essa  debba  contenere   il provvedimento  di  liquidazione delle spese, e' coerente  con  la "ratio"   della   norma,   stante    la   potenziale   attitudine dell'ordinanza  ad  acquistare  l'efficacia della sentenza  ed  a sostituirsi  ad  essa;   ed in quanto non e'  ravvisabile  nessun contrasto  con l'art.  24 Cost., considerando che, allorquando si sia  concluso,  con  il  rigetto  dell'istanza,  il  procedimento incidentale  instaurato  ai sensi della  disposizione  impugnata, riprendono vigore le ordinarie regole processuali, in forza delle quali  con  la  sentenza  che definisce il  processo  il  giudice dispone in ordine alle spese.  - O. nn. 7, 168 e 189/1997.                                                  red.: S. Di Palma
+
+## Norme
+
+- legge, 20/12/1995 n. 534
+- codice di procedura civile, art. 186 quater
+- decreto-legge, 18/10/1995 n. 432, art. 7
+
+## Parametri
+
+- Costituzione, art. 24
+- Costituzione, art. 97
+- Costituzione, art. 3
