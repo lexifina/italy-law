@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2175/A/25.747/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2175/A/25.747"/>
+					<an:FRBRdate date="2004-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2175/A/25.747/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="25.747"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@"/>
+					<an:FRBRdate date="2004-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@.akn"/>
+					<an:FRBRdate date="2004-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-06-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-06-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2175/A/25.747/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2175" showAs="DDL 2175"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2175</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 25.747</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 6 con i seguenti:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «6. È costituito, secondo le modalità indicate nel regolamento di attuazione di cui al comma 4-
+					<an:i>ter,</an:i>
+					 un fondo per incentivare la diffusione della tecnologia digitale su frequenze terrestri, via cavo e via satellite, anche con riferimento alla distribuzione all'utenza di apparecchi per la ricezione dei programmi televisivi, radiofonici e dei servizi in tecnica digitale. Con successivi provvedimenti sono individuate forme e modalità di partecipazione finanziaria al fondo da parte delle società private interessate ai processi di innovazione tecnologica del settore.
+				</an:p>
+				<an:p align="justify">
+					        6-
+					<an:i>bis.</an:i>
+					 In sede di prima attuazione della presente legge, al fondo sono assegnati per il triennio 2003-2005 complessivi 300 milioni di euro. Al relativo onere, pari a 100 milioni di euro per il 2003, 100 milioni di euro per il 2004 e 100 milioni di euro per il 2005, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unità previsionale di base di parte capitale «Fondo speciale» dello stato di previsione del Ministero dell'economia e delle finanze, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo ministero.
+				</an:p>
+				<an:p align="justify">
+					        6-
+					<an:i>ter.</an:i>
+					 Con regolamento adottato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro delle comunicazioni, previo parere delle competenti Commissioni parlamentari, da emanarsi entro sei mesi dalla data entrata in vigore della presente legge, sono definite le modalità e le procedure per l'utilizzazione del fondo di cui al comma 4».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
