@@ -1,0 +1,5 @@
+Allegato
+
+AGREEMENT
+
+Parte di provvedimento in formato grafico
