@@ -1,0 +1,21 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' di Milano, approvato con regio decreto 4 novembre 1926, n. 2280, e modificato con regio decreto 13 ottobre 1927, n. 2233, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 22 maggio 1978, n. 217;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Sentito il parere del Consiglio universitario nazionale;
+
+Veduto il parere della sezione prima del Consiglio di Stato n. 1902/74 del 14 febbraio 1975;
+
+Considerato che non appare opportuno, al momento, procedere ad una generale revisione delle norme statutarie di tutti gli atenei relative alla direzione delle scuole di specializzazione e perfezionamento e degli istituti nonche' delle scuole dirette a fini speciali, attualmente affidata esclusivamente ai professori di ruolo o fuori ruolo, in attesa del provvedimento relativo allo stato giuridico del personale docente;
+
+Sulla proposta del Ministro della pubblica istruzione; Decreta:
