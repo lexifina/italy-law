@@ -1,0 +1,41 @@
+ALLEGATO 5.
+
+REGNO D'ITALIA
+
+MINISTERO DELLE COMUNICAZIONI
+
+Direzione generale delle Poste e dei Telegrafi
+
+CERTIFICATO
+
+Generale di radiotelegrafista
+
+per il servizio radioelettrico a bordo degli aeromobili.
+
+Rilasciato al Signor ............... paternita' ............
+
+nato il ............ a ............provincia di ............ in seguito al risultato favorevole degli esami teorici e pratici da lui sostenuti nella sessione ............in conformita' dei regolamenti e degli accordi internazionali in vigore.
+
+Roma, li' ............ 19...... anno.......
+
+Il Direttore Generale
+
+(Timbro)
+
+Spazio per la fotografia
+
+Il sottoscritto, titolare del presente certificato, si impegna a mantenere il segreto di ufficio e a sottostare scrupolosamente a tutte le disposizioni vigenti nonche' a quelle che verranno eventualmente emanate dal Regio Governo circa il servizio delle radiocomunicazioni.
+
+Il Titolare
+
+Visto, d'ordine di Sua Maesta' Il Re d'Italia e di Albania
+
+Imperatore d'Etiopia
+
+Il Ministro per l'aeronautica
+
+Mussolini
+
+Il Ministro per le comunicazioni
+
+Host Venturi
