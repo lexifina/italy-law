@@ -1,0 +1,25 @@
+# Massima n. 24216
+
+- Pronuncia: Corte costituzionale, sentenza 363/1998 (ECLI:IT:COST:1998:363)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:363
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  363/98.  FALLIMENTO - GIUDICE DELEGATO - RECLAMO AVVERSO I PROVVEDIMENTI  DECISORI  EMESSI DALLO STESSO -  COMPOSIZIONE  DEL COLLEGIO  - OBBLIGO DI ASTENSIONE DA PARTE DEL PREDETTO GIUDICE - MANCATA PREVISIONE - DEDOTTA LESIONE DEL PRINCIPIO DI EGUAGLIANZA NONCHE'  VIOLAZIONE  DEL DIRITTO DI DIFESA - INSUSSISTENZA -  NON FONDATEZZA DELLE QUESTIONI.
+
+## Testo
+
+Non  sono  fondate  le questioni di  legittimita'  costituzionale -sollevate  in riferimento agli artt.  3 e 24 Cost.  -  dell'art. 51,  numero  4,  cod.   proc.   civ.,  <<in  quanto  non  prevede l'obbligo  di  astensione  del giudice  delegato  al  fallimento, chiamato  a  comporre  il collegio in sede di reclamo  avverso  i provvedimenti  decisori  da  lui stesso emessi  ed  incidenti  su diritti  soggettivi>>, e degli artt.  23, 25, numero 1, e 26  del regio  decreto 16 marzo 1942, n.  267 (Disciplina del fallimento, del  concordato  preventivo, dell'amministrazione  controllata  e della  liquidazione  coatta  amministrativa),  <<rispettivamente, nella parte in cui prevedono che il giudice delegato riferisca al tribunale  in caso di richiesta di provvedimento collegiale anche quando  si tratti di reclamo avverso provvedimenti da lui  stesso emessi  e nella parte in cui non escludono, nella stessa ipotesi, la  partecipazione  al  collegio  di  detto  giudice>>,  poiche', premesso  che la qualificazione del reclamo, risultante dall'art. 739  cod.  proc.  civ., come grado ulteriore del giudizio non  e' estensibile al reclamo fallimentare - il quale rimane nell'ambito della   stessa   fase  processuale  e  costituisce   un   momento dell'"iter"  della  procedura  concorsuale, le  cui  peculiarita' impongono speciali esigenze di continuita' delle quali il giudice delegato  e'  sostanzialmente  il garante - ne  consegue  la  non operativita',  nella specie, dell'art.  51, numero 4, cod.  proc. civ.,  e,  quindi,  la  mancanza di  un  obbligo  di  astensione. Peraltro,  la peculiare disciplina fallimentare, che si manifesta segnatamente  sul piano degli effetti sostanziali del fallimento, rende  impossibile la comparazione della posizione dei  creditori che   agiscono  esecutivamente  al  di  fuori   delle   procedure concorsuali  -  richiamata  quale   'tertium  comparationis'  dal giudice  rimettente  nel prospettare la violazione  dell'art.   3 Cost.   - con la posizione dei creditori fallimentari:  la  Corte ha,  infatti,  affermato  di  recente,  in  proposito,  che  <<la declaratoria  di  fallimento,  da  cui  discende  la  necessitata concorsualita'  delle  azioni  esecutive dei  creditori,  vale  a legittimare  la diversita' di disciplina che il legislatore detta in relazione alle situazioni poste a raffronto>>.  - V. S. n. 234/1998.  -  Sulle  decisioni  rese con riferimento al  reclamo  avverso  i provvedimenti  incidenti su diritti soggettivi e, in particolare, avverso  i  decreti  di ripartizione dell'attivo, cfr.   S.   nn. 118/1963 e 42/1981 nonche' S.  nn.  303/1965, 55/1986 e 156/1986, 'ex plurimis'.  - V., inoltre, S.  n.  158/1970, nella quale si afferma che <<nel processo   fallimentare,   anche  per   la   spiccata   rilevanza pubblicistica    dell'istituto     del      fallimento,     trova un'accentuazione   del   tutto  particolare   il   principio   di concentrazione  di  ogni  controversia   presso  gli  organi  del fallimento   medesimo:    il  che   determina   collegamenti   ed interferenze processuali inevitabili, percio' non rilevabili agli effetti  della  legittimazione  del giudice,  per  la  prevalente apprezzabile   esigenza   di    portare    allo   stesso   organo giurisdizionale tutto il procedimento e di ridurlo ad unita'>>.  -  Riguardo  alla molteplicita' di poteri del  giudice  delegato, cfr., 'ex multis', S.  nn.  148/1996 e 351/1997.  -  Cfr.,  altresi',  S.  n.  326/1997, con la quale la  Corte  ha precisato   che  <<le  caratteristiche   del   processo   penale, finalizzato  all'accertamento del fatto ascritto all'imputato,  a sua volta costantemente assistito dal 'favor rei', non consentono di  trasporre  'sic  et  simpliciter'   nel  processo  civile  le considerazioni  svolte  relativamente a quello>>.  La  qual  cosa <<non  puo'  non  valere  a maggior  ragione  con  riguardo  alla peculiare disciplina fallimentare>>.                                                 red.: G. Leo
+
+## Norme
+
+- codice di procedura civile, art. 51 n. 4
+- regio decreto, 16/03/1942 n. 267, art. 25 n. 1
+- regio decreto, 16/03/1942 n. 267, art. 26
+- regio decreto, 16/03/1942 n. 267, art. 23
+
+## Parametri
+
+- Costituzione, art. 24
+- Costituzione, art. 3
