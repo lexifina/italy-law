@@ -1,0 +1,5 @@
+ANNESSO 3
+
+CERTIFICATO SANITARIO PER BOVINI DA ALLEVAMENTO O DA PRODUZIONE
+
+Parte di provvedimento in formato grafico

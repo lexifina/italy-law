@@ -1,0 +1,5 @@
+ANNESSO 7
+
+CERTIFICATO SANITARIO PER OVINI E CAPRINI DA MACELLO
+
+Parte di provvedimento in formato grafico

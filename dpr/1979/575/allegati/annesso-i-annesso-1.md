@@ -1,0 +1,5 @@
+ANNESSO 1
+
+CERTIFICATO SANITARIO PER EQUINI (DA ALLEVAMENTO O DA MACELLO)
+
+Parte di provvedimento in formato grafico
