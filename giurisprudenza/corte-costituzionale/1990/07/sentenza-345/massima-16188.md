@@ -1,0 +1,25 @@
+# Massima n. 16188
+
+- Pronuncia: Corte costituzionale, sentenza 345/1990 (ECLI:IT:COST:1990:345)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1990:345
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   345/90.  REGIONI IN GENERE - ATTI STATALI DI INDIRIZZO  E COORDINAMENTO - REQUISITI ESSENZIALI. SANITA' PUBBLICA - STRUTTURE PER ANZIANI NON AUTOSUFFICIENTI, NON ASSISTIBILI   A  DOMICILIO  O   NEI  SERVIZI  SEMIRESIDENZIALI  - REALIZZAZIONE  DA  PARTE  DELLE  REGIONI E  PROVINCE  AUTONOME  - CONDIZIONE  PER  L'OTTENIMENTO  DEI  MUTUI  STATALI  AGEVOLATI  - OSSERVANZA  DEI  REQUISITI DIMENSIONALI E FUNZIONALI FISSATI  CON D.P.C.M.   -  LAMENTATA LESIONE DELLE COMPETENZE  DELLE  PROVINCE AUTONOME  DI  TRENTO  E BOLZANO - INSUSSISTENZA -  SPETTANZA  DEL POTERE ALLO STATO.
+
+## Testo
+
+La  base  legittimante  propria  di un atto  di  indirizzo  e  di coordinamento,  e' quella di porre direttive alle regioni (e alle province  autonome) nelle materie di loro competenza affinche' le relative  funzioni  siano  esercitate nel  rispetto  di  esigenze unitarie  e  di interessi infrazionabili, valevoli per  tutto  il territorio  nazionale.   A  tale riguardo -  nonostante  che  nel titolo  e  nella  premessa  si autoqualifichi  tale  -  non  puo' considerarsi  atto  di indirizzo e coordinamento il  Decreto  del Presidente  del Consiglio dei Ministri in data 22 dicembre  1989, con  il quale vengono determinati - in attuazione dell'art.   20, l.  11 marzo 1988, n.  67 - i requisiti dimensionali e funzionali che  le residenze per anziani e per soggetti non  autosufficienti devono  possedere al fine di rendere possibile l'approvazione  da parte  del CIPE dei relativi progetti regionali (o provinciali) e il  conseguente  ottenimento,  da parte delle  regioni  (o  delle province  autonome)  proponenti, del beneficio dei mutui  statali agevolati.   La  circostanza che il decreto in questione  preveda detti  standards  non  come espressione di esigenze  unitarie  in grado  di  vincolare  tutte le regioni (o le  province  autonome) nell'esercizio  delle  loro funzioni in materia di sanita'  e  di assistenza  sociale,  ma  come  vincolo   solo  per  quelle  che, intendano avvalersi dei fondi speciali statali, esclude che esso, non  collegandosi ad alcuno dei limiti costituzionali posti  alle competenze legislative e amministrative delle regioni e al di la' delle  determinazioni  o qualificazioni del  legislatore  statale (art.   20, comma secondo, lett.  f), l.  n.  67 del 1988,  cit.) possa  considerarsi  atto di indirizzo ai sensi sopracitati.   Il venir  meno,  di  conseguenza, delle censure  di  violazione  dei principi  costituzionali  sull'esercizio della suddetta  funzione governativa  e,  in  particolare, del principio  della  legalita' "sostanziale"  -  formulate  sul  presupposto   che  di  atto  di indirizzo   si  trattasse  -  e  l'accertamento,  per  la   Corte egualmente  doveroso,  che  il decreto in questione -  in  quanto trova  adeguata base nell'art.  20 ed inoltre negli artt.  1, 2 e 3  della  legge finanziaria 11 marzo 1988, n.  93 -  e'  comunque rispettoso  dei limiti di legittimita' ad esso relativi, inducono ad  escludere  il denunciato vizio di incompetenza  dello  Stato. (Spettanza  allo  Stato di adottare, con le modalita' di  cui  al d.P.C.M.   22  dicembre 1989, gli standards dimensionali  per  la realizzazione  di strutture sanitarie residenziali per anziani  e soggetti  non  autosufficienti, previsti dall'art.   20,  secondo comma, lettera f), della legge 11 marzo 1988, n.  67).  -  S.   nn.   39/1971, 142/1972,  340/1983,  304/1987,  214/1988, 242/1989, 389/1989.
+
+## Norme
+
+- decreto del Presidente del Consiglio dei ministri, 22/12/1989
+
+## Parametri
+
+- statuto regione Trentino Alto Adige, art. 9 n. 16
+- statuto regione Trentino Alto Adige, art. 8 n. 17
+- statuto regione Trentino Alto Adige, art. 8 n. 25
+- statuto regione Trentino Alto Adige, art. 9 n. 10
+- statuto regione Trentino Alto Adige, art. 4
