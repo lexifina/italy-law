@@ -8,9 +8,11 @@ In mancanza di fissazione del termine da parte del giudice, la causa di merito d
 
 Il termine decorre dalla pronuncia dell'ordinanza se avvenuta in udienza o altrimenti dalla sua comunicazione.
 
+((Per le controversie individuali relative ai rapporti di lavoro alle dipendenze delle pubbliche amministrazioni, escluse quelle devolute alla giurisdizione del giudice amministrativo, il termine decorre dal momento in cui la domanda giudiziale e' divenuta procedibile.))
+
 Nel caso in cui la controversia sia oggetto di compromesso o di clausola compromissoria, la parte, nei termini di cui ai commi precedenti, deve notificare all'altra un atto nel quale dichiara la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri.
 
-(67) ((72))
+(67) (72)
 
 ---------------
 
