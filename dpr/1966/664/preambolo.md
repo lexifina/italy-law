@@ -1,0 +1,11 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visto l'art. 2 del decreto legislativo dei Capo provvisorio dello Stato 28 novembre 1947, n. 1430, concernente l'esecuzione del Trattato di Pace tra l'Italia e le Potenze Alleate ed Associate, firmato a Parigi il 10 febbraio 1947;
+
+Visto il decreto del Presidente della Repubblica 3 maggio 1956, n. 841, concernente l'esecuzione dei capitoli V e X della Convenzione sul regolamento delle questioni derivanti dalla guerra e dall'occupazione della Repubblica Federale di Germania, firmata a Bonn il 26 maggio 1952, nonche' della Carta della Commissione arbitrale sui beni, diritti ed interessi in Germania, annessa alla Convenzione medesima;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per gli affari esteri, di concerto con i Ministri per il tesoro e per l'industria e commercio; Decreta:
