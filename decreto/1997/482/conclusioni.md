@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Roma, 3 settembre 1997
+
+Il Ministro di grazia e giustizia Flick Il Ministro dei lavori pubblici Costa Il Ministro dell'industria del commercio e dell'artigianato Bersani Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 22 dicembre 1997 Registro n. 2 Giustizia, foglio n. 282 Avvertenza: Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e' sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge alla quale e' operato il rinvio. Restano invariati il valore e l'efficacia dell'atto legislativo qui trascritto.
