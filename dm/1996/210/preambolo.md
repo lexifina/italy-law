@@ -1,0 +1,17 @@
+IL MINISTRO DELLE FINANZE
+
+Visto l'art. 67, comma 1, del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, approvato con decreto legislativo 26 ottobre 1995, n. 504, che prevede che le norme regolamentari per l'applicazione del testo unico medesimo e, in particolare, per l'applicazione di quelle relative alla circolazione dei prodotti sottoposti ad imposta sono stabilite con decreto del Ministro delle finanze;
+
+Visti gli articoli 6, comma 3, e 12, comma 1, del suddetto testo unico, che prevedono che la circolazione dei prodotti soggetti ad accisa avvenga con il documento di accompagnamento previsto dalla normativa comunitaria e quella dei prodotti assoggettati ad accisa avvenga con un documento di accompagnamento analogo a quello previsto per la circolazione intracomunitaria;
+
+Visti gli articoli 6, commi 2, 4, 5 e 6; 8, commi 1, 2 e 3; 21, commi 1, 2, 3 e 5; 24, comma 1; 61, comma 2 e 62, comma 9 del citato testo unico;
+
+Visto l'art. 17, commi 3 e 4, della legge 23 agosto 1988, n. 400;
+
+Udito il parere del Consiglio di Stato espresso nell'adunanza generale del 25 gennaio 1996;
+
+Considerato che l'adeguamento al parere del Consiglio di Stato nella parte in cui si chiede un'elencazione esemplificativa dei piu' ricorrenti tipi di documenti commerciali ammessi in alternativa ai documenti amministrativi non appare necessario, in quanto i suddetti documenti sono quelli previsti dai regolamenti comunitari richiamati nel presente regolamento;
+
+Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata, a norma dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400, con nota n. 3-1521 del 12 marzo 1996;
+
+A D O T T A il seguente regolamento:
