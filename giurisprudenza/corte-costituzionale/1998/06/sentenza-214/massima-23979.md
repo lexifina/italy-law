@@ -1,0 +1,25 @@
+# Massima n. 23979
+
+- Pronuncia: Corte costituzionale, sentenza 214/1998 (ECLI:IT:COST:1998:214)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:214
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   214/98.  AMMINISTRAZIONE PUBBLICA - DISPOSIZIONI DI LEGGE STATALE  E  DI  LEGGE  DELLA REGIONE  EMILIA-ROMAGNA  EMANATE  IN SEGUITO  ALL'ESITO ABROGATIVO DI 'REFERENDUM' INTESO A  SOTTRARRE ALLE  U.S.L.   LE FUNZIONI GIA' DI LORO COMPETENZA IN MATERIA  DI CONTROLLI  AMBIENTALI  -  TRASFERIMENTO  ALLE  ISTITUITE  AGENZIE REGIONALI PER LA PROTEZIONE DELL'AMBIENTE (ARPA) E IN PARTICOLARE ALL'AGENZIA  DELLA  REGIONE  EMILIA-ROMAGNA,   CON  LE   RELATIVE DOTAZIONI  ORGANICHE,  DEL PERSONALE DEI PRESIDI  MULTIZONALI  DI PREVENZIONE  GIA'  OPERANTI  NELL'AMBITO DEL  SERVIZIO  SANITARIO NAZIONALE,  SENZA  ESCLUDERNE  GLI ADDETTI AD  ATTIVITA'  RIMASTE AFFIDATE  AL  SERVIZIO - PROSPETTATA VIOLAZIONE DEI  PRINCIPI  DI EGUAGLIANZA  E  RAGIONEVOLEZZA,  BUON ANDAMENTO  E  IMPARZIALITA' DELLA   PUBBLICA   AMMINISTRAZIONE   E   TUTELA  DEL   LAVORO   - INSUSSISTENZA  -  RISPONDENZA  DELLE NORME IMPUGNATE AL  FINE  DI EVITARE  DUPLICAZIONI  O  SMEMBRAMENTO DELLE  STRUTTURE  TECNICHE ESISTENTI ED INGIUSTIFICATI INCREMENTI DI PERSONALE E SPESE - NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Non  e'  fondata  la  questione  di  legittimita'  costituzionale dell'art.   03,  comma  1, del d.l.  4 dicembre  1993,  n.   496, convertito  con ampie modificazioni in legge 21 gennaio 1994,  n. 61  -  emanato  a seguito dell'esito abrogativo  (dichiarato  con d.P.R.   5  giugno  1993, n.  177) del 'referendum'  indetto  con d.P.R.  25 febbraio 1993, tendente a sottrarre alle strutture del servizio  sanitario nazionale le funzioni di controllo ambientale gia' ad esse attribuite da norme della legge 23 dicembre 1978, n. 833  -  e  dell'art.   25, comma 1,  della  legge  della  Regione Emilia-Romagna  19  aprile 1995, n.  44 - emanata a sua volta  in attuazione   della  legge  statale  -  impugnati   entrambi,   in riferimento  agli artt.  3, 35 e 97 Cost., in quanto in forza  di essi  risulta  assegnato alle istituite Agenzie regionali per  la protezione dell'ambiente (A.R.P.A.), e in particolare all'Agenzia della   Regione  Emilia-Romagna,  con   le   relative   dotazioni organiche,  beni,  attrezzature, ecc., il personale  dei  presidi multizonali  di  prevenzione  (P.M.P.), gia' istituiti  ai  sensi dell'art.   22 della legge n.  833 del 1978, e in particolare  il personale  del  settore  biotossicologico   degli  stessi,  senza distinguere  tra  addetti alle attivita' trasferite e addetti  in prevalenza  ad  attivita'  rimaste  di  competenza  del  Servizio sanitario  e  precisamente dei dipartimenti di prevenzione  delle USL  istituiti a norma dell'art.  7 del d.lgs.  30 dicembre 1992, n.  502.  Nell'ambito della logica a cui le contestate previsioni appaiono ispirate, e che - come si desume dai vari articoli delle due  leggi,  considerati nel loro insieme - e' quella di  evitare soluzioni  di  continuita' in materia di controlli  ambientali  e segnatamente  di impedire - nella consapevolezza che le attivita' tecniche,  come le analisi di laboratorio, potevano essere, e  di fatto  erano, svolte promiscuamente al servizio sia dei controlli ambientali  sia  dei  controlli propriamente sanitari  -  che  si producesse  a livello locale una duplicazione o uno  smembramento delle  strutture esistenti, con aggravio di personale e di spese, e quindi di curare particolarmente la coordinata disciplina delle modalita' di svolgimento da parte dell'ARPA di attivita' tecniche anche  al  servizio delle unita' sanitarie locali  competenti  in tema di controlli sanitari - logica che non solo non contrasta ma e'  anzi  conforme al principio di buon andamento della  pubblica amministrazione - deve riconoscersi la piena discrezionalita' del legislatore,  sia  statale che regionale, nel definire i  criteri per  la  collocazione delle strutture tecniche presso i  soggetti amministrativi competenti, e per la ripartizione e l'assegnazione del  relativo  personale, con cio' venendo meno anche le  censure formulate  in  riferimento  ai  principi   di  eguaglianza  e  di ragionevolezza.   Mentre,  per  quella dedotta  con  richiamo  al principio  della  tutela  del lavoro in tutte le  sue  forme,  e' sufficiente  osservare,  per  escluderla, che il  rispetto  della professionalita'  degli  addetti alle strutture tecniche  non  e' certo contraddetto dal loro trasferimento, conseguente alla nuova collocazione  delle  stesse strutture, quando resti ferma -  come nel caso - la tipologia generale delle prestazioni richieste.                                           red.: S. Pomodoro
+
+## Norme
+
+- legge, 21/01/1994 n. 61
+- decreto-legge, 04/12/1993 n. 496, comma 1
+- legge della Regione Emilia Romagna, 19/04/1995 n. 44, art. 25, comma 1
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
+- Costituzione, art. 35
