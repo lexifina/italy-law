@@ -1,0 +1,13 @@
+# Massima n. 10772
+
+- Pronuncia: Corte costituzionale, sentenza 70/1985 (ECLI:IT:COST:1985:70)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1985:70
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   70/85  D.  CONFLITTO DI ATTRIBUZIONE FRA STATO E  REGIONE (GIUDIZIO  PER)  - REGIONE TOSCANA - INQUINAMENTO DELLE  ACQUE  - OPERE DI BONIFICA - ATTI AMMINISTRATIVI PREVISTI DA LEGGI STATALI -  MANCATA  ADOZIONE  -  PROCEDIMENTI PENALI  NEI  CONFRONTI  DEL PRESIDENTE  DELLA  GIUNTA  E DI ASSESSORI  -  RIPARTIZIONE  DELLE FUNZIONI    AMMINISTRATIVE   FRA    GLI    ORGANI   REGIONALI   - IDENTIFICAZIONE  NEGLI  ATTI  GIURISDIZIONALI RITENUTA  ERRATA  - RICHIESTA,  DA  PARTE DELLA REGIONE RICORRENTE, DI  CORREZIONE  - INCOMPETENZA  DELLA  CORTE  COSTITUZIONALE   A  SINDACARE  ERRORI INERENTI ALL'ESERCIZIO DELLA GIURISDIZIONE - INAMMISSIBILITA'.
+
+## Testo
+
+I conflitti previsti dall'art.  39 della l.  n.  n.  87 del 1953, possono  avere  ad oggetto solo gli atti invasivi della sfera  di competenze  costituzionalmente attribuite a Stato e Regioni e non anche vicende in cui non si controverte della spettanza ad uno di tali   enti  di  determinate   attribuzioni,  bensi'  solo  della spettanza  di queste all'uno od all'altro degli organi  dell'ente medesimo.    Deve,  infatti,   trovare  conferma   l'orientamento espresso dalla Corte costituzionale secondo il quale sono "idonei a  dar  luogo  a conflitti di attribuzioni tra Stato  e  Regioni" "anche  atti giurisdizionali o comunque strumentalmente  inerenti all'esplicazione  di  funzioni giurisdizionali" "quante volte  si assuma  che ridondino in una invasione o menomazione della  sfera di   competenza   costituzionalmente   garantita   alla   Regione ricorrente";   ma va esclusa l'ammissibilita' dei ricorsi  quando con  essi si pretenda di "censurare il modo come la giurisdizione si  e'  concretemente esplicata, denunciando errori in  iudicando nei  quali il giudice" "sarebbe incorso".  (Inammissibilita'  dei ricorsi  per  conflitto  di  attribuzione tra  Stato  e  Regioni, avverso  atti  di  organi  giurisdizionali  riguardanti  processi penali,   per  il  compimento,  ovvero   il  mancato  o   tardivo compimento,  di atti amministrativi da parte del Presidente della giunta  regionale  o  assessori  regionali,  sollevati  sotto  il profilo   che   i   giudici     sarebbero   incorsi   in   errore nell'identificare   i  soggetti  cui   spettavano   le   funzioni amministrative in questione).  - S. nn. 289/1974; 30 e 31/1980; O. nn.  77 e 98/1981.
