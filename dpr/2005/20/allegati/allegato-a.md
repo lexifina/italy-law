@@ -1,0 +1,7 @@
+Allegato A
+
+CARATTERISTICHE DELLA BANDIERA D'ISTITUTO
+
+DEL CORPO NAZIONALE DEI VIGILI DEL FUOCO
+
+Parte di provvedimento in formato grafico
