@@ -1,0 +1,169 @@
+ALLEGATO
+
+MODIFICHE DELL'ALLEGATO I DELLA DIRETTIVA 84/533/CEE
+
+6.2. Funzionamento della sorgente durante la misura
+
+Il testo dell'ultimo paragrafo del punto 6.2.2. e' sostituito dal seguente:
+
+In queste condizioni di funzionamento, la portata va controllata in conformita' del punto 12 dell'allegato I.
+
+6.3. Luogo delle misurazioni
+
+Il testo del punto 6.3. e' sostituito dal seguente:
+
+L'area di prova deve essere piana e orizzontale. Quest'area, compresa la proiezione verticale dei punti in cui sono dispositi i microfoni, sara' costituita da cemento o da asfalto non poroso.
+
+I motocompressori senza ruote, montati su un telaio di supporto (skid), andranno collocati su cavalletti di 0,40 m di altezza, salvo disposizioni contrarie del fabbricante per motivi inerenti alle condizioni di installazione.
+
+6.4.1. Superficie di misura, distanza di misura
+
+Il testo del punto 6.4.1. e' sostituito dal seguente:
+
+La superficie di misura per l'esecuzione della prova e' un emisfero.
+
+Il raggio e' di:
+
+- 4 m, quando la dimensione maggiore del motocompressore da provare e' inferiore o uguale a 1,5 m;
+
+- 10 m, quando la dimensione maggiore del motocompressore da provare e' superiore a 1,5 m, da inferiore o uguale a 4 m;
+
+- 16 m, quando la dimensione maggiore del motocompressore da provare e' superiore a 4 m.
+
+6.4.2.1. Caratteristiche generali
+
+Il testo del punto 6.4.2.1. e' sostituitp dal seguente:
+
+Per la misurazione i punti sono 6, cioe' i punti 2, 4, 6, 8, 10 e 12, disposti in conformita' del punto 6.4.2.2. dell'allegato I della direttiva 79/113/CEE.
+
+Per le prove del motocompressore, il centro geometrico del motocompressore deve essere sulla verticale del centro dell'emisfero.
+
+L'asse delle x del sistema di coordinate rispetto al quale sono fissate le posizioni dei punti di misura e' parallelo all'asse principale del motocompressore.
+
+E' da inserire un nuovo punto 12, cosi' formulato:
+
+12. METODO DI MISURAZIONE DELLA PORTATA VOLUMETRICA D'ARIA DEI GRUPPI MOTOCOMPRESSORI D'ARIA CON VENTURIMETRI AD ARCO DI CERCHIO IN
+
+CONDIZIONI DI FLUSSO CRITICO
+
+12.1. Considerazioni generali
+
+Il presente allegato ha lo scopo di definire un metodo semplice, rapido ed economico di misurazione della portata dei gruppi di motocompressori d'aria.
+
+La precisione del metodo di misurazione e' di (immagine) 2,5%.
+
+12.2. Montaggio di prova
+
+Il diametro dell'ugello deve essere scelto in modo che il rapporto di pressione attraverso l'ugello produca una velocita' sonica a livello del collo.
+
+L'ugello deve essere montato su una tubazione di diametro uguale o superiore a quattro volte il diametro del suo collo. A monte dell'ugello, la tubazione deve avere una lunghezza minima o uguale a due diametri di tubazione e nella parete di quest'ultima devono essere montati dei dispositivi di misurazione della pressione e della tempertatura dell'aria, che circola nella tubazione. Un moderatore costituito da due lastre perforate montate alla distanza di un diametro della tubazione deve essere collocato all'estremita' a monte della tubazione (figura 1 e 2). A valle dell'ugello si possono collocare una tubazione ad un silenziatore, a condizione che la caduta di pressione attraverso la tubazione non perturbi le condizioni del flusso critico attraverso l'ugello.
+
+Parte di provvedimento in formato grafico
+
+12.3 Venturimetro ad arco di cerchio
+
+Il disegno deve essere conforme alle indicazioni della figura 3. Le superfici interne devono essere levigate e il diametro del collo deve essere misurato con precisione. Esempi di dimensionamento dell'ugello sono riportati nella tabella 1.
+
+12.4. Rilevazioni di pressione e di temperatura
+
+La pressione deve essere rilevata con una precisione di (+ -) 0,5% e la temperatura con una precisione di (+ -) 1 K.
+
+Parte di provvedimento in formato grafico
+
+TABELLA 1
+
+Dimensioni dell'ugello
+
+Portata A B C D E F G
+
+in 1/s mm mm mm mm mm mm denominazione
+
+12-40 16,00 6,350 2,40 9,93 12,70 60,5 R1
+
+24-90 24,00 9,525 3,60 14,86 19,05 91,0 R1 1/2
+
+50-160 32,00 12,700 4,60 19,81 25,40 121,5 R2
+
+100-360 48,00 19,050 7,10 29,72 38,10 182,0 R2 1/2
+
+180-650 64,00 25,400 9,60 39,65 50,80 243,0 R3
+
+280-1000 80,00 31,750 12,00 49,53 63,50 303,5 R3 1/2
+
+400-1500 95,00 38,100 14,20 59,44 76,20 364,0 R4
+
+12.5. La prova
+
+Una volta raggiunte le condizioni di regime, si procede alle seguenti letture:
+
+pressione barometrica (Pb)
+
+pressione a monte dell'ugello (PN)
+
+temperatura a monte dell'ugello (tN)
+
+temperatura a pressione alle quali viene richiesta la portata volumetrica (to, Po)
+
+12.6 Calcoli della portata
+
+1
+
+qm = 0,1 . (pi greco) . B2 . CD . C* . PN/(4 . (R . TN) ---)
+
+2
+
+qm = portata di massa (kg/s)
+
+B = diametro dell'ugello (mm)
+
+CD = coefficiente di scarico
+
+C* = fattore di portata critica
+
+PN = pressione assoluta a monte dell'ugello (bar)
+
+TN = temperatura assoluta a monte dell'ugello (K)
+
+R = costante del gas (J/(kg.K) (per l'aria, R = 297,1).
+
+C* = 0,684858 + (3,70575 - 4,6902.10-2-tN + 3,63019 . 10-4 . tN2) .
+
+PN . 10-4
+
+dove:
+
+tN = temperatura a monte dell'ugello °C. Secondo i risultati della prova e per la precisione desiderata e' CD = 0,9888.
+
+Alla mandata dei gruppi motocompressori portatili o compatti, tN varia da da 20 °C a 70 °C e PN da 2 a 8 bar. C* variera' dunque da 0,6852, con un valore medio utilizzabile di 0,6871 a 0,6852, con un valore medio utilizzanile di 0,6862. In tali condizioni l'equazione puo' semplificarsi come segue:
+
+qm = 0,1.(pi greco) . B2 . 0,9888 . 0,6862 . pN(4 . (287,1 . TN)1/2) 1
+
+= 3 . 143 . 10-3 . B2 . PN/TN --- kg/s
+
+2
+
+o essere convertita in portata volumetrica (qv) nelle condizioni di riferimento:
+
+1
+
+qv = 9 . 10-3 . B2 . PN . To/(Po . TN ---)
+
+2
+
+dove:
+
+Po = pressione assoluta di riferimento (bar);
+
+To = temperatura assoluta di riferimento (K).
+
+MODIFICHE DELL'ALLEGATO II
+
+3. Funzionamento
+
+3.1.4. Potenza del motore
+
+Le parole tra parentesi "DIN 6270B" sono sostituite dalle parole: "Direttiva del Consiglio 80/1269/CEE".
+
+3.2.4. Portata nominale
+
+Le parole "ISO 1217" sono sostituite dalle parole: "del punto 12 dell'allegato I".
