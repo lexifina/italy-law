@@ -1,0 +1,7 @@
+Articolo V
+
+1. Sara' istituito in seno alla Commissione, un Consiglio che includera' il Presidente, i Vice-presidenti ed i rappresentanti di almeno quattro Parti contraenti e di otto come massimo. Le Parti contraenti rappresentate al Consiglio saranno designate mediante elezione in ciascuna sessione ordinaria della Commissione. Se il numero delle Parti contraenti e' superiore a quaranta, la Commissione potra' designare due Parti contraenti supplementari che saranno rappresentate al Consiglio. Le Parti contraenti che hanno dei loro cittadini come Presidenti ed i Vice Presidenti non potranno essere designate a partecipare al Consiglio. La Commissione terra' debitamente conto, nella scelta dei Membri del Consiglio, della situazione geografica e degli interessi delle varie Parti contraenti in materia di pesca e di trasformazione del tonno, nonche' del pari diritto delle Parti contraenti ad essere rappresentate al Consiglio.
+
+2. Il Consiglio svolge le funzioni che gli sono assegnate dalla presente Convenzione, nonche' ogni altra funzione che potra' essergli assegnata dalla Commissione; si riunisce almeno una volta nell'intervallo tra due sessioni ordinarie della Commissione.
+
+Nell'intervallo tra le sessioni della Commissione, il Consiglio adotta le decisioni necessarie relative alle funzioni del personale e da' al Segretario esecutivo le direttive necessarie. Le decisioni del Consiglio sono adottate secondo le regole enunciate dalla Commissione.
