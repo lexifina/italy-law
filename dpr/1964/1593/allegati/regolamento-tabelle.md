@@ -1,0 +1,11 @@
+TABELLA A
+
+ACCADEMIA DEL CORPO DELLE GUARDIE DI PUBBLICA SICUREZZA
+
+Parte di provvedimento in formato grafico
+
+TABELLA B
+
+ACCADEMIA DEL CORPO DELLE GUARDIE DI PUBBLICA SICUREZZA
+
+Parte di provvedimento in formato grafico
