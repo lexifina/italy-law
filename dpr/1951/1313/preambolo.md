@@ -1,0 +1,9 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visto l'art. 2 del decreto legislativo 28 novembre 1947, n. 1430, che da' esecuzione al Trattato di Pace tra le Potenze Alleate ed Associate e l'Italia;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:
