@@ -1,0 +1,25 @@
+Tabella A.
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+Tabella B.
+
+Parte di provvedimento in formato grafico
+
+Tabella C.
+
+Parte di provvedimento in formato grafico
+
+-------------
+
+AGGIORNAMENTO (1)
+
+La L. 23 ottobre 1992, n. 419 ha disposto (con l'art. 1, comma 1) che "Nello stato di previsione dell'entrata, negli stati di previsione dei Ministeri e nei bilanci delle amministrazioni e aziende autonome, approvati con la legge 31 dicembre 1991, n. 416, nonche' nella tabella A allegata alla medesima legge, sono introdotte, per l'anno finanziario 1992, le variazioni di cui alle annesse tabelle":
+
+"Tabella A
+
+Capitoli di spesa del bilancio di previsione dello Stato per l'anno finanziario 1992 per i quali il Ministro del tesoro e' autorizzato ad effettuare variazioni tra loro compensative
+
+Parte di provvedimento in formato grafico"
