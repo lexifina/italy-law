@@ -1,0 +1,13 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 25
+
+NOVEMBRE 1995, N. 501.
+
+All'articolo 2:
+
+dopo il comma 1, e' inserito il seguente:
+
+"1-bis. Al comma 4, primo periodo, dell'articolo 1 della legge 4 gennaio 1994, n. 11, dopo le parole: 'L'attivita' di consulenza per la circolazione dei mezzi di trasporto esercitata' sono inserite le seguenti: 'direttamente dall'Automobile Club d'Italia ovvero'";
+
+al comma 4, le parole: "fermi restando i termini per i relativi versamenti" sono sostituite dalle seguenti: "fermo restando che il certificato di abilitazione professionale deve essere rinnovato contestualmente alla scadenza della patente di guida dei veicoli".
