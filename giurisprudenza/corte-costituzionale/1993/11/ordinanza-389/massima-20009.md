@@ -1,0 +1,22 @@
+# Massima n. 20009
+
+- Pronuncia: Corte costituzionale, ordinanza 389/1993 (ECLI:IT:COST:1993:389)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:389
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   389/93.  TRIBUTI IN GENERE - NUOVE TARIFFE DI ESTIMO DELLE UNITA' IMMOBILIARI - DISCIPLINA TRANSITORIA - APPLICABILITA', NON OLTRE  IL  31  DICEMBRE  1993,   DELLE  TARIFFE  E  RENDITE  GIA' DETERMINATE,  IN  ESECUZIONE  DEL  DECRETO  DEL  MINISTERO  DELLE FINANZE  20 GENNAIO 1990 - DETERMINAZIONE DELLE TARIFFE IN BASE A TALE  NORMATIVA  -  RIFERIMENTO, IN VIA  PROVVISORIA,  AL  VALORE UNITARIO  DI MERCATO RITRAIBILE IN VIA ORDINARIA DALL'IMMOBILE  - MANCATO  RIFERIMENTO  AL  VALORE  DELLA  LOCAZIONE,  COME  INVECE DISPOSTO SIA DALLA NUOVA DISCIPLINA CHE DA QUELLA PRECEDENTE ALLA RIFORMA  - LAMENTATA DISPARITA' DI TRATTAMENTO CON INCIDENZA  SUL PRINCIPIO GENERALE DELLA PROPORZIONALITA' RISPETTO ALLA CAPACITA' CONTRIBUTIVA  - MANCATA CONVERSIONE DEL DECRETO-LEGGE  CONTENENTE LA NORMA IMPUGNATA - MANIFESTA INAMMISSIBILITA' DELLA QUESTIONE.
+
+## Testo
+
+Manifesta   inammissibilita'   della   questione,   per   mancata conversione  nei  termini, del decreto-legge contenente la  norma impugnata.  - v., da ultimo, O. n. 351/1993.
+
+## Norme
+
+- decreto-legge, 24/11/1992 n. 455, art. 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 53
