@@ -1,0 +1,54 @@
+# Corte costituzionale, ordinanza 525/2002
+
+- ECLI: ECLI:IT:COST:2002:525
+- Tipo: ordinanza
+- Presidente: RUPERTO
+- Relatore: Riccardo Chieppa
+- Redattore: Riccardo Chieppa
+- Data della decisione: 21/11/2002
+- Data del deposito: 09/12/2002
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 27476
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2002:525
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Cesare RUPERTO; Giudici: Riccardo CHIEPPA, Gustavo ZAGREBELSKY, Valerio ONIDA, Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 18 del decreto legislativo 29 ottobre 1998, n. 387 (Ulteriori disposizioni integrative e correttive del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, e del decreto legislativo 31 marzo 1998, n. 80), promosso con ordinanza emessa il 24 gennaio 2001 dal Tribunale amministrativo regionale per il Molise nel procedimento sul ricorso proposto da Sozio Antonino contro la Asl n. 2 "Pentria" di Isernia, iscritta al n. 889 del registro ordinanze 2001 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 44, prima serie speciale, dell'anno 2001.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri.
+    Udito nella camera di consiglio del 23 ottobre 2002 il Giudice relatore Riccardo Chieppa.
+    Ritenuto che nel corso di un giudizio  - in cui era stata impugnata la delibera n. 286 del 31 luglio 2000, con la quale la Asl n. 2 “Pentria” di Isernia aveva affidato, in via provvisoria, ad un dirigente sanitario (“controinteressato” rispetto al ricorrente) l'incarico di responsabile del Dipartimento di prevenzione - il Tribunale amministrativo regionale per il Molise, con ordinanza del 24 gennaio 2001 (pervenuta alla Corte il 18 ottobre 2001), ha sollevato questione di legittimità costituzionale dell'art. 18 del decreto legislativo 29 ottobre 1998, n. 387 (Ulteriori disposizioni integrative e correttive del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, e del decreto legislativo 31 marzo 1998, n. 80), che ha modificato l'art. 68, comma 1, del decreto legislativo 3 febbraio 1993, n. 29 (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421), il cui contenuto è ora riprodotto nell'art. 63 del decreto legislativo 30 marzo del 2001, n. 165, recante "Norme generali sull'ordinamento del lavoro alle dipendenze della amministrazioni pubbliche",  nella parte in cui demanda al giudice ordinario la cognizione delle controversie concernenti il conferimento degli incarichi dirigenziali, per assunta violazione degli artt. 76 e 77 della Costituzione;
+    che gli atti di conferimento degli incarichi dirigenziali avrebbero, ritiene il Tribunale a quo, natura di provvedimenti amministrativi, non essendo condivisibile la tesi che li configura quali atti negoziali paritetici;
+    che la distinzione tra una fase negoziale - consistente nella stipulazione del contratto con il dirigente per definire oggetto, obiettivi, durata   e   trattamento   economico -   ed una  fase  provvedimentale   -  consistente nel conferimento dell'incarico - deriverebbe, infatti, secondo il giudice rimettente, “esplicitamente dal dettato normativo”;
+    che la disposizione impugnata - devolvendo al giudice ordinario anche la cognizione delle questioni concernenti il conferimento (o la revoca) degli incarichi dirigenziali “a prescindere dai sottostanti atti di gestione” - lo investirebbe conseguentemente, nella prospettiva del remittente, della cognizione di posizioni di interesse legittimo configurando, nella materia del pubblico impiego, una giurisdizione esclusiva in capo all'a.g.o.;
+    che detta disposizione violerebbe gli artt. 76 e 77 della Costituzione, ponendosi in contrasto con quanto previsto dall'art. 11, comma 4, lettera g), della legge 15 marzo 1997, n. 59 (Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione   e    per    la    semplificazione    amministrativa),   che  - attribuendo al giudice ordinario “tutte le controversie relative ai rapporti di lavoro dei dipendenti delle pubbliche amministrazioni, ancorché concernenti in via incidentale atti amministrativi presupposti, ai fini della disapplicazione”- avrebbe inteso espressamente  devolvere, nella materia del pubblico impiego, alla giurisdizione ordinaria le "sole controversie concernenti diritti soggettivi, lasciando al giudice amministrativo la cognizione degli interessi legittimi";
+    che, aggiunge il collegio remittente,  la norma censurata contrasterebbe con le citate norme costituzionali anche perché: 1) porrebbe “il dilemma” se gli atti di conferimento abbiano attitudine a degradare le posizioni di diritto soggettivo in interesse legittimo ovvero siano atti non provvedimentali, ponendosi con ciò in antitesi, in ogni caso, con i principi vigenti dell'ordinamento; 2) la cognizione diretta e non incidentale di un atto amministrativo da parte del giudice ordinario si risolverebbe nell'implicito riconoscimento di un potere decisorio diverso dalla disapplicazione, in contrasto con il principio sancito dall'art. 5 della legge  20 marzo 1865, n. 2248, all. E (Legge sul contenzioso amministrativo);
+    che è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione venga dichiarata manifestamente infondata, essendo stata la medesima questione già decisa con sentenza n. 275 del 2001.
+    Considerato che la questione sottoposta all'esame della Corte costituzionale riguarda l'art. 18 del decreto legislativo 29 ottobre 1998, n. 387 (Ulteriori disposizioni integrative e correttive del decreto legislativo 3 febbraio 1993, n. 29, e successive modificazioni, e del decreto legislativo 31 marzo 1998, n. 80), che ha modificato l'art. 68, comma 1, del decreto legislativo 3 febbraio 1993, n. 29 (Razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n. 421), nella parte in cui ha devoluto al giudice ordinario le controversie concernenti l'atto di conferimento (e di  revoca)  degli incarichi dirigenziali, avente, nella prospettiva del giudice rimettente,  natura di atto amministrativo incidente su posizioni di interesse legittimo;
+    che la questione è sostanzialmente identica (sollevata anche in riferimento ai medesimi parametri costituzionali: artt. 76 e 77 della Costituzione), a quella dichiarata non fondata con sentenza n. 275 del 2001;
+    che la predetta sentenza n. 275 del 2001 ha sottolineato che il legislatore ha voluto, sia pure tenendo conto della specialità del rapporto e delle esigenze di perseguimento degli interessi generali, che le posizioni soggettive dei dipendenti delle pubbliche amministrazioni, compresi i dirigenti di qualsiasi livello, fossero riportate, quanto alla tutela giudiziaria, nell'ampia categoria dei diritti di cui all'art. 2907 cod. civ.;
+    che il principio della disapplicazione e i relativi limiti ai poteri del giudice ordinario, nei confronti di un atto amministrativo, desunti dal giudice a quo  dall'art. 5 della legge 20 marzo 1865, n. 2248, all. E, sul contenzioso amministrativo, non costituiscono una regola di valore costituzionale, che il legislatore ordinario sarebbe tenuto ad osservare in ogni caso (sentenza  n. 275 del 2001);
+    che resta rimesso alla scelta discrezionale del legislatore ordinario - suscettibile di modificazioni in relazione ad una valutazione delle esigenze della giustizia e ad un diverso assetto dei rapporti sostanziali  -  il conferimento ad un giudice, sia ordinario sia amministrativo, del potere di conoscere ed eventualmente annullare un atto della pubblica amministrazione o di incidere sui rapporti sottostanti, secondo le diverse tipologie di intervento giurisdizionale previste (argomentando dall'art. 113, terzo comma, della Costituzione; sentenza n. 275 del 2001; ordinanze  n. 140 del 2001 e n. 165 del 2001);
+    che deve escludersi che la esistenza di un atto amministrativo presupposto, nelle controversie relative ai rapporti di impiego dei dipendenti di pubbliche amministrazioni, possa costituire limitazione alla competenza del giudice ordinario, quale giudice del lavoro, potendo questi conoscerlo in via incidentale ai fini della disapplicazione (art. 68 del d.lgs. 3 febbraio 1993, n.  29, come risultante a seguito delle modifiche  introdotte dall'art. 33 del d.lgs 23 dicembre 1993, n. 546, dall'art. 29 del d.lgs 31 marzo 1998, n. 80, e dall'art. 18 del d.lgs. 29 ottobre 1998, n. 387), anche quando, nei casi previsti, questo atto presupposto rientri nella residua sfera assegnata alla giurisdizione amministrativa, dovendosi, altresì, escludere che possa sorgere una pregiudizialità amministrativa (sentenza n. 275 del 2001);
+    che, in ogni caso, qualsiasi problema sulla natura dell'atto di conferimento o di revoca degli incarichi dirigenziali non incide sulla attribuzione della giurisdizione effettuata dal legislatore (art. 18 del d.l. n. 387 del 1998);
+    che, pertanto, la questione è manifestamente infondata sotto tutti i profili denunciati.
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, secondo comma, delle norme integrative per i giudizi avanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 18 del decreto legislativo 29 ottobre 1998, n. 387 (Ulteriori disposizioni integrative e correttive del d.lgs 3 febbraio 1993, n. 29, e successive modificazioni, e del decreto legislativo 31 marzo 1998, n. 80) sollevata - in riferimento agli artt. 76 e  77 della Costituzione - dal Tribunale amministrativo regionale per il Molise,  con l'ordinanza indicata in epigrafe.
+    Così deciso in Roma nella sede della Corte costituzionale, Palazzo della Consulta, il 21 novembre 2002.
+    F.to:
+    Cesare RUPERTO, Presidente
+    Riccardo CHIEPPA, Redattore
+    Giuseppe DI PAOLA, Cancelliere
+    Depositata in Cancelleria il 9 dicembre 2002.
+    Il Direttore della Cancelleria
+    F.to: DI PAOLA
