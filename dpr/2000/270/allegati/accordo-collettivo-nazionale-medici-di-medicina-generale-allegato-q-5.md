@@ -1,0 +1,7 @@
+Allegato Q/5.
+
+DOMANDA DI PARTECIPAZIONE ALLA ASSEGNAZIONE DEGLI INCARICHI VACANTI DI EMERGENZA SANITARIA TERRITORIALE.
+
+(per trasferimento)
+
+Parte di provvedimento in formato grafico

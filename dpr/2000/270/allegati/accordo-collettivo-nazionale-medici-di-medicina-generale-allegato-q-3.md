@@ -1,0 +1,7 @@
+Allegato Q/3.
+
+DOMANDA DI PARTECIPAZIONE ALLA ASSEGNAZIONE DEGLI AMBITI TERRITORIALI CARENTI DI ASSISTENZA PRIMARIA.
+
+(per trasferimento)
+
+Parte di provvedimento in formato grafico

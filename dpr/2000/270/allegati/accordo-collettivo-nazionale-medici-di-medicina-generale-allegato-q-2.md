@@ -1,0 +1,7 @@
+Allegato Q/2.
+
+DOMANDA DI PARTECIPAZIONE ALLA ASSEGNAZIONE DEGLI INCARICHI VACANTI DI EMERGENZA SANITARIA TERRITORIALE.
+
+(per graduatoria)
+
+Parte di provvedimento in formato grafico
