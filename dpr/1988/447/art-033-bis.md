@@ -1,6 +1,6 @@
 Art. 33-bis.
 
-(( (Attribuzioni del tribunale in composizione collegiale).
+(Attribuzioni del tribunale in composizione collegiale).
 
 1.
 
@@ -56,7 +56,7 @@ q) delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in ma
 
 2.
 
-Sono attribuiti altresi' al tribunale in composizione collegiale, salva la disposizione dell'articolo 33-ter, comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni. Per la determinazione della pena si osservano le disposizioni dell'articolo 4.))
+Sono attribuiti altresi' al tribunale in composizione collegiale, salva la disposizione dell'articolo 33-ter, comma 1, i delitti puniti con la pena della reclusione superiore nel massimo a dieci anni ((, anche nell'ipotesi del tentativo )). Per la determinazione della pena si osservano le disposizioni dell'articolo 4.
 
 ---------------
 

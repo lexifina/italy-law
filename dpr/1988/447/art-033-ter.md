@@ -1,14 +1,14 @@
 Art. 33-ter.
 
-(( (Attribuzioni del tribunale in composizione monocratica).
+(Attribuzioni del tribunale in composizione monocratica).
 
 1.
 
-Sono attribuiti al tribunale in composizione monocratica i delitti previsti dall'articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, sempre che non siano contestate le aggravanti di cui all'articolo 80, commi 1, 3 e 4, del medesimo testo unico.
+Sono attribuiti al tribunale in composizione monocratica i delitti previsti dall'articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, sempre che non siano contestate le aggravanti di cui all'articolo 80, (( . . . )), del medesimo testo unico.
 
 2.
 
-Il tribunale giudica in composizione monocratica, altresi', in tutti i casi non previsti dall'articolo 33-bis o da altre disposizioni di legge)).
+Il tribunale giudica in composizione monocratica, altresi', in tutti i casi non previsti dall'articolo 33-bis o da altre disposizioni di legge.
 
 ---------------
 
