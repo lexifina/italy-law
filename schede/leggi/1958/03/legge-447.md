@@ -1,0 +1,12 @@
+# Legge 21 marzo 1958, n. 447
+
+- Tipo: Ordinaria
+- Numero: 447
+- Data: 1958-03-21
+- Titolo: Delega  al  Governo  per la disciplina della cessione in proprietà a favore  degli assegnatari degli alloggi di tipo popolare ed economico costruiti  o  da  costruire a totale carico dello Stato ovvero con il suo concorso o contributo.
+- Pubblicazione: (Pubblicata nella G.U. del 6 maggio 1958)
+- Legislatura: II legislatura della Repubblica (repubblica_02)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1958-03-21;447
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;2.legislatura;1298
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1958_447
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
