@@ -1,0 +1,3 @@
+ARTICOLO XV.
+
+Il presente Accordo ed ogni emendamento allo stesso verra' registrato presso il Consiglio dell'Organizzazione dell'Aviazione Civile Internazionale (OACI).
