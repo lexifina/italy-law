@@ -1,0 +1,5 @@
+Accordo generale d'arbitrato fra l'Italia e la Danimarca.
+
+Parte di provvedimento in formato grafico
+
+(Accordo pubblicato nella Raccolta Ufficiale - anno 1906 - Volume Secondo)
