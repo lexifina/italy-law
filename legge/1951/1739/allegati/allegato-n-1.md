@@ -1,0 +1,5 @@
+ALLEGATO N. 1
+
+Convention de Geneve relative au traitement des prisonniers de guerre du 12 ao-t 1949
+
+Parte di provvedimento in formato grafico
