@@ -1,0 +1,27 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visto il contratto collettivo nazionale di lavoro 19 giugno 1959 per le industrie dei prodotti del legno e del sughero;
+
+Visti, per la provincia di Genova:
+
+- l'accordo collettivo integrativo 12 luglio 1950, per gli operai addetti all'industria del legno ed affini, stipulato tra l'Associazione Provinciale degli Industriali, Sezione Industriali del Legno, e il Sindacato Provinciale della Federazione italiana Lavoratori Legno Artistiche e Varie, l'Unione Provinciale della C.I.S.L. - al quale ha aderito, in data 11 gennaio 1961, l'Unione Provinciale del Lavoro - C.I.S.N.A.L. -;
+
+- l'accordo collettivo integrativo 19 maggio 1954, e relativo protocollo aggiuntivo, per gli operai addetti all'industria del legno ed affini, stipulato tra l'Associazione Provinciale degli Industriali, Sezione Industriali del Legno, e il Sindacato Provinciale della Federazione italiana Lavoratori Legno Boschivi Artistiche Varie, l'Unione Provinciale della C.I.S.L. -, la Camineria Sindacale Provinciale - U.I.L.-Legno -; al quale ha aderito, in data 11 gennaio 1961, l'Unione Provinciale del Lavoro - C.I.S.N.A.L. -;
+
+Visti, per il porto di Genova:
+
+- il contratto collettivo 20 dicembre 1956, per gli operai addetti all'industria del legno ed affini, stipulato tra l'Associazione Provinciale degli Industriali, Sezione Industriali del Legno ed Affini, e la Federazione italiana Lavoratori del Legno, dell'Edilizia e delle Industrie Varie - Segreteria Provinciale - il Sindacato Unitario Lavoratori Legno Artistiche e Varie - Segreteria Provinciale - l'Unione italiana Lavoratori del Legno Artistiche e Varie - Segreteria Provinciale -; al quale ha aderito, in data 11 gennaio 1961, l'Unione Provinciale del Lavoro C.I.S.N.A.L. -;
+
+- gli accordi collettivi 26 luglio 1947 e 23 febbraio 1946, per gli addetti alle aziende lavoranti nell'ambito del porto di Genova, allegati al predetto contratto 20 dicembre 1956;
+
+Vista la pubblicazione nell'apposito Bollettino, n. 29 della provincia di Genova, in data 10 marzo 1961, del contratto e degli accordi sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
