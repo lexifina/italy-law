@@ -1,0 +1,24 @@
+# Massima n. 4592
+
+- Pronuncia: Corte costituzionale, sentenza 51/1967 (ECLI:IT:COST:1967:51)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1967:51
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  51/67.  LAVORO  -  MODIFICAZIONE PER LEGGE DEL RAPPORTO DI LAVORO  -  LEGITTIMITA'  COSTITUZIONALE - LIMITI - DISCIPLINA CHE IMPONE  AL  LAVORATORE  PRESTAZIONI  DI UN CERTO TIPO NEGANDO NEL CONTEMPO I VANTAGGI A QUESTE COLLEGATI. LAVORO   -   FERROVIE  ESERCITATE  IN  REGIME  DI  CONCESSIONE  - ASSUNTORIE  -  LEGGE 3 FEBBRAIO 1965, N. 14 - NON VIOLA GLI ARTT. 35,  PRIMO  COMMA, 36, 38 E 41, SECONDO COMMA, COST. - ESCLUSIONE DI ILLEGITTIMITA' COSTITUZIONALE.
+
+## Testo
+
+Non  puo'  essere  tacciata  d'illegittimita'  costituzionale una legge  per il solo fatto che regoli un rapporto di lavoro in modo diverso  da  come  era  disciplinato precendentemente:  essa puo' mutarne radicalmente il contenuto sia che cio' porti l'interprete a qualificare sotto altro tipo il rapporto sia che lo costringa a vederne  uno di tipo misto. Ne si puo' dire che certe prestazioni abbiano  per  natura  la  caratteristica  del  rapporto di lavoro subordinato,  si'  che  una  diversa regolamentazione legislativa appaia di per se' violatrice dei principi costituzionali: il tipo del  rapporto  giuridico  non e' necessariamente quello che viene imposto  da  una  certa  concezione  o  da una determinata prassi economico-sociale,  ma  quello che risulta dalla disciplina a cui il  legislatore,  nell'esercizio  del  suo potere politico, lo ha voluto piegare. La  violazione  di  norme  costituzionali  puo'  derivare  da una disciplina talmente ibrida che, mentre al lavoratore si impongono prestazioni  d'un  certo  tipo, gli si neghino i vantaggi ad esse collegati . Non  e' fondata la questione di legittimita' costituzionale della legge    3   febbraio   1965,   n.   14,   recante   norme  sulla "regolamentazione  delle  assuntorie nelle ferrovie esercitate in regime  di  concessioni",  proposta  con la motivazione che essa, trasformando  un  rapporto  di  lavoro subordinato in rapporto di lavoro  autonomo,  sottrarrebbe  agli  assuntori di stazioni e di passaggi  a livello una parte dei diritti garantiti ai lavoratori subordinati  dagli  artt.  35,  primo comma, 36, 38 e 41, secondo comma, della Costituzione. Ai  fini  della risoluzione della questione non e' necessario che si  esamini  il  problema  se  il rapporto di lavoro disciplinato dalla  legge  n.  14  del  1965  sia  da qualificarsi come lavoro autonomo  o  subordinato oppure misto.  L'importante e' che essa, sottoponendo  gli  assuntori  o i  coadiutori ad oneri tipici del lavoro subordinato, non tolga loro alcuni dei diritti che vi sono costituzionalmente   connessi.   Sotto  questo  aspetto  sono  da considerare   le   disposizioni  riguardanti  la  responsabilita' dell'assuntore  per  l'operato  e  per  la  tutela,  segnatamente previdenziale  ed  assistenziale,  dei  propri  coadiutori  (art. 4 e 8 della legge). La   circostanza  che  il  lavoratore  subordinato  risponda  del comportamento  di  un  altro lavoratore (tanto piu' se assunto da lui)  non  e'  rara ne' abnorme; ne' e' un onere che avvilisce la personalita'  dell'uno  o dell'altro, o che sia sproporzionato al compenso  a  cui  l'assuntore  ha  diritto  (art.  35, 36 Cost.): compenso,  del  quale  la  legge  non  da'  misura, ma garantisce l'adeguatezza  (art. 7), e che percio' non abbandona all'arbitrio del concessionario, ma ne esige la determinazione in primo luogo, col mezzo degli accordi collettivi. Ne'  l'obbligo  di  previdenza  e  di  assistenza  verso i propri coadiutori  viene  ad  appesantire  eccessivamente  la  posizione dell'assuntore, poiche' i contributi assicurativi sono pagati dal concessionario,  e  siccome  tanto  l'assuntore che il coadiutore sono  assicurati  a  spese  dello  stesso concessionario, neppure l'art. 38 e' colpito dalla legge denunziata. Il   fatto   che  un  lavoratore  (l'assuntore)  sia  trattato  o considerato  in  qualche modo come datore di lavoro di chi svolge analoghe  funzioni  (coadiutore) non importa offesa alla dignita' umana,  la  quale puo' essere invece offesa dalla esiguita' della retribuzione  o  dalla  sconvenienza  o durezza del luogo o delle condizioni  di  lavoro,  non  per  l'esistenza  di  per  se di un rapporto  di preminenza fra lavoratore e lavoratore o di un certo grado  di  responsabilita' dell'uno per l'operato o nei confronti dell'altro, ne' dalla semplice qualifica del primo come datore di lavoro del secondo.
+
+## Norme
+
+- legge, 03/02/1965 n. 14
+
+## Parametri
+
+- Costituzione, art. 38
+- Costituzione, art. 41, comma 2
+- Costituzione, art. 35, comma 1
+- Costituzione, art. 36
