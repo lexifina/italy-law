@@ -1,0 +1,3 @@
+TRENTE-NEUVIEME ASSEMBLEE MONDIALE DE LA SANTE
+
+Parte di provvedimento in formato grafico
