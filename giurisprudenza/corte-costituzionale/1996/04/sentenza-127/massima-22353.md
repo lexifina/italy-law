@@ -1,0 +1,27 @@
+# Massima n. 22353
+
+- Pronuncia: Corte costituzionale, sentenza 127/1996 (ECLI:IT:COST:1996:127)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1996:127
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   127/96 C.  LEGGE REGIONALE APPROVATA IL 16 MAGGIO 1995  - REGIONE  SICILIANA  -  PROCEDIMENTO DI FORMAZIONE DELLA  LEGGE  - PRETESA  "ILLOGICITA' MANIFESTA" - MODALITA' DELL'ESAME DI MERITO NELLA  COMMISSIONE - PRETESA VIOLAZIONE DEGLI ARTT.  3 E 97 COST. E  12  ST.  SPEC.  - DISPOSIZIONI CONCERNENTI IL PERSONALE  DELLA REGIONE  -  ACCESSO  ALLA  CARICA DIRETTIVA  -  EQUIPARAZIONE  DI DIPENDENTI  CHE ABBIANO CONSEGUITO IL DIPLOMA DI LAUREA - PRETESA VIOLAZIONE  DEGLI  ARTT.   3 E 97 COST.  -  SANATORIA  CON  NORME INTERPRETATIVE  DI  PROVVEDIMENTI,  ORDINI   E  DISPOSIZIONI  CHE ABBIANO  PORTATO ALLA CORRESPONSIONE DI RETRIBUZIONI AL PERSONALE DELLA  REFEZIONE SCOLASTICA O NE ABBIANO CONSENTITO  L'IMMISSIONE IN  SERVIZIO  O  NE ABBIANO  REGOLAMENTATO  L'ESPLETAMENTO  DELLE ATTIVITA' LAVORATIVE NELL'AMBITO DEL SERVIZIO - PRETESA INCIDENZA SUI  PRINCIPI  DI UGUAGLIANZA, DI IMPARZIALITA' E BUON  ANDAMENTO DELLA  P.A.   E DI INTANGIBILITA' DEL GIUDICATO AMMINISTRATIVO  - CACCIA  - RIPRISTINO DI NORMA REGIONALE - PRETESA VIOLAZIONE  DEI PRINCIPI  CONTENUTI  NELLA L.  STATALE N.  157 DEL 1992  E  DEGLI ARTT.  14 ST.  SPEC.  ED 11 COST.  - INFONDATEZZA.
+
+## Testo
+
+Non  sono  fondate  le questioni di  legittimita'  costituzionale relative  all'intera legge ed ai seguenti articoli della l.  reg. Sicilia approvata il 16 maggio 1995: -  con  riferimento agli artt.  3, comma primo, 97, comma  primo, Cost.  e 12 St.  spec.  Sicilia (approvato con R.d.lg.  15 maggio 1946,  n.   455, conv.  in l.  cost.  26 febbraio 1948,  n.   2), dell'intera legge, in quanto, il procedimento di formazione della legge regionale impugnata, pur prestandosi a valutazioni critiche sul  piano dell'opportunita' delle scelte procedimentali  operate dalla  Regione,  non  evidenzia veri e propri vizi  (formali)  di costituzionalita';   ed  in  quanto - postoche'  l'art.   12  St. spec.   prevede  che  i progetti di legge siano  elaborati  dalle Commissioni dell'Assemblea regionale - una volta che la norma sul deferimento  in  commissione  sia  stata  osservata  (come  nella specie),   non   spetta  alla  Corte   valutare   il   grado   di approfondimento  del dibattito nella commissione medesima ne'  la competenza  della stessa, non essendo ammissibile la deduzione di vizi  attinenti alla mancata osservanza delle norme regolamentari sui lavori dell'Assemblea; -  con riferimento agli artt.  3, comma primo, e 97, comma primo, Cost.,  dell'art.   1, comma 4 - il quale equipara, a coloro  che erano  in possesso del diploma di laurea al momento  dell'entrata in  vigore  della  l.  reg.  Sicilia n.  41 del 1985,  gli  altri dipendenti che non siano pervenuti in possesso di tale diploma in epoca  successiva,  e comunque al momento dell'entrata in  vigore della  l.   reg.   Sicilia  n.   21  del  1986  -  in  quanto  il legislatore,  anche regionale, gode, in materia di  inquadramento dei  pubblici  dipendenti di poteri discrezionali da  esercitarsi nel  rispetto  del  principio  di  ragionevolezza  e  di  criteri selettivi  che creino corrispondenza fra qualifiche e livelli  di professionalita',  avuto  riguardo  ai  titoli  di  studio  e  di anzianita' nelle precedenti qualifiche (canoni, nella specie, non violati);   e  dell'art.  1, comma 5, in quanto, a fronte di  una disposizione  che e' espressione della discrezionalita' spettante al  legislatore regionale, e' prospettata la violazione di un non meglio  specificato  "principio  generale del  pubblico  impiego" ovvero  "dell'affidamento";   e  cioe', censure  delle  quali  e' difficile  cogliere  il  livello  costituzionale,  come  pure  la correlazione con gli invocati parametri costituzionali; -  con riferimento agli artt.  3, comma primo, e 97, comma primo, Cost.,  dell'art.  1, comma 6, in quanto tale disposizione, lungi dal  realizzare  la ipotizzata sanatoria, intende  esclusivamente chiarire,  in  via  interpretativa, quali  sono  i  provvedimenti formali   che  danno  titolo,  in  relazione   alle   prestazioni lavorative  gia' rese, ad iscriversi nelle liste di collocamento, per  lo svolgimento delle specifiche prestazioni di cui  all'art. 1 l.  reg.  Sicilia n.  22 del 1991; -  con  riferimento  agli artt.  14 St.  spec.  e  11  Cost.,  in relazione  ai principi contenuti nella legge statale n.  157  del 1992  (norme per la protezione della fauna selvatica omeoterma  e per il prelievo venatorio), dell'art.  6, in quanto i termini per l'adeguamento  della  legislazione regionale a tali  principi  e' stato  differito, attualmente, al 31 luglio 1996 (art.  36 l.  n. 157 del 1992 e 4, comma 7, d.l.  n.  81 del 1996).  -  S.   nn.  392/1995, 393/1995, 394/1995, 395/1995,  396/1995  e 407/1995.                                              red.: S. Di Palma
+
+## Norme
+
+- legge della Regione siciliana, 16/05/1995, art. 1, comma 5
+- legge della Regione siciliana, 16/05/1995, art. 6
+- legge della Regione siciliana, 16/05/1995, art. 1, comma 6
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
+- Costituzione, art. 11
+- statuto regione Sicilia, art. 12
+- statuto regione Sicilia, art. 14
