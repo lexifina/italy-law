@@ -1,0 +1,5 @@
+QUALIFICHE:
+
+GIOIELLI - INCISORI - CESELLATORI - INCASSATORI - OREFICI A MANO
+
+Parte di provvedimento in formato grafico
