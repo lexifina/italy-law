@@ -6,7 +6,7 @@ Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' perso
 
 Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da quattro a nove anni.
 
-L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri.
+L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri ((ovvero al fine di impedire od ostacolare il libero esercizio del voto o di procurare voti a se' o ad altri in occasione di consultazioni elettorali)).
 
 Se l'associazione e' armata si applica la pena della reclusione da quattro a dieci anni nei casi previsti dal primo comma e da cinque a quindici anni nei casi previsti dal secondo comma.
 
@@ -20,7 +20,7 @@ Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che s
 
 Le disposizioni del presente articolo si applicano anche alla camorra e alle altre associazioni, comunque localmente denominate, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
 
-(96) ((125))
+(96) (125)
 
 ---------------
 
