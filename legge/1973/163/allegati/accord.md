@@ -1,0 +1,5 @@
+ALLEGATO
+
+Accord relatif a l'Organisation internationale de telecommunications par satellites "INTELSAT"
+
+Parte di provvedimento in formato grafico
