@@ -1,9 +1,9 @@
 Art. 2450-bis.
 
-((Pubblicazione della nomina dei liquidatori))
+Pubblicazione della nomina dei liquidatori
 
-((La deliberazione dell'assemblea, la sentenza e il decreto del presidente del tribunale che nomina i liquidatori e ogni atto successivo che importi cambiamento nelle persone dei liquidatori devono essere, entro quindici giorni dalla notizia della nomina, depositati in copia autentica a cura dei liquidatori medesimi per la iscrizione presso l'ufficio del registro delle imprese.
+La deliberazione dell'assemblea, la sentenza e il decreto del presidente del tribunale che nomina i liquidatori e ogni atto successivo che importi cambiamento nelle persone dei liquidatori devono essere, entro ((trenta giorni)) dalla notizia della nomina, depositati in copia autentica a cura dei liquidatori medesimi per la iscrizione presso l'ufficio del registro delle imprese.
 
-I liquidatori devono altresi' depositare, presso lo stesso ufficio, le loro firme autografe.
+((COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340)).
 
-I liquidatori devono inoltre richiedere, entro quindici giorni dall'iscrizione nel registro delle imprese, la pubblicazione nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata della deliberazione dell'assemblea o della sentenza o del decreto di cui al primo comma.))
+((COMMA ABROGATO DALLA L. 24 NOVEMBRE 2000, N. 340)).

@@ -1,8 +1,8 @@
 Art. 2501-bis.
 
-(( (Progetto di fusione).))
+(Progetto di fusione).
 
-((Gli amministratori delle societa' partecipanti alla fusione redigono un progetto di fusione, dal quale devono in ogni caso risultare:
+Gli amministratori delle societa' partecipanti alla fusione redigono un progetto di fusione, dal quale devono in ogni caso risultare:
 
 1) il tipo, la denominazione o ragione sociale, la sede delle societa' partecipanti alla fusione;
 
@@ -24,4 +24,4 @@ Il conguaglio in denaro indicato nel numero 3) del comma precedente non puo' ess
 
 Il progetto di fusione e' depositato per l'iscrizione nel registro delle imprese del luogo ove hanno sede le societa' partecipanti alla fusione.
 
-Se alla fusione partecipano societa' regolate dai capi V, VI e VII, il progetto di fusione e' altresi' pubblicato per estratto nella Gazzetta Ufficiale della Repubblica italiana almeno un mese prima della data fissata per la deliberazione; l'estratto deve contenere le indicazioni previste ai numeri 1), 3), 4), 5), 6), 7) e 8) del primo comma e la menzione dell'avvenuta iscrizione del progetto nel registro delle imprese a norma del precedente comma.))
+((Se alla fusione partecipano societa' regolate dai capi V, VI e VII, tra la data fissata per la delibera di fusione e l'iscrizione del progetto deve intercorrere almeno un mese)).
