@@ -1,0 +1,17 @@
+UMBERTO II
+
+RE D'ITALIA
+
+Visto il R. ((decreto legislativo 10 maggio 1946)), n. 262;
+
+Visto il decreto legislativo Luogotenenziale 9 aprile 1946, n. 212, che reca modificazioni alle vigenti disposizioni sulla assicurazione obbligatoria per le malattie in agricoltura;
+
+Visto il decreto legislativo Luogotenenziale 2 aprile 1946, n. 142, sulla disciplina provvisoria del carico contributivo per le varie forme di previdenza e di assistenza sociale;
+
+Visto il decreto-legge Luogotenenziale 25 giugno 1944, n. 151;
+
+Visto il decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58;
+
+Vista la deliberazione del Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Presidente del Consiglio dei Ministri e i Ministri per la grazia e giustizia e per il tesoro; Abbiamo sanzionato e promulghiamo quanto segue:
