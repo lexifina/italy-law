@@ -1,0 +1,9 @@
+Art. 2-bis.
+
+(( 1. Ai commercianti all'ingrosso e al dettaglio di prodotti ittici freschi dell'Adriatico, nonche' agli addetti ai mercati degli stessi prodotti nelle attivita' manifatturiere della lavorazione del pesce e di facchinaggio, e' concessa, a parziale copertura delle perdite, e per tutta la durata del fermo di cui all'articolo 1, comma 1, del decreto-legge 31 maggio 1999, n. 154, convertito, con modificazioni, dalla legge 30 luglio 1999, n. 249, come prorogato dall'articolo 1, una indennita' fino ad un massimo di L. 200.000 giornaliere, per sei giorni alla settimana.
+
+2. Con proprio decreto il Ministro dell'industria, del commercio e dell'artigianato provvede entro il 30 novembre 1999, sentita la Conferenza permanente per i rapporti tra lo Stato e le regioni e le province autonome di Trento e di Bolzano, al riparto dei fondi di cui al comma 4 tra le regioni adriatiche, individuate in Friuli-Venezia Giulia, Veneto, Emilia-Romagna, Marche, Abruzzo, Molise e Puglia.
+
+3. Le regioni di cui al comma 2 provvederanno con proprio atto a stabilire le modalita' e l'entita' della misura della provvidenza e della relativa erogazione.
+
+4. Gli interventi previsti dal comma 1, nei limiti di lire 31 miliardi per l'anno 1999, sono posti a carico delle risorse disponibili nell'apposita sezione del Fondo di cui all'articolo 4, comma 6, del decreto-legge 8 febbraio 1995, n. 32, convertito dalla legge 7 aprile 1995, n. 104, intendendosi corrispondentemente ridotta per il 1999 l'autorizzazione di spesa di cui all'articolo 1, comma 1, della legge 30 giugno 1998, n. 208, come rifinanziata dalla tabella C della legge 23 dicembre 1998, n. 449. Tali risorse affluiscono all'entrata del bilancio dello Stato per essere riassegnate alla competente unita' previsionale di base dello stato di previsione del Ministero dell'industria, del commercio e dell'artigianato per il 1999. ))
