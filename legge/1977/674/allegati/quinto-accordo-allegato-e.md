@@ -1,0 +1,5 @@
+ALLEGATO E
+
+SCORTE SUPPLEMENTARI NECESSARIAMENTE ESTRATTE
+
+Parte di provvedimento in formato grafico
