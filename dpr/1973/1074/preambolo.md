@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592, con particolare riferimento all'art. 10;
+
+Visto il regio decreto-legge 25 febbraio 1937, n. 439;
+
+Visto il regio decreto 8 luglio 1938, n. 1855, con il quale venne approvata e resa esecutiva la convenzione stipulata in Firenze il 5 luglio 1938, con cui l'Istituto superiore di scienze sociali e politiche "Cesare Alfieri" di Firenze venne trasformato in facolta' di scienze politiche "Cesare Alfieri" annessa all'Universita' di Firenze;
+
+Visto l'art. 5 del citato regio decreto n. 1855;
+
+Visto il punto primo del comma d) dell'art. 1 della convenzione sopra citata, recepito dall'art. 5 del regio decreto 8 luglio 1938, n. 1855;
+
+Ritenuta la necessita' di modificare il punto primo di detto comma d);
+
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:
