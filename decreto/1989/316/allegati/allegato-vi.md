@@ -1,0 +1,3 @@
+Allegato VI - DEROGHE ALLE NORME DI CONFEZIONAMENTO
+
+Ultimo comma, penultima riga: la dizione "in al caso..." e' sostituita da "in tal caso...".
