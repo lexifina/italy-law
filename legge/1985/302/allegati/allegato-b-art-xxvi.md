@@ -1,0 +1,11 @@
+Articolo XXVI
+
+1. Qualsiasi proposta di emendamento del presente Accordo potra' essere avanzata da un Governo contraente o dal Consiglio. La proposta e' comunicata per iscritto al Segretario generale che la trasmette a tutti i Governi contraenti chiedendo loro di comunicargli formalmente se la accettano o meno.
+
+2. L'adozione di un emendamento richiede il consenso di due terzi di tutti i Governi contraenti il cui totale di contributi per l'anno in corso sia almeno pari al novanta per cento.
+
+3. L'emendamento cosi' adottato entra il vigore per tutti i Governi contraenti il 1 gennaio dell'anno successivo all'anno durante il quale il Segretario generale ha ricevuto l'accettazione ufficiale dell'emendamento, comunicato per iscritto, dai Governi contraenti responsabili di almeno il novantotto per cento dei contributi per l'anno in corso.
+
+4. Il Segretario generale invia copie certificate conformi di ogni emendamento adottato a tutti i Governi contraenti e notifica loro ogni accettazione e data d'entrata in vigore di ogni emendamento.
+
+5. In casi diversi da quelli specificati al paragrafo 6 dell'articolo XIII, il Consiglio puo' emendare gli Allegati al presente Accordo, fatti salvi i termini e le condizioni del predetto e il consenso del Governo dell'Islanda.

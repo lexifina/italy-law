@@ -1,0 +1,9 @@
+Articolo XXII
+
+1. a) Il Governo dell'Islanda puo' porre fine al presente Accordo a far data dal 31 dicembre di un anno qualsiasi, su preavviso scritto indirizzato al Segretario generale al piu' tardi il 1 gennaio dell'anno in questione.
+
+b) Se, in qualsiasi momento, non puo' garantire il funzionamento dei Servizi rispettando l'ammontare massimo delle spese specificato all'articolo V, il Governo dell'Islanda ne informa immediatamente per iscritto il Segretario generale, presentando preventivi dettagliati relativi alle somme supplementari necessarie. Non appena ne e' informato, il Segretario generale esamina tali preventivi e dopo aver consultato, se del caso, il Governo dell'Islanda determina la somma necessaria eccedente il limite summenzionato. Il Segretario generale si rivolge quindi ai Governi contraenti al fine di ottenere il loro consenso come stabilito all'Articolo V. Se, tre mesi dopo aver determinato la somma supplementare necessaria, il Segretario generale non ha avvisato il Governo dell'Islanda del consenso dei Governi contraenti, il suddetto Governo puo' allora porre fine al presente Accordo previo preavviso di tre mesi indirizzato per iscritto al Segretario generale.
+
+c) Governi contraenti diversi da quello dell'Islanda possono porre fine al presente Accordo a far data dal 31 dicembre di un anno qualsiasi, mediante preavviso scritto indirizzato al Segretario generale al piu' tardi il 1 gennaio dell'anno in questione, se il totale dei loro contributi per l'anno in corso rappresenta almeno il dieci per cento del limite stabilito in conformita' alle disposizioni dell'articolo V.
+
+2. Ricevuti uno o piu' preavvisi relativi all'intenzione di porre fine al presente Accordo, in conformita' alle disposizioni del paragrafo 1 del presente articolo, il Segretario generale ne informa i Governi contraenti.
