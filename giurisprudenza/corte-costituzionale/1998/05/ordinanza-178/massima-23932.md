@@ -1,0 +1,25 @@
+# Massima n. 23932
+
+- Pronuncia: Corte costituzionale, ordinanza 178/1998 (ECLI:IT:COST:1998:178)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:178
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.  178/98.  PARLAMENTO - IMMUNITA' PARLAMENTARI - RICHIESTA DI RINVIO  A  GIUDIZIO, DEL PROCURATORE DELLA REPUBBLICA  PRESSO  IL TRIBUNALE  DI  MILANO,  E DECRETO CHE DISPONE  IL  GIUDIZIO,  DEL GIUDICE  PER  LE INDAGINI PRELIMINARI DEL TRIBUNALE DI ROMA,  CON CUI  SI  CONTESTA  AL DEPUTATO VITTORIO SGARBI, PER  LE  OPINIONI ESPRESSE  NEL CORSO DI UNA MANIFESTAZIONE POLITICA E RIPORTATE DA QUOTIDIANI,  IL DELITTO DI DIFFAMAZIONE A MEZZO STAMPA -  RICORSO PER  CONFLITTO  DI ATTRIBUZIONE TRA POTERI DELLO  STATO  PROPOSTO DALLO  STESSO  DEPUTATO SGARBI NEI CONFRONTI SIA DEL  PROCURATORE DELLA REPUBBLICA CHE DEL GIUDICE PER LE INDAGINI PRELIMINARI, PER LA  PRETESA  INSINDACABILITA', EX ART.  68, PRIMO  COMMA,  COST., DELLE  DICHIARAZIONI  INCRIMINATE - ESAME DELIBATIVO  -  RILEVATO DIFETTO,  IN MANCANZA DI UNA DELIBERAZIONE DI INSINDACABILITA' DA PARTE  DELLA  CAMERA DEI DEPUTATI, DEL REQUISITO OGGETTIVO  DELLA SUSSISTENZA    ATTUALE   DELLA    "MATERIA    DI   CONFLITTO"   - INAMMISSIBILITA' DEL RICORSO.
+
+## Testo
+
+Il  ricorso per conflitto di attribuzione tra poteri dello  Stato proposto  dal deputato Sgarbi nei confronti del Procuratore della Repubblica  presso  il Tribunale di Milano e del Giudice  per  le indagini  preliminari  del Tribunale di Roma, in  relazione  alla richiesta  di  rinvio  a giudizio, del primo, e del  decreto  che dispone  il giudizio, del secondo, con cui, in riferimento ad uno stesso fatto, costituito dalle opinioni espresse dallo Sgarbi nel corso  di una manifestazione politica svoltasi a Milano, in vista delle  elezioni,  il 27 marzo 1996, successivamente riportate  da quotidiani,  gli  si e' contestato il delitto di  diffamazione  a mezzo  stampa - ricorso formulato in base all'assunto che con gli atti  suddetti, in contrasto con le norme (artt.  21 e 68,  comma primo,  Cost.)  sulla liberta' di manifestazione del  pensiero  e sull'immunita'  parlamentare,  si era dato luogo ad un  conflitto con  il  Parlamento per cui anche il parlamentare interessato  si ritiene  legittimato  a  richiedere   l'intervento  della   Corte costituzionale  -  deve essere dichiarato inammissibile, gia'  in sede di prima delibazione (art.  37, commi secondo e terzo, della legge  11 marzo 1953, n.  87) per l'assenza attuale - in mancanza di  una  dichiarazione di insindacabilita' da parte della  Camera dei  deputati  - del requisito oggettivo (art.  37, comma  primo, legge  n.  87) della "materia di conflitto".  Alla stregua  della costante  giurisprudenza della Corte costituzionale, infatti,  la potesta'  di  dichiarare,  a norma dell'art.   68,  comma  primo, Cost.,  che  l'opinione espressa da un membro del  Parlamento  e' qualificabile  come  esercizio delle funzioni  parlamentari,  con l'effetto  di precludere una diversa qualificazione ad opera  del giudice,   e'   attribuita   esclusivamente    alla   Camera   di appartenenza,  e  pertanto, sino a che la Camera di  appartenenza non   abbia  deliberato  in  merito,   il  potere  di   valutare, incidentalmente,  la  sindacabilita' delle opinioni espresse  dal parlamentare, spetta all'autorita' giudiziaria che procede, ferma restando,  naturalmente, la facolta' del membro del Parlamento di sollecitare  il riesame della valutazione operata  dall'autorita' giudiziaria  mediante gli ordinari mezzi di impugnazione.  Con la conseguenza  che la Corte costituzionale non puo' essere chiamata a pronunciarsi se non quando risulti da atti formali un contrasto tra  la  valutazione  della  Camera   di  appartenenza  e  quella dell'autorita' giudiziaria.  -  Sul requisito oggettivo di ammissibilita' costituzionale dalla sussistenza  attuale  della  "materia   del  conflitto",  v.,  in riferimento pero' a diversa fattispecie, S.  n.  265/1997;  sugli effetti  della delibera di insindacabilita' adottata dalla Camera di  appartenenza  sui processi penale e civile, e sulla  facolta' dell'autorita'  giudiziaria di sollevare a sua volta conflitto di attribuzione,  v.   ancora  S.  n.  265/1997 ed inoltre  S.   nn. 129/1996, 110/1988 e 443/1993.                                                red. S. Pomodoro
+
+## Norme
+
+- richiesta Procura Repubblica presso trib. Milano, 19/06/1996
+- decreto G.U.P. del Tribunale di Roma, 30/11/1997
+
+## Parametri
+
+- Costituzione, art. 102
+- legge, 11/03/1953 n. 87, art. 37
+- Costituzione, art. 68
+- Costituzione, art. 67
