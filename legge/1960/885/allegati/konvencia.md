@@ -1,0 +1,5 @@
+Konvencia o Socijaluom osiguranju izmedju Federativne
+
+Narodne Republike Jugoslavije i Republike Italije
+
+Parte di provvedimento in formato grafico
