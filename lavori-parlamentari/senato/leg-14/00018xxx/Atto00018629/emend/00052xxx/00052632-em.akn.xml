@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/21.70/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/21.70"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/21.70/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="21.70"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/21.70/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3847" showAs="Caruso"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/397" showAs="Bucciero"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1541" showAs="Meduri"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/740" showAs="Curto"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17617" showAs="Nocco"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3865" showAs="Tarolli"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17569" showAs="Ciccanti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 21.70</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Caruso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bucciero</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Meduri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Curto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Nocco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Tarolli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Ciccanti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 5, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «5-
+					<an:i>bis.</an:i>
+					 Nei confronti del personale dell'amministrazione penitenziaria appartenente alle ex carriere dirigenziali e direttive dei direttori di istituto penitenziario, dei direttori degli ospedali psichiatrici giudiziari e dei direttori dei centri di servizio sociale per adulti sono ripristinate, sino all'effettivo riordino del relativo settore professionale, le disposizioni contenute nell'articolo 40 della legge 15 dicembre 1990, n. 395».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Alla tabella A, Fondo speciale di parte corrente di cui al comma 1 dell'articolo 67, ridurre proporzionalmente le voci relative agli accantonamenti dei diversi ministeri, al netto delle regolazioni debitorie del 10 per cento per ciascuno degli anni 2003, 2004 e 2005.</an:i>
+				</an:p>
+				<an:p align="justify">        Alla tabella C, di cui al comma 2 dell'articolo 67, ridurre del 50 per cento l'accantonamento relativo al Fondo di riserva per le autorizzazioni di spesa per le leggi permanenti di natura corrente di cui alla legge n. 468 del 1978.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
