@@ -1,0 +1,21 @@
+# Massima n. 1971
+
+- Pronuncia: Corte costituzionale, ordinanza 144/1963 (ECLI:IT:COST:1963:144)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1963:144
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.  144/63.  GIUDIZIO  DI  LEGITTIMITA'  COSTITUZIONALE  IN VIA INCIDENTALE  -  PROCEDIMENTO  PENALE  - GIUDICE NATURALE - CODICE PROCEDURA  PENALE,  ART. 55: DEFERIMENTO ALLA CORTE DI CASSAZIONE DELLA FACOLTA' DI RIMETTERE PER GRAVI MOTIVI DI ORDINE PUBBLICO O PER  LEGITTIMO  SOSPETTO,  L'ISTRUZIONE  O  IL GIUDIZIO, AD ALTRO GIUDICE DI SEDE DIVERSA - ASSERITO CONTRASTO CON L'ART. 25, PRIMO COMMA, DELLA COSTITUZIONE - QUESTIONE GIA' DECISA NEL SENSO DELLA NON  FONDATEZZA  -  INSUSSISTENZA  DI  NUOVI  MOTIVI  - MANIFESTA INFONDATEZZA. (COSTITUZIONE, ART. 25, PRIMO COMMA; LEGGE 11 MARZO 1953,  N.  87,  ARTT. 26, SECONDO COMMA, E 29; NORME INTEGRATIVE, ART. 9, SECONDO COMMA).
+
+## Testo
+
+Vedi: ORD. N. 24/56 D
+
+## Norme
+
+- codice di procedura penale 1930, art. 55
+
+## Parametri
+
+- Costituzione, art. 25, comma 1
