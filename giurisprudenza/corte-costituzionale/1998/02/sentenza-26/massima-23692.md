@@ -1,0 +1,23 @@
+# Massima n. 23692
+
+- Pronuncia: Corte costituzionale, sentenza 26/1998 (ECLI:IT:COST:1998:26)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:26
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   26/98.   CONSORZI - CONSORZIO DI BONIFICA DELLA PIANA  DI CATANIA   -  RISCOSSIONE  DI   CONTRIBUTI  INSOLUTI  -  PROCEDURA ESECUTIVA - POTERE DEL GIUDICE ORDINARIO DI EMANARE PROVVEDIMENTI CAUTELARI  - ESCLUSIONE - PRETESA LESIONE DEL DIRITTO ALLA TUTELA GIURISDIZIONALE  CONTRO GLI ATTI DELLA PUBBLICA AMMINISTRAZIONE - PRETESA  INCONGRUITA'  E  VIOLAZIONE  DEL  DIRITTO  DI  AZIONE  - RICHIAMO  ALLE  SENTENZE DELLA CORTE NN.  318/1995 E  437/1995  - ILLEGITTIMITA' COSTITUZIONALE PARZIALE.
+
+## Testo
+
+E'  costituzionalmente illegittimo, per violazione degli artt.  3 e  24 Cost., l'art.  21, comma 2, r.d.  13 febbraio 1933, n.  215 (Nuove  norme  per  la bonifica integrale), nella parte  in  cui, rinviando  alle  norme  previste per la  esazione  delle  imposte dirette,  non consente all'autorita' giurisdizionale ordinaria  - nell'ipotesi  in cui il debitore contesti l'esistenza o l'entita' del  credito  - di sospendere l'esecuzione dei ruoli  esattoriali relativi ai contributi nella spesa di esecuzione, manutenzione ed esercizio  delle  opere pubbliche di bonifica, in quanto -  posto che  e'  discriminatoria  ed arbitraria, sotto il  profilo  della violazione  dei  mezzi di difesa giurisdizionale,  la  disciplina mediante  rinvio  alle  norme  che   regolano  la  procedura   di riscossione  delle  imposte  dirette, disposta nei  confronti  di entrate di natura non tributaria;  che, secondo la giurisprudenza delle  Sezioni  Unite della Corte di Cassazione,  "pur  dovendosi collocare  le  prestazioni  patrimoniali in  questione  nell'area applicativa  dell'art.  23 Cost., l'assimilazione dei  contributi consortili  ai tributi erariali non si profila come assoluta,  ma limitata  piuttosto a taluni fondamentali aspetti, tra cui quello dell'esazione";   e che, pertanto, i contributi in questione  non sono  configurabili,  per caratteri ontologici, come  prestazioni patrimoniali  aventi  la  identica natura giuridica  dei  tributi erariali  e  non  rientrano   quindi  integralmente  nel  sistema disciplinare  delle  imposte  dirette, sicche' al  massimo,  puo' riscontrarsi  una  loro "assimilazione" alle entrate  tributarie, peraltro  solo  parziale e limitata, con riferimento al  caso  di specie  , ai profili procedimentali della riscossione coattiva  - la  disposizione  impugnata estende arbitrariamente, mediante  la tecnica  del  rinvio  normativo,  la  particolare  disciplina  di esazione  delle  imposte  dirette sul reddito  oltre  lo  stretto ambito   d'origine  in  assenza  di  un'identita'   di   "ratio", escludendo    irragionevolmente,    nelle    controversie   sulla riscossione  esattoriale  dei  contributi consortili,  il  potere cautelare  del  giudice ordinario, che pure ha giurisdizione  sul merito;     ed   in    quanto    la   devoluzione   all'autorita' giurisdizionale  ordinaria  delle  contestazioni  riguardanti  il potere impositivo dei consorzi di bonifica (indotta dalla mancata previsione,  nell'art.  2 d.lgs.  31 dicembre 1992, n.  546,  tra gli  oggetti  della giurisdizione tributaria, delle  controversie concernenti  la peculiare categoria dei " contributi" consortili) da' luogo ad una disciplina incongrua e discriminatoria, sotto il profilo   della   limitazione    degli    strumenti   di   difesa giurisdizionale   del  debitore  assoggettato   a  procedura   di riscossione   coattiva,   imponendogli    cosi'   un   sacrificio assolutamente  sproporzionato  rispetto  alle  finalita'  e  alla natura dell'ente creditore.  - S. nn. 155/1990, 318/1995, 239 e 372/1997.                                                  red.: S. Di Palma
+
+## Norme
+
+- decreto del Presidente della Repubblica, 29/09/1973 n. 602, art. 54
+- regio decreto, 13/01/1933 n. 215, art. 21, comma 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
