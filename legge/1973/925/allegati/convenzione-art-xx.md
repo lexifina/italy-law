@@ -1,0 +1,3 @@
+Articolo XX
+
+Dopo essere entrata in vigore, la presente convenzione sara' aperta all'adesione del Governo di qualsiasi Stato marittimo che ne faccia domanda al Governo del Principato di Monaco specificando il tonnellaggio delle sue flotte, e la cui ammissione sia approvata da due terzi dei Governi membri. Tale approvazione sara' notificata dal Governo del Principato di Monaco al Governo interessato. La convenzione entrera' in vigore, per quel Governo, alla data in cui esso abbia depositato gli strumenti di adesione presso il Governo del Principato di Monaco che informera' i Governi membri e il Presidente del Comitato direttivo.
