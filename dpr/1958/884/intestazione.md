@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+02 aprile 1958
+
+884
+
+Erezione in ente morale della Cassa scolastica della Scuola media statale "Dante Alighieri" di Taranto.
