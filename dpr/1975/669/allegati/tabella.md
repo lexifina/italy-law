@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO D'ARTE DI FOGGIA E DELL'ANNESSA SCUOLA MEDIA
+
+Parte di provvedimento in formato grafico
