@@ -1,0 +1,5 @@
+Allegato n. 1
+
+ELENCO MALATTIE RARE ESENTATE DALLA PARTECIPAZIONE AL COSTO
+
+Parte di provvedimento in formato grafico
