@@ -1,11 +1,15 @@
 Art. 2359-bis.
 
-(( (Acquisto di azioni da parte di societa' controllate). ))
+(( (Acquisto di azioni o quote da parte di societa' controllate). ))
 
-((La societa' controllata non puo' acquistare ne' sottoscrivere azioni o quote della societa' controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate.
+((La societa' controllata non puo' acquistare azioni o quote della societa' controllante se non nei limiti degli utili distribuibili e delle riserve disponibili risultanti dall'ultimo bilancio regolarmente approvato. Possono essere acquistate soltanto azioni interamente liberate.
+
+L'acquisto deve essere autorizzato dall'assemblea a norma del secondo comma dell'art. 2357.
+
+In nessun caso il valore nominale delle azioni o quote acquistate a norma dei commi precedenti puo' eccedere la decima parte del capitale della societa' controllante, tenendosi conto a tal fine delle azioni o quote possedute dalla medesima societa' controllante e dalle societa' da essa controllate.
+
+Una riserva indisponibile, pari all'importo delle azioni o quote della societa' controllante iscritto all'attivo del bilancio, deve essere costituita e mantenuta finche' le azioni o quote non siano trasferite.
 
 La societa' controllata da altra societa' non puo' esercitare il diritto di voto nelle assemblee di questa.
 
-Le azioni o quote acquistate, sottoscritte o possedute in violazione del primo comma devono essere alienate entro sei mesi dall'approvazione del bilancio dal quale risultano. Qualora cio' non sia avvenuto, il tribunale, su richiesta del collegio sindacale, ordina la vendita delle azioni o quote a mezzo di un agente di cambio o di un'azienda o istituto di credito.
-
-Le disposizioni di questo articolo si applicano anche agli acquisti fatti per tramite di societa' fiduciaria o per interposta persona.))
+Le disposizioni di questo articolo si applicano anche agli acquisti fatti per il tramite di societa' fiduciaria o per interposta persona.))
