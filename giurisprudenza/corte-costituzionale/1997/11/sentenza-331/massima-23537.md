@@ -1,0 +1,22 @@
+# Massima n. 23537
+
+- Pronuncia: Corte costituzionale, sentenza 331/1997 (ECLI:IT:COST:1997:331)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:331
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  331/97.  PROCESSO PENALE - CONCORSO DI PERSONE NEL REATO - DIBATTIMENTO  -  GIUDICE  CHE QUALE GIP  ABBIA  APPLICATO  MISURA CAUTELARE  CUSTODIALE A CARICO DEL CONCORRENTE NEL MEDESIMO REATO -  INCOMPATIBILITA'  AD  ESERCITARE LE FUNZIONI  DI  GIUDICE  DEL DIBATTIMENTO - OMESSA PREVISIONE - PRETESA VIOLAZIONE DEL DIRITTO DI  DIFESA  -  PRETESA LESIONE DEI PRINCIPI DI EGUAGLIANZA  E  DI PRESUNZIONE  DI NON COLPEVOLEZZA - RICHIAMO AI PRINCIPI  ESPRESSI DALLA  CORTE COSTITUZIONALE NELLE SENT.  NN.  432/1995 E 131/1996 - DIBATTIMENTO - GIUDICE CHE ABBIA RIGETTATO LA RICHIESTA DI PENA CONCORDATA   AVANZATA  DA  UN   IMPUTATO  -  INCOMPATIBILITA'   A PARTECIPARE  AL  GIUDIZIO  NEI CONFRONTI DI ALTRI  COIMPUTATI  IN ORDINE  ALLA  MEDESIMA IMPUTAZIONE - OMESSA PREVISIONE -  PRETESA DISPARITA'  DI  TRATTAMENTO - PRETESA LESIONE DEL  PRINCIPIO  DEL GIUSTO  PROCESSO - RICHIAMO AI PRINCIPI ESPRESSI NELLA SENT.   N. 371/1996 - INAMMISSIBILITA'.
+
+## Testo
+
+Sono  inammissibili  le questioni di legittimita'  costituzionale dell'art.   34,  comma 2, cod.  proc.  pen.  (nella parte in  cui non  prevede l'incompatibilita' a svolgere le funzione di giudice del  dibattimento  per  il g.i.p.  che abbia adottato  la  misura della  custodia  cautelare in carcere nei confronti di un  correo dell'imputato  sottoposto al suo giudizio per il medesimo  reato; e nella parte in cui non prevede l'incompatibilita' a svolgere le funzioni  di  giudice del dibattimento per il giudice  che  abbia respinto  la  richiesta  di applicazione della pena  avanzata  ai sensi  dell'art.   444  cod.   proc.  pen.  da  un  correo  degli imputati  sottoposti  a  suo  giudizio  per  i  medesimi  reati), sollevata  con riferimento agli artt.  3 e 24 Cost.  in quanto  - posto  che,  quando  il pregiudizio alla  terzieta'  del  giudice provenga da funzioni da lui esercitate all'interno di un medesimo procedimento  penale,  il pregiudizio stesso  e'  ragionevolmente prevenibile  con la tutela ripristinatoria rimessa all'iniziativa del  giudice  e  delle  parti  mediante  gli  appositi  strumenti dell'astensione  e della ricusazione e con una tutela  preventiva da attuarsi attraverso mezzi organizzativi in grado di assicurare uno svolgimento spontaneo del principio del giusto processo;  che tale   onere   di  organizzazione   preventiva   grava   altresi' sull'amministrazione della giustizia penale nelle ipotesi in cui, in   una  vicenda  processuale   sostanzialmente   unitaria   pur trattandosi di procedimenti diversi, il pregiudizio derivi da una sentenza   penale,   dalla   quale   emerga  un   gia'   maturato convincimento  del giudice in ordine alla responsabilita'  penale di  una persona formalmente non imputato in quel processo;  e che tali  ipotesi  costituiscono l'estremo limite di esigibilita'  di una  tutela  organizzativa e preventiva, varcato il quale,  nella varieta' delle relazioni che possono instaurarsi tra procedimenti distinti, e nella molteplicita' dei contenuti che i relativi atti sono  suscettibili di assumere, si avrebbe una dilatazione enorme dei  casi  nei quali un pregiudizio potrebbe essere  ravvisato  e l'intera materia delle incompatibilita' dispersa in una casistica senza  fine,  diverrebbe  refrattaria a  qualsiasi  tentativo  di amministrazione  mediante atti di organizzazione preventiva -  se la forza pregiudicante si sprigioni non da una sentenza, ma (come nei  casi di specie) da un'ordinanza adottata in un  procedimento diverso  (di custodia cautelare nei confronti di un correo ovvero di  reiezione  della  richiesta di applicazione della  pena),  lo strumento  di  tutela  non  puo' essere  ravvisato  in  ulteriori sentenze  additive  sull'art.   34,  ma  deve  essere   ricercato nell'area  degli  istituti dell'astensione e  della  ricusazione, anch'essi  preordinati  alla  salvaguardia  della  terzieta'  del giudice.  - S. nn. 371/1996, 306, 307 e 308/1997.                                               red.: S. Di Palma
+
+## Norme
+
+- codice di procedura penale, art. 34, comma 2
+
+## Parametri
+
+- Costituzione, art. 24
+- Costituzione, art. 3
