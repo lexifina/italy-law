@@ -1,0 +1,21 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il R. decreto 6 dicembre 1923, n. 2703, col quale le frazioni Coldragone e Villa Felice del comune di Rocca d'Arce sono state costituite in Comune autonomo con la denominazione di «Colfelice»;
+
+Visti i progetti di delimitazione territoriale e di reparto patrimoniale, predisposti, in esecuzione del citato decreto, dal Commissario prefettizio per la temporanea amministrazione dei comuni di Rocca d'Arce e Colfelice;
+
+Visti i pareri favorevoli all'approvazione di detti progetti, espressi dal Consiglio provinciale di Caserta nella tornata del 13 ottobre 1924 e dalla Giunta provinciale amministrativa in adunanza del 27 novembre 1924;
+
+Vista la deliberazione 11 luglio 1925 con cui il Commissario suddetto designa la frazione Coldragone a sede municipale del comune di Colfelice;
+
+Visto il parere favorevole espresso al riguardo dalla Deputazione provinciale di Caserta, con deliberazione d'urgenza del 30 luglio 1925;
+
+Udito il parere del Consiglio di Stato le cui considerazioni si intendono nel presente decreto riportate;
+
+Visti la legge comunale e provinciale, il relativo regolamento ed il R. decreto 30 dicembre 1923, n. 2839;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli affari dell'interno; Abbiamo decretato e decretiamo:
