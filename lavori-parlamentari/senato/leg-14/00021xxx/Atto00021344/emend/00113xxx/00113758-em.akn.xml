@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2901/A/G4.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2901/A/G4.100"/>
+					<an:FRBRdate date="2004-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2901/A/G4.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@"/>
+					<an:FRBRdate date="2004-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@.akn"/>
+					<an:FRBRdate date="2004-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-06-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-06-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2901/A/G4.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2901" showAs="DDL 2901"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17627" showAs="Rollandin"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/74" showAs="Andreotti"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/17608" showAs="Michelini"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/17551" showAs="Betta"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/17621" showAs="Pedrini"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/4432" showAs="Frau"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/698" showAs="Cossiga"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2901</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Rollandin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Andreotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Michelini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Betta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Pedrini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Frau</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Cossiga</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 2901, di conversione in legge del decreto-legge n. 79 del 2004,</an:p>
+				<an:p align="justify">        impegna il Governo ad assumere le iniziative necessarie affinché la verifica di cui al comma 1 dell'articolo 4 del decreto-legge in esame non sia richiesta nei casi in cui essa sia già stata effettuata ed inoltrata all'Autorità successivamente al 1984 e tenendo conto delle categorie sismiche corrispondenti alle attuali zone sismiche 1, 2 e 3 così come individuate dall'Ordinanza del Presidente del Consiglio dei ministri n. 3274 del 20 marzo 2003».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
