@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 2 del decreto legislativo Presidenziale 22 giugno 1946, n. 40;
+
+Ritenuta la opportunita' di procedere alla classifica del territorio del Basso Belice e del Carboi tra i comprensori di bonifica di 2ª categoria, ai sensi e per gli effetti del regio decreto 13 febbraio 1933, n. 215;
+
+Visti gli atti predisposti dall'Ente di colonizzazione del latifondo siciliano;
+
+Visto il voto 13 settembre 1947, n. 11, del Comitato speciale per la bonifica;
+
+Considerato che sussistono le condizioni previste dal citato art. 2, per procedere alla classifica di detto territorio, secondo i confini risultanti dalla apposita corografia e dalle modifiche proposte dal Comitato speciale per la bonifica con il citato voto 13 settembre 1947, n. 11;
+
+Che al definitivo tracciamento del perimetro del nuovo comprensorio sara' provveduto dai competenti organi in sede di esecuzione del presente decreto;
+
+Sulla proposta del Ministro per l'agricoltura e per le foreste, di concerto con i Ministri per il tesoro e per i lavori pubblici; Decreta:
