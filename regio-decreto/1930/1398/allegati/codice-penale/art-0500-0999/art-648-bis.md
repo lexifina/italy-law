@@ -1,7 +1,9 @@
 Art. 648-bis.
 
-(( (Sostituzione di denaro o valori provenienti da rapina aggravata, estorsione aggravata o sequestro di persona a scopo di estorsione).))
+(( (Riciclaggio).))
 
-((Fuori dei casi di concorso nel reato, chiunque compie fatti o atti diretti a sostituire denaro o valori provenienti dai delitti di rapina aggravata, di estorsione aggravata o di sequestro di persona a scopo di estorsione, con altro denaro o altri valori, al fine di procurare a se' o ad altri un profitto o di aiutare gli autori dei delitti suddetti ad assicurarsi il profitto del reato, e' punito con la reclusione da quattro a dieci anni e con la multa da lire un milione a venti milioni.
+((Fuori dei casi di concorso nel reato, chiunque sostituisce denaro, beni o altre utilita' provenienti dai delitti di rapina aggravata, di estorsione aggravata, di sequestro di persona a scopo di estorsione o dai delitti concernenti la produzione o il traffico di sostanze stupefacenti o psicotrope, con altro denaro, altri beni o altre utilita', ovvero ostacolata l'identificazione della loro provenienza dai delitti suddetti, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
 
-Si applica l'ultimo comma dell'articolo precedente)).
+La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
+
+Si applica l'ultimo comma dell'articolo 648)).

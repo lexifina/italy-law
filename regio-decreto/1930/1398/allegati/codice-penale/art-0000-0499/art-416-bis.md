@@ -1,8 +1,8 @@
 Art. 416-bis.
 
-((Associazione di tipo mafioso.))
+Associazione di tipo mafioso.
 
-((Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da tre a sei anni.
+Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da tre a sei anni.
 
 Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da quattro a nove anni.
 
@@ -14,11 +14,11 @@ L'associazione si considera armata quando i partecipanti hanno la disponibilita'
 
 Se le attivita' economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla meta'.
 
-Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. Decadono inoltre di diritto le licenze di polizia, di commercio, di commissionario astatore presso i mercati annonari all'ingrosso, le concessioni di acque pubbliche e i diritti ad esse inerenti nonche' le iscrizioni agli albi di appaltatori di opere o di forniture pubbliche di cui il condannato fosse titolare.
+Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. ((PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55)). ((118))
 
-Le disposizioni del presente articolo si applicano anche alla camorra e alle altre associazioni, comunque localmente denominate, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso)).
+Le disposizioni del presente articolo si applicano anche alla camorra e alle altre associazioni, comunque localmente denominate, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
 
-((96))
+(96)
 
 ---------------
 
@@ -29,3 +29,9 @@ La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 
 - (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate se il fatto e' commesso da persona gia' sottoposta con provvedimento definitivo a misura di prevenzione;
 
 -(con l'art. 7, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva.
+
+---------------
+
+AGGIORNAMENTO (118)
+
+La L. 19 marzo 1990, n. 55 ha disposto (con l'art. 36, comma 2) che restano tuttavia ferme le decadenze di diritto previste dalla seconda parte del settimo comma del presente articolo conseguenti a sentenze divenute irrevocabili anteriormente alla data di entrata in vigore della stessa L. 19 marzo 1990, n. 55.
