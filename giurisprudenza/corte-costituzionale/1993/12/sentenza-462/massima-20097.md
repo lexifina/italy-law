@@ -1,0 +1,13 @@
+# Massima n. 20097
+
+- Pronuncia: Corte costituzionale, sentenza 462/1993 (ECLI:IT:COST:1993:462)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:462
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   462/93  E.   CONFLITTO DI ATTRIBUZIONE TRA  POTERI  DELLO STATO   (GIUDIZIO  PER)  -  CONFLITTO   SORTO  IN  RELAZIONE   AL PROVVEDIMENTO    ADOTTATO,   NELL'ESERCIZIO     DEL   POTERE   DI AUTORIZZAZIONE  A  PROCEDERE,  DALLA CAMERA DI  APPARTENENZA  DEL PARLAMENTARE  INDAGATO  - LEGITTIMAZIONE ATTIVA  DELL'ORGANO  DEL PUBBLICO  MINISTERO COMPETENTE ALL'ESERCIZIO DELL'AZIONE PENALE - SUSSISTENZA  - AMMISSIBILITA', SOTTO TALE PROFILO, DEL  CONFLITTO SOLLEVATO - FATTISPECIE.
+
+## Testo
+
+Al  pubblico ministero - in quanto titolare diretto ed  esclusivo delle   attivita'   di     indagine   finalizzate   all'esercizio obbligatorio  dell'azione penale - deve riconoscersi la  qualita' di  "potere  dello  Stato",  abilitato  a  difendere  le  proprie competenze  mediante  conflitto di attribuzioni, in relazione  al diniego  di  autorizzazione  a  procedere  nei  confronti  di  un parlamentare.   A tal fine, la legittimazione processuale  spetta all'organo  del P.M.  le cui attribuzioni si suppongono lese  dal diniego,   essendo   tale    organo    abilitato   a   dichiarare definitivamente  la  volonta'  del potere cui appartiene,  e  non rilevando,   in   contrario,  ne'  i  poteri  di   avocazione   e sostituzione  affidati  al Procuratore generale presso  la  Corte d'appello  (i  quali  non comportano vincoli  gerarchici  e  sono esterni  all'esercizio  della  funzione), ne' quelli  del  G.I.P. relativi  alla  richiesta  di   archiviazione.   (Nella   specie, rigettando  l'eccezione  formulata  dalla difesa del  Senato,  la Corte   conferma  l'ammissibilita'  -   sotto  il  profilo  della legittimazione  attiva  -  del conflitto proposto  dalla  Procura della  Repubblica  presso il tribunale di Milano in relazione  al parziale  diniego di autorizzazione a procedere nei confronti del Sen.  Citaristi).  -   sulla  posizione  di   istituzionale  indipendenza  del  P.M. rispetto  a  ogni  altro potere, v.  S.  nn.   88/1991,  96/1975, 190/1970;   sulla posizione del pretore nell'esercizio di  poteri inquirenti,  v.   S.  n.  150/1981, O.  nn.   132/1981,  98/1981, 123/1979;   per  ipotesi  in  cui e'  stata,  invece,  negata  la legittimazione del P.M.  a sollevare conflitto fra poteri, v.  O. n.  16/1979.
