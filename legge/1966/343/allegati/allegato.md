@@ -1,0 +1,15 @@
+Constitution of the International Labour Organisation Instrument of Amendment (No. 1), 1964, adopted by the Conference at its Forty-eighth Session (Geneva, 9 July 1964).
+
+Parte di provvedimento in formato grafico
+
+Instrument d'amendement a' la Constitution de l'Organisation internationale du Travail (N° 1), 1964, adopte' par la Conference a' sa quarante-huitieme session (Geneve, 6 juillet 1964).
+
+Parte di provvedimento in formato grafico
+
+Constitution of the International Labour Organisation Instrument of Amendment (No. 3), 1964, adopted by the Conference at its Forty-eighth Session (Geneva, 9 July 1964).
+
+Parte di provvedimento in formato grafico
+
+Instrument d'amendement a' la Constitution de l'Organisation internationale du Travail (N° 3), 1964, adopte' par la Conference a' sa quarante-huitieme session (Geneve, 9 juillet 1964).
+
+Parte di provvedimento in formato grafico
