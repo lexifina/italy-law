@@ -1,0 +1,23 @@
+# Massima n. 23951
+
+- Pronuncia: Corte costituzionale, sentenza 197/1998 (ECLI:IT:COST:1998:197)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:197
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   197/98.   AUSILIARI  DEL  GIUDICE -  PERITO  D'UFFICIO  - LIQUIDAZIONE  DEL  COMPENSO - RICORSO AVVERSO LA  LIQUIDAZIONE  - DECRETO  DEL  PRESIDENTE, IN CALCE AL RICORSO, DI FISSAZIONE  DEL TERMINE  DI NOTIFICA AI CONTROINTERESSATI E DELLA DISCUSSIONE  IN CAMERA  DI CONSIGLIO - MANCATA PREVISIONE DELLA COMUNICAZIONE  AL RICORRENTE   -  PRETESA  IRRAZIONALITA'   DELLA  PRESUNZIONE   DI CONOSCENZA IN CONSEGUENZA DEL DEPOSITO IN CANCELLERIA DEL DECRETO IN  QUESTIONE IN CALCE AL RICORSO - PRETESA INCIDENZA SUL DIRITTO DI  DIFESA - RICHIAMO ALLA SENTENZA DELLA CORTE COSTITUZIONALE N. 156  RELATIVA AD ANALOGA QUESTIONE - NON FONDATEZZA NEI SENSI  DI CUI IN MOTIVAZIONE.
+
+## Testo
+
+Non  e' fondata, nei sensi di cui in motivazione, con riferimento agli   artt.   3  e  24   Cost.,  la  questione  di  legittimita' costituzionale dell'art.  11, comma 6, l.  8 luglio 1980, n.  319 (Compensi  spettanti ai periti, ai consulenti tecnici, interpreti e   traduttori   per   le   operazioni   eseguite   a   richiesta dell'autorita'  giudiziaria),  "nella parte in cui, [nel caso  di ricorso avverso la liquidazione del compenso spettante al perito, per  le operazioni peritali espletate a richiesta  dell'autorita' giudiziaria]  non  prevede  la comunicazione  al  ricorrente  del decreto del presidente del tribunale in calce al ricorso, con cui viene  fissata la comparizione delle parti davanti al collegio in camera  di  consiglio  ed  e'   determinato  il  termine  per  la notificazione  del decreto e del ricorso stesso alla  controparte interessata",  in  quanto - posto che l'art.  29 l.  n.  794  del 1942  sancisce  che  "il presidente del tribunale o  della  corte d'appello   ordina,  con  decreto  in   calce  al   ricorso,   la comparizione  degli interessati dinanzi al collegio in camera  di consiglio"   e   che   "il  decreto    e'   notificato   a   cura dell'interessato";   che tale schema procedurale non include  nel suo  contenuto  precettivo  alcun termine di decadenza;   che  la mancanza  di un'espressa previsione dell'obbligo di comunicare il decreto di fissazione dell'udienza e del termine di notificazione del   ricorso  alla  controparte  si   spiega  in  quanto   trova applicazione  il  generale  principio di cui all'art.   136  cod. proc.   civ.;  e che il ricorso proposto ai sensi dell'art.   11, commi  5  e  6, l.  n.  319 del 1980 e' atto  impugnatorio  della liquidazione,  gia'  operata  dal  giudice o  dal  p.m.   che  ha nominato  il  perito avente diritto al compenso, che  costituisce espressione  di un diritto attribuito dalla norma col solo  onere di   osservare   il  termine  di  venti   giorni   "dall'avvenuta comunicazione"  (del  decreto  di liquidazione)  -  la  possibile interpretazione "adeguatrice" della disposizione impugnata induce ad  escludere  che  l'inutile  decorso del  termine  di  notifica indicato  nel decreto di fissazione dell'udienza emesso ai  sensi dell'art.   29 cit.  comporti, pur in difetto della comunicazione del   decreto  stesso,  la   decadenza   dall'impugnazione   gia' tempestivamente  proposta ai sensi dell'art.  11, comma 5, l.  n. 319  del  1980,  tenuto  conto che il  semplice  deposito  di  un provvedimento  nella cancelleria non offre al soggetto che lo  ha richiesto   quella   ragionevole   possibilita'   di   tempestiva conoscenza,  senza  oneri eccedenti la normale diligenza, che  e' necessaria  quando  viene  in considerazione l'osservanza  di  un termine  per l'esercizio del diritto di agire e di difendersi  in giudizio.  -  S.   nn.   125/1972,  22/1973,  238/1976,  15/1977,  303/1985, 120/1986, 156/1986, 358/1996.                                              red.: S. Di Palma
+
+## Norme
+
+- legge, 13/06/1942 n. 794, art. 29
+- legge, 08/07/1980 n. 319, art. 11, comma 6
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
