@@ -13,7 +13,3 @@ Udito il Consiglio di Stato;
 Udito il Consiglio dei Ministri;
 
 Sulla proposta del Nostro Ministro Segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
-
-Del patrimonio e dell'amministrazione dei Convitti nazionali Capo I. Del patrimonio e dell'esercizio finanziario.
-
-TITOLO I.
