@@ -1,8 +1,8 @@
 Art. 2447-ter.
 
-(( (Deliberazione costitutiva del patrimonio destinato).))
+(Deliberazione costitutiva del patrimonio destinato).
 
-((La deliberazione che ai sensi della lettera a) del primo comma dell'articolo 2447-bis destina un patrimonio ad uno specifico affare deve indicare:
+La deliberazione che ai sensi della lettera a) del primo comma dell'articolo 2447-bis destina un patrimonio ad uno specifico affare deve indicare:
 
 a) l'affare al quale e' destinato il patrimonio;
 
@@ -14,8 +14,8 @@ d) gli eventuali apporti di terzi, le modalita' di controllo sulla gestione e di
 
 e) la possibilita' di emettere strumenti finanziari di partecipazione all'affare, con la specifica indicazione dei diritti che attribuiscono;
 
-f) la nomina di una societa' di revisione per il controllo contabile sull'andamento dell'affare, quando la societa' non e' assoggettata alla revisione contabile ed emette titoli sul patrimonio diffusi tra il pubblico in misura rilevante ed offerti ad investitori non professionali;
+f)la nomina di una societa' di revisione per il controllo contabile sull'andamento dell'affare, quando la societa' non e' ((gia' assoggettata alla revisione contabile da parte di una societa' di revisione)) contabile ed emette titoli sul patrimonio diffusi tra il pubblico in misura rilevante ed offerti ad investitori non professionali;
 
 g) le regole di rendicontazione dello specifico affare.
 
-Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo e' adottata dal consiglio di amministrazione o di gestione a maggioranza assoluta dei suoi componenti.))
+Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo e' adottata ((dall'organo amministrativo )) a maggioranza assoluta dei suoi componenti.

@@ -1,7 +1,7 @@
 Art. 2497-sexies.
 
-(( (Presunzioni). ))
+(Presunzioni).
 
-((Ai fini di quanto previsto nel presente capo, si presume salvo prova contraria che l'attivita' di direzione e coordinamento di societa' sia esercitata dalle societa' o enti tenuti al consolidamento dei loro bilanci o che comunque le controllano ai sensi dell'articolo 2359.
+Ai fini di quanto previsto nel presente capo, si presume salvo prova contraria che l'attivita' di direzione e coordinamento di societa' sia esercitata ((dalla societa' o ente tenuto al consolidamento dei loro bilanci o che comunque le controlla)) ai sensi dell'articolo 2359.
 
-Le disposizioni del presente capo si applicano altresi' a chi esercita attivita' di direzione e coordinamento di societa' sulla base di un contratto con le societa' medesime o di clausole dei loro statuti.))
+((COMMA SOPPRESSO DAL D.LGS. 17 GENNAIO 2003, N. 6, COME MODIFICATO DAL D.LGS. 6 FEBBRAIO 2004, N. 37)).

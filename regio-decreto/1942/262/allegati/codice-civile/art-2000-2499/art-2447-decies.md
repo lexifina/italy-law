@@ -1,8 +1,8 @@
 Art. 2447-decies.
 
-(( (Finanziamento destinato ad uno specifico affare).))
+(Finanziamento destinato ad uno specifico affare).
 
-((Il contratto relativo al finanziamento di uno specifico affare ai sensi della lettera b) del primo comma dell'articolo 2447-bis puo' prevedere che al rimborso totale o parziale del finanziamento siano destinati, in via esclusiva, tutti o parte dei proventi dell'affare stesso.
+Il contratto relativo al finanziamento di uno specifico affare ai sensi della lettera b) del primo comma dell'articolo 2447-bis puo' prevedere che al rimborso totale o parziale del finanziamento siano destinati, in via esclusiva, tutti o parte dei proventi dell'affare stesso.
 
 Il contratto deve contenere:
 
@@ -28,7 +28,7 @@ a) che copia del contratto sia depositata per l'iscrizione presso l'ufficio del 
 
 b) che la societa' adotti sistemi di incasso e di contabilizzazione idonei ad individuare in ogni momento i proventi dell'affare ed a tenerli separati dal restante patrimonio della societa'.
 
-Alle condizioni di cui al comma precedente, sui proventi, sui frutti di essi e degli investimenti eventualmente effettuati in attesa del rimborso al finanziatore, non sono ammesse azioni da parte dei creditori sociali; alle medesime condizioni, delle obbligazioni nei confronti del finanziatore risponde esclusivamente il patrimonio separato, tranne l'ipotesi di garanzia parziale di cui al secondo comma, lettera g).
+Alle condizioni di cui al comma precedente, sui proventi, sui frutti di essi e degli investimenti eventualmente effettuati in attesa del rimborso al finanziatore, non sono ammesse azioni da parte dei creditori sociali; alle medesime condizioni, delle obbligazioni nei confronti del finanziatore risponde esclusivamente il patrimonio separato, ((salva)) l'ipotesi di garanzia parziale di cui al secondo comma, lettera g).
 
 I creditori della societa', sino al rimborso del finanziamento, o alla scadenza del termine di cui al secondo comma, lettera h) sui beni strumentali destinati alla realizzazione dell'operazione possono esercitare esclusivamente azioni conservative a tutela dei loro diritti.
 
@@ -36,4 +36,4 @@ Se il fallimento della societa' impedisce la realizzazione o la continuazione de
 
 Fuori dall'ipotesi di cartolarizzazione previste dalle leggi vigenti, il finanziamento non puo' essere rappresentato da titoli destinati alla circolazione.
 
-La nota integrativa alle voci di bilancio relative ai proventi di cui al terzo comma, ed ai beni di cui al quarto comma, deve contenere l'indicazione della destinazione dei proventi e dei vincoli relativi ai beni.))
+La nota integrativa alle voci di bilancio relative ai proventi di cui al terzo comma, ed ai beni di cui al quarto comma, deve contenere l'indicazione della destinazione dei proventi e dei vincoli relativi ai beni.
