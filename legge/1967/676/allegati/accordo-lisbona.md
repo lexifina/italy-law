@@ -1,0 +1,5 @@
+Accordo di Lisbona per la protezione e la registrazione Internazionale delle denominazioni di origine e relativo regolamento di esecuzione. (Lisbona, 31 ottobre 1958).
+
+ARRANGEMENT DE LISBONNE CONCERNANT LA PROTECTION DES APPELLATIONS D'ORIGINE ET LEUR ENREGISTREMENT INTERNATIONAL.
+
+Parte di provvedimento in formato grafico
