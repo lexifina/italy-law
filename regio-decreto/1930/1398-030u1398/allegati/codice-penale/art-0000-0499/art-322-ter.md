@@ -1,0 +1,17 @@
+Art. 322-ter.
+
+(Confisca).
+
+Nel caso di condanna, o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale, per uno dei delitti previsti dagli articoli da 314 a 320, anche se commessi dai soggetti indicati nell'articolo 322-bis, primo comma, e' sempre ordinata la confisca dei beni che ne costituiscono il profitto o il prezzo, salvo che appartengano a persona estranea al reato, ovvero, quando essa non e' possibile, la confisca di beni, di cui il reo ha la disponibilita', per un valore corrispondente a tale prezzo ((o profitto)).
+
+Nel caso di condanna, o di applicazione della pena a norma dell'articolo 444 del codice di procedura penale, per il delitto previsto dall'articolo 321, anche se commesso ai sensi dell'articolo 322-bis, secondo comma, e' sempre ordinata la confisca dei beni che ne costituiscono il profitto salvo che appartengano a persona estranea al reato, ovvero, quando essa non e' possibile, la confisca di beni, di cui il reo ha la disponibilita', per un valore corrispondente a quello di detto profitto e, comunque, non inferiore a quello del denaro o delle altre utilita' date o promesse al pubblico ufficiale o all'incaricato di pubblico servizio o agli altri soggetti indicati nell'articolo 322-bis, secondo comma.
+
+Nei casi di cui ai commi primo e secondo, il giudice, con la sentenza di condanna, determina le somme di denaro o individua i beni assoggettati a confisca in quanto costituenti il profitto o il prezzo del reato ovvero in quanto di valore corrispondente al profitto o al prezzo del reato.
+
+(170)
+
+---------------
+
+AGGIORNAMENTO (170)
+
+La L. 29 settembre 2000, n. 300 ha disposto (con l'art. 15, comma 1) che "Le disposizioni di cui all'articolo 322-ter del codice penale, introdotto dal comma 1 dell'articolo 3 della presente legge, non si applicano ai reati ivi previsti, nonche' a quelli indicati nel comma 2 del medesimo articolo 3, commessi anteriormente alla data di entrata in vigore della presente legge".
