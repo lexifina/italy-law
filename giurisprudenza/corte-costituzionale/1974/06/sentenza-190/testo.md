@@ -1,0 +1,55 @@
+# Corte costituzionale, sentenza 190/1974
+
+- ECLI: ECLI:IT:COST:1974:190
+- Tipo: sentenza
+- Presidente: BONIFACIO
+- Relatore: Enzo Capolozza
+- Data della decisione: 14/06/1974
+- Data del deposito: 26/06/1974
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 7351
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1974:190
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Prof. FRANCESCO PAOLO BONIFACIO, Presidente - Dott. GIUSEPPE VERZÌ - Avv. GIOVANNI BATTISTA BENEDETTI - Dott. LUIGI OGGIONI - Avv. ANGELO DE MARCO - Avv. ERCOLE ROCCHETTI - Prof. ENZO CAPALOZZA - Prof. VEZIO CRISAFULLI - Dott. NICOLA REALE - Prof. PAOLO ROSSI - Avv. LEONETTO AMADEI - Dott. GIULIO GIONFRIDA - Prof. EDOARDO VOLTERRA - Prof. GUIDO ASTUTI, Giudici,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 14 della legge 16 luglio 1962, n. 1085 (Ordinamento degli uffici di servizio sociale e istituzione dei ruoli del personale del predetto servizio), in relazione agli artt. 3, 9, 10, 11 e 13 della stessa legge, promosso con ordinanza emessa il 14 novembre 1972 dal tribunale per i minorenni di Bologna nel procedimento penale a carico di O. D., iscritta al n. 421 del registro ordinanze 1972 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 48 del 21 febbraio 1973.
+Visto l'atto d'intervento del Presidente del Consiglio dei ministri;
+udito nell'udienza pubblica del 15 maggio 1974 il Giudice relatore Enzo Capalozza;
+udito il sostituto avvocato generale dello Stato Renato Carafa, per il Presidente del Consiglio dei ministri.
+
+## Testo
+
+Ritenuto in fatto:
+Nel corso di un procedimento penale a carico di D. O., il tribunale per i minorenni con sede in Bologna, riscontrata la mancanza di qualsiasi notizia sull'ambiente familiare e sociale, nonché sulla personalità del minore, affermava che tale carenza era dovuta unicamente al fatto che gli uffici del servizio sociale non erano posti alle sue dirette dipendenze, nonostante la sua natura di giudice ordinario, riconosciutagli anche dalla giurisprudenza della Corte costituzionale e, con ordinanza 14 novembre 1972, riteneva rilevante e non manifestamente infondato il dubbio di legittimità costituzionale dell'art. 14 della legge 16 luglio 1962, n. 1085, sull'ordinamento degli uffici del servizio sociale, in relazione agli artt. 3, 9, 10, 11 e 13 della stessa legge, in riferimento agli artt. 101, secondo comma, 108, secondo comma, e 109 della Costituzione.
+Dopo aver posto in luce la delicatezza e l'estensione dei propri poteri, i quali, fra l'altro, gli permettono, ai sensi dell'art. 11 del r.d.1. 20 luglio 1934, n. 1404 (c.d. legge minorile) di "sentire pareri di tecnici senza alcuna formalità di procedura", il tribunale osserva che i funzionari del servizio sociale, pur agendo sia come organi di polizia giudiziaria sia come collaboratori del giudice, sarebbero tuttavia - per il tramite diretto del personale dirigente del servizio e indiretto del centro di rieducazione - gerarchicamente subordinati alla direzione generale degli istituti di prevenzione e di pena presso il Ministero di grazia e giustizia, in violazione dei tre precetti costituzionali su indicati.
+In proposito, il tribunale rileva che, per il denunziato art. 14 della legge n. 1085 del 1962, il personale dirigente del servizio dipende dal direttore del centro; e collega tale norma con le seguenti disposizioni della stessa legge: art. 3, che prevede il ruolo del personale di concetto separato da quello dirigente; artt. 9, 10 e 11, sulle qualifiche di quest'ultimo; art. 13, che affida l'espletamento delle funzioni di polizia giudiziaria al personale di concetto. Afferma, inoltre, che il direttore del centro sarebbe, a sua volta, gerarchicamente subordinato alla direzione generale.
+Le funzioni di polizia giudiziaria dei predetti uffici risulterebbero dai compiti di assistenza, di rieducazione e di controllo del minore, di cui agli artt. 1, 2, 25, 27, quinto comma, e 29, terzo comma, del r.d.1. n. 1404 del 1934, e comprenderebbero anche l'attività di prevenzione non separabile da quelle di rieducazione e di punizione assegnate unitariamente alla magistratura minorile.
+I compiti di collaborazione con il giudice si collegherebbero, poi, ai provvedimenti a lui demandati sulla libertà assistita, ai controlli ed alle iniziative di cui agli artt. 27 e 28, secondo comma, dello stesso r.d.l. del 1934, e farebbero assumere ai rappresentanti del servizio sociale la veste di "estranei che partecipano all'amministrazione della giustizia".
+Il tribunale sottolinea, infine, che gli necessita disporre di un adeguato apparato tecnico alla propria esclusiva dipendenza, mentre il centro di rieducazione non è sottratto all'ingerenza della pubblica amministrazione la quale, anzi, in una circolare, lo definisce "organismo governativo".
+Nel giudizio dinanzi a questa Corte è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, la quale chiede che la questione sia dichiarata non fondata.
+Il servizio sociale, ad avviso dell'Avvocatura, non sarebbe organo di polizia giudiziaria, sia perché non rientra nell'elencazione di cui all'art. 221 cod. proc. pen., sia perché non è incaricato della ricerca e dell'accertamento di reati, ai sensi dell'art. 219 dello stesso codice.
+Esso rientrerebbe, invece, nel contesto dell'impegno sociale per la prevenzione di comportamenti devianti. E così, sarebbe chiamato a fornire al giudice una collaborazione che, per quanto tecnica, non differirebbe da quella offerta dai pubblici funzionari e dai privati (cancellieri, denuncianti, testimoni ecc.).
+Ad ogni buon fine, l'Avvocatura richiama la giurisprudenza di questa Corte (sent. n. 114 del 1968; n. 122 del 1971) sul concetto di dipendenza funzionale della polizia giudiziaria; osserva che la pretesa inadeguatezza del servizio sociale non verrebbe meno se questo fosse posto alle dipendenze dirette del giudice, il quale, per altro, neppur ora sarebbe obbligato a far ricorso esclusivamente a detto servizio; esclude che vi sia una partecipazione a poteri decisori o, comunque, all'amministrazione della giustizia da parte degli assistenti sociali, che svolgerebbero, invece, solo un servizio ausiliario.Considerato in diritto:
+1. - Con l'ordinanza in epigrafe, il tribunale per i minorenni di Bologna ha sollevato questione di legittimità costituzionale dell'art. 14 della legge 16 luglio 1962, n. 1085, in relazione agli artt. 3, 9, 10, 11 e 13 della stessa legge (e cioè della principale normativa attuale sull'organizzazione e il funzionamento degli uffici di servizio sociale), con riferimento agli artt. 101, secondo comma, 108, secondo comma, e 109 della Costituzione.
+2. - Gli artt. 108, secondo comma, e 101, secondo comma, Cost. sarebbero violati per il fatto che gli assistenti sociali eserciterebbero, per taluni aspetti della loro attività, la funzione giudicante e sarebbero, quindi, da qualificare come "estranei che partecipano all'amministrazione della giustizia", senza che sia loro assicurata l'indipendenza propria del giudice. L'art. 109 verrebbe, a sua volta, violato perché gli assistenti' sociali sarebbero organi di polizia giudiziaria, e pur tuttavia gerarchicamente subordinati, per il tramite del direttore del Centro per la rieducazione dei minorenni, alla pubblica amministrazione (direzione generale degli istituti di prevenzione e di pena presso il Ministero di grazia e giustizia).
+3. - La questione non è fondata.
+È da premettere - come ha osservato anche l'Avvocatura dello Stato - che i due prospettati profili sono nettamente contrastanti tra loro sul piano logico-giuridico e sul piano giuridico-costituzionale, dato che gli uffici di servizio sociale vengono, ad un tempo, configurati dal giudice a quo, quali organi investiti sia di funzioni giurisdizionali, sia di funzioni di polizia giudiziaria, senza tener conto che si tratta di attribuzioni del tutto diverse, distintamente disciplinate anche dalla Costituzione.
+4. - È da escludere che i funzionari del servizio sociale possano ritenersi degli estranei che partecipino all'amministrazione della giustizia, alla stregua dell'art. 108, secondo comma, Cost., posto che non sono abilitati ad emettere provvedimenti decisori ed hanno il compito di dare informazioni al giudice. Il quale, se le reputa carenti, insufficienti o contestabili, ha a sua disposizione altri strumenti processuali di valutazione, di accertamento e di convincimento (al limite, la perizia).
+Gli estranei che partecipano all'amministrazione della giustizia minorile sono soltanto i componenti "laici" del tribunale per i minorenni, di cui all'art. 2 del r.d.l. 20 luglio 1934, n. 1404 (convertito nella legge 27 maggio 1935, n. 835), modificato dall'art. 4 della legge 27 dicembre 1956, n. 1441, ossia i "due cittadini, un uomo e una donna, benemeriti dell'assistenza sociale, scelti tra i cultori di biologia, di psichiatria, di antropologia criminale, di pedagogia, di psicologia che abbiano compiuto il trentesimo anno di età".
+5. - Il servizio sociale è chiamato, bensì, ad espletare compiti rilevanti per la prevenzione e il trattamento della delinquenza minorile e per la raccolta di tutte quelle notizie che possono essere utili al giudice ai fini della conoscenza della personalità e dell'ambiente familiare e sociale del minore; ma tali compiti esulano dalle attribuzioni della polizia giudiziaria, specificate nell'art. 219 del codice di procedura penale, nonché da quelle del corpo di polizia femminile indicate nell'art. 2, lett. b, della legge 7 dicembre 1959, n. 1083 (Indagini e atti di polizia giudiziaria relativi ai reati commessi da donne o da minori degli anni 18 o in loro danno).
+Né i funzionari del servizio sociale rientrano nell'elencazione e nelle norme di qualificazione dell'art. 221 del codice di procedura penale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+dichiara non fondata la questione di legittimità costituzionale dell'art. 14 della legge 16 luglio 1962, n. 1085 (Ordinamento degli uffici di servizio sociale e istituzione dei ruoli del personale del predetto servizio), in relazione agli artt. 3, 9, 10, 11 e 13 della stessa legge, sollevata con l'ordinanza in epigrafe, con riferimento agli artt. 101, secondo comma, 108, secondo comma. e 109 della Costituzione.
+Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 14 giugno 1974.
+FRANCESCO PAOLO BONIFACIO - GIUSEPPE VERZÌ - GIOVANNI BATTISTA BENEDETTI - LUIGI OGGIONI - ANGELO DE MARCO - ERCOLE ROCCHETTI - ENZO CAPALOZZA - VEZIO CRISAFULLI - NICOLA REALE - PAOLO ROSSI - LEONETTO AMADEI - GIULIO GIONFRIDA - EDOARDO VOLTERRA - GUIDO ASTUTI.
+ARDUINO SALUSTRI - Cancelliere
