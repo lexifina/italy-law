@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 21 del Codice postale e delle telecomunicazioni approvato col regio decreto 27 febbraio 1936, n. 645;
+
+Visto l'art. 239 del regolamento per i servizi postali (titolo preliminare e parte prima), approvato col regio decreto 18 aprile 1940, n. 689;
+
+Riconosciuta l'opportunita' che sia emesso un francobollo celebrativo della consacrazione dell'"Ara Pacis" in Redipuglia-Medea in occasione della inaugurazione cola' della casa per gli orfanelli di guerra e delle onoranze ai caduti in guerra;
+
+Sentito il Consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro Segretario di Stato per le poste e le telecomunicazioni; Decreta:
