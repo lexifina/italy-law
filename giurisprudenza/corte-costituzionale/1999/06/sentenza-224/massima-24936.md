@@ -1,0 +1,36 @@
+# Massima n. 24936
+
+- Pronuncia: Corte costituzionale, sentenza 224/1999 (ECLI:IT:COST:1999:224)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:224
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   224/99 C.  CORTE DEI CONTI - REGIONE SICILIANA -  COLLEGI DI  REVISORI  DI ENTI REGIONALI - NORME DI LEGGI DELLA REGIONE  - PREVISIONE TRA I COMPONENTI DI TALI COLLEGI, PER TALUNI ENTI COME PRESIDENTI  DEI  COLLEGI  STESSI,  PREVIA  NOMINA  DA  PARTE  DEL CONSIGLIO  DI  PRESIDENZA  DELLA CORTE DEI CONTI,  DI  MAGISTRATI CONTABILI - DENUNCIATA VIOLAZIONE DEI PRINCIPI DELLA RISERVA ALLA LEGGE   STATALE   DELLE   NORME    SU   "OGNI   MAGISTRATURA"   E DELL'INDIPENDENZA  DELLA CORTE DEI CONTI E DEI SUOI MAGISTRATI  - PROSPETTATA  LESIONE,  ALTRESI', DEL PRINCIPIO DI BUON  ANDAMENTO DELLA  PUBBLICA  AMMINISTRAZIONE - INSUSSISTENZA - NON  INCIDENZA DELLE  DISPOSIZIONI IMPUGNATE SULLO 'STATUS' DEI MAGISTRATI - NON OBBLIGATORIETA'  DEI  PROVVEDIMENTI  DI NOMINA -  NON  FONDATEZZA DELLE QUESTIONI.
+
+## Testo
+
+Non  sono  fondate le questioni di legittimita' costituzionale  - sollevate  in riferimento agli artt.  3, 97, 100, 104, 107, 108 e 116  Cost.,  nonche' agli artt.  14, 17 e 23 dello Statuto  della Regione  Siciliana  -  dell'art.   5, primo comma,  lett.   a)  - eccettuata la parte colpita dalla dichiarazione di illegittimita' costituzionale di cui al capo a) del dispositivo della sentenza - e  comma terzo, della legge della Regione Siciliana 6 marzo 1976, n.    25   (Disposizioni   per  i   centri   internazionali   per l'addestramento  professionale  nell'industria), e dell'art.   15 della  legge della Regione Siciliana 14 settembre 1979, n.   212, recante:   <<Norme riguardanti l'Ente di sviluppo agricolo (ESA), l'Istituto  regionale  della  vite e del vino  (IRVV),  l'Azienda siciliana  trasporti  (AST), l'Istituto regionale per il  credito alla cooperazione (IRCAC), la Cassa regionale per il credito alle imprese artigiane (CRIAS), e l'Ente acquedotti siciliani (EAS)>>, nelle   parti  in  cui   prevedono:   il  primo,   l'attribuzione dell'incarico di revisore di conti di enti regionali a magistrati della  Corte  dei conti;  ed il secondo, la presenza nei  collegi dei  revisori dei suddetti enti regionali, come presidenti  degli stessi, di magistrati della Corte dei conti:  in entrambi i casi, previa nomina (ex art.  10, comma 10, della legge 13 aprile 1988, n.   117),  da  parte del Consiglio di  presidenza  della  stessa Corte.   Riguardo  all'attribuzione  a  magistrati   (dell'ordine giudiziario  e delle magistrature speciali) di incarichi estranei ai  loro  compiti  di istituto - su cui si accentra nel  caso  il 'thema  decidendum' - occorre infatti distinguere nettamente  fra la  disciplina  legislativa che ne determina la  possibilita',  i relativi  limiti di compatibilita' e le condizioni e modalita', e una  disciplina  legislativa  che,  sul  presupposto  di  quella, preveda  l'attribuzione  a magistrati di  determinati  incarichi, giacche', mentre la prima, attenendo allo 'status' del magistrato e  rientrando  dunque nell'ambito della riserva di legge  statale sancita  dall'art.  108, primo comma, Cost., secondo la  costante interpretazione   offertane   dalla   Corte  costituzionale,   e' sottratta  ad  ogni  intervento legislativo  regionale  -  nessun valido argomento in contrario potendo trarsi, per quanto riguarda la  Regione Siciliana, dall'art.  23 dello statuto speciale,  ne' dalle  norme di attuazione dettate con il d.lgs.  6 maggio  1948, n.   655  -  non altrettanto puo' dirsi della seconda,  alla  cui tipologia,  in base al principio affermato dall'art.  58, commi 2 e 3, del d.lgs.  3 febbraio 1993, n.  29 - circa l'ammissibilita' di  incarichi  espressamente previsti da legge o da "altre  fonti normative"  - ed all'art.  3, comma 6, lettera g), del d.P.R.  27 luglio  1995, n.  388 (Regolamento, emanato in base al su  citato art.   58, comma 3, recante norme sugli incarichi dei  magistrati della  Corte dei conti) - che non esclude l'assunzione, da  parte dei magistrati della Corte dei conti, di incarichi nell'ambito di collegi  di  revisori dei conti di enti disciplinati dalla  legge regionale - vanno ricondotte le disposizioni regionali impugnate. Le  quali,  pertanto,  non potendo essere intese come  dirette  a prevedere  la  possibilita'  o  i limiti  della  attribuzione  ai magistrati  contabili di incarichi extraistituzionali,  incidendo cosi'  sul  loro  'status',  ma   come  dirette  a   disciplinare l'organizzazione  degli enti regionali considerati, non  eccedono dalla  competenza  regionale, ne' di per se' violano i  parametri costituzionali relativi alle garanzie di indipendenza della Corte dei  conti  e  dei  suoi magistrati.  Ne',  d'altra  parte,  puo' condividersi   il  rilievo  secondo   cui,  configurandosi   tali incarichi, nelle leggi regionali, come necessariamente attribuiti a  magistrati  della  Corte  dei conti,  le  relative  previsioni verrebbero   ad  incidere  sulla   competenza  del  Consiglio  di presidenza,   che  sarebbe  costretto   a   conferirli,   perche' altrimenti  si  determinerebbe l'inoperativita' dell'organo,  con violazione  anche del principio di buon andamento della  pubblica amministrazione.   Giacche'  il  carattere "necessario"  di  tali incarichi,  ai  fini della regolare composizione dei collegi  dei revisori  secondo  la  disciplina   legislativa  regionale,   non comporta  affatto  ne' l'obbligo per il magistrato  designato  di accettare  l'incarico, estraneo ai suoi compiti di istituto,  ne' l'obbligo  per  il  Consiglio di presidenza  di  conferirlo:   al contrario,  il Consiglio conserva intatti i suoi poteri-doveri di deliberazione   sulla   sola  base   delle  norme   statali   che disciplinano  in  generale gli incarichi e dei criteri  oggettivi che esso deve preventivamente darsi, ai sensi dell'art.  2, comma 3,  del  d.P.R.   n.   388  del 1995:   quella  che  nessuno,  in concreto,  possa  essere  designato, ovvero che  nessuno  accetti l'incarico,  e' una eventualita' di mero fatto, verificandosi  la quale    spetterebbe   al     legislatore   regionale    valutare l'opportunita' o la necessita' di modificare la disciplina di sua competenza  per rendere comunque possibile la costituzione  degli organi in questione.
+
+
+
+-  V.   la precedente massima B e la seguente D.   Sulla  riserva alla  legge  statale,  di cui all'art.  108, primo  comma,  Cost. della  disciplina  dello 'status' del magistrato, cfr.   S.   nn. 4/1956,  81/1976,  43/1982, 150/1993, nonche', da ultimo, S.   n. 86/1999.
+
+## Norme
+
+- legge della Regione siciliana, 14/09/1979 n. 212, art. 15
+- legge della Regione siciliana, 06/03/1976 n. 25, art. 5, comma 1 lett. a)
+- legge della Regione siciliana, 06/03/1976 n. 25, art. 5, comma 3
+
+## Parametri
+
+- Costituzione, art. 104
+- Costituzione, art. 97
+- Costituzione, art. 116
+- Costituzione, art. 108
+- statuto regione Sicilia, art. 17
+- Costituzione, art. 3
+- Costituzione, art. 107
+- Costituzione, art. 100
+- statuto regione Sicilia, art. 23
+- statuto regione Sicilia, art. 14
