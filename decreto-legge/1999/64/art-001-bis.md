@@ -1,0 +1,9 @@
+Art. 1-bis.
+
+((
+
+1.
+
+Per i procedimenti esecutivi pendenti alla data dell'8 settembre 1998, anche se dichiarati estinti per effetto dell'articolo 1 della legge 3 agosto 1998, n. 302, in deroga a quanto previsto dal terzo comma dell'articolo 2945 del codice civile, l'effetto interruttivo della prescrizione rimane fermo fino alla dichiarazione di estinzione e il nuovo periodo di prescrizione inizia a decorrere dalla data di tale dichiarazione.
+
+))
