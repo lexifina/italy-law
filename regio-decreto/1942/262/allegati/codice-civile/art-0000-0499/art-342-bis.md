@@ -1,10 +1,10 @@
 Art. 342-bis.
 
-(( (Ordini di protezione contro gli abusi familiari). ))
+(Ordini di protezione contro gli abusi familiari).
 
-((Quando la condotta del coniuge o di altro convivente e' causa di grave pregiudizio all'integrita' fisica o morale ovvero alla liberta' dell'altro coniuge o convivente, il giudice, qualora il fatto non costituisca reato perseguibile d'ufficio, su istanza di parte, puo' adottare con decreto uno o piu' dei provvedimenti di cui all'articolo 342-ter.))((132))
+Quando la condotta del coniuge o di altro convivente e' causa di grave pregiudizio all'integrita' fisica o morale ovvero alla liberta' dell'altro coniuge o convivente, il giudice, ((...)) su istanza di parte, puo' adottare con decreto uno o piu' dei provvedimenti di cui all'articolo 342-ter.(132)
 
-----------------
+--------------
 
 AGGIORNAMENTO (132)
 
