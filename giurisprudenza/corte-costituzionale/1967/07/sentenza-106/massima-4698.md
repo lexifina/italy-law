@@ -1,0 +1,13 @@
+# Massima n. 4698
+
+- Pronuncia: Corte costituzionale, sentenza 106/1967 (ECLI:IT:COST:1967:106)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1967:106
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 106/67 A. FRODI ALIMENTARI - FRODI NELLA PREPARAZIONE E NEL COMMERCIO  DEI  MOSTI,  VINI, ACETI - D.P.R. 12 FEBBRAIO 1965, N. 162  -  PRETESA  VIOLAZIONE DEGLI ARTT. 73 E 76 COST. - RITARDATA PUBBLICAZIONE DELLA LEGGE DI DELEGAZIONE 9 OTTOBRE 1964, N. 991 - EMANAZIONE  DELLA  LEGGE  DELEGATA  OLTRE  I LIMITI FISSATI NELLA DELEGA  -  QUESTIONE GIA' DECISA NEL SENSO DELLA NON FONDATEZZA - MANIFESTA INFONDATEZZA.
+
+## Testo
+
+Le   questioni  di  legittimita'  costituzionale  del  D.P.R.  12 febbraio  1965,  n.  162,  concernente  "Norme per la repressione delle  frodi  nella preparazione e nel commercio dei mosti, vini, ed  aceti",  sollevate  con  riferimento agli artt. 73 e 76 della Costituzione,  in  quanto la legge delega 9 ottobre 1964, n. 991, sarebbe  stata  pubblicata  in  ritardo  ed  in  quanto  la legge delegata  sarebbe  stata  emanata  oltre  il  termine di tre mesi fissato  con  la  legge delega, sono manifestamente infondate per essere  state gia' decise, nel senso della non fondatezza, con le sent. nn. 13/1967, 32/1967 e 33/1967.
