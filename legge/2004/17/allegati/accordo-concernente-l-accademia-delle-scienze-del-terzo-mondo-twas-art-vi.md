@@ -1,0 +1,7 @@
+Articolo VI
+
+Composizione di Dispute
+
+Qualsiasi controversia da ricondursi all'interpretazione o all'applicazione del presente Accordo che non venga definito da negoziati o in altro modo concordato potra', a richiesta di ciascuna delle due parti, essere inoltrato a un tribunale arbitrale per la decisione. Il direttore generale dell'UNESCO e il Governo della Repubblica Italiana nomineranno ciascuno un arbitro, e i due arbitri cosi' nominati ne eleggeranno un terzo che fungera' da presidente del tribunale. Se entro trenta giorni dalla richiesta di arbitrato una delle due parti non avra' provveduto alla designazione di un arbitro, ciascuna delle due parti potra' chiedere al presidente della corte internazionale di giustizia di nominarne uno. La stessa procedura sara' seguita se entro trenta giorni dalla designazione ovvero nomina del secondo arbitro non sara' ancora stato eletto il terzo arbitro.
+
+La maggioranza dei membri del tribunale arbitrale rappresentera' il quorum, e le decisioni avveranno per voto maggioritario. La procedura arbitrale sara' stabilita dal tribunale, le cui decisioni, ivi comprese tutte le sentenze relative alla sua costituzione, le procedure, la giurisdizione e la suddivisione fra le parti delle spese per l'arbitrato, saranno vincolanti per tutte le parti in causa. La rimunerazione degli arbitri sara' determinata sulla base di quella vigente per i giudici ad hoc presso la corte internazionale di giustizia, secondo il disposto dell'articolo 32(4) del suo statuto.
