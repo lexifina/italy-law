@@ -1,0 +1,5 @@
+Articolo IX
+
+Il Segretario-Generale indira' una Conferenza dei Governi contraenti per la revisione o la modifica della presente Convenzione su richiesta di non meno di un terzo dei Governi contraenti. Ogni revisione o notifica dovra' essere adottata dalla Conferenza con voto a maggioranza dei due terzi; successivamente ne verranno approntate copie certificate, conformi che verranno inviate dal Segretario-Generale a tutti i Governi contraenti per la loro accettazione. Un anno dopo l'accettazione della revisione o degli emendamenti da parte di due terzi dei Governi contraenti, ogni revisione o emendamento entrera' in vigore per tutti i Governi contraenti eccettuato per coloro i quali prima della sua entrata in vigore dichiarino di non accettare la revisione o l'emendamento.
+
+Al momento dell'adozione, la Conferenza puo' decidere, con voto a maggioranza dei due terzi, che la revisione o la modifica e' di natura tale che ogni Governo contraente che abbia fatto tale dichiarazione e che non accetti la revisione o l'emendamento entro un anno dalla entrata in vigore, cessera', allo spirare di tale periodo, di essere Parte della Convenzione.
