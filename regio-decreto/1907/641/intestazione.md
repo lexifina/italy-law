@@ -1,0 +1,7 @@
+REGIO DECRETO
+
+17 agosto 1907
+
+641
+
+Col quale viene riunito in testo unico la disposizione della legge sulla riforma degli Istituti per la giustizia amministrativa. (007U0641)
