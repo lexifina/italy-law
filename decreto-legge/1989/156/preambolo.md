@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visto il decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni;
+
+Ritenuta la straordinaria necessita' ed urgenza di differire al 30 maggio 1989 i termini per la presentazione della dichiarazione dei redditi da parte di soggetti di cui all'articolo 87 del testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 aprile 1989;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle finanze, di concerto con i Ministri del tesoro e del bilancio e della programmazione economica;
+
+E M A N A il seguente decreto:
