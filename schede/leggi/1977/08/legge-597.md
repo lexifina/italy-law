@@ -1,0 +1,12 @@
+# Legge 8 agosto 1977, n. 597
+
+- Tipo: Ordinaria
+- Numero: 597
+- Data: 1977-08-08
+- Titolo: Disposizioni  integrative  della  legge  1  novembre  1973,  n.  762, istitutiva di un diritto speciale a favore del comune di Livigno.
+- Pubblicazione: (Pubblicata nella G.U. del 27 agosto 1977 n. 233)
+- Legislatura: VII legislatura della Repubblica (repubblica_07)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1977-08-08;597
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;7.legislatura;1634
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1977_597
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
