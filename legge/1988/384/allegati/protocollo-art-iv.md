@@ -1,0 +1,7 @@
+Articolo IV
+
+Salvo quanto previsto dall'ultimo comma del presente articolo, i contributi ed i crediti finanziari di cui all'articolo III saranno utilizzati per il finanziamento relativo ad acquisto di beni o servizi italiani.
+
+A tale scopo il Governo della Repubblica di Malta sottoporra' al Governo italiano, per le vie diplomatiche, i progetti alla cui esecuzione esso e' interessato, accompagnati da una documentazione sufficiente a permettere una stima dei costi e una individuazione dei mezzi tecnici necessari alla loro realizzazione. Una decisione in proposito sara' presa d'accordo tra i due Governi, entro due mesi dalla presentazione dei progetti stessi.
+
+Tenuto conto della particolare importanza dei singoli progetti ai fini di un equo e stabile sviluppo dell'isola, il Governo italiano potra' autorizzare che una aliquota dei contributi annui sia corrisposta sotto forma di aiuto diretto al bilancio maltese da destinare al finanziamento dei costi locali di opere e lavori inerenti la realizzazione dei progetti concordati. Detta aliquota non potra' eccedere il 25 per cento dei fondi previsti per ciascun anno per i progetti approvati dalle parti nelle forme sopraindicate, tenuto anche conto dell'ultimo comma dell'articolo III. Tali somme verranno versate al Governo maltese entro trenta giorni dalla presentazione degli stati di avanzamento dei lavori di ciascun progetto, documentati anche per i costi locali sopportati, ai quali afferisce il predetto aiuto al bilancio.
