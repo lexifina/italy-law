@@ -1,0 +1,3 @@
+Articolo V
+
+Poiche' e' intenzione delle Parti Contraenti che le informazioni scambiate e il materiale e le attrezzature forniti siano usati unicamente per la promozione e lo sviluppo degli usi pacifici dell'energia nucleare, le Parti Contraenti stabiliscono di consultarsi al fine di determinare in quale modo e sino a qual punto esse intendano affidare l'esercizio dei controlli e delle salvaguardie, previsti dal presente Accordo, ad una agenzia internazionale gia' esistente o da istituire, della quale entrambe le Parti siano membri. Tali consultazioni avveranno a richiesta di una delle Parti Contraenti.
