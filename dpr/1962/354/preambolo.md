@@ -1,0 +1,39 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visto il contratto collettivo nazionale 26 luglio 1956, per gli operai dipendenti dalle aziende di panificazione;
+
+Visti per la provincia di Bolzano:
+
+- l'accordo collettivo 16 ottobre 1950, per le commissioni di qualifica, stipulato tra l'Associazione dei Commercianti di Bolzano, Bressanone e Brunico, il Sindacato Panificatori di Bolzano, l'Associazione dei Commercianti del Circondario di Merano e la Lega Provinciale Panettieri - F.I.L.I.A. - la Camera Confederale del Lavoro, il Libero Sindacato Lavoranti Panettieri - C.I.S.L. -, la Unione Provinciale Sindacale - CI.S.L. -;
+
+- l'accordo collettivo integrativo 19 giugno 1957, stipulato tra l'Associazione Provinciale Panificatori e il Sindacato Lavoratori Panettieri - C.G.I.L. -, il sindacato Panettieri - C.I.S.L. -;
+
+- l'accordo collettivo integrativo 29 luglio 1958, stipulato tra l'Associazione Provinciale Artigiana Panificatori, l'Unione Commercianti e il Sindacato Provinciale Lavoranti Panettieri - C.G.I.L. -, l'Unione Provinciale - U.I.L. -; cui ha aderito, in data 31 dicembre 1960, l'Unione Sindacale Provinciale - C.I.S.L. -;
+
+- l'accordo collettivo integrativo 12 dicembre 1959, stipulato tra l'Associazione Provinciale Artigiana Panificatori e il Sindacato Provinciale Lavoranti Panettieri - C.G.I.L. -, la Camera del Lavoro - C.G.I.L. -, il Sindacato Lavoranti Panettieri - C.I.S.L. -, l'Unione Provinciale - U.I.L. -;
+
+Visti, per le circoscrizioni di Bolzano, Bressanone e Brunico:
+
+- il contratto collettivo integrativo 24 novembre 1950, stipulato tra l'Associazione dei Commercianti di Bolzano, Bressanone e Brunico, il Sindacato Panificatori di Bolzano e la Lega Provinciale Panettieri - F.I.L.I.A. -, la Camera Confederale del Lavoro, il Libero Sindacato Lavoranti Panettieri - C.I.S.L. -, l'Unione Provinciale Sindacale - C.I.S.L. -;
+
+- l'accordo collettivo integrativo 13 ottobre 1954, stipulato tra l'Unione Provinciale Commercianti, l'Associazione Panificatori di Bolzano e la Camera Confederale del Lavoro, il Sindacato Panettieri - C.G.I.L., cui ha aderito, in data 31 dicembre 1960, la Unione Sindacale Provinciale - C.I.S.L. -;
+
+Visti per il circondario di Merano:
+
+- il contratto collettivo integrativo 20 giugno 1956, stipulato tra l'Associazione Commercianti del Circondario di Merano e il Sindacato Lavoratori Panettieri C.G.I.L. -, il Libero Sindacato Provinciale Lavoranti Panettieri - C.I.S.L. -;
+
+- l'accordo collettivo integrativo 3 luglio 1957, stipulato tra l'Associazione dei Commercianti di Merano e Circondario e il Sindacato Provinciale Panettieri - C.G.I.L. -, Sindacato Provinciale Lavoranti Panettieri - C.I.S.L. -;
+
+- l'accordo collettivo integrativo 2 settembre 1958, stipulato tra l'Associazione Commercianti di Merano e Circondario e la Camera Confederale del Lavoro di Bolzano, il Sindacato Provinciale Panettieri - C.G.I.L. -, cui ha aderito, in data 31 dicembre 1960, la Unione Sindacale Provinciale - C.I.S.L. -;
+
+Vista la pubblicazione nell'apposito Bollettino, n. 16 della provincia di Bolzano, in data 15 maggio 1961, dei contratti e degli accordi sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
