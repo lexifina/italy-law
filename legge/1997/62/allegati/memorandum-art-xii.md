@@ -1,0 +1,7 @@
+ARTICOLO XII
+
+SERVIZI E STRUTTURE PUBBLICHE GENERALI
+
+1. Le autorita' italiane competenti si impegnano, per quanto possibile, ad aiutare le Nazioni Unite ad ottenere e rendere disponibili, senza limiti imposti dall'elencazione seguente, energia elettrica, acqua, fognature, gas, posta, drenaggio, raccolta dei rifiuti, protezione antiincendio ed altre strutture alle tariffe piu' favorevoli e, in caso di interruzione o di minaccia di interruzione dei servizi, di dare alle necessita' delle Nazioni Unite, per quanto nei propri poteri, la stessa priorita' data ai servizi essenziali del Governo. Il pagamento per tali servizi e strutture pubbliche generali sara' effettuato dalle Nazioni Unite a condizioni da concordare con le autorita' italiane competenti.
+
+2. Alle Nazioni Unite competera' elaborare adeguate disposizioni per la fornitura di servizi e strutture pubbliche generali nei Locali ad Uso Esclusivo su una Istallazione Militare e, su richiesta, predisporranno gli opportuni accordi per consentire alle persone debitamente autorizzate in rappresentanza degli enti di servizio pubblico generale competenti di istallare, ispezionare, riparare, provvedere alla manutenzione, ristrutturazione e risistemazione di servizi, condotte, reti e fogne all'interno dei Locali ad Uso Esclusivo, a condizioni che non dovranno senza motivo interferire con lo svolgimento delle funzioni delle Nazioni Unite.
