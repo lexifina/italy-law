@@ -1,0 +1,3 @@
+Accord entre le Gouvernement italien et le Gouvernement Federal autrichien en matiere de propriete' industrielle
+
+Parte di provvedimento in formato grafico
