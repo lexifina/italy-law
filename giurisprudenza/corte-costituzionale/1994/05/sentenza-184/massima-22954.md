@@ -1,0 +1,13 @@
+# Massima n. 22954
+
+- Pronuncia: Corte costituzionale, sentenza 184/1994 (ECLI:IT:COST:1994:184)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1994:184
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    184/94   C.   IMPIEGO   PUBBLICO  -  PREVENZIONE   DELLA DELINQUENZA  MAFIOSA - DIPENDENTI DELLE AMMINISTRAZIONI PUBBLICHE CONDANNATI  PER I REATI INDICATI NELL' ART.  15, PRIMO COMMA,  L. N.   55  DEL  1990  -  EFFETTI  -  PROVVEDIMENTO  DI  SOSPENSIONE IMMEDIATA  DALLE  FUNZIONI O DALL'UFFICIO - OBBLIGATORIETA',  CON ESCLUSIONE DELLA VALUTAZIONE, DA PARTE DELL'AMMINISTRAZIONE,CIRCA LA  CONVENIENZA  DELL'ALLONTANAMENTO  DEL DIPENDENTE  -  ASSERITA LESIONE   DEL  PRINCIPIO  DI  BUON   ANDAMENTO  DELLA   P.A.    - INSUSSISTENZA - NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+La  mancata previsione, nell'art.  15, comma quarto, septies,  l. n.   55  del  1990 - concernente la sospensione  immediata  dalla funzioni   o   dall'ufficio  dei   dipendenti   delle   pubbliche amministrazioni  condannati per i reati indicati nel primo  comma dello   stesso   articolo  -  di   una  valutazione,   da   parte dell'amministrazione,  circa  la convenienza  dell'allontanamento del  dipendente, non da' luogo a violazione del principio di buon andamento  di  cui  all'art.  97 Cost..  La norma  in  questione, infatti,  si ricollega ad una specifica normativa di  particolare incisivita', ispirata a tutelare interessi essenziali della p.a., costituzionalmente   garantiti,   quali   quelli   della   tutela dell'ordine  pubblico,  cui il principio richiamato  deve  essere coordinato.   Del resto, la natura cautelare del provvedimento  - che  lo  colloca accanto alla figura generale  della  sospensione degli  impiegati civili dello Stato (art.  91, d.P.R.  n.  3  del 1957)  - la temporaneita' e la revocabilita' di esso, rendono  la fattispecie  non  raffrontabile  a quella  della  destituzione  - avente,  invece,  carattere direttamente sanzionatorio - ed  alla dichiarata   incostituzionalita'  del   suo  automatismo.    (Non fondatezza,  in  riferimento  all'art.  97, primo  comma,  Cost., della  questione  di legittimita' costituzionale  dell'art.   15, comma  quarto  septies,  l.  19 marzo 1990,  n.   55,  introdotto dall'art.  1, l.  18 gennaio 1992, n.  16).  - v.  S.  n.  197/1993.                                                     red.: A.M.M.                                                    rev.: S.P.
