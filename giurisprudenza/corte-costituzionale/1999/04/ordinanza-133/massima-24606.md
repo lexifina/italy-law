@@ -1,0 +1,26 @@
+# Massima n. 24606
+
+- Pronuncia: Corte costituzionale, ordinanza 133/1999 (ECLI:IT:COST:1999:133)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:133
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   133/99.  PROCESSO PENALE - GIUDICE CHE, IN SEDE DI RIESAME O  DI  APPELLO,  ESSENDOSI PRONUNCIATO SU  UNA  MISURA  CAUTELARE PERSONALE  DISPOSTA  NEI  CONFRONTI  DI  ALTRI  CONCORRENTI   NEL MEDESIMO  REATO, ABBIA VALUTATO LA POSIZIONE DI ALCUNI COIMPUTATI DI  REATO A CONCORSO NECESSARIO - INCOMPATIBILITA' A  PARTECIPARE AL  GIUDIZIO NEI CONFRONTI DI QUESTI ULTIMI - OMESSA PREVISIONE - DEDOTTA  VIOLAZIONE  DEL  PRINCIPIO DI  EGUAGLIANZA  -  LAMENTATA LESIONE,  ALTRESI',  DEL  DIRITTO  DI  DIFESA  -  QUESTIONE  GIA' DICHIARATA INAMMISSIBILE - MANIFESTA INAMMISSIBILITA'.
+
+## Testo
+
+Manifesta   inammissibilita'   della    questione,   in   quanto, successivamente  alla proposizione della stessa, la Corte, con la sentenza  n.   331  del  1997, ha  dichiarato  inammissibile  una questione  analoga,  rinviando alle pronunce nn.  306, 307 e  308 del  1997  per  l'individuazione  dei limiti  entro  i  quali  il principio  del  giusto  processo  postula la  previsione  di  una ipotesi di incompatibilita', ed ha chiarito, altresi', che, se il pregiudizio   deriva  non  da  una   sentenza,  ma,  come   nella fattispecie,  da  una  ordinanza   adottata  in  un  procedimento diverso,  lo  strumento  di tutela non puo' essere  ravvisato  in ulteriori  sentenze additive sull'art.  34 cod.  proc.  pen.,  ma deve  essere ricercato nell'area degli istituti dell'astensione e della  ricusazione, anch'essi preordinati alla salvaguardia della terzieta' del giudice.
+
+
+
+- Cfr. S. nn. 371/1996, 131/1996, 432/1995.
+
+## Norme
+
+- codice di procedura penale, art. 34, comma 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
