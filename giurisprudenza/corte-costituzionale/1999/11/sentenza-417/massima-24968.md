@@ -1,0 +1,21 @@
+# Massima n. 24968
+
+- Pronuncia: Corte costituzionale, sentenza 417/1999 (ECLI:IT:COST:1999:417)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:417
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    417/99.    PARLAMENTO   -   IMMUNITA'   PARLAMENTARI   - PROCEDIMENTO PER IL REATO DI DIFFAMAZIONE A MEZZO STAMPA A CARICO DELL'ON.   TIZIANA PARENTI PER LE DICHIARAZIONI DA QUESTA RESE IN DATA  6  MAGGIO  1995,  NEI CONFRONTI DEL  DOTT.   PAOLO  IELO  - DELIBERAZIONE DELLA CAMERA DEI DEPUTATI, IN DATA 22 OTTOBRE 1997, CON  LA  QUALE  TALI DICHIARAZIONI SONO STATE  RITENUTE  OPINIONI ESPRESSE  NELL'ESERCIZIO DELLE FUNZIONI DI PARLAMENTARE, AI SENSI DELL'ART.   68,  PRIMO COMMA, COST.  - CONFLITTO DI  ATTRIBUZIONE TRA  POTERI DELLO STATO PROPOSTO DAL TRIBUNALE DI ROMA AVVERSO LA CAMERA DEI DEPUTATI, RIGUARDO A DETTA DELIBERAZIONE, PER RITENUTO ILLEGITTIMO  ESERCIZIO  DEL  POTERE  -  INERENZA  DELLE  OPINIONI ESPRESSE  ALL'ESERCIZIO  DELLE FUNZIONI PARLAMENTARI -  SPETTANZA ALLA CAMERA DEI DEPUTATI.
+
+## Testo
+
+Spettava  alla Camera dei deputati dichiarare l'insindacabilita', ai  sensi  dell'art.   68,  primo comma,  Cost.,  delle  opinioni espresse  dalla  parlamentare  Tiziana  Parenti,  secondo  quanto deliberato  dall'Assemblea della Camera il 22 ottobre 1997 (nella specie,  il  Tribunale  di Roma aveva proposto, nel corso  di  un giudizio  penale promosso nei confronti dell'on.  Tiziana Parenti per  il  reato di diffamazione a mezzo stampa in danno del  dott. Paolo  Ielo,  ricorso  per conflitto di attribuzione  tra  poteri dello  Stato  nei confronti della Camera dei deputati,  chiedendo l'annullamento  della  predetta deliberazione, con la  quale  era stata  dichiarata  l'insindacabilita' di dichiarazioni rese  alla stampa   dalla  stessa  parlamentare).    Infatti  -  posto   che l'immunita'  stabilita  dall'art.   68, primo  comma,  Cost.   si caratterizza  come  oggettiva  garanzia   per  l'esercizio  delle funzioni  parlamentari,  espressione di sovranita',  da  svolgere senza  remore o vincoli da parte di chi ne sia investito, in modo da  assicurare  la  liberta' politica del Parlamento;  e  che  il discrimine  tra i giudizi e le critiche che anche il parlamentare manifesta  nel piu' esteso ambito dell'attivita' politica, per le quali  non  vale  l'immunita',  e le  opinioni  coperte  da  tale garanzia   e'   costituito   dalla    inerenza   delle   opinioni all'esercizio delle funzioni parlamentari - le circostanze (messe in  evidenza  dalla Giunta per le autorizzazioni a  procedere  in giudizio,  ribadite  in  Assemblea dal relatore e  fatte  proprie dalla  stessa)  che la dichiarazione dell'on.  Parenti  e'  stata enunciata  nel  corso di un dibattito politico, anche in  replica all'attacco  che  le  era stato recato, in  sede  di  Commissione parlamentare  antimafia,  nella  sua qualita'  di  presidente  di quest'ultima,  hanno  fatto non irragionevolmente considerare  le dichiarazioni  medesime  come   rientranti  nell'esercizio  delle funzioni proprie della parlamentare.  - S. nn. 379/1996, 375/1997, 289/1998 e 329/1999.                                            red.: S. Di Palma
+
+## Norme
+
+- deliberazione della Camera dei deputati, 22/10/1997
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
