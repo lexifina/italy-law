@@ -1,0 +1,17 @@
+ALLEGATO H
+
+Procedura da seguire per stabilire le parti nelle scorte regolatrici
+
+Per stabilire la parte di ogni paese che contribuisce alle scorte regolatrici, il Direttore procedera' come segue:
+
+i) I contributi alle scorte regolatrici di ogni paese contribuente (escluso un contributo volontario o parte di contributo volontario fatto ai sensi del paragrafo a) dell'articolo 22 e rimborsato in conformita' dal paragrafo c) dello stesso articolo) saranno valutati; a tale scopo il valore di un contributo o parte di contributo fatto in metallo da parte di un paese contribuente sara' calcolato al prezzo minimo esistente alla data d'entrata in vigore del presente Accordo e verra' aggiunto ai contributi totali effettuati in contanti da parte di detto paese.
+
+ii) Il valore di tutto lo stagno-metallo detenuto dal Direttore alla data in cui l'Accordo scadra' o sara' rescisso, sara' calcolato sulla base del corso di compensazione in contanti dello stagno alla Borsa dei metalli di Londra alla stessa data; dopo che la somma prevista al paragrafo a) dell'articolo 31 sara' stata accantonata in riserva, l'importo corrispondente a tale valore sara' aggiunto al totale dei contanti da lui detenuti alla stessa data.
+
+iii) Qualora la somma totale stabilita in conformita' della clausola ii) del presente Allegato sia superiore alla somma totale di tutti i contributi fatti alle scorte regolatrici dai paesi contribuenti (calcolata conformemente alla clausola i) del presente Allegato), l'eccedenza sara' ripartita tra i paesi contribuenti, proporzionalmente ai contributi totali fatti alle scorte regolatrici da ciascuno di essi, moltiplicati per il numero di giorni per i quali detti contributi sono rimasti a disposizione del Direttore, e cio' fino alla scadenza od alla rescissione dell'Accordo. A tale scopo, i contributi in stagno-metallo saranno valutati conformemente alle disposizioni della clausola i) del presente Allegato, ed ogni contributo individuale (in metallo o in contanti) sara' moltiplicato per il numero di giorni per i quali esso e' rimasto a disposizione del Direttore; per calcolare il numero di giorni per i quali un contributo e' rimasto a disposizione del Direttore non sara' tenuto conto ne' dal giorno in cui il contributo e' stato da lui percepito ne' del giorno di scadenza o rescissione dell'Accordo. L'importo dell'eccedenza cosi' attribuita ad ogni paese contribuente sara' aggiunto al totale dei contributi di tale paese (calcolato secondo la clausola i) del presente Allegato), restando inteso che, nello stabilire la ripartizione di tale eccedenza, un contributo di un paese decaduto dai suoi diritti non sara' considerato essere stato a disposizione del Direttore per tutta la durata del periodo di decadenza.
+
+iv) Qualora l'importo totale stabilito conformemente alle disposizioni della clausola ii) del presente Allegato sia inferiore alla somma totale di tutti i contributi fatti alle scorte regolatrici da parte di tutti i paesi contribuenti, il disavanzo sara' ripartito tra i paesi contribuenti proporzionalmente ai loro contributi globali. L'importo del disavanzo addebitato ad ogni paese contribuente sara' dedotto dal totale dei contribuenti di tale paese.
+
+I contributi considerati nella presente clausola saranno calcolati secondo la clausola i) del presente Allegato.
+
+v) Il risultato dei calcoli di cui sopra sara' considerato, per ogni paese contribuente, come la parte di tale paese nelle scorte regolatrici.
