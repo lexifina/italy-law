@@ -1,0 +1,25 @@
+ALLEGATO B
+
+MINISTERO DEI TRASPORTI
+
+E DELLA NAVIGAZIONE
+
+Documenti da allegare alla domanda di iscrizione
+
+all'elenco nazionale dei veicoli d'epoca
+
+1) Copia autenticata del titolo di proprieta' del veicolo, che puo' essere rappresentato da:
+
+a) sentenza;
+
+b) atto pubblico;
+
+c) scrittura privata con sottoscrizione autenticata delle parti o accertata giudizialmente;
+
+d) dichiarazione autenticata del richiedente l'iscrizione (nei casi di veicoli ricostruiti o provenienti dall'estero e in assenza del titolo di proprieta') la quale dia atto della sua titolarita' e che contestualmente dichiari che il veicolo non e' iscritto al P.R.A.
+
+2) Certificazione di origine dell'autoveicolo o del motoveicolo che ne attesti la provenienza. Quale certificazione di origine puo' essere assunto anche il documento di circolazione, provvisorio o definitivo, oppure il certificato di avvenuta radiazione o cancellazione o esportazione definitiva (se trattasi di veicolo proveniente dall'estero) ovvero una denuncia (vistata dalla competente autorita' cui e' stata presentata) di smarrimento o distruzione del certificato d'origine o del documento di circolazione.
+
+3) Tre fotografie a colori del veicolo (fronte, lato, retro) formato min. 10 x 15.
+
+4) Documentazione da cui risultino le caratteristiche tecniche del veicolo.
