@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2195/A/1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2195/A/1.100"/>
+					<an:FRBRdate date="2004-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2195/A/1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@"/>
+					<an:FRBRdate date="2004-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@.akn"/>
+					<an:FRBRdate date="2004-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-06-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-06-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2195/A/1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2195" showAs="DDL 2195"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3834" showAs="Fassone"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3851" showAs="Maconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/4377" showAs="Chiusoli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3905" showAs="Calvi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/116" showAs="Ayala"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2195</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fassone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Maconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Chiusoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Calvi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Ayala</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire gli articoli 1, 2 e 3 con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «Art. 1. - 
+					<an:i>1.</an:i>
+					 Al regio decreto 16 marzo 1942, n. 267, e successive modificazioni, sono apportate le seguenti modifiche:
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 al comma primo, numero 1) dell'articolo 67, dopo le parole "anteriori alla dichiarazione di fallimento, in cui" sono aggiunte le parole "al momento della relativa conclusione";
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 dopo il comma secondo dell'articolo 67 sono aggiunti i seguenti commi:
+				</an:p>
+				<an:p align="justify">
+					        "Si applicano le disposizioni di cui all'articolo 2775-
+					<an:i>ter</an:i>
+					, secondo comma, del codice civile, anche se l'acquirente conosceva lo stato di insolvenza del debitore.
+				</an:p>
+				<an:p align="justify">
+					        L'azione revocatoria non è esercitatile qualora gli importi imponibili degli atti a titolo oneroso di cui all'articolo 2645-
+					<an:i>bis</an:i>
+					 del codice civile risultino coerenti con gli indici del conto di costruzione dei fabbricati residenziali pubblicati dall'ISTAT".
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>c)</an:i>
+					 il comma quinto dell'articolo 72 è sostituito dal seguente:
+				</an:p>
+				<an:p align="justify">
+					        "Qualora l'immobile sia stato oggetto di preliminare di vendita trascritto ai sensi dell'articolo 2645-
+					<an:i>bis</an:i>
+					 del codice civile, il promissario acquirente ha la scelta tra il chiedere l'esecuzione o lo scioglimento del contratto. Qualora egli scelga l'esecuzione del contratto, questa non comporta, a carico del curatore del fallimento, altra prestazione che quella di consegnare la parte esistente dell'immobile. Qualora il promissario acquirente scelga lo scioglimento del contratto, egli ha diritto di fare valere il proprio credito nel passivo, senza ulteriori risarcimenti, e gode del privilegio di cui all'articolo 2775-
+					<an:i>bis</an:i>
+					 del codice civile, a condizione che gli effetti della trascrizione del contratto preliminare non siano cessati anteriormente alla data della dichiarazione del fallimento. Si applicano le disposizioni contenute nell'articolo 2775-
+					<an:i>ter</an:i>
+					 del codice civile"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
