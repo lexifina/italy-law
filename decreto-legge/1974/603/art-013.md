@@ -1,0 +1,3 @@
+Art. 13.
+
+DECRETO DECADUTO
