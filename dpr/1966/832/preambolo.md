@@ -1,0 +1,21 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il regio decreto 23 marzo 1933, n. 185, che approva il regolamento per il personale degli uffici dipendenti dal Ministero delle finanze e per l'ordinamento degli Uffici direttivi finanziari e successive modificazioni ed integrazioni;
+
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con il decreto del Presidente della Repubblica 10 gennaio 1957, n. 3;
+
+Visto il decreto del Presidente della Repubblica 3 maggio 1957, n. 686, che contiene le norme di esecuzione del citato testo unico 10 gennaio 1957, n. 3;
+
+Visto il decreto del Presidente della Repubblica 28 settembre 1959, n. 1340, concernente le norme per i concorsi di ammissione e di promozione nelle carriere dell'Amministrazione finanziaria;
+
+Vista la legge 15 giugno 1965, n. 703, riguardante la istituzione dei ruoli organici del personale per i servizi meccanografici del Ministero delle finanze;
+
+Ritenuta la necessita' di norme integrative per i concorsi di ammissione e di promozione nei ruoli organici del personale di cui alla legge 15 giugno 1965, n. 703;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze; Decreta:
