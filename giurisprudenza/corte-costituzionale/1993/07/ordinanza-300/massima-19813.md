@@ -1,0 +1,23 @@
+# Massima n. 19813
+
+- Pronuncia: Corte costituzionale, ordinanza 300/1993 (ECLI:IT:COST:1993:300)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:300
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   300/93.   MATRIMONIO - DIVORZIO - DIRITTI DELL'EX  CONIUGE NON  PASSATO  A  NUOVE NOZZE E TITOLARE DI  ASSEGNO  DIVORZILE  - SPETTANZA  DEL 40 PER CENTO DELL'INDENNITA' DI FINE RAPPORTO  PER LA  PARTE  RIFERIBILE AGLI ANNI IN CUI IL RAPPORTO DI  LAVORO  E' COINCISO  CON IL MATRIMONIO - ASSERITA IRRAZIONALE  PARIFICAZIONE DI  SITUAZIONI DIVERSE PER IL COMPUTO NELLA DURATA DEL MATRIMONIO ANCHE  DEL PERIODO DI SEPARAZIONE, PRESCIDENDO DALLA DURATA DELLO STESSO,   E  PER  LA   MANCATA  CONSIDERAZIONE  DELLE  CONDIZIONI PERSONALI ED ECONOMICHE DEI CONIUGI DIVORZIATI, DELLE RAGIONI DEL FALLIMENTO  DEL MATRIMONIO, DELLA MISURA DELL'ASSEGNO  DIVORZILE, ETC.  - QUESTIONE GIA' DECISA - MANIFESTA INFONDATEZZA.
+
+## Testo
+
+Questione gia' dichiarata non fondata.  - S. n. 23/1991.
+
+## Norme
+
+- legge, 01/12/1970 n. 898, art. 12 bis
+- legge, 06/03/1987 n. 74, art. 16
+
+## Parametri
+
+- Costituzione, art. 36
+- Costituzione, art. 3
