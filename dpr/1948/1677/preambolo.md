@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto legislativo luogotenenziale 7 giugno 1945, n. 353;
+
+Visto il decreto legislativo del Capo provvisorio dello Stato 5
+
+agosto 1947, n. 1120;
+
+Visto il decreto legislativo del Capo provvisorio dello Stato 26 ottobre 1947, n. 1328;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, di concerto col Ministro per il tesoro; Decreta:
