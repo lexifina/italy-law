@@ -1,0 +1,5 @@
+Il presente regolamento, munito del sigillo dello Stato, sara' pubblicato nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
+
+Roma, 24 ottobre 2000
+
+Il Ministro: Del Turco Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti il 21 novembre 2000 Registro n. 5 Finanze, foglio n. 10
