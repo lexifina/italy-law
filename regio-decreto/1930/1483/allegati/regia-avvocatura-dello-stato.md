@@ -1,0 +1,7 @@
+REGIA AVVOCATURA DELLO STATO
+
+Avvocati dello Stato
+
+(Gruppo A)
+
+Parte di provvedimento in formato grafico
