@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@.akn"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3223-B/A/G1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3223-B" showAs="DDL 3223-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/1641" showAs="Morando"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/415" showAs="Caddeo"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/1908" showAs="Pizzinato"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/17547" showAs="Battaglia"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3223-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Morando</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Caddeo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Pizzinato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">in sede di esame del disegno di legge finanziaria per l'anno 2005,</an:p>
+				<an:p align="justify">preso atto delle modifiche apportate dalla Camera dei deputati al comma 98 della legge finanziaria,</an:p>
+				<an:p align="justify">impegna il Governo, ai fini del concorso delle autonomie regionali e locali, al rispetto degli obiettivi fissati dal Patto di stabilità e crescita che lega i paesi aderenti all'Unione monetaria europea, entro il 31 marzo 2005, previo accordo tra Governo, Regioni e autonomie locali da concludere in sede di Conferenza unificata, con decreto del Presidente del Consiglio dei ministri, a fissare obiettivi e parametri del Patto di stabilità interno, recante in particolare i limiti per l'evoluzione della spesa corrente primaria delle amministrazioni regionali e degli enti locali di cui all'articolo 2, commi 1 e 2, del decreto legislativo 18 agosto 2000, n. 267, e successive modificazioni e degli enti del Servizio sanitario nazionale. I predetti limiti sono fissati in modo tale da garantire, per le Regioni e le autonomie locali, la realizzazione di economie di spesa lorde pari a quelle previste dal comma 98 della legge finanziaria</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
