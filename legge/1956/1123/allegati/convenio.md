@@ -1,0 +1,3 @@
+Convenio comercial y financiero entre la Republica Argentina y la Republica italiana
+
+Parte di provvedimento in formato grafico
