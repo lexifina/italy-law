@@ -1,0 +1,7 @@
+TABELLA DI ASSEGNAZIONE DEL NUMERO DEI SEGGI AI COLLEGI PER LA ELEZIONE DELLA CAMERA DEI DEPUTATI
+
+Parte di provvedimento in formato grafico
+
+Visto, il Ministro dell'interno
+
+SCALFARO
