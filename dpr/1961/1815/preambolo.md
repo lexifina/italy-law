@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visto, per la provincia di Perugia, l'accordo collettivo novembre 1958, per i lavoratori addetti ai frantoi oleari, stipulato tra l'Associazione Provinciale Frantoiani, l'Associazione Industriali, l'Unione Provinciale Agricoltori e l'Unione Sindacale Provinciale - C.I.S.L. -, la Camera Confederale del Lavoro - C.G.I.L. -, Unione italiana del Lavoro; e, in data 20 novembre 1958, tra l'Unione Provinciale Agricoltori, l'Associazione Industriali e l'Unione Provinciale - C.I.S.N.A.L. -;
+
+Vista la pubblicazione nell'apposito Bollettino, n. 10 alla provincia di Perugia, in data 5 aprile 1961, dell'accordo sopra indicato, depositato presso il Ministero il lavoro e della previdenza sociale, che ne ha accertato autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
