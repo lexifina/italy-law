@@ -1,0 +1,3 @@
+Accordo
+
+Parte di provvedimento in formato grafico
