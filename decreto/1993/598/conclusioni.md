@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Roma, 29 dicembre 1993
+
+Il Ministro delle finanze GALLO Il Ministro del tesoro BARUCCI Il Ministro dell'interno MANCINO Il Ministro del commercio con l'estero BARATTA Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 16 febbraio 1994 Registro n. 1 Finanze, foglio n. 172 ------------------ AGGIORNAMENTO (1) Il Decreto 5 maggio 1995, n. 217 ha disposto (con l'art. 1, comma 1) che "Il termine fissato dall'art. 2, comma 3, del regolamento recante norme sulle modalita' di comunicazione dei dati all'anagrafe tributaria da parte degli intermediari che effettuano taluni trasferimenti da e per l'estero di denaro, titoli e valori, adottato con decreto del Ministro delle finanze 29 dicembre 1993, n. 598, pubblicato nella Gazzetta Ufficiale n. 52 del 4 marzo 1994, e' prorogato al quindicesimo giorno successivo alla data di entrata in vigore del presente decreto."
