@@ -1,0 +1,24 @@
+# Massima n. 20030
+
+- Pronuncia: Corte costituzionale, sentenza 410/1993 (ECLI:IT:COST:1993:410)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:410
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   410/93.   ORDINAMENTO  PENITENZIARIO   -  CONDANNATI  PER DETERMINATI  REATI - FACOLTA' DELL'AMMINISTRAZIONE  PENITENZIARIA DI ADOTTARE, IN BASE ALL'ART.  41 BIS, LEGGE N.  354 DEL 1975, UN REGIME   CARCERARIO   PARTICOLARMENTE   RESTRITTIVO  -   RITENUTA IMPOSSIBILITA',   PER  IL  DETENUTO,  DI  IMPUGNARE  I   RELATIVI PROVVEDIMENTI  - CONSEGUENTE DENUNCIATA DISPARITA' DI  DISCIPLINA RISPETTO  AI PROVVEDIMENTI, CONTESTABILI DAVANTI AL MAGISTRATO DI SORVEGLIANZA, CHE DISPONGONO LA SORVEGLIANZA PARTICOLARE PREVISTA DALL'ART.   14 TER STESSA LEGGE, CON VIOLAZIONE DEL DIRITTO  ALLA TUTELA  GIURISDIZIONALE  VERSO  GLI  ATTI   DELLA  P.A.   -   NON CONDIVISIBILITA'  DELLA PREMESSA INTERPRETATIVA, NON ADERENTE  AL DETTATO  COSTITUZIONALE,  DA CUI MUOVE IL GIUDICE 'A QUO'  -  NON FONDATEZZA DELLA QUESTIONE NEI SENSI DI CUI IN MOTIVAZIONE.
+
+## Testo
+
+Posto  che  -  come la Corte ha gia' largamente  chiarito  -  nei confronti  dell'Amministrazione penitenziaria i detenuti  restano titolari di posizioni giuridiche che per la loro stretta inerenza alla  persona  umana sono qualificabili come  diritti  soggettivi costituzionalmente    garantiti,      occorre    conseguentemente riconoscere  che  la tutela giurisdizionale di  dette  posizioni, costituzionalmente  necessaria  ai  sensi   dell'art.   24  della Costituzione,  non  puo'  che spettare al giudice dei  diritti  e cioe'  al  giudice  ordinario.   Nell'attuale  quadro  normativo, pertanto,   la  competenza  a   sindacare  la  legittimita'   dei provvedimenti  adottati  dall'Amministrazione   penitenziaria  ai sensi  dell'art.   41  bis  dell'ordinamento  penitenziario  deve riconoscersi  a  quello  stesso  organo  giurisdizionale  cui  e' demandato il controllo sull'applicazione, da parte della medesima Amministrazione, del regime di sorveglianza particolare, ai sensi dell'art.   14  ter  dello  stesso  ordinamento.   E'  quindi  da escludersi  che,  per l'assenza di disposizioni espresse  in  tal senso,  il  detenuto - come ritenuto dal giudice 'a quo' -  resti privo  di tutela giurisdizionale.  (Non fondatezza, nei sensi  di cui   in   motivazione,    della    questione   di   legittimita' costituzionale,  in riferimento agli artt.  3, 24, primo comma, e 113,  primo  e secondo comma, Cost., dell'art.  41  bis,  secondo comma, della legge 26 luglio 1975, n.  354).  -  Sul  punto,  nello  stesso senso, anche  se  solo  'incidenter tantum',  sent.   n.  349/1993;  sul fondamento e la  natura  dei diritti  dei  detenuti verso l'amministrazione  penitenziaria  v. ancora sent.  n.  349/1993.
+
+## Norme
+
+- legge, 26/07/1975 n. 354, art. 41 bis, comma 2
+
+## Parametri
+
+- Costituzione, art. 113, comma 2
+- Costituzione, art. 113, comma 1
+- Costituzione, art. 3
+- Costituzione, art. 24, comma 1
