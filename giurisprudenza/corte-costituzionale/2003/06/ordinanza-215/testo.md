@@ -1,0 +1,54 @@
+# Corte costituzionale, ordinanza 215/2003
+
+- ECLI: ECLI:IT:COST:2003:215
+- Tipo: ordinanza
+- Presidente: CHIEPPA
+- Relatore: Piero Alberto Capotosti
+- Redattore: Piero Alberto Capotosti
+- Data della decisione: 04/06/2003
+- Data del deposito: 18/06/2003
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 27797
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2003:215
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Riccardo CHIEPPA; Giudici: Gustavo ZAGREBELSKY, Valerio ONIDA, Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Ugo DE SIERVO, Romano VACCARELLA, Alfio FINOCCHIARO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 3, comma 2, del decreto legislativo 30 luglio 1999, n. 286 (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attività svolta dalle amministrazioni pubbliche, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59), promosso con ordinanza del 13 maggio 2002 dal Tribunale amministrativo regionale del Lazio sui ricorsi riuniti proposti da Giancarlo Castiglione ed altri contro Corte dei conti ed altri, iscritta al n. 378 del registro ordinanze 2002 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 35, prima serie speciale, dell'anno 2002.
+    Visti gli atti di costituzione di Giancarlo Castiglione ed altra e di Anna Maria Giorgione Imposimato ed altri nonché l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nell'udienza pubblica dell'8 aprile 2003 il Giudice relatore Piero Alberto Capotosti;
+    uditi gli avvocati Mario Sanino per Giancarlo Castiglione ed altra, Stefano Vinti per Anna Maria Giorgione Imposimato ed altri e l'Avvocato dello Stato Ignazio F. Caramazza per il Presidente del Consiglio dei ministri.
+    Ritenuto che il Tribunale amministrativo regionale del Lazio, con ordinanza del 13 maggio 2002, ha sollevato la questione di legittimità costituzionale dell'art. 3, comma 2, del decreto legislativo 30 luglio 1999, n. 286 (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attività svolta dalle amministrazioni pubbliche, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59) in riferimento all'art. 76 della Costituzione;
+    che secondo il Tribunale rimettente la norma in parola - nella parte in cui prevede che «al fine anche di adeguare l'organizzazione delle strutture di controllo della Corte dei conti al sistema dei controlli interni disciplinato dalle disposizioni del presente decreto, il numero, la composizione e la sede degli organi della Corte dei conti adibiti a compiti di controllo preventivo su atti o successivo su pubbliche gestioni e degli organi di supporto sono determinati dalla Corte stessa, anche in deroga a previgenti disposizioni di legge» - sarebbe in contrasto con l'art. 76 della Costituzione per eccesso di delega rispetto alle direttive stabilite nell'art. 11, comma 1 lett. c) della legge 15 marzo 1997, n. 59, recante “Delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della Pubblica Amministrazione e per la semplificazione amministrativa”;
+    che la questione di legittimità costituzionale è stata sollevata nel corso di un giudizio promosso da alcuni magistrati della Corte dei conti per l'annullamento dei provvedimenti con i quali la Corte dei conti - in applicazione dell' art. 3, comma 2, del citato decreto legislativo 30 luglio 1999, n. 286 - ha provveduto alla riorganizzazione della funzione del controllo ed ha adottato i provvedimenti concorsuali per la copertura dei posti, in tal modo sostituendo la struttura organizzativa precedente, attuata in base agli artt. 17 e 22 del regio decreto 12 luglio 1934, n. 1214 (testo unico delle leggi sulla Corte dei conti);
+    che il Tribunale rimettente precisa di avere pronunciato, all'esito della medesima udienza in cui è stata sollevata questione di legittimità costituzionale, sentenza parziale con la quale «ha respinto il primo gruppo di censure» dedotte dai ricorrenti e che, ciononostante, la questione di costituzionalità assumerebbe, comunque, rilievo, poiché, qualora fosse ritenuta fondata, «determinerebbe l'illegittimità derivata dei provvedimenti impugnati»;
+    che, secondo  il giudice a quo,  l'art. 3 del d. lgs. n. 286 del 1999, nel primo comma, avrebbe introdotto una diversa disciplina dei controlli interni, mediante l'abrogazione dell'art. 8 della legge 21 marzo 1958, n. 259 in tema di “Partecipazione della Corte dei conti al controllo sulla gestione finanziaria degli enti a cui lo Stato contribuisce in via ordinaria” e, nel comma 2, avrebbe attribuito alla Corte dei conti il potere di adottare una diversa struttura organizzativa “al fine anche di adeguare l'organizzazione delle strutture di controllo” della Corte medesima “al sistema dei controlli interni disciplinato dalle disposizioni” dello stesso decreto;
+    che, secondo il Tribunale, gli articoli 11 e 17 della legge delega - ai quali avrebbe fatto riferimento la Corte costituzionale per annullare con la sentenza n. 139 del 2001 il comma 1 dell'art. 3 del d. lgs. n. 286 del 1999 - oltre ad escludere ogni riferimento ai controlli sugli enti ai quali lo Stato contribuisce in via ordinaria, riguarderebbero soltanto la riforma dei controlli interni;
+    che, secondo il giudice rimettente, al Governo non sarebbe stata, pertanto, attribuita la delega per introdurre la disposizione di cui all'art. 3, comma 2, del d. lgs. 30 luglio 1999, n. 286 e per conferire alla Corte dei conti il potere di adottare regolamenti diretti a stabilire il « numero, la composizione e la sede degli organi della Corte dei conti adibiti a compiti di controllo preventivo su atti o successivo su pubbliche amministrazioni, anche in deroga a previgenti disposizioni di legge»;
+    che nel giudizio è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la Corte dichiari inammissibile e, comunque, manifestamente infondata la sollevata questione di legittimità costituzionale;
+    che, preliminarmente, la difesa erariale ha eccepito l'irrilevanza della questione, in quanto il Tribunale avrebbe pronunciato, unitamente all'ordinanza con la quale ha sollevato la questione di legittimità costituzionale dell'art. 3, comma 2, del d. lgs. 30 luglio 1999, n. 286, una sentenza parziale che, in applicazione del medesimo art. 3, comma 2, ha respinto le censure formulate dai ricorrenti ai provvedimenti attuativi del regolamento per l'organizzazione delle funzioni della Corte dei conti e ciò avrebbe determinato il venire meno della pregiudizialità della questione di costituzionalità rispetto al giudizio principale;
+    che si sono costituiti, con due distinti atti depositati il 17 settembre 2002 ed il 23 settembre 2002, i ricorrenti nel processo principale, i quali hanno fatto proprie integralmente le argomentazioni svolte dal rimettente ed hanno chiesto che la Corte dichiari l'illegittimità costituzionale della norma impugnata;
+    che, con ulteriore memoria depositata dopo l'atto d'intervento del Presidente del Consiglio dei ministri, le parti private hanno insistito per l'accoglimento delle proprie conclusioni sostenendo l'assoluta infondatezza del difetto di rilevanza eccepito dalla difesa erariale.
+    Considerato che il Tribunale amministrativo regionale del Lazio ha sollevato la questione di legittimità costituzionale dell'art. 3, comma 2, del decreto legislativo 30 luglio 1999, n. 286, in riferimento all'art. 76 della Costituzione, dichiarando, in particolare, che non “spettasse al Governo adottare l'art. 3, comma 2, del d. lgs. 30 luglio 1999, n. 286, e conferire alla Corte dei conti un potere regolamentare concernente il numero, la composizione e la sede degli organi della Corte dei conti adibiti a compiti di controllo preventivo su atti o successivo su pubbliche amministrazioni, anche in deroga a previgenti disposizioni di legge, al fine di definire e ampliare il potere di organizzazione di cui la Corte dispone ai sensi dell'art. 4 della legge n. 20 del 1994”;
+    che lo stesso giudice rimettente pur precisando di avere respinto, con sentenza parziale, i motivi di ricorso esaminati, riservando invece le censure «di illegittimità derivata (…) all'esito della pronuncia della Corte costituzionale», tuttavia nella stessa sentenza parziale ha motivato il rigetto, facendo esplicito riferimento, tra l'altro, al “nuovo disegno organizzativo” contenuto nel regolamento, che appunto “traeva la sua legittimazione” nel citato d. lgs. 30 luglio 1999, n. 286;
+    che il carattere incidentale del giudizio di costituzionalità non consente di sollevare la questione di legittimità dopo la decisione del merito della causa, quando il suo oggetto comporti la necessaria applicazione della disposizione censurata;
+    che la questione è, dunque, irrilevante per difetto di pregiudizialità, in quanto il giudice amministrativo, pronunziando nel corso dello stesso giudizio la sentenza parziale con la quale proprio in applicazione della norma denunciata ha respinto le censure proposte con il ricorso, ha esaurito la propria cognizione e si è precluso la possibilità “di sollevare l'eccezione di legittimità costituzionale” (ordinanza n. 264 del 1998, sentenze n. 315 del 1992; n.116 del 1992; n. 242 del 1990), sicché essa va dichiarata manifestamente inammissibile.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 3, comma 2, del decreto legislativo 30 luglio 1999, n. 286 (Riordino e potenziamento dei meccanismi e strumenti di monitoraggio e valutazione dei costi, dei rendimenti e dei risultati dell'attività svolta dalle amministrazioni pubbliche, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59) sollevata, in riferimento all'art. 76 della Costituzione, dal Tribunale amministrativo regionale del Lazio con l'ordinanza indicata in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 4 giugno 2003.
+    F.to:
+    Riccardo CHIEPPA, Presidente
+    Piero Alberto CAPOTOSTI, Redattore
+    Giuseppe DI PAOLA, Cancelliere
+    Depositata in Cancelleria il 18 giugno 2003.
+    Il Direttore della Cancelleria
+    F.to: DI PAOLA
