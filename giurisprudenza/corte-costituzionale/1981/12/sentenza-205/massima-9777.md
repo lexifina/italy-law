@@ -1,0 +1,26 @@
+# Massima n. 9777
+
+- Pronuncia: Corte costituzionale, sentenza 205/1981 (ECLI:IT:COST:1981:205)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1981:205
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   205/81  A.   APPALTO - DISCIPLINA  DELL'IMPIEGO  DI  MANO D'OPERA  NEGLI  APPALTI CONCESSI DALLA FERROVIE, DAI MONOPOLI  DI STATO  E DALLE POSTE - ESCLUSIONE DELLA RESPONSABILITA' IN SOLIDO DELLE  AMMINISTRAZIONI APPALTANTI (PREVISTA DALL'ART.  3 DELLA L. N.   1369  DEL 1960) IN ORDINE ALLA RETRIBUZIONE  DEI  DIPENDENTI ASSUNTI  DAGLI APPALTATORI - PRETESO ECCESSO DI DELEGA  (RISPETTO ALL'ART.   8 DELLA L.  N.  1369 DEL 1960) - PRETESO CONTRASTO CON ARTT.   3, 4, 35, COMMA 1^ E 76 COST.  PER LA DISCRIMINAZIONE  DI TRATTAMENTO  DEI LAVORATORI SUBORDINATI LEGATI AD APPALTI DI MANO D'OPERA  CONFERITI DALLA PREDETTE AMMINISTRAZIONI AUTONOME  DELLO STATO  -  CARENZA  DI  FORZA  DI  LEGGE  DELLE  NORME  DENUNCIATE (ESSENDOSI  CONFERITA  CON  L'ART.   8 DELLA L.   N.   1369  CIT. POTESTA'  REGOLAMENTARE  E NON GIA' DELEGAZIONE AD EMANARE  NORME CON   FORZA   DI  LEGGE)  -  INAMMISSIBILITa`   DELLA   QUESTIONE INCIDENTALE DI LEGITTIMITA' COSTITUZIONALE.
+
+## Testo
+
+La  disciplina  degli appalti di mano d'opera dettata dal  d.P.R. n.  1192 del 1961 emanato, secondo il giudice a quo, in base alla delegazione  contenuta nell'art.  8 della l.  n.  1369 del  1960, la  quale  imponeva di tener conto delle esigenze tecniche  delle amministrazioni  appaltanti ma non comportava la possibilita`  di esentare  da  responsabilita`  le  amministrazioni  medesime,  in solido  con gli appaltatori, per il pagamento delle retribuzioni, determinerebbe,  da un lato, un eccesso di delega e,  dall'altro, un'ingiustificata  discriminazione  di trattamento in  dipendenza della   qualita`   dell'appaltante  a  sfavore   dei   lavoratori subordinati  considerati.  Ma le norme denunciate hanno carattere regolamentare  e sono prive di forza di legge  (Innammissibilita` della  questione  di  legittimita` del combinato  disposto  degli artt.   2  comma  1^  e  3 d.P.R.   22  novembre  1961  n.   1192 sollevata,  in relazione agli artt.  3, 4, 35 comma 1^ Cost., con ordinanza 24 giugno 1975 del Pretore di Torino.
+
+## Norme
+
+- decreto del Presidente della Repubblica, 22/11/1961 n. 1192, art. 3
+- legge, 23/10/1960 n. 1369, art. 8
+- decreto del Presidente della Repubblica, 22/11/1961 n. 1192, art. 2, comma 1
+
+## Parametri
+
+- Costituzione, art. 4
+- Costituzione, art. 3
+- Costituzione, art. 76
+- Costituzione, art. 35, comma 1
