@@ -1,0 +1,7 @@
+LEGGE
+
+26 luglio 1978
+
+572
+
+Ratifica ed esecuzione dello scambio di note tra la Repubblica italiana e la Repubblica federativa di Jugoslavia, effettuato in Belgrado il 28 e 29 dicembre 1976, relativo alla proroga, fino al 31 dicembre 1977, dell'accordo relativo alla pesca, firmato dai due Stati il 15 ottobre 1973.
