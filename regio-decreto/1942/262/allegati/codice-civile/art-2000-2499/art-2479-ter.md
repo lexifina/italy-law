@@ -6,6 +6,6 @@ Le decisioni dei soci che non sono prese in conformita' della legge o dell'atto 
 
 Qualora possano recare danno alla societa', sono impugnabili a norma del precedente comma le decisioni assunte con la partecipazione determinante di soci che hanno, per conto proprio o di terzi, un interesse in conflitto con quello della societa'.
 
-Le decisioni aventi oggetto illecito o impossibile e quelle prese in assenza assoluta di informazione possono essere impugnate da chiunque vi abbia interesse entro tre anni dalla trascrizione indicata nel primo periodo del secondo comma. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' impossibili o illecite.
+Le decisioni aventi oggetto illecito o impossibile e quelle prese in assenza assoluta di informazione possono essere impugnate da chiunque vi abbia interesse entro tre anni dalla trascrizione indicata nel primo periodo del ((primo)) comma. Possono essere impugnate senza limiti di tempo le deliberazioni che modificano l'oggetto sociale prevedendo attivita' impossibili o illecite.
 
-Si applicano, in quanto compatibili, gli articoli 2377, ((primo, quinto, settimo, ottavo e nono comma,)) 2378, 2379-bis, 2379-ter e 2434-bis.
+Si applicano, in quanto compatibili, gli articoli 2377, primo, quinto, settimo, ottavo e nono comma, 2378, 2379-bis, 2379-ter e 2434-bis.

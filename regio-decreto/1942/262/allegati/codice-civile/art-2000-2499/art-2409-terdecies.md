@@ -16,7 +16,7 @@ e) presenta la denunzia al tribunale di cui all'articolo 2409;
 
 f) riferisce per iscritto almeno una volta all'anno all'assemblea sull'attivita' di vigilanza svolta, sulle omissioni e sui fatti censurabili rilevati.
 
-((f-bis) se previsto dallo statuto, delibera in ordine ai piani strategici, industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti.))
+f-bis) se previsto dallo statuto, delibera in ordine ((alle operazioni strategiche e ai piani)), industriali e finanziari della societa' predisposti dal consiglio di gestione, ferma in ogni caso la responsabilita' di questo per gli atti compiuti.
 
 Lo statuto puo' prevedere che in caso di mancata approvazione del bilancio o qualora lo richieda almeno un terzo dei componenti del consiglio di gestione o del consiglio di sorveglianza la competenza per l'approvazione del bilancio di esercizio sia attribuita all'assemblea.
 
