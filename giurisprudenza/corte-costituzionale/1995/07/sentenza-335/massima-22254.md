@@ -1,0 +1,22 @@
+# Massima n. 22254
+
+- Pronuncia: Corte costituzionale, sentenza 335/1995 (ECLI:IT:COST:1995:335)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1995:335
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   335/95.   REGIONE  SICILIA - CONVENZIONI,  TRA  ASSESSORE REGIONALE  ALL'AGRICOLTURA  E  FORESTE  ED  ISTITUTI  DI  DIRITTO PUBBLICO, DI IMPORTO INFERIORE AL MILIARDO DI LIRE, POI ELEVATO A SEI  MILIARDI  - SOTTRAZIONE, CON LEGGE REGIONALE, AL PARERE  DEL CONSIGLIO DI GIUSTIZIA AMMINISTRATIVA - ASSERITO CONTRASTO CON LA REGOLA  GENERALE,  NEL  SENSO DELLA NECESSITA' DEL  PARERE, POSTA DALL'ART.   23 DELLO STATUTO SPECIALE PER LA REGIONE SICILIANA  E DALLA  NORMATIVA  DI  ATTUAZIONE  -  QUESTIONE  DI   LEGITTIMITA' COSTITUZIONALE  SOLLEVATA  DALLA  CORTE DEI CONTI  -  SEZIONE  DI CONTROLLO  PER LA REGIONE SICILIA, NELL'ESERCIZIO DELLA  FUNZIONE DI  CONTROLLO  SUCCESSIVO  EX  ART.  3, QUARTO  COMMA,  LEGGE  14 GENNAIO  1994,  N.   20,  SULLA   GESTIONE  DEL  BILANCIO  E  DEL PATRIMONIO   DELLE  AMMINISTRAZIONI  PUBBLICHE   -   DIFETTO   DI LEGITTIMAZIONE   DELL'AUTORITA'  RIMETTENTE,   NON  AVENDO   TALE FUNZIONE CARATTERE GIURISDIZIONALE - INAMMISSIBILITA'.
+
+## Testo
+
+Mentre  il  controllo preventivo di legittimita' sugli  atti  del Governo  esercitato  dalla Sezione di controllo della  Corte  dei conti  - pur non essendo il procedimento che si svolge dinanzi ad essa un giudizio in senso tecnico-processuale - ha, come e' stato riconosciuto  dalla Corte costituzionale, natura di "giudizio" ai limitati  fini  della  l.   cost.   9 febbraio  1948,  n.   1,  e dell'art.   23  della l.  11 marzo 1953, n.  87, sia  perche'  la funzione  volta  in  quella  sede dalla  Corte  e'  analoga  alla funzione  giurisdizionale, piuttosto che a quella amministrativa, risolvendosi  nel valutare la conformita' di atti alle norme  del diritto  oggettivo, con esclusione di qualsiasi apprezzamento che non  sia  di  ordine  strettamente  giuridico,  sia  perche'  sul procedimento   ricorrono   elementi,   formali   e   sostanziali, riconducibili   alla  figura  del   contraddittorio,   e   quindi assimilabili    ai    caratteri     propri    del    procedimento giurisdizionale,  il  controllo  successivo  sulla  gestione  del bilancio  e  del  patrimonio   delle  amministrazioni   pubbliche esercitato  dalla Corte dei conti ex art.  3, quarto comma, della l.   14  gennaio  1994, n.  20, eseguito non gia' in  rapporto  a parametri  di  stretta legalita', ma in riferimento ai  risultati effettivamente  raggiunti  collegati agli obbiettivi  programmati nelle  leggi  e  nel  bilancio, ed avente  come  fine  ultimo  di favorire    una    maggiore     funzionalita'   nella    pubblica amministrazione  attraverso  la   valutazione  complessiva  della economicita'-efficienza     dell'azione       amministrativa    e dell'efficienza  dei  servizi erogati, non e' tale da  connotarsi come  controllo  assimilabile  alla funzione  giurisdizionale,  e cioe'   preordinato  alla  tutela   del  diritto  oggettivo   con "esclusione  di  qualsiasi  apprezzamento che non sia  di  ordine strettamente   giuridico",  di  talche'  la  Corte   dei   conti, nell'esercizio   di  tale  forma  di   controllo  e'   priva   di legittimazione    a   sollevare     questioni   incidentali    di costituzionalita'.    (Inammissibilita'   della    questione   di legittimita'  costituzionale,  in riferimento all'art.  23  dello Statuto della Regione siciliana ed all'art.  4, secondo comma, dl d.lgs.   6  maggio 1948, n.  654, dell'art.  10 della  l.   della Regione siciliana 25 ottobre 1975, n.  70).  -  Sulla  legittimazione  della  Corte   dei  conti  a  sollevare questione  di  legittimita'   costituzionale  nell'esercizio  del controllo  preventivo di legittimita' sugli atti del Governo,  v. sent.  n.  226 del 1976;  sulla esclusione di tale legittimazione della  Corte  in sede di controllo successivo sulla gestione  del bilancio e del patrimonio delle amministrazioni pubbliche, v.  S. n.  29/1995.                                                 red.: A.G.                                                rev.: S.P.
+
+## Norme
+
+- legge della Regione siciliana, 25/10/1975 n. 70, art. 10
+
+## Parametri
+
+- statuto regione Sicilia, art. 23
+- decreto legislativo, 06/05/1948 n. 654, art. 4, comma 2
