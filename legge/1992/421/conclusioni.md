@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 23 ottobre 1992
+
+SCALFARO AMATO, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: MARTELLI --------------- AGGIORNAMENTO (2) Il D.L. 27 agosto 1994, n. 515 convertito con modificazioni dalla L. 28 ottobre 1994, n. 596 ha disposto (con l'art. 5, comma 1) che "Il termine relativo all'applicazione progressiva della contabilita' economica, previsto dalla lettera b), comma 2, dell'articolo 4 della legge 23 ottobre 1992, n. 421, e' prorogato al 1 gennaio 1996." ----------------- AGGIORNAMENTO (3) La L. 20 dicembre 1995, n. 539 ha disposto (con l'art. 1, comma 3) che "Il termine per emanare disposizioni correttive al decreto legislativo 25 febbraio 1995, n. 77, emanato ai sensi dell'articolo 4 della legge 23 ottobre 1992, n. 421, e nel rispetto dei principi e dei criteri ivi stabiliti, e' prorogato al 30 giugno 1996."
