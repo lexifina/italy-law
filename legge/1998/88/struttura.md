@@ -1,0 +1,11 @@
+- Capo I RESTITUZIONE DEI BENI CULTURALI USCITI ILLECITAMENTE DAL TERRITORIO DI UNO STATO MEMBRO DELL'UNIONE EUROPEA E RECEPIMENTO DELLA DIRETTIVA 93/7/CEE DEL CONSIGLIO, DEL 15 MARZO 1993 Sezione I Restituzione dei beni culturali usciti illecitamente da uno Stato membro dell'Unione europea (Art. 1.)
+
+- Sezione II Azione di restituzione dei beni culturali usciti illecitamente dall'Italia (Art. 9.)
+
+- Capo II NORME DI ESECUZIONE DEL REGOLAMENTO CEE (Art. 11.)
+
+- Capo III NORME ATTUATIVE COMUNI - BANCA DATI DEI BENI CULTURALI ILLECITAMENTE SOTTRATTI (Art. 14.)
+
+- Capo IV MODIFICAZIONI ALLA LEGGE N. 1089 (Art. 17.)
+
+- Capo V NORME FINALI (Art. 25.)
