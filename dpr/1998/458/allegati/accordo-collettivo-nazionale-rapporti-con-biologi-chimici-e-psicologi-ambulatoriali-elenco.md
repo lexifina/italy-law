@@ -1,0 +1,47 @@
+ELENCO DELLE PARTI FIRMATARIE DELL'ACCORDO COLLETTIVO NAZIONALE PER LA REGOLAMENTAZIONE DEI RAPPORTI CON I BIOLOGI, I CHIMICI E GLI PSICOLOGI AMBULATORIALI:
+
+Regione Abruzo: DEL COLLE
+
+Regione Emilia-Romagna: BISSONI
+
+Regione Lazio: COSENTINO
+
+Regione Lombardia: BORSANI
+
+Regione Marche: MASCIONI
+
+Regione Piemonte: D'AMBROSIO
+
+Regione Sicilia: PAGANO
+
+Regione Toscana: MARTINI
+
+Regione Umbria: DI BARTOLO
+
+Regione Veneto: BRAGHETTO
+
+Regione Campania: CALABRO'
+
+S.N.U.B.C.I.: VITALE
+
+S.N.A.B.I.L.P.: LANDI
+
+F.I.O.S.P. - S.N.U.B.A.L.P.: MARINO
+
+IACOPONI
+
+U.Sin.C.I.: RAMPINO
+
+A.U.P.I.: MOSCARA
+
+SARDI
+
+S.I.C.U.S.: TIRONE
+
+S.I.Chi.L.P.: RIBEZZO
+
+FP C.G.I.L.: DI BERTO
+
+U.I.L.: RODOLICO
+
+C.I.S.L: TONELLI
