@@ -1,0 +1,17 @@
+# Massima n. 20304
+
+- Pronuncia: Corte costituzionale, sentenza 512/1993 (ECLI:IT:COST:1993:512)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:512
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   512/93  A.  LAVORO (RAPPORTO DI) - TUTELA DEI  LAVORATORI SUBORDINATI  IN  CASO  DI  INSOLVENZA  DEL  DATORE  DI  LAVORO  - ATTUAZIONE, IN DECRETO LEGISLATIVO, IN BASE A DELEGA CONFERITA DA LEGGE  COMUNITARIA, DELLA DIRETTIVA CEE N.  987 DEL 1980 - AZIONE DI  RISARCIMENTO,  PER  LA MANCATA ATTUAZIONE, ENTRO  IL  TERMINE STABILITO,  DA  PARTE DELLO STATO ITALIANO, DI TALE DIRETTIVA,  A FAVORE  DEI  LAVORATORI  DIPENDENTI  DA  IMPRESE  ASSOGGETTATE  A PROCEDURA  CONCORSUALE  O AD AMMINISTRAZIONE STRAORDINARIA  PRIMA DELL'ENTRATA  IN  VIGORE  DEL DECRETO  LEGISLATIVO  -  NECESSARIA INTERPRETAZIONE  DELLA  NORMA  NEL SENSO  CHE  LA  LEGITTIMAZIONE PASSIVA  SPETTI,  IN  QUANTO  GESTORE   DEL  FONDO  DI  GARANZIA, ALL'I.N.P.S.  - FONDAMENTO.
+
+## Testo
+
+Nell'ambito  della  disciplina  adottata,   in  attuazione  della direttiva  comunitaria n.  987 del 1980 in materia di tutela  dei lavoratori  subordinati  in  caso  di insolvenza  del  datore  di lavoro, dal d.lgs.  27 gennaio 1992, n.  80, anche per la pretesa di  indennizzo  riconosciuta  dal comma 7 dell'art.   2,  per  la mancata  tempestiva  attuazione, da parte dello  Stato  italiano, della  suddetta  direttiva, ai lavoratori dipendenti  da  imprese divenute  insolventi  dopo  la scadenza del termine  (23  ottobre 1983) per l'attuazione della suddetta direttiva, e assoggettate a una  procedura  concorsuale  o di  amministrazione  straordinaria anteriormente  alla data di entrata in vigore del citato decreto, deve  ritenersi  voluto  dalla legge l'intervento  del  Fondo  di garanzia istituito presso l'I.N.P.S.  dalla legge 29 maggio 1982, n.   297.   Di conseguenza, anche in tali ipotesi,  l'azione  dei lavoratori  va  proposta  nei   confronti  dell'I.N.P.S..    Tale interpretazione,  cui non vale opporre che l'intervento del Fondo di  garanzia e' espressamente previsto, dal comma 6 dello  stesso art.   2,  solo  per il diritto - che peraltro, a  differenza  di quello  contemplato dal comma 7, non ha natura risarcitoria ma di credito di lavoro - riconosciuto ai lavoratori nei casi in cui le procedure  concorsuali  o di amministrazione  straordinaria  sono intervenute successivamente alla entrata in vigore del decreto n. 80,  trova  sicuro  fondamento  - a  parte  la  indicazione,  non decisiva  ma  pur  sempre  orientativa,  che  puo'  trarsi  dalla collocazione  del suddetto comma 7, nel corpo dell'art.  2, sotto il titolo "intervento del Fondo di garanzia" - non solo nell'art. 48, lett.  g), della legge delega (legge comunitaria per il 1990) 29  dicembre  1990, n.  428, secondo il quale l'attuazione  della direttiva  comunitaria "non dovra' comportare oneri a carico  del bilancio   dello  Stato  e  degli   enti  del  settore   pubblico allargato",   ma   anche  nell'art.   4  dello   stesso   decreto legislativo,  che  pone a carico del Fondo di garanzia gli  oneri derivanti  dall'applicazione dell'intero art.  2, e quindi  anche dall'applicazione del comma 7 del medesimo.  - Nello stesso senso, sul punto, S. n. 285/1993.
+
+## Norme
+
+- decreto legislativo, 27/01/1992 n. 80, art. 2, comma 7
