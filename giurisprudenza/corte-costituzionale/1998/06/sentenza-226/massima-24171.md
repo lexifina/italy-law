@@ -1,0 +1,17 @@
+# Massima n. 24171
+
+- Pronuncia: Corte costituzionale, sentenza 226/1998 (ECLI:IT:COST:1998:226)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:226
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   226/98.  LAVORO E PREVIDENZA (CONTROVERSIE IN MATERIA DI) -  BENEFICI  ACCORDATI  DALLO  STATO  AD  IMPRENDITORI  E  PER  I CAPITOLATI DI APPALTO ATTINENTI ALL'ESECUZIONE DI OPERE PUBBLICHE -  CONTRATTI AVENTI AD OGGETTO LA CONCESSIONE DI PUBBLICI SERVIZI -  INSERZIONE  OBBLIGATORIA  DELLA CLAUSOLA DI  EQUO  TRATTAMENTO DETERMINANTE  L'OBBLIGO  PER  IL BENEFICIARIO  DI  APPLICARE  NEI CONFRONTI  DEI  LAVORATORI DIPENDENTI CONDIZIONI NON INFERIORI  A QUELLE  RISULTANTI  DAI  CONTRATTI COLLETTIVI DELLA  CATEGORIA  E DELLA  ZONA  - MANCATA PREVISIONE - VIOLAZIONE DEL  PRINCIPIO  DI EGUAGLIANZA - ILLEGITTIMITA' COSTITUZIONALE PARZIALE.
+
+## Testo
+
+E'  costituzionalmente  illegittimo,per violazione dell'art.   3, primo  comma  , Cost., l'art.  36 della legge 20 maggio 1970,  n. 300 (Norme sulla tutela della liberta' e dignita' dei lavoratori, della liberta' sindacale e dell'attivita' sindacale nei luoghi di lavoro  e norme sul collocamento), nella parte in cui non prevede che, nelle concessioni di pubblico servizio, deve essere inserita la   clausola   esplicita    determinante    l'obbligo   per   il concessionario di applicare o di fare applicare nei confronti dei lavoratori   dipendenti  condizioni  non   inferiori   a   quelle risultanti  dai contratti collettivi di lavoro della categoria  e della  zona, in quanto - premesso che la norma denunciata dispone l'inserimento  della  predetta  clausola <<nei  provvedimenti  di concessione  di  benefici accordati ai sensi delle vigenti  leggi dello   Stato   a   favore   di   imprenditori   che   esercitano professionalmente   un'attivita'  economica   organizzata  e  nei capitolati   d'appalto   attinenti    all'esecuzione   di   opere pubbliche>>;   e che la 'ratio' dell'art.  36 di cui si tratta e' da rinvenire, secondo la giurisprudenza prevalente, nell'esigenza di  assicurare  uno  standard  minimo  di  tutela  ai  dipendenti coinvolti,  nel  caso  in cui nell'esercizio di  una  determinata attivita'  imprenditoriale intervenga la pubblica amministrazione -  lo  strumento  utilizzato  per la scelta  del  contraente  non introduce,  sotto lo specifico profilo dell'inserzione della c.d. <<clausola  sociale>>,  aspetti   peculiarmente   caratterizzanti l'appalto  di opere rispetto alla concessione di pubblici servizi e,  soprattutto, <<non concorre ad enucleare la precipua  'ratio' dell'art.   36  dello Statuto dei lavoratori, come, tra  l'altro, avvalora  la  circostanza  che  detta  disposizione  accomuna  le ipotesi  degli  appalti di opere pubbliche e quelle dei  benefici finanziari  e  creditizi>>.   Pertanto, la  stesa  'ratio'  della disposizione ed il suo corretto collegamento <<soggettivo>> con i <<lavoratori  subordinati>>  inducono a  ritenere  ingiustificata l'esclusione,  dal  suo  ambito  di  efficacia,  dei   lavoratori dipendenti  da imprese che esercitano un pubblico servizio  sulla base di concessione della pubblica amministrazione.                                                 red.: G. Leo
+
+## Norme
+
+- legge, 20/05/1970 n. 300, art. 36
