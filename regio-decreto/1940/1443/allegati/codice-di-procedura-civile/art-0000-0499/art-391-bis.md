@@ -10,7 +10,7 @@ La pendenza del termine per la revocazione della sentenza della Corte di Cassazi
 
 In caso di impugnazione per revocazione della sentenza della Corte di Cassazione non e' ammessa la sospensione dell'esecuzione della sentenza passata in giudicato, ne' e' sospeso il giudizio di rinvio o il termine per riassumerlo.
 
-(67) ((72))
+(67) (72) ((79))
 
 ---------------
 
@@ -23,3 +23,9 @@ La L. 26 novembre 1990, n. 353, come modificata dalla L. 4 dicembre 1992, n. 477
 AGGIORNAMENTO (72)
 
 La L. 26 novembre 1990, n. 353, come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto (con l'art. 92, comma 1) che "Fatta eccezione per la disposizione di cui all'articolo 1, la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 30 aprile 1995, le disposizioni anteriormente vigenti."
+
+---------------
+
+AGGIORNAMENTO (79)
+
+La Corte Costituzionale, con sentenza 15 - 18 aprile 1996, n. 119 (in G.U. 1a s.s. 24/4/1996, n. 17), ha dichiarato "l'illegittimita' costituzionale dell'art. 391-bis del codice di procedura civile, introdotto con l'art. 67 della legge 26 novembre 1990, n. 353 (Provvedimenti urgenti per il processo civile), nella parte in cui prevede un termine per la proposizione dell'istanza di correzione degli errori materiali delle sentenze della Corte di cassazione".
