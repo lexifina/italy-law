@@ -1,0 +1,7 @@
+Allegato VII
+
+(di cui all'art. 6, lettera b)
+
+Allegato
+
+Parte di provvedimento in formato grafico

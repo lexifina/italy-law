@@ -1,0 +1,5 @@
+Allegato IV (di cui all'art. 3, lettera b)
+
+Allegato A
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,7 @@
+((Allegato XI
+
+(di cui all'art. 9, comma 1, lettera q) ))
+
+Allegato C
+
+Parte di provvedimento in formato grafico
