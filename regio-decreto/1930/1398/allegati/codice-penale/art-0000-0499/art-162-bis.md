@@ -1,8 +1,8 @@
 Art. 162-bis.
 
-(( (Oblazione nelle contravvenzioni punite con pene alternative).))
+(Oblazione nelle contravvenzioni punite con pene alternative).
 
-((Nelle contravvenzioni per le quali la legge stabilisce la pena alternativa dell'arresto o dell'ammenda, il contravventore puo' essere ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla meta' del massimo dell'ammenda stabilita dalla legge per la contravvenzione commessa oltre le spese del procedimento.
+Nelle contravvenzioni per le quali la legge stabilisce la pena alternativa dell'arresto o dell'ammenda, il contravventore puo' essere ammesso a pagare, prima dell'apertura del dibattimento, ovvero prima del decreto di condanna, una somma corrispondente alla meta' del massimo dell'ammenda stabilita dalla legge per la contravvenzione commessa oltre le spese del procedimento.
 
 Con la domanda di oblazione il contravventore deve depositare la somma corrispondente alla meta' del massimo dell'ammenda.
 
@@ -12,4 +12,6 @@ In ogni altro caso il giudice puo' respingere con ordinanza la domanda di oblazi
 
 La domanda puo' essere riproposta sino all'inizio della discussione finale del dibattimento di primo grado.
 
-Il pagamento delle somme indicate nella prima parte del presente articolo estingue il reato)).
+Il pagamento delle somme indicate nella prima parte del presente articolo estingue il reato.
+
+((In caso di modifica dell'originaria imputazione, qualora per questa non fosse possibile l'oblazione, l'imputato e' rimesso in termini per chiedere la medesima, sempre che sia consentita)).
