@@ -2,13 +2,15 @@ Art. 521-bis.
 
 (Modifiche alla composizione del giudice a seguito di nuove contestazioni).
 
+((
+
 1.
 
-Se, in seguito ad una diversa definizione giuridica o alle contestazioni previste dagli articoli 516 comma 1-bis, 517 comma 1-bis e 518, il fatto risulta attribuito alla cognizione del tribunale in composizione collegiale anziche' monocratica, il giudice dispone con ordinanza la trasmissione degli atti al pubblico ministero.
+Se, in seguito ad una diversa definizione giuridica o alle contestazioni previste dagli articoli 516, commi 1-bis e 1-ter, 517, comma 1-bis e 518, il reato risulta tra quelli attribuiti alla cognizione del tribunale per cui e' prevista l'udienza preliminare e questa non si e' tenuta, il giudice dispone con ordinanza la trasmissione degli atti al pubblico ministero)).
 
 2.
 
-L'inosservanza della disposizione prevista dal comma 1 deve essere eccepita, a pena di decadenza, nei motivi di impugnazione. (900) ((90a))
+L'inosservanza della disposizione prevista dal comma 1 deve essere eccepita, a pena di decadenza, nei motivi di impugnazione.(90)(90a)
 
 ---------------
 

@@ -1,14 +1,14 @@
 Art. 33-sexies.
 
-(Inosservanza dichiarata nell'udienza preliminare).
+(( (Inosservanza dichiarata nell'udienza preliminare) ))
+
+((
 
 1.
 
-Se nell'udienza preliminare il giudice ritiene che il reato appartiene alla cognizione del tribunale in composizione monocratica, pronuncia ordinanza e contestuale decreto di citazione a giudizio a norma dell'articolo 555, disponendo la trasmissione degli atti al pubblico ministero.
+Se nell'udienza preliminare il giudice ritiene che per il reato deve procedersi con citazione diretta a giudizio pronuncia, nei casi previsti dall'articolo 550, ordinanza di' trasmissione degli atti al pubblico ministero per l'emissione del decreto di citazione a giudizio a norma dell'articolo 552.
 
-2.
-
-Si applicano le disposizioni previste dagli articolo 424 commi 2 e 3, 557, 558 e 559. (90) ((90a))
+2. Si applicano le disposizioni previste dagli articoli 424, commi 2 e 3, 553 e 554))
 
 ---------------
 

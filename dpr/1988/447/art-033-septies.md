@@ -1,14 +1,18 @@
 Art. 33-septies.
 
-(Inosservanza dichiarata nel dibattimento di primo grado).
+(( (Inosservanza dichiarata nel dibattimento di primo grado) ))
+
+((
 
 1.
 
-Nel dibattimento di primo grado, il collegio, se ritiene che il reato appartiene alla cognizione del giudice monocratico, pronuncia ordinanza e fissa la data dell'udienza davanti a questo; se il giudice monocratico ritiene che il reato appartiene alla cognizione del collegio, dispone con ordinanza la trasmissione degli atti al pubblico ministero.
+Nel dibattimento di primo grado instaurato a seguito dell'udienza preliminare, il giudice, se ritiene che il reato appartiene alla cognizione del tribunale in composizione diversa, trasmette gli atti, con ordinanza, al giudice competente a decidere sul reato contestato.
 
 2.
 
-Si applica la disposizione dell'articolo 486 comma 4. (90) ((90a))
+Fuori dai casi previsti dal comma 1 se il giudice monocratico ritiene che il reato appartiene alla cognizione dei collegio, dispone con ordinanza la trasmissione degli atti al pubblico ministero.
+
+3. Si applica la disposizione dell'articolo 420-ter, comma 4))
 
 ---------------
 

@@ -1,0 +1,27 @@
+Art. 420-ter.
+
+(( (Impedimento a comparire dell'imputato o del difensore) ))
+
+((
+
+1.
+
+Quando l'imputato, anche se detenuto, non si presenta all'udienza e risulta che l'assenza e' dovuta ad assoluta impossibilita' di comparire per caso fortuito, forza maggiore o altro legittimo impedimento, il giudice, con ordinanza, anche d'ufficio, rinvia ad una nuova udienza e dispone che sia rinnovato l'avviso all'imputato, a norma dell'articolo 419, comma 1.
+
+2.
+
+Con le medesime modalita' di cui al comma 1 il giudice provvede quando appare probabile che l'assenza dell'imputato sia dovuta ad assoluta impossibilita' di comparire per caso fortuito o forza maggiore. Tale probabilita' e' liberamente valutata dal giudice e non puo' formare oggetto di discussione successiva ne' motivo di impugnazione.
+
+3.
+
+Quando l'imputato, anche se detenuto, non si presenta alle successive udienze e ricorrono le condizioni previste dal comma 1 il giudice rinvia anche d'ufficio l'udienza, fissa con ordinanza la data della nuova udienza e ne dispone la notificazione all'imputato.
+
+4.
+
+In ogni caso la lettura dell'ordinanza che fissa la nuova udienza sostituisce la citazione e gli avvisi per tutti coloro che sono o devono considerarsi presenti.
+
+5.
+
+Il giudice provvede a norma del comma 1 nel caso di assenza del difensore, quando risulta che l'assenza stessa e' dovuta ad assoluta impossibilita' di comparire per legittimo impedimento, purche' prontamente comunicato. Tale disposizione non si applica se l'imputato e' assistito da due difensori e l'impedimento riguarda uno dei medesimi ovvero quando il difensore impedito ha designato un sostituto o quando l'imputato chiede che si proceda in assenza del difensore impedito.
+
+))
