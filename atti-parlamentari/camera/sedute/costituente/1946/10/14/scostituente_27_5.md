@@ -1,0 +1,11 @@
+# Seduta di lunedì 14 ottobre 1946
+
+- Titolo: Seduta di lunedì 14 ottobre 1946
+- rif_leg: http://dati.camera.it/ocd/legislatura.rdf/costituente
+- rif_organo: http://dati.camera.it/ocd/organo.rdf/o0_624
+- date: 19461014
+- relation: http://www.camera.it/_dati/costituente/lavori/III_Sottocommissione/sed027/sed027.pdf
+- title: Seduta di lunedì 14 ottobre 1946
+- label: Seduta di lunedì 14 ottobre 1946
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/seduta.rdf/scostituente_27_5
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
