@@ -1,8 +1,8 @@
 Art. 2420-bis.
 
-((Obbligazioni convertibili in azioni.))
+Obbligazioni convertibili in azioni.
 
-((L'assemblea straordinaria puo' deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio e il periodo e le modalita' della conversione. La deliberazione non puo' essere adottata se il capitale sociale non sia stato interamente versato.
+L'assemblea straordinaria puo' deliberare l'emissione di obbligazioni convertibili in azioni, determinando il rapporto di cambio e il periodo e le modalita' della conversione. La deliberazione non puo' essere adottata se il capitale sociale non sia stato interamente versato.
 
 Contestualmente la societa' deve deliberare l'aumento del capitale sociale per un ammontare corrispondente al valore nominale delle azioni da attribuire in conversione.
 
@@ -10,13 +10,11 @@ Le obbligazioni convertibili non possono emettersi per somma inferiore al loro v
 
 Nel primo mese di ciascun semestre gli amministratori provvedono all'emissione delle azioni spettanti agli obbligazionisti che hanno chiesto la conversione nel semestre precedente. Entro il mese successivo gli amministratori devono depositare per l'iscrizione nel registro delle imprese un'attestazione dell'aumento del capitale sociale in misura corrispondente al valore nominale delle azioni emesse. Si applica la disposizione del secondo comma dell'articolo 2444.
 
-Fino a quando non siano scaduti i termini fissati per la conversione, la societa' non puo' deliberare ne' la riduzione del capitale esuberante, ne' la modificazione delle disposizioni dell'atto costitutivo concernenti la ripartizione degli utili, ne' la fusione con altra societa' salvo che ai possessori di obbligazioni convertibili sia stata data la facolta', mediante avviso pubblicato nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata almeno tre mesi prima della convocazione dell'assemblea, di esercitare il diritto di conversione nel termine di un mese dalla pubblicazione.
+((Fino a quando non siano scaduti i termini fissati per la conversione, la societa' non puo' deliberare ne' la riduzione del capitale esuberante, ne' la modificazione delle disposizioni dell'atto costitutivo concernenti la ripartizione degli utili, salvo che ai possessori di obbligazioni convertibili sia stata data la facolta', mediante avviso pubblicato nel Bollettino ufficiale delle societa' per azioni e a responsabilita' limitata almeno tre mesi prima della convocazione dell'assemblea, di esercitare il diritto di conversione nel termine di un mese dalla pubblicazione.))
 
 Nei casi di aumento del capitale mediante imputazione di riserve e di riduzione del capitale per perdite, il rapporto di cambio e' modificato in proporzione alla misura dell'aumento o della riduzione.
 
-Le obbligazioni convertibili in azioni devono indicare in aggiunta a quanto stabilito nell'articolo 2413, il rapporto di cambio e le modalita' della conversione.))
-
-((35))
+Le obbligazioni convertibili in azioni devono indicare in aggiunta a quanto stabilito nell'articolo 2413, il rapporto di cambio e le modalita' della conversione. (35)
 
 -----------------
 
