@@ -1,0 +1,17 @@
+CONTRATTO COLLETTIVO NAZIONALE DI LAVORO 23 GIUGNO 1949
+
+PER GLI OPERAI ADDETTI A LABORATORI O AZIENDE ARGENTIERE
+
+Parte di provvedimento in formato grafico
+
+ALLEGATO I
+
+CLASSIFICAZIONE DEGLI OPERAI
+
+Parte di provvedimento in formato grafico
+
+ALLEGATO II
+
+REGOLAMENTAZIONE PER L'APPRENDISTATO
+
+Parte di provvedimento in formato grafico
