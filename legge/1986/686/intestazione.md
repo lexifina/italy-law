@@ -1,0 +1,7 @@
+LEGGE
+
+04 ottobre 1986
+
+686
+
+Ratifica ed esecuzione del protocollo relativo alla cooperazione commerciale ed economica tra la CECA e gli Stati membri della stessa da una parte e l'accordo di Cartagena e i suoi Paesi membri, Bolivia, Colombia, Ecuador, Peru' e Venezuela, dall'altra, firmato a Cartagena il 17 dicembre 1983.
