@@ -1,0 +1,19 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto l'art. 20 della legge 21 maggio 1940-XVIII, n. 415, sulla organizzazione della Nazione per la guerra;
+
+Visto l'art. 12 della legge 16 dicembre 1941-XX, numero 1611, recante disposizioni penali e disciplinari relative ai mobilitati civili;
+
+Visto l'art. 3, n. 1, della legge 31 gennaio 1926-IV, n. 100, sulla facolta' del potere esecutivo di emanare norme giuridiche;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del DUCE del Fascismo, Capo del Governo e Ministro per l'interno, per la guerra, per la marina e per l'aeronautica, del Segretario del Partito Nazionale Fascista, Ministro Segretario di Stato, e del Ministro Segretario di Stato per le corporazioni, d'intesa con i Ministri Segretari di Stato per gli affari esteri, per l'Africa Italiana, per la grazia e giustizia, per le finanze, per l'educazione nazionale e per le comunicazioni: Abbiamo decretato e decretiamo:
