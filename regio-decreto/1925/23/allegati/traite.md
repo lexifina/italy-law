@@ -1,0 +1,11 @@
+Traite' de conciliation et de reglement judiciaire entre l'Italie et la Suisse.
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+L'Errata Corrige in G.U. 14/02/1925, n. 37 ha disposto che "Nell'art. 3, terzultima riga, del Trattato di conciliazione o di regolamento giudiziario fra l'Italia e la Svizzera, annesso al Regio decreto 15 gennaio 1925, n. 23, pubblicato nella Gazzetta Ufficiale n. 19 del 24 gennaio 1925, devesi leggere: «a' la nomination» anziche' «au remplacement»".
