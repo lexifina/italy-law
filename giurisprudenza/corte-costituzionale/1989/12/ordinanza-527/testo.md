@@ -1,0 +1,71 @@
+# Corte costituzionale, ordinanza 527/1989
+
+- ECLI: ECLI:IT:COST:1989:527
+- Tipo: ordinanza
+- Presidente: SAJA
+- Relatore: Giuseppe Borzellino
+- Data della decisione: 29/11/1989
+- Data del deposito: 06/12/1989
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 24517
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1989:527
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: dott. Francesco SAJA;
+ Giudici: prof. Giovanni CONSO, prof. Ettore GALLO, dott. Aldo
+ CORASANITI, prof. Giuseppe BORZELLINO, dott. Francesco GRECO, prof.
+ Renato DELL'ANDRO, prof. Gabriele PESCATORE, avv. Ugo SPAGNOLI, prof.
+ Francesco Paolo CASAVOLA, prof. Antonio BALDASSARRE, prof. Vincenzo
+ CAIANIELLO, avv. Mauro FERRI, prof. Luigi MENGONI, prof. Enzo CHELI;
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel  giudizio di legittimità costituzionale dell'art. 11 della legge
+ 11 marzo 1988, n. 67 (Disposizioni per  la  formazione  del  bilancio
+ annuale e pluriennale dello Stato - legge finanziaria 1988), promosso
+ con ordinanza emessa il 23 febbraio 1989 dalla  Corte  di  cassazione
+ nel  procedimento  civile  vertente  tra  l'I.N.P.S.  e  Tamone Bruno
+ iscritta al n. 282 del registro ordinanze  1989  e  pubblicata  nella
+ Gazzetta  Ufficiale  della  Repubblica  n.  24, prima serie speciale,
+ dell'anno 1989;
+    Visto  l'atto  di  intervento  del  Presidente  del  Consiglio dei
+ Ministri;
+    Udito  nella  camera  di  consiglio del 25 ottobre 1989 il Giudice
+ relatore Giuseppe Borzellino;
+    Ritenuto  che con ordinanza emessa il 23 febbraio 1989 dalla Corte
+ di cassazione nel procedimento civile vertente tra I.N.P.S. e  Tamone
+ Bruno  è  stata  sollevata  questione di legittimità costituzionale
+ dell'art. 11 della legge 11 marzo 1988 n.  67  (Disposizioni  per  la
+ formazione  del  bilancio  annuale  e pluriennale dello Stato - legge
+ finanziaria  1988),  "interpretato   nel   senso   che   prevede   la
+ prescrizione  quinquennale  dei  ratei  di pensione che per qualsiasi
+ ragione, e quindi anche perché non richiesti o  non  liquidati,  non
+ siano stati posti in pagamento", per contrasto con l'art. 3 Cost.;
+    Considerato  che questa Corte con sentenza n. 283 del 1989 ha già
+ dichiarato l'illegittimità costituzionale della norma impugnata;
+      che   pertanto   la   sollevata   questione  va  ora  dichiarata
+ manifestamente inammissibile;
+    Visti  gli  artt.26,  secondo comma, della legge 11 marzo 1953, n.
+ 87, e 9, secondo comma, delle norme integrative per i giudizi davanti
+ alla Corte costituzionale;
+
+## Dispositivo
+
+per questi motivi
+                        LA CORTE COSTITUZIONALE
+   Dichiara   la   manifesta   inammissibilità   della  questione  di
+ legittimità costituzionale dell'art. 11 della legge 11 novembre 1988
+ n.  67  (Disposizioni  per  la  formazione  del  bilancio  annuale  e
+ pluriennale dello Stato - legge finanziaria  1988),  già  dichiarato
+ costituzionalmente illegittimo con sentenza n. 289 del 1989.
+    Così  deciso  in  Roma,  nella  sede  della Corte costituzionale,
+ Palazzo della Consulta, il 29 novembre 1989.
+                          Il Presidente: SAJA
+                        Il redattore: BORZELLINO
+                        Il cancelliere: MINELLI
+    Depositata in cancelleria il 6 dicembre 1989.
+                Il direttore della cancelleria: MINELLI
