@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2983/A/G2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2983/A/G2"/>
+					<an:FRBRdate date="2004-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2983/A/G2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@"/>
+					<an:FRBRdate date="2004-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@.akn"/>
+					<an:FRBRdate date="2004-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-07-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-07-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2983/A/G2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2983" showAs="DDL 2983"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2983</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            in sede di esame del decreto legge n. 144 del 4 giugno 2004, con il quale si differiva al 31 dicembre 2006 la facoltà delle regioni di individuare limiti più permissivi nelle analisi delle acque ai fini della loro balneabilità di cui al decreto-legge 13 aprile 1993, n. 109, convertito con modificazioni, dalla legge 12 giugno 1993, n. 185;</an:p>
+				<an:p align="justify">            da circa venti anni il Parlamento concede alle regioni la deroga ai limiti previsti per il parametro «ossigeno disciolto nelle acque» al fine del giudizio di idoneità alla balneazione;</an:p>
+				<an:p align="justify">            il decreto in esame dispone l'ennesima proroga nonostante il fatto che il decreto legge 31 marzo 2003, n. 51, convertito in legge, con modificazioni, dalla legge 30 maggio 2003, n. 121 abbia apportato ulteriori modifiche all'articolo 6 del decreto del Presidente della Repubblica 8 giugno 1982, n. 470, come già modificato dall'articolo 18 della legge 29 dicembre 2000, n. 422, al fine di favorire la balneabilità di tratti costieri precedentemente dichiarati inidonei alla luce della normativa vigente;</an:p>
+				<an:p align="justify">            il fenomeno della eutrofizzazione non comporta danni accertati per la salute umana ma influisce comunque sull'ambiente e sull'ecosistema marino, lacuale e fluviale in cui si verifica;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad intraprendere con assoluta urgenza tutte le opportune iniziative per garantire l'attuazione dei programmi di sorveglianza sui laghi, i fiumi ed i tratti costieri interessati alla balneazione, assicurando la rapida attuazione degli ulteriori interventi necessari per contrastare il fenomeno dell'eutrofizzazione anche attraverso interventi straordinari d'intesa con gli enti e le istituzioni competenti;</an:p>
+				<an:p align="justify">            a subordinare la facoltà del differimento della disciplina sulla qualità delle acque di balneazione all'approvazione ovvero all'adeguamento dei piani d'ambito e dei piani di tutela nonchè all'attuazione delle relative misure di adeguamento dei sistemi di collettamento e depurazione alle prescrizioni comunitarie.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
