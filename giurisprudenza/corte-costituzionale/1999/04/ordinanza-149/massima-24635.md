@@ -1,0 +1,25 @@
+# Massima n. 24635
+
+- Pronuncia: Corte costituzionale, ordinanza 149/1999 (ECLI:IT:COST:1999:149)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:149
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   149/99.   EDILIZIA  E  URBANISTICA   -  REATI  EDILIZI   - CONCESSIONE  IN  SANATORIA  - RILASCIO - ESTINZIONE DEI  REATI  - DEDOTTA    IRRAGIONEVOLEZZA    -     MATERIA    RISERVATA    ALLA DISCREZIONALITA'  DEL  LEGISLATORE, ESERCITATA, NELLA SPECIE,  IN MODO NON ARBITRARIO - MANIFESTA INFONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Manifesta  infondatezza della questione, in quanto - premesso che la  Corte  <<ha  gia'  affermato   la  natura  particolare  della estinzione  dei reati urbanistici prevista dal combinato disposto degli  artt.   13  e  22 della legge 28 febbraio  1985,  n.   47, risolventesi  in  un  accertamento   dell'inesistenza  del  danno urbanistico,  e cioe' di mancanza 'ex tunc' dell'antigiuridicita' sostanziale  del  fatto  reato   urbanistico>>;   e  considerato, altresi',  che  <<il combinato disposto>> dei  predetti  articoli <<e'  disposizione  di  regime, destinata ad  operare  anche  nel futuro ed in via permanente allo scopo di regolarizzare sul piano esclusivamente  urbanistico-edilizio situazioni di  irregolarita' meramente   formale   (di  mancanza  di  titolo   concessorio   o autorizzatorio  edilizio)  di  opere   compiute  ed  eseguite  in persistente  piena  conformita'  con  gli  strumenti  urbanistici approvati  o 'in itinere', senza alcuna considerazione>> per  <<i differenti  profili  attinenti  alla  sicurezza  statica  e  alla prevenzione  dei rischi sismici>> - la scelta del legislatore  di limitare  la  particolare  ipotesi  di estinzione  dei  reati,  a seguito  della sanatoria mediante accertamento di conformita', ai soli  reati  contravvenzionali previsti dalle norme  urbanistiche vigenti  appare  sicuramente non arbitraria e  assolutamente  non irragionevole,  essendo  stata   condizionata  dalle  particolari esigenze  di  sicurezza  generale, volte ad evitare che,  in  via permanente  anche  per  il  futuro, si possa fare  a  meno  delle specifiche  procedure  attinenti  alla idoneita' statica  per  le opere  in  cemento armato o a struttura metallica,  semplicemente ricorrendo al predetto accertamento di conformita' avente valenza esclusivamente urbanistica.
+
+
+
+- Cfr. S. nn. 370/1988 e 427/1995.
+
+## Norme
+
+- legge, 28/02/1985 n. 47, art. 22, comma 3
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
