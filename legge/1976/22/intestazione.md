@@ -1,0 +1,7 @@
+LEGGE
+
+05 febbraio 1976
+
+22
+
+Conversione in legge del decreto-legge 27 dicembre 1975, n. 689, recante proroga delle norme concernenti la corresponsione dell'assegno di pensionamento anticipato istituito dall'articolo 11 della legge 5 novembre 1968, n. 1115.
