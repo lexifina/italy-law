@@ -8,7 +8,7 @@ Hanno privilegio generale sui mobili i crediti riguardanti:
 
 effetto di un licenziamento inefficace, nullo o annullabile; (59)
 
-2) le retribuzioni dei professionisti e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; ((110))
+2) le retribuzioni dei professionisti e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110)
 
 3) le provvigioni derivanti dal rapporto di agenzia dovute per l'ultimo anno di prestazione e le indennita' dovute per la cessazione
 
@@ -24,13 +24,15 @@ servizi prestati e della vendita dei manufatti.
 
 5-bis) i crediti delle societa' cooperative agricole e dei loro consorzi per i corrispettivi della vendita dei prodotti.
 
+((5-ter. i crediti delle imprese fornitrici di lavoro temporaneo di cui alla legge 24 giugno 1997, n. 196, per gli oneri retributivi e
+
+previdenziali addebitati alle imprese utilizzatrici)).
+
 ---------------
 
 AGGIORNAMENTO (59)
 
-La Corte Costituzionale con sentenza 17-28 novembre 1983, n. 326, (in G.U. 1a s.s. 07/12/1983, n. 336) ha dichiarato "l'illegittimita' costituzionale dell'art. 2751 bis n. 1 c.c. (sub art. 2 l. 29 luglio 1975, n. 426) nella parte in cui non munisce del privilegio generale istituito dall'art. 2 l. 426/1975 il credito del lavoratore subordinato per danni conseguenti ad infortunio sul lavoro, del quale sia responsabile il datore di lavoro, se e nei limiti in cui il creditore non sia soddisfatto dalla percezione delle indennita' previdenziali e assistenziali obbligatorie dovute al lavoratore
-
-subordinato in dipendenza dello stesso infortunio."
+La Corte Costituzionale con sentenza 17-28 novembre 1983, n. 326, (in G.U. 1a s.s. 07/12/1983, n. 336) ha dichiarato "l'illegittimita' costituzionale dell'art. 2751 bis n. 1 c.c. (sub art. 2 l. 29 luglio 1975, n. 426) nella parte in cui non munisce del privilegio generale istituito dall'art. 2 l. 426/1975 il credito del lavoratore subordinato per danni conseguenti ad infortunio sul lavoro, del quale sia responsabile il datore di lavoro, se e nei limiti in cui il creditore non sia soddisfatto dalla percezione delle indennita' previdenziali e assistenziali obbligatorie dovute al lavoratore subordinato in dipendenza dello stesso infortunio."
 
 ---------------
 
