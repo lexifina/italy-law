@@ -1,0 +1,9 @@
+ALLEGATO
+
+Final act of the international conference on safety of life at sea, 1960
+
+Parte di provvedimento in formato grafico
+
+ANNEXT A
+
+Parte di provvedimento in formato grafico
