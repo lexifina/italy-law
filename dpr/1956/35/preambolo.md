@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 27 e 31 del Codice civile;
+
+Visto il regio decreto 29 agosto 1942, n. 1264, con il quale e' stata eretta, in ente morale la Fondazione Medaglia d'oro Giovanni Chiasserini ed e' stato approvato il relativo statuto;
+
+Visto il decreto del Presidente della Repubblica 11 febbraio 1952, n. 179, che approva il nuovo statuto della Fondazione Caduti dell'aeronautica, istituita dalla Banca d'Italia;
+
+Considerato che l'esiguita' del patrimonio della Fondazione Medaglia d'oro Giovanni Chiasserini, in seguito alla svalutazione monetaria, ha reso impossibile il raggiungimento dello scopo della, Fondazione stessa;
+
+Considerata l'analogia dei fini della Fondazione Medaglia d'oro Giovanni Chiasserini e della Fondazione Caduti dell'aeronautica;
+
+Sulla proposta del Ministro Segretario di Stato per la difesa; Decreta:
