@@ -1,0 +1,7 @@
+ALLEGATO A
+
+(( (Scheda di votazione per i comuni
+
+di cui all'art. 3 del disegno di legge)
+
+Parte di provvedimento in formato grafico))
