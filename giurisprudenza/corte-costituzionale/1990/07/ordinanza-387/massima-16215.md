@@ -1,0 +1,22 @@
+# Massima n. 16215
+
+- Pronuncia: Corte costituzionale, ordinanza 387/1990 (ECLI:IT:COST:1990:387)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1990:387
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   387/90.   REGIONE  VENETO - CAVE E TORBIERE  -  CONTRIBUTI IMPOSTI  AL  CONCESSIONARIO - RITENUTA CONNOTAZIONE TRIBUTARIA  - CONSEGUENTE  ASSERITA  VIOLAZIONE  DEI LIMITI  ALLA  LEGISLAZIONE REGIONALE  IN  MATERIA TRIBUTARIA - MANIFESTA INFONDATEZZA  DELLA QUESTIONE.
+
+## Testo
+
+I contributi imposti dalla Regione Veneto ai concessionari per lo sfruttamento  delle  cave e delle torbiere nella loro  disciplina non  presentano specifiche connotazioni tributarie poiche' non si rinvengono  ne'  i presupposti di una indistinta imposizione  ne' quelli  di  tassazione  specifica   per  un  richiesto  servizio; esorbitando,  pertanto, la prestazione in questione dal complesso dei  fenomeni tributari, non incide sui contenuti dell'art.   119 Cost..   Peraltro,  la  norma  in  parola,  riconnettendosi  alle pianificazioni  urbanistiche, e cosi' inserendosi nel processo di gestione  del  territorio,  appare riconducibile  agli  enunciati dell'art.   23 Cost..  (Manifesta infondatezza della questione di legittimita'  cosituzionale, sollevata in riferimento agli  artt. 23  e 119 Cost., dell'art.  20 l.  reg.  Veneto 7 settembre 1982, n.  44).  - S. n. 167/1986.
+
+## Norme
+
+- legge della Regione Veneto, 07/09/1982 n. 44, art. 20
+
+## Parametri
+
+- Costituzione, art. 119
+- Costituzione, art. 23
