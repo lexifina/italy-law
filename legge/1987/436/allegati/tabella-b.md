@@ -1,0 +1,53 @@
+TABELLA B
+
+(prevista dall'articolo 4, comma 2)
+
+INDENNITA' DI SERVIZIO PENITENZIARIO PER IL PERSONALE CIVILE DELL'AMMINISTRAZIONE DEGLI ISTITUTI DI PREVENZIONE E PENA
+
+CARRIERE
+
+QUALIFICHE
+
+Importo lordo mensile
+
+Dirigenziale
+
+Dirigente superiore
+
+896.000
+
+Primo dirigente
+
+696.000
+
+Direttiva
+
+Impiegati preposti alla direzione degli istituti di prevenzione e pena o di servizi penitenziari
+
+696.000
+
+Impiegati non preposti alla direzione degli istituti o servizi penitenziari
+
+660.000
+
+Concetto
+
+Educatore capo, ragioniere capo, educatore principale, ragioniere principale e qualifiche corrispondenti
+
+385.000
+
+Educatore, ragioniere e qualifiche corrispondenti
+
+365.000
+
+Esecutiva
+
+Aiutante superiore, aiutante principale, aiutante alla 3ª classe di stipendio e qualifiche corrispondenti
+
+375.000
+
+Aiutante alla 1ª e 2ª classe e qualifiche corrispondenti
+
+355.000
+
+Nota. - Le misure dell'indennita' di servizio penitenziario sono aumentate del 10 per cento al compimento di ciascuno dei primi tre sessenni di servizio complessivamente prestato - anche anteriormente alla entrata in vigore della legge di conversione del presente decreto - sia nella carriera dell'Amministrazione degli istituti di prevenzione e pena sia nel Corpo degli agenti di custodia, e del 20 per cento dopo il compimento del quarto sessennio.
