@@ -1,0 +1,11 @@
+Art. 600-ter.
+
+(( (Pornografia minorile).))
+
+((Chiunque sfrutta minori degli anni diciotto al fine di realizzare esibizioni pornografiche o di produrre materiale pornografico e' punito con la reclusione da sei a dodici anni e con la multa da lire cinquanta milioni a lire cinquecento milioni.
+
+Alla stessa pena soggiace chi fa commercio del materiale pornografico di cui al primo comma.
+
+Chiunque, al di fuori delle ipotesi di cui al primo e al secondo comma, con qualsiasi mezzo, anche per via telematica, distribuisce, divulga o pubblicizza il materiale pornografico di cui al primo comma, ovvero distribuisce o divulga notizie o informazioni finalizzate all'adescamento o allo sfruttamento sessuale di minori degli anni diciotto, e' punito con la reclusione da uno a cinque anni e con la multa da lire cinque milioni a lire cento milioni.
+
+Chiunque, al di fuori delle ipotesi di cui ai commi primo, secondo e terzo, consapevolmente cede ad altri, anche a titolo gratuito, materiale pornografico prodotto mediante lo sfruttamento sessuale dei minori degli anni diciotto, e' punito con la reclusione fino a tre anni o con la multa da lire tre milioni a lire dieci milioni)).

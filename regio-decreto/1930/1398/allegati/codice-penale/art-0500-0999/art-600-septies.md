@@ -1,0 +1,5 @@
+Art. 600-septies.
+
+(( (Pene accessorie).))
+
+((Nel caso di condanna per i delitti previsti dagli articoli 600-bis, 600-ter, 600-quater e 600- quinquies e' sempre ordinata la confisca di cui all'articolo 240 ed e' disposta la chiusura degli esercizi la cui attivita' risulti finalizzata ai delitti previsti dai predetti articoli, nonche' la revoca della licenza d'esercizio o della concessione o dell'autorizzazione per le emittenti radio- televisive)).
