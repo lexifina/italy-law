@@ -1,0 +1,22 @@
+# Massima n. 24718
+
+- Pronuncia: Corte costituzionale, sentenza 171/1999 (ECLI:IT:COST:1999:171)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:171
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 171/99 I. PROGRAMMAZIONE ECONOMICA - DISPOSIZIONI DI LEGGE COLLEGATA ALLA LEGGE FINANZIARIA PER IL 1997 - PROFILI DI PROGRAMMAZIONE NEGOZIATA - UTILIZZAZIONE DEL MODELLO CONSENSUALISTICO ANCHE PER IL COORDINAMENTO DI INIZIATIVE E INTERVENTI A DIVERSI LIVELLI DI GOVERNO - PREVISTA APPROVAZIONE, DA PARTE DEL CIPE, DELLE "INTESE ISTITUZIONALI DI PROGRAMMA" - PREVISTA DELIBERAZIONE E DEFINIZIONE, ALTRESI', DA PARTE DELLO STESSO CIPE, DELLE MODALITA' DI APPROVAZIONE DEI "CONTRATTI DI PROGRAMMA", "PATTI TERRITORIALI", "CONTRATTI D'AREA", E TIPOLOGIE DELLA "CONTRATTAZIONE PROGRAMMATA" - LAMENTATA INCIDENZA, IN RICORSO DELLA REGIONE LOMBARDIA, SULLA SFERA DI POTESTA' AMMINISTRATIVA RISERVATA ALLE REGIONI - INSUSSISTENZA - ESERCIZIO DEI POTERI DEL CIPE IN PROCEDIMENTI IN CUI LO STATO E' PARTE - LIMITI AGLI STESSI POTERI POSTI DAI NECESSARI PARERI DELLA CONFERENZA STATO-REGIONI E DELLE COMMISSIONI PARLAMENTARI COMPETENTI - OPERATIVITA' DELLE NORME IMPUGNATE IN SETTORI IN CUI E' PRIORITARIA L'ALLOCAZIONE DI FONDI NAZIONALI E COMUNITARI E QUINDI PREVALENTE L'ESIGENZA DI UN'AZIONE UNITARIA - ESCLUSIONE CHE ESSE DIANO LUOGO AD ANOMALE FORME DI CONTROLLO SULL'ATTIVITA' REGIONALE - NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Non e' fondata la questione di legittimita' costituzionale sollevata con ricorso della Regione Lombardia, in riferimento all'art. 118 Cost., nei confronti dell'art. 2, commi 205 e 206, della legge (collegata alla legge finanziaria per il 1997) 23 dicembre 1996, n. 662, riguardo ai poteri che le norme impugnate - nell'ambito della disciplina della programmazione negoziata contenuta nei commi da 203 a 214 dello stesso articolo - conferiscono al CIPE. Per quanto attiene al comma 205, infatti, ad escluderne, anche sotto il profilo dell'asserita riserva all'amministrazione procedente del potere di conclusione del procedimento, la incostituzionalita', e' decisiva la considerazione che esso non attribuisce al CIPE il potere di approvare genericamente <>, ma solo quegli accordi che rientrano nell'ambito della definizione legislativa di <>; intese, cioe', delle quali il Governo e' comunque una delle parti, dirette a coordinare la programmazione degli investimenti e degli interventi pubblici nei casi in cui si realizza una complessa azione congiunta Stato-regioni, anche attraverso l'identificazione dei settori nei quali appare prioritaria l'allocazione dei fondi nazionali e comunitari, cosi' da fare escludere che l'approvazione da parte del CIPE configuri una sorta di anomala forma di controllo sull'attivita' regionale. Tanto piu' che l'obbligo di sentire il parere, prima dell'approvazione dell'intesa, della Conferenza permanente per i rapporti tra Stato e Regioni costituisce un'ulteriore dimostrazione che la norma censurata rispetta anche il principio di leale collaborazione, senza comportare alcuna lesione dell'autonomia regionale. Ed egualmente non comprime l'autonomia regionale il comma 206 dello stesso art. 2, nello stabilire che il CIPE delibera, con le medesime procedure stabilite dal comma 205 e sentite, inoltre, le Commissioni parlamentari competenti, le modalita' di approvazione degli strumenti di programmazione negoziata, e puo' definire ulteriori tipologie della contrattazione programmata, giacche' la 'ratio' di questa norma va individuata, in connessione con le disposizioni legislative precedentemente indicate, nella esigenza che gli strumenti negoziali ivi previsti siano preordinati alla realizzazione di interventi nelle aree depresse anche in correlazione con l'operativita' dei Fondi strutturali europei (cfr. comma 208). Puo' ben dunque essere affidata alla regolamentazione statale l'adozione di misure di coordinamento tecnico - quali sono anche quelle disposte dal comma 206 - che non coinvolgono scelte d'ordine politico-amministrativo spettanti alle Regioni e che rispettano altresi', per le garanzie procedimentali previste, il principio di legalita' sostanziale. - Cfr. S. n. 273/1998, 393/1992, 483/1991, 93/1997 e 170/1997. red.: S. Pomodoro
+
+## Norme
+
+- legge, 23/12/1996 n. 662, art. 2, comma 206
+- legge, 23/12/1996 n. 662, art. 2, comma 205
+
+## Parametri
+
+- Costituzione, art. 118
