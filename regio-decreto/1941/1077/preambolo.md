@@ -1,0 +1,17 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Veduto l'atto in data 29 aprile 1940-XVIII, col quale l'Amministrazione provinciale di Siena, col consenso del Comune di quella citta', proprietario, cede in uso al Ministero dell'educazione nazionale n. 11 vani del primo piano del palazzo posto in Siena, in via della Sapienza n. 1, affinche' siano destinati a sede di un istituendo Regio museo archeologico, che comprendera' anche gli oggetti d'arte e mobili di proprieta' del comune di Siena, gia' esistenti nei detti locali, e che il Comune stesso lascia in deposito al suddetto Ministero;
+
+Visto l'art. 2 della legge 31 gennaio 1926-IV, n. 100;
+
+Udito il parere del Consiglio di Stato e della 5ª sezione del Consiglio nazionale dell'educazione, delle scienze e delle arti;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per l'educazione nazionale, di concerto con i Ministri Segretari di Stato per l'interno e per le finanze; Abbiamo decretato e decretiamo:
