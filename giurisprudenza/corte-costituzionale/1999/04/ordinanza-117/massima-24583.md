@@ -1,0 +1,28 @@
+# Massima n. 24583
+
+- Pronuncia: Corte costituzionale, ordinanza 117/1999 (ECLI:IT:COST:1999:117)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:117
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.    117/99.   SANZIONI  AMMINISTRATIVE   -  PROCEDIMENTO   DI OPPOSIZIONE    AVVERSO     UN'ORDINANZA     INGIUNZIONE    EMESSA DALL'ISPETTORATO  PROVINCIALE DEL LAVORO - IMPOSSIBILITA' PER  IL PRETORE  DI CONDANNARE IL RICORRENTE, IN CASO DI SOCCOMBENZA,  AL PAGAMENTO  DELLE  SPESE  PROCESSUALI -  DEDOTTA  <<INGIUSTIFICATA DISPARITA'  DI  TRATTAMENTO RISPETTO A QUANTO  DISCIPLINATO,  NEL NUOVO  PROCESSO TRIBUTARIO, DALL'ART.  15 DEL DECRETO LEGISLATIVO 31  DICEMBRE 1992, N.  546>> - ASSERITA VIOLAZIONE DEL DIRITTO DI DIFESA    NONCHE'    DEL    PRINCIPIO    DEL    BUON    ANDAMENTO DELL'AMMINISTRAZIONE - INIDONEITA' DEL MECCANISMO DI LIQUIDAZIONE DELLE   SPESE   PROCESSUALI,  INTRODOTTO   NEL   NUOVO   PROCESSO TRIBUTARIO,   A   FUNGERE  DA   'TERTIUM  COMPARATIONIS'  -   NON PERTINENZA,  IN  CONCRETO, DEL PARAMETRO DELL'ART.  97  COST.   - DISCREZIONALITA'  SPETTANTE  AL LEGISLATORE NEL DETTARE LE  NORME PROCESSUALI - MANIFESTA INFONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Manifesta infondatezza della questione, in quanto - a prescindere dalla non pertinenza, nel caso di specie, del parametro dell'art. 97   Cost.,  che  attiene   unicamente  alle  leggi   concernenti l'ordinamento  degli  uffici giudiziari ed il loro  funzionamento sotto  l'aspetto  amministrativo  -  la   Corte  ha  piu'   volte riconosciuto  l'ampia  discrezionalita' spettante al  legislatore nel  dettare  le  norme processuali, col solo  limite  della  non irragionevole   predisposizione   degli   strumenti  di   tutela. Peraltro, il regolamento delle spese processuali non incide sulla tutela  giurisdizionale del diritto di chi agisce o si difende in giudizio,   non  potendosi  sostenere   che  la  possibilita'  di conseguire  la ripartizione delle spese processuali consenta alla parte di difendere meglio la sua posizione.  -  Sul  parametro dell'art.  97 Cost., v.  S.  n.  385/1997,  'ex plurimis'.  -  Riguardo  alla discrezionalita' spettante al  legislatore  nel dettare  le  norme  processuali,  cfr.,  tra  le  altre,  S.   n. 295/1995.  -  V.,  altresi',  S.   nn.  79/1997 e 53/1998,  nelle  quali  si afferma - alla stregua della univoca giurisprudenza della Corte - che  <<un modello processuale non deve necessariamente costituire parametro  per  un  rito  diverso, essendo  giustificata  la  non simmetrica  costruzione delle norme processuali in tema di  spese di   lite,   allorquando   esse  si   sostanzino   in   strumenti procedimentali  ricollegati a differenti sistemi in se'  compiuti ed autonomi, diretti a regolare materie non omogenee>>.
+
+
+
+- V., inoltre, S. nn. 119/1969 e 196/1982.
+
+## Norme
+
+- codice di procedura civile, art. 91
+- legge, 24/11/1981 n. 689
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 97
