@@ -1,0 +1,7 @@
+CORPO REALE DEL GENIO CIVILE
+
+Provincia di Grosseto - Ufficio di Livorno.
+
+Servizio marittimo - Porto di Porto Santo Stefano.
+
+Parte di provvedimento in formato grafico
