@@ -1,0 +1,26 @@
+# Massima n. 2465
+
+- Pronuncia: Corte costituzionale, sentenza 94/1965 (ECLI:IT:COST:1965:94)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1965:94
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 94/65 B. ENTI LOCALI - CONTROLLI DI MERITO SUGLI ATTI DEGLI ENTI   LOCALI  -  MANCATA  REVISIONE  SECONDO  I  NUOVI  PRINCIPI COSTITUZIONALI  -  PERSISTENTE  VIGORE  DEL  SISTEMA  ANTERIORE - PRETESA  VIOLAZIONE  DEGLI  ARTT. 5, 128, E DISP. TRANS. IX DELLA COSTITUZIONE  -  INSUSSISTENZA  -  T.U.  DELLA  LEGGE  COMUNALE E PROVINCIALE  3  MARZO 1934, N. 383, ARTT. 87, ULTIMO COMMA, 165 E 296 - ESCLUSIONE DI ILLEGITTIMITA' COSTITUZIONALE. COSTITUZIONE   -   PRECETTI  NON   IMMEDIATAMENTE   OPERATIVI   - MANCATA  EMANAZIONE  DELLE  NORME  DI  ATTUAZIONE DELL'ART. 130 - LEGISLAZIONE  ANTERIORE  NON  ANCORA  ASSOGGETTATA  A REVISIONE - LEGITTIMITA'   NONOSTANTE   LA  SCADENZA  DEL  TERMINE  POSTO  AL PARLAMENTO  -  FATTISPECIE  - SISTEMA DEI  CONTROLLI  SUGLI  ENTI LOCALI E DEI LIMITI ALL'AUTONOMIA DI QUESTI.
+
+## Testo
+
+Tanto  per il dimensionamento delle autonomie locali - regionali, provinciali  e  comunali  - voluto dalla Costituzione  (art.   5, 115-120,  128,  quanto per l'instaurazione del nuovo  sistema  di controlli  sui  Comuni e le Provincie da essa previsto  (articolo 130),  le norme di attuazione, contemplate dalla IX disp.  trans. e  finale  della  Costituzione,  sono  finora  mancate;   con  la conseguenza del legittimo permanere in vita per le autonomie come per  i controlli, del sistema preesistente, la cui  continuazione la  ricordata  disposizione  IX previde -  all'evidente  fine  di evitare   periodi   di   carenza  -  appunto  fino   al   momento dell'adeguamento  di esso "alle esigenze delle autonomie locali e alla  competenza  legislativa attribuita alle Regioni".  E'  vero che  per  tale  adeguamento la ripetuta disposizione  fissava  il termine  di tre anni.  Ma - come questa Corte ha avuto piu' volte occasione   di  affermare  la   mancata  osservanza  dei  termini assegnanti  dalla  Costituzione  al Parlamento  per  tradurre  in legislazione   operante  i  suoi   precetti  non   immediatamente operativi,  come  non basta a far considerare venuta meno,  cosi' non  basta a invalidare la legislazione non aggiornata.  Onde, se non  si  puo' non deprecare, ancora una volta  l'inosservanza  di detti  termini e il protrarsi della mancata attuazione -  sicche' l'ordinamento  in atto si presenta notevolmente alterato rispetto a  quello  concepito  dall'Assemblea  costituente,  con  seguenti squilibri  e  scompensi nei diversi campi della vita  pubblica  e privata   -,  deve  nondimeno   escludersi  che   l'inadempimento costituzionale  produca,  per  se' solo,  l'illegittimita'  della legislazione  non ancora assoggettata a revisione.  Fin quando le autonomie  degli enti locali non avranno avuto il maggior respiro voluto  dalla Costituzione, comprendendo nel quadro della riforma -   come   richiedono   naturali  esigenze   di   unita'   e   di condizionamento  reciproco  -  la  revisione  del  sistema  delle ingerenze degli enti sopraordinati, l'ordine vigente continuera', nonostante  il  suo anacronismo, a vivere  non  illegittimamente, tanto  per  cio' che riguarda le autonomie, quanto per  cio'  che riguarda i controlli e le altre forme di vigilanza dello Stato. Ne' con riferimento ai vigenti meccanismi dei controlli di merito sugli  enti  locali  minori  puo'  dirsi  che,  anche  prima  del riordinamento  di  cui  si  e' detto,  essi  sarebbero  diventati senz'altro  illegittimi, pel solo fatto di non corrispondere alla forma  del  rinvio  con  richiesta di riesame,  che  e'  la  sola prevista  dal  secondo comma dell'art.  130  della  Costituzione. Tanto dai lavori preparatori della Costituzione, quanto dal fatto che  la  disposizione  che  se ne occupa non  e'  stata  inserita nell'art.   128  riguardante  l'autonomia   dei  Comuni  e  delle Provincie,  ma  nell'art.  130 riguardante i poteri di  controllo delle  Regioni, si ricava infatti chiaramente che la nuova  forma del  controllo  di  merito  fu  concepita  dai  costituenti  come strettamente e immediatamente connessa col passaggio alle Regioni della  funzione di controllo.  A ragionare diversamente - secondo l'assunto in base al quale l'art.  130 solo nel primo e non anche nel  secondo  comma  riguarderebbe  i  controlli  di   competenza regionale  -  dovrebbe  ritenersi - in contrasto  con  la  chiara volonta'  dei  costituenti  e certamente oltre  l'intenzione  dei sostenitori  della  tesi - che il secondo comma dello  art.   130 autorizzi  nei  confronti  degli enti minori anche  controlli  di merito  esercitati  da soggetti diversi dalla Regione,  e  quindi anche controlli di merito statali.
+
+## Norme
+
+- regio decreto, 03/03/1934 n. 383, art. 87, comma ultimo co.
+- regio decreto, 03/03/1934 n. 383, art. 276
+- regio decreto, 03/03/1934 n. 383, art. 165
+- regio decreto, 03/03/1934 n. 383, art. 140, comma ultimo co.
+
+## Parametri
+
+- Costituzione
+- Costituzione, art. 128
+- Costituzione, art. 130
