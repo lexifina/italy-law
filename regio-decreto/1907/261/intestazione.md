@@ -5,3 +5,5 @@ REGIO DECRETO
 261
 
 Che promuove dalla 3ª alla 2ª classe, 2ª serie della 2ª categoria, il porto di Terranova di Sicilia. (007U0261)
+
+Entrata in vigore del provvedimento: 19/06/1907
