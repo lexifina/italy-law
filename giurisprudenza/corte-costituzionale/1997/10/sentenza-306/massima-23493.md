@@ -1,0 +1,22 @@
+# Massima n. 23493
+
+- Pronuncia: Corte costituzionale, sentenza 306/1997 (ECLI:IT:COST:1997:306)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:306
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   306/97.  PROCESSO PENALE - GIUDIZIO PER L'APPLICAZIONE DI UNA  MISURA  DI  PREVENZIONE  PERSONALE  -  INCOMPATIBILITA'  DEL GIUDICE  CHE  SI SIA PRONUNZIATO SULL'ORDINANZA CHE  DISPONE  UNA MISURA  CAUTELARE - MANCATA PREVISIONE - DEDOTTA VIOLAZIONE DEGLI ARTT.   3  E 24 COST.  - DIVERSITA' ESSENZIALI DI  PRESUPPOSTI  E FINALITA'  TRA  IL  PROCESSO  PENALE E QUELLO  DI  PREVENZIONE  - INSUSSISTENZA  DI  UNA INCOMPATIBILITA' DI FUNZIONI IN  ASTRATTO, RIPORTABILE  ALLA  LOGICA  DELL'ART.   34 COD.   PROC.   PEN.   - INAMMISSIBILITA'.
+
+## Testo
+
+E'  inammissibile  la questione di legittimita' costituzionale  - sollevata  in  riferimento agli artt.  3 e 24 Cost.  -  dell'art. 34,  comma 2, cod.  proc.  pen., <<nella parte in cui non prevede che  non possa partecipare al giudizio per l'applicazione di  una misura di prevenzione personale il giudice che, nell'ambito di un procedimento penale, come componente il Tribunale del riesame, si sia  pronunciato sull'ordinanza che dispone una misura  cautelare personale,  quando i presupposti sui quali si fonda la  richiesta della  misura  di  prevenzione siano gli stessi  che  sono  stati oggetto  di  valutazione  nella sede del riesame>>, in  quanto  - premesso  che le incompatibilita' previste dalla norma denunciata sono  tutte  causate dal solo fatto di avere  svolto  determinate attivita'   nel   corso  del    medesimo   procedimento   penale, indipendentemente  dal contenuto che tali attivita' possano  aver assunto;   e  considerato,  pertanto, che, qualora un  motivo  di pregiudizio all'imparzialita' del giudice derivi da sue attivita' compiute  al di fuori del giudizio in cui e' chiamato a decidere, si   verte   nell'ambito  di   applicazione   non   dell'istituto dell'incompatibilita'  ma  di  quello   dell'astensione  e  della ricusazione   -   nella  fattispecie    manca   l'identita'   del procedimento,  ne',  d'altro  canto,  e'  possibile  invocare  la 'ratio'  particolare che sta alla base della sentenza n.  371 del 1996  -  nella  quale la Corte ha ritenuto  che  alla  pluralita' formale di procedimenti penali corrispondesse tuttavia l'unicita' sostanziale della vicenda portata a giudizio - essendo pacifiche, sia   nella   giurisprudenza  di   legittimita'  sia  in   quella costituzionale,  le essenziali differenze, quanto a presupposti e finalita',  che  separano  il  processo   penale  (e  in  esso  i procedimenti  cautelari)  dal  processo di  prevenzione,  pur  se quest'ultimo si trovi ad essere modellato sulle forme del primo.  - Cfr. S. nn. 432/1995 e 131/1996.  - Sulla 'ratio' dell'istituto dell'incompatibilita', cfr.  S.  n. 155/1996, 'ex plurimis'.  -  In ordine alle essenziali differenze che separano il  processo penale  dal  processo  di  prevenzione, v., da  ultimo,  S.   nn. 193/1997 e 48/1994 nonche' O.  n.  275/1996.                                                  red.: G. Leo
+
+## Norme
+
+- codice di procedura penale, art. 34, comma 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
