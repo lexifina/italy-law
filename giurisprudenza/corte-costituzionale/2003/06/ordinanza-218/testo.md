@@ -1,0 +1,59 @@
+# Corte costituzionale, ordinanza 218/2003
+
+- ECLI: ECLI:IT:COST:2003:218
+- Tipo: ordinanza
+- Presidente: CHIEPPA
+- Relatore: Guido Neppi Modona
+- Redattore: Guido Neppi Modona
+- Data della decisione: 04/06/2003
+- Data del deposito: 18/06/2003
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 27800
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2003:218
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Riccardo CHIEPPA; Giudici: Gustavo ZAGREBELSKY, Valerio ONIDA, Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 34, comma 2, del codice di procedura penale, promosso, nell'ambito di un procedimento penale, dal Tribunale militare della Spezia con ordinanza del 23 marzo 2000, iscritta al n. 436 del registro ordinanze 2002 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 40, prima serie speciale, dell'anno 2002.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 7 maggio 2003 il Giudice relatore Guido Neppi Modona.
+    Ritenuto che con ordinanza del 23 marzo 2000 (pervenuta alla Corte in data 11 settembre 2002) il Tribunale militare della Spezia, nel corso di un procedimento penale per il reato di percosse, ha sollevato, in riferimento all'art. 111 della Costituzione, questione di legittimità costituzionale dell'art. 34, comma 2, del codice di procedura penale, &laquo;nella parte in cui non prevede l'incompatibilità a partecipare al dibattimento dei componenti del collegio che, a seguito di sentenza di applicazione della pena nei riguardi di imputato nel medesimo processo per fatti commessi in condizioni di reciprocità, abbia[no] preso cognizione degli atti processuali contenuti nel fascicolo del pubblico ministero&raquo;;
+    che il rimettente premette di aver pronunciato, nell'ambito di un procedimento originariamente instaurato nei confronti di due soggetti imputati di reati commessi in danno reciproco, sentenza di applicazione della pena nei confronti di uno degli imputati, prendendo a tal fine cognizione degli atti del fascicolo del pubblico ministero, e di procedere ora al dibattimento in relazione alla posizione dell'altro imputato;
+    che il giudice a quo dà atto che, secondo la giurisprudenza costituzionale e di legittimità, l'incompatibilità sussiste solo nel caso di duplicità del giudizio di merito sullo stesso oggetto, da intendersi come &laquo;valutazione concreta della medesima regiudicanda&raquo;, e che sulla base di questo presupposto è stata esclusa l'incompatibilità ove il giudice sia chiamato a giudicare un imputato dopo avere pronunciato sentenza di applicazione della pena nei confronti di un concorrente;
+    che il rimettente non ignora che, alla stregua della giurisprudenza costituzionale, ai fini della incompatibilità non rileva che il giudice abbia già preso cognizione degli atti del procedimento, in quanto la conoscenza, se non accompagnata da una valutazione di merito, non pregiudica l'imparzialità del giudice;
+    che il giudice a quo precisa inoltre che la situazione al suo esame è diversa da quella scrutinata dalla Corte costituzionale con la sentenza n. 371 del 1996, che si riferiva ad una ipotesi di concorso necessario nel medesimo reato, nella quale la posizione di uno dei concorrenti costituiva un presupposto essenziale per la configurabilità del reato, mentre nel procedimento a quo, &laquo;dove gli imputati risultano tratti a giudizio per reati commessi in danno reciproco l'uno dell'altro, ogni fatto, pur se influenzato dall'altro e da valutare anche rispetto ad esso, si presenta del tutto distinto tanto che, in ipotesi, l'applicazione della pena ad uno degli imputati non esclude che l'altro possa essere prosciolto per qualsiasi motivo, difesa legittima compresa&raquo;;
+    che peraltro il rimettente ritiene che il mutato quadro normativo, conseguente al decreto legislativo 19 febbraio 1998, n. 51, e alla legge 16 dicembre 1999, n. 479, e la modifica dell'art. 111 Cost. impongano un nuovo esame della questione;
+    che, in particolare, la legge n. 479 del 1999 ha soppresso l'esposizione introduttiva del pubblico ministero, così eliminando, a garanzia della terzietà ed imparzialità dell'organo giudicante, un possibile veicolo di conoscenza degli atti delle indagini preliminari; ha circoscritto le ipotesi in cui il giudice del dibattimento può essere chiamato a pronunciare sentenza di applicazione della pena ai soli casi &laquo;di giudizio direttissimo, di giudizio immediato e di semplice rinnovazione della richiesta&raquo; ex art. 448 cod. proc. pen., sì che risultano più circoscritte anche le situazioni in cui il giudice del dibattimento ha conoscenza degli atti delle indagini per averne ordinato l'esibizione a norma dell'art. 135 disp. att. cod. proc. pen.;
+    che, inoltre, da un lato con l'introduzione dei commi 2-bis e 2-ter dell'art. 34 cod. proc. pen., ad opera rispettivamente del decreto legislativo n. 51 del 1998 e della legge n. 479 del 1999, sono state ampliate le cause di incompatibilità &laquo;fino a comprendervi casi in cui il giudice per le indagini preliminari non esprime una vera e propria valutazione di merito&raquo;, dall'altro i principi di imparzialità e terzietà del giudice sono ora espressamente enunciati dall'art. 111 Cost.;
+    che, infine, il rimettente precisa di non poter superare in via interpretativa i denunciati vizi di illegittimità costituzionale, perché ciò equivarrebbe ad ampliare in via analogica o estensiva il novero delle cause di incompatibilità, e chiarisce che nella specie non potrebbe trovare applicazione l'ipotesi di astensione prevista dalla lettera h) del comma 1 dell'art. 36 cod. proc. pen., che si riferisce esclusivamente a situazioni di carattere personale;
+    che nel giudizio è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione sia dichiarata manifestamente infondata, in base al rilievo assorbente che la mera conoscenza degli atti, non accompagnata da una preventiva valutazione di merito, non pregiudica l'imparzialità del giudice.
+    Considerato che il rimettente dubita, in riferimento all'art. 111 della Costituzione, della legittimità costituzionale dell'art. 34, comma 2, del codice di procedura penale, nella parte in cui non prevede che il giudice che procede per reati commessi da più persone in danno reciproco le une delle altre e che ha pronunciato sentenza di applicazione della pena nei confronti di uno di tali soggetti, non possa partecipare al giudizio nei confronti degli altri;
+    che in relazione a situazione analoga questa Corte con ordinanza n. 42 del 1994, non menzionata dal rimettente, ha affermato, in linea con precedenti decisioni, che non è ravvisabile identità dell'oggetto del giudizio quando &laquo;alla comunanza dell'imputazione fa necessariamente riscontro una pluralità di condotte distintamente ascrivibili a ciascuno dei concorrenti, le quali, ai fini del giudizio di responsabilità, devono formare oggetto di autonome valutazioni sotto il profilo tanto materiale che psicologico&raquo;, precisando che tale conclusione vale a maggior ragione nel caso in cui &laquo;le posizioni processuali di due imputati sono confliggenti e ad essi siano contestati reati autonomi, pur se commessi nel medesimo contesto e in danno reciproco&raquo;;
+    che il rimettente ritiene che le modifiche introdotte dal decreto legislativo 19 febbraio 1998, n. 51, e dalla legge 16 dicembre 1999, n. 479, e l'espresso riconoscimento dei principi della imparzialità e terzietà del giudice nell'art. 111 Cost. impongano un riesame della questione, pur essendo consapevole che secondo la giurisprudenza di questa Corte la mera conoscenza degli atti del procedimento, non accompagnata da una valutazione di merito, non è causa di pregiudizio per l'imparzialità del giudice;
+    che le innovazioni normative menzionate dal rimettente non sono tali da suggerire conclusioni diverse;
+    che, infatti, non assume in proposito alcun rilievo la riduzione delle ipotesi - che pure continuano ad avere non trascurabile incidenza - in cui il giudice del dibattimento è abilitato a pronunciare sentenza di applicazione della pena e, quindi, a prendere conoscenza del fascicolo del pubblico ministero;
+    che la soppressione dell'esposizione introduttiva del pubblico ministero non trova ragione nell'esigenza di salvaguardare l'imparzialità del giudice, ma risponde all'intento di tutelare la parità tra le parti;
+    che il comma 2-bis dell'art. 34 cod. proc. pen. si riferisce a specifiche ipotesi di incompatibilità tra le funzioni del giudice per le indagini preliminari e quelle del giudice dell'udienza preliminare o del giudizio, mentre le situazioni escluse ex art. 34, comma 2-ter, cod. proc. pen. non sono sorrette da una ratio comune e non possono costituire un idoneo elemento di raffronto (v. ordinanza n. 406 del 2002);
+    che, d'altro canto, con riferimento all'art. 111, secondo comma, Cost., questa Corte ha avuto anche di recente occasione di ricordare che l'espressa enunciazione dei principi della terzietà e della imparzialità del giudice non rappresenta una innovazione sostanziale rispetto ai principi del giusto processo già desumibili dagli artt. 3 e 24 Cost. e dalla interpretazione che ne è stata data nella giurisprudenza costituzionale (v. ordinanze n. 54 del 2003 e n. 112 del 2001);
+    che questa Corte ha inoltre ribadito che la mera conoscenza degli atti, non accompagnata da una valutazione contenutistica, di merito, sui risultati delle indagini, non è causa di pregiudizio per l'imparzialità del giudice (ordinanza n. 101 del 2002), e ha affermato che la causa di astensione di cui alla lettera h) del comma 1 dell'art. 36 cod. proc. pen. ha una sfera di applicazione che comprende anche le ipotesi in cui il pregiudizio alla terzietà del giudice derivi da funzioni esercitate in un diverso procedimento (sentenza n. 113 del 2000) e che può essere ricusato il giudice che abbia espresso in altro procedimento una valutazione di merito sullo stesso fatto nei confronti del medesimo soggetto (sentenza n. 283 del 2000), sì che, ove nel pronunciare sentenza di applicazione della pena il giudice compia una valutazione di merito in ordine alla responsabilità di altro soggetto che poi si trova a dover giudicare, il giudice stesso sarebbe tenuto ad astenersi e sarebbe comunque ricusabile;
+    che la questione va pertanto dichiarata manifestamente infondata.
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, secondo comma, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 34, comma 2, del codice di procedura penale, sollevata, in riferimento all'art. 111 della Costituzione, dal Tribunale militare della Spezia, con l'ordinanza in epigrafe.
+Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 4 giugno 2003.
+F.to:
+Riccardo CHIEPPA, Presidente
+Guido NEPPI MODONA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 18 giugno 2003.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
