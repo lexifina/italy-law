@@ -1,0 +1,11 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 6 dicembre 1962, n. 1643, concernente la istituzione dell'Ente nazionale per l'energia elettrica e trasferimento ad esso delle imprese esercenti le industrie elettriche;
+
+Visto l'art. 76 della Costituzione;
+
+Visto l'art. 87, quinto comma, della Costituzione;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per l'industria ed il commercio, di concerto col Ministri per il bilancio e per il tesoro; Decreta:
