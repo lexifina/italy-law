@@ -1,0 +1,11 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 23
+
+GENNAIO 1993, N. 17.
+
+Dopo l'articolo 1 e' inserito il seguente:
+
+"Art. 1- bis. - 1. Il settimo comma dell'articolo 2 del decreto- legge 30 gennaio 1979, n. 26, convertito, con modificazioni, dalla legge 3 aprile 1979, n. 95, e successive modificazioni ed integrazioni, e' sostituito dal seguente:
+
+'Nella distribuzione di acconti ai creditori previsti dal secondo comma dell'articolo 212 della legge fallimentare, sono preferiti i lavoratori dipendenti e le imprese artigiane e industriali con non piu' di duecentocinquanta dipendenti'".
