@@ -14,11 +14,13 @@ L'associazione si considera armata quando i partecipanti hanno la disponibilita'
 
 Se le attivita' economiche di cui gli associati intendono assumere o mantenere il controllo sono finanziate in tutto o in parte con il prezzo, il prodotto, o il profitto di delitti, le pene stabilite nei commi precedenti sono aumentate da un terzo alla meta'.
 
-Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. ((PERIODO ABROGATO DALLA L. 19 MARZO 1990, N. 55)). ((118))
+Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che servirono o furono destinate a commettere il reato e delle cose che ne sono il prezzo, il prodotto, il profitto o che ne costituiscono l'impiego. PERIODO ABROGATO DALLA L. 19 MARZO 1990, N.
+
+55. (118)
 
 Le disposizioni del presente articolo si applicano anche alla camorra e alle altre associazioni, comunque localmente denominate, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
 
-(96)
+(96) ((125))
 
 ---------------
 
@@ -35,3 +37,9 @@ La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 
 AGGIORNAMENTO (118)
 
 La L. 19 marzo 1990, n. 55 ha disposto (con l'art. 36, comma 2) che restano tuttavia ferme le decadenze di diritto previste dalla seconda parte del settimo comma del presente articolo conseguenti a sentenze divenute irrevocabili anteriormente alla data di entrata in vigore della stessa L. 19 marzo 1990, n. 55.
+
+---------------
+
+AGGIORNAMENTO (125)
+
+La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione.
