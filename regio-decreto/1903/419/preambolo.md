@@ -1,0 +1,15 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Veduta la legge del 15 giugno 1893, n. 295, sui collegi di probi-viri per le industrie e il regolamento per la esecuzione della legge stessa, approvato con regio decreto del 26 aprile 1894, n. 179;
+
+Veduto il regio decreto del 21 aprile 1898, n. CXXVI (parte supplementare), col quale furono istituiti i collegi di probi-viri per le industrie nella provincia di Firenze;
+
+Veduto il regio decreto del 1° aprile 1900, n. CX (parte supplementare), che stabilisce le sezioni elettorali dei collegi di probi-viri per le industrie della provincia di Firenze tra cui quelle del V collegio per le industrie fisiche, fisico-chimiche e affini con sede in S. Croce sull'Arno;
+
+Ritenuta l'opportunita' di far votare separatamente nei rispettivi comuni di Empoli e di San Miniato gli elettori operai dei comuni stessi che giusta il regio decreto del 1° aprile 1900, n. CX (parte supplementare), fanno parte di una unica sezione, con sede in San Miniato;
+
+Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, l'industria e il commercio; Abbiamo decretato e decretiamo
