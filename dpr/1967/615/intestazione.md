@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+13 giugno 1967
+
+615
+
+Modificazioni allo statuto dell'Universita' degli studi di Padova.
