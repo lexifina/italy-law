@@ -1,0 +1,64 @@
+# Corte costituzionale, ordinanza 169/2004
+
+- ECLI: ECLI:IT:COST:2004:169
+- Tipo: ordinanza
+- Presidente: ZAGREBELSKY
+- Relatore: Annibale Marini
+- Redattore: Francesco Amirante
+- Data della decisione: 07/06/2004
+- Data del deposito: 11/06/2004
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 28514
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2004:169
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Gustavo ZAGREBELSKY; Giudici: Valerio ONIDA, Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 274 del codice civile, promosso con ordinanza del 4 luglio 2003 dalla Corte di cassazione nel procedimento civile vertente tra B. I. e E. M. R. ed altri, iscritta al n. 706 del registro ordinanze 2003 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 37, prima serie speciale, dell'anno 2003.
+    Visto l'atto di costituzione di E. M. R. ed A. M. R.;
+    udito nell'udienza pubblica del 6 aprile 2004 il Giudice relatore Annibale Marini;
+    udito l'avvocato Danilo Riponti per entrambe le parti costituite.
+    Ritenuto che, nel corso di un giudizio promosso nei confronti degli eredi del presunto genitore per ottenere la dichiarazione giudiziale di paternità naturale, la Corte di cassazione ha sollevato, in riferimento agli artt. 2, 3, primo comma (in relazione all'art. 24), 3, secondo comma, 30, primo comma, e 111 Cost., questione di legittimità costituzionale dell'art. 274 del codice civile;
+    che la Corte remittente precisa di essere chiamata a decidere sul ricorso avverso la sentenza di appello con la quale era stata dichiarata improponibile l'azione per la dichiarazione giudiziale di paternità proposta dall'attrice (e quelle, connesse, di petizione ereditaria e di riduzione per lesione di legittima), per l'esistenza di un giudicato negativo già formatosi sull'ammissibilità dell'azione stessa, a seguito della precedente cassazione, da parte della medesima Corte suprema, del decreto di ammissibilità;
+    che il giudice a quo - dopo aver sottolineato l'erroneità dell'assunto del giudice di merito riguardo alla definitività della statuizione di inammissibilità di cui si tratta, essendo, quella richiamata dal giudice di appello, una sentenza di cassazione con rinvio al primo giudice per l'integrazione del contraddittorio - assume, in punto di rilevanza, che l'eventuale caducazione, per effetto del sindacato di legittimità costituzionale, dell'art. 274 cod. civ. comporterebbe la necessaria rimozione della suddetta declaratoria di improcedibilità, appunto adottata in ragione del difetto del presupposto processuale rappresentato dal decreto di ammissibilità previsto dalla norma suddetta;
+    che, quanto alla non manifesta infondatezza, avverte innanzitutto il giudice a quo che la questione che viene sollevata non riguarda - come quella decisa con la sentenza n. 621 del 1987 di questa Corte - «il modo con cui il giudizio preliminare è stato ristrutturato», bensì la stessa previsione di un giudizio di ammissibilità e mira dunque alla radicale eliminazione del medesimo;
+    che la Corte di cassazione dà conto del fatto che questa Corte, con la sentenza n. 70 del 1965, ha affermato che la previsione legislativa, contenuta nel citato art. 274 cod. civ., di un giudizio di delibazione preliminare della domanda di dichiarazione giudiziale di paternità non contrasta, in linea di principio, con il canone costituzionale per cui tutti possono agire in giudizio, in considerazione della libertà, riconosciuta al legislatore, di stabilire, nei singoli casi ed in vista di peculiari esigenze, modalità anche limitative del diritto di difesa, ove comunque ne sia garantita l'esplicazione;
+    che tuttavia, essendo trascorsi molti anni, quel limite, allora ritenuto compatibile con il diritto di azione del figlio naturale, risulta oggi, secondo il giudice a quo, ingiustificatamente limitativo dei valori sostanziali in gioco e, nel contempo, viziato per «eccesso di potere legislativo» a causa della sua irragionevolezza intrinseca, oltre che difficilmente compatibile con il principio della ragionevole durata del processo;
+    che, d'altra parte, pur essendo la ratio della norma impugnata quella di evitare la proposizione di azioni temerarie o infondate, con intenti meramente ricattatori o vessatori nei confronti del preteso genitore - attraverso un vaglio preventivo della domanda con procedimento strutturato in modo da garantire la segretezza dell'indagine - dovrebbe allora innanzitutto rilevarsi come l'attuale disciplina del procedimento non sia più idonea a soddisfare siffatto obiettivo;
+    che infatti, per effetto delle modifiche introdotte prima dalla legge 23 novembre 1971, n. 1047, e poi dalla riforma del diritto di famiglia, che ha sancito l'imprescrittibilità dell'azione, nonché a seguito dell'evoluzione giurisprudenziale, che ha ammesso la ricorribilità in cassazione del relativo provvedimento di secondo grado, la segretezza dell'indagine, di gran lunga attenuata nella fase di merito, appare al remittente totalmente venuta meno nella fase di legittimità, stante la pubblicità dell'udienza dinanzi alla Corte di cassazione;
+    che, essendo pacificamente riconosciuta la possibilità di reiterare la domanda di ammissibilità, senza alcun limite temporale, sulla base di elementi ulteriori, dovrebbe allora concludersi - ad avviso del remittente - che la disciplina censurata finisce paradossalmente per aggravare, anziché tutelare, la posizione del convenuto, lasciandolo esposto a tempo indeterminato a nuove chiamate in giudizio in base all'art. 274 cod. civ., mentre soltanto il rigetto della domanda nel merito, idoneo a passare in giudicato, lo porrebbe definitivamente al riparo da iniziative temerarie e vessatorie;
+    che la norma in esame, secondo il giudice a quo, non pare attuare la previsione costituzionale di «limiti alla ricerca della paternità» di cui all'ultimo comma dell'art. 30 Cost., in quanto tali eventuali limiti possono propriamente attenere ai presupposti sostanziali ed alle condizioni dell'accertamento della filiazione naturale - per assicurarne quella «compatibilità con i diritti dei membri della famiglia legittima» prevista dal precedente comma terzo - e non già risolversi in ostacoli processuali all'accertamento stesso;
+    che, pertanto, essendo venuta meno la funzione di cautela nei confronti del convenuto, fin qui assolta dall'art. 274 cod. civ., altro non residuerebbe se non un oggettivo e non giustificabile ostacolo alla tutela dei figli naturali ed a quei diritti allo status ed alla identità biologica che la coscienza sociale avverte come essenziali alla realizzazione della persona, con conseguente violazione degli artt. 30, primo comma, e 2 della Costituzione;
+    che ad avviso del remittente sarebbe altresì non manifestamente infondato il dubbio di legittimità riferito alla violazione del principio di eguaglianza, poiché limiti analoghi a quelli in vigore per l'accertamento della paternità naturale non sono previsti per l'azione di reclamo di legittimità, con la conseguenza che verrebbe a realizzarsi, ai fini del conseguimento del proprio status, una ingiustificata disparità di trattamento tra figli di genitori coniugati e figli di genitori non coniugati;
+    che il procedimento delibativo di cui all'art. 274 cod. civ. appare infine alla Corte di cassazione difficilmente compatibile con il canone della ragionevole durata del processo di cui al novellato art. 111 Cost. ed all'art. 6, paragrafo 1, della Convenzione europea dei diritti dell'uomo e delle libertà fondamentali, ratificata con legge 4 agosto 1955, n. 848;
+    che si sono costituiti in giudizio i convenuti nel giudizio a quo, concludendo per la declaratoria di inammissibilità o, in subordine, di non fondatezza della questione.
+    Considerato che la Corte di cassazione dubita, in riferimento agli artt. 2, 3, primo comma (in relazione all'art. 24), 3, secondo comma, 30, primo comma, e 111 Cost., della legittimità costituzionale dell'articolo 274 cod. civ.;
+    che secondo la remittente la previsione, in relazione al procedimento di dichiarazione giudiziale di paternità o maternità naturale, di una preventiva fase camerale di ammissibilità del relativo giudizio, era giustificata dalla opportunità di preservare l'asserito genitore dal danno che gli poteva derivare da azioni infondate, temerarie e, peggio ancora, ricattatorie, danno reso grave dalla pubblicità del processo;
+    che, a detta del giudice a quo, una volta acquisite dal procedimento di ammissibilità molte delle caratteristiche del processo ordinario ed una volta affermata la ricorribilità in cassazione del provvedimento conclusivo, da un lato è venuta meno la stessa opportunità di un giudizio preliminare che funga da filtro al giudizio ordinario di merito, dall'altro la maggior complicazione e durata del giudizio di ammissibilità incide negativamente sui diritti che l'azione in questione deve soddisfare, rendendo quindi intrinsecamente irragionevole la norma censurata;
+    che, nel corso del complesso iter del giudizio a quo, la Corte di cassazione, in conformità al carattere di presupposto processuale proprio del decreto di ammissibilità, ne aveva affermato la necessaria preesistenza al giudizio di merito, cassando il provvedimento sospensivo di quest'ultimo;
+    che, in riferimento all'eccezione di intervenuto giudicato in punto di ammissibilità della domanda, fondata sulla pronuncia citata - con conseguente, possibile, irrilevanza dell'attuale questione - il remittente omette ogni motivazione, in quanto le considerazioni relative agli effetti caducatori dell'invocata declaratoria di illegittimità costituzionale si riferiscono esplicitamente ad una precedente cassazione del decreto di ammissibilità per violazione del contraddittorio;
+    che, inoltre, con sentenza n. 341 del 1990, questa Corte ha dichiarato l'illegittimità costituzionale dell'art. 274, primo comma, cod. civ., nella parte in cui, se si tratta di minore infrasedicenne, non prevede che l'azione promossa dal genitore esercente la potestà sia ammessa solo quando sia ritenuta dal giudice rispondente all'interesse del figlio;
+    che, nella motivazione di tale sentenza, la Corte ha tra l'altro affermato che «la veridicità del preteso rapporto di filiazione col convenuto, del quale il giudice deve in questa prima fase del giudizio controllare l'esistenza di seri indizi, è pure un elemento dell'interesse del minore»;
+    che, come questa Corte ha già rilevato nella sentenza n. 216 del 1997, «il procedimento in esame è ispirato pertanto a due finalità concorrenti e non in contrasto tra loro, essendo posto a tutela non solo del convenuto contro il pericolo di azioni temerarie e ricattatorie, ma anche e soprattutto del minore, il cui interesse sta nell'affermazione di un rapporto di filiazione veridico, che non pregiudichi la formazione e lo sviluppo della propria personalità»;
+    che l'ordinanza di remissione, che pure richiede l'integrale declaratoria di illegittimità costituzionale della norma impugnata, non tiene alcun conto della modifica che la stessa ha subito per effetto della suindicata pronuncia additiva di questa Corte e della individuazione di altre ragioni oltre quelle che ispiravano la norma nella sua originaria formulazione;
+    che il provvedimento di remissione, non avendo compiutamente individuato la norma denunciata e le ragioni che la ispirano, è quindi anche carente di motivazione sulla non manifesta infondatezza della questione;
+    che la prospettata questione deve quindi ritenersi manifestamente inammissibile.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 274 del codice civile sollevata dalla Corte di cassazione, in riferimento agli artt. 2, 3, primo comma (in relazione all'art. 24), 3, secondo comma, 30, primo comma, e 111 della Costituzione, con l'ordinanza indicata in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 7 giugno 2004.
+    F.to:
+    Gustavo ZAGREBELSKY, Presidente
+    Francesco AMIRANTE, Redattore
+    Giuseppe DI PAOLA, Cancelliere
+    Depositata in Cancelleria l'11  giugno 2004.
+    Il Direttore della Cancelleria
+    F.to: DI PAOLA
