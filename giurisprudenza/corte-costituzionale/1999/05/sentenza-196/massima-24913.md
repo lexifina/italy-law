@@ -1,0 +1,27 @@
+# Massima n. 24913
+
+- Pronuncia: Corte costituzionale, sentenza 196/1999 (ECLI:IT:COST:1999:196)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:196
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    196/99  B.   ARTIGIANATO  -  LEGGE  QUADRO  -   RITENUTA RILEVANZA,  ANCHE AI FINI PREVIDENZIALI, DELLA NOZIONE DI IMPRESA ARTIGIANA  CONTENUTA  NELLE  LEGGI   DELLE  REGIONI  TITOLARI  DI COMPETENZA  PRIMARIA  IN  MATERIA DI ARTIGIANATO  (NELLA  SPECIE: REGIONE   FRIULI-VENEZIA   GIULIA)   -   DEDOTTA   INGIUSTIFICATA DISPARITA'  DI  TRATTAMENTO  FRA IMPRESE  AVENTI  CARATTERISTICHE UNIFORMI,  IN MATERIA (COME QUELLA PREVIDENZIALE) RISERVATA  ALLA LEGGE  DELLO  STATO - POSSIBILITA', E CONSEGUENTE NECESSITA',  DI INTERPRETARE   LA   DISPOSIZIONE    IMPUGNATA    IN   SENSO   NON INCOSTITUZIONALE,   DIVERSO   DA  QUELLO   AD   ESSA   ATTRIBUITO DALL'AUTORITA'  RIMETTENTE  - NON FONDATEZZA DELLA QUESTIONE  NEI SENSI DI CUI IN MOTIVAZIONE.
+
+## Testo
+
+Non  e' fondata, nei sensi di cui in motivazione, la questione di legittimita' costituzionale - sollevata in riferimento agli artt. 3,  38,  quarto comma, e 116 Cost.  - ll'art.  13,  sesto  comma, primo  e  secondo  periodo, della legge 8 agosto  1985,  n.   443 (Legge   quadro   sull'artigianato),    il   quale,    escludendo l'applicabilita'  delle altre disposizioni della stessa legge nel territorio  delle Regioni a statuto speciale, titolari - come nel caso  di specie, la Regione Friuli-Venezia Giulia - di competenza primaria  in  materia di artigianato, e attribuendo  efficacia  a tutti  gli  effetti  di legge alla iscrizione  negli  albi  delle imprese  artigiane disciplinati da dette Regioni,  determinerebbe una  ingiustificata disparita' di trattamento fra imprese  aventi caratteristiche  omogenee, nella materia previdenziale, riservata alla  competenza  dello Stato e sottratta alla competenza  (salvo quella  meramente  integrativa  e di attuazione)  delle  predette Regioni.  Infatti la prima parte della disposizione, che dichiara non  applicabili  nel  territorio  di  dette  Regioni  a  statuto speciale  le  norme della stessa legge n.  443 del 1985, puo',  e quindi  deve  -  giacche'  se cosi' non fosse,  la  eccezione  di incostituzionalita' dovrebbe essere riconosciuta fondata - essere interpretata  nel  senso di escludere l'applicabilita' di  quelle disposizioni  che,  concernendo  la   disciplina  della   materia dell'artigianato,  sono, nelle predette Regioni, sostituite dalle norme  dettate  da  queste nell'esercizio della  loro  competenza primaria,  e  non  nel  senso che, ai fini  della  disciplina  di rapporti estranei alla predetta materia, e afferenti alla materia previdenziale,   di  competenza  statale,   possano  valere   nei territori delle Regioni ad autonomia differenziata, riguardo alla nozione dell'impresa artigiana, le norme regionali (nella specie, artt.   5  della  legge della Regione  Friuli-Venezia  Giulia  24 febbraio  1970,  n.   3 e 3 della legge della stessa  Regione  10 aprile  1972, n.  17), anziche' i principi e le norme  ricavabili dalla  legislazione statale (art.  3, secondo comma, della stessa legge  n.   443 del 1985).  Ed altresi', la seconda  proposizione contenuta  nella  disposizione impugnata non va intesa nel  senso che all'impresa iscritta nell'albo delle imprese artigiane di una di tali Regioni possa applicarsi la disciplina che la legge dello Stato  detta  in materia previdenziale nei riguardi  di  siffatte imprese,  anche  se  essa non abbia i requisiti che,  secondo  la medesima  legge  dello Stato, condizionano  tale  applicabilita'. Pertanto,  nelle  medesime Regioni risulteranno  applicabili  due nozioni  dell'impresa  artigiana:   l'una, ricavata  dalla  legge regionale,  rilevante  ai  fini  della  legislazione  concernente l'artigianato;   l'altra, desunta dalla legge statale,  rilevante ai  fini  della  legislazione concernente  materie,  come  quella previdenziale,   nelle  quali  lo   Stato  abbia  conservato   la competenza fondamentale.  Cosi' intesa, e dunque esclusa ogni sua incidenza  in  materia previdenziale, la disposizione  denunciata sfugge, sotto ogni profilo, alle formulate censure.  -  V.,  in particolare, S.  n.  336/1989 - dove si  afferma  che, essendo  la  materia previdenziale riservata allo Stato,  non  e' ammissibile  che  ai  fini previdenziali, la nozione  di  impresa artigiana  sia, nelle Regioni con competenza primaria in  materia di  artigianato, diversa da quella della legge statale - e S.  n. 307/1996,   nella   quale   la  Corte   ha   chiarito,   in   via interpretativa,   che  <<l'iscrizione   nell'albo  delle  imprese artigiane,  anche  nell'ambito delle Regioni a statuto  speciale, non  fa  sorgere  una  presunzione assoluta  circa  la  qualifica artigiana  dell'impresa, ma al contrario il giudice deve, ai fini dell'applicabilita'  del privilegio di cui all'art.   2751-'bis', numero  5,  del  codice civile, sindacare  la  reale  consistenza dell'impresa,  con conseguente eventuale disapplicazione ell'atto amministrativo   di   iscrizione   di   cui  sia   accertata   la illegittimita'>>.
+
+
+
+- V.  inoltre, 'ex plurimis', S.  nn.  59/1966, 168/1987 e 227/1990.
+
+## Norme
+
+- legge, 08/08/1985 n. 443, art. 13, comma 6 I e II periodo
+
+## Parametri
+
+- Costituzione, art. 38, comma 4
+- Costituzione, art. 3
+- Costituzione, art. 116
