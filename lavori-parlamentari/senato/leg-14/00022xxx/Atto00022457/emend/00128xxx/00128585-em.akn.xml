@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3276/A/5.0.102"/>
+					<an:FRBRdate date="2005-03-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.102"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@"/>
+					<an:FRBRdate date="2005-03-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@.akn"/>
+					<an:FRBRdate date="2005-03-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-03-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-03-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3276/A/5.0.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3276" showAs="DDL 3276"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17569" showAs="Ciccanti"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3865" showAs="Tarolli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17584" showAs="Iervolino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/16994" showAs="Danzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17596" showAs="Maffioli"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17647" showAs="Sudano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17654" showAs="Tunis"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3276</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Ciccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Tarolli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Iervolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Danzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Maffioli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Sudano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Tunis</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 5, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 5-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Nell'ambito degli incarichi equivalenti a quelle di direzione di uffici dirigenziali generali di cui all'articolo 23, comma 1, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazione, sono ricompresi anche gli incarichi di esperti, scelti tra dirigenti della pubblica amministrazione, presso i consigli di amministrazione dell'INPS, dell'INAIL, dell'INPDAP e dell'IPSEMA, ai sensi dell'articolo 3, comma 5, del decreto legislativo 30 giugno 1994, n. 479.
+				</an:p>
+				<an:p align="justify">        2. Le amministrazioni di provenienza dei dirigenti che abbiano maturato i requisiti di cui al comma 1 sono tenute, in caso di rientro dei medesimi dirigenti, ad affidare agli stessi entro un anno e nei limiti della dotazione organica vigente, un incarico di livello dirigenziale generale tra quelli che si renderanno disponibili».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
