@@ -1,0 +1,21 @@
+# Massima n. 18577
+
+- Pronuncia: Corte costituzionale, sentenza 330/1992 (ECLI:IT:COST:1992:330)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1992:330
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    330/92  B.   PENSIONI  -  BENEFICI  COMBATTENTISTICI   - POSSIBILITA' DI PENSIONAMENTO ANTICIPATO CON ABBUONO SETTENNALE A FINI  PENSIONISTICI  -  SALVEZZA  DEI BENEFICI  -  PREVISIONE  DI TASSATIVE IPOTESI DI CESSAZIONE DAL SERVIZIO - MANCATA INCLUSIONE DEL  CASO DI CESSAZIONE ANTICIPATA DEL RAPPORTO PER  SOPPRESSIONE DEL POSTO O RIDUZIONE DELL'ORGANICO - VIOLAZIONE DEL PRINCIPIO DI EGUAGLIANZA - ILLEGITTIMITA' COSTITUZIONALE "IN PARTE QUA".
+
+## Testo
+
+Nel  concedere  i benefici combattentistici, tra cui  quello  del pensionamento anticipato, previo un aumento del servizio di sette anni  a  favore di tutti i dipendenti pubblici (l.  n.   336  del 1970)    -    disciplinandone     l'applicazione   mediante    il contingentamento  annuale dei pensionamenti per scaglioni (  d.l. n.   261 del 1974) - e nel disporre la salvezza dei benefici  nel caso  di cessazione dal servizio o per raggiungimento dei  limiti di eta' (e anzianita'), o per dispensa dal servizio per motivi di salute,  o per decesso dell'impiegato, o in applicazione della l. n.   804  del  1973, il legislatore ha mostrato  l'intenzione  di includere   nelle  ipotesi  fatte   salve,  tutte  quelle   cause dell'estinzione   dal  servizio   degli  impiegati   verificatesi indipendentemente  dalla volonta' degli stessi.  Configura quindi una   evidente  anomalia  per  la  irragionevole  disparita'   di trattamento tra dipendenti che ne deriva, il non aver incluso tra dette  cause  "involontarie", quella della cessazione  anticipata del  rapporto d'impiego, rispetto alla data dello  scaglionamento prevista  dalle  singole  amministrazioni, per fine  del  periodo (biennale) di disponibilita', conseguente alla soppressione di un ufficio o alla riduzione di un ruolo organico, quando l'impiegato non    possa    essere    utilizzato    in    un    altro    ramo dell'amministrazione,  tanto  piu' che la non diversa ipotesi  di salvezza  di  tali benefici, quale quella della  aspettativa  per riduzione  di quadri - di cui alla citata l.  n.  804 del 1973  - e'   gia'  considerata  dal   legislatore  stesso,  seppure   con esclusivo,  discriminatorio  riferimento ad alcune  categorie  in esubero  (ufficiali dell'Esercito, della Marina, dell'Aeronautica e   dei   corpi   di  polizia    dello   Stato).    E'   pertanto costituzionalmente  illegittimo,  per   violazione  dell'art.   3 Cost.,  l'art.   1, d.l.  8 luglio 1974, n.  261, nella parte  in cui  non  estende  a tutti gli altri  lavoratori  destinatari  di quelle provvidenze, tra le ipotesi di cessazione dal servizio non pregiudicanti  il  godimento  dei benefici stabiliti per  gli  ex combattenti,  anche  quella  della   anticipata  estinzione   del rapporto  di  lavoro  per  soppressione  del  posto  o  riduzione dell'organico.
+
+## Norme
+
+- decreto-legge, 08/07/1974 n. 261, art. 1
+
+## Parametri
+
+- Costituzione, art. 3
