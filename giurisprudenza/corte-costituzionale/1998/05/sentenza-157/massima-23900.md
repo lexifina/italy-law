@@ -1,0 +1,26 @@
+# Massima n. 23900
+
+- Pronuncia: Corte costituzionale, sentenza 157/1998 (ECLI:IT:COST:1998:157)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:157
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   157/98  B.  PAESAGGIO (TUTELA DEL) - ABUSI  EDILIZI,  NON COMPORTANTI  AUMENTI DI SUPERFICIE O VOLUMI, IN ZONA VINCOLATA  A FINI  PAESISTICO-AMBIENTALI  -  ISTANZE  DI  SANATORIA-CONDONO  - AFFERMATA  POSSIBILITA',  IN CIRCOLARE DEL MINISTERO PER  I  BENI CULTURALI  E  AMBIENTALI,  DI ESERCIZIO DEL  POTERE  STATUALE  DI ANNULLAMENTO SUI PARERI FAVOREVOLI DELLE REGIONI CONSIDERATI TALI PER  SILENZIO-ASSENSO  -  PREVISTA TRASMISSIONE, DA  PARTE  DELLE REGIONI ALLE COMPETENTI SOVRAINTENDENZE, DELLE ISTANZE PER CUI IL SILENZIO-ASSENSO SI SIA VERIFICATO - RICORSO DELLA REGIONE VENETO PER  CONFLITTO  DI  ATTRIBUZIONE  -  LAMENTATA  VIOLAZIONE  DELLE COMPETENZE  DELLE REGIONI IN MATERIA PER INOSSERVANZA DELLE NORME CHE  PER  GLI  ATTI DI INDIRIZZO E COORDINAMENTO  RICHIEDONO  UNA DELIBERA  DEL  CONSIGLIO  DEI MINISTRI, E PER LA  ESTENSIONE  DEL POTERE  STATUALE  DI  ANNULLAMENTO  AL DI LA'  DEL  CONSENTITO  - DENUNCIATA  INCIDENZA,  ALTRESI', SUL DIRITTO DI DIFESA,  PER  LE INCERTEZZE  CHE SI DETERMINEREBBERO IN CASO DI MANCATO INTERVENTO DEL  MINISTRO  - INSUSSISTENZA - SPETTANZA ALLO STATO DEL  POTERE ESERCITATO.
+
+## Testo
+
+Nei casi di abusi edilizi in zona vincolata (ex art.  7, legge 29 giugno  1939, n.  1497) a fini paesistico-ambientali, per cui sia stata presentata istanza di sanatoria-condono, spetta allo Stato, e per esso al Ministero dei beni culturali e ambientali, indicare con  circolare  alle Regioni le procedure applicative  necessarie per  l'esercizio  del  potere statuale di annullamento,  in  base all'art.  82, comma 9, dei pareri favorevoli delle stesse Regioni su  tali  istanze,  anche  quando,   trattandosi  di  opere   non comportanti  aumenti  di  superficie o volume,  il  parere  della Regione   deve   intendersi   reso  in   senso   favorevole   per silenzio-assenso.   Non  puo' infatti ritenersi che la  impugnata circolare   abbia  il  contenuto  di  un  atto  di  indirizzo   e coordinamento  da emanarsi, ai sensi degli artt.  4, comma 3, del d.P.R.   24 luglio 1977, n.  616, e 2, comma 3, lett.  c),  della legge  23  agosto 1988, n.  400, con delibera del  Consiglio  dei ministri,  giacche' la circolare si e' limitata a fornire, in uno spirito  di  collaborazione,  l'interpretazione  che  alle  norme applicabili  al  caso aveva dato un parere dell'Avvocatura  dello Stato,  senza apportare alcun vincolo innovativo per  l'attivita' amministrativa  delle Regioni.  Cosi' come e' da escludere che le competenze  spettanti alle Regioni in base agli artt.  117 e  118 Cost.   in materia di tutela del paesaggio, subiscano offesa  per le affermazioni della circolare circa la estensione del potere di annullamento del Ministero -pacificamente riconosciuto in caso di provvedimento  formalmente rilasciato dalla Regione-  all'ipotesi di   silenzio-assenso,  essendo  tale   estensione  una   diretta conseguenza  della previsione, con legge, nei casi suddetti,  del silenzio-assenso,  e  non  essendovi  d'altronde  dubbio  che  la regola,  riconosciuta  dalla  Corte esistente, secondo  la  quale nella  ripartizione  di  competenze  tra Stato  e  Regioni  nella materia  'de  qua',  le competenze statali, in  caso  di  mancato esercizio  di quelle regionali, o in quanto sia necessario per il raggiungimento  dei  fini essenziali della tutela, devono  essere esercitate,  a  maggior  ragione si impone nelle ipotesi  in  cui l'inerzia  regionale  sia stata procedimentalizzata  quanto  agli effetti.   E  priva  di fondamento, infine, e' anche  la  censura avanzata  in  riferimento all'art.  24 Cost., per  la  incertezza sulla  giurisdizione  che si determinerebbe, in caso  di  mancato esercizio,  da parte del Ministro, del potere di annullamento  in questione,  per il dubbio che potrebbe nascerne tra l'impugnativa del  silenzio  ministeriale  e l'impugnativa del  silenzio  della Regione sulla richiesta di parere ex art.  32, della legge n.  47 del  1985, e cio' in quanto, non configurandosi nei confronti del Ministro  -salvo  che  esso abbia dato inizio alla  procedura  di annullamento-  un obbligo di provvedere alla cui inosservanza sia assegnato  un certo valore, all'inerzia ministeriale non potrebbe essere  attribuito quel significato giuridicamente rilevante  che solo  potrebbe  renderla  idonea ad essere  oggetto  di  autonoma impugnativa.  -  Riguardo  alle  competenze statali e regionali in  materia  di tutela  del  paesaggio  v.  in particolare, S.  nn.   302/1988  e 151/1986.                                          red.: S. Pomodoro
+
+## Norme
+
+- circolare del ministero beni culturali e ambientale, 22/07/1996
+
+## Parametri
+
+- Costituzione, art. 24
+- decreto del Presidente della Repubblica, 24/07/1977 n. 616, art. 4, comma 3
+- decreto del Presidente della Repubblica, 24/07/1977 n. 616, art. 82
+- Costituzione, art. 118
+- Costituzione, art. 117
+- legge, 23/08/1988 n. 400, art. 2, comma 3 lett. e)
