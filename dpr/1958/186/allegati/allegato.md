@@ -1,0 +1,3 @@
+TESTO IN LINGUA
+
+Parte di provvedimento in formato grafico
