@@ -1,0 +1,19 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156;
+
+Visto il regio decreto 19 luglio 1941, n. 1198, e successive modifiche;
+
+Vista la convenzione stipulata il 21 ottobre 1964 fra il Ministero delle poste e delle telecomunicazioni e la SIP - Societa' italiana per l'esercizio telefonico p.a., approvata con decreto del Presidente della Repubblica 26 ottobre 1964, n. 1594, e successive modifiche;
+
+Visto il decreto del Presidente della Repubblica 28 marzo 1975, n. 61;
+
+Vista la delibera del Comitato interministeriale per la programmazione economica del 20 febbraio 1976;
+
+Sentito il consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+Visto il provvedimento del Comitato interministeriale dei prezzi n. 3/1976 del 12 marzo 1976;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le poste e le telecomunicazioni di concerto con il Ministro per il tesoro; Decreta:
