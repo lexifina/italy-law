@@ -1,0 +1,20 @@
+# Massima n. 8635
+
+- Pronuncia: Corte costituzionale, ordinanza 266/1976 (ECLI:IT:COST:1976:266)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1976:266
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.  266/76.  REATO  IN  GENERE  -  LIBERAZIONE  CONDIZIONALE  - PRESUPPOSTI  E  COMPETENZA  A CONCEDERLA - COD. PEN., ARTT. 144 E 176;  COD.  PROC.  PEN., ART. 585, E R.D. 28 MAGGIO 1931, N. 602, ART.  43  (NORME  DI  ATT.  DEL COD. PROC. PEN.) - ILLEGITTIMITA' COSTITUZIONALE  GIA'  DICHIARATA  DELL'ULTIMA  DISPOSIZIONE - JUS SUPERVENIENS:  LEGGE  12  FEBBRAIO  1975, N. 6 - NECESSITA' DI UN NUOVO  ESAME DELLA RILEVANZA - RESTITUZIONE DEGLI ATTI AL GIUDICE A QUO.
+
+## Testo
+
+Vanno  restituiti ai giudici remittenti, per un nuovo esame della rilevanza,  gli  atti  relativi  alle  questioni  di legittimita' costituzionale:  a)  degli  artt.  144  c.p.  e 43 r.d. 28 maggio 1931,  n. 602, contenente disposizioni di attuazione del c.p.c. - in  riferimento   agli  artt.  102  e  110  Cost.  -,  in  quanto prevedono  che  la  liberazione  condizionale  sia  concessa  dal Ministro della giustizia anziche' dal giudice di sorveglianza; b) dell'art.  176  c.p.  -  in riferimento agli artt. 3 e 27 Cost. - nella  parte  in  cui  dispone  che  possa  essere  ammesso  alla liberazione condizionale soltanto il condannato che abbia espiato almeno  trenta  mesi  di  detenzione,  in  quanto irrazionalmente sarebbero  esclusi  dal  beneficio  i  condannati  a  pene gravi; c)  dello stesso art. 176 c.p. - in riferimento agli artt. 3 e 27 Cost.  - nella parte in cui dispone che possa essere ammesso alla liberazione  condizionale,  se  recidivo qualificato, soltanto il condannato  che  abbia espiato almeno quattro anni di detenzione, in  quanto l'enorme sopravvalutazione della recidiva annullerebbe ingiustificatamente  quasi del tutto, per i recidivi, il campo di applicazione  dell'istituto  e  sarebbe  irrazionale  che chi sia recidivo  ed abbia ottenuto una condanna inferiore a quattro anni venga  ad  essere  trattato  in  maniera deteriore rispetto a chi abbia  ottenuto una pena maggiore e sarebbe ingiustificato che ai fini  della  concessione  del  beneficio  si  tenga  conto  della condotta  tenuta durante l'esecuzione della pena; d) dello stesso art.  176 e dell'art. 144, secondo comma, c.p., nonche' dell'art. 585  c.p.p.  -  in riferimento all'art. 24 Cost. - nelle parti in cui  non  prevedono  assistenza  o  intervento  obbligatorio  del difensore  nel  corso  della  procedura  diretta  ad  ottenere la liberazione  condizionale;  infatti  e'  intervenuta  - a seguito della  sent.  della  Corte  n.  204  del  1974  con  cui e' stato dichiarato illegittimo il predetto art. 43 r.d. n. 602 del 1931 - la  legge  12  febbraio  1975,  n. 6, la quale ha disposto che la liberazione  condizionale  e'  chiesta  alla  Corte d'appello che provvede  su parere del giudice di sorveglianza, e che le istanze presentate  in  data  anteriore alla sua entrata in vigore devono essere  immediatamente  trasmesse  al  giudice competente in base alla nuova normativa.
+
+## Norme
+
+- codice penale, art. 176
+- codice penale, art. 144
+- regio decreto, 28/05/1931 n. 602, art. 43
+- codice di procedura penale 1930, art. 585
