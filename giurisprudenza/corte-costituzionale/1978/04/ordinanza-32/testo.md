@@ -1,0 +1,62 @@
+# Corte costituzionale, ordinanza 32/1978
+
+- ECLI: ECLI:IT:COST:1978:32
+- Tipo: ordinanza
+- Presidente: ROSSI
+- Relatore: Leonetto Amadei
+- Data della decisione: 05/04/1978
+- Data del deposito: 12/04/1978
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 16158
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1978:32
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Prof. PAOLO ROSSI, Presidente - Dott. LUIGI
+ OGGIONI - Avv. LEONETTO AMADEI - Prof. EDOARDO VOLTERRA - Prof. GUIDO
+ ASTUTI - Dott. MICHELE ROSSANO - Prof. LEOPOLDO ELIA - Prof.
+ GUGLIELMO ROEHRSSEN - Avv. ORONZO REALE - Dott. BRUNETTO BUCCIARELLI
+ DUCCI - Avv. ALBERTO MALAGUGINI - Prof. LIVIO PALADIN - Dott. ARNALDO
+ MACCARONE, Giudici,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel  giudizio  di  legittimità  costituzionale  dell'art. 1886 del
+ codice civile, promosso con ordinanza emessa il 29 settembre  1975  dal
+ pretore di Rieti, nel procedimento civile vertente tra Cerafogli Pasqua
+ e  l'I.N.P.S.,  iscritta  al  n.  501  del  registro  ordinanze  1975 e
+ pubblicata nella Gazzetta Ufficiale della  Repubblica  n.  332  del  17
+ dicembre 1975.
+     Visto  l'atto  di  intervento  del  Presidente  del  Consiglio  dei
+ ministri;
+     udito nella camera  di  consiglio  dell'8  marzo  1978  il  Giudice
+ relatore Leonetto Amadei.
+     Ritenuto  che  con  la  ordinanza in epigrafe emessa dal pretore di
+ Rieti nella causa di lavoro vertente tra Cerafogli Pasqua e  l'I.N.P.S.
+ è   stata   sollevata,   in  riferimento  agli  artt.  3  e  38  della
+ Costituzione, questione di legittimità costituzionale dell'art.   1886
+ codice civile.
+     Considerato  che  la  questione prospettata negli stessi termini è
+ stata già dichiarata non fondata da questa Corte con  sentenza  n.  91
+ del 1976.
+
+## Dispositivo
+
+per questi motivi
+                         LA CORTE COSTITUZIONALE
+     dichiara  la manifesta infondatezza della questione di legittimità
+ costituzionale dell'art. 1886 c.c. sollevata, in riferimento agli artt.
+ 3 e 38 della Costituzione, dal pretore di Rieti  con  la  ordinanza  in
+ epigrafe.
+     Così  deciso  in  Roma,  in  camera di consiglio, nella sede della
+ Corte costituzionale, Palazzo della Consulta, il 5 aprile 1978.
+                                   F.to: PAOLO ROSSI - LUIGI  OGGIONI  -
+                                   LEONETTO  AMADEI - EDOARDO VOLTERRA -
+                                   GUIDO  ASTUTI  -  MICHELE  ROSSANO  -
+                                   LEOPOLDO ELIA - GUGLIELMO ROEHRSSEN -
+                                   ORONZO  REALE  - BRUNETTO BUCCIARELLI
+                                   DUCCI - ALBERTO  MALAGUGINI  -  LIVIO
+                                   PALADIN - ARNALDO MACCARONE.
+                                   GIOVANNI VITALE - Cancelliere
