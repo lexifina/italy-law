@@ -1,0 +1,9 @@
+ALLEGATO B)
+
+(Articolo 12, comma 4 )
+
+ESAME FINALE
+
+Al termine del Corso i vice commissari di polizia penitenziaria in prova sosterranno un esame finale consistente in una prova scritta ed un colloquio. La prova scritta avra' ad oggetto un questionario a risposta multipla sulle materie del programma di cui rispettivamente agli allegati a) e c).
+
+Anche il colloquio vertera' sulle materie oggetto del programma di cui agli allegati a) e c).
