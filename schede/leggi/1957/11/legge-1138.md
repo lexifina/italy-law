@@ -1,0 +1,12 @@
+# Legge 25 novembre 1957, n. 1138
+
+- Tipo: Ordinaria
+- Numero: 1138
+- Data: 1957-11-25
+- Titolo: Adeguamento   dell'indennità   di  servizio  speciale  spettante  ai funzionari di pubblica sicurezza.
+- Pubblicazione: (Pubblicata nella G.U. del 7 dicembre 1957)
+- Legislatura: II legislatura della Repubblica (repubblica_02)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-25;1138
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;2.legislatura;3122
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1957_1138
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
