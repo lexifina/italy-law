@@ -1,0 +1,5 @@
+Allegato B
+
+FAC-SIMILE DEI CONTRASSEGNI
+
+Parte di provvedimento in formato grafico
