@@ -1,0 +1,12 @@
+# Legge 20 dicembre 1966, n. 1119
+
+- Tipo: Ordinaria
+- Numero: 1119
+- Data: 1966-12-20
+- Titolo: Conversione in legge del decreto-legge 9 novembre 1966, n. 911, concernente l'attuazione del regime dei prelievi nel settore del grassi.
+- Pubblicazione: (Pubblicata nella G.U. del 28 dicembre 1966 n. 326)
+- Legislatura: IV legislatura della Repubblica (repubblica_04)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1966-12-20;1119
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;4.legislatura;3606
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1966_1119
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
