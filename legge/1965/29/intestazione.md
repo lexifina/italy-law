@@ -1,0 +1,17 @@
+LEGGE
+
+19 febbraio 1965
+
+29
+
+Conversione in legge del decreto-legge 23 dicembre 1964, n. 1352,
+
+concernente la proroga delle disposizioni in materia di blocco dei
+
+licenziamenti del personale delle imposte di consumo e di contratti
+
+di appalto dei servizi di riscossione delle imposte stesse, previste
+
+dagli articoli 1 e 2 della legge 20 dicembre 1962, n. 1718, gia'
+
+prorogate con la legge 13 novembre 1963, n. 1517.
