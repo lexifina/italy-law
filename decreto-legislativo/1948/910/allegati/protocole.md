@@ -1,0 +1,3 @@
+Protocole de la premiere session de la Commission mixte italo-belge
+
+Parte di provvedimento in formato grafico
