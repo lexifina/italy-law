@@ -4,32 +4,16 @@ Art. 163-bis.
 
 ((Tra il giorno della notificazione della citazione e quello della comparizione debbono intercorrere termini liberi non minori:
 
-di trenta giorni, se il luogo della notificazione si trova nella circoscrizione del tribunale adito.
+di trenta giorni, se il luogo della notificazione si trova nella circoscrizione del tribunale adito;
 
 di quaranta giorni, se il luogo della notificazione si trova fuori della circoscrizione del tribunale, ma entro quella della corte di appello dalla quale dipende;
 
 di sessanta giorni, se il luogo della notificazione si trova nella circoscrizione di altra corte di appello;
 
-di novanta giorni, se il luogo della notificazione si trova nelle province libiche, o in territori del bacino del Mediterraneo soggetti alla sovranita' italiana o in Stati europei o posti nel bacino del Mediterraneo;
+di novanta giorni, se il luogo della notificazione si trova in Stati europei o in territori posti nel bacino del Mediterraneo;
 
-di centottanta giorni, se il luogo della notificazione si trova, in altro Stato o in altro territorio soggetto alla sovranita' italiana, e quando la notificazione e' eseguita, a norma dell'art. 150.
-
-Non possono essere fissati termini maggiori di quelli sopra indicati, aumentati della meta'.
+di centottanta giorni, se il luogo della notificazione si trova in altro Stato o in altro territorio soggetto alla sovranita' italiana, e quando la notificazione e' eseguita a norma dell'art. 150.
 
 Nelle cause che richiedono pronta spedizione il presidente puo', su istanza dell'attore e con decreto motivato in calce dell'atto originale e delle copie della citazione, abbreviare fino alla meta' i termini indicati dal primo comma.
 
-Se nel giorno indicato nella citazione il giudice istruttore non tiene udienza, le parti dovranno comparire davanti allo stesso giudice e nella prima udienza successiva destinata per la prima comparizione delle parti)).((3))
-
----------------
-
-AGGIORNAMENTO (3)
-
-Il D.Lgs. 5 maggio 1948, n. 483 ha disposto (con l'art. 1, comma 1) che "Fino alla revisione generale del codice di procedura civile, approvato con regio decreto 28 ottobre 1940, n. 1443 e coordinato col codice civile con regio decreto 20 aprile 1942, n. 504, sono ad esso apportate le modificazioni e le aggiunte risultanti dagli articoli seguenti.".
-
-Ha inoltre disposto (con l'art. 38, comma 1) che la presente modifica avra' esecuzione a cominciare dal primo gennaio 1949.
-
-La L. 29 dicembre 1948, n. 1470, nel modificare il D.Lgs. 5 maggio 1948, n. 483, ha conseguentemente disposto (con l'articolo unico, comma 1) che "L'entrata in vigore del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni e aggiunte al Codice di procedura civile e' sospesa fino al 31 marzo 1949".
-
-La L. 31 marzo 1949, n. 92, nel modificare il D.Lgs. 5 maggio 1948, n. 483, ha conseguentemente disposto (con l'articolo unico, comma 1) che "L'entrata in vigore del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni e aggiunte al Codice di procedura civile, gia' sospesa fino al 31 marzo 1949 per effetto della legge 29 dicembre 1948, n. 1470, resta ulteriormente sospesa fino al 30 giugno 1949".
-
-La L. 5 luglio 1949, n. 341, nel modificare il D.Lgs. 5 maggio 1948, n. 483, ha conseguentemente disposto (con l'articolo unico, comma 1) che "La sospensione del decreto legislativo 5 maggio 1948, n. 483, recante modificazioni ed aggiunte al Codice di procedura, civile, gia', disposta con la legge 31 marzo 1949, n. 92, e' ulteriormente prorogata sino all'entrata in vigore della legge di ratifica del decreto legislativo medesimo".
+Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, almeno cinque giorni liberi prima dell'udienza fissata dal presidente)).
