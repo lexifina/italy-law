@@ -1,0 +1,45 @@
+ELENCO FIRMATARI DELL'ACCORDO COLLETTIVO NAZIONALE PER LA DISCIPLINA DEI RAPPORTI CON I BIOLOGI AMBULATORIALI
+
+SOTTOSCRITTO IL 17 MAGGIO 1991
+
+Ministero della Sanita' DE LORENZO
+
+Ministero del Tesoro RUBBI
+
+Ministero del Lavoro e della
+
+Previdenza Sociale MARINI
+
+Regioni: CALABRIA CARATOZZOLO
+
+TOSCANA SASSU
+
+VENETO BOLIS
+
+EMILIA ROMAGNA ONETO
+
+LAZIO OPPIDO
+
+A.N.C.I.: ACOCELLA
+
+GONZI
+
+ATTANASIO
+
+RUSSO VALENTINI PANELLA
+
+TAGLIABUE
+
+U.N.C.E.M PIERGENTILI
+
+RAMACCIOTTI
+
+S.N.U.B.C.I. VITALE
+
+S.N.A.B.I.L.P. CALCATELLI
+
+S.N.U.B.A.L.P. COGNIGNI
+
+ORDINE NAZIONALE BIOLOGI LANDI
+
+L'Ordine Nazionale Biologi partecipa ai sensi dell'art. 48 della Legge n. 833/78 in modo consultivo e limitatamente agli aspetti di carattere deontologico.
