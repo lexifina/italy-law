@@ -1,0 +1,3 @@
+Protocol No. 5 to the Convention for the Protection of Human Rights and Fundamental Freedoms, amending Articles 22 and 40 of the Convention.
+
+Parte di provvedimento in formato grafico
