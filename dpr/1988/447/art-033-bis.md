@@ -20,7 +20,7 @@ delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, se
 
 d)
 
-delitti previsti dagli articoli 2621, 2628, 2629 e 2637 del codice civile, nonche' dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati;
+reati previsti dal Titolo XI del libro V del codice civile, nonche' dalle disposizioni che ne estendono l'applicazione a soggetti diversi da quelli in essi indicati;
 
 e)
 
@@ -41,6 +41,34 @@ delitti previsti dall'articolo 1 del decreto legislativo 14 febbraio 1948, n. 43
 i)
 
 delitti previsti dalla legge 20 giugno 1952, n. 645, attuativa della XII disposizione transitoria e finale della Costituzione;
+
+i-bis)
+
+delitti previsti dall'articolo 291-quater del testo unico approvato con decreto del Presidente della Repubblica 23 gennaio 1973, n. 43.
+
+l)
+
+delitto previsto dall'articolo 18 della legge 22 maggio 1978, n. 194, in materia di interruzione volontaria della gravidanza;
+
+m)
+
+delitto previsto dall'articolo 2 della legge 25 gennaio 1982, n. 17, in materia di associazioni segrete;
+
+n)
+
+delitto previsto dall'articolo 29 secondo comma, della legge 13 settembre 1982, n. 646, in materia di misure di prevenzione;
+
+o)
+
+delitto previsto dall'articolo 12-quinquies, comma 1, del decreto- legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, in materia di trasferimento fraudolento di valori;
+
+p)
+
+delitti previsti dall'articolo 6, commi 3 e 4, del decreto-legge 26 aprile 1993, n. 122, convertito, con modificazione, dalla legge 25 giugno 1993, n. 205, in materia di discriminazione razziale, etnica e religiosa;
+
+q)
+
+delitti previsti dall'articolo 10 della legge 18 novembre 1995, n. 496, in materia di produzione e uso di armi chimiche.
 
 2.
 
