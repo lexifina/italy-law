@@ -1,0 +1,11 @@
+TABELLA I
+
+TABELLA ORGANICA DELL'ISTITUTO TECNICO PER GEOMETRI DI BARI
+
+Parte di provvedimento in formato grafico
+
+TABELLA II
+
+TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE "G. CESARE" DI BARI
+
+Parte di provvedimento in formato grafico
