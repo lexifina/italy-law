@@ -1,0 +1,20 @@
+# Massima n. 23290
+
+- Pronuncia: Corte costituzionale, ordinanza 172/1997 (ECLI:IT:COST:1997:172)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:172
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.  172/97.  'REFERENDUM' - 'REFERENDUM' ABROGATIVI DELLE NORME SULL'OBIEZIONE DI COSCIENZA E SULL'ESERCIZIO DELLA CACCIA INDETTI PER IL 15 GIUGNO 1997 - POSSIBILITA', IN SEGUITO ALL'APPROVAZIONE DA  PARTE  DEL SENATO DI PROPOSTE DI LEGGE IN  MATERIA  TRASMESSE ALLA  CAMERA  DEI  DEPUTATI, E SUCCESSIVI ATTI DELLA  CAMERA  DEI DEPUTATI,  DELL'INCOMBENTE  SOPRAVVENIRE ,  NELL'IMMINENZA  DELLA CONSULTAZIONE,  DI  NUOVE NORMATIVE, ABROGATIVE O  SOSTITUTIVE  - CONFLITTO  DI  ATTRIBUZIONE TRA POTERI DELLO STATO SOLLEVATO  DAI PROMOTORI  E  PRESENTATORI DEI SUDDETTI 'REFERENDUM' -  PRONUNCIA DELLA  CORTE COSTITUZIONALE IN SEDE DELIBATIVA AI SENSI DELL'ART. 37,  LEGGE N.  87 DEL 1953 - RICONOSCIMENTO DELLA  LEGITTIMAZIONE ATTIVA DEI RICORRENTI E DELLA LEGITTIMAZIONE PASSIVA DEL SENATO E DELLA  CAMERA  DEI  DEPUTATI (INDIVIDUATI  DAI  RICORRENTI  QUALI SOGGETTI   CHE   AVREBBERO   POSTO  IN   ESSERE   IL   DENUNCIATO COMPORTAMENTO  LESIVO)  MA  NON DELLA SUSSISTENZA  DEL  REQUISITO OGGETTIVO  DELLA  "MATERIA  DI CONFLITTO"  -  INAMMISSIBILITA'  - ASSORBIMENTO DI ALTRE QUESTIONI.
+
+## Testo
+
+E'  inammissibile,  in  difetto  del  requisito  oggettivo  della esistenza  della "materia di conflitto di attribuzione tra poteri dello   Stato"  -con  conseguente   assorbimento  di  ogni  altra questione-  il ricorso, proposto dai promotori e presentatori dei 'referendum'  abrogativi, indetti per il 15 giugno 1997, in  tema di  esercizio  della  caccia  e di obiezione  di  coscienza,  nei confronti del Senato della Repubblica e della Camera dei deputati con  il  quale,  in  seguito alla trasmissione  alla  Camera  dei deputati  di proposte di legge approvate, nelle suddette materie, dal  Senato,  e  all'iniziato esame delle stesse da  parte  della Camera,  si  richiede  di dichiarare che non spetta  alle  Camere approvare, nell'imminenza della consultazione, leggi che incidano nelle  materie oggetto dei quesiti referendari.  Come la Corte ha gia'  avuto occasione di affermare, infatti, anche in pendenza di un  procedimento  di  'referendum'  abrogativo,  sia  nella  fase iniziale,  sia nel corso degli accertamenti sulla legittimita'  e ammissibilita'  delle richieste, sia successivamente alla  stessa indizione del 'referendum', le Camere conservano la loro potesta' legislativa,  con la conseguenza che il procedimento legislativo, in  quanto tale non puo' - ne' per effetto della legge con cui si conclude,  ne', quindi, a maggior ragione, per effetto degli atti anteriori  alla  sua approvazione - entrare in conflitto  con  le attribuzioni   del   comitato     promotore   dei   'referendum': attribuzioni che peraltro, in tutta la loro possibile estensione, trovano  piena  garanzia,  in  caso di  sopravvenienza  di  nuove normative  nelle materie investite dai quesiti referendari, negli accertamenti   da   compiersi  dall'Ufficio   centrale   per   il 'referendum' ai sensi dell'art.  39, legge n.  352 del 1970 (come modificato  dalla sentenza n.  68 del 1978).  E' chiaro inoltre - a  parte che la materia del conflitto difetta anche in  relazione alla  lamentata interferenza sul giudizio dell'Ufficio  centrale, in  ordine  al  quale  sarebbe semmai  tale  organo  il  soggetto legittimato  a  dolersi  -  che   con  le  prospettate  eventuali difficolta'  nello  svolgimento   delle  operazioni  referendarie derivanti  dai  tempi delle attivita' legislative, si  ipotizzano inconvenienti  operativi  a cui la Corte -come anche si  e'  gia' rilevato- non potrebbe comunque porre rimedio.  - Cfr. S. nn. 68/1978 e 45/1983.                                          red.: S. Pomodoro
+
+## Parametri
+
+- Costituzione, art. 75
+- Costituzione, art. 3
+- legge, 25/05/1970 n. 352, art. 39
+- Costituzione, art. 48
