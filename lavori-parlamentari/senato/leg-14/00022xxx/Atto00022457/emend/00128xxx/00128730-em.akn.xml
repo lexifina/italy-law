@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3276/A/7.0.224"/>
+					<an:FRBRdate date="2005-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.0.224"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@"/>
+					<an:FRBRdate date="2005-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@.akn"/>
+					<an:FRBRdate date="2005-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-03-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-03-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3276/A/7.0.224/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3276" showAs="DDL 3276"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17627" showAs="Rollandin"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/74" showAs="Andreotti"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/698" showAs="Cossiga"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17591" showAs="Kofler"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17621" showAs="Pedrini"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4432" showAs="Frau"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3276</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.0.224</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Rollandin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Andreotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cossiga</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Kofler</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Pedrini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Frau</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 7, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 7-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Esclusione dal Patto di stabilità delle spese finanziate con trasferimenti statali o regionali)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. All'articolo 1 della legge 30 dicembre 2004, n. 311, dopo il comma 25 aggiungere il seguente:
+				</an:p>
+				<an:p align="justify">
+					        "25-
+					<an:i>bis</an:i>
+					. Ai fini dell'applicazione dei commi 21 e seguenti, le spese in conto capitale dei Comuni e delle Unioni di Comuni fino a 15.000 abitanti sono calcolate al netto di quelle finanziate con trasferimenti statali o regionali"».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente all'articolo 1, comma 24, lettera</an:i>
+					 d), 
+					<an:i>legge 30 dicembre 2004, n. 311, dopo le parole:</an:i>
+					 «commi da 5 a 7» 
+					<an:i>aggiungere le seguenti:</an:i>
+					 «ad eccezione dei trasferimenti a Comuni e ad Unioni di Comuni fino a 15.000 abitanti destinati al finanziamento di spese in conto capitale».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
