@@ -1,0 +1,3 @@
+Allegato all'Allegato III
+
+Parte di provvedimento in formato grafico
