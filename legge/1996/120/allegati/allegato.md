@@ -1,0 +1,17 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 16
+
+GENNAIO 1996, N. 15.
+
+All'articolo 1, il comma 1 e' sostituito dal seguente:
+
+" 1. Ai fini della realizzazione di urgenti interventi di restauro, conservazione e valorizzazione concernenti i beni culturali, ivi compresi l'acquisto di beni connessi all'accettazione dell'eredita' Bardini di Firenze, l'adeguamento funzionale della sede del museo dell'Accademia di Venezia, del museo degli Argenti di Firenze, del palazzo Barberini di Roma e degli altri musei statali, per completare l'impresa del Vocabolario storico della lingua italiana, per la realizzazione del XIII Congresso dell'Unione internazionale delle scienze preistoriche e protostoriche, per interventi di sistemazione della biblioteca e della villa Farnesina dell'Accademia nazionale dei Lincei, nonche' per urgenti e indifferibili interventi di recupero e restauro delle strutture del Duomo di Pavia e per la ricostruzione e ristrutturazione del teatro comunale 'Amintore Galli' di Rimini, e' autorizzata la spesa di lire 94,8 miliardi, da iscrivere nello stato di previsione del Ministero per i beni culturali e ambientali, nonche' di lire 2 miliardi, quale contributo alla provincia di Forli'-Cesena, per la realizzazione del XIII Congresso dell'Unione internazionale delle scienze preistoriche e protostoriche, cui si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero per i beni culturali e ambientali. All'onere della spesa valutato in lire 94,8 miliardi si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 9001 dello stato di previsione del Ministero del tesoro per l'anno 1995, all'uopo parzialmente utilizzando l'accantonamento relativo al Ministero per i beni culturali e ambientali. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
+
+Dopo l'articolo 1 e' inserito il seguente:
+
+"Art. 1-bis. - 1. E' autorizzata la spesa di lire 300 milioni per l'anno 1996 a favore del teatro lirico sperimentale 'Adriano Belli' di Spoleto, a titolo di contributo per le celebrazioni del cinquantenario della fondazione del teatro medesimo, nonche' per la parziale reintegrazione degli oneri sostenuti per l'organizzazione del concorso internazionale 'Orpheus'.
+
+2. All'onere derivante dall'attuazione del presente articolo si provvede mediante corrispondente riduzione dello stanziamento iscritto al capitolo 6856 dello stato di previsione del Ministero del tesoro per l'anno 1996, all'uopo parzialmente utilizzando l'accantonamento relativo alla Presidenza del Consiglio dei Ministri.
+
+3. Il Ministro del tesoro e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".
