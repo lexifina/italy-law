@@ -1,0 +1,82 @@
+# Corte costituzionale, ordinanza 121/1992
+
+- ECLI: ECLI:IT:COST:1992:121
+- Tipo: ordinanza
+- Presidente: CORASANITI
+- Relatore: Giuliano Vassalli
+- Data della decisione: 05/03/1992
+- Data del deposito: 23/03/1992
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 18219
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1992:121
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: dott. Aldo CORASANITI;
+ Giudici: prof. Giuseppe BORZELLINO, dott. Francesco GRECO, prof.
+ Gabriele PESCATORE, avv. Ugo SPAGNOLI, prof. Francesco Paolo
+ CASAVOLA, prof. Antonio BALDASSARRE, prof. Vincenzo CAIANIELLO,
+ avv. Mauro FERRI, prof. Luigi MENGONI, prof. Enzo CHELI, dott.
+ Renato GRANATA, prof. Giuliano VASSALLI, prof. Francesco GUIZZI,
+ prof. Cesare MIRABELLI;
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel  giudizio  di  legittimità costituzionale dell'art. 554, secondo
+ comma, del codice di procedura penale, promosso con ordinanza  emessa
+ il  22  aprile 1991 dal Giudice per le indagini preliminari presso la
+ Pretura di Avellino nel  procedimento  penale  a  carico  di  Santoro
+ Emilio,  iscritta  al n. 612 del registro ordinanze 1991 e pubblicata
+ nella  Gazzetta  Ufficiale  della  Repubblica  n.  40,  prima   serie
+ speciale, dell'anno 1991;
+    Visto  l'atto  di  intervento  del  Presidente  del  Consiglio dei
+ ministri;
+    Udito nella camera di consiglio del 5  febbraio  1992  il  Giudice
+ relatore Giuliano Vassalli;
+    Ritenuto  che  il  Giudice  per  le indagini preliminari presso la
+ Pretura di Avellino ha, con ordinanza del 22 aprile 1991,  sollevato,
+ in  riferimento  agli  artt. 3 e 112 della Costituzione, questione di
+ legittimità dell'art. 554, secondo comma, del  codice  di  procedura
+ penale,  come  risultante  a seguito della sentenza costituzionale n.
+ 445 del 1990, nella parte in cui non prevede che il  termine  per  le
+ ulteriori indagini fissato dal giudice per le indagini preliminari il
+ quale,   di  fronte  ad  una  richiesta  del  pubblico  ministero  di
+ archiviazione per estinzione del reato a seguito di amnistia, ravvisi
+ la  necessità  di  ulteriori  indagini  e  le  indichi  al  pubblico
+ ministero, possa superare il termine per il compimento delle indagini
+ preliminari;
+      e  che  nel  giudizio è intervenuto il Presidente del Consiglio
+ dei ministri, rappresentato e difeso dall'Avvocatura  Generale  dello
+ Stato, chiedendo che la questione sia dichiarata non fondata;
+    Considerato  che  questa  Corte  con  ordinanza  n.  436 del 1991,
+ successiva alla  pronuncia  dell'ordinanza  di  rimessione,  ha  già
+ dichiarato  manifestamente  infondata,  in  riferimento  all'art. 112
+ della Costituzione, un'identica questione avente  ad  oggetto,  oltre
+ che  la  norma  adesso  denunciata, anche gli artt. 407 e 409, quarto
+ comma, del codice di procedura penale in quanto fondata su un'erronea
+ interpretazione delle norme censurate;
+      che l'ordinanza di  rimessione  non  adduce  argomenti  nuovi  o
+ diversi da quelli allora esaminati;
+    Visti  gli  artt. 26, secondo comma, della legge 11 marzo 1953, n.
+ 87, e 9, secondo comma, delle norme integrative per i giudizi davanti
+ alla Corte costituzionale;
+
+## Dispositivo
+
+per questi motivi
+                        LA CORTE COSTITUZIONALE
+   Dichiara la manifesta infondatezza della questione di  legittimità
+ costituzionale  dell'art. 554, secondo comma, del codice di procedura
+ penale,  sollevata,  in  riferimento  agli  artt.  3  e   112   della
+ Costituzione,  dal  Giudice  per  le  indagini  preliminari presso la
+ Pretura di Avellino con ordinanza del 22 aprile 1991.
+    Così deciso in  Roma,  nella  sede  della  Corte  costituzionale,
+ Palazzo della Consulta, il 5 marzo 1992.
+                       Il Presidente: CORASANITI
+                        Il redattore: VASSALLI
+                       Il cancelliere: DI PAOLA
+    Depositata in cancelleria il 23 marzo 1992.
+                       Il cancelliere: DI PAOLA
