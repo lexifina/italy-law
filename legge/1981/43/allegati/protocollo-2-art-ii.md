@@ -1,0 +1,23 @@
+Articolo II.
+
+L'articolo 22 della Convenzione e soppresso e sostituito dalle seguenti disposizioni:
+
+"Articolo 22.
+
+1. - Nel trasporto di persone, la responsabilita' del trasportatore nei confronti di ciascun passeggero e' limitata alla somma di 16.600 Diritti speciali di Prelievo. Nel caso in cui, secondo la legge del tribunale investito, l'indennizzo possa essere fissato sotto forma di rendita, il capitale della rendita non puo' superare tale limite.
+
+Tuttavia, mediante una convenzione speciale con il trasportatore, il passeggero potra' fissare un limite di responsabilita' piu' elevato.
+
+2. - a) Nel trasporto di bagagli registrati e di merci, la responsabilita' del trasportatore e' limitata alla somma di 17 Diritti speciali di Prelievo per chilogrammo, a meno che non venga effettuata dal mittente al momento della rimessa dei colli al trasportatore una speciale dichiarazione di interesse alla consegna, con l'eventuale pagamento di una tassa supplementare. In tal caso, il trasportatore sara' tenuto a pagare fino alla concorrenza della somma dichiarata, a meno che non dimostri che essa e' superiore allo interesse reale del mittente alla consegna.
+
+b) Nel caso di perdita, deterioramento o ritardo nella consegna di una parte dei bagagli registrati o delle merci, o di ogni oggetto in essi contenuto, ai fini della determinazione del limite di responsabilita' del trasportatore, sara' preso in considerazione solamente il peso totale del o dei colli in questione. Tuttavia allorche' la perdita, il deterioramento o il ritardo nella consegna di una parte dei bagagli registrati o delle merci, o di un oggetto in essi contenuto, pregiudica il valore di altri colli coperti dalla medesima bolla (di bagagli) o dalla stessa lettera di trasporto aereo, ai fini della determinazione del limite di responsabilita' dovra' essere preso in considerazione il peso totale dei colli in questione.
+
+3. - In relazione agli oggetti di cui il passeggero mantiene la custodia, la responsabilita' del trasportatore e' limitata a 332 Diritti speciali di Prelievo per passeggero.
+
+4. - I limiti fissati dal presente articolo non hanno l'effetto di privare il tribunale della facolta' di concedere il rimborso, conformemente alla propria legge, di una ulteriore somma corrispondente a una parte o alla totalita' delle spese e di altri oneri processuali sostenuti dall'attore. La disposizione precedente non si applica allorche' l'ammontare dell'indennizzo concesso, escluse le spese e altri oneri processuali, non supera la somma che il trasportatore ha offerto per iscritto all'attore entro il termine di sei mesi a decorrere dalla data in cui si e' verificato il fatto che ha provocato il danno o prima della presentazione della istanza se questa e' posteriore a tale lasso di tempo.
+
+5. - Le somme indicate in Diritti speciali di Prelievo nel presente articolo sono valutate in riferimento al Diritto speciale di Prelievo cosi' come esso e' definito dal Fondo monetario internazionale. La conversione di tali somme in monete nazionali si effettuera', nel caso di istanza giudiziaria, secondo il valore calcolato in Diritti speciali di Prelievo di tali monete alla data della sentenza. Il valore, in Diritti speciali di Prelievo, di una moneta nazionale di una Alta Parte Contraente che sia membro del Fondo monetario internazionale, e' calcolato in base al metodo di valutazione adottato dal Fondo monetario internazionale alla data della sentenza per le proprie operazioni e transazioni. Il valore, in Diritti speciali di Prelievo, di una moneta nazionale di un'Alta Parte Contraente che non sia membro del Fondo monetario internazionale, viene calcolato sulla base delle indicazioni fornite da tale Alta Parte Contraente.
+
+Tuttavia gli Stati che non siano membri del fondo monetario internazionale e la cui legislazione non consente di applicare le disposizioni dei commi 1, 2 a) e 3 dell'articolo 22, possono, al momento della ratifica o dell'adozione, o in qualsiasi altro momento successivo, dichiarare che il limite di responsabilita' del trasportatore e' fissato, nei procedimenti giudiziari sul proprio territorio, nella somma di 250.000 unita' monetarie per passeggero per quanto riguarda il comma 1 dell'articolo 22; di 250 unita' monetarie per chilogrammo in relazione al comma 2 a) dell'articolo 22; di 5.000 unita' monetarie per passeggero per quanto riguarda il comma 3 dell'articolo 22.
+
+Tale unita' monetaria corrisponde a sessantacinque milligrammi e mezzo di oro al titolo di novecento millesimi di fino. Tali somme possono essere convertite in cifra tonda nella moneta nazionale in questione. La conversione di tale somma in moneta nazionale sara' effettuata conformemente alla legislazione dello Stato in questione".
