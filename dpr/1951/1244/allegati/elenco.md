@@ -1,0 +1,15 @@
+COMUNE DI PARENTI (Cosenza)
+
+Elenco dei terreni espropriati nei confronti di Berlingieri Clementina di Francesco in Lucifero a termini degli articoli 1 e 2 della legge 12 maggio 1950, n. 230
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 22 maggio-10 giugno 1969, n. 99 (in G.U. 1a s.s. 18/06/1969, n. 152), ha dichiarato "l'illegittimita' costituzionale del decreto del Presidente della Repubblica 4 novembre 1951, n. 1244, in quanto ha disposto la espropriazione del terreno "Chiazza" appartenente al demanio dei Comuni di Pedivigliano e di Soveria Mannelli e non al soggetto
+
+privato espropriato."
