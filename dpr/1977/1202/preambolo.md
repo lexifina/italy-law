@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto della libera Universita' internazionale degli studi sociali "Pro Deo" in Roma, approvato con decreto del Presidente della Repubblica 5 maggio 1966, n. 436 e modificato con decreto del Presidente della Repubblica 31 maggio 1967, n. 482, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte, in deroga al termine triennale di cui all'ultimo comma dell'art. 17 del testo unico 31 agosto 1933, n. 1592, per i motivi esposti nelle deliberazioni degli organi accademici della libera Universita' internazionale degli studi sociali "Pro Deo" in Roma e convalidati dal Consiglio superiore della pubblica istruzione nel suo parere;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione;
+
+Decreta:
+
+Lo statuto della libera Universita' internazionale degli studi sociali "Pro Deo" in Roma che perde la denominazione "Pro Deo", approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso: Gli articoli 1, 2 e 3, relativi alle disposizioni generali dell'Universita', sono abrogati e sostituiti dai seguenti:
