@@ -1,0 +1,167 @@
+DICHIARAZIONE COMUNE
+
+concernente la libera circolazione dei lavoratori
+
+L'ampliamento della Comunita' potrebbe comportare talune difficolta' per la situazione sociale di uno o piu' Stati membri per quanto concerne l'applicazione delle disposizioni relative alla libera circolazione dei lavoratori.
+
+Gli Stati membri dichiarano di riservarsi, qualora si presentassero difficolta' di tale natura, di adire le Istituzioni della Comunita' onde ottenere una soluzione del problema in conformita' delle disposizioni dei trattati che istituiscono le Comunita' Europee e delle disposizioni adottate per la loro applicazione.
+
+DICHIARAZIONE COMUNE
+
+sulle misure transitorie particolari che potrebbero rivelarsi necessarie nelle relazioni tra la Grecia e la Spagna ed il Portogallo dopo l'adesione di questi ultimi
+
+L'adesione della Spagna e del Portogallo alla Comunita' prima dello scadere delle misure transitorie di cui all'articolo 9 dell'atto potrebbe rendere necessarie misure transitorie particolari nei rapporti fra questi Stati e la Grecia.
+
+Tali misure transitorie dovrebbero essere stabilite negli strumenti di adesione della Spagna e del Portogallo.
+
+DICHIARAZIONE COMUNE
+
+relativa ai protocolli da concludere con taluni paesi terzi a norma dell'articolo 118
+
+Nelle trattative per i protocolli da concludere con i paesi terzi contraenti di cui all'articolo 118 la Comunita' prendera' come base dei negoziati le disposizioni concordate in materia nel corso della Conferenza tra le Comunita' Europee e la Repubblica ellenica.
+
+DICHIARAZIONE COMUNE
+
+concernente il Monte Athos
+
+Riconoscendo che lo statuto speciale accordato al Monte Athos, garantito dall'articolo 105 della Costituzione ellenica, e' giustificato esclusivamente da motivi di carattere spirituale e religioso, la Comunita' curera' di tenerne conto nell'applicazione e nella futura elaborazione delle disposizioni di diritto comunitario, segnatamente per quanto riguarda le franchigie doganali e fiscali ed il diritto di stabilimento.
+
+DICHIARAZIONE COMUNE
+
+concernente la procedura d'esame comune degli aiuti nazionali concessi dalla Repubblica ellenica nel campo dell'agricoltura durante il periodo che precede l'adesione
+
+1. L'elenco degli aiuti di cui all'articolo 69, paragrafo 2 dell'atto di adesione nonche' i loro importi sono quelli convenuti nell'ambito della Conferenza. Questi importi potranno eventualmente essere attualizzati dopo l'instaurazione della procedura prevista al punto 2.
+
+2. Le modifiche che le autorita' elleniche intendessero effettuare quanto alle modalita' della concessione od all'attualizzazione dell'importo di ciascuno degli aiuti nazionali concessi in Grecia durante il periodo che precede l'adesione formano oggetto di una procedura d'esame comune fra le autorita' elleniche e comunitarie.
+
+A tal fine la Repubblica ellenica e la Commissione procedono periodicamente ad un'analisi comune delle modifiche progettate per la struttura ed il livello degli aiuti concessi in Grecia. La Commissione presenta al Consiglio una relazione sui risultati di quest'analisi.
+
+3. Se dopo esame della relazione sopraddetta la Comunita' nella sua composizione attuale lo chiede la Repubblica ellenica le comunica le decisioni che essa intende adottare in materia di aiuti nazionali nel campo dell'agricoltura, ai fini dell'applicazione della procedura, definita in altro luogo, per l'adozione di talune decisioni e altre misure da prendere durante il periodo che precede l'adesione.
+
+DICHIARAZIONE COMUNE
+
+concernente la procedura d'esame comune delle modifiche annuali dei prezzi dei prodotti agricoli in Grecia durante il periodo che precede l'adesione
+
+1. Per l'applicazione delle disposizioni dell'atto di adesione che determinano il livello dei prezzi greci che dovra' eventualmente essere ravvicinato al livello dei prezzi comuni, e' convenuto che i prezzi che saranno presi in considerazione a titolo del periodo di riferimento la cui durata e' da determinare per ciascun prodotto durante il periodo interinale sono i prezzi risultanti dalle costatazioni di prezzo effettuate e registrate negli atti della Conferenza, attualizzati in funzione dei movimenti di prezzo sopravvenuti in seguito o che interverranno fino al momento dell'adesione.
+
+2. I movimenti di prezzo da decidere dalle autorita' elleniche o risultanti dalle costatazioni di prezzo effettuate in Grecia formano l'oggetto di una procedura d'esame comune fra le autorita' elleniche e comunitarie.
+
+A tal fine la Repubblica ellenica e la Commissione procedono periodicamente ad un'analisi comune dei dati relativi ai movimenti di prezzo da decidere per il mercato greco o costatati su tale mercato.
+
+La Commissione presenta al Consiglio una relazione sui risultati di quest'analisi.
+
+3. Se dopo esame della relazione sopraddetta la Comunita' nella sua composizione attuale lo chiede la Repubblica ellenica le comunica le decisioni che essa intende adottare in materia di modifiche di prezzi agricoli, ai fini dell'applicazione della procedura, definita in altro luogo, per l'adozione di talune decisioni e altre misure da prendere durante il periodo che precede l'adesione.
+
+DICHIARAZIONE COMUNE
+
+concernente lo zucchero, i prodotti lattiero-caseari, l'olio di oliva e gli ortofrutticoli trasformati
+
+1. Nella misura in cui un regime di quote di produzione come quello attualmente previsto nell'ambito dell'organizzazione comune dei mercati nel settore dello zucchero, oppure un regime analogo, sara' applicabile al momento dell'adesione della Repubblica ellenica, quest'ultima sara' trattata secondo gli stessi criteri che gli altri Stati membri.
+
+A tal fine la quota massima relativa alla produzione di zucchero in Grecia sara' fissata ad un livello vicino a quello corrispondente alla quantita' prodotta in Grecia nel corso di un periodo di riferimento recente la cui durata sara' determinata nel periodo interinale senza poter tuttavia estendersi al di la' della campagna zuccheriera 1978/1979. All'interno di questa quota massima la distinzione tra la quota A e la quota B sara' effettuata conformemente alle regole vigenti nella Comunita' nella sua composizione attuale per la determinazione della quota massima.
+
+2. Nella misura in cui il regime del prelievo di corresponsabilita' nel settore del latte o dei prodotti lattiero-caseari, oppure un regime analogo, sara' applicabile alla data della adesione, le disposizioni comunitarie vigenti che prevedano, a certe condizioni, l'esenzione da tale prelievo saranno applicabili alla Repubblica ellenica alle stesse condizioni che per gli altri Stati membri.
+
+3. L'aiuto alla produzione dell'olio d'oliva sara' concesso in Grecia per le superfici coltivate ad ulivi alla data dell'adesione.
+
+La Repubblica ellenica prendera' le misure necessarie per evitare qualsiasi estensione i tali superfici fino al momento dell'adesione, di maniera che il numero degli ulivi in questione non sia piu' consistente che alla fine del 1978.
+
+4. L'articolo 103 dell'atto di adesione si applica tenendo conto della legislazione comunitaria vigente per gli ortofrutticoli trasformati alla data della firma del trattato. Se tale regolamentazione dovesse venire modificata, in seguito all'esame che prima del 1 ottobre 1982 il Consiglio effettuera' per quanto concerne il funzionamento del regime comunitario d'aiuti alla produzione per taluni prodotti del settore in questione, le disposizioni dell'articolo 103 saranno adattate in conformita'.
+
+DICHIARAZIONE COMUNE
+
+concernente la Prima direttiva del Consiglio, del 12 dicembre 1977, relativa al coordinamento delle disposizioni legislative, regolamentari e amministrative riguardanti l'accesso all'attivita' degli enti creditizi e il suo esercizio
+
+In occasione della modifica apportata all'articolo 2, paragrafo 2 della direttiva in questione, si dichiara che il Consiglio decidera' di escludere la
+
+"Ταχυδρομι κο Ταμιευτηριο"
+
+(Cassa di risparmio postale) dall'elenco degli enti presi in considerazione da tale disposizione
+
+- qualora venga modificato lo statuto della Cassa di risparmio postale
+
+- o qualora la parte occupata da tale organismo sul mercato greco, per quanto riguarda il totale dei suoi depositi, dei suoi crediti o del suo attivo, aumenti piu' dell'1,5% rispetto alla situazione esistente al 30 novembre 1978.
+
+DICHIARAZIONE
+
+del Governo della Repubblica federale di Germania in merito all'applicazione a Berlino della decisione relativa all'adesione alla Comunita' Europea del Carbone e dell'Acciaio e del Trattato relativo all'adesione alla Comunita' Economica Europea e alla Comunita' Europea dell'Energia Atomica.
+
+Il Governo della Repubblica federale di Germania si riserva il diritto di dichiarare, al momento della presa di effetto della adesione della Repubblica ellenica alla Comunita' Europea del Carbone e dell'Acciaio e all'atto del deposito del suo strumento di ratifica del Trattato relativo all'adesione di detto paese alla Comunita' Economica Europea e alle Comunita' Europea dell'Energia Atomica, che la decisione del Consiglio del 24 maggio 1979 relativa all'adesione alla Comunita' Europea del Carbone e dell'Acciaio e il suddetto Trattato si applicano ugualmente al Land di Berlino.
+
+DICHIARAZIONE DEL GOVERNO DELLA REPUBBLICA FEDERALE DI GERMANIA relativa alla definizione del termine "cittadini"
+
+Laddove nell'atto di adesione e nei suoi allegati fatto riferimento ai cittadini, questo termine indica, per quanto riguarda la Repubblica federale di Germania, i "tedeschi ai sensi della legge fondamentale della Repubblica federale di Germania".
+
+DICHIARAZIONE DELLA COMUNITA' ECONOMICA EUROPEA
+
+relativa all'accesso dei lavoratori greci agli impieghi salariati negli Stati membri attuali
+
+Nel quadro delle disposizioni transitorie relative all'esercizio del diritto di libera circolazione, gli Stati membri attuali faranno beneficiare i cittadini ellenici della stessa priorita' che i cittadini degli altri Stati membri in caso di ricorso a manodopera originaria dei paesi terzi, non appartenente al loro mercato regolare del lavoro, per soddisfare il loro fabbisogno di manodopera.
+
+DICHIARAZIONE DELLA COMUNITA' ECONOMICA EUROPEA
+
+relativa al Fondo europeo di sviluppo regionale
+
+Qualora, nell'ambito del riesame previsto all'articolo 22 del Regolamento (CEE) n. 724/75, modificato dal Regolamento (CEE) n° 214/79, il Consiglio non giunga in tempo utile a modifiche che stabiliscano le condizioni di partecipazione della Repubblica ellenica alle risorse del Fondo a decorrere dal 1 gennaio 1981, le disposizioni dell'articolo 2, paragrafo 3, lettera a) saranno modificate al momento dell'adesione in conformita' della procedura applicabile per l'adozione del regolamento in questione, allo scopo di garantire la partecipazione della Repubblica ellenica al beneficio di tali disposizioni.
+
+DICHIARAZIONE DELLA REPUBBLICA ELLENICA
+
+concernente le questioni monetarie
+
+Allo scopo di permettere di seguire l'evoluzione, sui mercati dei cambi, del corso reale della dracma greca, in particolare rispetto alle monete degli Stati membri attuali, prima della sua adesione alla
+
+Comunita' la Repubblica ellenica:
+
+- istituira' un mercato dei cambi ad Atene,
+
+- prendera' le misure necessarie per assicurare che su almeno uno dei mercati dei cambi della Comunita' nella sua composizione attuale la dracma formi l'oggetto di una quotazione ufficiale, laddove questa esiste, o di una quotazione di tipo simile.
+
+Procedura d'informazione e di consultazione per l'adozione di talune decisioni
+
+I
+
+1. Allo scopo di garantire l'adeguata informazione della Repubblica ellenica ogni proposta o comunicazione della Commissione delle Comunita' Europee che possa condurre a decisioni del Consiglio di dette Comunita' viene resa nota alla Repubblica ellenica dopo la trasmissione al Consiglio.
+
+2. Le consultazioni hanno luogo su domanda motivata della Repubblica ellenica, che espone in modo esplicito i suoi interessi in quanto futuro membro delle Comunita' e presenta le sue osservazioni.
+
+3. Le decisioni di ordinaria amministrazione non devono in generale dar luogo a consultazioni.
+
+4. Le consultazioni hanno luogo nell'ambito di un Comitato interinale, composto da rappresentanti delle Comunita' e della Repubblica ellenica.
+
+5. Da parte delle Comunita', membri del Comitato interinale sono i membri del Comitato dei Rappresentanti Permanenti o coloro che essi designano a tal fine. La Commissione e' invitata a farsi rappresentare in questi lavori.
+
+6. Il Comitato interinale e' assistito da un segretariato, che e' quello della Conferenza, all'uopo mantenuto in funzione.
+
+7. Le consultazioni avvengono di norma non appena i lavori preparatori svolti sul piano delle Comunita' ai fini della adozione di decisioni da parte del Consiglio abbiano permesso di ottenere orientamenti comuni che consentano di tenere utilmente siffatte consultazioni.
+
+8. Qualora le consultazioni lasciassero sussistere serie difficolta', la questione puo' essere discussa a livello ministeriale, su domanda della Repubblica ellenica.
+
+9. La procedura prevista ai paragrafi precedenti si applica anche ad ogni decisione che debba essere presa dalla Repubblica ellenica e che sia suscettibile d'influire sugli impegni risultanti dalla sua qualita' di futuro membro delle Comunita'.
+
+II
+
+La Repubblica ellenica prende le misure necessarie affinche' la sua adesione agli accordi o convenzioni di cui all'articolo 3, paragrafo 2, e all'articolo 4, paragrafo 2, dell'atto relativo alle condizioni d'adesione ed agli adattamenti dei trattati abbia luogo, per quanto possibile ed alle condizioni previste in tale atto, contemporaneamente all'entrata in vigore del trattato di adesione.
+
+Nella misura in cui accordi e convenzioni tra gli Stati membri, di cui all'articolo 3, paragrafo 1, seconda frase, e paragrafo 2, esistano soltanto allo stato di progetto e non siano ancora firmati e non possano probabilmente esserlo durante il periodo che precede l'adesione, la Repubblica ellenica sara' invitata a partecipare, dopo la firma del trattato di adesione e secondo le procedure appropriate, all'elaborazione di tali progetti con spirito costruttivo e in maniera di favorirne la conclusione.
+
+III
+
+Per quanto riguarda le trattative per protocolli transitori e di adattamento con i paesi contraenti di cui all'articolo 118 dell'atto relativo alle condizioni di adesione, i rappresentanti della Repubblica ellenica sono associati ai lavori in qualita' di osservatori accanto ai rappresentanti degli Stati membri attuali.
+
+Taluni accordi non preferenziali conclusi dalla Comunita' e che resteranno in vigore dopo il 1 gennaio 1981 potranno essere oggetto di adattamenti o modifiche per tener conto dell'allargamento della Comunita'. Tali adattamenti o modifiche saranno negoziati dalla Comunita' associandovi i rappresentanti della Repubblica ellenica secondo la procedura di cui al comma precedente.
+
+IV
+
+Le consultazioni tra la Repubblica ellenica e la Commissione, di cui all'articolo 49, paragrafo 2, dell'atto relativo alle condizioni d'adesione ed agli adattamenti dei trattati, iniziano ancor prima dell'adesione.
+
+V
+
+La Repubblica ellenica s'impegna a che la concessione delle licenze di cui all'articolo 2 del protocollo n° 6 concernente gli scambi di cognizioni con la Repubblica ellenica nel campo dell'energia nucleare non sia deliberatamente accelerata prima dell'adesione allo scopo di ridurre la portata degli impegni contenuti in detto protocollo.
+
+VI
+
+Le Istituzioni delle Comunita' emanano in tempo utile i testi di cui all'articolo 147 dell'atto relativo alle condizioni di adesione della Repubblica ellenica ed agli adattamenti dei trattati.
+
+Visto, il Ministro degli affari esteri
+
+RUFFINI

@@ -1,0 +1,19 @@
+PROTOCOLLO N° 7
+
+concernente lo sviluppo economico ed industriale della Grecia
+
+LE ALTE PARTI CONTRAENTI,
+
+DESIDERANDO risolvere taluni problemi particolari che interessano la Grecia,
+
+AVENDO CONVENUTO LE DISPOSIZIONI SEGUENTI,
+
+RICORDANO che gli obiettivi fondamentali della Comunita' Economica Europea comprendono il miglioramento costante delle condizioni di vita e di occupazione dei popoli degli Stati membri, nonche' lo sviluppo armonioso delle loro economie riducendo le disparita' fra le differenti regioni e il ritardo di quelle meno favorite;
+
+PRENDONO atto del fatto che il Governo ellenico e' impegnato nell'esecuzione di una politica d'industrializzazione e di sviluppo economico che mira a ravvicinare il livello di vita in Grecia a quello delle altre nazioni europee e ad eliminare la sottoccupazione, assorbendo progressivamente le differenze regionali di livello di sviluppo;
+
+RICONOSCONO che il raggiungimento degli obiettivi di tale politica risponde al loro interesse comune;
+
+CONVENGONO di raccomandare a tale scopo alle Istituzioni della Comunita' di attuare tutti i mezzi e tutte le procedure previste dal trattato CEE, ricorrendo in particolare ad un adeguato impiego delle risorse comunitarie destinate alla realizzazione dei summenzionati obiettivi della Comunita';
+
+RICONOSCONO in particolare che, in caso di applicazione degli articoli 92 e 93 del trattato CEE, si dovra' tener conto degli obiettivi di espansione economica e di aumento del livello di vita della popolazione.
