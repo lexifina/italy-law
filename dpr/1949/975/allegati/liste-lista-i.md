@@ -1,0 +1,7 @@
+Allegato all'Accordo commerciale, dell'11 dicembre 1948, tra la Repubblica italiana e l'U.R.S.S.
+
+LISTA I
+
+DELLE MERCI DA FORNIRSI DALL'U.R.S.S. ALL'ITALIA NEL PRIMO ANNO DI VALIDITA DELL'ACCORDO COMMERCIALE
+
+Frumento. . . . . . . . . . . . . . . . . . . . . . . . Tonn. 300.000 Avena . . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 100.000 Patate da seme. . . . . . . . . . . . . . . . . . . . . . Tonn. 2.500 Minerali di ferro . . . . . . . . . . . . . . . . . . . Tonn. 200.000 Minerali di manganese. . . . . . . . . . . . . . . . . . Tonn. 20.000 Sali potassici (40% K2O) . . . . . . . . . . . . . . . . Tonn. 25.000 Apatite. . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 25.000 Amianto . . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 2.500 Caolino. . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 10.000 Paraffina . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 5.000 Cera montana. . . . . . . . . . . . . . . . . . . . . . . . Tonn. 300 Ozocherite. . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 300 Legname segato di abete . . . . . . . . . . . . . . . . . mc. 150.000 Legname segato di essenze dure . . . . . . . . . . . . . . mc. 25.000 Traverse ferroviarie . . . . . . . . . . . . . . . . . . . n. 100.000 Tabacco (1) . . . . . . . . . . . . . . . . . . . . . . . . Tonn. 750 Altre merci. . . . . . . . . . . . . . . . . . . . . Lit. 900.000.000 (1) Contro Tonn. 3.000 di tabacchi italiani.
