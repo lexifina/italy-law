@@ -1,4 +1,4 @@
-IL PRESIDENTE BELLA REPUBBLICA
+IL PRESIDENTE DELLA REPUBBLICA
 
 Visti il primo comma della XVII disposizione transitoria e l'art. 116 della Costituzione;
 
