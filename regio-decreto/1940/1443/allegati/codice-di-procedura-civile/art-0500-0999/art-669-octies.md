@@ -1,14 +1,16 @@
 Art. 669-octies.
 
-(( (Provvedimento di accoglimento) ))
+(Provvedimento di accoglimento)
 
-((L'ordinanza di accoglimento, ove la domanda sia stata proposta prima dell'inizio della causa di merito, deve fissare un termine perentorio non superiore a trenta giorni per l'inizio del giudizio di merito, salva l'applicazione dell'ultimo comma dell'articolo 669 novies.
+L'ordinanza di accoglimento, ove la domanda sia stata proposta prima dell'inizio della causa di merito, deve fissare un termine perentorio non superiore a trenta giorni per l'inizio del giudizio di merito, salva l'applicazione dell'ultimo comma dell'articolo 669 novies.
 
 In mancanza di fissazione del termine da parte del giudice, la causa di merito deve essere iniziata entro il termine perentorio di trenta giorni.
 
-Il termine decorre dalla pronuncia dell'ordinanza se avvenuta in udienza o altrimenti dalla sua comunicazione.))
+Il termine decorre dalla pronuncia dell'ordinanza se avvenuta in udienza o altrimenti dalla sua comunicazione.
 
-((67))
+((Nel caso in cui la controversia sia oggetto di compromesso o di clausola compromissoria, la parte, nei termini di cui ai commi precedenti, deve notificare all'altra un atto nel quale dichiara la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri)).
+
+(67)
 
 ---------------
 
