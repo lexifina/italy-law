@@ -1,0 +1,25 @@
+# Massima n. 10604
+
+- Pronuncia: Corte costituzionale, ordinanza 313/1988 (ECLI:IT:COST:1988:313)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1988:313
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.  313/88.  ENTI  PUBBLICI - "ENTE PATRONATO REGINA MARGHERITA PRO-CIECHI   PAOLO   COLOSIMO"   DI   NAPOLI   - SOPPRESSIONE   E LIQUIDAZIONE  - PERSONALE E BENI - TRASFERIMENTO ALLE  REGIONI  E AGLI ENTI LOCALI - MANIFESTA INFONDATEZZA DELLA QUESTIONE. - LEGGE 21 AGOSTO 1978, N. 641, ART. 1 BIS. - COST., ARTT. 3, 18, 38, ULTIMO COMMA, 42, 43.
+
+## Testo
+
+L'"Ente Patronato Regina Margherita pro-ciechi Paolo Colosimo" di Napoli,  essendo  stato  incluso  nella tabella "B"  allegata  al d.P.R.  24  luglio  1977,  n.  616,  ha natura di  ente  pubblico interregionale  operante nella materia della assistenza  pubblica e,  come  tale,  sottoponibile alla speciale  procedura  prevista dall'art.  113 e ss. dello stesso d.P.R. n. 616 del 1977, diretta al  trasferimento  integrale alle Regioni o agli enti locali  dei beni e del relativo personale.  Legittimamente,  pertanto, poteva esserne  disposta  l'estinzione e la devoluzione dei beni  e  del patrimonio  a Regioni ed altri enti pubblici,  con il  necessario trasferimento  a  questi  ultimi  delle  funzioni  gia`  spettanti all'Ente,  senza  accertare  la provenienza dei suoi beni  e  gli eventuali  vincoli di destinazione e senza altresi`  prevedere  la corresponsione  di  un  indennizzo al  riguardo.  Appare  inoltre giustificato e comunque non discriminatorio,  che la soppressione di  tale  Ente - non essendovi una  garanzia costituzionale  sul- l'osservanza  di un determinato procedimento per la  soppressione di  enti  pubblici - sia avvenuta  ope  legis,  prescindendo  dal procedimento di cui all'art. 113, d.P.R. n. 616 del 1977, cit., e cioe`,  in concreto,  senza accertare sia l'esistenza di eventuali funzioni  residue  non trasferite,  al fine di mantenere in  vita l'Ente  per il perseguimento di esse (art.  113  predetto,  commi quarto  e settimo),  sia la struttura associativa  dello  stesso, onde  consentirne  la conservazione,  previa trasformazione  come ente privato (art.  115, d.P.R. n.  616 del 1977 cit.):  infatti, ricorre  nel caso il discrezionale apprezzamento del  legislatore circa  la sussistenza di particolari finalita` da salvaguardare  e nessun  parametro costituzionale,  tra gli  invocati,  garantisce necessariamente l'assimilazione agli altri enti trasformabili  in privati.  (Manifesta infondatezza - in riferimento agli artt.  3, 18,  38,  ultimo  comma,  42  e  43 Cost.  - della  questione  di legittimita` costituzionale dell'art. 1 bis, l. 21 agosto 1978, n. 641,  nella  parte in cui sopprime e pone in liquidazione  l'ente pubblico  "Ente  Patronato  Regina  Margherita  pro-ciechi  Paolo Colosimo" di Napoli, prevedendo il trasferimento alle regioni dei beni  e del personale ed alle regioni ed agli enti  locali  delle relative entrate).  - v. S. n. 173/1981.
+
+## Norme
+
+- legge, 21/08/1978 n. 641, art. 1 bis
+
+## Parametri
+
+- Costituzione, art. 38, comma ultimo co.
+- Costituzione, art. 42
+- Costituzione, art. 43
+- Costituzione, art. 3
+- Costituzione, art. 18
