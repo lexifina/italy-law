@@ -1,0 +1,9 @@
+DECRETO
+
+20 dicembre 1990
+
+420
+
+Rettifiche al decreto ministeriale 27 aprile 1990, n. 156, concernente: "Modificazioni agli articoli da 25 a 76 del regolamento di esecuzione del testo unico delle norme sulla circolazione stradale approvato con decreto del Presidente della Repubblica 30 giugno 1959, n. 420".
+
+Entrata in vigore del decreto: 18/1/1991
