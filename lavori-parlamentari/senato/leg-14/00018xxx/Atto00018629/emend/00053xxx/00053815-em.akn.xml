@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/26.29/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/26.29"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/26.29/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="26.29"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/26.29/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/715" showAs="Cozzolino"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/843" showAs="Demasi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17572" showAs="Grillotti"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1932" showAs="Pontone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1004" showAs="Florino"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3912" showAs="Bonatesta"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17648" showAs="Tato'"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/775" showAs="Danieli"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17642" showAs="Semeraro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 26.29</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Cozzolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Demasi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Grillotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Pontone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Florino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bonatesta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Tato'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Danieli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Semeraro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 5, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «5-
+					<an:i>bis</an:i>
+					. I sanitari ospedalieri e di enti pubblici che, in applicazione dell'articolo 4, comma 7 della legge 30 dicembre 1991, n. 412, optarono per il rapporto di convenzione a partire dal 31 dicembre 1992 e, in pari data, rinegoziarono - per incompatibilità - il rapporto di dipendenza, qualora non avessero raggiunto, alla medesima data, una posizione contributiva tale da conseguire un trattamento pensionistico, sono autorizzati al versamento volontario dei contributi mancanti presso la ex cassa sanitaria (oggi INPDAP) per il raggiungimento dei benefici pensionistici».
+				</an:p>
+				<an:p align="justify">
+					<an:b>Compensazione del Gruppo Alleanza Nazionale (v. emend. 2.8).</an:b>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
