@@ -16,7 +16,7 @@ delitti previsti dal capo I del titolo II del libro II del codice penale, esclus
 
 c)
 
-delitti previsti dagli articoli 416, 416-ter, 419, 420 comma 3, 426, 428, 429 comma 2, 430, 431 comma 2, 432 comma 3, 433 comma 3, 434 comma 2, 440, 449 comma 2, 452 comma 1, numeri 1 e 2, 499, 513-bis, 564, 578 comma 1, (( da 600-bis a 600-sexies puniti con la reclusione non inferiore nel massimo a cinque anni,)) 609-bis, 609-quater, 609-octies, 644, 648-bis e 648-ter del codice penale;
+delitti previsti dagli articoli 416, 416-ter, 419, 420 comma 3, 426, 428, 429 comma 2, 430, 431 comma 2, 432 comma 3, 433 comma 3, 434 comma 2, 440, 449 comma 2, 452 comma 1, numeri 1 e 2, 499, 513-bis, 564, 578 comma 1, da 600-bis a 600-sexies puniti con la reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater, 609-octies, 644, 648-bis e 648-ter del codice penale;
 
 d)
 
@@ -68,7 +68,7 @@ delitti previsti dall'articolo 25 comma 1 della legge 9 luglio 1990, n. 185 e da
 
 2.
 
-Sono attribuiti altresi' al tribunale in composizione collegiale i delitti puniti con la pena della reclusione superiore nel massimo a venti anni. Per la determinazione della pena si ha riguardo al massimo della pena stabilita dalla legge per il reato, consumato o tentato, tenuto conto dell'aumento massimo di pena stabilito per le circostanze aggravanti. (90) (90a)
+Sono attribuiti altresi' al tribunale in composizione collegiale i delitti puniti con la pena della reclusione superiore nel massimo a venti anni. Per la determinazione della pena si ha riguardo al massimo della pena stabilita dalla legge per il reato, consumato o tentato, tenuto conto dell'aumento massimo di pena stabilito per le circostanze aggravanti. (90) (90a) ((90b))
 
 ---------------
 
@@ -83,3 +83,9 @@ articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
 AGGIORNAMENTO (90a)
 
 Il D. Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999 , fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+---------------
+
+AGGIORNAMENTO (90b)
+
+Il D. Lgs. 19 febbraio 1998, n. 51 come modificato dal D.L. 24 maggio 1999, n. 145 , convertito, con modificazioni, dalla L. 22 luglio 1999, n. 234 ha disposto (con l'art. 247, comma 2-bis) che le disposizioni del presente articolo divengono efficaci dal 2 gennaio 2000.
