@@ -1,0 +1,23 @@
+# Massima n. 25447
+
+- Pronuncia: Corte costituzionale, ordinanza 232/2000 (ECLI:IT:COST:2000:232)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2000:232
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reato  in genere -  Prescrizione  -  Casi  di sospensione  del corso della prescrizione - Rinvio o  sospensione del  dibattimento  per  legittimo  impedimento  a  comparire  del difensore  -  Mancata  previsione - Dedotta  violazione,  in  via subordinata, del principio di obbligatorietà dell'azione penale, con  lesione del principio di buon andamento dell'amministrazione della  giustizia  -  Motivazione  'per  relationem' a  precedenti ordinanze  in  ordine  alla   non  manifesta  infondatezza  della questione - Manifesta inammissibilità.
+
+## Testo
+
+Manifesta  inammissibilita', per difetto di motivazione sulla non manifesta infondatezza, avendo il rimettente richiamato solo 'per relationem'  le  motivazioni di precedenti sue  ordinanze,  della questione  di  legittimita'  costituzionale  dell'art.   486  del codice  di  procedura  penale in relazione all'art.   159,  primo comma  del  codice penale, denunziato, in riferimento agli  artt. 3,  97  e 112 della Costituzione, nella parte in cui "non  prevde tra  i  casi di sospensione del procedimento, da cui discende  la sospensione  della prescrizione, il differimento reso  necessario dalla sussistenza di un legittimo impedimento" dell'impuato o del suo difensore.                                                         A.M.M.
+
+## Norme
+
+- codice di procedura penale 1930, art. 486
+- codice penale, art. 159, comma 1
+
+## Parametri
+
+- Costituzione, art. 112
+- Costituzione, art. 97
