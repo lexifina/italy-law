@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/3.0.48"/>
+					<an:FRBRdate date="2003-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.48"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@"/>
+					<an:FRBRdate date="2003-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@.akn"/>
+					<an:FRBRdate date="2003-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-11-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-11-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2512/A/3.0.48/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2512" showAs="DDL 2512"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3901" showAs="Asciutti"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17656" showAs="Valditara"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17607" showAs="Favaro"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17543" showAs="Gaburro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3840" showAs="Brignone"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/251" showAs="Bevilacqua"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/656" showAs="Compagna"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17580" showAs="Delogu"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2512</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.48</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Asciutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Valditara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Favaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Gaburro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Brignone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bevilacqua</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Compagna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Delogu</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 3, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					        «Art. 3.0.48
+				</an:p>
+				<an:p align="center">
+					<an:i>(Istituzione di una imposta sulla vendita, distribuzione e rappresentazione di materiale pornografico)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. È istituita una imposta sulla vendita, distribuzione, rappresentazione di materiale pornografico nella misura del 10 per cento del prezzo, canone o altro corrispettivo economico di offerta al pubblico, al netto dell'IVA.
+				</an:p>
+				<an:p align="justify">        2. Ai fini del presente articolo si considera materiale pornografico ogni opera letteraria, figurativa, cinematografica, audiovisiva, teatrale, telematica, anche riprodotta su supporto informatico, nonché riviste, giornali, periodici e i relativi supporti integrativi e cataloghi, e altri prodotti che comportino la trattazione o la rappresentazione di organi o atti sessuali a specifico scopo erotico. Sono escluse dall'applicazione di questo articolo le opere edite o comunque diffuse da almeno 50 anni.</an:p>
+				<an:p align="justify">        3. Obbligato al pagamento dell'imposta è colui che immette nel consumo il suddetto materiale.</an:p>
+				<an:p align="justify">        4. La violazione di quanto disposto dal comma 3 comporta, oltre al pagamento dell'imposta non assolta, l'applicazione della sanzione pecuniaria nella misura del doppio dell'imposta stessa.</an:p>
+				<an:p align="justify">        5. Le modalità di applicazione del presente articolo sono definite con regolamento del Ministro dell'economia e delle finanze, da adottare entro novanta giorni dall'entrata in vigore della presente legge ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400.</an:p>
+				<an:p align="justify">        6. Un importo corrispondente all'80 per cento del gettito derivante dal prelievo di cui al presente articolo è destinato ad incrementare il fondo per progetti di ricerca di cui all'articolo 56 della legge 27 dicembre 2002, n. 289. Un importo corrispondente al restante 20 per cento è destinato al finanziamento del contratto collettivo nazionale di lavoro del settore dell'alta formazione artistica e musicale, per il biennio 2002-2003».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
