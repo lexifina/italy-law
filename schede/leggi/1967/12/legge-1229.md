@@ -1,0 +1,12 @@
+# Legge 19 dicembre 1967, n. 1229
+
+- Tipo: Ordinaria
+- Numero: 1229
+- Data: 1967-12-19
+- Titolo: Abolizione  del  contributo  a carico degli istituti di assicurazione sociale  previsto dall'articolo 52, lettera f), del testo unico delle leggi  sui  consigli provinciali dell'economia corporativa, approvato con regio decreto 20 settembre 1934, n. 2011.
+- Pubblicazione: (Pubblicata nella G.U. del 28 dicembre 1967 n. 323)
+- Legislatura: IV legislatura della Repubblica (repubblica_04)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-12-19;1229
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;4.legislatura;4166
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1967_1229
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
