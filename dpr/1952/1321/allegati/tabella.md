@@ -1,0 +1,3 @@
+TABELLA CONTEMPLATA ALL'ART. 6 COME PARTE INTEGRANTE DELLO STATUTO
+
+Parte di provvedimento in formato grafico
