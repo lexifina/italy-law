@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+18 dicembre 1952
+
+3154
+
+Trasferimento in proprieta' all'Ente per la colonizzazione del Delta Padano di terreni di proprieta' di Caniato Alfredo fu Albano, in comune di Portomaggiore (Ferrara).
