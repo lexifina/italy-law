@@ -1,0 +1,7 @@
+Convenzione sulla legge applicabile al trasferimento della proprieta' in caso di vendita a carattere internazionale di beni mobili corporali (L'Aja, 15 aprile 1958).
+
+CONVENTION
+
+SUR LA LOI APPLICABLE AU TRANSFERT DE LA PROPRIETE' EN CAS DE VENTE A CARACTERE INTERNATIONAL D'OBJETS MOBILIERS CORPORELS
+
+Parte di provvedimento in formato grafico
