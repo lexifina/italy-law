@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+18 dicembre 1984
+
+1088
+
+Estinzione della Cassa comunale di credito agrario di Monte San Giovanni Campano.
