@@ -1,0 +1,61 @@
+ALLEGATO 9
+
+EROGAZIONE DEL CONTRIBUTO PER L'ACQUISTO IN VIA ORDINARIA DI BENI
+
+GIA' TUTTI CONSEGNATI ED INTERAMENTE PAGATI PER I QUALI E' STATA GIA' RICHIESTA LA CONCESSIONE DEL CONTRIBUTO.
+
+SCHEMA DI DOMANDA
+
+Raccomandata A.R.
+
+Al Ministero dell'industria, del
+
+commercio e dell'artigianato -
+
+Direzione generale della produzione
+
+industriale - Divisione III - Via
+
+Molise, 2 - 00187 ROMA
+
+RICHIESTA DI EROGAZIONE DI CONTRIBUTI IN CONTO
+
+CAPITALE AI SENSI DELLA LEGGE 11 MARZO 1988, N. 67
+
+(in carta da bollo da L. 5.000)
+
+N. Pos. 00 ...... ... A
+
+In riferimento alla nostra precedente domanda di concessione di contributo in data ...................... ed al relativo decreto di concessione n. ...... del ................ (se possibile) la ditta sottoscritta ........................................................
+
+con sede legale in ..................................................
+
+CHIEDE
+
+l'erogazione del contributo di L. .......... mediante accredito sul c/c n. ...... ... presso la Banca .................................. in ..................................................................
+
+La sottoscritta unisce alla presente domanda i seguenti documenti: (da elencare) numeri 6 (*), 7, 8, 9, 10, 15, 16, indicati nell'allegato 1.
+
+(Timbro della ditta)
+
+Legale rappresentante:
+
+Nome .............................................................
+
+Cognome ..........................................................
+
+Posizione nella ditta e poteri ................................... ..................................................................
+
+...
+
+Luogo e data.......................
+
+Firma............................
+
+------------
+
+(*) L'attestazione di conformita' deve essere allegata
+
+qualora non sia stata gia' inviata unitamente alla domanda
+
+di concessione.
