@@ -1,0 +1,3 @@
+ARRANGEMENT relatif a' la repression de la circulation des publications obscenes.
+
+Parte di provvedimento in formato grafico
