@@ -1,0 +1,3 @@
+Allegato D
+
+Parte di provvedimento in formato grafico
