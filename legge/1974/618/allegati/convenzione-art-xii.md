@@ -1,0 +1,3 @@
+Articolo XII.
+
+Cinque anni dopo l'entrata in vigore della presente convenzione, o prima di tale data se una maggioranza delle Parti della convenzione lo richieda sottoponendo una proposta a tale scopo ai Governi depositari, una conferenza degli Stati parti della convenzione avra' luogo a Ginevra (Svizzera), al fine di esaminare il funzionamento della convenzione in vista di accertarsi che gli obiettivi enunciati nel preambolo e le disposizioni della convenzione, ivi comprese quelle relative ai negoziati sulle armi chimiche, siano in via di realizzazione. In occasione di tale esame, sara' tenuto conto di tutte le realizzazioni scientifiche e tecniche che hanno rapporto con la convenzione.
