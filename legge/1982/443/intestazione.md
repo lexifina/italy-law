@@ -1,0 +1,15 @@
+LEGGE
+
+16 luglio 1982
+
+443
+
+Conversione in legge del decreto-legge 14 maggio 1982, n. 257,
+
+recante proroga di un anno della legge 26 giugno 1981, n. 330,
+
+riguardante elevazione del limite di eta' per il collocamento in
+
+congedo dei sottufficiali e dei militari di truppa del Corpo degli
+
+agenti di custodia.
