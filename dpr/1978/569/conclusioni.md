@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 31 luglio 1978
+
+PERTINI ANDREOTTI - MALFATTI - BONIFACIO - PANDOLFI Visto, il Guardasigilli: BONIFACIO Registrato alla Corte dei conti, addi' 23 settembre 1978 Atti di Governo, registro n. 19, foglio n. 1 --------------- AGGIORNAMENTO (2) Il D. Lgs. 18 maggio 2001, n. 280 ha disposto (con l'art. 1, comma 4) che "La delega delle funzioni amministrative statali in materia di catasto, terreni e urbano alle province autonome di Trento e di Bolzano decorre dalla data prevista con legge regionale per l'operativita' della delega da parte della regione stessa alle province autonome di Trento e di Bolzano delle funzioni amministrative in materia di libri fondiari. Il decreto del Presidente della Repubblica 31 luglio 1978, n. 569, e' abrogato con effetto dalla stessa data."
