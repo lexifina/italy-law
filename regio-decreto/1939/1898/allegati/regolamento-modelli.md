@@ -1,0 +1,3 @@
+M O D E L L I
+
+Parte di provvedimento in formato grafico
