@@ -1,0 +1,101 @@
+# Corte costituzionale, ordinanza 379/1993
+
+- ECLI: ECLI:IT:COST:1993:379
+- Tipo: ordinanza
+- Presidente: CASAVOLA
+- Relatore: Francesco Guizzi
+- Data della decisione: 06/10/1993
+- Data del deposito: 14/10/1993
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 19860
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1993:379
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: prof. Francesco Paolo CASAVOLA;
+ Giudici: dott. Francesco GRECO, prof. Gabriele PESCATORE, avv. Ugo
+ SPAGNOLI, prof. Antonio BALDASSARRE, prof. Vincenzo CAIANIELLO,
+ avv. Mauro FERRI, prof. Luigi MENGONI, prof. Enzo CHELI, dott.
+ Renato GRANATA, prof. Francesco GUIZZI, prof. Cesare MIRABELLI,
+ prof. Fernando SANTOSUOSSO;
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale  del  combinato  disposto
+ dell'art.  23  della legge 17 maggio 1985, n. 210 e dell'art. 413 del
+ codice di procedura  civile  (Istituzione  dell'Ente  Ferrovie  dello
+ Stato),  promosso con ordinanza emessa il 14 ottobre 1992 dal Pretore
+ di Roma nel procedimento civile vertente tra Gazzo Loris ed  altro  e
+ l'Ente  Ferrovie  dello  Stato,  iscritta  al  n.  141  del  registro
+ ordinanze 1993 e pubblicata nella Gazzetta Ufficiale della Repubblica
+ n. 14, prima serie speciale, dell'anno 1993;
+    Visto l'atto  di  intervento  del  Presidente  del  Consiglio  dei
+ ministri;
+    Udito  nella  camera  di  consiglio  del  7 luglio 1993 il Giudice
+ relatore Francesco Guizzi;
+    Ritenuto che il Pretore  di  Roma,  con  ordinanza  emessa  il  14
+ ottobre   1992,  ha  sollevato,  in  riferimento  all'art.  97  della
+ Costituzione, questione di legittimità costituzionale del  combinato
+ disposto dell'art. 23 della legge 17 maggio 1985, n. 210, e dell'art.
+ 413  del  codice  di  procedura civile, nella parte in cui dispone di
+ adire il Pretore  di  Roma  (territorialmente  competente  in  quanto
+ giudice nella cui circoscrizione ha sede legale l'Ente Ferrovie dello
+ Stato)  anche  ai  lavoratori  i  quali  prestano  servizio presso le
+ dipendenze di tale Ente che non rientrano nella sua circoscrizione;
+      che secondo il giudice a quo l'art. 23 della legge  n.  210  del
+ 1985,  quale  risulta  dopo  la  sentenza n. 117 del 1990 della Corte
+ costituzionale,  nel  far  rinvio  alla  disciplina  generale   delle
+ controversie  di lavoro dettata dall'art. 413 del codice di procedura
+ civile, determina  un'irrazionale  distribuzione  dei  processi,  con
+ sospetta  violazione  del  principio  di  buon  andamento  introdotto
+ dall'art. 97 della Costituzione, riferibile anche all'amministrazione
+ della giustizia, secondo quanto precisato dalla Corte  costituzionale
+ nella sentenza n. 86 del 1982;
+      che  si  è costituito il Presidente del Consiglio dei ministri,
+ rappresentato e difeso dall'Avvocatura generale dello Stato,  che  ha
+ concluso per la manifesta infondatezza della questione.
+    Considerato  che  questa Corte ha già dichiarato l'illegittimità
+ costituzionale dell'art. 23 della  legge  17  maggio  1985,  n.  210,
+ proprio  nella  parte  in  cui  introduceva irragionevole deroga alla
+ disciplina generale dettata dall'art. 413  del  codice  di  procedura
+ civile (sent. n. 117 del 1990);
+      che  è  del  tutto  inconferente  il richiamo all'art. 97 della
+ Costituzione,   poiché    il    principio    di    buon    andamento
+ dell'amministrazione  della  giustizia  impone che l'attribuzione dei
+ posti di organico agli uffici giudiziari sia correlata alle  pendenze
+ di  fatto,  comunque  radicate;  esigenza, questa, già avvertita dal
+ legislatore  al  momento  di  dettare  la  nuova   disciplina   delle
+ controversie  individuali  di  lavoro  (legge 11 agosto 1973, n. 533,
+ art. 21);
+      che identica questione è già stata  dichiarata  manifestamente
+ infondata  da  questa  Corte  (ordinanze  nn.  222 del 1993 e 492 del
+ 1992);
+      che non sono addotti profili nuovi;
+    Visti gli artt. 26, secondo comma, della legge 11 marzo  1953,  n.
+ 87, e 9, secondo comma, delle Norme integrative per i giudizi davanti
+ alla Corte costituzionale;
+
+## Dispositivo
+
+per questi motivi
+                        LA CORTE COSTITUZIONALE
+   Dichiara  la manifesta infondatezza della questione di legittimità
+ costituzionale del combinato disposto dell'art.  23  della  legge  17
+ maggio  1985,  n. 210, (Istituzione dell'Ente Ferrovie dello Stato) e
+ dell'art. 413 del codice di procedura civile, nella parte in cui  dà
+ facoltà  ai  dipendenti  dell'Ente  Ferrovie dello Stato di adire il
+ Pretore di Roma, in quanto giudice della circoscrizione in cui l'Ente
+ ha sede  legale,  anche  se  addetti  a  compartimenti  e  dipendenze
+ dell'Ente  che  non rientrano nella sua circoscrizione, sollevata, in
+ riferimento all'art. 97 della Costituzione, dal Pretore di  Roma  con
+ l'ordinanza in epigrafe.
+    Così  deciso  in  Roma,  nella  sede  della Corte costituzionale,
+ Palazzo della Consulta, il 6 ottobre 1993.
+                        Il Presidente: CASAVOLA
+                         Il redattore: GUIZZI
+                       Il cancelliere: DI PAOLA
+    Depositata in cancelleria il 14 ottobre 1993.
+               Il direttore della cancelleria: DI PAOLA
