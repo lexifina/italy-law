@@ -14,4 +14,4 @@ La domanda puo' essere riproposta sino all'inizio della discussione finale del d
 
 Il pagamento delle somme indicate nella prima parte del presente articolo estingue il reato.
 
-((In caso di modifica dell'originaria imputazione, qualora per questa non fosse possibile l'oblazione, l'imputato e' rimesso in termini per chiedere la medesima, sempre che sia consentita)).
+((COMMA ABROGATO DAL D.L. 7 APRILE 2000, N. 82, CONVERTITO CON MODIFICAZIONI DALLA L. 5 GIUGNO 2000, N. 144)).
