@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di asservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 17 febbraio 1994
+
+SCALFARO CIAMPI, Presidente del Consiglio dei Ministri DIANA, Ministro delle risorse agricole, alimentari e forestali Visto, il Guardasigilli: CONSO AVVERTENZA: Il decreto-legge 4 gennaio 1994, n. 1, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 4 del 7 gennaio 1994. In questa stessa Gazzetta Ufficiale, alla pag. 57, e' ripubblicato il testo del decreto-legge 4 gennaio 1994, n. 1, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
