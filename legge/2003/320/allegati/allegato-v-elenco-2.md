@@ -1,0 +1,3 @@
+ALLEGATO V-Elenco 2
+
+Parte di provvedimento in formato grafico
