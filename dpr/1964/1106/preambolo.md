@@ -1,0 +1,19 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Pavia, approvato con regio decreto 14 ottobre 1926, n. 2130, e modificato con regio decreto 13 ottobre 1927, n. 2229 e successivi;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Vedute le proposte avanzate dalle autorita' accademiche dell'Universita' di Pavia, intese all'istituzione della Facolta' di economia e commercio presso l'Universita' medesima;
+
+Veduta la convenzione per il mantenimento della predetta Facolta', stipulata in data 9 luglio 1964 tra la Universita' di Pavia e il Comune di Pavia, la Provincia di Pavia, la Camera di commercio, industria e agricoltura di Pavia, il Monte di credito di Pavia, il Consorzio universitario lombardo;
+
+Sentito il parere della Sezione prima del Consiglio superiore della pubblica istruzione;
+
+Riconosciuta la necessita' di approvare le proposte menzionate;
+
+Sulla proposta del Ministro per la pubblica istruzione, di concerto col Ministro per il tesoro; Decreta:
