@@ -1,0 +1,17 @@
+ANNESSO N.1 ALL'ACCORDO FRA IL GOVERNO DELLA REPUBBLICA ITALIANA ED IL COMANDANTE SUPREMO ALLEATO IN EUROPA SULLE PARTICOLARI CONDIZIONI DI INSTALLAZIONE E DI FUNZIONAMENTO NEL TERRITORIO ITALIANO DEI QUARTIERI GENERALI INTERALLEATI CHE VI SONO O CHE VI POTRANNO ESSERE INSTALLATI
+
+In relazione a quanto previsto nell'articolo VII del presente Accordo e nel quadro dell'applicazione dell'articolo VI e dell'articolo VII, paragrafo 10, della "Convenzione", riguardanti il possesso ed il porto delle armi noucho' l'esercizio dei poteri di polizia, il Governo italiano e SHAPE concordano sulla opportunita' che i Quartieri Generali Interalleati in Italia abbiano in materia, e specialmente su alcuni punti specifici, una precisa interpretazione per quanto concerne poteri, responsabilita' e competenze riflettenti il suddetto esercizio dei poteri di polizia.
+
+In conformita', quindi, alla lettera e allo spirito degli accordi vigenti, si convengono i seguenti specifici punti:
+
+1) I Quartieri Generali Interalleati e le forze armate che in essi prestano servizio hanno regolamenti dettagliati per la salvaguardia delle armi e delle munizioni da guerra in loro possesso. Tali regolamenti saranno accuratamente osservati dalle forze armate al fine di prevenire qualunque possesso e porto di armi non autorizzato da parte dei singoli membri.
+
+Per quanto riguarda il possesso o il porto delle armi di proprieta' privata (per uso non militare) da parte di membri di una forza armata, e' inteso che le disposizioni di legge vigenti in Italia regoleranno tale possesso e porto.
+
+2) E' inteso che i poteri di polizia, riconosciuti ai Quartieri Generali Interalleati dal paragrafo 10 a) dell'articolo VII della "Convenzione" dovranno esercitarsi, in conformita' del principio generale, senza alcun pregiudizio della sovranita' nazionale.
+
+3) Per tutto quanto avvenga all'esterno delle installazioni dei Quartieri Generali Interalleati in Italia, lo esercizio di ogni potere e di ogni atto di polizia e' di competenza delle autorita' italiane. In conformita' di quanto stabilito dall'articolo VII, paragrafo 10 b), della "Convenzione", la polizia militare dei Quartieri Generali Interalleati potra' essere impiegata per mantenere la disciplina e l'ordine tra i membri' delle Forze, allo esterno delle installazioni dei Quartieri Generali Interalleati medesimi, solo in base a preventivi e specifici accordi con l'autorita' militare italiana e l'autorita' provinciale di pubblica sicurezza. Le misure di collaborazione tra la polizia militare dei Quartieri Generali Interalleati e le autorita' italiane di polizia, all'esterno delle installazioni dei Quartieri Generali Interalleati predetti, saranno adottate in conformita' alle direttive di dette autorita' italiane e il conseguente impiego delle forze comuni di polizia verra' effettuato sotto la direzione dei funzionari e degli ufficiali di pubblica sicurezza, preposti ai relativi servizi.
+
+4) E' inteso che i Quartieri Generali Interalleati non potranno mettere sentinelle o guardie all'esterno delle proprie installazioni, salvo intese che potranno essere preventivamente concordate con le competenti autorita', militari italiane e l'autorita' provinciale di pubblica sicurezza per far fronte a specifiche necessita' topografiche o locali.
+
+5) La preparazione del "piano di difesa esterna" delle installazioni dei Quartieri Generali Interalleati rimane di competenza delle autorita' italiane.
