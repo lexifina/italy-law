@@ -1,0 +1,57 @@
+# Corte costituzionale, ordinanza 332/2004
+
+- ECLI: ECLI:IT:COST:2004:332
+- Tipo: ordinanza
+- Presidente: MEZZANOTTE
+- Relatore: Guido Neppi Modona
+- Redattore: Guido Neppi Modona
+- Data della decisione: 28/10/2004
+- Data del deposito: 05/11/2004
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 28831, 28832
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2004:332
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Carlo MEZZANOTTE; Giudici: Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnei giudizi di legittimità costituzionale del combinato disposto dell'art. 558 del codice di procedura penale, nonché degli artt. 13, commi 3, 3-bis, 3-quater, e 14, comma 5-quinquies, del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), come modificati dalla legge 30 luglio 2002, n. 189 (Modifica alla normativa in materia di immigrazione e di asilo), promossi, nell'ambito di diversi procedimenti penali, dal Tribunale di Firenze con ordinanza del 14 novembre 2002 (iscritta al n. 73 del registro ordinanze 2003 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 10, prima serie speciale, dell'anno 2003), con quattro ordinanze del 29 novembre 2002 (iscritte ai numeri da 74 a 77 del registro ordinanze 2003 e pubblicate nella Gazzetta Ufficiale della Repubblica n. 10, prima serie speciale, dell'anno 2003), con ordinanza del 30 gennaio 2003 (iscritta al n. 208 del registro ordinanze 2003 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 17, prima serie speciale, dell'anno 2003).
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 29 settembre 2004 il Giudice relatore Guido Neppi Modona.
+    Ritenuto che con sei ordinanze di analogo contenuto il Tribunale di Firenze ha sollevato, in riferimento agli artt. 2, 3, 10, 13, 24, 101, secondo comma, e 111 della Costituzione, questione di legittimità costituzionale del combinato disposto dell'art. 558 del codice di procedura penale, nonchè degli artt. 13, commi 3, 3-bis, 3-quater, e 14, comma 5-quinquies, del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), come modificati dalla legge 30 luglio 2002, n. 189 (Modifica alla normativa in materia di immigrazione e di asilo), nella parte in cui da un lato prevede (art. 14, comma 5-quinquies) che per il reato contravvenzionale di cui all'art. 14, comma 5-ter, è obbligatorio l'arresto e si procede con rito direttissimo, dall'altro impone al giudice di concedere, all'atto della convalida, il nulla osta all'espulsione (non ricorrendo le «inderogabili esigenze processuali» di cui all'art. 13, comma 3, a sua volta richiamato dal comma 3-bis) e di pronunciare quindi sentenza di non luogo a procedere (a norma dell'art. 13, comma 3-quater, atteso che la presentazione dell'arrestato al giudice del dibattimento ex art. 558 cod. proc. pen. non costituisce provvedimento che dispone il giudizio);
+    che il Tribunale premette di essere investito della richiesta di convalida dell'arresto nei confronti di stranieri per il reato di cui all'art. 14, comma 5-ter, e del conseguente giudizio direttissimo a norma del combinato disposto degli artt. 558 cod. proc. pen. e 14, comma 5-quinquies, e che, in forza di tali disposizioni, l'arresto «dovrebbe essere convalidato e si dovrebbe procedere a giudizio direttissimo»;
+    che ad avviso del rimettente l'arresto obbligatorio per la fattispecie di cui all'art. 14, comma 13-ter, punita nel massimo con la pena di un anno di arresto e perciò ritenuta all'evidenza di scarsa gravità dallo stesso legislatore, si porrebbe in primo luogo in contrasto con gli artt. 2, 3 e 10 Cost., violando il principio di eguaglianza che, in relazione ad una normativa destinata ad incidere su diritti inviolabili garantiti da trattati internazionali, non consente disparità di trattamento tra cittadini e stranieri;
+    che ulteriori dubbi di legittimità costituzionale sarebbero ravvisabili nella disciplina del giudizio direttissimo conseguente alla convalida, inesorabilmente destinato ad esaurirsi con una «pronuncia non di merito», in quanto nei confronti dell'arrestato non può essere disposta la custodia cautelare in carcere, non consentita per reati contravvenzionali, e lo straniero sottoposto a procedimento penale deve essere espulso dal questore, previo nulla osta del giudice all'atto della convalida;
+    che, intervenendo l'espulsione nei confronti di un imputato presentato al giudice del dibattimento per la convalida dell'arresto ex art. 558 cod. proc. pen. e non potendo tale provvedimento essere equiparato a quello che dispone il giudizio di cui al comma 3-quater del medesimo art. 13, il giudice dovrà limitarsi a pronunciare sentenza di non luogo a procedere;
+    che tale sentenza priverebbe però lo straniero del diritto di accedere ad un giusto processo quanto ai fatti contestati, con chiara violazione degli artt. 111 e 24 Cost., nonché degli artt. 5 e 6 della Convenzione per la salvaguardia dei diritti dell'uomo, che prevedono il diritto per ogni persona privata della propria libertà di presentare ricorso davanti ad un tribunale affinché decida sulla legittimità della propria detenzione;
+    che la disciplina censurata violerebbe perciò anche l'art. 13 Cost., configurando «un caso di […] arresto obbligatorio, che non trova il suo naturale sbocco nell'esercizio dell'azione penale e nel conseguente vaglio giurisdizionale sul merito dell'accusa», e l'art. 101, secondo comma, Cost., in quanto espropria il giudice «dell'esercizio della giurisdizione» e lo assoggetta «ad una decisione amministrativa del questore, dalla quale deriva il contenuto necessitato della sua pronuncia»;
+    che il Tribunale rimettente, ritenendo i prospettati dubbi di legittimità rilevanti ai fini della decisione sulla convalida dell'arresto, ha sospeso il «giudizio di convalida, limitatamente al reato in esame» e, affermando che «non può farsi luogo al giudizio direttissimo, la cui celebrazione presuppone l'avvenuta convalida dell'arresto, che in questo caso manca, in forza della sospensione» e che «non sembra […] si possa sospendere anche il giudizio direttissimo, che non è ancora instaurato», ha disposto «la restituzione degli atti al pubblico ministero perché proceda, per questo reato, con il rito ordinario»;
+    che nel giudizio iscritto al n. 208 del registro ordinanze del 2003 è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che le questioni siano dichiarate inammissibili o comunque infondate.
+    Considerato che il rimettente dubita, in riferimento agli artt. 2, 3, 10, 13, 24, 101, secondo comma, e 111 della Costituzione, della legittimità costituzionale del combinato disposto dell'art. 558 del codice di procedura penale, nonchè degli artt. 13, commi 3, 3-bis, 3-quater, e 14, comma 5-quinquies, del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), come modificati dalla legge 30 luglio 2002, n. 189, nella parte in cui da un lato prevede che per il reato contravvenzionale di cui all'art. 14, comma 5-ter, del medesimo decreto è obbligatorio l'arresto e si procede con il rito direttissimo, dall'altro impone al giudice di concedere, all'atto della convalida, il nulla osta all'espulsione e di pronunciare quindi sentenza di non luogo a procedere;
+    che, stante l'identità delle questioni sollevate, deve essere disposta la riunione dei relativi giudizi;
+    che, per quanto attiene al primo gruppo di questioni, successivamente alle ordinanze di rimessione questa Corte, con sentenza n. 223 del 2004, ha dichiarato costituzionalmente illegittimo l'art. 14, comma 5-quinquies, del decreto legislativo n. 286 del 1998, nella parte in cui stabilisce che per il reato previsto dal comma 5-ter del medesimo articolo 14 è obbligatorio l'arresto dell'autore del fatto;
+    che inoltre il decreto-legge 14 settembre 2004, n. 241 (Disposizioni urgenti in materia di immigrazione), ha sostituito l'art. 14, comma 5-quinquies, del decreto legislativo n. 286 del 1998, in particolare prevedendo l'arresto obbligatorio in flagranza per il solo delitto di cui al comma 5-quater;
+    che gli atti devono pertanto essere restituiti al giudice rimettente;
+    che, con riferimento al secondo gruppo di questioni, in tutti i giudizi a quibus il Tribunale ha sospeso il giudizio di convalida dell'arresto in relazione al reato di cui all'art. 14, comma 5-ter, del decreto legislativo n. 286 del 1998 e, rilevato che per tale reato non si poteva fare luogo al giudizio direttissimo, la cui celebrazione presuppone l'avvenuta convalida dell'arresto, ha ordinato «la restituzione degli atti al pubblico ministero perché proceda, per questo reato, con il rito ordinario»;
+    che, a prescindere dalla ritualità del provvedimento con cui è stata disposta la restituzione degli atti al pubblico ministero, non vi è dubbio che il Tribunale rimettente si è spogliato del processo e non può più fare applicazione delle norme della cui legittimità dubita;
+    che le relative questioni devono pertanto essere dichiarate manifestamente inammissibili per difetto di rilevanza (sentenza n. 223 del 2004).
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    riuniti i giudizi,
+    1) ordina la restituzione degli atti al Tribunale di Firenze in relazione alle questioni concernenti l'art. 14, comma 5-quinquies, del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), inserito dall'art. 13 della legge 30 luglio 2002, n. 189 (Modifica alla normativa in materia di immigrazione e di asilo), nella parte in cui stabilisce che per il reato previsto dal comma 5-ter del medesimo art. 14 è obbligatorio l'arresto dell'autore del fatto;
+    2) dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale del combinato disposto dell'art. 558 del codice di procedura penale, nonché degli artt. 13, commi 3, 3-bis, 3-quater, e 14, comma 5-quinquies, del predetto decreto legislativo 25 luglio 1998, n. 286, come modificati dalla legge 30 luglio 2002, n. 189, sollevate, in riferimento agli artt. 24, 101, secondo comma, e 111 della Costituzione, dal Tribunale di Firenze, con le ordinanze in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 28 ottobre 2004.
+    F.to:
+    Carlo MEZZANOTTE, Presidente
+    Guido NEPPI MODONA, Redattore
+    Giuseppe DI PAOLA, Cancelliere
+    Depositata in Cancelleria il 5 novembre 2004.
+    Il Direttore della Cancelleria
+    F.to: DI PAOLA
