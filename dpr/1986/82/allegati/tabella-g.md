@@ -1,0 +1,3 @@
+TABELLA G
+
+Parte di provvedimento in formato grafico
