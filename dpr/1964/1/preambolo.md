@@ -1,0 +1,7 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592, e successive modificazioni ed integrazioni;
+
+Veduto il decreto del Presidente della Repubblica 23 dicembre 1958, n. 1285, con il quale venne approvata e resa esecutiva la convenzione istitutiva del posto di professore di ruolo destinato all'insegnamento della "Semeiotica medica" presso la Facolta' di Medicina e chirurgia dell'Universita' di Pavia;
+
+Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro; Decreta:
