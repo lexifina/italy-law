@@ -1,0 +1,23 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato e Ministro Segretario di Stato per gli affari dell'interno;
+
+Veduta la legge 27 dicembre 1903, n. 515, con cui le frazioni Molini di Triora, Andagna, Corte, Perallo, Gavano, Aigovo, Agaggio Inferiore, Agaggio Superiore e Glori furono staccate dal comune di Triora e costituite in Comune autonomo denominato Molini di Triora;
+
+Veduto il R. decreto 14 aprile 1904, n. CLXXXII, con cui, in esecuzione della legge precitata, fu provveduto in via provvisoria alla delimitazione dei confini ed alla ripartizione delle attivita' e passivita' fra i due Comuni;
+
+Veduto il parere espresso dalla Deputazione provinciale d'Imperia con deliberazione 15 dicembre 1923, ratificata dal Consiglio provinciale con deliberazione 4 febbraio 1924;
+
+Veduto il progetto predisposto dall'ispettore superiore di ragioneria comm. Tullio Carnevali per la sistemazione definitiva dei rapporti patrimoniali e il reparto delle attivita' e passivita' fra i comuni di Triora e Molini di Triora;
+
+Vedute le deliberazioni 12 giugno 1927 del podesta' di Triora e 27 giugno 1927 del podesta' di Molini di Triora;
+
+Veduto il parere espresso dalla Giunta provinciale amministrativa di Imperia nella seduta del 7 luglio 1927;
+
+Udito il parere del Consiglio di Stato, Sezione prima, nell'adunanza 23 novembre 1927, le cui considerazioni s'intendono nel presente decreto riportate;
+
+Veduti il testo unico della legge comunale e provinciale, il relativo regolamento, il R. decreto 30 dicembre 1923, numero 2839, nonche' la legge 4 febbraio 1926, n. 237; Abbiamo decretato e decretiamo:
