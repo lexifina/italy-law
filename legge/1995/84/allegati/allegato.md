@@ -1,0 +1,9 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 21
+
+GENNAIO 1995, N. 21.
+
+All'articolo 1:
+
+al comma 1, le parole: "lire 285 miliardi" sono sostituite dalle seguenti: "lire 270 miliardi"; e dopo le parole: "nonche' un contributo" sono inserite le seguenti: "di complessive lire 15 miliardi".
