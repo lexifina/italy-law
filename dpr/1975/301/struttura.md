@@ -1,0 +1,9 @@
+- Titolo I DEGLI ISCRITTI (Art. 1.)
+
+- Titolo II DEI CONTRIBUTI (Art. 3.)
+
+- Titolo III DELLE PRESTAZIONI (Art. 7.)
+
+- Titolo IV DELL'ASSISTENZA MALATTIA (Art. 17.)
+
+- Titolo V DELLA PROSECUZIONE VOLONTARIA (Art. 22.)
