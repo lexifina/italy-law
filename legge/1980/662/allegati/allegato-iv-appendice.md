@@ -1,0 +1,7 @@
+APPENDICE DELL'ALLEGATO IV.
+
+Modello di certificato.
+
+CERTIFICATO INTERNAZIONALE DI PREVENZIONE DELL'INQUINAMENTO DA ACQUE DI SCARICO (1973)
+
+Parte di provvedimento in formato grafico
