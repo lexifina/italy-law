@@ -1,0 +1,3 @@
+TABELLE
+
+Parte di provvedimento in formato grafico
