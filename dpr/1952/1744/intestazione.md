@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+03 ottobre 1952
+
+1744
+
+Trasferimento in proprieta' all'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Valerio Maria-Concetta fu Ferruccio, in comune di Ferrandina (Matera).
