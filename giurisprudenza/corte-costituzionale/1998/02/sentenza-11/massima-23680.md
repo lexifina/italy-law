@@ -1,0 +1,22 @@
+# Massima n. 23680
+
+- Pronuncia: Corte costituzionale, sentenza 11/1998 (ECLI:IT:COST:1998:11)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1998:11
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   11/98.   REATI MILITARI - REATO DI RIFIUTO  DEL  SERVIZIO MILITARE  DI  LEVA  -  COLLOCAMENTO   IN  CONGEDO  ASSOLUTO,  PER INIDONEITA'  FISICA, SUCCESSIVO ALLA PRESENTAZIONE DELLA  DOMANDA DI  AMMISSIONE  AL  SERVIZIO  SOSTITUTIVO CIVILE  O  AL  SERVIZIO MILITARE  NON ARMATO - MANCATA PREVISIONE DI ESTINZIONE DEL REATO -  PRETEASA DDISPARITA' DI TRATTAMENTO RISPETTO A COLORO CHE, NON COLLOCATI  IN  CONGEDO ASSOLUTO, ABBIANO OTTENUTO  L'ACCOGLIMENTO DELLA DOMANDA - NON FONDATEZZA.
+
+## Testo
+
+Non  e' fondata, con riferimento all'art.  3 Cost., la  questione di  legittimita'  costituzionale  dell'art.  8, comma 7,  l.   15 dicembre  1972  n.   772  (norme   per  il  riconoscimento  della obiezione di coscienza), come sost.  dall'art.  2 l.  24 dicembre 1974  n.   695, nella parte in cui non prevede  l'estinzione  del reato  e, se vi sia stata condanna, la cessazione dell'esecuzione di  essa,  delle pene accessorie e di ogni altro effetto  penale, nei confronti dell'imputato o del condannato che, successivamente alla  presentazione della domanda per l'ammissione ad un servizio sostitutivo  civile, non abbiano ottenuto alcun provvedimento  in merito  dal  competente Ministro per la difesa, a causa del  loro collocamento   in  congedo  assoluto   per  motivi  diversi   dal raggiungimento   del  limite  di  eta'   (nel  caso  di   specie, l'imputato,  essendo stato chiamato alle armi e dopo aver opposto il   rifiuto,  aveva  successivamente   presentato   domanda   di ammissione  al servizio sostitutivo civile, a norma dell'art.  8, comma  4,  e,  qualche  tempo dopo, era stato  posto  in  congedo assoluto  per inidoneita' fisica, risultando cosi' "prosciolto da ogni obbligo di servizio militare" ai sensi dell'art.  113 d.P.R. n.    237   del  1964),  in   quanto  -  posto  che   l'eventuale inapplicabilita'  alla specie della causa di estinzione del reato prevista dall'art.  8, comma 7, e quindi la condanna per il reato previsto  dall'art.   8,  comma  2, di  colui  il  quale,  avendo proposto  domanda di ammissione al servizio sostitutivo civile  a norma  dell'art.   8,  comma  4, e' stato  collocato  in  congedo assoluto  per  motivi di infermita', parrebbe in effetti  violare l'art.   3  Cost.   sotto  il  duplice  profilo  del  divieto  di disciplinare  in modo uguale situazioni diverse e di disciplinare in  modo diverso situazioni analoghe - costituisce una  forzatura del sistema legislativo il ritenere che la norma impugnata regoli il  caso  di specie nel senso della inapplicabilita' della  causa estintiva,  tenuto  conto  che  l'ultimo comma  dell'art.   8  si inserisce  come elemento finale in una disciplina che  presuppone la    perdurante    inclusione    del    soggetto   nel    raggio dell'obbligazione militare e quindi l'esistenza del potere-dovere del  Ministro di provvedere sulla domanda di adempimento di  tale obbligazione  tramite  un servizio sostitutivo;   sicche',  nelle ipotesi  in  cui, come nella specie, nessun  provvedimento  sulla domanda  sia  stato  preso a causa dell'esclusione  del  soggetto dall'obbligo  di prestazione del servizio militare o del servizio civile  sostitutivo, si e' fuori della portata dell'ultimo  comma dell'art.   8, il quale non disciplina la fattispecie  sottoposta al giudice rimettente.  - S. n. 409/1989                                                  red.: S. Di Palma
+
+## Norme
+
+- legge, 15/12/1972 n. 772, art. 8, comma 7
+- legge, 24/12/1974 n. 695, art. 2
+
+## Parametri
+
+- Costituzione, art. 3
