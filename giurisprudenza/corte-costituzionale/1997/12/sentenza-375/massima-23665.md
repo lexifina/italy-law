@@ -1,0 +1,17 @@
+# Massima n. 23665
+
+- Pronuncia: Corte costituzionale, sentenza 375/1997 (ECLI:IT:COST:1997:375)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1997:375
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   375/97 B.  PARLAMENTO - IMMUNITA' PARLAMENTARI - DELIBERE PARLAMENTARI  DI INSINDACABILITA' DI "OPINIONI ESPRESSE", EX ART. 68,  COMMA PRIMO, COST.  - GIUDIZIO DELLA CORTE COSTITUZIONALE SU CONFLITTI  DI  ATTRIBUZIONE  SOLLEVATI IN RELAZIONE  AD  ESSE  DA AUTORITA' GIURISDIZIONALI - OGGETTO E LIMITI.
+
+## Testo
+
+Come  in  piu' occasioni si e' precisato, il vaglio  della  Corte costituzionale nel giudizio sul conflitto tra poteri dello Stato, allorche'  il  conflitto  verta  su  una  delibera   parlamentare affermativa  dell'insindacabilita'  di  "opinioni  espresse",  ai sensi  dell'art.   68, primo comma, Cost., e' circoscritto ad  un controllo  sulla "non arbitrarieta' della delibera  parlamentare" esplicandosi  esclusivamente  in  una  "verifica  esterna".   Nel sistema  delineato dalla norma costituzionale spetta infatti alle Camere   valutare   la  sussistenza    delle   condizioni   della insindacabilita',  ne'  la Corte, in questa sede, e'  chiamata  a giudicare  sul  merito della decisione adottata, ma  soltanto  ad accertare   se   vi  sia  stato  un  uso  distorto   del   potere parlamentare,  tale  da  vulnerare le attribuzioni  degli  organi della giurisdizione o da interferire sul loro esercizio, e quindi soltanto  a verificare la regolarita' dell' 'iter' procedurale  e la   sussistenza   dei  presupposti    richiesti   dal   precetto costituzionale,  e cioe' la riferibilita' dell'atto alle funzioni parlamentari,  posto  che  e'  appunto  il  nesso  funzionale  il discrimine fra quell'insieme di dichiarazioni, giudizi e critiche -  che  ricorrono cosi' di frequente nell'attivita'  politica  di deputati  e senatori - e le opinioni che godono della garanzia ad essi  accordata.   Certamente, nell'esperire il controllo di  sua competenza,   la  Corte  deve  tener   conto  che   la   funzione parlamentare,  a differenza da altre funzioni, "specializzate"  - che pur godono di analoghe, anche se non identiche, garanzie - ha natura  generale ed e' libera nel fine.  Tuttavia, se e' vero che essa non si risolve negli atti tipici, e ricomprende anche quelli presupposti  e conseguenziali, non vi si puo' ricondurre l'intera attivita'  politica svolta dal deputato o dal senatore, cio'  che finirebbe   per   vanificare  il   suddetto   nesso   funzionale, trasformando la prerogativa in un privilegio personale.  -  Riguardo all'ambito del giudizio della Corte sui conflitti  di attribuzione  sorti  in  relazione  a  delibere  parlamentari  di insindacabilita'  ex  art.   68,  primo   comma,  Cost.,  v.   in particolare,  S.   n.   265/1997  e,   in  precedenza,  S.    nn. 1150/1988  e 443/1993.  Sulle differenze tra le garanzie ex  art. 68,  comma primo, Cost., e quelle accordate a tutela di  funzioni "specializzate",  come  quelle riconosciute dall'art.  5 legge  3 gennaio  1981, n.  1, ai componenti del Consiglio Superiore della magistratura.  v.  S.  n.  148/1983.                                                  red.: S. Pomodoro
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
