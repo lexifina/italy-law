@@ -1,0 +1,21 @@
+# Massima n. 12650
+
+- Pronuncia: Corte costituzionale, sentenza 284/1986 (ECLI:IT:COST:1986:284)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1986:284
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    284/86   A.   GIURISDIZIONI   SPECIALI   - GIURISDIZIONI "PROFESSIONALI" - CONSIGLIO NAZIONALE DEI GEOMETRI - ATTRIBUZIONI GIURISDIZIONALI (NELLE MATERIE STABILITE DAL RELATIVO ORDINAMENTO PROFESSIONALE)  - COMPOSIZIONE  E MODALITA' DI FUNZIONAMENTO  DEL COLLEGIO  GIUDICANTE  - DUBBI  CIRCA  L'ESISTENZA  DEL  REQUISITO DELL'INDIPENDENZA  DEL GIUDICE - NON FONDATEZZA DELLA  QUESTIONE.
+
+## Testo
+
+In  tema  di  giurisdizioni "professionali",  non danno  luogo  a carenza  - sotto il profilo della composizione dell'organo  - ne' la  designazione  dei  membri  per  elezioni  (criterio,  questo, certamente  conforme  ai canoni  costituzionali,  tanto  piu'  in quanto recepito dall'art.  106,  comma secondo, della Cost.), ne' l'incondizionata   possibilita'   di   rielezione   dei   singoli componenti   (assistita  da  modalita'  tali  da  preservare   il rieleggibile da influenze esterne, per cio' versandosi in ipotesi diversa  da  quella  di rinnovazione del mandato da  parte  della Pubblica   Amministrazione),  ne'  l'appartenenza  degli   stessi componenti  alla categoria professionale  interessata  (esistendo nell'ordinamento   costituzionale  un  istituto   intrinsecamente affine,  la  Sezione  disciplinare del Consiglio superiore  della magistratura,    alla    quale   si   e'   riconosciuta    natura giurisdizionale;  e  trattandosi  comunque di specie  diversa  da quella  in cui un organo giudichi di cause  involgenti  interessi propri  dei  suoi  membri).  Parimenti e' da escludere  che  tale carenza  sussista  sotto il profilo concernente le  modalita'  di funzionamento quando lo svolgimento del giudizio e' improntato al modello del processo civile,  con intervento del P.G.  presso  la Corte di Cassazione in posizione distinta dall'organo giudicante; ne'  rileva,  poi,  la  coesistenza,  in capo  al  consiglio,  di funzioni  amministrative  quando  queste  sono  esercitate  senza rapporto di subordinazione verso altri soggetti, con cio' venendo meno   la   possibilita'   di  altrui  interferenze   in   quelle giurisdizionali;   mentre   la   variabilita'  del   numero   dei partecipanti alle sedute non ha,  di per se', incidenza viziante, se  e'  vero  che la stessa Corte  costituzionale  "funziona  con l'intervento  di  almeno  undici  membri":   restando,  peraltro, legittimo,  in  proposito,  l'auspicio  che  il  legislatore  non ritardi   ulteriormente,   in  sede  di   revisione,   una   piu' rassicurante  disciplina  generale delle  giurisdizioni  speciali "professionali"  (Non fondatezza - in riferimento  all'art.  108, comma   secondo,   Cost.   - della  questione   di   legittimita' costituzionale dell'art.  14, comma secondo, d.l.lgt. 23 novembre 1944,  n.  382,  nella  parte in cui statuisce che la Commissione centrale  (ora  Consiglio  nazionale) dei  geometri  esercita  le attribuzioni  giurisdizionali,   in  materia  disciplinare  e  di iscrizione   all'albo,   stabilite   dal   relativo   ordinamento professionale;    questione   sollevata   dalla   stessa    Corte costituzionale  sul  presupposto del riconoscimento della  natura giurisdizionale    agli   organi   delle    c.d.    giurisdizioni "professionali"    anteriori    alla     Costituzione,     natura principalmente  desumibile  dalla ricorribilita'  per  cassazione delle relative decisioni).  - S. nn. 110/1967, 114/1970, 27/1972 e 175/1980, sul valore della   ricorribilita'  in  cassazione ai fini dell'attribuzione  della   natura "giurisdizionale". - Applicazioni dell'art.  108,  comma secondo,  Cost.  in S.  nn.   93/1965, 55/1966, 30/1967, 49/1968, 133/1963, 60/1969, 121/1970   e 164/1970. - Su ipotesi di rinnovazione del mandato da parte della P.A.  v.:   S. nn. 11/1968, 49/1968 e 25/1976.
+
+## Norme
+
+- decreto legge luogotenenziale, 23/11/1944 n. 382, art. 14, comma 2
+
+## Parametri
+
+- Costituzione, art. 108, comma 2
