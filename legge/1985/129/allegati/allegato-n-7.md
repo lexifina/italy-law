@@ -1,0 +1,5 @@
+ALLEGATO N. 7
+
+SCAMBIO DI INFORMAZIONI VETERINARIE
+
+Parte di provvedimento in formato grafico

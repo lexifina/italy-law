@@ -1,0 +1,5 @@
+ALLEGATO N. 10
+
+FACSIMILE DI TESSERA SPECIALE
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,5 @@
+ALLEGATO N. 11
+
+FACSIMILE DI DICHIARAZIONE DI RITIRO DI LASCIAPASSARE
+
+Parte di provvedimento in formato grafico
