@@ -1,0 +1,3 @@
+Articolo III
+
+In deroga all'art. 1 della legge uniforme, ciascuno degli Stati contraenti puo' dichiarare, mediante atto da notificarsi al Governo dei Paesi Bassi all'atto del deposito del proprio strumento di ratifica o di adesione, che esso non applichera' la legge uniforme che nel caso in cui le parti del contratto di vendita abbiano il centro dei loro affari, o, in difetto di questo, la loro residenza abituale nel territorio di diversi Stati contraenti, e inserire, in conseguenza, la parola "contraenti" dopo la parola "Stati" la' dove quest'ultima figura per la prima volta al 1° comma dell'art. 1 della legge uniforme.
