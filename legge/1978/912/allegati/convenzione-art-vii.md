@@ -1,0 +1,17 @@
+ARTICOLO VII
+
+Utili delle imprese
+
+1. Gli utili di un'impresa di uno Stato contraente sono imponibili soltanto in detto Stato, a meno che l'impresa non svolga la sua attivita' nell'altro Stato contraente per mezzo di una stabile organizzazione ivi situata. Se l'impresa svolge in tal modo la sua attivita', gli utili dell'impresa sono imponibili nell'altro Stato ma soltanto nella misura in cui detti utili sono attribuibili alla stabile organizzazione.
+
+2. Fatte salve le disposizioni del paragrafo 3, quando un'impresa di uno Stato contraente svolge la sua attivita' nell'altro Stato contraente per mezzo di una stabile organizzazione ivi situata, in ciascuno Stato contraente vanno attribuiti a detta stabile organizzazione gli utili che si ritiene sarebbero stati da essa conseguiti se si fosse trattato di una impresa distinta e separata svolgente attivita' identiche o analoghe in condizioni identiche o analoghe e funzionando in piena indipendenza dall'impresa di cui essa costituisce una stabile organizzazione.
+
+3. Nella determinazione degli utili di una stabile organizzazione sono ammesse in deduzione le spese sostenute per gli scopi perseguiti dalla stessa stabile organizzazione, comprese le spese di direzione e le spese generali di amministrazione, sia nello Stato in cui e' situata la stabile organizzazione, sia altrove.
+
+4. Qualora uno degli Stati contraenti segua la prassi di determinare gli utili da attribuire ad una stabile organizzazione in base al riparto degli utili complessivi dell'impresa fra le diverse parti di essa, la disposizione del paragrafo 2 del presente articolo non impedisce a detto Stato contraente di determinare gli utili imponibili secondo la ripartizione in uso; tuttavia, il metodo di riparto adottato dovra' essere tale che il risultato sia conforme ai principi contenuti nel presente articolo.
+
+5. Nessun utile puo' essere attribuito ad una stabile organizzazione per il solo fatto che essa ha acquistato merci per l'impresa.
+
+6. Ai fini dei paragrafi precedenti, gli utili da attribuire alla stabile organizzazione sono determinati annualmente con lo stesso metodo, a meno che non esistano validi e sufficienti motivi per procedere diversamente.
+
+7. Quando gli utili comprendono elementi di reddito considerati separatamente in altri articoli della presente Convenzione, le disposizioni di tali articoli non vengono modificate da quelle del presente articolo.
