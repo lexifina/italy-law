@@ -1,0 +1,53 @@
+# Corte costituzionale, ordinanza 25/2005
+
+- ECLI: ECLI:IT:COST:2005:25
+- Tipo: ordinanza
+- Presidente: ONIDA
+- Relatore: Romano Vaccarella
+- Redattore: Romano Vaccarella
+- Data della decisione: 11/01/2005
+- Data del deposito: 19/01/2005
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 29069
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2005:25
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Valerio ONIDA; Giudici: Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 1, comma 2, del decreto-legge 20 giugno 2002, n. 122 (Disposizioni concernenti proroghe in materia di sfratti, di edilizia e di espropriazione), convertito, con modificazioni, in legge 1° agosto 2002, n. 185, promosso con ordinanza del 24 marzo 2003 dal Tribunale di Grosseto nel procedimento civile vertente tra Fracchia Sandra e Corridori Elda, iscritta al n. 373 del registro ordinanze 2003 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 25, prima serie speciale, dell'anno 2003.
+      Visti l'atto di costituzione di Fracchia Sandra nonché l'atto di intervento del Presidente del Consiglio dei ministri;
+      udito nella camera di consiglio del 15 dicembre 2004 il Giudice relatore Romano Vaccarella.
+ Ritenuto che il Tribunale di Grosseto, in composizione collegiale, nel corso del giudizio sull'opposizione promossa dal locatore avverso il decreto del 2 agosto 2002 col quale il giudice dell'esecuzione del medesimo Tribunale aveva sospeso, fino al 30 giugno 2003, l'esecuzione per il rilascio per finita locazione di un immobile sito in Grosseto, con ordinanza del 24 marzo 2003 ha sollevato, in riferimento all'art. 3 della Costituzione, questione di legittimità costituzionale dell'art. 1, comma 2, del decreto-legge 20 giugno 2002, n. 122 (Disposizioni concernenti proroghe in materia di sfratti, di edilizia e di espropriazione), convertito, con modificazioni, dall'art. 1 della legge 1° agosto 2002, n. 185;
+      che il Tribunale rimettente riferisce, in punto di fatto, che il conduttore, ricevuta la notifica del preavviso di rilascio, aveva formulato istanza di sospensione dell'esecuzione ai sensi dell'art. 80 della legge 23 dicembre 2000, n. 388, ottenendola, con provvedimento del giudice dell'esecuzione del 24 giugno 2002, fino al termine del 30 giugno 2002, e successivamente, intervenuta la proroga di cui al decreto-legge n. 122 del 2002, fino al 30 giugno 2003;
+      che avverso tale ultimo provvedimento, del 2 agosto 2002, la locatrice aveva proposto opposizione ai sensi del comma 2 dell'art. 1 del medesimo decreto-legge n. 122 del 2002, nel frattempo convertito dall'art. 1 della legge 1° agosto 2002, n. 185;
+      che, costituendosi nel giudizio di opposizione, il locatario aveva eccepito l'inammissibilità della domanda proposta dal locatore per essere stata questa proposta oltre il termine perentorio di cinque giorni, decorrente dalla comunicazione del decreto impugnato, previsto dall'art. 617 cod. proc. civ.;
+      che, sul contrasto delle parti in ordine alla qualificazione del giudizio a quo come opposizione agli atti esecutivi ed alla conseguente applicabilità del termine perentorio previsto dall'art. 617 cod. proc. civ., il Tribunale ha sollevato questione di legittimità costituzionale, ritenuta rilevante in quanto il giudizio a quo è stato intrapreso con ricorso depositato il 27 settembre 2002 e cioè oltre il termine di cinque giorni – non soggetto a sospensione nel periodo feriale – dalla comunicazione al conduttore del provvedimento impugnato, avvenuta il 2 settembre 2002;
+      che, quanto alla non manifesta infondatezza, il giudice a quo – premesso che la norma censurata prevede che avverso il decreto con cui il giudice dell'esecuzione abbia provveduto in ordine alla sospensione dell'esecuzione, previa verifica in capo al conduttore dei requisiti richiesti, «è ammessa opposizione al tribunale, che giudica in composizione collegiale con le modalità di cui all'art. 618 del codice di procedura civile» – osserva che il mancato esplicito richiamo all'art. 617 cod. proc. civ. (pur se ritenuto da alcuni giudici di merito, anche con riguardo all'analoga previsione contenuta nell'art. 6, comma 3, della legge 9 dicembre 1998, n. 431, non ostativo all'applicazione del termine perentorio ivi previsto) deve ritenersi indicativo dell'intenzione del legislatore di assoggettare l'opposizione de qua non a tutta la disciplina prevista dal codice di rito per l'opposizione agli atti esecutivi, ma solo alla specifica disposizione richiamata;
+      che non sarebbe possibile far discendere l'applicabilità dell'intera disciplina dell'opposizione agli atti esecutivi dal generale riconoscimento di tale natura all'opposizione in esame, posto che questa interpretazione finirebbe per svuotare di significato il puntuale richiamo all'art. 618 cod. proc. civ. il quale, invece, costituirebbe il sintomo, in uno alla previsione della riserva di collegialità, della introduzione di una disciplina sostanzialmente autonoma del procedimento, come conferma la circostanza che il legislatore, il quale pure aveva richiamato l'art. 617 cod. proc. civ. nel decreto-legge 30 dicembre 1988, n. 551 (convertito con modificazioni dalla legge 21 febbraio 1989, n. 61), ha omesso ogni richiamo a tale norma non solo nel decreto-legge in questione, ma anche nella legge n. 431 del 1998;
+      che, se ciò esclude ogni possibilità di fare applicazione analogica del termine di decadenza disciplinato da quella norma, tale soluzione legislativa appare in contrasto con il principio di uguaglianza sancito dall'art. 3 della Costituzione in quanto, disciplinando una opposizione sostanzialmente identica a quella che «la parte interessata, nell'ambito di una procedura ordinaria esecutiva, può proporre avverso il decreto con cui sia stata disposta la sospensione dell'esecuzione, ipotesi quest'ultima da ricondurre nella fattispecie della opposizione all'atto esecutivo ex art. 617, secondo comma, c.p.c.», non consentirebbe l'applicazione del termine perentorio imposto da quella norma, in tal modo configurando «un trattamento più favorevole razionalmente non giustificabile»;
+      che, con memoria del 14 luglio 2003, si è costituita in giudizio la locatrice-opponente, la quale ha invocato una pronuncia di inammissibilità o infondatezza della questione così sollevata;
+      che è altresì intervenuto, con la rappresentanza dell'Avvocatura generale dello Stato, il Presidente del Consiglio dei ministri il quale ha eccepito l'infondatezza della questione tenuto conto che il Tribunale rimettente, pur avendo dato atto della esistenza di un contrasto interpretativo in ordine alla norma impugnata e, dunque, del mancato consolidamento di un “diritto vivente”, ha prescelto l'opzione della inapplicabilità dell'art. 617 cod. proc. civ. e contestualmente sollevato l'incidente di costituzionalità, senza aver vagliato la percorribilità dell'ipotesi ermeneutica contraria, costituzionalmente compatibile e, nella specie, agevolmente applicabile.
+      Considerato che il Tribunale di Grosseto dubita della legittimità costituzionale, in riferimento all'articolo 3 della Costituzione, dell'art. 1, comma 2, del decreto-legge 20 giugno 2002, n. 122 (Disposizioni concernenti proroghe in materia di sfratti, di edilizia e di espropriazione), convertito in legge dall'art. 1 della legge 1° agosto 2002, n. 185, nella parte in cui non prevede che l'opposizione al tribunale, avverso il decreto del giudice dell'esecuzione, sia proposta entro il termine di cui all'art. 617 cod. proc. civ.;
+      che la questione è manifestamente infondata non essendo condivisibile la premessa – dalla quale apoditticamente muove il rimettente – secondo la quale l'opposizione alla sospensione disciplinata dal decreto-legge n. 122 del 2002 sarebbe sostanzialmente identica a quella promuovibile nell'ambito di una ordinaria procedura esecutiva avverso il provvedimento di sospensione emesso dal giudice dell'esecuzione;
+      che, in effetti, la sospensione disposta dal giudice dell'esecuzione ai sensi degli artt. 623 e 624 cod. proc. civ. costituisce strumento di coordinamento del processo esecutivo con giudizi di cognizione destinati ad incidere sull'esecuzione (opposizioni ex artt. 615 e 619 cod. proc. civ., contestazioni ex art. 512 cod. proc. civ.) ovvero previsti dalla legge quali fasi del processo esecutivo (artt. 548 e 601), laddove quella di cui al decreto-legge n. 122 del 2002 costituisce una vera e propria (se pur temporanea) negazione del diritto di procedere ad esecuzione forzata;
+      che la disomogeneità dell'oggetto dell'opposizione de qua e di quella agli atti esecutivi comporta che il riferimento all'art. 618 cod. proc. civ., operato dal decreto-legge n. 122 del 2002, non giustifica l'adozione dell'intera disciplina dell'opposizione agli atti esecutivi come tertium comparationis, ma – conformemente  alla lettera della norma, che parla di “modalità di cui all'art. 618” – costituisce un mero richiamo ad una data disciplina del procedimento e del provvedimento conclusivo di esso nonché del regime di tale provvedimento.
+      Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+      dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 1, comma 2, del decreto-legge 20 giugno 2002, n. 122 (Disposizioni concernenti proroghe in materia di sfratti, di edilizia e di espropriazione), convertito, con modificazioni, dall'art. 1 della legge 1° agosto 2002, n. 185, sollevata, in riferimento all'art. 3 della Costituzione, dal Tribunale di Grosseto con l'ordinanza in epigrafe.
+      Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, l'11  gennaio 2005.
+F.to:
+Valerio ONIDA, Presidente
+Romano VACCARELLA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 19 gennaio 2005.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
