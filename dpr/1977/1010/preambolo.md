@@ -1,0 +1,7 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativo all'ordinamento dell'Amministrazione degli affari esteri;
+
+Visto il decreto ministeriale 16 settembre 1967, registrato alla Corte dei conti, addi' 11 novembre 1967, registro n. 263, foglio n. 197, con il quale veniva istituito il Lome' (Togo) un vice consolato di 2ª categoria alle dipendenze dell'ambasciata d'Italia in Accra (Ghana);
+
+Sulla proposta del Ministro per gli affari esteri; Decreta:
