@@ -1,14 +1,14 @@
 Art. 648-ter.
 
-(Impiego di denaro, beni o utilita' di provenienza illecita).
+(( (Impiego di denaro, beni o utilita' di provenienza illecita).))
 
-Chiunque, fuori dei casi di concorso nel reato e dei casi previsti dagli articoli 648 e 648-bis, impiega in attivita' economiche o finanziarie denaro, beni o altre utilita' provenienti dai delitti di rapina aggravata, di estorsione aggravata, di sequestro di persona a scopo di estorsione o dai delitti concernenti la produzione o il traffico di sostanze stupefacenti o psicotrope, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
+((Chiunque, fuori dei casi di concorso nel reato e dei casi previsti dagli articoli 648 e 648-bis, impiega in attivita' economiche o finanziarie denaro, beni o altre utilita' provenienti da delitto, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
 
 La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
 
-Si applica l'ultimo comma dell'articolo 648.
+La pena e' diminuita nell'ipotesi di cui al secondo comma dell'articolo 648.
 
-((125))
+Si applica l'ultimo comma dell'articolo 648)).
 
 -------------
 
