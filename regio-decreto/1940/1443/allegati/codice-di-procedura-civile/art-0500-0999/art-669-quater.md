@@ -6,7 +6,7 @@ Quando vi e' causa pendente per il merito la domanda deve essere proposta al giu
 
 Se la causa pende davanti al tribunale la domanda si propone all'istruttore oppure, se questi non e' ancora designato o il giudizio e' sospeso o interrotto, al presidente, il quale provvede ai sensi dell'ultimo comma dell'articolo 669-ter.
 
-Se la causa pende davanti al conciliatore, la domanda si propone al ((tribunale)). ((88))
+Se la causa pende davanti al conciliatore, la domanda si propone al tribunale. (88) ((90))
 
 In pendenza dei termini per proporre l'impugnazione la domanda si propone al giudiche che ha pronunziato la sentenza.
 
@@ -33,3 +33,9 @@ Il D.L. 7 ottobre 1994, n. 571 convertito con modificazioni dalla L. 6 dicembre 
 AGGIORNAMENTO (88)
 
 Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+---------------
+
+AGGIORNAMENTO (90)
+
+Il D.Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."

@@ -1,8 +1,8 @@
 Art. 50-bis.
 
-(( (Cause nelle quali il tribunale giudica in composizione collegiale). ))
+(Cause nelle quali il tribunale giudica in composizione collegiale).
 
-((Il tribunale giudica in composizione collegiale:
+Il tribunale giudica in composizione collegiale:
 
 1) nelle cause nelle quali e' obbligatorio l'intervento del pubblico ministero, salvo che sia altrimenti disposto;
 
@@ -18,10 +18,16 @@ Art. 50-bis.
 
 7) nelle cause di cui alla legge 13 aprile 1988, n. 117.
 
-Il tribunale giudica altresi' in composizione collegiale nei procedimenti in camera di consiglio disciplinati dagli articoli 737 e seguenti, salvo che sia altrimenti disposto.))((88))
+Il tribunale giudica altresi' in composizione collegiale nei procedimenti in camera di consiglio disciplinati dagli articoli 737 e seguenti, salvo che sia altrimenti disposto.(88)((90))
 
 ---------------
 
 AGGIORNAMENTO (88)
 
 Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che " Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+---------------
+
+AGGIORNAMENTO (90)
+
+Il D.Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."

@@ -4,13 +4,13 @@ Art. 669-terdecies.
 
 Contro l'ordinanza con la quale, prima dell'inizio o nel corso della causa di merito, sia stato concesso un provvedimento cautelare e' ammesso reclamo nei termini previsti dall'articolo 739, secondo comma.
 
-Il reclamo ((...)) contro i provvedimenti del giudice singolo del tribunale si propone al collegio, del quale non puo' far parte il guidice che ha emanato il provvedimento reclamato. Quando il provvedimento cautelare e' stato emesso dalla Corte d'Appello, il reclamo si propone ad altra sezione della stessa Corte o, in mancanza, alla Corte d'Appello piu' vicina. ((88))
+Il reclamo contro i provvedimenti del giudice singolo del tribunale si propone al collegio, del quale non puo' far parte il guidice che ha emanato il provvedimento reclamato. Quando il provvedimento cautelare e' stato emesso dalla Corte d'Appello, il reclamo si propone ad altra sezione della stessa Corte o, in mancanza, alla Corte d'Appello piu' vicina. (88) ((90))
 
 Il procedimento e' disciplinato dagli articoli 737 e 738.
 
 Il collegio, convocate le parti, pronuncia, non oltre venti giorni dal deposito del ricorso, ordinanza non impugnabile con la quale conferma, modifica o revoca il provvedimento cautelare.
 
-Il reclamo non sospende l'esecuzione del provvedimento; tuttavia il presidente del tribunale o della Corte investiti del reclamo, quando per motivi sopravvenuti il provvedimento arrechi grave danno, puo' disporre con ordinanza non impugnabile la sospensione dell'esecuzione o subordinarla alla prestazione di congrua cauzione. (67) (71) (72)
+Il reclamo non sospende l'esecuzione del provvedimento; tuttavia il presidente del tribunale o della Corte investiti del reclamo, quando per motivi sopravvenuti il provvedimento arrechi grave danno, puo' disporre con ordinanza non impugnabile la sospensione dell'esecuzione o subordinarla alla prestazione di congrua cauzione.(67) (71) (72)
 
 ---------------
 
@@ -37,3 +37,9 @@ Il D.L. 7 ottobre 1994, n. 571 convertito con modificazioni dalla L. 6 dicembre 
 AGGIORNAMENTO (88)
 
 Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace decorso il termine stabilito dall'articolo 1, comma 1, lettera r), della legge 16 luglio 1997, n. 254, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
+
+---------------
+
+AGGIORNAMENTO (90)
+
+Il D.Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 188 ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3."
