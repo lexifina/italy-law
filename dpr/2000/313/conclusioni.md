@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 21 settembre 2000
+
+CIAMPI Amato, Presidente del Consiglio dei Ministri De Mauro, Ministro della pubblica istruzione Visco, Ministro del tesoro, del bilancio e della programmazione economica Bassanini, Ministro per la funzione pubblica Visto, il Guardiasigilli: Fassino Registrato alla Corte dei conti il 17 ottobre 2000 Atti di Governo, registro n. 122, foglio n. 9 ((3)) ---------------- AGGIORNAMENTO (3) Il D.Lgs. 19 novembre 2004, n. 286 ha disposto (con l'art. 16, comma 5) che "Alla data di insediamento dei nuovi organi e' abrogato l'articolo 1 del decreto legislativo 20 luglio 1999, n. 258 e cessano di applicarsi nei confronti dell'Istituto le restanti disposizioni del predetto decreto; dalla stessa data e' altresi' abrogato il decreto del Presidente della Repubblica 21 settembre 2000, n. 313."
