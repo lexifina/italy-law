@@ -1,0 +1,3 @@
+Scambio di lettere
+
+Parte di provvedimento in formato grafico
