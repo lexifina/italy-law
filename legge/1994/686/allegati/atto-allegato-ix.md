@@ -1,0 +1,5 @@
+ALLEGATO IX
+
+ELENCO DI CUI ALL'ARTICOLO 71 PARAGRAFO 2 DELL'ATTO D'ADESIONE
+
+Parte di provvedimento in formato grafico
