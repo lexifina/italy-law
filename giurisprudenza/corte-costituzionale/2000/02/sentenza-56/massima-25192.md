@@ -1,0 +1,21 @@
+# Massima n. 25192
+
+- Pronuncia: Corte costituzionale, sentenza 56/2000 (ECLI:IT:COST:2000:56)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2000:56
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento  -  Immunita'   parlamentari   - Deliberazione  di  insindacabilità,  da parte della  camera  dei deputati,  ex art.  68, primo comma, cost., di dichiarazioni rese nel  corso  di una trasmissione televisiva, per cui  il  deputato vittorio  sgarbi  è  stato chiamato a rispondere  del  reato  di diffamazione  aggravata  a  danno  del dott.   luigi  esposito  - Conflitto  di  attribuzione tra poteri dello stato sollevato,  in relazione  a  tale  deliberazione, dal giudice  per  le  indagini preliminari  presso  il  tribunale  di   salerno  -  Mancanza  di specifici   collegamenti   delle   contestate  esternazioni   con dibattiti parlamentari, interrogazioni, inchieste, discussioni di progetti  di  legge  od altri interventi in sede  parlamentare  - Conseguente insussistenza della stretta connessione tra 'opinioni espresse'  e  'funzioni  parlamentari'   richiesta  dal  precetto costituzionale  -  Non  spettanza alla camera  dei  deputati  del potere esercitato - Annullamento della contestata deliberazione.
+
+## Testo
+
+A  decisione del conflitto di attribuzione tra poteri dello Stato sollevato  dal  Giudice  per le indagini  preliminari  presso  il Tribunale di Salerno, deve dichiararsi che non spetta alla Camera dei  deputati statuire che i fatti per i quali e' in corso presso quel  Tribunale  il  procedimento penale a  carico  del  deputato Vittorio Sgarbi per il delitto previsto e punito dagli artt.  595 cod.   pen., 13 della legge 8 febbraio 1948, n.  47, e 30,  comma 4, della legge 6 agosto 1990, n.  223, concernono opinioni da lui espresse   nell'esercizio  delle  proprie   funzioni,  ai   sensi dell'art.   68, primo comma, Cost..  Con conseguente annullamento della  deliberazione  in  tal senso adottata dalla Camera  il  22 ottobre  1997.  Al riguardo, premesso che spetta solo al  giudice ordinario il compito di verificare se le esternazioni oggetto del suddetto processo penale integrino gli estremi del reato ascritto al  deputato, o siano solo manifestazioni del diritto di  critica spettante  a  tutti  i  cittadini,  nel  giudizio  che  la  Corte costituzionale e' chiamata a rendere riguardo all'applicabilita', nel  caso,  del  richiamato precetto costituzionale,  e'  infatti decisivo che tali esternazioni - nelle quali certi comportamenti, ritenuti  omissivi,  del Sostituto Procuratore  della  Repubblica Luigi  Esposito  nei  confronti  di  alcuni  detenuti,   venivano qualificati  come  lesivi della dignita' dell'uomo  -  concernono valutazioni  dello  Sgarbi quale 'opinionista' nel corso  di  una trasmissione  televisiva  -  e  percio',  come  tali,  in  quanto espresse 'extra moenia', di per se' sicuramente non insindacabili e  senza che, peraltro, sia ravvisabile in esse alcuna  specifica connessione   con    dibattiti    parlamentari,   interrogazioni, inchieste,  discussioni  di  progetti di  legge,  non  risultando nemmeno  che  egli  abbia fatto uso  della  facolta'  contemplata dall'art.    67   della   legge  26   luglio   1975,   n.    354, sull'ordinamento   penitenziario,   di   visitare  gli   istituti penitenziari   per  accertare  in   concreto  le  condizioni   di detenzione,  al  fine  di esercitare eventualmente,  nelle  forme appropriate,  il  sindacato  ispettivo che  la  Costituzione  gli riconosce.    Cosicche',  mancando  palesemente   il  nesso   tra "opinioni  espresse"  e  "funzioni   parlamentari",  cosi'   come richiesto   dall'art.   68,  primo   comma,  Cost.,  sussiste  la denunciata     invasione     dell'ambito      di     attribuzioni costituzionalmente garantito all'autorita' giudiziaria.  - V. le precedenti massime A e B ed ivi richiami.                                          red.: S. Pomodoro
+
+## Norme
+
+- deliberazione della Camera dei deputati, 22/10/1997
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
