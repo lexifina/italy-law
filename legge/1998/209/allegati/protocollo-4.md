@@ -1,0 +1,13 @@
+PROTOCOLLO
+
+SULLE RELAZIONI ESTERNE DEGLI STATI MEMBRI
+
+IN MATERIA DI ATTRAVERSAMENTO DELLE FRONTIERE ESTERNE
+
+LE ALTE PARTI CONTRAENTI,
+
+TENENDO CONTO dell'esigenza degli Stati membri di garantire controlli efficaci alle loro frontiere esterne, se opportuno in cooperazione con i paesi terzi,
+
+HANNO CONVENUTO la seguente disposizione, che e' allegata al trattato che istituisce la Comunita' europea:
+
+Le disposizioni sulle misure relative all'attraversamento delle frontiere esterne di cui all'articolo 73 J, punto 2, lettera a) del titolo III bis del trattato non pregiudicano la competenza degli Stati membri a negoziare o concludere accordi con i paesi terzi, a condizione che tali accordi rispettino il diritto comunitario e gli altri accordi internazionali pertinenti.
