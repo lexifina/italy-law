@@ -1,0 +1,13 @@
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Vista la legge del 30 giugno 1903, n. 247;
+
+Viste le deliberazioni dell'Amministrazione provinciale di Belluno, della Camera di commercio ed arti di Belluno e dei Consigli comunali di Agordo, Taibon, Riva-monte, Falcade e Forno Canale;
+
+Udito il Consiglio dei professori della scuola mineraria di Agordo;
+
+Sulla proposta del Ministro di agricoltura, industria e commercio; Abbiamo decretato e decretiamo:
