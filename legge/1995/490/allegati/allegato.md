@@ -1,0 +1,21 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 20
+
+SETTEMBRE 1995, N. 390.
+
+All'articolo 5, dopo il comma 1 e' aggiunto il seguente:
+
+"1-bis. In deroga a quanto disposto dall'articolo 3, comma 2, del decreto legislativo 30 dicembre 1992, n. 538, la persona responsabile di cui al comma 1, lettera b), dello stesso articolo e' tenuta a sovrintendere alle operazioni concernenti il movimento in entrata e in uscita, la custodia e la conservazione dei medicinali senza obbligo di orario".
+
+All'articolo 7, dopo il comma 1 sono inseriti i seguenti:
+
+"1-bis. All'articolo 4 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613, al primo comma, dopo le parole: 'chiusura di ciascun anno finanziario' sono inserite le seguenti: ', anche per ciascuno dei comitati regionali e provinciali,' e dopo le parole: 'del conto consuntivo' sono inserite le seguenti: 'anche di ciascuno dei comitati regionali e provinciali'.
+
+1-ter. Il Ministro della sanita', entro il 31 marzo di ciascun anno, presenta al Parlamento una relazione sulla gestione finanziaria dell'Associazione italiana della Croce rossa predisposta in base alla documentazione inviata annualmente dalla medesima Associazione ai sensi dell'articolo 4 del decreto del Presidente della Repubblica 31 luglio 1980, n. 613, come modificato dal comma 1-bis del presente articolo.
+
+1-quater. I trasferimenti di risorse finanziarie dallo Stato alla Associazione italiana della Croce rossa sono disposti previa verifica sulla congruita' e sulla trasparenza delle spese sostenute".
+
+L'articolo 8 e' soppresso.
+
+L'articolo 9 e' soppresso.
