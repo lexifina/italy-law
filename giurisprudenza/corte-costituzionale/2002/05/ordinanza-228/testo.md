@@ -1,0 +1,56 @@
+# Corte costituzionale, ordinanza 228/2002
+
+- ECLI: ECLI:IT:COST:2002:228
+- Tipo: ordinanza
+- Presidente: RUPERTO
+- Relatore: Valerio Onida
+- Redattore: Valerio Onida
+- Data della decisione: 22/05/2002
+- Data del deposito: 29/05/2002
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 27059
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2002:228
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Cesare RUPERTO; Giudici: Massimo VARI, Riccardo CHIEPPA, Gustavo ZAGREBELSKY, Valerio ONIDA, Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale della delibera legislativa della Regione Piemonte, riapprovata il 29 febbraio 2000, recante “Regolamentazione sull'applicazione della terapia elettroconvulsivante, la lobotomia prefrontale e transorbitale ed altri interventi di psicochirurgia”, promosso con ricorso del Presidente del Consiglio dei ministri notificato il 17 marzo 2000, depositato in cancelleria il 25 successivo ed iscritto al n. 11 del registro ricorsi 2000.
+    Visto l'atto di costituzione della Regione Piemonte nonché l'atto di intervento del Comitato dei cittadini per i diritti dell'uomo (C.C.D.U.) di Milano;
+    udito nella camera di consiglio del 10 aprile 2002 il Giudice relatore Valerio Onida.
+    Ritenuto che, con ricorso notificato il 17 marzo 2000 e depositato in cancelleria il successivo 25 marzo, il Presidente del Consiglio dei ministri ha promosso questione di legittimità costituzionale nei confronti della delibera legislativa della Regione Piemonte recante “Regolamentazione sull'applicazione della terapia elettroconvulsivante, la lobotomia prefrontale e transorbitale ed altri interventi di psicochirurgia”, già approvata dal Consiglio regionale nella seduta del 30 dicembre 1999 e - a seguito di rinvio governativo - riapprovata, a maggioranza assoluta e senza modificazioni, nella seduta del 29 febbraio 2000;
+    che nel ricorso si sostiene che tale delibera, introducendo nella sola Regione Piemonte disposizioni limitative di alcune pratiche terapeutiche, contrasterebbe con gli artt. 2, 32 e 117 della Costituzione, e con le norme interposte contenute negli artt. 1, 2, 3 e 5 della legge 13 maggio 1978, n. 180 (Accertamenti e trattamenti sanitari volontari e obbligatori), negli artt. 33, 34 e 35 della legge 23 dicembre 1978, n. 833 (Istituzione del servizio sanitario nazionale), negli artt. 1 e 14 del d.lgs. 30 dicembre 1992, n. 502 (Riordino della disciplina in materia sanitaria, a norma dell'articolo 1 della L. 23 ottobre 1992, n. 421), e negli artt. 112, 113, 114 e 115 del d.lgs. 31 marzo 1998, n. 112 (Conferimento di funzioni e compiti amministrativi dello Stato alle regioni ed agli enti locali, in attuazione del capo I della L. 15 marzo 1997, n. 59);
+    che le disposizioni in essa contenute, ed in particolare gli artt. 4 (Limiti di utilizzo) e 5 (Deontologia medica), comprimerebbero in modo “dirigistico” l'autonomia scientifica e professionale dei sanitari e delle strutture preposti alla cura della salute, contrasterebbero con il principio secondo cui i trattamenti sanitari sono volontari salvo tassative eccezioni consentite dalla legge, e comunque sarebbero invasive della competenza statale da ultimo puntualizzata dall'art. 115, comma 1, lett. b, d ed e del decreto legislativo n. 112 del 1998;
+    che le medesime disposizioni contenute negli artt. 4 e 5 della delibera regionale atterrebbero alla preferibilità, qualità ed “appropriatezza” di alcune cure (così nell'art. 1, comma 2, del d.lgs. n. 502 del 1992, come sostituito dal d.lgs. n. 229 del 1999), e quindi al diritto sostanziale alla salute dell'individuo, e non agli aspetti strumentali quali l'organizzazione e la gestione di presidi e strutture sanitari e più in generale del servizio sanitario;
+    che, invece, i compiti conferiti alle Regioni in materia di assistenza sanitaria ed ospedaliera riguarderebbero la concreta prestazione dell'assistenza, e quindi “verrebbero dopo” quelli relativi all'area concettuale dei diritti fondamentali della persona paziente e alla contigua area delle responsabilità degli esercenti le professioni sanitarie e della ricerca medica, che invece spetterebbe allo Stato disciplinare in modo uniforme;
+    che si è costituita la Regione Piemonte, la quale, riservate ulteriori deduzioni e memorie, chiede alla Corte di dichiarare inammissibile e infondata la questione di legittimità costituzionale sollevata dal Presidente del Consiglio, rigettando il ricorso;
+    che, dopo avere notato che non vi sarebbe corrispondenza tra i motivi del rinvio e quelli dell'impugnazione, poiché nel ricorso governativo è presente, in aggiunta al rilievo già formulato nell'atto di rinvio, il riferimento alle norme interposte di cui agli artt. 1, 2, 3 e 5 della legge n. 180 del 1978, la Regione rileva che l'assunto del ricorrente appare basato su una visione riduttiva dell'autonomia legislativa regionale nella materia dell'assistenza sanitaria e ospedaliera, che non corrisponderebbe né al dettato costituzionale né all'assetto complessivo delle attribuzioni spettanti allo Stato e alle Regioni;
+    che, secondo la resistente, non vi sarebbe nessun contrasto con le norme costituzionali ed interposte invocate nel ricorso, che sarebbero anzi pienamente attuate dalla regolamentazione voluta dal Consiglio regionale piemontese, la quale non atterrebbe al contenuto tecnico di determinate attività sanitarie, bensì si prefiggerebbe di rafforzare la tutela dell'individuo soggetto al trattamento mediante il consenso informato, e, quanto al divieto di utilizzo della terapia elettroconvulsivante su bambini ed anziani e di utilizzo degli interventi di lobotomia prefrontale e transorbitale, costituirebbe attuazione della legge n. 180 del 1978;
+    che con “comparsa di intervento” depositata il 24 settembre 2001, e quindi oltre il termine previsto dall'art. 23 delle Norme integrative per i giudizi davanti alla Corte costituzionale, ha depositato domanda di intervento il Comitato dei cittadini per i diritti dell'uomo (C.C.D.U.) di Milano, chiedendo il rigetto del ricorso governativo;
+    che, nell'imminenza dell'udienza pubblica del 9 ottobre 2001, ha presentato memoria il Presidente del Consiglio ricorrente, segnalando, fra l'altro, che con l'art. 11 del decreto legge n. 217 del 2001, convertito nella legge n. 317 del 2001, è stato nuovamente istituito il Ministero ora denominato della salute, e che l'art. 47-ter, così inserito nel decreto legislativo n. 300 del 1999, conferma il permanere della competenza statale in materia di “prevenzione diagnosi cura e riabilitazione delle malattie umane”; e osservando che, per quanto non disposto dallo Stato, in ordine agli interventi terapeutici devono valere solo le regole dell'arte medica, eventualmente evidenziate e convalidate da documenti ufficiali delle autorità sanitarie;
+    che ha presentato memoria anche la Regione Piemonte, depositando alcuni documenti e insistendo innanzitutto per la declaratoria di inammissibilità della questione per la genericità delle censure e per la mancata corrispondenza tra i motivi del rinvio e quelli dell'impugnazione;
+    che, nel merito, la difesa regionale sostiene che gli artt. 2 e 32 della Costituzione sarebbero pienamente attuati dalla legge impugnata e, in relazione all'art. 117 della Costituzione, che tutti gli articoli della legge atterrebbero alla materia “assistenza sanitaria ed ospedaliera”, nei limiti dei principi fondamentali stabiliti dalle leggi dello Stato, senza alcuna interferenza con la ricerca scientifica e medica, ma anzi con intento di specifico ausilio per gli studi clinici e in consonanza con le indicazioni del Ministro della sanità fornite con circolare 15 febbraio 1999; e, ancora, che la delibera legislativa regionale non interferirebbe con le funzioni mediche diagnostiche e curative, ma stabilirebbe particolari e legali cautele, indispensabili anche per evitare responsabilità risarcitorie a carico dell'ente pubblico per interventi lesivi;
+    che, a seguito dell'udienza del 9 ottobre 2001, con ordinanza del 28 novembre 2001, è stato disposto il rinvio della causa a nuovo ruolo;
+    che, con atto del 28 febbraio 2002, notificato alla Regione Piemonte, il Presidente del Consiglio dei ministri ha dichiarato di rinunciare al ricorso in considerazione della sopravvenuta modifica del titolo V della parte seconda della Costituzione, ma che non è pervenuta, da parte della Regione, accettazione della rinuncia.
+    Considerato che l'art. 8 della legge costituzionale 18 ottobre 2001, n. 3 (Modifiche al titolo V della parte seconda della Costituzione), ha sostituito l'art. 127 della Costituzione, il quale ora stabilisce, al primo comma, che “il Governo, quando ritenga che una legge regionale ecceda la competenza della Regione, può promuovere la questione di legittimità costituzionale dinanzi alla Corte costituzionale entro sessanta giorni dalla sua pubblicazione”;
+    che è stata dunque soppressa la fase del controllo governativo sulla legge regionale deliberata ma non ancora promulgata, che si esplicava mediante il rinvio della legge stessa al Consiglio regionale e la successiva eventuale impugnazione della stessa davanti a questa Corte, sulla base di motivi già enunciati nel rinvio, con effetto preclusivo della promulgazione fino all'esito del giudizio: onde oggi l'unica ipotesi, prevista dalla Costituzione, di giudizio di legittimità costituzionale promosso in via principale nei confronti della legge regionale è quella del giudizio instaurato dal Governo con l'impugnazione della legge già promulgata e pubblicata;
+    che, pertanto, per effetto della indicata modificazione della norma costituzionale, come questa Corte ha già statuito, i ricorsi in precedenza introdotti, ai sensi del testo originario dell'art. 127 della Costituzione, nei confronti di deliberazioni legislative regionali, sono divenuti improcedibili, mentre resta salva la facoltà del Governo di promuovere nei confronti della legge regionale, una volta promulgata e pubblicata, questione di legittimità costituzionale nei termini previsti dal nuovo testo del medesimo art. 127 (sentenza n. 17 del 2002; ordinanza n. 65 del 2002; ordinanza n. 182 del 2002);
+    che, conseguentemente, il ricorso in epigrafe, proposto ai sensi del testo originario dell'art. 127 della Costituzione, deve essere dichiarato improcedibile.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    dichiara improcedibile il ricorso in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 22 maggio 2002.
+F.to:
+Cesare RUPERTO, Presidente
+Valerio ONIDA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 29 maggio 2002.
+Il Direttore della Cancelleria
+    F.to: DI PAOLA
