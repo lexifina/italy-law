@@ -1,0 +1,13 @@
+ALLEGATO N. 1.
+
+Elenco dei terreni intestati alla ditta Ginnari Satriani Nicola fu Giuseppe, in comune di Tursi (provincia di Matera), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria a norma delle leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e decreto Presidenziale 7 febbraio 1951, n. 67.
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+-------------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale con sentenza 16-25 maggio 1957, n. 79 (in G.U. 1a s.s. 29/5/1957, n. 136) ha dichiarato "la illegittimita' costituzionale del decreto del Presidente della Repubblica 19 novembre 1952, n. 2080, in riferimento alle norme contenute negli artt. 76 e 77, primo comma, della Costituzione, nell'art. 4 della legge 21 ottobre 1950, n. 841, e nella tabella allegata."
