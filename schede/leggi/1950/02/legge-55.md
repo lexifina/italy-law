@@ -1,0 +1,11 @@
+# Legge 23 febbraio 1950, n. 55
+
+- Tipo: Ordinaria
+- Numero: 55
+- Data: 1950-02-23
+- Titolo: Utilizzazione,   nell'esercizio  1948-49,  della  somma  di  lire  70 miliardi  da  prelevare  dal  fondo  speciale  previsto  dall'Accordo italo-americano approvato con la legge 4 agosto 1948, n. 1108.
+- Pubblicazione: (Pubblicata nella G.U. del 13 marzo 1950)
+- Legislatura: I legislatura della Repubblica (repubblica_1)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1950-02-23;55
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1950_55
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
