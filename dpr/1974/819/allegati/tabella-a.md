@@ -1,0 +1,5 @@
+TABELLA A
+
+PIANTA ORGANICA DELL'ACCADEMIA DI BELLE ARTI DI CATANIA
+
+Parte di provvedimento in formato grafico
