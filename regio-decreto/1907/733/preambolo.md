@@ -1,0 +1,13 @@
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D' ITALIA
+
+Veduti i RR. decreti 28 ottobre 1885, n. 3464 (serie 3ª); 25 ottobre 1889, n. 6483 (serie 3ª); 22 gennaio 1893, n. 165; 18 giugno 1896, n. 261 e 19 maggio 1901, n. 193, sull'ordinamento delle biblioteche governative del Regno;
+
+Sentito il parere del Consiglio di Stato;
+
+Udito il Consiglio dei ministri;
+
+Sulla proposta del Nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:
