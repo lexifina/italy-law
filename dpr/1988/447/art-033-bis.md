@@ -16,7 +16,7 @@ delitti previsti dal capo I del titolo II del libro II del codice penale, esclus
 
 c)
 
-delitti previsti dagli articoli 416, 416-ter, 419, 420 comma 3, 426, 428, 429 comma 2, 430, 431 comma 2, 432 comma 3, 433 comma 3, 434 comma 2, 440, 449 comma 2, 452 comma 1, numeri 1 e 2, 499, 513-bis, 564, 578 comma 1, 609-bis, 609-quater, 609-octies, 644, 648-bis e 648-ter del codice penale;
+delitti previsti dagli articoli 416, 416-ter, 419, 420 comma 3, 426, 428, 429 comma 2, 430, 431 comma 2, 432 comma 3, 433 comma 3, 434 comma 2, 440, 449 comma 2, 452 comma 1, numeri 1 e 2, 499, 513-bis, 564, 578 comma 1, (( da 600-bis a 600-sexies puniti con la reclusione non inferiore nel massimo a cinque anni,)) 609-bis, 609-quater, 609-octies, 644, 648-bis e 648-ter del codice penale;
 
 d)
 
@@ -68,7 +68,7 @@ delitti previsti dall'articolo 25 comma 1 della legge 9 luglio 1990, n. 185 e da
 
 2.
 
-Sono attribuiti altresi' al tribunale in composizione collegiale i delitti puniti con la pena della reclusione superiore nel massimo a venti anni. Per la determinazione della pena si ha riguardo al massimo della pena stabilita dalla legge per il reato, consumato o tentato, tenuto conto dell'aumento massimo di pena stabilito per le circostanze aggravanti. (90) ((90a))
+Sono attribuiti altresi' al tribunale in composizione collegiale i delitti puniti con la pena della reclusione superiore nel massimo a venti anni. Per la determinazione della pena si ha riguardo al massimo della pena stabilita dalla legge per il reato, consumato o tentato, tenuto conto dell'aumento massimo di pena stabilito per le circostanze aggravanti. (90) (90a)
 
 ---------------
 
