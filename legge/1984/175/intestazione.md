@@ -1,0 +1,7 @@
+LEGGE
+
+30 maggio 1984
+
+175
+
+Conversione in legge del decreto-legge 30 marzo 1984, n. 44, concernente ulteriore proroga del termine previsto dall'articolo 3, secondo comma, lettera c), del decreto del Presidente della Repubblica 12 novembre 1976, n. 1000, per l'adeguamento alle disposizioni comunitarie sulla macellazione ed eviscerazione dei volatili da cortile.
