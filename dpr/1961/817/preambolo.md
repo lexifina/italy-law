@@ -1,0 +1,19 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire i minimi di trattamento economico e normativo ai lavoratori;
+
+Vista la legge 1 ottobre 1960, n. 1027, recante modifiche alla predetta legge 14 luglio 1959, n. 741;
+
+Visto il contratto nazionale di lavoro 1 aprile 1950, relativo agli impiegati dipendenti dalle aziende industriali produttrici di bambole e giocattoli, con qualsiasi materia prima fabbricati, stipulato tra l'Associazione Nazionale Esercenti Industrie Varie, con l'intervento della Confederazione Generale dell'industria italiana, e la Federazione italiana Lavoratori Legno Artistiche e Varie, la Federazione Unitaria Lavoratori Legno Artistiche e Varie; al quale ha aderito, in data 1 settembre 1950, la Confederazione italiana dei Sindacati Nazionali Lavoratori;
+
+Visto l'accordo 1 aprile 1955, relativo al conglobamento ed al riassetto zonale nei riguardi dell'industria del giocattolo e delle bambole, con qualsiasi materia prima fabbricati, stipulato tra la Confederazione Generale dell'Industria italiana, con l'intervento dell'Associazione Nazionale Fabbricanti Giocattoli, Bambole ed Articoli Affini, e la Confederazione italiana Sindacati Lavoratori, con l'intervento della Federazione Unitaria Lavoratori Legno, Artistiche e Varie, l'Unione italiana del Lavoro, con l'intervento dell'Unione italiana Lavoratori Legno Artistiche e Varie; e in pari data, tra la Confederazione Generale dell'Industria italiana, con l'intervento della Associazione Nazionale Fabbricanti Giocattoli, Bambole ed Articoli Affini, e la Confederazione italiana Sindacati Nazionali Lavoratori, con l'intervento della Federazione Nazionale Lavoratori del Legno, Artistiche e Varie;
+
+Visto il contratto collettivo nazionale di lavoro 3 febbraio 1958, e relative tabelle, per gli operai dipendenti dalle aziende produttrici di bambole e di giocattoli, con qualsiasi materia prima fabbricati, stipulato tra l'Associazione Nazionale Fabbricanti Giocattoli, Bambole ed Affini, con l'assistenza della Confederazione Generale dell'Industria italiana, e la Federazione italiana Lavoratori del Legno, dell'Edilizia e Industrie Affini, la Federazione italiana Lavoratori Costruzioni e Affini, con l'assistenza della Confederazione italiana Sindacati Lavoratori, la Unione italiana del Lavoro, Federazione Nazionale Edili Affini Legno e, in pari data, tra l'Associazione Nazionale Fabbricanti Giocattoli, Bambole ed Affini, con l'assistenza della Confederazione Generale dell'Industria italiana, e la Federazione Nazionale Lavoratori Legno, Sughero Artistiche e Varie, con l'assistenza della Confederazione italiana Sindacati Nazionali Lavoratori;
+
+Vista la pubblicazione nell'apposito Bollettino, numero 126, del 23 novembre 1960, dei contratti e dello accordo sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:
