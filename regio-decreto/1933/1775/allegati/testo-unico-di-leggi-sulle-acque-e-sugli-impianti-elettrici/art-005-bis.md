@@ -1,0 +1,7 @@
+Art. 5-bis.
+
+((1. Con decreto del Presidente della Repubblica, emanato ai sensi dell'art. 17, comma 1, della legge 23 agosto 1988, n. 400, sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e Bolzano, sono dettati criteri per uniformare l'acquisizione dei dati statali e regionali, inclusi quelli concernenti il catasto di cui all'art. 5, relativi alle acque pubbliche superficiali e sotterranee e alle relative utilizzazioni, nonche' ai prelievi e alle restituzioni sulla base delle misurazioni effettuate ai sensi dell'art. 42, comma 3, del presente testo unico.
+
+Con lo stesso decreto interministeriale sono fissate modalita' per l'accesso ai sistemi informativi delle amministrazioni e degli enti pubblici e per l'interscambio dei dati, finalizzati al controllo del sistema delle utilizzazioni e dei prelievi, nonche' per garantire adeguate forme di informazione al pubblico in ordine agli effetti dei provvedimenti di rilascio, di modificazione e di rinnovo delle concessioni di derivazione e delle licenze di attingimento di cui al comma 2.
+
+2. Le amministrazioni dello Stato, le regioni e le province autonome assicurano lo scambio delle informazioni relative ai provvedimenti di rilascio, di modificazione e di rinnovo delle concessioni di derivazioni e di licenze di attingimento, entro trenta giorni dalla data di efficacia del relativo provvedimento. Gli stessi dati sono inviati, entro il medesimo termine, alle Autorita' di bacino e al Dipartimento per i servizi tecnici nazionali)).
