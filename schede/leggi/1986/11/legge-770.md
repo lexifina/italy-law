@@ -1,0 +1,11 @@
+# Legge 11 novembre 1986, n. 770
+
+- Tipo: Ordinaria
+- Numero: 770
+- Data: 1986-11-11
+- Titolo: Disciplina  delle procedure contrattuali dello Stato per l'esecuzione di  programmi  di  ricerca  e per l'acquisizione e la manutenzione di prodotti ad alta tecnologia.
+- Pubblicazione: (Pubblicata nella G. U del 24 novembre 1986 n. 273)
+- Legislatura: IX legislatura della Repubblica (repubblica_9)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1986-11-11;770
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1986_770
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
