@@ -1,0 +1,7 @@
+COSTITUZIONE
+
+0
+
+COSTITUZIONE DELLA REPUBBLICA ITALIANA
+
+Entrata in vigore del provvedimento: 1/1/1948.

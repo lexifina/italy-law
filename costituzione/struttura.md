@@ -1,0 +1,31 @@
+- COSTITUZIONE DELLA REPUBBLICA ITALIANA PRINCIPI FONDAMENTALI - - - - (Art. 1.)
+
+- PARTE I DIRITTI E DOVERI DEI CITTADINI TITOLO I RAPPORTI CIVILI (Art. 13.)
+
+- TITOLO II RAPPORTI ETICOSOCIALI (Art. 29.)
+
+- TITOLO III RAPPORTI ECONOMICI (Art. 35.)
+
+- TITOLO IV RAPPORTI POLITICI (Art. 48.)
+
+- PARTE II ORDINAMENTO DELLA REPUBBLICA TITOLO I IL PARLAMENTO SEZIONE I Le Camere. (Art. 55.)
+
+- SEZIONE II La formazione delle leggi. (Art. 70.)
+
+- TITOLO II IL PRESIDENTE DELLA REPUBBLICA (Art. 83.)
+
+- TITOLO III IL GOVERNO SEZIONE I Il Consiglio dei ministri. (Art. 92.)
+
+- SEZIONE II La Pubblica Amministrazione. (Art. 97.)
+
+- SEZIONE III Gli organi ausiliari. (Art. 99.)
+
+- TITOLO IV LA MAGISTRATURA SEZIONE I Ordinamento giurisdizionale. (Art. 101.)
+
+- SEZIONE II Norme sulla giurisdizione. (Art. 111.)
+
+- TITOLO V LE REGIONI, LE PROVINCIE, I COMUNI (Art. 114.)
+
+- TITOLO VI GARANZIE COSTITUZIONALI SEZIONE I La Corte costituzionale. (Art. 134.)
+
+- SEZIONE II Revisione della Costituzione. Leggi costituzionali (Art. 138.)
