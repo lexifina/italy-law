@@ -1,0 +1,9 @@
+OMCI
+
+RESOLUTION A.319(IX)
+
+Adoptee le 12 novembre 1975
+
+AMENDEMENT A LA CONVENTION INTERNATIONALE DE 1966 SUR LES LIGNES DE CHARGE
+
+Parte di provvedimento in formato grafico
