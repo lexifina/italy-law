@@ -1,0 +1,5 @@
+CONVENTION ESTABLISHING THE MULTILATERAL
+
+INVESTMENT GUARANTEE AGENCY
+
+Parte di provvedimento in formato grafico
