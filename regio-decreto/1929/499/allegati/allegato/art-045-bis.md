@@ -1,0 +1,3 @@
+Art. 45-bis.
+
+((Se decorsi i termini assegnati o prorogati ai sensi degli articoli precedenti non sia stata prodotta la giustificazione, oppure nel caso che nel decreto tavolare non fosse stabilito alcun termine, il giudice tavolare ha facolta', previa fissazione di un termine perentorio per la giustificazione della prenotazione assegnato alla parte che la consegui', di ordinare che la prenotazione medesima sia cancellata d'ufficio, e con essa le iscrizioni che ai sensi dell'art. 49 fossero state accordate sul diritto prenotato, purche' la causa che ha originato la prenotazione sia stata definita o abbandonata o il provvedimento amministrativo sia stato conseguito)).
