@@ -1,0 +1,71 @@
+CAPITOLATO TECNICO
+
+CONTROLLO - COMPOSIZIONE - CONSERVAZIONE DISTRIBUZIONE - VALIDITA' E CONFEZIONAMENTO DEL VACCINO ANTIRABBICO CEPPO ERA.
+
+a) Controllo.
+
+L'istituto produttore a seguito di ordinazione, dovra' approntare il quantitativo di dosi vaccino richiesto per le operazioni di controllo da parte dell'Istituto superiore di sanita'. Entro il termine di novanta giorni decorrenti dalla data di ricezione di tale ordinazione, l'Istituto superiore di sanita' dovra' rilasciare il certificato attestante l'avvenuto controllo con esito favorevole.
+
+Qualora l'Istituto superiore di sanita' non avesse ultimato nel periodo di cui sopra i controlli di propria competenza, il termine di novanta giorni sara' protratto di altri quindici giorni.
+
+b) Composizione.
+
+La composizione del vaccino antirabbico da colture di tessuto, ceppo ERA, dovra' essere come segue:
+
+da 1 dose, costituita da 2 cc, di liquido diluitore (acqua bidistillata sterile) e da una opportuna quantita' di liquido colturale liofilizzato di cellule renali di suino infettate con virus attenuato della rabbia, ceppo ERA;
+
+da 5 dosi, costituita da 10 cc, di liquido diluitore (acqua bidistillata sterile) e da una opportuna quantita' di liquido colturale liofilizzato di cellule renali di suino infettate, con virus attenuato della rabbia, ceppo ERA.
+
+c) Confezionamento.
+
+Il virus liofilizzato dovra' essere contenuto in flaconi di vetro, muniti di tappo perforabile inamovibile.
+
+Il diluente dovra' essere contenuto in flaconi di vetro con tappo perforabile inamovibile oppure in fiale.
+
+La confezione per il contenimento del vaccino dovra' essere costituita come segue:
+
+per 1 dose: un flacone contenente una dose di virus liofilizzato ed un flacone o fiale contenente cc 2 di diluente;
+
+per 5 dosi: un flacone contenente cinque dosi di virus liofilizzato ed un flacone o fiala contenente cc 10 di diluente.
+
+Ciascuna delle due suddette confezioni dovra' essere posta in apposito astuccio di cartone.
+
+d) Conservazione, validita' e distribuzione.
+
+Il vaccino dovra' essere mantenuto, fino al momento della distribuzione, in luogo fresco ed al riparo della luce preferibilmente fra + 2°C e + 6°C sotto la diretta responsabilita' dell'istituto.
+
+I quantitativi di vaccino ordinati dovranno avere la validita' di un anno dalla data di preparazione ed in particolare, all'atto della consegna, un periodo di validita' non inferiore a sessanta giorni.
+
+L'istituto dovra' provvedere alla consegna dei quantitativi di vaccino entro il termine di dieci giorni dalla data di ricezione di ciascuna lettera di ordinazione.
+
+Il vaccino ordinato dovra' essere inviato a cura e spese dell'Istituto produttore ai competenti uffici, confezionato in razionali imballaggi isotermici.
+
+Il confezionamento per la spedizione dovra' essere effettuato come segue:
+
+scatole contenenti 500 astucci da 1 dose;
+
+scatole contenenti 200 astucci da 5 dosi.
+
+Il quantitativo di vaccino, oggetto della fornitura, dovra' essere confezionato, in linea di massima, per il 50% in flaconi da 1 dose e per il 50% in flaconi da 5 dosi.
+
+Su ogni flacone contenente il virus liofilizzato e sul relativo astuccio dovra' essere apposta una etichetta con le seguenti indicazioni: "Istituto produttore - nome e cognone del direttore - vaccino contro la rabbia - virus attenuato da colture di tessuto, ceppo ERA - liofilizzato - uso veterinario".
+
+Composizione per una dose cc 2 di liquido diluitore (acqua bidistillata sterile) e un'opportuna quantita' di liquido colturale di cellule renali di suino liofilizzato, infettato con virus attenuato della rabbia, ceppo ERA.
+
+Impiego: nei cani e in altri animali domestici (specificare quali) dopo tre mesi di eta'.
+
+Non e' consentito l'uso del vaccino ceppo ERA nel gatto (in grassetto o sottolineato).
+
+Validita' ......................................................
+
+Preparazione n........ del .......................................
+
+Scadenza .........................................................
+
+Conservare in luogo fresco ed al riparo della luce tra 2C e 6C.
+
+Utilizzare il vaccino entro 30' dalla reidratazione.
+
+Distruggere il flacone dopo l'uso.
+
+Resta inteso che l'istituto fornitore dovra' assumersi l'impegno di rispondere direttamente degli eventuali incidenti vaccinali imputabili a deficienza del vaccino, sia per quanto riguarda la preparazione, l'efficacia, l'innocuita', nonche' gli effetti collaterali.
