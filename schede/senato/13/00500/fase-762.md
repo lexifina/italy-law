@@ -1,0 +1,14 @@
+# Disegno di legge C.695 (13a legislatura)
+
+- Fase: C.695
+- Id DDL: 708
+- Id fase: 762
+- Natura: ordinaria
+- Data di presentazione: 1996-05-10
+- Titolo: Modifiche all' articolo 65 del testo unico approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di detassazione delle erogazioni liberali
+- Stato: assegnato (non ancora iniziato l'esame)
+- Data dello stato: 1996-08-08
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;695
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/762
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).
