@@ -1,0 +1,21 @@
+# Massima n. 22128
+
+- Pronuncia: Corte costituzionale, sentenza 286/1995 (ECLI:IT:COST:1995:286)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1995:286
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   286/95  B.  FALLIMENTO - ACQUISTI EFFETTUATI DAL  CONIUGE DEL  FALLITO  NEL  QUINQUENNIO ANTERIORE  ALLA  DICHIARAZIONE  DI FALLIMENTO  -  PRESUNZIONE MUCIANA - APPLICABILITA'  DELLA  NORMA DELLA  LEGGE  FALLIMENTARE  DEL 1942, CHE LA  PREVEDE,  ANCHE  IN SEGUITO  ALLA  LEGGE  DEL  1975 PER LA  RIFORMA  DEL  DIRITTO  DI FAMIGLIA,  IN REGIME DI SEPARAZIONE CONVENZIONALE DEI BENI - VIZI DI  IRRAGIONEVOLEZZA RILEVATI IN RELAZIONE AI PRESUPPOSTI E  ALLE FINALITA'   DELLA  SEPARAZIONE  CONVENZIONALE   DEI  BENI,   ALLA INAPPLICABILITA'  DELLA  NORMA,  SECONDO  LA  GIURISPRUDENZA,  IN REGIME DI COMUNIONE DEI BENI, ED ALLA EVENTUALE APPLICABILITA', O INAPPLICABILITA',   DELLA  STESSA,  IN   REGIME  DI   SEPARAZIONE GIUDIZIALE  DEI  BENI,  NONCHE' IN RELAZIONE ALLA  SUA  POSSIBILE OPERATIVITA'  ANCHE NEI CASI DI SEPARAZIONE PERSONALE DEI CONIUGI -   QUESTIONI  PROSPETTABILI   SUL  TERRENO  DELL'INTERPRETAZIONE INNANZI  ALL'AUTORITA' GIUDIZIARIA O, IN QUANTO IMPLICANTI SCELTE TRA DIVERSE SOLUZIONI, IN SEDE LEGISLATIVA - INAMMISSIBILITA'.
+
+## Testo
+
+A  sostegno  della  questione   di  legittimita'   costituzionale sollevata, riguardo alla "presunzione muciana", in quanto tuttora applicabile,  nei  confronti  del coniuge del fallito,  in  forza dell'art.   70 della legge fallimentare, in regime di separazione convenzionale  dei beni, il giudice 'a quo' deduce, fra  l'altro, che  la  norma impugnata sarebbe viziata da irrazionalita',  dato che:   a)  nell'attuale assetto dei rapporti  patrimoniali  della famiglia  la separazione dei beni non costituisce piu' un "regime legale",  ma, com risultato di una apposita convenzione, oltre  a ricollegarsi  statisticamente ad una situazione in cui entrambi i coniugi  hanno proprie e distinte fonti di reddito, svela appunto l'intenzione  di evitare commistioni di patrimoni;  b) qualora la "presunzione muciana" si ritenesse applicabile anche nell'ipotesi di  separazione  giudiziale dei beni, di cui all'art.   193  cod. civ.,  dovrebbe  considerarsi  che non di rado il  passaggio  dal regime  di comunione legale - in cui secondo la giurisprudenza la "presunzione muciana" e' inapplicabile - al regime di separazione giudiziale,  e'  richiesto  dal  coniuge  dell'imprenditore  -  e tutelato  come  scelta cautelativa dal legislatore -  proprio  al fine  -  che  la conseguente  applicabilita'  della  "presunzione muciana" vanificherebbe - di sottrarsi da situazioni di disordine negli  affari  del consorte;  mentre, se invece  la  "presunzione muciana"  si  ritenesse inapplicabile nel regime  di  separazione giudiziale,   sarebbe  contraddittorio   applicarla  nel  regime, sostanzialmente  identico,  della separazione convenzionale;   c) l'effetto  della muciana potrebbe assurdamente prodursi anche nel caso  di separazione personale dei coniugi.  Poiche', pero', tali censure potrebbero essere controbilanciate da opposte esigenze di mantenimento  della presunzione "de qua":  quali  l'apprestamento di  un rimedio rapido al frequente abuso di sottrazione dei  beni alla  responsabilita'  patrimoniale  del fallito  e  la  maggiore facilita'  per  il coniuge di dare la prova  contraria,  rispetto alle  maggiori difficolta' per i creditori, obbligati ad esperire piu'   complesse   azioni  di   simulazione  o  di   intestazione fiduciaria,  le  lamentate incompatibilita' vanno risolte in  via interpretativa  o  -  in  quanto  implicano  articolate  risposte eccedenti  i  poteri della Corte costituzionale - attraverso  una serie di auspicabili rimedi legislativi.  (Inammissibilita' della questione di legittimita' costituzionale, in riferimento all'art. 3  Cost.   -  sotto i cennati profili - dell'art.  70,  r.d.   16 marzo 1942, n.  267).  - V. la precedente massima A.                                                       red.:  S.P.
+
+## Norme
+
+- regio decreto, 16/03/1942 n. 267, art. 70
+
+## Parametri
+
+- Costituzione, art. 3
