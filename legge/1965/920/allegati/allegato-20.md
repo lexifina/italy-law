@@ -1,0 +1,11 @@
+ALLEGATO 20.
+
+COMMISSIONE MISTA PERMANENTE
+
+Parte di provvedimento in formato grafico
+
+Visto, d'ordine del Presidente della Repubblica
+
+Il Ministro per gli affari esteri
+
+MORO

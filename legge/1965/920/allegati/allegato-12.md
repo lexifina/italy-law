@@ -1,0 +1,5 @@
+ALLEGATO 12.
+
+ATTESTAZIONE
+
+Parte di provvedimento in formato grafico

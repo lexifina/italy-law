@@ -1,0 +1,5 @@
+ALLEGATO 5.
+
+PERMESSO DI TRANSITO AGRICOLO N.
+
+Parte di provvedimento in formato grafico

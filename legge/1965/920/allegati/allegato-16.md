@@ -1,0 +1,7 @@
+ALLEGATO 16.
+
+PRILOG 16
+
+SCAMBIO DI INFORMAZIONI SANITARIE
+
+Parte di provvedimento in formato grafico
