@@ -1,0 +1,27 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+VISTI gli articoli 76 e 87 della Costituzione;
+
+VISTO l'articolo 1 della legge 24 marzo 2001, n. 127, recante delega a Governo per l'emanazione di un testo unico in materia di trattamento dei dati personali;
+
+VISTO l'articolo 26 della legge 3 febbraio 2003, n 14, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (legge comunitaria 2002);
+
+VISTA la legge 31 dicembre 1996, n. 675, e successive modificazioni;
+
+VISTA la legge 31 dicembre 1996, n. 676, recante delega al Governo in materia di tutela delle persone e di altri soggetti rispetto al trattamento dei dati personali;
+
+VISTA la direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione dei dati;
+
+VISTA la direttiva 2002/58/CE del Parlamento europeo e del Consiglio, del 12 luglio 2002, relativa al trattamento dei dati personali e alla tutela della sita privata nel settore delle comunicazioni elettroniche;
+
+VISTA la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 9 maggio 2003;
+
+SENTITO il Garante per la protezione dei dati personali;
+
+ACQUISITO il parere delle competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica;
+
+VISTA la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 giugno 2003;
+
+SULLA PROPOSTA del Presidente del Consiglio dei Ministri, del Ministro per la funzione pubblica e del Ministro per le politiche comunitarie, di concerto con i Ministri della giustizia, dell'economia e delle finanze, degli affari esteri e delle comunicazioni;
+
+EMANA il seguente decreto legislativo:
