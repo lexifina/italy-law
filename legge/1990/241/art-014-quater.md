@@ -4,6 +4,18 @@ Art. 14-quater.
 
 1.
 
-Nei procedimenti relativi ad opere per le quali sia intervenuta la valutazione di impatto ambientale di cui all'articolo 6 della legge 8 luglio 1986, n. 349, le disposizioni di cui agli articoli 14, comma 4, 16, comma 3, e 17, comma 2, si applicano alle sole amministrazioni preposte alla tutela della salute dei cittadini, fermo restando quanto disposto dall'articolo 3, comma 5, del decreto del Presidente della Repubblica 18 aprile 1994, n. 383. Su proposta del Ministro competente, del Ministro dell'ambiente o del Ministro per i beni culturali e ambientali, la valutazione di impatto ambientale puo' essere estesa, con decreto del Presidente del Consiglio dei ministri, previa delibera del Consiglio dei ministri, anche ad opere non appartenenti alle categorie individuate ai sensi dell'articolo 6 della legge 8 luglio 1986, n. 349.
+Il dissenso di uno o piu' rappresentanti delle amministrazioni, regolarmente convocate alla conferenza di servizi, a pena di inammissibilita', deve essere manifestato nella conferenza di servizi, deve essere congruamente motivato, non puo' riferirsi a questioni connesse che non costituiscono oggetto della conferenza medesima e deve recare le specifiche indicazioni delle modifiche progettuali necessarie ai fini dell'assenso.
 
-2. Per l'opera sottoposta a valutazione di impatto ambientale, il provvedimento finale, adottato a conclusione del relativo procedimento, e' pubblicato, a cura del proponente, unitamente all'estratto della predetta valutazione di impatto ambientale, nella Gazzetta Ufficiale e su un quotidiano a diffusione nazionale. Dalla data della pubblicazione nella Gazzetta Ufficiale decorrono i termini per eventuali impugnazioni in sede giurisdizionale da parte dei soggetti interessati))
+2.
+
+Se una o piu' amministrazioni hanno espresso nell'ambito della conferenza il proprio dissenso sulla proposta dell'amministrazione procedente, quest'ultima, entro i termini perentori indicati dall'articolo 14-ter, comma 3, assume comunque la determinazione di conclusione del procedimento sulla base della maggioranza delle posizioni espresse in sede di conferenza di servizi. La determinazione e' immediatamente esecutiva.
+
+3.
+
+Qualora il motivato dissenso sia espresso da un'amministrazione preposta alla tutela ambientale, paesaggistico-territoriale, del patrimonio storico-artistico o alla tutela della salute, la decisione e' rimessa al Consiglio dei ministri, ove l'amministrazione dissenziente o quella procedente sia un'amministrazione statale, ovvero ai competenti organi collegiali esecutivi degli enti territoriali, nelle altre ipotesi. Il Consiglio dei ministri o gli organi collegiali esecutivi degli enti territoriali deliberano entro trenta giorni, salvo che il Presidente del Consiglio dei ministri o il presidente della giunta regionale o il presidente della provincia o il sindaco, valutata la complessita' dell'istruttoria, decidano di prorogare tale termine per un ulteriore periodo non superiore a sessanta giorni.
+
+4.
+
+Quando il dissenso e' espresso da una regione, le determinazioni di competenza del Consiglio dei ministri previste al comma 3 sono adottate con l'intervento del presidente della giunta regionale interessata, al quale e' inviata a tal fine la comunicazione di invito a partecipare alla riunione, per essere ascoltato, senza diritto di voto.
+
+5. Nell'ipotesi in cui l'opera sia sottoposta a VIA e in caso di provvedimento negativo trova applicazione l'articolo 5, comma 2, lettera c-bis), della legge 23 agosto 1988, n. 400, introdotta dall'articolo 12, comma 2, del decreto legislativo 30 luglio 1999, n. 303))
