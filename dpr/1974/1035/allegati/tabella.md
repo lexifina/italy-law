@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO D'ARTE DI ORVIETO E DELL'ANNESSA SCUOLA MEDIA
+
+Parte di provvedimento in formato grafico
