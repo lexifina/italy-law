@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Viste le deliberazioni n. 554 in data 10 novembre 1956 e n. 34 in data 24 novembre 1956 dei Consigli comunali di Turbigo e rispettivamente di Castano Primo, con le quali e' stata chiesta una rettifica di confine fra quei Comuni;
+
+Considerato che le condizioni della rettifica sono state fissate d'accordo dalle Amministrazioni comunali, con le deliberazioni suindicate;
+
+Vista la deliberazione del Consiglio provinciale di Milano n. 91 in data 10 dicembre 1957, con la quale e' stato espresso parere favorevole in ordine alla rettifica di confine in parola;
+
+Udito il parere espresso dalla Prima sezione del Consiglio di Stato nell'adunanza del 22 aprile 1958, n. 707;
+
+Visti gli articoli 32, capoverso, e 35 del testo unico della legge comunale e provinciale, approvato con regio decreto 3 marzo 1934, n. 383;
+
+Sulla proposta del Ministro Segretario di Stato per gli affari dell'interno; Decreta:
