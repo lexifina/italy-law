@@ -6,15 +6,11 @@ Formato un fascicolo d'ufficio a norma dell'articolo precedente, il cancelliere 
 
 La designazione del giudice istruttore deve in ogni caso avvenire non oltre il secondo giorno successivo alla costituzione della parte piu' diligente.
 
-((Subito dopo la designazione del giudice istruttore il cancelliere iscrive la causa sul ruolo della sezione, su quello del giudice istruttore e gli trasmette il fascicolo.))
+Subito dopo la designazione del giudice istruttore il cancelliere iscrive la causa sul ruolo della sezione, su quello del giudice istruttore e gli trasmette il fascicolo. (67)
 
-((67))
+Se nel giorno fissato per la comparizione il giudice istruttore designato non tiene udienza, la comparizione delle parti e' d'ufficio rimandata all'udienza immediatamente successiva tenuta dal giudice designato. (67)
 
-((Se nel giorno fissato per la comparizione il giudice istruttore designato non tiene udienza, la comparizione delle parti e' d'ufficio rimandata all'udienza immediatamente successiva tenuta dal giudice designato.))
-
-((67))
-
-((Il giudice istruttore puo' differire, con decreto da emettere entro cinque giorni dalla presentazione del fascicolo, la data della prima udienza fino ad un massimo di quarantacinque giorni. In tal caso il cancelliere comunica alle parti costituite la nuova data della prima udienza. Restano ferme le decadenze riferite alla data di udienza fissata nella citazione)). ((67))
+Il giudice istruttore puo' differire, con decreto da emettere entro cinque giorni dalla presentazione del fascicolo, la data della prima udienza fino ad un massimo di quarantacinque giorni. In tal caso il cancelliere comunica alle parti costituite la nuova data della prima udienza. ((PERIODO SOPPRESSO DAL D.L. 7 OTTOBRE 1994, N. 571, CONVERTITO CON MODIFICAZIONI DALLA L.6 DICEMBRE 1994, N. 673)). (67)
 
 ---------------
 
