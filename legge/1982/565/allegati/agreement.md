@@ -1,0 +1,5 @@
+AGREEMENT
+
+between the italian Republic and the State of Israel on air services between their respective territories
+
+Parte di provvedimento in formato grafico
