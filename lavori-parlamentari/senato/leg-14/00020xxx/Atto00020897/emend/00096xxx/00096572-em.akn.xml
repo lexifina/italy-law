@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2714/A/G6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2714/A/G6"/>
+					<an:FRBRdate date="2004-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2714/A/G6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G6"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@"/>
+					<an:FRBRdate date="2004-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@.akn"/>
+					<an:FRBRdate date="2004-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-02-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-02-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2714/A/G6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2714" showAs="DDL 2714"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1664" showAs="Muzio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1473" showAs="Marino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17600" showAs="Malabarba"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17619" showAs="Pagliarulo"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17646" showAs="Sodano"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2714</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Muzio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Malabarba</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Pagliarulo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Sodano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>        Il Senato, in sede di discussione del disegno di legge n. 2714,</an:p>
+				<an:p align="justify">        premesso che,</an:p>
+				<an:p align="justify">            la «Ferrania S.p.A.», con sede in Cairo Montenotte (SV), occupa attualmente 850 dipendenti in Italia e conta circa 150 addetti nel resto del mondo, di cui il 20% con laurea ed il 55% con diploma, addetti alla fotografia convenzionale, al radiografico medicale digitale e tradizionale, al «Ink Jet» ed alle arti grafiche nonché alla chimica fine di settore;</an:p>
+				<an:p align="justify">            a partire dal 1996 la «Ferrania S.p.A.», di proprietà della multinazionale «3M», ridisegna progressivamente il proprio assetto societario e produttivo attraverso l'impegno con IMATION, KODAK, SCHROEDER, VENTURES, PERMIRA e nel 2000 il nuovo piano industriale consente il rilancio del mercato radiografico sia tradizionale che digitale, anche attraverso il marchio LIFE IMAGING, pur collocando circa 300 lavoratori in mobilità;</an:p>
+				<an:p align="justify">
+					            in Italia «Ferrania S.p.A.» detiene il 7% del mercato medicale scontrandosi in concorrenza con i precedenti 
+					<an:i>partner,</an:i>
+					 come KODAK e trovando persino difficoltà a collocare il proprio 
+					<an:i>business</an:i>
+					 nelle aziende sanitarie liguri;
+				</an:p>
+				<an:p align="justify">            l'annunciato disimpegno finanziario nel corso del 2003 dei maggiori azionisti, l'esposizione nei confronti del sistema bancario sia a breve che a medio termine, e nei confronti dei fornitori, hanno portato, nella scorsa settimana, all'annuncio dell'indisponibilità dei creditori verso il piano industriale presentato dalla società, se non attraverso procedure di garanzia dei crediti;</an:p>
+				<an:p align="justify">            questa ulteriore crisi aggrava la già preoccupante situazione economico-sociale della Valle Bormida e del Savonese e che vede il progressivo disimpegno di finanziarie e/o multinazionali straniere che spostano produzioni e/o quote di mercato in altri paesi;</an:p>
+				<an:p align="justify">
+					            il decreto legislativo 8 luglio 1999, n. 270, cosiddetto decreto Prodi-
+					<an:i>bis,</an:i>
+					 presenta alcuni limiti derivanti sia dalla complessità delle fasi previste, sia dal carattere prevalentemente liquidatorio delle procedure. Infatti, la fase preliminare di accertamento prevista dal decreto Prodi-
+					<an:i>bis</an:i>
+					 si svolge in un lasso temporale di almeno tre mesi, generando uno stato di incertezza sull'avvio stesso della procedura di amministrazione straordinaria e sulle modalità di attuazione;
+				</an:p>
+				<an:p align="justify">            le norme del decreto-legge 23 dicembre 2003, n. 347, sono volte a introdurre una disciplina di carattere generale che ha lo scopo di accelerare l'avvio e la definizione di procedimenti per l'ammissione immediata delle imprese in stato di sofferenza all'amministrazione straordinaria, nonché la gestione dello stato di insolvenza mediante un programma di ristrutturazione economica e finanziaria dell'impresa, ciò al fine di assicurare la continuazione ordinata delle attività industriali, senza dispersione dell'avviamento, tutelando così i creditori, garantendo il regolare svolgimento del mercato ed evitando, al contempo, l'avvio di molteplici e non coordinate iniziative dei creditori medesimi in Italia e all'estero,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">
+					            
+					<an:b>a predisporre un'unica normativa o altri strumenti legislativi idonei che possano consentire l'applicazione delle disposizioni di cui al presente disegno di legge alle imprese tra loro collegate che fanno capo alla medesima proprietà e che nel loro insieme raggiungono i requisiti posti per l'ammissione immediata all'amministrazione straordinaria.</an:b>
+					 .
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo con le parole in neretto che sostituiscono le altre: "al fine di impedire un ulteriore colpo all'economia della Valle Bormida e del Savonese già duramente colpiti dagli effetti della deindustrializzazione, a provvedere affinché i benefici di cui al decreto-legge 23 dicembre 2003, n. 347, vengano estesi anche alle imprese che, essendo in possesso dei requisiti di cui al decreto legislativo 8 luglio 1999, n. 270, facciano richiesta di accedere all'amministrazione straordinaria, considerando sia i dipendenti proprio che gli addetti all'indotto".</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
