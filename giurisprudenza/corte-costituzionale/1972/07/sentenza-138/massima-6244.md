@@ -1,0 +1,21 @@
+# Massima n. 6244
+
+- Pronuncia: Corte costituzionale, sentenza 138/1972 (ECLI:IT:COST:1972:138)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1972:138
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.  138/72 A. REGIONI - ORDINAMENTO REGIONALE - PRESUPPOSTO LA ESISTENZA  DI  INTERESSI  REGIONALMENTE LOCALIZZATI - AFFIDAMENTO ALLA  CURA  DI  ENTI  DI CORRISPONDENTE ESTENSIONE TERRITORIALE - COMPETENZA DELLO STATO PER LA CURA DI INTERESSI UNITARI. REGIONI  ORDINARIE  -  COMPETENZA  LEGISLATIVA  -  MATERIE DI CUI ALL'ART.  117  DELLA  COSTITUZIONE  -  ADOZIONE  DI  UN  CRITERIO MERAMENTE  FORMALE  E  NOMINALISTICO  PER  LA  LORO DEFINIZIONE - INSUFFICIENZA  -  RIFERIMENTO  ALLA  SOSTANZIALE DIVERSITA' DEGLI INTERESSI PUR NELL'AMBITO DI UNA STESSA ESPRESSIONE LINGUISTICA - DISTINZIONE TRA LA COMPETENZA DIRETTA DELLO STATO IN DATE MATERIE E  LA  SUA  FUNZIONE  DI  INDIRIZZO E DI COORDINAMENTO IN ALTRE - FIERE  E  MERCATI  DI  DIMENSIONI  NAZIONALI  O  INTERNAZIONALI - COMPETENZA  DELLO STATO - LEGGE 16 MAGGIO 1970, N. 281, ART. 17 - DELEGAZIONE  AD  EMANARE  DECRETI DI TRASFERIMENTO DELLE FUNZIONI STATALI    ALLE   REGIONI   -   ESCLUSIONE   DI    ILLEGITTIMITA' COSTITUZIONALE.
+
+## Testo
+
+La  stessa ragion d'essere dell'ordinamento regionale risiede nel fatto che la Costituzione, presupponendo l'esistenza di interessi regionalmente  localizzati,  ha  disposto che essi siano affidati alla cura di enti di corrispondente estensione territoriale. Dovendosi  pertanto le regioni considerare come enti esponenziali di  interessi  di  livello  regionale,  e'  d'uopo  ritenere  che l'ordinamento  costituzionale, come impone che siffatti interessi si  soggettivizzino  nelle  Regioni  e  siano  ad  esse  imputati (restando  allo  Stato,  in  armonia  con l'art. 5 Cost., solo il potere  di  stabilire  i  principi fondamentali) cosi' esige, nel quadro  di  una  razionale  individuazione  delle  due  sfere  di competenza,  che  allo  Stato  faccia  capo  la cura di interessi unitari,   tali  in  quanto  non  suscettibili  di  frazionamento territoriale. Per  la  definizione  delle  materie  di competenza delle regioni ordinarie elencate nell'art. 117 Cost., non e' sempre sufficiente dunque il ricorso a criteri puramente formali e nominastici. Anche  se  nel testo costituzionale solo per alcune di esse viene espressamente indicato il presupposto di un sottostante interesse di  dimensione  regionale,  per  tutte  occorre di volta in volta verificare,  per  una  obbiettiva discriminazione fra le sfere di attribuzione  regionali  e  statali  se,  pur  nell'ambito di una stessa  espressione  linguistica, si debbano identificare materie sostanzialmente  diverse  secondo  la diversita' degli interessi, regionali  o sovraregionali, desumibile dall'esperienza sociale e giuridica. In  proposito,  tuttavia, va anche tenuto presente che mentre, in certi   casi,   gli  interessi  sostanziali  da  curare,  facendo immediatamente capo alla intera comunita' nazionale, giustificano una diretta competenza dello Stato, in altri, invece, le esigenze unitarie,  essendo esterne rispetto agli interessi, regionalmente localizzabili,  eppercio' affidati alla competenza delle regioni, consentono  allo Stato, relativamente ad essi, solo interventi di indirizzo e coordinamento. Vanno  ricondotti  alla prima, e non alla seconda ipotesi, quando abbiano  dimensione  nazionale  o  internazionale, le "fiere" e i "mercati",  rispetto  ai  quali,  pur in mancanza di una espressa specificazione, nell'art. 117, del limite della "regionalita'" le competenze   legislative   e   amministrative   devono  ritenersi assegnate   dalla   Costituzione   alle   regioni   solo   per le manifestazioni di carattere regionale. Con  tali  principi  non poteva porsi, ne' si pone, in contrasto, l'art.  17  della legge di delega 16 maggio 1970, n. 281 (in base alla   quale   sono   stati  emanati  i  decreti  legislativi  di trasferimento  delle  funzioni  statali  alle  regioni  (cfr.  le massime C e D).
+
+## Norme
+
+- legge, 16/05/1970 n. 281, art. 17
+
+## Parametri
+
+- Costituzione, art. 117
