@@ -1,0 +1,15 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il R. decreto-legge 2 novembre 1933, n. 1741, che disciplina l'importazione, la lavorazione, il deposito e la distribuzione degli oli minerali e dei carburanti, convertito nella legge 8 febbraio 1934, n. 367;
+
+Visto l'art. 1, n. 1, della legge 31 gennaio 1926, n. 100, concernente la facolta' del potere esecutivo di emanare norme giuridiche;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Capo del Governo, Primo Ministro Segretario di Stato, Ministro per le corporazioni e per l'interno, di concerto con i Ministri per la grazia e giustizia e per le finanze; Abbiamo decretato e decretiamo:
