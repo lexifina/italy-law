@@ -1,8 +1,8 @@
 Art. 1469-bis.
 
-(( (Clausole vessatorie nel contratto tra professionista e consumatore). ))
+(Clausole vessatorie nel contratto tra professionista e consumatore).
 
-((Nel contratto concluso tra il consumatore ed il professionista, che ha per oggetto la cessione di beni o la prestazione di servizi, si considerano vessatorie le clausole che, malgrado la buona fede, determinano a carico del consumatore un significativo squilibrio dei diritti e degli obblighi derivanti dal contratto.
+Nel contratto concluso tra il consumatore ed il professionista ((...)) si considerano vessatorie le clausole che, malgrado la buona fede, determinano a carico del consumatore un significativo squilibrio dei diritti e degli obblighi derivanti dal contratto.
 
 In relazione al contratto di cui al primo comma, il consumatore e' la persona fisica che agisce per scopi estranei all'attivita' imprenditoriale o professionale eventualmente svolta. Il professionista e' la persona fisica o giuridica, pubblica o privata, che, nel quadro della sua attivita' imprenditoriale o professionale, utilizza il contratto di cui al primo comma.
 
@@ -58,4 +58,4 @@ Se il contratto ha ad oggetto la prestazione di servizi finanziari il profession
 
 I numeri 8), 11), 12) e 13) del terzo comma non si applicano ai contratti aventi ad oggetto valori mobiliari, strumenti finanziari ed altri prodotti o servizi il cui prezzo e' collegato alle fluttuazioni di un corso e di un indice di borsa o di un tasso di mercato finanziario non controllato dal professionista, nonche' la compravendita di valuta estera, di assegni di viaggio o di vaglia postali internazionali emessi in valuta estera.
 
-I numeri 12) e 13) del terzo comma non si applicano alle clausole di indicizzazione dei prezzi, ove consentite dalla legge, a condizione che le modalita' di variazione siano espressamente descritte.))
+I numeri 12) e 13) del terzo comma non si applicano alle clausole di indicizzazione dei prezzi, ove consentite dalla legge, a condizione che le modalita' di variazione siano espressamente descritte.

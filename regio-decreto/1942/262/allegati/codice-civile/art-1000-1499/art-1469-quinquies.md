@@ -1,8 +1,8 @@
 Art. 1469-quinquies.
 
-(( (Inefficacia). ))
+(Inefficacia).
 
-((Le clausole considerate vessatorie ai sensi degli articoli 1469-bis e 1469-ter sono inefficaci mentre il contratto rimane efficace per il resto.
+Le clausole considerate vessatorie ai sensi degli articoli 1469-bis e 1469-ter sono inefficaci mentre il contratto rimane efficace per il resto.
 
 Sono inefficaci le clausole che, quantunque oggetto di trattativa, abbiano per oggetto o per effetto di:
 
@@ -16,4 +16,4 @@ L'inefficacia opera soltanto a vantaggio del consumatore e puo' essere rilevata 
 
 Il venditore ha diritto di regresso nei confronti del fornitore per i danni che ha subito in conseguenza della declaratoria d'inefficacia delle clausole dichiarate abusive.
 
-E' inefficace ogni clausola contrattuale che, prevedendo l'applicabilita' al contratto di una legislazione di un Paese extracomunitario, abbia l'effetto di privare il consumatore della protezione assicurata dal presente articolo, laddove il contratto presenti un collegamento piu' stretto con il territorio di uno Stato membro dell'Unione europea.))
+E' inefficace ogni clausola contrattuale che, prevedendo l'applicabilita' al contratto di una legislazione di un Paese extracomunitario, abbia l'effetto di privare il consumatore della protezione assicurata ((dal presente capo)), laddove il contratto presenti un collegamento piu' stretto con il territorio di uno Stato membro dell'Unione europea.
