@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@.akn"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-06-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-06-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2512-B/A/G3.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2512-B" showAs="DDL 2512-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/8208" showAs="Dato"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/17583" showAs="Dettori"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/2569" showAs="Toia"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/4340" showAs="Bastianoni"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/714" showAs="Coviello"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/529" showAs="Castellani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2512-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.102 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Dato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Dettori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Toia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Bastianoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Coviello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Castellani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato della Repubblica,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            i decreti ministeriali del 14 e 15 novembre 2002 e 9 gennaio 2003 hanno disposto la sospensione, dal 31 ottobre 2002 al 31 marzo 2003, dei termini relativi agli adempimenti ed ai versamenti tributari nei confronti delle persone fisiche e dei soggetti diversi dalle persone fisiche che alla data del sisma avevano la residenza o la sede legale o operativa nei territori di alcuni Comuni molisani;</an:p>
+				<an:p align="justify">            l'Ordinanza PCM n. 3308 dell'8 novembre 2003 ha disposto un differimento termini al 31 marzo 2004, ed ha stabilito che la regolarizzazione dei versamenti non eseguiti per effetto della sospensione stessa deve essere effettuata, a partire dal 1º aprile 2004, mediante una rateizzazione pari ad otto volte il periodo della sua durata;</an:p>
+				<an:p align="justify">            una siffatta rateizzazione, se applicata anche ai tributi locali, produrrà un effetto negativo dirompente sulle finanze locali, che saranno costrette a riscuotere le entrate tributarie del bilancio di previsione 2003 nell'arco di un decennio;</an:p>
+				<an:p align="justify">            a tale peso va aggiunto poi il disagio relativo agli adempimenti a cui saranno chiamati gli uffici finanziari dei Comuni per contabilizzare e controllare i versamenti rateizzati,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare un provvedimento che sani gli effetti che la sospensione dei versamenti dei tributi locali, che rappresentano circa il 35 per cento del bilancio corrente, produrrà sugli equilibri finanziari dei bilanci dei comuni interessati.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione con la soppressione nel dispositivo della parola: «devastanti» dopo le parole: «un provvedimento che sani gli effetti»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
