@@ -1,0 +1,11 @@
+ALLEGATO I
+
+A T T E S T A Z I O N E
+
+A richiesta dell'interessato si attesta che questo istituto (o
+
+societa') ha concesso al sig ........................................
+
+nella forma tecnica di ..............................................
+
+un affidamento di lire 100 milioni.
