@@ -1,0 +1,17 @@
+# Massima n. 24677
+
+- Pronuncia: Corte costituzionale, sentenza 167/1999 (ECLI:IT:COST:1999:167)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:167
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.   167/99.  SERVITU' - PASSAGGIO COATTIVO A FAVORE DI  FONDO NON  INTERCLUSO  -  ESIGENZE  DI   ACCESSIBILITA',  DI  CUI  ALLA LEGISLAZIONE  RELATIVA AI PORTATORI DI 'HANDICAP', DEGLI  EDIFICI DESTINATI  AD  USO  ABITATIVO  -  POSSIBILITA'  PER   L'AUTORITA' GIUDIZIARIA  DI  CONCEDERE  IL PASSAGGIO - MANCATA  PREVISIONE  - VIOLAZIONE  DEL  PRINCIPIO DI EGUAGLIANZA - LESIONE  DEL  DIRITTO ALLA SALUTE E DEL DIRITTO INVIOLABILE DEL DISABILE AD UNA NORMALE VITA DI RELAZIONE - CONTRASTO DELLA DISPOSIZIONE IMPUGNATA CON LA FUNZIONE  SOCIALE  DEL  DIRITTO DI  PROPRIETA'  -  ILLEGITTIMITA' COSTITUZIONALE PARZIALE.
+
+## Testo
+
+E' costituzionalmente illegittimo, per violazione degli artt.  2, 3,  comma  secondo, 32 e 42, comma secondo, Cost., l'art.   1052, comma  secondo, cod.  civ., nella parte in cui non prevede che il passaggio  coattivo  di cui al primo comma possa essere  concesso dall'autorita' giudiziaria quando questa riconosca che la domanda risponde   alle  esigenze  di  accessibilita'   -  di  cui   alla legislazione  relativa ai portatori di 'handicap' - degli edifici destinati ad uso abitativo.  Infatti, premesso che la concessione del passaggio coattivo e' subordinata dalla norma denunciata  non solo  alla  inadeguatezza dell'accesso alla via pubblica ed  alla sua non ampliabilita', ma anche alla sussistenza di una ulteriore condizione,  rappresentata  dalla  circostanza   che  la  domanda risponda <<alle esigenze della agricoltura e dell'industria>>;  e considerato  che,  con tale disposizione, il legislatore, per  il caso  di fondo non intercluso, ha inteso altresi' ricollegare  la costituzione   della   servitu'  coattiva   di   passaggio   alla sussistenza  in  concreto  di una interesse  generale,  all'epoca identificato nelle esigenze dell'agricoltura o dell'industria, al quale  rimane  estraneo  ogni   rilievo  relativo  alle  esigenze abitative,  pure  se riferibili a quegli  interessi  fondamentali della   persona  la  cui   tutela  e'  indefettibile;    l'omessa previsione  della  esigenza  di   accessibilita'  della  casa  di abitazione  <<lede il principio personalista che ispira la  Carta costituzionale  e  che pone come fine ultimo  dell'organizzazione sociale  lo sviluppo di ogni singola persona umana >>.   Inoltre, la  norma denunciata, impedendo od ostacolando la socializzazione degli  handicappati, comporta anche una lesione del  fondamentale diritto  di  costoro  alla salute psichica, la  cui  tutela  deve essere  di  grado  pari  a  quello  della  salute  fisica.   Ne', d'altronde,  la previsione della servitu' in parola puo'  trovare ostacolo  nella  garanzia  accordata  al  diritto  di  proprieta' dall'art.   42 Cost., poiche' il peso che in tal modo si viene ad imporre  sul  fondo altrui puo' senz'altro annoverarsi  tra  quei limiti della proprieta' privata determinati dalla legge, ai sensi della  citata norma costituzionale, allo scopo di assicurarne  la funzione sociale.                                          red.: G. Leo
+
+## Norme
+
+- codice civile, art. 1052, comma 2
