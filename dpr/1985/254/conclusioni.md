@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 maggio 1985
+
+PERTINI CRAXI, Presidente del Consiglio dei Ministri FORTE, Ministro per il coordinamento delle politiche comunitarie GASPARI, Ministro per la funzione pubblica ANDREOTTI, Ministro degli affari esteri VISENTINI, Ministro delle finanze GORIA, Ministro del tesoro DEGAN, Ministro della sanita' PANDOLFI, Ministro dell'agricoltura e delle foreste SIGNORILE, Ministro dei trasporti Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 10 giugno 1985 Atti di Governo, registro n. 55, foglio n. 15 AVVERTENZA: Non si pubblicano le note contenenti le norme alle quali il decreto del Presidente della Repubblica fa rinvio, in quanto il testo delle stesse non e' stato trasmesso dal Ministro competente, ai sensi dell'art. 8 della legge 11 dicembre 1984, n. 839.
