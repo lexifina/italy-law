@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G15"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G15"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/G15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17576" showAs="Crino'"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17561" showAs="Gentile"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17577" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17609" showAs="Moncada"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/16994" showAs="Danzi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/251" showAs="Bevilacqua"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/762" showAs="D'Ippolito Vitale"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17667" showAs="Magri"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17564" showAs="Carrara"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Crino'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Gentile</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Moncada</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Danzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bevilacqua</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">D'Ippolito Vitale</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Magri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Carrara</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2003,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la ricerca scientifica e tecnologica costituisce fattore di primaria importanza per la competitività del sistema Paese;</an:p>
+				<an:p align="justify">            al fine della valorizzazione e del trasferimento dei risultati verso la produzione dei beni e dei servizi, ed in particolare verso la piccola e media impresa, occorre sostenere gli interventi pubblici e privati perché possano dotarsi delle occorrenti professionalità specializzate;</an:p>
+				<an:p align="justify">            il Governo si era impegnato ad aumentare i fondi pubblici per questo settore nell'ambito del Documento di programmazione economico-finanziaria per gli anni 2003-2006;</an:p>
+				<an:p align="justify">            le Linee guida per la ricerca scientifica e tecnologia del Governo prevedono un notevole incremento dei fondi per la ricerca sino all'ammontare dell'1,75 per cento del prodotto interno lordo nell'anno 2006,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            all'integrale attuazione delle decisioni assunte in sede di Comitato interministeriale per la programmazione economica (CIPE) che prevedono l'aumento degli stanziamenti a favore della ricerca in misura dello 0,71 per cento del prodotto interno lordo, in modo da favorire il graduale raggiungimento dell'obiettivo prefissato dal Governo per l'anno 2006.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
