@@ -1,0 +1,35 @@
+IL MINISTRO
+
+DELL'AGRICOLTURA E DELLE FORESTE
+
+Visto il programma quadro del piano agricolo nazionale, approvato dal Comitato interministeriale per la politica agricola ed alimentare
+
+(CIPAA) il 1 agosto 1985;
+
+Vista la legge 8 novembre 1986, n. 752, per l'attuazione di interventi programmati in agricoltura ed in particolare l'art. 4, comma 2, lettera c), che ammette, tra l'altro, al finanziamento azioni dirette all'innovazione e sviluppo della meccanizzazione agricola, anche mediante incentivi per la sperimentazione e contributi per la sostituzione di macchine agricole;
+
+Visto il decreto del Ministro dell'agricoltura e delle foreste del 3 marzo 1987, n. 96, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 66 del 20 marzo 1987, con il quale sono state disciplinate le iniziative da intraprendere per incentivare l'innovazione e lo sviluppo della meccanizzazione agricola ed e' stata ripartita tra le regioni e le province autonome di Trento e di Bolzano la somma di lire 102 miliardi relativa al 1986;
+
+Visto il decreto del Ministro dell'agricoltura e delle foreste del 20 novembre 1987, n. 485, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 280 del 30 novembre 1987, che introduce alcune modifiche alla normativa recata dal citato decreto del Ministro dell'agricoltura e delle foreste del 3 marzo 1987, al fine di rendere l'articolazione delle misure ivi contenute piu' idonea alle esigenze di intervento e ripartisce tra le regioni e le province autonome di Trento e di Bolzano la somma di lire 100 miliardi relativa al 1987;
+
+Visto il decreto del Ministro dell'agricoltura e delle foreste del 14 ottobre 1988, pubblicato nella Gazzetta Ufficiale della Repubblica italiana n. 264 del 10 novembre 1988, con il quale e' stata ripartita tra le regioni e le province autonome di Trento e di Bolzano la somma di lire 36 miliardi relativa all'anno 1988;
+
+Vista la delibera del Comitato interministeriale per la programmazione economica (CIPE) del 2 maggio 1989 ed in particolare l'allegato C/1, lettera c), che destina, per lo stesso anno 1989, lo stanziamento complessivo di lire 60 miliardi per l'innovazione e lo sviluppo della meccanizzazione agricola, anche mediante incentivi per la sperimentazione e contributi per la sostituzione di macchine agricole;
+
+Considerato che in armonia con le linee del suddetto programma quadro del piano agricolo nazionale e' opportuno procedere ulteriormente all'adeguamento tecnologico del macchinario agricolo ed alla riduzione dei costi di produzione dell'agricoltura perseguendo l'obiettivo del risparmio energetico, della polivalenza di impiego, della eliminazione dei mezzi insicuri, della diminuzione dell'inquinamento atmosferico ed acustico, nonche' del miglioramento del comfort e dell'ergonomia;
+
+Considerato che l'art. 8 del citato decreto del Ministro dell'agricoltura e delle foreste del 3 marzo 1987 ha previsto la costituzione di una commissione consultiva permanente per la meccanizzazione agricola che deve identificare le macchine, le attrezzature e l'impiantistica costituenti novita' tecnica o di nuova introduzione a livello di territorio, con il compito di fornire periodicamente l'elenco all'amministrazione;
+
+Considerata la circolare ministeriale del 7 ottobre 1987 che reca una prima dettagliata elencazione delle varie categorie di macchine, attrezzature ed impiantistica riconosciute innovative;
+
+Considerata la circolare ministeriale del 6 febbraio 1989, che modifica ed aggiorna tale elencazione;
+
+Considerato che, sulla base anche del contributo propositivo recato dalla citata commissione consultiva, occorre procedere ad una parziale modifica della normativa recata dai citati decreti del Ministro dell'agricoltura e delle foreste del 3 marzo 1987, del 20 novembre 1987 e del 14 ottobre 1988;
+
+Ritenuto di procedere alla ripartizione tra le regioni e le province autonome di Trento e di Bolzano della somma di lire 58 miliardi, stanziata ai sensi della delibera CIPE del 2 maggio 1989, destinata all'innovazione, allo sviluppo della meccanizzazione agricola ed alla sostituzione delle macchine;
+
+Udito il parere dal Consiglio di Stato espresso nell'adunanza del 19 aprile 1990;
+
+Vista la comunicazione al Presidente del Consiglio dei Ministri effettuata con nota n. 11435 del 18 maggio 1990;
+
+A D O T T A il seguente regolamento:
