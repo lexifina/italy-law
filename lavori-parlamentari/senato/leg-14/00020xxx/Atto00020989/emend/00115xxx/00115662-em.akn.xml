@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2756/A/G102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2756/A/G102"/>
+					<an:FRBRdate date="2004-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2756/A/G102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@"/>
+					<an:FRBRdate date="2004-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@.akn"/>
+					<an:FRBRdate date="2004-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-07-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-07-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2756/A/G102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2756" showAs="DDL 2756"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/758" showAs="D'Andrea"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17548" showAs="Battisti"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1852" showAs="Petrini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/8208" showAs="Dato"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17566" showAs="Cavallaro"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/714" showAs="Coviello"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/1635" showAs="Monticone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2756</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Andrea</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Battisti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Petrini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Dato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Cavallaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Coviello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Monticone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il comando provinciale dei Vigili del fuoco di Matera dispone da circa 8 anni l'apertura del distaccamento temporaneo nel comune di Bernalda (Matera) nel solo periodo estivo;</an:p>
+				<an:p align="justify">            nell'area del Metapontino della provincia di Matera vi sono moltissimi incendi (in particolare nel periodo estivo) per la presenza di estese pinete, che mettono in crisi le strutture dei Vigili del fuoco di Matera e la loro possibilità di intervento nelle aree interessate in tempi accettabili (20 minuti);</an:p>
+				<an:p align="justify">            il territorio del Metapontino si caratterizza per la presenza di terreni soggetti a fenomeni di smottamenti, di insediamenti produttivi, di importanti nodi di viabilità stradale, tra i quali la strada statale n. 106 «Jonica» dichiarata dal Ministero delle infrastrutture ad «alta pericolosità», e di collegamenti ferroviari altamente trafficati, con popolazione residente superiore a 38000 unità e superficie boscosa superiore a 7300 ettari;</an:p>
+				<an:p align="justify">            è in atto un intenso sviluppo turistico sulla costa del Metapontino con realizzazione in atto e prevista di numerosi villaggi ed alberghi nonchè porto ed aeroporto turistici;</an:p>
+				<an:p align="justify">            il comune di Bernalda ha individuato in Metaponto per la costruzione di un distaccamento apposito terreno immediatamente disponibile e compatibile urbanisticamente per tale uso,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a istituire nel comune di Bernalda, località Metaponto, della provincia di Matera, un distaccamento permenente dei Vigili del fuoco di Matera che sia in grado di far fronte ai molteplici rischi presenti sul territorio;</an:p>
+				<an:p align="justify">            a finanziare la costruzione e la dotazione di mezzi di tale sede distaccata, in modo da poter evitare i danni all'uomo e all'ambiente derivanti da possibili eventi indesiderati.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
