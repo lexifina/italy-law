@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 12 febbraio 1955, n. 51, che delega al Governo l'emanazione di norme generali e speciali in materia di prevenzione infortuni e di igiene del lavoro;
+
+Visto il decreto del Presidente della Repubblica 27 aprile 1955, n. 547, contenente norme per la prevenzione degli infortuni sul lavoro;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta, del Ministro per il lavoro e la previdenza sociale;
+
+Decreta: Funzione integrativa delle norme
