@@ -1,0 +1,25 @@
+# Massima n. 24422
+
+- Pronuncia: Corte costituzionale, ordinanza 18/1999 (ECLI:IT:COST:1999:18)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1999:18
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD.   18/99.   PROCESSO CIVILE - PROCEDIMENTO NEL QUALE  VI  SIA STATA  CHIAMATA DI TERZO IN CAUSA, DA PARTE DEL CONVENUTO  (NELLA SPECIE,  AI  FINI  DI  PRESTAZIONE DI  GARANZIA  ASSICURATIVA)  - INTERVENUTA  INTERRUZIONE  DEL PROCESSO PER MORTE  DELL'ATTORE  - PROSECUZIONE  O  RIASSUNZIONE ENTRO IL TERMINE PERENTORIO DI  SEI MESI  -  PREVISTA  DECORRENZA  DI TALE  TERMINE  DAL  VERIFICARSI DELL'INTERRUZIONE   E  NON,  INVECE,   DALLA  CONOSCENZA  CHE  IL CONVENUTO  ABBIA AVUTO DELLA RIASSUNZIONE DELLA CAUSA PRINCIPALE, QUANDO   DETTA   RIASSUNZIONE     SIA   PRESUPPOSTO   COSTITUTIVO DELL'INTERESSE  AD  AGIRE DEL CONVENUTO STESSO - PRETESA  LESIONE DEL DIRITTO DI AZIONE - MANIFESTA INFONDATEZZA.
+
+## Testo
+
+E'  manifestamente infondata, con riferimento all'art.  24 Cost., la  questione di legittimita' costituzionale dell'art.  305  cod. proc.   civ.,  nella  parte  in   cui  fa  decorrere  il  termine semestrale per la prosecuzione o per la riassunzione del processo dalla  interruzione,  anziche' dalla conoscenza che il  convenuto abbia   avuto   della  intervenuta   riassunzione   della   causa principale,   "quando  tale  atto   rappresenti  il   presupposto costitutivo della legittimazione alla riassunzione della causa di garanzia"  (nella  specie, la questione era stata  sollevata  nel corso  di  un  procedimento di risarcimento dei  danni  da  fatto illecito,  che, a seguito di interruzione per morte  dell'attore, era stato proseguito dagli eredi di questo soltanto nei confronti degli  originari  convenuti e non della compagnia  assicuratrice, chiamata in causa dai convenuti ai fini di garanzia), in quanto - posto  che nel processo litisconsortile facoltativo, quale quello 'a  quo', allorche' la riassunzione sia eseguita nei confronti di alcune  soltanto  delle parti e riguardo ad alcuni  soltanto  dei diversi  rapporti processuali che componevano originariamente  un unico giudizio, si produce l'effetto della separazione in atto di cause  scindibili (che gia' potevano esserlo fin dall'inizio), le quali vengono appunto ad essere in quel momento scisse;  e che il "simultaneus  processus" e' un mero espediente processuale mirato a  fini di economia dei giudizi e di prevenzione del pericolo  di giudicati  contraddittori,  sicche'  la  sua  inattuabilita'  non riguarda  ne' il diritto di azione, ne' il diritto di difesa, una volta  che la pretesa sostanziale del soggetto interessato  possa esser  fatta  valere  nella  competente, pur  se  distinta,  sede giudiziaria  con  pienezza  di contraddittorio e di difesa  -  la disposizione  censurata  non  viola l'art.  24  Cost.,  sotto  il profilo  del maggior onere delle spese processuali a carico della parte   che   instauri   un'autonoma   causa  di   garanzia   per l'inattuabilita' del 'simultaneus processus', tenuto conto che il precetto  costituzionale  invocato  non garantisce  la  gratuita' della  prestazione  giudiziaria;   ed in quanto  la  disposizione stessa,  anche a seguito delle sentenze di questa Corte (nn.  139 del  1967 e 159 del 1971), e' ontologicamente strutturata in modo da  garantire  la  certezza dei rapporti  processuali,  la  quale verrebbe  certamente meno, qualora si introducesse una decorrenza differenziata  del termine per la riassunzione o prosecuzione del processo interrotto per ciascuna delle diverse parti processuali, soprattutto in ipotesi di pluralita' di cause scindibili.
+
+
+
+-  S.  nn.  30/1964, 93 e 139/1967, 159/1971, 41/1972,  268/1984, 295/1995.
+
+## Norme
+
+- codice di procedura civile, art. 305
+
+## Parametri
+
+- Costituzione, art. 24
