@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G16.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G16.1"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G16.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G16.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@.akn"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-06-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-06-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2512/A/G16.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2512" showAs="DDL 2512"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/774" showAs="Danieli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/4479" showAs="Manzione"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17626" showAs="Rigoni"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17583" showAs="Dettori"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17657" showAs="Vallone"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/4340" showAs="Bastianoni"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2512</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G16.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Danieli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Manzione</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Rigoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Dettori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Vallone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Bastianoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2004,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            con la legge 27 dicembre 2002 (legge finanziaria 2003) fu approvato l'aumento di euro 123,77 mensili delle pensioni sociali anche per gli italiani residenti all'estero;</an:p>
+				<an:p align="justify">            più in generale, la norma in questione ha fatto discendere il diritto alla percezione dell'aumento dalle disponibilità economiche del reddito totale, in conseguenza di ciò, introducendo una variabilità dei presupposti soggettivi necessari;</an:p>
+				<an:p align="justify">            la norma in questione ha posticipato di un anno il diritto alla percezione dell'aumento, rispetto agli italiani residenti in Italia;</an:p>
+				<an:p align="justify">            infine, l'aumento economico - peraltro a tutt'oggi non ancora corrisposto - è stato parametrato al costo della vita dei vari Paesi di residenza;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            in alcuni Paesi in cui rilevante è la presenza di cittadini italiani residenti, vi sono indici di inflazione elevatissimi;</an:p>
+				<an:p align="justify">            senza una parametrazione della pensione ed in particolare del richiamato aumento, nel termine di pochi mesi il beneficio economico sarebbe del tutto vanificato,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare un provvedimento di parametrazione periodica, almeno annuale, del citato aumento della pensione sociale da corrispondere agli italiani residenti all'estero, al livello della inflazione presente nei diversi Paesi di residenza.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
