@@ -1,0 +1,3 @@
+CONVENTION POUR LA PROTECTION DU PATRIMOINE MONDIAL, CULTUREL ET NATUREL
+
+Parte di provvedimento in formato grafico
