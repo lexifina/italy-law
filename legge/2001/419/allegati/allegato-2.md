@@ -1,0 +1,7 @@
+Allegato 2
+
+ELENCO DELLE FUNZIONI OBIETTIVO VARIATE
+
+Voci che si aggiungono nei singoli stati di previsione
+
+Parte di provvedimento in formato grafico
