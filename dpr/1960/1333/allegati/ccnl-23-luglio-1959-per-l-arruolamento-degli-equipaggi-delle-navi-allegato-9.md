@@ -1,0 +1,7 @@
+ALLEGATO 9
+
+INDENNITA' MENSILI RISCHIO MINE
+
+SOTTUFFICIALI E COMUNI
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,7 @@
+ALLEGATO 12
+
+COMPENSI ORARI PER LAVORO STRAORDINARIO
+
+SOTTUFFICIALI E COMUNI
+
+Parte di provvedimento in formato grafico
