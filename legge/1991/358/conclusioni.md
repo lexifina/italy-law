@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 29 ottobre 1991
+
+COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri FORMICA, Ministro delle finanze Visto, il Guardasigilli: MARTELLI ---------------- AGGIORNAMENTO (6) Il D. Lgs. 30 luglio 1999, n. 300 ha disposto (con l'art. 73, comma 7) che "Con l'entrata in vigore del regolamento di cui all'articolo 58, comma 3, sono abrogate tutte le norme sulla organizzazione e sulla disciplina degli uffici dell'amministrazione finanziaria incompatibili con le disposizioni del presente decreto legislativo e, in particolare quelle del regio decreto-legge 8 dicembre 1927, n. 2258 e successive integrazioni e modifiche, del decreto legislativo 26 aprile 1990, n. 105 e successive integrazioni e modifiche, della legge 29 ottobre 1991, n. 358 e successive integrazioni e modifiche degli articoli, da 9 a 12 della legge 24 aprile 1980, n.146 e successive integrazioni e modifiche."
