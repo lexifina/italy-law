@@ -1,0 +1,66 @@
+# Corte costituzionale, sentenza 469/2002
+
+- ECLI: ECLI:IT:COST:2002:469
+- Tipo: sentenza
+- Presidente: RUPERTO
+- Relatore: Fernanda Contri
+- Redattore: Fernanda Contri
+- Data della decisione: 20/11/2002
+- Data del deposito: 22/11/2002
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 27398
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2002:469
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Cesare RUPERTO; Giudici: Riccardo CHIEPPA, Gustavo ZAGREBELSKY, Valerio ONIDA, Carlo MEZZANOTTE, Fernanda CONTRI, Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 1469-bis, secondo comma, del codice civile, promosso con ordinanza emessa il 5 luglio 1999 dal Giudice di pace di Sanremo nel procedimento civile Style Car snc contro Grizzly spa, iscritta al n. 959 del registro ordinanze 2001 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 1, prima serie speciale, dell'anno 2002.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 19 giugno 2002 il Giudice relatore Fernanda Contri.
+
+## Testo
+
+Ritenuto in fatto1. -  Il Giudice di pace di Sanremo, con ordinanza emessa il 5 luglio 1999, ha sollevato, in riferimento agli artt. 3, 25 e 41 della Costituzione, questione di legittimità costituzionale dell'art. 1469-bis, secondo comma, del codice civile, nella parte in cui non equipara al consumatore le piccole imprese e quelle artigiane.
+    Ad avviso del rimettente, tale norma sarebbe viziata di incostituzionalità, per la irragionevolezza della discriminazione operata tra piccolo imprenditore e artigiano rispetto al “privato consumatore”.
+    Il giudice a quo sottolinea, in particolare, che la finalità dell'art. 1469-bis e dell'intero capo XIV-bis del codice civile sta nella tutela del contraente debole rispetto alla parte avente maggiore potere contrattuale e che, soprattutto nei contratti per adesione, le cui clausole negoziali sono predisposte dal professionista, è evidente come la parte debole sia posta nell'alternativa di aderire alle clausole o di rinunciare alla prestazione.
+    Il rimettente afferma che un ulteriore profilo di incostituzionalità potrebbe ravvisarsi nella circostanza che le clausole che attribuiscono la competenza territoriale esclusivamente al giudice del luogo dove ha sede il “professionista” hanno l'effetto di sottrarre l'attore al giudizio del proprio giudice naturale precostituito per legge, che è quello del luogo ove l'attore medesimo ha la residenza o il domicilio.
+    Infine, sussisterebbe un contrasto con l'art. 41 della Costituzione, in quanto la direttiva comunitaria, di cui la norma impugnata costituisce attuazione, si iscrive nel più ampio disegno di realizzare in ambito comunitario il libero mercato, il quale postula una effettiva concorrenza tra i soggetti economici e la rimozione degli ostacoli, di fatto o di diritto, che nei vari Stati membri la limitano.
+    2. - È intervenuto nel giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, concludendo per l'infondatezza della questione.
+    La difesa erariale pone anzitutto in rilievo come non debba confondersi la figura del consumatore con quella del contraente debole, in quanto la prima riceve una efficace tutela sostanziale dagli artt. 1469-bis e seguenti del codice civile, mentre la seconda è contemplata dagli artt. 1341, 1342 e 1370 cod. civ. ai fini di una tutela meramente formale.
+    La definizione di consumatore come “la persona fisica che agisce per scopi estranei all'attività imprenditoriale o professionale eventualmente svolta”, recepita dalla novella al codice civile in attuazione della direttiva comunitaria 93/13 e comune a molte discipline normative - come quelle concernenti i contratti conclusi fuori dai locali commerciali, la pubblicità ingannevole, il credito al consumo e i prodotti difettosi - attribuisce particolare rilevanza all'attività del soggetto che opera per il soddisfacimento di propri bisogni di vita non già per scopi professionali.
+    Ad avviso dell'Avvocatura, il legislatore, sia interno che comunitario, ha ragionevolmente escluso dalla tutela le attività dirette alla realizzazione di un profitto o di un reddito, in quanto il soggetto economico, di fronte all'aumento di costi derivanti “dall'abusività” delle clausole, può riversare sul mercato il danno subito, aumentando il corrispettivo per le sue prestazioni, a differenza del consumatore, che può solo ridurre i suoi consumi. Inoltre, l'imprenditore debole è tutelato dagli artt. 1341,  1342 e  2597 cod. civ. e dall'art. 3 della legge 10 ottobre 1990, n. 287 (Norme per la tutela della concorrenza e del mercato), che reprime gli abusi realizzati da una o più imprese in posizione dominante.
+    Non sussisterebbero quindi i lamentati profili di incostituzionalità, né, ad avviso dell'Avvocatura, potrebbe ravvisarsi la violazione dell'art. 25 della Costituzione, in considerazione della legittimità delle clausole che stabiliscono come foro esclusivo quello di residenza del professionista nelle ipotesi in cui la controparte non rivesta la qualità di consumatore.
+    Osserva infine l'Avvocatura che la definizione di consumatore accolta dall'art. 1469-bis cod. civ. e la tutela che da essa deriva costituiscono mere trasposizioni di normative valide in tutta l'Unione europea, onde l'introduzione nella legislazione nazionale di una tutela più ampia non solo non sarebbe conforme all'art. 11 della Costituzione, al principio di armonizzazione dei diritti interni e alla logica dell'integrazione economica, ma comporterebbe il pericolo di distorsioni della concorrenza.Considerato in diritto1. - La questione di legittimità costituzionale sollevata dal Giudice di pace di Sanremo investe l'art. 1469-bis, secondo comma, del codice civile, nella parte in cui non equipara al consumatore le piccole imprese e quelle artigiane. Il rimettente sollecita, in definitiva, l'attribuzione della qualità di consumatore alla parte che risulti avere minore potere contrattuale, indipendentemente dalla veste in cui questa agisca, e quindi anche se essa sia un imprenditore individuale o collettivo.
+    Ad avviso del giudice a quo, la detta norma si porrebbe in contrasto con l'art. 3 della Costituzione, per la irragionevolezza della discriminazione operata tra piccolo imprenditore e artigiano rispetto al “privato consumatore”; con l'art. 25 della Costituzione, in quanto le clausole che attribuiscono la competenza territoriale esclusiva al giudice del luogo dove ha sede il professionista hanno l'effetto di sottrarre l'attore al giudizio del proprio giudice naturale precostituito per legge, che è quello del luogo ove l'attore medesimo ha la residenza o il domicilio; con l'art. 41 della Costituzione, in quanto la direttiva comunitaria di cui la norma impugnata costituisce attuazione si iscrive nel più ampio disegno di realizzare in ambito comunitario il libero mercato, il quale a sua volta postula una effettiva concorrenza tra i soggetti economici e la rimozione degli ostacoli, di fatto o di diritto, che nei vari Stati membri la limitano.
+    2. - La questione non è fondata.
+    2.1 - Il legislatore, con l'art. 25 della legge 6 febbraio 1996, n. 52 (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee - legge comunitaria 1994), ha dato attuazione alla direttiva 93/13/CEE concernente le clausole abusive nei contratti stipulati con i consumatori, introducendo nel titolo II del libro quarto del codice civile il capo XIV-bis dedicato ai contratti del consumatore. La prima di tali norme, l'art. 1469-bis cod. civ., dopo aver stabilito il campo di applicazione della disciplina ed aver offerto una definizione di carattere generale delle clausole vessatorie, attribuisce, in conformità al testo della direttiva, la qualità di consumatore alla persona fisica che agisce per scopi estranei all'attività imprenditoriale o professionale eventualmente svolta.
+    L'esclusione dalla speciale tutela di tutti quei soggetti che in forma individuale o anche collettiva agiscono per scopi comunque connessi all'attività economica da essi svolta, quantunque senza finalità di lucro, è stata posta in discussione dalla dottrina, soprattutto in relazione a quelle particolari ipotesi nelle quali la linea di demarcazione tra le varie finalità del consumo risulti particolarmente incerta.
+    Tuttavia la scelta del legislatore di limitare la tutela non solo non appare irragionevole ma si sottrae decisamente a tutte le censure mosse dal giudice rimettente.
+    Di particolare rilievo ai fini dell'armonizzazione delle legislazioni è anzitutto il dato che nella normativa di numerosi paesi membri dell'Unione europea la definizione di consumatore è ristretta alle sole persone fisiche che agiscono per scopi non professionali; la medesima definizione ricorre anche nel progetto di codice civile europeo, in fase di elaborazione, nel quale è rigorosamente definito consumatore colui che agisce al di fuori dell'attività economica.
+    La predisposizione di strumenti di tutela comuni, attuati in base a modelli uniformi, consente una semplificazione dei rapporti giuridici tra i cittadini dei diversi paesi aderenti all'Unione europea e costituisce di per sé sola una idonea ragione di politica legislativa a sostegno della scelta di restringere la nozione di consumatore, effettuata dal legislatore con l'attuazione della direttiva comunitaria 93/13.
+    La preferenza nell'accordare particolare protezione a coloro che agiscono in modo occasionale, saltuario e non professionale si dimostra non irragionevole allorché si consideri che la finalità della norma è proprio quella di tutelare i soggetti che secondo l'id quod plerumque accidit sono presumibilmente privi della necessaria competenza per negoziare; onde la logica conseguenza dell'esclusione dalla disciplina in esame di categorie di soggetti - quali quelle dei professionisti, dei piccoli imprenditori, degli artigiani - che proprio per l'attività abitualmente svolta hanno cognizioni idonee per contrattare su un piano di parità.
+    Una diversa scelta presupporrebbe logicamente che il piccolo imprenditore e l'artigiano, così come il professionista, siano sempre soggetti deboli anche quando contrattano a scopo di lucro in funzione dell'attività imprenditoriale o artigianale da essi svolta; il che contrasterebbe con lo spirito della direttiva e della conseguente normativa di attuazione.
+    2.2 - Alla medesima conclusione di infondatezza della questione si giunge esaminando gli altri profili di incostituzionalità dedotti dal rimettente in relazione agli artt. 25 e 41 della Costituzione.
+    Come questa Corte ha reiteratamente affermato, il principio della precostituzione del giudice è rispettato qualora l'organo giudicante sia stato istituito dalla legge sulla base di criteri generali fissati in anticipo e non già in vista di singole controversie; inoltre detto principio è estraneo alla ripartizione della competenza territoriale tra giudici dettata da normativa anteriore nel tempo alla istituzione del giudizio.
+    Pertanto, nella fattispecie, nella quale la competenza è individuata in base al foro generale delle persone giuridiche di cui all'art. 19 cod. proc. civ., essendo convenuta in giudizio una società di capitali, non può certamente ritenersi sussistente la lesione del citato precetto costituzionale; né tale lesione può derivare dalla impossibilità di applicare il foro previsto dall'art. 1469-bis, terzo comma, numero 19), cod. civ., in quanto ciò consegue al difetto della qualità di consumatore, secondo la definizione contenuta nella norma sostanziale.
+    Il rimettente ha infine prospettato la violazione dell'art. 41 della Costituzione, senza tuttavia offrire una chiara e adeguata motivazione.
+    Poiché non è dato comprendere, né risulta in alcun modo specificato, come la lamentata disparità di trattamento tra privato consumatore e piccolo imprenditore possa determinare una limitazione della concorrenza e un ostacolo al libero mercato, la censura appare priva di consistenza.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    dichiara non fondata la questione di legittimità costituzionale dell'art. 1469-bis, secondo comma, del codice civile, sollevata, in riferimento agli artt. 3, 25 e 41 della Costituzione, dal Giudice di pace di Sanremo, con l'ordinanza in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 20 novembre 2002.
+    F.to:
+    Cesare RUPERTO, Presidente
+    Fernanda CONTRI, Redattore
+    Giuseppe DI PAOLA, Cancelliere
+    Depositata in Cancelleria il 22 novembre 2002.
+    Il Direttore della Cancelleria
+    F.to: DI PAOLA
