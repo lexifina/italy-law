@@ -1,0 +1,19 @@
+Allegato
+
+MODIFICAZIONI APPORTATE IN SEDE DI CON VERSIONE AL DECRETO-LEGGE 16 GIUGNO 1998, N. 186.
+
+All'articolo 1:
+
+al comma 1, dopo le parole: "dal Ministro della sanita'" sono inserite le seguenti: "con comunicato pubblicato nella Gazzetta Ufficiale";
+
+all'allegato 1, previsto dal comma 1, lettera a), all'ottavo capoverso, la parola "molto" e le parole: "e con aspettativa presunta di vita non superiore a tre mesi" sono soppresse;
+
+al comma 1, lettera b), le parole: "sotto la propria responsabilita' e sulla base di elementi obiettivi, che non esistono valide alternative terapeutiche tramite l'impiego di medicinali o trattamenti gia' autorizzati per tale patologia" sono sostituite dalle seguenti: "in base a dati documentabili, la inefficacia, nello specifico caso, di medicinali o trattamenti gia' autorizzati o sperimentati";
+
+al comma 2, quarto periodo, le parole: "gli elementi obiettivi" sono sostituite dalle seguenti: "i dati documentabili"; ed e' aggiunto, in fine, il seguente periodo: "Nei casi indicati dal precedente periodo il medico curante puo', in alternativa, indirizzare il paziente ad un altro centro fuori dalla regione di appartenenza";
+
+il comma 6 e' soppresso;
+
+il comma 7 e' sostituito dal seguente:
+
+"7. Alla copertura degli oneri finanziari derivanti dal primo periodo del comma 5, pari a lire 36 miliardi per l'anno 1998, si provvede, quanto a lire 26 miliardi, mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1998-2000, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1998, allo scopo parzialmente utilizzando, per lire 18 miliardi, l'accantonamento relativo al Ministero della pubblica istruzione, e per lire 8 miliardi, l'accantonamento relativo al Ministero della sanita'; quanto a lire 10 miliardi, mediante riduzione dell'autorizzazione di spesa di cui all'articolo 51 della legge 23 dicembre 1978, n. 833, iscritta nell'ambito dell'unita' previsionale di base 7.1.2.1 (Fondo sanitario nazionale) dello stato di previsione del Ministero del tesoro, del bilancio e della programmazione economica per l'anno 1998".
