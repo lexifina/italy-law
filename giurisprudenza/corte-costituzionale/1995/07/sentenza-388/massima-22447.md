@@ -1,0 +1,22 @@
+# Massima n. 22447
+
+- Pronuncia: Corte costituzionale, sentenza 388/1995 (ECLI:IT:COST:1995:388)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:1995:388
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT.    N.   388/95.   PENSIONI  -  PENSIONI   PREVIDENZIALI   - LAVORATORE   DIPENDENTE  PREPENSIONATO   PERCHE'  SOTTOPOSTO   AD INTEGRAZIONE  SALARIALE, CHE ABBIA GIA' CONSEGUITO IN COSTANZA DI RAPPORTI  DI  LAVORO  LA  PRESCRITTA  ANZIANITA'  ASSICURATIVA  E CONTRIBUTIVA OBBLIGATORIA - POSSIBILITA' CHE, DOVENDO LA PENSIONE ESSERE  LIQUIDATA  SULLA  BASE DEL CONCORSO  DELLA  CONTRIBUZIONE FIGURATIVA,  CORRELATA  ALLA MINORE  RETRIBUZIONE  CORRISPOSTAGLI NELL'ULTIMO   PERIODO,  IL   TRATTAMENTO  PENSIONISTICO   RISULTI INFERIORE  A  QUELLO OTTENIBILE IN BASE ALLA  SOLA  CONTRIBUZIONE OBBLIGATORIA,  SENZA  CHE AL LAVORATORE SIA CONSENTITO DI  OPTARE PER  IL PERIODO DI CONTRIBUZIONE PIU' FAVOREVOLE - VIOLAZIONE DEI PRINCIPI  DI RAGIONEVOLEZZA, EGUAGLIANZA E GARANZIA PREVIDENZIALE -    RICHIAMO   A    PRECEDENTI    SENTENZE   DI   ILLEGITTIMITA' COSTITUZIONALE, SOTTO ALTRI ASPETTI, DELLA MEDESIMA NORMA.
+
+## Testo
+
+Riguardo   alle   modalita'  di   liquidazione   delle   pensioni previdenziali,  va ancora una volta precisato e sottolineato  che la  discrezionalita'  del  legislatore   nella  scelta,  ad  esso riservata,   del  criterio  di   individuazione  del  periodo  di riferimento  della retribuzione pensionabile, incontra un  limite intrinseco  nella esigenza - fondata sui valori di giustizia e di equita'  connaturati a principi sanciti dagli artt.  3 e 38 Cost. -  che  nella  fase successiva al perfezionamento  del  requisito minimo  contributivo, l'ulteriore contribuzione (qualunque ne sia la  natura:  obbligatoria, volontaria o figurativa) sia destinata unicamente   ad   incrementare  il   livello  di  pensione   gia' consolidatosi,  senza  mai  poter produrre l'effetto  opposto  di compromettere la misura della prestazione potenzialmente maturata 'in  itinere'.   In  forza  di   tali  principi,  nell'ipotesi  - ricorrente  nel  caso  di  specie  -  del  lavoratore  dipendente prepensionato  perche'  sottoposto ad integrazione salariale,  il quale  abbia  conseguito, in costanza di rapporto di  lavoro,  la prescritta  anzianita' assicurativa e contributiva  obbligatoria, non puo' ritenersi consentito che, dovendo assumersi a base della liquidazione   la   contribuzione     figurativa,   per   effetto dell'impugnato  art.   3, ottavo comma, legge 29 maggio 1982,  n. 297,  - che determina il periodo di retribuzione pensionabile  in coincidenza  con  le ultime 260 settimane contributive - a  causa della  flessione della retribuzione verificatasi nel caso in tale periodo  e oltretutto in nessun modo ascrivibile ad una autonomia di  scelta  dell'interessato,  si abbia un  depauperamento  della pensione.   Pertanto,  in base alla stessa 'ratio decidendi'  per cui  il  citato  art.   3,  ottavo  comma,  e'  stato  dichiarato illegittimo  (sent.   nn.  307 del 1989, 428 del 1992 e  264  del 1994)  -  in  giudizi attinenti alla  prosecuzione  del  rapporto assicurativo,  rispettivamente,  con contribuzione volontaria  od obbligatoria, ai fini della pensione di vecchiaia o di anzianita' -  nella parte in cui non prevedeva che la pensione da liquidarsi al  lavoratore  venuto a trovarsi nella suddetta situazione,  non potesse  comunque  essere  inferiore  a quella  che  gli  sarebbe spettata  sulla  base  delle  contribuzioni  gia'  effettuate  al raggiungimento  dell'eta' pensionabile, la disposizione censurata deve essere dichiarata illegittima, per violazione degli artt.  3 e  38  Cost., anche nella parte in cui, in relazione  all'ipotesi del  lavoratore  sottoposto ad integrazione salariale, omette  di salvaguardare   la   posizione   da   lui   gia'   acquisita   al raggiungimento  della  soglia minima di pensionabilita'.  Con  la avvertenza  che  il  riconoscimento  - che ne  consegue  -  della facolta' del lavoratore di optare per il periodo di contribuzione piu'   favorevole,  non  potrebbe   comunque  sommarsi  ad  altri eventuali vantaggi.  -  Cfr.  S.  nn.  307/1989, 428/ 1992 e 264/1994, gia' citate nel testo.                                                     red.: S.P.
+
+## Norme
+
+- legge, 29/05/1982 n. 297, art. 3, comma 8
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 38
