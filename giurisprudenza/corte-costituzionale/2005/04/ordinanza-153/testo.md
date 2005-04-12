@@ -1,0 +1,55 @@
+# Corte costituzionale, ordinanza 153/2005
+
+- ECLI: ECLI:IT:COST:2005:153
+- Tipo: ordinanza
+- Presidente: CONTRI
+- Relatore: Alfio Finocchiaro
+- Redattore: Alfio Finocchiaro
+- Data della decisione: 04/04/2005
+- Data del deposito: 12/04/2005
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 29339
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2005:153
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai Signori: Presidente: Fernanda CONTRI; Giudici: Guido NEPPI MODONA, Piero Alberto CAPOTOSTI, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'articolo 13, comma 2, lett. c), del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), in combinato disposto col successivo comma 5, come sostituito dall'art. 12, comma 1, della legge 30 luglio 2002, n. 189 (Modifica alla normativa in materia di immigrazione e di asilo), promosso con ordinanza del 5 novembre 2002 dal Tribunale di Vicenza sul ricorso proposto da Cakri Armand contro il Prefetto di Vicenza, iscritta al n. 6 del registro ordinanze 2003 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 4, prima serie speciale, dell'anno 2003.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 26 gennaio 2005 il Giudice relatore Alfio Finocchiaro.
+    Ritenuto che nel corso di giudizio su ricorso proposto da Cakri Armand, cittadino albanese, per l'annullamento del decreto di espulsione emesso dal Prefetto di Vicenza, il Tribunale di Vicenza ha sollevato, con ordinanza 5 novembre 2002 (reg. ord. n. 6 del 2003), questione di legittimità costituzionale relativamente all'art. 13, comma 2, lettera c), in combinato disposto con il successivo comma 5 – come sostituito dall'art. 12, comma 1, della legge 30 luglio 2002, n. 189 (Modifica alla normativa in materia di immigrazione e di asilo) – del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), per violazione degli artt. 3, 13, secondo e terzo comma, 16 e 24 della Costituzione;
+    che, secondo il rimettente, l'atto di espulsione, motivato in relazione alla pericolosità sociale del ricorrente (motivazione posta alla base del diniego di rinnovo del permesso di soggiorno) era stato eseguito dal Questore di Vicenza, mediante accompagnamento alla frontiera, e entro 48 ore dall'espulsione, il Tribunale aveva convalidato l'accompagnamento;
+    che la questione è rilevante, sotto il profilo che solo il ricorso presentato ex art. 13, comma 8, del d.lgs. n. 286 del 1998, rappresenta il primo momento di vera giurisdizione, in cui il giudice investito è chiamato a pronunciare avendo effettiva cognizione dei presupposti e dei fatti inerenti la misura applicata e che, in particolare, l'avvenuta convalida del provvedimento di espulsione non fa venir meno la rilevanza, trattandosi di provvedimento che controlla, ma a livello di pura enunciazione, la ricorrenza di una delle cause di espulsione, e, in ogni caso, senza il contraddittorio e la difesa;
+    che, d'altro canto, in sede di giudizio sul ricorso, il giudice non può sostituire la propria valutazione al giudizio di pericolosità espresso dal Questore, potendo disapplicarlo solo ove, in punto di fatto, si accerti che gli elementi addotti a sostegno della ritenuta pericolosità siano insussistenti;
+    che, nella specie, il ricorrente era stato espulso in quanto ritenuto pericoloso (in tal senso il decreto motivato di espulsione), e non perché privo del permesso di soggiorno, come allegato nella richiesta di convalida dell'accompagnamento immediato alla frontiera adottato dal questore e convalidato dal Tribunale in composizione monocratica e che la dichiarazione di pericolosità lo ha fatto inquadrare nell'ipotesi dell'art. 13, comma 2, lettera c), poiché diversamente sarebbe stato inespellibile in quanto titolare di permesso di soggiorno scaduto, di cui aveva chiesto il rinnovo;
+    che, secondo il giudice a quo, le disposizioni impugnate violano i diritti fondamentali della persona, in particolare il diritto di libertà personale (art. 13 Cost.);
+    che la grave misura coercitiva è eseguibile sulla base di un mero sospetto di polizia, senza contraddittorio ed effettivo vaglio giudiziale, e che la sua esecuzione non è emendabile, non potendo lo straniero rientrare a seguito dell'eventuale annullamento del decreto di espulsione e della misura dell'accompagnamento forzato;
+    che le disposizioni impugnate inoltre determinano disparità di trattamento tra straniero e cittadino, perché, dipendendo la dichiarazione di appartenenza dello straniero ad una delle categorie previste dall'art. 1 della legge 27 dicembre 1956, n. 1423 (Misure di prevenzione nei confronti delle persone pericolose per la sicurezza e per la pubblica moralità), dagli stessi elementi di fatto che legittimano l'inserimento del cittadino nelle citate categorie, questo può difendersi, in contraddittorio con l'amministrazione, e con il controllo giudiziale, laddove, per lo straniero, alla dichiarazione consegue immediatamente la misura dell'espulsione con accompagnamento alla frontiera, mentre la possibilità che le persone pericolose sorprese fuori dal luogo di residenza siano destinatarie di foglio di via obbligatorio non è paragonabile all'espulsione con accompagnamento immediato alla frontiera, che ha ben altra natura e intensità afflittiva, tanto da incidere sull'art. 13 della Costituzione;
+    che nel giudizio è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, che ha chiesto dichiararsi l'inammissibilità e comunque l'infondatezza della questione.
+    Considerato che il Tribunale di Vicenza dubita della legittimità costituzionale dell'art. 13, comma 2, lettera c), in combinato disposto con il successivo comma 5 – come sostituito dall'art. 12, comma 1, della legge 30 luglio 2002, n. 189 – del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), là dove prevede che, a seguito della dichiarazione dell'autorità di polizia dell'appartenenza di un soggetto ad una delle categorie previste dall'art. 1 della legge 27 dicembre 1956, n. 1423, lo straniero munito di permesso di soggiorno scaduto, di cui abbia tempestivamente chiesto il rinnovo, venga espulso con accompagnamento immediato alla frontiera a mezzo della forza pubblica, senza preventivo vaglio dell'autorità giudiziaria nel contraddittorio tra le parti, o comunque previa audizione dello straniero, per violazione: dell'art. 3 della Costituzione, per disparità di trattamento tra straniero e cittadino, che siano dichiarati appartenenti ad una delle categorie previste dall'art. 1 della legge n. 1423 del 1956, per effetto dell'applicabilità, solo per il secondo, di misura coercitiva previa instaurazione del contraddittorio e vaglio dell'autorità giudiziaria; degli artt. 13, secondo e terzo comma, 16 e 24 della Costituzione, per violazione della libertà personale senza adeguato controllo giurisdizionale;
+    che nell'ordinanza è ravvisabile una molteplicità di ragioni di inammissibilità della questione;
+    che la motivazione sulla rilevanza è contraddittoria, poiché non si capisce  se il rimettente censuri un difetto specifico del giudizio di impugnazione del decreto di espulsione, nel qual caso soltanto la questione sarebbe rilevante agli effetti della decisione che è chiamato a rendere, o i suoi dubbi concernano l'irrimediabilità degli effetti dell'espulsione eseguita, nel qual caso le doglianze di mancanza di contraddittorio, difesa, effettivo vaglio giurisdizionale, sarebbero riferite all'accompagnamento, e allora sarebbero inattuali al momento in cui, ex art. 13, comma 8, il giudice è chiamato a pronunciarsi;
+    che il precedente rilievo induce a ritenere la manifesta inammissibilità della questione per contraddittorietà e poco chiara motivazione sulla rilevanza (ordinanze n. 60 del 2004 e n. 217 del 2003);
+    che, peraltro, il contrasto con l'art. 13 della Costituzione,  per la violazione della libertà personale, conseguirebbe all'irrimediabilità degli effetti dell'espulsione eseguita, trattandosi di fase già conclusa con la pronuncia della convalida, per cui, ove anche il ricorso dovesse essere accolto, la violazione della libertà personale si sarebbe già compiuta, per l'impossibilità di ripristinare la situazione preesistente, che è effetto dell'accompagnamento non garantito;
+    che ciò determina un'ulteriore ipotesi di difetto di rilevanza, perché la dichiarazione d'incostituzionalità delle norme non può incidere ormai sull'oggetto del giudizio a quo  per difetto di pregiudizialità (ordinanze n. 213 del 2004 e n. 264 del 1998);
+    che, dato il tenore della doglianza, relativa all'accompagnamento alla frontiera sulla base di una pericolosità affermata senza controllo giudiziale, non sono le due disposizioni censurate, in combinato disposto, ad essere passibili di dubbio di illegittimità costituzionale, ma semmai il combinato disposto del comma 2, lettera c), e del comma 4 dell'art. 13, con l'ulteriore conseguente rilievo di inammissibilità della questione per erronea indicazione delle norme da censurare (ordinanze n. 217 del 2003 e n. 96 del 1999).
+    Visti gli art. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 13, comma 2, lettera c), in combinato disposto con il successivo comma 5 – come sostituito dall'art. 12, comma 1, della legge 30 luglio 2002, n. 189 (Modifica alla normativa in materia di immigrazione e di asilo) – del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), sollevata, in riferimento agli artt. 3, 13, commi secondo e terzo, 16 e 24 della Costituzione, dal Tribunale di Vicenza, con l'ordinanza in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 4 aprile 2005.
+F.to:
+Fernanda CONTRI, Presidente
+Alfio FINOCCHIARO, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 12 aprile 2005.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
