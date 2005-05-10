@@ -1,0 +1,62 @@
+# Corte costituzionale, sentenza 194/2005
+
+- ECLI: ECLI:IT:COST:2005:194
+- Tipo: sentenza
+- Presidente: CAPOTOSTI
+- Relatore: Annibale Marini
+- Redattore: Annibale Marini
+- Data della decisione: 05/05/2005
+- Data del deposito: 10/05/2005
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 29397
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2005:194
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Piero Alberto CAPOTOSTI; Giudici: Fernanda CONTRI, Guido NEPPI MODONA, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 25, comma 1, del decreto legislativo 17 gennaio 2003, n. 5 (Definizione dei procedimenti in materia di diritto societario e di intermediazione finanziaria, nonché in materia bancaria e creditizia, in attuazione dell'articolo 12 della legge 3 ottobre 2001, n. 366), promosso con ordinanza del 17 giugno 2004 dal Tribunale di Agrigento nel procedimento civile vertente tra Curatela del Fallimento So.Ge.Im. s.p.a. e la Sicilcantieri s.r.l., iscritta al n. 845 del registro ordinanze 2004 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 44, prima serie speciale, dell'anno 2004.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 6 aprile 2005 il Giudice relatore Annibale Marini.
+
+## Testo
+
+Ritenuto in fatto1.– Il Tribunale di Agrigento, nel corso di un procedimento camerale in materia societaria, con ordinanza del 17 giugno 2004 ha sollevato, in riferimento agli artt. 3 e 76 della Costituzione, questione di legittimità costituzionale dell'art. 25, comma 1, del decreto legislativo 17 gennaio 2003, n. 5 (Definizione dei procedimenti in materia di diritto societario e di intermediazione finanziaria, nonché in materia bancaria e creditizia, in attuazione dell'articolo 12 della legge 3 ottobre 2001, n. 366), «nella parte in cui individua il giudice territorialmente competente solo in base al luogo in cui la società ha la sede legale, anziché secondo le regole generali».
+    Premette il Tribunale rimettente di essere investito, ai sensi degli artt. 2485 e 2487 del codice civile, della richiesta, avanzata dal socio totalitario di una società a responsabilità limitata, di adozione dei provvedimenti idonei ad ovviare alla inerzia degli amministratori, a seguito della chiusura della procedura fallimentare per essere la società tornata in bonis.
+    Disposta la comparizione delle parti, la società resistente ha eccepito l'incompetenza per territorio del giudice adito, ai sensi del citato art. 25, comma 1, del decreto legislativo n. 5 del 2003, avendo essa la propria sede legale in Roma.
+    L'eccezione, tempestivamente sollevata, sarebbe – ad avviso del rimettente – fondata, non consentendo la norma evocata altra interpretazione se non quella secondo la quale la competenza per territorio spetta in via esclusiva, nei procedimenti camerali in materia societaria, al Tribunale del luogo ove la società ha la sede legale, che risulta nella specie essere effettivamente Roma.
+    Ritiene tuttavia il giudice a quo che la norma suddetta violi, sotto tale aspetto, il criterio direttivo di cui all'art. 12, comma 1, della legge 3 ottobre 2001, n. 366 (Delega al Governo per la riforma del diritto societario), costituito dal divieto di modifica della competenza per territorio.
+    In base al combinato disposto degli artt. 19 del codice di procedura civile e 46, secondo comma, del codice civile, infatti, il foro generale delle persone giuridiche, comprese le società, è rappresentato, indifferentemente, dal luogo ove esse hanno la sede legale ovvero da quello ove hanno la sede effettiva. La novella legislativa, escludendo la competenza del giudice del luogo ove la società ha la sede effettiva, avrebbe dunque modificato, in violazione della delega, la competenza per territorio, quanto ai procedimenti camerali nelle materie riguardate dal decreto legislativo.
+    Sotto diverso profilo, la norma impugnata violerebbe altresì il principio di eguaglianza di cui all'art. 3 della Costituzione, determinando un'irragionevole diversità di trattamento tra fattispecie processuali omogenee.
+    Osserva al riguardo il rimettente che, in base agli artt. 2, comma 1, e 1, comma 4, dello stesso decreto legislativo n. 5 del 2003, resta ferma, per i procedimenti ordinari di cognizione nella medesima materia societaria, la competenza per territorio individuata in base alle regole generali.
+    Ne discenderebbe, dunque, la coesistenza di regole di competenza per territorio diverse tra procedimenti di cognizione ordinari e procedimenti camerali, pur riguardando controversie attinenti alla medesima materia societaria, sottoposte all'uno o all'altro rito in base alla discrezionale valutazione del legislatore.
+    Aggiunge il giudice a quo che la disciplina introdotta dalla norma impugnata si porrebbe oltretutto in contrasto con la tendenza di fondo dell'ordinamento in materia di controversie con enti societari. Per le società non personificate vige, infatti, il principio secondo cui la competenza spetta al giudice del luogo in cui esse svolgono attività in modo continuativo (art. 19, secondo comma, del codice di procedura civile); nelle leggi speciali sull'insolvenza delle imprese collettive sarebbe «predominante il riferimento alla sede principale per radicare la competenza per territorio»; in sede comunitaria rappresenterebbe, infine, diritto vivente il prevalente rilievo attribuito, ai medesimi fini, al luogo in cui è situato il centro degli interessi principali della società, che solo si presume coincidente, salva la prova contraria, con la sede statutaria.
+    2.– È intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, secondo il quale la questione «sembra risolvibile in via interpretativa».
+    La parte pubblica, premesso che la Relazione illustrativa al decreto legislativo dimostra che il legislatore delegato era ben consapevole del divieto di modificazione dei criteri di competenza territoriale, osserva che il tenore della norma impugnata è sostanzialmente uguale a quello della disposizione codicistica relativa al foro generale delle persone giuridiche ed assume, pertanto, che la norma stessa possa e debba essere interpretata nel senso di ritenere competente anche il giudice del luogo ove la società ha la sede effettiva.Considerato in diritto1.– Il Tribunale di Agrigento dubita, in riferimento agli artt. 3 e 76 della Costituzione, della legittimità costituzionale dell'art. 25, comma 1, del decreto legislativo 17 gennaio 2003, n. 5 (Definizione dei procedimenti in materia di diritto societario e di intermediazione finanziaria, nonché in materia bancaria e creditizia, in attuazione dell'articolo 12 della legge 3 ottobre 2001, n. 366), secondo cui la competenza per territorio, nei procedimenti camerali relativi alle materie riguardate dal predetto decreto legislativo, spetta al giudice del luogo ove la società ha la sede legale.
+    Ad avviso del rimettente la norma – escludendo il criterio generale di  competenza che ha riguardo al luogo ove la società ha la sede effettiva – violerebbe il principio direttivo rappresentato dal divieto di introdurre modifiche alla competenza per materia o per territorio ed introdurrebbe una ingiustificata disparità di trattamento rispetto ai procedimenti ordinari di cognizione nella medesima materia societaria, per i quali rimarrebbe invece applicabile il suddetto criterio generale.
+    2.– La questione non è fondata.
+    2.1.– Va premesso che l'interpretazione da cui il rimettente muove – secondo la quale la norma impugnata esclude la competenza per territorio di giudici diversi da quello del luogo ove la società ha la propria sede legale – è sicuramente l'unica compatibile con il dato letterale, tenuto conto dell'espresso riferimento, da parte del legislatore delegato, alla «sede legale» della società e non genericamente alla sua «sede», secondo la terminologia utilizzata dall'art. 19 del codice di procedura civile.
+    Deve pertanto escludersi che la questione possa risolversi – così come prospetta la parte pubblica – in via interpretativa, mediante cioè una lettura della disposizione che sostanzialmente ne neghi la portata innovativa.
+    2.2.– Con riferimento al prospettato vizio di eccesso di delega, giova osservare che il principio direttivo contenuto nell'art. 12, comma 1, della legge 3 ottobre 2001, n. 366 (Delega al Governo per la riforma del diritto societario), costituito dal divieto di modifiche della competenza per territorio e per materia, trova la propria spiegazione e la propria ratio – come risulta con chiarezza dai lavori preparatori della legge – nel dibattito sviluppatosi, a livello politico, riguardo ad una possibile, radicale modifica delle regole di competenza, nel senso di attribuire i procedimenti in materia societaria alla competenza esclusiva di sezioni specializzate istituite  presso i tribunali delle città sede di corte di appello ovvero, secondo altra proposta, presso i tribunali delle città capoluogo di provincia.
+    Fu, infatti, con specifico riguardo all'esito di tale dibattito – essendo infine prevalsa la tesi contraria alla prospettata modifica – che il legislatore delegante introdusse, tra i principi della delega, il divieto di cui si tratta, al quale quindi non sarebbe ermeneuticamente corretto attribuire il significato di una previsione di assoluta e generalizzata intangibilità di tutte le regole di competenza precedentemente vigenti; ciò tanto più se si considera che, con specifico riguardo ai procedimenti camerali, il comma 2, lettera f), dello stesso art. 12 detta quale criterio direttivo prevalente quello della «rapidità» di tali procedimenti, nel rispetto dei principi del giusto processo.
+    2.3.– Alle osservazioni che precedono occorre, altresì, aggiungere, sempre al fine di escludere con certezza la violazione dell'art. 76 della Costituzione, l'assorbente rilievo che la norma impugnata non individua un diverso criterio di competenza per territorio, ma interviene sul criterio già utilizzato dall'art. 19 del codice di procedura civile, sostanzialmente precisandone il significato, nel senso che – ai fini del procedimento camerale – per sede della società deve intendersi soltanto la sede legale, con esclusione della cosiddetta sede effettiva.
+    La ratio di tale intervento si ricollega, con ogni evidenza, al richiamato criterio direttivo della rapidità del procedimento camerale, essendo ben noto come l'onere – gravante sull'attore – di dimostrare l'esistenza della sede effettiva della società nel luogo ove siede il giudice adito determini il più delle volte un incongruo appesantimento dell'istruttoria, con ovvio pregiudizio delle esigenze di celerità che sono viceversa alla base stessa del rito camerale.
+    2.4.– La sottolineata specificità del rito camerale determina, sotto altro aspetto, l'infondatezza della censura riferita all'art. 3 della Costituzione, non sussistendo tra il processo ordinario di cognizione ed il procedimento camerale la omogeneità necessaria a rendere comparabili le rispettive discipline ai fini dello scrutinio riferito al principio di eguaglianza.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara non fondata la questione di legittimità costituzionale dell'art. 25, comma 1, del decreto legislativo 17 gennaio 2003, n. 5 (Definizione dei procedimenti in materia di diritto societario e di intermediazione finanziaria, nonché in materia bancaria e creditizia, in attuazione dell'articolo 12 della legge 3 ottobre 2001, n. 366), sollevata, in riferimento agli artt. 3 e 76 della Costituzione, dal Tribunale di Agrigento con l'ordinanza in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 5 maggio 2005.
+F.to:
+Piero Alberto CAPOTOSTI, Presidente
+Annibale MARINI, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 10 maggio 2005.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
