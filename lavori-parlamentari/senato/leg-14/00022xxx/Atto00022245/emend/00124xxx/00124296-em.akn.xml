@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G28.87/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G28.87"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G28.87/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G28.87"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3223/A/G28.87/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3223" showAs="DDL 3223"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17617" showAs="Nocco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17602" showAs="Fasolino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17570" showAs="Cicolani"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17625" showAs="Ponzo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17585" showAs="Ioannucci"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17639" showAs="Scarabosio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3223</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G28.87</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Nocco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fasolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cicolani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Ponzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Ioannucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Scarabosio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato, in sede di esame del disegno di legge finanziaria per il 2005,</an:p>
+				<an:p align="justify">        impegna il Governo,</an:p>
+				<an:p align="justify">
+					            affinché la lettera 
+					<an:i>d)</an:i>
+					 del comma 27 della legge 24 novembre 2003, n. 326, sia sostituita dalla seguente:
+				</an:p>
+				<an:p align="justify">
+					            «
+					<an:i>d)</an:i>
+					 siano state realizzate, in assenza o in difformità del titolo abitativo edilizio, e non conformemente alle norme urbanistiche e alle prescrizloni degli strumenti urbanistici, su immobili soggetti a vincoli lmposti sulla base delle leggi statali e regionali a tutela degli interessi idrogeologici e delle falde acquifere, dei parchi e delle aree protette nazionali, regionali e provinciali, qualora istituiti prima della esecuzione di dette opere, nonchè su immobili individualmente vincolati, come quelli elencati alle lettere 
+					<an:i>a), b)</an:i>
+					 e 
+					<an:i>c)</an:i>
+					 dell'articolo 136 del decreto legislativo del 22 gennaio 2004, n. 42. Per gli altri immobili esistenti sulle aree o bellezze panoramiche di insieme soggette a vincolo generico di inedificabilità ai sensi dell'art. 32 della legge 28 febbraio 1985, n. 47, il rilascio del titolo abilitativo edilizio in sanatoria è subordinato al parere favorevoIe delle amministrazioni preposte alla tutela del vincolo stesso».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
