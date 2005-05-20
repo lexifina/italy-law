@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G38.73/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G38.73"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G38.73/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G38.73"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3223/A/G38.73/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3223" showAs="DDL 3223"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17593" showAs="Eufemi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17584" showAs="Iervolino"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1547" showAs="Meleleo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17569" showAs="Ciccanti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17609" showAs="Moncada"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17643" showAs="Sambin"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/16994" showAs="Danzi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3223</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G38.73</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Eufemi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Iervolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Meleleo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ciccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Moncada</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Sambin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Danzi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2005,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            dai dati macroeconomici risulta che alla formazione del PIL concorre una notevole componente di economia sommersa valutabile secondo i più accreditati osservatori intorno al 30-35 per cento del PIL nazionale;</an:p>
+				<an:p align="justify">        tenuto conto che:</an:p>
+				<an:p align="justify">            tale patologico fenomeno economico ha dirette conseguenze sulle entrate tributarie e contributive e che inoltre è da considerarsi non ultima delle cause del prosperare di ambienti malavitosi che possono efficacemente operare in un'economia così vasta che sfugge ad ogni controllo di regolarità formale e sostanziale;</an:p>
+				<an:p align="justify">            sinora tutti gli strumenti adoperati, compresi gli inutili proclami di lotta all'evasione aldilà delle buone intenzioni non hanno minimamente influito sul macroscopico negativo fenomeno;</an:p>
+				<an:p align="justify">        considerato che in una delle attività in cui da sempre sono presenti economie sommerse, quella delle ristrutturazioni edilizie più recentemente a seguito della introduzione della deduzione fiscale del 36 per cento sono stati rilevati aumenti dei volumi di affari e dei redditi dichiarati nel settore che hanno abbondantemente compensato gli ammontari delle detrazioni fiscali tenuto conto anche che queste ultime sono dilazionate in più anni,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a porre allo studio interventi che, facendo leva sugli opposti interessi fra cedente e cessionario o fra committente e prestatore di servizio, consentano una più concreta ed incisiva emersione di attività economiche sommerse. A tali fini il Governo vorrà esaminare le diverse forme di intervento che per essere più efficaci debbono tener conto che l'attuale detrazione fiscale limitata al 19 per cento dei compensi pagati, crea spesso le condizioni per atteggiamenti compromissori fra le parti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
