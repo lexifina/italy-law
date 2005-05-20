@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2518/A/3.0.101"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.101"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2518/A/3.0.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1435" showAs="Manieri"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1470" showAs="Marini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/4391" showAs="Crema"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/831" showAs="Del Turco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17592" showAs="Labellarte"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17565" showAs="Casillo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Manieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Marini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Crema</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Del Turco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Labellarte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Casillo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 3,</an:b>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 3-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Presso il Ministero dell'istruzione, dell'università e della ricerca è istituito un fondo di premialità, da ripartire tra le università italiane al fine di consentire la riqualificazione e l'innalzamento della qualità dei servizi offerti agli studenti.
+				</an:p>
+				<an:p align="justify">
+					        2. Il fondo, quantificato in 50 milioni di euro annui, verrà ripartito annualmente tra tutti gli atenei che concorreranno alle relative attribuzioni sulla base delle rispettive prestazioni, una quota pari al 60 per cento sarà destinata alle Università del Mezzogiorno, per l'adeguamento delle strutture e degli organici agli 
+					<an:i>standard</an:i>
+					 medi nazionali.
+				</an:p>
+				<an:p align="justify">        3. La ripartizione avverrà con decreto del Ministero dell'istruzione, dell'università e della ricerca e sarà determinato sulla base dei seguenti parametri:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 minor numero di studenti fuori corso;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 idonei servizi per gli studenti, primo fra tutti la residenzialità studentesca, attraverso la creazione di una rete politica di garanzia per il diritto allo studio;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>c)</an:i>
+					 atenei dotati di adeguate strutture nonchè di un congruo numero di ricercatori e di personale tecnico di laboratorio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
