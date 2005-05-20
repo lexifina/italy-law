@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2518/A/22.0.1"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2518/A/22.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3948" showAs="Nieddu"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1019" showAs="Forcieri"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/2321" showAs="Stanisci"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/12835" showAs="Manzella"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/415" showAs="Caddeo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Nieddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Forcieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Stanisci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Manzella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Caddeo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 22</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 22-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Personale esposto a contaminazione)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Al personale militare e civile che ha operato in zone a rischio di esposizione da uranio impoverito o da altre sostanze potenzialmente in grado di produrre malformazioni nell'eventuale prole, e ai loro partner durante il periodo di gravidanza, è consentito l'accesso, volontario e gratuito, ad analisi specifiche in grado di mettere in evidenza patologie che hanno effetti negativi sul processo riproduttivo, da effettuarsi a cura della sanità militare o anche attraverso specifiche convenzioni.
+				</an:p>
+				<an:p align="justify">        2. A tal fine sono stanziate, a partire dall'anno 2004, risorse pari a 700.000 euro.</an:p>
+				<an:p align="justify">        3. Ai nuovi maggiori oneri derivanti dall'applicazione del comma 1, si provvede mediante quota parte delle maggiori entrate derivanti dalla applicazione della seguente disposizione:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 a decorrere dalla data di entrata in vigore della presente legge le aliquote di base di cui all'articolo 5 della legge 7 marzo 1985, n. 76, per il calcolo dell'imposta di consumo dei tabacchi lavorati destinati alla vendita al pubblico nel territorio soggetto al monopolio, sono uniformemente incrementati del 6 per cento».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
