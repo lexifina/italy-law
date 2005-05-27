@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/18.0.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/18.0.17"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699/A/18.0.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.0.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@.akn"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699/A/18.0.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699" showAs="DDL 699"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2434" showAs="Turci"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/4391" showAs="Crema"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3888" showAs="Pasquini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.0.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Turci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Crema</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pasquini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 18</an:i>
+					<an:b>,</an:b>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					 «Art. 18-
+					<an:i>
+						bis
+						<an:b>.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Processo di liberalizzazione dei servizi di pubblico trasporto)</an:i>
+				</an:p>
+				<an:p align="justify">1. Il primo periodo del comma 4 dell'articolo 9 della legge 7 dicembre 1999, n. 472 è sostituito dal seguente: «Al fine di sostenere il processo di liberalizzazione dei servizi di pubblico trasporto, i contributi erariali a favore delle Regioni e degli Enti locali titolari di contratti di servizio sono incrementati di un ammontare pari al maggiore onere derivante dall'attuazione dell'articolo 19 del decreto legislativo 19 novembre 1997, n.  422«.</an:p>
+				<an:p align="justify"> 2. Il comma 5 dell'articolo 9 della legge 7 dicembre 1999, n. 472 è sostituito dal seguente:</an:p>
+				<an:p align="justify"> «5. All'onere derivante dal comma 4, valutato in lire 1.100 miliardi in regione d'anno a decorrere dal 1999 e comunque da rideterminare ogni anno in base all'onere effettivo sostenuto dalle Regioni di cui al medesimo comma 4, si provvede mediante utilizzo delle maggiori entrate derivanti dall'applicazione dell'articolo 19 del decreto legislativo 19 novembre 1997, n. 422«.</an:p>
+				<an:p align="justify">3. Gli oneri derivanti dal rinnovo del contratto degli autoferrotranvieri per gli anni 2002 e 2003, il cui onere complessivo per quanto riguarda gli effetti del primo biennio economico sono quantificati in 207 milioni di euro per l'anno 2002, in 212 milioni di euro per l'anno 2003 e in 217 milioni di euro per l'anno 2004, sono assunti a carico del bilancio dello Stato».</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, nella tabella C, alla voce:</an:i>
+					 Ministero dell'economia e delle finanze articolo 9-
+					<an:i>ter</an:i>
+					 - fondo di riserva per le autorizzazioni di spesa delle leggi permanenti di natura corrente (UPB 4.1.5.2 - altri fondi di riserva - cap. 3003), 
+					<an:i>apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 2002: -  207.000;
+				</an:p>
+				<an:p align="justify"> 2003: -  212.000;</an:p>
+				<an:p align="justify">2004: -  217.000.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
