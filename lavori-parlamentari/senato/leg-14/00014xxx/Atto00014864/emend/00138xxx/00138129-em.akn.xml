@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/384/A/G1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/384/A/G1"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/384/A/G1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/384/A/G1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/384/A/G1/ita@"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/384/A/G1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/384/A/G1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/384/A/G1/ita@.akn"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/384/A/G1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/384/A/G1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/384" showAs="DDL 384"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/" showAs="Il Relatore"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 384</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY">Il Relatore</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> in sede di discussione del disegno di legge n. 384,</an:p>
+				<an:p align="justify">invita il Governo,</an:p>
+				<an:p align="justify">
+					nel riassetto normativo dell'intero settore dei trasporti, a riconsiderare il fatto che i veicoli classificati mezzi d'opera ai sensi dell'articolo 54, comma 1, lettera n), del decreto legislativo 30 aprile 1992, n. 285, che trainano rimorchi adibiti al trasporto esclusivo di macchine operatrici con annotazioni sulla carta di circolazione, ai fini e per gli effetti dell'articolo 6, comma 22-
+					<an:i>bis</an:i>
+					, della legge 23 dicembre 1999, n. 488, introdotto dall'articolo 61, comma 1, della legge 21 novembre 2001, n. 342, sono equiparati agli autoveicoli che con annotazione sulla carta di circolazione trainano esclusivamente carrelli per il trasporto dei carri ferroviari e che ciò crea una notevole disparità.
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
