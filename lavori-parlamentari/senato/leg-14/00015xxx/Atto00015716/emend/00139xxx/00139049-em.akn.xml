@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/22.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/22.13"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699/A/22.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@.akn"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699/A/22.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699" showAs="DDL 699"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2569" showAs="Toia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1664" showAs="Muzio"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/4391" showAs="Crema"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Toia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Muzio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Crema</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire il capoverso b-</an:i>
+					bis) 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 «
+					<an:i>b-</an:i>
+					bis) a seguito dell'attuazione di quanto previsto dall'articolo 150, comma 1, del decreto legislativo 112 del 1998, il Ministero dei beni culturali, le regioni e gli enti locali possono concedere a soggetti privati l'intera gestione del servizio concernente la fruizione pubblica dei beni culturali unitamente all'attività di concorso al perseguimento delle finalità di valorizzazione di cui all'articolo 152, comma 3, del decreto legislativo 31 marzo 1998, n. 112, secondo modalità, criteri e garanzie definiti con regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400; con lo stesso regolamento sono fissati i meccanismi per la determinazione della durata della concessione per un periodo non inferiore a cinque anni e del canone complessivo da corrispondere agli enti concedenti per tutta la durata stabilita, comprensivo dell'uso dei beni culturali oggetto della concessione e da versare anticipatamente all'atto della stipulazione della relativa convenzione nella misura di almeno il 50 per cento; la stessa convenzione deve prevedere che all'atto della cessazione per qualsiasi causa della concessione i beni culturali conferiti in uso dagli enti concedenti ritornino nella disponibilità di questi ultimi».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
