@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58"/>
+					<an:FRBRdate date="2005-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="38.Tab.D.58"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@"/>
+					<an:FRBRdate date="2005-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@.akn"/>
+					<an:FRBRdate date="2005-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699/A/38.Tab.D.58/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699" showAs="DDL 699"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3951" showAs="Murineddu"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3846" showAs="Piatti"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/4339" showAs="Basso"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17628" showAs="Flammia"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17659" showAs="Vicini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17571" showAs="Coletti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/415" showAs="Caddeo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 38.Tab.D.58</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Murineddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Piatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Basso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Flammia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Vicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Coletti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Caddeo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Alla tabella D,</an:i>
+					 Ministero delle politiche agricole e forestali, legge n. 499 del 1999: Razionalizzazione degli interventi nei settori agricolo, agroalimentare, agroindustriale e forestale - Art. 4: Attività di competenza del Ministero delle politiche agricole e forestali (settore n. 21) (3.2.3.9 - Interventi nel settore agricolo e forestale - Cap. 7810), 
+					<an:i>apportare la seguente variazione:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 2002: +  15.494.
+				</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, alla medesima tabella D,</an:i>
+					 Ministero delle politiche agricole e forestali - legge n.  388 del 2000: Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - Legge finanziaria 2001 - Articolo 145, comma 36: Contributi per l'acquisto di macchine agricole (settore n. 21) (3.2.3.3 - Bonifica, miglioramento e sviluppo fondiario - Cap. 7476), 
+					<an:i>apportare la seguente variazione:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 2002: -  15.494.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
