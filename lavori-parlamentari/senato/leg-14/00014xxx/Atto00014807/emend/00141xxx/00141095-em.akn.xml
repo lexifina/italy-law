@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/373/A/1.213/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/373/A/1.213"/>
+					<an:FRBRdate date="2005-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/373/A/1.213/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.213"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@"/>
+					<an:FRBRdate date="2005-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@.akn"/>
+					<an:FRBRdate date="2005-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-06-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-06-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/373/A/1.213/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/373" showAs="DDL 373"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17545" showAs="Barelli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3914" showAs="Palombo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 373</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.213</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Barelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Palombo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 8, nella frase che inizia con:</an:i>
+					 «Con lo stesso decreto», 
+					<an:i>eliminare le parole:</an:i>
+					 «contributivi e».
+				</an:p>
+				<an:p align="justify">
+					<an:i>Al comma 8, aggiungere il seguente periodo:</an:i>
+					 «Il fondo di cui all'articolo 5 della legge 23 dicembre 2000, n.  388, garantisce altresì per gli anni pregressi, con prestazioni da definire in ragione delle risorse che vi affluiranno, una posizione previdenziale al lavoratore che aderisce ai programmi di emersione. Ai fini della maturazione del diritto alle prestazioni previdenziali, detta posizione previdenziale sarà utile solo se integrata da un'ulteriore contribuzione, connessa all'effettiva prestazione lavorativa svolta al termine del programma di emersione per almeno 5 anni o comunque per il periodo necessario al raggiungimento dell'età pensionabile di vecchiaia. La posizione previdenziale è finanziata con quota parte della contribuzione dell'8 per cento e del 4 per cento di cui al comma 3 a carico dei datori di lavoro e con quota parte della contribuzione sostitutiva dell'IRPEF di cui al comma 4 a carico del lavoratore. I lavoratori possono integrare la loro posizione pensionistica mediante contribuzione volontaria per gli anni pregressi oggetto del periodo di emersione».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
