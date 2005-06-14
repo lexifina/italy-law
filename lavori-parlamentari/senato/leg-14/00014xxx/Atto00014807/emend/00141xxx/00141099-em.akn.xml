@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/373/A/G2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/373/A/G2"/>
+					<an:FRBRdate date="2005-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/373/A/G2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/373/A/G2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/373/A/G2/ita@"/>
+					<an:FRBRdate date="2005-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/373/A/G2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/373/A/G2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/373/A/G2/ita@.akn"/>
+					<an:FRBRdate date="2005-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/373/A/G2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-06-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-06-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/373/A/G2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/373" showAs="DDL 373"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17593" showAs="Eufemi"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/17637" showAs="Salerno"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/703" showAs="Costa"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/17561" showAs="Gentile"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/820" showAs="Degennaro"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/3912" showAs="Bonatesta"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/17562" showAs="Cantoni"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/17563" showAs="Girfatti"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/17601" showAs="Manunza"/>
+				<an:TLCPerson id="EOC" href="http://dati.senato.it/senatore/3938" showAs="Cirami"/>
+				<an:TLCPerson id="ETC" href="http://dati.senato.it/senatore/1813" showAs="Pedrizzi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 373</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Eufemi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Salerno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Costa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Gentile</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Degennaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Bonatesta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Cantoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Girfatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Manunza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#" as="#tipoSenatore"/>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EOC" as="#tipoSenatore">Cirami</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ETC" as="#tipoSenatore">Pedrizzi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato,</an:p>
+				<an:p align="justify"> considerata l'esigenza di assicurare al Paese validi strumenti normativi per consentire un rapido ed efficace rilancio dell'economia, che consenta di portare a termine l'opera di risanamento dei conti pubblici, di mantenere gli standards di bilancio imposti. dai vincoli europei e, allo stesso tempo, di avviare su basi di più sicura solidità tutto il sistema produttivo. nazionale;</an:p>
+				<an:p align="justify"> rilevato che in questo concorso di interventi un obiettivo essenziale è rappresentato dal necessario coinvolgimento di tutti i settori produttivi, potendo solo in questo modo modulare in maniera equilibrata gli sforzi negli ambiti più innovativi con quanto invece richiesto dai settori economicamente più tradizionali, e quindi essenziali per garantire la solidità di un sistema produttivo diffuso tra numerosissimi operatori e addetti;</an:p>
+				<an:p align="justify">ritenuto che il mondo agricolo, nelle sue svariate forme di presenza nel tessuto produttivo del Paese, svolge un ruolo essenziale sia sul piano squisitamente economico, sia per l'importanza strategica che assolve anche dal punto di vista socio-economico, involgendo rilievi e conseguenze di particolare complessità, coerentemente con quanto sopra evidenziato circa l'insopprimibile importanza nel quadro economico complessivo;</an:p>
+				<an:p align="justify">considerato che gli interventi normativi con i quali il Governo intende rilanciare l'economia devono assicurare strumenti di adeguata efficienza anche per il settore agricolo, colpito di recente dagli effetti di una pesante crisi nel campo dell'allevamento (per l'emergenza B.S.E.) e allo stesso tempo tenuto a confrontarsi con le più innovative esigenze di rivoluzione di tecniche e processi produttivi tradizionali, per l'irrompere di innovazioni tecnologiche radicali</an:p>
+				<an:p align="justify"> impegna il Governo</an:p>
+				<an:p align="justify">ad adottare ogni iniziativa per assicurare adeguato sostegno ai produttori e lavoratori agricoli attraverso la previsione di specifiche misure di incentivazione dell'attività agricola, omogenee a quanto assicurato agli altri settori produttivi ma che, al fine di colmare il divario rispetto ad altri settori produttivi del sistema economico e per sostenere lo sviluppo della competizione internazionale anche su questo fronte, consentano di utilizzare tutto il ventaglio di opportunità consentite dalle disponibilità finanziarie e dall'esigenza di compatibilità comunitaria e internazionale al cui rispetto il nostro Paese è tenuto in forza degli impegni assunti.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
