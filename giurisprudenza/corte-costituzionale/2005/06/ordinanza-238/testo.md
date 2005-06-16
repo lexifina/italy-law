@@ -1,0 +1,57 @@
+# Corte costituzionale, ordinanza 238/2005
+
+- ECLI: ECLI:IT:COST:2005:238
+- Tipo: ordinanza
+- Presidente: CAPOTOSTI
+- Relatore: Alfonso Quaranta
+- Redattore: Alfonso Quaranta
+- Data della decisione: 08/06/2005
+- Data del deposito: 16/06/2005
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 29467
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2005:238
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Piero Alberto CAPOTOSTI; Giudici: Fernanda CONTRI, Guido NEPPI MODONA, Annibale MARINI, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 126-bis del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), disposizione aggiunta dall'art. 7, comma 1, del decreto legislativo 15 gennaio 2002, n. 9 (Disposizioni integrative e correttive del nuovo codice della strada, a norma dell'articolo 1, comma 1, della legge 22 marzo 2001, n. 85), come modificato dall'art. 7, comma 3, lettera b), del decreto-legge 27 giugno 2003, n. 151 (Modifiche ed integrazioni al codice della strada), convertito, con modificazioni, nella legge 1° agosto 2003, n. 214 e degli artt. 201, comma 1-bis, lettera e), e 204-bis, comma 8, del medesimo d.lgs. n. 285 del 1992, introdotti, rispettivamente, dai commi 1 e 1-septies dell'art. 4 del già menzionato decreto-legge 27 giugno 2003, n. 151, convertito, con modificazioni, nella legge 1° agosto 2003, n. 214, promosso con ordinanza del 1° maggio 2004 del Giudice di pace di Ficarolo nel procedimento civile vertente tra Beduschi Alberto e il Sindaco del Comune di Castelmassa, iscritta al n. 706 del registro ordinanze 2004 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 36, prima serie speciale, dell'anno 2004.
+    Udito nella camera di consiglio del 6 aprile 2005 il Giudice relatore Alfonso Quaranta.
+    Ritenuto che il Giudice di pace di Ficarolo ha sollevato (o meglio, “ribadito”, giacché il rimettente informa questa Corte di aver già assunto analoga iniziativa – sempre ai sensi degli artt. 3 e 24 Cost. – con l'ordinanza r.o. n. 465 del 2004) questione di legittimità costituzionale dell'art. 126-bis del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), norma introdotta dall'art. 7, comma 1, del decreto legislativo 15 gennaio 2002, n. 9 (Disposizioni integrative e correttive del nuovo codice della strada, a norma dell'articolo 1, comma 1, della legge 22 marzo 2001, n. 85), nel testo risultante all'esito della modifica apportata dall'art. 7, comma 3, lettera b), del decreto-legge 27 giugno 2003, n. 151 (Modifiche ed integrazioni al codice della strada), convertito, con modificazioni, nella legge 1° agosto 2003, n. 214;
+    che il medesimo rimettente, inoltre, ha sollevato questione di legittimità costituzionale – per contrasto con l'art. 24 Cost. – «dell'art. 201-bis, lettera e)» (recte: art. 201, comma 1-bis, lettera e) del medesimo d.lgs. n. 285 del 1992, comma introdotto dall'art. 4, comma 1, del già menzionato d.l. n. 151 del 2003, convertito, con modificazioni, nella legge n. 214 del 2003;
+    che il predetto giudice a quo – deducendo la violazione degli artt. 24 e 113 Cost. – censura, infine, anche l'art. 204-bis, comma 8, del summenzionato d.lgs. n. 285 del 1992, introdotto dall'art. 4, comma 1-septies, del d.l. n. 151 del 2003, convertito, con modificazioni, nella legge n. 214 del 2003;
+    che il rimettente – nel premettere di essere chiamato a giudicare del ricorso proposto per l'annullamento di verbale relativo ad infrazione stradale «rilevata da un'apparecchiatura “Velomatic 512”», (infrazione non oggetto di contestazione immediata da parte degli agenti accertatori) – preliminarmente evidenzia di aver già sollevato questione di legittimità costituzionale dell'art. 126-bis del codice della strada, così “ribadendo” la censura formulata avverso tale disposizione;
+    che il giudice a quo, inoltre, evidenzia che a norma dell'art. 201, comma 1-bis, lettera e), del codice della strada la contestazione immediata dell'infrazione stradale deve ritenersi non necessaria, «allorché gli agenti accertatori facciano uso di uno strumento di rilevazione della velocità del tipo usato nel caso in esame»;
+    che siffatta previsione normativa, però, contravverrebbe – a suo dire – al principio affermato dalla giurisprudenza di legittimità, secondo cui la contestazione immediata, «prima ancora che necessaria», si porrebbe addirittura come «doverosa», atteso che «l'omessa contestazione è causa di soppressione di un diritto a rilasciare dichiarazioni difensive da far inserire nel verbale» con il quale è stata accertata l'avvenuta infrazione;
+    che la menomazione di tale diritto sarebbe, inoltre, vieppiù pregiudizievole dopo l'entrata in vigore della c.d. “patente a punti”, giacché la contestazione immediata costituirebbe «l'unico modo per accertare chi sia l'effettivo autore dell'illecito e per procedere conseguentemente alla detrazione di punti dalla (…) patente di guida», nonché all'applicazione, come nel caso di specie, delle «altre sanzioni accessorie, quali la sospensione della patente»;
+    che secondo il rimettente, pertanto, il sistema derivante dai «due citati articoli» del codice della strada – 126-bis e 201, comma 1-bis, lettera e) – sarebbe «tale che, in pratica, il diritto garantito dall'art. 24» Cost. «risulta irrimediabilmente compromesso»;
+    che a suo avviso, quindi, entrambe le norme in questione violerebbero «l'art. 24 Cost. per i motivi, diversi, suesposti»;
+    che secondo il rimettente, inoltre, «qualora la causa possa essere decisa confermando la legittimità del verbale di contravvenzione opposto, nessuna decisione potrebbe essere presa circa la sanzione accessoria della sottrazione dei punti dalla patente di guida», e ciò giusto il disposto dell'art. 204-bis, comma 8, del codice della strada;
+    che, tuttavia, tale disposizione – poiché, nell'ipotesi di reiezione del ricorso giurisdizionale proposto contro il verbale di contestazione dell'infrazione stradale, «non indica quale altro giudice possa decidere sulla legittimità delle sanzioni accessorie o sulla decurtazione della patente di guida» – parrebbe violare l'art. 24 e «soprattutto» l'art. 113 Cost., di fatto escludendo il ricorso giurisdizionale avverso un provvedimento della pubblica amministrazione;
+    che integrando, difatti, la decurtazione del punteggio dalla patente «una sanzione afflittiva di carattere personale», la mancata possibilità di impugnarla avrebbe come conseguenza che «non sarebbe assicurata al cittadino la tutela giurisdizionale di cui all'art. 113» Cost.;
+    che su tali basi, quindi, il rimettente – oltre a ribadire «la già sollevata» questione di legittimità costituzionale dell'art. 126-bis del codice della strada, per contrasto con gli articoli 3 e 24 Cost. – ha sollevato le ulteriori questioni di legittimità costituzionale sopra meglio illustrate;
+    che il giudice a quo ha, quindi, chiesto la declaratoria di illegittimità anche dell'art. 201, comma 1-bis, lettera e), del codice della strada, «nella parte in cui prevede che la contestazione immediata non sia necessaria qualora l'accertamento della violazione avvenga per mezzo di appositi apparecchi di rilevamento direttamente gestiti dagli organi di Polizia stradale e nella loro disponibilità», nonché dell'art. 204-bis, comma 8, del medesimo codice, «nella parte in cui prevede che, in caso di rigetto del ricorso, il giudice di pace non possa escludere l'applicazione delle sanzioni accessorie o la decurtazione dei punti dalla patente, senza peraltro indicare quale altra autorità giudiziaria sia competente».
+    Considerato che il Giudice di pace di Ficarolo ha sollevato questione di legittimità costituzionale – adducendo la violazione degli artt. 3 e 24 Cost. – dell'art. 126-bis del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), introdotto dall'art. 7, comma 1, del decreto legislativo 15 gennaio 2002, n. 9 (Disposizioni integrative e correttive del nuovo codice della strada, a norma dell'articolo 1, comma 1, della legge 22 marzo 2001, n. 85), nel testo risultante all'esito della modifica apportata dall'art. 7, comma 3, lettera b), del decreto-legge 27 giugno 2003, n. 151 (Modifiche ed integrazioni al codice della strada), convertito, con modificazioni, nella legge 1° agosto 2003, n. 214;
+    che il medesimo rimettente ha impugnato altresì – deducendo, nel primo caso, la violazione del solo art. 24 Cost., nonché, nel secondo, anche dell'art. 113 Cost. – l'art. «201-bis, lettera e)» (recte: art. 201, comma 1-bis, lettera e) e l'art. 204-bis, comma 8, del medesimo d.lgs. n. 285 del 1992 (disposizione introdotte, rispettivamente, dai commi 1 e 1-septies dell'art. 4 del più volte citato d.l. n. 151 del 2003, convertito, con modificazioni, nella legge n. 214 del 2003);
+    che, peraltro, l'iniziativa del rimettente si indirizza, tra le altre, avverso una norma (il predetto art. 126-bis del codice della strada) fatta oggetto, medio tempore, di parziale declaratoria di illegittimità costituzionale (sentenza n. 27 del 2005);
+    che in relazione a tale articolo di legge, difatti, deve darsi atto come questa Corte abbia già affermato che esso «dà vita ad una sanzione assolutamente sui generis», giacché quest'ultima, «pur essendo di natura personale» non appare riconducibile «ad un contegno direttamente posto in essere dal proprietario del veicolo e consistente nella trasgressione di una specifica norma relativa alla circolazione stradale»;
+    che su tali basi questa Corte ha, quindi, concluso per la declaratoria d'incostituzionalità della norma suddetta, giacché «proprio la peculiare natura della sanzione prevista dall'art. 126-bis» (e segnatamente la sua incidenza sulla «legittimazione soggettiva alla conduzione di ogni veicolo»), «fa emergere l'irragionevolezza della scelta legislativa di porre la stessa a carico del proprietario del veicolo che non sia anche il responsabile dell'infrazione stradale» (sentenza n. 27 del 2005);
+    che, dunque, alla stregua di tale sopravvenuta decisione vanno restituiti gli atti al Giudice di pace di Ficarolo, anche in ragione dello stretto collegamento che il medesimo pare ravvisare tra l'art. 126-bis e almeno una delle due altre disposizioni impugnate, e segnatamente l'art. 201, comma 1-bis, lettera e), del medesimo codice della strada, se è vero che – secondo la prospettazione del rimettente – è il complessivo sistema derivante dai «due citati articoli» a rivelarsi «tale che, in pratica, il diritto garantito dall'art. 24» della Costituzione «risulta irrimediabilmente compromesso».
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    ordina la restituzione degli atti al Giudice di pace di Ficarolo.
+Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, l'8  giugno 2005.
+F.to:
+Piero Alberto CAPOTOSTI, Presidente
+Alfonso QUARANTA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 16 giugno 2005.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
