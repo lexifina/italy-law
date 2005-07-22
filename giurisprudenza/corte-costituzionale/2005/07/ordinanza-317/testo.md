@@ -1,0 +1,54 @@
+# Corte costituzionale, ordinanza 317/2005
+
+- ECLI: ECLI:IT:COST:2005:317
+- Tipo: ordinanza
+- Presidente: CAPOTOSTI
+- Relatore: Paolo Maddalena
+- Redattore: Paolo Maddalena
+- Data della decisione: 07/07/2005
+- Data del deposito: 22/07/2005
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 29688, 29689
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2005:317
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai Signori: Presidente: Piero Alberto CAPOTOSTI; Giudici: Fernanda CONTRI, Guido NEPPI MODONA, Annibale MARINI, Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnei giudizi di legittimità costituzionale del combinato disposto degli articoli 22, comma 3, della legge 13 febbraio 2001, n. 48 (Aumento del ruolo organico e disciplina dell'accesso in magistratura) e 123-bis del regio decreto 30 gennaio 1941, n. 12 (Ordinamento giudiziario), promossi con cinquantatre ordinanze del 30 luglio (undici ordinanze), del 16 (quindici ordinanze) e del 20 settembre (dodici ordinanze), del 4 (quattordici ordinanze) e del 7 ottobre 2004 (una ordinanza) dal Tribunale amministrativo regionale del Lazio, rispettivamente iscritte dal n. 1052 al n. 1079 del registro ordinanze 2004 e dal n. 104 al n. 128 del registro ordinanze 2005 e pubblicate nella Gazzetta Ufficiale della Repubblica n. 4, n. 10 e n. 11, prima serie speciale, dell'anno 2005.
+    Visti gli atti di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 6 luglio 2005 il Giudice relatore Paolo Maddalena.
+    Ritenuto che nel corso di altrettanti giudizi promossi da laureati in giurisprudenza in possesso del titolo di avvocato nei confronti del Ministero della giustizia per l'annullamento del decreto ministeriale 28 febbraio 2004 e del decreto ministeriale 23 marzo 2004, di indizione di due concorsi per uditore giudiziario, il Tribunale amministrativo regionale del Lazio, con cinquantatre ordinanze, di analogo tenore, del 30 luglio (reg. ord. nn. 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061 e 1062 del 2004), del 16 settembre (reg. ord. nn. 1063, 1064, 1065, 1066, 1067, 1068 e 1069 del 2004, e nn. 104, 105, 106, 107, 108, 109, 110 e 111 del 2005), del 20 settembre (reg. ord. nn. 1070, 1071, 1072, 1073, 1074, 1075 e 1076 del 2004, e nn. 112, 113, 114, 115 e 116 del 2005), del 4 ottobre (reg. ord. nn. 1077, 1078 e 1079 del 2004, e nn. 117, 118, 119, 120, 121, 122, 123, 124, 125, 126 e 127 del 2005) e del 7 ottobre 2004 (reg. ord. n. 128 del 2005), ha sollevato, in riferimento agli articoli 3 e 51 della Costituzione, questione di legittimità costituzionale del combinato disposto degli articoli 22, comma 3, della legge 13 febbraio 2001, n. 48 (Aumento del ruolo organico e disciplina dell'accesso in magistratura) e 123-bis del regio decreto 30 gennaio 1941, n. 12 (Ordinamento giudiziario), nella parte in cui non prevede l'esonero dalla prova preliminare e l'ammissione diretta alle prove scritte dei concorsi a uditore giudiziario, previsti dall'art. 18 della medesima legge n. 48 del 2001, dei candidati in possesso dell'abilitazione all'esercizio della professione di avvocato;
+    che le norme denunciate dettano una disciplina transitoria del concorso per uditore giudiziario, prevedendo in particolare che il concorso è preceduto da una prova preliminare (diretta ad accertare il possesso di requisiti culturali, e realizzata con l'ausilio di sistemi informatizzati), dalla quale sono esonerati quattro categorie di soggetti, ammessi direttamente alle prove scritte del concorso: i magistrati militari, amministrativi e contabili; i procuratori e gli avvocati dello Stato; coloro che hanno conseguito l'idoneità in uno degli ultimi tre concorsi espletati in precedenza; coloro che hanno conseguito il diploma di specializzazione per le professioni legali, benché iscritti al corso di laurea in giurisprudenza prima dell'anno accademico 1998/1999;
+    che il giudice a quo denuncia il combinato disposto degli articoli 22, comma 3, della legge n. 48 del 2001 e 123-bis del regio decreto n. 12 del 1941 nella parte in cui non include, tra i candidati esonerati dalla prova preliminare e ammessi direttamente alle prove scritte del concorso per uditore giudiziario, coloro che hanno conseguito l'abilitazione all'esercizio della professione di avvocato;
+    che, ad avviso del TAR remittente, sarebbe irragionevole, e creerebbe un vulnus al principio costituzionale dell'accesso ai pubblici uffici in condizioni di eguaglianza, il fatto che l'avvocato, il quale può svolgere le funzioni di docente nelle scuole di specializzazione, non possa invece essere direttamente ammesso al concorso per uditore giudiziario al pari dei suoi allievi che hanno conseguito il diploma di specializzazione;
+    che sarebbe del pari irragionevole che avvocati con otto, cinque o sei anni di anzianità di iscrizione all'albo professionale – i quali sono ammessi a concorsi di secondo grado per l'accesso alla magistratura amministrativa e contabile e all'avvocatura dello Stato, essendo a tal fine equiparati ai magistrati ordinari con qualifica di magistrato di tribunale – debbano invece sottoporsi, per essere ammessi al concorso (di primo grado) per uditore giudiziario, ad una prova preliminare da cui sono invece esonerati magistrati amministrativi, contabili e procuratori e avvocati dello Stato, oltre ai diplomati nelle scuole di specializzazione per le professioni legali;
+    che, secondo il TAR del Lazio, il legislatore non sarebbe riuscito ad operare un efficace e giusto contemperamento tra l'esigenza di snellimento del concorso e quella di attribuire ragionevole rilevanza, ai fini dell'ammissione diretta alle prove scritte, a particolari titoli o condizioni: là dove l'omessa considerazione della situazione dei soggetti abilitati all'esercizio della professione di avvocato, in particolare, sarebbe irrazionale e tale da determinare, per un verso, una ingiustificata disparità di trattamento, in violazione dell'art. 3 della Costituzione, rispetto agli appartenenti alle categorie beneficiarie dell'esonero, e da creare, per l'altro verso, un contrasto con l'art. 51 della Costituzione;
+    che in alcuni dei giudizi è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, che ha concluso per la restituzione degli atti al TAR remittente sul rilievo che, in materia, è intervenuta la disciplina di cui al decreto-legge 7 settembre 2004, n. 234 (Disposizioni urgenti in materia di accesso al concorso per uditore giudiziario), convertito, con modificazioni, nella legge 5 novembre 2004, n. 262: tale decreto, nel modificare l'art. 22 della legge n. 48 del 2001, inserendovi un comma 3-bis, ha esteso l'esonero dalla prova preliminare a chi ha conseguito l'abilitazione all'esercizio della professione forense.
+    Considerato che i giudizi debbono essere riuniti, avendo tutti ad oggetto la medesima questione, relativa all'ambito dell'esonero dalla prova preliminare di cui all'art. 123-bis dell'ordinamento giudiziario nella disciplina transitoria del concorso per uditore giudiziario dettata dall'art. 22, comma 3, della legge n. 48 del 2001, denunciandosi la mancata inclusione, tra i beneficiari dell'esonero, dei candidati in possesso dell'abilitazione all'esercizio della professione di avvocato;
+    che occorre preliminarmente osservare che il decreto-legge 7 settembre 2004, n. 234, convertito, con modificazioni, nella legge 5 novembre 2004, n. 262, ha modificato il denunciato art. 22 della legge n. 48 del 2001, inserendovi un comma 3-bis;
+    che in virtù di tale disciplina – applicabile, per espressa previsione, anche ai concorsi per uditore giudiziario già banditi – tra i candidati esonerati dalla prova preliminare di cui all'art. 123-bis dell'ordinamento giudiziario sono altresì inclusi, tra gli altri, coloro che, laureatisi in giurisprudenza a seguito di un corso universitario di durata non inferiore a quattro anni, hanno conseguito l'abilitazione all'esercizio della professione forense;
+    che la modifica della norma denunciata è intervenuta successivamente alle ordinanze di remissione del 30 luglio 2004 (reg. ord. nn. 1052, 1053, 1054, 1055, 1056, 1057, 1058, 1059, 1060, 1061 e 1062 del 2004);
+    che, conseguentemente, con riferimento ai giudizi promossi con le suddette ordinanze, gli atti devono essere restituiti al giudice remittente per una nuova valutazione della rilevanza delle questioni da esso sollevate (cfr. ordinanza n. 157 del 2005);
+    che, viceversa, le questioni sollevate con le altre ordinanze (del 16 settembre, del 20 settembre, del 4 ottobre e del 7 ottobre 2004) devono essere dichiarate manifestamente inammissibili, dato che il TAR remittente non ha tenuto conto della modifica della norma impugnata, già contenuta nel testo originario del decreto-legge 7 settembre 2004, n. 234 (pubblicato nella Gazzetta Ufficiale n. 211, serie generale, dell'8 settembre 2004) ed entrata in vigore prima della data di deposito delle ordinanze di rinvio (cfr. ordinanza n. 79 del 2004).
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    riuniti i giudizi,
+    ordina la restituzione degli atti al Tribunale amministrativo regionale del Lazio con riguardo alle questioni da esso sollevate con le ordinanze, indicate in epigrafe, del 30 luglio 2004;
+    dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale del combinato disposto degli articoli 22, comma 3, della legge 13 febbraio 2001, n. 48 (Aumento del ruolo organico e disciplina dell'accesso in magistratura) e 123-bis del regio decreto 30 gennaio 1941, n. 12 (Ordinamento giudiziario) sollevate, in riferimento agli articoli 3 e 51 della Costituzione, dal Tribunale amministrativo regionale del Lazio con le ordinanze, di cui in epigrafe, emesse il 16 settembre, il 20 settembre, il 4 ottobre e il 7 ottobre 2004.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 7 luglio 2005.
+F.to:
+Piero Alberto CAPOTOSTI, Presidente
+Paolo MADDALENA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 22 luglio 2005.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
