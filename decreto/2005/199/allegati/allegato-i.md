@@ -1,0 +1,5 @@
+Allegato I
+
+(art. 1, comma 1, lettera c), punto 7)
+
+Parte di provvedimento in formato grafico
