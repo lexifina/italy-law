@@ -1,9 +1,3 @@
 Art. 1469-quater.
 
-(Forma e interpretazione).
-
-Nel caso di contratti di cui tutte le clausole o talune clausole siano proposte al consumatore per iscritto, tali clausole devono sempre essere redatte in modo chiaro e comprensibile.
-
-In caso di dubbio sul senso di una clausola, prevale l'interpretazione piu' favorevole al consumatore.
-
-((La disposizione di cui al secondo comma non si applica nei casi di cui all'articolo 1469-sexies)).
+((Il D.Lgs. 6 settembre 2005, n. 206 ha disposto (con l'art. 142, comma 1) che il presente articolo e' sostituito dall'attuale art. 1469-bis del regio decreto 16 marzo 1942, n. 262)).
