@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3614/A/G5.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3614/A/G5.1"/>
+					<an:FRBRdate date="2005-11-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3614/A/G5.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@"/>
+					<an:FRBRdate date="2005-11-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@.akn"/>
+					<an:FRBRdate date="2005-11-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-11-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-11-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3614/A/G5.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3614" showAs="DDL 3614"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3905" showAs="Calvi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/116" showAs="Ayala"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/392" showAs="Brutti"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3834" showAs="Fassone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3614</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Calvi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ayala</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Brutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fassone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> «Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame dello stato di previsione del Ministero della giustizia per l'anno finanziario 2006,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            gli stanziamenti del Ministero della giustizia per l'anno finanziario 2006 subiscono, per il secondo anno consecutivo, un decremento dell'1,3 per cento sull'esercizio precedente dopo che dal 1995 al 2004 vi era stato un incremento, particolarmente rilevante negli anni '90;</an:p>
+				<an:p align="justify">            le somme stanziate per il capitolo relativo alle spese di giustizia vengono ridotte per il quinto anno consecutivo, con grave rischio per la funzionalità del sistema giudiziario;</an:p>
+				<an:p align="justify">            tra le voci di spesa ricomprese nel capitolo 1360 figurano le indennità e le trasferte riconosciute ai funzionari e vice pretori, vice procuratori onorari, giudici popolari, periti, testimoni, custodi, ufficiali ed agenti addetti alle sezioni di polizia giudiziaria, che sono invariate da anni, tanto da aver ormai raggiunto un valore meramente simbolico;</an:p>
+				<an:p align="justify">            all'interno della medesima unità previsionale di base 2.1.2.1, al capitolo 1360, sono comprese voci - quali quella relativa all'ammissione al gratuito patrocinio, quella relativa all'accertamento dei reati e dei colpevoli - che, ove non adeguatamente finanziate, rendono vano il principio di obbligatorietà dell'azione penale, stravolgendo in maniera del tutto illegittima l'ordinamento costituzionale italiano e violando i principi del giusto processo e del diritto alla difesa costituzionalmente sanciti dagli articoli 24 e 111 della Costituzione,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad incrementare l'unità previsionale di base 2.1.2.1, ed in particolare il capitolo 1360 relativo alle spese di giustizia, prevedendo contemporaneamente il recupero delle somme stanziate dai fondi attribuiti al Gabinetto del Ministro e agli uffici alle sue dirette dipendenze».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
