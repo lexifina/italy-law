@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/16.0.29"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.0.29"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@.akn"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3613/A/16.0.29/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3613" showAs="DDL 3613"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1635" showAs="Monticone"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17657" showAs="Vallone"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4321" showAs="Acciarini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1641" showAs="Morando"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3613</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.0.29</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Monticone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Vallone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Acciarini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Morando</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					articolo 16, 
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 16-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Integrazioni e modifiche alla legge 9 ottobre 2000, n. 285, recante: Interventi per i Giochi olimpici invernali ''Torino 2006'')</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. All'articolo 10 della legge n. 285 del 2000, dopo il comma 3 è aggiunto il seguente:
+				</an:p>
+				<an:p align="justify">
+					        ''3-
+					<an:i>bis</an:i>
+					. Per supportare l'attività necessaria ad assicurare alle infrastrutture, finanziate dalla presente legge e dall'articolo 21 della legge n. 166 del 2002, l'utilizzo successivo allo svolgimento dei Giochi Olimpici, è autorizzata la spesa di euro 15 milioni per l'anno 2006 e di euro 15 milioni per l'anno 2007, in favore della Regione Piemonte.
+				</an:p>
+				<an:p align="justify">
+					        A tal fine la regione Piemonte, nelle more della costituzione di specifico organismo a prevalente partecipazione pubblica, individua le infrastrutture oggetto del cofinanziamento, anche a seguito dell'intesa da parte del Comitato di regia in ordine alla destinazione finale dei beni di cui al comma 1-
+					<an:i>bis</an:i>
+					 dell'articolo 13, finalizzata all'individuazione del destinatario finale.
+				</an:p>
+				<an:p align="justify">        Per le finalità del presente comma, la Regione Piemonte è altresì autorizzata a disporre delle eventuali somme derivanti da economie di spesa realizzate a seguito dell'utilizzo degli stanziamenti della presente legge e dell'articolo 21 della legge n. 166 del 2002».</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente all'articolo 67, comma 2, tabella C, ridurre proporzionalmente gli importi relativi a tutte le rubriche, fino a concorrenza degli oneri, entro il limite dell'1 per cento.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
