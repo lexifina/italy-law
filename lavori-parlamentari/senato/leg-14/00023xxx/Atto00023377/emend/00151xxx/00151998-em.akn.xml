@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/G52.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/G52.1"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3613/A/G52.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G52.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@.akn"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3613/A/G52.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3613" showAs="DDL 3613"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1908" showAs="Pizzinato"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3880" showAs="Viviani"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3849" showAs="Piloni"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3851" showAs="Maconi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17634" showAs="Rotondo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/4339" showAs="Basso"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3613</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G52.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pizzinato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Viviani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Piloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Maconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Rotondo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Basso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2006,</an:p>
+				<an:p align="justify">        rilevato che:</an:p>
+				<an:p align="justify">
+					            dal 1989 gli 
+					<an:i>ex</an:i>
+					 minatori del Belgio che percepivano la pensione di invalidità sono stati assoggettati al pagamento dell'imposta sul reddito delle persone fisiche (IRPEF) in Italia;
+				</an:p>
+				<an:p align="justify">            con risoluzione del Dipartimento delle entrate n. 39/ENII/14/381 del 3 marzo 1997 veniva sancita l'equiparazione delle pensioni di invalidità da parte di Stati esteri, nel caso del Belgio, alle rendite INAIL, con la conseguenza che le stesse non potevano essere considerati redditi imponibili;</an:p>
+				<an:p align="justify">            che da tale data i percettori di tali pensioni non hanno più pagato l'IRPEF;</an:p>
+				<an:p align="justify">            per gli anni pregressi, coloro che non avevano provveduto a pagare hanno ricevuto lo sgravio da parte dell'erario mentre i pensionati che avevano effettuato i pagamenti dell'IRPEF non hanno ottenuto il rimborso per tutti gli anni sul presupposto che il loro diritto si sarebbe prescritto;</an:p>
+				<an:p align="justify">            tale situazione ha determinato una grave sperequazione tra coloro che hanno pagato in buona fede e quelli che si erano rifiutati di effettuare i versamenti,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad emanare direttive all'Agenzia delle entrate affinché provveda a disporre i rimborsi delle somme pagate a titolo di IRPEF dai pensionati suddetti, indebitamente percepite senza eccepire la prescrizione e ciò ai sensi dell'articolo 2, comma 58, della legge 24 dicembre 2003, n. 350».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
