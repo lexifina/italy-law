@@ -2,13 +2,13 @@ Art. 416-bis.
 
 Associazione di tipo mafioso.
 
-Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione da tre a sei anni.
+Chiunque fa parte di un'associazione di tipo mafioso formata da tre o piu' persone, e' punito con la reclusione ((da cinque a dieci anni)).
 
-Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da quattro a nove anni.
+Coloro che promuovono, dirigono o organizzano l'associazione sono puniti, per cio' solo, con la reclusione da ((sette)) a ((dodici)) anni.
 
-L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri ((ovvero al fine di impedire od ostacolare il libero esercizio del voto o di procurare voti a se' o ad altri in occasione di consultazioni elettorali)).
+L'associazione e' di tipo mafioso quando coloro che ne fanno parte si avvalgono della forza di intimidazione del vincolo associativo e della condizione di assoggettamento e di omerta' che ne deriva per commettere delitti, per acquisire in modo diretto o indiretto la gestione o comunque il controllo di attivita' economiche, di concessioni, di autorizzazioni, appalti e servizi pubblici o per realizzare profitti o vantaggi ingiusti per se' o per altri ovvero al fine di impedire od ostacolare il libero esercizio del voto o di procurare voti a se' o ad altri in occasione di consultazioni elettorali.
 
-Se l'associazione e' armata si applica la pena della reclusione da quattro a dieci anni nei casi previsti dal primo comma e da cinque a quindici anni nei casi previsti dal secondo comma.
+Se l'associazione e' armata si applica la pena della reclusione da ((sette)) a ((quindici)) anni nei casi previsti dal primo comma e da ((dieci)) a ((ventiquattro)) anni nei casi previsti dal secondo comma.
 
 L'associazione si considera armata quando i partecipanti hanno la disponibilita', per il conseguimento della finalita' dell'associazione, di armi o materie esplodenti, anche se occultate o tenute in luogo di deposito.
 
