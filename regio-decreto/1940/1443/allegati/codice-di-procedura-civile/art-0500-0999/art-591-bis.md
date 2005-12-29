@@ -1,12 +1,12 @@
 Art. 591-bis.
 
-(( (Delega al notaio delle operazioni di vendita con incanto).))
+(( (Delega delle operazioni di vendita).))
 
-((Il giudice dell'esecuzione, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, puo', sentiti gli interessati, delegare ad un notaio avente sede nel circondario il compimento delle operazioni di vendita con incanto, di cui agli articoli 576 e seguenti.
+((Il giudice dell'esecuzione, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, puo', sentiti gli interessati, delegare ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un dottore commercialista o esperto contabile, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice stabilisce il termine per lo svolgimento delle operazioni delegate, le modalita' della pubblicita', il luogo di presentazione delle offerte ai sensi dell'articolo 571 e il luogo ove si procede all'esame delle offerte e alla gara tra gli offerenti e ove si svolge l'incanto.
 
-Il notaio delegato provvede:
+Il professionista delegato provvede:
 
-1) alla determinazione del valore dell'immobile a norma dell'articolo 568, terzo comma, anche tramite l'ausilio di un esperto nominato dal giudice;
+1) alla determinazione del valore dell'immobile a norma dell'articolo 568, terzo comma, anche tramite l'ausilio dell'esperto nominato dal giudice ai sensi dell'articolo 569, primo comma;
 
 2) ad autorizzare l'assunzione dei debiti da parte dell'aggiudicatario o dell'assegnatario a norma dell'articolo 508;
 
@@ -14,24 +14,30 @@ Il notaio delegato provvede:
 
 4) alla fissazione degli ulteriori incanti o sulla istanza di assegnazione, ai sensi degli articoli 587, 590 e 591;
 
-5) alla esecuzione delle formalita' di registrazione, trascrizione e voltura catastale del decreto di trasferimento, alla comunicazione dello stesso a pubbliche amministrazioni negli stessi casi previsti per le comunicazioni di atti volontari di trasferimento nonche' all'espletamento delle formalita' di cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie conseguenti al decreto di trasferimento pronunciato dal giudice dell'esecuzione ai sensi dell'articolo 586;
+5) alla esecuzione delle formalita' di registrazione, trascrizione e voltura catastale del decreto di trasferimento, alla comunicazione dello stesso a pubbliche amministrazioni negli stessi casi previsti per le comunicazioni di atti volontari di trasferimento, nonche' all'espletamento delle formalita' di cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie conseguenti al decreto di trasferimento pronunciato dal giudice dell'esecuzione ai sensi dell'articolo 586;
 
 6) a ricevere o autenticare la dichiarazione di nomina di cui all'articolo 583;
 
 7) alla formazione del progetto di distribuzione ed alla sua trasmissione al giudice dell'esecuzione che, dopo avervi apportato le eventuali variazioni, provvede ai sensi dell'articolo 596.
 
-In caso di delega al notaio delle operazioni di vendita con incanto, il notaio provvede alla redazione dell'avviso avente il contenuto di cui all'articolo 576, primo comma, alla sua notificazione ai creditori di cui all'articolo 498, non intervenuti, nonche' a tutti gli altri adempimenti previsti dagli articoli 576 e seguenti. Nell'avviso va specificato che tutte le attivita', che, a norma degli articoli 576 e seguenti, debbono essere compiute in cancelleria o davanti al giudice dell'esecuzione o dal cancelliere o dal giudice dell'esecuzione, sono effettuate dal notaio delegato presso il suo studio ovvero nel luogo da lui indicato.
+In caso di delega al professionista delle operazioni di vendita con incanto, il professionista provvede alla redazione dell'avviso avente il contenuto di cui all'articolo 576, primo comma, alla sua notificazione ai creditori di cui all'articolo 498, non intervenuti, nonche' a tutti gli altri adempimenti previsti dagli articoli 576 e seguenti. Nell'avviso va specificato che tutte le attivita', che, a norma degli articoli 576 e seguenti, debbono essere compiute in cancelleria o davanti al giudice dell'esecuzione o dal cancelliere o dal giudice dell'esecuzione, sono effettuate dal professionista incaricato presso il suo studio ovvero nel luogo da lui indicato.
 
-L'avviso deve inoltre contenere l'indicazione della destinazione urbanistica del terreno risultante dal certificato di destinazione urbanistica di cui all'articolo 18 della legge 28 febbraio 1985, n. 47, nonche' le notizie di cui agli articoli 17 e 40 della citata legge n. 47 del 1985; in caso di insufficienza di tali notizie, tale da determinare le nullita' di cui all'articolo 17, primo comma, ovvero all'articolo 40, secondo comma, della citata legge n. 47 del 1985, ne va fatta menzione nell'avviso con avvertenza che l'aggiudicatario potra', ricorrendone i presupposti, avvalersi delle disposizioni di cui all'articolo 17, quinto comma, ed all'articolo 40, sesto comma, della medesima legge n. 47 del 1985.
+All'avviso si applica l'articolo 173-quater delle disposizioni di attuazione del presente codice.
 
-Il notaio provvede altresi alla redazione del verbale d'incanto, che deve contenere le circostanze di luogo e di tempo nelle quali l'incanto si svolge, le generalita' delle persone ammesse all'incanto, la descrizione delle attivita' svolte, la dichiarazione dell'aggiudicazione provvisoria con l'identificazione dell'aggiudicatario.
+Il professionista delegato provvede altresi' alla redazione del verbale d'incanto, che deve contenere le circostanze di luogo e di tempo nelle quali l'incanto si svolge, le generalita' delle persone ammesse all'incanto, la descrizione delle attivita' svolte, la dichiarazione dell'aggiudicazione provvisoria con l'identificazione dell'aggiudicatario.
 
-Il verbale e' sottoscritto esclusivamente dal notaio ed allo stesso non deve essere allegata la procura speciale di cui all'articolo 579, secondo comma.
+Il verbale e' sottoscritto esclusivamente dal professionista delegato ed allo stesso non deve essere allegata la procura speciale di cui all'articolo 579, secondo comma.
 
-Se il prezzo non e' stato versato nel termine, il notaio ne da' tempestivo avviso al giudice, trasmettendogli il fascicolo.
+Se il prezzo non e' stato versato nel termine, il professionista delegato ne da' tempestivo avviso al giudice, trasmettendogli il fascicolo.
 
-Avvenuto il versamento del prezzo ai sensi degli articoli 585 e 590, terzo comma, il notaio predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo; al decreto deve essere allegato il certificato di destinazione urbanistica di cui all'articolo 18 della legge 28 febbraio 1985, n. 47, che conserva validita' per un anno dal suo rilascio, o, in caso di scadenza, altro certificato sostitutivo; nel decreto va pure fatta menzione della situazione urbanistica dell'immobile risultante dalla documentazione acquisita nel fascicolo processuale. Analogamente il notaio provvede alla trasmissione del fascicolo nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'articolo 591.
+Avvenuto il versamento del prezzo ai sensi degli articoli 585 e 590, secondo comma, il professionista delegato predispone il decreto di trasferimento e trasmette senza indugio al giudice dell'esecuzione il fascicolo. Al decreto, se previsto dalla legge, deve essere allegato il certificato di destinazione urbanistica dell'immobile quale risultante dal fascicolo processuale. Il professionista delegato provvede alla trasmissione del fascicolo al giudice dell'esecuzione nel caso in cui non faccia luogo all'assegnazione o ad ulteriori incanti ai sensi dell'articolo 591. Contro il decreto previsto nel presente comma e' proponibile l'opposizione di cui all'articolo 617.
 
-Le somme versate dall'aggiudicatario sono depositate presso un istituto di credito indicato dal giudice.
+Le somme versate dall'aggiudicatario sono depositate presso una banca indicata dal giudice.
 
-I provvedimenti di cui all'articolo 586 restano riservati al giudice dell'esecuzione anche in caso di delega al notaio delle operazioni di vendita con incanto)).
+I provvedimenti di cui all'articolo 586 restano riservati al giudice dell'esecuzione anche in caso di delega al professionista delle operazioni di vendita con incanto.)).((113a))
+
+----------
+
+AGGIORNAMENTO (113a)
+
+Il D.L. 14 marzo 2005, n. 35, convertito con modificazioni dalla L. 14 maggio 2005, n. 80, come modificato dal D.L. 30 giugno 2005, n. 115, convertito con modificazioni dalla L. 17 agosto 2005, n. 168, ha disposto (con l'art. 2, comma 3-quater) che la presente modifica ha effetto a decorrere dal 1 gennaio 2006.
