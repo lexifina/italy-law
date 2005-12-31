@@ -1,0 +1,5 @@
+Allegato 1
+
+(articolo 1, comma 9)
+
+Parte di provvedimento in formato grafico
