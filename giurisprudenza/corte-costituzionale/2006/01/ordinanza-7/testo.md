@@ -1,0 +1,64 @@
+# Corte costituzionale, ordinanza 7/2006
+
+- ECLI: ECLI:IT:COST:2006:7
+- Tipo: ordinanza
+- Presidente: MARINI
+- Relatore: Annibale Marini
+- Redattore: Annibale Marini
+- Data della decisione: 09/01/2006
+- Data del deposito: 13/01/2006
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 30073, 30074
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:7
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Annibale MARINI; Giudici: Franco BILE, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale degli artt. 18 e 53 del decreto legislativo 8 luglio 1999, n. 270 (Nuova disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza, a norma dell'articolo 1 della legge 30 luglio 1998, n. 274), promosso con ordinanza del 9 novembre 2004 dal Tribunale di Milano nel procedimento civile vertente tra Olcese S.p.A. e Gh Michell &amp; Sons Ltd., iscritta al n. 52 del registro ordinanze 2005 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 8, prima serie speciale, dell'anno 2005.
+        Visto l'atto di intervento del Presidente del consiglio dei ministri;
+        udito nella camera di consiglio del 30 novembre 2005 il Giudice relatore Annibale Marini.
+        Ritenuto che il Tribunale di Milano, con ordinanza depositata il 9 novembre 2004, ha sollevato, in riferimento agli artt. 3 e 24 della Costituzione, questione di legittimità costituzionale degli artt. 18 e 53 del decreto legislativo 8 luglio 1999, n. 270 (Nuova disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza, a norma dell'articolo 1 della legge 30 luglio 1998, n. 274), «nella parte in cui prevedono che nella fase di osservazione e nella procedura di amministrazione straordinaria con programma di ristrutturazione l'accertamento dei crediti debba avvenire secondo le regole del concorso ancorché i pagamenti debbano avvenire secondo le regole ordinarie»;
+        che nel giudizio a quo, avente ad oggetto una opposizione a decreto ingiuntivo, la società opponente ha dedotto essere intervenuta nei suoi confronti, in data 14 ottobre 2004, sentenza dichiarativa dello stato di insolvenza, ai sensi dell'art. 2 del decreto legislativo n. 270 del 1999;
+        che, ai sensi dell'art. 18 del medesimo decreto legislativo, la sentenza che dichiara lo stato di insolvenza, pur non privando l'imprenditore della capacità di stare in giudizio, determina, tra gli altri, gli effetti previsti dall'art. 52 della legge fallimentare, con applicazione, quindi, del principio del concorso formale fin dalla fase cosiddetta di «osservazione», che precede l'apertura della procedura di amministrazione straordinaria ovvero la dichiarazione di fallimento, ai sensi dell'art. 30 del decreto legislativo;
+        che l'applicazione della regola del concorso formale risulta poi confermata dall'art. 53 del richiamato decreto legislativo n. 270 del 1999, secondo cui, una volta aperta la procedura di amministrazione straordinaria, «l'accertamento del passivo prosegue sulla base delle disposizioni della sentenza dichiarativa dello stato di insolvenza»;
+        che pertanto, secondo il giudice a quo, la domanda di condanna sottesa al decreto ingiuntivo, a seguito della sentenza dichiarativa dello stato di insolvenza, dovrebbe essere dichiarata improcedibile, con conseguente revoca dello stesso decreto ingiuntivo, al fine di consentire l'insinuazione del creditore nel passivo della procedura;
+        che l'applicazione del procedimento concorsuale di formazione del passivo alla fase di osservazione ed alla stessa procedura di amministrazione straordinaria costituirebbe tuttavia – secondo il rimettente – «scelta normativa incoerente», censurabile in riferimento agli artt. 3 e 24 della Costituzione;
+        che l'incoerenza sistematica sarebbe rappresentata dal fatto che nella fase di osservazione, così come nella stessa amministrazione straordinaria con ristrutturazione, non vi è – diversamente da quanto accade nel fallimento – alcuna espropriazione del patrimonio del debitore e non deve perciò essere predisposto un piano di riparto, in quanto l'imprenditore è tenuto ad adempiere le proprie obbligazioni per l'intero e non secondo le regole del concorso;
+        che, pertanto, il medesimo debitore, all'esito del procedimento, si troverà ad essere vincolato ad un accertamento del debito, effettuato in sede concorsuale, cui egli non ha potuto partecipare, con violazione del suo diritto di difesa;
+        che sarebbe, sotto altro aspetto, violato anche il diritto di difesa dei creditori, in quanto costretti ad un accertamento dello stato passivo nel quale vigono le regole della concorsualità nonostante che l'adempimento debba avvenire al di fuori del concorso;
+        che si verificherebbe, infine, una violazione del principio di eguaglianza in danno dei creditori che partecipano al procedimento di accertamento del passivo rispetto a quelli che scelgono di non parteciparvi per chiedere un accertamento extra-concorsuale del proprio diritto;
+        che è intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, concludendo per la declaratoria di inammissibilità o comunque di infondatezza della questione;
+        che, ad avviso della parte pubblica, sarebbe innanzitutto opinabile il presupposto interpretativo da cui muove il rimettente, secondo cui all'improcedibilità (assoluta) del giudizio a quo conseguirebbe la revoca del decreto ingiuntivo opposto, ben potendo sostenersi invece che la declaratoria dello stato di insolvenza del debitore opponente determini solo una improcedibilità temporanea dell'opposizione, fino alla conclusione della procedura amministrativa;
+        che, inoltre, le norme impugnate non sarebbero immediatamente applicabili nel giudizio a quo, venendo in rilievo solamente nella successiva fase di accertamento del passivo;
+        che sicuramente irrilevante sarebbe, in ogni caso, la questione relativa all'art. 53 del decreto legislativo, recante disposizioni destinate ad operare soltanto nella fase, meramente eventuale, «di accertamento del passivo dinanzi al giudice delegato»;
+        che, nel merito, non sussisterebbe, comunque, alcuna lesione dell'art. 24 della Costituzione in danno del debitore, non solo nel caso in cui egli mantenga – come sembrerebbe accadere nella specie – la capacità di stare in giudizio, ma anche nelle ipotesi in cui tale capacità sia attribuita al commissario giudiziale (art. 18 del decreto legislativo) o al commissario straordinario (in caso di ammissione alla procedura), in quanto il diritto di difesa del medesimo debitore sarebbe pienamente assicurato «sia dalla rappresentanza di tali figure, sia dal contraddittorio tra i creditori nella fase di accertamento del passivo, sia, infine, dalla previsione di ipotesi in cui il debitore può intervenire in giudizio o deve essere sentito (artt. 43 e 96 legge fallimentare)»;
+        che non sarebbe d'altro canto significativa l'assenza, nella procedura di ristrutturazione, di una finalità liquidatoria, venendo comunque in rilievo, analogamente a quanto avviene nel fallimento, l'interesse dei creditori ad essere soddisfatti in presenza di uno stato di insolvenza giudizialmente accertato;
+        che del pari insussistente sarebbe la prospettata lesione del diritto di difesa dei creditori, «posto che essi dispongono dei rimedi di rito, previsti in sede di accertamento e verificazione del passivo fallimentare, avverso la esclusione o la ammissione con riserva dei propri crediti o avverso la ammissione di quelli degli altri creditori»;
+        che nemmeno sussisterebbe, infine, la denunciata violazione del principio di eguaglianza tra i creditori, considerato che, da un lato, quelli che partecipano alla procedura concorsuale godono della possibilità di vedere soddisfatti i propri crediti anche prima della conclusione della procedura, mentre, dall'altro, la possibilità di accertamento extra-concorsuale del credito, «oltre ad essere soggetta […] a ben precise condizioni», è comunque, nel sistema delineato dal decreto legislativo n. 270 del 1999, del tutto ipotetica, ben potendo la fase di osservazione o la stessa procedura di amministrazione straordinaria volgere in qualsiasi momento nel fallimento del debitore.
+        Considerato che il Tribunale di Milano dubita, in riferimento agli artt. 3 e 24 Cost., della legittimità costituzionale degli artt. 18 e 53 del decreto legislativo 8 luglio 1999, n. 270 (Nuova disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza, a norma dell'articolo 1 della legge 30 luglio 1998, n. 274), «nella parte in cui prevedono che nella fase di osservazione e nella procedura di amministrazione straordinaria con programma di ristrutturazione l'accertamento dei crediti debba avvenire secondo le regole del concorso ancorché i pagamenti debbano avvenire secondo le regole ordinarie»;
+        che, nel giudizio a quo, di opposizione a decreto ingiuntivo, la società opponente versa, a seguito della sentenza dichiarativa dello stato di insolvenza, nella fase cosiddetta di «osservazione», destinata a concludersi, ai sensi dell'art. 30 del medesimo decreto legislativo, con l'ammissione alla procedura di amministrazione straordinaria ovvero, in alternativa, con la dichiarazione di fallimento;
+        che la questione relativa all'art. 53 del decreto legislativo è perciò palesemente irrilevante, considerato che la norma attiene all'accertamento del passivo nella successiva (ed eventuale) fase di amministrazione straordinaria e che, pertanto, il rimettente non è chiamato a fare di tale norma alcuna applicazione;
+        che, quanto all'art. 18, il dubbio di legittimità costituzionale si incentra, dunque, su una asserita irragionevolezza (della previsione) di una procedura concorsuale di accertamento del passivo nonostante la possibile assenza (nel caso di ammissione alla procedura di amministrazione straordinaria cui consegua il risanamento dell'impresa) di una successiva fase liquidatoria;
+        che tale dubbio discende evidentemente dall'assunto che l'accertamento concorsuale del passivo possa trovare la sua unica giustificazione nella concorsualità anche del procedimento liquidatorio;
+        che siffatto assunto è, tuttavia, erroneo, ove si consideri che, nella fase cosiddetta di «osservazione», la formazione concorsuale dello stato passivo costituisce all'evidenza strumento per la valutazione, che il tribunale deve compiere, circa la sussistenza delle «concrete prospettive di recupero dell'equilibrio economico delle attività imprenditoriali» cui è condizionata l'ammissione alla procedura e che, in ogni caso, essa rappresenta una delle possibili modalità – la cui scelta è rimessa alla discrezionalità del legislatore – attraverso le quali può avvenire l'accertamento dei debiti, a seguito della dichiarazione giudiziale dello stato di insolvenza, nell'ambito di un procedimento, riservato alle sole imprese aventi le caratteristiche di cui all'art. 2 del decreto legislativo, alternativo al fallimento ma pur sempre ispirato al contemperamento tra l'interesse al risanamento dell'impresa e quello, proprio dei creditori, al soddisfacimento delle proprie ragioni;
+        che la questione va, pertanto, dichiarata manifestamente inammissibile quanto ad entrambe le norme impugnate.
+       Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+        dichiara la manifesta inammissibilità della questione di legittimità costituzionale degli artt. 18 e 53 del decreto legislativo 8 luglio 1999, n. 270 (Nuova disciplina dell'amministrazione straordinaria delle grandi imprese in stato di insolvenza, a norma dell'articolo 1 della legge 30 luglio 1998, n. 274), sollevata, in riferimento agli artt. 3 e 24 della Costituzione, dal Tribunale di Milano con l'ordinanza in epigrafe.
+        Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 9 gennaio 2006.
+F.to:
+Annibale MARINI, Presidente
+Annibale MARINI, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 13 gennaio 2006.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
