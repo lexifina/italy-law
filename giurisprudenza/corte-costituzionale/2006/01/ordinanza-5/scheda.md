@@ -1,0 +1,16 @@
+# Corte costituzionale, ordinanza 5/2006
+
+- ECLI: ECLI:IT:COST:2006:5
+- Tipo: ordinanza
+- Presidente: MARINI
+- Relatore: Franco Bile
+- Redattore: Franco Bile
+- Data della decisione: 09/01/2006
+- Data del deposito: 13/01/2006
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 30071
+- Scheda ufficiale (testo integrale): https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:5
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+Testo integrale non riprodotto qui: le pronunce possono nominare parti private dei giudizi da cui nasce la questione. Il testo ufficiale è alla scheda della Corte (link sopra).
+Full text not reproduced here (decisions may name private parties of the underlying proceedings); the official text is at the Court's page linked above.
