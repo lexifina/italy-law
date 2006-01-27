@@ -1,0 +1,59 @@
+# Corte costituzionale, ordinanza 24/2006
+
+- ECLI: ECLI:IT:COST:2006:24
+- Tipo: ordinanza
+- Presidente: MARINI
+- Relatore: Paolo Maddalena
+- Redattore: Paolo Maddalena
+- Data della decisione: 23/01/2006
+- Data del deposito: 27/01/2006
+- Giudizio: GIUDIZIO SULL'AMMISSIBILITÀ DI RICORSO PER CONFLITTO DI ATTRIBUZIONE TRA POTERI DELLO STATO
+- Massime: 30103
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:24
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai Signori: Presidente: Annibale MARINI; Giudici: Franco BILE, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio per conflitto di attribuzione tra poteri dello Stato sorto a seguito della delibera del Senato della Repubblica del 30 giugno 2004, relativa alla insindacabilità delle opinioni espresse dal senatore Roberto Castelli nei confronti del deputato Oliviero Diliberto, giudizio promosso con ricorso del Giudice per l'udienza preliminare del Tribunale di Roma, nei confronti del Senato della Repubblica, depositato in cancelleria l'8 giugno 2005 ed iscritto al n. 24 del registro conflitti tra poteri dello Stato 2005 (fase di ammissibilità).
+    Udito nella camera di consiglio del 30 novembre 2005 il Giudice relatore Paolo Maddalena.
+    Ritenuto che, con ricorso depositato l'8 giugno 2005, il Giudice per l'udienza preliminare (GUP) del Tribunale di Roma ha sollevato conflitto di attribuzione tra poteri dello Stato nei confronti del Senato della Repubblica, chiedendo a questa Corte di dichiarare che non spetta al Senato affermare che i fatti per cui è in corso procedimento penale, pendente dinanzi ad esso GUP, a carico del senatore Roberto Castelli concernono opinioni espresse nell'esercizio delle sue funzioni, ai sensi dell'art. 68, primo comma, della Costituzione, e, conseguentemente, di annullare la delibera adottata il 30 giugno 2004 «per il procedimento civile avente medesimo oggetto e che, come risulta dagli atti, il Senato ha ritenuto applicabile anche alla fattispecie presente»;
+    che il ricorrente premette che, con querela del 27 aprile 2004, il deputato Oliviero Diliberto lamentava che, nel corso della trasmissione televisiva “Telecamere” registrata in data 18 marzo 2004 e andata in onda il successivo giorno 21, il senatore Roberto Castelli avesse proferito dichiarazioni diffamatorie nei suoi confronti;
+    che, in particolare, secondo la querela, alla domanda rivolta dall'onorevole Diliberto al senatore Castelli su quali fossero le ragioni della sua presenza ad una manifestazione di giovani padani svoltasi davanti al “Parlamento” (manifestazione nel corso della quale erano state pronunciate le parole «chi non salta italiano è»), quest'ultimo aveva risposto: «piuttosto che mandare in giro a sprangare come fai tu preferisco saltare»;
+    che inoltre, nel corso della stessa trasmissione televisiva, il senatore Castelli aveva sostanzialmente addebitato al querelante «di essere il mandante di azioni delittuose», affermando testualmente: «fascisti, borghesi, ancora pochi mesi, te lo ricordi? Poi hanno sparato ed i tuoi amici sono in Francia»; e, sempre nel medesimo contesto, il senatore Castelli dichiarava: «credo sia molto più grave andare a ricevere con gli onori le terroriste che voi avete fatto liberare con l'inganno», con ciò accusando l'onorevole Diliberto «di aver operato illegalmente per favorire il rientro in Italia di terroristi, allorché aveva svolto l'incarico di Ministro della Giustizia nel primo governo D'Alema»;
+    che il GUP ricorrente rammenta altresì che, con ordinanza del 13 dicembre 2004, il “Tribunale dei ministri”, investito dei predetti fatti in considerazione della carica ricoperta dal senatore Castelli nel Governo, dichiarava la propria incompetenza e disponeva la restituzione degli atti ritenendo si trattasse di reati comuni;
+    che successivamente – si espone ancora nel ricorso – la Giunta delle elezioni e delle immunità parlamentari, in data 18 maggio 2005, riteneva che per i fatti contestati al senatore Castelli in sede penale, oggetto del procedimento pendente dinanzi ad esso giudice ricorrente, dovesse intendersi applicabile la deliberazione di insindacabilità già adottata dal Senato il 30 giugno 2004 (su conforme proposta della Giunta in data 15 giugno 2004), trattandosi di delibera riferita alle medesime dichiarazioni per le quali era stato già instaurato un giudizio civile;
+    che nella proposta della Giunta del 15 giugno 2004 – riferisce sempre il GUP del Tribunale di Roma – si poneva in risalto, tra l'altro, «che la contrapposizione della propria figura e della propria condotta politico amministrativa di Ministro della giustizia con quella dei suoi predecessori della scorsa legislatura è la cifra della pubblica presentazione che il senatore Castelli fa del suo operato quale Ministro della giustizia, sin dall'assunzione della carica», essendo egli figura di spicco del gruppo politico parlamentare della Lega Nord che «ripetutamente appuntò la sua attenzione sulle vicende connesse alla gestione del “caso Baraldini” da parte del secondo governo della scorsa legislatura, in cui il deputato Diliberto rivestiva la carica di Guardasigilli»;
+    che, in particolare, si osservava ancora nella proposta della Giunta, è «da almeno sei mesi» che tra la Lega Nord ed il partito «di cui il deputato Diliberto è segretario nazionale si va sviluppando una contrapposizione politica piuttosto accesa, della quale, per lo stesso tenore delle polemiche e per la sede pre-elettorale in cui si svolgono, è bene che sia arbitra la pubblica opinione assai più che la sede giurisdizionale»;
+    che, espone sempre il ricorrente, nella stessa proposta si assumeva esservi una “sperequazione”, sotto il profilo della garanzia prevista dall'art. 68, primo comma, della Costituzione, tra la posizione rivestita da un Ministro, «che nel nostro ordinamento costituzionale può anche essere parlamentare ma che non può ovviamente spiegare la sua attività negli atti tipici che questa funzione contempla», e quella del «mero parlamentare», giacché «la giurisprudenza costituzionale riconnette il nesso funzionale alla preesistenza di atti parlamentari tipici in corrispondenza contenutistica sostanziale con l'espressione delle opinioni»;
+    che, a tal fine, si sosteneva nella proposta della Giunta, la posizione del Ministro presentava «analogia» con quella del parlamentare «che a Camere sciolte, eserciti attività di cronaca o di critica politica su fatti successivi allo scioglimento, senza perciò avere la possibilità di produrre atti di sindacato ispettivo preesistenti». Un caso, questo, venuto all'esame durante la XIII legislatura (Doc. IV-quater n. 34, riguardante il sen. Meduri) e deciso nel senso dell'insindacabilità delle opinioni espresse dal parlamentare; sicché – si concludeva nella proposta – «non pare possibile discostarsi da quel precedente nel caso di specie, che comunque rappresenta un'estrinsecazione del diritto di critica motivato politicamente»;
+    che, tanto premesso, il GUP ricorrente sostiene che il Senato «abbia erroneamente valutato la sussistenza dei presupposti necessari per poter considerare le dichiarazioni rese dal senatore Castelli ricollegabili all'ipotesi prevista dall'art. 68, primo comma, della Costituzione»;
+    che, infatti, nel rammentare che la giurisprudenza in materia ha ritenuto che «costituiscono opinioni espresse nell'esercizio della funzione parlamentare quelle manifestate durante il compimento di atti tipici della funzione, nonché quelle che, pur non essendo state manifestate in sede parlamentare, riproducano il contenuto sostanziale delle prime», il giudice ricorrente osserva che le dichiarazioni del senatore Castelli «sono state rese nel corso di una trasmissione televisiva e, quindi, al di fuori dell'esercizio di funzioni parlamentari», non risultando, però, «sostanzialmente riproduttive di un'opinione espressa in sede parlamentare» dallo stesso senatore;
+      che, in conclusione, il GUP del Tribunale di Roma sostiene che la deliberazione di insindacabilità adottata dal Senato della Repubblica, proprio perché frutto di «un'erronea valutazione dei presupposti richiesti dall'art. 68 Cost.», interferisca illegittimamente «nelle attribuzioni dell'autorità giudiziaria».
+    Considerato che, in questa fase del giudizio, la Corte è chiamata, a norma dell'art. 37, terzo e quarto comma, della legge 11 marzo 1953, n. 87, a deliberare, senza contraddittorio, se il ricorso sia ammissibile in quanto vi sia la «materia di un conflitto la cui risoluzione spetti alla sua competenza», sussistendone i requisiti soggettivo ed oggettivo e restando impregiudicata ogni ulteriore questione, anche in punto di ammissibilità;
+    che, sotto il profilo del requisito soggettivo, va riconosciuta la legittimazione del Giudice per l'udienza preliminare del Tribunale di Roma a sollevare conflitto, in quanto organo giurisdizionale, in posizione di indipendenza costituzionalmente garantita, competente a dichiarare definitivamente la volontà del potere cui appartiene nell'esercizio delle funzioni attribuitegli;
+    che, parimenti, deve essere riconosciuta la legittimazione del Senato della Repubblica ad essere parte del presente conflitto, quale organo competente a dichiarare in modo definitivo la propria volontà in ordine all'applicabilità dell'art. 68, primo comma, della Costituzione;
+    che, per quanto attiene al profilo oggettivo, sussiste la materia di un conflitto, giacché il GUP ricorrente lamenta la lesione della propria sfera di attribuzione, costituzionalmente garantita, in conseguenza di un esercizio ritenuto illegittimo, per inesistenza dei relativi presupposti, del potere spettante alla Camera di appartenenza del parlamentare di dichiarare l'insindacabilità delle opinioni espresse da quest'ultimo ai sensi dell'art. 68, primo comma, della Costituzione;
+    che, infine, dal ricorso è dato ricavare “le ragioni del conflitto” e “le norme costituzionali che regolano la materia”, alla stregua di quanto richiesto dall'art. 26 delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    riservato ogni definitivo giudizio,
+    dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87, il conflitto di attribuzione proposto dal Giudice per l'udienza preliminare del Tribunale di Roma nei confronti del Senato della Repubblica con il ricorso in epigrafe indicato;
+    dispone:
+    a) che la cancelleria della Corte costituzionale dia immediata comunicazione della presente ordinanza al Giudice per l'udienza preliminare del Tribunale di Roma, ricorrente;
+    b) che il ricorso e la presente ordinanza siano, a cura del ricorrente, notificati al Senato della Repubblica, in persona del suo Presidente, entro il termine di sessanta giorni dalla comunicazione di cui sub a), per essere successivamente depositati, con la prova dell'avvenuta notifica, presso la cancelleria della Corte entro il termine fissato dall'art. 26, comma 3, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 23 gennaio 2006.
+F.to:
+Annibale MARINI, Presidente
+Paolo MADDALENA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 27 gennaio 2006.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
