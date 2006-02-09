@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1"/>
+					<an:FRBRdate date="2006-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="QP1"/>
+					<an:FRBRname value="Questione pregiudiziale"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@"/>
+					<an:FRBRdate date="2006-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@.akn"/>
+					<an:FRBRdate date="2006-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3600/BIS/A/QP1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3600/BIS" showAs="DDL 3600/BIS"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17566" showAs="Cavallaro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3600/BIS</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Questione pregiudiziale n. QP1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Cavallaro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>II Senato,</an:p>
+				<an:p align="justify">            premesso che:</an:p>
+				<an:p align="justify">       - il Presidente della Repubblica ha rinviato, in data 20 gennaio 2006, ai sensi dell'articolo 74, primo comma della Costituzione, la legge recante "Modifiche al codice di procedura penale, in materia di inappellabilità delle sentenze di proscioglimento";</an:p>
+				<an:p align="justify">       - nel messaggio di rinvio il Capo dello Stato opera un fondamentale rilievo nei confronti dell'impianto dell'intero provvedimento, lamentando che "le asimmetrie tra accusa e difesa costituzionalmente compatibili non devono mai travalicare i limiti fissati dal secondo comma dell'articolo 111 della Costituzione a norma del quale "Ogni processo si svolge nel contraddittorio tra le parti, in condizioni di parità, davanti ad un giudice terzo e imparziale";</an:p>
+				<an:p align="justify">       - il rifiuto della maggioranza di incidere sostanzialmente sul principio di inappellabilità delle sentenze di proscioglimento di cui all'articolo 1 della legge - fatta salva la parziale e comunque restrittiva correzione in ordine alle sole ipotesi di prove decisive, di cui al nuovo secondo comma dell'articolo 593 del codice di procedura penale - non consente di ritenere superati i rilievi di legittimità del Presidente della Repubblica;</an:p>
+				<an:p align="justify">       - la legge nuovamente all'esame delle Camere, resta quindi un provvedimento che altera, oltre la misura del costituzionalmente consentito, la parità di posizione delle parti processuali, ledendo l'articolo 111, secondo comma, della Costituzione ed il buon andamento dell'amministrazione della giustizia, del pari richiamato dal messaggio presidenziale,</an:p>
+				<an:p align="justify">
+					            delibera di non procedere all'esame dell'Atto Senato n. 3600/
+					<an:i>bis.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
