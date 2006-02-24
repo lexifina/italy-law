@@ -1,0 +1,59 @@
+# Corte costituzionale, ordinanza 77/2006
+
+- ECLI: ECLI:IT:COST:2006:77
+- Tipo: ordinanza
+- Presidente: MARINI
+- Relatore: Alfio Finocchiaro
+- Redattore: Alfio Finocchiaro
+- Data della decisione: 22/02/2006
+- Data del deposito: 24/02/2006
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 30208
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:77
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai Signori: Presidente: Annibale MARINI; Giudici: Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 391-bis del codice di procedura civile, promosso con ordinanza del 30 aprile 2002 dalla Corte di cassazione, sul ricorso proposto dal Comune di Agrigento c/ Salamone Carmela, iscritta al n. 343 del registro ordinanze 2005 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 28, prima serie speciale, dell'anno 2005.
+    Udito nella camera di consiglio del 25 gennaio 2006 il Giudice relatore Alfio Finocchiaro.
+    Ritenuto che la Corte di cassazione, nel corso del giudizio promosso dal Comune di Agrigento per la revocazione della sentenza n. 16282 del 29 ottobre 2003, dello stesso Supremo Collegio, ha sollevato questione di legittimità costituzionale dell'articolo 391-bis del codice di procedura civile, nella parte in cui non prevede la revocazione di sentenze rese dalla Corte di cassazione nel caso previsto dall'art. 395, primo comma, numero 5 del codice di procedura civile, per violazione dell'art. 24, secondo comma, della Costituzione;
+    che, come il giudice rimettente espone, con la predetta pronuncia, resa all'udienza dell'8 aprile 2003, e pubblicata il 29 ottobre 2003, il Comune di Agrigento era stato condannato a corrispondere a Carmela Salamone l'importo di € 55.563,54 a titolo di indennità di espropriazione, mentre già con sentenza n. 14109, resa alla stessa udienza, ma pubblicata il 23 settembre 2003, il medesimo Comune era stato condannato a versare alla Salamone, allo stesso titolo, la somma di € 60.022,50, oltre all'indennità di occupazione dello stesso fondo, pari agli interessi decorrenti dalla data di scadenza di ciascuna annualità;
+    che il Comune di Agrigento, premesso che ricorreva un'ipotesi di litispendenza, e che il giudice della sentenza n. 16282 avrebbe dovuto rilevare d'ufficio la violazione del principio del ne bis in idem, ricorreva per revocazione contro tale sentenza, deducendo, con un primo motivo di doglianza, che la Cassazione avrebbe dovuto cassare senza rinvio la sentenza di merito, versandosi in un caso di impromovibilità o improseguibilità del secondo giudizio, per ragioni di ordine pubblico processuale inerenti al rispetto del ne bis in idem; e con un secondo motivo, che la Cassazione non avrebbe rilevato il giudicato esterno, ben rilevabile anche nel giudizio di legittimità, sollevando, in via subordinata, la questione di legittimità costituzionale, alternativamente, degli artt. 324 o 391-bis cod. proc. civ.: il primo nella parte in cui non prevede la rilevabilità d'ufficio del giudicato esterno, ed il secondo, in relazione all'art. 395 cod. proc. civ., nella parte in cui non prevede la revocabilità delle sentenze di cassazione in contrasto con altra sentenza avente autorità di giudicato, e non indica tra gli errori di fatto, eliminabili con il rimedio della revocazione, quello della mancata applicazione delle eccezioni rilevabili d'ufficio in ogni stato e grado del procedimento;
+    che, secondo il giudice rimettente, nessuna delle due ragioni che sostengono il ricorso sono idonee a consentire la revocazione proposta ex art. 391-bis cod. proc. civ., in relazione all'art. 395, primo comma, numero 4, cod. proc. civ., poiché la giurisprudenza di legittimità è nel senso di considerare inammissibile il ricorso fondato sul preteso omesso rilievo del giudicato;
+    che il ricorso neppure potrebbe essere accolto sotto il profilo della violazione dell'art. 395, numero 5, cod. proc. civ., per contrasto con altra sentenza avente autorità di giudicato, così come lo stesso giudice assume essergli stato inequivocabilmente richiesto con un terzo motivo di ricorso;
+    che il ricorso proposto dovrebbe essere dichiarato inammissibile, se non fosse stata posta una pregiudiziale di costituzionalità, che è da considerare rilevante nel giudizio a quo;
+    che la controversia non potrebbe trovare altra soluzione, restando così consacrate due soluzioni difformi sull'entità della somma riconosciuta per lo stesso titolo, reso sulla medesima res litigiosa, in palese violazione del principio del ne bis in idem;
+    che le modalità, pressoché contestuali, con cui si sono formate le due cose giudicate, induce a formulare meglio l'istanza di rimessione alla Consulta nel senso di chiedere uno scrutinio di costituzionalità dell'art. 391-bis cod. proc. civ., nella parte in cui non prevede la revocazione di sentenze rese dalla Corte di cassazione nel caso previsto dall'art. 395, primo comma, numero 5, cod. proc. civ., in relazione all'art. 24, secondo comma, della Costituzione;
+    che, con l'art. 66 della legge 26 novembre 1990, n. 353 – osserva il giudice a quo – si è estesa, attraverso l'introduzione dell'art. 391-bis cod. proc. civ., l'invocabilità del vizio revocatorio, limitata però all'errore di fatto;
+    che con tale previsione – secondo il collegio rimettente – il legislatore ha evidentemente ritenuto di ovviare ad ogni possibilità di situazione incongruente, ma non si è posto il problema della possibilità di contrasto tra giudicati nascenti dalle decisioni adottate dalla Suprema Corte che si sia avvalsa dei poteri di cui all'art. 384, primo comma, cod. proc. civ., alle quali, dunque, non è estensibile la previsione di cui al numero 5 dell'art. 395 cod. proc. civ.;
+    che tale eventualità, pur rara a verificarsi, non può essere esclusa quando, come nella specie, entrambe le sentenze siano il risultato di una decisione della Suprema Corte nel merito ai sensi dell'art. 384 cod. proc. civ., sia pure sulla base di accertamenti di fatto già cristallizzati nelle sentenze impugnate, ma senza piena consapevolezza dell'identità delle controversie in corso di decisione;
+    che nei precedenti in cui la Suprema Corte ha escluso la non manifesta infondatezza della questione di costituzionalità relativa all'estensione del vizio revocatorio anche alle ipotesi del contrasto fra giudicati, i problemi profilati dalle parti concernevano questioni pregiudicanti la decisione di merito, non questioni riguardanti la perfetta identità della res litigiosa, decisa nel merito ex art. 384 cod. proc. civ.;
+    che la questione va ora ripensata, secondo il collegio rimettente, con riguardo alle sentenze rese dalla Cassazione nel caso previsto dall'art. 395, primo comma, numero 5, cod. proc. civ., specie quando vi sia stata decisione della causa nel merito, con riferimento al parametro costituzionale di cui all'art. 24, secondo comma, Costituzione, che costituisce presidio del divieto del ne bis in idem e dello stesso principio di razionalità normativa, in riferimento all'antinomia costituita dall'esistenza di due concrete regulae iuris per la stessa controversia;
+    che già la Corte costituzionale, con la sentenza n. 17 del 1986, stabilì che il diritto di difesa risulterebbe gravemente offeso se l'errore di fatto, come descritto dall'art. 395,      numero 4, cod. proc. civ., non fosse suscettibile di emenda sol per essere stato perpetrato dal giudice cui spetta la funzione di nomofilachia, anche perché l'indagine cognitoria cui dà luogo il numero 4 dell'art. 360 del codice di rito non sarebbe diversa da quella compiuta da ogni giudice di merito allorché esamina la ritualità degli atti del processo sottoposto al suo esame;
+    che tali considerazioni, ad avviso del collegio rimettente, acquistano peso ancor maggiore con la possibilità riconosciuta alla Corte di cassazione, con la novella del 1990, di decidere la causa con poteri sostitutivi del giudice di merito;
+    che l'intervento richiesto non sarebbe contraddistinto – come, invece, ritenuto dalla Corte costituzionale con l'ordinanza n. 305 del 2001 – da un grado di manipolatività elevato, tale da investire un intero sistema di norme, e meno che mai sarebbe tale da coinvolgere un insieme di disposizioni riservato al legislatore.
+    Considerato che la Corte di cassazione dubita della legittimità costituzionale dell'art. 391-bis del codice di procedura civile là dove non prevede la revocazione di sentenze rese dalla stessa Corte nel caso previsto dall'art. 395, primo comma, numero 5, cod. proc. civ. per violazione dell'art. 24, secondo comma, della Costituzione;
+    che la questione è stata sollevata nel corso del giudizio davanti alla Corte di cassazione, promosso dal Comune di Agrigento per la revocazione della sentenza n. 16282 del 29 ottobre 2003, della stessa Corte, con la quale il ricorrente era stato condannato al pagamento dell'indennità di espropriazione determinata in € 55.563,54, in presenza di altra sentenza di legittimità n. 14109 del 23 settembre 2003 – emessa fra le stesse parti in relazione ad analoga controversia – con la quale lo stesso Comune ricorrente era stato condannato a corrispondere la somma di € 60.022,50, a titolo di indennità di espropriazione, oltre all'indennità di occupazione del medesimo fondo;
+    che il giudice rimettente – in presenza di una costante giurisprudenza di legittimità per la quale, in ipotesi di contrasto di giudicati, prevale il secondo giudicato, sempre che quest'ultimo non sia stato sottoposto a revocazione (ex plurimis: Cass. n. 6409 del 1999; Cass. n. 2082 del 1998; Cass. n. 997 e 833 del 1993) – non ha motivato, ai fini della rilevanza della questione proposta, su una necessaria, preliminare delibazione, in ordine all'interesse della parte ricorrente alla revocazione di una pronuncia di condanna di ammontare inferiore rispetto a quella contenuta nella sentenza che secondo la regola giurisprudenziale indicata, dovrebbe regolare i rapporti fra le parti in caso di accoglimento della domanda proposta;
+    che, per costante giurisprudenza di questa Corte, il giudice deve rendere esplicite le ragioni che lo inducono a sollevare la questione di costituzionalità con una motivazione autosufficiente, tale da permettere la verifica della valutazione sulla rilevanza, ciò che, per le evidenziate lacune, non risulta possibile nel caso di specie;
+    che tale insufficienza della motivazione, non consentendo alla Corte il controllo sulla rilevanza della questione nel giudizio a quo, ne determina la manifesta inammissibilità (ex plurimis: ordinanze n. 365, n. 309 e n. 257 del 2004).
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 391-bis del codice di procedura civile, sollevata, in riferimento all'art. 24, secondo comma, della Costituzione, dalla Corte di cassazione con l'ordinanza in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 22 febbraio 2006.
+F.to:
+Annibale MARINI, Presidente
+Alfio FINOCCHIARO, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 24 febbraio 2006.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
