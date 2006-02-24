@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/676/A/G3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/676/A/G3"/>
+					<an:FRBRdate date="2006-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/676/A/G3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/676/A/G3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/676/A/G3/ita@"/>
+					<an:FRBRdate date="2006-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/676/A/G3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/676/A/G3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/676/A/G3/ita@.akn"/>
+					<an:FRBRdate date="2006-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/676/A/G3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/676/A/G3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/676" showAs="DDL 676"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/3951" showAs="Murineddu"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/17659" showAs="Vicini"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/3846" showAs="Piatti"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/17628" showAs="Flammia"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/4339" showAs="Basso"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 676</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3 (Testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Murineddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Vicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Piatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Flammia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Basso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> vista la ricaduta dell'arresto temporaneo dell'attività di pesca per i sistemi a strascico e traino pelagico sulla gestione delle risorse ittiche;</an:p>
+				<an:p align="justify"> vista l'esigenza di gestire organicamente tale arresto temporaneo, per consentire alle imprese coinvolte di programmare la loro attività;</an:p>
+				<an:p align="justify">vista l'opportunità di graduare la ripresa dell'attività di pesca nel periodo successivo all'arresto temporaneo, per prolungarne i benefici effetti sugli stock nonché per evitare che l'abbondanza di prodotti pescati produca un crollo dei prezzi,</an:p>
+				<an:p align="justify"> impegna il Governo:</an:p>
+				<an:p align="justify">ad emanare un provvedimento con valenza triennale, che preveda 45 giorni consecutivi ed obbligatori di arresto temporaneo dell'attività per i sistemi a strascico e traino pelagico;</an:p>
+				<an:p align="justify">a prevedere per almeno 8 settimane successive all'arresto temporaneo il divieto di esercitare l'attività nei giorni di venerdì, sabato e domenica;</an:p>
+				<an:p align="justify">a prevedere l'istituzione di zone di nursery e di ripopolamento per rafforzare l'efficacia del fermo di pesca.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione con la soppressione del secondo capoverso del dispositivo: «a contemplare nell'ambito del disegno di legge finanziaria il fabbisogno stimato in lire 60 miliardi, a copertura della misura sociale di accompagnamento, finalizzata a coprire i costi previdenziali ed assistenziali dell'armamento in favore degli imbarcati nonché a conferire il minimo monetario garantito agli equipaggi;».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
