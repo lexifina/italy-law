@@ -1,0 +1,54 @@
+# Corte costituzionale, ordinanza 74/2006
+
+- ECLI: ECLI:IT:COST:2006:74
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Franco Gallo
+- Redattore: Franco Gallo
+- Data della decisione: 20/02/2006
+- Data del deposito: 24/02/2006
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 30205
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:74
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Franco GALLO, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnei giudizi di legittimità costituzionale dell'art. 10 della legge della Regione Liguria 7 maggio 2002, n. 20 (Disposizioni per la formazione del bilancio annuale e pluriennale della Regione Liguria – Legge finanziaria 2002), promossi con due ordinanze del 15 marzo 2005 dalla Commissione tributaria provinciale di Genova nelle controversie  vertenti tra Federica Gemelli, Antonio Borzonasca e la Regione Liguria, iscritte ai numeri 479 e 480 del registro ordinanze 2005 e pubblicate nella Gazzetta Ufficiale della Repubblica n. 40, prima serie speciale, dell'anno 2005.
+      Udito nella camera di consiglio dell'8 febbraio 2006 il Giudice relatore Franco Gallo.
+    Ritenuto che, nel corso di due giudizi, promossi da altrettanti contribuenti avverso gli avvisi di accertamento emessi dalla Regione Liguria per il mancato pagamento della tassa automobilistica regionale relativa all'anno 1999, la Commissione tributaria provinciale di Genova, con due ordinanze, di contenuto sostanzialmente identico, deliberate il 14 febbraio 2005 e depositate il giorno successivo, ha sollevato questioni di legittimità dell'art. 10 della legge della Regione Liguria 7 maggio 2002, n. 20 (Disposizioni per la formazione del bilancio annuale e pluriennale della Regione Liguria – Legge finanziaria 2002), il quale prevede che «il recupero delle tasse automobilistiche dovute per l'anno 1999 alla Regione Liguria, viene effettuato, unitamente al recupero previsto per l'anno 2000, entro il 31 dicembre 2003»;
+    che, secondo la Commissione tributaria provinciale rimettente, la norma censurata contrasterebbe sia  con l'art. 117, secondo comma (recte: secondo comma, lettera e), della Costituzione, in relazione alla norma statale interposta di cui all'art. 5, cinquantunesimo comma, primo periodo, del decreto-legge 30 dicembre 1982, n. 953 (Misure in materia tributaria), convertito, con modificazioni, dalla legge 28 febbraio 1983, n. 53, sia con l'art. 119, secondo comma, della Costituzione, in relazione al combinato disposto degli artt. 1, comma 1, e 3, comma 3, della legge 27 luglio 2000, n. 212 (Disposizioni in materia di statuto dei diritti del contribuente);
+    che i giudici a quibus, in punto di fatto, premettono: a) che detti avvisi di accertamento sono stati notificati il 1° dicembre 2003; b) che i contribuenti hanno chiesto l'annullamento dei provvedimenti impugnati, eccependo l'illegittimità costituzionale della norma censurata per contrasto con gli evocati parametri della Costituzione, correlati alle menzionate norme statali; c) che la Regione Liguria, costituitasi in giudizio, nel chiedere la reiezione dei ricorsi, ha affermato che la tassa automobilistica, in quanto tributo proprio della Regione, può essere da questa disciplinata anche per ciò che attiene ai termini prescrizionali;
+    che, quanto alla non manifesta infondatezza, la Commissione rimettente richiama i principi affermati da questa Corte nelle sentenze di accoglimento nn. 296 e 297 del 2003, aventi ad oggetto questioni del tutto analoghe, relative a norme delle Regioni Piemonte e Veneto sostanzialmente identiche a quella censurata e deduce in particolare: a) che la norma censurata, nel prorogare di un anno, al 31 dicembre 2003, il termine triennale per il recupero delle tasse automobilistiche di cui al citato art. 5, cinquantunesimo comma, del decreto-legge n. 953 del 1982, si porrebbe in contrasto con tale norma statale interposta e, quindi, con gli artt. 117, secondo comma, lettera e), e 119, secondo comma, Cost., che riservano alla competenza esclusiva del legislatore statale la disciplina degli aspetti sostanziali delle tasse automobilistiche, quali sono i termini di decadenza per l'accertamento ed il recupero delle stesse; b) che il denunciato contrasto della stessa norma censurata con l'art. 119, secondo comma, Cost. conseguirebbe anche alla violazione degli artt. 1, comma 1, e 3, comma 3, dello statuto del contribuente (legge n. 212 del 2000), costituenti  principi di coordinamento della finanza pubblica e del sistema tributario ai sensi dell'evocato parametro costituzionale, il rispetto dei quali avrebbe imposto al legislatore regionale di conformarsi al principio, stabilito all'art. 1, comma 1, per cui le norme statutarie possono essere derogate o modificate solo «espressamente», e, quindi, di esplicitare la deroga al divieto di proroga dei termini di prescrizione e di decadenza per gli accertamenti di imposta, sancito dall'art. 3, comma 3;
+    che, quanto alla rilevanza, la stessa Commissione rimettente afferma che, ove la questione sollevata fosse accolta, la pretesa fiscale esercitata nei confronti dei contribuenti sarebbe illegittima, perché la notificazione degli avvisi di accertamento, eseguita in data 1° dicembre 2003 entro il termine prorogato dalla norma censurata, risulterebbe invece intempestiva rispetto al termine  triennale di decadenza di cui al citato art. 5, cinquantunesimo comma, del decreto-legge n. 953 del 1982, scaduto il 31 dicembre 2002.
+    Considerato che la Commissione tributaria provinciale di Genova, con due ordinanze di contenuto sostanzialmente identico, solleva questioni di legittimità costituzionale dell'art. 10 della legge della Regione Liguria 7 maggio 2002, n. 20 (Disposizioni per la formazione del bilancio annuale e pluriennale della Regione Liguria – Legge finanziaria 2002), il quale prevede che «il recupero delle tasse automobilistiche dovute per l'anno 1999 alla Regione Liguria, viene effettuato, unitamente al recupero previsto per l'anno 2000, entro il 31 dicembre 2003»;
+    che, secondo la Commissione rimettente, la norma regionale denunciata, avendo prorogato di un anno il termine decadenziale per l'esercizio dell'azione di accertamento delle tasse automobilistiche, avrebbe ecceduto il termine triennale stabilito per il recupero di dette tasse dalla norma statale interposta di cui all'art. 5, cinquantunesimo comma, primo periodo, del decreto-legge 30 dicembre 1982, n. 953 (Misure in materia tributaria), convertito, con modificazioni, dalla legge 28 febbraio 1983, n. 53;
+    che, di conseguenza, la norma censurata si porrebbe in contrasto con gli artt. 117, secondo comma, lettera e), e 119, secondo comma, della Costituzione, che attribuiscono invece  allo Stato la competenza esclusiva a legiferare in materia di tributi erariali;
+    che, per i giudici a quibus, la norma censurata stabilirebbe detta proroga anche in violazione dell'art. 3, comma 3, della legge 27 luglio 2000, n. 212 (Disposizioni in materia di statuto dei diritti del contribuente), secondo cui i termini di prescrizione e di decadenza per gli accertamenti di imposta non possono essere prorogati; e ciò senza nemmeno menzionare espressamente la deroga a detto art. 3, comma 3, come invece richiesto dall'art. 1, comma 1, della stessa legge n. 212 del 2000;
+    che, sempre ad avviso dei giudici a quibus, la violazione delle norme dello statuto del contribuente si risolverebbe nella violazione dei princípi di coordinamento della finanza pubblica e del sistema tributario di cui all'art. 119, secondo comma, Cost.;
+    che, quanto alla rilevanza, la Commissione rimettente si limita ad affermare che gli avvisi di accertamento impugnati, relativi al recupero della tassa automobilistica regionale dell'anno 1999, sono stati notificati ai contribuenti il 1° dicembre 2003, e cioè oltre il termine triennale (nella specie, scaduto il 31 dicembre 2002) stabilito dal menzionato art. 5, cinquantunesimo comma, primo periodo, del decreto-legge n. 953 del 1982, e che, ove la norma censurata fosse dichiarata incostituzionale, la pretesa fiscale risulterebbe esercitata illegittimamente, per il decorso di detto termine;
+    che, attesa l'identità delle questioni sollevate, i relativi giudizi debbono essere riuniti e decisi con un'unica pronuncia;
+    che, anteriormente alle ordinanze di rimessione, è entrato in vigore, il 1° gennaio 2004, l'art. 2, comma 22, della legge 24 dicembre 2003, n. 350 (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato – legge finanziaria 2004), il quale ha disposto in via di sanatoria l'applicabilità, fino al 1° gennaio 2007, delle disposizioni legislative regionali sulla tassa automobilistica, anteriormente emanate, che non siano conformi alla normativa statale (v., in tema, la sentenza n. 455 del 2005 e l'ordinanza n. 476 del 2005);
+    che, nella specie, i giudici a quibus, pur deducendo l'illegittimità costituzionale della norma censurata in ragione della sua non conformità alla legislazione statale, non hanno tenuto conto della incidenza sulla stessa norma del citato art. 2, comma 22, della legge n. 350 del 2003, senza motivare al riguardo;
+    che le questioni sono, pertanto, manifestamente inammissibili per carente motivazione sulla rilevanza, in relazione al mutamento del quadro normativo intervenuto nel corso dei giudizi principali.
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+      riuniti i giudizi,
+      dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 10 della legge della Regione Liguria 7 maggio 2002, n. 20 (Disposizioni per la formazione del bilancio annuale e pluriennale della Regione Liguria – Legge finanziaria 2002), sollevate, in riferimento agli artt. 117, secondo comma, lettera e), e 119, secondo comma, della Costituzione, dalla Commissione tributaria provinciale di Genova con le ordinanze indicate in epigrafe.
+      Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 20 febbraio 2006.
+F.to:
+Franco BILE, Presidente
+Franco GALLO, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 24 febbraio 2006.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
