@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/780/A/G3.151/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/780/A/G3.151"/>
+					<an:FRBRdate date="2006-03-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/780/A/G3.151/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.151"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@"/>
+					<an:FRBRdate date="2006-03-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@.akn"/>
+					<an:FRBRdate date="2006-03-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/780/A/G3.151/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/780" showAs="DDL 780"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/397" showAs="Bucciero"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/4393" showAs="Cutrufo"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/17593" showAs="Eufemi"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/17543" showAs="Gaburro"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/17556" showAs="Borea"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/820" showAs="Degennaro"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/703" showAs="Costa"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 780</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.151 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Bucciero</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Cutrufo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Eufemi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Gaburro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Borea</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Degennaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Costa</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> rilevato che tra i beni iscritti nello stato patrimoniale della Rete ferroviaria italiana s.p.a. sono compresi gli impianti sportivi, le sedi sociali, gli spazi associativi e ricreativi in possesso del Dopolavoro ferroviario e che detti beni sono stati realizzati con risorse del Dopolavoro ferroviario e dei soci lungo i 75 anni di vita del Dopolavoro ferroviario;</an:p>
+				<an:p align="justify"> considerata l'opportunità di salvaguardare i legittimi interessi patrimoniali e giuridici del Dopolavoro ferroviario e dei soci maturati in relazione agli investimenti realizzati,</an:p>
+				<an:p align="justify"> impegna il Governo:</an:p>
+				<an:p align="justify">in sede di applicazione della legge di emanazione dei relativi decreti e disposizioni ad adoperarsi per la salvaguardia della peculiarità del Dopolavoro ferroviario e delle finalità sociali dei beni in concessione nonché ad adoperarsi al fine di favorire la permanenza del Dopolavoro in detti immobili garantendo altresì che gli organismi che dovessero subentrare nella loro proprietà ne garantiscano la possibilità di acquisto in capo al Dopolavoro tenendo conto altresì degli interventi apportati dal Dopolavoro con risorse proprie.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
