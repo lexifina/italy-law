@@ -2,15 +2,19 @@ Art. 391-bis.
 
 (Correzione degli errori materiali e revocazione delle sentenze della Corte di Cassazione)
 
-Se la sentenza pronunciata dalla Corte di Cassazione e' affetta da errore materiale o di calcolo ai sensi dell'articolo 287 ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti da notificare entro il termine perentorio di sessanta giorni dalla notificazione della sentenza, ovvero di un anno dalla pubblicazione della sentenza stessa.
+Se la sentenza ((o l'ordinanza pronunciata ai sensi dell'articolo 375, primo comma, numeri 4) e 5),)) pronunciata dalla Corte di Cassazione e' affetta da errore materiale o di calcolo ai sensi dell'articolo 287 ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti da notificare entro il termine perentorio di sessanta giorni dalla notificazione della sentenza, ovvero di un anno dalla pubblicazione della sentenza stessa.
 
-Sul ricorso la Corte pronuncia in Camera di Consiglio a norma dell'articolo 375.
+((La Corte decide sul ricorso in camera di consiglio nell'osservanza delle disposizioni di cui all'articolo 380-bis.))
+
+((Sul ricorso per correzione dell'errore materiale pronuncia con ordinanza.))
+
+((Sul ricorso per revocazione pronuncia con ordinanza se lo dichiara inammissibile, altrimenti rinvia alla pubblica udienza.))
 
 La pendenza del termine per la revocazione della sentenza della Corte di Cassazione non impedisce il passaggio il giudicato della sentenza impugnata con ricorso per cassazione respinto.
 
 In caso di impugnazione per revocazione della sentenza della Corte di Cassazione non e' ammessa la sospensione dell'esecuzione della sentenza passata in giudicato, ne' e' sospeso il giudizio di rinvio o il termine per riassumerlo.
 
-(67) (72) ((79))
+(67) (72) (79)
 
 ---------------
 
