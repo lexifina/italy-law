@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699-B/A/G28/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699-B/A/G28"/>
+					<an:FRBRdate date="2006-03-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699-B/A/G28/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G28"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@"/>
+					<an:FRBRdate date="2006-03-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@.akn"/>
+					<an:FRBRdate date="2006-03-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699-B/A/G28/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699-B" showAs="DDL 699-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1473" showAs="Marino"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1664" showAs="Muzio"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17619" showAs="Pagliarulo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1908" showAs="Pizzinato"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/185" showAs="Battafarano"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2321" showAs="Stanisci"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17587" showAs="Iovene"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G28</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Muzio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Pagliarulo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Pizzinato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Battafarano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stanisci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Iovene</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> considerato che:</an:p>
+				<an:p align="justify">a partire dal 1996, Il Ministero delle politiche agricole e forestali, aderendo alle richieste del Ministero del lavoro e della previdenza sociale, ha provveduto ad utilizzare, in luogo dei normali operai agricoli forestali assunti a tempo determinato, un certo numero di lavoratori socialmente utili, presentando all'uopo il progetto interregionale denominato «Gestione Aree protette»;</an:p>
+				<an:p align="justify"> nel corso della gestione del progetto LSU, il Ministero ha dovuto adeguarsi alla normativa specifica che progressivamente mirava alla fuoriuscita dei lavoratori dal regime dei lavori socialmente utili verso la stabilizzazione occupazionale;</an:p>
+				<an:p align="justify">successivamente, il decreto legislativo n. 81 del 28 febbraio 2000, ha previsto la prosecuzione del progetto LSU, per un ultimo periodo di 12 mesi, a condizione che l'ente pubblico gestore del progetto si impegnasse all'assunzione con contratto di lavoro dipendente dei lavoratori interessati, al termine del progetto stesso;</an:p>
+				<an:p align="justify">il Ministero delle politiche agricole e forestali ha iniziato ad ottemperare all'itinerario previsto dal decreto legislativo n. 81 del 2000, provvedendo all'assunzione con contratto di lavoro a tempo determinato, per un primo periodo di 12 mesi, dal 1º maggio 2001 sino al 30 aprile 2002, dei residui 500 lavoratori LSU;</an:p>
+				<an:p align="justify"> impegna il Governo:</an:p>
+				<an:p align="justify">ad aumentare il contingente previsto all'articolo 1, comma 4 della legge 5 aprile 1985, n. 124, a 1.200 unità, al fine di consentire la stabilizzazione dei lavoratori socialmente utili attualmente impiegati dall'Amministrazione forestale del Ministero delle politiche agricole e forestali, nonché assicurare la medesima condizione al personale assunto con contratto a tempo determinato ai sensi della stessa legge.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
