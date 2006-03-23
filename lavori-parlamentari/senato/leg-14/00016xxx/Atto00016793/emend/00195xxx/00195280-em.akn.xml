@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1125/A/1.441/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1125/A/1.441"/>
+					<an:FRBRdate date="2006-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1125/A/1.441/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.441"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@"/>
+					<an:FRBRdate date="2006-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@.akn"/>
+					<an:FRBRdate date="2006-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1125/A/1.441/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1125" showAs="DDL 1125"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1664" showAs="Muzio"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1125</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.441</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Muzio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 «1-
+					<an:i>bis</an:i>
+					. Alla domanda di autorizzazione è allegato il progetto dell'impianto, corredato da una relazione nella quale sono comunque indicati il ciclo produttivo, l'indicazione del presumibile termine per la messa a regime dell'impianto, l'utilizzo dell'energia elettrica prodotta, le esigenze per le quali si vuol procedere alla realizzazione dell'impianto, nonché le caratteristiche di collegamento al sistema elettrico nazionale e di compatibilità ambientale, la richiesta di autorizzazione è integrata con indicazione delle tecnologie adottate per prevenire l'inquinamento atmosferico e corredata da una perizia giurata che attesti la qualità e la quantità delle emissioni inquinanti in atmosfera. La medesima è contestualmente inviata, ai fini dell'emissione di un parere vincolante entro 180 giorni, ai Ministeri dell'ambiente e della salute, nonché alla regione competente per territorio che ne informa i comuni interessati. Il predetto termine è sospeso, in caso di richiesta di informazioni o documentazione aggiuntiva. Trascorso inutilmente tale termine il Ministero delle attività produttive convoca apposita conferenza dei servizi, ai sensi dell'articolo 14 della legge 7 agosto 1990, n. 241, e successive modifiche ed integrazioni, da tenersi entro trenta giorni. Alla conferenza dei servizi partecipano i Ministeri competenti, le regioni e i comuni territorialmente competenti, ed i rappresentanti dell'impresa su loro richiesta. Ove l'impianto sia assoggettato a valutazione di impatto ambientale, il Ministero dell'ambiente o la regione danno immediata comunicazione al Ministero procedente dell'avvio e della conclusione della procedura, unitamente alle relative determinazioni, ai fini della trasmissione del parere o eventuale convocazione della conferenza dei servizi. Le determinazioni della Conferenza circa la domanda di autorizzazione presentata, le prescrizioni e le altre modalità esecutive da imporre al soggetto richiedente devono essere assunte all'unanimità tra i rappresentanti delle amministrazioni statali e regionali, e dei comuni interessati. Entro sei mesi dal ricevimento dei pareri o dalle determinazioni assunte nella conferenza dei servizi, il Ministro delle attività produttive adotta di concerto con il Ministro dell'ambiente e della tutela del territorio, nel rispetto delle competenze costituzionali delle regioni, il provvedimento con cui rilascia o nega l'autorizzazione. L'autorizzazione non può essere rilasciata in caso di valutazione d'impatto ambientale non positiva».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
