@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1425/A/G7.115/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1425/A/G7.115"/>
+					<an:FRBRdate date="2006-03-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1425/A/G7.115/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.115"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@"/>
+					<an:FRBRdate date="2006-03-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@.akn"/>
+					<an:FRBRdate date="2006-03-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1425/A/G7.115/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1425" showAs="DDL 1425"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17593" showAs="Eufemi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17556" showAs="Borea"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17584" showAs="Iervolino"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1425</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.115</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Eufemi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Borea</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Iervolino</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">premesso che:</an:p>
+				<an:p align="justify">deve essere mantenuta sotto stretto controllo l'area delle partecipazioni pubbliche, in quanto senza controllo vi è la naturale tendenza alla sua espansione. Ciò è fonte di sperpero di danaro pubblico, non solo perché ci sono decenni di storia che lo confermano, ma anche perché: da un lato trattasi quasi sempre di partecipazioni di redditività insufficiente o negativa, dall'altro vi è concorrenza sleale sul mercato, ed infine vi è sempre la possibilità di una commistione di interessi "pubblico-privato" a danno del pubblico. Il concetto di fondo che va ribadito è che il danaro che i cittadini pagano sotto forma di tasse non deve più andare in aziende pubbliche, perché lì viene molto probabilmente sperperato;</an:p>
+				<an:p align="justify">deve essere posto l'obiettivo esplicito di "non crescita" dell'area delle partecipazioni pubbliche e che tale "non crescita" si concretizza attraverso due ovvie indicazioni cogenti;</an:p>
+				<an:p align="justify">valutato che questo è l'obiettivo esplicito e che gli indirizzi non possono che portare a tre positivi risultati: aziende meglio gestite, aziende meglio comprate, aziende meglio vendute;</an:p>
+				<an:p align="justify">per le partecipazioni pubbliche non esiste alcun elenco completo od alcun rendiconto globale;</an:p>
+				<an:p align="justify">valutato altresì che tale operazione è semplice da attuarsi, se si costruisce un "registro centrale telematico delle partecipazioni azionarie".</an:p>
+				<an:p align="justify">
+					Considerato che tale registro si può costruire molto rapidamente utilizzando le strutture telematiche CONSOB. Ogni azienda, pena la nullità degli atti del rispettivo consiglio, riempie una scheda via 
+					<an:i>internet</an:i>
+					 con tutti gli elementi necessari: l'operazione è conclusa immediatamente.
+				</an:p>
+				<an:p align="justify">Tale registro, consultabile in rete da parte di ogni cittadino od ente interessato, permette poi al Ministro dell'economia e delle finanze di illustrare annualmente al Parlamento con grande precisione l'andamento dell'area delle aziende pubbliche facendo conoscere in dettaglio al Parlamento che l'area delle aziende pubbliche è sotto controllo, e che non è in espansione.</an:p>
+				<an:p align="justify">Considerato altresì che deve essere posto l'obiettivo di riorganizzare la vigilanza e l'esercizio dei poteri di indirizzo dell'azionista "Stato" sulle aziende ancora partecipate e che l'azione di vigilanza e di indirizzo deve spettare all'amministrazione competente, sempre nel rispetto delle indicazioni cogenti e il ruolo del Ministero dell'economia e delle finanze deve essere quello del controllo con la nomina dei revisori,</an:p>
+				<an:p align="justify">impegna il Governo a:</an:p>
+				<an:p align="justify">realizzare entro sessanta giorni dalla approvazione della presente legge in collaborazione con la CONSOB il registro telematico delle partecipazioni azionarie pubbliche.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
