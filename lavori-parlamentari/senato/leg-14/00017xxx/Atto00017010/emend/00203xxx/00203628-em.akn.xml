@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1206/A/7.500/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1206/A/7.500"/>
+					<an:FRBRdate date="2006-03-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1206/A/7.500/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.500"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@"/>
+					<an:FRBRdate date="2006-03-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@.akn"/>
+					<an:FRBRdate date="2006-03-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1206/A/7.500/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1206" showAs="DDL 1206"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/332" showAs="Bordon"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3922" showAs="Dentamaro"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1425" showAs="Mancino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17548" showAs="Battisti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1852" showAs="Petrini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17566" showAs="Cavallaro"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2569" showAs="Toia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1206</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.500</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bordon</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Dentamaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Mancino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Battisti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Petrini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Cavallaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Toia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «Art. 7. - 
+					<an:i>(Alienazione o trasferimento delle attività economiche). -</an:i>
+					 1. Quando ricorrono le condizioni di detenzione, di controllo o di titolarità di attività economiche ai sensi dell'articolo 2359 del codice civile, dell'articolo 7 della legge 10 ottobre 1990, n. 287, e delle altre disposizioni vigenti in materia, il titolare della carica di Governo interessato provvede ad alienare, o a trasferire a un gestore ai sensi dell'articolo 8, le attività economiche o le partecipazioni che consentono di esercitare il controllo sulle stesse, o che comunque eccedono il 2 per cento del capitale sociale.
+				</an:p>
+				<an:p align="justify">        2. Quando la situazione di controllo non consegua alle ipotesi previste dall'articolo 2359, primo comma, numeri 1) e 2), del codice civile il titolare della carica di Governo interessato provvede, entro il termine indicato nel comma 1, a far cessare i vincoli e i rapporti che determinano il controllo, secondo le modalità da concordarsi di volta in volta con l'Autorità garante.</an:p>
+				<an:p align="justify">        3. Se il titolare della carica di Governo non provvede all'alienazione o al trasferimento ovvero a far cessare i rapporti e i vincoli indicati nel comma 2 entro il termine previsto dal comma 1, l'Autorità garante, previa convocazione dell'interessato e verificate le condizioni del caso e ogni altro elemento utile ad accertare il carattere volontario e la gravità del suo comportamento, dichiara che sussiste la situazione di incompatibilità e contestualmente applica una sanzione amministrativa pecuniaria in misura compresa tra il 2 e il 50 per cento del fatturato delle imprese di cui al comma 1, relativo all'esercizio precedente a quello nel quale si è realizzata l'inottemperanza, tenuto conto della gravità e durata della stessa, nonché dell'eventuale profitto. Non si applica l'articolo 16 della legge 24 novembre 1981, n. 689, e successive modificazioni.</an:p>
+				<an:p align="justify">        4. L'Autorità garante, entro dieci giorni dagli adempimenti di cui al comma 3, con determinazione adottata d'intesa con il presidente della Consob e con il presidente dell'autorità di regolazione di settore eventualmente competente, individua il gestore del patrimonio del titolare della carica di Governo, definisce l'atto di trasferimento e ne trasmette copia, per l'adesione, al gestore. Dalla data dell'adesione decorrono gli effetti del trasferimento, in mancanza del relativo atto da parte del titolare della carica di Governo».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
