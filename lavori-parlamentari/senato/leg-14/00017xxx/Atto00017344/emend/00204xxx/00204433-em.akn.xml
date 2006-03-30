@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1329/A/G101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1329/A/G101"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1329/A/G101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@.akn"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1329/A/G101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1329" showAs="DDL 1329"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/188" showAs="Battaglia"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/1666" showAs="Nania"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/3941" showAs="Firrarello"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/1983" showAs="Ragno"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/3938" showAs="Cirami"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/1541" showAs="Meduri"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1329</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G101 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Nania</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Firrarello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Ragno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Cirami</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Meduri</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            nel corso dell'esame del disegno di legge 1329 recante «Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee. Legge comunitaria 2002»,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            nella formulazione del regolamento sulla disciplina delle bevande analcoliche, ad emanare la normativa garantendo la tutela delle produzioni agricole interessate;</an:p>
+				<an:p align="justify">
+					            
+					<an:b>ad adoperarsi perché venga assicurata</an:b>
+					 la presenza del 16 per cento di sostanza base nel contenuto delle bevande analcoliche;
+				</an:p>
+				<an:p align="justify">            ad attivare tutte le necessarie iniziative affinchè i paesi comunitari convergano nell'accettare questa percentuale di prodotto all'interno delle bevande analcoliche, a difesa delle imprese produttrici delle medesime ma anche a difesa dei produttori agricoli.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo con le parole evidenziate, che sostituiscono le altre: «a garantire, altresì,».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
