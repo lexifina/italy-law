@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1-BIS.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@.akn"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1562/A/G1-BIS.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1562" showAs="DDL 1562"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/758" showAs="D'Andrea"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3936" showAs="Montagnino"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/714" showAs="Coviello"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/116" showAs="Ayala"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1210" showAs="Gruosso"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17590" showAs="Di Siena"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1562</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1-BIS.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Andrea</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Montagnino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Coviello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ayala</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Gruosso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Di Siena</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            in favore dei lavoratori Valbasento e Interklim è stata disposta ai sensi dell'articolo 52 comma 46 della legge n. 448 del 2001 la proroga della indennità di mobilità la cui scadenza è prevista per il 31 dicembre 2002;</an:p>
+				<an:p align="justify">            la proroga dell'ammortizzatore sociale è legata al processo di reindustrializzazione in atto attraverso gli strumenti della programmazione negoziata; in paricolare in Valbasento con il bando regionale di 212 miliardi di vecchie lire in favore dell'insediamento di iniziative economiche mentre per i lavoratori Interklim mediante l'avvio del Contratto d'Area per i siti della legge n. 219 del 1981;</an:p>
+				<an:p align="justify">            con accordo tra Regione Basilicata e parti sociali vi è l'impegno di reintrodurre questi lavoratori nelle nuove iniziative che si stanno insediando;</an:p>
+				<an:p align="justify">            si tratta di un processo lungo non privo di difficoltà e la scadenza della indennità prevista tra 6 mesi rappresenta un tempo non sufficiente a mettere in atto il percorso intrapreso per il loro reinserimento al lavoro;</an:p>
+				<an:p align="justify">            complessivamente la platea interessata dalla proroga è di 600 unità circa e per una regione come la Basilicata rappresentano un numero molto significativo;</an:p>
+				<an:p align="justify">
+					            nel corso del 2000 la Regione Basilicata tramite l'Ente lavoro Basilicata (ELBA) ha proceduto ad uno 
+					<an:i>screeneng</an:i>
+					 anagrafico e contributivo dei lavoratori beneficiari della proroga;
+				</an:p>
+				<an:p align="justify">            molte unità soprattutto per quanto concerne la platea dei lavoratori Valbasento ex Enichem, ma anche per quanto riguarda l'Interklim, hanno una età anagrafica e contributiva relativamente alta e ormai prossima alla pensione con inevitabili e oggettive difficoltà per una eventuale loro ricollocazione nel mondo produttivo,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            in vista della prossima legge finanziaria ad attivare con la Regione Basilicata e le Organizzazioni sindacali un confronto finalizzato alla determinazione di un percorso che possa accompagnare al pensionamento le unità in mobilità che hanno una età anagrafica e contributiva non distante dai requisiti richiesti e a determinare la proroga di ulteriori 12 mesi in favore dei lavoratori rimanenti nella platea in attesa della riforma degli ammortizzatori sociali e del completamento dei processi di reindustrializzazione in atto.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
