@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1626/A/G3.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1626/A/G3.1"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1626/A/G3.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@.akn"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1626/A/G3.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1626" showAs="DDL 1626"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/17593" showAs="Eufemi"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/3918" showAs="Lauro"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/3943" showAs="Minardo"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/703" showAs="Costa"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/17563" showAs="Girfatti"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/17562" showAs="Cantoni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1626</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.1 (TESTO CORRETTO)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Eufemi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Lauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Minardo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Costa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Girfatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Cantoni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso:</an:p>
+				<an:p align="justify">            che con l'articolo 3 del decreto-legge 8 luglio del 2002, n. 138 il Governo ha introdotto disposizioni volte a rideterminare la remunerazione del servizio nazionale di riscossione per il biennio 2002-2003;</an:p>
+				<an:p align="justify">            che forti preoccupazioni sono state sollevate dalle aziende concessionarie impegnate nel settore circa la possibilità di raggiungere, attraverso la suddetta disposizione, l'equilibrio economico gestionale;</an:p>
+				<an:p align="justify">            che le istanze rappresentate dalla categoria sono state condivise e fatte proprie già da numerosi parlamentari in sede di discussione del disegno di legge di conversione;</an:p>
+				<an:p align="justify">            che, a tal fine, diversi emendamenti sono stati presentati per risolvere detta problematica nel rispetto degli obiettivi, di maggiore efficienza e produttività del sistema, richiesti dal Governo;</an:p>
+				<an:p align="justify">            che l'urgenza del confronto parlamentare nell'approvazione del disegno di legge di conversione del D.L. n. 138 non ha reso possibile un esame approfondito della situazione; che le modifiche presentate dal Governo, pur riguardando una serie di problematiche relative alla riscossione, non hanno recepito alcuna delle osservazioni oggetto degli emendamenti presentati in seno alle Commissioni,</an:p>
+				<an:p align="justify">        constata:</an:p>
+				<an:p align="justify">            che residuano ulteriori problematiche già sollevate da numerosi componenti delle Commissioni Parlamentari;</an:p>
+				<an:p align="justify">            il perdurare, per tali motivi, di uno stato di profonda incertezza economico-finanziaria nel quale sono chiamate ad operare le aziende concessionarie, nel biennio 2002-2003;</an:p>
+				<an:p align="justify">            il rischio che questa situazione può provocare sulla regolarità e funzionalità del servizio con non improbabili ricadute sulle condizioni del personale dipendente,</an:p>
+				<an:p align="justify">        invita:</an:p>
+				<an:p align="justify">            per tali motivi il Governo a farsi promotore di ogni iniziativa volta a sistemare, in modo equilibrato e definitivo, l'assetto economico e finanziario del sistema di riscossione; anche al fine di evitare ulteriori cadute occupazionali;</an:p>
+				<an:p align="justify">            ad evitare che il servizio di riscossione possa, per i suesposti motivi, avere forme di discontinuità o difficoltà nella gestione dell'attività;</an:p>
+				<an:p align="justify">            a riferire, nel minor tempo possibile, al Parlamento circa eventuali ricadute negative prodotte dall'applicazione dell'art. 3 sullo svolgimento del servizio.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
