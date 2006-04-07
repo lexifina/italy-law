@@ -1,0 +1,68 @@
+# Corte costituzionale, sentenza 140/2006
+
+- ECLI: ECLI:IT:COST:2006:140
+- Tipo: sentenza
+- Presidente: MARINI
+- Relatore: Luigi Mazzella
+- Redattore: Luigi Mazzella
+- Data della decisione: 03/04/2006
+- Data del deposito: 07/04/2006
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 30315
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:140
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Annibale MARINI; Giudici: Franco BILE, Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 9, comma 1, della legge 29 marzo 1985, n. 113 (Aggiornamento della disciplina del collocamento al lavoro e del rapporto di lavoro dei centralinisti non vedenti), promosso con ordinanza del 4 settembre 2003 dal Tribunale di Pescara, nel procedimento civile vertente tra Angelo Marzola e l'ASL di Pescara-Penne, iscritta al n. 465 del registro ordinanze 2005 e pubblicata nella Gazzetta Ufficiale n. 39, prima serie speciale, dell'anno 2005.
+      Visto l'atto di intervento del Presidente del Consigli dei ministri;
+      udito nella camera di consiglio dell'8 marzo 2006 il Giudice relatore Luigi Mazzella.
+
+## Testo
+
+Ritenuto in fatto1. - Nel corso di un procedimento civile promosso da Angelo Marzola contro l'Azienda sanitaria locale di Pescara-Penne, il Tribunale di Pescara, con ordinanza del 4 settembre 2003 (pervenuta alla Corte il 29 agosto 2005), ha  sollevato questione di legittimità costituzionale dell'art. 9, comma 1, della legge 29 marzo 1985, n. 113  (Aggiornamento della disciplina del collocamento al lavoro e del rapporto di lavoro dei centralinisti non vedenti), in riferimento agli artt. 3 e 36 della Costituzione, nella parte in cui consentirebbe di concedere l'indennità di mansione solo ai centralinisti non vedenti occupati in base alle norme relative al loro collocamento obbligatorio.
+      L'Azienda convenuta aveva revocato l'indennità di mansione, già da vari anni in godimento da parte del ricorrente, ai sensi del citato art. 9 della legge n. 113 del 1985, proprio perché il ricorrente non era stato assunto attraverso la procedura del collocamento obbligatorio, ma all'esito di una ordinaria procedura concorsuale pubblica.
+      Il rimettente ravvisa nella norma impugnata una violazione del principio di uguaglianza e del diritto ad una retribuzione proporzionata all'attività lavorativa effettivamente svolta, in quanto a lavoratori che si trovano nelle medesime condizioni e che svolgono identiche mansioni sarebbero attribuiti irragionevolmente trattamenti economici differenti sul solo presupposto delle diverse modalità di accesso all'impiego.
+      Rileva il giudice a quo che, ai sensi della disposizione in esame, l'erogazione della indennità di mansione è correlata, oltre che al profilo afferente alle modalità di assunzione, alla connotazione oggettiva della “particolare usura” propria delle prestazioni svolte dai centralinisti telefonici non vedenti, e che il riduttivo ambito di operatività della medesima disposizione, nei termini invocati dall'Amministrazione resistente, si pone in contrasto, in primo luogo, con l'art. 3 Cost., nella  misura in cui, a parità di contenuti e di modalità esplicative della mansione, nonché del tenore particolarmente usurante della stessa, il discrimine ai fini dell'accesso o meno al trattamento indennitario venga identificato esclusivamente in base al titolo di immissione nella mansione medesima.
+      A giudizio del rimettente, dalla disposizione della norma impugnata risulterebbe vulnerato anche l'art. 36, primo comma, Cost. laddove l'attribuzione del trattamento integrativo, riconosciuto in favore dei non vedenti che appartengono alla rispettiva categoria protetta, proprio in funzione della maggiore penosità insita nella mansione di centralinista, venisse negata all'omologo centralinista non vedente, ad altro titolo adibito alla stessa mansione.
+      2. - È intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, il quale ha eccepito anzitutto l'inammissibilità della questione in quanto, avendo l'ordinanza di rimessione omesso di ricostruire i dati di fatto (in particolare, quelli relativi alle modalità di assunzione del ricorrente da parte dell'ASL convenuta, nonché concernenti la retribuzione corrisposta), non era dato riscontrare la rilevanza della questione di costituzionalità.
+      A giudizio dell'interveniente, inoltre, l'interpretazione della norma impugnata adottata dal rimettente non è l'unica possibile, potendosi considerare altra opzione ermeneutica pienamente conforme al dettato costituzionale.
+      Nel merito, l'Avvocatura erariale ha eccepito l'infondatezza della questione osservando che la legge n. 113 del 1985 si colloca nell'ambito delle disposizioni volte ad assicurare la possibilità di svolgere proficua attività lavorativa a categorie di persone che si trovino in particolari situazioni di difficoltà ad inserirsi nel mercato del lavoro. Ma ciò non preclude ai soggetti considerati di entrare nel mercato del lavoro seguendo le vie ordinarie di accesso.
+    La norma in esame – secondo l'Avvocatura – impone ai datori di lavoro pubblici e privati di riservare una determinata quota di posti alle categorie svantaggiate: in sostanza, il fine della legge è quello di assicurare un posto di lavoro e, solo successivamente ed indirettamente, lo sviluppo e la progressione giuridica ed economica peculiari del personale assunto con le procedure ordinarie.
+      Al fine, tuttavia, di premiare l'impegno profuso, in comprensibili condizioni di difficoltà, si è attribuito al non vedente un'indennità di mansione che costituisce una sorta di compensazione alla mancata opportunità di accesso a mansioni diverse.
+      Secondo l'interveniente tale lettura trova conferma nella legge 28 marzo 1991, n. 120 (Norme in favore dei privi della vista per l'ammissione ai concorsi nonché alla carriera direttiva nella pubblica amministrazione e negli enti pubblici, per il pensionamento, per l'assegnazione di sede e la mobilità del personale direttivo e docente della scuola), che ha esteso a tutti i privi della vista  il beneficio dell'anzianità assicurativa previsto dall'art. 9, comma 2, della legge impugnata e non anche la particolare indennità prevista dal comma 1 del medesimo art. 9.Considerato in diritto1. - Il Tribunale di Pescara dubita della legittimità costituzionale – in riferimento agli artt. 3 e 36 Cost. – dell'art. 9, comma 1, della legge 29 marzo 1985, n. 113 (Aggiornamento della disciplina del collocamento al lavoro e del rapporto di lavoro dei centralinisti non vedenti), nella parte in cui consentirebbe di concedere l'indennità di mansione solo ai centralinisti non vedenti occupati in base alle norme relative al loro collocamento obbligatorio e non anche a quelli assunti in via ordinaria.
+      La disposizione impugnata riproduce testualmente quanto già stabilito dall'art. 4 della legge 3 giugno 1971, n. 397 (Norme a favore dei centralinisti ciechi) e prevede che «A tutti i centralinisti non vedenti occupati in base alle norme relative al loro collocamento obbligatorio è corrisposta una indennità di mansione pari a quella che si riconosce agli operatori dipendenti dall'Azienda di Stato per i servizi telefonici».
+    Sul regime del collocamento obbligatorio dei non vedenti, il legislatore con la disposizione di cui all'art. 45, comma 12, della legge 17 maggio 1999, n. 144 (Misure in materia di investimenti, delega al Governo per il riordino degli incentivi all'occupazione e della normativa che disciplina l'INAIL, nonché disposizioni per il riordino degli enti previdenziali), attraverso un rinvio alla legge n. 113 del 1985, ha esteso la stessa tutela normativa riconosciuta ai centralinisti non vedenti iscritti all'apposito Albo nazionale anche ai possessori di qualifica equipollente ancorché non iscritti all'albo.
+    Quanto alla rilevanza della questione di costituzionalità nel giudizio a quo, essa appare del tutto evidente, essendo la causa petendi  ed il petitum nella controversia a qua direttamente condizionati dalla legittimità o meno della norma impugnata.
+    2. - L'eccezione di inammissibilità sollevata dall'Avvocatura dello Stato relativamente ad una carente descrizione della fattispecie non può essere condivisa.
+    È sufficiente rilevare che dalla ordinanza del Tribunale di Pescara emergono chiaramente i dati, identificativi della fattispecie in esame, concernenti sia l'assunzione del ricorrente all'esito di una ordinaria procedura concorsuale pubblica, sia l'interruzione della erogazione dell'indennità di mansione, rispetto alla quale, in quanto caratterizzata da una specifica causale, non assume alcun rilievo conoscere l'ammontare complessivo della retribuzione percepita dal ricorrente.
+    3. - Nel merito la questione non è fondata. È ben possibile infatti un'interpretazione della norma impugnata coerente con gli stessi parametri costituzionali indicati dal rimettente.
+    Ritiene, in altri termini, questa Corte che le censure mosse dal Tribunale di Pescara si possano superare partendo da una ricostruzione sistematica della normativa in esame.
+    La coerenza interna del sistema di protezione e retribuzione dei lavoratori non vedenti ha la sua ratio non già nelle modalità costitutive del loro rapporto, ma piuttosto nella maggiore penosità del lavoro da essi svolto in condizioni fisiche particolari.
+    L'indennità di mansione non è riconosciuta ai centralinisti non affetti da cecità, perché solo per quelli non vedenti si giustifica una maggiore retribuzione in considerazione della qualità di un lavoro che presenta caratteristiche peculiari e che è svolto in condizioni di menomazione assolutamente evidenti.
+    Il trattamento preferenziale attribuito ai centralinisti ciechi integra, quindi, una scelta del legislatore giustificata dalla obiettiva gravosità della prestazione lavorativa connessa alla menomazione visiva.
+    Tra l'altro è significativo il fatto che l'indennità di mansione in questione va determinata con riferimento, non tanto al “premio industriale” connesso ai risultati produttivi dell'azienda, previsto dall'art. 28 dell'allegato alla legge 11 febbraio 1970, n. 29 (Modificazioni alle disposizioni sulle competenze accessorie del personale dipendente del Ministero delle poste e delle telecomunicazioni), quanto al “premio di rendimento” connesso all'espletamento delle mansioni, attribuito dall'art. 32 dell'allegato alla medesima legge soltanto al personale addetto ai servizi telefonici, tra cui gli operatori addetti ai posti di lavoro e di controllo delle sale interurbane e delle accettazioni dirette al pubblico.
+    Una interpretazione della normativa impugnata, pienamente coerente con il dettato costituzionale, induce a ritenere che l'indennità di mansione di cui è questione si ponga essenzialmente quale “corrispettivo” dell'obiettiva gravosità della prestazione lavorativa connessa alla menomazione visiva, oltre che della particolare natura delle mansioni espletate, nonché dell'impossibilità per i non vedenti di essere adibiti a mansioni alternative. Il che rende del tutto irrilevante la particolare modalità di accesso all'occupazione dei centralinisti non vedenti.
+    Non sarebbe ragionevole infatti la distinzione tra un lavoratore non vedente, che, per qualunque ragione, in regime di piena libertà, sia stato assegnato a mansioni di centralinista, ed altro lavoratore, ugualmente privo della vista, il quale, avviato obbligatoriamente a copertura dei posti di riserva previsti dalla legge n. 113 del 1985, venga occupato nelle medesime mansioni.
+    Ne deriva che non può ritenersi di ostacolo a questa interpretazione la formulazione testuale dell'art. 9, comma 1, impugnato laddove fa espresso riferimento alla fonte costitutiva del collocamento obbligatorio.
+    Anche dai lavori parlamentari che hanno preceduto la prima formulazione della norma, contenuta nella legge n. 397 del 1971, emerge, del resto, come la preoccupazione del legislatore sia stata quella di assicurare una piena tutela retributiva alle prestazioni rese dai lavoratori non vedenti nei confronti anche del datore di lavoro obbligato per legge alla loro assunzione, evitando in tal modo il rischio di un trattamento discriminatorio ai loro danni.
+    Deve affermarsi conclusivamente che la norma impugnata, così interpretata, supera le censure mosse dall'ordinanza di rimessione.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    dichiara non fondata, nei sensi di cui in motivazione, la questione di legittimità costituzionale dell'art. 9, comma 1, della legge 29 marzo 1985, n. 113 (Aggiornamento della disciplina del collocamento al lavoro e del rapporto di lavoro dei centralinisti non vedenti) sollevata, in riferimento agli artt. 3 e 36 della Costituzione, dal Tribunale di Pescara con l'ordinanza in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 3 aprile 2006.
+F.to:
+Annibale MARINI, Presidente
+Luigi MAZZELLA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 7 aprile 2006.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
