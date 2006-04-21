@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2421/A/24.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2421/A/24.100"/>
+					<an:FRBRdate date="2006-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2421/A/24.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="24.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@"/>
+					<an:FRBRdate date="2006-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@.akn"/>
+					<an:FRBRdate date="2006-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-04-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-04-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2421/A/24.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2421" showAs="DDL 2421"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2421</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 24.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Sostituire l'articolo con il seguente:</an:p>
+				<an:p align="justify">
+					        «Art. 24. - 
+					<an:i>(Interventi a favore dell'uso regionale dell'energia). -</an:i>
+					 1. Il Ministero delle attività produttive ed il Ministero dell'ambiente e della tutela del territorio, sentito il Ministero delle politiche agricole e forestali, stipulano un accordo di programma quinquennale con l'ENEA per l'attuazione di misure a sostegno della diffusione delle fonti rinnovabili e dell'efficienza negli usi finali dell'energia. L'accordo persegue i seguenti obiettivi generali:
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 l'introduzione nella pubblica amministrazione e nelle imprese, in particolare di piccola e media dimensione, di componenti, processi e criteri di gestione che consentano la riduzione del consumo energetico per unità di prodotto, nonché il maggiore utilizzo di fonti rinnovabili;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 la formazione di tecnici specialisti e la diffusione dell'informazione in merito alle caratteristiche e alle opportunità offerte dalle tecnologie;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>c)</an:i>
+					 la costituzione di reti di laboratori per la metrologia e la qualificazione e certificazione di prodotti e sistemi;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>d)</an:i>
+					 la costituzione di un osservatorio tecnologico;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>e)</an:i>
+					 la promozione di filiere produttive integrate, con particolare riferimento alla valorizzazione energetica delle biomasse;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>f)</an:i>
+					 la promozione di programmi di collaborazione internazionale, attuativi dei meccanismi flessibili previsti dal Protocollo di Kyoto, reso esecutivo dalla legge 1º giugno 2002, n. 120;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>g)</an:i>
+					 il supporto tecnico al Ministero delle attività produttive ed al Ministero dell'ambiente e della tutela del territorio per la predisposizione degli atti normativi e la verifica dei loro effetti, nonché per lo svolgimento dei rapporti con le regioni, con l'Unione europea e con le organizzazioni internazionali con le quali tali Ministeri intrattengono rapporti.
+				</an:p>
+				<an:p align="justify">        2. Le priorità, gli obiettivi specifici e i piani pluriennali e annuali dell'accordo di programma sono definiti dalle parti, d'intesa con la Conferenza unificata, entro sei mesi dalla data di entrata in vigore della presente legge.</an:p>
+				<an:p align="justify">        3. Per lo svolgimento delle attività dell'accordo di cui al comma 1, l'ENEA destina una somma non inferiore a 25 milioni di euro per ciascun anno a decorrere dal 2003, del contributo ordinario annuale dello Stato, a copertura dei costi diretti ed indiretti sostenuti».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
