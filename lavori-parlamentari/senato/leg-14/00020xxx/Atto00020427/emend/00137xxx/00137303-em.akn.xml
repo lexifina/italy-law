@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753-B/A/G2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753-B/A/G2"/>
+					<an:FRBRdate date="2006-04-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1753-B/A/G2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@"/>
+					<an:FRBRdate date="2006-04-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@.akn"/>
+					<an:FRBRdate date="2006-04-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-04-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-04-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1753-B/A/G2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1753-B" showAs="DDL 1753-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4376" showAs="Chincarini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1753-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Chincarini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            esaminato l'atto Senato n. 1753-C, recante «Delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione»;</an:p>
+				<an:p align="justify">            tenuto conto che nell'ambito delle materie di delega, rientra la pianificazione, programmazione e attuazione di interventi diretti a garantire la tutela e il risanamento dei corpi idrici superficiali e sotterranei;</an:p>
+				<an:p align="justify">            tenuto conto altresì che tra i princìpi di carattere generale, cui devono essere conformati i decreti legislativi delegati, si rilevano lo sviluppo e il coordinamento, con invarianza del gettito, delle misure e degli interventi che prevedono incentivi e disincentivi, finanziari o fiscali, volti a rendere più efficienti le azioni di tutela ambientale;</an:p>
+				<an:p align="justify">            preso atto che i laghi e i fiumi costituiscono un patrimonio essenziale non solo per la popolazione limitrofa ai laghi ed ai fiumi stessi ma per tutto il Paese e, pertanto, le operazioni di risanamento e riqualificazione non possono essere affidate esclusivamente alle limitate disponibilità economiche degli enti locali prospicienti i laghi e i fiumi medesimi, ma devono essere sostenute da tutta la collettività,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad individuare apposite risorse finanziarie da destinare agli enti locali prospicienti i laghi e i fiumi, nella forma di incentivi economici o cofinanziamenti, per sostenere le attività di disinquinamento e riqualificazione organizzate dagli enti locali medesimi, al fine di salvaguardare una componente indispensabile del patrimonio naturale di tutto il Paese.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
