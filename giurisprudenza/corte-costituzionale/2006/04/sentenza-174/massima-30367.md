@@ -1,0 +1,22 @@
+# Massima n. 30367
+
+- Pronuncia: Corte costituzionale, sentenza 174/2006 (ECLI:IT:COST:2006:174)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:174
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 174/06. FALLIMENTO E PROCEDURE CONCORSUALI - FALLIMENTO PRIVO DI ATTIVO - PATROCINIO A SPESE DELLO STATO - SPESE ED ONORARI AL CURATORE - MANCATA INCLUSIONE TRA LE SPESE ANTICIPATE DALL'ERARIO - DISPARITÀ DI TRATTAMENTO CON TUTTI GLI ALTRI AUSILIARI DEL GIUDICE CHE PRESTANO LA PROPRIA OPERA A FAVORE DELLA MASSA E CHE VENGONO RETRIBUITI CON COMPENSI POSTI A CARICO DELL'ERARIO - ILLEGITTIMITÀ COSTITUZIONALE 'IN PARTE QUA' - ASSORBIMENTO DELL'ULTERIORE PROFILO DI INCOSTITUZIONALITÀ.
+
+## Testo
+
+Illegittimità costituzionale, per contrasto con l'art. 3 Cost., dell'art. 146, comma 3, del d.P.R. 30 maggio 2002, n. 115, nella parte in cui non prevede che sono spese anticipate dall'Erario "le spese ed onorari" al curatore della procedura fallimentare. In presenza di un sistema che prevede l'anticipazione da parte dell'Erario di spese ed onorari ad ausiliari del magistrato e di una norma (art. 39 legge fall.) che enuncia il diritto del curatore al compenso per l'attività svolta, è manifestamente irragionevole che l'esclusione dell'anticipazione da parte dell'Erario delle spese e degli onorari riguardi il solo curatore. La volontarietà e non obbligatorietà dell'incarico e la non assimilabilità della posizione del curatore a quella del lavoratore non escludono il diritto al compenso, né giustificano la non ricomprensione delle spese (e degli onorari) fra quelle che sono anticipate dallo Stato, in caso di chiusura del fallimento per mancanza di attivo. L'invocazione della prassi secondo cui i giudici delegati indennizzano i professionisti, cui è affidata la curatela di fallimenti privi di attivo, con la nomina a curatori di fallimenti nei quali la ripartizione di attivo sembra probabile, non è probante, poiché lascia comunque senza compenso il curatore per l'attività svolta nel fallimento senza attivo. > >- Con la sentenza n. 302/1985, citata, la Corte aveva dichiarato non fondata la questione di legittimità costituzionale dell'art. 91 del r.d. n. 267 del 1942 (abrogato dall'art. 299 del d.P.R. n. 115 del 2002), nella parte in cui non prevedeva che il compenso del curatore, in mancanza di attivo, fosse posto a carico dell'Erario, argomentando dalla non qualificabilità del curatore come lavoratore  ex  art. 36 Cost. e dalla non obbligatorietà dell'accettazione dell'incarico. > >- Le ordinanze n. 488/1993 e n. 368/1994, citate, hanno concluso per la manifesta infondatezza della stessa questione argomentando anche dalla insussistenza di disparità di trattamento fra il curatore e gli avvocati e procuratori nominati d'ufficio, per la facoltatività dell'incarico in un caso e l'obbligatorietà dello stesso nell'altro.
+
+## Norme
+
+- decreto del Presidente della Repubblica, 30/05/2002 n. 115, art. 146, comma 3
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 36
