@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753/C/3.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753/C/3.11"/>
+					<an:FRBRdate date="2006-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1753/C/3.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@"/>
+					<an:FRBRdate date="2006-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@.akn"/>
+					<an:FRBRdate date="2006-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1753/C/3.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1753" showAs="DDL 1753"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Territorio, ambiente, beni ambientali" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1753</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire la lettera a) con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 garantire che la gestione dei rifiuti costituisce attività di pubblico interesse ed è disciplinata al fine di assicurare un'elevata protezione dell'ambiente e controlli efficaci, tenendo conto della specificità dei rifiuti pericolosi; garantire che i rifiuti siano recuperati o smaltiti senza pericolo per la salute dell'uomo e senza usare procedimenti o metodi che potrebbero recare pregiudizio all'ambiente e, in particolare senza determinare rischi per l'acqua, l'aria, il suolo e per la fauna e la flora, senza causare inconvenienti da rumori o odori, senza danneggiare il paesaggio e i siti di particolare interesse, tutelati in base alla normativa vigente; garantire che la gestione dei rifiuti sia conforme ai principi di responsabilizzazione e di cooperazione di tutti i soggetti coinvolti nella produzione, nella distribuzione, nell'utilizzo e nel consumo di beni da cui originano i rifiuti, nel rispetto dei principi dell'ordinamento nazionale e comunitario; favorire, in via prioritaria, la prevenzione e la riduzione della produzione e della pericolosità dei rifiuti mediante:
+				</an:p>
+				<an:p>                1) lo sviluppo di tecnologie pulite, in particolare quelle che consentono un maggiore risparmio di risorse naturali;</an:p>
+				<an:p>
+					                2) la promozione di strumenti economici, eco-bilanci, sistemi di 
+					<an:i>ecoaudit</an:i>
+					, analisi del ciclo di vita dei prodotti, azioni di informazione e di sensibilizzazione dei consumatori, nonchè lo sviluppo del sistema di marchio ecologico ai fini della corretta valutazione dell'impatto di uno specifico prodotto sull'ambiente durante l'intero ciclo di vita del prodotto medesimo;
+				</an:p>
+				<an:p>                3) la messa a punto tecnica e l'immissione sul mercato di prodotti concepiti in modo da non contribuire o da contribuire il meno possibile, per la loro fabbricazione, il loro uso od il loro smaltimento, ad incrementare la quantità, il volume e la pericolosità dei rifiuti ed i rischi di inquinamento;</an:p>
+				<an:p>                4) lo sviluppo di tecniche appropriate per l'eliminazione di sostanze pericolose contenute nei rifiuti destinati ad essere recuperati o smaltiti;</an:p>
+				<an:p>                5) la determinazione di condizioni di appalto che valorizzino le capacità e le competenze tecniche in materia di prevenzione della produzione di rifiuti;</an:p>
+				<an:p>                6) la promozione di accordi e contratti di programma finalizzati alla prevenzione ed alla riduzione della quantità e della pericolosità dei rifiuti; garantire l'esclusione dei rifiuti dal novero delle fonti di energia rinnovabile; garantire la gestione ed il controllo pubblico sul ciclo dei rifiuti ed il mantenimento della privativa comunale; scoraggiare il ricorso all'incenerimento; favorire il controllo sul ciclo attraverso i registri e la certificazione previsti dal decreto legislativo 5 febbraio 1997, n. 22».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
