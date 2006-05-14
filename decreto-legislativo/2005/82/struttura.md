@@ -8,7 +8,7 @@
 
 - Sezione II Firme elettroniche e certificatori (Art. 24.)
 
-- Sezione III Contratti, pagamenti, libri e scritture (Art. 38.)
+- Sezione III ((Pagamenti, libri e scritture)) (Art. 38.)
 
 - Capo III FORMAZIONE, GESTIONE E CONSERVAZIONE DEI DOCUMENTI INFORMATICI (Art. 40.)
 
@@ -26,4 +26,10 @@
 
 - Capo VII REGOLE TECNICHE (Art. 71.)
 
-- Capo VIII DISPOSIZIONI TRANSITORIE FINALI E ABROGAZIONI (Art. 72.)
+- ((Capo VIII SISTEMA PUBBLICO DI CONNETTIVITA' E RETE INTERNAZIONALE DELLA PUBBLICA AMMINISTRAZIONE SEZIONE I Definizioni relative al sistema pubblico di connettivita')) (Art. 72.)
+
+- ((SEZIONE II Sistema pubblico di connettivita' SPC)) (Art. 75.)
+
+- ((SEZIONE III Rete internazionale della pubblica amministrazione e compiti del CNIPA)) (Art. 85.)
+
+- ((Capo IX)) DISPOSIZIONI TRANSITORIE FINALI E ABROGAZIONI (Art. 88.)
