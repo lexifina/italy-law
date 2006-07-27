@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/845/A/G4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/845/A/G4"/>
+					<an:FRBRdate date="2006-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/845/A/G4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/845/A/G4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/845/A/G4/ita@"/>
+					<an:FRBRdate date="2006-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/845/A/G4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/845/A/G4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/845/A/G4/ita@.akn"/>
+					<an:FRBRdate date="2006-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/845/A/G4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-07-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-07-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/845/A/G4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/845" showAs="DDL 845"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/12836" showAs="Stiffoni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/532" showAs="Castelli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22730" showAs="Davico"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/2326" showAs="Stefani"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22746" showAs="Gabana"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/5920" showAs="Galli"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/22744" showAs="Fruscio"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/1321" showAs="Leoni"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/4519" showAs="Pirovano"/>
+				<an:TLCPerson id="EPC" href="http://dati.senato.it/senatore/17754" showAs="Polledri"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 845</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Stiffoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Castelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Davico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Stefani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Gabana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Galli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Fruscio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Leoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Pirovano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPC" as="#tipoSenatore">Polledri</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, preso atto:</an:p>
+				<an:p align="justify">            del fatto che è ormai deciso il completo rimpatrio entro la fine del prossimo autunno del contingente militare italiano dall'Iraq;</an:p>
+				<an:p align="justify">            della circostanza che tale contingente annoverava agli inizi del 2005 più di tremila uomini appartenenti alle quattro Forze Armate, divenuti alla metà del 2006 all'incirca 1.600;</an:p>
+				<an:p align="justify">            che è stata cancellata la missione «Nuova Babilonia», che avrebbe comunque comportato la presenza di non meno di ottocento militari italiani in Iraq anche dopo il 31 dicembre 2006, con la funzione di assicurare la protezione dei civili cooperanti alla ricostruzione delle istituzioni e dell'economia dell'Iraq;</an:p>
+				<an:p align="justify">        rilevando come,</an:p>
+				<an:p align="justify">            la cessazione completa dell'impegno militare interforze in Iraq avrà l'effetto positivo di rendere a breve termine disponibile un'aliquota supplementare di militari da adibire ad altre funzioni e permetterà di risparmiare risorse finanziarie per non meno di 130 milioni di euro a semestre, stando ai dati forniti dall'Atto Camera 1288;</an:p>
+				<an:p align="justify">        evidenziando altresì,</an:p>
+				<an:p align="justify">            le permanenti difficoltà che si riscontrano a proteggere i confini nazionali italiani dalla penetrazione di immigrati clandestini;</an:p>
+				<an:p align="justify">        impegna il Governo,</an:p>
+				<an:p align="justify">            a destinare le risorse già destinate ad Antica Babilonia, gli uomini ed i mezzi in via di rimpatrio dall'Iraq e dal Golfo Persico al potenziamento del dispositivo interforze incaricato di proteggere i confini nazionali dai flussi migratori illegali che interessano la penisola italiana.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
