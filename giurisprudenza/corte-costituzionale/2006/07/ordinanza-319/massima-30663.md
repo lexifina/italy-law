@@ -1,0 +1,25 @@
+# Massima n. 30663
+
+- Pronuncia: Corte costituzionale, ordinanza 319/2006 (ECLI:IT:COST:2006:319)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:319
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+ORD. 319/06. TITOLI DI CREDITO - ASSEGNO BANCARIO - EMISSIONE SENZA PROVVISTA E PAGAMENTO NEI SESSANTA GIORNI SUCCESSIVI ALLA SCADENZA DEL TERMINE DI PRESENTAZIONE - OBBLIGO DEL TRATTARIO DI EFFETTUARE LA SEGNALAZIONE ALL'ARCHIVIO INFORMATICO DELLA BANCA D'ITALIA, OVE LA PROVA DELL'AVVENUTO PAGAMENTO VENGA FORNITA DAL TRAENTE DOPO LA SCADENZA DEL PERIODO DI MORATORIA - DENUNCIATA VIOLAZIONE DEI PRINCIPI DI RAGIONEVOLEZZA, EGUAGLIANZA E LIBERTÀ DI IMPRESA - INSUFFICIENTE DESCRIZIONE DELLA FATTISPECIE - CONSEGUENTE CARENZA DI MOTIVAZIONE SULLA RILEVANZA DELLA QUESTIONE - MANIFESTA INAMMISSIBILITÀ.
+
+## Testo
+
+E' manifestamente inammissibile la questione di legittimità costituzionale degli artt. 9 e 9- bis  della legge n. 386 del 1990, sollevata, in riferimento agli artt. 2, 3 e 41 della Costituzione, nella parte in cui, in caso di mancato pagamento di un assegno, in tutto o in parte, per carenza di provvista, le disposizioni censurate richiedono, perché non abbia luogo l'iscrizione del nominativo del traente nell'archivio informatico della Banca d'Italia (e la conseguente revoca di ogni autorizzazione a emettere assegni) che, entro il termine di cui all'art. 8 della stessa legge (sessanta giorni dalla data di scadenza della presentazione), venga fornita la prova dell'avvenuto pagamento dell'assegno, invece di ritenere sufficiente, a questi fini (al pari di quanto previsto per l'applicazione delle sanzioni amministrative), che, nel rispetto dei limiti temporali innanzi indicati, il titolo sia stato pagato. Infatti, nella specie, l'insufficiente descrizione della fattispecie si risolve in carenza della motivazione sulla rilevanza della proposta questione.
+
+## Norme
+
+- decreto legislativo, 30/12/1999 n. 507
+- legge, 15/12/1990 n. 386, art. 9
+- legge, 15/12/1990 n. 386, art. 9 bis
+
+## Parametri
+
+- Costituzione, art. 2
+- Costituzione, art. 3
+- Costituzione, art. 41
