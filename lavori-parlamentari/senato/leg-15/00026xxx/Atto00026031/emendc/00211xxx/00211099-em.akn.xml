@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/741/C/4.23/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/741/C/4.23"/>
+					<an:FRBRdate date="2006-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/741/C/4.23/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.23"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@"/>
+					<an:FRBRdate date="2006-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@.akn"/>
+					<an:FRBRdate date="2006-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-09-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-09-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/741/C/4.23/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/741" showAs="DDL 741"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22766" showAs="Pecoraro Scanio"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17881" showAs="Bulgarelli"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22808" showAs="Silvestri"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 741</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.23</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Pecoraro Scanio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Silvestri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis.</an:i>
+					 Entro dodici mesi dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro dello sviluppo economico, di concerto con il Ministro delle politiche agricole alimentari e forestali e con il Ministro della salute, previo parere della Conferenza permanente per i rapporti fra lo Stato, le regioni e le province autonome di Trento e di Bolzano, provvede, con proprio provvedimento, a disciplinare:
+				</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 la denominazione di ''panificio'' da riservare alle imprese che svolgono l'intero ciclo di produzione del pane, dalla lavorazione delle materie prime alla cottura finale;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 i requisiti minimi di qualificazione professionale necessari per l'avvio dell'attività, a tutela della salute dei consumatori e dell'igiene degli alimenti;
+				</an:p>
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 la denominazione di ''pane fresco'' da riservare al pane prodotto secondo un processo di produzione continuo, privo di interruzioni finalizzate al congelamento, alla surgelazione o alla conservazione prolungata delle materie prime, dei prodotti intermedi della panificazione e degli impasti, fatto salvo l'impiego di tecniche di lavorazione finalizzate al solo rallentamento del processo di lievitazione, da porre in vendita entro un termine che tenga conto delle diverse tipologie panarie esistenti a livello territoriale».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
