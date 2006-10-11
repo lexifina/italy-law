@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/953/A/G1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/953/A/G1.100"/>
+					<an:FRBRdate date="2006-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/953/A/G1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@"/>
+					<an:FRBRdate date="2006-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@.akn"/>
+					<an:FRBRdate date="2006-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-10-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-10-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/953/A/G1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/953" showAs="DDL 953"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22777" showAs="Rossa"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22804" showAs="Rossi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22794" showAs="Turano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 953</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Rossa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Turano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge di conversione del decreto-legge 15 settembre 2006, n. 258, recante «Disposizioni urgenti di adeguamento alla sentenza della Corte di giustizia delle Comunità europee in data 14 settembre 2006 nella causa C-228/05, in materia di detraibilità dell'IVA,</an:p>
+				<an:p align="justify">        Premesso che:</an:p>
+				<an:p align="justify">            il decreto-legge in esame prevede la presentazione di una istanza di rimborso da parte degli aventi diritto, mediante l'utilizzazione di uno specifico modello di cui al provvedimento del Direttore dell'Agenzia delle entrate da approvarsi entro 45 giorni dalla data di entrata in vigore del decreto-legge;</an:p>
+				<an:p align="justify">            nello stesso provvedimento del Direttore dell'Agenzia delle entrate sono individuati i documenti che devono essere indicati o predisposti dai contribuenti a fondamento dell'istanza di rimborso;</an:p>
+				<an:p align="justify">            il decreto-legge prevede un termine decadenziale entro cui presentare l'istanza di rimborso;</an:p>
+				<an:p align="justify">            tenuto conto della necessità di concordare le modifiche al testo del decreto in sede comunitaria,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a chiarire che la predisposizione e l'invio della documentazione comprovante il diritto a rimborso può essere effettuato, senza alcuna conseguenza per i contribuenti, anche dopo la scadenza del termine decadenziale di cui all'articolo 1, comma 1.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
