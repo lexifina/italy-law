@@ -1,0 +1,23 @@
+# Massima n. 30735
+
+- Pronuncia: Corte costituzionale, sentenza 355/2006 (ECLI:IT:COST:2006:355)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:355
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 355/06 A. ENTI PUBBLICI - ENTE ORDINE MAURIZIANO DI TORINO - NORME PER IL RISANAMENTO ECONOMICO - ESTINZIONE, OBBLIGATORIAMENTE DICHIARATA DAL GIUDICE, PER UN PERIODO DI VENTIQUATTRO MESI, DELLE PROCEDURE ESECUTIVE PROPOSTE A CARICO DELL'ENTE SULLA BASE DI PARTICOLARI TITOLI ESECUTIVI - INSERIMENTO AUTOMATICO DEI RELATIVI DEBITI NELLA MASSA PASSIVA - LAMENTATA LESIONE DEL PRINCIPIO DI EGUAGLIANZA TRA I CREDITORI E DEL PRINCIPIO DI RAGIONEVOLEZZA - ESCLUSIONE - POSSIBILITÀ DI PERVENIRE IN VIA INTERPRETATIVA A SOLUZIONE CONFORME A COSTITUZIONE - NON FONDATEZZA DELLA QUESTIONE.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale, dell'art. 3, comma 1, lettera  b ), del decreto-legge 19 novembre 2004, n. 277, convertito, con modificazioni, nella legge 21 gennaio 2005, n. 4, contestato, in riferimento all'art. 3, commi primo e secondo, della Costituzione, ove prevede che, dalla data di entrata in vigore e per un periodo di ventiquattro mesi, le procedure esecutive pendenti, per le quali siano scaduti i termini per l'opposizione giudiziale da parte dell'Ordine Mauriziano, ovvero la stessa opposizione, benché proposta, sia stata rigettata, sono dichiarate estinte dal giudice, e gli importi dei relativi debiti sono inseriti nella massa passiva accertata dal commissario straordinario. Il rimettente, muovendo dalla premessa che la locuzione «opposizione giudiziale» non può riferirsi che ai creditori il cui titolo esecutivo sia costituito da un decreto ingiuntivo esecutivo, osserva che l'inserimento, ad opera del commissario straordinario, nella massa passiva sarebbe garantito a tale tipologia di creditori, se intervenuti nel processo esecutivo prima dell'entrata in vigore del decreto-legge, il quale  ex se , e non già  ope judicis , sancisce l'estinzione delle procedure esecutive singolari, con conseguente irragionevole deteriore trattamento sia per i creditori, muniti di identico titolo esecutivo, intervenuti dopo l'entrata in vigore del decreto-legge, sia per i creditori muniti di diverso titolo esecutivo (costituito da sentenza o altro provvedimento irretrattabile), per ciò solo esclusi dalla massa passiva. Invero, la norma censurata assolve alla funzione di assoggettare i beni della Fondazione ad una procedura esecutiva di tipo concorsuale in luogo di quelle singolari; sicché, alla luce del principio della  par condicio creditorum,  l'interpretazione proposta dal giudice  a quo  non può essere condivisa, poiché in contrasto con fondamentali precetti costituzionali. In realtà, «l'opposizione giudiziale» alla quale si riferisce la norma censurata allude genericamente a qualsiasi rimedio  lato sensu  impugnatorio volto a contrastare la formazione di un titolo esecutivo giudiziale, titolo che, divenuto irretrattabile, per ciò solo impone al commissario straordinario l'inserimento del relativo credito nella massa passiva. Peraltro, la legge è inequivoca nel senso che l'ammissione nella massa passiva riguarda tutti, ed esclusivamente, i debiti [...] maturati fino alla data di entrata in vigore del presente decreto: sicché non soltanto è irrilevante il momento dell'(eventuale) intervento nella procedura esecutiva, ma ne discende altresì che l'inserimento nella massa passiva è definitivo e non già «provvisorio», e cioè - come ritiene invece il rimettente - per «un periodo di ventiquattro mesi», decorso il quale occorrerebbe intraprendere  ex novo  un'espropriazione singolare. Ne consegue che la legge, imponendo la «moratoria» di ventiquattro mesi, esclude che i creditori, il cui diritto sia maturato posteriormente all'entrata in vigore del decreto-legge, possano intraprendere per tale periodo azioni esecutive e, decorso tale periodo, le consente, oltre che su beni eventualmente sopravvenuti, sui beni compresi nella «gestione separata» solo se, e dopo che, i creditori ammessi alla massa passiva siano già stati integralmente soddisfatti. - Sulla idoneità del carattere concorsuale della procedura di liquidazione dei beni a garantire il rispetto del principio di eguaglianza, v. citata sentenza n. 155/1994.
+
+## Norme
+
+- decreto-legge, 19/11/2004 n. 277
+- legge, 21/01/2005 n. 4, art. 3, comma 1 lettera b)
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 3, comma 2
