@@ -1,0 +1,21 @@
+# Massima n. 30766
+
+- Pronuncia: Corte costituzionale, sentenza 371/2006 (ECLI:IT:COST:2006:371)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:371
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+SENT. 371/06 D. PARLAMENTO - IMMUNITÀ PARLAMENTARI - PROCEDIMENTO CIVILE A CARICO DI UN SENATORE PER IL RISARCIMENTO DEL DANNO ASSERITAMENTE DERIVANTE DA DICHIARAZIONI RESE NEL CORSO DI UNA INTERVISTA PUBBLICATA DA UN QUOTIDIANO - DELIBERAZIONE DI INSINDACABILITÀ DELLE OPINIONI ADOTTATA DALLA CAMERA DI APPARTENENZA - RICORSO PER CONFLITTO DI ATTRIBUZIONE DEL TRIBUNALE DI MILANO - LAMENTATA LESIONE DELLA SFERA DELLE PROPRIE ATTRIBUZIONI, COSTITUZIONALMENTE GARANTITA - INSUSSISTENZA DEL NESSO FUNZIONALE TRA DICHIARAZIONI RESE 'EXTRA MOENIA' E ATTI PARLAMENTARI TIPICI - RILEVANZA DELLA COMUNANZA DI ARGOMENTI E CONTESTO POLITICO - ESCLUSIONE - RIFERIMENTO, NELLA DICHIARAZIONE, ALL'ISTITUZIONE DI UNA COMMISSIONE COMUNALE DI INCHIESTA - POSSIBILITÀ DI VERIFICARE LA SUSSISTENZA DEL NESSO FUNZIONALE CON RIFERIMENTO A TUTTA L'ATTIVITÀ DELLA COMMISSIONE - ESCLUSIONE - RILEVANZA DEL RIFERIMENTO AI LAVORI DI UNA COMMISSIONE BICAMERALE D'INCHIESTA SUL CICLO DEI RIFIUTI E SULLE ATTIVITÀ ILLECITE CONNESSE - ESCLUSIONE - NON SPETTANZA AL SENATO DELLA REPUBBLICA DI ADOTTARE LA DELIBERAZIONE IMPUGNATA E CONSEGUENTE ANNULLAMENTO DELLA STESSA.
+
+## Testo
+
+Non spettava al Senato della Repubblica adottare la delibera del 31 gennaio 2001 (documento IV-quater, n. 58), con la quale si è stabilito che le dichiarazioni rese da un senatore e oggetto del giudizio civile pendente dinanzi al Tribunale di Milano, I sezione civile, costituiscono opinioni espresse da un membro del Parlamento nell'esercizio delle sue funzioni,  ex  art. 68, primo comma, Cost. e sono, perciò, insindacabili. Premesso che la prerogativa di cui alla citata norma costituzionale non copre tutte le opinioni espresse dal parlamentare nello svolgimento della sua attività, ma solo quelle legate da nesso funzionale con le attività svolte quale membro di una delle Camere, e che detto nesso sussiste ove siano riscontrabili sia un legame temporale fra attività parlamentare ed attività esterna (che abbia finalità divulgativa della prima), sia una sostanziale corrispondenza di significato tra le opinioni espresse nell'esercizio delle funzioni e atti esterni, nel caso in esame tra le interrogazioni parlamentari presentate dal senatore sul tema della gestione dei rifiuti nella città di Milano e le dichiarazioni affidate alla stampa non sussiste il suddetto nesso funzionale: escludendo, infatti, le interrogazioni parlamentari successive alle dichiarazioni  extra moenia , posteriori di addirittura due anni e mezzo, residua un'unica interrogazione astrattamente rilevante, in quanto anteriore alle dichiarazioni, rispetto alla quale manca il requisito della sostanziale identità di contenuto. La deliberazione di insindacabilità di cui sopra deve, pertanto, essere annullata. - Sulla necessità che le dichiarazioni  extra moenia  siano espressione dell'esercizio di attività parlamentari v., citate,  ex plurimis , sentenze n. 317/2006, n. 28, n. 164, n. 176, ordinanza n. 196/2005 e sentenze n. 235/2005, n. 52/2002, n. 10 e 11/2000. - Sul nesso funzionale v., citate, sentenze n. 317, n. 258 e n. 221/2006, n. 51/2002. - Sul legame temporale fra attività parlamentare e attività esterna v., citate, sentenze n. 317 e 260/2006. - Sul caso di pluralità di dichiarazioni in un unico contesto, v., citata, sentenza n. 246/2004. - Sull'irrilevanza del carattere diffamatorio delle dichiarazioni v., citata, sentenza n. 10/2000. - Sulle "circostanze di contorno" rispetto alle opinioni già espresse in sede parlamentare v., citate, sentenze n. 320 e n. 321/2000. - Sull'irrilevanza degli atti compiuti da parlamentari diversi dall'autore delle dichiarazioni v., citate,  ex plurimis , sentenze n. 249, n. 260, n. 317/2006, n. 146/2005, n. 347/2004.
+
+## Norme
+
+- deliberazione del Senato della Repubblica, 31/01/2001
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
