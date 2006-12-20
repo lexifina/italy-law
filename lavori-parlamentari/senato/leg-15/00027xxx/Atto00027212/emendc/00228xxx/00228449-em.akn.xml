@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/C/18.2163/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/C/18.2163"/>
+					<an:FRBRdate date="2006-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1183/C/18.2163/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.2163"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@"/>
+					<an:FRBRdate date="2006-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@.akn"/>
+					<an:FRBRdate date="2006-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-12-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-12-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1183/C/18.2163/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1183" showAs="DDL 1183"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22713" showAs="Bobba"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17825" showAs="Banti"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22701" showAs="Adragna"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/4346" showAs="Boccia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1183</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.2163</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bobba</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Banti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Adragna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Boccia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 399, aggiungere il seguente periodo:</an:i>
+				</an:p>
+				<an:p>        «Con effetto dal 1º gennaio 2007, le aziende di gestione dei servizi pubblici locali a rilevanza economica sono tenute a versare alla gestione per le prestazioni temporanee dell'INPS, in favore dei propri dipendenti anche se non iscritti al Fondo pensioni dei lavoratori dipendenti, la contribuzione per l'assegno per il nucleo familiare secondo l'aliquota del 2,48 per cento, salva la riduzione di cui all'articolo 120, legge 23 dicembre 2000 n. 388, e la contribuzione per il trattamento di maternità secondo l'aliquota dello 0,46 per cento per il settore dell'industria e dello 0,24 per cento per il settore terziario, salva la nduzione di cui all'articolo 78, comma 2, decreto legislativo 26 marzo 2001 n. 151; l'allineamento alle aliquote risultanti dall'applicazione del criterio sopra enunciato avviene attraverso una riduzione dei contributi dell'1 per cento dal 1º gennaio 2007, di un ulteriore 1 per cento dal 1º gennaio 2008 e della parte restante dal 1º gennaio 2009; ad integrazione e parziale modifica del decreto legislativo 16 settembre 1996 n. 564 e dell'articolo 49 comma 4, legge 23 dicembre 1999 n. 488, in favore dei dipendenti delle aziende di gestione dei servizi pubblici locali a rilevanza economica, per i periodi di assenza dal lavoro per malattia, maternità o infortunio maturano i contributi figurativi utili per il diritto alla pensione e per la determinazione del relativo importo; gli oneri corrispondenti a detti contributi sono addebitati alle gestioni di rispettiva iscrizione dei dipendenti interessati».</an:p>
+				<an:p>
+					<an:i>        Conseguentemente, dopo il comma 735, articolo 18, inserire il seguente articolo:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 735
+					<an:i>-bis</an:i>
+					. - 
+					<an:i>(Accise prodotti alcolici).</an:i>
+					 - 1. A decorrere dal 1º gennaio 2007, con decreto del Ministro dell'economia e delle finanze, sono aumentate le aliquote di cui all'allegato I del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumii e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, relative alla birra, ai prodottì alcolici intermedi e all'alcul etì1ico al fine di assicurare un maggior gettito complessivo pari a 38 milioni di euro annui».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
