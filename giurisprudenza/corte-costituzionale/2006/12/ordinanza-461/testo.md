@@ -1,0 +1,58 @@
+# Corte costituzionale, ordinanza 461/2006
+
+- ECLI: ECLI:IT:COST:2006:461
+- Tipo: ordinanza
+- Presidente: FLICK
+- Relatore: Franco Gallo
+- Redattore: Franco Gallo
+- Data della decisione: 13/12/2006
+- Data del deposito: 28/12/2006
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 30888
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2006:461
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Giovanni Maria FLICK; Giudici: Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 17, comma 3, del decreto del Presidente della Repubblica del 26 aprile 1986, n 131 (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), promosso con ordinanza del 14 novembre 2005 dalla Commissione tributaria provinciale di Ferrara nel giudizio tributario vertente tra la s.r.l. Arci Progetto Cinema e l'Agenzia delle entrate – Ufficio di Ferrara, iscritta al n. 211 del registro ordinanze 2006 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 28, prima serie speciale, dell'anno 2006.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 6 dicembre 2006 il Giudice relatore Franco Gallo.
+    Ritenuto che, nel corso di un giudizio tributario – promosso da una società a responsabilità limitata avverso il rifiuto opposto dal competente ufficio finanziario alla richiesta di parziale rimborso dell'imposta di registro corrisposta in relazione ad un contratto di affitto di azienda –, la Commissione tributaria provinciale di Ferrara, con ordinanza del 14 novembre 2005, ha sollevato, in riferimento agli artt. 3, 53 e 97 della Costituzione, questione di legittimità dell'art. 17 (rectius: art. 17, comma 3) del d.P.R. 26 aprile 1986, n. 131 (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro);
+    che il giudice rimettente premette, in punto di fatto, che: a) la società aveva stipulato, quale conduttrice, un contratto di affitto di azienda per la durata di sei anni, pattuendo quale corrispettivo un canone annuo; b) la conduttrice aveva versato l'imposta di registro nella misura del tre per cento del complessivo ammontare dei canoni pattuiti per l'intera durata contrattuale; c) era successivamente intervenuta l'anticipata risoluzione del contratto; d) la medesima società aveva invano richiesto all'amministrazione finanziaria il rimborso dell'imposta di registro per la parte corrispondente al periodo contrattuale successivo alla suddetta risoluzione;
+    che la Commissione tributaria provinciale premette altresí, in punto di diritto, che, nel caso di risoluzione anticipata dei contratti di locazione e sublocazione di immobili urbani di durata pluriennale, il contribuente – in base alla denunciata disposizione – ha diritto al rimborso del tributo relativo alle annualità successive a quella in corso, ove abbia esercitato l'opzione di corrispondere l'imposta di registro sul corrispettivo pattuito per l'intera durata del contratto;
+    che, poste tali premesse, il giudice a quo osserva che la suddetta disposizione, non prevedendo il diritto del contribuente al parziale rimborso del tributo nel caso – dal rimettente ritenuto analogo – di risoluzione anticipata di contratti pluriennali di affitto di azienda, comporterebbe l'ingiustificata disparità di trattamento di fattispecie simili, con conseguente violazione dei princípi costituzionali di eguaglianza dei cittadini (art. 3 Cost.), di capacità contributiva (art. 53 Cost.), nonché di imparzialità della pubblica amministrazione (art. 97 Cost.);
+    che, in punto di rilevanza, il rimettente afferma che il giudizio principale non può essere definito indipendentemente dalla risoluzione della sollevata questione di legittimità costituzionale;
+    che è intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione sia dichiarata «inammissibile, perché manifestamente infondata, o sia comunque rigettata per infondatezza»;
+    che, con memoria depositata in prossimità della data fissata per la camera di consiglio, la difesa erariale ha ulteriormente illustrato le ragioni della dedotta infondatezza della questione.
+    Considerato che la Commissione tributaria provinciale di Ferrara dubita, in riferimento agli artt. 3, 53 e 97 della Costituzione, della legittimità dell'art. 17, comma 3, del d.P.R. 26 aprile 1986, n. 131 (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro);
+    che, ad avviso del giudice rimettente, la disposizione denunciata, non prevedendo, nel caso di risoluzione anticipata del contratto pluriennale di affitto di azienda, il diritto del contribuente al parziale rimborso dell'imposta di registro pagata con riferimento al corrispettivo pattuito per l'intera durata del contratto, violerebbe le citate disposizioni costituzionali;
+    che in particolare, secondo il giudice a quo, tale esclusione del diritto del contribuente al rimborso del tributo si porrebbe in contrasto con il principio di eguaglianza di cui all'art. 3 Cost., perché creerebbe una ingiustificata disparità di trattamento rispetto al caso – ritenuto simile – della risoluzione anticipata dei contratti di locazione e sublocazione di immobili urbani di durata pluriennale, per il quale, invece, la menzionata disposizione espressamente prevede il diritto di rimborso a favore del contribuente, ove questi abbia esercitato l'opzione di versare in unica soluzione l'imposta di registro, calcolata sul corrispettivo pattuito per l'intera durata contrattuale;
+    che la questione è manifestamente inammissibile, per carente motivazione sulla non manifesta infondatezza;
+    che infatti, quanto alla dedotta violazione degli artt. 53 e 97 Cost., il rimettente si limita alla mera enunciazione di tali parametri, omettendo di fornire qualsiasi argomento a sostegno della censura;
+    che, quanto alla dedotta violazione dell'art. 3 Cost., il rimettente non motiva circa l'asserita omogeneità delle situazioni da lui poste a raffronto, ma si limita ad affermare che «appare evidente […] la similitudine delle due fattispecie prese in considerazione ai fini dell'applicazione della relativa tassazione» (cioè la locazione pluriennale di immobili urbani e l'affitto pluriennale di azienda);
+    che tale motivazione sarebbe stata, invece, necessaria, perché il giudice a quo ritiene comparabili fattispecie che il legislatore, in ragione delle esigenze sociali sottese ai contratti di locazione di immobili urbani, ha avuto cura di differenziare nettamente, mediante la previsione per detti contratti di una disciplina, anche fiscale, derogatoria rispetto a quella generale (si vedano, in particolare, i lavori preparatori dell'art. 34-bis del d.P.R. 26 ottobre 1972, n. 634 –  articolo costituente l'antecedente storico della disposizione censurata, introdotto dall'art. 1 del decreto-legge 10 novembre 1978, n. 693, convertito, con modificazioni, dalla legge 23 dicembre 1978, n. 841 –, nei quali viene indicata nell'entrata in vigore della legge 27 luglio 1978, n. 392, recante la nuova «Disciplina della locazione di immobili urbani», la ratio giustificatrice della norma con la quale viene stabilito, in via di eccezione, il carattere annuale dell'obbligo di corrispondere l'imposta di registro relativa a tali locazioni);
+    che dunque, nell'ordinanza di rimessione, andavano indicate le ragioni per le quali, ad avviso del giudice a quo, dovrebbe estendersi ai contratti pluriennali di affitto di azienda il peculiare regime dell'imposta di registro previsto esclusivamente per le locazioni pluriennali di immobili urbani, in base al quale l'imposta – in deroga al disposto dell'art. 43, primo comma, lettera h), del d.P.R. n. 131 del 1986 – è «assolta […] annualmente sull'ammontare del canone relativo a ciascun anno» e non sull'ammontare pattuito per l'intera durata del contratto (primo periodo del denunciato comma 3 dell'art. 17, quale modificato dall'art. 21, comma 18, lettera a, della legge 27 dicembre 1997, n. 449, che sostanzialmente conferma il primo periodo del comma 4 dello stesso art. 17, nella formulazione anteriormente vigente, nella quale era stato trasfuso il citato art. 34-bis del d.P.R. n. 634 del 1972);
+    che non potrebbe addursi, in contrario, che il secondo periodo del censurato comma 3 del vigente art. 17 del d.P.R. n. 131 del 1986 avrebbe introdotto, sotto il profilo fiscale, elementi di somiglianza tra contratti pluriennali di locazione di immobili urbani e contratti pluriennali di affitto di azienda, accordando ai contraenti delle suddette locazioni immobiliari la facoltà di optare per il pagamento del tributo in unica soluzione, con riferimento al corrispettivo pattuito per l'intera durata contrattuale;
+    che, infatti, tale disposizione non modifica il carattere annuale del tributo relativo alle indicate locazioni di immobili urbani, perché, come risulta dai lavori preparatori della legge n. 449 del 1997, il legislatore ha introdotto l'opzione di pagamento in unica soluzione solo per consentire all'erario di incamerare anticipatamente gli importi dell'imposta dovuti per ciascun anno e, a questo fine, ha previsto un «meccanismo incentivante» detta opzione, consistente nella riduzione del tributo stesso nella misura della «percentuale pari alla metà del tasso di interesse legale moltiplicato per il numero delle annualità» (nota I – introdotta anch'essa dalla legge n. 449 del 1997 – all'art. 5 della Parte prima della tariffa allegata al d.P.R. n. 131 del 1986);
+    che, anzi, la norma censurata, subordinando il diritto al rimborso dell'imposta di registro alla duplice condizione della risoluzione anticipata del contratto nonché del pagamento del tributo in unica soluzione, presuppone il carattere annuale di tale tributo;
+    che, in conclusione, il rimettente non ha fornito alcuna motivazione né sull'asserita omogeneità di fattispecie che il legislatore ha disciplinato in modo diverso né, in particolare, sulla sussistenza anche per l'affitto pluriennale di azienda della speciale ratio giustificatrice posta a base della normativa fiscale derogatoria relativa alle sole locazioni pluriennali di immobili urbani.
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 17, comma 3, del d.P.R. 26 aprile 1986, n. 131 (Approvazione del testo unico delle disposizioni concernenti l'imposta di registro), sollevata, in riferimento agli artt. 3, 53 e 97 della Costituzione, dalla Commissione tributaria provinciale di Ferrara con l'ordinanza indicata in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 13 dicembre 2006.
+F.to:
+Giovanni Maria FLICK, Presidente
+Franco GALLO, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 28 dicembre 2006.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
