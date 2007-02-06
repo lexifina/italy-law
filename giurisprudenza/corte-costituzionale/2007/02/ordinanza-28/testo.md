@@ -1,0 +1,67 @@
+# Corte costituzionale, ordinanza 28/2007
+
+- ECLI: ECLI:IT:COST:2007:28
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Giovanni Maria Flick
+- Redattore: Giovanni Maria Flick
+- Data della decisione: 24/01/2007
+- Data del deposito: 06/02/2007
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 31000, 31001, 31002
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2007:28
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale degli articoli 2 e 20 del decreto legislativo del 28 agosto 2000, n. 274 (Disposizioni sulla competenza penale del giudice di pace, a norma dell'art. 14 della legge 24 novembre 1999, n. 468), promosso con ordinanze del 13 gennaio 2005 dal Giudice di pace di Pattada nel procedimento penale a carico di F.S. ed altra, e del 27 ottobre 2005 dal Giudice di pace di Patti nel procedimento penale a carico di A.M. ed altri, iscritte ai numeri 271 e 595 del registro ordinanze 2005 e pubblicate nella Gazzetta Ufficiale della Repubblica n. 21, prima serie speciale, dell'anno 2005 e n. 2, prima serie speciale dell'anno 2006.
+    Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 10 gennaio 2007 il Giudice relatore Giovanni Maria Flick.
+    Ritenuto che con l'ordinanza in epigrafe, emessa nel corso di un processo penale nei confronti di persona imputata dei reati di cui agli artt. 581 e 612 del codice penale, il Giudice di pace di Pattada ha sollevato, su eccezione della difesa, questione di legittimità costituzionale, in riferimento agli artt. 3 e 24, secondo comma, della Costituzione, dell'art. 2 del decreto legislativo 28 agosto 2000, n. 274 (Disposizioni sulla competenza penale del giudice di pace, a norma dell'art. 14 della legge 24 novembre 1999, n. 468), nella parte in cui preclude all'imputato il ricorso ai riti alternativi – e, in particolare, al giudizio abbreviato e all'applicazione della pena su richiesta delle parti – nel procedimento davanti al giudice di pace;
+    che, ad avviso del rimettente, la preclusione censurata poggerebbe sul presupposto – «indimostrato ed erroneo» – della maggiore «mitezza» delle eventuali condanne pronunciate in esito a detto procedimento, connessa segnatamente all'esclusione della pena detentiva dal novero delle sanzioni irrogabili dal giudice di pace;
+    che tale valutazione non terrebbe conto, tuttavia, né delle diseguaglianze di fatto esistenti tra le condizioni economiche di coloro che vengono tratti a giudizio, a fronte delle quali è ben possibile che, nell'ottica del non abbiente, una limitata pena detentiva risulti preferibile, e dunque più mite, rispetto ad una pesante pena pecuniaria; né della circostanza che il giudice di pace può comunque applicare sanzioni che incidono sulla libertà personale, quali la permanenza domiciliare e il lavoro di pubblica utilità (artt. 53 e 54 del d.lgs. n. 274 del 2000);
+    che, in simile prospettiva, risulterebbe quindi del tutto ingiustificata la sottrazione all'imputato di strumenti – quali i riti alternativi – che permettono di mitigare la condanna, sia essa a pena pecuniaria o detentiva, emessa nei confronti del non abbiente, «consentendogli di esplicare anche in sede processuale» il «diritto alla difesa»;
+    che la questione sarebbe altresì rilevante, dato che la norma censurata impedirebbe all'imputato nel giudizio a quo di accedere al giudizio abbreviato, pur sussistendone tutti i presupposti;
+    che nel giudizio di costituzionalità è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione sia dichiarata manifestamente inammissibile, per carenza di motivazione in ordine alla rilevanza del quesito, ovvero manifestamente infondata;
+    che con l'ordinanza indicata in epigrafe il Giudice di pace di Patti ha sollevato, su eccezione della difesa, questione di legittimità costituzionale, in riferimento agli artt. 3, 24, secondo comma, e 111, terzo comma, Cost.,  degli artt. 2, comma 1, lettera f), e 20 del d.lgs. n. 274 del 2000, nella parte in cui, rispettivamente, escludono l'applicazione delle norme relative al giudizio abbreviato nel procedimento davanti al giudice di pace e non prevedono che l'atto di citazione a giudizio davanti al medesimo giudice debba, a pena di nullità, contenere l'avviso che l'imputato, qualora ne ricorrano i presupposti, ha facoltà di chiedere il giudizio abbreviato;
+    che, secondo il giudice a quo, le disposizioni denunciate determinerebbero una irragionevole disparità di trattamento fra l'imputato citato a giudizio davanti al giudice di pace e l'imputato citato davanti al tribunale;
+    che diversamente, infatti, che con riguardo al primo – cui l'art. 2, comma 1, lettera f), del d.lgs. n. 274 del 2000 preclude espressamente il rito abbreviato – con riferimento al secondo l'art. 552 cod. proc. pen. stabilisce che il decreto di citazione a giudizio debba recare, a pena di nullità, l'avviso della facoltà di accedere a forme alternative di definizione del procedimento;
+    che risulterebbe di conseguenza vulnerato anche il diritto di difesa, dato che all'imputato per reati di competenza del giudice di pace verrebbe impedito di scegliere una via processuale diversa e più vantaggiosa rispetto a quella ordinaria;
+    che sarebbe compromesso, infine, l'art. 111, terzo comma, Cost., giacché la mancata previsione dell'obbligo di rendere edotto l'imputato della facoltà di scelta di un rito alternativo gli impedirebbe un esercizio consapevole di tale facoltà.
+    Considerato che le ordinanze di rimessione sollevano analoghe questioni, onde i relativi giudizi vanno riuniti per essere definiti con unica pronuncia;
+    che l'eccezione dell'Avvocatura dello Stato, di inammissibilità della questione sollevata del Giudice di pace di Pattada, non è fondata;
+    che il giudice a quo ha infatti motivato, sia pur sinteticamente, in ordine alla rilevanza della questione, osservando come la norma censurata impedisca all'imputato nel procedimento a quo di accedere al giudizio abbreviato, del quale pure sussisterebbero gli ordinari presupposti; mentre la manifestazione della volontà del giudicabile di richiedere tale rito alternativo appare implicita nel fatto – riferito nell'ordinanza di rimessione – che l'eccezione di illegittimità costituzionale sia stata sollevata dalla difesa;
+    che, nel merito, questa Corte ha già reiteratamente escluso – con specifico riferimento al patteggiamento – che la mancata previsione dei riti alternativi nel procedimento davanti al giudice di pace, risultante dal disposto dell'art. 2, comma 1, del d.lgs. 274 del 2000, possa reputarsi in contrasto con gli artt. 3 e 24, secondo comma, Cost., dichiarando manifestamente infondate le questioni di legittimità costituzionale al riguardo sollevate (ordinanze n. 228 e n. 312 del 2005);
+    che, in proposito, questa Corte ha rimarcato come il procedimento davanti al giudice di pace presenti caratteri assolutamente peculiari, che lo rendono non comparabile con il procedimento davanti al tribunale, e comunque tali da giustificare sensibili deviazioni rispetto al modello ordinario (ex plurimis, rispetto ad istituti non previsti nel procedimento in questione, ordinanze n. 85 e n. 415 del 2005, n. 201 e n. 349 del 2004);
+    che il d.lgs. n. 274 del 2000 contempla, difatti, forme alternative di definizione, non previste dal codice di procedura penale, le quali si innestano in un procedimento connotato, già di per sé, da un'accentuata semplificazione e concernente reati di minore gravità, con un apparato sanzionatorio del tutto autonomo: procedimento nel quale il giudice deve inoltre favorire la conciliazione tra le parti (artt. 2, comma 2, e 29, commi 4 e 5), e in cui la citazione a giudizio può avvenire anche su ricorso della persona offesa (art. 21);
+    che, in particolare, l'istituto del patteggiamento mal si concilierebbe con il costante coinvolgimento della persona offesa nel procedimento, anche in rapporto alle forme alternative di definizione (v. artt. 34, comma 2, e 35, commi 1 e 5, con riguardo, rispettivamente, all'esclusione della procedibilità per particolare tenuità del fatto e all'estinzione del reato conseguente a condotte riparatorie);
+    che, pertanto, «le caratteristiche del procedimento davanti al giudice di pace consentono di ritenere che l'esclusione dell'applicabilità dei riti alternativi sia frutto di una scelta non irragionevole del legislatore […], comunque tale da non determinare una ingiustificata disparità di trattamento», impedendo altresì di ravvisare in essa una violazione del diritto di difesa (ordinanza n. 228 del 2005);
+    che analoghe considerazioni possono formularsi altresì in rapporto all'esclusione del giudizio abbreviato;
+    che anche in relazione a tale esclusione, difatti, vale evidentemente il rilievo della non comparabilità del procedimento penale davanti al giudice di pace con quello davanti al tribunale, stante l'eterogeneità della sua struttura e la previsione di forme alternative di definizione, ignote al secondo procedimento;
+    che, d'altro canto, pure nell'esclusione del giudizio abbreviato è possibile scorgere un portato della strategia di valorizzazione del ruolo della persona offesa, che ispira il nuovo processo davanti al giudice di pace, in correlazione all'idea guida di privilegiare la composizione dei conflitti interpersonali che si collocano alla base dell'illecito;
+    che di fronte alla richiesta del rito de quo da parte dell'imputato, infatti, la persona offesa fruisce di facoltà assai limitate: potendo ella – peraltro solo se danneggiata e quindi costituita parte civile – unicamente accettare o meno il giudizio abbreviato, e cioè scegliere se mantenere l'azione civile nel processo penale, rinunciando tuttavia a concorrere alla formazione della prova, oppure promuoverla ex novo dinanzi al giudice civile (art. 441, commi 2 e 4, del codice di procedura penale);
+    che, ancora più in radice, tuttavia, va osservato che il giudizio abbreviato – il quale postula una definizione del processo di tipo “cartolare”, basata essenzialmente sulle risultanze degli atti di indagine – si presenta difficilmente compatibile con il ruolo marginale che, nel procedimento davanti al giudice di pace, è assegnato alle indagini preliminari, le quali si sostanziano in una fase investigativa affidata in via principale alla polizia giudiziaria (v., a diverso fine, ordinanza n. 349 del 2004), e cioè ad un organo che non offre le medesime garanzie funzionali del pubblico ministero: fase che può essere, peraltro, addirittura interamente saltata (a prescindere da situazioni di evidenza della prova) nel caso in cui, trattandosi di reato procedibile a querela, il giudizio venga introdotto tramite ricorso diretto della persona offesa (art. 21, comma 1, 22, comma 4, e 27, comma 1, del d.lgs. n. 274 del 2000);
+    che, escluso che nella previsione censurata possa quindi scorgersi un vulnus del principio di eguaglianza e del diritto di difesa, cade automaticamente anche l'ulteriore censura, logicamente subordinata — formulata dal Giudice di pace di Patti, anche con riferimento all'art. 111, terzo comma, Cost. – avente ad oggetto l'art. 20 del d.lgs. n. 274 del 2000, nella parte in cui non prevede che la citazione a giudizio davanti al giudice di pace debba contenere, a pena di nullità, l'avviso all'imputato della facoltà di richiedere il rito alternativo in parola;
+    che le questioni vanno dichiarate, pertanto, manifestamente infondate.
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    riuniti i giudizi,
+    1) dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 2 del decreto legislativo 28 agosto 2000, n. 274 (Disposizioni sulla competenza penale del giudice di pace, a norma dell'art. 14 della legge 24 novembre 1999, n. 468), sollevata, in riferimento agli artt. 3 e 24, secondo comma, della Costituzione, dal Giudice di pace di Pattada con l'ordinanza indicata in epigrafe;
+    2) dichiara la manifesta infondatezza della questione di legittimità costituzionale degli artt. 2, comma 1, lettera f), e 20 del citato decreto legislativo n. 274 del 2000, sollevata, in riferimento agli artt. 3, 24, secondo comma, e 111, terzo comma, della Costituzione, dal Giudice di pace di Patti con l'ordinanza indicata in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 24 gennaio 2007.
+F.to:
+Franco BILE, Presidente
+Giovanni Maria FLICK, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 6 febbraio 2007.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
