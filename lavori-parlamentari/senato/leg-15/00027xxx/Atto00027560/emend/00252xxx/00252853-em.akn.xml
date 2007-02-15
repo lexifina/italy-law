@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1293/A/G1.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1293/A/G1.102"/>
+					<an:FRBRdate date="2007-02-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1293/A/G1.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@"/>
+					<an:FRBRdate date="2007-02-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@.akn"/>
+					<an:FRBRdate date="2007-02-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-02-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-02-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1293/A/G1.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1293" showAs="DDL 1293"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/2174" showAs="Saporito"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/3883" showAs="Collino"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/22800" showAs="De Angelis"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/4468" showAs="Losurdo"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/22704" showAs="Allegrini"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/17580" showAs="Delogu"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/17789" showAs="Strano"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/1486" showAs="Martinat"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/1932" showAs="Pontone"/>
+				<an:TLCPerson id="EJC" href="http://dati.senato.it/senatore/407" showAs="Butti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1293</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Saporito</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Collino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">De Angelis</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Losurdo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Allegrini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Delogu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Strano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Martinat</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Pontone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EJC" as="#tipoSenatore">Butti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di discussione del disegno di legge atto Senato n. 1293, recante conversione in legge, con modificazioni, del decreto-legge 28 dicembre 2006, n. 300, recante «proroga dei termini previsti da disposizioni legislative»,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            è all'ordine del giorno del Parlamento e del Governo il problema della revisione della normativa relativa al mantenimento in servizio oltre i limiti di età, dei dipendenti delle pubbliche amministrazioni, a richiesta degli interessati e nell'interesse dell'amministrazione di appartenenza, anche a fronte di blocchi di assunzioni previste da recenti leggi dello Stato,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a esaminare la possibilità del mantenimento in servizio del personale della Polizia penitenziaria di cui all'articolo 13 del decreto legislativo 5 ottobre 2000, n. 334 - recante «Limiti di età per il collocamento a riposo d'ufficio» -, rivedendo la relativa normativa;</an:p>
+				<an:p align="justify">            a prevedere, in particolare, che si possa richiedere il trattenimento in servizio fino al compimento del 67º anno di età per i dirigenti generali di pubblica sicurezza di livello B e per i dirigenti generali di pubblica sicurezza; fino al sessantaseiesimo anno di età per i dirigenti superiori; fino al sessantacinquesimo anno di età per il personale appartenente alle qualifiche inferiori;</an:p>
+				<an:p align="justify">            a dare facoltà all'amministrazione, in base alle proprie esigenze, di accogliere la richiesta in relazione alla particolare esperienza professionale acquisita dal richiedente in determinati o specifici ambiti, in funzione dell'efficiente andamento dei servizi.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
