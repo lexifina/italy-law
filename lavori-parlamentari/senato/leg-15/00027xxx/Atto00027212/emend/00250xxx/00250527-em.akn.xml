@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/18.1402/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/18.1402"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1183/A/18.1402/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.1402"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@.akn"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-02-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-02-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1183/A/18.1402/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1183" showAs="DDL 1183"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4477" showAs="Mantovano"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2174" showAs="Saporito"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1666" showAs="Nania"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3883" showAs="Collino"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17941" showAs="Baldassarri"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22707" showAs="Augello"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17771" showAs="Saia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1183</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.1402</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Mantovano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Saporito</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Nania</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Collino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Baldassarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Augello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Saia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 240 inserire il seguente 240 bis:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «240-
+					<an:i>bis.</an:i>
+					 Fatte salve le indennità ed i rimborsi previsti, agli ufficiali e agli agenti di P. S. impiegati in servizio di ordine pubblico in occasione di manifestazioni culturali, le società organizzatrici destinano un contributo ad un apposito fondo istituito presso il Ministero dell'interno, finalizzato al pagamento del lavoro straordinario di ordine pubblico e al riammodernamento dei mezzi di servizio delle Forze di polizia. Il contributo di cui sopra è finanziato con la corresponsione da parte delle società organizzatrici di 1 euro per ogni biglietto di ingresso venduto, compresi gli abbonamenti.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
