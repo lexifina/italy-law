@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/18.4258/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/18.4258"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1183/A/18.4258/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.4258"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@.akn"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-02-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-02-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1183/A/18.4258/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1183" showAs="DDL 1183"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/752" showAs="D'Ali'"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3923" showAs="Azzollini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22782" showAs="Taddei"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2469" showAs="Vegas"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1183</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.4258</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Ali'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Azzollini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Taddei</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Vegas</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Dopo il comma 649, inserire il seguente:</an:p>
+				<an:p align="justify">
+					        649-
+					<an:i>bis.</an:i>
+					 Con Decreto del Presidente della Repubblica, su proposta del Ministro dell'Ambiente, d'intesa con la Regione Siciliana, la Provincia Regionale di Trapani e i Comuni interessati, sono istituiti il Parco Nazionale delle isole Egadi e del Litorale Trapanese e il Parco Nazionale dell'Isola di Pantelleria.
+				</an:p>
+				<an:p align="justify">        Per i suindicati parchi nazionali il Ministro dell'Ambiente procede ai sensi dell'articolo 34, comma 3, della legge 6 dicembre 1991, n. 394, entro 180 giorni, a decorrere dalla data di entrata in vigore della presente legge,</an:p>
+				<an:p align="justify">        Le aree marine protette istituite o da istituirsi ai sensi della legge 6 dicembre 1991, n. 394, eventualmente ricadenti. nella stessa perimetrazione o in adiacenza ai confini dei Parchi Nazionali, sono ricomprese negli stessi, mantenendo per quanto necessario una autonoma gestione.</an:p>
+				<an:p align="justify">        Lo stesso decreto istitutivo può disciplinare in ordine alla perimetrazione delle Aree marine protette.</an:p>
+				<an:p align="justify">        Per l'istituzione ed il funzionamento degli stessi è autorizzata la spesa di un milione di euro per ciascun anno e per ciascun parco, per gli anni 2007, 2008, 2009.</an:p>
+				<an:p align="justify">        Conseguentemente alla tabella A, rubrica: Ministero dell'economia, modificare gli importi come segue:</an:p>
+				<an:p align="justify">            2007:    -  2.000;</an:p>
+				<an:p align="justify">            2008:    -  2.000;</an:p>
+				<an:p align="justify">            2009:    -  2.000.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
