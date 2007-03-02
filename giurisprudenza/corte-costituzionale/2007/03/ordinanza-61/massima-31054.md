@@ -1,0 +1,23 @@
+# Massima n. 31054
+
+- Pronuncia: Corte costituzionale, ordinanza 61/2007 (ECLI:IT:COST:2007:61)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2007:61
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Udienza preliminare - Ricusazione - Impossibilità per il giudice ricusato di pronunciare il decreto che dispone il giudizio - Mancata previsione - Dedotta irragionevolezza e disparità di trattamento tra imputati, nonché violazione del diritto di difesa e dei principi del giusto processo - Carenza di motivazione sui presupposti interpretativi che condizionano la rilevanza della questione - Manifesta inammissibilità.
+
+## Testo
+
+E' manifestamente inammissibile la questione di legittimità costituzionale dell'art. 37, comma 2, del codice procedura penale, censurato, in riferimento agli artt. 3, 24 e 111 della Costituzione, nella parte in cui non prevede che il giudice ricusato non possa pronunciare, all'esito dell'udienza preliminare, il decreto che dispone il giudizio. Invero, l'ordinanza di remissione è carente di motivazione sui presupposti interpretativi che condizionano la rilevanza della questione, in quanto il giudice  a quo  non fornisce alcuna motivazione circa l'applicabilità o meno, nel caso sottoposto al suo esame, della giurisprudenza di legittimità che ritiene valido il provvedimento emesso in violazione del divieto di cui all'art. 37, comma 2, cod. proc. pen., se l'istanza di ricusazione sia stata successivamente rigettata, mentre risulta impropria e apodittica l'affermazione secondo cui la pronuncia di rigetto del giudice della ricusazione non «consente di ritenere sanata con efficacia retroattiva» la nullità del provvedimento emesso dal giudice nei cui confronti era stata proposta istanza di ricusazione, sia perché non chiarisce per quale ragione sarebbe nullo l'atto cui riferire una ipotetica «sanatoria», sia perché, ove fosse configurabile, la sanatoria stessa sarebbe, per sua natura, retroattiva. - In relazione all'inamissibilità per carenza di motivazione sui presupposti interpretativi v., citate,  ex plurimis , ordinanze n. 346/2006   e n. 298/2005. - In relazione all'orientamento della giurisprudenza di legittimità citato nell'ordinanza v.,  ex plurimis , sentenza della Corte di cassazione, sezione sesta, 18 gennaio 2000, n. 275.
+
+## Norme
+
+- codice di procedura penale, art. 37, comma 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 111
