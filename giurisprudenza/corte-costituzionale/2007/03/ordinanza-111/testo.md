@@ -1,0 +1,53 @@
+# Corte costituzionale, ordinanza 111/2007
+
+- ECLI: ECLI:IT:COST:2007:111
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Romano Vaccarella
+- Redattore: Romano Vaccarella
+- Data della decisione: 19/03/2007
+- Data del deposito: 29/03/2007
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 31189
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2007:111
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Romano VACCARELLA, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnei giudizi di legittimità costituzionale dell'art. 24 del decreto legislativo 26 febbraio 1999, n. 46 (Riordino della disciplina della riscossione mediante ruolo, a norma dell'articolo 1 della legge 28 settembre 1998, n. 337), promossi con n. 8 ordinanze del 7 febbraio 2005 dal Tribunale di Torre Annunziata rispettivamente iscritte ai nn. da 355 a 362 del registro ordinanze 2005 e pubblicate nella Gazzetta Ufficiale della Repubblica n. 29, prima serie speciale, dell'anno 2005.
+      Visti gli atti di costituzione dell'Istituto Nazionale Previdenza Sociale (INPS) e della S.C.C.I. s.p.a. nonché gli atti di intervento del Presidente del Consiglio dei ministri;
+      udito nell'udienza pubblica del 6 marzo 2007 il Giudice relatore Romano Vaccarella;
+      uditi l'avvocato Antonino Sgroi per l'INPS e per la S.C.C.I. s.p.a. e l'avvocato dello Stato Francesco Lettera per il Presidente del Consiglio dei ministri.
+      Ritenuto che, con otto ordinanze di identico tenore (r.o. nn. 355, 356, 357, 358, 359, 360, 361 e 362 del 2005), tutte depositate il 7 febbraio 2005 nel corso di altrettanti processi di opposizione a cartelle di pagamento per crediti previdenziali vantati dall'Istituto Nazionale della Previdenza Sociale (INPS), il giudice del lavoro del Tribunale ordinario di Torre Annunziata ha sollevato questione di legittimità costituzionale dell'art. 24 del decreto legislativo 26 febbraio 1999, n. 46 (Riordino della disciplina della riscossione mediante ruolo, a norma dell'articolo 1 della legge 28 settembre 1998, n. 337) per contrasto con l'articolo 111, comma secondo, della Costituzione;
+      che, riferisce il giudice a quo, i ricorrenti hanno formulato, relativamente a varie disposizioni del procedimento di riscossione coattiva dei crediti previdenziali, diverse censure di costituzionalità fra le quali, a detta del rimettente, non è manifestamente infondata quella concernente l'art. 24 del d.lgs. n. 46 del 1999 il quale attribuisce agli enti previdenziali il potere di riscuotere i propri crediti attraverso un titolo esecutivo – il ruolo – «formato prima e al di fuori del giudizio, e in forza del quale l'Istituto può conseguire il soddisfacimento della pretesa a prescindere da una verifica in sede giurisdizionale della sua fondatezza, ed anzi anche quando essa sia stata contestata»;
+      che, pur se la possibilità – prevista dal comma 5 dell'art. 24 in esame – di opporre la cartella di pagamento innanzi al giudice del lavoro, nel termine di quaranta giorni dalla notifica, impedisce che la norma denunciata si ponga in conflitto con l'art. 24 Cost., osserva il Tribunale che la non paritaria posizione iniziale delle parti «nel giudizio che si va a instaurare» determinerebbe un vulnus al principio sancito dall'art. 111, comma secondo, Cost.;
+      che, infatti, nonostante la rilevanza pubblicistica (sottolineata anche da questa Corte) dell'attività di recupero dei crediti dello Stato e degli enti pubblici, contrasterebbe con i principi del giusto processo la significativa posizione di squilibrio esistente tra le parti, per il possesso da parte del creditore previdenziale di un titolo esecutivo formato in assenza di qualsiasi vaglio giurisdizionale e per la possibilità di sospendere l'esecuzione solo per «gravi motivi»;
+      che il ruolo esattoriale, per un verso, sarebbe differente da altri titoli esecutivi stragiudiziali (frutto dell'accordo tra creditore e debitore e non di «un atto di imperio» di una delle parti del processo) e, per altro verso, risulterebbe oggi sfornito, per i crediti previdenziali, anche di quel minimo vaglio giudiziale preventivo che il precedente sistema, disciplinato dall'art. 1, comma 13, del decreto-legge 2 dicembre 1985, n. 688 (Misure urgenti in materia previdenziale, di tesoreria e di servizi delle ragionerie provinciali dello Stato), convertito dalla legge 31 gennaio 1986 n. 11, offriva prevedendo la formazione del titolo in sede di cognizione sommaria monitoria;
+      che, essendo le difese del contribuente affidate al rimedio oppositivo disciplinato dal comma 5 della norma censurata entro un ristretto termine di decadenza e secondo le rigide preclusioni e decadenze previste dagli artt. 442 e seguenti del codice di procedura civile, lo squilibrio tra le parti, quantomeno nella fase iniziale del giudizio, potrebbe ripercuotersi significativamente anche sull'andamento complessivo del processo, condizionandone l'esito a tutto vantaggio del creditore previdenziale;
+      che si è costituito in giudizio l'INPS il quale, concludendo per la declaratoria di inammissibilità ovvero di infondatezza della questione di legittimità costituzionale, osserva innanzitutto che la norma denunciata non contiene alcuna disposizione che regoli direttamente il processo di opposizione alla cartella esattoriale, limitandosi a rinviare alla disciplina codicistica del processo del lavoro la quale soltanto – peraltro non censurata – avrebbe potuto porsi in contrasto con l'art. 111 Cost.;
+      che, osserva ancora il deducente, per un verso, il processo del lavoro soddisfa pienamente il parametro costituzionale dell'art. 111, comma secondo, Cost. e, per altro verso, l'ordinamento conosce, ovvero ha conosciuto, altri titoli esecutivi relativi a crediti previdenziali formati all'interno della pubblica amministrazione procedente e sottoposti al vaglio giurisdizionale solo in caso di contestazione, come l'ordinanza ingiunzione disciplinata dall'art. 35, comma 2, della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), e le attestazioni dei dirigenti degli uffici territorialmente competenti degli enti gestori forme di previdenza obbligatoria, già regolate dall'art. 2 del decreto-legge 9 ottobre 1989, n. 338 (Disposizioni urgenti in materia di evasione contributiva, di fiscalizzazione degli oneri sociali, di sgravi contributivi nel Mezzogiorno e di finanziamento dei patronati), convertito con modificazioni dalla legge 7 dicembre 1989, n. 389, poi abrogato dall'art. 37 del decreto legislativo n. 46 del 1999;
+      che è altresì intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, il quale eccepisce, in primo luogo, la manifesta inammissibilità della questione per la perplessità della motivazione dell'ordinanza di rimessione, determinata sia dal fatto che la censura investe l'intero testo dell'art. 24 – mentre, salvo quella di cui al comma 5, le altre disposizioni contenute nella norma denunciata neppure devono essere applicate nel processo a quo –, sia dal giudizio meramente probabilistico formulato dal rimettente in ordine allo squilibrio della posizione processuale assegnata alle parti;
+ che, nel merito, la difesa dello Stato sostiene che la questione sarebbe infondata, tenuto conto che sia l'avviso bonario di cui si avvale preliminarmente l'INPS (previsto dal comma 2 della norma denunciata), sia i gravami amministrativo e giurisdizionale, pure disciplinati dai commi 3 e 4 dello stesso art. 24, assicurerebbero al contribuente previdenziale ampia tutela, sia preventiva che successiva alla formazione del titolo esecutivo.
+      Considerato che il Tribunale di Torre Annunziata dubita, in riferimento all'art. 111, comma secondo, della Costituzione, della legittimità costituzionale dell'articolo 24 del decreto legislativo 26 febbraio 1999, n. 46 (Riordino della disciplina della riscossione mediante ruolo, a norma dell'articolo 1 della legge 28 settembre 1998, n. 337), laddove attribuisce agli enti previdenziali il potere di riscuotere i propri crediti attraverso un titolo (il ruolo esattoriale, da cui scaturisce la cartella di pagamento) che si forma prima e al di fuori del giudizio e in forza del quale l'ente può conseguire il soddisfacimento della pretesa a prescindere da una verifica in sede giurisdizionale della sua fondatezza;
+      che, ponendo le ordinanze di rimessione la medesima questione con le medesime argomentazioni, i relativi giudizi devono essere riuniti;
+      che la questione è manifestamente infondata in quanto, da un lato, non è irragionevole la scelta del legislatore di consentire ad un creditore, attesa la sua natura pubblicistica e l'affidabilità derivante dal procedimento che ne governa l'attività, di formare unilateralmente un titolo esecutivo, e, dall'altro lato, è rispettosa del diritto di difesa e dei principi del giusto processo la possibilità, concessa al preteso debitore, di promuovere, entro un termine perentorio ma adeguato, un giudizio ordinario di cognizione nel quale far efficacemente valere le proprie ragioni, sia grazie alla possibilità di ottenere la sospensione dell'efficacia esecutiva del titolo e/o dell'esecuzione, sia grazie alla ripartizione dell'onere della prova in base alla posizione sostanziale (e non già formale) assunta dalle parti nel giudizio di opposizione.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+      riuniti i giudizi,
+      dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 24 del decreto legislativo 26 febbraio 1999, n. 46 (Riordino della disciplina della riscossione mediante ruolo, a norma dell'articolo 1 della legge 28 settembre 1998, n. 337), sollevata, in riferimento all'art. 111, comma secondo, della Costituzione, dal Tribunale di Torre Annunziata con le ordinanze in epigrafe.
+      Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 19 marzo 2007.
+F.to:
+Franco BILE, Presidente
+Romano VACCARELLA, Redattore
+Maria Rosaria FRUSCELLA, Cancelliere
+Depositata in Cancelleria il 29 marzo 2007.
+Il Cancelliere
+F.to: FRUSCELLA
