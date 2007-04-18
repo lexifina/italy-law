@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1411/A/G10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1411/A/G10"/>
+					<an:FRBRdate date="2007-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1411/A/G10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@"/>
+					<an:FRBRdate date="2007-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@.akn"/>
+					<an:FRBRdate date="2007-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-04-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-04-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1411/A/G10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1411" showAs="DDL 1411"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/5920" showAs="Galli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17754" showAs="Polledri"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22746" showAs="Gabana"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1411</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Galli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Polledri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gabana</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            considerato che lo stesso titolo del decreto legge in esame, dedicato al «ripiano selettivo» dei disavanzi sanitari pregressi, testimonia l'esistenza di una palese discriminazione tra le numerose Regioni che hanno cumulato disavanzi nel periodo 2002-2005;</an:p>
+				<an:p align="justify">            ritenuto che tale discriminazione sia assolutamente contraria allo spirito dell'articolo 3 della Costituzione, in quanto solo alcune Regioni, quelle più inefficienti e meno capaci, sono ammesse ad accedere ai finanziamenti straordinari statali;</an:p>
+				<an:p align="justify">            giudicato politicamente inaccettabile che l'accesso ai tre miliardi di euro disponibili sia stato riservato solo ad alcune Regioni, quelle meno virtuose, mentre le altre Regioni - non avendo cumulato disavanzi, o avendo provveduto tempestivamente con risorse proprie al ripiano dei medesimi - si vedrebbero doppiamente danneggiate dal provvedimento in titolo,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad attivarsi affinché siano modificati i parametri che limitano l'accesso ai 3 miliardi complessivamente disponibili solo ad alcune Regioni che hanno maturato più ingenti disavanzi nel periodo 2002-2005, consentendo l'accesso alle risorse disponibili a tutte le Regioni in ragione del numero dei residenti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
