@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1269/A/G7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1269/A/G7"/>
+					<an:FRBRdate date="2007-05-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1269/A/G7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@"/>
+					<an:FRBRdate date="2007-05-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@.akn"/>
+					<an:FRBRdate date="2007-05-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-05-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-05-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1269/A/G7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1269" showAs="DDL 1269"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2326" showAs="Stefani"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/12836" showAs="Stiffoni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22730" showAs="Davico"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1269</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Stefani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Stiffoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Davico</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            esaminato l'A.S. 1269 recante delega al Governo per la revisione della disciplina relativa alla titolarità ed al mercato dei diritti radiotelevisivi degli eventi sportivi dei campionati professionistici e delle altre competizioni professionistiche organizzate a livello nazionale,</an:p>
+				<an:p align="justify">            valutata l'importanza del carattere sociale dell'attività sportiva e la specificità del fenomeno sportivo, secondo quanto affermato nella dichiarazione di Nizza del 2000,</an:p>
+				<an:p align="justify">            vista la necessità di sostenere ed incentivare lo sport dilettantistico, che è centrale per il suo fondamentale ruolo di crescita, di educazione e di integrazione sociale e di solidarietà, anche rispetto alla disabilità fisica o mentale, nonché per il suo forte legame col territorio,</an:p>
+				<an:p align="justify">            dato che in questo provvedimento non c'è nessuna misura a sostegno delle società e delle associazioni dilettantistiche, tanto meno a vantaggio delle categorie inferiori e dello sport di base in generale,</an:p>
+				<an:p align="justify">            considerato che lo sport si fonda su valori sociali, educativi e culturali ed è un fattore di inserimento, di partecipazione alla vita sociale e la sua pratica deve essere accessibile a tutti, mettendo in atto programmi volti a facilitare l'inserimento delle persone diversamente abili,</an:p>
+				<an:p align="justify">            preso atto che le società e le associazioni dilettantistiche esaltano i valori morali, umani e sociali dello sport attraverso un'attenta opera di reclutamento dei giovani, sostenendo l'azione della famiglia e della scuola,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare ulteriori iniziative normative volte a destinare una quota delle risorse derivanti dallo sfruttamento dei diritti televisivi allo sviluppo del settore giovanile, al recupero delle situazioni di disagio sociale e all'inserimento dei diversamente abili, per incentivare politiche indirizzate a valorizzare il carattere sociale dello sport.</an:p>
+				<an:ul id="E1B">
+					<an:li>________________</an:li>
+					<an:li>(*) Accolto dal Governo</an:li>
+				</an:ul>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
