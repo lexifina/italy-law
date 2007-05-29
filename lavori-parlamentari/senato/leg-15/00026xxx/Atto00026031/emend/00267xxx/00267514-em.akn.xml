@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/741/A/38.406/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/741/A/38.406"/>
+					<an:FRBRdate date="2007-05-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/741/A/38.406/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="38.406"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@"/>
+					<an:FRBRdate date="2007-05-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@.akn"/>
+					<an:FRBRdate date="2007-05-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-05-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-05-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/741/A/38.406/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/741" showAs="DDL 741"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22813" showAs="Monacelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 741</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 38.406</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Monacelli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, dopo la lettera</an:i>
+					 i), 
+					<an:i>inserire la seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					            «i-
+					<an:i>quinquies:</an:i>
+					 ''Gli operatori che non si attengono alle norme dettate dalla presente legge sono puniti con le sanzioni di cui all'articolo 4 della legge l n. 401 del 1989, oltre che con l'inibizione all'utilizzo delle reti effettuate dai fornitori di connettività alla rete 
+					<an:i>internet</an:i>
+					 dietro comunicazione dell'Amministrazione autonoma dei monopoli di Stato. Ai destinatari delle comunicazioni, in caso di violazione dell'obbligo di inibizione si applica una sanzione amministrativa pecuniaria da 30.000 a 180.000 euro per ciascuna violazione accertata l'autorità competente è l'Amministrazione autonoma dei monopoli di Stato''».
+				</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
