@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1507/C/1.35/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1507/C/1.35"/>
+					<an:FRBRdate date="2007-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1507/C/1.35/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.35"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@"/>
+					<an:FRBRdate date="2007-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@.akn"/>
+					<an:FRBRdate date="2007-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-05-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-05-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1507/C/1.35/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1507" showAs="DDL 1507"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Lavoro, previdenza sociale" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/2420" showAs="Treu"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22788" showAs="Zuccherini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22809" showAs="Tibaldi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22701" showAs="Adragna"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22703" showAs="Alfonzi"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22713" showAs="Bobba"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/22732" showAs="De Simone"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/22754" showAs="Livi Bacci"/>
+				<an:TLCPerson id="ENC" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1507</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.35</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Treu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Zuccherini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Tibaldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Adragna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Alfonzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Bobba</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">De Simone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Livi Bacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENC" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, dopo la lettera</an:i>
+					 e)
+					<an:i>, inserire la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>e-</an:i>
+					bis) riconoscimento, nell'arco dei dodici mesi successivi alla data di entrata in vigore dei decreti delegati di cui alla presente legge, di un contributo statale in favore di imprese e lavoratori autonomi che acquistano veicoli industriali o macchinari nuovi di fabbrica, consegnando per la rottamazione veicoli industriali e macchinari obsoleti o comunque non conformi a regole e 
+					<an:i>standard</an:i>
+					 di sicurezza stabiliti dalla normativa vigente o da regolamenti di organismi pubblici o privati di certificazione riconosciuti a livello nazionale o comunitario. Il contributo è concesso, subordinatamente all'autorizzazione delle competenti autorità europee, in misura non superiore al 10 per cento del prezzo di mercato del bene acquistato e a condizione che il venditore pratichi uno sconto almeno pari alla misura del contributo statale;».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
