@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1507/A/QP2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1507/A/QP2"/>
+					<an:FRBRdate date="2007-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1507/A/QP2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="QP2"/>
+					<an:FRBRname value="Questione pregiudiziale"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@"/>
+					<an:FRBRdate date="2007-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@.akn"/>
+					<an:FRBRdate date="2007-06-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-06-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-06-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1507/A/QP2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1507" showAs="DDL 1507"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2132" showAs="Sacconi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3917" showAs="Pastore"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17552" showAs="Bianconi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/2469" showAs="Vegas"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/1708" showAs="Novi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17613" showAs="Morra"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1507</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Questione pregiudiziale n. QP2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Sacconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pastore</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bianconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Vegas</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Novi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Morra</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, premesso che:</an:p>
+				<an:p align="justify">            il disegno di legge in esame presenta diversi profili di incostituzionalità e notevoli incongruenze normative, tali da dare una valutazione negativa del provvedimento e da ritenere quindi assolutamente fondata la presente pregiudiziale;</an:p>
+				<an:p align="justify">            il provvedimento risulta in contrasto con l'articolo 76, Costituzione, poiché le deleghe in esso contenute sono generiche e prive del requisito della definitezza dell'oggetto richiesto dalla norma costituzionale. Inoltre l'esercizio della funzione legislativa non può essere delegato al Governo se non per un tempo limitato e in questo caso l'esercizio della delega è suscettibile di protrarsi fino a 18 mesi, contraddicendo apertamente l'esigenza, richiamata da più parti e in sedi istituzionali autorevolissime, di disporre celermente di un insieme di norme in grado di incidere efficacemente sul fenomeno degli infortuni sul lavoro;</an:p>
+				<an:p align="justify">        delibera di non procedere all'esame del disegno di legge n. 1507.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
