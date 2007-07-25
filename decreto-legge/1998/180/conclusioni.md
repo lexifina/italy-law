@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunqe spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 11 giugno 1998
+
+((Il Presidente del Senato della Repubblica nell'esercizio delle funzioni del Presidente della Repubblica, ai sensi dell'art. 86 della Costituzione MANCINO)) Prodi, Presidente del Consiglio dei Ministri Napolitano, Ministro dell'interno delegato per il coordinamento della protezione civile Ronchi, Ministro dell'ambiente Costa, Ministro dei lavori pubblici Pinto, Ministro per le politiche agricole Ciampi, Ministro del tesoro, del bilancio e della programmazione economica Bassanini, Ministro per la funzione pubblica e gli affari regionali Flick, Ministro di grazia e giustizia Andreatta, Ministro della difesa Bersani, Ministro dell'industria, del commercio e dell'artigianato Treu, Ministro del lavoro e della previdenza sociale Veltroni, Ministro per i beni culturali e ambientali Visto, il Guardasigilli: Flick
