@@ -1,0 +1,3 @@
+INDICE DEI TRATTAMENTI
+
+Parte di provvedimento in formato grafico
