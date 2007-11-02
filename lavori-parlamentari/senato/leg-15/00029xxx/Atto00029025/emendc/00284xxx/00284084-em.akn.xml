@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/C/49.0.3"/>
+					<an:FRBRdate date="2007-11-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="49.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@"/>
+					<an:FRBRdate date="2007-11-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@.akn"/>
+					<an:FRBRdate date="2007-11-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-11-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-11-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1817/C/49.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1817" showAs="DDL 1817"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22723" showAs="Capelli"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22750" showAs="Giambrone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1817</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 49.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Capelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Giambrone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 49</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 49-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Istituzione del Museo dell'Universo)</an:i>
+				</an:p>
+				<an:p>
+					        1. È istituito a Firenze, ai sensi della lettera 
+					<an:i>a)</an:i>
+					, com ma 2, dell'articolo 101 del Decreto legislativo 22 gennaio 2004, n. 42, il ''Museo dell'Universo''.
+				</an:p>
+				<an:p>        2. L'ordinamento del Museo dell'Universo di cui al comma 1 è stabilito regolamento emanato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988 , n. 400, dal Ministero per i beni e le attività culturali, di concerto con il Ministero dell'università e della ricerca scientifica e tecnologica, da emanarsi entro 90 giorni dall'entrata in vigore della presente legge.</an:p>
+				<an:p>        3. Per lo realizzazione del Museo dell'Universo di cui al comma 1, il Ministero per i beni e le attività culturali è autorizzato alla spesa di 5 milioni di euro l'anno 2008, di 7 milioni di euro per l'anno 2009 e di 8 milioni di euro per l'anno 2010».</an:p>
+				<an:p>
+					<an:i>        Conseguentemente alla Tabella A voce:</an:i>
+					 Ministero dell'economia e delle finanze 
+					<an:i>apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p>            2008    -  5.000;</an:p>
+				<an:p>            2009    -  7.000;</an:p>
+				<an:p>            2010    -  8.000.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
