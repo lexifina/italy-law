@@ -1,0 +1,57 @@
+# Corte costituzionale, ordinanza 370/2007
+
+- ECLI: ECLI:IT:COST:2007:370
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Ugo De Siervo
+- Redattore: Ugo De Siervo
+- Data della decisione: 24/10/2007
+- Data del deposito: 07/11/2007
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 31785, 31786, 31787
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2007:370
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Francesco AMIRANTE, Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Luigi MAZZELLA, Gaetano SILVESTRI, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'articolo 22-bis, terzo comma, della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), inserito dall'articolo 98 del decreto legislativo 30 dicembre 1999, n. 507 (Depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'articolo 1 della legge 25 giugno 1999, n. 205), promosso con ordinanza del 24 gennaio 2006 dal Giudice di pace di Milano nel procedimento civile vertente tra Publidue s.r.l. e il Comune di Milano iscritta al n. 41 del registro ordinanze 2007 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 8, prima serie speciale, dell'anno 2007.
+      Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+      udito nella camera di consiglio del 26 settembre 2007 il Giudice relatore Ugo De Siervo.
+    Ritenuto che, con ordinanza del 24 gennaio 2006, pronunciata nel corso di un processo di opposizione avverso cinquantotto ordinanze-ingiunzione, il Giudice di pace di Milano ha sollevato questione di legittimità costituzionale dell'art. 22-bis, terzo comma, della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), inserito dall'art. 98, comma 1, del decreto legislativo 30 dicembre 1999, n. 507 (Depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'articolo 1 della legge 25 giugno 1999, n. 205), per asserito contrasto con l'articolo 3 della Costituzione;
+    che, in punto di fatto, il giudice a quo riferisce che l'opponente, con unico ricorso, ha proposto opposizione avverso cinquantotto ordinanze-ingiunzione emesse dal Comune di Milano, per violazioni della normativa riguardante l'esposizione di cartelloni pubblicitari, con le quali erano state irrogate sanzioni pecuniarie, ciascuna dell'importo di lire 1.200.000, per un importo complessivo di lire 69.000.000 (pari ad euro 35.645,40);
+    che, riferisce ancora il rimettente, tutte tali sanzioni si presentano tra loro identiche con riguardo alla norma che si assume violata, alla pubblica amministrazione procedente ed alla fattispecie da cui originano i comportamenti censurati, ordinati «in una medesima sequenza procedimentale», per cui, anche ove le sanzioni fossero state impugnate con distinti ricorsi, l'art. 274 del codice di procedura civile ne avrebbe imposto la riunione, con l'inevitabile riproposizione di una situazione per cui il Giudice di pace è investito della trattazione di un'unica causa il cui valore supera i 30.000.000 di lire;
+    che l'art. 22-bis della legge n. 689 del 1981 dispone che l'opposizione contro l'ordinanza-ingiunzione di pagamento «si propone davanti al giudice di pace» (primo comma), salvo «se per la violazione è prevista una sanzione pecuniaria superiore nel massimo a lire trenta milioni», nel qual caso essa, al pari di altre ipotesi individuate dallo stesso articolo, si propone davanti al tribunale (terzo comma, lettera a);
+    che il limite di valore così stabilito – rileva il rimettente – costituisce applicazione del principio per cui le questioni di una certa rilevanza economica debbono essere affidate al tribunale e non al giudice onorario;
+    che, con riferimento alla non manifesta infondatezza della questione, sollevata anche dalla società opponente e non contestata dal Comune di Milano, il Giudice di pace osserva che l'art. 22-bis censurato, non prevedendo che la competenza venga attribuita al tribunale allorché «per ragioni di connessione soggettiva ed oggettiva (come avvenuto nel caso di specie) il valore della causa superi il complessivo importo di Lire 30 milioni», determinerebbe la violazione dell'art. 3 della Costituzione, per l'ingiustificata disparità di trattamento «tra il cittadino destinatario di una sanzione amministrativa superiore a Lire 30 milioni ed il cittadino al quale, per il medesimo fatto venga irrogata una sanzione di uguale importo ma attraverso più provvedimenti della P.A. (i quali, singolarmente, rientrerebbero nella competenza del Giudice di pace)», posto che, anche in tale ultimo caso, il già richiamato art. 274 cod. proc. civ. non consente che le singole sanzioni di competenza del Giudice di pace divengano oggetto di separati processi;
+    che il giudice a quo ritiene rilevante la sollevata questione, in quanto è investito di una causa di opposizione a ordinanze-ingiunzione il cui valore complessivo supera quello di lire trenta milioni e che, pertanto, non può essere definita indipendentemente dalla risoluzione della questione stessa;
+    che è intervenuto, con la rappresentanza dell'Avvocatura generale dello Stato, il Presidente del Consiglio dei ministri, il quale ha preliminarmente eccepito l'inammissibilità della questione sia per la omessa motivazione in ordine alla rilevanza sia per la mancata esplicitazione del vulnus che la previsione denunciata arrecherebbe all'art. 3 della Costituzione;
+    che, nel merito, l'interveniente nega che venga in rilievo alcuna violazione della norma costituzionale evocata a parametro, in quanto «non risponde affatto al principio di uguaglianza l'assunto che ad una violazione più grave per la quale venga irrogata una sanzione di superiore livello debba equivalere una somma di violazioni meno gravi per le quali sono previste piccole sanzioni, ancorché complessivamente dello stesso importo»;
+    che l'Avvocatura generale ritiene che, in definitiva, si tratti di scelte che rientrano nella discrezionalità del legislatore, al quale non si può imporre, in materia di sanzioni amministrative, di tener conto «di evenienze processuali accidentali quale quella che scaturisca dall'esercizio di una pluralità di azioni in opposizione ad una pluralità di ordinanze-ingiunzioni anziché dall'esercizio di un'unica azione proposta avverso una sola sanzione amministrativa di pari importo».
+    Considerato che il Giudice di pace di Milano ha denunciato l'art. 22-bis, terzo comma, della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), in relazione all'art. 3 della Costituzione, nella parte in cui non prevede che la competenza a conoscere delle opposizioni avverso le ordinanze-ingiunzione di pagamento di sanzioni amministrative spetti al tribunale, anziché al giudice di pace, allorquando per ragioni di connessione soggettiva ed oggettiva il valore della causa di opposizione a varie ordinanze-ingiunzione superi il complessivo importo di lire trenta milioni;
+    che, per quanto non espressamente specificato, dal tenore complessivo dell'ordinanza di rimessione emerge che la censura è rivolta avverso la lettera a) del terzo comma dell'art. 22-bis, la quale fissa la competenza del tribunale a conoscere delle opposizioni, allorquando la sanzione si riferisca ad una violazione per la quale «è prevista una sanzione pecuniaria superiore nel massimo a lire trenta milioni»;
+    che tale norma è denunciata per l'asserita irragionevole disparità di trattamento che essa determinerebbe tra il cittadino destinatario di una sanzione amministrativa superiore a lire trenta milioni ed il cittadino al quale, per il medesimo fatto, venga irrogata una sanzione di uguale importo, ma attraverso più provvedimenti della pubblica amministrazione, i quali, singolarmente, rientrerebbero nella competenza del giudice di pace;
+    che deve essere rigettata l'eccezione con cui l'Avvocatura deduce la mancanza di una compiuta indicazione dei motivi della censura, dal momento che dall'ordinanza di rimessione emerge con sufficiente chiarezza che il vulnus costituzionale denunciato dal rimettente sarebbe rappresentato dalla minore garanzia che il giudice onorario assicurerebbe rispetto al giudice professionale nel caso di sanzioni di importo complessivo superiore a trenta milioni di lire;
+    che deve essere, altresì, rigettata l'ulteriore eccezione di inammissibilità prospettata dall'Avvocatura avendo il rimettente illustrato – sia pure sinteticamente – le ragioni per le quali ritiene  rilevante la questione sollevata;
+    che, quanto al merito della censura, l'art. 22-bis, terzo comma, lettera a), della legge n. 689 del 1981 – norma speciale rispetto a quella dell'art. 10, secondo comma, del codice di procedura civile il quale, pertanto, non si applica al caso di specie – àncora la competenza del tribunale, in luogo di quella del giudice di pace, al fatto che per la singola violazione sia «prevista» una sanzione pecuniaria edittale superiore nel massimo a lire trenta milioni;
+    che la circostanza che il giudizio a quo abbia ad oggetto cinquantotto sanzioni, ciascuna per lire 1.200.000, tutte opposte con ricorso cumulativo innanzi al giudice di pace (al pari che se le sanzioni stesse fossero state singolarmente contestate con altrettante opposizioni, poi riunite dal giudice), non vale a superare la circostanza, dirimente, che la competenza va determinata tenendo conto unicamente della sanzione pecuniaria edittale prevista dalla norma per la singola violazione, trattandosi di competenza per materia con limite di valore;
+    che – tenuto conto altresì della circostanza che la riunione di procedimenti relativi a cause connesse di cui all'art. 274 cod. proc. civ. non è nient'altro che una misura organizzativa del lavoro giudiziario, inidonea a superare l'autonomia dei singoli giudizi – non è possibile porre sullo stesso piano la posizione di chi sia destinatario di un'unica sanzione pecuniaria di importo superiore alla soglia di competenza del giudice onorario e quella di chi sia invece destinatario di tante sanzioni pecuniarie, ciascuna di importo edittale inferiore a tale soglia;
+    che, pertanto, la questione risulta manifestamente infondata.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 22-bis, terzo comma, della legge 24 novembre 1981, n. 689 (Modifiche al sistema penale), inserito dall'articolo 98 del decreto legislativo 30 dicembre 1999, n. 507 (Depenalizzazione dei reati minori e riforma del sistema sanzionatorio, ai sensi dell'articolo 1 della legge 25 giugno 1999, n. 205), sollevata, in riferimento all'art. 3 della Costituzione, dal Giudice di pace di Milano con l'ordinanza in epigrafe.
+      Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 24 ottobre 2007.
+F.to:
+Franco BILE, Presidente
+Ugo DE SIERVO, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 7 novembre 2007.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
