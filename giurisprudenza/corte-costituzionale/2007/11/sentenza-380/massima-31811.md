@@ -1,0 +1,19 @@
+# Massima n. 31811
+
+- Pronuncia: Corte costituzionale, sentenza 380/2007 (ECLI:IT:COST:2007:380)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2007:380
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Gestione dei rifiuti in Sicilia - Decreti interministeriali di sospensione temporanea in via di autotutela delle autorizzazioni riguardanti gli impianti di pretrattamento e termovalorizzazione previsti nei comuni di Palermo, Favara, Casteltermini, Paternò e Modica, e contestuale avvio del procedimento per il rilascio dell'autorizzazione integrata ambientale (AIA) - Ricorso per conflitto di attribuzione della Regione Siciliana - Denunciata lesione della sfera di attribuzioni costituzionalmente garantite della Regione nelle materie di competenza primaria dell'assetto del territorio, delle acque pubbliche e della tutela del paesaggio, nonché nella materia di competenza concorrente igiene e sanità pubblica - Inidoneità lesiva degli atti impugnati risolvendosi la censura nella deduzione di una erronea applicazione di legge - Inammissibilità del conflitto.
+
+## Testo
+
+E' inammissibile il conflitto di attribuzione proposto dalla Regione Siciliana nei confronti del Presidente del Consiglio dei ministri in relazione ai decreti interministeriali adottati in data 13 febbraio 2007 dal Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro dello sviluppo economico e il Ministro della salute, con i quali, in via di autotutela, è stata sospesa l'efficacia dei provvedimenti di autorizzazione alle emissioni in atmosfera riguardanti gli impianti di pretrattamento e termovalorizzazione dei rifiuti previsti dal piano regionale per la gestione dei rifiuti nella Regione Siciliana, rilasciati dallo stesso Ministro, in via sostitutiva,  ex  art. 7, comma 2, del d.P.R. 24 maggio 1988, n. 203, fino alla conclusione del procedimento di rilascio dell'autorizzazione integrata ambientale, ai sensi del decreto legislativo 18 febbraio 2005, n. 59, contestualmente avviato. Premesso che deve escludersi l'esistenza di una competenza regionale in materia di ambiente, che non può ritenersi integralmente ricompresa nelle materie «assetto del territorio», «acque pubbliche» e «tutela del paesaggio», riservate alla potestà legislativa esclusiva della Regione Siciliana dall'art. 14, lettere  f ) , i ) e  n ) ,  dello statuto, nonché in quelle relative all'«igiene e sanità pubblica» riservate alla potestà legislativa concorrente della Regione dall'art. 17, lettera  b ), del medesimo statuto, le censure proposte dalla ricorrente si risolvono nella denuncia dell'illegittima commissione, ad opera del Ministro dell'ambiente, dei due distinti procedimenti, e precisamente di quello, in via di autotutela, che ha sospeso l'efficacia delle autorizzazioni alle emissioni in atmosfera rilasciate in via sostitutiva  ex  art. 7, comma 2, del d. P. R. n. 203 del 1988 e di quello relativo al rilascio dell'autorizzazione integrata ambientale di competenza della Regione, e cioè nella denuncia di una presunta erronea applicazione della legge negli atti impugnati, senza che questi ultimi, per il loro contenuto e i loro presupposti, appaiano idonei ad arrecare da soli pregiudizio alla sfera di competenza costituzionale della Regione. - Sulla delimitazione della materia "tutela dell'ambiente", v. le citate sentenze n. 32 e n. 247/2006, nn. 62, 214, 232 e 336/2005, n. 259/2004, nn. 507 e 54/2000, n. 382/1999, n. 273/1998 e, con particolare riferimento alle Regioni ad autoinomia speciale, la citata sentenza n. 65/2005.
+
+## Parametri
+
+- statuto regione Sicilia, art. 14 lettere f), i) e n)
+- statuto regione Sicilia, art. 20
+- statuto regione Sicilia, art. 17 lettera b)
