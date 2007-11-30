@@ -1,0 +1,58 @@
+# Corte costituzionale, ordinanza 405/2007
+
+- ECLI: ECLI:IT:COST:2007:405
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Luigi Mazzella
+- Redattore: Luigi Mazzella
+- Data della decisione: 21/11/2007
+- Data del deposito: 30/11/2007
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 31915
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2007:405
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale degli artt. 82 e 91 del codice di procedura civile promosso con ordinanza del 13 settembre 2006 dalla Corte d'appello di Torino nel procedimento civile vertente tra Augusto Consiglio e Ennio Marcolongo iscritta al n. 373 del registro ordinanze 2007 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 21, prima serie speciale, dell'anno 2007.
+      Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+      udito nella camera di consiglio del 24 ottobre 2007 il Giudice relatore Luigi Mazzella.
+    Ritenuto che la Corte di appello di Torino, con ordinanza del 13 settembre 2006, ha sollevato – in riferimento agli artt. 3 e 24 della Costituzione - questione di legittimità costituzionale degli artt. 82 e 91 del codice di procedura civile nella parte in cui – secondo il «diritto vivente costituito dalla costante giurisprudenza di legittimità» – dispongono che le spese di lite vanno comunque poste a carico della parte soccombente e non del difensore, anche quando, come nella specie, la soccombenza è ascrivibile esclusivamente alla intempestiva, negligente proposizione dell'appello da parte dell'avvocato, in violazione della normale diligenza professionale esigibile ai sensi degli artt.1176, secondo comma, e 2236 del codice civile;
+      che, al fine di consentire una più compiuta difesa ai difensori delle parti in ordine alla rilevanza ed alla non manifesta infondatezza di tale questione, la Corte rimettente ha dichiarato con sentenza non definitiva l'inammissibilità dell'appello ed ha rimesso la causa sul ruolo in ordine alla questione relativa al soggetto tenuto a sopportare le spese del giudizio di secondo grado;
+      che il difensore dell'appellante ha ammesso la tardività dell'impugnazione avverso la sentenza di primo grado dichiarando di essere coperto da polizza assicurativa;
+      che, secondo il giudice a quo, far ricadere le conseguenze della soccombenza sulla cosiddetta «parte assistita» presuppone una responsabilità oggettiva di quest'ultima per gli atti del suo difensore, in quanto il cliente esposto alla condanna alle spese causate dalla tardività dell'appello non risulta agli atti neanche informato sulle ragioni dell'intervenuto rigetto dell'appello, subendo, in tal modo, anche una compromissione del proprio diritto di difesa;
+    che la Corte rimettente denuncia inoltre una disparità di trattamento, osservando che diversa e più compiuta tutela è assicurata alla parte soccombente non per sua colpa dall'art. 94 cod.proc.civ., che contempla la possibilità di condannare personalmente alle spese chi, pur non essendo parte nel processo,  rappresenta o assiste le parti in giudizio, in presenza di gravi motivi, tra cui può ricomprendersi anche la mancanza di normale prudenza;
+      che, adducendo la rilevanza della questione, dal momento che il giudizio a quo non può essere definito indipendentemente dalla risoluzione della questione di legittimità costituzionale, il Giudice rimettente rileva che, dopo il passaggio in giudicato della sentenza, la procura alle liti (pur persistendo il rapporto con il cliente ad altri fini, ad es., per la notifica di atti al domicilio elettivo) non può più essere dal difensore utilizzata allo scopo di chiedere la riforma di una sentenza ormai passata in giudicato, avendo essa esaurito lo scopo per cui è stata rilasciata;
+      che la soluzione imposta dal diritto vivente è irragionevole, poiché quando la procura alle liti ha esaurito il suo scopo, l'attività del difensore non può ragionevolmente riverberare alcun effetto sulla cosiddetta «parte-difesa» e dovrebbe restare attività di cui, di norma, il professionista diverso dall'avvocato, assume la esclusiva responsabilità (ai sensi degli artt.1176 e 2229 cod.civ.);
+      che in conclusione, a giudizio del rimettente, appare del tutto irragionevole e discriminatorio che l'avvocato – il quale agisca quando non ha più i poteri del difensore (non solo per difetto originario della procura alle liti, ma anche per difetto sopravvenuto) - «non possa assumere la qualità di parte, e non possa essere condannato alle spese di lite risultate conseguenza diretta ed immediata del suo comportamento»;
+    che è intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, sostenendo l'infondatezza della questione ed osservando che le sezioni unite della Corte di cassazione, nel risolvere un contrasto giurisprudenziale in materia, hanno affermato il principio secondo cui nel caso di azione o impugnazione del difensore privo della procura da parte del soggetto nel cui nome egli dichiari di agire, l'attività del difensore medesimo non produce alcun effetto sulla parte e resta attività processuale di cui il legale si assume l'esclusiva responsabilità, sicché è ammissibile la sua condanna alle spese del giudizio; ciò diversamente dal caso in cui una procura alle liti sia stata di fatto conferita al difensore dalla parte in nome della quale egli dichiari di agire e tale procura risulti per qualche motivo invalida o non più efficace (sentenza 10 maggio 2006, n. 10706);
+    che, secondo l'Avvocatura erariale, nel caso di specie, avendo il difensore appellato la sentenza di primo grado sulla base del mandato a suo tempo conferitogli dalla parte da lui rappresentata, solo in prosieguo divenuto inefficace, trova applicazione la normativa codicistica sulla rappresentanza e sul mandato (in particolare gli artt. 1722, numero 1 e 2957, secondo comma, cod. civ.), secondo cui il compimento dell'affare estingue il mandato e l'estinzione coincide con il passaggio in giudicato della decisione;
+    che, ad avviso dell'Avvocatura generale, il giudice rimettente ha omesso di prendere posizione sulla diversa conclusione cui sono giunte le sezioni unite della Corte di cassazione, limitandosi a prospettare come ingiustificata una differenziazione delle due ipotesi, considerate sostanzialmente sovrapponibili, ed ha inoltre trascurato di considerare come sia lo stesso sistema a fare questa distinzione, laddove prevede (art. 300, commi primo e secondo, cod. proc. civ.) la sopravvivenza del potere rappresentativo e difensivo del legale anche in caso di estinzione del mandato per morte del mandante;
+    che parimenti infondato – secondo la difesa erariale – è l'ulteriore profilo di illegittimità prospettato dal giudice rimettente, relativo alla dedotta violazione del diritto di difesa della parte, essendo sempre fatto salvo il diritto di quest'ultima di rivalersi separatamente nei confronti del professionista negligente, in base alle regole della responsabilità professionale.
+    Considerato che la Corte di appello di Torino dubita, in riferimento agli artt. 3 e 24 della Costituzione, della legittimità costituzionale degli articoli 82 e 91 cod. proc. civ., nella parte in cui – secondo il «diritto vivente costituito dalla costante giurisprudenza di legittimità» – dispongono che le spese di lite vanno comunque poste a carico della parte soccombente e non del difensore, anche quando, come nella specie, la soccombenza è ascrivibile esclusivamente alla intempestiva proposizione dell'appello da parte dell'avvocato, in violazione dell'obbligo di normale diligenza professionale;
+    che, a giudizio del rimettente, le disposizioni censurate determinano una disparità di trattamento, priva di ragionevole giustificazione, in quanto diversa e più compiuta tutela è assicurata alla parte soccombente non per sua colpa dall'art. 94 cod. proc. civ. che prevede la possibilità di condannare personalmente alle spese chi, pur non essendo parte nel processo, rappresenta o assiste le parti in giudizio in presenza di gravi motivi, tra cui è annoverabile anche la mancanza di normale prudenza, e che, per altro verso, l'attribuzione della qualità di difensore, ex art. 82 cod. proc. civ. a chi non può difendere il cliente nel processo di appello da lui tardivamente instaurato, si traduce in una lesione del diritto di difesa;
+      che, a prescindere dal rilievo che con l'invocata pronuncia il giudice rimettente chiede a questa Corte di intervenire su una materia, quella processuale, nella quale la Costituzione non impone un modello unico e infungibile al legislatore, lasciando a quest'ultimo la più ampia discrezionalità nella conformazione degli istituti, purché sia salvaguardato il limite della ragionevolezza (ex plurimus, si veda l'ordinanza n. 383 del 1987), la questione è manifestamente infondata;
+      che, per affermare l'irragionevolezza delle norme censurate, il rimettente opera una commistione tra àmbiti diversi nei quali si collocano, da una parte, il rapporto tra cliente e difensore, regolato dalle norme civilistiche del mandato che prevedono, in caso di colpa del mandatario, un risarcimento del danno non commisurato necessariamente al solo costo del processo, e, dall'altra, il rapporto tra parte, difensore e giudice, strettamente funzionale alle esigenze proprie del giudizio, nel quale confluiscono aspetti pubblicistici riguardanti anche l'esigenza di assicurare la difesa tecnica e di garantire una equilibrata posizione delle parti in lite;
+      che, proprio per questa netta distinzione di àmbiti non è irragionevole la scelta del legislatore di mantenere separato il piano sostanziale del mandato alla lite da quello strettamente processuale della soccombenza;
+      che non può essere evocato come “tertium comparationis” l'art. 94 cod. proc. civ., in quanto esso concerne l'istituto - del tutto distinto dalla rappresentanza tecnica - della “parte in senso formale”, che assume la qualità di parte per rappresentare quella “sostanziale” o per integrarne la capacità;
+    che del tutto privo di fondamento è il richiamo dell'art. 24 Cost., in ordine alla dedotta violazione del diritto di difesa della parte, essendo sempre fatto salvo il diritto di questa di agire in separata sede nei confronti del difensore negligente, in base alle regole della responsabilità professionale;
+      che, pertanto la questione è manifestamente infondata.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+      dichiara la manifesta infondatezza della questione di legittimità costituzionale degli artt. 82 e 91 del codice di procedura civile, sollevata, in riferimento agli artt. 3 e 24 della Costituzione, dalla Corte di appello di Torino con l'ordinanza in epigrafe.
+      Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 21 novembre 2007.
+F.to:
+Franco BILE, Presidente
+Luigi MAZZELLA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 30 novembre 2007.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
