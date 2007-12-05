@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1588/C/1.0.1"/>
+					<an:FRBRdate date="2007-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@"/>
+					<an:FRBRdate date="2007-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@.akn"/>
+					<an:FRBRdate date="2007-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1588/C/1.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1588" showAs="DDL 1588"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Lavori pubblici, comunicazioni" href="/dati.senato.it/osr/Commissione/8"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/139" showAs="Baldini"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/437" showAs="Camber"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17570" showAs="Cicolani"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/1200" showAs="Grillo"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/17805" showAs="Viceconte"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/407" showAs="Butti"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/1486" showAs="Martinat"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/1932" showAs="Pontone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1588</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Baldini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Camber</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Cicolani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Grillo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Viceconte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Butti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Martinat</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Pontone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 1</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b/>
+					<an:b>«Art 1-</an:b>
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					<an:i>(Verifica dell'adempimento dei compiti)</an:i>
+				</an:p>
+				<an:p>        1. È affidato all'Autorità per le garanzie nelle comunicazioni il compito di verificare che il servizio pubblico generale radiotelevisivo venga effettivamente prestato ai sensi delle disposizioni di cui alla presente legge, del contratto nazionale di servizio e degli specifici contratti di servizio conclusi con le regioni e con le province autonome di Trento e di Bolzano, tenendo conto anche dei parametri di qualità del servizio e degli indici di soddisfazione degli utenti definiti nel contratto medesimo.</an:p>
+				<an:p>        2. L'Autorità per le garanzie nelle comunicazioni, nei casi di presunto inadempimento degli obblighi di cui al comma 1, d'ufficio o su impulso del Ministero delle comunicazioni per il contratto nazionale di servizio ovvero delle regioni e delle province autonome di Trento e di Bolzano per i contratti da queste stipulati, notifica l'apertura dell'istruttoria al rappresentante legale della società concessionaria, che ha diritto di essere sentito, personalmente o a mezzo di procuratore speciale, nel termine fissato contestualmente alla notifica e ha facoltà di presentare deduzioni e pareri in ogni fase dell'istruttoria, nonché di essere nuovamente sentito prima della chiusura di questa.</an:p>
+				<an:p>        3. L'Autorità per le garanzie nelle comunicazioni può in ogni fase dell'istruttoria richiedere alle imprese, enti o persone che ne siano in possesso, di fornire informazioni e di esibire documenti utili ai fini dell'istruttoria; disporre ispezioni al fine di controllare i documenti aziendali e di prenderne copia, anche avvalendosi della collaborazione di altri organi dello Stato; disporre perizie e analisi economiche e statistiche, nonchè la consultazione di esperti in ordine a qualsiasi elemento rilevante ai fini dell'istruttoria.</an:p>
+				<an:p>        4. Tutte le notizie, le informazioni o i dati riguardanti le imprese oggetto di istruttoria da parte dell'Autorità per le garanzie nelle comunicazioni sono tutelati dal segreto d'ufficio anche nei riguardi delle pubbliche amministrazioni.</an:p>
+				<an:p>        5. I funzionari dell'Autorità per le garanzie nelle comunicazioni nell'esercizio delle funzioni di cui al comma 3 sono pubblici ufficiali. Essi sono vincolati dal segreto d'ufficio.</an:p>
+				<an:p>        6. Con provvedimento dell'Autorità per le garanzie nelle comunicazioni, i soggetti richiesti di fornire gli elementi di cui al comma 3 sono sottoposti alla sanzione amministrativa pecuniaria fino a 25 mila euro se rifiutano od omettono, senza giustificato motivo, di fornire le informazioni o di esibire i documenti ovvero alla sanzione amministrativa pecuniaria fino a 50 mila euro se forniscono informazioni o esibiscono documenti non veritieri. Sono fatte salve le diverse sanzioni previste dall'ordinamento vigente.</an:p>
+				<an:p>        7. Se, a seguito dell'istruttoria, l'Autorità per le garanzie nelle comunicazioni ravvisa infrazioni agli obblighi di cui al comma 1, fissa alla società concessionaria il termine, comunque non superiore a trenta giorni, per l'eliminazione delle infrazioni stesse. Nei casi di infrazioni gravi, tenuto conto della gravità e della durata dell'infrazione, l'Autorità dispone, inoltre, l'applicazione di una sanzione amministrativa pecuniaria fino al 3 per cento del fatturato realizzato nell'ultimo esercizio chiuso anteriormente alla notificazione della diffida, fissando i termini, comunque non superiori a trenta giorni, entro i quali l'impresa deve procedere al pagamento della sanzione.</an:p>
+				<an:p>        8. In caso di inottemperanza alla diffida di cui al comma 7, l'Autorità per le garanzie nelle comunicazioni applica la sanzione amministrativa pecuniaria fino al 3 per cento del fatturato ovvero, nei casi in cui sia stata applicata la sanzione di cui al citato comma 7, una sanzione di importo minimo non inferiore al doppio della sanzione già applicata con un limite massimo del 3 per cento del fatturato come individuato al medesimo comma 7, fissando altresì il termine entro il quale il pagamento della sanzione deve essere effettuato. Nei casi di reiterata inottemperanza l'Autorità per le garanzie nelle comunicazioni può disporre la sospensione dell'attività d'impresa fino a novanta giorni.</an:p>
+				<an:p>        9. L'Autorità per le garanzie nelle comunicazioni dà conto dei risultati del controllo ogni anno nella relazione annuale».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
