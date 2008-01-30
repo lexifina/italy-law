@@ -1,0 +1,18 @@
+# Massima n. 32090
+
+- Pronuncia: Corte costituzionale, sentenza 16/2008 (ECLI:IT:COST:2008:16)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:16
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+'Referendum' abrogativo - 'Referendum' su leggi elettorali relative ad organi costituzionali o di rilevanza costituzionale - Condizioni di ammissibilità - Matrice razionalmente unitaria del quesito ed autoapplicatività della normativa di risulta - Conseguente carattere non meramente caducatorio, ma necessariamente «manipolativo» della richiesta referendaria.
+
+## Testo
+
+Le leggi elettorali non sono comprese, in quanto tali, tra gli atti legislativi per i quali l'art. 75, secondo comma, della Costituzione, esclude l'ammissibilità dell'abrogazione popolare, e tuttavia appartengono alla categoria delle leggi costituzionalmente necessarie, la cui esistenza e vigenza è indispensabile per assicurare il funzionamento e la continuità degli organi costituzionali della Repubblica. L'ammissibilità di un  referendum  su norme elettorali relative ad organi costituzionali o a rilevanza costituzionale è, perciò, assoggettata alla duplice condizione che i quesiti siano omogenei e riconducibili a una matrice razionalmente unitaria, e ne risulti una coerente normativa residua, immediatamente applicabile, tale da garantire, pur nell'eventualità di inerzia legislativa, la costante operatività dell'organo. Ne consegue che - in aggiunta alle caratteristiche indispensabili di chiarezza, univocità ed omogeneità del quesito - un  referendum  in materia elettorale deve essere necessariamente parziale e inevitabilmente "manipolativo", e cioè non può avere ad oggetto una legge elettorale nella sua interezza, ma deve investire solo specifiche norme, la cui ablazione abbia come effetto naturale e spontaneo la ricomposizione del tessuto normativo rimanente, in modo da rendere la regolamentazione elettorale successiva all'abrogazione referendaria diversa da quella prima esistente, e complessivamente idonea a garantire il rinnovo, in ogni momento, dell'organo costituzionale elettivo. Ciò vale segnatamente per le due Camere del Parlamento, rispetto alle quali l'indefettibilità delle leggi elettorali è di massima evidenza e rilevanza, anche allo scopo di non paralizzare il potere di scioglimento del Presidente della Repubblica previsto dall'art. 88 Cost. Per i motivi evidenziati, "è di per sé irrilevante il modo di formulazione del quesito, che può anche includere singole parole o singole frasi della legge prive di autonomo significato normativo". - Sull'ammissibilità di  referendum  abrogativo avente per oggetto legge elettorali, v., citata, sentenza n. 47/1991. - Sulle caratteristiche proprie della materia elettorale e, in particolare, all'esigenza di poter disporre, in ogni tempo, di una normativa operante, v., citata, sentenza n. 13/1999. - Sui requisiti fondamentali di ammissibilità dei  referendum  abrogativi concernenti leggi elettorali, delineati dalla giurisprudenza costituzionale, v., citate, sentenze n. 16/1978, n. 32/1993, e sentenza n. 47/1991, conforme alle sentenze, citate, 16/1978, n. 25/1981 e n. 29/1987. - In relazione alla irrilevanza del modo di formulazione del quesito, che può anche includere singole parole o singole frasi della legge prive di autonomo significato normativo, v., citata, sentenza n. 32/1993.
+
+## Parametri
+
+- Costituzione, art. 75
+- legge, 25/05/1970 n. 352, art. 27, comma 3
