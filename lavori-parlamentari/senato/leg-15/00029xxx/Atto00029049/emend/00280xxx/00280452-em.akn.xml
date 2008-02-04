@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1829/A/G1.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1829/A/G1.101"/>
+					<an:FRBRdate date="2008-02-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1829/A/G1.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@"/>
+					<an:FRBRdate date="2008-02-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@.akn"/>
+					<an:FRBRdate date="2008-02-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-02-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-02-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1829/A/G1.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1829" showAs="DDL 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/22723" showAs="Capelli"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/22747" showAs="Gagliardi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Capelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Gagliardi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la legislazione vigente affida ad un decreto del Ministro della pubblica istruzione, adottato di concerto con il Ministro dell'economia e delle finanze, la determinazione delle dotazioni di organico, comprese quelle relative al tempo pieno, da attribuire alle singole istituzioni scolastiche;</an:p>
+				<an:p align="justify">            le scadenze delle numerose e complesse operazioni, essenziali per garantire un ordinato avvio dell'anno scolastico - dipendenti dalle diverse scansioni temporali delle iscrizioni degli alunni, dell'effettuazione delle operazioni di mobilità e di nuove assunzioni del personale - rendono necessario che il calcolo delle classi e dei posti di insegnamento venga effettuato, in prima istanza, su base previsionale e venga, in una successiva fase, adeguato alla situazione di fatto effettivamente registrata;</an:p>
+				<an:p align="justify">            le due distinte operazioni di determinazione dell'organico e del suo adeguamento alla situazione di fatto hanno assunto, nel corso degli anni le denominazioni correnti "organico di diritto" e "organico di fatto", definizioni che, se pur largamente usate per comodità di esposizione negli atti di prassi amministrativa, non sono tuttavia riferibili a specifiche fattispecie giuridiche;</an:p>
+				<an:p align="justify">            inoltre, gli interventi legislativi attuati nella passata legislatura hanno fatto sì che l'inevitabile differenza che si registra in sede di adeguamento dell'organico alla situazione di fatto assumesse dimensioni abnormi, determinando situazioni di disagio tra i cittadini, particolarmente accentuate in relazione alle difficoltà di soddisfare le richieste di tempo pieno, destinato ad essere sostituito da altri modelli organizzativi;</an:p>
+				<an:p align="justify">            la reintroduzione nella scuola primaria del tempo pieno, pur in presenza di consistenti vincoli di natura finanziaria, offre positiva risposta ad una domanda sociale caratterizzata dall'apprezzamento per un modello organizzativo e didattico che si è consolidato nel corso di esperienze pluridecennali,</an:p>
+				<an:p align="justify">        impegna il Governo a tenere conto, ai fini della determinazione dell'organico relativo al tempo pieno, del numero complessivo di classi a tempo pieno attivate nell'anno scolastico di riferimento, anche per evitare il riprodursi di situazioni di incertezza e disagio.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
