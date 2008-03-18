@@ -1,0 +1,11 @@
+# Legge 18 marzo 2008, n. 54
+
+- Tipo: Ordinaria
+- Numero: 54
+- Data: 2008-03-18
+- Titolo: Ratifica ed esecuzione dei seguenti accordi: a) Accordo di cooperazione relativo ad un sistema globale di navigazione satellitare civile (GNSS) - Galileo tra la Comunità europea e i suoi Stati membri e la Repubblica popolare cinese, fatto a Pechino il 30 ottobre 2003; b) Accordo concernente la promozione, la fornitura e l'uso dei sistemi di navigazione satellitare Galileo e GPS e applicazioni correlate tra gli Stati Uniti d'America, da un lato, e la Comunità europea ed i suoi Stati membri, dall'altro, con Allegato, fatto a Dromoland Castle il 26 giugno 2004
+- Pubblicazione: G.U. n. 83 dell'8 aprile 2008 (suppl.ord.),n.54
+- Legislatura: XV legislatura della Repubblica (repubblica_15)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2008-03-18;54
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L2008_54
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
