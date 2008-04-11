@@ -1,0 +1,23 @@
+# Massima n. 32266
+
+- Pronuncia: Corte costituzionale, sentenza 96/2008 (ECLI:IT:COST:2008:96)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:96
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Avvocati e Procuratori - Onorari per prestazioni giudiziali in materia civile - Procedura camerale per la loro liquidazione - Inapplicabilità del rito nei giudizi amministrativi secondo il diritto vivente - Lamentata lesione del principio di ragionevolezza e del diritto di difesa - Esclusione - Non fondatezza della questione.
+
+## Testo
+
+E' infondata la questione di legittimità costituzionale degli artt. 28 e 29 della legge 13 giugno 1942, n. 794, censurati, in riferimento agli artt. 3 e 24 Cost., nella parte in cui non consentono, secondo il diritto vivente, che il procedimento semplificato avente ad oggetto la liquidazione dei compensi spettanti agli avvocati in relazione all'attività prestata nei giudizi civili, si applichi nei giudizi amministrativi, per la liquidazione dei compensi riguardanti l'attività defensionale in essi svolta. Invero, la scelta del legislatore di non estendere lo speciale rito camerale previsto dalle norme censurate ad altri tipi di controversie non è irragionevole in quanto la stessa è imposta dalle regole generali di riparto delle giurisdizioni che impediscono una completa equiparazione, a tal fine, tra giudizi civili e giudizi amministrativi. Infatti, nel caso di prestazioni professionali svolte nell'ambito di un giudizio amministrativo, emerge in modo evidente l'eterogeneità tra la controversia di base - volta alla tutela di situazioni giuridiche soggettive che si assumono lese dalla pubblica amministrazione o da soggetti privati posti in posizione di preminenza - e lo specifico contenzioso volto ad ottenere l'adempimento di un obbligo nascente da un rapporto contrattuale tra soggetti privati, contenzioso quest'ultimo estraneo rispetto "alle particolari materie" suscettibili di essere inserite nella sfera della giurisdizione esclusiva del giudice amministrativo, quale configurata dall'art. 103, primo comma, Cost. Inoltre, essendo la norma assunta dal rimettente come  tertitum comparationis  derogatrice della disciplina generale - in quanto la tutela dei diritti degli avvocati che prestano la loro opera in giudizi diversi da quelli civili o in sede extragiudiziaria è comunque assicurata per tutti i professionisti, sia dall'ordinario giudizio di cognizione che dal procedimento d'ingiunzione di cui agli artt. 633 e ss. c.p.c. - la funzione del giudizio di legittimità costituzionale non può essere se non il ripristino della disciplina generale, non l'estensione ad altri casi di quest'ultima. Infine, la non irragionevolezza della disciplina censurata è provata anche dalla circostanza che una eventuale estensione del rito speciale - nel quale, per esplicita previsione legislativa, non sono ammesse impugnazioni, ma solo, per giurisprudenza costante di legittimità, il ricorso per cassazione - produrrebbe paradossalmente una diminuzione di tutela atteso che, ai sensi dell'ultimo comma dell'art. 111 Cost., contro le decisioni dei giudici amministrativi il ricorso per cassazione è ammesso per i soli motivi inerenti alla giurisdizione. - Sulla specialità della procedura camerale semplificata per la liquidazione degli onorari degli avvocati nei procedimenti civili, vedi, citata, sentenza n. 22/1973. - Sulla non arbitrarietà o irrazionalità della scelta di non estendere il procedimento semplificato per la liquidazione degli onorari degli avvocati nei procedimenti civili, a tutti i professionisti di cui all'art. 633 c.p.c., vedi, citata, sentenza n. 238/1976. - Sul legame ontologico tra il rito camerale  ex  art. 29 della legge n. 794 del 1942 ed il giudizio mirante al pagamento degli onorari per prestazioni effettuate nei procedimenti civili, vedi, citata, sentenza n. 197/1998. - Sulla necessità che ricorra la figura della pubblica amministrazione-autorità perché possa estendersi la giurisdizione esclusiva, vedi, citate, sentenze nn. 204/2004 e 191/2006. - Sul fatto che, quando viene assunta come  tertitum comparationis  una norma derogatrice, la funzione del giudizio di legittimità costituzionale non può essere se non il ripristino della disciplina generale, non l'estensione ad altri casi di quest'ultima, vedi, citata, sentenza n. 298/1994.
+
+## Norme
+
+- legge, 13/06/1942 n. 794, art. 28
+- legge, 13/06/1942 n. 794, art. 29
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
