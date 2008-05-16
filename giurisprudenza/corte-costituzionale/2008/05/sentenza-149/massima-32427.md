@@ -1,0 +1,25 @@
+# Massima n. 32427
+
+- Pronuncia: Corte costituzionale, sentenza 149/2008 (ECLI:IT:COST:2008:149)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:149
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Mezzi di ricerca delle prove - Disciplina delle intercettazioni di comunicazioni tra presenti - Mancata estensione alle riprese visive nei luoghi di privata dimora, ancorché le immagini non abbiano ad oggetto comportamenti di tipo comunicativo - Denunciata lesione della libertà personale, dell'inviolabilità del domicilio e della libertà di comunicazione - Insufficiente descrizione della fattispecie concreta ed omessa verifica della praticabilità di una diversa interpretazione del quadro normativo - Inammissibilità della questione (a prescindere da valutazioni sul merito, rispetto al quale vale il 'dictum' della sentenza n. 135 del 2002).
+
+## Testo
+
+E' inammissibile la questione di legittimità costituzionale (a prescindere da valutazioni sul merito rispetto a cui vale il  dictum  della sentenza n. 135 del 2002) dell'art. 266, comma 2, del codice di procedura penale, sollevata in riferimento agli artt. 13, primo e secondo comma, 14, primo e secondo comma, e 15 della Costituzione, nella parte in cui non estende la disciplina delle intercettazioni di comunicazioni tra presenti a qualsiasi ripresa visiva effettuata in luoghi di privata dimora, ancorché le immagini captate non abbiano ad oggetto comportamenti di tipo comunicativo. Infatti, il giudice rimettente, limitandosi ad opporre che il davanzale della finestra di un'abitazione è un punto certamente riconducibile alle nozioni di domicilio e di privata dimora, senza specificare né quali immagini siano state concretamente filmate, né come la ripresa sia avvenuta, ha omesso una compiuta descrizione della fattispecie concreta; e altresì ha fondato la questione su una premessa interpretativa - e precisamente quella secondo cui, in assenza di un espresso divieto o di una esplicita regolamentazione, da parte della legge ordinaria, delle riprese visive di comportamenti di tipo non comunicativo all'interno del domicilio, tale attività investigativa sarebbe esperibile anche ad iniziativa della polizia giudiziaria, con connessa utilizzabilità processuale dei relativi risultati - che non è l'unica astrattamente possibile, in tal modo omettendo preliminarmente di verificare la praticabilità della soluzione interpretativa opposta rispetto a quella posta a base dei dubbi di costituzionalità ipotizzati, e tale da determinare il possibile superamento di detti dubbi o da renderli comunque non rilevanti nei giudizi principali. - Sulle condizioni per l'estensione alle videoregistrazioni nei luoghi di privata dimora della disciplina delle intercettazioni ambientali, v., citate, sentenza n. 135/2002, sentenza n. 26795/2006 della Corte di cassazione. - Sul divieto di attività compiute in violazione di diritti fondamentali e relativa inutilizzabilità dei risultati in sede processuale, v., citate, sentenze n. 34/1973, n. 81/1993. - Sul sequestro di scritti per facilitare la difesa nel corso dell'interrogatorio v., citata, sentenza n. 229/1998. - Sull'inammissibilità di questioni sollevate dai giudici rimettenti senza la preventiva verifica della possibilità di una diversa interpretazione, v., citate, sentenza n. 192/2007, ordinanza n. 409/2007.
+
+## Norme
+
+- codice di procedura penale, art. 266, comma 2
+
+## Parametri
+
+- Costituzione, art. 13, comma 1
+- Costituzione, art. 13, comma 2
+- Costituzione, art. 14, comma 1
+- Costituzione, art. 14, comma 2
+- Costituzione, art. 15
