@@ -1,0 +1,63 @@
+# Corte costituzionale, ordinanza 150/2008
+
+- ECLI: ECLI:IT:COST:2008:150
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Giovanni Maria Flick
+- Redattore: Giovanni Maria Flick
+- Data della decisione: 07/05/2008
+- Data del deposito: 16/05/2008
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 32428
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:150
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Giovanni Maria FLICK, Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnei giudizi di legittimità costituzionale dell'art. 593 del codice di procedura penale, come sostituito dall'art. 1 della legge 20 febbraio 2006, n. 46 (Modifiche al codice di procedura penale, in materia di inappellabilità delle sentenze di proscioglimento) e dell'art. 10, commi 1, 2 e 3, della stessa legge, promossi con ordinanze del 5 aprile 2006 dalla Corte d'appello di Napoli e del 15 maggio 2006 dalla Corte d'assise d'appello di Bari, nei procedimenti penali a carico di F. R. e di B.G. ed altri, iscritte ai nn. 213 e 596 del registro ordinanze 2006 e pubblicate nella Gazzetta Ufficiale della Repubblica n. 28, prima serie speciale, dell'anno 2006 e n. 1, prima serie speciale, dell'anno 2007.
+    Udito nella camera di consiglio del 2 aprile 2008 il Giudice relatore Giovanni Maria Flick.
+    Ritenuto che la Corte d'appello di Napoli (r.o. n. 213 del 2006) ha sollevato, in riferimento agli artt. 3 e 111, secondo comma, della Costituzione, questione di legittimità costituzionale dell'art. 593 del codice di procedura penale, come sostituito dall'art. 1 della legge 20 febbraio 2006, n. 46 (Modifiche al codice di procedura penale, in materia di inappellabilità delle sentenze di proscioglimento), «nella parte in cui limita l'appello del P.M. contro le sentenze di proscioglimento alle ipotesi di cui all'art. 603, comma 2, del codice di procedura penale», e dell'art. 10, comma 2, della medesima legge;
+    che la Corte rimettente premette in fatto di essere investita dell'appello proposto dal pubblico ministero avverso la sentenza di non luogo a procedere per insussistenza del fatto pronunciata dal Giudice per le indagini preliminari, in funzione di Giudice dell'udienza preliminare del Tribunale di Nola;
+    che, nel merito, la Corte rimettente ritiene che l'art. 593 cod. proc. pen. - nel testo risultante dalle modifiche introdotte dall'art. 1 della sopravvenuta legge n. 46 del 2006, che ha sottratto al pubblico ministero il potere di proporre appello avverso le sentenze di proscioglimento - contrasti innanzitutto con l'art. 111, secondo comma, Cost., secondo cui ogni processo si svolge nel contraddittorio tra le parti, in condizioni di parità;
+    che il giudice a quo ritiene irragionevole la disparità di trattamento che la disciplina censurata determina a sfavore del pubblico ministero; tale disparità, infatti, non potrebbe trovare giustificazione nel fatto che la proposizione dell'appello sia formalmente preclusa anche all'imputato, ben diverso essendo il rispettivo interesse sostanziale a proporre impugnazione avverso la sentenza di proscioglimento; né potrebbe trovarla nel fatto che l'organo dell'accusa può comunque giovarsi del ricorso per Cassazione, «poiché il ricorso ha minore estensione dell'atto di appello, che attiene al merito»;
+    che viene, altresì, dedotto il contrasto con l'art. 3 Cost., sotto il profilo della assoluta irragionevolezza della diminuzione dei poteri processuali del pubblico ministero: e ciò sia per la «macroscopica diversità di trattamento tra le parti processuali»; sia perché la normativa censurata consente all'organo della pubblica accusa la proposizione dell'appello in caso di soccombenza parziale - vale a dire, in presenza di una sentenza di condanna rispetto alla quale l'accusa richieda un aggravamento della pena - negandola per l'ipotesi di soccombenza totale;
+    che la Corte rimettente dubita, infine, della legittimità costituzionale della disciplina censurata in riferimento al principio della ragionevole durata del processo, sul rilievo che – per effetto delle modifiche recate dalla legge n. 46 del 2006 al regime di appellabilità delle sentenze di proscioglimento e al giudizio in cassazione (relativamente sia all'estensione dei motivi di ricorso che al rinvio al giudice di primo grado) – si determinerebbe un aumento dei gradi di giudizio, con conseguente allungamento dei tempi processuali e rischio di prescrizione dei reati;
+    che ciò sarebbe particolarmente evidente in relazione alla disciplina transitoria contenuta nell'art. 10 della legge n. 46 del 2006 – relativamente agli appelli già proposti dal pubblico ministero avverso le sentenze di proscioglimento – considerando anche il tempo intercorrente tra la sentenza di proscioglimento e la successiva ordinanza dichiarativa dell'inammissibilità dell'appello;
+    che anche la Corte d'assise d'appello di Bari (r.o. n. 596 del 2006) ha sollevato, in relazione agli artt. 3 e 111, secondo comma, Cost., analoga questione di legittimità costituzionale dell'art. 593 cod. proc. pen., come sostituito dall'art. 1 della citata legge 20 febbraio 2006, n. 46, e dell'art. 10, commi 1, 2 e 3, della medesima legge;
+    che la Corte rimettente è investita dell'appello proposto dal pubblico ministero avverso una sentenza di assoluzione di alcuni imputati emessa, a seguito di giudizio abbreviato, dal Giudice per le indagini preliminari presso il Tribunale di Bari, in funzione di Giudice dell'udienza preliminare;
+    che, ai fini della rilevanza, la Corte rimettente precisa che, sopravvenuta nelle more del giudizio la legge n. 46 del 2006 – il cui art. 1 ha sostituito l'art. 593 cod. proc. pen., sottraendo al pubblico ministero il potere di appellare le sentenze di proscioglimento – l'appello proposto dovrebbe essere dichiarato inammissibile in forza di quanto previsto dall'art. 10 di essa;
+    che, nel merito, la disciplina censurata si porrebbe in contrasto con gli artt. 3 e 111, secondo comma, Cost.;
+    che, al riguardo, la Corte rimettente evidenzia che il principio del contraddittorio si configura come regola avente valenza oggettiva e quale metodo che deve presiedere allo svolgimento del processo in ogni fase: con la conseguenza che ciascuna parte dovrebbe essere posta nella condizione di promuovere una rivisitazione critica nel merito della decisione;
+    che, per contro, la novella censurata «si configura come una vera e propria alterazione» della regola costituzionale;
+    che la Corte rimettente è consapevole della giurisprudenza della Corte costituzionale secondo cui il principio di parità tra le parti non comporta necessariamente l'identità dei poteri processuali del pubblico ministero e dell'imputato, ben potendo ipotizzarsi un diverso trattamento riservato al pubblico ministero;
+    che, tuttavia, il diverso trattamento, per essere conforme a Costituzione, dovrebbe trovare una ragionevole giustificazione nella peculiare posizione istituzionale del pubblico ministero, nella funzione allo stesso affidata, ovvero in esigenze connesse alla corretta amministrazione della giustizia; invece, nessuna di tali ragioni sarebbe rintracciabile alla base della scelta legislativa di limitare l'appello del pubblico ministero, precludendo all'organo della pubblica accusa l'impugnazione delle sentenze di proscioglimento;
+    che non potrebbe essere ritenuta idonea ragione giustificatrice quella, indicata nei lavori parlamentari, di dare attuazione al principio sancito dall'art. 2 del Protocollo addizionale n. 7 della Convenzione europea per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, adottato a Strasburgo il 22 novembre 1984, ratificato e reso esecutivo con legge 9 aprile 1990, n. 98; infatti – come la Corte costituzionale ha ripetutamente ribadito – il «doppio grado di giurisdizione di merito non forma oggetto di garanzia costituzionale» e «la formulazione dell'art. 2, nel demandare al legislatore interno ampi spazi per la disciplina dell'esercizio del diritto all'impugnazione, non esclude […] che il principio si sostanzi nella previsione del ricorso in Cassazione»;
+    che sarebbe dunque evidente, ad avviso della Corte rimettente, la violazione degli artt. 3 e 111, secondo comma, Cost., per l'irragionevole disparità di trattamento che la disciplina censurata determinerebbe a sfavore del pubblico ministero; disparità, questa, che non potrebbe trovare giustificazione nelle ulteriori motivazioni evocate durante i lavori preparatori, fra le quali, l'esigenza di escludere che l'imputato, assolto, sia nuovamente sottoposto a processo; né, tanto meno, potrebbe trovare giustificazione nell'esigenza di una durata ragionevole del processo, che, anzi, verrebbe ulteriormente frustrata dalla riforma.
+    Considerato che, con le ordinanze in epigrafe, i rimettenti dubitano, in riferimento agli artt. 3 e 111, secondo comma, della Costituzione, della legittimità costituzionale dell'art. 593 del codice di procedura penale, come sostituito dall'art. 1 della legge 20 febbraio 2006, n. 46 (Modifiche al codice di procedura penale, in materia di inappellabilità delle sentenze di proscioglimento), nella parte in cui non consente al pubblico ministero di proporre appello avverso le sentenze di proscioglimento, e dell'art. 10, commi 1, 2 e 3, della medesima legge, recante la relativa disciplina transitoria;
+    che, stante l'identità delle questioni proposte, i relativi giudizi vanno riuniti per essere decisi con unica pronuncia;
+    che l'art. 593 cod. proc. pen. censurato disciplina, al comma 2, l'appello del pubblico ministero e dell'imputato avverso le sentenze dibattimentali di proscioglimento, stabilendo - per effetto delle modifiche introdotte dall'art. 1 della legge n. 46 del 2006 ed immediatamente applicabili in forza dell'art. 10 della medesima legge - che l'appello è consentito solo nell'ipotesi di cui all'art. 603, comma 2, cod. proc. pen., se la nuova prova è decisiva;
+    che dalle stesse ordinanze di rimessione risulta che le Corti rimettenti sono investite degli appelli proposti dal pubblico ministero avverso sentenze pronunciate dal giudice per le indagini preliminari, in funzione di giudice dell'udienza preliminare: sentenza di non luogo a procedere ex art. 425 cod. proc. pen. (r.o. n. 213 del 2006) e sentenza di assoluzione emessa a seguito di giudizio abbreviato (r.o. n. 596 del 2006);
+    che il regime di impugnazione delle sentenze emesse a seguito di giudizio abbreviato e delle sentenze di non luogo a procedere è disciplinato dagli artt. 443 e 428 cod. proc. pen. (modificati rispettivamente dagli artt. 2 e 4 della legge n. 46 del 2006), non impugnati;
+    che, dunque, le Corti rimettenti sottopongono a scrutinio di costituzionalità una norma (l'art. 593 cod. proc. pen.) - unitamente alla relativa disciplina transitoria - di cui non devono fare applicazione nei giudizi a quibus;
+    che l'inesatta indicazione della norma oggetto di censura (aberratio ictus) implica, per costante giurisprudenza di questa Corte, la manifesta inammissibilità della questione (ex plurimis, ordinanze n. 79 del 2008 e n. 461 del 2007).
+    Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+    LA CORTE COSTITUZIONALE
+    riuniti i giudizi,
+    dichiara la manifesta inammissibilità delle questioni di legittimità costituzionale dell'art. 593 del codice di procedura penale, come sostituito dall'art. 1 della legge 20 febbraio 2006, n. 46 (Modifiche al codice di procedura penale, in materia di inappellabilità delle sentenze di proscioglimento), e dell'art. 10, commi 1, 2 e 3, della medesima legge, sollevate, in riferimento agli artt. 3 e 111, secondo comma, della Costituzione, dalla Corte d'appello di Napoli e dalla Corte d'assise d'appello di Bari, con le ordinanze in epigrafe.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 7 maggio 2008.
+F.to:
+Franco BILE, Presidente
+Giovanni Maria FLICK, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 16 maggio 2008.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
