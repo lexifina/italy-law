@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/A/G2.14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/A/G2.14"/>
+					<an:FRBRdate date="2008-07-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/832/A/G2.14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.14"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@"/>
+					<an:FRBRdate date="2008-07-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@.akn"/>
+					<an:FRBRdate date="2008-07-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-07-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-07-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/832/A/G2.14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/832" showAs="DDL 832"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25275" showAs="De Luca"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25200" showAs="Della Seta"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1538" showAs="Mazzuconi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 832</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Luca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Della Seta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Mazzuconi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            gli esiti di molteplici procedimenti giudiziari hanno evidenziato il largo coinvolgimento della criminalità organizzata nelle attività di traffico e smaltimento illecito dei rifiuti nella regione Campania;</an:p>
+				<an:p align="justify">            tali attività illecite espongono la popolazione a pesanti conseguenze sul piano ambientale, igienico-sanitario, sociale;</an:p>
+				<an:p align="justify">            l'azione di contrasto della criminalità organizzata è essenziale perché in Campania si possa giungere al più presto ad una corretta, trasparente, sicura gestione dell'intero ciclo dei rifiuti;</an:p>
+				<an:p align="justify">            sia ineludibile fornire, ai cittadini campani, adeguate risposte, anche in termini di maggiore efficienza, nello svolgimento delle attività di indagine di prevenzione e di repressione in ordine ai reati connessi allo smaltimento illegale dei rifiuti,</an:p>
+				<an:p align="justify">        impegna il Governo, al fine di intensificare le attività di prevenzione sul territorio delle province di Napoli e Caserta e in particolare nelle aree comprese nei comuni di Acerra, Giugliano in Campania, Qualiano, Villaricca, nei comuni dell'area vesuviana in provincia di Napoli e nei comuni dell'agro aversano e del litorale domizio flegreo in provincia di Caserta, a definire un programma operativo interforze di detti territori, coordinato dalle prefetture di Napoli e Caserta.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
