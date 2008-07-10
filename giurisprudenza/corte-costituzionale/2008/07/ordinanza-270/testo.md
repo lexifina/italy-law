@@ -1,0 +1,54 @@
+# Corte costituzionale, ordinanza 270/2008
+
+- ECLI: ECLI:IT:COST:2008:270
+- Tipo: ordinanza
+- Presidente: BILE
+- Relatore: Luigi Mazzella
+- Redattore: Luigi Mazzella
+- Data della decisione: 07/07/2008
+- Data del deposito: 10/07/2008
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 32695
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:270
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Franco BILE; Giudici: Giovanni Maria FLICK, Francesco AMIRANTE, Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale degli artt. 2 e 2-bis della legge 12 giugno 1990, n. 146 (Norme sull'esercizio del diritto di sciopero nei servizi pubblici essenziali e sulla salvaguardia dei diritti della persona costituzionalmente tutelati. Istituzione della Commissione di garanzia dell'attuazione della legge), promosso con ordinanza del 15 dicembre 2006 dal Tribunale di Pesaro nel procedimento penale a carico di Roberto Marzocco, iscritta al n. 673 del registro ordinanze 2007 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 39, prima serie speciale, dell'anno 2007.
+      Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+    udito nella camera di consiglio del 25 giugno 2008 il Giudice relatore Luigi Mazzella.
+    Ritenuto che, con ordinanza del 15 dicembre 2006, il Tribunale di Pesaro ha sollevato, con riferimento agli articoli 3, 40, 39 e 97 della Costituzione, questione di legittimità costituzionale degli articoli 2 e 2-bis della legge 12 giugno 1990, n. 146 (Norme sull'esercizio del diritto di sciopero nei servizi pubblici essenziali e sulla salvaguardia dei diritti della persona costituzionalmente tutelati. Istituzione della Commissione di garanzia dell'attuazione della legge), nelle parti in cui non prevedono l'imposizione a carico degli avvocati che intendono astenersi dalle udienze, in adesione ad astensioni collettive proclamate dagli organismi sindacali dell'Avvocatura, di oneri economici equiparabili alla mancata percezione del salario o dello stipendio dal lavoratore dipendente;
+    che il rimettente riferisce: che il difensore dell'imputato ha aderito all'astensione collettiva nazionale dalle udienze proclamata dall'Organismo Unitario dell'Avvocatura per i giorni 14, 15 e 16 dicembre 2007; che è stato nominato un difensore di ufficio, in sostituzione del difensore di fiducia, ex art. 97, quarto comma, del codice di procedura penale;
+    che questa Corte, con sentenza n. 171 del 1996, ha dichiarato l'illegittimità costituzionale dell'art. 2, commi 1 e 5, della legge n. 146 del 1990, nella parte in cui non prevedeva, in caso di astensione collettiva dall'attività giudiziaria degli avvocati e dei procuratori legali, l'obbligo di un congruo preavviso e di un ragionevole limite temporale dell'astensione né prevedeva gli strumenti idonei a individuare e assicurare le prestazioni essenziali, nonché le procedure e le misure conseguenziali nell'ipotesi di inosservanza;
+    che nell'attuale disciplina dell'astensione collettiva degli avvocati dalle udienze residuerebbero elementi di contrasto con principi costituzionali, che, in caso di dichiarazione di illegittimità, comporterebbero l'illiceità dell'astensione collettiva proclamata e, conseguentemente, l'inammissibilità del rinvio del processo ad altra udienza;
+    che – prosegue il rimettente - secondo la sentenza n. 171 del 1996, per quanto l'astensione collettiva dalle udienze promossa dalle organizzazioni forensi non sia riconducibile alla nozione di sciopero, nondimeno alla stessa deve ritenersi applicabile in parte qua la disciplina della legge n. 146 del 1990;
+    che, ancora secondo il rimettente, presupposto logico dell'applicazione della disciplina dello sciopero nei servizi pubblici essenziali all'astensione degli avvocati dalle udienze è il fatto che tale astensione presenta gli elementi essenziali dello sciopero, tra i quali la perdita, per il singolo lavoratore, della retribuzione per tutta la durata dello sciopero laddove l'astensione dalle udienze non costerebbe nulla all'avvocato; che tutto ciò determinerebbe l'illegittimità costituzionale della legge n. 146 del 1990 nella parte in cui, per effetto della sentenza n. 171 del 1996 della Corte costituzionale, disciplina, oltre all'esercizio del diritto di sciopero nei servizi pubblici essenziali, l'esercizio del diritto di astensione dalle udienze proclamato dalle organizzazioni sindacali degli avvocati, senza prevedere a carico degli avvocati oneri economici;
+    che, a giudizio del rimettente, il fatto che gli avvocati non siano lavoratori dipendenti ma liberi professionisti impone la previsione legislativa dell'obbligo, a carico dell'avvocato che intenda astenersi dall'udienza, di versare ad un fondo apposito, costituito eventualmente presso l'amministrazione della giustizia, in quanto danneggiata dall'astensione, una somma corrispondente al valore-udienza, da determinarsi per legge in relazione alla natura dell'attività giudiziaria in concreto mancata per effetto dell'astensione, o comunque la previsione di strumenti che consentano di equiparare in concreto, sotto il profilo economico, l'astensione dell'avvocato a quella del lavoratore dipendente;
+    che, aggiunge il giudice a quo, la mancata previsione legislativa di siffatto obbligo sarebbe in contrasto con gli articoli 3, 40, 39 e 97 della Costituzione: la violazione dell'art. 3 discenderebbe dalla macroscopica e irragionevole disparità di trattamento tra situazioni analoghe con riferimento sia alla condotta (astensione dalle udienze) che agli effetti (turbativa dell'amministrazione della giustizia), a causa delle diverse condizioni personali e sociali dei soggetti che si astengono dalle udienze, lavoratori autonomi gli avvocati, lavoratori dipendenti i magistrati e il personale amministrativo; la violazione dell'art. 40 Cost. si concretizzerebbe nella equiparazione allo sciopero di una attività priva di un elemento essenziale, inscindibile dalla nozione storica e giuridica dello sciopero; la violazione dell'art. 39 sarebbe insita nella disparità di trattamento riservato dalla legge n. 146 del 1990 alle attività sindacali comportanti l'astensione dalle udienze poste in essere dalla organizzazione degli avvocati rispetto a quelle poste in essere dalle organizzazioni dei magistrati e del personale amministrativo; la violazione dell'art. 97 conseguirebbe, infine, al fatto che ogni astensione determina il rinvio di processi e di udienze, anche a data lontana di mesi e talora di anni, e sconvolge i calendari delle udienze;
+    che, intervenuto nel giudizio, il Presidente del Consiglio dei ministri, rappresentato dall'Avvocatura generale dello Stato, ha chiesto che la questione sia dichiarata inammissibile o infondata, sottolineando in primo luogo che il rimettente avrebbe del tutto omesso la motivazione circa la rilevanza della questione in relazione all'art. 2 della legge n. 146 del 1990, a suo giudizio inapplicabile alla fattispecie;
+      che, secondo la difesa erariale, il rimettente avrebbe poi omesso di illustrare le ragioni per cui la regolamentazione dell'astensione collettiva dalle udienze, prevista dal predetto articolo e affidata alla Commissione di Garanzia di cui all'art. 12 della legge citata, non consentirebbe di ritenere superati gli evidenziati profili di incostituzionalità; o, in ogni caso, le ragioni per le quali egli non abbia ritenuto di disapplicare direttamente la regolamentazione provvisoria adottata dalla Commissione di Garanzia, di rango sub primario;
+      che l'Avvocatura dello Stato sottolinea altresì l'inammissibilità della questione per il carattere additivo della invocata pronuncia, mentre, nel merito, evidenzia l'infondatezza della questione, per l'erroneità del presupposto logico da cui parte il rimettente, ossia l'equiparazione dell'astensione degli avvocati allo sciopero dei lavoratori subordinati.
+      Considerato che il Tribunale di Pesaro dubita, con riferimento agli articoli 3, 40, 39 e 97 della Costituzione, della legittimità costituzionale degli articoli 2 e 2-bis della legge 12 giugno 1990, n. 146 (Norme sull'esercizio del diritto di sciopero nei servizi pubblici essenziali e sulla salvaguardia dei diritti della persona costituzionalmente tutelati. Istituzione della Commissione di garanzia dell'attuazione della legge), nelle parti in cui non prevedono, a carico degli avvocati che intendono astenersi dalle udienze, in adesione ad astensioni collettive proclamate dagli organismi sindacali dell'Avvocatura, l'imposizione di oneri economici equiparabili alla mancata percezione della retribuzione da parte del lavoratore dipendente;
+      che le due norme vengono censurate senza che il rimettente specifichi, se non a titolo meramente esemplificativo, la natura, le modalità di pagamento e la destinazione degli oneri che dovrebbero essere imposti;
+      che, in tal modo, lo stesso rimettente, sostanzialmente, invoca una sentenza additiva, in una materia riservata alla discrezionalità del legislatore, proprio in virtù della varietà e pluralità delle soluzioni possibili (in tal senso, ex plurimis, ordinanze n. 380 del 2006, n. 199 e n. 225 del 2007);
+      che la questione è manifestamente inammissibile per le ragioni già indicate nell'ordinanza n. 116 del 2008 di questa Corte che ha esaminato identica questione sollevata dal medesimo rimettente.
+      Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+      dichiara la manifesta inammissibilità della questione di legittimità costituzionale degli articoli 2 e 2-bis della legge 12 giugno 1990, n. 146 (Norme sull'esercizio del diritto di sciopero nei servizi pubblici essenziali e sulla salvaguardia dei diritti della persona costituzionalmente tutelati. Istituzione della Commissione di garanzia dell'attuazione della legge), sollevata dal Tribunale di Pesaro, in riferimento agli articoli 3, 39, 40 e 97 della Costituzione, con l'ordinanza in epigrafe.
+      Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta il 7 luglio 2008.
+F.to:
+Franco BILE, Presidente
+Luigi MAZZELLA, Redattore
+Giuseppe DI PAOLA, Cancelliere
+Depositata in Cancelleria il 10 luglio 2008.
+Il Direttore della Cancelleria
+F.to: DI PAOLA
