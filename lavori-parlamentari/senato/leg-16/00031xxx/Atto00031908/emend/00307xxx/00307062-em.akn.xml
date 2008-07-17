@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/G5.300/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/G5.300"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/866/A/G5.300/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.300"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@.akn"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-07-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-07-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/866/A/G5.300/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/866" showAs="DDL 866"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23026" showAs="Oliva"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/251" showAs="Bevilacqua"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3913" showAs="Valentino"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17886" showAs="Caligiuri"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/752" showAs="D'Ali'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 866</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.300</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Oliva</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bevilacqua</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Valentino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Caligiuri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">D'Ali'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            con la legge 24 dicembre 2007, n. 244, erano stati creati due distinti capitoli di spesa del Ministero delle infrastrutture e del Ministero dell'ambiente e della tutela del territorio e del mare, denominati rispettivamente «Interventi per la realizzazione di opere infrastrutturali in Sicilia ed in Calabria» e «Interventi di tutela dell'ambiente e difesa del suolo in Sicilia e Calabria» ed un capitolo che prevede «fondi per le isole minori»;</an:p>
+				<an:p align="justify">            le risorse dei primi due capitoli sarebbero state ottenute attraverso il trasferimento di quelle originariamente in dotazione dell'ex Fintecna, ai sensi dell'articolo 1, comma 1155, della legge n. 296 del 2006;</an:p>
+				<an:p align="justify">            la citata legge n. 244 prevedeva che tali risorse fossero assegnate per il 90 per cento alla realizzazione di opere infrastrutturali e per il 10 per cento ad interventi a tutela dell'ambiente e della difesa del suolo e che le stesse venissero destinate per il 70 per cento ad interventi nella regione Sicilia e, per la restante parte, ad interventi nella regione Calabria;</an:p>
+				<an:p align="justify">            in particolare le priorità individuate prevedevano la realizzazione delle seguenti opere infrastrutturali: metropolitana di Palermo, Circumetnea di Catania, piattaforme logistiche di Messina, superstrada Agrigento-Caltanissetta, strada statale jonica, sistema viario e attracchi di Villa San Giovanni;</an:p>
+				<an:p align="justify">            mentre i fondi destinati alle isole minori, che prevedevano 20 milioni di euro annui, a partire dal 2008, erano destinati alla ripresa economica e sociale di territori particolarmente fragili;</an:p>
+				<an:p align="justify">            tra le sette missioni contenute nel programma della coalizione di Governo, di cui l'MPA fa parte, si prevede, al punto 2 e al punto 5, un piano decennale straordinario per le infrastrutture del Meridione;</an:p>
+				<an:p align="justify">            il decreto in esame prevede la copertura delle spese conseguenti alla decisione dell'esecutivo di esentare i contribuenti dal pagamento dell'imposta comunale sugli immobili adibiti ad abitazione principale anche attraverso l'utilizzo delle risorse destinate alla realizzazione di infrastrutture in Sicilia e Calabria e delle risorse destinate alle isole minori,</an:p>
+				<an:p align="justify">        impegna il Governo ad adottare idonei provvedimenti al fine di ripristinare le risorse destinate al Mezzogiorno, in particolare quelle relative alla realizzazione di opere infrastrutturali indispensabili per lo sviluppo della Sicilia e della Calabria.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
