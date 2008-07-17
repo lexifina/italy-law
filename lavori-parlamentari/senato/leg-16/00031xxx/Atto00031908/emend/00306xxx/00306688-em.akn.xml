@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/5.97/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/5.97"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/866/A/5.97/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.97"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@.akn"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-07-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-07-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/866/A/5.97/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/866" showAs="DDL 866"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2130" showAs="Rutelli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 866</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.97</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Rutelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 7, sostituire le parole: «2.464 milioni di euro, che aumentano a 2.679,1 milioni di euro, ai fini della compensazione in termini di indebitamento netto, per l'anno 2008, pari a 2.221,5 milioni di euro per l'anno 2009, pari a 1.755,5 milioni di euro per l'anno 2010 e pari a 1.700 milioni di euro a decorrere dall'anno 2011, si provvede:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 quanto a 2.482,6 milioni di euro per l'anno 2008, a 1.757 milioni di euro per l'anno 2009, a 1.079,1 milioni di euro per l'anno 2010, a 296 milioni di euro per l'anno 2011, a 303 milioni di euro per l'anno 2012, a 251 milioni di euro per l'anno 2013 e a 247 milioni di euro a decorrere dall'anno 2014, mediante utilizzo delle disponibilità del fondo di cui al comma 2, come integrato ai sensi dei commi 2-
+					<an:i>bis,</an:i>
+					 6 e 8»; 
+					<an:i>con le seguenti:</an:i>
+					 «2.480,7 milioni di euro, che aumentano a 2.695,8 milioni di euro, ai fini della compensazione in termini di indebitamento netto, per l'anno 2008, pari a 2.288,3 milioni di euro per l'anno 2009, pari a 1.822,3 milioni di euro per l'anno 2010 e pari a 1.700 milioni di euro a decorrere dall'anno 2011, si provvede:
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 quanto a 2.499,3 milioni di euro per l'anno 2008, a 1.823,8 milioni di euro per l'anno 2009, a 1.145,9 milioni di euro per l'anno 2010, a 296 milioni di euro per l'anno 2011, a 303 milioni di euro per l'anno 2012, a 251 milioni di euro per l'anno 2013 e a 247 milioni di euro a decorrere dall'anno 2014, mediante utilizzo delle disponibilità del fondo di cui al comma 2, come integrato ai sensi dei commi 2-
+					<an:i>bis,</an:i>
+					 6 e 8 e ai sensi dell'articolo 63, comma 10 del decreto-legge n. 112 del 2008».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, al comma 9, sopprimere la lettera</an:i>
+					 a).
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
