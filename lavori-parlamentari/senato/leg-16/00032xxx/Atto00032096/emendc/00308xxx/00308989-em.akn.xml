@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/81.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/81.1"/>
+					<an:FRBRdate date="2008-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/C/81.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="81.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@"/>
+					<an:FRBRdate date="2008-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@.akn"/>
+					<an:FRBRdate date="2008-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-07-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-07-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/C/81.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25294" showAs="De Toni"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25240" showAs="Mascitelli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17211" showAs="Lannutti"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25202" showAs="Carlino"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/12480" showAs="Pedica"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 81.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">De Toni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Mascitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Lannutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Carlino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Pedica</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:b>All'articolo 83-bis apportare le seguenti modificazioni:</an:b>
+				</an:p>
+				<an:p>
+					<an:b>
+						<an:i>            a) al comma 23, dopo le parole: «a interventi» inserire le seguenti: «finalizzati ad agevolare la crescita dimensionale delle imprese di autotrasporto», e sostituire le parole: «in materia di riduzione dei» con le seguenti: «ed a ridurre i».</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:b>
+						<an:i>            b) dopo il comma 24, aggiungere i seguenti:</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:b>
+						<an:i>        «24-bis. È riconosciuto un credito di imposta, usufruibile fino a dieci anni, nei limiti delle risorse di cui al comma seguente, per il triennio 2009-2011, alle imprese di autotrasporto in caso di loro fusione o acquisizione di automezzi ad altre imprese del settore, qualora le imprese confluenti o l'impresa acquisitrice abbiano un parco di automezzi inferiore alle 10 unità. il credito d'imposta di cui al presente comma è pari al 50 per cento del valore di mercato degli automezzi acquisiti oppure al 50 per cento del valore di mercato della società tra quelle confluenti con un minor numero di automezzi di proprietà.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:b>
+						<an:i>        24-ter. Al fondo di cui al comma 1 viene assegnata una somma pari a 100 milioni di euro per ciascuno degli anni dal 2009 al 2011 per le finalità di cui al comma precedente.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:b>
+						<an:i>        24-quater. Con regolamento emanato ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, su proposta del Ministro dei trasporti, di concerto con il Ministro dell'economia e delle finanze e il Ministro per le politiche europee, sono disciplinate le modalità attuative delle disposizioni di cui al comma 2-bis. L'efficacia delle disposizioni di cui al comma 2-bis è comunque subordinata, ai sensi dell'articolo 88, paragrafo 3, del Trattato istitutivo della Comunità europea, all'autorizzazione della Commissione europea».</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:b>
+						<an:i>        Conseguentemente, all'articolo 81, comma 16, sostituire le parole: «5,5 punti percentuali» con le seguenti: «6,5 punti percentuali».</an:i>
+					</an:b>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
