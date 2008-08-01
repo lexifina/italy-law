@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G187/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G187"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G187/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G187"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G187/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G187/ita@"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/A/G187/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G187/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G187/ita@.akn"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G187/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/A/G187/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23026" showAs="Oliva"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G187</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Oliva</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 57 del presente provvedimento, prevede di conferire alle regioni interessate le azioni detenute dalla Tirrenia SpA, delle società che svolgono servizi di cabotaggio;</an:p>
+				<an:p align="justify">            appare evidente il rischio di scaricare sulle regioni i costi di inefficienze, sprechi, personale in esubero e obsoloscenza dei mezzi, di società in condizioni di dissesto patrimoniale;</an:p>
+				<an:p align="justify">        impegna il governo,</an:p>
+				<an:p align="justify">            ad aprire un tavolo di confronto con le regioni interessate, prima del conferimento alle stesse delle azioni detenute dalla Tirrenia SpA, allo scopo di affrontare in modo equilibrato il problema dei costi dei citato trasferimento.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
