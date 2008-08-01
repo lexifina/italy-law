@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G119/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G119"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G119/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G119"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G119/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G119/ita@"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/A/G119/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G119/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G119/ita@.akn"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G119/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/A/G119/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22874" showAs="Bodega"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22945" showAs="Filippi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25217" showAs="Vaccari"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25218" showAs="Vallardi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25211" showAs="Mazzatorta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G119</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bodega</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Vallardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Mazzatorta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            esaminato l'A.S. di conversione in legge del decreto-legge 25 giugno 2008, n.112, recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria;</an:p>
+				<an:p align="justify">            valutato che nel paese si sono delineate specifiche aree produttive che per singole produzioni hanno affinato capacità e conoscenze industriali tali da rendere i relativi prodotti qualitativamente competitivi sul mercato;</an:p>
+				<an:p align="justify">            ritenuto che, specifici modi di lavorare, particolari modi di produrre, nonché determinati tipi di prodotti possono caratterizzare l'apparato produttivo di ciascuna area geografica del nostro territorio;</an:p>
+				<an:p align="justify">            osservato che, l'istituzione di una certificazione di qualità, di un marchio, rappresenti quindi un modo per affermare l'esistenza di una cultura aziendale propria di ciascuna aerea del territorio;</an:p>
+				<an:p align="justify">            ritenuto altresì, che il marchio realizzi un vantaggio competitivo per le nostre aziende, in quanto permette loro di essere parte di un zona economica integrata in cui si producono e si vendono prodotti di qualità;</an:p>
+				<an:p align="justify">            visto che, l'etichetta rappresenta una garanzia sulla qualità del prodotto, non solo per le aziende, ma anche per i consumatori che possono così trarre il massimo beneficio possibile dal confronto tra le diverse offerte del mercato;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a promuovere, nelle opportune sedi comunitarie, un orientamento favorevole all'adozione di politiche per l'istituzione di specifici marchi di origine per la tutela dei prodotti che siano tipici di determinate aree territoriali del Paese.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
