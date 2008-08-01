@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G193/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G193"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G193/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G193"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G193/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G193/ita@"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/A/G193/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G193/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G193/ita@.akn"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G193/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/A/G193/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G193</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di discussione sulla conversione in legge, con modificazioni, del decreto-legge 25 giugno 2008, n. 112, recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la politica monetaria e la stampa della moneta nel passato sono state affidate alla Banca d'Italia e successivamente alla Banca Centrale Europea;</an:p>
+				<an:p align="justify">
+					            verificato che, dalla lettura dei bilanci di tali organismi, ogni anno viene messa in circolazione, mediamente, una quantità di cartamoneta che varia dai 5 a 10 miliardi di euro e che l'iscrizione, nei medesimi bilanci, comporta di fatto un aumento del patrimonio dell'ente emittente, poiché viene ancora ad oggi usato l'antico sistema risalente ai tempi del 
+					<an:i>gold exchange standard</an:i>
+					 (la copertura della moneta stampata con la riserva aurea), corrispondente all'iscrizione della nuova cartamoneta al passivo della situazione patrimoniale sotto la voce «moneta in circolazione» mentre i titoli del debito pubblico, acquistati con tale cartamoneta, vengono posti nell'attivo della situazione patrimoniale;
+				</an:p>
+				<an:p align="justify">            riscontrato che il sopra citato sistema concorre ad aumentare il patrimonio della Banca Centrale Europea e delle Banche Centrali Nazionali, e di conseguenza sottrae al nostro Stato i conseguenti proventi da Signoraggio, di cui esso beneficerebbe nel caso di una gestione propria della stampa della cartamoneta, con la diretta iscrizione in bilancio fra le entrate dell'intero valore nominale delle banconote nuove, così come avviene al momento della coniazione delle monete metalliche da parte del poligrafico della zecca con la registrazione al capitolo 5010 delle entrate del bilancio dello Stato,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'opportunità, nell'ambito delle diverse attività di competenza del Governo volte a contenere i costi relativi alla fornitura di beni pubblici e servizi pubblici, ad affrontare la questione della reale appropriazione dei redditi da signoraggio derivanti dall'emissione della cartamoneta euro al fine di reperire risorse da destinare alla riduzione del debito pubblico.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
