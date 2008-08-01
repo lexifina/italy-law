@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G214/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G214"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G214/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G214"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G214/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G214/ita@"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/A/G214/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G214/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G214/ita@.akn"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G214/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/A/G214/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23072" showAs="Sircana"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/2207" showAs="Scanu"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17750" showAs="Pinotti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25234" showAs="Del Vecchio"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17559" showAs="Gasbarri"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/1685" showAs="Negri"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G214</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Sircana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Scanu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Pinotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Del Vecchio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Gasbarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Negri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        considerato:</an:p>
+				<an:p align="justify">            che l'articolo 71 del provvedimento in esame prevede, per i primi dieci giorni di malattia, l'attribuzione del solo trattamento economico fondamentale con esclusione di ogni indennità o emolumento aventi carattere fisso e continuativo nonché di ogni altro trattamento accessorio;</an:p>
+				<an:p align="justify">            tale disciplina, relativa ai disincentivi economici per l'assenza per malattia e per permesso retribuito dei dipendenti delle pubbliche amministrazioni,si applica anche alle Forze armate, vigili del fuoco e Forze di polizia ad ordinamento civile e militare;</an:p>
+				<an:p align="justify">            le limitate eccezioni introdotte nella norma per il comparto della sicurezza e della difesa sono tali da risultare irrilevanti rispetto la casistica generale e comunque non tali da evitare nella applicazione concreta ingiustificate differenze di trattamento rispetto alla globalità dei pubblici dipendenti;</an:p>
+				<an:p align="justify">        tenuto conto:</an:p>
+				<an:p align="justify">            che la retribuzione degli operatori del Comparto difesa e sicurezza e dei vigili del fuoco rispetto a quella del pubblico impiego è formata in parte rilevante da indennità specifiche di impiego, di funzione e d'istituto che possono arrivare fino al 60 per cento della retribuzione e quindi la norma avrà un effetto oltremisura e in maniera ingiustificata punitivo in questi settori;</an:p>
+				<an:p align="justify">            al fine di evitare in sede di applicazione della norma sperequazioni che determinerebbero un contenzioso diffuso;</an:p>
+				<an:p align="justify">        impegna il Governo,</an:p>
+				<an:p align="justify">            ad emanare per il personale delle Forze armate, inclusi i volontari nei primi anni di ferma, delle Forze di polizia ad ordinamento civile e militare e del Corpo dei vigili del fuoco disposizioni che evitino che l'applicazione della norma produca effetti moltiplicatori nelle misure sanzionatorie, prevedendo un'apposita deroga in sede regolamentare.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
