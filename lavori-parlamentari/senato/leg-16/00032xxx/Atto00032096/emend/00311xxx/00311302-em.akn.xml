@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/63.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/63.25"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/A/63.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="63.25"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@.akn"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/A/63.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22" showAs="Agostini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/2194" showAs="Sbarbati"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/12613" showAs="Morri"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17597" showAs="Magistrelli"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17651" showAs="Tonini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 63.25</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Agostini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Sbarbati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Morri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Magistrelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Tonini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 13, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					        «13-
+					<an:i>bis</an:i>
+					. Per la prosecuzione ed il completamento degli interventi di ricostruzione dei territori delle regioni Umbria e Marche colpiti dal sisma del 1997, le medesime regioni sono autorizzate a contrarre mutui a fronte dei quali il Dipartimento della Protezione Civile è autorizzato a concorrere con contributi quindicennali. A tale scopo sono autorizzati limiti di impegno di euro 80 milioni dall'anno 2009, di euro 80 milioni dall'anno 2010 e 80 milioni dall'anno 2011».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, all'articolo 81, comma 16, sostituire la parola:</an:i>
+					 «5,5» 
+					<an:i>con la seguente:</an:i>
+					 «6,5».
+				</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
