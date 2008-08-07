@@ -1,14 +1,14 @@
 Art. 371-bis.
 
-(( (Attivita' di coordinamento del procuratore nazionale antimafia).
+(Attivita' di coordinamento del procuratore nazionale antimafia).
 
 1.
 
-Il procuratore nazionale antimafia esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis. A tal fine dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi.
+Il procuratore nazionale antimafia esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis ((e in relazione ai procedimenti di prevenzione antimafia.)) A tal fine dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi.
 
 2.
 
-Il procuratore nazionale antimafia esercita funzioni di impulso nei confronti dei procuratori distrettuali al fine di rendere effettivo il coordinamento delle attivita' di indagine, di garantire la funzionalita' dell'impiego della polizia giudiziaria nelle sue di- verse articolazioni e di assicurare la completezza e tempestivita' delle investigazioni.
+Il procuratore nazionale antimafia esercita funzioni di impulso nei confronti dei procuratori distrettuali al fine di rendere effettivo il coordinamento delle attivita' di indagine, di garantire la funzionalita' dell'impiego della polizia giudiziaria nelle sue diverse articolazioni e di assicurare la completezza e tempestivita' delle investigazioni.
 
 3.
 
@@ -38,10 +38,10 @@ h) dispone con decreto motivato, reclamabile al procuratore generale presso la c
 
 4.
 
-Il procuratore nazionale antimafia provvede alla avocazione dopo aver assunto sul luogo le necessarie informazioni personalmente o tramite un magistrato della Direzione nazionale antimafia all'uopo designato. Salvi casi particolari, il procuratore nazionale antimafia o il magistrato da lui designato non puo' delegare per il compimento degli atti di indagine altri uffici del pubblico ministero.)) ((28))
+Il procuratore nazionale antimafia provvede alla avocazione dopo aver assunto sul luogo le necessarie informazioni personalmente o tramite un magistrato della Direzione nazionale antimafia all'uopo designato. Salvi casi particolari, il procuratore nazionale antimafia o il magistrato da lui designato non puo' delegare per il compimento degli atti di indagine altri uffici del pubblico ministero.)) (28)
 
----------------
+-------------
 
 AGGIORNAMENTO (28)
 
-Il D.L. 20 novembre 1991, n. 367, convertito con modificazioni dalla L. 20 gennaio 1992, n. 8 ha disposto (con l'art. 16, comma 2) che "Le disposizioni degli articoli 2, comma 1, lettera b), 3, comma 1, lettera b), 7, 8, 9, 10, comma 1, e 11 hanno effetto a decorrere dalla data di pubblicazione nella Gazzetta Ufficiale del decreto previsto dall'articolo 15, comma 2."
+Il D.L. 20 novembre 1991, n. 367, convertito con modificazioni dalla L. 20 gennaio 1992, n. 8 ha disposto (con l'art. 16, comma 2) che "Le disposizioni degli articoli 2, comma 1, lettera b), 3, comma 1, lettera b), 7, 8, 9, 10, comma 1, e 11 hanno effetto a decorrere dalla data di pubblicazione nella Gazzetta Ufficiale del decreto previsto dall'articolo 15, comma 2".
