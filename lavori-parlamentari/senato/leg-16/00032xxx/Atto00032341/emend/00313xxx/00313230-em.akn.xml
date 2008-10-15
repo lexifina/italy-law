@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1038/A/1.0.100"/>
+					<an:FRBRdate date="2008-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@"/>
+					<an:FRBRdate date="2008-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@.akn"/>
+					<an:FRBRdate date="2008-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1038/A/1.0.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1038" showAs="DDL 1038"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25274" showAs="Saltamartini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17564" showAs="Carrara"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17715" showAs="Licastro Scardino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25257" showAs="Contini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25268" showAs="Fleres"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25238" showAs="De Angelis"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25233" showAs="Piscitelli"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25234" showAs="Del Vecchio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1038</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Saltamartini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Carrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Licastro Scardino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Contini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Fleres</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Angelis</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Piscitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Del Vecchio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 1,</an:b>
+					aggiungere il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Norma di interpretazione autentica in materia di trattamento economico del personale militare in missione)</an:i>
+				</an:p>
+				<an:p align="justify">        1. L'articolo 28, comma 1, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, si interpreta, a decorrere dalla data di entrata in vigore di tale decreto, nel senso che la riduzione del 20 per cento si applica esclusivamente al personale inviato in missione per un periodo non superiore a 180 giorni ai sensi del regio decreto 3 giugno 1926, n. 941.</an:p>
+				<an:p align="justify">        2. Al personale di cui alla legge 8 luglio 1961, n. 642, concernente «Trattamento economico del personale dell'Esercito, della Marina e dell'Aeronautica destinato isolatamente all'estero presso Delegazioni o Rappresentanze militari ovvero presso enti, comandi od organismi internazionali», al quale siano stati riconosciuti adeguamenti della indennità speciale dopo il 4 luglio 2006 non spetta il completo ristoro delle somme già decurtate ma soltanto la parte che risulti non eccedente il totale della retribuzione mensile netta percepita alla medesima data del 4 luglio 2006».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
