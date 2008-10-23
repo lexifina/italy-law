@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G1.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G1.102"/>
+					<an:FRBRdate date="2008-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G1.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@"/>
+					<an:FRBRdate date="2008-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@.akn"/>
+					<an:FRBRdate date="2008-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1108/A/G1.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1108" showAs="DDL 1108"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1091" showAs="Garavaglia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/16923" showAs="Veronesi"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/17663" showAs="Zavoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1108</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Veronesi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Zavoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 1108, di conversione del decreto-legge n. 137 del 2008,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 1 prevede, a decorrere dal prossimo anno scolastico, l'insegnamento in tutti i cicli di istruzione di «Cittadinanza e Costituzione»;</an:p>
+				<an:p align="justify">            l'acquisizione delle competenze relative a «Cittadinanza e Costituzione» è finalizzata a formare futuri cittadini informati, consapevoli e responsabili per la società di domani;</an:p>
+				<an:p align="justify">            la formazione del futuro cittadino presuppone pertanto la consapevolezza e l'introiezione dei valori e dei principi riconosciuti come fondativi dell'identità europea, nonché la condivisione della vocazione internazionalistica sottesa alla nostra Carta costituzionale;</an:p>
+				<an:p align="justify">            l'auspicato processo di rafforzamento delle istituzioni comunitarie e del progetto europeo come comunità dei valori e dei diritti postula la crescita di un'identità europea dei suoi cittadini;</an:p>
+				<an:p align="justify">            in questo senso è importante formare i nostri giovani come «cittadini d'Europa» facendo loro conoscere meglio le istituzioni europee e i diritti fondamentali tutelati nei trattati istitutivi, nella Dichiarazione universale dei diritti umani, nella Convenzione europea per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali e nel Trattato di Lisbona;</an:p>
+				<an:p align="justify">            si ritiene, infatti, necessario ampliare e precisare la dimensione europea dell'insegnamento attraverso strategie e pratiche educative finalizzate alla realizzazione di una «educazione civica europea» intesa essenzialmente come introduzione a un senso di cittadinanza rispettoso delle differenze interculturali presenti nel Paese, attento ai fattori costituenti l'identità della propria cultura ma anche della cultura europea in generale;</an:p>
+				<an:p align="justify">            allo stesso modo si ritiene necessario che l'insegnamento di queste competenze non sia limitato solo all'ambito delle aree storico-geografica e storico-sociale, ma che sia esteso a tutte le aree disciplinari, per un monte ore di almeno trentatré ore annuali,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare, anche nel corso della prossima sessione di bilancio, le opportune iniziative volte a reperire risorse adeguate per la formazione dei docenti finalizzata all'acquisizione di competenze necessarie all'insegnamento di «Cittadinanza e Costituzione», anche con un profilo europeo che permetta di formare cittadini appartenenti ad una dimensione europea, interculturale e tollerante;</an:p>
+				<an:p align="justify">            ad inserire, all'interno dei programmi di formazione del personale scolastico, anche specifici insegnamenti relativi ai diritti e alle libertà fondamentali sanciti dalla Convenzione europea dei diritti dell'uomo e dalla Carta dei diritti fondamentali dell'Unione europea, nonché alla struttura dell'ordinamento comunitario, alla luce delle innovazioni introdotte dal Trattato di Lisbona;</an:p>
+				<an:p align="justify">            ad adottare le opportune iniziative per estendere l'insegnamento delle nuove competenze nell'ambito di tutte le aree disciplinari.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
