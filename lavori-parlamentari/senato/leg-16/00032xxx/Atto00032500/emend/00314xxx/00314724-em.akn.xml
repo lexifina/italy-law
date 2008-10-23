@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G202/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G202"/>
+					<an:FRBRdate date="2008-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G202/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G202"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@"/>
+					<an:FRBRdate date="2008-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@.akn"/>
+					<an:FRBRdate date="2008-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1108/A/G202/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1108" showAs="DDL 1108"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1108</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G202</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la frequenza dell'ora di religione contribuisce alla determinazione del credito scolastico per l'ammissione agli esami di Stato;</an:p>
+				<an:p align="justify">            la frequenza di tale insegnamento è sottoposta ad una dichiarazione dello studente maggiorenne, o di chi esercita la potestà genitoriale nel caso di studente minorenne, rendendo, di fatto, la materia religiosa un insegnamento facoltativo;</an:p>
+				<an:p align="justify">        ai sensi dell'articolo 8, commi 13 e 14, dell'ordinanza ministeriale n. 26 Prot. 2578 del 15 marzo 2007, gli insegnanti che svolgono l'insegnamento della religione cattolica partecipano a pieno titolo alle deliberazioni del consiglio di classe concernenti l'attribuzione del credito scolastico agli alunni che si avvalgono di tale insegnamento e il giudizio formulato dai docenti riguarda l'interesse con cui l'alunno ha seguito l'insegnamento della religione cattolica, ivi compreso lo studio individuale che si sia tradotto in un arricchimento culturale;</an:p>
+				<an:p align="justify">            per questa via si è cercato di reintrodurre surrettiziamente l'ora di religione fra le materie che concorrono a pieno titolo a formare la valutazione degli studenti per gli esami di Stato, determinando una situazione di discriminazione e disparità fra gli studenti che si avvalgono dell'insegnamento della religione cattolica e quelli che non se ne avvalgono;</an:p>
+				<an:p align="justify">            l'ordinanza appare in contrasto con il testo unico delle disposizioni legislative in materia di istruzione ed il principio supremo di laicità stabilito dalla Costituzione e ribadito dalla Corte costituzionale,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare le opportune iniziative normative volte a rivedere complessivamente il sistema dei crediti scolastici e formativi per l'ammissione agli esami di Stato;</an:p>
+				<an:p align="justify">            ad adottare le opportune iniziative volte a garantire che la frequenza o meno all'insegnamento della religione cattolica non costituisca fattore di discriminazione tra gli studenti ai fini della determinazione del credito scolastico per l'ammissione agli esami di Stato;</an:p>
+				<an:p align="justify">            ad assicurare che le istituzioni scolastiche garantiscano, sulla base delle richieste delle famiglie degli studenti, l'offerta di attività scolastiche alternative all'interno delle istituzioni stesse;</an:p>
+				<an:p align="justify">            ad assicurare che le scuole determinino le modalità di valutazione per la determinazione del credito scolastico e formativo delle attività alternative e degli studi individuali.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
