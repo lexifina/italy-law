@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/999-B/A/1.201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/999-B/A/1.201"/>
+					<an:FRBRdate date="2008-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/999-B/A/1.201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.201"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@"/>
+					<an:FRBRdate date="2008-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@.akn"/>
+					<an:FRBRdate date="2008-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/999-B/A/1.201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/999-B" showAs="DDL 999-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23259" showAs="Vimercati"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 999-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Vimercati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 13-ter, aggiungere il seguente:</an:p>
+				<an:p align="justify">
+					        «13-
+					<an:i>quater</an:i>
+					. Anche allo scopo di favorire l'assunzione o il trasferimento dei lavoratori di cui al comma 2-
+					<an:i>quater</an:i>
+					 del decreto-legge n. 347, introdotto dal comma 13 del presente articolo, operanti nel settore del trasporto aereo, il Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro degli affari esteri, avvia, entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, le procedure di competenza volte alla promozione di nuovi accordi bilaterali nel settore del trasporto aereo, nonché alla modifica di quelli vigenti, al fine di ampliare il numero dei vettori ammessi a operare sulle rotte internazionali e intercontinentali ovvero di ampliare il numero delle frequenze su cui è consentito operare a ciascuna parte, dando priorità ai vettori che si impegnino ad assumere i predetti lavoratori. Nelle more del perfezionamento dei nuovi accordi bilaterali o della modifica di quelli vigenti, l'Ente nazionale per l'aviazione civile (ENAC), al fine di garantire al Paese la massima accessibilità internazionale e intercontinentale diretta, rilascia, ai vettori che ne fanno richiesta, autorizzazioni temporanee la cui validità non può essere inferiore a tre stagioni IATA».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
