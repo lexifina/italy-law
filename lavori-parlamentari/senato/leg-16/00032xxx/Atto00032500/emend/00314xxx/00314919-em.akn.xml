@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G4.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G4.104"/>
+					<an:FRBRdate date="2008-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G4.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@"/>
+					<an:FRBRdate date="2008-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@.akn"/>
+					<an:FRBRdate date="2008-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1108/A/G4.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1108" showAs="DDL 1108"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1091" showAs="Garavaglia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/16923" showAs="Veronesi"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/17663" showAs="Zavoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1108</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Veronesi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Zavoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 1108, di conversione del decreto-legge n. 137 del 2008,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            all'articolo 4 si prevede la costituzione di classi con unico insegnante e funzionanti con orario di ventiquattro ore settimanali, rimandando ai regolamenti una più ampia articolazione del tempo-scuola, che tenga comunque conto delle esigenze, correlate alla domanda delle famiglie;</an:p>
+				<an:p align="justify">            la spesa per le ore aggiuntive di insegnamento viene posta a carico del fondo d'istituto;</an:p>
+				<an:p align="justify">            in ampi territori del Paese, in particolare al Sud, la dispersione scolastica è ancora di gran lunga superiore agli obiettivi fissati dall'Unione europea;</an:p>
+				<an:p align="justify">            l'articolo 64 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, indica come criteri per i regolamenti, tra gli altri, la revisione dei parametri vigenti in materia di formazione delle classi e dei criteri e dei parametri vigenti per la determinazione della consistenza complessiva degli organici del personale docente ed ATA finalizzata ad una razionalizzazione degli stessi;</an:p>
+				<an:p align="justify">
+					            nell'ambito della definizione della strategia di Lisbona, è stata attribuita enorme importanza ai sistemi di istruzione e formazione, ancorando alcuni obiettivi ai 
+					<an:i>benchmark</an:i>
+					 individuati da raggiungere entro il 2010,
+				</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a tenere conto delle situazioni di svantaggio socio-culturale, dei dati sulla dispersione scolastica e sull'acquisizione delle competenze di base, rendendo possibili anche alcune ore settimanali di compresenza per il recupero delle situazioni di difficoltà nell'apprendimento, laddove sia verificata una maggiore distanza dagli obiettivi di Lisbona, sia in termini di aree geografiche sia in termini di singole realtà scolastiche.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
