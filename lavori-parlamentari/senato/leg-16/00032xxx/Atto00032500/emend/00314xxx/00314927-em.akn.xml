@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G4.111/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G4.111"/>
+					<an:FRBRdate date="2008-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G4.111/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.111"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@"/>
+					<an:FRBRdate date="2008-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@.akn"/>
+					<an:FRBRdate date="2008-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1108/A/G4.111/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1108" showAs="DDL 1108"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1091" showAs="Garavaglia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/16923" showAs="Veronesi"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/17663" showAs="Zavoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1108</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.111</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Veronesi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Zavoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 1108, di conversione del decreto-legge n. 137 del 2008,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            all'articolo 4 si prevede per la scuola primaria un orario di ventiquattro ore settimanali e allo stesso tempo una più ampia articolazione del tempo scuola da recepire nei regolamenti che devono tener conto delle esigenze espresse dalle famiglie;</an:p>
+				<an:p align="justify">            l'organizzazione del tempo pieno nella scuola elementare va compresa come punto di forza di un progetto educativo di ampia valenza democratica, capace di riscattare sul piano culturale larghi strati della popolazione nei quali si riscontrano difficoltà non superabili per offrire ai ragazzi assistenza educativa per lo studio e i compiti a casa;</an:p>
+				<an:p align="justify">            la scuola a tempo pieno si è qualificata come scuola della comunità, come ambiente pedagogico progettuale, come istituzione educativa «aperta» e risponde ad un'esigenza sia didattica che sociale, comprovata dal fatto che una percentuale rilevante di alunni iscritti alle scuole statali frequenta sezioni di 40 ore e oltre,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a prevedere che i regolamenti recepiscano esplicitamente le esigenze espresse dalle famiglie in termini di organizzazione didattica per quanto riguarda il tempo pieno e due insegnanti per classe;</an:p>
+				<an:p align="justify">            a rispettare il dettato della legge di riforma n. 148 del 1990 nella parte dispositiva che richiede al Governo di riferire in Parlamento, entro due mesi dalla chiama delle iscrizioni degli alunni alla prima classe della scuola primaria, quindi entro il 31 marzo 2009, sugli effetti applicativi della norma fornendo i dati concernenti le domande delle famiglie rispetto ai vari moduli (da 24 ore al tempo pieno) e il numero delle domande effettivamente accolte;</an:p>
+				<an:p align="justify">            a salvaguardare in sede di emanazione dei decreti attuativi il principio costituzionale dell'autonomia scolastica in merito alle condizioni organizzative, strutturali, pedagogiche e didattiche che consentano di garantire l'efficacia dell'insegnamento ed il raggiungimento di adeguati livelli di apprendimento al termine della scuola primaria;</an:p>
+				<an:p align="justify">            ad adottare, anche in termini sperimentali e graduali, un organico funzionale dei docenti per ogni istituzione autonoma, commisurato all'articolazione del modello orario ed organizzativo, oltre che al numero complessivo degli allievi iscritti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
