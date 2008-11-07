@@ -1,0 +1,20 @@
+# Massima n. 32908
+
+- Pronuncia: Corte costituzionale, ordinanza 366/2008 (ECLI:IT:COST:2008:366)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:366
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Atti amministrativi - Legalizzazione di firme e apposizione di apostille sugli atti e documenti formati nello Stato e da valere all'estero davanti ad autorità estere - Delega della relativa competenza dal Ministro di grazia e giustizia ai Procuratori della Repubblica presso i Tribunali nella cui giurisdizione territoriale gli atti medesimi sono formati - Conflitto di attribuzione sollevato dalla Procura della Repubblica presso il Tribunale di Pistoia nei confronti del Presidente del Consiglio dei ministri - Lamentata attribuzione di una competenza amministrativa al potere giudiziario - Denunciata interferenza nell'esercizio della funzione giudiziaria e nell'esercizio obbligatorio dell'azione penale, con lesione del principio di autonomia ed indipendenza della magistratura - Carenza di legittimazione attiva e insussistenza del requisito oggettivo dell'esistenza della materia del conflitto di attribuzione tra poteri dello Stato - Inammissibilità del conflitto.
+
+## Testo
+
+E' inammissibile il conflitto di attribuzione tra poteri dello Stato sollevato dalla Procura della Repubblica presso il Tribunale di Pistoia nei confronti del Presidente del Consiglio dei ministri in relazione al decreto del Ministro di grazia e giustizia del 10 luglio 1971, con il quale la competenza a legalizzare le firme sugli atti e documenti formati nello Stato e da valere all'estero davanti ad Autorità estere, attribuita al Ministero di grazia e giustizia dall'art. 17, primo comma, della legge 4 gennaio 1968, n. 15, modificato dall'art. 4, primo comma, della legge 11 maggio 1971, n. 390, è delegata ai Procuratori della Repubblica presso i Tribunali nella cui giurisdizione territoriale gli atti medesimi sono formati, e alla circolare dello stesso Ministro n. 1/1-36(65) 705 del 6 febbraio 1978 - avente ad oggetto la Convenzione riguardante l'abolizione della legalizzazione degli atti pubblici stranieri, adottata a l'Aja il 5 ottobre 1961, ratificata con legge 20 dicembre 1966, n. 1253 - con cui è stata attribuita alle Procure della Repubblica la competenza a deliberare le apostille. Difettano, invero, nel caso di specie, sia il requisito soggettivo di un conflitto tra poteri dello Stato, essendo la Procura della Repubblica ricorrente manifestamente priva di legittimazione attiva, in quanto né l'attività di legalizzazione, né quella di apposizione delle apostille, delegate alle Procure della Repubblica, possono essere riconnesse all'esercizio della funzione giurisdizionale, trattandosi di funzioni meramente amministrative; sia il requisito oggettivo, in quanto la controversia relativa all'annullamento di atti che non riguardano il potere di giudicare - quali quelli relativi alle attività che l'allora Ministero di grazia e giustizia ha delegato alle Procure della Repubblica con il decreto ministeriale del 10 luglio 1971 e la circolare ministeriale n. 1/1 - 36(65) del 6 febbraio 1978 - trova la sua disciplina in norme di carattere organizzativo e ordinamentale, e, non toccando la delimitazione della sfera di attribuzioni determinate da norme costituzionali, non attinge al livello del conflitto tra poteri dello Stato, la cui risoluzione spetta alla Corte costituzionale. - Sulla legittimazione degli organi giudiziari ad essere parti di un conflitto di attribuzione tra poteri dello Stato, v., citate, ordinanze n. 338 del 2007; n. 340 e n. 244 del 1999; n. 87 del 1978. - Sulla inammissibilità di conflitti che non toccano la sfera delle attribuzioni determinate da norme costituzionali, v., citata, ordinanza n. 90 del 1996.
+
+## Parametri
+
+- Costituzione, art. 104
+- Costituzione, art. 112
+- legge, 11/03/1953 n. 87, art. 37, comma 3
+- legge, 11/03/1953 n. 87, art. 37, comma 4
