@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1083/A/G1.700/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1083/A/G1.700"/>
+					<an:FRBRdate date="2008-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1083/A/G1.700/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.700"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@"/>
+					<an:FRBRdate date="2008-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@.akn"/>
+					<an:FRBRdate date="2008-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-11-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-11-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1083/A/G1.700/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1083" showAs="DDL 1083"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3855" showAs="Tomassini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25261" showAs="D'Ambrosio Lettieri"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/4639" showAs="Esposito"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1511" showAs="Massidda"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25241" showAs="Di Stefano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1083</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.700</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Tomassini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Ambrosio Lettieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Esposito</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Massidda</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Di Stefano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge n. 1083,</an:p>
+				<an:p align="justify">            considerato che le norme introdotte dal decreto-legge 30 settembre 2003, n. 269, all'articolo 50 hanno finalità di monitorare in tempo reale il sistema di erogazione delle prestazioni farmaceutiche a carico del Sistema sanitario nazionale, per consentire valutazioni di tipo epidemiologico, per il controllo e il governo della spesa, per il tempestivo contrasto a forme di abuso;</an:p>
+				<an:p align="justify">            ritenuto che, dopo quattro anni di applicazione si può affermare che il sistema di trasmissione, raccolta e utilizzo dei dati ha dato buona prova grazie anche alla risposta positiva delle farmacie italiane;</an:p>
+				<an:p align="justify">            considerato tuttavia che si sono riscontrate talune criticità consistenti nell'irrogazione di sanzioni assai pesanti a carico di alcune farmacie le quali, per esclusivi motivi di carattere tecnico, hanno trasmesso i dati sulle ricette farmaceutiche con ritardi anche minimi e determinando un rilevante contenzioso;</an:p>
+				<an:p align="justify">            alla luce di quanto esposto e premesso,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare ogni necessaria ed urgente iniziativa normativa volta a risolvere il problema applicativo posto dalle disposizioni in questione;</an:p>
+				<an:p align="justify">            a ridurre la quantificazione economica delle sanzioni previste;</an:p>
+				<an:p align="justify">            a risolvere il contenzioso già in atto nella materia.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
