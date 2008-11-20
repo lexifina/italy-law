@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1152/A/G3.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1152/A/G3.100"/>
+					<an:FRBRdate date="2008-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1152/A/G3.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@"/>
+					<an:FRBRdate date="2008-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@.akn"/>
+					<an:FRBRdate date="2008-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1152/A/G3.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1152" showAs="DDL 1152"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/2207" showAs="Scanu"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/16639" showAs="Sanna"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/24095" showAs="Sanciu"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/17580" showAs="Delogu"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/1511" showAs="Massidda"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/1895" showAs="Pisanu"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/3949" showAs="Cabras"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/2194" showAs="Sbarbati"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/20658" showAs="Zanda"/>
+				<an:TLCPerson id="EJC" href="http://dati.senato.it/senatore/22740" showAs="Filippi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1152</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Scanu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Sanna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Sanciu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Delogu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Massidda</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Pisanu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Cabras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Sbarbati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Zanda</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EJC" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato della Repubblica,</an:p>
+				<an:p align="justify">            in sede di esame dell'Atto Senato 1152,</an:p>
+				<an:p align="justify">        impegna il Governo ad adoperarsi affinché una quota delle somme stanziate per far fronte alla realizzazione delle opere di cui all'articolo 3 comma 1 del decreto-legge in conversione sia reperita nell'ambito delle risorse del proramma interregionale (FAS 2007/2013), e sia prevista altresì la preallocazione delle risorse, in sede di riprogrammazione delle risorse destinate alla regione Sardegna dalla delibera CIPE N. 166/2007, da erogare a titolo di anticipazione alla Regione medesima, per la realizzazione della nuova trasversale del Nord Sardegna tra Sassari ed Olbia, delle sue due ramificazioni, nonché della viabilità secondaria necessaria allo svolgimento del G8».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
