@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1152/A/G3.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1152/A/G3.4"/>
+					<an:FRBRdate date="2008-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1152/A/G3.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@"/>
+					<an:FRBRdate date="2008-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@.akn"/>
+					<an:FRBRdate date="2008-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1152/A/G3.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1152" showAs="DDL 1152"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/22" showAs="Agostini"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/17597" showAs="Magistrelli"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/12613" showAs="Morri"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/2194" showAs="Sbarbati"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/17651" showAs="Tonini"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/213" showAs="Benedetti Valentini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1152</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Agostini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Magistrelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Morri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Sbarbati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Tonini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Benedetti Valentini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame dell'Atto Senato n. 1152, di conversione in legge del decreto-legge 23 ottobre 2008, n. 162, recante interventi urgenti in materia di adeguamento dei prezzi di materiali da costruzione, di sostegno ai settori dell'autotrasporto, dell'agricoltura e della pesca professionale, nonché di finanziamento delle opere per il G8 e definizione degli adempimenti tributari per le regioni Marche ed Umbria, colpite dagli eventi sismici del 1997;</an:p>
+				<an:p align="justify">        premesso che l'articolo 3, comma 2, stabilisce che i soggetti interessati dalle ordinanze di sospensione del pagamento dei tributi e dei contributi, emanate in occasione del terremoto in Umbria e Marche del 1997, possano corrispondere l'ammontare dovuto all'Erario, per ciascun tributo iscrìtto a ruolo, ridotto al 40 per cento, in centoventi rate mensili a decorrere dal gennaio 2009,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a chiarire che le predette misure di agevolazione si intendano applicabili a tutti i soggetti pubblici e privati che hanno usufruito della sospensione dei termini dei versamenti tributari e dei pagamenti dei contributi previdenziali, assistenziali ed assicurativi prevista dagli articoli 13 e 14 dell'ordinanza del Ministro dell'interno, delegato per il coordinamento della protezione civile, n. 2668 del 28 settembre 1997 e successive proroghe ed integrazioni;</an:p>
+				<an:p align="justify">            ad invitare gli istituti INPS e INPDAP ad emanare propri atti tramite i quali informare gli enti pubblici del territorio umbro-marchigiano che i soggetti destinatari delle definizioni agevolate dei versamenti relativi alle sospensioni dei contributi previdenziali, assistenziali ed assicurativi nelle regioni Marche ed Umbria colpite dagli eventi sismici del 1997, previsti dall'articolo 2, comma 109 della legge n. 244 del 2007, dall'articolo 2, comma 1, del decreto-legge n. 61 del 2008, convertito con modificazioni dalla legge n. 103 del 2008 e dall'articolo 3 del decreto-legge 23 ottobre 2008, n. 162, sono i datori di lavoro pubblici e privati che hanno usufruito della sospensione dei termini dei versamenti tributari e dei pagamenti dei contributi previdenziali, assistenziali ed assicurativi prevista dagli articoli 13 e 14 dell'ordinanza del Ministero dell'interno, delegato per il coordinamento della protezione civile, n. 2668 del 28 settembre 1997 e successive proroghe ed integrazioni.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
