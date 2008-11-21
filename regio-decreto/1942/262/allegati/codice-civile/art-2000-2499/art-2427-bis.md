@@ -1,8 +1,8 @@
 Art. 2427-bis.
 
-(( (Informazioni relative al valore equo "fair value" degli strumenti finanziari).))
+(Informazioni relative al valore equo "fair value" degli strumenti finanziari).
 
-((1. Nella nota integrativa sono indicati:
+1. Nella nota integrativa sono indicati:
 
 1) per ciascuna categoria di strumenti finanziari derivati:
 
@@ -32,4 +32,4 @@ b) al valore che risulta da modelli e tecniche di valutazione generalmente accet
 
 4. Il fair value non e' determinato se l'applicazione dei criteri indicati al comma precedente non da' un risultato attendibile.
 
-5. Ai fini dell'applicazione del presente articolo e dell'articolo 2428, comma 2, numero 6-bis) per la definizione di strumento finanziario, di strumento finanziario derivato, di fair value e di modello e tecnica di valutazione generalmente accettato, si fa riferimento ai principi contabili riconosciuti in ambito internazionale e compatibili con la disciplina in materia dell'Unione europea. ))
+5. ((COMMA ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173)).

@@ -4,11 +4,9 @@ Art. 2435-bis.
 
 Le societa', che non abbiano emesso titoli negoziati in mercati regolamentati, possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
 
-1) totale dell'attivo dello stato patrimoniale: ((3.650.000 euro));
+((1) totale dell'attivo dello stato patrimoniale: 4.400.000 euro;))
 
-2) ricavi delle vendite e delle prestazioni: ((7.300.000 euro));
-
-3) dipendenti occupati in media durante l'esercizio: 50 unita'.
+((2)ricavi delle vendite e delle prestazioni: 8.800.000 euro;)) 3) dipendenti occupati in media durante l'esercizio: 50 unita'.
 
 Nel bilancio in forma abbreviata lo stato patrimoniale comprende solo le voci contrassegnate nell'articolo 2424 con lettere maiuscole e con numeri romani; le voci A e D dell'attivo possono essere comprese nella voce CII; dalle voci BI e BII dell'attivo devono essere detratti in forma esplicita gli ammortamenti e le svalutazioni; la voce E del passivo puo' essere compresa nella voce D; nelle voci CII dell'attivo e D del passivo devono essere separatamente indicati i crediti e i debiti esigibili oltre l'esercizio successivo.
 
@@ -29,6 +27,8 @@ voci D19(a), D19(b), D19(c)
 Nel conto economico del bilancio in forma abbreviata nella voce E20 non e' richiesta la separata indicazione delle plusvalenze e nella voce E21 non e' richiesta la separata indicazione delle minusvalenze e delle imposte relative a esercizi precedenti.
 
 Nella nota integrativa sono omesse le indicazioni richieste dal numero 10 dell'articolo 2426 e dai numeri 2), 3), 7), 9), 10), 12), 13), 14), 15), 16) e 17) dell'articolo 2427 e dal numero 1) del comma 1 dell'articolo 2427-bis; le indicazioni richieste dal numero 6) dell'articolo 2427 sono riferite all'importo globale dei debiti iscritti in bilancio.
+
+((Le societa' possono limitare l'informativa richiesta ai sensi dell'articolo 2427, primo comma, numero 22-bis, alle operazioni realizzate direttamente o indirettamente con i loro maggiori azionisti ed a quelle con i membri degli organi di amministrazione e controllo, nonche' limitare alla natura e all'obiettivo economico le informazioni richieste ai sensi dell'articolo 2427, primo comma, numero 22-ter)).
 
 Qualora le societa' indicate nel primo comma forniscano nella nota integrativa le informazioni richieste dai numeri 3) e 4) dell'articolo 2428, esse sono esonerate dalla redazione della relazione sulla gestione.
 
