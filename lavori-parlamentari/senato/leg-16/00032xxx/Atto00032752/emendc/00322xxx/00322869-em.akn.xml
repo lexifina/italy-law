@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4"/>
+					<an:FRBRdate date="2008-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1209/7/4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@"/>
+					<an:FRBRdate date="2008-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@.akn"/>
+					<an:FRBRdate date="2008-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-11-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-11-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/7/4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22807" showAs="Amato"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17564" showAs="Carrara"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25257" showAs="Contini"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1209/7/4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Amato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Carrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Contini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p/>
+				<an:p>La 4ª Commissione permanente del Senato della Repubblica,in sede di esame delle parti di competenza del disegno di legge n. 1209, recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2009),</an:p>
+				<an:p> </an:p>
+				<an:p>premesso che:</an:p>
+				<an:p>per il finanziamento della partecipazione italiana a missioni internazionali il fondo di cui all'articolo 1, comma 1240, della legge 27 dicembre 2006, n. 296, prevede, per ciascuno degli anni 2007, 2008 e 2009, lo stanziamento di 1.000 milioni di euro;</an:p>
+				<an:p>le dotazioni del citato fondo sono state incrementate dall'articolo 63, comma 1, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133,  di 90 milioni di euro per l'anno 2008;</an:p>
+				<an:p>il decreto-legge 31 gennaio 2008, n. 8, convertito, con modificazioni, dalla legge 13 marzo 2008, n. 45, e il decreto-legge 22 settembre 2008, n. 147, convertito, con modificazioni, dalla legge 20 novembre 2008, n. 183, hanno autorizzato, per la partecipazione a missioni internazionali nell'anno 2008, la spesa complessiva di circa 1.165 milioni di euro, di cui circa 1.015 milioni per le missioni delle Forze armate;</an:p>
+				<an:p> </an:p>
+				<an:p>nella quantificazione degli oneri derivanti dalle relative disposizioni, come evidenziato nelle relazioni tecniche allegate ai citati provvedimenti, sono state comprese le spese di personale e di funzionamento, mentre non sono stati conteggiati gli oneri correlati alla maggiore usura dei mezzi e ai conseguenti interventi di  ricondizionamento degli stessi al termine delle missioni; </an:p>
+				<an:p> </an:p>
+				<an:p>per far fronte alle spese correlate alle missioni non coperte dalle risorse di volta in volta apprestate dai provvedimenti legislativi di finanziamento, stimate dallo Stato maggiore della Difesa in circa 350 milioni di euro l'anno, non sarà più possibile, come sino ad oggi avvenuto, attingere al bilancio ordinario del Ministero della difesa, in conseguenza della riduzione dei relativi stanziamenti   determinata dalle misure di contenimento della spesa adottate dal Governo,</an:p>
+				<an:p> </an:p>
+				<an:p>impegna il Governo:</an:p>
+				<an:p>ad adottare ogni necessaria iniziativa volta ad adeguare la dotazione del fondo per le missioni internazionali, al fine di assicurare la copertura integrale del costo complessivo reale derivante dalla partecipazione delle Forze armate alle missioni internazionali per l'anno 2009.</an:p>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
