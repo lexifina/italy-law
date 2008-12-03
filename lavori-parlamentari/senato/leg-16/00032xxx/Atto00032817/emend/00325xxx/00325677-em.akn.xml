@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1230/A/G1.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1230/A/G1.12"/>
+					<an:FRBRdate date="2008-12-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1230/A/G1.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.12"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@"/>
+					<an:FRBRdate date="2008-12-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@.akn"/>
+					<an:FRBRdate date="2008-12-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1230/A/G1.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1230" showAs="DDL 1230"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17211" showAs="Lannutti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1230</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Lannutti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame dell'Atto Senato n.  1230, conversione in legge, con modificazioni, del decreto-legge 9 ottobre 2008, n. 155, recante misure urgenti per garantire la stabilità del sistema creditizio e la continuità nell'erogazione del credito alle imprese e ai consumatori, nell'attuale situazione di ctisi dei mercati finanziari internazionali;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            l'articolo 1, comma 1, del provvedimento in esame prevede la possibilità di sottoscrizione di azioni privilegiate o di garanzia da parte dello Stato in caso di aumento di capitale deliberato dalle banche italiane;</an:p>
+				<an:p align="justify">            si continua a registrare un forte aumento di pignoramenti ed esecuzioni immobiliari rispetto a centinaia di migliaia di famiglie che hanno sottoscritto, negli anni trascorsi e su consiglio degli istituti di credito, tipologie di contratti di mutuo particolarmente esposte alle turbolenze dei mercati,</an:p>
+				<an:p align="justify">            tale situazione di insolvenza è destinata ad aumentare e ad allargarsi ulteriormente nei prossimi mesi, in assenza di ulteriori interventi;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare la possibilità di richiedere, ai fini dell'attuazione di quanto disposto dal comma 1 dell'articolo 1, che sia previsto, nell'ambito del programma eli stabilizzazione e rafforzamento, il temporaneo non ricorso alle procedure esecutive immobiliari dei mutuatari e delle famiglie con reddito medio-basso che a seguito delle recenti oscillazioni e delle turbolenze dei tassi e dei mercati, non hanno potuto onorare integralmente le rate del corrispondente mutuo, garantito da ipoteca su immobile, per l'acquisto dell'unita'immobiliare da adibire ad abitazione principale.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
