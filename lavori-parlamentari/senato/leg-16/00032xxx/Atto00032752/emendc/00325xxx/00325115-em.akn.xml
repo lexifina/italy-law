@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/2.0.62"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.62"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@.akn"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/C/2.0.62/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/26176" showAs="Cintola"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.62</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Cintola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 2</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art.2-</an:b>
+					<an:i>
+						<an:b>bis</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">(Destinazione della quota del 5 per mille dell'IRPEF a finalità scelte dai contribuenti)</an:p>
+				<an:p>        1. A decorrere dall'anno finanziario 2009, fermo restando quanto dovuto dai contribuenti a titolo di imposta sul reddito delle persone fisiche, una quota pari al 5 per mille dell'imposta stessa è destinata, in base alla scelta del contribuente, alle seguenti finalità:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 sostegno delle organizzazioni non lucrative di utilità sociale di cui all'articolo 10 del decreto legislativo 4 dicembre 1997, n. 460, e successive modificazioni, nonché delle associazioni di promozione sociale iscritte nei registri nazionali, regionali e provinciali, previsti dall'articolo 7 della legge 7 dicembre 2000, n.383, e delle associazioni e fondazioni riconosciute che operano nei settori di cui alla lettera 
+					<an:i>a)</an:i>
+					 del comma 1 del citato articolo 10 del decreto legislativo n. 460 del 1997;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 sostegno delle organizzazioni non lucrative di utilità sociale che operano nell'ambito delle politiche migratorie con particolare riguardo alla promozione della cultura e della lingua italiana e nel mondo;
+				</an:p>
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 finanziamento degli enti della ricerca scientifica e dell'università;
+				</an:p>
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 finanziamento degli enti della ricerca sanitaria.
+				</an:p>
+				<an:p>        2. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro del lavoro, salute, politiche sociali, e del Ministro degli affari esteri, di concerto con il Ministro dell'economia e delle finanze, sono stabiliti i criteri per l'individuazione dei soggetti di cui al comma 1 e le modalità di riparto delle somme».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
