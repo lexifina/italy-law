@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1209/77/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@.akn"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/77/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/4639" showAs="Esposito"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17771" showAs="Saia"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25199" showAs="Pichetto Fratin"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1209/77/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Esposito</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Saia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Pichetto Fratin</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 5 Commissione permanente,</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            nel corso dell'esame della Manovra economica 2008 in data 23 luglio sono stati accettati dal Governo gli Ordini del giorno 9/1386/82 e 9/1386/233, riguardanti la prosecuzione del progetto SHARE (Station at High Altitude for Research on the Environment), realizzato sotto l'egida dell'Agenzia per l'ambiente delle Nazioni Unite (UNEP) e curato dal CNR tramite il Comitato Ev-K2-CNR;</an:p>
+				<an:p>            SHARE risponde alle richieste degli Enti Internazionali/Intergovernativi che si occupano di adattamento ai cambiamenti climatici e ricerca ambientale, l'UNEP e l'UNFCCC, il WMO, l'IGBP ed il GEO, la partnership inter-istituzionale voluta dal G8 per la promozione delle osservazioni terrestri a sostegno dei decisori. SHARE è già incluso nei programmi promossi dai succitati Enti, tra cui ABC, GA W, IGAC, GEWX/CEOP, AERONET (NASA) e EUSAAR (VE). Significativo peraltro il suo inserimento da parte del Comune di Milano tra progetti per l'Expo 2015;</an:p>
+				<an:p>            SHARE, attuato sul territorio nazionale, in misura di una stazione per Regione, fornirà dati alle reti scientifiche e di policy governance, potrà contribuire alle risposte che gli enti nazionali e regionali saranno chiamati a fornire, in vista dell'adozione della Direttiva 2008/50/CE relativa alla: «qualità dell'aria ambiente e per un'aria più pulita in Europa», in tema di monitoraggio climatico e ambientale delle aree extraurbane e rurali, ivi comprese quelle montane che rappresentano il 40% del territorio italiano, fornendo in tal modo ulteriori significativi dati a supporto delle politiche ambientali nazionali;</an:p>
+				<an:p>            SHARE rappresenta anche un contributo allo sviluppo tecnologico industriale competitivo, nel settore degli strumenti e applicazioni tecnologiche innovative a basso consumo energetico e per l'acquisizione e la trasmissione di dati da aree remote;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a destinare una quota pari a 3 milioni di euro annui per il periodo 2009-2011 a valere sulle risorse di cui al decreto legge n. 204 del 1998 esposte nella tabella C, anche in vista degli impegni italiani in tema ambientale per il prossimo G8 ed in previsione dell'Expo 2015.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
