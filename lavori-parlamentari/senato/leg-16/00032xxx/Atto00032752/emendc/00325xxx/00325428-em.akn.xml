@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1209/95/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@.akn"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/95/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/26176" showAs="Cintola"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1209/95/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Cintola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 5 Commissione permanente,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            secondo i dati dell'indagine congiunturale sull'industria e l'artigianato manifatturiero della Camera di commercio industria e artigianato di Bergamo, dall'inizio dell'anno la produzione industriale in Provincia di Bergamo ha fatto registrare una netta e costante diminuzione, pari a -0,2 per cento tra gennaio e marzo, -2,6 per cento tra aprile e giugno e -2,6 per cento tra luglio e settembre. La caduta della produzione in Provincia di Bergamo si colloca oltre la media della Lombardia;</an:p>
+				<an:p>            il quadro complessivo, secondo la Camera di Commercio, è «marcatamente negativo», tanto più se si considera che i dati si riferiscono ad un periodo di tempo antecedente l'esplosione della crisi finanziaria internazionale. Le aspettative sul quarto trimestre 2008 sono tutte negative, con segni di peggioramento per l'evoluzione attesa della domanda estera e dell'occupazione;</an:p>
+				<an:p>            la congiuntura negativa riguarda tutte le dimensioni d'impresa e la maggior parte dei settori, con andamenti particolarmente negativi per il settore tessile (-11,3 per cento), pelli-calzature (-10,5 per cento), siderurgia (-6,2 per cento). Il sistema tessile-abbigliamento-moda continua ad accusare flessioni pesanti, anche per la riduzione o la sospensione dell'attività in alcune importanti aziende, e pesanti difficoltà si segnalano anche per il settore meccano-tessile. Sono ormai oltre 4 mila i lavoratori in cassa integrazione o mobilità, e la gravità della situazione occupazione ha portato le organizzazioni sindacali a proclamare una giornata di sciopero per il settore tessile in Provincia di Bergamo per giovedì 13 novembre. Anche la meccanica si trova in area negativa, e secondo dati di fonte sindacale 4.500 addetti su 30... sono interessati dal ricorso ad ammortizzatori sociali;</an:p>
+				<an:p>            è necessario affrontare i problemi che la recente grave crisi finanziaria sta generando sull'economia reale prima che la situazione diventi insostenibile. Servono, in particolare, strumenti di sostegno finanziario alle piccole e medie imprese e un'estensione degli ammortizzatori sociali ai settori che ne sono sprovvisti, collegandoli con l'avvio di percorsi di riqualificazione e di reimpiego,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad adottare urgentemente tutti gli interventi necessari per sostenere il settore manifatturiero bergamasco e per evitare le pesanti ricadute occupazionali conseguenti alla crisi economica, che rischiano di colpire in primo luogo l'occupazione femminile e quei lavoratori che ancora non sono in età pensionabile e che quindi rischierebbero di uscire irrimediabilmente dal circuito occupazionale.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
