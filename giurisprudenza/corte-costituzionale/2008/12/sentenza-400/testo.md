@@ -1,0 +1,56 @@
+# Corte costituzionale, sentenza 400/2008
+
+- ECLI: ECLI:IT:COST:2008:400
+- Tipo: sentenza
+- Presidente: FLICK
+- Relatore: Giuseppe Tesauro
+- Redattore: Giuseppe Tesauro
+- Data della decisione: 01/12/2008
+- Data del deposito: 05/12/2008
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 33001
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:400
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori: Presidente: Giovanni Maria FLICK; Giudici: Francesco AMIRANTE, Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 34 del codice di procedura penale, promosso dal Giudice dell'udienza preliminare del Tribunale di Montepulciano nel procedimento penale a carico di C. E. ed altro con ordinanza del 30 ottobre 2007, iscritta al n. 831 del registro ordinanze 2007 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 3, prima serie speciale, dell'anno 2008.
+    Udito nella camera di consiglio dell'8 ottobre 2008 il Giudice relatore Giuseppe Tesauro.
+
+## Testo
+
+Ritenuto in fatto1. – Con ordinanza del 30 ottobre 2007, il Giudice dell'udienza preliminare del Tribunale di Montepulciano, ha sollevato, in riferimento agli artt. 3, 24 e 111 della Costituzione, questione di legittimità costituzionale dell'art. 34 del codice di procedura penale, nella parte in cui non prevede l'incompatibilità alla funzione di giudice dell'udienza preliminare del giudice che, all'esito del precedente dibattimento riguardante il medesimo fatto storico a carico del medesimo imputato, abbia ordinato la trasmissione degli atti al pubblico ministero per la ritenuta diversità del fatto rispetto a quello contestato, ai sensi dell'art. 521, comma 2, cod. proc. pen.
+    Chiamato alla trattazione dell'udienza preliminare in un procedimento per il reato di sfruttamento della prostituzione altrui, il giudice a quo riferisce che, nello stesso procedimento, all'esito di un precedente dibattimento, quale componente del collegio giudicante, egli aveva disposto la trasmissione degli atti al pubblico ministero in ragione della diversità del fatto accertato da come descritto nell'imputazione, in applicazione dell'art. 521, comma 2, cod. proc. pen.
+    Il rimettente esclude che l'art. 34 cod. proc. pen. contempli quale ipotesi d'incompatibilità del giudice la situazione descritta e, tuttavia, assume che, rispetto ad essa, sussistano le stesse ragioni poste a fondamento dell'incostituzionalità della norma dichiarata, con la sentenza n. 455 del 1994, per il caso di giudizio dibattimentale celebrato dal giudice che, nel precedente dibattimento riguardante il medesimo fatto storico a carico del medesimo imputato, ha emesso ordinanza di trasmissione degli al pubblico ministero ai sensi dell'art. 521, comma 2, cod. proc. pen.; nonché, con la sentenza n. 224 del 2001, in relazione al caso della trattazione dell'udienza preliminare ad opera del giudice che ha pronunciato sentenza, poi annullata, nei confronti del medesimo imputato e per lo stesso fatto.
+    Invero, per il carattere tassativo delle cause di incompatibilità del giudice, l'udienza preliminare, quale sede pregiudicabile, non potrebbe ritenersi compresa nelle statuizioni della pronuncia n. 455 del 1994, in base alle quali «il giudice, quando accerta che il fatto è diverso da come descritto nel decreto che dispone il giudizio, compie una penetrante delibazione del merito della regiudicanda», con la conseguenza che «un dibattimento "bis" riguardante il medesimo fatto storico e il medesimo imputato non può […] non essere attribuito alla cognizione di altro giudice».
+    A parere del giudice a quo, però, il principio così espresso in riferimento al giudice del dibattimento dovrebbe valere anche per il giudice dell'udienza preliminare, la cui determinazione conclusiva, secondo quanto affermato dalla Corte costituzionale nella sentenza n. 224 del 2001, in conseguenza delle innovazioni recate dalla legge 16 dicembre 1999, n. 479 (Modifiche alle disposizioni sul procedimento davanti al tribunale in composizione monocratica e altre modifiche al codice di procedura penale. Modifiche al codice di procedura penale e all'ordinamento giudiziario. Disposizioni in materia di contenzioso civile pendente, di indennità spettanti al giudice di pace e di esercizio della professione forense), e dalla legge 7 dicembre 2000, n. 397 (Disposizioni in materia di indagini difensive), poggia su un apprezzamento del merito dell'accusa privo del carattere della sommarietà, non più distinguibile da quello proprio di altri momenti processuali, già ritenuti non solo “pregiudicanti”, ma anche “pregiudicabili”, ai fini della sussistenza della incompatibilità.
+    La disciplina denunciata, perciò, violerebbe il «principio di parità di trattamento di situazioni simili», comprimendo le garanzie d'imparzialità ed indipendenza del giudice ed il diritto di difesa.Considerato in diritto1. – Il Giudice dell'udienza preliminare del Tribunale di Montepulciano dubita, in riferimento agli artt. 3, 24 e 111 della Costituzione, della legittimità costituzionale dell'art. 34 del codice di procedura penale, nella parte in cui non inibisce la trattazione dell'udienza preliminare al giudice che, all'esito del precedente dibattimento riguardante il medesimo fatto storico a carico del medesimo imputato, abbia ordinato la trasmissione degli atti al pubblico ministero per la ritenuta diversità del fatto, a norma dell'art. 521, comma 2, cod. proc. pen.
+    A suo avviso, ricorrerebbero nella fattispecie le medesime ragioni d'incompatibilità che hanno condotto questa Corte all'accoglimento di altre questioni di costituzionalità dell'art. 34 cod. proc. pen., con particolare riferimento al caso del giudice che, avendo emesso in un precedente dibattimento ordinanza ai sensi dell'art. 521, comma 2, cod. proc. pen., sia chiamato a partecipare al nuovo dibattimento (sentenza n. 455 del 1994); nonché al caso del giudice investito della funzione di giudice dell'udienza preliminare dopo che abbia pronunciato sentenza, poi annullata, nei confronti del medesimo imputato e per lo stesso fatto (sentenza n. 224 del 2001).
+    La mancata previsione dell'anzidetta causa d'incompatibilità, dunque, determinerebbe una ingiustificata disparità di trattamento di situazioni tra loro assimilabili e comprimerebbe il diritto di difesa e le garanzie d'imparzialità del giudice.
+    2. – La questione è fondata, nei termini di seguito precisati.
+    Con la sentenza n. 455 del 1994 è stata dichiarata l'illegittimità costituzionale dell'art. 34, comma 2, cod. proc. pen., nella parte in cui non prevedeva l'incompatibilità alla funzione di giudizio del giudice che avesse, all'esito di precedente dibattimento, riguardante il medesimo fatto storico a carico del medesimo imputato, ordinato la trasmissione degli atti al pubblico ministero a norma dell'art. 521, comma 2, cod. proc. pen.
+    Nella pronuncia questa Corte ha rilevato che il giudice, quando accerta che il fatto è diverso da come descritto nel decreto che dispone il giudizio, compie una piena delibazione del merito della regiudicanda, facendone conseguire che «un dibattimento "bis" riguardante il medesimo fatto storico e il medesimo imputato non può […] non essere attribuito alla cognizione di altro giudice, trattandosi della stessa ratio di tutela della imparzialità e serenità di giudizio che informa la regola posta dall'art. 34, comma 1, cod. proc. pen., affermativa della incompatibilità del giudice che abbia pronunciato sentenza in un precedente grado di giudizio relativamente al medesimo procedimento».
+    L'ipotesi che qui interessa è rimasta estranea al decisum della citata sentenza, avendo quest'ultima identificato una relazione d'incompatibilità il cui secondo termine era dato dal giudizio inteso quale funzione che si estrinseca nella celebrazione del dibattimento.
+    In seguito, la sentenza n. 224 del 2001 ha ricondotto l'udienza preliminare, nella configurazione assunta per effetto delle innovazioni introdotte dalla legge 16 dicembre 1999, n. 479, e dalla legge 7 dicembre 2000, n. 397, al novero delle sedi suscettibili di essere pregiudicate dalla precedente valutazione in ordine alla medesima regiudicanda: secondo quanto osservato dalla Corte, nella vigente disciplina, «l'alternativa decisoria che si offre al giudice quale epilogo dell'udienza preliminare riposa su una valutazione del merito della accusa non più distinguibile – quanto ad intensità e completezza del panorama delibativo – da quella propria di altri momenti processuali, già ritenuti non solo “pregiudicanti”, ma anche “pregiudicabili”, ai fini della sussistenza della incompatibilità».
+    Questo orientamento ha trovato conferma in successive pronunce, emesse riguardo a casi di reiterazione della funzione di giudice dell'udienza preliminare, nelle quali la locuzione «giudizio», utilizzata dal legislatore nell'art. 34 cod. proc. pen., è stata intesa come comprensiva anche dell'udienza preliminare (sentenza n. 335 del 2002; ordinanze n. 20 del 2004, n. 271 e n. 269 del 2003).
+    In tale quadro, se l'apprezzamento in ordine alla diversità del fatto compiuto al termine del precedente dibattimento, implicando una valutazione contenutistica dell'ipotesi di accusa, costituisce attività idonea a radicare l'incompatibilità del giudice a partecipare al nuovo dibattimento, alle medesime conclusioni deve pervenirsi quando, a seguito della vicenda regressiva, l'ulteriore attività che il giudice sia chiamato ad esercitare consista nella trattazione dell'udienza preliminare.
+    Tenuto conto dei precedenti, pertanto, esigenze di certezza impongono di dichiarare l'illegittimità costituzionale dell'art. 34, comma 2, cod. proc. pen., nella parte in cui non prevede l'incompatibilità alla trattazione dell'udienza preliminare del giudice che abbia ordinato, all'esito di precedente dibattimento, riguardante il medesimo fatto storico a carico del medesimo imputato, la trasmissione degli atti al pubblico ministero, a norma dell'art. 521, comma 2, cod. proc. pen.
+
+## Dispositivo
+
+per questi motivi
+LA CORTE COSTITUZIONALE
+    dichiara l'illegittimità costituzionale dell'art. 34, comma 2, del codice di procedura penale, nella parte in cui non prevede l'incompatibilità alla trattazione dell'udienza preliminare del giudice che abbia ordinato, all'esito di precedente dibattimento, riguardante il medesimo fatto storico a carico del medesimo imputato, la trasmissione degli atti al pubblico ministero, a norma dell'art. 521, comma 2, del codice di procedura penale.
+    Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 1° dicembre 2008.
+F.to:
+Giovanni Maria FLICK, Presidente
+Giuseppe TESAURO, Redattore
+Gabriella MELATTI, Cancelliere
+Depositata in Cancelleria il 5 dicembre 2008.
+Il Cancelliere
+F.to: MELATTI
