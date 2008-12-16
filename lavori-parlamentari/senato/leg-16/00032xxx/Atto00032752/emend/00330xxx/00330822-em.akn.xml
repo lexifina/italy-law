@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.169/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.169"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.169/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.169"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@.akn"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/A/G3.169/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/1091" showAs="Garavaglia"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/16923" showAs="Veronesi"/>
+				<an:TLCPerson id="EGC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="ELC" href="http://dati.senato.it/senatore/17663" showAs="Zavoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.169 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Veronesi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELC" as="#tipoSenatore">Zavoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge finanziaria per il 2009 per le parti di competenza,</an:p>
+				<an:p align="justify">            premesso che:</an:p>
+				<an:p align="justify">            il Fondo unico per lo spettacolo (FUS), istituito con la legge 30 aprile 1985, n. 163, è lo strumento finanziario attraverso il quale lo Stato sostiene le attività del settore spettacolo, sia del cinema che dello spettacolo dal vivo;</an:p>
+				<an:p align="justify">            la gestione del Fondo consente, infatti, di assegnare contributi ad enti, istituzioni, associazioni, organismi ed imprese operanti nei settori delle attività cinematografiche, musicali, di danza, teatrali, circensi e dello spettacolo viaggiante, nonché di promuovere e sostenere manifestazioni ed iniziative di carattere e rilevanza nazionali da svolgere in Italia o all'estero;</an:p>
+				<an:p align="justify">            la tabella C allegata alla legge finanziaria 2006, ultima finanziaria della XIV legislatura, a dimostrazione di una politica lontana e disinteressata al mondo dello spettacolo, ha previsto un taglio al FUS del 35 per cento, portandolo a 300 milioni di euro;</an:p>
+				<an:p align="justify">            la legge finanziaria 2007 del Governo Prodi, invece, ha provveduto ad incrementare il FUS, prevedendo una dotazione di 444 milioni per il 2007 e di 544 milioni di euro per il 2008 e il 2009;</an:p>
+				<an:p align="justify">            il provvedimento in esame, riconfermando una politica disinteressata al settore dello spettacolo, prevede la decurtazione del FUS di circa 200 milioni di euro;</an:p>
+				<an:p align="justify">            l'inadeguatezza e la scarsità di tali stanziamenti per la produzione e l'industria dello spettacolo italiani potrebbero determinare, di fatto, la chiusura di interi settori di attività che, al contrario, sono da considerare strategici per la ripresa del Paese e necessitano di adeguatezza progettuale, sia in termini di finanziamento, sia in termini di programmazione e di politica di interventi;</an:p>
+				<an:p align="justify">            lo spettacolo in Italia, nel suo complesso, conta all'incirca 250.000 addetti, tra artisti, tecnici, operatori, maestranze e una tale esiguità di finanziamenti pubblici mette in serio rischio i livelli occupazionali dell'intero comparto;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'opportunità di reperire risorse adeguate a garantire un significativo incremento del FUS, al fine di ristabilire quantomeno gli stanziamenti previsti dalla legge finanziaria 2008 e di ovviare così a gravi conseguenze, quali la chiusura di interi settori di attività».</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
