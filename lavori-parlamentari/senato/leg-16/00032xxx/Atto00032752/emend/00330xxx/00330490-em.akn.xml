@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.194/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.194"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.194/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.194"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@.akn"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/A/G3.194/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25256" showAs="Andria"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/12378" showAs="De Castro"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25297" showAs="Di Giovan Paolo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23037" showAs="Pertoldi"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/22795" showAs="Randazzo"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.194</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Andria</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Castro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Di Giovan Paolo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Pertoldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Randazzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame, del disegno di legge finanziaria per il 2009,</an:p>
+				<an:p align="justify">        premesso che;</an:p>
+				<an:p align="justify">            il calo rilevante del prezzo dell'olio extravergine di oliva, dovuto alle massicce importazioni di oli provenienti dall'estero, alle ingenti giacenze nei magazzini, alla presenza sul mercato di gruppi industriali con posizioni dominanti, nonché la lunga siccità estivo-autunnale e le anomale temperature autunnali che hanno fatto svanire le speranze di un florido raccolto, hanno mosso le amministrazioni locali e le organizzazioni professionali, lunedì 17 novembre scorso, ad organizzare un incontro con tutti i rappresentanti della filiera per affrontare le problematiche di questa grave crisi;</an:p>
+				<an:p align="justify">            agli incontri sopra richiamati sono seguite manifestazioni nell'ambito di iniziative di mobilitazione a sostegno della crisi del comparto, con conseguente istituzione di tavoli concertativi presso la Presidenza della Giunta regionale e presso l'Assessorato regionale alle risorse agroalimentari, ai quali hanno partecipato rappresentanti del Governo, dell'istituzione regionale, degli altri enti locali, delle organizzazioni professionali e di tutti i rappresentanti della filiera olivicola, che hanno portato ad una piattaforma di proposte da presentare al Governo nazionale;</an:p>
+				<an:p align="justify">            tutto ciò premesso, a sostegno degli olivicoltori pugliesi, che in questi giorni si trovano a confrontarsi con una congiuntura particolarmente negativa,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare, con urgenza, le seguenti misure:</an:p>
+				<an:p align="justify">                liquidazione immediata del premio unico comunitario da parte dell'Agenzia per le erogazioni in agricoltura (AGEA);</an:p>
+				<an:p align="justify">                attivazione delle misure previste dal decreto legislativo 29 marzo 2004, n. 102 per le calamità naturali, per sostenere le imprese danneggiate dalla prolungata siccità, nonché l'attuazione di un provvedimento straordinario ed urgente per il settore olivicolo e cerealicolo, che preveda la riduzione dei contributi previdenziali e lo slittamento delle scadenze fiscali e creditizie;</an:p>
+				<an:p align="justify">                attivazione delle procedure comunitarie per il riconoscimento ed il ritiro della massima quantità possibile di olio extravergine d'oliva prodotto dai produttori pugliesi (aiuti agli indigenti);</an:p>
+				<an:p align="justify">
+					                applicazione immediata del decreto del Ministro delle politiche agricole alimentari e forestali del 9 ottobre 2007, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 243 del 18 ottobre 2007, in materia di indicazione obbligatoria dell'origine delle olive in etichetta».
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
