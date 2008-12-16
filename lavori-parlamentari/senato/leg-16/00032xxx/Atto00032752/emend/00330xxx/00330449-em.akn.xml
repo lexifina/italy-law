@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.213/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.213"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.213/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.213"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@.akn"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/A/G3.213/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22" showAs="Agostini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22915" showAs="Crisafulli"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22951" showAs="Fontana"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22988" showAs="Leddi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/23020" showAs="Musi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17787" showAs="Stradiotto"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.213</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Agostini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Crisafulli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Fontana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Leddi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Musi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Stradiotto</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame dell'atto Senato n. 1209 recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2009);</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            sono svariati anni che si discute sulla rimodulazione della tassazione dei redditi da locazione al fine di agevolare il mercato delle locazioni e l'emersione dei redditi relativi ai contratti di locazione stessi mediante l'introduzione di un'imposta sostitutiva forfettaria con aliquota del 20 per cento sui canoni di locazione;</an:p>
+				<an:p align="justify">            tale misura, infatti, darebbe la possibilità di inserire nel circuito delle locazioni i beni immobili che attualmente non sono destinati a tale scopo, consentendo in questo modo una nuova mobilità del mercato delle locazioni e consentirebbe anche a coloro che attualmente ne sono esclusi, e cioè a quelle famiglie che prendono in locazione immobili fuori dalla registrazione, di poter accedere alle detrazioni già previste dalla legislazione vigente;</an:p>
+				<an:p align="justify">            l'attuale congiuntura economica e le situazioni interne del nostro Paese potrebbero rendere difficile un'immediata applicazione della norma anche se favorire l'immissione sul mercato di immobili a canone agevolato costituirebbe un concreto ed immediato intervento nell'ambito dell'economia reale;</an:p>
+				<an:p align="justify">            una valida alternativa potrebbe essere rappresentata da un periodo di sperimentazione per il triennio 2009-2011 in cui si potrebbe introdurre un'imposta sostitutiva forfettaria con aliquota del 20 per cento sui canoni di locazione per gli immobili privati concessi in locazione mediante ricorso ai contratti a canone agevolato di cui alla legge 9 dicembre 1998, n. 431, fissando un limite di spesa congruo con i vincoli di bilancio,</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a valutare la possibilità durante la XVI legislatura di introdurre iniziative normative sui redditi da locazione, anche in maniera sperimentale, che preveda un'imposta sostitutiva forfetaria, con aliquota pari al 20 per cento, sui canoni di locazione per gli immobili privati concessi in locazione mediante ricorso ai contratti a canone agevolato di cui alla legge 9 dicembre 1998, n. 431».</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
