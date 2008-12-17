@@ -1,0 +1,24 @@
+# Massima n. 33055
+
+- Pronuncia: Corte costituzionale, ordinanza 424/2008 (ECLI:IT:COST:2008:424)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2008:424
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Circolazione stradale - Patente a punti - Obbligo del proprietario del veicolo di comunicare all'organo di polizia i dati personali e della patente del conducente non identificato al momento dell'infrazione - Prevista irrogazione di sanzione amministrativa pecuniaria in caso di inosservanza che non sia giustificata da documentato motivo - Denunciata irragionevolezza e violazione del principio di eguaglianza nonché lesione del diritto di difesa - Esclusione - Manifesta infondatezza della questione.
+
+## Testo
+
+E' manifestamente infondata la questione di legittimità costituzionale dell'art. 126- bis , comma 2, del d.lgs. 30 aprile 1992, n. 285, come modificato dal decreto-legge 3 ottobre 2006, n. 262, convertito, con modificazioni, nella legge 24 novembre 2006, n. 286, censurato, in riferimento agli artt. 3 e 24 Cost., perché, subordinando alla sussistenza di un giustificato e documentato motivo l'esonero dalla sanzione pecuniaria prevista a carico del proprietario dell'autoveicolo che non comunichi i dati personali e della patente del conducente, determinerebbe un'eccessiva compressione del diritto di difesa e riserverebbe irragionevolmente ai destinatari dell'obbligo un trattamento più severo di quello contemplato dall'art. 180, comma 8, dello stesso codice, che prevede l'esonero dalla sanzione in presenza di un giustificato motivo e senza dovere di allegazione documentale. Il legislatore non ha fatto un uso distorto della discrezionalità che gli compete in materia, poiché l'obbligo di comunicazione è strumentale alla soddisfazione di un interesse, la repressione delle infrazioni stradali, che è strettamente collegato alla tutela dell'ordine e della sicurezza pubblica e giustifica il rigore con cui è stata disciplinata la prova idonea ad esonerare da responsabilità il proprietario. Non c'è contrasto neppure con l'art. 24 Cost.: infatti, non è corretto affermare che la norma costringe i soggetti tenuti alla comunicazione a procurarsi  ex post  e per iscritto la prova dell'esimente, giacchè l'onere di documentazione non investe l'impossibilità di comunicare, ma semplicemente quelle circostanze fattuali idonee a rivelare la non esigibilità, nel singolo caso di specie, dell'obbligo di trasmissione dei dati. -Sulla discrezionalità legislativa in tema di individuazione delle condotte punibili e della scelta delle relative sanzioni v., citata, ordinanza n. 204/2008. -Sul fatto che la discrezionalità legislativa in materia di individuazione delle sanzioni possa essere censurata solo ove trasmodi nella irragionevolezza v., citata,  ex multis , ordinanza n. 169/2006. -Sull'obbligo del proprietario di comunicare i dati del conducente v., citata, sentenza n. 165/2008. -Sul fatto che la disciplina del codice della strada è diretta a soddisfare l'esigenza di assicurare l'incolumità personale dei soggetti coinvolti v., citate, sentenze n. 165/2008, n. 428/2004, ordinanza n. 247/2005. -Sul ruolo preminente che ha la sanzione della decurtazione dei punti dalla patente v., citata, sentenza n. 27/2005. -Sulla necessità di distinguere il comportamento di chi si disinteressi della richiesta di comunicare i dati e di chi abbia fornito una dichiarazione negativa v., citate, sentenza n. 165/2008 e ordinanze n. 282/2008, n. 434/2007, n. 244/2006.
+
+## Norme
+
+- codice della strada (d.lgs. 30.4.1992, n. 285), art. 126 bis, comma 2
+- decreto-legge, 03/10/2006 n. 262, art. 2, comma 164 lettera b)
+- legge, 24/11/2006 n. 286, art. 1, comma 1
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
