@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G2.432/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G2.432"/>
+					<an:FRBRdate date="2008-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G2.432/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.432"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@"/>
+					<an:FRBRdate date="2008-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@.akn"/>
+					<an:FRBRdate date="2008-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/A/G2.432/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/12836" showAs="Stiffoni"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/25211" showAs="Mazzatorta"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/22945" showAs="Filippi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.432</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Stiffoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Mazzatorta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        esaminato il provvedimento in titolo;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la Corte costituzionale, con sentenza 10 ottobre 2008, n. 335, ha stabilito che, nel sistema delineato dalla legge n. 36 del 1994, la tariffa del servizio idrico integrato, articolata in tutte le sue componenti - e, quindi, anche quella relativa al servizio di depurazione - ha natura di corrispettivo di prestazioni contrattuali e non di tributo;</an:p>
+				<an:p align="justify">            secondo la Corte costituzionale, l'articolo 14 della citata legge n. 36, imponendo l'obbligo di pagamento della quota riferita al servizio di depurazione anche in mancanza di controprestazione, prescinderebbe infatti dalla natura di corrispettivo contrattuale;</an:p>
+				<an:p align="justify">            la corresponsione di tale quota riferita al servizio di depurazione garantisce, tuttavia, ai Comuni un gettito di portata non indifferente, soprattutto nella prospettiva della progressiva realizzazione delle infrastrutture volte ad ampliare la copertura del servizio di depurazione;</an:p>
+				<an:p align="justify">            l'applicazione della sentenza della Corte costituzionale rischia di produrre ingenti oneri risarcitori in capo ai Comuni; in particolare, si rende necessario riflettere sulla riduzione del termine di prescrizione dei diritti connessi al pagamento delle quote relative al servizio di depurazione,</an:p>
+				<an:p align="justify">        impegna il Governo a provvedere alla regolazione degli effetti indotti dalla sentenza della Corte costituzionale n. 335 del 2008, autorizzando i Comuni, con regolamento adottato ai sensi dell'articolo 52 del decreto legislativo 15 dicembre 1997, n. 446, e successive modificazioni, ad istituire un contributo di scopo per il servizio di depurazione delle acque reflue nel caso in cui la fognatura sia sprovvista di impianti centralizzati di depurazione o questi siano temporaneamente inattivi, destinando il gettito derivante dalla riscossione del contributo esclusivamente alla copertura delle spese per la realizzazione e la gestione delle opere e degli impianti di depurazione.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
