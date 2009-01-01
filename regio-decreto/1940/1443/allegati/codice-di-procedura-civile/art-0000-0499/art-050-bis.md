@@ -18,7 +18,7 @@ Il tribunale giudica in composizione collegiale:
 
 7) nelle cause di cui alla legge 13 aprile 1988, n. 117.
 
-((7-bis) nelle cause di cui all'articolo 140-bis del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206)).((122))
+7-bis) nelle cause di cui all'articolo 140-bis del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206.(122)(124)((124a))
 
 Il tribunale giudica altresi' in composizione collegiale nei procedimenti in camera di consiglio disciplinati dagli articoli 737 e seguenti, salvo che sia altrimenti disposto.(88)(90)
 
@@ -39,3 +39,15 @@ Il D.Lgs. 19 febbraio 1998, n. 51 come modificato dalla L. 16 giugno 1998, n. 18
 AGGIORNAMENTO (122)
 
 La L. 24 dicembre 2007, n. 244 ha disposto (con l'art. 2, comma 447) che la presente modifica diventa efficace decorsi centottanta giorni dalla data in entrata in vigore della suindicata legge.
+
+---------------
+
+AGGIORNAMENTO (124)
+
+La L. 24 dicembre 2007, n. 244 come modificata dal D.L. 25 giugno 2008, n. 112, convertito con modificazioni dalla L. 6 agosto 2008, n. 133 ha disposto (con l'art. 2, comma 447) che "Le disposizioni di cui ai commi da 445 a 449 diventano efficaci decorso un anno dalla data di entrata in vigore della presente legge.".
+
+---------------
+
+AGGIORNAMENTO (124a)
+
+La L. 24 dicembre 2007, n. 244 come modificata dal D.L. 30 dicembre 2008, n. 207, convertito con modificazioni dalla L. 27 febbraio 2009, n. 14 ha disposto (con l'art. 2, comma 447) che "Le disposizioni di cui ai commi da 445 a 449 diventano efficaci decorsi diciotto mesi dalla data di entrata in vigore della presente legge.".
