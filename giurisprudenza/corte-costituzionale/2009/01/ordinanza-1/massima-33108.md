@@ -1,0 +1,25 @@
+# Massima n. 33108
+
+- Pronuncia: Corte costituzionale, ordinanza 1/2009 (ECLI:IT:COST:2009:1)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:1
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Referendum  -  Referendum  per la modificazione territoriale delle Regioni - Richiesta referendaria di distacco del Comune di S. Michele al Tagliamento dalla Regione Veneto e aggregazione alla Regione Friuli-Venezia Giulia - Conseguenti atti dell'Ufficio Centrale per il  referendum  presso la Corte di cassazione, del Consiglio dei ministri e del Presidente della Repubblica - Ricorso per conflitto di attribuzione tra poteri dello Stato proposto dai delegati "effettivo" e "supplente" del suddetto Comune, anche in qualità di rappresentanti del locale comitato promotore del  referendum  nei confronti dell'Ufficio Centrale per il  referendum , del Consiglio dei ministri e del Presidente della Repubblica - Denunciata menomazione del diritto di autodeterminazione della comunità locale interessata e richiesta alla Corte di autorimessione di questioni di costituzionalità di varie disposizioni legislative disciplinanti la procedura referendaria - Insussistenza dei requisiti soggettivo e oggettivo del conflitto tra poteri - Inammissibilità.
+
+## Testo
+
+È inammissibile il conflitto di attribuzione tra poteri dello Stato proposto dai delegati, "effettivo" e "supplente", del Comune di S. Michele al Tagliamento dalla Regione Veneto, anche in qualità di rappresentanti del locale comitato promotore del  referendum  nei confronti dell'Ufficio Centrale per il  referendum , del Consiglio dei ministri e del Presidente della Repubblica. Difetta, innanzitutto, l'elemento soggettivo del conflitto, proposto dal delegato comunale (effettivo o supplente), dal momento che ad esso non può essere riconosciuta alcuna attribuzione costituzionale in relazione ai procedimenti referendari concernenti il distacco dei Comuni da una Regione e la loro aggregazione ad altra Regione, tanto meno quella di rappresentante del corpo elettorale comunale, in alcuna fase del suddetto procedimento, sia essa quella relativa alla verifica della legittimità della richiesta referendaria da parte dell'Ufficio centrale per il  referendum , oppure quella concernente la proclamazione dei risultati referendari, ovvero quella ad essa successiva. I ricorrenti sono, inoltre, privi di legittimazione al conflitto anche nella qualità di rappresentanti del comitato referendario  ex  art. 132, secondo comma, Cost., in quanto tali soggetti non costituiscono potere dello Stato, essendo estranei a tale articolazione della Repubblica (art. 114 Cost.), e neppure sono titolari di alcuna funzione concorrente con quelle proprie dei poteri dello Stato-apparato. Neppure sussiste l'elemento oggettivo del conflitto, in quanto i ricorrenti non prospettano alcuna lesione di attribuzioni costituzionalmente garantite a seguito della lamentata lesione del diritto di autodeterminazione della comunità locale interessata al  referendum  di variazione territoriale ad opera degli atti censurati, dato che la lesione viene fatta discendere dalle norme che regolano il procedimento referendario e in relazione alle quali si chiede alla Corte di sollevare avanti a sé questione di legittimità costituzionale; sicché il ricorso risulta finalizzato non già a sollevare un conflitto di attribuzione, quanto ad ottenere la dichiarazione di illegittimità costituzionale di talune disposizioni legislative, attraverso una sorta di accesso diretto alla Corte costituzionale, precluso nella specie, sussistendo la possibilità di prospettare questione incidentale nell'ambito del giudizio che si svolge avanti all'Ufficio centrale per il  referendum  presso la Cassazione, attesa la natura giuridica del medesimo e la funzione da questo svolta. Sul difetto dell'elemento soggettivo del conflitto di attribuzione tra poteri dello Stato proposto dal delegato comunale (effettivo o supplente), v. citate ordinanze n. 189 e n. 99/2008; n. 296 e 69/2006. Sul difetto dell'elemento soggettivo del conflitto di attribuzione tra poteri dello Stato proposto dal rappresentante del comitato referendario  ex  art. 132, secondo comma, Cost., v. citate ordinanze n. 99/2008, n. 479/2005 e n. 82/1978. Sulla condizione necessaria (mancanza di un giudizio nel quale possa essere sollevata la relativa questione incidentale) per proporre conflitto su atto legislativo, ove da questo possano derivare lesioni dirette all'ordine costituzionale delle competenze, v. citata ordinanza n. 343/2003.
+
+## Parametri
+
+- Costituzione, art. 5
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 64, comma 3
+- Costituzione, art. 75, comma 4
+- Costituzione, art. 102, comma 2
+- Costituzione, art. 111, comma 7
+- Costituzione, art. 132, comma 2
+- legge, 11/03/1953 n. 87, art. 37, comma 3
+- legge, 11/03/1953 n. 87, art. 37, comma 4
