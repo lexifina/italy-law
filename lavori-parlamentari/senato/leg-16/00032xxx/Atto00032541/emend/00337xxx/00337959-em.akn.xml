@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1117/A/18.501/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1117/A/18.501"/>
+					<an:FRBRdate date="2009-01-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1117/A/18.501/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.501"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@"/>
+					<an:FRBRdate date="2009-01-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@.akn"/>
+					<an:FRBRdate date="2009-01-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-01-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-01-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1117/A/18.501/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1117" showAs="DDL 1117"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25270" showAs="Vicari"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1117</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.501</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Vicari</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo la lettera d), aggiungere la seguente:</an:p>
+				<an:p align="justify">
+					            «
+					<an:i>d-</an:i>
+					bis) trasferimento, a titolo gratuito, ad ogni livello di governo dei beni appartenenti al patrimonio dello Stato, non più funzionali alle esigenze dell'Amministrazione statale. Il trasferimento dei suddetti beni dovrà essere effettuato mediante l'istituzione di un albo statale in cui siano individuati i beni appartenenti al patrimonio dello Stato che si sono resi disponibili, secondo le seguenti modalità:
+				</an:p>
+				<an:p align="justify">                1) entro dodici mesi dall'istituzione dell'albo, l'Amministrazione competente presenta un bando da reiterarsi periodicamente in base alle nuove disponibilità patrimoniali dello Stato, cui potranno partecipare gli enti pubblici, le società miste, i consorzi, i soggetti privati o qualunque altra associazione, che presentino progetti con finalità prevalente di pubblica utilità;</an:p>
+				<an:p align="justify">
+					                2) le regioni potranno altresì cedere a titolo gratuito beni appartenenti al proprio patrimonio, al fine di realizzare progetti di pubblica utilità, con le stesse modalità di cui al punto 1, lettera 
+					<an:i>e)</an:i>
+					, del presente articolo».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
