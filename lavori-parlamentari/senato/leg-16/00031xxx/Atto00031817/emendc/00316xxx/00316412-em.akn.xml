@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/826/C/5.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/826/C/5.100"/>
+					<an:FRBRdate date="2009-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/826/C/5.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@"/>
+					<an:FRBRdate date="2009-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@.akn"/>
+					<an:FRBRdate date="2009-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-01-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-01-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/826/C/5.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/826" showAs="DDL 826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Agricoltura e produzione agroalimentare" href="/dati.senato.it/osr/Commissione/9"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25218" showAs="Vallardi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Vallardi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 5. - 
+					<an:i>(Controlli e sanzioni). - 1.</an:i>
+					 Ai fini della verifica del rispetto della presente legge, oltre ai corpi di polizia giudiziaria, sono autorizzati allo svolgimento di operazioni di controllo gli uffici sanitari e gli ispettorati per il controllo della qualità dei prodotti agroalimentari competenti per territorio.
+				</an:p>
+				<an:p>2. La violazione delle disposizioni di cui all'articolo 3, comma 2 e l'avvio anticipato dell'attività rispetto al termine di cui all'articolo 4, comma 2, comporta l'applicazione delle sanzioni di cui agli articoli 41, 42 e 43 del decreto legislativo 26 ottobre 1995, n. 504. La violazione delle disposizioni di cui all'articolo 4, comma 4, comporta l'applicazione della sanzione amministrativa pecuniaria da 500 a 2.000 euro. In ogni caso, la violazione delle disposizioni di cui alla presente legge, comporta il sequestro e la distruzione dei prodotti.</an:p>
+				<an:p>3. Nel caso di accertata, reiterata violazione, le sanzioni di cui al comma precedente sono maggiorate del cinquanta per cento e al soggetto responsabile è fatto permanente divieto di svolgere le attività di cui alla presente legge.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
