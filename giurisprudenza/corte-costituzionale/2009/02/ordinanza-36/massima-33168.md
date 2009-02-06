@@ -1,0 +1,22 @@
+# Massima n. 33168
+
+- Pronuncia: Corte costituzionale, ordinanza 36/2009 (ECLI:IT:COST:2009:36)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:36
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Imposte e tasse - Esenzioni fiscali godute nei primi anni novanta dalle società per azioni a partecipazione pubblica maggioritaria, esercenti servizi pubblici locali - Qualificazione come aiuti di Stato incompatibili con l'ordinamento comunitario da parte della Commissione CE e della Corte di giustizia CE - Susseguente previsione, con norma interna, del recupero degli aiuti equivalenti delle imposte non corrisposte - Denunciato assoggettamento retroattivo ad imposizione, violazione del principio di capacità contributiva, compromissione dei principi di imparzialità e di buon andamento della pubblica amministrazione - Esclusione, essendo la retroattività delle norme censurate giustificata dall'obbligo comunitario e dall'esigenza di eguaglianza dei contribuenti - Inconfigurabilità di legittimo affidamento dei contribuenti - Manifesta infondatezza della questione.
+
+## Testo
+
+Sono manifestamente infondate le questioni di legittimità costituzionale degli artt. 27 della legge 18 aprile 2005, n. 62, e 1 del decreto-legge 15 febbraio 2007, n. 10, convertito, con modificazioni, dall'art. 1 della legge 6 aprile 2007, n. 46, censurati - in riferimento agli artt. 53 e 97 della Costituzione - in quanto assoggetterebbero retroattivamente all'imposta sui redditi alcuni contribuenti beneficiari di esenzioni fiscali costituenti aiuti di Stato incompatibili con l'ordinamento comunitario. Invero, la denunciata efficacia retroattiva delle norme censurate trova giustificazione sia nell'art. 117, primo comma, Cost., in conseguenza dell'obbligo imposto dall'ordinamento comunitario al legislatore italiano di procedere al recupero delle somme corrispondenti alle agevolazioni fiscali non compatibili con la normativa comunitaria; sia nell'art. 3 Cost., data l'esigenza di ricondurre ad uguaglianza la posizione dei contribuenti e non potendo, di regola, i beneficiari invocare alcun legittimo affidamento sugli aiuti di Stato incompatibili con il mercato comune. In particolare, non sussiste violazione dei principi di capacità contributiva e di imparzialità e di buon andamento della Pubblica Amministrazione, poiché il prelievo fiscale costituisce un recupero dell'ammontare dell'esenzione fiscale indebitamente concessa e non è effetto di un'ulteriore imposta ad efficacia retroattiva; bensì comporta la sottoposizione ad imposta di redditi che all'epoca della loro formazione erano già imponibili. - Per l'accertamento dell'incompatibilità comunitaria degli aiuti di cui trattasi e dell'obbligo di recupero per lo Stato italiano, v., citate, decisione della Commissione CE n. 2003/193/CE 5 giugno 2002 e sentenza della Corte di giustizia CE 1° giugno 2006 in causa C-207/05. - Nel senso che i beneficiari delle agevolazioni hanno l'onere di diligenza di accertare il rispetto della procedura comunitaria prevista per la concessione degli aiuti di Stato e, in caso di inottemperanza, non possono vantare, di regola, alcun legittimo affidamento sugli aiuti incompatibili con l'ordinamento comunitario, v., citate, sentenze della Corte di giustizia CE 22 giugno 2006, in cause riunite C-182/03 e C-217/03; 15 dicembre 2005, in causa C-148/04; 1° aprile 2004, in causa C-99/02P; 7 marzo 2002, in causa C- 310/99; 20 marzo 1997, in causa C-24/95; nonché, sentenza della Corte di cassazione civile n. 4353 del 2003.
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
+- Costituzione, art. 53
+- Costituzione, art. 117, comma 1
+- decisione Commissione delle Comunita' europee, 05/06/2002 n. 193
+- sentenza Corte di Giustizia C.E., 01/06/2006
