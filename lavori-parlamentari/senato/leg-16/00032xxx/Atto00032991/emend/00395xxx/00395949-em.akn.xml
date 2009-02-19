@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1302/A/G100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1302/A/G100"/>
+					<an:FRBRdate date="2009-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1302/A/G100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@"/>
+					<an:FRBRdate date="2009-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@.akn"/>
+					<an:FRBRdate date="2009-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-02-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-02-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1302/A/G100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1302" showAs="DDL 1302"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23000" showAs="Marcenaro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1302</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Marcenaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in occasione del disegno di legge n. 1302 di ratifica dell'Accordo tra il Governo della Repubblica italiana e il Governo della Federazione russa sulla cooperazione nella lotta alla criminalità,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            negli ultimi anni una serie di delitti hanno colpito in Russia persone impegnate nel campo dei diritti civili e in particolare giornalisti e difensori dei diritti umani;</an:p>
+				<an:p align="justify">            il 7 ottobre 2006 è stata assassinata la giornalista del quotidiano "Novaia Gazeta" Anna Politkovskaya e che i suoi assassini e i loro mandanti non sono stati individuati e puniti;</an:p>
+				<an:p align="justify">            nella giornata del 19 gennaio 2009, nel centro di Mosca, sono stati uccisi l'avvocato Stanislav Markelov, il difensore della famiglia di Elsa Kungaeva, una ragazza cecena seviziata e uccisa dall'ex colonnello Yuri Budanov e Anastasia Baburova, collaboratrice dello stesso quotidiano di Anna Politkovskaya, a pochi passi dalla Cattedrale di Cristo Salvatore;</an:p>
+				<an:p align="justify">            gli assassini hanno potuto agire perché nessuna protezione era stata predisposta per le vittime, nonostante le gravi minacce di cui erano state oggetto,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            nel contesto delle relazioni fra Unione europea e Federazione russa, a manifestare l'auspicio che le autorità russe concludano sollecitamente e positivamente le indagini sui due gravi crimini, identificando i colpevoli e sottoponendoli a giudizio;</an:p>
+				<an:p align="justify">            a chiedere che vengano rafforzate le misure di protezione a favore delle persone che corrono analoghi rischi;</an:p>
+				<an:p align="justify">            a continuare a sollecitare l'Unione europea, sia nel quadro del futuro accordo di partenariato con la Federazione russa,, sia nel quadro del dialogo già in essere con quest'ultima in materia di diritti umani, a impegnarsi nella stessa direzione.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
