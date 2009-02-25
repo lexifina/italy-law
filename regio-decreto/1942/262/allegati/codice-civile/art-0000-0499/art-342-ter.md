@@ -1,14 +1,14 @@
 Art. 342-ter.
 
-(( (Contenuto degli ordini di protezione). ))
+(Contenuto degli ordini di protezione).
 
-((Con il decreto di cui all'articolo 342-bis il giudice ordina al coniuge o convivente, che ha tenuto la condotta pregiudizievole, la cessazione della stessa condotta e dispone l'allontanamento dalla casa familiare del coniuge o del convivente che ha tenuto la condotta pregiudizievole prescrivendogli altresi', ove occorra, di non avvicinarsi ai luoghi abitualmente frequentati dall'istante, ed in particolare al luogo di lavoro, al domicilio della famiglia d'origine, ovvero al domicilio di altri prossimi congiunti o di altre persone ed in prossimita' dei luoghi di istruzione dei figli della coppia, salvo che questi non debba frequentare i medesimi luoghi per esigenze di lavoro.
+Con il decreto di cui all'articolo 342-bis il giudice ordina al coniuge o convivente, che ha tenuto la condotta pregiudizievole, la cessazione della stessa condotta e dispone l'allontanamento dalla casa familiare del coniuge o del convivente che ha tenuto la condotta pregiudizievole prescrivendogli altresi', ove occorra, di non avvicinarsi ai luoghi abitualmente frequentati dall'istante, ed in particolare al luogo di lavoro, al domicilio della famiglia d'origine, ovvero al domicilio di altri prossimi congiunti o di altre persone ed in prossimita' dei luoghi di istruzione dei figli della coppia, salvo che questi non debba frequentare i medesimi luoghi per esigenze di lavoro.
 
 Il giudice puo' disporre, altresi', ove occorra l'intervento dei servizi sociali del territorio o di un centro di mediazione familiare, nonche' delle associazioni che abbiano come fine statutario il sostegno e l'accoglienza di donne e minori o di altri soggetti vittime di abusi e maltrattati; il pagamento periodico di un assegno a favore delle persone conviventi che, per effetto dei provvedimenti di cui al primo comma, rimangono prive di mezzi adeguati, fissando modalita' e termini di versamento e prescrivendo, se del caso, che la somma sia versata direttamente all'avente diritto dal datore di lavoro dell'obbligato, detraendola dalla retribuzione allo stesso spettante.
 
-Con il medesimo decreto il giudice, nei casi di cui ai precedenti commi, stabilisce la durata dell'ordine di protezione, che decorre dal giorno dell'avvenuta esecuzione dello stesso. Questa non puo' essere superiore a sei mesi e puo' essere prorogata, su istanza di parte, soltanto se ricorrano gravi motivi per il tempo strettamente necessario.
+Con il medesimo decreto il giudice, nei casi di cui ai precedenti commi, stabilisce la durata dell'ordine di protezione, che decorre dal giorno dell'avvenuta esecuzione dello stesso. Questa non puo' essere superiore a ((un anno)) e puo' essere prorogata, su istanza di parte, soltanto se ricorrano gravi motivi per il tempo strettamente necessario.
 
-Con il medesimo decreto il giudice determina le modalita' di attuazione. Ove sorgano difficolta' o contestazioni in ordine all'esecuzione, lo stesso giudice provvede con decreto ad emanare i provvedimenti piu' opportuni per l'attuazione, ivi compreso l'ausilio della forza pubblica e dell'ufficiale sanitario.))((132))
+Con il medesimo decreto il giudice determina le modalita' di attuazione. Ove sorgano difficolta' o contestazioni in ordine all'esecuzione, lo stesso giudice provvede con decreto ad emanare i provvedimenti piu' opportuni per l'attuazione, ivi compreso l'ausilio della forza pubblica e dell'ufficiale sanitario.(132)
 
 ----------------
 
