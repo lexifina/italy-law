@@ -1,0 +1,21 @@
+# Massima n. 33245
+
+- Pronuncia: Corte costituzionale, sentenza 76/2009 (ECLI:IT:COST:2009:76)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:76
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Turismo - Norme della legge finanziaria 2008 - Incentivazione dei flussi turistici e nascita di nuove imprese - Prevista adozione di regolamenti governativi "sentita" la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano - Ricorso della Regione Veneto - Intervento del legislatore statale giustificato dalla rilevanza nazionale delle iniziative considerate - Omessa previsione che i regolamenti siano preceduti dall'intesa, e non già dal mero parere, della Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e Bolzano - Illegittimità costituzionale  in parte qua .
+
+## Testo
+
+È costituzionalmente illegittimo l'art. 2, comma 194, della legge 24 dicembre 2007, n. 244, nella parte in cui stabilisce che i regolamenti da esso previsti siano adottati «sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano», invece che «d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e di Bolzano». Tale norma prevede che, per sostenere lo sviluppo del settore mediante la promozione di economie di scala ed il contenimento dei costi di gestione delle imprese ivi operanti, siano definite, con uno o più regolamenti da adottare ai sensi dell'art. 17, comma 2, della legge 23 agosto 1988, n. 400, sentita la Conferenza Stato-Regioni, le procedure acceleratorie e di semplificazione volte a favorire l'aumento dei flussi turistici e la nascita di nuove imprese del settore, nel rispetto delle competenze regionali. La disposizione, rientrando nella materia del turismo, appartiene alla competenza legislativa residuale delle Regioni, ai sensi dell'art. 117, quarto comma, Cost., ma l'esigenza di un esercizio unitario a livello statale di determinate funzioni amministrative, abilita lo Stato a disciplinare siffatto esercizio per legge, in quanto i princìpi di sussidiarietà e di adeguatezza possono giustificare una deroga al normale riparto di competenze contenuto nel Titolo V della Parte II della Costituzione, a condizione che la valutazione dell'interesse pubblico sottostante all'assunzione di funzioni regionali da parte dello Stato sia proporzionata, assistita da ragionevolezza alla stregua di uno scrutinio stretto di costituzionalità e rispettosa del principio di leale collaborazione con le Regioni. L'esigenza dell'esercizio unificato è giustificata, nella specie, dato che per realizzare economie di scala ed un contenimento dei costi di gestione delle imprese operanti nel settore, è necessaria la predisposizione di una disciplina, uniforme su tutto il territorio nazionale, di procedure acceleratorie e di semplificazione, diretta a ridurre gli adempimenti a carico delle imprese operanti nel settore e la durata dei procedimenti, nonché a consentire un miglior coordinamento dell'attività delle varie autorità pubbliche interessate. Ma poiché tale disciplina regolamentare è destinata ad incidere in maniera significativa sulle competenze delle Regioni in materia di turismo (in particolare introducendo procedure e termini che dovranno essere osservati anche dalle strutture amministrative regionali), la norma impugnata deve prevedere l'incisivo strumento di leale collaborazione con le Regioni rappresentato dall'intesa con la Conferenza Stato-Regioni. La disposizione censurata, quindi, laddove stabilisce che i regolamenti siano emanati «sentita la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano», prevede una modalità di collaborazione delle Regioni inidonea ad assicurare a queste ultime il ruolo che loro compete. In materia di turismo, v. le citate sentenze n. 94/2008, n. 214 e n. 90/2006. sentenze n. 88 del 2007 e n. 214 del 2006.
+
+## Norme
+
+- legge, 24/12/2007 n. 244, art. 2, comma 194
+
+## Parametri
+
+- Costituzione, art. 118, comma 1
