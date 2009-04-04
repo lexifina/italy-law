@@ -1,0 +1,11 @@
+ALLEGATO VI (previsto dall'articolo 3, comma 1)
+
+MODELLO DI REGISTRO DEI CERTIFICATI COMUNITARI PER LA NAVIGAZIONE INTERNA
+
+Autorita' competente/Commissione di ispezione..................
+
+Registro dei certificati per la navigazione interna
+
+Anno...........
+
+Parte di provvedimento in formato grafico

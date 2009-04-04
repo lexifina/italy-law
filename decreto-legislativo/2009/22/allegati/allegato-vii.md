@@ -1,0 +1,5 @@
+ALLEGATO VII (previsto dall'art. 2, comma 1, lettera c))
+
+ORGANISMI DI CLASSIFICAZIONE
+
+Parte di provvedimento in formato grafico
