@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7"/>
+					<an:FRBRdate date="2009-04-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5-bis.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@"/>
+					<an:FRBRdate date="2009-04-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@.akn"/>
+					<an:FRBRdate date="2009-04-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-04-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-04-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1503/C/5-bis.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1503" showAs="DDL 1503"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25197" showAs="Bugnano"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17211" showAs="Lannutti"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25294" showAs="De Toni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1503</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5-bis.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bugnano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Lannutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">De Toni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 5-</an:b>
+					<an:b>
+						<an:i>bis</an:i>
+					</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 5-
+						<an:i>ter.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">(Certificazione dei crediti dei fornitori delle pubbliche amministrazioni)</an:p>
+				<an:p>        1. Entro 60 giorni dalla richiesta di una impresa fornitrice la singola pubblica amministrazione deve certificare il credito vantato da tale impresa nei suoi confronti. L'importo minimo del credito per il quale si può richiedere tale certificazione è quello previsto dall'articolo 2, comma 9, del decreto legge 3 ottobre 2006, n. 262, convertito, con modificazioni, dalla legge 24 novembre 2006, n. 286.</an:p>
+				<an:p>        2. Qualora entro il termine di cui al comma 1 la certificazione non sia stata rilasciata la responsabilità pecuniaria è del funzionario responsabile del provvedimento.</an:p>
+				<an:p>
+					        3. Prima di rilasciare tale certificazione la pubblica amministrazione deve controllare, ai sensi dell'articolo 48-
+					<an:i>bis</an:i>
+					 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, se il richiedente è inadempiente all'obbligo di versamento derivante dalla notifica di una o più cartelle di pagamento e, in caso affermativo, non deve procedere alla certificazione. L'impresa richiedente la certificazione del proprio credito può ottenere, su richiesta, preventivamente e direttamente, una certificazione di regolarità che se prodotta all'atto della richiesta di cui al comma l esime la pubblica amministrazione interessata dal controllo di cui al presente comma.
+				</an:p>
+				<an:p>        4. La certificazione deve essere deliberata o dalla giunta dell'Ente locale, o dall'organo collegiale deliberativo.</an:p>
+				<an:p>        5. Con regolamento del Ministro dell'economia e delle finanze, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sono stabilite le modalità di attuazione delle disposizioni di cui al presente articolo».</an:p>
+				<an:p align="center">
+					<an:b>Art. 6</an:b>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
