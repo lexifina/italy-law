@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1505/A/G103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1505/A/G103"/>
+					<an:FRBRdate date="2009-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1505/A/G103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@"/>
+					<an:FRBRdate date="2009-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@.akn"/>
+					<an:FRBRdate date="2009-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1505/A/G103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1505" showAs="DDL 1505"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/5126" showAs="Latorre"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1505</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G103 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Latorre</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            un'efficace tutela delle persone offese da condotte di atti persecutori e violenza sessuale e la prevenzione di fenomeni di vittimizzazione secondaria, presuppongono necessariamente l'offerta, a tali soggetti, di un adeguato sostegno psicologico, laddove una reale prevenzione del fenomeno e la minimizzazione del rischio di recidiva impongono un'attività idonea a realizzare un effettivo re inserimento sociale e un recupero, talora anche sotto il profilo psicologico, dell'autore,</an:p>
+				<an:p align="justify">        impegna il Governo a promuovere con le Regioni l'istituzione presso le aziende sanitarie locali, nel rispetto della propria autonomia organizzativa, appositi servizi, opportunamente dislocati sul territorio, con i seguenti compiti:</an:p>
+				<an:p align="justify">
+					                
+					<an:i>a)</an:i>
+					 fornire sostegno psicologico alle vittime di atti persecutori;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>b)</an:i>
+					 avviare progetti di prevenzione e recupero degli autori dei medesimi atti anche attraverso l'attivazione di interventi integrati mediante il coinvolgimento di organizzazioni senza fini di lucro. Le aziende sanitarie locali devono provvedere a trasmettere periodicamente all'osservatorio di cui all'articolo 1, comma 1261, della legge 27 dicembre 2006, n. 296, dati ed informazioni relative ai casi trattati, nel rispetto della normativa vigente in materia di tutela dei dati personali, al fine di consentire il monitoraggio e l'analisi del fenomeno degli atti persecutori.
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+				<an:p>(**) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
