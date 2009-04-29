@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102"/>
+					<an:FRBRdate date="2009-04-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@"/>
+					<an:FRBRdate date="2009-04-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@.akn"/>
+					<an:FRBRdate date="2009-04-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-04-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-04-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1117-B/A/G2.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1117-B" showAs="DDL 1117-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17787" showAs="Stradiotto"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/25236" showAs="D'Ubaldo"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/22980" showAs="Incostante"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1117-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Stradiotto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">D'Ubaldo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Incostante</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            durante la discussione parlamentare del disegno di legge di delega al Governo in materia di federalismo fiscale sono state più volte richieste le stime quantitative relative agli effetti prodotti nella distribuzione delle risorse tra i territori;</an:p>
+				<an:p align="justify">            diversi istituti di studi economici hanno dichiarato, nel corso delle audizioni, che non è possibile conoscere l'effetto finale del provvedimento in mancanza della puntuale definizione dei costi e dei fabbisogni standard relativi ai diversi servizi, mentre è perfettamente possibile effettuare simulazioni sugli effetti prodotti dal provvedimento nella distribuzione territoriale delle fonti di finanziamento delle funzioni esercitate da regioni ed enti locali;</an:p>
+				<an:p align="justify">
+					            la Commissione parlamentare per l'attuazione del federalismo fiscale, di cui all'articolo 3 del disegno di legge, formula osservazioni e fornisce al Governo elementi di valutazione utili alla predisposizione dei decreti legislativi delegati «sulla base dell'attività conoscitiva svolta» 
+					<an:i>(articolo 3, comma 5, lettera c)</an:i>
+					;
+				</an:p>
+				<an:p align="justify">            l'articolo 2, comma 6 del disegno di legge prevede che «contestualmente all'adozione del primo schema di decreto legislativo, il Governo trasmette alle Camere, in allegato a tale schema, una relazione concernente il quadro generale di finanziamento degli enti territoriali ed ipotesi di definizione su base quantitativa della struttura fondamentale dei rapporti finanziari tra lo Stato, le regioni a statuto ordinario e a statuto speciale, le province autonome e gli enti locali, con l'indicazione delle possibili distribuzioni delle risorse»;</an:p>
+				<an:p align="justify">            il primo schema di decreto legislativo, contenente tale relazione in allegato, deve essere adottato entro dodici mesi dalla data di entrata in vigore della legge,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a trasmettere alla Commissione parlamentare per l'attuazione del federalismo fiscale, entro quattro mesi dalla data di entrata in vigore della legge, simulazioni circa gli effetti redistributivi tra regioni ed enti locali dei sistemi di fmanziamento e perequazione previsti dal disegno di legge, affinché essa possa efficacemente svolgere i compiti che le sono attribuiti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
