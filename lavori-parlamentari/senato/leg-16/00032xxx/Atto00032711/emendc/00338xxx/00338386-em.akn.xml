@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1195/C/2.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1195/C/2.12"/>
+					<an:FRBRdate date="2009-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1195/C/2.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@"/>
+					<an:FRBRdate date="2009-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@.akn"/>
+					<an:FRBRdate date="2009-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1195/C/2.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1195" showAs="DDL 1195"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Industria, commercio, turismo" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/739" showAs="Cursi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25205" showAs="Messina"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1195</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Cursi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Messina</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>All'articolo 2, sostituire il comma 10 con il seguente:</an:p>
+				<an:p>        «10. All'attuazione dei seguenti accordi di programma, eventualmente integrati ai fini della coerenza con le disposizioni di cui al presente articolo, si provvede a valere sulle risorse finanziarie disponibili presso l'Agenzia: accordo di programma sottoscritto il 1º aprile 2008 tra il Ministero dello Sviluppo Economico, il Ministero del Lavoro, della Salute e delle Politiche Sociali, la regione Puglia, la provincia di Lecce, il Comune di Casarano, Confindustria Lecce e l'Agenzia Nazionale per l'Attrazione degli Investimenti e lo Sviluppo d'Impresa, per l'attuazione coordinata dell'intervento nell'area di crisi industriale ad elevata specializzazione nel settore Tessile-Abbigliamento-Calzaturiero, del PIT n. 9, territorio Salentino-Leccese, nella misura di 5 milioni di euro alla regione Puglia; accordo di programma sottoscritto il 26 luglio 2006 tra il Ministero dello sviluppo economico, la regione Sardegna, il Consorzio ASI di Ottana e la società Nuoro Servizi Srl, per il riordino delle infrastrutture e dei servizi nell'area di crisi di Ottana, nella misura di 5 milioni di euro alla regione Sardegna; accordo di programma per la crisi industriale in Riva presso Chieri, sottoscritto il 10 luglio 2005 tra il medesimo Ministero, la regione Piemonte, le province di Torino e di Asti, i comuni di Riva presso Chieri e di Chieri, nella misura di 4 milioni di euro alla regione Piemonte; accordo di programma per la crisi industriale nell'area di crisi di Acerra, nella misura di 6 milioni di euro alla regione Campania per gli interventi integrativi, anche infrastrutturali, nell'ambito dell'iniziativa di reindustrializzazione di cui all'articolo 11, comma 8, del decreto-legge 14 marzo 2005, n. 35, convertito, con modificazioni, dalla legge 14 maggio 2005, n. 80, a sostegno degli investimenti di piccole e medie imprese che si insediano nelle aree o distretti industriali resi disponibili dalla dismissione delle imprese in crisi».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
