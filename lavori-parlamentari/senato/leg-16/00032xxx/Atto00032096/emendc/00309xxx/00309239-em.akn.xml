@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/949/26/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@.akn"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/C/G/949/26/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/23000" showAs="Marcenaro"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/3949" showAs="Cabras"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/4427" showAs="Follini"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22754" showAs="Livi Bacci"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25296" showAs="Marinaro"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/1471" showAs="Marini"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22790" showAs="Micheloni"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/949/26/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Marcenaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Cabras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Follini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Livi Bacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Marinaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Marini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Micheloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato ,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 60, comma 11, del decreto in esame prevede una riduzione dell'autorizzazione di spesa di cui alla legge 26 febbraio 1981, n. 7 e alla legge 26 febbraio 1987, n. 49 relative all'aiuto pubblico ai paesi in via di sviluppo pari a 170 milioni di euro annui a partire dall'anno 2009, una misura che allontana il nostro paese dagli obiettivi concordati a livello internazionale del raggiungimento di un ammontare di risorse pari allo 0,51 per cento del PIL entro il 2010 e che pregiudica in modo quasi definitivo la possibilità di allinearsi agli altri partner occidentali;</an:p>
+				<an:p>
+					            tale misura va ad aggiungersi a quella già disposta dal decreto legge 27 maggio 2008, n. 93, recante disposizioni urgenti per salvaguardare il potere di acquisto delle famiglie, recentemente convertito in legge, che ha all'art. 5, comma 7, lett. 
+					<an:i>d)</an:i>
+					 aveva previsto una copertura di 985,8 milioni di euro a decorrere dall'anno 2010, mediante riduzione lineare del 6,78 per cento degli stanziamenti di parte corrente relativi alle autorizzazioni di spesa come determinate dalla tabella C della legge 24 dicembre 2007, n.244, aggravando in modo in sostenibile la situazione complessiva dei fondi destinati alla cooperazione ai paesi in via di sviluppo e rischiando di compromettere molti dei progetti già avviati o in corso di approvazione;
+				</an:p>
+				<an:p>            nonostante i ripetuti tagli alle risorse destinate alla cooperazione allo sviluppo, nei diversi provvedimenti di recente approvati o in corso di approvazione, in seno all'ultimo vertice del G8 tenutosi a Toyako il Presidente del Consiglio ha dichiarato di avere già impegnato un miliardo di dollari per gli aiuti a favore dell'Africa, senza però specificare né quando né con quale provvedimento;</an:p>
+				<an:p>        il precedente Ministro degli esteri dopo aver rilanciato la cooperazione come parte centrale della politica estera del nostro paese, aveva varato nel 2007 un piano di incremento degli aiuti tale da consentire, se confermato dall'attuale esecutivo, il raggiungimento dell'obiettivo fissato in sede di Unione europea dello 0,51 del PIL entro il 2015; mentre i tagli previsti, in decisa controtendenza, appaiono particolarmente dannosi per l'immagine dell'Italia all'estero, che risulterebbe nuovamente ridimensionata dal rinnovato mancato rispetto degli impegni internazionali, anche in considerazione della Presidenza italiana del G8 che, tra pochi mesi e per tutto il 2009, coordinerà il tavolo dei paesi più industrializzati e di quelli emergenti sui temi dello sviluppo e della sostenibilità.</an:p>
+				<an:p>        impegna il governo,</an:p>
+				<an:p>            a ripristinare nel più breve tempo possibile, e comunque non oltre l'assunzione italiana della Presidenza del G8, le risorse tagliate con la disposizione in esame, anche valutando un possibile ulteriore incremento tale da garantire il pieno rispetto di tutti gli impegni internazionali assunti dall'Italia e, in particolare, il raggiungimento dell'obiettivo dello 0,51 per cento del PIL entro il 2015 come concordato in sede di Unione europea.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
