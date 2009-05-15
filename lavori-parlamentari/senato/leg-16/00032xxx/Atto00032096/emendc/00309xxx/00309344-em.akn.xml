@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/949/130/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@.akn"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/C/G/949/130/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25212" showAs="Mauro"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22945" showAs="Filippi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25217" showAs="Vaccari"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22874" showAs="Bodega"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/25218" showAs="Vallardi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/949/130/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Mauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Bodega</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Vallardi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato ,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il calo dei consumi, la perdita del potere d'acquisto di stipendi e pensioni, che sono in diminuzione, l'incremento del costo del denaro e il caro prezzi sono soltanto alcuni degli effetti davanti ai quali si trova oggi il nostro Paese;</an:p>
+				<an:p>            l'Ocse parla di un rallentamento della crescita economica, la Cgia lancia l'allarme sulle tariffe del servizio pubblico, ma gli stipendi rimangono sempre gli stessi, ovvero, il loro potere di acquisto è fortemente diminuito;</an:p>
+				<an:p>            una condizione del genere non fa altro che frenare lo sviluppo del Paese e mettere in seria difficoltà le famiglie e i giovani che vorrebbero creare una famiglia, ma che non hanno sufficienti certezze economiche per accedere ai mutui per l'acquisto di una casa;</an:p>
+				<an:p>            l'Italia è in un momento di congiuntura economica internazionale molto negativa che non sembra dare segni di inversione di tendenza;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            per sostenere le riforme che si vogliono intraprendere, non si può prescindere da una complessiva rivisitazione del sistema di contrattazione ed anche da un ridisegno delle buste paga;</an:p>
+				<an:p>            si deve adeguare la nostra contrattazione in senso regionale per adeguare le retribuzioni dei lavoratori al reale costo della vita del territorio in cui risiedono.</an:p>
+				<an:p>        Impegna il Governo:</an:p>
+				<an:p>            a decorrere dall'anno 2009, in sede di contrattazione integrativa delle Amministrazioni statali, a commisurare le retribuzioni dei pubblici dipendenti anche al costo medio della vita nelle Province in cui i dipendenti svolgono la loro attività lavorativa, facendo in modo che vi sia un adeguamento proporzionale ove l'indice del costo medio della vita in quella provincia sia differente rispetto a quello medio nazionale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
