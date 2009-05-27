@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000"/>
+					<an:FRBRdate date="2009-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="14.0.6000"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@"/>
+					<an:FRBRdate date="2009-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@.akn"/>
+					<an:FRBRdate date="2009-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1534/A/14.0.6000/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1534" showAs="DDL 1534"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1471" showAs="Marini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/991" showAs="Finocchiaro"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/20658" showAs="Zanda"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/5126" showAs="Latorre"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25200" showAs="Della Seta"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/1538" showAs="Mazzuconi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1534</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 14.0.6000</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Marini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Finocchiaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Zanda</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Latorre</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Della Seta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Mazzuconi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 14</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 14-
+					<an:i>bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Interventi sui beni culturali e immobili di con vincolo storico architettonico)</an:i>
+				</an:p>
+				<an:p align="justify">        1. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, il Commissario delegato di cui all'articolo 1, con la collaborazione del Gruppo nazionale per la difesa dai terremoti del Consiglio nazionale delle ricerche, di tecnici della regione Abruzzo e degli enti locali e, ove occorra, dei Vigili del fuoco, completa il rilevamento analitico dei danni causati dalla crisi sismica al patrimonio culturale.</an:p>
+				<an:p align="justify">        2. Sulla base dei dati di cui al comma 1, la regione Abruzzo, d'intesa con il commissario delegato, sentiti i comuni interessati, predispone un piano di interventi di ripristino, recupero e restauro del patrimonio culturale danneggiato dalla crisi sismica. Predispone, altresì, un piano finanziario nei limiti delle risorse destinate allo scopo ai sensi del comma 5 e di contributi di privati e di enti pubblici. Gli interventi riguardano anche gli immobili con vincolo storico architettonico di proprietà di privati ubicati nei centri storici. Nel piano sono individuati i soggetti pubblici o privati attuatori degli interventi, che di norma sono i soggetti proprietari, e sono ricompresi gli interventi urgenti disposti dagli enti locali.</an:p>
+				<an:p align="justify">        3. Il soprintendente per i beni architettonici, ambientali artistici e storici dell'Abruzzo è autorizzato ad aprire un conto corrente bancario presso istituti di credito ove far affluire contributi di enti e di privati destinati al restauro beni culturali danneggiati dal sisma. L'istituto bancario provvede, non oltre i cinque giorni dalla riscossione, al versamento delle relative somme alla sezione di tesoreria provinciale dello Stato per essere riassegnate alle pertinenti unità previsionali di base dello stato di previsione del Ministero per i beni culturali e ambientali ed essere poste a disposizione della competente soprintendenza.</an:p>
+				<an:p align="justify">        4. Ai fini del presente articolo e per permettere l'avvio della ricostruzione del patrimonio culturale danneggiato dalla crisi sismica del 6 aprile 2009, è stanziato 1 miliardo di euro a valere sulle risorse di cui all'articolo 14, comma 1.</an:p>
+				<an:p align="justify">        5. Una quota non inferiore a 500 milioni di euro è destinata alla concessione di contributi a fondo perduto, in misura pari all'importo occorrente per la ricostruzione o la riparazione di immobili di proprietà di privati con vincolo storico architettonico ubicati nei centri storici, distrutti, dichiarati inagibili o danneggiati dal sisma del 6 aprile 2009. Il contributo è determinato in ogni caso in modo tale da coprire integralmente le spese occorrenti per le riparazioni o la ricostruzione».</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, all'articolo 14, comma 1, sostituire le parole:</an:i>
+					 «2.000 milioni e non superiore a 4.000 milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «3.000 milioni e nei limiti della disponibilità del fondo» 
+					<an:i>e sostituire le parole da:</an:i>
+					 «a 400 milioni di euro a valere sulle risorse» 
+					<an:i>con le seguenti:</an:i>
+					 «alla disponibilità».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
