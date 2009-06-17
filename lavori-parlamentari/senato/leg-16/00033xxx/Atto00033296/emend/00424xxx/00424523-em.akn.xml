@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1397/A/10.0.100"/>
+					<an:FRBRdate date="2009-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@"/>
+					<an:FRBRdate date="2009-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@.akn"/>
+					<an:FRBRdate date="2009-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1397/A/10.0.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1397" showAs="DDL 1397"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1641" showAs="Morando"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23020" showAs="Musi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17787" showAs="Stradiotto"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1397</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Morando</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Musi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Stradiotto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Patto di stabilità)</an:i>
+				</an:p>
+				<an:p align="justify">
+					        1. Ai fini dell'attuazione dell'articolo 10, comma 3, lettera 
+					<an:i>i)</an:i>
+					, risulta definito il quadro di riferimento normativo per il Patto di stabilità interno con caratteristiche di stabilità, coerenza, conformità ai parametri europei e rispetto dell'autonomia gestionale degli enti.
+				</an:p>
+				<an:p align="justify">        2. Il Patto di stabilità interno di cui al comma 1, a fronte degli obiettivi nazionali indica l'obiettivo complessivo a livello di settore articolato per Regioni, Province e Comuni. In sede di Conferenza Unificata è individuato il percorso che stabilisce il collegamento  tra gli obiettivi aggregati fissati nell'ambito della Decisione quadro di finanza pubblica e le regole previste per il singolo ente in ragione della categoria di appartenenza.</an:p>
+				<an:p align="justify">        3. Le decisioni relative all'indebitamento per Regioni, Province e Comuni sono coerenti con la programmazione nazionale della spesa  in conto capitale. A questo fine, in sede di Conferenza Unificata si individua la quota di indebitamento delle Amministrazioni locali e successivamente  per il complesso delle Regioni, delle Province e dei Comuni, in coerenza con l'obiettivo aggregato individuato per l'intera pubblica amministrazione.</an:p>
+				<an:p align="justify">        4. La procedura di ripartizione della quota di indebitamento all'interno dei singoli comparti, Regioni, Province, Comuni, avviene mediante assegnazione a ciascun ente di una quota di indebitamento con previsione della facoltà, per l'ente, di scambiare tale quota al fine di ottimizzare la distribuzione territoriale e temporale della spesa in conto capitale nell'ambito dei vincoli nazionali».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
