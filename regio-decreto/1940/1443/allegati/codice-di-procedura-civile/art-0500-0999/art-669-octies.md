@@ -2,17 +2,9 @@ Art. 669-octies.
 
 (Provvedimento di accoglimento)
 
-L'ordinanza di accoglimento, ove la domanda sia stata proposta prima dell'inizio della causa di merito, deve fissare un termine perentorio non superiore a ((sessanta giorni)) per l'inizio del giudizio di merito, salva l'applicazione dell'ultimo comma dell'articolo 669 novies. ((113a))
+L'ordinanza di accoglimento, ove la domanda sia stata proposta prima dell'inizio della causa di merito, deve fissare un termine perentorio non superiore a sessanta giorni per l'inizio del giudizio di merito, salva l'applicazione dell'ultimo comma dell'articolo 669 novies. (113a) (115) (116)
 
-((115))
-
-((116))
-
-In mancanza di fissazione del termine da parte del giudice, la causa di merito deve essere iniziata entro il termine perentorio di ((sessanta giorni)).((113a))
-
-((115))
-
-((116))
+In mancanza di fissazione del termine da parte del giudice, la causa di merito deve essere iniziata entro il termine perentorio di sessanta giorni. (113a) (115) (116)
 
 Il termine decorre dalla pronuncia dell'ordinanza se avvenuta in udienza o altrimenti dalla sua comunicazione.
 
@@ -20,27 +12,13 @@ Per le controversie individuali relative ai rapporti di lavoro alle dipendenze d
 
 Nel caso in cui la controversia sia oggetto di compromesso o di clausola compromissoria, la parte, nei termini di cui ai commi precedenti, deve notificare all'altra un atto nel quale dichiara la propria intenzione di promuovere il procedimento arbitrale, propone la domanda e procede, per quanto le spetta, alla nomina degli arbitri.
 
-((Le disposizioni di cui al presente articolo e al primo comma dell'articolo 669-novies non si applicano ai provvedimenti di urgenza emessi ai sensi dell'articolo 700 e agli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito, previsti dal codice civile o da leggi speciali, nonche' ai provvedimenti emessi a seguito di denunzia di nuova opera o di danno temuto ai sensi dell'articolo 688, ma ciascuna parte puo' iniziare il giudizio di merito.))
+Le disposizioni di cui al presente articolo e al primo comma dell'articolo 669-novies non si applicano ai provvedimenti di urgenza emessi ai sensi dell'articolo 700 e agli altri provvedimenti cautelari idonei ad anticipare gli effetti della sentenza di merito, previsti dal codice civile o da leggi speciali, nonche' ai provvedimenti emessi a seguito di denunzia di nuova opera o di danno temuto ai sensi dell'articolo 688, ma ciascuna parte puo' iniziare il giudizio di merito. (113a) (115) (116)
 
-((113a))
+((Il giudice, quando emette uno dei provvedimenti di cui al sesto comma prima dell'inizio della causa di merito, provvede sulle spese del procedimento cautelare)).
 
-((115))
+L'estinzione del giudizio di merito non determina l'inefficacia dei provvedimenti di cui al ((sesto comma)), anche quando la relativa domanda e' stata proposta in corso di causa. (113a) (115) (116)
 
-((116))
-
-((L'estinzione del giudizio di merito non determina l'inefficacia dei provvedimenti di cui al primo comma, anche quando la relativa domanda e' stata proposta in corso di causa.))
-
-((113a))
-
-((115))
-
-((116))
-
-((L'autorita' del provvedimento cautelare non e' invocabile in un diverso processo)). ((113a))
-
-((115))
-
-((116))
+L'autorita' del provvedimento cautelare non e' invocabile in un diverso processo. (113a) (115) (116)
 
 (67) (72)
 

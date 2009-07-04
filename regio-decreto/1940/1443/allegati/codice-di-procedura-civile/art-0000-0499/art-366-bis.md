@@ -1,7 +1,3 @@
 Art. 366-bis
 
-(( (Formulazione dei motivi). ))
-
-((Nei casi previsti dall'articolo 360, primo comma, numeri 1), 2), 3) e 4), l'illustrazione di ciascun motivo si deve concludere, a pena di inammissibilita', con la formulazione di un quesito di diritto.
-
-Nel caso previsto dall'articolo 360, primo comma, n. 5), l'illustrazione di ciascun motivo deve contenere, a pena di inammissibilita', la chiara indicazione del fatto controverso in relazione al quale la motivazione si assume omessa o contraddittoria, ovvero le ragioni per le quali la dedotta insufficienza della motivazione la rende inidonea a giustificare la decisione.))
+((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))

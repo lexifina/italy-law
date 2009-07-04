@@ -1,29 +1,3 @@
 Art. 184-bis.
 
-(Rimessione in termini).
-
-((La parte che dimostra di essere incorsa in decadenze per causa ad essa non imputabile puo' chiedere al giudice istruttore di essere rimessa in termini.))
-
-Il giudice provvede a norma dell'articolo 294, secondo e terzo comma.
-
-(67) (72)
-
---------------------
-
-AGGIORNAMENTO (67)
-
-La L. 26 novembre 1990, n. 353, come modificata dalla L. 4 dicembre 1992, n. 477, ha disposto:
-
-- (con l'art. 92, comma 1) che "Fatta eccezione per la disposizione di cui all'articolo 1, la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 2 gennaio 1994, le disposizioni anteriormente vigenti.";
-
-- (con l'art. 92, comma 2) che "Le disposizioni di cui agli articoli 3; 4; da 7 a 15; da 17 a 19; da 22 a 32; da 36 a 47; da 50 a 58; 70; 73; da 78 a 83 e 88 hanno efficacia a partire dal 2 gennaio 1994."
-
---------------------
-
-AGGIORNAMENTO (72)
-
-La L. 26 novembre 1990, n. 353, come modificata dal D.L. 7 ottobre 1994, n. 571, convertito con modificazioni dalla L. 6 dicembre 1994, n. 673, ha disposto:
-
-- (con l'art. 92, comma 1) che "Fatta eccezione per la disposizione di cui all'articolo 1, la presente legge entra in vigore il 1 gennaio 1993. Ai giudizi pendenti a tale data si applicano, fino al 30 aprile 1995, le disposizioni anteriormente vigenti.";
-
-- (con l'art. 92, comma 2) che "Le disposizioni di cui agli articoli 3; 4; da 7 a 15; da 17 a 19; da 22 a 32; da 36 a 47; da 50 a 58; 70; 73; da 78 a 83 e 88 hanno efficacia a partire dal 30 aprile 1995."
+((ARTICOLO ABROGATO DALLA L. 18 GIUGNO 2009, N. 69))

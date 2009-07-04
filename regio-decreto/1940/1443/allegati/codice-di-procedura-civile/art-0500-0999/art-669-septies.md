@@ -6,7 +6,9 @@ L'ordinanza di incompetenza non preclude la riproposizione della domanda. L'ordi
 
 Se l'ordinanza di incompetenza o di rigetto e' pronunciata prima dell'inizio della causa di merito, con essa il giudice provvede definitivamente sulle spese del procedimento cautelare.
 
-La condanna alle spese e' immediatamente esecutiva ed e' opponibile ai sensi degli articoli 645 e seguenti in quanto applicabili, nel termine perentorio di venti giorni dalla pronuncia dell'ordinanza se avvenuta in udienza o altrimenti dalla sua comunicazione. (67) ((72))
+((La condanna alle spese e' immediatamente esecutiva)).
+
+(67) (72)
 
 ---------------
 
