@@ -1,0 +1,25 @@
+# Massima n. 33559
+
+- Pronuncia: Corte costituzionale, sentenza 207/2009 (ECLI:IT:COST:2009:207)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:207
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Procedimento civile - Revocazione dei provvedimenti della Corte di cassazione - Esperibilità del rimedio della revocazione per errore di fatto, ex art. 395, primo comma, numero 4), cod. proc. civ., per le ordinanze pronunciate ai sensi dell'art. 375, primo comma, numero 1), cod. proc. civ. - Omessa previsione - Irragionevole disparità di trattamento rispetto a provvedimenti della Corte di Cassazione in relazione ai quali il suddetto errore può riscontrarsi e violazione del diritto di difesa - Illegittimità costituzionale  in parte qua  - Assorbimento degli ulteriori profili.
+
+## Testo
+
+È costituzionalmente illegittimo, per contrasto con gli artt. 3 e 24 Cost., l'art. 391- bis , primo comma, cod. proc. civ., come modificato dall'art. 16 del d.lgs. 2 febbraio 2006, n. 40, nella parte in cui non prevede la esperibilità del rimedio della revocazione per errore di fatto, ai sensi dell'art. 395, primo comma, numero 4), cod. proc. civ., per le ordinanze pronunciate dalla Corte di cassazione a norma dell'art. 375, primo comma, numero 1), dello stesso codice. Come già reiteratamente affermato, il diritto di difesa risulterebbe gravemente offeso se l'errore di fatto non fosse suscettibile di emenda per essere stato commesso dal giudice cui spetta il potere-dovere di nomofilachia, e ciò vale tanto nel caso in cui la Corte sia incorsa in errore nel controllo di atti del processo  a quo , quanto nell'ipotesi in cui ciò sia avvenuto nella lettura di atti interni al suo giudizio. Se non fosse possibile porre rimedio all'errore "percettivo", dal quale sia derivata, come nella specie, l'indebita declaratoria di inammissibilità del ricorso, si verificherebbe un automatico e palese contrasto con l'art. 3 e con l'art. 24 Cost., sotto lo specifico aspetto di assicurare la effettività del giudizio di cassazione: quest'ultimo parametro, anzi, deve essere letto anche nella prospettiva della garanzia specifica approntata dall'art. 111, settimo comma, Cost., in tema di controllo di legalità riservato alla Suprema Corte avverso tutte le sentenze. Restano assorbiti gli ulteriori profili di censura dedotti. -V. i precedenti specifici citati, sentenze n. 395/2000, n. 36/1991 e n. 17/1986.
+
+## Norme
+
+- codice di procedura civile, art. 391 bis, comma 1
+- decreto legislativo, 02/02/2006 n. 40, art. 16
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 77
+- legge, 14/05/2005 n. 80
