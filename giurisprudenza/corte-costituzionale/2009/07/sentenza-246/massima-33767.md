@@ -1,0 +1,24 @@
+# Massima n. 33767
+
+- Pronuncia: Corte costituzionale, sentenza 246/2009 (ECLI:IT:COST:2009:246)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:246
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Codice dell'ambiente emanato in attuazione della legge delega 15 dicembre 2004, n. 308 - Tutela dei corpi idrici - Gestione delle risorse idriche - Partecipazione obbligatoria all'Autorità d'ambito di tutti gli enti locali - Adesione alla gestione unica del servizio idrico integrato facoltativo per i comuni con popolazione fino a 1.000 abitanti inclusi nel territorio delle comunità montane, a condizione che la gestione del servizio idrico sia operato direttamente dalla amministrazione comunale ovvero tramite una società a capitale interamente pubblico e controllata dallo stesso Comune - Funzioni di regolazione generale e di controllo sulle gestioni esercitate dall'Autorità d'ambito - Criteri e modalità per l'eventuale partecipazione ad iniziative promosse dall'Autorità d'ambito definiti con apposito contratto di servizio stipulato con l'Autorità medesima, previo accordo di programma - Ricorso delle Regioni Piemonte, Umbria, Liguria, Calabria, Toscana - Asserita incidenza sulla materia, di potestà legislativa residuale dei "servizi pubblici locali"; incidenza sulle potestà legislative regionali per il contenuto di estremo dettaglio delle disposizioni censurate - Asserita esorbitanza dai principi dettati dalla legge di delega - Esclusione - Non fondatezza delle questioni.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 148, comma 5, del d.lgs. 3 aprile 2006, n. 152. La disposizione censurata, infatti, attiene alla tutela dell'ambiente, con prevalenza rispetto alla materia dei servizi pubblici locali, perché giustifica la possibilità di deroghe all'unicità della gestione del servizio sul piano soggettivo, in ragione dell'elemento tipicamente ambientale costituito dalla peculiarità idrica delle zone comprese nei territori delle comunità montane. Se infatti le modalità dell'organizzazione del servizio idrico, nelle loro linee generali, sono riconducibili alla materia della tutela dell'ambiente, di competenza legislativa esclusiva dello Stato, rientra in tale competenza anche stabilire le condizioni in presenza delle quali i Comuni minori appartenenti alle comunità montane possono non partecipare alla gestione unica del servizio idrico integrato, e cioè che la gestione del servizio sia operata direttamente da parte dell'amministrazione comunale ovvero tramite una società a capitale interamente pubblico controllata dallo stesso Comune. Neppure ha fondamento la asserita violazione dell'art. 76 Cost. stante il carattere innovativo della disposizione rispetto alla legge n. 36 del 1994. Infatti, tanto il comma 5 dell'art. 148 quanto la legge n. 36 del 1994, richiamata dall'art. 8, comma 1, lettera  b ), della legge di delegazione, fissano il principio del «superamento della frammentazione delle gestioni», con la differenza che solo la disposizione censurata indica il criterio dell'«unicità della gestione», quale modalità preferenziale di attuazione di tale «superamento». La norma denunciata, quindi, costituisce attuazione del principio del «superamento della frammentazione delle gestioni» stabilito dalla legge n. 36 del 1994, che può realizzarsi, indifferentemente, sia con l'«unitarietà» delle gestioni, sia con l'«unicità» prevista dalla norma censurata. E ciò, a prescindere dalla considerazione che - anche a voler ritenere che la norma censurata abbia carattere innovativo - la delega legislativa avrebbe comunque consentito l'innovazione al fine della razionalizzazione della disciplina. Infatti, all'art. 1, comma 1, la delega prevede che il legislatore delegato provveda al «riordino, coordinamento e integrazione delle disposizioni legislative anche mediante la redazione di testi unici», in quanto non è dubbio che l'uso dei termini «riordino» e «integrazione» sia sufficiente a consentire interventi innovativi del legislatore, quali quelli censurati dalla ricorrente. Infine, in relazione agli artt. 117 e 118 Cost., non sussiste l'invocata competenza regionale, ma l'esclusiva competenza statale in materia di tutela dell'ambiente, con la conseguenza che il legislatore statale è legittimato ad allocare le competenze amministrative. Sulla legittimità di interventi innovativi in sede di redazione di testi unici v. citate sentenze n. 308/2002, n. 198/1998, n. 4/1992.
+
+## Norme
+
+- decreto legislativo, 03/04/2006 n. 152, art. 148, comma 5
+
+## Parametri
+
+- Costituzione, art. 76
+- Costituzione, art. 117
+- Costituzione, art. 117, comma 4
+- Costituzione, art. 118
