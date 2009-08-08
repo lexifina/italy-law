@@ -1,8 +1,8 @@
 Art. 609-ter.
 
-(( (Circostanze aggravanti).))
+(Circostanze aggravanti).
 
-((La pena e' della reclusione da sei a dodici anni se i fatti di cui all'articolo 609- bis sono commessi:
+La pena e' della reclusione da sei a dodici anni se i fatti di cui all'articolo 609- bis sono commessi:
 
 1) nei confronti di persona che non ha compiuto gli anni quattordici;
 
@@ -12,6 +12,8 @@ Art. 609-ter.
 
 4) su persona comunque sottoposta a limitazioni della liberta' personale;
 
-5) nei confronti di persona che non ha compiuto gli anni sedici della quale il colpevole sia l'ascendente, il genitore anche adottivo, il tutore.
+5) nei confronti di persona che non ha compiuto gli anni sedici della quale il colpevole sia l'ascendente, il genitore anche adottivo, il tutore;
 
-La pena e' della reclusione da sette a quattordici anni se il fatto e' commesso nei confronti di persona che non ha compiuto gli anni dieci)).
+((5-bis) all'interno o nelle immediate vicinanze di istituto d'istruzione o di formazione frequentato dalla persona offesa)).
+
+La pena e' della reclusione da sette a quattordici anni se il fatto e' commesso nei confronti di persona che non ha compiuto gli anni dieci.
