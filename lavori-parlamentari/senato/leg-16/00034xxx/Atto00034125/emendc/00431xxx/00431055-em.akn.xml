@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1749/C/1.70/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1749/C/1.70"/>
+					<an:FRBRdate date="2009-09-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1749/C/1.70/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.70"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@"/>
+					<an:FRBRdate date="2009-09-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@.akn"/>
+					<an:FRBRdate date="2009-09-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-09-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-09-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1749/C/1.70/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1749" showAs="DDL 1749"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 5° e 6° riunite" href="/dati.senato.it/osr/Commissione/69"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/991" showAs="Finocchiaro"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/1471" showAs="Marini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22790" showAs="Micheloni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1749</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.70</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Finocchiaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Marini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Micheloni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo la lettera</an:i>
+					 c)
+					<an:i>, aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «c-
+					<an:i>bis</an:i>
+					) all'articolo 25 sostituire i commi 2 e 3 con i seguenti:
+				</an:p>
+				<an:p>        ''2. La sospensione della riscossione dei tributi disposta dall'articolo 1 dell'ordinanza del Presidente del Consiglio dei Ministri n. 3780 del 6 giugno 2009 e dei contributi previdenziali ed assistenziali e dei premi per l'assicurazione obbligatoria contro gli infortuni e le malattie professionali di cui all'articolo 2, comma 1, dell'ordinanza del Presidente del Consiglio dei ministri n. 3754 del 9 aprile 2009 è prorogata al 1º giugno 2010.</an:p>
+				<an:p>        3. La ripresa della riscossione dei tributi non versati per effetto della sospensione disposta dall'articolo 1 dell'ordinanza del Presidente del Consiglio dei ministri n. 3780 del 6 giugno 2009, avviene, senza l'applicazione di sanzioni ed interessi, mediante la corresponsione di un ammontare pari al 40 per cento degli importi dovuti da versare in 120 rate mensili di pari importo a decorrere dal mese di gennaio 2014. Gli adempimenti tributari, diversi dai versamenti, non eseguiti per effetto della predetta sospensione sono effettuati entro il mese di marzo 2014. Le modalità per l'effettuazione dei versamenti e degli adempimenti non eseguiti per effetto della citata sospensione sono stabilite con provvedimento del direttore dell'Agenzia delle entrate.</an:p>
+				<an:p>
+					        3-
+					<an:i>bis</an:i>
+					. La riscossione dei contributi previdenziali ed assistenziali e dei premi per l'assicurazione obbligatoria contro gli infortuni e le malattie professionali non versati per effetto della sospensione di cui all'articolo 2, comma l, dell'ordinanza del Presidente del Consiglio dei Ministri n. 3754 del 9 aprile 2009 avviene, senza applicazione di oneri accessori, mediante la corresponsione di un ammontare pari al 40 per cento degli importi dovuti da versare in 120 rate mensili di pari importo a decorrere dal mese di gennaio 2014.
+				</an:p>
+				<an:p>
+					        3-
+					<an:i>ter</an:i>
+					. Agli oneri di cui ai commi 2, 3 e 3-
+					<an:i>bis</an:i>
+					, pari a 513 milioni di euro per ciascuno degli anni 2009, 2010 e 2011, si provvede a valere sulle risorse complessivamente assegnate al Fondo strategico per il Paese a sostegno dell'economia reale di cui all'articolo 18, comma 1, lettera b-
+					<an:i>bis</an:i>
+					), del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
