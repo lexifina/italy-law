@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1791/A/G12.106/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1791/A/G12.106"/>
+					<an:FRBRdate date="2009-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1791/A/G12.106/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G12.106"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@"/>
+					<an:FRBRdate date="2009-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@.akn"/>
+					<an:FRBRdate date="2009-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-11-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-11-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1791/A/G12.106/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1791" showAs="DDL 1791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G12.106</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            nel corso dell'esame del disegno di legge n. 1791,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            nell'ambito della legge finanziaria 2010, non sono previste risorse per il 2010 ne la copertura per il pregresso 2008-2009, sul capitolo di spesa del Ministero delle politiche agricole, alimentari e forestali relativo ai contributi per la spesa assicurativa in agricoltura (Fondo di solidarietà nazionale);</an:p>
+				<an:p align="justify">            il sistema delle assicurazioni agevolate opera da lunghissimi anni, e ormai non più soltanto per la garanzia delle colture, ma copre, altresì, il settore zootecnico e quello delle coltivazioni protette. Esso interessa oltre 200.000 aziende agricole italiane per le quali il ricorso all'assicurazione agevolata rappresenta un'importante garanzia di stabilità;</an:p>
+				<an:p align="justify">
+					            la mancata previsione di fondi non comporterebbe peraltro un reale sollievo per il bilancio pubblico. Se, infatti, non dovesse essere previsto alcuno stanziamento che incentivi il ricorso all'assicurazione agevolata, è ragionevole affermare che il sistema subirebbe un'inevitabile implosione, con il probabile ritorno agli interventi 
+					<an:i>ex post</an:i>
+					 e ciò rappresenterebbe una vera e propria inversione di tendenza rispetto al positivo approccio verso il sistema assicurativo che, faticosamente, si è cercato di introdurre e stabilizzare negli ultimi anni;
+				</an:p>
+				<an:p align="justify">            in tale ottica giova evidenziare che gli orientamenti comunitari privilegiano in maniera assoluta ed esplicita la politica di intervento a sussidio delle spese sostenute dagli imprenditori agricoli per l'acquisto di polizze assicurative a garanzia dei danni provocati da calamità naturali,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">
+					            a valutare la possibilità di prevedere interventi volti ad assicurare un adeguato finanziamento del Fondo di solidarietà nazionale così come da decreto legislativo 29 marzo 2004, n. 102, a sostegno delle imprese agricole, a norma dell'articolo 1, comma 2, lettera 
+					<an:i>i)</an:i>
+					, della legge 7 marzo 2003, n. 38.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
