@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1"/>
+					<an:FRBRdate date="2009-11-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1784/2/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@"/>
+					<an:FRBRdate date="2009-11-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@.akn"/>
+					<an:FRBRdate date="2009-11-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-11-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-11-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1784/C/G/1784/2/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1784" showAs="DDL 1784"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/17777" showAs="Saro"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/22874" showAs="Bodega"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/25211" showAs="Mazzatorta"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/17771" showAs="Saia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1784</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1784/2/1 (già 3.0.5 testo 2 corretto/5)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Saro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Bodega</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Mazzatorta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Saia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La Commissione,</an:p>
+				<an:p>premesso che:</an:p>
+				<an:p>il comma 289 dell'articolo 2 della legge n. 244/2007, come modificato a seguito dell'emendamento 3.0.5 (testo 2 corretto), prevede che per la realizzazione di infrastrutture autostradali di esclusivo interesse regionale, interamente ricadenti nel territorio di competenza di una singola regione, l'esercizio dei poteri e delle funzioni di soggetto concedente ed aggiudicatore possa essere trasferito a società miste appositamente costituite tra l'Anas S.p.a. e le regioni interessate, o soggetto da esse interamente partecipato;</an:p>
+				<an:p>tale disposizione, facendo espresso riferimento al territorio di una singola regione, preclude la costituzione di una società mista partecipata dall'Anas S.p.a. e dalle regioni interessate per l'attribuzione delle funzioni e dei poteri di soggetto concedente ed aggiudicatore, relativamente all'infrastruttura autostradale A4 Venezia-Trieste, ricadente nel territorio delle regioni Veneto e Friuli Venezia Giulia;</an:p>
+				<an:p>che, coerentemente alle finalità sottese alla disposizione del comma 289 dell'articolo 2 della legge n. 244/2007, anche per l'infrastruttura autostradale A4 Venezia-Trieste, che ricade nel territorio di due regioni contigue, dovrebbe essere consentita la possibilità di trasferire i poteri e le funzioni di soggetto concedente ed aggiudicatore ad una società mista tra l'Anas S.p.a. e le due regioni interessate, appositamente costituita per l'esercizio esclusivo dei sopra indicati poteri e funzioni,</an:p>
+				<an:p>              impegna il Governo</an:p>
+				<an:p>ad introdurre nella legge finanziaria per l'anno 2010 o in un prossimo provvedimento normativo una specifica disposizione volta a consentire il trasferimento con decreto del Ministro delle infrastrutture e dei trasporti delle funzioni e dei poteri di soggetto concedente ed aggiudicatore, relativamente all'infrastruttura autostradale A4 Venezia-Trieste, ad un soggetto di diritto pubblico appositamente costituito in forma societaria e partecipato dall'Anas S.p.a. e dalle regioni interessate o da soggetto da esse interamente partecipato, che esercita esclusivamente i sopra indicati poteri e funzioni.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
