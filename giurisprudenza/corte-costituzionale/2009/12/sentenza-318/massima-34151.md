@@ -1,0 +1,23 @@
+# Massima n. 34151
+
+- Pronuncia: Corte costituzionale, sentenza 318/2009 (ECLI:IT:COST:2009:318)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:318
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ricorso in via principale - Deposito nella cancelleria della Corte - Termine di dieci giorni dalla notificazione, stabilito a pena di improcedibilità - Decorrenza dalla data in cui la notificazione si perfeziona per il destinatario (con la ricezione dell'atto), e non da quella in cui si è perfezionata per il notificante (con la consegna dell'atto all'ufficiale giudiziario o all'agente postale) - Conseguente procedibilità del ricorso nel caso in esame.
+
+## Testo
+
+Nel giudizio di legittimità costituzionale degli artt. 19, comma 2, e 73, comma 3, della legge della Regione Liguria 6 giugno 2008, n. 16, impugnati in riferimento all'art. 117, comma secondo, lettere  e ) ed  l ), Cost., deve essere dichiarato procedibile il ricorso del Presidente del Consiglio dei ministri. Fermo restando che l'inosservanza del termine di dieci giorni dalla notificazione per il deposito del ricorso determina l'improcedibilità della questione promossa in via principale e che non trova applicazione nella giustizia costituzionale la legge n. 742 del 1969 in materia di sospensione dei termini processuali nel periodo feriale; e premesso che, per effetto della sentenza n. 477 del 2002, anche nei giudizi in via principale vige il principio della scissione tra il momento in cui la notificazione deve intendersi effettuata nei confronti del notificante e quello in cui essa si perfeziona per il destinatario dell'atto; la decorrenza del termine di dieci giorni per il deposito del ricorso, previsto dall'art. 31, comma quarto, della legge n. 87 del 1953, deve essere correttamente ancorata alla data in cui l'atto perviene al destinatario. Il principio generale di scissione dei momenti di perfezionamento della notifica per il notificante e per il destinatario, con conseguente anticipazione di tale perfezionamento a favore del primo al momento della consegna dell'atto all'ufficiale giudiziario (o all'agente postale), è correlato all'esigenza di tutelare il diritto di difesa del notificante, essendo, altresì, palesemente irragionevole che un effetto di decadenza possa discendere dal ritardo nel compimento di un'attività riferibile a soggetti diversi dal medesimo notificante (l'ufficiale giudiziario e l'agente postale) e perciò destinata a restare estranea alla sua sfera di disponibilità. La  ratio  di tale effetto anticipato rimane, invece, estranea ai casi in cui il perfezionamento della notificazione vale a stabilire il  dies a quo  inerente alla decorrenza di un termine successivo del processo, qual è nella specie quello per il deposito del ricorso notificato. Infatti, non viene qui in rilievo alcuna esigenza di tutelare il diritto di difesa del notificante; non è identificabile un momento analogo a quello della consegna dell'atto all'ufficiale giudiziario o all'agente postale; l'attività da compiere non dipende da altri soggetti; infine, il notificante ha interesse a verificare, allorché procede al deposito, che la notifica dell'atto sia stata raggiunta nei confronti del destinatario. Pertanto, decorrendo il termine per il deposito dal momento in cui l'atto è pervenuto al destinatario, il ricorso è da ritenersi procedibile, poiché, tra la ricezione dell'atto da parte del destinatario (18 agosto 2008) e il deposito in cancelleria (26 agosto 2008), non è spirato il termine di dieci giorni previsto dalla legge. Nel senso che la mancata osservanza del termine previsto dall'art. 31, comma quarto, della legge n. 87 del 1953 determina l'improcedibilità della questione promossa, v.,  ex plurimis , le seguenti citate decisioni: sentenze n. 162/2004, n. 303/2003, ordinanze n. 344/2006, n. 218/2006 e n. 20/2005. Sull'inapplicabilità ai giudizi davanti alla Corte costituzionale della disciplina dettata dalla legge n. 742 del 1969, v.,  ex plurimis , le seguenti citate decisioni: sentenza n. 233/1993 e ordinanza n. 126/1997. Con riferimento al principio di scissione dei momenti di perfezionamento della notifica per il notificante e per il destinatario, vigente anche nei giudizi in via principale, v.,  ex plurimis , le citate sentenze n. 250/2009, n. 300/2007, n. 383/2005, n. 28/2004 e n. 477/2002.
+
+## Norme
+
+- legge della Regione Liguria, 06/06/2008 n. 16, art. 19, comma 2
+- legge della Regione Liguria, 06/06/2008 n. 16, art. 73, comma 3
+
+## Parametri
+
+- legge, 11/03/1953 n. 87, art. 31, comma 4
+- legge, 05/06/2003 n. 131, art. 9, comma 1
