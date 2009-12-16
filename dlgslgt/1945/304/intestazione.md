@@ -1,0 +1,7 @@
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+
+25 maggio 1945
+
+304
+
+Aggio ai gestori del lotto. (045U0304)
