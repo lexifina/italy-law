@@ -1,0 +1,7 @@
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+
+03 agosto 1944
+
+167
+
+Prezzo del pane e della pasta. (044U0167)
