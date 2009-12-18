@@ -1,0 +1,24 @@
+# Massima n. 34197
+
+- Pronuncia: Corte costituzionale, sentenza 336/2009 (ECLI:IT:COST:2009:336)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:336
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Professioni - Avvocato - Procedimento disciplinare dinanzi al Consiglio nazionale forense - Previsione che la sentenza di patteggiamento pronunciata nel giudizio penale abbia efficacia di giudicato nel giudizio disciplinare quanto all'accertamento della sussistenza del fatto, alla sua illiceità penale e all'affermazione che l'imputato lo ha commesso - Denunciata irrazionalità intrinseca nonché violazione del diritto di difesa e dei principi del giusto processo - Esclusione - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale degli artt. 445, comma 1- bis , e 653, comma 1- bis , cod. proc. pen., impugnati, in riferimento agli artt. 3, comma secondo, 24, comma secondo, e 111, comma secondo, Cost., nella parte in cui, equiparata la sentenza di cui all'art. 444 dello stesso codice ad una sentenza di condanna, prevedono che essa abbia efficacia di giudicato nel giudizio per responsabilità disciplinare davanti alle pubbliche autorità quanto all'accertamento della sussistenza del fatto, alla sua illiceità penale ed all'affermazione che l'imputato lo ha commesso. Non é irragionevole la scelta legislativa di perequare, agli effetti del giudizio disciplinare, l'efficacia probatoria della pronuncia di condanna a seguito di dibattimento e della pronuncia di applicazione della pena su richiesta delle parti. Invero, la più recente giurisprudenza di legittimità e l'evoluzione normativa del patteggiamento avvalorano un principio di tendenziale equiparazione delle dette pronunce. La legge n. 97 del 2001, prevedendo l'efficacia nel giudizio disciplinare sia della sentenza penale irrevocabile di condanna sia della sentenza di applicazione della pena su richiesta, ha inteso assicurare non solo una sostanziale coerenza tra sentenza penale ed esito del procedimento amministrativo, ma, soprattutto, una linea di maggiore rigore per garantire il corretto svolgimento dell'azione amministrativa. Nel perseguire i riferiti obiettivi, la disciplina impugnata, da un lato, ha parificato tutti i giudicati penali derivanti da qualsiasi tipo di sentenza (sia essa pronunciata a seguito di patteggiamento, o di giudizio abbreviato, ovvero di dibattimento); dall'altro, ha accomunato, agli stessi fini, i vari giudicati, vuoi di condanna, vuoi di assoluzione. Parimenti, non è irragionevole l'opzione legislativa di assegnare alla sentenza di patteggiamento efficacia di giudicato nel giudizio disciplinare, escludendola, invece, per il giudizio civile o amministrativo di danno, poiché quest'ultimo è un giudizio contenzioso tra parti pariteticamente contrapposte, per le quali gli effetti extrapenali del giudicato di condanna devono tenere conto della possibilità che entrambe le parti abbiano avuto di misurarsi in contraddittorio in sede penale. La stessa esigenza non rileva nei rapporti tra patteggiamento e giudizio disciplinare, avuto riguardo alla natura di tale giudizio ed all'identità soggettiva della parte chiamata a partecipare ai rispettivi procedimenti: nell'uno quale imputato e nell'altro quale incolpato in sede disciplinare. Non sussiste, inoltre, la dedotta violazione degli artt. 24, comma secondo, e 111, comma secondo, Cost. Infatti, premesso che la scelta del patteggiamento é un diritto dell'imputato, cui si accompagna l'accettazione di tutti gli effetti, favorevoli e sfavorevoli, tassativamente tracciati dal legislatore come elementi coessenziali allo stesso istituto; e che tra questi effetti non irragionevolmente é annoverato anche il valore di giudicato ai fini del giudizio disciplinare; la circostanza che l'imputato accetti una determinata condanna penale sta univocamente a significare che ha ritenuto, a quei fini, di non contestare il fatto e la propria responsabilità, con la conseguenza di rendere per ciò stesso coerente, rispetto agli evocati parametri, la possibilità che, intervenuto il giudicato su quel fatto e sulla relativa attribuibilità allo stesso imputato, simili componenti del giudizio si cristallizzino anche agli effetti del giudizio disciplinare. Sulla  ratio  della legge n. 97 del 2001, v. la citata sentenza n. 186/2004. Nel senso che la scelta del patteggiamento rappresenta un diritto per l'imputato, espressivo, esso stesso, del più generale diritto di difesa, v. la citata ordinanza n. 309/2005.
+
+## Norme
+
+- codice di procedura penale, art. 445, comma 1 bis
+- codice di procedura penale, art. 653, comma 1 bis
+
+## Parametri
+
+- Costituzione, art. 3, comma 2
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 111, comma 2
