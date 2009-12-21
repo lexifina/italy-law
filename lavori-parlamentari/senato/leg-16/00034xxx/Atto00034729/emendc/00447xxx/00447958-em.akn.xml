@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5"/>
+					<an:FRBRdate date="2009-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1790-B/29/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@"/>
+					<an:FRBRdate date="2009-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@.akn"/>
+					<an:FRBRdate date="2009-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790-B/C/G/1790-B/29/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790-B" showAs="DDL 1790-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25265" showAs="Latronico"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/4639" showAs="Esposito"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/1641" showAs="Morando"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1790-B/29/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Latronico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Esposito</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Morando</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            - in sede di esame del disegno di legge A.S. 1790-B, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2010);</an:p>
+				<an:p>            - tenuto conto delle disposizioni contemplate dall'art. 2, comma 28, in tema di riconoscimento del diritto all'uso esclusivo, per le Forze armate, compresa l'Arma dei carabinieri, e per il Corpo della Guardia di finanza, dei relativi stemmi, emblemi, segni distintivi e denominazioni;</an:p>
+				<an:p>            - considerato che, a tal fine, il Ministero della difesa, anche avvalendosi della società Difesa servizi s.p.a. di cui al comma 27, ed il Corpo della Guardia di finanza, anche avvalendosi dell'apposita società, possono consentire in via convenzionale l'uso anche temporaneo dei rispettivi segni distintivi, ai sensi dell'art. 26 del codice dei contratti pubblici di cui al decreto legislativo 12 aprile 2006, n. 163;</an:p>
+				<an:p>            - rilevato che il riferimento alla «apposita società» contemplato per la Guardia di finanza dal citato dall'art. 2, comma 28, secondo periodo, appare suscettibile di generare incertezze interpretative in sede applicativa;</an:p>
+				<an:p>            - ravvisata la conseguente necessità di precisare che la Guardia di finanza possa fare ricorso non già alla «apposita società» ma, più opportunamente, all'apposito Ente, per l'espletamento delle attività di tutela e di valorizzazione della relativa immagine,</an:p>
+				<an:p>        impegna il Governo ad assicurare che la disposizione di cui all'articolo 2, comma 28, secondo periodo, del provvedimento in oggetto, si interpreta nel senso che il Corpo della Guardia di finanza J?otràconsentire l'uso dei propri stemmi, emblemi, denominazioni e segni distintivi, anche avvalendosi dell'«apposito ente».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
