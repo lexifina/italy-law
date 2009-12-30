@@ -1,0 +1,24 @@
+# Massima n. 34212
+
+- Pronuncia: Corte costituzionale, sentenza 340/2009 (ECLI:IT:COST:2009:340)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2009:340
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Demanio e patrimonio dello Stato e delle Regioni - Ricognizione e valorizzazione del patrimonio immobiliare di Regioni, Comuni ed altri enti locali - Deliberazione del Consiglio comunale di approvazione del piano di alienazione e valorizzazione del proprio patrimonio - Attribuzione del carattere di variante allo strumento urbanistico generale, anche in contrasto con le disposizioni contenute nei piani territoriali delle Regioni e delle Province - Ricorsi delle Regioni Piemonte, Emilia-Romagna, Veneto e Toscana - Esorbitanza dai limiti posti alla legislazione statale nella materia "coordinamento della finanza pubblica", con pregiudizio, ad opera di normativa dettagliata, della competenza legislativa concorrente regionale nella prevalente materia "governo del territorio" - Illegittimità costituzionale, con esclusione della proposizione iniziale della disposizione impugnata: «L'inserimento degli immobili nel piano ne determina la conseguente classificazione come patrimonio disponibile e ne dispone espressamente la destinazione urbanistica» - Assorbimento di ulteriori profili di censura.
+
+## Testo
+
+Deve essere dichiarata l'illegittimità costituzionale dell'art. 58, comma 2, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, per contrasto con l'art. 117, terzo comma, Cost., restando assorbito ogni altro profilo. La norma censurata stabilisce che «L'inserimento degli immobili nel piano ne determina la conseguente classificazione come patrimonio disponibile e ne dispone espressamente la destinazione urbanistica; la deliberazione del consiglio comunale di approvazione del piano delle alienazioni e valorizzazioni costituisce variante allo strumento urbanistico generale. Tale variante, in quanto relativa a singoli immobili, non necessita di verifiche di conformità agli eventuali atti di pianificazione sovraordinata di competenza delle Province e delle Regioni. La verifica di conformità è comunque richiesta e deve essere effettuata entro un termine perentorio di trenta giorni dalla data di ricevimento della richiesta, nei casi di varianti relative a terreni classificati come agricoli dallo strumento urbanistico generale vigente, ovvero nei casi che comportano variazioni volumetriche superiori al 10 per cento dei volumi previsti dal medesimo strumento urbanistico vigente». Ancorché nella  ratio  dell'art. 58 siano ravvisabili anche profili attinenti al coordinamento della finanza pubblica, non c'è dubbio che, con riferimento alla disposizione censurata, assuma carattere prevalente la materia del governo del territorio, anch'essa rientrante nella competenza ripartita tra lo Stato e le Regioni, avuto riguardo all'effetto di variante allo strumento urbanistico generale, attribuito alla delibera che approva il piano di alienazione e valorizzazione. Orbene la norma in esame, stabilendo l'effetto di variante sopra indicato ed escludendo che la variante stessa debba essere sottoposta a verifiche di conformità, con l'eccezione dei casi previsti nell'ultima parte della disposizione (la quale pure contempla percentuali volumetriche e termini specifici), introduce una disciplina che non è finalizzata a prescrivere criteri ed obiettivi, ma si risolve in una normativa dettagliata che non lascia spazi d'intervento al legislatore regionale, ponendosi così in contrasto con il menzionato parametro costituzionale. Da tale declaratoria, tuttavia, resta esclusa la proposizione iniziale del comma 2, secondo cui «L'inserimento degli immobili nel piano ne determina la conseguente classificazione come patrimonio disponibile e ne dispone espressamente la destinazione urbanistica». Infatti, in primo luogo, la suddetta disposizione non risulta oggetto di specifiche censure. In secondo luogo, mentre la classificazione degli immobili come patrimonio disponibile è un effetto legale conseguente all'accertamento che si tratta di beni non strumentali all'esercizio delle funzioni istituzionali dell'ente, la destinazione urbanistica va ovviamente determinata nel rispetto delle disposizioni e delle procedure stabilite dalle norme vigenti. Sul rapporto tra normativa di principio e normativa di dettaglio, v. citate sentenze n. 237, n. 200/2009, n. 401/2007.
+
+## Norme
+
+- decreto-legge, 25/06/2008 n. 112, art. 58, comma 2
+- legge, 06/08/2008 n. 133
+
+## Parametri
+
+- Costituzione, art. 117, comma 3
+- Costituzione, art. 118, comma 2
+- Costituzione, art. 117, comma 4
