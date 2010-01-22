@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.111/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.111"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.111/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.111"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@.akn"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790/A/G3.111/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790" showAs="DDL 1790"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.111</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            nella manovra finanziaria per il 2010 non è stata inserita alcuna misura in favore della famiglia;</an:p>
+				<an:p align="justify">            non prestare la dovuta attenzione alla famiglia significa non riconoscere il ruolo insostituibile che essa svolge al servizio dell'intera società;</an:p>
+				<an:p align="justify">            tutti gli analisti economici riconoscono che l'unica ricetta possibile per risollevare l'economia reale ed in particolare per sostenere la domanda di consumi da parte delle famiglie è costituita dalla leva fiscale;</an:p>
+				<an:p align="justify">            se correttamente impiegata la leva fiscale consentirebbe alle famiglie, soprattutto quelle con figli, di far fronte ai propri bisogni e di soddisfare le proprie necessità;</an:p>
+				<an:p align="justify">            secondo il rapporto pubblicato dall'ISTAT, nel 2008 complessivamente sono 8.078.000 gli individui poveri, il 13,6 per cento dell'intera popolazione. Le famiglie che si trovano in condizioni di povertà relativa sono stimate in 2.737.000 e rappresentano l'11,3 per cento delle famiglie residenti, 1.126 mila sono invece quelle famiglie (il 4,6 per cento delle famiglie residenti) che risultano in condizione di povertà assoluta per un totale di 2.893.00 individui, il 4,9 per cento dell'intera popolazione. La povertà è direttamente correlata al numero dei componenti, figli e anziani, e si concentra soprattutto nel Sud d'Italia;</an:p>
+				<an:p align="justify">            l'attuale meccanismo delle detrazioni familiari in luogo delle deduzioni ha notevolmente peggiorato la situazione delle famiglie italiane ed il Governo non ha ancora dato seguito al suo impegno di introdurre il quoziente familiare in Italia;</an:p>
+				<an:p align="justify">            secondo uno studio del Forum delle associazioni familiari, il passaggio dalle detrazioni alle deduzioni potrebbe avvenire a costo zero,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'opportunità di introdurre con provvedimenti successivi il sistema delle deduzioni fiscali in luogo dell'attuale sistema delle detrazioni al fine di realizzare un fisco più equo e a misura delle famiglie italiane con carichi familiari».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
