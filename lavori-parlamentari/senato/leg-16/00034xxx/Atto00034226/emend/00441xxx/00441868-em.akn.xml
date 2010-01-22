@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.107/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.107"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.107/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.107"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@.akn"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790/A/G2.107/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790" showAs="DDL 1790"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25225" showAs="Ghedini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25228" showAs="Passoni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/2420" showAs="Treu"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25196" showAs="Biondelli"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25220" showAs="Blazina"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/11320" showAs="Ichino"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/25216" showAs="Nerozzi"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.107</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Ghedini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Passoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Treu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Biondelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Blazina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Ichino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Nerozzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge finanziaria per l'anno 2010,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            dal 1º ottobre 2009 oltre 14.700 lavoratrici e lavoratori dipendenti da circa cento imprese e cooperative che svolgono servizi di pulizia nei plessi scolastici, di cui oltre 1'80 per cento nelle regioni meridionali, sono oggetto di procedure di mobilità, che porteranno al loro licenziamento al 31 dicembre 2009;</an:p>
+				<an:p align="justify">            l'articolo 8 della legge 3 maggio 1999, n. 124, ha previsto, a partire dal 2000, il trasferimento nei ruoli statali del personale, amministrativo, tecnico ed ausiliario che alla data del 27 maggio 1999, risultava essere alle dipendenze degli enti locali;</an:p>
+				<an:p align="justify">            la legge 23 dicembre 2005, n. 266, all'articolo 1, comma 245, ha autorizzato, per ciascuno degli anni 2006, 2007, 2008, la spesa di 370 milioni di euro per la proroga delle attività svolte da soggetti impegnati in progetti di lavori socialmente utili (LSU) di cui all'articolo 78, comma 31 della legge 23 dicembre 2000 n. 388;</an:p>
+				<an:p align="justify">            sulla parte maggiore di tali attività sono state regolarmente indette e svolte gare d'appalto, che hanno visto l'assegnazione ad imprese singole a consorzi di imprese, attualmente titolari dei contratti di servizio;</an:p>
+				<an:p align="justify">            nel corso del 2009, tramite provvedimenti successivi, sono state garantite le risorse minime necessarie alla prosecuzione dei contratti fino al 31 dicembre 2009;</an:p>
+				<an:p align="justify">            l'incertezza circa la previsione nel disegno di legge finanziaria per il 2010 delle risorse necessarie a garantire per i prossimi anni la continuità degli appalti in atto per il servizio di pulizia e custodia nelle scuole ha costretto le imprese dei servizi pulizia ad avviare le procedure di licenziamento collettivo, ai sensi della legge 23 luglio 1991, n. 223, nei confronti di oltre 14.700 lavoratori della scuola che dunque si ritroveranno a partire dallo gennaio 2010 senzà rapporto di lavoro;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            né nei programmi di spesa della missione n. 22 "Istruzione scolastica", né in altri programmi coerenti è rintracciabile una previsione di spesa a copertura dei contratti citati e a garanzia della continuità occupazionale per tutte le lavoratrici ed i lavoratori interessati;</an:p>
+				<an:p align="justify">        impegna il Governo,</an:p>
+				<an:p align="justify">            ad integrare detta previsione di spesa prevedendo uno stanziamento di risorse in misura non inferiore a 420, 450 e 480 milioni di euro per ciascun anno 2010, 2011, 2012 al fine di garantire la continuità contrattuale ai soggetti impegnati in progetti di LSU di cui all'articolo 78, comma 31 della legge 23 dicembre 2000 n. 388».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
