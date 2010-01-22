@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.120/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.120"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.120/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.120"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@.akn"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790/A/G2.120/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790" showAs="DDL 1790"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22740" showAs="Filippi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25235" showAs="Ranucci"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17849" showAs="Fistarol"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17597" showAs="Magistrelli"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/12613" showAs="Morri"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22167" showAs="Papania"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23259" showAs="Vimercati"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/17787" showAs="Stradiotto"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.120</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ranucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fistarol</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Magistrelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Morri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Papania</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Vimercati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Stradiotto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame della disegno di legge atto Senato n.  1790 recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2010),</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'autostrada A3 Salerno - Reggio Calabria e la linea dell'Alta velocità/Alta capacità (AV/AC) ferroviaria Napoli - Bari sono grandi priorità nella politica infrastrutturale dell'intero Paese;</an:p>
+				<an:p align="justify">            per il finanziamento integrale del progetto di ammodernamento dell'autostrada A3 occorrono almeno 1,5 miliardi di euro;</an:p>
+				<an:p align="justify">            tale finanziamento è necessario ed urgente per completare tutti i lavori lungo l'autostrada A3 in questa legislatura, obiettivo assolutamente irrinunciabile e prioritario;</an:p>
+				<an:p align="justify">            tali risorse vanno acquisite con certezza e rapidità per garantire celerità nella definizione dei progetti e delle procedure di appalto in itinere, nonché nella rapida apertura di altri cantieri;</an:p>
+				<an:p align="justify">            anche, alla luce delle intese Stato - regione Campania del luglio scorso è indispensabile garantire lo stanziamento da parte del Governo delle risorse necessarie per assicurare la realizzazione della linea dell'AV/AC destinata a congiungere le due grandi aree metropolitane di Napoli e di Bari,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'opportunità di reperire fin dal 2010 le risorse necessarie per garantire il completamento dell'autostrada Salerno - Reggio Calabria e della linea dell'Alta velocità - Alta capacità ferroviaria Napoli - Bari».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
