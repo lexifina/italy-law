@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.115/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.115"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.115/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.115"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@.akn"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790/A/G3.115/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790" showAs="DDL 1790"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25225" showAs="Ghedini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/2420" showAs="Treu"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25196" showAs="Biondelli"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25220" showAs="Blazina"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/11320" showAs="Ichino"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25216" showAs="Nerozzi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25228" showAs="Passoni"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.115</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Ghedini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Treu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Biondelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Blazina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Ichino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Nerozzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Passoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge finanziaria per l'anno 2010,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la condizione della distribuzione del reddito in Italia ha registrato un peggioramento crescente negli ultimi quindici anni, collocando il nostro Paese al sesto posto fra trenta Paesi dell'Organizzazione per la cooperazione e lo sviluppo economico (OCSE) per indice di disuguaglianza;</an:p>
+				<an:p align="justify">            secondo la rilevazione ISTAT del marzo 2009, basata sull'introduzione di un nuovo indice di povertà assoluta, 975.000 famiglie, per un totale di 2.424.000 individui, sono risultati in povertà assoluta. In quest'ambito il Sud presenta le maggiori criticità, con un valore doppio rispetto ad altre compagini territoriali; dal punto di vista delle ripartizioni sociali, i soggetti più coinvolti risultano le famiglie numerose, con tre o più figli minori, le famiglie di anziani, le famiglie con capo famiglia una donna o un disoccupato o una persona occupata, ma con bassa qualifica;</an:p>
+				<an:p align="justify">
+					            questi dati indicano che un numero rilevantissimo di persone non dispone delle risorse per condurre uno 
+					<an:i>standard</an:i>
+					 di vita "minimo accettabile" con riferimento a tre aree di fabbisogni essenziali: alimentazione adeguata; disponibilità di un'abitazione di ampiezza congrua alla dimensione del nucleo famigliare, riscaldata e dotata dei principali servizi, beni durevoli ed accessori; minimo necessario per vestirsi, comunicare, informarsi, muoversi sul territorio, istruirsi e mantenersi in buona salute;
+				</an:p>
+				<an:p align="justify">            la manovra finanziaria per gli anni 2010-2012 non tiene in alcun modo conto del quadro esposto in premessa; infatti, non reca alcuna incisiva misura di sostegno al potere d'acquisto di salari e pensioni e si connota, al momento, per la completa rinuncia ad intervenire sulla distribuzione dei redditi, in primo luogo attraverso una riduzione della pressione fiscale sui redditi da lavoro e da pensione, sul sostegno alla domanda interna; così come è assente un intervento strutturale e di dimensioni adeguate alla crisi sugli strumenti di protezione sociale e sul contrasto alle povertà;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare le misure ed a prevedere le risorse necessarie al fine di sostenere il potere d'acquisto di salari e pensioni nel tentativo di dare una riposta concreta alle centinaia di famiglie che vivono in una condizione di povertà».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
