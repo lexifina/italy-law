@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.106/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.106"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.106/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.106"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@.akn"/>
+					<an:FRBRdate date="2010-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790/A/G3.106/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790" showAs="DDL 1790"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.106</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>«Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            nonostante i drammatici rilievi contenuti nel rapporto 2009 dell'Associazione per lo sviluppo dell'industria nel Mezzogiorno (SVIMEZ) sul Mezzogiorno, la questione meridionale non trova spazio nelle previsioni della legge finanziaria per il 2010 all'esame;</an:p>
+				<an:p align="justify">            i provvedimenti anticrisi avrebbero dovuto quantomeno essere indirizzati in particolar modo al sostegno delle aree più deboli del Paese in questa particolare contingenza economica negativa, pur tuttavia nulla o poco è previsto in termini di provvedimenti in favore del Meridione;</an:p>
+				<an:p align="justify">            un segnale evidente del disagio presente nel meridione è dato dal fenomeno della migrazione di giovani laureati verso il Nord, acuito dalla crisi e dalle difficoltà delle imprese meridionali, tornato ai livelli di qualche decennio fa: si stima che dal 1997 al 2008 circa 700 mila persone abbiano abbandonato il Mezzogiorno;</an:p>
+				<an:p align="justify">            le occasioni di impiego dei giovani meridionali rischiano di ridursi ulteriormente a causa delle difficoltà di accesso al credito da parte delle imprese denunciato in particolare proprio nel Mezzogiorno. Queste difficoltà, aggravate dalla congiuntura economica potrebbero, come paventato da Confindustria, costringere le imprese meridionali, in un momento così critico, a ricorrere alle organizzazioni criminali trovando nell'usura l'unico sbocco per reperire le risorse necessarie alla sopravvivenza;</an:p>
+				<an:p align="justify">            il cronico ritardo infrastrutturale inoltre mina alla base le possibilità per le imprese meridionali di competere alla pari con quelle presenti nelle altre aree del Paese e dell'Unione europea;</an:p>
+				<an:p align="justify">            allo stato attuale, sembrerebbe quindi non esserci una adeguata politica e per questo vedersi aggravare ulteriormente la situazione di difficoltà socio-economica cui sono esposte le aree deboli del Meridione, dove si concentrano le famiglie più numerose e più povere del Paese, dove i lavoratori sono meno tutelati in quanto ancora rilevante è la quota del lavoro sommerso e dove gli imprenditori, travolti dalla bufera della recessione produttiva, sono, perciò, più a rischio,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a prevedere iniziative concrete ed in tempi rapidi volte a riconsiderare la politica dell'esecutivo nei confronti del Meridione, atteso che dalla tutela e quindi dal riavvio di una crescita delle aree meridionali passa il rilancio del Paese, e che solo un approccio che tenga conto degli squilibri territoriali può garantire una ripresa stabile e duratura».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
