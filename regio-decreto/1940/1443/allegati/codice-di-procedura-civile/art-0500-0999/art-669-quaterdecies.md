@@ -2,7 +2,7 @@ Art. 669-quaterdecies.
 
 (Ambito di applicazione)
 
-Le disposizioni della presente sezione si applicano ai provvedimenti previsti nelle sezioni II, III e V di questo capo, nonche', in quanto compatibili, agli altri provvedimenti cautelari previsti dal codice civile e dalla leggi speciali. L'articolo 669-septies si applica altresi' ai provvedimenti di istruzione preventiva previsti dalla sezione IV di questo capo (67) (72) ((123))
+Le disposizioni della presente sezione si applicano ai provvedimenti previsti nelle sezioni II, III e V di questo capo, nonche', in quanto compatibili, agli altri provvedimenti cautelari previsti dal codice civile e dalla leggi speciali. L'articolo 669-septies si applica altresi' ai provvedimenti di istruzione preventiva previsti dalla sezione IV di questo capo (67) (72) (123) ((129))
 
 ---------------
 
@@ -22,4 +22,10 @@ Il D.L. 7 ottobre 1994, n. 571 convertito con modificazioni dalla L. 6 dicembre 
 
 AGGIORNAMENTO (123)
 
-La Corte Costituzionale con sentenza 7-16 maggio 2008, n. 144 (in G.U. 1a s.s. 21/5/2008, n. 22) ha dichiarato "l'illegittimita' costituzionale degli articoli 669-quaterdecies e 695 del codice di procedura civile, nella parte in cui non prevedono la reclamabilita' del provvedimento di rigetto dell'istanza per l'assunzione preventiva dei mezzi di prova di cui agli articoli 692 e 696 dello stesso codice."
+La Corte Costituzionale, con sentenza 7-16 maggio 2008, n. 144 (in G.U. 1a s.s. 21/5/2008, n. 22), ha dichiarato "l'illegittimita' costituzionale degli articoli 669-quaterdecies e 695 del codice di procedura civile, nella parte in cui non prevedono la reclamabilita' del provvedimento di rigetto dell'istanza per l'assunzione preventiva dei mezzi di prova di cui agli articoli 692 e 696 dello stesso codice."
+
+---------------
+
+AGGIORNAMENTO (129)
+
+La Corte Costituzionale, con sentenza 25-28 gennaio 2010, n. 26 (in G.U. 1a s.s. 3/2/2010, n. 5), ha dichiarato "l'illegittimita' costituzionale dell'articolo 669-quaterdecies del codice di procedura civile, nella parte in cui, escludendo l'applicazione dell'articolo 669-quinquies dello stesso codice ai provvedimenti di cui all'art. 696 cod. proc. civ., impedisce, in caso di clausola compromissoria, di compromesso o di pendenza di giudizio arbitrale, la proposizione della domanda di accertamento tecnico preventivo al giudice che sarebbe competente a conoscere del merito."
