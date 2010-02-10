@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/7.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/7.16"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/7.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@.akn"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1955/A/7.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1955" showAs="DDL 1955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25200" showAs="Della Seta"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Della Seta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 5, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					        «5-
+					<an:i>bis.</an:i>
+					 In deroga a quanto previsto dall'articolo 1, comma 605 lettera 
+					<an:i>c)</an:i>
+					 della legge 27 dicembre 2006, n. 296, possono iscriversi con riserva del conseguimento del titolo di abilitazione nelle graduatorie ad esaurimento valide per il 2009-2011, i docenti iscritti nell'anno accademico 2008-2009 ai corsi abilitanti biennali accademici di secondo livello ad indirizzo didattico (COBASLID), finalizzati alla formazione dei docenti di educazione musicale delle classi di concorso 31/A e 32/A e di strumento musicale nella scuola media della classe di concorso 77/A, e al Corso di laurea in Scienze della formazione primaria. La predetta riserva si intende sciolta con il conseguimento del titolo di abilitazione da dichiarare nella domanda di aggiornamento previsto per il biennio 2011-2013 delle graduatorie dove i docenti sono collocati nella posizione spettante in base ai punteggi attribuiti ai titoli posseduti».
+				</an:p>
+				<an:p align="justify">
+					<an:i>        Conseguentemente, dopo l'</an:i>
+					<an:b>articolo 10,</an:b>
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Copertura finanziaria)</an:i>
+				</an:p>
+				<an:p align="justify">
+					        1. Ai maggiori oneri di cui al comma 5-
+					<an:i>bis</an:i>
+					 dell'articolo 7, pari a 75 milioni di euro per l'anno 2010, si provvede, fino a concorrenza degli oneri, mediante quota parte delle maggiori entrate di cui al comma 2.
+				</an:p>
+				<an:p align="justify">        2. All'articolo 82, comma 11, del decreto legge 25 giugno 2008, n. 112, convertito con modificazioni dalla legge 6 agosto 2008, n. 133, le parole: «0,30 per cento» sono sostituite dalle seguenti: «0,27 per cento».</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
