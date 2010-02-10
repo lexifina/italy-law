@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/9.39/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/9.39"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/9.39/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.39"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@.akn"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1955/A/9.39/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1955" showAs="DDL 1955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/703" showAs="Costa"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17771" showAs="Saia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25199" showAs="Pichetto Fratin"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22707" showAs="Augello"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.39</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Costa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Saia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Pichetto Fratin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Augello</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					        «4-
+					<an:i>bis</an:i>
+					. Al fine di contemperare l'esigenza di celere potenzia mento dell'Agenzia delle Entrate e delle altre Agenzie Fiscali, in conformità al principio di economicità e per completare il piano di assunzioni previsto dalla legge n. 244 del 2007, le suddette Agenzie dovranno attingere dalle graduatorie regionali dei candidati che hanno superato con voto pari o superiore a 24/30 le prime due prove della selezione pubblica dell'Agenzia delle Entrate per l'assunzione a tempo indeterminato di 825 unità per la terza area funzionale, fascia retributiva F1, profilo professionale funzionario, per attività amministrativo-tributaria (G.U. 4ª serie speciale concorsi n. 101 del 30 dicembre 2008). A detta graduatoria potranno quindi attingere tutte le Agenzie Fiscali che siano state autorizzate all'assunzione di personale con la qualifica di funzionario».
+				</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
