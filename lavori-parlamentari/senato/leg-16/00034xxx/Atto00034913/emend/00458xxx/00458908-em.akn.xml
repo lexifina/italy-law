@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2002/A/G1.103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2002/A/G1.103"/>
+					<an:FRBRdate date="2010-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2002/A/G1.103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@"/>
+					<an:FRBRdate date="2010-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@.akn"/>
+					<an:FRBRdate date="2010-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2002/A/G1.103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2002" showAs="DDL 2002"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22722" showAs="Caforio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/12480" showAs="Pedica"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22864" showAs="Belisario"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22750" showAs="Giambrone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25202" showAs="Carlino"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25294" showAs="De Toni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/4414" showAs="Di Nardo"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17211" showAs="Lannutti"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/23254" showAs="Li Gotti"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/25240" showAs="Mascitelli"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/25227" showAs="Pardi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2002</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Caforio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pedica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Belisario</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Giambrone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Carlino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Toni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Di Nardo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Lannutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Li Gotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Mascitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Pardi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che,</an:p>
+				<an:p align="justify">            appare sempre più urgente avviare un'approfondita riflessione sull'opportunità e sulla necessità di un maggior impegno civile in Afghanistan, al fine di sostenere la ricostruzione del paese e per soddisfare, almeno in parte, le necessità primarie della popolazione afgana, stremata da decenni di conflitto, anche nella considerazione sempre più diffusa tanto in alcuni ambienti militari, quanto in settori della Nato, che l'opzione militare non può essere di per se stessa sufficiente, da sola, a determinare un esito positivo della missione in Afghanistan;</an:p>
+				<an:p align="justify">            come messo in evidenza anche dalla relazione presentata dal responsabile di Unama l'8 gennaio 2010 di fronte al Consiglio di sicurezza delle Nazioni Unite, appare indispensabile, nel contesto attuale, un maggiore investimento nell'ambito sociale, dello sviluppo e della ricostruzione, con un'attenzione particolare al popolo afgano e alle sue esigenze particolari;</an:p>
+				<an:p align="justify">            secondo alcuni recenti sondaggi curati da organizzazioni non governative internazionali, tra cui Oxfam, secondo sette afgani su dieci le principali cause del conflitto sarebbero da ravvisarsi nella povertà e nel tasso di disoccupazione, mentre tra i principali fattori di debolezza indicati dai più attenti commentatori del contesto afgano viene di sovente indicata la fragilità, e talvolta la scarsa rappresentatività, delle istituzioni afgane;</an:p>
+				<an:p align="justify">            il coinvolgimento più ampio possibile di esponenti della società civile afgana, è pertanto un tassello fondamentale per una ricostruzione non solo materiale, ma anche morale, che necessità però di luoghi di incontro e di opportunità di scambi culturali, per poter costruire una rete di rapporti e legami in grado di contribuire a rafforzare indirettamente anche le deboli istituzioni afgane;</an:p>
+				<an:p align="justify">            l'articolo 1, comma 4, del provvedimento in esame prevede che, nell'ambito dello stanziamento per le iniziative di cooperazione in favore dell'Afghanistan, si provveda all'organizzazione di una conferenza regionale della società civile per l'Afghanistan, in collaborazione con la rete di organizzazioni non governative «Afgana»;</an:p>
+				<an:p align="justify">        impegna il Governo,</an:p>
+				<an:p align="justify">            per il tramite della rete di organizzazioni non governative denominata «Afgana», a sostenere il progetto della realizzazione di una «casa della società civile» a Kabul, un vero e proprio centro culturale, che permetta di sviluppare gli spunti e le valutazioni che verranno proposti nella conferenza regionale della società civile per l'Afghanistan, di cui all'articolo 1, comma 4 del presente decreto.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
