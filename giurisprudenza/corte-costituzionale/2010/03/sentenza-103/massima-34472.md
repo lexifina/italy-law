@@ -1,0 +1,27 @@
+# Massima n. 34472
+
+- Pronuncia: Corte costituzionale, sentenza 103/2010 (ECLI:IT:COST:2010:103)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:103
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Udienza preliminare - Possibilità per il GUP di disporre il rinvio a giudizio per un fatto qualificato, d'ufficio, in maniera diversa rispetto all'originaria imputazione formulata dal pubblico ministero - Asserita irragionevole disparità di trattamento tra imputati, ritenuta violazione del diritto di difesa e del principio del contraddittorio nonché lesione dei vincoli derivanti dagli obblighi internazionali - Insufficiente motivazione sulla rilevanza della questione e richiesta di pronuncia additiva non costituzionalmente obbligata in materia riservata alla discrezionalità del legislatore - Inammissibilità della questione.
+
+## Testo
+
+È inammissibile la questione di legittimità costituzionale degli artt. 424, 429 e 521, comma 1, cod. proc. pen., impugnati, in riferimento agli artt. 3, 24, 111, terzo comma, e 117, primo comma, Cost., nella parte in cui prevedono che il GUP possa disporre il rinvio a giudizio dell'imputato in relazione ad un fatto qualificato, di ufficio, giuridicamente in maniera diversa, senza consentire il previo ed effettivo sviluppo del contraddittorio sul punto, chiedendo al P.M. di modificare la qualificazione giuridica del fatto e, in caso di inerzia dell'organo dell'accusa, disponendo la trasmissione degli atti al medesimo P.M. Premesso che il principio di necessaria correlazione tra imputazione contestata e sentenza - espressamente codificato dall'art. 521 cod. proc. pen. per la fase del giudizio, ma applicabile analogicamente anche all'udienza preliminare - è diretto a garantire il contraddittorio e il diritto di difesa dell'imputato nonché il controllo giurisdizionale sul corretto esercizio dell'azione penale; e che il medesimo principio, se da un lato consente al giudice di attribuire al fatto una definizione giuridica diversa, dall'altro gli impone di trasmettere gli atti al pubblico ministero se accerta che il fatto è diverso da quello descritto nell'imputazione; l'omessa precisazione delle ragioni per le quali, nella fattispecie oggetto del giudizio principale, il fatto debba ritenersi diversamente qualificato e non si tratti, piuttosto, di un fatto diverso rispetto a quello originariamente contestato non permette di valutare la necessaria pregiudizialità della sollevata questione di costituzionalità, sicché la motivazione sulla rilevanza è insufficiente. Un ulteriore motivo di inammissibilità risiede nella sollecitazione di una pronunzia additiva, non avente carattere di soluzione costituzionalmente obbligata, ma rientrante nell'ambito di scelte discrezionali riservate al legislatore. Il difetto di una soluzione costituzionalmente imposta è comprovato dalla circostanza che lo stesso giudice  a quo , dapprima, si sofferma su talune procedure adottabili dal GUP per far cadere i dubbi di legittimità della censurata disciplina (quali l'adozione di un'apposita ordinanza con cui informare le parti della diversa qualificazione giuridica attribuita al fatto, così da consentire il contraddittorio sul punto, ovvero l'applicazione analogica dell'art. 521, comma 2, cod. proc. pen) e, poi, ritenendole inadeguate, valuta come indispensabile l'intervento della Corte mediante una decisione additiva che preveda la regressione del procedimento nella fase delle indagini preliminari, attraverso la restituzione degli atti all'organo dell'accusa. Peraltro, la soluzione prospettata dal rimettente tende ad ottenere la parificazione di situazioni processuali tra loro non omogenee, quali l'accertamento che un fatto debba essere diversamente qualificato e la constatazione che il fatto è differente da quello descritto nel decreto che dispone il giudizio. La decisione richiesta, dunque, coinvolgendo scelte relative alla conformazione della disciplina processuale, rientra nella discrezionalità del Parlamento. Nel senso che la necessaria correlazione tra accusa e sentenza è posta anche «al fine del controllo giurisdizionale sul corretto esercizio dell'azione penale, dal che si desume che la costante corrispondenza dell'imputazione a quanto emerge dagli atti è una esigenza presente in ogni fase processuale e, quindi, anche nell'udienza preliminare», v. la citata sentenza n. 88/1994. Per la manifesta inammissibilità di questioni motivate in modo tale da non permettere la valutazione della rilevanza nel giudizio  a quo , v. le seguenti citate decisioni: sentenza n. 58/2009, ordinanze n. 15/2009, n. 312/2008 e n. 100/2008. Sull'inammissibilità di questioni tese a richiedere una pronuncia additiva non costituzionalmente obbligata in una materia riservata alla discrezionalità del legislatore, v.,  ex plurimis , le seguenti citate decisioni: sentenza n. 183/2008, ordinanze n. 193/2009, n. 80/2009 e n. 379/2008.
+
+## Norme
+
+- codice di procedura penale, art. 424
+- codice di procedura penale, art. 429
+- codice di procedura penale, art. 521, comma 1
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 111, comma 3
+- Costituzione, art. 117, comma 1
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 6
