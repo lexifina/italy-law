@@ -1,0 +1,20 @@
+# Massima n. 34491
+
+- Pronuncia: Corte costituzionale, sentenza 115/2010 (ECLI:IT:COST:2010:115)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:115
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Finanza regionale - Imposte e tasse - Istanze della Regione Siciliana tese a rivendicare il gettito derivante da imposte indirette (accise) sul consumo di taluni prodotti energetici - Note di diniego del Ministero dell'economia e delle finanze - Ricorso per conflitto di attribuzione della Regione Siciliana - Denunciata lesione delle attribuzioni statutarie e della autonomia finanziaria regionale - Qualificazione delle accise sui prodotti energetici quali "imposte di produzione" riservate allo Stato, comunque non riconducibili alle "imposte di consumo" di cui alla tabella D annessa alla normativa di attuazione statutaria - Spettanza allo Stato del potere di adottare le note impugnate.
+
+## Testo
+
+Spettava allo Stato e, per esso, al Ministero dell'economia e delle finanze emettere le note del Ministero dell'economia e delle finanze, Dipartimento delle finanze e Dipartimento della Ragioneria generale dello Stato di diniego delle istanze della Regione Siciliana tese a rivendicare il gettito derivante da imposte indirette (accise) sul consumo di taluni prodotti energetici. Per quanto riguarda le accise (introdotte nell'ordinamento dalla normativa comunitaria e dal d.lgs. n. 504 del 1995) - anche quando, in un qualche significato, siano definibili «sul consumo» -, da un lato, presentano le caratteristiche proprie delle «imposte di produzione» riservate allo Stato dal secondo comma dell'art. 36 dello statuto regionale e dal secondo comma dell'art. 2 delle correlative norme di attuazione e, dall'altro, non rientrano comunque nell'elenco delle «imposte sul consumo» di cui alla tabella D annessa alla normativa di attuazione statutaria. Questa conclusione vale anche per le accise sui prodotti energetici disciplinate dal d.lgs. n. 26 del 2007, attuativo della direttiva n. 2003/96/CE, il cui gettito è rivendicato dalla Regione Siciliana, con riferimento al gas naturale, al carbone, alla lignite ed al  coke . Se ne deve concludere che il gettito delle accise sui prodotti energetici introdotte dal d.lgs. n. 26 del 2007 e rivendicato dalla ricorrente è riservato non alla Regione Siciliana, ma allo Stato, in forza degli artt. 36, secondo comma, dello statuto e 2, secondo comma, delle correlative norme di attuazione, trattandosi di gettito relativo a «imposte di produzione». Di conseguenza, deve escludersi che lo Stato, negando alla Regione Siciliana, con le note ministeriali impugnate, l'attribuzione del gettito relativo alle suddette accise, abbia invaso la sfera di competenza costituzionale della Regione medesima.
+
+## Parametri
+
+- statuto regione Sicilia, art. 36
+- statuto regione Sicilia, art. 37
+- decreto del Presidente della Repubblica, 26/07/1965 n. 1074
+- decreto del Presidente della Repubblica, 26/07/1965 n. 1074, art. 2
