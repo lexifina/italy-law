@@ -10,6 +10,6 @@ La relazione di cui all'articolo 2501-quinquies deve indicare le ragioni che giu
 
 La relazione degli esperti di cui all'articolo 2501-sexies, attesta la ragionevolezza delle indicazioni contenute nel progetto di fusione ai sensi del precedente secondo comma.
 
-Al progetto deve essere allegata ((una)) relazione della societa' di revisione incaricata della revisione contabile obbligatoria della societa' obiettivo o della societa' acquirente.
+Al progetto deve essere allegata una relazione ((del soggetto incaricato della revisione legale dei conti)) della societa' obiettivo o della societa' acquirente.
 
 Alle fusioni di cui al primo comma non si applicano le disposizioni degli articoli 2505 e 2505-bis.

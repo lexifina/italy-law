@@ -1,9 +1,11 @@
 Art. 2409-quinquies.
 
-(( (Cause di ineleggibilita' e di decadenza). ))
+((ARTICOLO ABROGATO DAL D.LGS. 27 GENNAIO 2010,N . 39))
 
-((Salvo quanto disposto dall'articolo 2409-bis, terzo comma, non possono essere incaricati del controllo contabile, e se incaricati decadono dall'ufficio, i sindaci della societa' o delle societa' da questa controllate, delle societa' che la controllano o di quelle sottoposte a comune controllo, nonche' coloro che si trovano nelle condizioni previste dall'articolo 2399, primo comma.
+((192))
 
-Lo statuto puo' prevedere altre cause di ineleggibilita' o di decadenza, nonche' cause di incompatibilita'; puo' prevedere altresi' ulteriori requisiti concernenti la specifica qualificazione professionale del soggetto incaricato del controllo contabile.
+------------------
 
-Nel caso di societa' di revisione le disposizioni del presente articolo si applicano con riferimento ai soci della medesima ed ai soggetti incaricati della revisione.))
+AGGIORNAMENTO (192)
+
+Il D.Lgs. 27 gennaio 2010, n. 39, ha disposto (con l'art. 43, comma 1, lettera l)) che il presente articolo e' abrogato ma continua ad essere applicato "fino alla data di entrata in vigore dei regolamenti del Ministro dell'economia e delle finanze emanati ai sensi del presente decreto legislativo".

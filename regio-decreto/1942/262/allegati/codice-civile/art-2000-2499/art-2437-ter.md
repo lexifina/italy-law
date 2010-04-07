@@ -1,10 +1,10 @@
 Art. 2437-ter.
 
-(( (Criteri di determinazione del valore delle azioni). ))
+(Criteri di determinazione del valore delle azioni).
 
-((Il socio ha diritto alla liquidazione delle azioni per le quali esercita il recesso.
+Il socio ha diritto alla liquidazione delle azioni per le quali esercita il recesso.
 
-Il valore di liquidazione delle azioni e' determinato dagli amministratori, sentito il parere del collegio sindacale e del soggetto incaricato della revisione contabile, tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni.
+Il valore di liquidazione delle azioni e' determinato dagli amministratori, sentito il parere del collegio sindacale e del soggetto incaricato della ((revisione legale dei conti)), tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni.
 
 Il valore di liquidazione delle azioni quotate in mercati regolamentati e' determinato facendo esclusivo riferimento alla media aritmetica dei prezzi di chiusura nei sei mesi che precedono la pubblicazione ovvero ricezione dell'avviso di convocazione dell'assemblea le cui deliberazioni legittimano il recesso.
 
@@ -12,4 +12,4 @@ Lo statuto puo' stabilire criteri diversi di determinazione del valore di liquid
 
 I soci hanno diritto di conoscere la determinazione del valore di cui al secondo comma del presente articolo nei quindici giorni precedenti alla data fissata per l'assemblea; ciascun socio ha diritto di prenderne visione e di ottenerne copia a proprie spese.
 
-In caso di contestazione da proporre contestualmente alla dichiarazione di recesso il valore di liquidazione e' determinato entro novanta giorni dall'esercizio del diritto di recesso tramite relazione giurata di un esperto nominato dal tribunale, che provvede anche sulle spese, su istanza della parte piu' diligente; si applica in tal caso il primo comma dell'articolo 1349. ))
+In caso di contestazione da proporre contestualmente alla dichiarazione di recesso il valore di liquidazione e' determinato entro novanta giorni dall'esercizio del diritto di recesso tramite relazione giurata di un esperto nominato dal tribunale, che provvede anche sulle spese, su istanza della parte piu' diligente; si applica in tal caso il primo comma dell'articolo 1349.

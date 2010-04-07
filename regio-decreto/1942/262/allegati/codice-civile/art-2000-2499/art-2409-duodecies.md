@@ -8,7 +8,7 @@ Fatta eccezione per i primi componenti che sono nominati nell'atto costitutivo, 
 
 I componenti del consiglio di sorveglianza restano in carica per tre esercizi e scadono alla data della successiva assemblea prevista dal secondo comma dell'articolo 2364-bis. La cessazione per scadenza del termine ha effetto dal momento in cui il consiglio di sorveglianza e' stato ricostituito.
 
-Almeno un componente effettivo del consiglio di sorveglianza deve essere scelto tra gli iscritti nel registro dei revisori contabili istituito presso il Ministero della giustizia.
+Almeno un componente effettivo del consiglio di sorveglianza deve essere scelto tra ((i revisori legali iscritti nell'apposito registro)).
 
 I componenti del consiglio di sorveglianza sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili dall'assemblea in qualunque tempo con deliberazione adottata con la maggioranza prevista dal quarto comma dell'articolo 2393, anche se nominati nell'atto costitutivo, salvo il diritto al risarcimento dei danni, se la revoca avviene senza giusta causa.
 
@@ -26,6 +26,6 @@ a) coloro che si trovano nelle condizioni previste dall'articolo 2382;
 
 b) i componenti del consiglio di gestione;
 
-((c) coloro che sono legati alla societa' o alle societa' da questa controllate o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita che ne compromettano l'indipendenza.))
+c) coloro che sono legati alla societa' o alle societa' da questa controllate o a quelle sottoposte a comune controllo da un rapporto di lavoro o da un rapporto continuativo di consulenza o di prestazione d'opera retribuita che ne compromettano l'indipendenza.
 
 Lo statuto puo' prevedere altre cause di ineleggibilita' o decadenza, nonche' cause di incompatibilita' e limiti e criteri per il cumulo degli incarichi.

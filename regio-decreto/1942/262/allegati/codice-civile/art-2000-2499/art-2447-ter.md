@@ -14,8 +14,8 @@ d) gli eventuali apporti di terzi, le modalita' di controllo sulla gestione e di
 
 e) la possibilita' di emettere strumenti finanziari di partecipazione all'affare, con la specifica indicazione dei diritti che attribuiscono;
 
-f)la nomina di una societa' di revisione per il controllo contabile sull'andamento dell'affare, quando la societa' non e' ((gia' assoggettata alla revisione contabile da parte di una societa' di revisione)) contabile ed emette titoli sul patrimonio diffusi tra il pubblico in misura rilevante ed offerti ad investitori non professionali;
+((f) la nomina di un revisore legale o di una societa' di revisione legale per la revisione dei conti dell'affare, quando la societa' non e' gia' assoggettata alla revisione legale;))
 
 g) le regole di rendicontazione dello specifico affare.
 
-Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo e' adottata ((dall'organo amministrativo )) a maggioranza assoluta dei suoi componenti.
+Salvo diversa disposizione dello statuto, la deliberazione di cui al presente articolo e' adottata dall'organo amministrativo a maggioranza assoluta dei suoi componenti.
