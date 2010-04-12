@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2"/>
+					<an:FRBRdate date="2010-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2070/3/1 e 2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@"/>
+					<an:FRBRdate date="2010-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@.akn"/>
+					<an:FRBRdate date="2010-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-04-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-04-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2070/C/G/2070/3/1 e 2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2070" showAs="DDL 2070"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 2° riunite" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/237" showAs="Berselli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2070</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2070/3/1 e 2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Berselli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        Visto il disegno di legge approvato dalla Camera dei deputati l'11 marzo 2010 e trasmesso al Senato della Repubblica il 15  marzo 2010 relativo alla conversione in legge, con modificazioni, del decreto-legge 4 febbraio 2010, n. 4, recante istituzione dell'Agenzia nazionale per l'amministrazione e la destinazione dei beni sequestrati e confiscati alla criminalità organizzata;</an:p>
+				<an:p>            premesso che nel testo comprendente le modificazioni apportate dalla Camera dei deputati (all'articolo 5, comma 1, lettera f), numero 5) è stato previsto che beni aziendali, mantenuti al patrimonio dello Stato, vengano destinati con provvedimento della predetta Agenzia, che ne disciplina le modalità operative con riferimento ai soli istituti dell'affitto, della vendita e della liquidazione;</an:p>
+				<an:p>            ritenuto necessario prevedere la possibilità di destinare, a titolo gratuito e senza oneri per lo Stato, i beni aziendali al patrimonio delle Regioni competenti per territorio che lo richiedano per finalità sociali o di protezione dei livelli occupazioni;</an:p>
+				<an:p>impegna il Governo</an:p>
+				<an:p>
+					a intraprendere le opportune iniziative legislative per integrare l'articolo 2-
+					<an:i>undecies,</an:i>
+					 comma 3, della legge 31 maggio 1965, n. 375, nel senso di prevedere che i beni aziendali confiscati definitivamente alla criminalità organizzata possano anche essere ceduti, a titolo gratuito e senza oneri per lo Stato, al patrimonio degli enti territoriali competenti che lo richiedano per finalità sociali o di protezione dei livelli occupazionali.
+				</an:p>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
