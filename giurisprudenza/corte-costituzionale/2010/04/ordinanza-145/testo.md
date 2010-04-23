@@ -1,0 +1,55 @@
+# Corte costituzionale, ordinanza 145/2010
+
+- ECLI: ECLI:IT:COST:2010:145
+- Tipo: ordinanza
+- Presidente: DE SIERVO
+- Relatore: Sabino Cassese
+- Redattore: Sabino Cassese
+- Data della decisione: 14/04/2010
+- Data del deposito: 23/04/2010
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 34599
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:145
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Ugo DE SIERVO; Giudici : Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 20, comma 2, della legge della Regione Basilicata 30 gennaio 2007, n. 1 (Disposizioni per la formazione del bilancio di previsione annuale e pluriennale della Regione Basilicata - Legge finanziaria 2007), promosso dal Tribunale amministrativo regionale della Basilicata nel procedimento vertente tra M. V. e l'A.U.S.L n. 2 di Potenza ed altri con ordinanza del 3 agosto 2009 iscritta al n. 284 del registro ordinanze 2009 e pubblicata nella Gazzetta Ufficiale  della Repubblica n. 48, prima serie speciale, dell'anno 2009.
+ Visto l'atto di costituzione della Regione Basilicata;
+ udito  nella camera di consiglio del 24 marzo 2010 il Giudice relatore Sabino Cassese.
+
+## Testo
+
+Ritenuto che il Tribunale amministrativo regionale per la Basilicata, con ordinanza del 3 agosto 2009, ha sollevato, in riferimento agli artt. 3 e 117, terzo comma, Cost., questione di legittimità costituzionale dell'art. 20, comma 2, della legge della Regione Basilicata 30 gennaio 2007, n. 1 (Disposizioni per la formazione del bilancio di previsione annuale e pluriennale della Regione Basilicata - Legge finanziaria 2007), nella parte in cui, ai fini della composizione delle Commissioni mediche di accertamento dell'invalidità e dell'handicap, «ha previsto che possono essere nominati presidenti di tali commissioni mediche anche i medici in possesso di specializzazioni "equivalenti" a Medicina Legale e che il componente in possesso della specializzazione in Medicina del Lavoro possa essere sostituito anche da medici in possesso di specializzazioni "equivalenti" a Medicina del lavoro»;
+ che la disposizione censurata stabilisce, in particolare, che ai fini della composizione delle commissioni mediche di cui alla legge 15 ottobre 1990, n. 295 (Modifiche ed integrazioni all'articolo 3 del decreto legge 30 maggio 1988, n. 173, convertito, con modificazioni, dalla legge 26 luglio 1988, n. 291, e successive modificazioni, in materia di revisione delle categorie delle minorazioni e malattie invalidanti), «le Aziende Sanitarie fanno ricorso ai professionisti in servizio presso una delle Aziende Sanitarie Locali regionali e, in assenza delle figure professionali specifiche od equivalenti, ai medici convenzionati con il Servizio Sanitario regionale»;
+ che il collegio rimettente riferisce che il ricorrente nel giudizio principale, in possesso della specializzazione in Medicina Legale e in Medicina del Lavoro e già componente - nel periodo di tempo compreso tra il 1990 e il 1999 e in quello compreso tra il 9.1.2003 e il 29.1.2006 - di commissioni mediche di accertamento dell'invalidità e dell'handicap operanti nell'ambito della AUSL n. 2 di Potenza, ha partecipato alla procedura per il rinnovo anticipato dei componenti delle predette commissioni, presentando in particolare domanda per due commissioni, aventi sede a Potenza;
+ che, secondo quanto espone il giudice a quo, l'avviso pubblico per la nomina delle predette commissioni prevedeva fra l'altro: a) che le commissioni dovessero essere composte da tre medici di cui «uno specialista in Medicina Legale o, in assenza, uno specialista in una delle discipline affini secondo il decreto del Ministero della salute del 31.1.1998», che avrebbe assunto le funzioni di Presidente, ed «uno scelto prioritariamente tra quelli con specializzazione in Medicina del Lavoro o, in assenza, uno specialista in una delle discipline affini secondo il decreto del Ministero della salute del 31.1.1998»; b) che i medici dovessero essere scelti prioritariamente fra quelli in servizio presso una delle AUSL regionali oppure, «in assenza delle figure professionali specifiche o equivalenti», fra quelli convenzionati con il Servizio sanitario regionale;
+ che il Tribunale amministrativo rimettente riferisce infine che il ricorrente nel giudizio principale, essendo stato escluso dal novero dei componenti, titolari e supplenti, di entrambe le commissioni, nelle quali sono stati invece nominati medici specializzati in discipline affini a Medicina Legale e Medicina del Lavoro, ha impugnato la delibera di nomina, unitamente agli atti da essa richiamati, deducendo, in particolare, la violazione dell'art. 20 della legge della Regione Basilicata n. 1 del 2007, dell'art. 1, comma 2, della legge n. 295 del 1990, nonché delle disposizioni dell'avviso pubblico;
+ che, tutto ciò premesso, il giudice a quo, nel confermare la sospensione dell'efficacia dei provvedimenti impugnati disposta dal Consiglio di Stato, sez. V, con ordinanza n. 1831 del 7 aprile del 2009, ha sollevato la questione di legittimità costituzionale della disposizione censurata, ritenendola rilevante e non manifestamente infondata;
+ che, sul piano della rilevanza, il Tribunale amministrativo rimettente osserva che, in caso di dichiarazione di illegittimità costituzionale della disposizione legislativa regionale censurata, «il ricorrente avrebbe dovuto essere nominato quantomeno componente supplente di una delle due commissioni mediche di accertamento dell'invalidità e dell'handicap», essendo, in particolare, l'unico medico specializzato in Medicina Legale, e in servizio presso una AUSL regionale, ad aver fatto domanda;
+ che, in ordine alla non manifesta infondatezza, il collegio rimettente ritiene, innanzitutto, che la disciplina regionale censurata violi l'art. 117, terzo comma, Cost., in quanto in contrasto con il principio fondamentale in materia di tutela della salute di cui all'art. 1, comma 2, della legge n. 295 del 1990, ai sensi del quale le commissioni mediche di accertamento dell'invalidità e dell'handicap devono essere «composte da un medico specialista in Medicina Legale, che assume le funzioni di presidente, e da due medici, di cui uno scelto prioritariamente tra gli specialisti di Medicina del Lavoro»;
+ che, inoltre, secondo il giudice a quo, la disposizione impugnata si porrebbe in contrasto con l'art. 3 Cost., sotto il profilo della ragionevolezza, dal momento che «sussistono [...] idonee ragioni per differenziare la posizione dei dirigenti medici, specializzati in Medicina Legale e in Medicina del Lavoro, rispetto ai medici, specializzati in una disciplina considerata dal decreto ministeriale del 31.1.1998 equipollente o affine soltanto con riferimento ai requisiti di ammissione per la partecipazione ai concorsi di primo livello dirigenziale del ruolo sanitario [...], tenuto conto della diversità dei predetti titoli di specializzazioni e dei diversi corsi di studi per conseguir[li]»;
+ che è intervenuta in giudizio la Regione Basilicata, con memoria depositata in data 15 dicembre 2009, rilevando, preliminarmente, che l'art. 25 della legge della Regione Basilicata 7 agosto 2009, n. 27 (Assestamento del bilancio di previsione per l'esercizio finanziario 2009 e del bilancio pluriennale per il triennio 2009/2011) ha modificato la disciplina censurata e ha fatto venir meno «i profili di illegittimità costituzionale [...] sollevati dal Tar della Basilicata», e insistendo, comunque, affinché la questione di legittimità costituzionale venga dichiarata inammissibile per difetto di rilevanza o, in subordine, non fondata.
+ Considerato che il Tribunale amministrativo regionale per la Basilicata ha sollevato, in riferimento agli artt. 3 e 117, terzo comma, Cost., questione di legittimità costituzionale dell'art. 20, comma 2, della legge della Regione Basilicata 30 gennaio 2007, n. 1 (Disposizioni per la formazione del bilancio di previsione annuale e pluriennale della Regione Basilicata - Legge finanziaria 2007), nella parte in cui, ai fini della composizione delle Commissioni mediche di accertamento dell'invalidità e dell'handicap, «ha previsto che possono essere nominati presidenti di tali commissioni mediche anche i medici in possesso di specializzazioni "equivalenti" a Medicina Legale e che il componente in possesso della specializzazione in Medicina del Lavoro possa essere sostituito anche da medici in possesso di specializzazioni "equivalenti" a Medicina del lavoro»;
+ che, successivamente all'ordinanza di rimessione, la disciplina regionale impugnata è stata modificata dall'art. 25 della legge della Regione Basilicata 7 agosto 2009, n. 27 (Assestamento del bilancio di previsione per l'esercizio finanziario 2009 e del bilancio pluriennale per il triennio 2009/2011), che ha in particolare eliminato il profilo censurato dal rimettente, relativo alla possibilità di ricorrere a figure professionali equivalenti a quelle specificamente indicate dalla disciplina statale di cui alla legge 15 ottobre 1990, n. 295 (Modifiche ed integrazioni all'articolo 3 del decreto legge 30 maggio 1988, n. 173, convertito, con modificazioni, dalla legge 26 luglio 1988, n. 291, e successive modificazioni, in materia di revisione delle categorie delle minorazioni e malattie invalidanti), e ha altresì disposto il rinnovo delle Commissioni, sulla base della nuova disciplina relativa alla loro composizione, entro 60 giorni dall'entrata in vigore della medesima legge regionale;
+ che, pertanto, a prescindere dai profili di inammissibilità, connessi alla circostanza per cui la disposizione censurata, così come interpretata dall'avviso pubblico emanato sulla base di essa, consente il ricorso ai medici in servizio con specializzazione equivalente soltanto in assenza di medici in servizio con la specifica specializzazione indicata dalla norma statale, occorre restituire gli atti al giudice rimettente, perché operi una nuova valutazione della rilevanza e della non manifesta infondatezza della questione (fra le molte, ordinanze n. 38 e n. 12 del 2010).
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ ordina la restituzione degli atti al Tribunale amministrativo regionale per la Basilicata.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 14 aprile 2010.
+ F.to:
+ Ugo DE SIERVO, Presidente
+ Sabino CASSESE, Redattore
+ Giuseppe DI PAOLA, Cancelliere
+ Depositata in Cancelleria il 23 aprile 2010.
+ Il Direttore della Cancelleria
+ F.to: DI PAOLA
