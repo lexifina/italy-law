@@ -1,0 +1,24 @@
+# Massima n. 34664
+
+- Pronuncia: Corte costituzionale, sentenza 177/2010 (ECLI:IT:COST:2010:177)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:177
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Incompatibilità del giudice - Mancata previsione della incompatibilità a partecipare al giudizio, quale componente del Tribunale in composizione collegiale, del giudice che, investito del giudizio direttissimo conseguente ad arresto in flagranza di reato per lo stesso fatto nei confronti delle stesse persone, all'esito del giudizio di convalida e di applicazione di misura cautelare personale, abbia proceduto a diversa qualificazione del reato e abbia dichiarato il proprio difetto di cognizione in favore del Tribunale collegiale - Lamentata disparità di trattamento in relazione ad ipotesi simili - Ritenuta violazione dei diritti difensivi dell'imputato nonché dei principi del giudice naturale precostituito per legge e del giusto processo - Esclusione - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 34, comma 2, cod. proc. pen., in riferimento agli artt. 3, 24, 25 e 111 Cost., nella parte in cui non prevede l'incompatibilità a partecipare al giudizio, quale componente del tribunale in composizione collegiale, del giudice che, in origine investito del giudizio direttissimo conseguente ad arresto in flagranza di reato per lo stesso fatto nei confronti delle stesse persone, aveva convalidato l'arresto, applicato la misura cautelare e che, avendo ravvisato una diversa e più grave qualificazione giuridica del fatto, aveva dichiarato il proprio difetto di cognizione in favore del tribunale collegiale. Invero, nessuna menomazione dell'imparzialità del giudice può essere ravvisata poiché la diversa e più grave qualificazione giuridica del fatto fondata esclusivamente sulla valutazione del medesimo materiale processuale utilizzato per formulare l'originaria imputazione e per richiedere la misura restrittiva della libertà personale, non è di per sé idonea ad integrare il carattere di una valutazione di contenuto ma si risolve in una valutazione astratta delle risultanze processuali. Quanto all'asserita disparità di "trattamento normativo" rispetto ad altre situazioni simili, già ritenute dalla Corte idonee a pregiudicare l'imparzialità del giudizio, va rilevato che le ipotesi poste a raffronto non sono omogenee. Infatti, ciò che ha condotto la Corte a ravvisare la situazione di incompatibilità non è stata la valutazione sulla diversa qualificazione giuridica, quanto piuttosto il fatto che tale diversa qualificazione è derivata da un apprezzamento approfondito di elementi concernenti il merito dell'accusa. Sulla incompatibilità del giudice derivante da atti compiuti nel procedimento, le cui norme sono poste a tutela dei valori costituzionali della terzietà e della imparzialità della giurisdizione, v., citata, sentenza n. 224 del 2001. In particolare, sulla imparzialità del giudice, che richiede che la funzione di giudicare sia assegnata a un soggetto "terzo", v. citata, sentenza n. 155 del 1996. Sui presupposti della incompatibilità endoprocessuale, v. citate, sentenze n. 131 del 1996 e n. 401 del 1991. Su ipotesi di incompatibilità ravvisate dalla Corte in situazioni idonee a pregiudicare l'imparzialità di giudizio, concernenti casi in cui la diversa qualificazione giuridica del fatto è derivata da un apprezzamento approfondito di elementi riguardanti il merito dell'accusa, v., citate, sentenze n. 400 del 2008, n. 453 e n. 455 del 1994, n. 399 del 1992.
+
+## Norme
+
+- codice di procedura penale, art. 34, comma 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 25
+- Costituzione, art. 111
