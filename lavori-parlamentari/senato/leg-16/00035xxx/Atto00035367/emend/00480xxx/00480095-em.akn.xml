@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2165/A/G2.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2165/A/G2.104"/>
+					<an:FRBRdate date="2010-05-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2165/A/G2.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@"/>
+					<an:FRBRdate date="2010-05-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@.akn"/>
+					<an:FRBRdate date="2010-05-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-05-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-05-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2165/A/G2.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2165" showAs="DDL 2165"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/407" showAs="Butti"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1200" showAs="Grillo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17606" showAs="Menardi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/139" showAs="Baldini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3886" showAs="Bornacin"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/437" showAs="Camber"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17570" showAs="Cicolani"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25262" showAs="Gallo"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/25221" showAs="Musso"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/17810" showAs="Zanetta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2165</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Butti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Grillo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Menardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Baldini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Bornacin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Camber</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Cicolani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Gallo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Musso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Zanetta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            - considerata la necessità di recuperare i tagli effettuati a carico del fondo per l'emittenza locale che ammonta a 10 milioni di euro nel 2010, a 90 milioni di euro nel 2011 e a 55 milioni di euro nel 2012;</an:p>
+				<an:p align="justify">            - considerato che gli interventi previsti dall'articolo 45, comma 3, della legge 23 dicembre 1998 n. 448 e dall'articolo 52, comma 18, della legge 28 dicembre 2001 n. 448, sono i contributi destinati alle emittenti locali, istituiti dall'articolo 10 della legge n. 422 del 1993 a seguito di un Ordine del Giorno approvato all'unanimità da entrambe le Camere, che impegnava il Governo ad assumere iniziative idonee a sostenere l'equilibrio economico delle emittenti locali, considerata, tra l'altro, la stretta correlazione fra lo sviluppo del sistema televisivo locale e la crescita delle PMI;</an:p>
+				<an:p align="justify">            - considerato che l'articolo 10 della legge n. 422 del 1993 istituì, quindi, questi contributi, prevedendo, a tale scopo, l'utilizzazione di una parte non inferiore a tre quarti delle quote di competenza delle amministrazioni statali del canone di abbonamento alla radiotelevisione e degli introiti equiparati al canone;</an:p>
+				<an:p align="justify">            - pertanto tali contributi oggi dovrebbero ammontare a oltre 250 milioni di euro annui, ma non sono ancora mai stati portati a regime;</an:p>
+				<an:p align="justify">            - considerato che per il 2008 erano stanziati 150 milioni, ma con la legge finanziaria 2009 sono state effettuate pesanti riduzioni, poi compensate solo parzialmente;</an:p>
+				<an:p align="justify">            - considerato che dallo studio dei bilanci 2007 delle TV locali depositati presso l'Autorità per le Garanzie nelle Comunicazioni, quindi risalenti ad un periodo in cui non si era ancora in grave crisi economica, su 334 emittenti analizzate, 177 registravano utili per circa 25 milioni e le restanti 157 registravano perdite per circa 25 milioni; si valuti, quindi, quale potrà essere la situazione dei bilanci negli anni 2008 e 2009, in piena crisi economica (che sta comportando una pesante contrazione dei fatturati pubblicitari), dove - pur con 150 milioni annui di contributi - le tv locali saranno tutte in perdita; e ancor più negli anni dal 2010 in poi, cioè nell'era digitale, dove si moltiplica la necessità di investimenti in programmi e produzioni televisive;</an:p>
+				<an:p align="justify">            - considerato che senza tale provvedimento, la profonda crisi delle TV locali, se non la loro scomparsa, avrebbe anche pesantissime conseguenze su tutto il sistema delle PMI, che alle TV locali affidano il destino dei consumi dei loro prodotti attraverso la comunicazione pubblicitaria;</an:p>
+				<an:p align="justify">            - considerato che le PMI affidano la comunicazione dei loro prodotti alle TV locali e quindi, più le TV locali sono forti, più sono in grado di comunicare il prodotto delle PMI attraverso la pubblicità, quindi fame aumentare i consumi, la produzione e, di conseguenza, i livelli occupazionali;</an:p>
+				<an:p align="justify">            - considerato che la chiusura delle TV locali comporterebbe la perdita di milioni di posti di lavoro nel settore delle PMI, oltre ai 5.000 posti di lavoro direttamente assicurati dalle TV locali, ed altrettanti 5.000 dall'indotto;</an:p>
+				<an:p align="justify">            - considerato che nel maggio 2009 e nel novembre 2009 il Senato ha approvato due Ordini del Giorno che impegnano il Governo ad assumere ogni opportuna iniziativa volta a portare questi contributi a 150 milioni di euro annui,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">
+					            ad incrementare le risorse previste dalla lettera 
+					<an:i>c)</an:i>
+					 del comma 5 per gli interventi, di cui all'articolo 45, comma 3, della legge 23 dicembre 1998, n. 448, ed all'articolo 52, comma 18, della legge 28 dicembre 2001, n. 448, di 10 milioni di euro per il 2010, 90 milioni di euro per il 2011 e 55 milioni a decorrere dal 2012.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
