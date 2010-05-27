@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1611/C/1.308/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1611/C/1.308"/>
+					<an:FRBRdate date="2010-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1611/C/1.308/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.308"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@"/>
+					<an:FRBRdate date="2010-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@.akn"/>
+					<an:FRBRdate date="2010-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-05-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-05-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1611/C/1.308/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1611" showAs="DDL 1611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Giustizia" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17557" showAs="Garraffa"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/1376" showAs="Lumia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.308</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Garraffa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Lumia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 33 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «33. Al codice in materia di protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e successive modificazioni, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 all'articolo 132, il comma 3 è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					        ''3. I dati sono acquisiti presso il fornitore con le modalità di cui all'articolo 267-
+					<an:i>bis</an:i>
+					 del codice di procedura penale, ferme restando, nel caso previsto dal comma 2 del medesimo articolo, le condizioni di cui all'articolo 8, comma 2, lettera 
+					<an:i>f)</an:i>
+					, del presente codice per il traffico entrante.'';
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 all'articolo 139, al comma 5 sono premesse le parole: ''Ferma restando l'applicazione delle sanzioni di cui all'articolo 164-
+					<an:i>bis</an:i>
+					,'';
+				</an:p>
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 dopo l'articolo 164 è inserito il seguente:
+				</an:p>
+				<an:p>
+					''Art. 164-
+					<an:i>bis. (Illeciti per finalità giornalistiche).</an:i>
+					 1. In caso di diffusione o comunicazione di dati perle finalità di cui all'articolo 136, in violazione delle disposizioni di cui agli articoli 11 e 137 ovvero del codice di deontologia adottato ai sensi dell'articolo 139, comma 1, è applicata la sanzione amministrativa della pubblicazione, per intero o per estratto, della decisione che accerta la violazione, ovvero di una dichiarazione riassuntiva della medesima violazione, nella testata attraverso la quale è stata commessa la violazione nonché, ove ritenuto necessario, anche in altre testate. La pubblicazione è effettuata, secondo le modalità indicate dall'ordinanza, a spese dei responsabili.
+				</an:p>
+				<an:p>        2. Il Consiglio nazionale e il competente consiglio dell'ordine dei giornalisti, nonché, ove lo ritengano, le associazioni rappresentative di editori, possono far pervenire documenti e la richiesta di essere sentiti ai sensi dell'articolo 18, primo comma, della legge 24 novembre 1981, n. 689.</an:p>
+				<an:p>        3. Il Garante. trasmette al Consiglio nazionale dell'ordine dei giornalisti l'ordinanza di cui al comma 1 per l'applicazione di eventuali sanzioni disciplinari'';</an:p>
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 all'articolo 165, comma 1, le parole: ''162 e 164'' sono sostituite dalle seguenti: ''162,164 e 164-
+					<an:i>bis</an:i>
+					''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
