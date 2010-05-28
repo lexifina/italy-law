@@ -1,0 +1,19 @@
+# Massima n. 34690
+
+- Pronuncia: Corte costituzionale, sentenza 188/2010 (ECLI:IT:COST:2010:188)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:188
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Procedimento penale per il reato di favoreggiamento personale a carico di un senatore - Diniego di autorizzazione della Camera di appartenenza all'acquisizione di tabulati concernenti il traffico telefonico relativo a tutte le utenze in uso al parlamentare - Conflitto di attribuzione tra poteri dello Stato sollevato dalla Procura della Repubblica presso il Tribunale di Roma - Inadeguata motivazione circa la "necessità" dell'atto oggetto della richiesta di autorizzazione - Spettanza al Senato della Repubblica della potestà esercitata.
+
+## Testo
+
+In relazione al giudizio per conflitto di attribuzione tra poteri dello Stato sollevato dalla Procura della Repubblica presso il Tribunale di Roma, in occasione del procedimento penale per il reato di favoreggiamento personale a carico di un senatore, per il diniego di autorizzazione della Camera di appartenenza all'acquisizione di tabulati concernenti il traffico telefonico relativo a tutte le utenze in uso al parlamentare, va dichiarato che spettava al Senato della Repubblica negare, con la medesima deliberazione del 21 dicembre 2007, l'autorizzazione, richiesta dalla Procura della Repubblica presso il Tribunale di Roma nell'ambito del medesimo procedimento penale n. 32200/06, ad acquisire i tabulati di tutte le utenze telefoniche fisse e mobili in uso al senatore Giuseppe Valentino per il periodo tra il 10 e il 20 luglio 2005. La richiesta della Procura risulta formulata in termini di «necessità assoluta» con riguardo ad una estensione assai ampia degli atti da compiere, limitati sì, ma solo con riguardo al periodo "interessato", mentre erano diretti genericamente e onnicomprensivamente «ai tabulati delle comunicazioni telefoniche intercorse su tutte le utenze fisse e mobili in uso al senatore Valentino», senza alcuna previa indicazione specificativa - ad esempio - tra quelle private e quelle professionali o di appartenenza istituzionale, tra quelle in uso esclusivo o in uso promiscuo; il tutto, con una evidente idoneità intrusiva e senza alcuna particolare spiegazione. La richiesta, poi, non propone all'organo parlamentare alcun elemento e argomento per apprezzare la "continenza" dell'atto nel rapporto tra esigenze di investigazione e esigenze - appunto - di "contenere" nei limiti della «necessità (assoluta)» l'incidenza sui valori costituzionali tutelati. Si preoccupa, invece, di censurare una esorbitanza nel momento in cui il Senato si sarebbe - esso - «appropriato di un potere di bilanciamento degli interessi in gioco». È chiaro, al riguardo, che il bilanciamento deve essere operato - nella prospettiva della predicata «necessità» - dall'autorità procedente e richiedente, la quale, tuttavia, è tenuta a darne conto nella motivazione. Il che nella specie non è avvenuto. Analogo rilievo va fatto con riguardo al mancato ricorso o - meglio - alla mancata rappresentazione delle ragioni dell'omesso ricorso ad atti di investigazione alternativi, essendo di tutta evidenza che la concreta indisponibilità o impraticabilità o anche solo difficoltà di indagini alternative tanto più giovano a giustificare l'atto nei confronti del parlamentare in termini di «necessità». Sull'ammissibilità del conflitto di attribuzione tra poteri dello Stato, sussistendone i presupposti oggettivi e soggettivi, v. citata ordinanza n. 276/2008
+
+## Parametri
+
+- Costituzione, art. 68, comma 3
+- legge, 20/06/2003 n. 140, art. 4
+- legge, 20/06/2003 n. 140, art. 5
