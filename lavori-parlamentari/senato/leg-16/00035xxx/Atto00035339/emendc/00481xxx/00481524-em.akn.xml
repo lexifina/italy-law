@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2150/C/5.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2150/C/5.10"/>
+					<an:FRBRdate date="2010-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2150/C/5.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@"/>
+					<an:FRBRdate date="2010-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@.akn"/>
+					<an:FRBRdate date="2010-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-06-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-06-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2150/C/5.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2150" showAs="DDL 2150"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Istruzione pubblica, beni culturali" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/1091" showAs="Garavaglia"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22774" showAs="Procacci"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2150</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Procacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 1 con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>1.</an:i>
+					 Al fine di quanto previsto nell'articolo 3, commi 27, 28 e 29, della legge 24 dicembre 2007, n. 244, all'articolo 5-
+					<an:i>bis</an:i>
+					 del decreto-legge 23 aprile 1993, n. 118, convertito, con modificazioni, dalla legge 23 giugno 1993, n. 202, e successive modificazioni, i commi 2, 3 e 4 sono sostituiti dai seguenti:
+				</an:p>
+				<an:p>
+					        "
+					<an:i>2.</an:i>
+					 Nella società di cui al comma 1, il Ministro dell'economia e delle finanze assume la titolarità delle relative partecipazioni e il Ministro per i beni e le attività culturali, di seguito denominato: «Ministro», esercita i diritti dell'azionista, sentito il Ministro dell'economia e delle finanze per quanto riguarda i profili patrimoniali, finanziari e statutari.
+				</an:p>
+				<an:p>
+					        
+					<an:i>3.</an:i>
+					 La società presenta, annualmente, al Ministro, unitamente alle società in essa inquadrate, una proposta di programma di produzione, distribuzione e promozione in Italia e all'estero di opere cinematografiche di lungo e corto metraggio di interesse culturale, un programma di attività nei settori dell'esercizio, delle industrie tecniche e dei servizi e di altre attività previste dagli statuti delle singole società inquadrate, nonché una proposta di programma di attività finanziaria volta al potenziamento del cinema nazionale ed un programma di riconversione e restauro di pellicole e materiali fotocinematografici dei propri archivi; la società è tenuta inoltre a presentare un programma di acquisizione e potenziamento di sale cinematografiche per promuovere in particolare la programmazione della cinematografia italiana ed europea.
+				</an:p>
+				<an:p>
+					        
+					<an:i>4.</an:i>
+					 Il programma annuale delle attività di cui al comma 3 è approvato dal Ministro, che assegna le risorse finanziarie necessarie per il suo svolgimento e per il funzionamento della società, inclusa la copertura dei costi per il personale, con proprio decreto sulla base del programma preventivamente approvato. Le risorse per l'attuazione del programma annuale vengono assegnate ed erogate a valere sul Fondo unico dello spettacolo di cui all'articolo 1 della legge 30 aprile 1985, n. 163''».
+				</an:p>
+				<an:p>        Conseguentemente, sopprimere il comma 2.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
