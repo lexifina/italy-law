@@ -1,0 +1,17 @@
+# Massima n. 34783
+
+- Pronuncia: Corte costituzionale, sentenza 230/2010 (ECLI:IT:COST:2010:230)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:230
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Delegazione legislativa - Sindacabilità - Criteri.
+
+## Testo
+
+Il controllo della conformità della norma delegata alla norma delegante richiede un confronto tra gli esiti di due processi ermeneutici paralleli: l'uno relativo alla disposizione che determina l'oggetto, i principi e i criteri direttivi della delega; l'altro relativo alla norma delegata da interpretare nel significato compatibile con questi ultimi. Il contenuto della delega deve essere identificato tenendo conto del complessivo contesto normativo nel quale si inseriscono la legge delega ed i relativi principi e criteri direttivi, nonché delle finalità che la ispirano, verificando, nel silenzio del legislatore delegante sullo specifico tema, che le scelte del legislatore delegato non siano in contrasto con gli indirizzi generali della medesima. I principi posti dal legislatore delegante costituiscono, poi, non soltanto base e limite delle norme delegate, ma anche strumenti per l'interpretazione della loro portata; e tali disposizioni devono essere lette, fintanto che sia possibile, nel significato compatibile con detti principi, i quali, a loro volta, vanno interpretati alla luce della  ratio  della legge delega. La delega legislativa non esclude ogni discrezionalità del legislatore delegato, che può essere più o meno ampia, in relazione al grado di specificità dei criteri fissati nella legge delega. Pertanto, per valutare se il legislatore abbia ecceduto tali - più o meno ampi - margini di discrezionalità, occorre individuare la  ratio  della delega, per verificare se la norma delegata sia con questa coerente. L'art. 76 Cost. non osta, infatti, all'emanazione di norme che rappresentino un ordinario sviluppo e, se del caso, un completamento delle scelte espresse dal legislatore delegante, poiché deve escludersi che la funzione del legislatore delegato sia limitata ad una mera scansione linguistica delle previsioni stabilite dal primo; dunque, nell'attuazione della delega è possibile valutare le situazioni giuridiche da regolamentare ed effettuare le conseguenti scelte, nella fisiologica attività di riempimento che lega i due livelli normativi. Sulla struttura del controllo di conformità della norma delegata alla norma delegante, v. le citate sentenze n. 98/2008, n. 340/2007 e n. 170/2007. Sulla necessità che il contenuto della delega sia identificato tenendo conto del complessivo contesto normativo nel quale si inseriscono la legge delega ed i relativi principi e criteri direttivi, nonché delle finalità che la ispirano, v. le citate sentenze n. 341/2007, n. 426/2006 e n. 285/2006. Sull'interpretazione delle disposizioni delegate nel significato compatibile con i principi e i criteri direttivi della norma delegante, v. le citate sentenze n. 98/2008, n. 340/2007 e n. 170/2007. Sull'interpretazione dei principi e dei criteri direttivi della norma delegante compatibilmente con la  ratio  della stessa, v. le citate sentenze n. 413/2002, n. 307/2002 e n. 290/2001. Sulla discrezionalità del legislatore delegato, v. le citate sentenze n. 199/2003 e n. 163/2000 e le ordinanze n. 213/2005 e n. 490/2000.
+
+## Parametri
+
+- Costituzione, art. 76
