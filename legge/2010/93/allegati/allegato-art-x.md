@@ -1,0 +1,7 @@
+ARTICOLO X
+
+NOTIFICAZIONE DI ATTI
+
+1. La domanda che ha ad oggetto la notificazione di atti deve essere trasmessa non meno di novanta giorni prima della scadenza del termine utile per la notificazione stessa. Tuttavia, in caso di urgenza, la Parte richiesta fa il possibile per eseguire la notificazione nel piu' breve termine richiesto.
+
+2. La Parte richiesta da' la prova dell'avvenuta notificazione inviando una ricevuta datata e firmata dal destinatario o una attestazione delle modalita' e della data della notificazione, nonche' della identita' e della qualita' della persona che ha eventualmente ricevuto l'atto. Se l'atto da notificare e' trasmesso in due copie, la ricevuta o l'attestazione puo' essere apposta sulla copia che deve essere restituita.
