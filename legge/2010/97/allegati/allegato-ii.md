@@ -1,0 +1,9 @@
+ALLEGATO II
+
+DEFINIZIONE DEI PRODOTTI "BABY BEEF"
+
+(di cui all'articolo 27, paragrafo 2)
+
+Fatte salve le regole d'interpretazione della nomenclatura combinata, il testo della designazione delle merci ha soltanto valore indicativo in quanto il regime preferenziale e' determinato, nel quadro del presente allegato, dall'applicazione dei codici NC. Quando figura "ex" davanti al codice NC, il regime preferenziale e' determinato dalla combinazione del codice NC e della designazione corrispondente.
+
+Parte di provvedimento in formato grafico
