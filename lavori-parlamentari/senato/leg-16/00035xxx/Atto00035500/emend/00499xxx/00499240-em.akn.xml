@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/G4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/G4"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2228/A/G4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@.akn"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-07-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-07-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2228/A/G4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25240" showAs="Mascitelli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22722" showAs="Caforio"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22864" showAs="Belisario"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22750" showAs="Giambrone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25197" showAs="Bugnano"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25294" showAs="De Toni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/4414" showAs="Di Nardo"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17211" showAs="Lannutti"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/23254" showAs="Li Gotti"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/25227" showAs="Pardi"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/12480" showAs="Pedica"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Mascitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Caforio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Belisario</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Giambrone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Bugnano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Toni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Di Nardo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Lannutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Li Gotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Pardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Pedica</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di esame del disegno di legge «Conversione in legge del decreto-legge 31 maggio 2010, n. 78, recante misure urgenti in materia di stabilizzazione finanziaria e di competitività economica»,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            sarebbero circa 200.000 i lavoratori attualmente interessati da provvedimenti ordinari di integrazione salariale;</an:p>
+				<an:p align="justify">            per circa di tali lavoratori sarebbe prossima la scadenza del termine di 12 mesi previsto dalla attuale normativa per l'erogazione del contributo;</an:p>
+				<an:p align="justify">            in base alle normative vigenti solo alcune categorie di lavoratori possono usufruire dei principali strumenti di protezione sociale quali provvedimenti ordinari di integrazione salariale e indennità di disoccupazione, mentre altre categorie, tra cui i dipendenti delle piccole imprese e i giovani lavoratori con contratti temporanei, ne sono attualmente prive;</an:p>
+				<an:p align="justify">            la grave situazione dell'occupazione venutasi a determinare a seguito della crisi economica mondiale richiede di porre in essere una riforma generale del sistema dei cosiddetti Il ammortizzatori sociali «;</an:p>
+				<an:p align="justify">        impegna il governo:</an:p>
+				<an:p align="justify">            a operare attraverso gli opportuni strumenti legislativi al fine di provvedere all'estensione da 12 a 24 mesi del periodo massimo di erogazione dei provvedimenti di integrazione salariale;</an:p>
+				<an:p align="justify">            ad assicurare, attraverso gli opportuni strumenti legislativi, il riconoscimento dell'assicurazione contro la disoccupazione volontaria per tutti i rapporti di lavoro subordinato e i rapporti di collaborazione a progetto, aventi a oggetto una prestazione d'opera coordinata e continuativa, svolta senza vincolo di subordinazione da soggetti iscritti alla gestione separata di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, e privi di copertura da parte di altre forme obbligatorie di previdenza e a prevedere l'estensione della disciplina della cassa integrazione guadagni ordinaria a tutti i rapporti di lavoro subordinato alle dipendenze di imprese private, secondo i seguenti criteri:</an:p>
+				<an:p align="justify">
+					                
+					<an:i>a)</an:i>
+					 armonizzazione dei trattamenti di disoccupazione vigenti e creazione di uno strumento unico indirizzato al sostegno del reddito e al reinserimento lavorativo dei soggetti disoccupati senza distinzione di qualifica, appartenenza settoriale, dimensione di impresa e tipologia di contratti di lavoro;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>b)</an:i>
+					 modulazione dei trattamenti collegata all'età anagrafica dei lavoratori e alle condizioni occupazionali più difficili presenti nelle regioni del Mezzogiorno, con particolare riguardo alla condizione femminile;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>c)</an:i>
+					 previsione, per i soggetti che benefici ano dei trattamenti di disoccupazione, della copertura figurativa ai lini previdenziali calcolata sulla base della retribuzione;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>d)</an:i>
+					 estensione e armonizzazione della cassa integrazione ordinaria con la previsione di modalità di regolazione diverse a seconda degli interventi da attuare e di applicazione anche in caso di interventi di prevenzione, protezione e risanamento ambientale che determinino la sospensione dell'attività lavorativa;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>e)</an:i>
+					 coinvolgimento e partecipazione attiva delle aziende nel processo di ricollocazione dei lavoratori;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>f)</an:i>
+					 valorizzazione del ruolo degli enti bilateraii, al iine dell'individuazione di eventuali prestazioni aggiuntive rispetto a quelle assicurate dal sistema generale;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>g)</an:i>
+					 connessione con politiche attive per il lavoro, in particolare favorendo la stabilizzazione dei rapporti di lavoro, l'occupazione, soprattutto giovanile e femminile, nonché l'inserimento lavorativo di soggetti appartenenti alle fasce deboli del mercato, con particolare riferimento ai lavoratori giovani e a quelli in età più matura al fine di potenziare le politiche di invecchiamento attivo;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>h)</an:i>
+					 potenziamento dei servizi per l'impiego, al fine di collegare e coordinare l'erogazione delle prestazioni di disoccupazione a percorsi di formazione e inserimento lavorativo, in coordinamento con gli enti previdenziali preposti all'erogazione dei relativi sussidi e benefIci anche attraverso la previsione di forme- di comunicazione informatica da parte degli enti previdenziali al Ministero del lavoro, della salute e della previdenza sociale dei dati relativi ai lavoratori percettori di trattamento di sostegno al reddito.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
