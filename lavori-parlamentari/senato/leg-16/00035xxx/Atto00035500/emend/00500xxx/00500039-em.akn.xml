@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/9.319a/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/9.319a"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2228/A/9.319a/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.319a"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@.akn"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-07-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-07-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2228/A/9.319a/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22860" showAs="Astore"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/27223" showAs="Burgaretta Aparo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/23026" showAs="Oliva"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/10369" showAs="Villari"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.319a</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Astore</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Burgaretta Aparo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Oliva</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Villari</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 37, aggiungere i seguenti:</an:p>
+				<an:p align="justify">
+					        «37-
+					<an:i>bis.</an:i>
+					 Nella regione Siciliana, a decorrere dal 1º gennaio 2011 e nell'ambito delle risorse di cui al comma 37-
+					<an:i>ter</an:i>
+					, le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, presso cui prestano servizio, alla data di conversione in legge del presente decreto-legge, lavoratori titolari di contratti a termine stipulati in attuazione di processi di stabilizzazione di soggetti appartenenti al bacino dei lavori socialmente utili ovvero stipulati ai sensi di speciali disposizioni di legge, sono autorizzate, ai di fuori dei limiti alle assunzioni a tempo indeterminato di cui alla presente legge e delle vigenti disposizioni in materia e nell'ambito delle possibilità assunzionali a tempo indeterminato previste dalle disposizioni in deroga nel periodo dal 1997 al 2010 nei limiti dei posti disponibili in organico, ad assumere a tempo indeterminato, entro il 31 dicembre 2012, i predetti lavoratori purché gli stessi siano in possesso di un'anzianità complessiva non inferiore a otto anni nell'ultimo decennio per attività lavorativa e/o per utilizzazione in attività socialmente utile e purché abbiano avuto accesso al lavoro e/o all'utilizzazione mediante procedure selettive di natura concorsuale o previste da norme di legge secondo quanto disposto dall'articolo 17 del decreto-legge 1º luglio 2009, n. 78, convertito con modificazioni nella legge 3 agosto 2009, n. 102. Le amministrazioni pubbliche che provvedono alle procedure di stabilizzazione cui al presente comma sono autorizzate, ai fini della determinazione degli obiettivi stabiliti dagli articoli 76, 77-
+					<an:i>bis</an:i>
+					 e 77-
+					<an:i>ter</an:i>
+					 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 e dal presente decreto, ad escludere dal calcolo le somme connesse al processo di stabilizzazione. Le medesime amministrazioni pubbliche, nelle more e comunque entro il 31 dicembre 2012, al fine di assicurare la continuità dell'azione amministrativa, sono autorizzate ad avvalersi del personale, individuato nei presente comma, in servizio al 31 dicembre 2009, in deroga a quanto previsto dalle vigenti disposizioni in materia e dagli articolo 76, 77-
+					<an:i>bis</an:i>
+					 e 77-
+					<an:i>ter</an:i>
+					 del decreto-legge 25 giugno 2008, n. 112 convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 e dalle disposizioni di cui al presente decreto. La regione Siciliana, al fine di rispettare il tetto massimo di spesa di cui al comma 2, con proprio provvedimento provvederà alla ripartizione somme di cui al presente articolo.
+				</an:p>
+				<an:p align="justify">
+					        37-
+					<an:i>ter</an:i>
+					. Per le finalità di cui al comma 37-
+					<an:i>bis</an:i>
+					 è stanziata, a decorrere dal 1º gennaio 2011, la somma di euro 350 milioni. A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto-legge, con decreto del Ministro dell'economia e delle finanze, sono aumentate le aliquote di cui all'allegato 1 del testo unico delle disposizioni legislative concernenti le imposte sulla produzione e sui consumi e relative sanzioni penali e amministrative, di cui al decreto legislativo 26 ottobre 1995, n. 504, relative ai tabacchi lavorati, al fine di assicurare maggiori entrate in misura non inferiore a 350 milioni di euro annui a decorrere dal 2011».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
