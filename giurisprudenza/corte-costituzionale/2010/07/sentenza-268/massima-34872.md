@@ -1,0 +1,25 @@
+# Massima n. 34872
+
+- Pronuncia: Corte costituzionale, sentenza 268/2010 (ECLI:IT:COST:2010:268)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:268
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Caccia - Norme della Regione Molise - Comitati di gestione degli ambiti territoriali per la gestione programmata della caccia - Composizione - Violazione del principio di rappresentanza paritaria delle organizzazioni professionali agricole e delle associazioni venatorie stabilito dalla legislazione statale - Illegittimità costituzionale  in parte qua .
+
+## Testo
+
+È costituzionalmente illegittimo, per violazione dell'art. 117, secondo comma, lett.  s ), Cost., l'art. 19, comma 1, lett.  a ) e  b ), della legge della Regione Molise 10 agosto 1993, n. 19, nella parte in cui, con riferimento alla composizione degli enti di gestione degli ambiti territoriali di caccia, non garantisce la paritaria rappresentanza delle associazioni venatorie e delle organizzazioni professionali agricole. Premesso che il censurato art. 19, comma 1, statuisce che i Comitati di gestione della caccia sono costituiti «da cinque rappresentanti delle organizzazioni professionali agricole maggiormente rappresentative a livello nazionale ed organizzate nella provincia di cui uno per organizzazione. Nel caso in cui le associazioni anzidette siano presenti in numero inferiore a cinque, le designazioni necessarie per completare le rappresentative saranno espresse dalle organizzazioni aventi il maggior numero di iscritti» (lett.  a ); e che prevede la partecipazione di «un rappresentante per ciascuna associazione venatoria riconosciuta a livello nazionale ed organizzata nella provincia da almeno un anno. Inoltre, ciascuna associazione designa, fino ad un massimo di tre, un numero di componenti che rappresentino ciascuno almeno un decimo del totale dei cacciatori residenti nella provincia ammessi ad esercitare l'attività venatoria» (lett.  b ); la disciplina regionale in esame si pone in contrasto con l'art. 14, comma 10, della legge n. 157 del 1992, ove è disposto che «negli organi direttivi degli ambiti territoriali di caccia deve essere assicurata la presenza paritaria, in misura pari complessivamente al 60 per cento dei componenti, dei rappresentanti di strutture locali delle organizzazioni professionali agricole maggiormente rappresentative a livello nazionale e delle associazioni venatorie nazionali riconosciute, ove presenti in forma organizzata sul territorio». Il legislatore regionale ha individuato, infatti, criteri di composizione dei Comitati di gestione degli ambiti territoriali di caccia che non necessariamente prevedono - in conformità alla citata norma statale interposta - la presenza paritaria delle associazioni venatorie e di quelle degli agricoltori, ponendo così queste ultime in una posizione di potenziale svantaggio, sotto il profilo della loro rappresentanza, nei suddetti Comitati. La previsione regionale va, pertanto, dichiarata illegittima in quanto non rispetta lo standard minimo ed uniforme di composizione degli organi preposti alla gestione dell'attività venatoria stabilito dal legislatore statale. (Restano assorbiti gli altri profili di censura dedotti dal rimettente). Sull'inderogabilità del principio di rappresentatività di cui all'art. 14, comma 10, della legge n. 157 del 1992, v. la citata sentenza n. 299/2001. Per l'affermazione che l'art. 14, comma 10, della legge n. 157 del 1992, nello stabilire «i criteri di composizione degli organi preposti alla gestione dell'attività venatoria negli ambiti territoriali individuati secondo le modalità indicate, fissa uno standard minimo ed uniforme di composizione degli organi stessi che deve essere garantito in tutto il territorio nazionale», v. la citata sentenza n. 165/2009.
+
+## Norme
+
+- legge della Regione Molise, 10/08/1993 n. 19, art. 19, comma 1 lett. a)
+- legge della Regione Molise, 10/08/1993 n. 19, art. 19, comma 1 lett. b)
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 117, comma 2 lett. s)
+- legge, 11/02/1992 n. 157, art. 14, comma 10
+- Costituzione, art. 117, comma 3
