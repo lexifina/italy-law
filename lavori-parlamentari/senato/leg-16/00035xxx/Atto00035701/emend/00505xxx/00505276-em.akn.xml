@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2292/A/G1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2292/A/G1"/>
+					<an:FRBRdate date="2010-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2292/A/G1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@"/>
+					<an:FRBRdate date="2010-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@.akn"/>
+					<an:FRBRdate date="2010-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-08-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-08-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2292/A/G1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2292" showAs="DDL 2292"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/16639" showAs="Sanna"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22988" showAs="Leddi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25296" showAs="Marinaro"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/23254" showAs="Li Gotti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2292</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Sanna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Leddi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Marinaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Li Gotti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        decidendo sulla proposta di costituzione del Senato nel giudizio davanti alla Corte costituzionale per conflitto di attribuzione tra poteri dello Stato, sollevato dal Tribunale di Firenze, e dichiarato ammissibile con ordinanza del 10/13 maggio 2010, nei confronti del Senato della Repubblica, concernente l'insindacabilità delle opinioni espresse dall'onorevole Giorgio Stracquadanio, senatore all'epoca dei fatti;</an:p>
+				<an:p align="justify">        atteso che il membro del Parlamento in questione, in una recente intervista, ha prefigurato per il Presidente della Camera dei deputati l'applicazione della "ipotesi Boffo" (o anche "trattamento Boffo"), intendendosi riferire alla campagna di stampa nei confronti dell'allora direttore del quotidiano della Conferenza Episcopale Italiana, la cui portata diffamatoria e basata su carte false ha portato il direttore del giornale che se ne è fatto veicolo alla temporanea sospensione dall'Ordine dei giornalisti ed alle pubbliche scuse alla vittima della campagna di stampa;</an:p>
+				<an:p align="justify">        ritenendo inopportuno che il Senato della Repubblica avvalli anche indirettamente una applicazione impropria dell'articolo 68 della Costituzione, posto a tutela della libera espressione del Parlamento, e non quale scudo improprio di intenti diffamatori,</an:p>
+				<an:p align="justify">        delibera di non costituire in giudizio il Senato nel conflitto di attribuzione sollevato dal Tribunale Ordinario di Firenze, dichiarato ammissibile dalla Corte costituzionale con ordinanza del 10/13 maggio 2010</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
