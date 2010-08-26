@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 giugno 2010
+
+NAPOLITANO Berlusconi, Presidente del Consiglio dei Ministri e ad interim Ministro dello sviluppo economico Prestigiacomo, Ministro dell'ambiente e della tutela del territorio e del mare Brunetta, Ministro per la pubblica amministrazione e l'innovazione Ronchi, Ministro per le politiche europee Bondi, Ministro per i beni e le attivita' culturali Fitto, Ministro per i rapporti con le regioni Maroni, Ministro dell'interno Alfano, Ministro della giustizia La Russa, Ministro della difesa Tremonti, Ministro dell'economia e delle finanze Fazio, Ministro della salute Calderoli, Ministro per la semplificazione normativa Matteoli, Ministro delle infrastrutture e dei trasporti Galan, Ministro delle politiche agricole alimentari e forestali Visto, il Guardasigilli: Alfano
