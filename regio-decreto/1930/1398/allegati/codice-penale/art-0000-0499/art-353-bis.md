@@ -1,0 +1,5 @@
+Art. 353-bis.
+
+(( (Turbata liberta' del procedimento di scelta del contraente). ))
+
+((Salvo che il fatto costituisca piu' grave reato, chiunque con violenza o minaccia, o con doni, promesse, collusioni o altri mezzi fraudolenti, turba il procedimento amministrativo diretto a stabilire il contenuto del bando o di altro atto equipollente al fine di condizionare le modalita' di scelta del contraente da parte della pubblica amministrazione e' punito con la reclusione da sei mesi a cinque anni e con la multa da euro 103 a euro 1.032)).
