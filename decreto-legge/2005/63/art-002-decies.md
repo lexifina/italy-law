@@ -1,0 +1,3 @@
+Art. 2-decies.
+
+((ARTICOLO ABROGATO DAL D.LGS. 24 MARZO 2006, N. 156))
