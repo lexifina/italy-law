@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/6/C/10.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/6/C/10.1"/>
+					<an:FRBRdate date="2010-09-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/6/C/10.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@"/>
+					<an:FRBRdate date="2010-09-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@.akn"/>
+					<an:FRBRdate date="2010-09-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-09-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-09-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/6/C/10.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Congiunzione/16/6" showAs="Congiunzione 6"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Igiene e sanita'" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17846" showAs="Bianchi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22718" showAs="Bosone"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/580" showAs="Chiaromonte"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22909" showAs="Cosentino"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/22759" showAs="Marino"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Congiunzione 6</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bianchi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bosone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Chiaromonte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Cosentino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo 10 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «Art. 10. - 1. Il datore di lavoro è obbligato a garantire la sicurezza nell'erogazione dell'assistenza sanitaria, delle cure, degli interventi e dei trattamenti medici.</an:p>
+				<an:p>        2. Qualora il datore di lavoro ricorra a competenze, persone e servizi, esterne alla struttura, egli non è esonerato dalle responsabilità di cui al comma 1.</an:p>
+				<an:p>
+					        3. Il datore di lavoro adotta le misure necessarie a garantire la sicurezza delle cure ed uno 
+					<an:i>standard</an:i>
+					 organizzativo in grado di assicurare il perseguimento dell'obiettivo di tutela della salute, mediante la garanzia di sicurezza del servizio sanitario, della prevenzione dei danni alla salute dei pazienti, tenuto conto del grado di sicurezza esigibile allo stato della scienza e della tecnica.
+				</an:p>
+				<an:p>        4. Ai fini di cui al comma 3, il datore di lavoro, nel quadro delle proprie responsabilità, adotta le misure necessarie a garantire l'appropriatezza clinica e organizzativa dell'assistenza sanitaria, la celerità e continuità assistenziale attraverso la predisposizione di attività di monitoraggio, di prevenzione dei rischi e degli eventi avversi, di informazione e formazione del personale, nonché l'approntamento della più adeguata organizzazione di mezzi e persone.</an:p>
+				<an:p>
+					        5. Al fine di garantire un adeguato livello di qualità delle cure, a garanzia della salute del paziente e dell'esercizio della corretta attività sanitaria degli operatori sanitari, il datore di lavoro si adegua a 
+					<an:i>standard</an:i>
+					 di qualificazione strutturali, tecnologici ed organizzativi per l'esercizio dell'attività sanitaria in sicurezza e in conformità alle linee guida per le aziende ospedaliere, predisposte con decreto del Ministro del lavoro, della salute e delle politiche sociali.
+				</an:p>
+				<an:p>        6. Il datore di lavoro mette in atto le misure necessarie a garantire la sicurezza delle cure basandosi sui seguenti princìpi generali di prevenzione:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 monitoraggio, valutazione dei rischi e degli eventi avversi;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 prevenzione, riduzione, eliminazione dei rischi in relazione alle conoscenze acquisite in base al progresso tecnico-scientifico;
+				</an:p>
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 predisposizione di organizzazione di mezzi e persone per garantire il miglior livello di sicurezza delle cure erogate, tutela della salute del paziente e delle condizioni di lavoro degli operatori sanitari;
+				</an:p>
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 manutenzione e sostituzione di apparecchiature, presidi, attrezzature, macchine, impianti, in riferimento alla sicurezza della prestazione sanitaria da erogare;
+				</an:p>
+				<an:p>
+					            
+					<an:i>e)</an:i>
+					 informazione, formazione, consultazione, partecipazione degli operatori sanitari in relazione alla gestione del rischio clinico, alla sicurezza dell'assistenza sanitaria, alle cure ed agli interventi.
+				</an:p>
+				<an:p>        7. Il datore di lavoro organizza all'interno dell'azienda sanitaria o dell'unità produttive, il servizio di prevenzione e protezione, incaricando persone interne o esterne all'azienda, in possesso di attitudini e capacità adeguate ad assicurare la sicurezza delle cure, mediante le unità di gestione del rischio clinico, di seguito denominate ''unità''.</an:p>
+				<an:p>
+					        8. Le unità esplicano le proprie competenze raccordando al loro interno le seguenti figure professionali: il coordinatore clinico del 
+					<an:i>risk management</an:i>
+					, i medici specialisti, un medico legale, un legale esperto nel settore della direzione sanitaria, rappresentanti del personale sanitario non medico per l'
+					<an:i>audit</an:i>
+					 e il monitoraggio, per la consulenza e l'assistenza medico-legale nei casi a rischio e nei casi di contenzioso per consenso informato, per la compilazione delle cartelle cliniche, per prestazioni di urgenza, per la raccolta documentale, per i rapporti con le compagnie assicurative e l'autorità giudiziaria.
+				</an:p>
+				<an:p>        9. Il datore di lavoro comunica alla Regione territorialmente competente il nominativo della persona responsabile del servizio di gestione del rischio clinico, corredando la comunicazione con la documentazione inerente alla programmazione per la gestione del servizio e al periodo di tempo di svolgimento del medesimo.</an:p>
+				<an:p>        10. È prevista la tutela dei dati raccolti nelle unità e ne è vietata la divulgazione per scopi differenti da quelli previsti dalla presente legge».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
