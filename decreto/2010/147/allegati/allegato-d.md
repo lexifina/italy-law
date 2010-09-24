@@ -1,0 +1,5 @@
+Allegato D
+
+Dichiarazione concernente l'installazione sul veicolo del sistema dischi freno
+
+Parte di provvedimento in formato grafico

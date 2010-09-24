@@ -1,0 +1,5 @@
+Allegato B
+
+Modello del certificato di omologazione/estensione.
+
+Parte di provvedimento in formato grafico
