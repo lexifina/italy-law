@@ -1,0 +1,63 @@
+# Corte costituzionale, ordinanza 295/2010
+
+- ECLI: ECLI:IT:COST:2010:295
+- Tipo: ordinanza
+- Presidente: AMIRANTE
+- Relatore: Alessandro Criscuolo
+- Redattore: Alessandro Criscuolo
+- Data della decisione: 04/10/2010
+- Data del deposito: 08/10/2010
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 34958
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:295
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Francesco AMIRANTE; Giudici : Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Alessandro CRISCUOLO, Paolo GROSSI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 5, comma 3, del decreto legislativo 26 maggio 1997, n. 153 (Integrazione dell'attuazione della direttiva 91/308/CEE in materia di riciclaggio dei capitali di provenienza illecita), promosso dal Tribunale di Novara, nel procedimento penale a carico di E. T. ed altri, con ordinanza del 12 dicembre 2007, iscritta al n. 123 del registro ordinanze 2010 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 18, prima serie speciale, dell'anno 2010.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio del 22 settembre 2010 il Giudice relatore Alessandro Criscuolo.
+
+## Testo
+
+Ritenuto che il Tribunale di Novara, in composizione monocratica, con ordinanza depositata il 12 dicembre 2007 (trasmessa dalla cancelleria del giudice a quo il 17 febbraio 2010 e pervenuta alla Corte costituzionale il 23 marzo 2010), ha sollevato, in riferimento agli articoli 76 e 77 della Costituzione, questione di legittimità costituzionale dell'articolo 5, comma 3, del decreto legislativo 26 maggio 1997, n. 153 (Integrazione dell'attuazione della direttiva 91/308/CEE in materia di riciclaggio dei capitali di provenienza illecita), nelle parti in cui configura come delitto la fattispecie criminosa ivi descritta e in cui commina pene superiori ai limiti edittali indicati nella legge di delega 6 febbraio 1996, n. 52 (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee - legge comunitaria 1994);
+ che il giudice a quo, investito del processo promosso nei confronti di tre persone imputate in concorso del delitto previsto dalla norma denunciata, per avere svolto «l'esercizio abusivo di attività finanziaria trasferendo denaro», espone che i difensori hanno eccepito l'illegittimità costituzionale di detta norma, per contrasto con gli artt. 25, 76 e 77 Cost.;
+ che il rimettente, dopo una ricostruzione del quadro normativo, giudica manifestamente infondata la questione di legittimità costituzionale sollevata dai difensori, sia con riferimento all'asserito vizio di eccesso di delega in cui il legislatore sarebbe incorso nella individuazione della condotta incriminata, sia in relazione alla pretesa violazione del principio di riserva di legge in materia penale;
+ che, invece, il giudice a quo condivide il dubbio di legittimità costituzionale concernente il dedotto eccesso di delega in relazione alla scelta del legislatore di configurare la fattispecie criminosa in esame come delitto e all'entità della pena comminata;
+ che, ad avviso del Tribunale, il legislatore delegato doveva ritenersi abilitato ad introdurre unicamente fattispecie criminose di tipo contravvenzionale, sanzionate con pene non eccedenti i limiti edittali contemplati per le ipotesi di reato previste dal decreto-legge 3 maggio 1991, n.143 (Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzazione del sistema finanziario a scopo di riciclaggio), convertito, con modificazioni, dalla legge 5 luglio 1991, n. 197;
+ che a tale conclusione condurrebbe non solo il riferimento di ordine generale (contenuto nella norma di delega) all'applicazione, in tutto o in parte, dell'anzidetto decreto-legge, ma anche la specifica previsione dell'art. 15, comma 2, della legge di delega citata, in forza del quale in relazione alle materie concernenti «il trasferimento di denaro contante e di titoli al portatore, nonché il riciclaggio dei capitali di provenienza illecita, potrà procedersi al riordino delle sanzioni amministrative e penali previste nelle leggi richiamate al comma 1, nei limiti massimi ivi contemplati»;
+ che alla data di entrata in vigore della legge di delega - osserva ancora il giudice a quo - la normativa di riferimento (il citato d.l. n. 143 del 1991), prevedeva soltanto fattispecie di natura contravvenzionale, «essendo stato nel frattempo abrogato (in forza dell'art. 161 del D.L.vo n. 385/1993) l'art. 6 co. 9, contenente l'unica ipotesi di delitto sanzionato con reclusione e multa, sicché il legislatore delegante non poteva certo riferirsi ad una disposizione non più in vigore»;
+ che, inoltre, qualora si volesse ritenere che il legislatore delegante intendesse riferirsi non soltanto alla normativa (legge n. 197 del 1991) esplicitamente richiamata nell'art. 15, comma 1, lettera c), della legge n. 52 del 1996, ma anche all'art. 5 del decreto-legge 28 giugno 1990, n. 167 (Rilevazione a fini fiscali di taluni trasferimenti da e per l'estero di denaro, titoli e valori) convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227 (che prevede il delitto di false indicazioni agli intermediari), andrebbe osservato come il legislatore delegato abbia superato i limiti sanzionatori fissati dal legislatore delegante, prevedendo nella norma impugnata una pena (da sei mesi a quattro anni di reclusione e la multa da euro 2.065,00 ad euro 10.329,00), ben superiore rispetto a quella stabilita dal citato art. 5 della legge n. 227 del 1990;
+ che, nel giudizio di legittimità costituzionale, ha spiegato intervento il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione sia dichiarata manifestamente infondata, in quanto il giudice a quo sarebbe incorso in errore nell'individuazione della norma interposta, la quale andrebbe identificata non nell'art. 15 della legge n. 52 del 1996, ma nell'art. 3, comma 1, lettera c), della legge stessa, alla cui stregua la disposizione denunciata dovrebbe ritenersi pienamente rispettosa della delega.
+ Considerato che il giudice a quo dubita della legittimità costituzionale, in riferimento agli articoli 76 e 77 della Costituzione, dell'articolo 5, comma 3, del decreto legislativo 26 maggio 1997 n. 153 (Integrazione dell'attuazione della direttiva 91/308/CEE in materia di riciclaggio dei capitali di provenienza illecita), nelle parti in cui configura come delitto la fattispecie criminosa ivi descritta e in cui commina pene superiori ai limiti edittali indicati nella legge di delega 6 febbraio 1996, n. 52 (Disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunità europee - legge comunitaria 1994);
+ che, ad avviso del rimettente, il legislatore delegato doveva ritenersi abilitato ad introdurre unicamente fattispecie criminose di tipo contravvenzionale, sanzionate con pene non eccedenti i limiti edittali stabiliti per le ipotesi di reato di cui al decreto-legge 3 maggio 1991, n. 143 (Provvedimenti urgenti per limitare l'uso del contante e dei titoli al portatore nelle transazioni e prevenire l'utilizzazione del sistema finanziario a scopo di riciclaggio), convertito, con modificazioni, dalla legge 5 luglio 1991, n. 147; ovvero, in subordine, stabiliti anche dal decreto-legge 28 giugno 1990, n. 167 (Rilevazione a fini fiscali di taluni trasferimenti da e per l'estero di denaro, titoli e valori), convertito, con modificazioni, dalla legge 4 agosto 1990, n. 227: in questo caso il criterio di delega risulterebbe violato almeno per quanto concerne la misura della pena;
+ che il giudice a quo, però, ritiene sussistente il dedotto vizio di eccesso di delega esclusivamente alla luce dei criteri di delega specifici dettati dall'art. 15 della legge n. 52 del 1996, omettendo di valutare i criteri generali stabiliti dall'art. 3 della medesima legge in tema di disciplina delle sanzioni;
+ che, secondo un approccio tipico delle «leggi comunitarie», la legge n. 52 del 1996 ha delegato il Governo ad emanare i decreti legislativi recanti le norme necessarie per dare attuazione ad un complesso di direttive comunitarie, indicate nell'allegato A della medesima legge (art. 1): tra le quali è compresa la direttiva 91/308/CEE;
+ che il citato art. 3 reca un insieme di criteri e principi direttivi "generali" valevoli, cioè, per tutti i decreti legislativi da emanare, salvi i principi specifici dettati dai successivi articoli in relazione alle singole materie in aggiunta a quelli contenuti nelle direttive da attuare;
+ che la lettera c) del detto art. 3, con riferimento all'assetto sanzionatorio, stabilisce che il legislatore poteva introdurre sanzioni amministrative e penali al fine di assicurare l'osservanza delle disposizioni dei decreti legislativi, in particolare, con riferimento alle sanzioni di natura penale, nel limite dell'ammenda fino a lire duecento milioni e dell'arresto fino a tre anni, e sempre che le infrazioni esponessero a pericolo o ledessero «interessi generali dell'ordinamento interno del tipo di quelli tutelati dagli artt. 34 e 35 della legge 24 novembre 1981, n. 689»;
+ che la medesima disposizione, tuttavia, soggiunge che «In ogni caso, in deroga ai limiti sopra indicati, per le infrazioni alle disposizioni dei decreti legislativi saranno previste sanzioni penali o amministrative identiche a quelle eventualmente già comminate dalle leggi vigenti per le violazioni che siano omogenee e di pari offensività rispetto alle infrazioni medesime»;
+ che - come risulta dalla relazione integrativa allo schema del d.lgs. n. 153 del 1997 - proprio sulla base del criterio generale di delega ora indicato il legislatore ha inteso emanare la norma incriminatrice di cui si discute: ciò in quanto la condotta di abusivismo contemplata da tale norma risulterebbe omogenea e di pari offensività rispetto al delitto di abusiva attività finanziaria previsto dall'art. 132 del d.lgs. n. 385 del 1993, nonché a quello di abusivo esercizio dell'attività di mediazione creditizia, previsto dall'art.16, comma 7, della legge 7 marzo 1996, n. 108 (Disposizioni in materia di usura), reati al cui trattamento sanzionatorio è stato allineato quello della fattispecie criminosa oggetto della disposizione censurata;
+ che, dunque, come eccepito dall'Avvocatura generale dello Stato, il rimettente ha individuato in modo errato la norma di delega alla cui stregua va apprezzata la sussistenza della violazione dedotta con riferimento agli artt. 76 e 77 Cost., svolgendo per conseguenza argomentazioni inconferenti ai fini di tale valutazione, il che rende la questione sollevata manifestamente inammissibile (sentenza n. 382 del 2004; ordinanza n. 72 del 2003);
+ che, peraltro, i rilievi fin qui svolti sono stati già esposti da questa Corte nell'ordinanza n. 194 del 2008 e ribaditi nelle ordinanze n. 95 del 2010 e n. 73 del 2009 che, sulla base di essi, hanno dichiarato la manifesta inammissibilità delle questioni di legittimità costituzionale sollevate nei confronti della medesima disposizione, in riferimento agli artt. 76 e 77 Cost.;
+ che, infine, detti rilievi non sono stati in alcun modo superati dall'ordinanza di rimessione indicata in epigrafe.
+ Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87 e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara la manifesta inammissibilità della questione di legittimità costituzionale, dell'articolo 5, comma 3, del decreto legislativo 26 maggio 1997, n. 153 (Integrazione dell'attuazione della direttiva 91/308/CEE in materia di riciclaggio dei capitali di provenienza illecita), sollevata, in riferimento agli articoli 76 e 77 della Costituzione, dal Tribunale di Novara con l'ordinanza indicata in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 4 ottobre 2010.
+ F.to:
+ Francesco AMIRANTE, Presidente
+ Alessandro CRISCUOLO, Redattore
+ Giuseppe DI PAOLA, Cancelliere
+ Depositata in Cancelleria l'8 ottobre 2010.
+ Il Direttore della Cancelleria
+ F.to: DI PAOLA
