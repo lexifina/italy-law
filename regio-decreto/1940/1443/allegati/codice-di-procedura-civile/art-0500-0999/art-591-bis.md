@@ -1,8 +1,8 @@
 Art. 591-bis.
 
-(( (Delega delle operazioni di vendita).))
+(Delega delle operazioni di vendita).
 
-((Il giudice dell'esecuzione, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, puo', sentiti gli interessati, delegare ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice stabilisce il termine per lo svolgimento delle operazioni delegate, le modalita' della pubblicita', il luogo di presentazione delle offerte ai sensi dell'articolo 571 e il luogo ove si procede all'esame delle offerte, alla gara tra gli offerenti e alle operazioni dell'eventuale incanto.
+Il giudice dell'esecuzione, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, puo', sentiti gli interessati, delegare ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice stabilisce il termine per lo svolgimento delle operazioni delegate, le modalita' della pubblicita', il luogo di presentazione delle offerte ai sensi dell'articolo 571 e il luogo ove si procede all'esame delle offerte, alla gara tra gli offerenti e alle operazioni dell'eventuale incanto.((Si applica l'articolo 569, quarto comma)).
 
 Il professionista delegato provvede:
 
@@ -44,19 +44,13 @@ Avvenuto il versamento del prezzo con le modalita' stabilite ai sensi degli arti
 
 Le somme versate dall'aggiudicatario sono depositate presso una banca o su un conto postale indicati dal giudice.
 
-I provvedimenti di cui all'articolo 586 restano riservati al giudice dell'esecuzione in ogni caso di delega al professionista delle operazioni di vendita.))((115)) ((116))
+I provvedimenti di cui all'articolo 586 restano riservati al giudice dell'esecuzione in ogni caso di delega al professionista delle operazioni di vendita.(116)
 
 ---------------
 
 AGGIORNAMENTO (113a)
 
 Il D.L. 14 marzo 2005, n. 35, convertito con modificazioni dalla L. 14 maggio 2005, n. 80, come modificato dal D.L. 30 giugno 2005, n. 115, convertito con modificazioni dalla L. 17 agosto 2005, n. 168, ha disposto (con l'art. 2, comma 3-quater) che la presente modifica ha effetto a decorrere dal 1 gennaio 2006.
-
--------------
-
-AGGIORNAMENTO (115)
-
-Il D.L. 14 marzo 2005, n. 35, convertito con modificazioni dalla L. 14 maggio 2005, n. 80, come modificato dalla L. 28 dicembre 2005, n. 263 ha disposto (con l'art. 2, comma 3-sexies) che "Le disposizioni di cui ai commi 3, lettera e), numeri da 2) a 43-bis), e 3-ter, lettere a-bis), b), c), c-bis), d), e) ed f), entrano in vigore il 1° gennaio 2006 e si applicano anche alle procedure esecutive pendenti a tale data di entrata in vigore. Quando tuttavia e' gia' stata ordinata la vendita, la stessa ha luogo con l'osservanza delle norme precedentemente in vigore. L'intervento dei creditori non muniti di titolo esecutivo conserva efficacia se avvenuto prima del 1° gennaio 2006."
 
 --------------
 
