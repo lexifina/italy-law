@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2313/A/G4.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2313/A/G4.104"/>
+					<an:FRBRdate date="2010-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2313/A/G4.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@"/>
+					<an:FRBRdate date="2010-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@.akn"/>
+					<an:FRBRdate date="2010-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2313/A/G4.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2313" showAs="DDL 2313"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2313</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            data la situazione di strutturale carenza di personale all'interno degli istituti penitenziari italiani, oggi particolarmente allarmante in un contesto di grave sovraffollamento delle carceri, all'articolo 4 comma 1, lettera 
+					<an:i>b</an:i>
+					) del disegno di legge in esame è stata prevista e autorizzata l'assunzione straordinaria di 2.000 unità di agenti ed assistenti del Corpo della Polizia Penitenziaria;
+				</an:p>
+				<an:p align="justify">            appare ragionevole prevedere una proporzionale assunzione di funzionari, in particolare di vice-commissari nel ruolo direttivo ordinario, per agevolare una migliore gestione di tale situazione di criticità sempre all'interno della previsione numerica ed economica previste dalla norma;</an:p>
+				<an:p align="justify">            nella fattispecie si potrebbero assumere in via straordinaria gli aspiranti vice commissari in prova dichiarati idonei non vincitori dell'ultimo concorso espletato, facendo scorrere la relativa graduatoria fino al numero ritenuto congruo per le finalità sopra indicate;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a realizzare le condizioni, a parità di numero previsto e con la medesima spesa autorizzata, per l'assunzione straordinaria di vice-commissari in prova del Corpo della Polizia Penitenziaria da attingere dalla graduatoria degli idonei dell'ultimo concorso espletato.</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
