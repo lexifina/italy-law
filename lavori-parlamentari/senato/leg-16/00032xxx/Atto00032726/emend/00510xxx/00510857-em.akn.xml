@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/601/A/2.600/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/601/A/2.600"/>
+					<an:FRBRdate date="2010-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/601/A/2.600/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.600"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@"/>
+					<an:FRBRdate date="2010-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@.akn"/>
+					<an:FRBRdate date="2010-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/601/A/2.600/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Congiunzione/16/601" showAs="Congiunzione 601"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCOrganization id="EZ" href="http://dati.senato.it/" showAs="LA COMMISSIONE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Congiunzione 601</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.600 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ">LA COMMISSIONE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 3, sostituire le parole: «esclusivamente coloro che» con le seguenti: «coloro che, in possesso del diploma di laurea in giurisprudenza conseguito a seguito di corso universitario di durata non inferiore a quattro anni,» e prima delle parole: «L'avvocato può esercitare» inserire le seguenti: «Possono essere altresì iscritti:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 coloro che hanno svolto le funzioni di magistrato ordinario, di magistrato militare, di magistrato amministrativo o contabile, o di avvocato dello Stato, e che abbiano cessato le dette funzioni senza essere incorsi nel provvedimento disciplinare della censura o in provvedimenti disciplinari più gravi. L'iscritto, nei successivi due anni, non può esercitare la professione nei circondari nei quali ha svolto le proprie funzioni negli ultimi quattro anni antecedenti alla cessazione;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 i professori universitari di ruolo, dopo cinque anni di insegnamento di materie giuridiche».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
