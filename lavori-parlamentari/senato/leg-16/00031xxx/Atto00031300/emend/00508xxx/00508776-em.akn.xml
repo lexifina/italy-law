@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/601/A/10.228/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/601/A/10.228"/>
+					<an:FRBRdate date="2010-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/601/A/10.228/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.228"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@"/>
+					<an:FRBRdate date="2010-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@.akn"/>
+					<an:FRBRdate date="2010-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/601/A/10.228/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Congiunzione/16/601" showAs="Congiunzione 601"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/5126" showAs="Latorre"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/25216" showAs="Nerozzi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Congiunzione 601</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.228</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Latorre</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Nerozzi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire il comma 3 con il seguente:</an:p>
+				<an:p align="justify">        «3. Il Ministro della giustizia, sentiti il CNF, i consigli dell'ordine territoriali e le associazioni maggiormente rappresentative individuate dal Congresso nazionale forense, la Conferenza dei presidi delle facoltà di giurisprudenza, e acquisiti il parere del CSM per gli aspetti connessi alla funzionalità del sistema giudiziario e il parere del CNEL per gli aspetti di carattere economico e sociale, stabilisce con regolamento:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 le modalità e le condizioni per l'assolvimento dell'obbligo di formazione permanente da parte degli avvocati, in maniera da garantire libertà, pluralismo e qualità dell'offerta formativa e della relativa scelta individuale;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 le forme e le modalità di gestione e di organizzazione dell'attività di formazione da parte degli ordini territoriali, delle associazioni forensi, delle Facoltà di Giurisprudenza e di altri enti ed istituzioni pubbliche o private per l'organizzazione, anche di intesa tra loro, di scuole e corsi di aggiornamento, da organizzarsi, di regola, su base distrettuale e tendenzialmente a carattere gratuito;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>c)</an:i>
+					 i contenuti formativi necessari per l'iscrizione dell'avvocato nelle liste previste dal decreto legislativo n. 272 del 1989, dalla legge n. 60 del 2001 ed dal D.P.R. n. 115 del 2002 e per l'espletamento di ogni altro incarico e di specifiche attività professionali per i quali la legge prevede i presuppone il possesso di particolari competenze.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
