@@ -22,6 +22,4 @@ ACQUISITO il parere delle competenti Commissioni parlamentari della Camera dei d
 
 VISTA la deliberazione del Consiglio dei Ministri, adottata nella riunione del 27 giugno 2003;
 
-SULLA PROPOSTA del Presidente del Consiglio dei Ministri, del Ministro per la funzione pubblica e del Ministro per le politiche comunitarie, di concerto con i Ministri della giustizia, dell'economia e delle finanze, degli affari esteri e delle comunicazioni;
-
-EMANA il seguente decreto legislativo:
+SULLA PROPOSTA del Presidente del Consiglio dei Ministri, del Ministro per la funzione pubblica e del Ministro per le politiche comunitarie, di concerto con i Ministri della giustizia, dell'economia e delle finanze, degli affari esteri e delle comunicazioni; EMANA il seguente decreto legislativo:
