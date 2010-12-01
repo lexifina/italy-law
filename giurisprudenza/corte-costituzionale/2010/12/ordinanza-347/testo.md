@@ -1,0 +1,64 @@
+# Corte costituzionale, ordinanza 347/2010
+
+- ECLI: ECLI:IT:COST:2010:347
+- Tipo: ordinanza
+- Presidente: AMIRANTE
+- Relatore: Giuseppe Frigo
+- Redattore: Giuseppe Frigo
+- Data della decisione: 29/11/2010
+- Data del deposito: 01/12/2010
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 35144, 35145
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:347
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Francesco AMIRANTE; Giudici : Ugo DE SIERVO, Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 34 del codice di procedura penale, promosso dal Giudice dell'udienza preliminare del Tribunale di Roma nel procedimento penale a carico di C. G. con ordinanza dell'8 marzo 2000, iscritta al n. 119 del registro ordinanze 2010 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 17, prima serie speciale, dell'anno 2010.
+          Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+          udito nella camera di consiglio del 22 settembre 2010 il Giudice relatore Giuseppe Frigo.
+
+## Testo
+
+Ritenuto che, con ordinanza dell'8 marzo 2000, trasmessa dalla cancelleria, dopo quasi dieci anni, il 16 dicembre 2009 e pervenuta alla Corte il 10 febbraio 2010 (r.o. n. 119 del 2010), il Giudice dell'udienza preliminare del Tribunale di Roma ha sollevato, in riferimento agli artt. 3, 25 e 101 della Costituzione, questione di legittimità costituzionale dell'art. 34 del codice di procedura penale, nella parte in cui «non prevede l'incompatibilità a celebrare l'udienza preliminare del giudice che abbia definito, con sentenza in giudizio abbreviato, la posizione d'imputato concorrente nel medesimo reato»;
+ 	che il giudice a quo riferisce di essere investito del processo penale nei confronti di due persone, imputate, in concorso tra loro, del reato di illecita detenzione di sostanze stupefacenti (art. 73 del d.P.R. 9 ottobre 1990, n. 309, recante il «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza»);
+ che nei confronti di uno degli imputati si era proceduto, previa separazione dei processi, nelle forme del giudizio abbreviato, in esito al quale l'imputato stesso era stato assolto, ai sensi dell'art. 530, comma 2, cod. proc. pen., per non aver commesso il fatto;
+ che nel corso dell'udienza preliminare nei confronti dell'altro imputato, il difensore di quest'ultimo aveva eccepito - con l'adesione del pubblico ministero - l'illegittimità costituzionale dell'art. 34 cod. proc. pen., per contrasto con gli artt. 3, 25 e 101 Cost., nella parte in cui non prevede l'incompatibilità a celebrare l'udienza preliminare del giudice che abbia definito, con sentenza emessa a seguito di giudizio abbreviato, la posizione di un imputato concorrente nel medesimo reato;
+ che, ad avviso del giudice a quo, la questione sarebbe rilevante: vertendosi in una ipotesi di concorso nel reato, il rimettente - nel giudicare, con rito abbreviato, uno degli asseriti concorrenti - sarebbe, infatti, «entrato nel merito della regiudicanda», avendo dovuto verificare, prima di stabilire se il coimputato vi avesse concorso, la sussistenza del fatto-reato contestato; con la conseguenza che egli si troverebbe, in sede di udienza preliminare, a dovere reiterare il medesimo giudizio;
+ 	che quanto, poi, alla non manifesta infondatezza, il rimettente rileva come la Corte costituzionale - nell'integrare, con plurime pronunce, le ipotesi di incompatibilità determinata da atti compiuti nel procedimento, previste dall'art. 34 cod. proc. pen. - abbia tracciato, già all'indomani dell'entrata in vigore del nuovo codice di rito, una «linea ideale di demarcazione» tra attività svolte dal giudice durante le indagini preliminari atte a condizionare il successivo accertamento del dovere di punire e attività che non implicano tale condizionamento: ritenendo, quindi, che le prime - consistenti «in valutazioni non formali, ma di contenuto, dei risultati delle indagini» - dovessero costituire altrettante ipotesi di incompatibilità;
+ 	che la stessa Corte costituzionale ha peraltro negato, in via generale, l'incompatibilità tra le funzioni di giudice dell'udienza preliminare e quelle di giudice per le indagini preliminari, facendo leva, in specie, sulla considerazione che il legislatore aveva inteso evitare che al provvedimento di rinvio a giudizio fosse attribuito un «peso» eccessivo, e quindi una portata condizionante sui successivi esiti del processo, come sarebbe avvenuto se detta decisione si fosse tradotta in una «predelibazione» della responsabilità dell'imputato (ordinanza n. 24 del 1996);
+ 	che, con le riforme più recenti (rispetto alla data dell'ordinanza di rimessione), il legislatore si sarebbe mosso, tuttavia, in una diversa direzione: l'art. 171 del decreto legislativo 19 febbraio 1998, n. 51 (Norme in materia di istituzione del giudice unico di primo grado) ha infatti specificamente stabilito, tramite l'aggiunta di un nuovo comma 2-bis all'art. 34 cod. proc. pen., che non possa tenere l'udienza preliminare il giudice che abbia esercitato funzioni di giudice per le indagini preliminari;
+ 	che - fatti salvi i temperamenti previsti dal comma 2-ter dello stesso art. 34, successivamente inserito dall'art. 11 della legge 16 dicembre 1999, n. 479 (Modifiche alle disposizioni sul procedimento davanti al tribunale in composizione monocratica e altre modifiche al codice di procedura penale. Modifiche al codice penale e all'ordinamento giudiziario. Disposizioni in materia di contenzioso pendente, di indennità spettanti al giudice di pace e di esercizio della professione forense) - la nuova causa di incompatibilità opera a prescindere dalla natura e dal contenuto dei provvedimenti adottati in veste di giudice per le indagini preliminari, a dimostrazione del fatto che la funzione di giudice dell'udienza preliminare «non tollera più, in via assoluta, pregressi interventi»;
+ 	che, in simile situazione, risulterebbe dunque irragionevole e lesiva dell'imparzialità del giudice la mancata previsione dell'incompatibilità ad esercitare le funzioni di giudice dell'udienza preliminare da parte del giudice che si sia pronunciato, con sentenza emessa nell'ambito di un giudizio abbreviato, sulla sussistenza del dovere di punire nei confronti del concorrente nel medesimo reato;
+ 	che nel giudizio di costituzionalità è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione sia dichiarata inammissibile o infondata.
+ Considerato che il Giudice dell'udienza preliminare del Tribunale di Roma, ritenendo lesi gli artt. 3, 25 e 101 della Costituzione, chiede a questa Corte una pronuncia che estenda la sfera di operatività dell'istituto dell'incompatibilità, disciplinato dall'art. 34 del codice di procedura penale, all'ipotesi in cui il giudice dell'udienza preliminare abbia già pronunciato a seguito di giudizio abbreviato sentenza nei confronti di un imputato di concorso nel medesimo reato;
+ che, in riferimento alle prospettate violazioni degli artt. 25 e 101 Cost., la questione va dichiarata manifestamente inammissibile, poiché il giudice a quo non fornisce una motivazione sufficiente sulla non manifesta infondatezza, limitandosi a evocare i due parametri costituzionali sopra indicati senza argomentare in alcun modo sulle ragioni della loro asserita violazione (ex plurimis, ordinanze n. 202 del 2009 e n. 206 del 2008);
+ 	che quanto, poi, alla dedotta violazione dell'art. 3 Cost., questa Corte ha già avuto modo di pronunciarsi, successivamente all'ordinanza di rimessione - trasmessa, come già accennato, con patologico ritardo - su questioni analoghe a quella in esame, sollevate anche in rapporto a ulteriori parametri costituzionali (artt. 24 e 111 Cost.), dichiarandone la manifesta infondatezza (ordinanze n. 490 e n. 367 del 2002);
+ 	che, al riguardo, si è rilevato che è ben vero che, a seguito delle innovazioni introdotte dalla legge 16 dicembre 1999, n. 479, l'udienza preliminare ha subito una profonda trasformazione, a fronte della quale essa è ormai divenuta «un momento di "giudizio"», così da rientrare pienamente - anche al di là della limitata previsione del comma 2-bis dell'art. 34 cod. proc. pen. - nella sfera operativa dell'istituto disciplinato da tale articolo, che dispone «l'incompatibilità a giudicare del giudice che abbia già giudicato sulla medesima res iudicanda» (sentenze n. 335 del 2002 e n. 224 del 2001; nello stesso senso, altresì, sentenza n. 400 del 2008, ordinanze n. 20 del 2004, n. 271 e n. 269 del 2003);
+ 	che con riferimento, peraltro, all'ipotesi del concorso di più persone nel reato, la giurisprudenza della Corte è costante nel ritenere che alla comunanza dell'imputazione fa riscontro una pluralità di condotte distintamente ascrivibili a ciascuno dei concorrenti, tali da formare oggetto di autonome valutazioni, scindibili l'una dall'altra, salva l'ipotesi estrema - presa in considerazione dalla sentenza n. 371 del 1996 (concernente una fattispecie di reato a concorso necessario) - in cui la posizione del concorrente nel medesimo reato, già oggetto di precedente valutazione, costituisca «elemento essenziale per la stessa configurabilità del reato contestato agli altri concorrenti»;
+ 	che, fuori di questa ipotesi, non vi è quindi motivo per discostarsi dall'indirizzo, esso pure costantemente seguito dalla Corte, secondo cui l'istituto dell'incompatibilità attiene a situazioni di pregiudizio per l'imparzialità del giudice che si verificano all'interno del medesimo procedimento; mentre, se il predetto pregiudizio deriva da attività compiute in un procedimento diverso, a carico di altri soggetti (quale, in specie, la pronuncia di una sentenza nei confronti di uno dei pretesi concorrenti, in separato processo svolto nelle forme del giudizio abbreviato), il principio del "giusto processo" trova attuazione mediante gli istituti dell'astensione e della ricusazione, «anch'essi preordinati alla salvaguardia delle esigenze di imparzialità della funzione giudicante, ma secondo una logica a posteriori e in concreto» (ordinanza n. 367 del 2002);
+ che nel caso oggi in esame - così come nei casi oggetto delle citate ordinanze n. 490 e n. 367 del 2002 - non si versa nella peculiare situazione in precedenza evidenziata, venendo in rilievo, nel giudizio a quo, una fattispecie di concorso eventuale di persone in un reato normativamente monosoggettivo, a fronte della quale le posizioni dei pretesi concorrenti restano, dunque, suscettibili di valutazioni autonome e scindibili;
+ che, d'altro canto, l'odierno rimettente - fondando la propria denuncia di incostituzionalità unicamente sulla avvenuta introduzione, ad opera dell'art. 171 del d.lgs. 19 febbraio 1998, n. 51, della incompatibilità fra le funzioni di giudice per le indagini preliminari e di giudice per l'udienza preliminare (comma 2-bis dell'art. 34 cod. proc. pen.) - non allega alcun argomento che possa indurre a modificare le conclusioni dianzi ricordate;
+ che, pertanto, con riferimento alla denunciata violazione dell'art. 3 Cost., la questione va dichiarata manifestamente infondata.
+ 	Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 34 del codice di procedura penale, sollevata, in riferimento agli artt. 25 e 101 della Costituzione, dal Giudice dell'udienza preliminare del Tribunale di Roma con l'ordinanza indicata in epigrafe;
+ dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 34 del codice di procedura penale, sollevata, in riferimento all'art. 3 della Costituzione, dal Giudice dell'udienza preliminare del Tribunale di Roma con la medesima ordinanza.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 29 novembre 2010.
+ F.to:
+ Francesco AMIRANTE, Presidente
+ Giuseppe FRIGO, Redattore
+ Giuseppe DI PAOLA, Cancelliere
+ Depositata in Cancelleria l'1 dicembre 2010.
+ Il Direttore della Cancelleria
+ F.to: DI PAOLA
