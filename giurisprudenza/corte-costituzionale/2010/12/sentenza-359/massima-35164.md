@@ -1,0 +1,25 @@
+# Massima n. 35164
+
+- Pronuncia: Corte costituzionale, sentenza 359/2010 (ECLI:IT:COST:2010:359)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2010:359
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Straniero - Configurazione come reato della condotta dello straniero che, già destinatario del provvedimento di espulsione e di un nuovo ordine di allontanamento ai sensi dei commi 5- bis  e 5- ter  dell'art. 14 del d.lgs. n. 286 del 1998, continua a permanere illegalmente nel territorio dello Stato - Punibilità dell'inottemperanza all'ordine di allontanamento nel solo caso che abbia luogo «senza giustificato motivo», secondo quanto già previsto per la condotta di cui al suddetto comma 5- ter  - Mancata previsione - Irragionevole differenziazione normativa di situazioni identiche - Violazione del principio di uguaglianza - Illegittimità costituzionale  in parte qua  - Assorbimento delle ulteriori censure.
+
+## Testo
+
+E' costituzionalmente illegittimo, per contrasto con l'art. 3 della Carta (con assorbimento delle ulteriori censure di illegittimità costituzionale proposte dal giudice rimettente), l'art. 14, comma 5- quater , del decreto legislativo 25 luglio 1998, n. 286 (Testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero), come modificato dall'art. 1, comma 22, lettera m), della legge 15 luglio 2009, n. 94 (Disposizioni in materia di sicurezza pubblica), nella parte in cui non esclude, quando ricorra un «giustificato motivo», la punibilità dello straniero che, già destinatario di un provvedimento di espulsione e di un ordine di allontanamento a norma dei precedenti commi 5- ter  e 5- bis , continui a permanere nel territorio dello Stato. La comparazione tra la norma censurata e quella contenuta nel comma 5- ter  del medesimo art. 14, che sanziona l'ipotesi di inosservanza del primo ordine di allontanamento, evidenzia che, a fronte di una sostanziale identità della condotta incriminata (consistente, allo stesso modo, nella permanenza nel territorio dello Stato da parte dello straniero al quale sia stato impartito dal questore l'ordine di allontanarsi), la norma censurata presenta, quale duplice elemento di differenziazione, per un verso, l'aumento della pena nel suo valore massimo (cinque anni di reclusione, in confronto ai quattro previsti dal comma precedente), e, per altro verso, soprattutto la mancata riproduzione dell'espressione «senza giustificato motivo», presente invece nella norma incriminatrice contenuta nello stesso comma 5-ter e che, nella ricorrenza di diverse eventualità di fatto (estrema indigenza, indisponibilità di un vettore o di altro mezzo di trasporto idoneo, difficoltà nell'ottenimento dei titoli di viaggio, etc.), esclude la configurabilità del reato. Il fatto che l'omissione cui si riferisce la norma censurata faccia seguito ad altra omissione dello stesso genere non incide sul nucleo essenziale della descrizione legislativa della condotta illecita, che resta uguale nella prima e nella seconda ipotesi ed, al contempo, le ragioni, di natura sociale e umanitaria, che sostengono la scelta del legislatore di prevedere la clausola di salvezza «del giustificato motivo», si attagliano al caso in cui lo straniero continui a permanere nel territorio nazionale, dopo un ulteriore ordine di allontanamento. Pertanto, stante l'omogeneità tra la norma considerata quale  tertium comparationis  rispetto alla norma oggetto del dubbio di legittimità costituzionale, è manifestamente irragionevole, perché vìola il principio di eguaglianza, che una situazione ritenuta dalla legge idonea ad escludere la punibilità dell'omissione, in occasione del primo inadempimento, perda validità se permane nel tempo, senza responsabilità del soggetto destinatario dell'ordine di allontanamento, o che il verificarsi di una nuova situazione ostativa, in sé e per sé idonea ad integrare l'ipotesi di un «giustificato motivo», sol perché intervenuta in un secondo momento, non abbia rilevanza ai fini del suo riconoscimento come elemento negativo del fatto di reato.
+
+## Norme
+
+- decreto legislativo, 25/07/1998 n. 286, art. 14, comma 5 quater
+- legge, 15/07/2009 n. 94, art. 1, comma 22 lett. m)
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 25, comma 2
+- Costituzione, art. 27
+- Costituzione, art. 2
