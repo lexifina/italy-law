@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2479/A/G111/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2479/A/G111"/>
+					<an:FRBRdate date="2010-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2479/A/G111/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G111"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@"/>
+					<an:FRBRdate date="2010-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@.akn"/>
+					<an:FRBRdate date="2010-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2479/A/G111/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2479" showAs="DDL 2479"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22710" showAs="Barbolini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25275" showAs="De Luca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2479</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G111</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Barbolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">De Luca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame dell'Atto Senato n. 2479, "Conversione in legge del decreto-legge 12 novembre 2010, n. 187, recante misure urgenti in materia di sicurezza",</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            in attesa della riforma dell'ordinamento della polizia locale, e pur nel rigoroso rispetto delle disposizioni in materia di contenimento della spesa di personale, è necessario consentire alle autonomie locali una adeguata valorizzazione della figura dell'agente di Polizia locale;</an:p>
+				<an:p align="justify">            ciò è tanto più necessario in quanto agli Agenti di Polizia locale sono attribuite, in base all'articolo 5 della legge 7 marzo 1986, n. 65, funzioni per le quali è richiesto un alto livello di professionalità e a cui sono correlati specifici rischi e disagi, cui si aggiungono i compiti relativi all'applicazione delle ordinanze di cui all'articolo 54 del decreto legislativo 18 agosto 2000, n. 267,</an:p>
+				<an:p align="justify">        impegna il Governo ad adoperarsi, di concerto con la Conferenza Stato-Città ed autonomie locali, in sede di contrattazione integrativa e nei limiti delle risorse già destinate dalla contrattazione collettiva al finanziamento dei fondi per la contrattazione decentrata integrativa, al fine di garantire al personale con il profilo professionale di agente di polizia locale una indennità diretta a remunerare gli specifici rischi ed i disagi correlati all'esercizio delle funzioni di cui all'articolo 5 della legge 7 marzo 1986, n. 65, anche derivanti dall'applicazione delle ordinanze di cui all'articolo 54 del decreto legislativo 18 agosto 2000, n. 267, e che tale indennità possa essere corrisposta in aggiunta alle specifiche indennità già previste per il predetto personale, facendo salvi i contratti integrativi già stipulati in conformità al presente ordine del giorno.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
