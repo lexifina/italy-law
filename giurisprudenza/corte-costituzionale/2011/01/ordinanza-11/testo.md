@@ -1,0 +1,58 @@
+# Corte costituzionale, ordinanza 11/2011
+
+- ECLI: ECLI:IT:COST:2011:11
+- Tipo: ordinanza
+- Presidente: DE SIERVO
+- Relatore: Maria Rita Saulle
+- Redattore: Maria Rita Saulle
+- Data della decisione: 10/01/2011
+- Data del deposito: 12/01/2011
+- Giudizio: GIUDIZIO SULL'AMMISSIBILITÀ DI RICORSO PER CONFLITTO DI ATTRIBUZIONE TRA POTERI DELLO STATO
+- Massime: 35243
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:11
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Ugo DE SIERVO; Giudici : Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Maria Rita SAULLE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio per conflitto di attribuzione tra poteri dello Stato sorto a seguito della mancata presentazione al Parlamento, da parte del Ministro dell'interno, entro sessanta giorni dalla pubblicazione nella Gazzetta Ufficiale del risultato del referendum (che ha approvato la proposta di distacco dei Comuni di Livinallongo del Col di Lana, Cortina d'Ampezzo e Colle Santa Lucia dalla Regione Veneto e la sua aggregazione alla Regione Trentino Alto-Adige/Südtirol), del disegno di legge di cui all'art. 132, secondo comma, della Costituzione - in ossequio all'articolo 45, comma 4, della legge 25 maggio 1970, n. 352 (Norme sui referendum previsti dalla Costituzione e sulla iniziativa legislativa del popolo) -, nonché della presentazione, da parte dei deputati Karl Zeller, Gianclaudio Bressa e del senatore Gianvittore Vaccari, di altrettante proposte di legge costituzionale ciascuna delle quali aventi ad oggetto «Distacco dei comuni di Cortina d'Ampezzo, di Livinallongo del Col di Lana e Colle Santa Lucia dalla Regione Veneto e loro aggregazione alla Regione autonoma Trentino Alto-Adige, ai sensi dell'art. 132, secondo comma, della Costituzione», promosso dal Comune di Colle Santa Lucia (BL) con ricorso depositato in cancelleria il 7 maggio 2010 ed iscritto al n. 4 del registro conflitti tra poteri dello Stato 2010, fase di ammissibilità.
+ Udito nella camera di consiglio del 17 novembre 2010 il Giudice relatore Maria Rita Saulle.
+
+## Testo
+
+Ritenuto che, con ricorso depositato in data 7 maggio 2010, il Comune di Colle Santa Lucia (BL), rappresentato dal Sindaco pro tempore, ha sollevato conflitto di attribuzione tra poteri dello Stato nei confronti del Consiglio dei ministri, della Camera dei deputati, del Senato della Repubblica, dei Presidenti di entrambe le Camere, nonché dei deputati Karl Zeller, Gianclaudio Bressa e del senatore Gianvittore Vaccari, per violazione dell'art. 132, secondo comma, della Costituzione, e dell'art. 45, quarto comma, della legge 25 maggio 1970, n. 352 (Norme sui referendum previsti dalla Costituzione e sulla iniziativa legislativa del popolo);
+ che il ricorrente lamenta che, nonostante il rituale svolgimento del referendum ex art. 132, secondo comma, Cost., concernente la proposta di distacco del Comune di Colle Santa Lucia dalla Regione Veneto e la sua aggregazione (unitamente ad altri Comuni) alla Regione Trentino Alto-Adige/Südtirol - consultazione conclusasi in senso favorevole al suddetto distacco -, il Ministro dell'interno avrebbe lasciato inutilmente decorrere il termine di sessanta giorni per la presentazione del relativo disegno di legge di variazione territoriale regionale, così come previsto dall'art. 45, quarto comma, della legge n. 352 del 1970;
+ che, inoltre, sempre successivamente a tale termine, i deputati Karl Zeller e Gianclaudio Bressa, nonché il senatore Gianvittore Vaccari, avrebbero presentato alle rispettive Camere di appartenenza altrettante proposte di legge costituzionale ciascuna delle quali avente ad oggetto «Distacco dei comuni di Cortina d'Ampezzo, di Livinallongo del Col di Lana e Colle Santa Lucia dalla Regione Veneto e loro aggregazione alla Regione autonoma Trentino Alto-Adige, ai sensi dell'art. 132, secondo comma, della Costituzione»;
+ che, dette condotte omissive e commissive avrebbero determinato, sempre secondo il ricorrente, la «menomazione del diritto di iniziativa per la variazione territoriale regionale» e di quello «di autodeterminazione» attribuiti al Comune dall'art. 132, secondo comma, Cost.;
+ che, quanto al requisito soggettivo del conflitto, nel ricorso si argomenta la legittimazione del Comune a promuovere il presente giudizio sostenendo, in particolare, che l'agire dei Comuni interessati alla procedura di variazione territoriale regionale «non tanto in qualità di enti locali autonomi, quanto come enti cui l'art. 132, secondo comma, Cost.» attribuirebbe una specifica «funzione pubblica concorrente e quindi condizionante la funzione legislativa dello Stato», anche in forza della stessa «posizione» riservata agli Enti locali dal «nuovo disegno costituzionale» dopo la riforma del Titolo V della parte seconda della Costituzione, quali soggetti che costituiscono la Repubblica (art. 114 Cost.);
+ che, quanto al requisito oggettivo del conflitto, le asserite violazioni risulterebbero addebitabili, in primo luogo, alla mancata presentazione al Parlamento, nel termine previsto dall'art. 45, quarto comma, della legge n. 352 del 1970, del disegno di legge per il distacco del Comune di Colle Santa Lucia dalla Regione Veneto e la sua aggregazione alla Regione Trentino Alto-Adige/Südtirol;
+ che, infatti, ad avviso del ricorrente, anche se l'obbligo di presentazione in questione risulta «radicato in una norma di legge ordinaria», tale norma farebbe «corpo con la disciplina costituzionale» rilevante, cosicché la sua violazione configurerebbe «un'evidente menomazione della posizione del Comune richiedente la modifica della Regione di appartenenza in ossequio all'art. 132 Cost.»;
+ che, in secondo luogo, il ricorrente si duole della presentazione al Parlamento di alcune proposte di legge costituzionale per il distacco e la conseguente aggregazione del predetto Comune, avanzate da tre parlamentari - nelle persone dei deputati Karl Zeller, Gianclaudio Bressa e del senatore Gianvittore Vaccari -, posto che tali iniziative avrebbero determinato un inutile aggravamento della procedura prevista dall'art. 45, quarto comma, della legge n. 352 del 1970, in base al quale il disegno di legge avente ad oggetto la variazione territoriale avrebbe, invece, natura ordinaria;
+ che, pertanto, il ricorrente conclude chiedendo a questa Corte di:
+ - «accertare la menomazione del diritto di iniziativa alla variazione territoriale regionale e del diritto di autodeterminazione del Comune di Colle Santa Lucia per violazione, nella forma dell'inadempimento, dell'obbligo previsto all'art. 45, quarto comma, della legge n. 352 del 1970, posta in essere dal Consiglio dei ministri attraverso la mancata presentazione al Parlamento del disegno di legge per il distacco del predetto Comune dalla Regione Veneto e la sua aggregazione alla Regione Trentino Alto-Adige/Südtirol»;
+ - «accertare la menomazione del diritto di iniziativa alla variazione territoriale regionale e del diritto di autodeterminazione del Comune di Colle Santa Lucia per violazione, nella forma dell'aggravamento della procedura legislativa, dell'obbligo previsto all'art. 45, quarto comma, della legge n. 352 del 1970, posta in essere dal Consiglio dei ministri attraverso la presentazione al Parlamento del disegno di legge governativo di variazione territoriale regionale avente natura costituzionale, anziché avente natura ordinaria in ossequio all'art. 45, quarto comma, della legge n. 352 del 1970»;
+ - «accertare la menomazione del diritto di iniziativa alla variazione territoriale regionale e del diritto di autodeterminazione del Comune di Colle Santa Lucia per violazione nella forma dell'aggravamento della procedura legislativa, dell'obbligo previsto all'art. 45 quarto comma, della legge n. 352 del 1970 posta in essere» dai deputati Karl Zeller e Gianclaudio Bressa, nonché dal senatore Gianvittore Vaccari e, «ove occorra, dalle Camere di appartenenza e dai Presidenti delle medesime, attraverso l'esercizio del diritto di iniziativa legislativa avente natura costituzionale, anziché avente natura ordinaria in ossequio all'art. 45, quarto comma, della legge n. 352 del 1970»;
+ - «adottare una pronuncia sostitutiva dell'ingiustificato rifiuto da parte del Consiglio dei ministri a dar vita ai suddetti atti vincolati, affinché sia in tal modo ordinata la presentazione al Parlamento del predetto disegno di legge entro un termine prefissato, nonché la sua presentazione con natura ordinaria».
+ Considerato che, in questa fase del giudizio, a norma dell'art. 37, terzo e quarto comma, della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), questa Corte è chiamata a deliberare, senza contraddittorio, se il ricorso sia ammissibile sotto il profilo dell'esistenza o meno della «materia di un conflitto la cui risoluzione spetti alla sua competenza», valutando, in particolare, se sussistano i requisiti oggettivi e soggettivi di un conflitto di attribuzione fra poteri dello Stato;
+ che questa Corte, in relazione ad un conflitto in tutto analogo a quello odierno e dichiarato inammissibile con l'ordinanza n. 264 del 2010, ha già affermato che, sotto il profilo soggettivo, deve escludersi che un ente locale possa essere riconosciuto quale «potere dello Stato»; né può ritenersi che tale figura, pur essendo «esterna all'organizzazione dello Stato», eserciti un potere che rientri nello «svolgimento di più ampie funzioni, i cui atti finali siano imputati allo Stato-autorità»;
+ che, inoltre, quanto al requisito oggettivo del conflitto, deve ribadirsi che il ricorrente lamenta la lesione delle proprie prerogative unicamente in relazione a fasi successive a quella concernente la celebrazione del referendum ex art. 132, secondo comma, Cost., alla quale ultima soltanto si riferiscono il diritto di iniziativa e di autodeterminazione del Comune di Colle Santa Lucia, e che costituisce il momento iniziale del procedimento decisionale complesso previsto per la variazione territoriale cui esso aspirerebbe;
+ che, infine, il ricorso, nella parte relativa alla adozione di una "pronuncia sostitutiva", risulta finalizzato non già al ripristino del corretto confine fra le diverse attribuzioni costituzionali coinvolte, quanto piuttosto ad ottenere una pronuncia che tenga luogo degli atti tuttora mancanti al completamento della procedura di variazione territoriale di cui all'art. 132 Cost., estranea, in linea di principio ed in tale forma, alla giurisdizione attribuita a questa Corte.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara inammissibile il ricorso per conflitto di attribuzione tra poteri dello Stato proposto dal Comune di Colle Santa Lucia (BL) nei confronti del Consiglio dei ministri, della Camera dei deputati, del Senato della Repubblica, dei Presidenti di entrambe le Camere, nonché dei deputati Karl Zeller, Gianclaudio Bressa e del senatore Gianvittore Vaccari, con ricorso depositato il 7 maggio 2010.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 10 gennaio 2011.
+ F.to:
+ Ugo DE SIERVO, Presidente
+ Maria Rita SAULLE, Redattore
+ Maria Rosaria FRUSCELLA, Cancelliere
+ Depositata in Cancelleria il 12 gennaio 2011.
+ Il Cancelliere
+ F.to: FRUSCELLA
