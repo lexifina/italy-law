@@ -1,0 +1,24 @@
+# Massima n. 35252
+
+- Pronuncia: Corte costituzionale, sentenza 17/2011 (ECLI:IT:COST:2011:17)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:17
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Contenzioso tributario - Appello alla commissione tributaria regionale - Notificazione del ricorso effettuata senza il tramite dell'ufficiale giudiziario - Obbligo, a pena di inammissibilità dell'impugnazione, di depositare copia dell'appello presso la segreteria della commissione tributaria che ha pronunciato la sentenza impugnata - Ritenuta violazione del diritto di difesa - Asserita disparità di trattamento tra coloro che utilizzano la notificazione mediante ufficiale giudiziario e coloro che utilizzano lo strumento della spedizione dell'atto a mezzo posta - Esclusione - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 53, comma 2, secondo periodo, del d.lgs. 31 dicembre 1992, n. 546, aggiunto dall'art. 3- bis , comma 7, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dall'art. 1, comma 1, della legge 2 dicembre 2005, n. 248, la quale dispone che «Ove il ricorso non sia notificato a mezzo di ufficiale giudiziario, l'appellante deve, a pena d'inammissibilità, depositare copia dell'appello presso l'ufficio di segreteria della commissione tributaria che ha pronunciato la sentenza impugnata», sollevata in relazione agli artt. 3 e 24 della Costituzione. Infatti, la decisione di non avvalersi della notificazione a mezzo di ufficiale giudiziario è rimessa alla scelta, non subordinata ad alcuna condizione, dell'appellante; sicché qualora quest'ultimo decida di non avvalersi dell'ufficiale giudiziario per notificare il ricorso in appello, ma di procedervi a mezzo del servizio di spedizione postale, deve essere consapevole di assumere l'onere di depositare la copia notificata dell'atto di impugnazione presso la segreteria della Commissione tributaria provinciale, al fine di adempiere a quei compiti informativi che, nell'altro caso, sono assolti dall'ufficiale giudiziario, ai sensi dell'art. 123 disp. att. cod. proc. civ. In questo quadro, non sussiste violazione dell'art. 24 Cost., trattandosi di un adempimento ragionevole che la parte può eseguire senza andare incontro a particolari difficoltà e, dunque, non tale da rendere estremamente difficile l'esercizio del diritto di difesa. Del pari, non è ravvisabile la asserita disparità di trattamento tra chi utilizza lo strumento della notifica dell'appello per mezzo dell'ufficiale giudiziario e chi, anche per ragioni di convenienza (celerità della procedura), si avvale della spedizione dell'atto a mezzo posta con raccomandata a. r. in quanto il legislatore, nel ragionevole esercizio della discrezionalità che gli appartiene, ha conformato in modo diverso le due forme di notificazione. La prima è eseguita con il tramite dell'ufficiale giudiziario, cioè di un soggetto pubblico obbligato a dare immediato avviso scritto dell'avvenuta notifica al cancelliere del giudice che ha pronunciato la sentenza impugnata, ai sensi dell'art. 123 disp. att. cod. proc. civ., applicabile al processo tributario in virtù del generale richiamo alle norme del codice di procedura civile, effettuato dal comma 2 dell'art. 1 del d.lgs. n. 546 del 1992: la natura pubblica dell'ufficio cui è affidato il compimento dell'atto e lo specifico dovere che gli è imposto dalla legge giustificano la mancata previsione di un effetto di decadenza (inammissibilità) correlato all'inosservanza del detto dovere. Il meccanismo contemplato per la notifica diretta dell'atto d'impugnazione, di cui agli artt. 20, comma 2, e 16, comma 3, nonché 53, comma 2, secondo periodo, del d.lgs. n. 546 del 1992 e successive modificazioni, è invece differente e comunque ragionevole: sia la spedizione dell'atto di appello, sia il deposito di copia di esso presso l'ufficio di segreteria della Commissione tributaria che ha pronunciato la sentenza impugnata, vanno compiuti dal medesimo notificante al quale, dunque, il compimento o l'omissione restano riferibili. Sulla  ratio  della norma impugnata, v. citata sentenza n. 321/2009. Sulla discrezionalità del legislatore nel conformare gli istituti processuali, v. citate sentenze n. 229 e n. 50/2010, n. 221/2008 e n. 237/2007 nonché ordinanze n. 134/2009 e n. 67/2007. Sul diritto di difesa, v. citata ordinanza n. 43/2010.
+
+## Norme
+
+- decreto legislativo, 31/12/1992 n. 546, art. 53, comma 2 secondo periodo
+- decreto-legge, 30/09/2005 n. 203, art. 3 bis, comma 7
+- legge, 02/12/2005 n. 248, art. 1 1
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
