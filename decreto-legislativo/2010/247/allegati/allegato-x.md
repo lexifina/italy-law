@@ -1,0 +1,3 @@
+Allegato X
+
+Parte di provvedimento in formato grafico
