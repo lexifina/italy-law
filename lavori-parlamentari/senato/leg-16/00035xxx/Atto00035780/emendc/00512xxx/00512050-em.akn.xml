@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14"/>
+					<an:FRBRdate date="2011-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2322/10/14"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@"/>
+					<an:FRBRdate date="2011-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@.akn"/>
+					<an:FRBRdate date="2011-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2322/C/G/2322/10/14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2322" showAs="DDL 2322"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Politiche dell'Unione europea" href="/dati.senato.it/osr/Commissione/14"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17554" showAs="Boldi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25301" showAs="Aderenti"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25211" showAs="Mazzatorta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2322</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2322/10/14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Boldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Aderenti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Mazzatorta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 14a Commissione permanente,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il provvedimento in esame prevede, tra l'altro, il recepimento nel nostro ordinamento della direttiva 2009/52/CE del Parlamento Europeo e del consiglio, del 18 giugno 2009, che introduce norme minime relative a sanzioni e a provvedimenti nei confronti di datori di lavoro che impiegano cittadini di paesi terzi il cui soggiorno è irregolare;</an:p>
+				<an:p>            il Governo deve attenersi, nella predisposizione dei decreti legislativi per l'attuazione della predetta direttiva comunitaria, a criteri e principi quali prevedere sanzioni efficaci, proporzionate e dissuasive dall'impiego di cittadini irregolari, che contemplino l'obbligo per i datori di lavoro di pagare ogni retribuzione arretrata al cittadino di paese terzo assunto illegalmente, sulla base di un livello di remunerazione pari almeno al salario minimo previsto dalla legislazione vigente o dai contratti collettivi, e un importo pari a tutte le imposte e i contributi previdenziali che avrebbero dovuto pagare in caso di assunzione legale, nonché di provvedere al pagamento dei costi di rimpatrio dei cittadini di paesi terzi assunti illegalmente;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a scongiurare, nelle more di attuazione del provvedimento, il rischio che dal recepimento della direttiva di cui in premessa possa derivare per i lavoratori interessati l'aspettativa di una sanatoria generalizzata.</an:p>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
