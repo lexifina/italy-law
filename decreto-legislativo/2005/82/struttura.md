@@ -4,11 +4,11 @@
 
 - Sezione III Organizzazione delle pubbliche amministrazioni Rapporti fra Stato, Regioni e autonomie locali (Art. 12.)
 
-- Capo II DOCUMENTO INFORMATICO E FIRME ELETTRONICHE; PAGAMENTI, LIBRI E SCRITTURE Sezione I Documento informatico (Art. 20.)
+- Capo II DOCUMENTO INFORMATICO E FIRME ELETTRONICHE; ((TRASFERIMENTI)), LIBRI E SCRITTURE Sezione I Documento informatico (Art. 20.)
 
 - Sezione II Firme elettroniche e certificatori (Art. 24.)
 
-- Sezione III ((Pagamenti, libri e scritture)) (Art. 38.)
+- Sezione III ((Trasferimenti di fondi, libri e scritture)) (Art. 38.)
 
 - Capo III FORMAZIONE, GESTIONE E CONSERVAZIONE DEI DOCUMENTI INFORMATICI (Art. 40.)
 
@@ -30,6 +30,6 @@
 
 - ((SEZIONE II Sistema pubblico di connettivita' SPC)) (Art. 75.)
 
-- ((SEZIONE III Rete internazionale della pubblica amministrazione e compiti del CNIPA)) (Art. 85.)
+- SEZIONE III Rete internazionale della pubblica amministrazione e compiti del ((DigitPA)) (Art. 85.)
 
 - ((Capo IX)) DISPOSIZIONI TRANSITORIE FINALI E ABROGAZIONI (Art. 88.)
