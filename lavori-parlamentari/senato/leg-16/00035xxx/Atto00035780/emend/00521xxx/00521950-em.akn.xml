@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2322/A/14.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2322/A/14.200"/>
+					<an:FRBRdate date="2011-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2322/A/14.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="14.200"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@"/>
+					<an:FRBRdate date="2011-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@.akn"/>
+					<an:FRBRdate date="2011-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-02-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-02-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2322/A/14.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2322" showAs="DDL 2322"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25229" showAs="Granaiola"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25297" showAs="Di Giovan Paolo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25296" showAs="Marinaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/139" showAs="Baldini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2194" showAs="Sbarbati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17787" showAs="Stradiotto"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2322</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 14.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Granaiola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Di Giovan Paolo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Marinaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Baldini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Sbarbati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Stradiotto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 2 inserire il seguente:</an:p>
+				<an:p align="justify">
+					        «2-
+					<an:i>bis.</an:i>
+					 Al fine di chiudere la procedura d'infrazione n. 2008/4908 
+					<an:i>ex</an:i>
+					 articolo 258 TFUE e la seguente messa in mora complementare del 5 maggio 2010, con lo scopo di dare piena attuazione all'articolo 1, comma 18, della legge 26 febbraio 2010, n. 25, recante la proroga dei titoli concessori vigenti fino al 31 dicembre 2015, il Governo è delegato ad adottare, senza nuovi o maggiori oneri a carico della finanza pubblica, entro un anno dalla data di entrata in vigore della presente legge, sulla base d'intesa raggiunta nell'ambito della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, un decreto legislativo avente ad oggetto la riformulazione della legislazione relativa alle concessioni demaniali secondo i seguenti principi e criteri direttivi:
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 la durata delle concessioni demaniali e i criteri di rinnovo delle medesime, nell'ambito dei piani di spiaggia e sulla base di linee evolutive di sviluppo degli arenili tracciate da comune e regione;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 i criteri e le modalità di rilascio di nuove concessioni demaniali, di cessazione di concessioni assentite e di più domande concorrenti, dando priorità alle richieste che importino attrezzature non fisse e completamente amovibili e offrano maggiori garanzie di proficua utilizzazione della concessione demaniale e di un uso della medesima rispondente all'interesse pubblico;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>c)</an:i>
+					 i criteri per l'eventuale revoca delle concessioni demaniali;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:b>
+						<an:i>d)</an:i>
+						 l'equo indennizzo del concessionario nei casi di revoca della concessione demaniale non dipendenti da abusi o inadempienze da parte del concessionario stesso;
+					</an:b>
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>e)</an:i>
+					 le modalità per il subingresso in caso di vendita o affitto delle aziende che gestiscono le concessioni demaniali».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, alla rubrica, aggiungere le seguenti parole:</an:i>
+					 «nonché delega al Governo in materia di concessioni demaniali».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
