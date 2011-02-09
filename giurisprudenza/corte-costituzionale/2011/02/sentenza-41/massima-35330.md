@@ -1,0 +1,29 @@
+# Massima n. 35330
+
+- Pronuncia: Corte costituzionale, sentenza 41/2011 (ECLI:IT:COST:2011:41)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:41
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Istruzione pubblica - Aggiornamento per il biennio 2009-2011 delle graduatorie ad esaurimento di cui all'art. 1, comma 605, lett.  c ), della legge finanziaria 2007 - Previsione, con norma autoqualificata di interpretazione autentica, dell'inserimento dei docenti che chiedono il trasferimento in una provincia diversa da quella in cui risultano iscritti dopo l'ultima posizione di III fascia nella relativa graduatoria, senza il riconoscimento del punteggio e della posizione attribuiti nella graduatoria di provenienza - Irragionevolezza della norma impugnata avente portata innovativa con carattere retroattivo, anziché interpretativa - Sacrificio del principio del merito nel reclutamento dei docenti per assicurare la migliore formazione scolastica - Illegittimità costituzionale - Assorbimento delle ulteriori censure.
+
+## Testo
+
+E' costituzionalmente illegittimo, per contrasto con l'art. 3 Cost., l'art. 1, comma 4- ter , del d.l. 25 settembre 2009, n. 134, aggiunto dalla legge di conversione 24 novembre 2009, n. 167, in quanto stabilisce che la lett.  c ) del comma 605 dell'art. 1 della legge n. 296 del 2006 si interpreta nel senso che nelle operazioni di integrazione e di aggiornamento delle graduatorie permanenti di cui all'art. 1 del d.l. n. 97 del 2004, convertito dalla legge n. 143 del 2004, è consentito ai docenti che ne fanno esplicita richiesta, oltre che la permanenza nella provincia prescelta in occasione dell'aggiornamento delle graduatorie per il biennio scolastico 2007-2009, di essere inseriti anche nelle graduatorie di altre province dopo l'ultima posizione di III fascia. La disposizione censurata - avente portata innovativa con carattere retroattivo, anziché interpretativa, poiché non individua alcuno dei contenuti normativi plausibilmente ricavabili dalla disposizione oggetto dell'asserita interpretazione - introduce, con effetto temporale rigidamente circoscritto al biennio 2009-2011, una disciplina eccentrica, rispetto alla regola dell'inserimento "a pettine" dei docenti nelle graduatorie, vigente sia anteriormente che posteriormente all'esaurimento del suddetto biennio e costituente, dunque, il criterio ordinamentale prescelto dal legislatore, anche nella prospettiva di non ostacolare indirettamente la libera circolazione delle persone sul territorio nazionale. Una siffatta deroga, non giustificata da alcuna obiettiva ragione ed imposta retroattivamente, non può superare il vaglio di costituzionalità, con riguardo al carattere non irragionevole che le disposizioni primarie debbono rivestire. La norma  de qua , infatti, prevede che se il docente chiede, in occasione dell'aggiornamento per il biennio scolastico 2011-2013, l'iscrizione in una graduatoria provinciale diversa da quella in cui era inserito nel biennio 2007-2009 vedrà riconosciuto il punteggio e la conseguente posizione occupata nella graduatoria di provenienza. Diversamente, se il docente chiede il trasferimento in occasione delle operazioni di integrazione e di aggiornamento per il biennio 2009-2011 viene inserito nelle graduatorie delle province scelte dopo l'ultima posizione di III fascia. L'effetto di tale previsione è, quindi, quello della sospensione per il biennio 2009-2011 della regola secondo la quale i mutamenti di graduatoria devono avvenire nel rispetto del principio del merito e, quindi, con il riconoscimento del punteggio e della posizione attribuiti al singolo docente nella graduatoria di provenienza. Il merito costituisce, invero, il criterio ispiratore della vigente disciplina del reclutamento del personale docente, secondo cui l'accesso ai ruoli avviene per il 50 per cento dei posti con concorsi per titoli ed esami e, per il restante 50 per cento, attingendo dalle graduatorie provinciali permanenti, ora ad esaurimento, periodicamente integrate mediante l'inserimento degli idonei non vincitori dei concorsi regionali e dei docenti che hanno chiesto il trasferimento da una provincia ad un'altra, e utilizzate dall'amministrazione scolastica anche per il conferimento di supplenze. Contemporaneamente all'introduzione di nuovi candidati, viene aggiornata la posizione di coloro che sono già presenti in graduatoria e che, nelle more, hanno maturato ulteriori titoli, valutabili ai fini di un possibile futuro incarico. La disposizione impugnata deroga a tali principi e, impiegando il mero dato formale della maggiore anzianità di iscrizione nella singola graduatoria provinciale per attribuire al suo interno la relativa posizione, introduce una disciplina irragionevole che - limitata al biennio 2009-2011 - comporta il totale sacrificio del criterio del merito posto a fondamento della procedura di reclutamento dei docenti per assicurare la migliore formazione scolastica possibile. (Restano assorbite le ulteriori censure). Nel senso che la palese erroneità dell'autoqualificazione di una norma come di interpretazione autentica può costituire un indice della sua manifesta irragionevolezza, v.,  ex plurimis , le citate sentenze n. 234/2007 e n. 274/2006.
+
+## Norme
+
+- decreto-legge, 25/09/2009 n. 134, art. 1, comma 4 ter
+- legge di conversione, 24/11/2009 n. 167
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 51, comma 1
+- Costituzione, art. 97
+- Costituzione, art. 113
+- Costituzione, art. 117, comma 1
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 6
+- Costituzione, art. 24, comma 1
