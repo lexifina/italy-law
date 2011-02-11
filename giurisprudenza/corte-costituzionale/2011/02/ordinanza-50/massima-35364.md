@@ -1,0 +1,23 @@
+# Massima n. 35364
+
+- Pronuncia: Corte costituzionale, ordinanza 50/2011 (ECLI:IT:COST:2011:50)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:50
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Assegno bancario - Mancato pagamento, in tutto o in parte, per carenza di provvista - Preavviso di revoca al traente dell'autorizzazione ad emettere assegni - Necessità che la relativa comunicazione sia effettuata prima del procedimento di applicazione delle sanzioni amministrative e sia estesa anche alla persona fisica che, dopo aver emesso l'assegno in qualità di legale rappresentante di una persona giuridica, abbia perduto tale qualità nel periodo tra la data di emissione e la scadenza del termine per il pagamento tardivo - Omessa previsione - Lamentata violazione del principio di uguaglianza per disparità di trattamento a fronte di situazioni identiche, nonché violazione del diritto di difesa - Parziale ed erronea ricostruzione del quadro normativo di riferimento - Carenze nella descrizione della fattispecie e nella motivazione sulla rilevanza - Manifesta inammissibilità della questione
+
+## Testo
+
+E' manifestamente inammissibile, in riferimento agli artt. 3 e 24 Cost., la questione di legittimità costituzionale degli artt. 8- bis  e 9- bis  della legge 15 dicembre 1990, n. 386 (Nuova disciplina sanzionatoria degli assegni bancari), nella parte in cui non prevedono che il procedimento amministrativo sanzionatorio di cui all'art. 8- bis , nei confronti del traente che abbia emesso un assegno senza provvista, debba essere preceduto dalla comunicazione al medesimo del preavviso di revoca dell'autorizzazione ad emettere assegni, ai sensi dell'art. 9- bis , anche nell'ipotesi in cui egli sia il rappresentante della persona giuridica venuto a cessare dalle sue funzioni nel periodo intercorrente tra l'emissione dell'assegno e la scadenza per il pagamento. L'ordinanza di rimessione, infatti, oltre ad essere carente in ordine alla descrizione della fattispecie, si basa su di una parziale ed erronea ricostruzione del quadro normativo di riferimento, non tenendo presente che quest'ultimo non permette in alcun modo di affermare che la comunicazione in oggetto non debba essere fatta all' ex  amministratore o che tale omissione non abbia conseguenze sulla legittimità del provvedimento impugnato. Sull'inammissibilità della questione di legittimità costituzionale prospettata con parziale ed erronea ricostruzione del quadro normativo di riferimento, v., tra le altre, le ordinanze nn. 251 e 242 del 2010.
+
+## Norme
+
+- legge, 15/12/1990 n. 386, art. 8 bis
+- legge, 15/12/1990 n. 386, art. 9 bis
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
