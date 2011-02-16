@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/G1.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/G1.25"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2518/A/G1.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.25"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@.akn"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-02-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-02-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2518/A/G1.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25256" showAs="Andria"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23037" showAs="Pertoldi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/22795" showAs="Randazzo"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/1376" showAs="Lumia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.25</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Andria</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pertoldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Randazzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Lumia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge di conversione del decreto-legge 29 dicembre 2010, n. 225, recante proroga di termini previsti da disposizioni legislative e di interventi urgenti in materia tributaria e di sostegno alle imprese e alle famiglie,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            dal 2000 al 2009, in agricoltura, i costi di produzione aumentano del 8,4% mentre le quotazioni dei prodotti scendono a - 15,2%;</an:p>
+				<an:p align="justify">            nel 2008, rispetto all'anno precedente il reddito reale dell'agricoltura italiana ha subito una riduzione del 25,3%;</an:p>
+				<an:p align="justify">            negli ultimi anni, la situazione debitoria delle imprese agricole, è stata complicata dalla cosidetta «cartolarizzazione» attraverso la quale l'INPS ha ceduto tutti i crediti contributivi ad una società appositamente costituita (la SCCI) che ha rimborsato allo stato il 10% del valore della cartolarizzazione stessa;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            è divenuto ormai indispensabile promuovere ogni utile iniziativa legislativa, compatibile con gli orientamenti comunitari, per avviare un processo di consolidamento della situazione debitoria delle imprese agricole e cooperative nei confronti del fisco e del sistema contributivo, la sofferenza delle imprese agricole nei confronti delle banche è divenuta allarmante con continue richieste di rientro del credito e con una stretta creditizia soffocante che vede istruttorie severissime e richieste di garanzia che hanno raggiunto livelli impossibili,</an:p>
+				<an:p align="justify">        impegna il governo:</an:p>
+				<an:p align="justify">            a rendere esecutiva la moratoria delle cartelle INPS e delle esposizioni bancarie e, conseguentemente, il blocco dei pagamenti da parte di Equitalia per impedire procedimenti esecutivi, pignoramenti e vendite all'asta delle aziende;</an:p>
+				<an:p align="justify">            individuare modalità e termini di intervento verso le Banche a seguito di quanto dichiarato dal Governatore della Banca d'Italia, a proposito dei tassi di interesse da usura praticati dagli istituti di credito;</an:p>
+				<an:p align="justify">            ad accertare, quantificandolo, l'effettivo credito vantato dall'INPS nei confronti elle aziende agricole.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
