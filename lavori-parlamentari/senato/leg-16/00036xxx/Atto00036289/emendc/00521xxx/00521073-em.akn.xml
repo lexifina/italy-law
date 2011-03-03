@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/C/1.0.48"/>
+					<an:FRBRdate date="2011-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.48"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@"/>
+					<an:FRBRdate date="2011-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@.akn"/>
+					<an:FRBRdate date="2011-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-03-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-03-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2518/C/1.0.48/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 5° riunite" href="/dati.senato.it/osr/Commissione/4"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25295" showAs="Pittoni"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25217" showAs="Vaccari"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22874" showAs="Bodega"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25209" showAs="Valli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.48</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Pittoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Bodega</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Valli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. l-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Proroga della validità al corso-concorso a dirigente scolastico indetto con delibera della giunta provinciale di Trento n. 2454 del 16 ottobre 2009 dell'articolo 1 comma 605, lettera c) e del comma 619 della 1egge n.296 del 2006)</an:i>
+				</an:p>
+				<an:p>        1. I candidati che hanno partecipato al concorso indetto dalla provincia autonoma di Trento con deliberazione della giunta provinciale n. 2454 del 16 ottobre 2009, superato le prove e svolto il prescritto periodo di formazione, ma non ancora nominati per mancanza di posti, possono partecipare a domanda al movimento interregionale di cui alla legge n. 31 del 2008.</an:p>
+				<an:p>        Previa frequenza di apposito corso intensivo di formazione indetto dal Ministero dell'istruzione, dell'università e della ricerca possono, altresì, partecipare a domanda al movimento interregionale i candidati che hanno partecipato al medesimo concorso e superato le prove di esame senza collocarsi in posizione utile per essere ammessi al corso intensivo di formazione.</an:p>
+				<an:p>        2. Coloro i quali ai sensi del comma 1 sono ammessi al movimento interregionale di cui alla legge n. 31 del 2008 sono nominati sui posti vacanti e disponibili all'esito delle nomine effettuate utilizzando le graduatorie ad esaurimento dei concorsi espletati dal Ministero dell'istruzione, dell'università e della ricerca e nei limiti delle immissioni in ruolo autorizzate dal Ministero dell'economia e delle finanze».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
