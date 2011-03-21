@@ -1,0 +1,59 @@
+# Corte costituzionale, sentenza 94/2011
+
+- ECLI: ECLI:IT:COST:2011:94
+- Tipo: sentenza
+- Presidente: DE SIERVO
+- Relatore: Sabino Cassese
+- Redattore: Sabino Cassese
+- Data della decisione: 09/03/2011
+- Data del deposito: 21/03/2011
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 35504, 35505, 35506
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:94
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Ugo DE SIERVO; Giudici : Paolo MADDALENA, Alfio FINOCCHIARO, Alfonso QUARANTA, Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI, Giorgio LATTANZI,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale degli artt. 7, comma 1, 8, comma 2, e 13, comma 3, della legge della Regione Liguria 10 novembre 2009, n. 52 (Norme contro le discriminazioni determinate dall'orientamento sessuale o dall'identità di genere), promosso dal Presidente del Consiglio dei ministri con ricorso notificato il 29 dicembre 2009-7 gennaio 2010, depositato in cancelleria il 7 gennaio 2010 ed iscritto al n. 3 del registro ricorsi 2010.
+ Visto  l'atto di costituzione, fuori termine, della Regione Liguria;
+ udito nell'udienza pubblica del 23 febbraio 2011 il Giudice relatore Sabino Cassese;
+ udito l'avvocato dello Stato Marina Russo per il Presidente del Consiglio dei ministri.
+
+## Testo
+
+Ritenuto in fatto1. - Con ricorso notificato il 29 dicembre 2009-7 gennaio 2010 e depositato in tale ultima data (7 gennaio 2010), il Presidente del Consiglio dei ministri ha promosso questioni di legittimità costituzionale degli artt. 7, comma 1, 8, comma 2, e 13, comma 3, della legge della Regione Liguria 10 novembre 2009, n. 52 (Norme contro le discriminazioni determinate dall'orientamento sessuale o dall'identità di genere), per contrasto con l'art. 117, secondo comma, lettera l), della Costituzione.
+ 2. - Il ricorrente impugna tre disposizioni della legge della Regione Liguria n. 52 del 2009, contenenti norme contro le discriminazioni determinate dall'orientamento sessuale e dall'identità di genere.
+ 2.1. - Il Presidente del Consiglio dei ministri censura, in primo luogo, l'art. 7, comma 1, della legge impugnata. Tale disposizione riguarda l'accesso ai servizi pubblici e privati, prevedendo che «La Regione, nell'ambito delle proprie competenze, opera per assicurare la trasparenza e garantire a ciascuno parità d'accesso ai servizi pubblici e privati e dà attuazione al principio in base al quale le prestazioni erogate da tali servizi non possano essere rifiutate né somministrate in maniera deteriore per le cause di discriminazioni».
+ Secondo il ricorrente, questa norma introdurrebbe il «divieto, per gli operatori economici privati, di rifiutare la loro prestazione o di erogarla a condizioni deteriori rispetto a quelle ordinarie, per motivi riconducibili all'orientamento sessuale o all'identità di genere». La norma prevederebbe, in sostanza, un'ipotesi di «obbligo legale a contrarre», obbligo peraltro già previsto in via generale dal legislatore statale all'art. 187 del Regio Decreto 6 maggio 1940, n. 635 (Approvazione del regolamento per l'esecuzione del testo unico 18 giugno 1931, n. 773 delle leggi di pubblica sicurezza). Tale disposizione regionale, dunque, inciderebbe sull'autonomia negoziale dei privati così come, sempre ad avviso del ricorrente, avrebbe rilevato la Corte costituzionale «in casi analoghi» a quello oggetto di censura (sentenza n. 253 del 2006).
+ 2.2. - In secondo luogo, il Presidente del Consiglio dei ministri censura l'art. 13, comma 3, della legge della Regione Liguria n. 52 del 2009, ai sensi del quale «nell'esercizio dell'attività legislativa, regolamentare, programmatoria e amministrativa, gli organi regionali si conformano ai principi prefissati dalla presente legge, anche prevedendo norme per la prevenzione delle discriminazioni, l'attuazione dei diritti e le sanzioni dei comportamenti discriminatori». Tale disposizione sarebbe illegittima, ad avviso della difesa dello Stato, in virtù del rapporto di connessione con l'art. 7, comma 1, della medesima legge regionale, nonché del «parallelismo tra potere di determinazione della fattispecie da sanzionare e potere di determinare la sanzione», così come affermato dalla Corte costituzionale nella sentenza n. 253 del 2006.
+ 2.3. - In terzo luogo, il Presidente del Consiglio dei ministri censura l'art. 8, comma 2, della legge impugnata. Tale disposizione prevede, in materia di salute e prestazioni sanitarie, che «Chiunque abbia raggiunto la maggiore età può designare una persona che abbia accesso alle strutture di ricovero e cura per ogni esigenza assistenziale e psicologica del designante e a cui gli operatori delle strutture pubbliche e private socio-assistenziali devono riferirsi per tutte le comunicazioni relative al suo stato di salute». Secondo il ricorrente, questa norma, considerata la generalità della formula utilizzata dal legislatore regionale, comprenderebbe anche «la possibilità di delegare ad altra persona il consenso ad un determinato trattamento sanitario», in tal modo incidendo sull'istituto della rappresentanza, che, come affermato dalla Corte costituzionale nella sentenza n. 253 del 2006, rientrerebbe nella materia dell'ordinamento civile, riservata alla competenza legislativa esclusiva dello Stato ai sensi dell'art. 117, secondo comma, lettera l), Cost.Considerato in diritto1. - Il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, con ricorso notificato il 29 dicembre 2009-7 gennaio 2010 e depositato in tale ultima data (7 gennaio 2010), ha promosso questioni di legittimità costituzionale degli artt. 7, comma 1, 8, comma 2, e 13, comma 3, della legge della Regione Liguria 10 novembre 2009, n. 52 (Norme contro le discriminazioni determinate dall'orientamento sessuale o dall'identità di genere), per contrasto con l'art. 117, secondo comma, lettera l), della Costituzione.
+ 2. - Le questioni promosse dal ricorrente sono tre.
+ 2.1. - La prima riguarda l'art. 7, comma 1, della legge impugnata, ai sensi del quale «la Regione, nell'ambito delle proprie competenze, opera per assicurare la trasparenza e garantire a ciascuno parità d'accesso ai servizi pubblici e privati e dà attuazione al principio in base al quale le prestazioni erogate da tali servizi non possano essere rifiutate né somministrate in maniera deteriore per le cause di discriminazioni». Ad avviso del Presidente del Consiglio dei ministri, questa disposizione, introducendo il «divieto, per gli operatori economici privati, di rifiutare la loro prestazione o di erogarla a condizioni deteriori rispetto a quelle ordinarie, per motivi riconducibili all'orientamento sessuale o all'identità di genere», prevederebbe un «obbligo legale a contrarre», con conseguente lesione dell'art. 117, secondo comma, lettera l), Cost.
+ La questione non è fondata.
+ L'obbligo legale a contrarre comporta che determinati operatori siano obbligati ex lege a fornire la propria prestazione a chiunque ne faccia richiesta (art. 1679 cod. civ., con riferimento ai servizi pubblici di trasporto). L'art. 7, comma 1, della legge censurata ha una portata diversa. Esso non pone alcun obbligo a contrarre a carico degli erogatori di servizi pubblici e privati, ma contiene una norma programmatica, che impegna la Regione stessa, nell'ambito delle proprie competenze, a dare attuazione ai principi costituzionali di eguaglianza e di non discriminazione in ordine alla erogazione di servizi pubblici e privati. La disposizione impugnata, pertanto, non lede la competenza esclusiva statale in materia di ordinamento civile.
+ 2.2. - La seconda questione riguarda l'art. 13, comma 3, della legge della Regione Liguria n. 52 del 2009, ai sensi del quale «nell'esercizio dell'attività legislativa, regolamentare, programmatoria e amministrativa, gli organi regionali si conformano ai principi prefissati dalla presente legge, anche prevedendo norme per la prevenzione delle discriminazioni, l'attuazione dei diritti e le sanzioni dei comportamenti discriminatori». Tale disposizione sarebbe illegittima, ad avviso della difesa dello Stato, in virtù del rapporto di connessione con l'art. 7, comma 1, della medesima legge regionale, «stante il parallelismo tra potere di determinazione della fattispecie da sanzionare e potere di determinare la sanzione», così come affermato da questa Corte nella sentenza n. 253 del 2006.
+ La questione non è fondata.
+ Innanzitutto, una volta stabilito che l'art. 7, comma 1, della legge della Regione Liguria n. 52 del 2009 non invade la competenza legislativa statale, l'asserito rapporto di connessione con tale norma non può di per sé determinare l'illegittimità della disposizione di cui all'art. 13, comma 3, della medesima legge regionale. Quest'ultima norma, peraltro, non dispone essa stessa sanzioni - come invece stabiliva la norma dichiarata illegittima con la sentenza n. 253 del 2006, richiamata dal ricorrente - ma si limita a prefigurarne l'introduzione, che deve rispettare i principi di legalità, tipicità e nominatività degli atti amministrativi.
+ 2.3. - La terza questione attiene all'art. 8, comma 2, della legge impugnata, secondo cui «chiunque abbia raggiunto la maggiore età può designare una persona che abbia accesso alle strutture di ricovero e cura per ogni esigenza assistenziale e psicologica del designante e a cui gli operatori delle strutture pubbliche e private socio-assistenziali devono riferirsi per tutte le comunicazioni relative al suo stato di salute». Ad avviso del Presidente del Consiglio dei ministri, questa norma, per la generalità della formula utilizzata, comprenderebbe anche «la possibilità di delegare ad altra persona il consenso ad un determinato trattamento sanitario», in tal modo incidendo sull'istituto della rappresentanza.
+ La questione non è fondata.
+ L'art. 8, comma 2, della legge censurata consente di individuare una persona che si limita a ricevere comunicazioni. La disposizione non disciplina l'istituto della rappresentanza, ma riconosce la possibilità di utilizzarlo al fine di comunicare ai pazienti le informazioni relative al loro stato di salute. D'altro canto, la possibilità di designare un soggetto e di conferirgli il potere di ricevere le informazioni relative allo stato di salute del designante è già prevista, in via generale, dall'art. 9 del decreto legislativo 30 giugno 2003, n. 196 (Codice in materia di protezione dei dati personali). Tale articolo - in combinato disposto con l'art. 7 del medesimo decreto - ammette la possibilità che l'interessato conferisca, per iscritto, delega o procura a un "incaricato" per esercitare il diritto di accesso ai dati personali.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara non fondate le questioni di legittimità costituzionale degli artt. 7, comma 1, 8, comma 2, e 13, comma 3, della legge della Regione Liguria 10 novembre 2019, n. 52 (Norme contro le discriminazioni determinate dall'orientamento sessuale o dall'identità di genere), promosse dal Presidente del Consiglio dei ministri, in riferimento all'art. 117, secondo comma, lettera l), della Costituzione, con il ricorso indicato in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 9 marzo 2011.
+ F.to:
+ Ugo DE SIERVO, Presidente
+ Sabino CASSESE, Redattore
+ Maria Rosaria FRUSCELLA, Cancelliere
+ Depositata in Cancelleria il 21 marzo 2011.
+ Il Cancelliere
+ F.to: FRUSCELLA
