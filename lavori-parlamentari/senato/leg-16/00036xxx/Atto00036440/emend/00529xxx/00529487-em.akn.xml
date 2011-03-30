@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2568/A/1.218/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2568/A/1.218"/>
+					<an:FRBRdate date="2011-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2568/A/1.218/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.218"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@"/>
+					<an:FRBRdate date="2011-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@.akn"/>
+					<an:FRBRdate date="2011-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2568/A/1.218/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2568" showAs="DDL 2568"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="EGC" href="http://dati.senato.it/senatore/17750" showAs="Pinotti"/>
+				<an:TLCPerson id="ELC" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2568</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.218 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGC" as="#tipoSenatore">Pinotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELC" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 3, capoverso «Art. 285-bis», nel comma 1, sopprimere le seguenti parole: «ovvero padre, qualora la madre sia deceduta o assolutamente impossibilitata a dare assistenza alla prole».</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, al medesimo capoverso, al comma 1, aggiungere in fine il seguente periodo:</an:i>
+					 «Tale disposizione si applica al detenuto padre ove la madre sia deceduta o assolutamente impossibilitata a dare assistenza alla prole, in sezioni specializzate».
+				</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente dopo il comma 2 aggiungere le seguenti:</an:i>
+				</an:p>
+				<an:p align="justify">
+					        «2-
+					<an:i>bis</an:i>
+					. Ai maggiori oneri di cui al comma 2, valutati in 10 milioni di euro a decorrere dall'anno 2011 si provvede mediante quota parte dei maggiori risparmi di spesa di cui al comma 2-
+					<an:i>ter</an:i>
+					.
+				</an:p>
+				<an:p align="justify">
+					        2-
+					<an:i>ter</an:i>
+					. Con riferimento alle amministrazioni pubbliche inserite nel conto consolidato della pubblica amministrazione, come individuate dall'ISTAT, ai sensi dell'articolo 1, comma 3, della legge 31 dicembre 1999, n. 196, a pena di configurazione di danno erariale a carico dei soggetti responsabili, l'uso delle autovetture in dotazione a ciascuna amministrazione è ammesso strettamente per esigenze di servizio ed è in ogni caso escluso per trasferimenti verso e dal luogo di lavoro. La presente disposizione non si applica alle autovetture assegnate, ai fini di tutela e sicurezza personale, a soggetti esposti a pericolo, ai sensi dell'articolo 7, comma 3, della legge 4 maggio 1988, n. 133. L'uso in via esclusiva delle autovetture di servizio è ammesso esclusivamente per i titolari delle seguenti cariche: a) Presidente del Consiglio dei Ministri e Vice Presidente del Consiglio dei Ministri; b) Ministri e Vice Ministri; c) Sottosegretari di Stato; d) Primo Presidente e Procuratore generale della Corte di cassazione e Presidente del tribunale superiore delle acque pubbliche, Presidente del Consiglio di Stato, Presidente e Procuratore generale della Corte dei conti, Avvocato generale dello Stato, Segretario generale della Presidenza del Consiglio dei Ministri, Presidente del Consiglio di giustizia amministrativa della regione siciliana; e) Presidenti di Autorità indipendenti.
+				</an:p>
+				<an:p align="justify">
+					        Ai sensi dell'articolo 2, comma 122, della legge 23 dicembre 1996, n. 662, tutti coloro che hanno ricoperto cariche pubbliche a qualsiasi titolo, e che sono cessati dalla carica, perdono il diritto all'uso dell'autovettura di Stato. Ciascuna amministrazione procede alla individuazione delle autovetture in esubero, ai fini della loro dismissione entro il 31 dicembre 2011. Dalle disposizioni di cui al presente comma devono derivare risparmi non inferiori a 10 milioni di euro a decorrere dall'anno 2011. I risparmi devono essere conseguiti dalle amministrazioni pubbliche ed in caso di accertamento di minori economie rispetto agli obiettivi di cui al presente comma, si provvede alla corrispondente riduzione, per ciascuna amministrazione inadempiente, delle dotazioni di bilancio relative a spese non obbligatorie, fino alla totale copertura dell'obiettivo di risparmio ad essa assegnato. In caso di oneri eccedenti rispetto alla valutazione di cui al comma 2-
+					<an:i>bis,</an:i>
+					 i risparmi di spesa di cui al presente comma sono incrementati in misura permanente fino alla totale copertura dei maggiori oneri emersi».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
