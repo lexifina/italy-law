@@ -1,0 +1,27 @@
+# Massima n. 35608
+
+- Pronuncia: Corte costituzionale, ordinanza 146/2011 (ECLI:IT:COST:2011:146)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:146
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Criteri di scelta delle misure cautelari - Sostituzione della misura della custodia cautelare in carcere con quella degli arresti domiciliari per la persona raggiunta da gravi indizi di colpevolezza in ordine al delitto di induzione o sfruttamento della prostituzione minorile (art. 600- bis , primo comma, cod. pen.) - Preclusione - Denunciata violazione dei principi di ragionevolezza, di uguaglianza, di proporzione, di adeguatezza e di graduazione nell'applicazione delle misure cautelari, nonché asserita lesione dei vincoli derivanti dagli obblighi internazionali - Sopravvenuta declaratoria di illegittimità costituzionale  in parte qua  della norma censurata - Necessità di una nuova valutazione della rilevanza e della non manifesta infondatezza della questione - Restituzione degli atti al rimettente.
+
+## Testo
+
+Va disposta la restituzione degli atti al giudice  a quo  in ordine alla questione di legittimità costituzionale - sollevata in riferimento agli artt. 3, 13, 27 e 117, primo comma, della Costituzione - dell'art. 275, comma 3, del codice di procedura penale, come modificato dall'art. 2 del decreto-legge 23 febbraio 2009, n. 11 (Misure urgenti in materia di sicurezza pubblica e di contrasto alla violenza sessuale, nonché in tema di atti persecutori), convertito, con modificazioni, dalla legge 23 aprile 2009, n. 38, nella parte in cui non consente la sostituzione della misura della custodia cautelare in carcere con quella degli arresti domiciliari per la persona raggiunta da gravi indizi di colpevolezza in ordine al delitto di induzione o sfruttamento della prostituzione minorile (art. 600- bis , primo comma, cod. pen.). Successivamente all'ordinanza di rimessione, infatti, con la sentenza n. 265 del 2010, è stata dichiarata, in relazione agli artt. 3, 13, primo comma, e 27, secondo comma, della Costituzione, l'illegittimità costituzionale della norma censurata, nella parte in cui - nel prevedere che, quando sussistono gravi indizi di colpevolezza in ordine ai delitti di cui agli artt. 600- bis , primo comma, 609- bis  e 609- quater  cod. pen., è applicata la custodia cautelare in carcere, salvo che siano acquisiti elementi dai quali risulti che non sussistono esigenze cautelari - non fa salva, altresì, l'ipotesi in cui siano acquisiti elementi specifici, in relazione al caso concreto, dai quali risulti che le esigenze cautelari possono essere soddisfatte con altre misure. Tale decisione - nell'escludere che potesse conciliarsi con i parametri ora indicati la presunzione assoluta di adeguatezza della sola custodia in carcere, sancita dal novellato art. 275, comma 3, cod. proc. pen. in rapporto ai delitti cui si riferiva lo scrutinio - ha ritenuto, per contro, compatibile con detti parametri la previsione di una presunzione solo relativa, superabile da specifici elementi da cui desumere la sufficienza di misure diverse e meno gravose della custodia in carcere. Si impone pertanto la restituzione degli atti al Tribunale rimettente, perché proceda, alla luce della sopravvenuta dichiarazione di illegittimità costituzionale e del conseguente mutamento del quadro normativo, ad una nuova valutazione circa la rilevanza e la non manifesta infondatezza della questione sollevata.
+
+## Norme
+
+- codice di procedura penale, art. 275, comma 3
+- decreto-legge, 23/02/2009 n. 11, art. 2
+- legge, 23/04/2009 n. 38
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 117, comma 1
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 5
+- Costituzione, art. 13
+- Costituzione, art. 27
