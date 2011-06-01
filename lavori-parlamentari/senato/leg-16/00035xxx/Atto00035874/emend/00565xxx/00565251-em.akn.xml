@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2362/A/G5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2362/A/G5"/>
+					<an:FRBRdate date="2011-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2362/A/G5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@"/>
+					<an:FRBRdate date="2011-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@.akn"/>
+					<an:FRBRdate date="2011-06-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-06-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-06-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2362/A/G5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2362" showAs="DDL 2362"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/25197" showAs="Bugnano"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/25240" showAs="Mascitelli"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/4414" showAs="Di Nardo"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/25227" showAs="Pardi"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/22864" showAs="Belisario"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/22750" showAs="Giambrone"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/22722" showAs="Caforio"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/25202" showAs="Carlino"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/17211" showAs="Lannutti"/>
+				<an:TLCPerson id="EGC" href="http://dati.senato.it/senatore/23254" showAs="Li Gotti"/>
+				<an:TLCPerson id="ELC" href="http://dati.senato.it/senatore/12480" showAs="Pedica"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2362</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Bugnano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Mascitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Di Nardo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Pardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Belisario</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Giambrone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Caforio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Carlino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Lannutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGC" as="#tipoSenatore">Li Gotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELC" as="#tipoSenatore">Pedica</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge 2362-A, recante «Istituzione della Giornata nazionale in memoria delle vittime dei disastri ambientali e industriali causati dall'incuria dell'uomo»,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            particolare attenzione dovrebbe essere posta alle attività industriali in ambiente marino, onde evitare il verificarsi degli eventi disastrosi di cui al presente disegno di legge;</an:p>
+				<an:p align="justify">            in Italia le attività di ricerca in mare di idrocarburi (olio e/o gas) sono concentrate nei mari Adriatico e Ionio e nell'area antistante la Sicilia meridionale e occidentale. Ad eccezione del Mar Adriatico settentrionale, in cui si tratta prevalentemente di ricerca per giacimenti di gas naturale, le aree maggiormente interessate dalle attività di ricerca di petrolio sono la costa tra le Marche e l'Abruzzo, il tratto di costa pugliese, soprattutto tra Bari e Brindisi, il golfo di Taranto e il canale di Sicilia. Nuove istanze di ricerca sono state avanzate anche per il golfo di Cagliari e Oristano in Sardegna e per un'area delle isole dell'arcipelago toscano;</an:p>
+				<an:p align="justify">            poco più di un anno fa un'area vastissima del mare e delle coste del sud degli Stati Uniti, a partire dal delta del Mississippi, è stata teatro di un terribile disastro ambientale causato da un guasto ad una piattaforma petrolifera, che ha provocato una fuoriuscita incessante e distruttiva di petrolio. Nel Mediterraneo si sono verificati numerosi incidenti marittimi che hanno causato versamenti di petrolio e di sostanze chimiche. Le zone del nostro Paese più a rischio d'incidente a causa dell'intenso traffico marittimo sono lo Stretto di Messina, il canale di Sicilia e il Santuario dei Cetacei, nonché vari porti italiani interessati da intensi movimenti di naviglio;</an:p>
+				<an:p align="justify">            l'attivazione delle perforazioni non può prescindere da un'attenta riflessione sui rischi di incidente industriale, con conseguenti gravi conseguenze per l'ambiente;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a potenziare le attività di controllo e prevenzione dei rischi derivanti dalle attività di perforazione in mare, considerato che in caso di un eventuale incidente la struttura morfologica chiusa dei nostri mari causerebbe danni insostenibili per l'ambiente;</an:p>
+				<an:p align="justify">            a valutare l'opportunità di non procedere al rilascio di nuove autorizzazioni per la prospezione, la ricerca e la coltivazione di idrocarburi su giacimenti con profondità superiori a quelle già attualmente oggetto di estrazione ed a valutare l'opportunità di sospendere o rivedere le autorizzazioni già assentite;</an:p>
+				<an:p align="justify">            a garantire adeguati sistemi di monitoraggio e difesa del mare, In particolare nelle aree marine protette e in quelle a più alta densità di traffico marittimo.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
