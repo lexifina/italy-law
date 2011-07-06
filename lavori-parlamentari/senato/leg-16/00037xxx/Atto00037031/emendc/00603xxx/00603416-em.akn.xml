@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/C/6.0.1"/>
+					<an:FRBRdate date="2011-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@"/>
+					<an:FRBRdate date="2011-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@.akn"/>
+					<an:FRBRdate date="2011-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/C/6.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 5° e 6° riunite" href="/dati.senato.it/osr/Commissione/69"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17806" showAs="Viespoli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/476" showAs="Cardiello"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17564" showAs="Carrara"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/28068" showAs="Castiglione"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/17606" showAs="Menardi"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/4509" showAs="Palmizio"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/25233" showAs="Piscitelli"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/17771" showAs="Saia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Viespoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Cardiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Carrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Castiglione</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Menardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Palmizio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Piscitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Saia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 6</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 6-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>        1. All'articolo 4 della legge 8 luglio 1980, n. 319, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 il comma 2 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''2. La vacazione è di due ore. Il costo orario è equiparato a quello previsto nel settore privato.'';</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 dopo il comma 7 sono inseriti i seguenti:
+				</an:p>
+				<an:p>
+					        ''7-
+					<an:i>bis</an:i>
+					. Tutti gli onorari, sono comprensivi della relazione sui risultati dell'incarico espletato.
+				</an:p>
+				<an:p>
+					        7-
+					<an:i>ter</an:i>
+					. Le attività meramente materiali necessarie per l'espletamento dell'incarico quali ad es. la partecipazione alle udienze, i sopralluoghi, le visite domiciliari, l'acquisizione di documenti, i chiarimenti ecc, che non ampliano l'originario oggetto dell'accertamento e non costituiscono un vero e proprio supplemento di incarico sono corrisposti a vacazione.
+				</an:p>
+				<an:p>
+					        7-
+					<an:i>quater</an:i>
+					. Gli onorari saranno calcolati cumulando le vacazioni previste dal comma precedente con gli onorari fissi e variabili delle singole attività, riconducibili nelle apposite tabelle, necessarie per l'espletamento dell'incarico.
+				</an:p>
+				<an:p>
+					        7-
+					<an:i>quinquies</an:i>
+					. Gli onorari fissi e variabili devono essere aumentati fino al trenta per cento se i periti, consulenti tecnici, interpreti e traduttori sono muniti di laurea magistrale o titolo equipollente.
+				</an:p>
+				<an:p>        2. All'articolo 52 del D.P.R. 30 maggio 2002, n. 115, il comma 1 è sostituito dai seguenti:</an:p>
+				<an:p>        ''1. Per le prestazioni di eccezionale importanza, complessità e difficoltà gli onorari possono essere aumentati sino al doppio, previo il parere vincolante dell'Ordine professionale o Collegio di appartenenza, i quali devono esprimersi sulla percentuale di importanza, complessità e difficoltà entro e non oltre trenta giorni dalla ricezione della richiesta del ausiliario del magistrato. Trascorso inutilmente il termine indicato precedentemente, la percentuale richiesta si intende attestata.</an:p>
+				<an:p>
+					        1-
+					<an:i>bis</an:i>
+					. Se il decreto di liquidazione ha un importo inferiore del venti per cento della richiesta, l'ausiliario del giudice può chiedere il parere vincolante dell'Ordine o del Collegio di appartenenza, i quali devono esprimersi entro e non oltre trenta giorni dalla ricezione della richiesta del ausiliario del magistrato. Trascorso inutilmente il termine indicato precedentemente, l'onorario e le relative spese si intendono attestate integralmente.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>ter</an:i>
+					. A garanzia della prestazione svolta dall'ausiliario del magistrato e dal tecnico di parte, deve essere depositato prima dell'inizio delle operazioni peritali e della prestazione professionale, dalla parte ricorrente oppure dalle parti in solido tra loro, un fondo garanzia specifico, su conto corrente bancario, pari al doppio del probabile valore dell'onorario e delle relative spese, stabilito dall'autorità giudiziaria su proposta degli stessi.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>quater</an:i>
+					. Il giudice oltre al decreto di pagamento deve assegnare un tempo di servizio espresso in giorni che è stato necessario per l'espletamento dell'incarico, valido ai fini del periodo di servizio, dell'esperienza nella pubblica amministrazione e per i concorsi pubblici.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>quinquies</an:i>
+					. Gli ausiliari del giudice posso richiedere, con retro attività, il tempo di servizio degli incarichi precedentemente espletati oppure ai sensi delle leggi vigenti attestarlo con autodichiarazione''.
+				</an:p>
+				<an:p>        3. All'onere derivante dall'attuazione del presente articolo si provvede mediante riduzione, fino al 5 per cento, a partire dall'anno 2011, delle dotazioni di parte corrente, relative alle autorizzazioni di spesa di cui alla Tabella C della legge 13 dicembre 2010, n. 220, i cui stanziamenti sono iscritti in bilancio come spese rimodulabili».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
