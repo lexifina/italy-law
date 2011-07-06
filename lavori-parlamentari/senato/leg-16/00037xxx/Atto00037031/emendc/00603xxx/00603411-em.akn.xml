@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/C/6.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/C/6.22"/>
+					<an:FRBRdate date="2011-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/C/6.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@"/>
+					<an:FRBRdate date="2011-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@.akn"/>
+					<an:FRBRdate date="2011-07-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/C/6.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 5° e 6° riunite" href="/dati.senato.it/osr/Commissione/69"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2-</an:i>
+					ter, 
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>quater</an:i>
+					. All'articolo 5 della legge 23 marzo 1999, n. 68, il comma 8 è sostituito dai seguenti:
+				</an:p>
+				<an:p>        "8. Gli obblighi di cui agli articoli 3 e 18 della presente legge devono essere rispettati a livello nazionale. Ai fini del rispetto degli obblighi ivi previsti, i datori di lavoro privati che occupano personale in diverse unità produttive e i datori di lavoro privati di imprese che sono parte di un gruppo ai sensi dell'articolo 31 del decreto legislativo 10 settembre 2003, n. 276, possono assumere in una unità produttiva o, ferme restando le aliquote d'obbligo di ciascuna impresa, in una impresa del gruppo avente sede in Italia, un numero di lavoratori aventi diritto al collocamento mirato superiore a quello prescritto, portando in via automatica le eccedenze a compenso del minor numero di lavoratori assunti in diverse unità produttive o imprese del gruppo aventi sede in Italia.</an:p>
+				<an:p>
+					        8-
+					<an:i>bis</an:i>
+					. I datori di lavoro privati che si avvalgono della facoltà di cui al comma 8 trasmettono in via telematica a ciascuno dei servizi competenti delle province in cui insistono le unità produttive della stessa azienda e delle sedi delle diverse imprese del gruppo di cui all'articolo 31 del decreto legislativo 10 settembre 2003, n. 276, il prospetto di cui all'articolo 9, comma 6, dal quale risulta l'adempimento dell'obbligo al livello nazionale e la situazione di ciascuna unità produttiva o di ciascuna impresa appartenente al gruppo.
+				</an:p>
+				<an:p>
+					        8-
+					<an:i>ter</an:i>
+					. Sono abrogate tutte le norme incompatibili con le presenti disposizioni"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
