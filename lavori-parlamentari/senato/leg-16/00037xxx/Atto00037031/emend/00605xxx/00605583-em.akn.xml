@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G8.103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G8.103"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G8.103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@.akn"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/A/G8.103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            sono oltre quarantamila i piccoli azionisti e obbligazionisti Alitalia, molti dei quali dipendenti della compagnia aerea che percepivano le proprie retribuzioni sotto forma di quote in azioni, divenuti quindi azionisti, obbligazionisti o warrantisti non per libera scelta ma per una sostanziale imposizione del management societario;</an:p>
+				<an:p align="justify">
+					            l'articolo 7-
+					<an:i>octies</an:i>
+					 della legge 9 aprile 2009, n. 33 «Conversione in legge, con modificazioni, del decreto-legge 10 febbraio 2009, n. 5, recante misure urgenti a sostegno dei settori industriali in crisi», prevede per i titolari del prestito obbligazionario «Alitalia 7,5 per cento 2002-2010 convertibile», emesso dalla società Alitalia-Linee aeree italiane S.p.A, la possibilità di cedere al Ministero dell'economia e delle finanze, i propri titoli in cambio di titoli di Stato di nuova emissione con scadenza 31 dicembre 2012 e con taglio minimo di 1.000 euro, vincolando il tutto all'osservanza delle condizioni e modalità specificate;
+				</an:p>
+				<an:p align="justify">            in data 2 aprile 2009 il Governo ha accolto come raccomandazione l'ordine del giorno 9/2187-A189 nell'ambito della conversione del decreto-legge 10 febbraio 2009, n. 5, nel quale si chiedeva un impegno ad adottare ogni utile strumento volto a tutelare le decine di migliaia di incolpevoli cittadini che nel passato hanno acquistato le azioni Alitalia, investendo, a volte, i risparmi di una vita e che hanno diritto di sapere quale sarà la sorte dei loro titoli;</an:p>
+				<an:p align="justify">
+					            la liquidazione della vecchia società Alitalia si sta per chiudere in 
+					<an:i>bonis</an:i>
+					, come risulta dalla relazione finale sulla esecuzione del programma presentata il 13 gennaio 2011 dal commissario straordinario professor avvocato Fantozzi insieme al Ministro per lo sviluppo economico Romani;
+				</an:p>
+				<an:p align="justify">            il rilancio della nuova Alitalia sta procedendo con risultati positivi, come evidenziato dal presidente Colaninno e certificato dal progetto di bilancio per il 2010 approvato dal Consiglio di amministrazione del 25 febbraio 2011;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a dare concreta ed immediata attuazione agli impegni assunti in merito al rimborso degli azionisti e obbligazionisti della vecchia società Alitalia.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
