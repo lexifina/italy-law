@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G4.103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G4.103"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G4.103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@.akn"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/A/G4.103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il comma 4 dell'articolo 1 del decreto-legge 5 agosto 2010, n. 125, recante «Misure urgenti per il settore dei trasporti e disposizioni in materia finanziaria. Proroga del termine di esercizio della delega legislativa in materia di armonizzazione dei sistemi contabili e degli schemi di bilancio di amministrazioni pubbliche» ha modificato l'articolo 15 del decreto-legge 78 del 2010 fissando il termine del 30 aprile 2011 entro il quale verrà istituito un pedaggio sulle autostrade e sui raccordi autostradali in gestione diretta di ANAS S.p.a.;</an:p>
+				<an:p align="justify">            con il Decreto del Presidente del Consiglio dei Ministri del 25 giugno 2010 è stata approvata la maggiorazione tariffaria forfetaria del pedaggio riscosso ai caselli delle autostrade in concessione che si interconnettono con la rete autostradale gestita da ANAS: un euro per le classi di pedaggio A e B e due euro per le classi di pedaggio 3,4 e 5;</an:p>
+				<an:p align="justify">            il pedaggio interesserà circa 1.300 chilometri di raccordi autostradali, di diramazioni e di autostrade, tra i quali: il grande raccordo anulare di Roma e la Roma-Fiumicino;</an:p>
+				<an:p align="justify">            Berlino, Madrid, Parigi e Londra, pur disponendo di raccordi anche più estesi di quello di Roma, non hanno mai preso in considerazione l'idea di applicare un pedaggio all'interno dei raccordi autostradali di collegamento da e per le città;</an:p>
+				<an:p align="justify">            non disponendo di una rete ferroviaria e di infrastrutture per la mobilità adeguate, il 70 per cento degli spostamenti a Roma avviene su gomma, per cui è un grave errore, per di più in un momento di difficoltà, rovesciare sui pendolari e sull'economia che grava intorno alla capitale, le colpe per la mancanza di una politica delle infrastrutture;</an:p>
+				<an:p align="justify">            la norma demanda ad un DPCM, non ancora approvato, sia l'individuazione delle tratte da sottoporre a pedaggio, sia l'individuazione di sistemi di pedaggiamento da utilizzare, come confermato dal presidente di Anas, Pietro Ciucci, a margine di una recente audizione presso la Commissione Lavori pubblici del Senato;</an:p>
+				<an:p align="justify">            il presidente della Regione Lazio, Renata Polverini, ha promesso «iniziative volte a bloccare un balzello fortemente penalizzante per i pendolari» ed ha affermato che «la Regione è disponibile a farsi carico delle spese di manutenzione del Gra, pur di non introdurre il pedaggio»;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a rinunciare definitivamente all'introduzione di pedaggi sui 1300 chilometri di autostrade gestite da ANAS in generale e sul GRA di Roma e la Roma-Fiumicino in particolare e a individuare nuove fonti di finanziamento sostitutive dei pedaggi ai fini della messa in sicurezza e manutenzione delle autostrade gestite da Anas.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
