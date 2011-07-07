@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G6.107/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G6.107"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G6.107/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G6.107"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@.akn"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/A/G6.107/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G6.107</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il decreto-legge in esame si propone di rilanciare l'economia puntando anche sul mercato del lavoro e sul problema occupazionale; il miglioramento del livello di occupazione dei diversamente abili costituisce un valore aggiunto per l'intera società ed in più provvedimenti è stata evidenziata la necessità di agevolarne l'inserimento lavorativo;</an:p>
+				<an:p align="justify">            i datori di lavoro, pubblici e privati, possono essere autorizzati, su loro motivata richiesta, ad assumere in un'unità produttiva un numero di lavoratori aventi diritto al collocamento obbligatorio superiore a quello prescritto, portando le eccedenze a compenso del minor numero di lavoratori assunti in altre unità produttive della medesima regione (articolo 5, comma 8 Legge n. 68 del 1999);</an:p>
+				<an:p align="justify">            l'istituto della compensazione territoriale ad oggi costituisce un inutile appesantimento burocratico che impedisce alle aziende plurilocalizzate o che sono parte di un gruppo, di poter assumere i lavoratori diversamente abili nelle sedi o nelle imprese ove questo è più semplice;</an:p>
+				<an:p align="justify">            le imprese sono vincolate al rispetto di una complessa ed onerosa procedura che impone, pur essendo l'obbligo individuato dalla legge a livello nazionale, di distribuire sul territorio le assunzioni secondo regole e percentuali predeterminate, incoerenti con le esigenze sia delle imprese sia dei lavoratori disabili;</an:p>
+				<an:p align="justify">            le aziende, di conseguenza, nell'impossibilità di assumere a causa di queste regole, devono ricorrere a onerosi strumenti alternativi (convenzioni o esoneri parziali); i lavoratori, si vedono in sostanza negato il diritto ad un effettivo inserimento nel mondo del lavoro;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare la possibilità di semplificare la normativa in tema di collocamento obbligatorio al fine di una sua migliore applicazione, senza introdurre alcun onere a carico del bilancio pubblico ed in linea con gli interessi dei lavoratori disabili, in vista di una loro migliore e maggiore occupabilità.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
