@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G8.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G8.100"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G8.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@.akn"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/A/G8.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>        Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            l'articolo 8, comma 5, lettera 
+					<an:i>d)</an:i>
+					, stabilisce nuove modalità di calcolo del tasso d'interesse, applicato ai finanziamenti, rilevante ai fini dell'applicazione della disciplina in materia di usura;
+				</an:p>
+				<an:p align="justify">            tale disposizione, modificando l'articolo 2, comma 4 della legge sull'usura (legge 7 marzo 1996, n. 108), prevede che il limite oltre il quale l'interesse è considerato usurario scatti ove il tasso superi il tasso medio risultante dalla rilevazione, ma aumentato di un quarto in luogo del 50 per cento. A tale ammontare è inoltre aggiunto un margine di ulteriori quattro punti percentuali ed è altresì stabilito che la differenza tra il limite e il tasso medio non possa essere superiore a otto punti percentuali;</an:p>
+				<an:p align="justify">
+					            nella formulazione originaria dell'articolo 2 della citata legge n. 108/96 la soglia oltre la quale l'interesse era da considerarsi «usurario» corrispondeva al tasso medio, risultante dall'ultima rilevazione pubblicata in 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 relativamente a ciascuna categoria di crediti, aumentato della metà;
+				</an:p>
+				<an:p align="justify">
+					            le modifiche apportate dal decreto legge in esame, oltre ad aumentare notevolmente i margini di azione degli istituti di credito e degli intermediari abilitati, rischiano di dare luogo ad un aumento generalizzato dei tassi di interesse, creando particolari svantaggi ai cittadini e alle piccole e medie imprese, in una fase economica che vede già da diverso tempo un incremento più che proporzionale degli 
+					<an:i>spread</an:i>
+					 applicati ai finanziamenti,
+				</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a monitorare gli effetti delle disposizioni introdotte e ad apportare eventuali modifiche alle nuove modalità di calcolo del tasso di usura, qualora si dimostrassero eccessivamente svantaggiose per i cittadini e le piccole e medie imprese, valutando altresì ulteriori interventi per facilitare la concessione di finanziamenti da parte degli istituti di credito.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
