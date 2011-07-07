@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G4.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G4.105"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G4.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@.akn"/>
+					<an:FRBRdate date="2011-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2791/A/G4.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2791" showAs="DDL 2791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            con il provvedimento in esame si è inteso accelerare le procedure di aggiudicazione e di realizzazione di opere pubbliche e interventi infrastrutturali;</an:p>
+				<an:p align="justify">            nel caso di contratti riguardanti la progettazione e la costruzione di opere finalizzate all'allestimento di manifestazioni ed eventi di particolare interesse nazionale, come nel caso di EXPO 2015, è possibile ricorrere ad una speciale procedura volta a garantire, nel rispetto del piano tecnico, economico, organizzativo dell'opera e della manifestazione, la migliore qualità del progetto di architettura unitamente al rapido espletamento della procedura di aggiudicazione, ai sensi degli articolo 61, 53 comma 2, 109 comma 2, del decreto legislativo 12 aprile 2006 n. 163;</an:p>
+				<an:p align="justify">
+					            a tal fine le stazioni appaltanti, previa adeguata motivazione, possono procedere all'espletamento di una procedura articolata in due gradi, il primo avente per oggetto la selezione del progetto di architettura, di livello di elaborazione pari a quello di un progetto preliminare, analogamente a quanto disposto all'articolo 109, comma 2, il secondo avente ad oggetto il progetto definitivo ed il prezzo, analogamente a quanto disposto all'articolo 53, comma 2, paragrafo 
+					<an:i>c)</an:i>
+					;
+				</an:p>
+				<an:p align="justify">            il bando indica i requisiti di capacità tecnica ed economica che devono essere posseduti dai progettisti e dagli operatori economici riuniti per la partecipazione alla gara;</an:p>
+				<an:p align="justify">            il secondo grado si svolge tra i soggetti individuati attraverso la valutazione di progetti presentati al primo grado e selezionati senza la formazione di graduatorie di merito o assegnazione di premi. La selezione dei progetti avviene sulla base dei criteri di aggiudicazione indicati nel bando e nel documento preliminare della progettazione posto a base della gara;</an:p>
+				<an:p align="justify">            in ragione della particolare complessità e del valore rappresentativo dell'opera da realizzare, indipendentemente dal valore economico della stessa, le stazioni appaltanti possono limitare il numero dei candidati idonei da invitare al secondo grado della gara, garantendo in ogni caso un numero sufficiente ad assicurare un'effettiva concorrenza;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">        ad assumere le misure idonee affinché il modello procedurale innanzi indicato possa essere utilizzato per le opere di EXPO 2015, nel rispetto dell'efficienza, della qualità e della concorrenza.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
