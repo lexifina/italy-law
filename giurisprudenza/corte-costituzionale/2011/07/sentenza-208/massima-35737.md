@@ -1,0 +1,24 @@
+# Massima n. 35737
+
+- Pronuncia: Corte costituzionale, sentenza 208/2011 (ECLI:IT:COST:2011:208)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:208
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Bilancio e contabilità pubblica - Circolazione stradale - Misure urgenti in materia di stabilizzazione finanziaria e di competitività economica - Definizione con decreto del Presidente del Consiglio dei ministri, di criteri e modalità per l'applicazione del pedaggio sulle autostrade e sui raccordi autostradali in gestione diretta ANAS s.p.a., nonché dell'elenco delle tratte da sottoporre a pedaggio - Autorizzazione all'ANAS ad applicare una maggiorazione tariffaria forfettaria in via transitoria, presso le stazioni di esazione delle autostrade a pedaggio assentite in concessione interconnesse con le tratte autostradali in gestione diretta ANAS - Ricorso delle Regioni Toscana e Umbria - Denunciata violazione delle competenze legislative e regolamentari regionali con lesione del principio di leale collaborazione - Esclusione - Riconducibilità delle disposizioni impugnate alla materia "ordinamento civile" di competenza legislativa esclusiva dello Stato - Non fondatezza della questione.
+
+## Testo
+
+Non sono fondate le questioni di legittimità costituzionale dell'art. 15, commi 1 e 2, del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122 (che prevedono una disciplina a regime, ove l'ammontare del pedaggio è determinato con d.P.C.m., ed in una disciplina transitoria, ove viene previsto che, sino all'applicazione della nuova tariffa, sia applicata in via forfettaria una maggiorazione fissa ai caselli delle autostrade assentite in concessione, che si interconnettono con le autostrade e con i raccordi autostradali gestiti dall'ANAS. S.p.a.), promosse in riferimento agli artt. 117, terzo e sesto comma, della Costituzione, ed al principio di leale collaborazione. Infatti, la previsione dell'applicazione di un pedaggio rientra nella disciplina degli aspetti dominicali del demanio statale e, quindi, nella materia, riservata alla potestà legislativa esclusiva dello Stato, «ordinamento civile». In tali aspetti è compresa altresì la potestà di imposizione e di riscossione del canone per la concessione di aree del demanio statale, in relazione alla quale è determinante la titolarità del bene e non la titolarità delle funzioni legislative o amministrative delle Regioni in ordine all'utilizzazione dei beni. Con riferimento, poi, alla dedotta lesione della materia «governo del territorio» le disposizioni denunciate non appaiono volte a disciplinare i molteplici usi del territorio, combinando tra loro i vari interessi rilevanti, al fine di conseguire un ordinato assetto di quest'ultimo, ma nell'intento di contribuire alla copertura dei costi di ANAS S.p.a. incidono solo indirettamente, a seconda della scelta operata dal singolo utente, sulla circolazione locale. Per quanto concerne l'invocata materia «armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica», è assorbente la considerazione per cui «armonizzazione» e «coordinamento» della finanza presuppongono differenti risorse, attribuite a diversi enti. Di contro, nell'ambito delle norme oggetto di giudizio, non vengono incise risorse regionali, dal momento che l'ANAS S.p.a. è società a partecipazione interamente statale, il bene è di interesse nazionale ed il pedaggio è dovuto dal singolo utente. Infine, per quanto riguarda il riferimento alla materia «grandi reti di trasporto», le disposizioni, sebbene abbiano ad oggetto autostrade e strade di interesse nazionale, non possono essere ricondotte interamente alla materia indicata che riguarda principalmente le infrastrutture e non i loro aspetti gestori e di utilizzazione. La riconduzione della disciplina in esame alla potestà legislativa esclusiva riservata allo Stato, comporta, ai sensi del sesto comma dell'art. 117 Cost., la naturale conseguenza della attribuzione del potere regolamentare allo Stato e, pertanto, l'infondatezza delle questioni anche in riferimento a detto parametro. In senso analogo, sulla riconducibilità della disciplina denunciata alla materia "ordinamento civile", v. citate sentenze n. 370/2008, n. 427, 286/2004. In tema di "governo del territorio", v. citata sentenza n. 383/2003. In tema di "grandi reti di trasporto", v. citata sentenza n. 51/2008.
+
+## Norme
+
+- decreto-legge, 31/05/2010 n. 78, art. 15, comma 1
+- legge, 30/07/2010 n. 122
+- decreto-legge, 31/05/2010 n. 78, art. 15, comma 2
+
+## Parametri
+
+- Costituzione, art. 117, comma 3
+- Costituzione, art. 117, comma 6
