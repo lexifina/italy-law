@@ -1,0 +1,22 @@
+# Massima n. 35741
+
+- Pronuncia: Corte costituzionale, ordinanza 211/2011 (ECLI:IT:COST:2011:211)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:211
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Appalti pubblici - Accertamento dell'insussistenza del possesso dei requisiti relativi alla capacità economico-finanziaria e tecnico-organizzativa dei soggetti partecipanti alla gara dichiarati nella domanda di partecipazione - Incameramento della cauzione provvisoria da parte degli enti aggiudicatori e segnalazione all'autorità di vigilanza sui lavori pubblici (AVCP) - Denunciata violazione dei principi di parità, ragionevolezza e proporzionalità, nonché del buon andamento della pubblica amministrazione - Esclusione - Manifesta infondatezza della questione.
+
+## Testo
+
+E' manifestamente infondata la questione di legittimità costituzionale dell'articolo 48, primo comma, seconda parte, del decreto legislativo 12 aprile 2006, n. 163, sollevata in riferimento agli articoli 3 e 97 della Costituzione. Quanto alla ritenuta violazione dell'art. 3 Cost. deve ritenersi che, nella specie, l'incameramento della cauzione provvisoria previsto dal citato art. 48, comma 1, quale automatica conseguenza del provvedimento di esclusione è, in primo luogo, coerente rispetto alla circostanza, posta in rilievo dalla giurisprudenza amministrativa, che essa si profila come garanzia del rispetto dell'ampio patto d'integrità cui si vincola chi partecipa a gare pubbliche; in secondo luogo, è congruente rispetto alla funzione di garantire serietà ed affidabilità dell'offerta, sanzionando la violazione dell'obbligo di diligenza gravante sull'offerente, mediante l'anticipata liquidazione dei danni subiti dalla stazione appaltante, tenuto conto che l'operatore economico, con la domanda di partecipazione, sottoscrive e si impegna ad osservare le regole della relativa procedura, delle quali ha, dunque, contezza, e, conseguentemente, sotto questo profilo, le situazioni poste in comparazione dal rimettente non presentano elementi di apprezzabile diversità; in terzo luogo, costituisce una scelta del legislatore ordinario che, alla luce di siffatte considerazioni, non può essere giudicata frutto di un uso distorto ed arbitrario della discrezionalità allo stesso spettante e che, quindi, non contrasta in modo manifesto con il canone della ragionevolezza. Inoltre, i provvedimenti dell'AVCP, previsti dalla norma censurata, mirano a garantire che nel settore operino soggetti rispettosi delle regole che lo disciplinano e, quindi, sono diretti a sanzionare la condotta dell'offerente per finalità ulteriori e diverse rispetto a quelle cui è preordinato l'incameramento della cauzione provvisoria, caratterizzato da una funzione differente da quella che connota detti provvedimenti, con conseguente incomparabilità di dette situazioni; infine la censura secondo la quale, nell'attuale congiuntura economica, la disciplina in esame sarebbe «iniqua», così come prospettata, si risolve in una deduzione di mera inopportunità della stessa che, in quanto tale, non può configurare un vizio di legittimità costituzionale della disposizione in esame. Quanto poi alla dedotta violazione dell'art. 97 Cost., poiché il citato art. 48, comma 1, all'evidenza, è preordinato ad assicurare il regolare e rapido espletamento della procedura e la tempestiva liquidazione dei danni prodotti dalla alterazione della stessa a causa della mancanza dei requisiti da parte dell'offerente, la norma è strumentale rispetto all'esigenza di garantire imparzialità e buon andamento dell'azione amministrativa, che erroneamente il rimettente reputa lesa.
+
+## Norme
+
+- decreto legislativo, 12/04/2006 n. 163, art. 48, comma 1 seconda parte
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
