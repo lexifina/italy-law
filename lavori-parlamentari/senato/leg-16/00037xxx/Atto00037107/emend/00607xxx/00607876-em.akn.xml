@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2814/A/G10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2814/A/G10"/>
+					<an:FRBRdate date="2011-07-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2814/A/G10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@"/>
+					<an:FRBRdate date="2011-07-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@.akn"/>
+					<an:FRBRdate date="2011-07-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-07-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-07-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2814/A/G10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2814" showAs="DDL 2814"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17710" showAs="Milana"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2130" showAs="Rutelli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22805" showAs="Bruno"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22762" showAs="Molinari"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25249" showAs="Russo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2814</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Milana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Rutelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bruno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Russo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            posto che sull'ammissibilità di una norma che legittimi la deroga al principio dell'indisponibilità dell'obbligazione tributaria vanno segnalati diversi aspetti;</an:p>
+				<an:p align="justify">            la possibilità di transigere debiti di natura fiscale non costituisce una novità nel nostro ordinamento. Tale possibilità è stata, infatti, riconosciuta per la prima volta dall'articolo 3, comma 3 del decreto-legge 8 luglio 2002, n. 138, convertito con modificazioni dalla legge n.  178 del 2002. Tale disposizione prevedeva la possibilità di stipulare un accordo transattivo, avente ad oggetto la dilazione del debito, nel caso in cui venisse accertata la maggiore proficuità dell'accordo stesso in luogo delle ordinarie procedure di riscossione coattiva del debito;</an:p>
+				<an:p align="justify">
+					            l'articolo 3, comma 3 del decreto-legge n. 138 del 2002 è stato abrogato dal decreto legislativo 5 del 2006 il quale ha introdotto una nuova tipologia di accordo transattivo disciplinato dall'articolo 182-
+					<an:i>ter</an:i>
+					 della legge fallimentare. Tale accordo deve essere concluso nell'ambito di un concordato preventivo o di un accordo di ristrutturazione dei debiti, avendo esso la finalità di consentire al debitore di adempiere all'obbligazione tributaria, sia attraverso una dilazione del debito, sia attraverso un pagamento in percentuale dello stesso. La falcidia e la dilazione possono riguardare, inoltre, oltre che la quota di debito anche i relativi accessori. L'ambito di applicazione di questo nuovo istituto è tuttavia limitato agli imprenditori commerciali che versino in stato di crisi, con esclusione degli enti pubblici;
+				</an:p>
+				<an:p align="justify">            analogamente a quanto previsto per i soggetti privati sarebbe, dunque, legittimo introdurre una norma che estenda agli enti pubblici la possibilità di transigere il debito d'imposta attraverso dilazione di pagamento o falci dia del credito, per debito e accessori. Ciò consentirebbe all'ente pubblico di superare eventuali situazioni di iniquidità e alla Gestione commissariale di definire posizioni debitori e in sofferenza per le quali l'eventuale azione espropriativa non garantirebbe comunque, oppure garantirebbe in misura inferiore e con aggravio dei tempi la soddisfazione del credito;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad introdurre una disposizione che preveda che il debito d'imposta degli enti pubblici confluito nelle Gestioni commissariali del debito degli Enti locali è ammesso a transazione. L'accordo transattivo può prevedere il pagamento parziale o dilazionato del debito e dei relativi accessori.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
