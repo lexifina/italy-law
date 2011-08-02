@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2825/A/G102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2825/A/G102"/>
+					<an:FRBRdate date="2011-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2825/A/G102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@"/>
+					<an:FRBRdate date="2011-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@.akn"/>
+					<an:FRBRdate date="2011-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-08-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-08-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2825/A/G102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2825" showAs="DDL 2825"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25296" showAs="Marinaro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25234" showAs="Del Vecchio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25297" showAs="Di Giovan Paolo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22951" showAs="Fontana"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/21507" showAs="Marino"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23072" showAs="Sircana"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/23080" showAs="Tomaselli"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2825</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Marinaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Del Vecchio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Di Giovan Paolo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Fontana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Sircana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Tomaselli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il primo aprile 2011 il Ministro dell'interno ha emanato la circolare n. 1305, nella quale si affermava che «in considerazione del massiccio afflusso di immigrati provenienti dal Nord Africa e al fine di non intralciare le attività loro rivolte, l'accesso alle strutture presenti su tutto il territorio nazionale, di cui alla circolare n. 1305 del 24 aprile 2007, è consentito, fino a nuova disposizione, esclusivamente alle seguenti organizzazioni: Alto Commissario delle Nazioni Unite per i rifugiati (UNHCR), Organizzazione Internazionale delle Migrazioni (OIM), Croce Rossa Italiana (CRI), Amnesty International, Medici Senza Frontiere, Save The Children, Caritas, nonché a tutte le Associazioni che hanno in corso con il Ministero dell'interno progetti in fase di realizzazione nelle strutture di accoglienza, finanziati con fondi nazionali ed europei»;</an:p>
+				<an:p align="justify">
+					            si è introdotto, proditoriamente, un meccanismo 
+					<an:i>ad excludendum</an:i>
+					, che non consente l'accesso alla stampa nei centri di identificazione ed espulsione (CIE) e nei centri di accoglienza per richiedenti asilo politico (CARA), mettendo in atto, tra l'altro, una gravissima riduzione dei diritti d'informazione e una violazione del principio costituzionale della libertà di stampa, di cui all'articolo 21 della Costituzione;
+				</an:p>
+				<an:p align="justify">            la conseguenza immediata della circolare è stata infatti quella di impedire alla stampa, anche in presenza di parlamentari, l'accesso nei centri di identificazione e nei centri di accoglienza per i richiedenti asilo politico;</an:p>
+				<an:p align="justify">            questa misura viola apertamente l'articolo 21 della Costituzione,laddove impedisce alla stampa di informare i cittadini e l'opinione pubblica internazionale sulle reali condizione di vita e di detenzione all'interno dei CIE;</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a rispettare l'articolo 21 della Costituzione ed il diritto di cronaca adottando urgentemente le necessarie misure atte a neutralizzare gli effetti palesemente incostituzionali della circolare del Ministro dell'interno n. 1305 del 1º aprile 2011 sull'accesso ai centri per immigrati.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) I senatori Barbolini, Mongiello e Vita aggiungono la firma in corso di seduta</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
