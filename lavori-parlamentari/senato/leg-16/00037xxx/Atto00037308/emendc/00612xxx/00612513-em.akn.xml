@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.0.12"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@.akn"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-09-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-09-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2887/C/1.0.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2887" showAs="DDL 2887"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25238" showAs="De Angelis"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25272" showAs="Galioto"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/12424" showAs="Rossi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17941" showAs="Baldassarri"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/2130" showAs="Rutelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2887</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">De Angelis</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Galioto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Baldassarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Rutelli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 11</an:b>
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 1-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>        1. Ai fini della riduzione della spesa pubblica e per ragioni di migliore organizzazione del servizio di giustizia, all'articolo 81 bis delle disposizioni di attuazione al codice di procedura civile sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 il primo comma è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''1. Il giudice, quando provvede sulle richieste istruttorie, sentite le parti e tenuto conto della natura, dell'urgenza e della complessità della causa, fissa, nel rispetto del principio di ragionevole durata del processo, il calendario delle udienze successive, indicando gli incombenti che verranno in ciascuna di esse espletati, compresi quelli di cui all'articolo 189 primo comma. I termini fissati nel calendario possono essere prorogati, anche d'ufficio, quando sussistono gravi motivi sopravvenuti. la proroga deve essere richiesta dalle parti prima della scadenza dei termini.'';</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 dopo Il primo comma è inserito il seguente:
+				</an:p>
+				<an:p>
+					        ''1-
+					<an:i>bis</an:i>
+					. Il mancato rispetto dei termini fissati nel calendario di cui al comma precedente da parte del giudice, del difensore o del consulente tecnico d'ufficio può costituire violazione disciplinare, nonché può essere considerato ai fini della valutazione di professionalità e della nomina o conferma agli uffici direttivi e semidirettivi''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
