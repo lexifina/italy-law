@@ -1,0 +1,23 @@
+# Massima n. 35842
+
+- Pronuncia: Corte costituzionale, ordinanza 258/2011 (ECLI:IT:COST:2011:258)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:258
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione Marche - Disciplina delle procedure di impatto ambientale - Previsione (per il periodo antecedente all'abrogazione della norma) che la mancata pronuncia dell'autorità competente nel termine di sessanta giorni dalla pubblicazione dell'annuncio sul B.U.R. comporti l'esclusione del progetto dalla procedura di V.I.A. - Lamentata violazione dei principi di tutela del paesaggio, di buon andamento ed imparzialità della pubblica amministrazione - Asserita violazione della sfera di competenza esclusiva statale in materia di tutela ambientale - Questione formulata in modo perplesso e contraddittorio - Assente o insufficiente motivazione circa la pertinenza degli evocati parametri - Erronea ricostruzione del quadro normativo - Manifesta inammissibilità.
+
+## Testo
+
+È manifestamente inammissibile, sotto plurimi profili, la questione di legittimità costituzionale dell'art. 6, comma 9, della legge della Regione Marche 14 aprile 2004, n. 7, sollevata in riferimento agli artt. 9, 97 e 117, secondo comma, lett. s) Cost., il quale, nella versione anteriore alla sua abrogazione, dispone che la mancata pronuncia dell'autorità competente nel termine di sessanta giorni dalla pubblicazione dell'annuncio sul B.U.R., comporta l'esclusione del progetto dalla procedura di valutazione di impatto ambientale. La questione risulta formulata in modo contraddittorio in quanto, da un lato, il rimettente ritiene che l'impianto oggetto del giudizio  a quo  sia privo della rilevanza necessaria per essere sottoposto alla verifica preliminare di assoggettabilità a VIA, mentre dall'altro sembra riconoscere che comunque detto progetto sarà soggetto a tale procedura; inoltre, pur ritenendo la norma regionale in contrasto con il diritto comunitario (direttiva n. 85/337/CEE), il rimettente è convinto di non poterla disapplicare, nonostante che la regola della necessaria verifica della sottoponibilità dei progetti testualmente individuati (tra cui rientra quello oggetto del giudizio  a quo ) alla valutazione ambientale costituisca previsione immediatamente precettiva come riconosciuto dalla giurisprudenza della Corte di giustizia e da quella amministrativa. È poi del tutto priva di motivazione la censura formulata con riferimento all'art. 9 Cost., mentre il parametro di cui all'art. 117, secondo comma, lett. s) Cost. non è appropriatamente evocato posto che la disciplina censurata non costituisce uno sconfinamento della Regione dalle proprie prerogative legislative riferendosi a opere per le quali spetta alla Regione la verifica di compatibilità ambientale, ed inoltre in quanto la disposizione censurata si limita a riprodurre la disciplina statale posta dall'art. 10, comma 2 del d.P.R. 12 aprile 1996. Erronea è la ricostruzione del quadro normativo in quanto, pur essendo la norma regionale in contrasto con l'art. 20 della legge n. 241 del 1990 - il quale, nella formulazione vigente all'epoca dei fatti, attribuisce al silenzio dell'amministrazione il valore di inadempimento - il giudice  a quo  afferma che essa non potrebbe ritenersi abrogata implicitamente dal momento che l'unico limite alla previsione del silenzio assenso in materia di ambiente sarebbe costituito dalle norme costituzionali e dai principi del diritto comunitario; in tal modo però, egli si contraddice allorché si dichiara consapevole del contrasto tra il principio del silenzio-assenso in materia ambientale e la normativa comunitaria, oltre che con i parametri costituzionali evocati. Sotto altro profilo il TAR omette di considerare che a seguito dell'entrata in vigore del d.lgs. n. 152 del 2006 (c.d. Codice dell'ambiente) che ha sancito il principio del valore negativo del silenzio sulla domanda di verifica di assoggettabilità a VIA e ha abrogato il d.P.R. 12 aprile 1996, «è legittimamente predicabile» che, al momento della presentazione della domanda concernente il progetto oggetto del giudizio  a quo , in ambito regionale il silenzio sulla domanda di verifica di assoggettabilità alla VIA non aveva più valore di assenso.
+
+## Norme
+
+- legge della Regione Marche, 14/04/2004 n. 7, art. 6, comma 9
+
+## Parametri
+
+- Costituzione, art. 9
+- Costituzione, art. 97
+- Costituzione, art. 117, comma 2 lett. s)
