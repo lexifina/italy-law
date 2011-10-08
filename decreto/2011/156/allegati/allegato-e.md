@@ -1,0 +1,7 @@
+Allegato E
+
+(articolo 4)
+
+DICHIARAZIONE DI APPARENTAMENTO
+
+Parte di provvedimento in formato grafico

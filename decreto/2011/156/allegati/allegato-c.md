@@ -1,0 +1,9 @@
+Allegato C
+
+(articolo 3, comma 1)
+
+ORGANIZZAZIONI SINDACALI E ASSOCIAZIONI DEI CONSUMATORI
+
+DICHIARAZIONE SOSTITUTIVA DI ATTO DI NOTORIETA'
+
+Parte di provvedimento in formato grafico
