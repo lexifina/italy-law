@@ -18,11 +18,11 @@ Nei confronti del condannato e' sempre obbligatoria la confisca delle cose che s
 
 55. (118)
 
-Le disposizioni del presente articolo si applicano anche alla camorra ((, alla 'ndrangheta)) e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
+Le disposizioni del presente articolo si applicano anche alla camorra, alla 'ndrangheta e alle altre associazioni, comunque localmente denominate, anche straniere, che valendosi della forza intimidatrice del vincolo associativo perseguono scopi corrispondenti a quelli delle associazioni di tipo mafioso.
 
-(96) (125)
+(96) (125) ((233))
 
----------------
+-------------
 
 AGGIORNAMENTO (96)
 
@@ -32,14 +32,24 @@ La L. 31 maggio 1965, n. 575 come modificata dalla L. 13 settembre 1982, n. 646 
 
 -(con l'art. 7, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva.
 
----------------
+-------------
 
 AGGIORNAMENTO (118)
 
 La L. 19 marzo 1990, n. 55 ha disposto (con l'art. 36, comma 2) che restano tuttavia ferme le decadenze di diritto previste dalla seconda parte del settimo comma del presente articolo conseguenti a sentenze divenute irrevocabili anteriormente alla data di entrata in vigore della stessa L. 19 marzo 1990, n. 55.
 
----------------
+-------------
 
 AGGIORNAMENTO (125)
 
 La L. 31 maggio 1965, n. 575 come modificata dal D.L. 13 maggio 1991, n. 152 convertito con modificazioni dalla L. 12 luglio 1991, n. 203 ha disposto (con l'art. 7, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione.
+
+-------------
+
+AGGIORNAMENTO (233)
+
+Il D.Lgs. 6 settembre 2011, n. 159 ha disposto:
+
+- (con l'art. 71, comma 1) che le pene stabilite per il delitto previsto nel presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione;
+
+- (con l'art. 71, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva.
