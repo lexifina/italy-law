@@ -1,0 +1,40 @@
+# Massima n. 35931
+
+- Pronuncia: Corte costituzionale, sentenza 304/2011 (ECLI:IT:COST:2011:304)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:304
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giustizia amministrativa - Giudizio amministrativo in materia elettorale - Preclusione per il giudice amministrativo della verificazione incidentale delle falsità degli atti pubblici - Ritenuta violazione del principio di effettività della tutela giurisdizionale - Esclusione - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale degli artt. 8, comma 2, 77, 126, 127, 128, 129, 130 e 131 del decreto legislativo 2 luglio 2010, n. 104 (Attuazione dell'art. 44 della legge 18 giugno 2009, n. 69, recante delega al governo per il riordino del processo amministrativo); dell'art. 7 del regio decreto 30 dicembre 1923, n. 2840 (Modificazioni all'ordinamento del Consiglio di Stato e della Giunta provinciale amministrativa in sede giurisdizionale); degli artt. 41, 42 e 43 del regio decreto 17 agosto 1907, n. 642 (Regolamento per la procedura dinanzi alle sezioni giurisdizionali del Consiglio di Stato); degli artt. 28, terzo comma, e 30, secondo comma, del regio decreto 26 giugno 1924, n. 1054 (Approvazione del testo unico delle leggi sul Consiglio di Stato); degli artt. 7, terzo comma, ultima parte, e 8 della legge 6 dicembre 1971, n. 1034 (Istituzione dei tribunali amministrativi regionali) e dell'art. 2700 del codice civile, in riferimento agli artt. 24, 113 e 118, primo comma, Cost., nella parte in cui, nel giudizio amministrativo in materia elettorale, configurando l'obbligo della devoluzione al giudice ordinario della risoluzione dell'incidente di falso riguardo agli atti muniti di fede privilegiata, pregiudicherebbero le esigenze di speditezza del procedimento: la conformazione dell'accertamento della falsità documentale, per come discrezionalmente effettuata dal legislatore, costituisce un'opzione di sistema, di risalente e costante tradizione, rispondente a persistenti valori ed esigenze di primario risalto, quale la necessaria tutela della fede pubblica, che deve essere assicurata a prescindere dalla sede processuale in cui l'autenticità dell'atto sia stata, incidentalmente, messa in dubbio. Diversamente, la certezza e la speditezza del traffico giuridico potrebbero risultare non adeguatamente assicurate ove l'accertamento sulla autenticità dell'atto fosse rimesso ad un mero incidente, risolto all'interno di un determinato procedimento giurisdizionale, senza che tale verifica avesse effetti giuridici al di là delle parti e dell'oggetto dello specifico procedimento. Sulla discrezionalità del legislatore nella disciplina degli istituti processuali, vedi sent. n. 221 del 2008 e n. 237 del 2007; ord. n. 101 del 2006.
+
+## Norme
+
+- decreto legislativo, 02/07/2010 n. 104, art. 8, comma 2
+- decreto legislativo, 02/07/2010 n. 104, art. 77
+- decreto legislativo, 02/07/2010 n. 104, art. 126
+- decreto legislativo, 02/07/2010 n. 104, art. 127
+- decreto legislativo, 02/07/2010 n. 104, art. 128
+- decreto legislativo, 02/07/2010 n. 104, art. 129
+- decreto legislativo, 02/07/2010 n. 104, art. 130
+- decreto legislativo, 02/07/2010 n. 104, art. 131
+- regio decreto, 30/12/1923 n. 2840, art. 7
+- regio decreto, 17/08/1907 n. 642, art. 41
+- regio decreto, 17/08/1907 n. 642, art. 43
+- regio decreto, 26/06/1924 n. 1054, art. 28, comma 3
+- regio decreto, 26/06/1924 n. 1054, art. 30, comma 2
+- legge, 06/12/1971 n. 1034, art. 7, comma 3 ultima parte
+- legge, 06/12/1971 n. 1034, art. 8
+- regio decreto, 17/08/1907 n. 642, art. 42
+
+## Parametri
+
+- Costituzione, art. 24
+- Costituzione, art. 113
+- Costituzione, art. 117, comma 1
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 6
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 13
