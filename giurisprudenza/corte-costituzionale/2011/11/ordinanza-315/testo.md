@@ -1,0 +1,54 @@
+# Corte costituzionale, ordinanza 315/2011
+
+- ECLI: ECLI:IT:COST:2011:315
+- Tipo: ordinanza
+- Presidente: QUARANTA
+- Relatore: Franco Gallo
+- Redattore: Franco Gallo
+- Data della decisione: 21/11/2011
+- Data del deposito: 23/11/2011
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 35961
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2011:315
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Alfonso QUARANTA; Giudici : Franco GALLO, Gaetano SILVESTRI, Sabino CASSESE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Sergio MATTARELLA,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 2, comma 2, della delibera legislativa n. 720 (Interventi nel settore della formazione professionale. Acquisizioni di entrate al bilancio della regione e finanziamento di borse di studio per la frequenza alle scuole di specializzazione nelle facoltà di medicina e chirurgia), approvata dall'Assemblea regionale siciliana nella seduta del 18 maggio 2011, promosso dal Commissario dello Stato per la Regione siciliana con ricorso notificato il 26 maggio 2011, depositato in cancelleria il 1° giugno 2011 ed iscritto al n. 55 del registro ricorsi 2011.
+ Udito nella camera di consiglio del 18 ottobre 2011 il Giudice relatore Franco Gallo.
+
+## Testo
+
+Ritenuto che, con ricorso notificato il 26 maggio 2011 e depositato il successivo 1° giugno 2011, il Commissario dello Stato per la Regione siciliana ha proposto, in riferimento agli artt. 3, 97 e 117, secondo comma, lettera o), della Costituzione e all'art. 17, lettera f), del regio decreto legislativo 15 maggio 1946, n. 455 (Approvazione dello statuto della Regione siciliana), questioni di legittimità costituzionale dell'art. 2, comma 2, della delibera legislativa n. 720 (Interventi nel settore della formazione professionale. Acquisizioni di entrate al bilancio della regione e finanziamento di borse di studio per la frequenza alle scuole di specializzazione nelle facoltà di medicina e chirurgia), approvata dall'Assemblea regionale siciliana nella seduta del 18 maggio 2011, a norma del quale: «Limitatamente all'anno formativo 2011, in considerazione dei ritardi connessi all'avvio del relativo Piano regionale dell'offerta formativa, ai fini dell'erogazione delle percentuali di finanziamento a valere sull'anno in corso, relative al pagamento delle retribuzioni del personale degli enti di formazione professionale di cui alla legge regionale n. 24/1976, gli enti attuatori sono tenuti alla presentazione del Documento unico di regolarità contributiva con riferimento al periodo in cui è avvenuta l'ultima erogazione delle percentuali di finanziamento relative alle spese per il personale a valere sul Piano regionale dell'offerta formativa dell'anno precedente»;
+ che, prima di prospettare le singole censure, il ricorrente precisa che il Documento unico di regolarità contributiva (DURC) costituisce una certificazione della regolarità contributiva che deve essere acquisita da tutte le amministrazioni pubbliche, compresa quella regionale, prima di erogare pubbliche risorse (sono citati, in proposito, il d.lgs. 10 settembre 2003, n. 276, recante «Attuazione delle deleghe in materia di occupazione e mercato del lavoro, di cui alla legge 14 febbraio 2003, n. 30»; gli artt. 38 e 118 del d.lgs. 12 aprile 2006, n. 163, recante «Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE»; il decreto-legge 30 settembre 2005, n. 203, recante «Misure di contrasto all'evasione fiscale e disposizioni urgenti in materia tributaria e finanziaria», convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248; l'art. 1, comma 1175, della legge 27 dicembre 2006, n. 296, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge finanziaria 2007») e che richiede, ai fini del rilascio, la verifica, ad opera degli istituti previdenziali, della regolarità della contribuzione, che deve «essere accertata [...] alla data di richiesta del datore di lavoro e deve sussistere al momento della presentazione della dichiarazione»;
+ che il Commissario dello Stato per la Regione siciliana afferma, poi, che la disposizione impugnata attribuisce al DURC, nella sostanza, una validità temporale superiore rispetto a quella prevista dalla legislazione statale in materia, perché consente che gli enti di formazione professionale di cui alla legge della Regione siciliana 6 marzo 1976, n. 24 (Addestramento professionale dei lavoratori), al fine di beneficiare dei finanziamenti previsti da detta legge, documentino la propria regolarità contributiva per l'anno in corso 2011 mediante una certificazione relativa alla regolarità della contribuzione nel precedente anno 2010;
+ che, poste tali premesse, il ricorrente deduce che la disposizione impugnata víola, anzitutto, gli artt. 117, secondo comma, lettera o), della Costituzione e 17, lettera f), del r.d.lgs. n. 455 del 1946, perché - pur se per il solo settore degli enti di formazione professionale e in via transitoria - detta una disciplina del DURC difforme da quella prevista dal legislatore statale nell'esercizio della propria competenza legislativa esclusiva in materia di previdenza sociale (art. 117, secondo comma, lettera o, Cost.);
+ che, infatti, ad avviso del ricorrente, nonostante alla Regione siciliana spetti, ai sensi dell'art. 17, lettera f), dello statuto regionale, la competenza concorrente in materia di legislazione sociale, tale potestà legislativa regionale deve essere però esercitata «Entro i limiti dei principi ed interessi generali cui si informa la legislazione dello Stato», con la conseguenza che è precluso alla Regione «lo snaturamento della "ratio"» della legislazione statale, come è invece avvenuto nella specie - sempre a parere del ricorrente - con riguardo alla legislazione dello Stato in materia di DURC;
+ che inoltre, secondo il Commissario dello Stato per la Regione siciliana, la norma impugnata víola anche l'art. 3 Cost., perché, senza un'adeguata giustificazione, favorisce i datori di lavoro operanti nel settore della formazione professionale in Sicilia (i quali possono ottenere un finanziamento pubblico anche nel caso in cui non abbiano provveduto all'adempimento degli obblighi contributivi), rispetto a tutti gli altri operatori economici (che, invece, possono ottenere erogazioni pubbliche solo se hanno rispettato detti obblighi contributivi);
+ che il ricorrente denuncia, infine, la violazione degli artt. 3 e 97 Cost. per l'irragionevolezza intrinseca della disposizione impugnata, perché essa, consentendo l'erogazione di un finanziamento pubblico a soggetti che, al momento dell'erogazione delle somme, potrebbero non avere adempiuto agli obblighi contributivi: a) si pone in contrato con la ratio del DURC - come disciplinato dal legislatore statale nell'esercizio della propria competenza legislativa esclusiva di cui all'art. 117, secondo comma, lettera o), Cost. - di garantire il rispetto degli obblighi contributivi; b) detta una disciplina «non idonea, pertinente ed adeguata» rispetto al conseguimento della finalità «dell'intero provvedimento legislativo» di sostenere il reddito dei lavoratori del settore della formazione professionale;
+ che la Regione siciliana non si è costituita in giudizio;
+ che, successivamente alla proposizione del ricorso, l'impugnata delibera legislativa n. 720 è stata promulgata e pubblicata come legge della Regione siciliana 7 giugno 2011, n. 10 (Interventi nel settore della formazione professionale. Acquisizioni di entrate al bilancio della Regione e finanziamento di borse di studio per la frequenza alle scuole di specializzazione nelle facoltà di medicina e chirurgia), con omissione della disposizione oggetto di censura.
+ Considerato che il Commissario dello Stato per la Regione siciliana ha proposto questioni di legittimità costituzionale - in riferimento agli artt. 3, 97 e 117, secondo comma, lettera o), della Costituzione e all'art. 17, lettera f), del regio decreto legislativo 15 maggio 1946, n. 455 (Approvazione dello statuto della Regione siciliana) - dell'art. 2, comma 2, della delibera legislativa n. 720 (Interventi nel settore della formazione professionale. Acquisizioni di entrate al bilancio della regione e finanziamento di borse di studio per la frequenza alle scuole di specializzazione nelle facoltà di medicina e chirurgia), approvata dall'Assemblea regionale siciliana nella seduta del 18 maggio 2011;
+ che, successivamente all'impugnazione, la predetta delibera legislativa è stata promulgata e pubblicata come legge della Regione siciliana 7 giugno 2011, n. 10 (Interventi nel settore della formazione professionale. Acquisizioni di entrate al bilancio della Regione e finanziamento di borse di studio per la frequenza alle scuole di specializzazione nelle facoltà di medicina e chirurgia), con omissione della disposizione oggetto di censura;
+ che questa Corte, pur avendo chiarito che, attraverso l'istituto della promulgazione parziale, il Presidente della Regione siciliana «non viene investito di un arbitrario potere di determinare autonomamente la definitiva non operatività di singole parti del testo approvato dall'Assemblea regionale, in contrasto con la ripartizione delle funzioni tra gli organi direttivi della Regione stabilita da norme di rango costituzionale» (sentenza n. 205 del 1996), ha tuttavia costantemente affermato che, sul piano processuale, «l'intervenuto esaurimento del potere promulgativo, che si esercita necessariamente in modo unitario e contestuale rispetto al testo deliberato dall'Assemblea regionale, preclude definitivamente la possibilità che le parti della legge impugnate ed omesse in sede di promulgazione acquistino o esplichino una qualsiasi efficacia, privando così di oggetto il giudizio di legittimità costituzionale» (ex plurimis, ordinanze n. 251, n. 226, n. 166, n. 76, n. 57 e n. 2 del 2011);
+ che si è determinata, pertanto, la cessazione della materia del contendere.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara cessata la materia del contendere in ordine al ricorso in epigrafe.
+ Cosí deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 21 novembre 2011.
+ F.to:
+ Alfonso QUARANTA, Presidente
+ Franco GALLO, Redattore
+ Gabriella MELATTI, Cancelliere
+ Depositata in Cancelleria il 23 novembre 2011.
+ Il Direttore della Cancelleria
+ F.to: MELATTI
