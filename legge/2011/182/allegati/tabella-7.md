@@ -1,0 +1,5 @@
+Tabella 7
+
+STATO DI PREVISIONE DEL MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITA' E DELLA RICERCA
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,5 @@
+Tabella 8
+
+STATO DI PREVISIONE DEL MINISTERO DELL'INTERNO
+
+Parte di provvedimento in formato grafico

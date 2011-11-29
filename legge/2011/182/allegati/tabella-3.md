@@ -1,0 +1,5 @@
+Tabella 3
+
+STATO DI PREVISIONE DEL MINISTERO DELLO SVILUPPO ECONOMICO
+
+Parte di provvedimento in formato grafico

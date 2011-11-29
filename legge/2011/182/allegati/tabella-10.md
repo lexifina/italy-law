@@ -1,0 +1,5 @@
+Tabella 10
+
+STATO DI PREVISIONE DEL MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI
+
+Parte di provvedimento in formato grafico

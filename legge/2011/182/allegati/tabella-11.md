@@ -1,0 +1,5 @@
+Tabella 11
+
+STATO DI PREVISIONE DEL MINISTERO DELLA DIFESA
+
+Parte di provvedimento in formato grafico
