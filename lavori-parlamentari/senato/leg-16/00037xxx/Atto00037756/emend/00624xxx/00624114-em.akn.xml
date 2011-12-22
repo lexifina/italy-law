@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/A/G128/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/A/G128"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3066/A/G128/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G128"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@.akn"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3066/A/G128/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3066" showAs="DDL 3066"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22718" showAs="Bosone"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25196" showAs="Biondelli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/580" showAs="Chiaromonte"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/16924" showAs="Chiti"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22909" showAs="Cosentino"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25229" showAs="Granaiola"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3066</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G128</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bosone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Biondelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Chiaromonte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Chiti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Cosentino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Granaiola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame dell'Atto Senato 3066, relativo alla conversione in legge, con modificazioni, del decreto-legge 6 dicembre 2001, n. 201, recante disposizioni urgenti per la crescita, l'equità e il consolidamento dei conti pubblici,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            permane in capo ai medici l'obbligo di stipulare un'assicurazione «a tutela del cliente», mentre quest'obbligo non sussiste per le aziende;</an:p>
+				<an:p align="justify">
+					            il comma 5, lettera 
+					<an:i>e)</an:i>
+					, dell'articolo 3 del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 20 Il, n. 148 (cosiddetta manovra di agosto 2011) prevede, infatti, che «a tutela del cliente, il professionista è tenuto a stipulare idonea assicurazione per i rischi derivanti dall'esercizio dell'attività professionale. Il professionista deve rendere noti al cliente, al momento dell'assunzione dell'incarico, gli estremi della polizza stipulata per la responsabilità professionale e il relativo massimale. Le condizioni generali delle polizze assicurative di cui al presente comma possono essere negoziate, in convenzione con i propri iscritti, dai Consigli Nazionali e dagli enti previdenziali dei professionisti.»;
+				</an:p>
+				<an:p align="justify">            questo obbligo rischia di essere molto pesante e limitativo per alcune categorie di professionisti con specializzazioni più rischiose di altre dal punto di vista della responsabilità professionale e, di conseguenza, sui pazienti e sugli utenti del Servizio sanitario nazionale,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare le iniziative necessarie al fine di tutelare il personale medico e sanitario riguardo la copertura dei costi delle polizze assicurative al fine di garantire la professionalità dei singoli professionisti ed il corretto rapporto medico paziente.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
