@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/3066/41/5 e 6"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@.akn"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3066/C/G/3066/41/5 e 6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3066" showAs="DDL 3066"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 5° e 6° riunite" href="/dati.senato.it/osr/Commissione/69"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25217" showAs="Vaccari"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3066</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/3066/41/5 e 6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il nuovo regime della cedolare secca introdotto sui redditi da locazione di immobili sta funzionando con risultati di gettito ormai quantificabili;</an:p>
+				<an:p>            permane il fenomeno di redditi sommersi nel settore delle locazioni di seconde case per finalità turistiche, che sfuggono ad una qualsiasi imposizione;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            i sacrifici imposti dal decreto-legge in esame colpiscono i proprietari di unità immobiliari per la reintroduzione dell'IMU anche sulla prima casa, e l'aumento della base imponibile sulle seconde e altre proprietà per la rivalutazione delle rendite;</an:p>
+				<an:p>            ciò potrebbe indurre i proprietari a scaricare i nuovi oneri in occasione della locazione estiva temporanea delle case di vacanza, a danno delle famiglie che usufruiscono del servizio;</an:p>
+				<an:p>            tali redditi, come oggi, a causa dell'elevata tassazione, potrebbero sfuggire ad ogni imposizione,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità, nell'ambito della prossima riforma fiscale, di assoggettare anche i predetti redditi di locazione all'istituto della cedolare secca, destinando una quota di entrate ai comuni, nel cui territorio insistono gli immobili, nonché attribuendo ai medesimi comuni le attività di controllo e riscossione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
