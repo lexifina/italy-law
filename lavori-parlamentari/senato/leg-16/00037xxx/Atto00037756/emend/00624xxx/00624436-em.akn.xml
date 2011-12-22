@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/A/30.0.9"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="30.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@.akn"/>
+					<an:FRBRdate date="2011-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3066/A/30.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3066" showAs="DDL 3066"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17806" showAs="Viespoli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/28068" showAs="Castiglione"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3946" showAs="Centaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25268" showAs="Fleres"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25233" showAs="Piscitelli"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/10369" showAs="Villari"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3066</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 30.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Viespoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Castiglione</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Centaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Fleres</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Piscitelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Villari</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 30</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 30-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        1. Al fine di garantire continuità e stabilità nel monitoraggio e nella tutela delle criticità di natura idrogeologica ed antropica che pongono ripetutamente a rischio la sicurezza pubblica. Le Regioni, in deroga ai limiti imposti dalla normativa vigente, e con oneri a carico del proprio bilancio, sono autorizzate alla trasformazione a tempo indeterminato dei contratti di lavoro a tempo determinato in essere, già prorogati ai sensi dell'O.p.c.m. 3891 del 4 agosto 2010 con i dipendenti che all'entrata in vigore della presente norma hanno maturato complessivamente almeno 36 mesi di servizio nella medesima amministrazione senza soluzione di continuità».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
