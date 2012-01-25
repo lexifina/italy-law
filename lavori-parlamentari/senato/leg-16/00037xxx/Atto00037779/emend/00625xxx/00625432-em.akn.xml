@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/2.0.1"/>
+					<an:FRBRdate date="2012-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@"/>
+					<an:FRBRdate date="2012-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@.akn"/>
+					<an:FRBRdate date="2012-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-01-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-01-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3074/A/2.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3074" showAs="DDL 3074"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22980" showAs="Incostante"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3074</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Incostante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo,</an:b>
+					 inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        1. Ai fini dell'attuazione degli articoli 1 e 2 della presente legge è autorizzata l'assunzione di 1500 unità di personale delle forze di polizia.</an:p>
+				<an:p align="justify">        2. Ai fini di cui al comma 1 del presente articolo a decorrere dal 1º giugno 2012, le amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, non possono detenere, direttamente o indirettamente, quote di partecipazione, anche minoritaria, in più di una società. Per i comuni con popolazione inferiore a 30 mila abitanti resta comunque esclusa la possibilità di costituire società, ai sensi dell'articolo 14, comma 32, del decreto-legge n. 78 del 2010.</an:p>
+				<an:p align="justify">
+					        3. Fermo restando il limite di cui al comma 2, è ammessa esclusivamente la partecipazione, ai sensi della normativa vigente, in società che producono, anche in forma di 
+					<an:i>multi-utilities</an:i>
+					, servizi di interesse generale strettamente funzionali al perseguimento delle finalità istituzionali delle medesime amministrazioni, nell'ambito dei rispettivi ambiti di competenza.
+				</an:p>
+				<an:p align="justify">        4. Per le finalità di cui al comma 2, le amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, avviano trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, nel rispetto della disciplina vigente, le procedure ad evidenza pubblica per la cessione a terzi delle società e delle partecipazioni vietate ai sensi del comma 2, ovvero per la costituzione, anche mediante fusione, delle società di al comma 3.</an:p>
+				<an:p align="justify">        5. A decorrere dalla data di cui al comma 2, le amministrazioni pubbliche pubblicano sui rispettivi siti istituzionali gli atti costitutivi, le delibere societarie e i bilanci delle società partecipate di cui al comma 3.</an:p>
+				<an:p align="justify">        6. Le disposizioni di cui al presente articolo non si applicano alle partecipazioni in società emittenti strumenti finanziari quotati nei mercati regolamentati alla data di entrata di vigore della legge di conversione del presentte decreto».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
