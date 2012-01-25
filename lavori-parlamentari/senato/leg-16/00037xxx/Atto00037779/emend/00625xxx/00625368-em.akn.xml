@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/1.700/1"/>
+					<an:FRBRdate date="2012-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.700/1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@"/>
+					<an:FRBRdate date="2012-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@.akn"/>
+					<an:FRBRdate date="2012-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-01-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-01-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3074/A/1.700/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3074" showAs="DDL 3074"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3074</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.700/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>All'emendamento 1.700 apportare le seguenti modifiche:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 al comma 01, alinea, sostituire le parole da: «i commi 4 e 5» fino alla fine, con le seguenti: «al comma 4, sono aggiunte, in fine, le seguenti parole: "salvo quanto previsto all'articolo 558"».
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 Dopo lo parola: «Conseguentemente», sostituire le parole da: «all'articolo 1», fino alla fine, con le seguenti: «all'articolo 2, sostituire la lettera 
+					<an:i>b)</an:i>
+					 con la seguente:
+				</an:p>
+				<an:p align="justify">
+					        «
+					<an:i>b)</an:i>
+					 dopo l'articolo 123 è inserito il seguente:
+				</an:p>
+				<an:p align="justify">
+					        "Art. 123-bis 
+					<an:i>(Custodia dell'arrestato)</an:i>
+					. - 1. Nei casi previsti dall'articolo 558 del codice, il pubblico ministero, informato tempestivamente dell'arresto dagli ufficiali di polizia giudiziaria che lo hanno eseguito, dispone che l'arrestato sia custodito in taluno dei luoghi indicati dall'articolo 284, comma 1, del codice. Qualora sussista la pericolosità dell'arrestato, il pubblico ministero ne dispone con decreto motivato la custodia presso le camere di sicurezza del circondario in cui è stato eseguito l'arresto ovvero, qualora sussistano l'incompatibilità della persona arrestata con la permanenza nelle camere di sicurezza o altre ragioni che ne impediscano l'utilizzo, presso la casa circondariale del luogo dove l'arresto è stato eseguito o presso altra casa circondariale"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
