@@ -1,0 +1,71 @@
+Art. 14-bis.
+
+(((Copertura assicurativa nel settore della pesca e
+
+dell'acquacoltura).))
+
+((
+
+1.
+
+Per le finalita' di cui all'articolo 14, lo Stato concede contributi sui premi assicurativi agli imprenditori ittici e dell'acquacoltura, in conformita' a quanto previsto dagli orientamenti comunitari in materia di aiuti di Stato nel settore della pesca. Il contributo dello Stato e' concesso fino all'80 per cento del costo dei premi per contratti assicurativi che prevedono un risarcimento, qualora il danno raggiunga il 20 per cento della produzione relativamente alle zone dell'Obiettivo 1 ed il 30 per cento nelle altre zone.
+
+2.
+
+Qualora contratti assicurativi coprano anche altre perdite dovute ad avverse condizioni non assimilabili alle calamita' naturali, il contributo dello Stato, per gli interventi conformi agli Orientamenti comunitari in materia di aiuti di Stato nel settore della pesca, e' ridotto fino al 50 per cento del costo del premio.
+
+Con decreto del Ministro delle politiche agricole e forestali o del Sottosegretario di Stato delegato, sentita la Commissione di cui all'articolo 3, sono stabiliti i termini, le modalita' e le procedure di erogazione del contributo sui premi assicurativi.
+
+3.
+
+La sottoscrizione delle polizze assicurative e' volontaria e puo' avvenire in forma collettiva o individuale. Possono deliberare di far ricorso a forme assicurative collettive le imprese di pesca in qualsiasi forma giuridica costituite, nonche' loro associazioni nazionali riconosciute ai sensi della legislazione vigente e le cooperative di pesca e loro consorzi.
+
+4.
+
+Con decreto del Ministro delle politiche agricole e forestali o del Sottosegretario di Stato delegato, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano e con il parere della Commissione di cui all'articolo 3, sono individuati i criteri di attuazione.
+
+5.
+
+L'entita' del contributo pubblico sui premi assicurativi e' determinata, attraverso il Programma assicurativo annuale della pesca e dell'acquacoltura di seguito denominato: "Programma assicurativo", sulla base dell'importanza socio-economica delle produzioni e del numero di potenziali assicurati e nei limiti degli stanziamenti iscritti in bilancio in apposito capitolo nell'ambito della pertinente unita' previsionale di base dello stato di previsione del Ministero delle politiche agricole e forestali.
+
+6.
+
+Il Programma assicurativo e' elaborato sulla base delle informazioni e dei dati di carattere statistico-assicurativo rilevati dagli enti vigilati dal Ministero delle politiche agricole e forestali, ed e' approvato, entro il 30 novembre di ogni anno, con decreto del Ministro delle politiche agricole e forestali o del Sottosegretario di Stato delegato, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sentito il Tavolo azzurro di cui all'articolo 2, e sentite le proposte di una commissione tecnica. La composizione ed il regolamento di funzionamento della commissione tecnica e' stabilito con decreto del Ministro delle politiche agricole e forestali o dal Sottosegretario delegato alla pesca. Ai componenti della commissione tecnica non compete alcuna indennita' o compenso, ne' rimborso spese.
+
+7.
+
+Nel Programma assicurativo sono stabiliti i parametri per il calcolo del contributo pubblico sui premi assicurativi distinti per:
+
+a)
+
+tipologia di polizza assicurativa;
+
+b)
+
+area territoriale d'intervento;
+
+c)
+
+evento climatico avverso o altro tipo di garanzia;
+
+d)
+
+tipo di produzione e/o di strutture;
+
+e)
+
+fattori e mezzi della produzione e loro prezzi.
+
+8.
+
+Nel Programma assicurativo possono essere disposti anche:
+
+a)
+
+i termini massimi di sottoscrizione delle polizze per le diverse produzioni e aree;
+
+b)
+
+qualsiasi altro elemento ritenuto necessario per garantire un impiego efficace ed efficiente delle risorse pubbliche.
+
+))
