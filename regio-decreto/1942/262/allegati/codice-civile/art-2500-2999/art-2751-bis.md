@@ -4,7 +4,7 @@ Crediti per retribuzioni e provvigioni, crediti dei coltivatori diretti, delle s
 
 Hanno privilegio generale sui mobili i crediti riguardanti:
 
-1) le retribuzioni dovute, sotto qualsiasi forma, ai prestatori di lavoro subordinato e tutte le indennita' dovute per effetto della cessazione del rapporto di lavoro, nonche' il credito del lavoratore per i danni conseguenti alla mancata corresponsione, da parte del datore di lavoro, dei contributi previdenziali ed assicurativi obbligatori ed il credito per il risarcimento del danno subito per effetto di un licenziamento inefficace, nullo o annullabile; (59) (139) ((149))
+1) le retribuzioni dovute, sotto qualsiasi forma, ai prestatori di lavoro subordinato e tutte le indennita' dovute per effetto della cessazione del rapporto di lavoro, nonche' il credito del lavoratore per i danni conseguenti alla mancata corresponsione, da parte del datore di lavoro, dei contributi previdenziali ed assicurativi obbligatori ed il credito per il risarcimento del danno subito per effetto di un licenziamento inefficace, nullo o annullabile; (59) (139) (149)
 
 2) le retribuzioni dei professionisti e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110)
 
@@ -12,7 +12,7 @@ Hanno privilegio generale sui mobili i crediti riguardanti:
 
 4) i crediti del coltivatore diretto, sia proprietario che affittuario, mezzadro, colono, soccidario o comunque compartecipante, per i corrispettivi della vendita dei prodotti, nonche' i crediti del mezzadro o del colono indicati dall'articolo 2765;
 
-5) i crediti dell'impresa artigiana e delle societa' od enti cooperativi di produzione e di lavoro, per i corrispettivi dei servizi prestati e della vendita dei manufatti.
+((5) i crediti dell'impresa artigiana, definita ai sensi delle disposizioni legislative vigenti, nonche' delle societa' ed enti cooperativi di produzione e lavoro per i corrispettivi dei servizi prestati e della vendita dei manufatti;))
 
 5-bis) i crediti delle societa' cooperative agricole e dei loro consorzi per i corrispettivi della vendita dei prodotti.
 
