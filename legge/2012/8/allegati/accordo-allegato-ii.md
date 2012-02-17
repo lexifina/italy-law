@@ -1,0 +1,11 @@
+ALLEGATO II
+
+DISPOSIZIONI TRANSITORIE
+
+1. L'attuazione e l'applicazione delle disposizioni di cui al presente accordo, in particolare gli standard di cui all'allegato III, esclusa la parte B del presente allegato, sono soggette a una valutazione sotto la responsabilita' dell'Unione europea e devono essere approvate con una decisione del comitato misto. Tale valutazione viene svolta alla data nella quale la Giordania notifica al comitato misto il completamento della procedura di armonizzazione sulla base dell'allegato III del presente regolamento, oppure, se antecedente, ad un anno dall'entrata in vigore del presente accordo.
+
+2. In deroga alle disposizioni dell'allegato I, fino al momento dell'adozione della decisione di cui al punto 1 dell'allegato II del presente accordo, i servizi concordati e le rotte di cui al presente accordo non includono il diritto, per i vettori aerei di tutte le parti contraenti, di esercitare i diritti della quinta liberta', anche per i vettori aerei della Giordania tra punti ubicati sul territorio dell'Unione europea. Tuttavia tutti i diritti di traffico gia' concessi in virtu' di uno degli accordi bilaterali fra la Giordania e gli Stati membri dell'Unione europea possono continuare a essere esercitati a condizione che non vi sia discriminazione tra vettori dell'Unione europea in base alla nazionalita'.
+
+3. In deroga al punto 1 del presente allegato, l'attuazione e l'applicazione delle norme di sicurezza precisate nell'allegato III, parte B, sono soggette a una valutazione sotto la responsabilita' dell'Unione europea e devono essere approvate con una decisione del comitato misto. Le parti riservate della normativa in materia di sicurezza indicate nell'allegato III, parte B, sono condivise con la Giordania solo successivamente all'adozione di tale decisione.
+
+4. I vettori aerei di entrambe le parti contraenti possono beneficiare del diritto sancito dall'articolo 8, paragrafo 3, lettera a), punto i) ("auto-assistenza"), presso il Queen Alia International Airport non oltre il 1° gennaio 2016. Fino a quella data tutti i servizi di assistenza a terra presso detto aeroporto saranno disponibili, in maniera equa e non discriminatoria, a tutti i vettori aerei; i prezzi dei servizi suddetti non devono eccedere il loro costo, compresa una ragionevole remunerazione dei cespiti dopo gli ammortamenti.
