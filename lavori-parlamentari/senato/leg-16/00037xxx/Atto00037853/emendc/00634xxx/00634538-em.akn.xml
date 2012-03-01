@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/C/37.0.9"/>
+					<an:FRBRdate date="2012-03-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="37.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@"/>
+					<an:FRBRdate date="2012-03-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@.akn"/>
+					<an:FRBRdate date="2012-03-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3110/C/37.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3110" showAs="DDL 3110"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Industria, commercio, turismo" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/21978" showAs="Germontani"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25221" showAs="Musso"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3110</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 37.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Germontani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Musso</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 37</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 37-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">
+					(Istituzione del ruolo del personale dell'Autorità di garanzia
+					<an:eol/>
+					
+sugli scioperi nei servizi pubblici essenziali)
+				</an:p>
+				<an:p>        1. La Commissione di garanzia dell'attuazione della legge sullo sciopero nei servizi pubblici essenziali di cui agli articoli 12 e 13 della legge 12 giugno 1990, n. 146, come modificata e integrata dalla legge 11 aprile 2000, n. 83, è denominata Autorità di garanzia sugli scioperi nei servizi pubblici essenziali. Tale Autorità assume tutte le competenze precedentemente demandate dalla legge 12 giugno 1990, n. 146, come modificata e integrata dalla legge 11 aprile 2000, n. 83, alla Commissione di garanzia.</an:p>
+				<an:p>        2. Al fine di garantire un efficiente ed adeguato svolgimento delle funzioni attribuite all'Autorità di garanzia sugli scioperi nei servizi pubblici essenziali, è istituito un apposito ruolo del personale dipendente, la cui dotazione organica non eccede le 30 unità, così come previsto dall'articolo 12, comma 2, della legge 12 giugno 1990, n. 146, e successive modificazioni.</an:p>
+				<an:p>        3. Nella dotazione organica è inquadrato, a domanda, con la qualifica di provenienza, e previo colloquio da espletarsi secondo le modalità stabilite dall'Autorità di cui al comma 1, il personale che, alla data del 31 gennaio 2012, presta servizio presso l'Autorità stessa in posizione di comando, distacco o fuori ruolo, e che opti per il trasferimento nel ruolo dell'Autorità, con corrispondente riduzione della dotazione organica delle amministrazioni di provenienza.</an:p>
+				<an:p>        4. L'organizzazione ed il funzionamento della struttura sono disciplinate dall'Autorità con proprio regolamento.</an:p>
+				<an:p>        5. In conformità a quanto prevede il decreto del Presidente della Repubblica 30 novembre 1998, n. 442, al funzionamento delle strutture della Commissione sovraintende il Segretario Generale nominato dal Presidente, sentita l'Autorità, scelto tra soggetti aventi specifica professionalità ed esperienza organizzativa maturata nelle amministrazioni pubbliche.</an:p>
+				<an:p>        6. Sono abrogate tutte le norme incompatibili con le presenti disposizioni di legge.</an:p>
+				<an:p>        7. Agli oneri derivanti dal presente articolo, pari ad un milione e mezzo di euro all'anno, si provvede mediante utilizzo delle minori spese derivanti dalla riduzione delle dotazioni organiche previste dal comma 3 del presente articolo».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
