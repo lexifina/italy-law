@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/9.40/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/9.40"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/9.40/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.40"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@.akn"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3110/A/9.40/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3110" showAs="DDL 3110"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17614" showAs="Mugnai"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3913" showAs="Valentino"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3110</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.40</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Mugnai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Valentino</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, primo periodo, dopo le parole: «con decreto del ministro vigilante» sono aggiunte le seguenti: «, sentito il Consiglio nazionale dell'ordine interessato»;</an:p>
+				<an:p align="justify">
+					        
+					<an:i>conseguentemente,</an:i>
+				</an:p>
+				<an:p align="justify">            al comma 2 il terzo periodo è soppresso;</an:p>
+				<an:p align="justify">
+					            
+					<an:i>al comma 3, al terzo periodo sopprimere le parole:</an:i>
+					 «per le singole prestazioni»;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>al comma 5, sostituire l'ultimo periodo con il seguente:</an:i>
+					 «Le disposizioni del presente comma e quelle di cui al comma 3 non si applicano alle professioni sanitarie ed a quelle forensi, per le quali resta confermata la normativa vigente»;
+				</an:p>
+				<an:p align="justify">            al comma 6, alla lettera a), sopprimere le parole: «secondo,»;</an:p>
+				<an:p align="justify">            dopo il comma 7, aggiungere il seguente:</an:p>
+				<an:p align="justify">        «8. Fino all'entrata in vigore dei decreti ministeriali di cui al comma 2, ogni richiamo ai parametri contenuto nel presente articolo deve intendersi riferito alle tariffe vigenti alla data di entrata in vigore del presente decreto».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
