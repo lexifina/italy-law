@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/G11.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/G11.100"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/G11.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G11.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@.akn"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3110/A/G11.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3110" showAs="DDL 3110"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3855" showAs="Tomassini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1121" showAs="Ghigo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3110</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G11.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Tomassini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ghigo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 11 del decreto-legge 24 gennaio 2012, n. l reca modificazioni del criterio demografico per la definizione delle piante organiche delle farmacie e prevede la conseguente approvazione delle piante organiche delle farmacie nonché l'indizione di concorsi straordinari per il conferimento delle sedi farmaceutiche;</an:p>
+				<an:p align="justify">            tale previsione appare inapplicabile per i ristrettissimi tempi di adozione previsti;</an:p>
+				<an:p align="justify">            si voglia garantire una più equa distribuzione delle sedi farmaceutiche di nuova istituzione</an:p>
+				<an:p align="justify">        impegna il Governo a prevedere che:</an:p>
+				<an:p align="justify">            sia conferito un tempo di 240 giorni dalla data di entrata in vigore della legge di conversione del presente decreto per l'approvazione straordinaria delle piante organiche delle farmacie;</an:p>
+				<an:p align="justify">            sia conferito un tempo di 120 giorni dall'approvazione straordinaria delle piante organiche entro le quali le Regioni e le Province autonome di Trento e Bolzano provvedono alla stesura dell'elenco delle sedi farmaceutiche rese disponibili;</an:p>
+				<an:p align="justify">            sia bandito un concorso per soli titoli per l'assegnazione del 50% delle sedi disponibili riservato ai farmacisti non titolari, ai farmacisti titolari di farmacia rurale sussidiata ed ai farmacisti titolari di parafarmacia aperta prima del 31 dicembre 2010 e dal quale siano esclusi farmacisti con meno di cinque, anni di attività professionale in qualunque posizione lavorativa esercitata. .</an:p>
+				<an:p align="justify">            il restante 50% delle sedi venga messo a concorso, secondo il tradizionale metodo di valutazione per concorso per titoli ed esami</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
