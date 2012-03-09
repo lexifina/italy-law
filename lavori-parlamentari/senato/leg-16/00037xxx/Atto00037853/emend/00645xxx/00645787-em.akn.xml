@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/G62.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/G62.101"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/G62.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G62.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@.akn"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3110/A/G62.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3110" showAs="DDL 3110"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25256" showAs="Andria"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22795" showAs="Randazzo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/4498" showAs="Monaco"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23037" showAs="Pertoldi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3110</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G62.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Andria</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Randazzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Monaco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Pertoldi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di approvazione del disegno di legge di conversione del decreto-legge 24 gennaio 2012, n. 1, recante disposizioni urgenti per la concorrenza, lo sviluppo delle infrastrutture e la competitività (AS 3110),</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            nel corso degli ultimi anni, le risorse destinate dallo Stato al sostegno delle imprese, della competitività e dell'innovazione del settore agricolo, sono state fortemente ridotte;</an:p>
+				<an:p align="justify">            esse risultano oggi drammaticamente sproporzionate rispetto alle risorse impiegate per mantenere le strutture dello stesso Ministero, nonché degli enti da esso vigilati;</an:p>
+				<an:p align="justify">            le risorse sottratte negli anni al settore agricolo sono infatti andate a gravare quasi interamente sulle politiche per lo sviluppo del Ministero, traducendosi in ulteriori sofferenze per un comparto già duramente colpito dalla crisi economica in atto;</an:p>
+				<an:p align="justify">            i tagli, pur necessari, non hanno prodotto né avrebbero potuto produrre una maggiore efficienza e virtuosità delle risorse impiegate, dal momento che non sono stati costruiti nell'ottica della</an:p>
+				<an:p align="justify">            «spending review», per eliminare le inefficienze del sistema;</an:p>
+				<an:p align="justify">            la «spending review» dovrà invece divenire la parola d'ordine anche nel settore dell'agricoltura, settore in cui le risorse saranno sempre meno, e non solo in sede nazionale;</an:p>
+				<an:p align="justify">        rilevato che:</an:p>
+				<an:p align="justify">
+					            nonostante la proliferazione di enti vigilati dal Ministero delle politiche agricole, il settore agroalimentare italiano sconta rilevanti 
+					<an:i>deficit</an:i>
+					 di competitività: si tratta di insufficiente integrazione, innovazione, produttività (in alcuni segmenti), internazionalizzazione (ad eccezione di alcuni settori) ed efficienza nella gestione dei costi;
+				</an:p>
+				<an:p align="justify">
+					            attualmente, gli enti agricoli di interesse nazionale sono 13 e si occupano di quattro grandi aree di attività, ovvero raccolta e trattamento di informazioni per diverse pubbliche amministrazioni, ricerca (genetica, stime di impatto di patologie insorgenti, agrobioeneregie, eccetera); gestione del controllo dei flussi delle risorse di origine Pac e servizi finanziari o di altra consimile natura (
+					<an:i>venture capital</an:i>
+					, assicurazioni, 
+					<an:i>trading</an:i>
+					 fondiario);
+				</an:p>
+				<an:p align="justify">            si sono rilevate alcune criticità relative alla gestione e al patrimonio; aree di sovrapposizione e duplicazione nelle attività; assenza di misurazioni di utilità quanto al rapporto tra risorse investite e produzione di elementi di competitività per il settore agroalimentare; disarmonia istituzionale tra assetto nazionale degli enti ed esecutività regionale delle competenze in materia agricola;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">
+					            il grave stato di indebitamento del Paese impone a tutti i settori della pubblica amministrazione, compreso il settore agricolo, un piano di riordino affinché il settore agro alimentare possa contribuire in modo rilevante alla crescita dell'economia italiana, è necessario che, attraverso un vero e proprio piano, industriale, si recuperi il 
+					<an:i>gap</an:i>
+					 tra potenzialità della domanda e 
+					<an:i>deficit</an:i>
+					 competitivo del sistema imprenditoriale;
+				</an:p>
+				<an:p align="justify">            la razionalizzazione degli enti agricoli, delle loro singole funzioni e strutture organizzative può permettere di attuare una importante ricomposizione di parte della spesa. del Ministero delle politiche Agricole e la conseguente riallocazione di parte delle sue risorse;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad affrontare a tutto campo le possibilità di riforma degli enti agricoli, definendone funzioni, obiettivi ed attività, secondo una strategia che miri primariamente a ridurli e a trasformarli in strumenti fortemente specializzati, per evitare che ognuno lavori su segmenti in competizione tra loro;</an:p>
+				<an:p align="justify">            a istituire forme di consultazione e collaborazione continua tra Stato, Regioni e mondo agricolo per la semplificazione degli enti e delle competenze, che azzeri qualunque forma di duplicazione-sovrapposizione strumentale e organizzativa delle attività.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
