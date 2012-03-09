@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/34.0.5"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="34.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@.akn"/>
+					<an:FRBRdate date="2012-03-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3110/A/34.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3110" showAs="DDL 3110"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25251" showAs="Armato"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17557" showAs="Garraffa"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25267" showAs="De Sena"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/5126" showAs="Latorre"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/23080" showAs="Tomaselli"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3110</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 34.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Armato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Garraffa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Sena</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Latorre</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Tomaselli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo 
+					<an:b>l'articolo 34</an:b>
+					, aggiungere il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 34-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        1. All'articolo 133 del decreto-legislativo 7 settembre 2005, n. 209, dopo il comma 1, è aggiunto il seguente:</an:p>
+				<an:p align="justify">
+					        "1-
+					<an:i>bis.</an:i>
+					 AI fine di valorizzare la condotta di guida di ogni singolo assicurato, tenendo conto della pregressa condizione risultante della propria classe di merito basata sugli accadimenti sinistrosi causati, la variazione in diminuzione dei premi di cui al comma 1 è collegata al sistema della patente a punti".
+				</an:p>
+				<an:p align="justify">        2. Con regolamento Isvap, da emanarsi entro sei mesi dalla data di entrata In vigore della legge di conversione del presente decreto-legge, sono definite, ai fini dell'applicazione delle disposizioni di cui al comma 1, le modalità per considerare quale ulteriore elemento di individuazione del coefficiente di rischio di ciascun assicurato anche la valorizzazione del dato risultante dal sistema di punti attribuito ad ogni singola patente ridefinendo il sistema Bonus/malus sui nuovi indici».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
