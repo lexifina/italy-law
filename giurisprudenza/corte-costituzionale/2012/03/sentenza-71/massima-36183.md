@@ -1,0 +1,21 @@
+# Massima n. 36183
+
+- Pronuncia: Corte costituzionale, sentenza 71/2012 (ECLI:IT:COST:2012:71)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2012:71
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Finanza regionale - Decreto legislativo di attuazione della legge delega n. 42 del 2009 in materia di federalismo fiscale - Interventi di perequazione infrastrutturale - Ritenuta applicabilità diretta e immediata alla Regione siciliana, in mancanza di un rinvio alla procedura pattizia prevista dallo statuto speciale - Ricorso della Regione Sicilia - Eccepita inammissibilità della questione per omessa impugnazione della norma che modifica la legge di delegazione - Reiezione.
+
+## Testo
+
+In relazione alla questione di legittimità costituzionale dell'intero decreto legislativo 31 maggio 2011, n. 88, sollevata dalla Regione siciliana in riferimento agli artt. «38 e 43» dello statuto speciale di autonomia e, «in particolare», dell'art. «9» [recte: 8] (recante le disposizioni transitorie e finali del decreto medesimo), nella parte in cui tale normativa - emessa in sede di prima attuazione dell'art. 16 della legge 5 maggio 2009, n. 42 - «non fa espressa menzione dell'inapplicabilità del Decreto legislativo alle Regioni a Statuto speciale né contiene alcun rinvio alle norme di attuazione dei rispettivi Statuti quale fonte normativa attraverso la quale regolare in tali Regioni gli interventi previsti dall'art. 119, quinto comma della Costituzione», va rigettata l'eccezione di inammissibilità della questione medesima per sopravvenuta carenza di interesse della Regione. In primo luogo, va rilevato che, nel giudizio di legittimità costituzionale, non trova applicazione l'istituto dell'inammissibilità della questione per acquiescenza o per il carattere confermativo del provvedimento impugnato; sicché l'omessa impugnazione di una disposizione di legge avente il medesimo contenuto di altra disposizione sopravvenuta non preclude l'autonoma impugnazione di quest'ultima e, nel caso di specie, impedisce di far derivare dalla mancata impugnazione dell'art. 16 della legge di delegazione n. 42 del 2009 l'inammissibilità del ricorso avente ad oggetto il decreto legislativo n. 88 del 2011, che al predetto art. 16 dà attuazione; di qui l'irrilevanza della mancata impugnazione del comma 1-bis dell'art. 16 della legge n. 42 del 2009. In secondo luogo, va osservato che, nel sollevare l'eccezione, la parte resistente inesattamente assume che la Regione abbia censurato il difetto di delega legislativa in ordine all'attuazione delle misure di cui al quinto comma dell'art. 119 Cost. nei confronti degli enti ad autonomia differenziata; difetto che, per la difesa dello Stato, sarebbe stato colmato dal sopravvenuto comma 1-bis dell'art. 16 della legge n. 42 del 2009. La ricorrente, in realtà, ha prospettato una censura radicalmente diversa da quella indicata dall'Avvocatura dello Stato, avendo dedotto l'illegittimità costituzionale dell'applicazione diretta alla Regione siciliana del decreto impugnato, indipendentemente dalla sussistenza di una valida delega legislativa; da ciò consegue l'irrilevanza dell'asserito ampliamento della delega. In terzo luogo, va evidenziato che il suddetto comma 1-bis dell'art. 16 non estende la delega contenuta in tale articolo agli enti ad autonomia differenziata; di qui la mancanza di fondamento normativo dell'eccezione. - In ordine all'istituto dell'inammissibilità della questione per acquiescenza o per il carattere confermativo del provvedimento impugnato, v. citate sentenze n. 187 e n. 165 del 2011, n. 40 del 2010, n. 98 del 2007, n. 74 del 2001, n. 20 del 2000. - Circa l'omessa impugnazione di una disposizione di legge avente il medesimo contenuto di altra disposizione sopravvenuta, il che non preclude l'autonoma impugnazione di quest'ultima, v. citate sentenze n. 298 del 2009, n. 443 e n. 430 del 2007, n. 383 e n. 62 del 2005, n. 287 e n. 272 del 2004.
+
+## Norme
+
+- decreto legislativo, 31/05/2011 n. 88
+
+## Parametri
+
+- statuto regione Sicilia, art. 43
