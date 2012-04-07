@@ -52,21 +52,21 @@ Altre misure di sicurezza
 
 Documento programmatico sulla sicurezza
 
-19. Entro il 31 marzo di ogni anno, il titolare di un trattamento di dati sensibili o di dati giudiziari redige anche attraverso il responsabile, se designato, un documento programmatico sulla sicurezza contenente idonee informazioni riguardo:
+19. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35)):
 
-19.1. l'elenco dei trattamenti di dati personali;
+19.1. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35));
 
-19.2. la distribuzione dei compiti e delle responsabilita' nell'ambito delle strutture preposte al trattamento dei dati;
+19.2. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35));
 
-19.3. l'analisi dei rischi che incombono sui dati;
+19.3. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35));
 
-19.4. le misure da adottare per garantire l'integrita' e la disponibilita' dei dati, nonche' la protezione delle aree e dei locali, rilevanti ai fini della loro custodia e accessibilita'; 19.5. la descrizione dei criteri e delle modalita' per il ripristino della disponibilita' dei dati in seguito a distruzione o danneggiamento di cui al successivo punto 23;
+19.4. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35));
 
-19.6. la previsione di interventi formativi degli incaricati del trattamento, per renderli edotti dei rischi che incombono sui dati, delle misure disponibili per prevenire eventi dannosi, dei profili della disciplina sulla protezione dei dati personali piu' rilevanti in rapporto alle relative attivita', delle responsabilita' che ne derivano e delle modalita' per aggiornarsi sulle misure minime adottate dal titolare. La formazione e' programmata gia' al momento dell'ingresso in servizio, nonche' in occasione di cambiamenti di mansioni, o di introduzione di nuovi significativi strumenti, rilevanti rispetto al trattamento di dati personali;
+19.6. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35));
 
-19.7. la descrizione dei criteri da adottare per garantire l'adozione delle misure minime di sicurezza in caso di trattamenti di dati personali affidati, in conformita' al codice, all'esterno della struttura del titolare;
+19.7. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35));
 
-19.8. per i dati personali idonei a rivelare lo stato di salute e la vita sessuale di cui al punto 24, l'individuazione dei criteri da adottare per la cifratura o per la separazione di tali dati dagli altri dati personali dell'interessato.
+19.8. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35)).
 
 Ulteriori misure in caso di trattamento di dati sensibili o giudiziari
 
@@ -84,7 +84,7 @@ Misure di tutela e garanzia
 
 25. Il titolare che adotta misure minime di sicurezza avvalendosi di soggetti esterni alla propria struttura, per provvedere alla esecuzione riceve dall'installatore una descrizione scritta dell'intervento effettuato che ne attesta la conformita' alle disposizioni del presente disciplinare tecnico.
 
-26. Il titolare riferisce, nella relazione accompagnatoria del bilancio d'esercizio, se dovuta, dell'avvenuta redazione o aggiornamento del documento programmatico sulla sicurezza.
+26. ((PARAGRAFO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35)).
 
 Trattamenti senza l'ausilio di strumenti elettronici
 
