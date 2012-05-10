@@ -1,0 +1,23 @@
+# Massima n. 36322
+
+- Pronuncia: Corte costituzionale, sentenza 121/2012 (ECLI:IT:COST:2012:121)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2012:121
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Regioni (in genere) - Esecuzione delle decisioni della Corte costituzionale - Mancata o non esatta conformazione da parte delle Regioni - Previsione del potere sostitutivo del Governo - Ricorso della Regione Toscana - Asserita violazione dell'autonomia regionale, lesione del principio di leale collaborazione - Non fondatezza, nei sensi di cui in motivazione.
+
+## Testo
+
+Non è fondata, nei sensi di cui in motivazione, la questione di legittimità costituzionale dell'art. 20, comma 15, del d.l. n. 98 del 2011, convertito, con modificazioni, dall'art. 1, comma 1, della legge n. 111 del 2011 - il quale stabilisce che «In caso di mancata o non esatta conformazione alle decisioni di cui al comma 14, il Governo, su proposta del Ministro per i rapporti con le regioni e per la coesione territoriale, sentito il Presidente della regione interessata, esercita, in presenza dei presupposti, il potere sostitutivo di cui all'articolo 120, secondo comma, della Costituzione, secondo le procedure di cui all'articolo 8 della legge 5 giugno 2003, n. 131» -, promossa per violazione degli artt. 118 e 120, secondo comma, Cost., nonché del principio di leale collaborazione, in quanto la previsione, contenuta nella norma impugnata, dell'esercizio da parte del Governo del potere sostitutivo, «in caso di mancata o non esatta conformazione alle decisioni di cui al comma 14», sarebbe viziata da illegittimità costituzionale per motivi sia sostanziali sia procedurali. Dal punto di vista sostanziale, l'art. 120 Cost. - esplicitamente richiamato dalla disposizione impugnata - pone tra i presupposti per l'esercizio del potere sostitutivo «la tutela dell'unità giuridica o dell'unità economica e in particolare la tutela dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali»; sicché il Governo potrebbe ritenere che l'inerzia di una Regione nell'applicare una sentenza della Corte costituzionale o la sua applicazione distorta siano idonee a ledere l'unità giuridica della Repubblica o la sua unità economica, determinando disarmonie e scompensi tra i vari territori proprio in relazione a decisioni del giudice delle leggi, che, per definizione, hanno una finalità unitaria, sia quando definiscono, sotto specifici profili, i criteri di riparto delle competenze tra Stato e Regioni, sia quando incidono sul contenuto sostanziale delle norme statali o regionali in rapporto a singole fattispecie. Gli eventuali squilibri e distorsioni in sede applicativa acquisterebbero ancor maggiore rilevanza se le decisioni costituzionali da applicare riguardassero i diritti civili e sociali delle persone, per i quali la Costituzione prevede una tutela rafforzata quanto alla unitarietà, risultante dal combinato disposto degli artt. 117, secondo comma, lettera  m ), e 120, secondo comma, Cost.; peraltro, ove la singola Regione destinataria dell'esercizio del potere sostitutivo del Governo ritenesse errata l'interpretazione data da quest'ultimo di una o più decisioni di questa Corte poste a base dell'iniziativa statale, potrebbe, a tutela della propria autonomia, attivare i rimedi giurisdizionali ritenuti adeguati, ivi compreso il conflitto di attribuzione. Quanto al profilo procedurale, si deve ritenere che la norma impugnata, con l'inciso «sentito il Presidente della regione interessata», aggiunge un  quid pluris  alle forme di coinvolgimento della Regione, destinataria dell'esercizio del potere sostitutivo, previste dall'art. 8 della legge n. 131 del 2003. La richiesta del parere del Presidente della Regione si pone come preventiva rispetto all'attivazione del procedimento previsto dall'art. 120, secondo comma, Cost., e dal citato articolo della legge ordinaria di attuazione. Essa, pertanto, non sostituisce la prevista partecipazione del Presidente della Giunta regionale alla riunione del Consiglio dei ministri, in cui si decide sulla proposta di esercizio del potere sostitutivo; intesa nel significato sopra esposto, la disposizione impugnata non determina alcuna lesione dell'autonomia costituzionalmente garantita delle Regioni.
+
+## Norme
+
+- decreto-legge, 06/07/2011 n. 98, art. 20, comma 15
+- legge, 15/07/2011 n. 111
+
+## Parametri
+
+- Costituzione, art. 118
+- Costituzione, art. 120, comma 2
