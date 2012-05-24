@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11"/>
+					<an:FRBRdate date="2012-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/3249/25/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@"/>
+					<an:FRBRdate date="2012-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@.akn"/>
+					<an:FRBRdate date="2012-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-05-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-05-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3249/C/G/3249/25/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3249" showAs="DDL 3249"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Lavoro, previdenza sociale" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25228" showAs="Passoni"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17806" showAs="Viespoli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25225" showAs="Ghedini"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25232" showAs="Spadoni Urbani"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/2194" showAs="Sbarbati"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/23266" showAs="De Luca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3249</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/3249/25/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Passoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Viespoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Ghedini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Spadoni Urbani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Sbarbati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">De Luca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>in sede di esame del disegno di legge recante  «Disposizioni in materia di riforma del mercato del lavoro in una prospettiva di crescita»</an:p>
+				<an:p>premesso che:</an:p>
+				<an:p>l'articolo 24, comma 27, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 241 (cosidetto decreto-legge "Salva Italia") ha istituito presso il Ministero del lavoro e delle politiche sociali un Fondo per il finanziamento di interventi a favore dell'incremento in termini quantitativi e qualitativi dell'occupazione giovanile e delle donne;</an:p>
+				<an:p>il Fondo è finanziato per l'anno 2012 con 200 milioni di euro, con 300 milioni di euro annui per ciascuno degli anni 2013 e 2014 e con 240 milioni di euro per l'anno 2015;</an:p>
+				<an:p>di fatto il Fondo contiene la totalità delle risorse disponibili in capo al Ministero del lavoro e delle politiche sociali per la gestione delle proprie competenze;</an:p>
+				<an:p>nell'ambito del disegno di legge in esame parte delle risorse di questo Fondo (65 milioni di euro per ciascuno degli anni 2013, 2014 e 2015) sono utilizzate - coerentemente con l'originaria finalità del Fondo - per provvedere agli oneri derivanti dalle disposizioni previste dall'articolo 56 finalizzate al sostegno della genitorialità;</an:p>
+				<an:p>diversi emendamenti dei relatori utilizzano come fonte di copertura finanziaria il Fondo per il finanziamento di interventi a favore dell'incremento in termini quantitativi e qualitativi dell'occupazione giovanile e delle donne per un importo complessivo pari a 100 milioni di euro per ciascuno degli anni 2013, 2014 e 2015 che, sommati ai 65 milioni per ciascuno degli anni 2013, 2014 e 2015 previsti a sostegno della genitorialità ed ai 30 milioni di euro per ciascuno degli anni 2013, 2014 e 2015 per i voucher finalizzati all'acquisto di servizi di baby sitting, comportano una riduzione del Fondo;</an:p>
+				<an:p>si ritiene necessario, anche in considerazione della situazione economica e sociale del Paese che vede il divario di genere e fra generazioni particolarmente rilevante, ribadire la necessità di utilizzare le risorse del Fondo per la finalità per la quale lo stesso è stato istituito, vale a dire "il finanziamento di interventi a favore dell'incremento in termini quantitativi e qualitativi dell'occupazione giovanile e delle donne";</an:p>
+				<an:p>impegna il Governo:</an:p>
+				<an:p>a reperire per gli anni 2014 e 2015 le risorse necessarie per il rifinanziamento del Fondo in oggetto.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
