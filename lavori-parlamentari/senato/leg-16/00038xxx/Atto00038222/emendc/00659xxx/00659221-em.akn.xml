@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3249/C/10.0.2"/>
+					<an:FRBRdate date="2012-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@"/>
+					<an:FRBRdate date="2012-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@.akn"/>
+					<an:FRBRdate date="2012-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-05-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-05-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3249/C/10.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3249" showAs="DDL 3249"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Lavoro, previdenza sociale" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22701" showAs="Adragna"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25220" showAs="Blazina"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25225" showAs="Ghedini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/11320" showAs="Ichino"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25216" showAs="Nerozzi"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/25228" showAs="Passoni"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/17750" showAs="Pinotti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3249</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Adragna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Blazina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Ghedini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Ichino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Nerozzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Passoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Pinotti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 10</an:b>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 10-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">(Prestazioni lavorative escluse dall'ambito di applicazione dei contratti a progetto, dell'associazione in partecipazione e delle attività rese in regime di lavoro autonomo)</an:p>
+				<an:p>        1. Con decreto del Ministero del lavoro e delle politiche sociali, da adottarsi entro 60 giorni dall'entrata in vigore della presente legge, sono individuate le attività lavorative da considerarsi incompatibili, a causa delle modalità concrete di esecuzione, con le prestazioni rese nell'ambito dei rapporti di collaborazione coordinata e continuativa di cui agli articoli 61 e seguenti del decreto legislativo 9 ottobre 2003, n. 276, di associazione in partecipazione di cui agli articoli 2549 e seguenti del codice civile e da persone titolari di posizione fiscale ai fini dell'imposta sul valore aggiunto. Ove il committente non dimostri l'elemento essenziale di una autentica e concreta autonomia nell'esecuzione della prestazione oggetto del contratto, rientrano tra le attività di cui al primo periodo, quelle di cui alla circolare del Ministro del lavoro e delle politiche sociali 29 gennaio 2008, n. 4.</an:p>
+				<an:p>        2. I contratti collettivi nazionali possono individuare altre tipologie di figure professionali per le quali non ricorrono i requisiti per l'applicazione delle tipologie contrattuali di cui comma 1».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
