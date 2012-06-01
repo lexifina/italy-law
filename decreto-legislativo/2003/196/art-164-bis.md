@@ -1,12 +1,10 @@
 Art. 164-bis.
 
-(( (Casi di minore gravita' e ipotesi aggravate). ))
-
-((
+(Casi di minore gravita' e ipotesi aggravate).
 
 1.
 
-Se taluna delle violazioni di cui agli articoli 161, 162, 163 e 164 e' di minore gravita', avuto altresi' riguardo alla natura anche economica o sociale dell'attivita' svolta, i limiti minimi e massimi stabiliti dai medesimi articoli sono applicati in misura pari a due quinti.
+Se taluna delle violazioni di cui agli articoli 161, 162, ((162-ter,)) 163 e 164 e' di minore gravita', avuto altresi' riguardo alla natura anche economica o sociale dell'attivita' svolta, i limiti minimi e massimi stabiliti dai medesimi articoli sono applicati in misura pari a due quinti.
 
 2.
 
@@ -19,5 +17,3 @@ In altri casi di maggiore gravita' e, in particolare, di maggiore rilevanza del 
 4.
 
 Le sanzioni di cui al presente Capo possono essere aumentate fino al quadruplo quando possono risultare inefficaci in ragione delle condizioni economiche del contravventore.
-
-))

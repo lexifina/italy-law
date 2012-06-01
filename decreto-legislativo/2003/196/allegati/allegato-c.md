@@ -2,7 +2,7 @@ ALLEGATO C)
 
 TRATTAMENTI NON OCCASIONALI EFFETTUATI IN AMBITO GIUDIZIARIO O PER FINI DI POLIZIA
 
-(Artt. 46 e 53 del codice)
+"21">(Artt. 46 e 53 del codice)
 
 TAVOLA DI CORRISPONDENZA DEI RIFERIMENTI PREVIGENTI AL CODICE IN MATERIA DI PROTEZIONE DEI DATI PERSONALI
 
@@ -1288,7 +1288,7 @@ Art. 121 (Servizi interessati)
 
 cfr. art. 3, direttiva n. 2002/58/CE
 
-Art. 122 (Informazioni raccolte nei riguardi, dell'abbonato e dell'utente)
+Art. 122 (Informazioni raccolte nei riguardi, dell'((contraente)) e dell'utente)
 
 cfr. art. 5, par. 3, direttiva n. 2002/58/CE
 
