@@ -1,0 +1,27 @@
+# Massima n. 36442
+
+- Pronuncia: Corte costituzionale, sentenza 164/2012 (ECLI:IT:COST:2012:164)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2012:164
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Procedimento amministrativo - Iniziativa economica - Intrapresa di nuova attività imprenditoriale, commerciale, artigianale o edilizia - Introduzione della disciplina sulla   "segnalazione certificata di inizio attività" (SCIA) in luogo di quella sulla "denuncia di inizio attività" (DIA), sia statale che regionale - Ricorso della Regione Valle d'Aosta - Asserita violazione delle competenze regionali residuali nelle materie dell'industria, del commercio e dell'artigianato - Asserita violazione delle competenze regionali statutarie nelle materie artigianato e industria alberghiera, turismo e tutela del paesaggio - Asserita violazione della competenza legislativa statutaria di integrazione e attuazione nella materia industria e commercio - Asserita violazione della competenza regionale in materia urbanistica, piani regolatori per zone di particolare importanza turistica - Asserita violazione, in subordine, del principio di leale collaborazione - Insussistenza - Riconducibilità della disciplina alla competenza esclusiva statale in materia di determinazione dei livelli essenziali delle prestazioni concernenti i diritti civili e sociali - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 49, comma 4- ter ,  del decreto-legge 31 maggio 2010, n. 78 (Misure urgenti in materia di stabilizzazione finanziaria e di competitività economica), convertito, con modificazioni, nella legge 30 luglio 2010, n. 122, impugnato dalla Regione autonoma Valle d'Aosta/Vallée d'Aoste nella parte in cui, qualificando la disciplina della «Segnalazione certificata di inizio attività» (SCIA), contenuta nel comma 4- bis , che modifica l'art. 19 della legge 7 agosto 1990, n. 241 (Nuove norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi), come attinente alla tutela della concorrenza ai sensi dell'articolo 117, secondo comma, lettera  e ), Cost., e costituente livello essenziale delle prestazioni concernenti i diritti civili e sociali ai sensi della lettera  m ), e prevedendo che «le espressioni "segnalazione certificata di inizio attività" e "SCIA" sostituiscono, rispettivamente, quelle di "dichiarazione di inizio attività" e "DIA", non solo riguardo alla previgente normativa statale, ma anche a quella regionale, avrebbe violato le competenze regionali nelle materie dell'industria, del commercio e dell'artigianato, ai sensi del quarto comma dell'art. 117 Cost., e dunque anche la competenza legislativa della Regione Valle d'Aosta, in virtù della clausola di cui all'art. 10 della legge costituzionale 18 ottobre 2001, n. 3 (Modifiche al titolo V della parte seconda della Costituzione), e inoltre le competenze regionali statutarie nelle materie «artigianato» ed «industria alberghiera, turismo e tutela del paesaggio», e nell'emanazione di norme legislative di integrazione e di attuazione delle leggi della Repubblica nella materia «industria e commercio», previste dagli artt. 2, primo comma, lettere p) e q), e 3, primo comma, lettera a), della legge costituzionale 26 febbraio 1948, n. 4 (Statuto speciale per la Valle d'Aosta), nonché la competenza regionale in materia «urbanistica, piani regolatori per zone di particolare importanza turistica», prevista dall'art. 2, primo comma, lett. g) dello Statuto speciale, e in subordine il principio di leale collaborazione di cui agli articoli 5 e 120 Cost. Posto che l'ambito applicativo della disciplina, diretto alla generalità dei cittadini, che trascende la materia della concorrenza, giustifica il richiamo al livello essenziale delle prestazioni concernenti i diritti civili e sociali e permette una restrizione dell'autonomia legislativa delle Regioni, giustificata dallo scopo di assicurare un livello uniforme di godimento dei diritti civili e sociali tutelati dalla stessa Costituzione, il riconoscimento della possibilità di dare immediato inizio ad una determinata attività, fermo restando l'esercizio dei poteri inibitori da parte della pubblica amministrazione, ricorrendone gli estremi, e fatto salvo il potere della stessa pubblica amministrazione di assumere determinazioni in via di autotutela, assicura la prestazione specifica di una attività amministrativa, circoscritta all'inizio della fase procedimentale, strutturata secondo un modello ad efficacia legittimante immediata, che attiene al principio di semplificazione dell'azione amministrativa ed è finalizzata ad agevolare l'iniziativa economica, tutelando il diritto dell'interessato ad un sollecito esame, da parte della pubblica amministrazione competente, dei presupposti di diritto e di fatto che autorizzano l'iniziativa medesima.
+
+## Norme
+
+- decreto-legge, 31/05/2010 n. 78, art. 49, comma 4 ter
+- legge, 30/07/2010 n. 122
+
+## Parametri
+
+- legge costituzionale, 18/10/2001 n. 3, art. 10
+- statuto regione Valle d'Aosta, art. 2, comma 1 lett. g)
+- statuto regione Valle d'Aosta, art. 2, comma 1 lett. p)
+- statuto regione Valle d'Aosta, art. 2, comma 1 lett. q)
+- statuto regione Valle d'Aosta, art. 3, comma 1 lett. a)
+- Costituzione, art. 117, comma 4
