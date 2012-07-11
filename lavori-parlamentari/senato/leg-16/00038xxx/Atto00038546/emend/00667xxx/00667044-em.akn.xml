@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3372/A/G103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3372/A/G103"/>
+					<an:FRBRdate date="2012-07-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3372/A/G103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@"/>
+					<an:FRBRdate date="2012-07-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@.akn"/>
+					<an:FRBRdate date="2012-07-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-07-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-07-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3372/A/G103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3372" showAs="DDL 3372"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/188" showAs="Battaglia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/4562" showAs="Serra"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1376" showAs="Lumia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3372</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Lumia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            le recenti catastrofi che hanno interessato il Paese ed in particolare le emergenze che interessano con allarmante periodicità il territorio siciliano, dagli eventi franosi a quelli alluvionali per finire poi agli incendi che sistematicamente minacciano la società civile, richiedono una maggiore capacità di risposta sul fronte della protezione civile;</an:p>
+				<an:p align="justify">            è pertanto necessario fornire ad essa una migliore e più strutturata capacità oltre che flessibilità di impiego delle infrastrutture esistenti sul territorio;</an:p>
+				<an:p align="justify">            è notorio che gli aeroporti hanno giocato un ruolo determinante nella gestione delle emergenze degli ultimi anni, costituendo uno degli elementi di forza per il rapido dispiegamento dei mezzi, agevolando i soccorritori nella difficile fase di primo intervento;</an:p>
+				<an:p align="justify">            per poter garantire una offerta adeguata di infrastrutture per il settore orientale dell'isola siciliana, caratterizzata dalla rilevante attività eruttiva dell'Etna, occorre affiancare allo scalo di Catania l'aeroporto di Comiso prevedendone l'immediata entrata in servizio, anche in ragione di possibili interruzioni di servizio dello scalo etneo dovute a presenza di ceneri vulcaniche;</an:p>
+				<an:p align="justify">            è quindi essenziale che vengano immediatamente attivati i servizi di navigazione aerea dando facoltà all'ENAV di assumerne la diretta responsabilità. Necessita quindi aggiornare l'elenco degli aeroporti assegnati ad ENAV mediante modifica del Contratto di programma in vigore tra l'Ente fornitore del servizio ed il Ministero delle infrastrutture e dei trasporti, sottoscritto di concerto con i Ministeri delle difesa e dell'economia,</an:p>
+				<an:p align="justify">        impegna il Governo, al fine di consentire una migliore e più strutturata capacità di intervento aereo tenuto conto delle oggettive difficoltà ambientali in cui potrebbe trovarsi l'aeroporto di Catania, a valutare l'opportunità di inserire l'aeroporto di Comiso nell'elenco degli aeroporti di competenza ENAV nel Contratto di programma 2013-2015 tra ENAV e Ministero delle infrastrutture e dei trasporti, Ministero della difesa, Ministero dell'economia.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+				<an:p>(**) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
