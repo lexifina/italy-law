@@ -1,0 +1,72 @@
+# Corte costituzionale, sentenza 213/2012
+
+- ECLI: ECLI:IT:COST:2012:213
+- Tipo: sentenza
+- Presidente: QUARANTA
+- Relatore: Luigi Mazzella
+- Redattore: Luigi Mazzella
+- Data della decisione: 18/07/2012
+- Data del deposito: 30/07/2012
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 36588, 36589
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2012:213
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Alfonso QUARANTA; Giudici : Franco GALLO, Luigi MAZZELLA, Gaetano SILVESTRI, Sabino CASSESE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Sergio MATTARELLA, Mario Rosario MORELLI,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale degli articoli 1 e 3 della legge della Regione Molise 4 agosto 2011, n. 17 (Modifiche all'articolo 8 della legge regionale 12 settembre 1991, n. 15, e all'articolo 6 della legge regionale 20 agosto 2010, n. 16, in materia di segreterie particolari), promosso dal Presidente del Consiglio dei ministri con ricorso spedito per la notifica il 17 ottobre 2011, depositato in cancelleria il 25 ottobre 2011 ed iscritto al n. 125 del registro ricorsi 2011.
+ Udito nell'udienza pubblica del 3 luglio 2012 il Giudice relatore Luigi Mazzella;
+ udito l'avvocato dello Stato Barbara Tidore per il Presidente del Consiglio dei ministri.
+
+## Testo
+
+Ritenuto in fatto1.- Con ricorso notificato il 17 ottobre 2011, depositato in cancelleria il 25 ottobre 2011 e iscritto al n. 125 del registro ricorsi dell'anno 2011, il Presidente del Consiglio dei ministri ha promosso questioni di legittimità costituzionale, in riferimento agli articoli 3, 97, 117, commi secondo, lettera l), e terzo, della Costituzione, degli articoli 1 e 3 della legge della Regione Molise 4 agosto 2011, n. 17 (Modifiche all'articolo 8 della legge regionale 12 settembre 1991, n. 15, e all'articolo 6 della legge regionale 20 agosto 2010, n. 16, in materia di segreterie particolari).
+ 1.1.- L'impugnato art. 1 sostituisce il comma 6 dell'articolo 8 della legge regionale 12 settembre 1991, n. 15 (Norme integrative e complementari alla L.R. «Stato giuridico e trattamento economico del personale regionale e degli Enti pubblici della Regione Molise - Triennio 1988-1990» e provvedimenti urgenti per l'organizzazione amministrativa della Regione) e prevede che il personale regionale e quello in posizione di comando, eventualmente utilizzato nelle segreterie particolari, conserva il trattamento giuridico, economico ed indennitario in godimento, mentre nel caso di attribuzione della funzione di responsabile, ove titolare di retribuzione inferiore, ha diritto ad un trattamento giuridico, economico ed indennitario non inferiore a quello previsto per la categoria economica D3. Trattamento economico che, ai fini della determinazione del budget di cui al comma 4, è computato per intero, qualora si tratti di personale in posizione di comando, soltanto per la differenza integrativa, qualora si tratti di personale regionale.
+ 1.2.- Secondo il Presidente del Consiglio dei ministri, la disposizione regionale impugnata non è conforme a Costituzione, perché:
+ a) introdurrebbe un beneficio economico per una determinata categoria di personale in violazione della riserva spettante alla contrattazione collettiva in forza del Titolo III del d.lgs. 30 marzo 2001, n. 165 (Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche), costituente declinazione del principio di buon andamento della pubblica amministrazione di cui all'art. 97 Cost.;
+ b) invaderebbe la materia dell'ordinamento civile, riservata allo Stato dall'art. 117, secondo comma, lettera l), Cost.;
+ c) violerebbe, infine, l'art. 3 Cost., stante l'irragionevole e immotivata attribuzione di un trattamento economico migliorativo ad una parte del personale, a parità di funzioni rispetto ad altro non rientrante nella sfera dei destinatari della previsione.
+ 1.3.- In base all'art. 3 della legge reg. Molise n. 17 del 2011, le disposizioni della medesima legge si applicano dal 1° gennaio 2011 al personale che, a decorrere dalla stessa data o da data successiva, risulti aver svolto funzioni di responsabile di segreteria particolare.
+ 1.4.- Ad avviso del ricorrente, anche tale disposizione sarebbe costituzionalmente illegittima, in quanto:
+ a) non contiene alcun riferimento al rispetto dei vincoli generali di contenimento delle spese in materia d'impiego pubblico imposti dai commi 1 e 21 dell'art. 9 del decreto-legge 31 maggio 2010, n. 78 (Misure urgenti in materia di stabilizzazione finanziaria e di competitività economica), convertito in legge, con modificazioni, dall'art. 1 della legge 30 luglio 2010, n. 122, il che costituirebbe violazione del riparto di competenze legislative in tema di finanza pubblica stabilito dall'art. 117, terzo comma, Cost.;
+ b) l'attribuzione retroattiva di un beneficio economico, ivi prevista, risulterebbe discriminatoria e, in definitiva, rimessa alla verifica ex post di un dato di fatto non stimabile al momento dell'entrata in vigore della legge, in contrasto con i princìpi di ragionevolezza, imparzialità e buon andamento di cui agli artt. 3 e 97 Cost.Considerato in diritto1.- Il Presidente del Consiglio dei ministri ha promosso questioni di legittimità costituzionale, in riferimento agli articoli 3, 97, 117, commi secondo, lettera l), e terzo, della Costituzione, degli articoli 1 e 3 della legge della Regione Molise 4 agosto 2011, n. 17 (Modifiche all'articolo 8 della legge regionale 12 settembre 1991, n. 15, e all'articolo 6 della legge regionale 20 agosto 2012, n. 16, in materia di segreterie particolari). Tali disposizioni innovano la precedente legislazione regionale in ordine al trattamento del personale delle segreterie particolari di taluni organi regionali (Presidente della Giunta regionale e Assessori regionali, Presidente del Consiglio regionale, componenti dell'Ufficio di presidenza del Consiglio regionale, Presidenti delle commissioni consiliari permanenti e temporanee, Presidente del Collegio dei revisori dei conti).
+ 1.1.- Il Governo impugna, anzitutto, l'art. 1 della suddetta legge regionale, laddove dispone che ai responsabili delle segreterie particolari degli organi regionali sopra menzionati spetta «un trattamento giuridico, economico ed indennitario non inferiore a quello previsto per la categoria economica D3», ferma restando per tutti gli altri dipendenti (regionali e comandati), utilizzati nelle suddette segreterie, la conservazione del trattamento in godimento.
+ 1.2.- Ad avviso del ricorrente, la norma regionale impugnata incide nella sfera di competenza della contrattazione collettiva, così da violare il buon andamento di cui essa è espressione, ed invade, altresì, l'ambito materiale dell'ordinamento civile, di competenza legislativa esclusiva dello Stato ex art. 117, secondo comma, lettera l), Cost. Essa, infine, urterebbe contro l'art. 3 Cost., discriminando dipendenti versanti in situazioni identiche, ma non destinatari del beneficio in oggetto.
+ 1.3.- Il Presidente del Consiglio dei ministri impugna, inoltre, l'art. 3 della legge reg. Molise n. 17 del 2011, che fa retroagire le disposizioni della medesima legge dal 1° gennaio 2011 nei confronti del personale, il quale, «a decorrere dalla stessa data o da data successiva, risulti aver svolto funzioni di responsabile di segreteria particolare».
+ 1.4.- Tale disposizione regionale è censurata per violazione degli artt. 3, 97 e 117, terzo comma, Cost., quest'ultimo con l'interposizione dell'art. 9 (Contenimento delle spese in materia di impiego pubblico) del decreto-legge 31 maggio 2010, n. 78 (Misure urgenti in materia di stabilizzazione finanziaria e di competitività economica), convertito in legge, con modificazioni, dall'art. 1 della legge 30 luglio 2010, n. 122, con cui sono state adottate misure di contenimento delle spese per il personale dipendente dalle pubbliche amministrazioni, secondo il ricorrente con valore di principio fondamentale di coordinamento della finanza pubblica.
+ 2.- La questione di legittimità dell'art. 1 della legge reg. Molise n. 17 del 2011, promossa in riferimento all'art. 117, secondo comma, lettera l), Cost. (ordinamento civile), è fondata.
+ L'impugnato art. 1 sancisce la conservazione del trattamento in godimento in capo al personale utilizzato nelle segreterie particolari ed attribuisce ai responsabili delle medesime un trattamento complessivo non inferiore a quello della categoria D3.
+ In tal modo, la disposizione in questione istituisce una corrispondenza della posizione di responsabile di segreteria particolare, senza provvedere a definirla ulteriormente, con la categoria D3 (rectius: categoria D - posizione economica D3) mutuata dal regime di qualificazione del personale previsto dalla contrattazione collettiva del comparto delle Regioni e delle Autonomie locali (contratto collettivo nazionale di lavoro 31 marzo 1999, e successive modificazioni). Essa, inoltre, disciplina le conseguenze dell'assegnazione alle segreterie particolari e, segnatamente, dell'attribuzione della funzione di responsabile a personale evidentemente inquadrato in un livello più basso («ove sia titolare di retribuzione inferiore»).
+ Tutto ciò comporta lo sconfinamento della norma regionale impugnata nell'àmbito dell'ordinamento civile.
+ Essa, infatti, per un verso, colloca d'imperio una posizione di lavoro schematicamente connotata da mera responsabilità di segreteria in una determinata categoria attinta dal sistema di classificazione del comparto di riferimento, venendo così ad incidere nella materia degli inquadramenti del personale, riservata dalla legge alla contrattazione collettiva (art. 40, comma 1, primo periodo, del decreto legislativo 30 marzo 2001, n. 165, recante «Norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche»). Per altro verso, interviene sull'assetto del trattamento economico e giuridico di dipendenti pubblici (regionali e comandati) e sulla disciplina dell'attribuzione di mansioni superiori, anche in deroga al regime dell'art. 52 del d.lgs. n. 165 del 2011 ed alla specifica regola, ivi stabilita, secondo cui gli effetti di una siffatta assegnazione (comunque senza riflessi sull'inquadramento ai sensi del comma 1 dell'art. 52, cit.) possono essere regolati in modo difforme soltanto dai contratti collettivi.
+ Diversamente dal regime delineato dalla legge statale, infatti, l'art. 1 della legge regionale in oggetto prevede genericamente il diritto all'intero trattamento della categoria D3 («giuridico, economico ed indennitario») in tutte le ipotesi nelle quali il personale regionale o comandato, titolare di una retribuzione inferiore, sia nominato responsabile della segreteria particolare e non solo in quelle, precisamente circostanziate dalla legge statale per obiettive esigenze di servizio e nei rigorosi limiti ivi stabiliti, se del caso derogabili esclusivamente dalla contrattazione collettiva.
+ La norma regionale impugnata, dunque, finisce per regolare istituti tipici del rapporto di lavoro pubblico privatizzato (inquadramenti, trattamento giuridico ed economico, effetti dello svolgimento di mansioni superiori), con conseguente lesione della competenza legislativa esclusiva dello Stato in materia di ordinamento civile (sentenze nn. 339, 77 e 7 del 2011, nn. 332 e 151 del 2010 e n. 189 del 2007).
+ 2.1.- Dev'essere, dunque, dichiarata l'illegittimità costituzionale dell'art. 1 della legge reg. Molise n. 17 del 2011 per violazione dell'art. 117, secondo comma, lettera l), Cost.
+ L'accoglimento della questione in esame sotto il profilo dell'incidenza della norma regionale impugnata sull'ordinamento civile (di competenza esclusiva dello Stato) consente di ritenere assorbite le ulteriori censure.
+ 3.- La questione di legittimità dell'art. 3 della legge reg. Molise n. 17 del 2011 è parimenti fondata.
+ 3.1.- V'è, preliminarmente, da rilevare che la caducazione dell'art. 1 della legge in questione si riflette inevitabilmente sul successivo art. 3, pure censurato in modo autonomo, perché quest'ultimo prevede la decorrenza retroattiva della legge («dal 1° gennaio 2011») limitatamente al personale, destinatario del citato art. 1, che, «a decorrere dalla stessa data o da data successiva, risulti aver svolto funzioni di responsabile di segreteria particolare».
+ 3.2.- La questione di legittimità dell'art. 3 citato è, comunque, fondata anche in sé considerata, in relazione alla dedotta violazione dell'art. 3 Cost.
+ 3.2.1.- Non sussiste, infatti, alcun motivo plausibile che giustifichi la retrodatazione del beneficio del trattamento giuridico ed economico della categoria D3 a favore dei titolari degli incarichi di responsabile di segreteria particolare svolti a partire dal 1° gennaio 2011. Anzi, proprio l'indiscriminata retroattività del beneficio economico è viziata da irragionevolezza, tenuto conto pure che in altre occasioni questa Corte ha ritenuto ragionevole la scelta legislativa, di segno contrario, di graduare nel tempo la concessione e la retrodatazione degli effetti economici di determinati meccanismi perequativi (ordinanza n. 241 del 2002).
+ 3.2.2.- Va, pertanto, dichiarata l'illegittimità costituzionale dell'art. 3 della legge reg. Molise n. 17 del 2011 perché in contrasto con l'art. 3 Cost.
+ Rimangono assorbiti gli altri profili d'illegittimità costituzionale prospettati dal ricorrente.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ 1) dichiara l'illegittimità costituzionale dell'articolo 1 della legge della Regione Molise 4 agosto 2011, n. 17 (Modifiche all'articolo 8 della legge regionale 12 settembre 1991, n. 15, e all'articolo 6 della legge regionale 20 agosto 2010, n. 16, in materia di segreterie particolari);
+ 2) dichiara l'illegittimità costituzionale dell'articolo 3 della legge reg. Molise n. 17 del 2011.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 18 luglio 2012.
+ F.to:
+ Alfonso QUARANTA, Presidente
+ Luigi MAZZELLA, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 30 luglio 2012.
+ Il Cancelliere
+ F.to: Roberto MILANA
