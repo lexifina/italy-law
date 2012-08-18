@@ -1,8 +1,8 @@
 Art. 2501-ter.
 
-(( (Progetto di fusione). ))
+(Progetto di fusione).
 
-(( L'organo amministrativo delle societa' partecipanti alla fusione redige un progetto di fusione, dal quale devono in ogni caso risultare:
+L'organo amministrativo delle societa' partecipanti alla fusione redige un progetto di fusione, dal quale devono in ogni caso risultare:
 
 1) il tipo, la denominazione o ragione sociale, la sede delle societa' partecipanti alla fusione;
 
@@ -22,6 +22,6 @@ Art. 2501-ter.
 
 Il conguaglio in danaro indicato nel numero 3) del comma precedente non puo' essere superiore al dieci per cento del valore nominale delle azioni o delle quote assegnate.
 
-Il progetto di fusione e' depositato per l'iscrizione nel registro delle imprese del luogo ove hanno sede le societa' partecipanti alla fusione.
+((Il progetto di fusione e' depositato per l'iscrizione nel registro delle imprese del luogo ove hanno sede le societa' partecipanti alla fusione. In alternativa al deposito presso il registro delle imprese il progetto di fusione e' pubblicato nel sito Internet della societa', con modalita' atte a garantire la sicurezza del sito medesimo, l'autenticita' dei documenti e la certezza della data di pubblicazione.))
 
-Tra l'iscrizione del progetto e la data fissata per la decisione in ordine alla fusione devono intercorrere almeno trenta giorni, salvo che i soci rinuncino al termine con consenso unanime.))
+Tra l'iscrizione ((o la pubblicazione nel sito Internet)) del progetto e la data fissata per la decisione in ordine alla fusione devono intercorrere almeno trenta giorni, salvo che i soci rinuncino al termine con consenso unanime.

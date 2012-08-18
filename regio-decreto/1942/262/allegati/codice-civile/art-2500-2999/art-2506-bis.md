@@ -1,8 +1,8 @@
 Art. 2506-bis.
 
-(( (Progetto di scissione).))
+(Progetto di scissione).
 
-((L'organo amministrativo delle societa' partecipanti alla scissione redige un progetto dal quale devono risultare i dati indicati nel primo comma dell'articolo 2501-ter ed inoltre l'esatta descrizione degli elementi patrimoniali da assegnare a ciascuna delle societa' beneficiarie e dell'eventuale conguaglio in danaro.
+L'organo amministrativo delle societa' partecipanti alla scissione redige un progetto dal quale devono risultare i dati indicati nel primo comma dell'articolo 2501-ter ed inoltre l'esatta descrizione degli elementi patrimoniali da assegnare a ciascuna delle societa' beneficiarie e dell'eventuale conguaglio in danaro.
 
 Se la destinazione di un elemento dell'attivo non e' desumibile dal progetto, esso, nell'ipotesi di assegnazione dell'intero patrimonio della societa' scissa, e' ripartito tra le societa' beneficiarie in proporzione della quota del patrimonio netto assegnato a ciascuna di esse, cosi' come valutato ai fini della determinazione del rapporto di cambio; se l'assegnazione del patrimonio della societa' e' solo parziale, tale elemento rimane in capo alla societa' trasferente.
 
@@ -12,4 +12,4 @@ Dal progetto di scissione devono risultare i criteri di distribuzione delle azio
 
 Qualora il progetto preveda una attribuzione delle partecipazioni ai soci non proporzionale alla loro quota di partecipazione originaria, il progetto medesimo deve prevedere il diritto dei soci che non approvino la scissione di far acquistare le proprie partecipazioni per un corrispettivo determinato alla stregua dei criteri previsti per il recesso, indicando coloro a cui carico e' posto l'obbligo di acquisto.
 
-Il progetto di scissione deve essere pubblicato a norma dell'ultimo comma dell'articolo 2501-ter.))
+((Il progetto di scissione e' depositato per l'iscrizione nel registro delle imprese ovvero pubblicato sul sito Internet della societa' a norma dell'articolo 2501-ter, commi terzo e quarto.))
