@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª"/>
+					<an:FRBRdate date="2012-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/3271/2/4ª"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@"/>
+					<an:FRBRdate date="2012-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@.akn"/>
+					<an:FRBRdate date="2012-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-10-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-10-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3271/C/G/3271/2/4ª/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3271" showAs="DDL 3271"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Difesa" href="/dati.senato.it/osr/Commissione/4"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/1987" showAs="Ramponi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25234" showAs="Del Vecchio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3271</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/3271/2/4ª</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Ramponi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Del Vecchio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            premesso che:</an:p>
+				<an:p> </an:p>
+				<an:p>            la riforma di cui alla legge 18 agosto 1995, n. 335, ha modificato il sistema di calcolo della pensione, passando dal sistema retributivo al sistema contributivo basato sui contributi effettivamente versati;</an:p>
+				<an:p>            tale nuova modalità di calcolo ha notevolmente ridotto il livello del trattamento pensionistico corrisposto all'atto del collocamento in congedo;</an:p>
+				<an:p>            in particolare, il nuovo sistema comporta una penalizzazione maggiore per il personale del comparto Sicurezza e Difesa rispetto al personale di altri comparti, in quanto percepisce stipendi crescenti nel corso della carriera, con perdite che arrivano, nel caso del personale in regime di contributivo puro, anche al 40-50 per cento rispetto a quanto avrebbe percepito con il sistema retributivo;</an:p>
+				<an:p>            al fine di garantire una copertura previdenziale per quanto possibile avvicinabile a quella garantita dal precedente sistema retributivo (80 per cento dell'ultimo trattamento economico goduto in servizio), la riforma ha previsto l'istituzione di forme di previdenza complementare, che consentano al lavoratore, attraverso l'adesione ai fondi pensione chiusi, di integrare  il trattamento pensionistico obbligatorio mediante la contribuzione propria e del datore di lavoro, destinando, a tal fine, quote del proprio trattamento di fine rapporto;</an:p>
+				<an:p>            per il personale del comparto Sicurezza e Difesa, le previste procedure di negoziazione e di concertazione per l'istituzione dei fondi pensione chiusi di comparto non si sono ancora perfezionate;</an:p>
+				<an:p>            ciò comporta che circa 300.000 unità di personale del comparto Difesa e Sicurezza non hanno la possibilità di integrare il proprio trattamento pensionistico obbligatorio;</an:p>
+				<an:p>            già dall'indomani della citata riforma sono stati assunti dal Governo, anche a margine di procedure di concertazione, impegni ad avviare l'attuazione dell'istituto;</an:p>
+				<an:p> </an:p>
+				<an:p>            impegna il Governo</an:p>
+				<an:p> </an:p>
+				<an:p>            a dare avvio all'attuazione delle forme di previdenza complementare a favore del personale del comparto Sicurezza e Difesa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
