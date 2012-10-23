@@ -1,8 +1,6 @@
 Art. 282-bis.
 
-(( (Allontanamento dalla casa familiare). ))
-
-((
+(Allontanamento dalla casa familiare)
 
 1.
 
@@ -30,6 +28,4 @@ Il provvedimento di cui al comma 3 puo' essere modificato se mutano le condizion
 
 6.
 
-Qualora si proceda per uno dei delitti previsti dagli articoli 570, 571, 600-bis, 600-ter, 600-quater, 609-bis, 609-ter, 609-quater, 609-quinquies e 609-octies del codice penale, commesso in danno dei prossimi congiunti o del convivente, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 280.
-
-))
+Qualora si proceda per uno dei delitti previsti dagli articoli 570, 571, ((600,)) 600-bis, 600-ter, 600-quater, ((600-septies.1, 600-septies.2, 601, 602,)) 609-bis, 609-ter, 609-quater, 609-quinquies e 609-octies del codice penale, commesso in danno dei prossimi congiunti o del convivente, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 280.

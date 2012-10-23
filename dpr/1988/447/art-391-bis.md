@@ -1,8 +1,6 @@
 Art. 391-bis.
 
-(( (Colloquio, ricezione di dichiarazioni e assunzione di informazioni da parte del difensore). ))
-
-((
+(Colloquio, ricezione di dichiarazioni e assunzione di informazioni da parte del difensore).
 
 1.
 
@@ -47,6 +45,8 @@ Alle persone gia' sentite dalla polizia giudiziaria o dal pubblico ministero non
 5.
 
 Per conferire, ricevere dichiarazioni o assumere informazioni da una persona sottoposta ad indagini o imputata nello stesso procedimento, in un procedimento connesso o per un reato collegato, e' dato avviso, almeno ventiquattro ore prima, al suo difensore la cui presenza e' necessaria. Se la persona e' priva di difensore, il giudice, su richiesta del difensore che procede alle investigazioni, dispone la nomina di un difensore di ufficio ai sensi dell'articolo 97.
+
+((5-bis. Nei procedimenti per i delitti di cui all'articolo 351, comma 1-ter, il difensore, quando assume informazioni da persone minori, si avvale dell'ausilio di un esperto in psicologia o in psichiatria infantile))
 
 6.
 
