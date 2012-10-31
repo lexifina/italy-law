@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3534/A/3.203/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3534/A/3.203"/>
+					<an:FRBRdate date="2012-10-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3534/A/3.203/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.203"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@"/>
+					<an:FRBRdate date="2012-10-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@.akn"/>
+					<an:FRBRdate date="2012-10-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-10-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-10-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3534/A/3.203/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3534" showAs="DDL 3534"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25244" showAs="Calabro'"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17552" showAs="Bianconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25261" showAs="D'Ambrosio Lettieri"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25239" showAs="De Lillo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25243" showAs="Di Giacomo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/1181" showAs="Gramazio"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25198" showAs="Rizzotti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17805" showAs="Viceconte"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3534</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.203</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Calabro'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bianconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">D'Ambrosio Lettieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">De Lillo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Di Giacomo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Gramazio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Rizzotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Viceconte</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, dopo la lettera c), aggiungere la seguente:</an:p>
+				<an:p align="justify">
+					        «c-
+					<an:i>bis)</an:i>
+					 prevedere per tutte le strutture sanitarie pubbliche e private la copertura assicurativa obbligatoria per la responsabilità civile per i danni subiti dai pazienti e cagionati dalla condotta colposa degli operatori sanitari attraverso un contributo definito in sede di contrattazione collettiva nazionale, tenuto conto che in caso di condotta dolosa o di colpa grave accertata con sentenza definitiva qualora abbia risarcito il danno, la struttura sanitaria avvia azione di rivalsa nei confronti dei sanitari responsabili; prevedere altresì che il danneggiato a seguito di prestazioni sanitarie ricevute nelle predette strutture ha diritto di azione diretta per il risarcimento del danno nei confronti dell'assicuratore».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
