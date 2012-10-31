@@ -1,0 +1,24 @@
+# Massima n. 36682
+
+- Pronuncia: Corte costituzionale, sentenza 241/2012 (ECLI:IT:COST:2012:241)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2012:241
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Finanza regionale - Riserva allo Stato del gettito delle entrate erariali connesse a condoni, sanatorie e controlli previsti dalla legge finanziaria del 2003 - Tributi riscossi nel territorio siciliano non nominativamente attribuiti all'Erario dallo statuto - Espressa applicabilità alla Regione siciliana - Riduzione del gettito spettante alla Regione in base allo statuto di autonomia e alle relative norme di attuazione - Lesione dell'autonomia finanziaria regionale -  Illegittimità costituzionale  in parte qua .
+
+## Testo
+
+Sono costituzionalmente illegittimi i commi 5- bis  e 5- ter  dell'art. 2, del decreto-legge n. 138 del 2011 (che riservano allo Stato il gettito delle entrate erariali connesse a condoni, sanatorie e controlli previsti dalla legge finanziaria del 2003) nella parte in cui la sanatoria o il controllo abbiano ad oggetto entrate non nominativamente riservate allo Stato dallo statuto, poiché non ricorrono nella specie tutte e tre le condizioni per l'eccezionale riserva allo Stato del gettito delle entrate erariali previste dall'evocato art. 36, primo comma, dello statuto, in combinato disposto con l'art. 2, primo comma, del d.P.R. n. 1074 del 1965 [a) la natura tributaria dell'entrata; b) la novità di tale entrata; c) la destinazione del gettito «con apposite leggi alla copertura di oneri diretti a soddisfare particolari finalità contingenti o continuative dello Stato specificate nelle leggi medesime»]. Difatti per dette entrate ricorre la prima delle suddette tre condizioni, rappresentata dal carattere tributario all'entrata erariale, ma non le altre due condizioni. Deve infatti escludersi che l'entrata di cui al comma 5- bis  (recupero di somme dichiarate e non versate dai contribuenti che si sono avvalsi del condono) costituisca una «nuova entrata», riguardando essa somme già dovute in base alla precedente normativa fiscale: detto comma non incide sulla legislazione fiscale previgente, non introduce alcun nuovo tributo né determina modificazione di aliquote; pertanto, non si verifica alcuna "novità del provento". Analoghe osservazioni valgono con riguardo alle «maggiori entrate» derivanti dagli ulteriori controlli sui contribuenti, previste dal citato comma 5- ter , in quanto l'attività di ulteriore accertamento fiscale non comporta alcuna modifica della legislazione fiscale vigente, né determina un "nuovo provento". La riserva allo Stato delle entrate di cui ai commi 5- bis  e 5- ter  (per la parte relativa agli ulteriori controlli fiscali) non è, pertanto, consentita dallo statuto. Quanto alla terza condizione, relativa alla «specificità della destinazione del gettito della nuova entrata», va ricordato che essa «è soddisfatta quando la legge statale stabilisce che il gettito sia utilizzato per la copertura di oneri diretti a perseguire "particolari finalità contingenti o continuative dello Stato specificate"» nella legge stessa; ne deriva che la destinazione del gettito di tali entrate «alle esigenze prioritarie di raggiungimento degli obiettivi di finanza pubblica concordati in sede europea, anche alla luce della eccezionalità della situazione economica internazionale» (comma 36, primo periodo) non può considerarsi specifica. La mancanza delle tre condizioni di riserva allo Stato delle entrate in esame, ove queste accedano ad entrate non nominativamente riservate allo Stato dalla normativa di rango statutario, rende la devoluzione all'Erario del gettito non conforme allo statuto ed alle relative norme di attuazione, con la conseguenza, ove operasse anche in tale caso la clausola di salvaguardia di cui all'art. 19- bis , dell'inapplicabilità alla ricorrente delle norme censurate; invece, con riferimento a tali entrate, la suddetta clausola di salvaguardia non opera, perché il tenore letterale dei commi impugnati eccezionalmente dispone che essi siano immediatamente applicabili alla Regione siciliana. - Sul carattere di novità dell'entrata tributaria, v. citate sentenze n. 143 e n. 135 del 2012, n. 342 del 2010, n. 348 del 2000, n. 198 del 1999, n. 49 del 1972, n. 47 del 1968. - Circa la specificità della destinazione del gettito della nuova entrata, v. citata sentenza n. 135 del 2012.
+
+## Norme
+
+- decreto-legge, 13/08/2011 n. 138, art. 2, comma 5 bis
+- legge, 14/09/2011 n. 148
+- decreto-legge, 13/08/2011 n. 138, art. 2, comma 5 ter
+
+## Parametri
+
+- statuto regione Sicilia, art. 36
+- decreto del Presidente della Repubblica, 26/07/1965 n. 1074, art. 2
