@@ -1,10 +1,10 @@
 Art. 32-quinquies.
 
-(( (Casi nei quali alla condanna consegue l'estinzione del rapporto di lavoro o di impiego). ))
+(Casi nei quali alla condanna consegue l'estinzione del rapporto di lavoro o di impiego).
 
-((Salvo quanto previsto dagli articoli 29 e 31, la condanna alla reclusione per un tempo non inferiore a tre anni per i delitti di cui agli articoli 314, primo comma, 317, 318, 319, 319-ter e 320 importa altresi' l'estinzione del rapporto di lavoro o di impiego nei confronti del dipendente di amministrazioni od enti pubblici ovvero di enti a prevalente partecipazione pubblica)).((177))
+Salvo quanto previsto dagli articoli 29 e 31, la condanna alla reclusione per un tempo non inferiore a tre anni per i delitti di cui agli articoli 314, primo comma, 317, 318, 319, 319-ter ((, 319-quater, primo comma,)) e 320 importa altresi' l'estinzione del rapporto di lavoro o di impiego nei confronti del dipendente di amministrazioni od enti pubblici ovvero di enti a prevalente partecipazione pubblica. (177)
 
------------
+------------
 
 AGGIORNAMENTO (177)
 
