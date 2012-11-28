@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3129/C/16.0.2"/>
+					<an:FRBRdate date="2012-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@"/>
+					<an:FRBRdate date="2012-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@.akn"/>
+					<an:FRBRdate date="2012-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-11-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-11-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3129/C/16.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3129" showAs="DDL 3129"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Politiche dell'Unione europea" href="/dati.senato.it/osr/Commissione/14"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25234" showAs="Del Vecchio"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23080" showAs="Tomaselli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25296" showAs="Marinaro"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22951" showAs="Fontana"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/21507" showAs="Marino"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/23072" showAs="Sircana"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3129</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Del Vecchio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Tomaselli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Marinaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Fontana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Sircana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 16-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">(Detraibilità dell'IVA sulle importazioni)</an:p>
+				<an:p>        1. L'imposta o la maggiore imposta relativa ad avvisi di accertamento od inviti a pagamento relativi a beni importati è detraibile, alle condizioni esistenti al momento della nascita dell'obbligazione tributaria, al più tardi, con la dichiarazione relativa al secondo anno successivo a quello in cui il soggetto passivo ha provveduto al pagamento dell'imposta, della maggiore imposta, delle sanzioni e degli interessi».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
