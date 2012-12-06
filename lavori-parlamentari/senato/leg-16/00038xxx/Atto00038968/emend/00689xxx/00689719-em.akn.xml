@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3533/A/G28.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3533/A/G28.101"/>
+					<an:FRBRdate date="2012-12-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3533/A/G28.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G28.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@"/>
+					<an:FRBRdate date="2012-12-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@.akn"/>
+					<an:FRBRdate date="2012-12-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-12-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-12-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3533/A/G28.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3533" showAs="DDL 3533"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3533</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G28.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            con legge n.296 del 2006 (legge finanziaria per il 2007) veniva normata la materia dell'emersione dei rapporti di lavoro non risultanti da scritture contabili o da altra documentazione obbligatoria;</an:p>
+				<an:p align="justify">            con circolare n.116 del 7 settembre 2007, la Direzione generale delle entrate contributive dell'Inps disciplinava nel dettaglio la materia;</an:p>
+				<an:p align="justify">            di conseguenza, il datore di lavoro aderente al programma di emersione si impegnava non solo a stipulare con le unità lavorative interessate un apposito contratto di lavoro subordinato per un periodo non inferiore ai 24 mesi (risolvibili anticipatamente solo per dimissioni o licenziamento per giusta causa), ma anche a versare una somma equivalente al 50 per cento dell'ammontare del beneficio dell'esenzione di un terzo dei contributi dovuti, somma da restituire al datore di lavoro per la metà al termine del primo anno di lavoro regolarmente prestato, mentre per l'ulteriore metà al termine del secondo anno, e cioè nei 24 mesi successivi alla regolarizzazione;</an:p>
+				<an:p align="justify">            in definitiva, tale somma sostanzialmente assumeva la natura di garanzia del buon esito dell'operazione, buon esito, pertanto, accertabile già alla data del mese di ottobre 2009;</an:p>
+				<an:p align="justify">            nonostante le reiterate istanze di recupero delle somme, a tutt'oggi l'Inps risulta essere inadempiente nei confronti dei datori di lavoro aderenti al programma di emersione;</an:p>
+				<an:p align="justify">            tutto ciò appare ancora più grave in quanto è nota la situazione di grave difficoltà finanziaria in cui versa gran parte dell'imprenditoria del Paese;</an:p>
+				<an:p align="justify">            non appare convincente, a giudizio dell'interrogante, la tesi degli uffici periferici dell'Inps secondo i quali i gravi ritardi nel rimborso ai datori di lavoro deriverebbe esclusivamente dalla mancata attivazione del prescritto software informatico, tesi che stride con le dichiarazioni rese dal presidente Mastrapasqua, il quale, nel corso di un'intervista rilasciata al «Corriere della Sera» in data 1º ottobre 2012, ha enfatizzato il completamento del processo d'informatizzazione dell'Inps,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad intraprendere le opportune iniziative affinché ai datori di lavoro vengano restituite le somme versate in adesione al programma di emersione dei rapporti di lavoro non risultanti da scritture contabili o da altra documentazione obbligatoria.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
