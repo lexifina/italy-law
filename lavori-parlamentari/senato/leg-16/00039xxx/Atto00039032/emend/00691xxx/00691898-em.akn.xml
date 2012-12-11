@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8"/>
+					<an:FRBRdate date="2012-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1003/8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@"/>
+					<an:FRBRdate date="2012-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@.akn"/>
+					<an:FRBRdate date="2012-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-12-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-12-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3558/A/1.1003/8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3558" showAs="DDL 3558"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22718" showAs="Bosone"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/23259" showAs="Vimercati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3558</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1003/8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bosone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Vimercati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 1.1003, dopo le parole:</an:i>
+					 «requisiti minimi richiesti.» 
+					<an:i>Aggiungere le seguenti:</an:i>
+					 «Il riordino non si applica altresì alle regioni che complessivamente, quanto a territorio e numero di abitanti, hanno un numero di province corrispondente ai criteri sopraindicati, con l'esclusione delle province interamente montane».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, aggiungere infine le seguenti parole:</an:i>
+				</an:p>
+				<an:p align="justify">
+					        «
+					<an:i>e)</an:i>
+					 sopprimere le parole: "Provincia di Como-Lecco-Varese in luogo delle Province di Como, di Lecco e di Varese";
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>f)</an:i>
+					 sopprimere le parole: "Provincia di Cremona-Lodi-Mantova in luogo delle Province di Cremona, di Lodi e di Mantova;"».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente</an:i>
+					, all'articolo 2, comma 1, lettera 
+					<an:i>b)</an:i>
+					, dopo le parole: «Provincia di Reggio Calabria» inserire le seguenti: «Provincia di Como, Provincia di Lecco; Provincia di Varese; Provincia di Cremona; Provincia di Lodi; Provincia di Mantova; Provincia di Monza e della Brianza».
+				</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
