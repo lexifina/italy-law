@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3584/C/2.226/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3584/C/2.226"/>
+					<an:FRBRdate date="2012-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3584/C/2.226/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.226"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@"/>
+					<an:FRBRdate date="2012-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@.akn"/>
+					<an:FRBRdate date="2012-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-12-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-12-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3584/C/2.226/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3584" showAs="DDL 3584"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25229" showAs="Granaiola"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/25196" showAs="Biondelli"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3584</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.226</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Granaiola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Biondelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 31 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «31-
+					<an:i>bis</an:i>
+					. È istituito, presso la Presidenza del Consiglio dei ministri; un apposito Fondo per il contrasto della violenza nei confronti delle donne, di seguito denominato »Fondo«, volto a finanziare gli interventi in corso alla data di entrata in vigore della presente legge per l'attività delle case e dei centri delle donne. Al Fondo affluiscono, secondo modalità definite con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro del lavoro e delle politiche sociali, da emanare, entro due mesi dalla data di entrata in vigore della presente legge, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, il 5 per cento delle disponibilità del Fondo unico giustizia di cui all'articolo 61, comma 23, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 e l'ammontare delle sanzioni amministrative pecuniarie irrogate ai sensi dell'articolo 709-
+					<an:i>ter</an:i>
+					, comma secondo, numero 4) del codice di procedura civile. A favore delle regioni, anche a statuto speciale, e delle province autonome di Trento e di Bolzano che redigono entro tre mesi dalla data di entrata in vigore della presente legge un programma triennale per favorire l'attività delle case e dei centri delle donne, che preveda finanziamenti o conferimenti di beni o di strutture, possono essere disposti trasferimenti a carico del Fondo. Alle province, ai comuni e ai loro consorzi che stipulano o hanno già stipulato alla data di entrata in vigore della presente legge apposite convenzioni per la gestione delle case e dei centri delle donne è riservato, a titolo di cofinanziamento dello Stato, almeno il 50 per cento delle disponibilità annuali del Fondo. I presidenti delle province e i sindaci dei comuni destinatari dei cofinanziamenti sono tenuti ad iscrivere nei rispettivi bilanci triennali, con distinte specificazioni, lo stanziamento di spesa per il finanziamento delle convenzioni derivante dal trasferimento e quello di cofinanziamento provinciale o comunale. Entro quattro mesi dalla data di entrata in vigore della presente legge, sentito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, dell'Associazione nazionale dei comuni italiani (ANCI) e dell'Unione delle province d'Italia (UPI), il Ministro del lavoro e delle politiche sociali, approva, con proprio decreto, la ripartizione del Fondo per il triennio 2013-2015, sulla base della popolazione delle regioni, della distribuzione territoriale del servizio come definito dalla presente legge, dei progetti di sviluppo delle case e dei centri delle donne su base territoriale. Sono escluse dalla ripartizione le regioni che non hanno provveduto agli adempimenti di cui al terzo periodo, nei termini ivi indicati. Le regioni possono disporre, con legge regionale, anche al fine di attivare il cofinanziamento del Fondo, finanziamenti, incentivi ed agevolazioni nonché l'utilizzo di disponibilità per investimenti presso conti correnti di Tesoreria Al termine del primo triennio di attuazione della disposizione di cui al presente comma, le eventuali somme assegnate e non utilizzate sono computate in aggiunta alle somme del Fondo disponibili nel successivo triennio di attuazione».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
