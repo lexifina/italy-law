@@ -1,8 +1,6 @@
 Art. 23-ter.
 
-(( (Documenti amministrativi informatici). ))
-
-((
+(Documenti amministrativi informatici).
 
 1.
 
@@ -20,12 +18,16 @@ Le copie su supporto informatico di documenti formati dalla pubblica amministraz
 
 Le regole tecniche in materia di formazione e conservazione di documenti informatici delle pubbliche amministrazioni sono definite con decreto del Presidente del Consiglio dei Ministri o del Ministro delegato per la pubblica amministrazione e l'innovazione, di concerto con il Ministro per i beni e le attivita' culturali, nonche' d'intesa con la Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e sentiti DigitPA e il Garante per la protezione dei dati personali.
 
-5.
+((5. Sulle copie analogiche di documenti amministrativi informatici puo' essere apposto a stampa un contrassegno, sulla base dei criteri definiti con linee guida dell'Agenzia per l'Italia digitale, tramite il quale e' possibile ottenere il documento informatico, ovvero verificare la corrispondenza allo stesso della copia analogica. Il contrassegno apposto ai sensi del primo periodo sostituisce a tutti gli effetti di legge la sottoscrizione autografa e non puo' essere richiesta la produzione di altra copia analogica con sottoscrizione autografa del medesimo documento informatico. I programmi software eventualmente necessari alla verifica sono di libera e gratuita disponibilita'))
 
-Al fine di assicurare la provenienza e la conformita' all'originale, sulle copie analogiche di documenti informatici, e' apposto a stampa, sulla base dei criteri definiti con linee guida emanate da DigitPA, un contrassegno generato elettronicamente, formato nel rispetto delle regole tecniche stabilite ai sensi dell'articolo 71 e tale da consentire la verifica automatica della conformita' del documento analogico a quello informatico.
+((
+
+5-bis.
+
+I documenti di cui al presente articolo devono essere fruibili indipendentemente dalla condizione di disabilita' personale, applicando i criteri di accessibilita' definiti dai requisiti tecnici di cui all'articolo 11 della legge 9 gennaio 2004, n. 4.
+
+))
 
 6.
 
 Per quanto non previsto dal presente articolo si applicano gli articoli 21, 22 , 23 e 23-bis.
-
-))
