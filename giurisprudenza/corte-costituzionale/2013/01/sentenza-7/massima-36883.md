@@ -1,0 +1,27 @@
+# Massima n. 36883
+
+- Pronuncia: Corte costituzionale, sentenza 7/2013 (ECLI:IT:COST:2013:7)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:7
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Delitto di soppressione di stato - Pena accessoria della perdita della potestà genitoriale - Automatismo legale preclusivo della possibilità di valutazione dell'interesse del minore nel caso concreto da parte del giudice - Violazione del principio di ragionevolezza - Violazione dell'obbligo di osservanza degli impegni internazionali assunti dall'Italia per la protezione dei minori -  Illegittimità costituzionale  in parte qua .
+
+## Testo
+
+E' costituzionalmente illegittimo per violazione dell'art. 3 Cost., l'art. 569 cod. pen., nella parte in cui stabilisce che, in caso di condanna pronunciata contro il genitore per il delitto di soppressione di stato, previsto dall'art. 566, secondo comma, cod. pen., consegua di diritto la perdita della potestà genitoriale, così precludendo al giudice ogni possibilità di valutazione dell'interesse del minore nel caso concreto. Nella fattispecie in questione, la pena accessoria incide su una potestà che coinvolge non soltanto il suo titolare ma anche, necessariamente, il figlio minore, di modo che può ritenersi giustificabile l'interruzione di quella  relatio  (sul piano giuridico se non naturalistico) solo in quanto essa si giustifichi proprio in funzione degli interessi del minore a vivere e a crescere nell'ambito della propria famiglia, mantenendo un rapporto equilibrato e continuativo con ciascuno dei genitori, dai quali ha diritto di ricevere cura, educazione ed istruzione. Pertanto, non è conforme al principio di ragionevolezza, e contrasta quindi con il dettato dell'art. 3 Cost, il disposto della norma censurata che, ignorando l'interesse del minore, statuisca la decadenza dalla potestà genitoriale sulla base di un mero automatismo, che preclude al giudice ogni possibilità di valutazione e di bilanciamento, nel caso concreto, tra l'interesse stesso e la necessità di applicare comunque la pena accessoria in ragione della natura e delle caratteristiche dell'episodio criminoso. All'irragionevole automatismo legale occorre dunque sostituire - quale soluzione costituzionalmente più congrua - una valutazione concreta del giudice, così da assegnare all'accertamento giurisdizionale sul reato null'altro che il valore di "indice" per misurare la idoneità o meno del genitore ad esercitare le proprie potestà. La violazione del principio di ragionevolezza, che consegue all'automatismo previsto dalla norma censurata, deve essere affermata anche alla luce dei caratteri propri del delitto di cui all'art. 566, secondo comma, cod. pen., perché la natura del reato in questione - non diversamente da quanto affermato dalla sentenza n. 31 del 2012 in relazione al delitto di alterazione di stato previsto dall'art. 567, secondo comma, cod. pen. - non implica un giudizio di necessaria "indegnità" del genitore. L'illegittimità costituzionale deve essere altresì affermata in relazione all'art. 117, primo comma, Cost., ossia sul versante della necessaria conformazione del quadro normativo agli impegni internazionali assunti dal nostro Paese sul versante specifico della protezione dei minori. Vengono qui in rilievo, quali norme interposte rispetto al principio sancito dall'art. 117, primo comma, Cost., una serie di importanti e del tutto univoci strumenti di carattere pattizio, con i quali la disciplina oggetto di impugnativa viene a porsi in evidente ed insanabile contrasto: la Convenzione sui diritti del fanciullo, fatta a New York il 20 novembre 1989, ratificata e resa esecutiva in Italia con legge 27 maggio 1991, n. 176 (art. 3); la Convenzione europea sull'esercizio dei diritti dei fanciulli, adottata dal Consiglio d'Europa a Strasburgo il 25 gennaio 1996, ratificata e resa esecutiva con legge 20 marzo 2003, n. 77 (art. 6). In tale contesto non sembrano neppure trascurabili le specifiche indicazioni enunciate dalle Linee guida del Comitato dei ministri del Consiglio d'Europa su una "giustizia a misura di minore", adottate il 17 novembre 2010, nella 1098^ riunione dei delegati dei ministri, posto che, fra gli altri importanti principi, il documento espressamente afferma che "Gli Stati membri dovrebbero garantire l'effettiva attuazione del diritto dei minori a che il loro interesse superiore sia al primo posto, davanti ad ogni altra considerazione, in tutte le questioni che li vedono coinvolti o che li riguardano". - Sulla violazione del principio di ragionevolezza nel caso in cui una norma, ignorando l'interesse del minore, statuisca la perdita della potestà sulla base di un mero automatismo, che preclude al giudice ogni possibilità di valutazione e di bilanciamento, nel caso concreto, tra l'interesse stesso e la necessità di applicare comunque la pena accessoria in ragione della natura e delle caratteristiche dell'episodio criminoso, v. la menzionata sent. n. 31 del 2012.
+
+## Norme
+
+- codice penale, art. 569
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 117
+- convenzione ONU diritti del fanciullo, 20/11/1999, art. 3, comma 1
+- Carta dei diritti fondamentali U.E., art. 24, comma 2
+- Costituzione, art. 2
+- Costituzione, art. 29
+- Costituzione, art. 30
