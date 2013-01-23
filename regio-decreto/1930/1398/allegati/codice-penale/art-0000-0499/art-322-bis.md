@@ -1,6 +1,6 @@
 Art. 322-bis.
 
-(Peculato, concussione, ((induzione indebita a dare o promettere utilita',)) corruzione e istigazione alla corruzione di membri degli organi delle Comunita' europee e di funzionari delle Comunita' europee e di Stati esteri).
+(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione di membri ((della Corte penale internazionale o)) degli organi delle Comunita' europee e di funzionari delle Comunita' europee e di Stati esteri).
 
 Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comma, si applicano anche:
 
@@ -12,9 +12,11 @@ Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comm
 
 4) ai membri e agli addetti a enti costituiti sulla base dei Trattati che istituiscono le Comunita' europee;
 
-5) a coloro che, nell'ambito di altri Stati membri dell'Unione europea, svolgono funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio.
+5) a coloro che, nell'ambito di altri Stati membri dell'Unione europea, svolgono funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio;
 
-Le disposizioni degli articoli ((319-quater, secondo comma,)) 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso:
+((5-bis) ai giudici, al procuratore, ai procuratori aggiunti, ai funzionari e agli agenti della Corte penale internazionale, alle persone comandate dagli Stati parte del Trattato istitutivo della Corte penale internazionale le quali esercitino funzioni corrispondenti a quelle dei funzionari o agenti della Corte stessa, ai membri ed agli addetti a enti costituiti sulla base del Trattato istitutivo della Corte penale internazionale)).
+
+Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso:
 
 1) alle persone indicate nel primo comma del presente articolo;
 
