@@ -1,0 +1,27 @@
+# Massima n. 36961
+
+- Pronuncia: Corte costituzionale, sentenza 40/2013 (ECLI:IT:COST:2013:40)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:40
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Straniero - Prestazioni sociali e assistenziali a contenuto economico - Stranieri extracomunitari legalmente soggiornanti nel territorio dello Stato - Concessione della indennità di accompagnamento e della pensione di inabilità - Subordinazione al requisito della titolarità della carta di soggiorno, ora permesso di soggiorno CE per soggiornanti di lungo periodo - Violazione del principio di non discriminazione e dei valori di solidarietà -  Illegittimità costituzionale  in parte qua .
+
+## Testo
+
+Dichiarazione di illegittimità costituzionale dell'articolo 80, comma 19, della legge 23 dicembre 2000, n. 388, nella parte in cui subordina al requisito della titolarità della carta di soggiorno la concessione agli stranieri legalmente soggiornanti nel territorio dello Stato della indennità di accompagnamento di cui all'art. 1 della legge 11 febbraio 1980, n. 18 (Indennità di accompagnamento agli invalidi civili totalmente inabili) e della pensione di inabilità di cui all'art. 12 della legge 30 marzo 1971, n. 118 (Conversione in legge del decreto-legge 30 gennaio 1971, n. 5 e nuove norme in favore di mutilati ed invalidi civili). La suddetta disposizione - restringendo fortemente l'ambito di applicazione dell'art. 41 del d.lgs. n. 286 del 1998, in materia di prestazioni sociali ed assistenziali in favore degli extracomunitari - ha subordinato la concessione delle provvidenze costituenti diritti soggettivi in base alla legislazione vigente in materia di servizi sociali alla titolarità della carta di soggiorno, poi sostituita, a far data dal 2007, con il permesso di soggiorno CE per soggiornanti di lungo periodo. Tale disposizione è stata più volte esaminata da questa Corte anche in riferimento agli istituti della pensione di inabilità (sentenza n. 11 del 2009 e sentenza n. 324 del 2006) e della indennità di accompagnamento (sentenza n. 306 del 2008), vale a dire le stesse provvidenze qui in discorso. In tali occasioni, la Corte rilevò come fosse manifestamente irragionevole subordinare l'attribuzione di prestazioni assistenziali (che presupponevano uno stato di invalidità e disabilità) al possesso di un titolo di legittimazione alla permanenza nel territorio dello Stato che richiede, per il suo rilascio, tra l'altro, la titolarità di un determinato reddito, mentre non venne preso in considerazione il requisito - sul quale la Corte è chiamata a pronunciarsi nel presente giudizio - del possesso, da almeno cinque anni, di un permesso di soggiorno in corso di validità (del pari richiesto per il conseguimento del suddetto titolo di soggiorno). La previsione di quest'ultimo requisito è stata, invece, scrutinata con riferimento ad altre provvidenze, cioè per l'assegno mensile di invalidità, di cui all'art. 13 della legge n. 118 del 1971 (nella sentenza n. 187 del 2010) e per l'indennità di frequenza di cui all'art. 1 della legge 11 ottobre 1990, n. 289 (nella sentenza n. 329 del 2011). In entrambe tali occasioni, nel dichiarare l'illegittimità costituzionale della normativa denunciata, la Corte, in particolare, rilevò che - ove si tratti, come nei casi allora delibati, di provvidenze destinate al sostentamento della persona nonché alla salvaguardia di condizioni di vita accettabili per il contesto familiare in cui il disabile si trova inserito - qualsiasi discrimine fra cittadini e stranieri legalmente soggiornanti nel territorio dello Stato, fondato su requisiti diversi da quelli previsti per la generalità dei soggetti, finisce per risultare in contrasto con il principio di non discriminazione di cui all'art. 14 della CEDU, avuto riguardo alla interpretazione rigorosa che di tale norma è stata offerta dalla giurisprudenza della Corte europea. Identico ordine di rilievi deve essere evocato - seppure  mutatis mutandis  - anche nell'attuale scrutinio, avuto riguardo alla natura ed alla  ratio  delle provvidenze qui in considerazione. Infatti, anche in questo caso si tratta di provvidenze rivolte a soggetti in gravi condizioni di salute, portatori di handicap fortemente invalidanti (in uno dei due giudizi  a quibus  si tratta addirittura di un minore), la cui attribuzione comporta il coinvolgimento una serie di valori di essenziale risalto tutti di rilievo costituzionale e contemplati dai parametri evocati, tra cui spicca l'art. 2 della Costituzione. Tali valori - al lume, anche, delle diverse convenzioni internazionali che parimenti li presidiano - rendono priva di giustificazione la previsione di un regime restrittivo ( ratione temporis , così come  ratione census ) nei confronti di cittadini extracomunitari, legalmente soggiornanti nel territorio dello Stato da tempo apprezzabile ed in modo non episodico, come nei casi di specie.
+
+## Norme
+
+- legge, 23/12/2000 n. 388, art. 80, comma 19
+
+## Parametri
+
+- Costituzione, art. 117, comma 1
+- Costituzione, art. 2
+- Costituzione, art. 3
+- Costituzione, art. 32
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 14
+- Costituzione, art. 29
+- Costituzione, art. 38
