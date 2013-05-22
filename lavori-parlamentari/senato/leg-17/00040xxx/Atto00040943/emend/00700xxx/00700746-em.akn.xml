@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/298-B/A/G2.1"/>
+					<an:FRBRdate date="2013-05-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@"/>
+					<an:FRBRdate date="2013-05-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@.akn"/>
+					<an:FRBRdate date="2013-05-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-05-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-05-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/298-B/A/G2.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/298-B" showAs="DDL 298-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/476" showAs="Cardiello"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/27647" showAs="D'Anna"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22558" showAs="Iurlaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29120" showAs="Longo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 298-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Cardiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">D'Anna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Iurlaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">
+					            considerata la deroga alla normativa vigente prevista all'articolo 2, comma 2-
+					<an:i>bis</an:i>
+					,
+				</an:p>
+				<an:p align="justify">        invita il Governo a:</an:p>
+				<an:p align="justify">            ricondurre la sperimentazione nell'ambito delle patologie iscritte all'elenco malattie rare elencate al Regolamento di cui al decreto del Ministro della Sanità 18 maggio 2001, n. 279;</an:p>
+				<an:p align="justify">
+					            rendere possibile la sperimentazione in conformità alle linee guida di cui all'articolo 5 del Regolamento (CE) n. 1394/2007 nelle strutture GMP delle 
+					<an:i>cell factory</an:i>
+					 conformi alla programmazione della regione Veneto, e ai relativi finanziamenti già stanziati, le cui istanze, presentate da anni, non hanno mai avuto risposta dall'AIFA;
+				</an:p>
+				<an:p align="justify">
+					            rendere possibile, parallelamente alla procedura di sperimentazione, l'utilizzo dei trattamenti, nelle strutture pubbliche, ai sensi del decreto legislativo 6 novembre 2007 n. 191 e in coerenza con quanto previsto dalla lettera 
+					<an:i>G)</an:i>
+					 dell'Accordo Stato-Regioni del 14 febbraio 2002, ai fini della risposta che lo Stato italiano deve alle drammatiche esigenze di cura che i cittadini richiedono.
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Aggiungono la firma in corso di seduta i senatori Bitonci, Bellot, Bisinella, Munerato, Stefani e Panizza.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
