@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/C/7.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/C/7.9"/>
+					<an:FRBRdate date="2013-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/662/C/7.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@"/>
+					<an:FRBRdate date="2013-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@.akn"/>
+					<an:FRBRdate date="2013-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-05-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-05-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/662/C/7.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/662" showAs="DDL 662"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29085" showAs="Del Barba"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29111" showAs="Guerrieri Paleotti"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29113" showAs="Lai"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/28924" showAs="Verducci"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29054" showAs="Broglia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 662</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Del Barba</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Guerrieri Paleotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Lai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Verducci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Broglia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. All'articolo 9, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e successive modifiche e integrazioni, il comma 3-
+					<an:i>bis</an:i>
+					 è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					            ''3-
+					<an:i>bis</an:i>
+					. Su istanza del creditore di somme dovute per somministrazioni, forniture e appalti, le amministrazioni centrali, le regioni, gli enti locali, gli enti del Servizio sanitario nazionale certificano, nel rispetto delle disposizioni normative vigenti in materia di patto di stabilità interno, entro il termine di trenta giorni dalla data di ricezione dell'istanza, se il relativo credito sia certo, liquido ed esigibile, anche al fine di consentire al creditore la cessione pro soluto o pro solvendo a favore di banche o intermediari finanziari riconosciuti dalla legislazione vigente; la certificazione viene rilasciata anche in relazione ai debiti fuori bilancio. Scaduto il predetto termine, su nuova istanza del creditore, è nominato un Commissario 
+					<an:i>ad acta</an:i>
+					, con oneri a carico dell'ente debitore. La nomina è effettuata dall'Ufficio centrale del bilancio competente per le certificazioni di pertinenza delle amministrazioni statali centrali e degli enti pubblici nazionali, o dalla Ragioneria territoriale dello Stato competente per territorio per le certificazioni di pertinenza delle amministrazioni statali periferiche, delle regioni, degli enti locali e degli enti del Servizio sanitario nazionale. La cessione dei crediti certificati avviene ai sensi dell'articolo 117 del decreto legislativo 12 aprile 2006, n. 163, ovvero, nel caso delle cessioni effettuate attraverso la piattaforma elettronica di cui all'articolo 4 del decreto del Ministro dell'Economia e delle Finanze del 25 giugno 2012, come modificato dal decreto del Ministro dell'economia e delle finanze 19 ottobre 2012, con scrittura privata nel rispetto di quanto previsto dall'articolo 38, comma 3, del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 e con comunicazione della notifica all'amministrazione ceduta effettuata attraverso la suddetta piattaforma. Le cessioni dei crediti certificati sono efficaci e opponibili nei confronti delle amministrazioni cedute qualora queste non le rifiutino entro 7 giorni dalla ricezione della loro comunicazione mediante la suddetta piattaforma elettronica. Resta ferma l'efficacia liberatoria dei pagamenti eseguiti dal debitore ceduto, si applicano gli articoli 5, comma 1, e 7, comma 1, della legge 21 febbraio 1991, n. 52.''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
