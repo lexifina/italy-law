@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/A/G1.401/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/A/G1.401"/>
+					<an:FRBRdate date="2013-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/662/A/G1.401/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.401"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@"/>
+					<an:FRBRdate date="2013-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@.akn"/>
+					<an:FRBRdate date="2013-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/662/A/G1.401/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/662" showAs="DDL 662"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29091" showAs="Endrizzi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29046" showAs="Bertorotta"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 662</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.401</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Endrizzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bertorotta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di conversione del decreto-legge n. 35 del 2013 recante disposizioni urgenti per il pagamento dei debiti scaduti della pubblica amministrazione, per il riequilibrio finanziario degli enti territoriali, nonché norme in materia di versamento dei tributi degli enti locali;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            il provvedimento in esame provvede a dare una boccata di ossigeno alle imprese, prevedendo che nel corso degli anni, 2013 e 2014, vengano assegnate risorse alle imprese creditrici per un importo pari a 40 miliardi di euro, affrontando altresì il tema della certificazione, e quindi i relativi passaggi procedurali e burocratici;</an:p>
+				<an:p align="justify">            risulta evidente come questi 40 miliardi non sono sufficienti, anche se rappresentano certamente un primo passo rispetto ad una risposta giusta, legittima, necessaria da dare alle imprese, oggi più che mai in sofferenza;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">
+					            a provvedere con altrettanti provvedimenti di urgenza a coprire la totalità dei debiti pregressi della PA (che in base alle ultime stime prudenziali di Banca d'Italia ammonterebbe a circa 90 miliardi) sfruttando interamente, ovvero con un 
+					<an:i>plafond</an:i>
+					 più ampio, l'apertura arrivata dall'Unione europea che, ai fini del rispetto dei criteri di 
+					<an:i>deficit</an:i>
+					 e debito del Patto di stabilità, considererà questa operazione tra i «fattori attenuanti».
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
