@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/A/G10.401/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/A/G10.401"/>
+					<an:FRBRdate date="2013-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/662/A/G10.401/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10.401"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@"/>
+					<an:FRBRdate date="2013-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@.akn"/>
+					<an:FRBRdate date="2013-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/662/A/G10.401/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/662" showAs="DDL 662"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25386" showAs="Torrisi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 662</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10.401</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Torrisi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            moltissimi Comuni italiani si trovano in stato di dissesto finanziario a causa di debiti contratti dalle loro amministrazioni negli anni precedenti;</an:p>
+				<an:p align="justify">            il decreto appena approvato ha escluso che detti Comuni possano accedere a questa fondo istituito presso la Cassa depositi e prestiti a titolo di anticipazione di liquidità da destinare ai pagamenti certi ed esigibili degli enti locali per debiti antecedenti alla dichiarazione di dissesto;</an:p>
+				<an:p align="justify">            tale norma ha escluso ai Comuni dissestati la possibilità di accedere a questa anticipazione di liquidità che in tal modo verrebbero lasciati soli ad affrontare i pagamenti di debiti contratti in passato magari da amministrazioni diverse da quelle che attualmente si trovano a governare questi enti ma che ne pagano le conseguenze;</an:p>
+				<an:p align="justify">            la problematica assume maggiore gravita in merito alla vicenda dei lavoratori precari che prestano servizio in questi Comuni e che rischiano di ritrovarsi senza occupazione e, quindi, reddito a causa dei divieti posti negli anni alle Amministrazioni locali per le note difficoltà di bilancio, sia statale che locale;</an:p>
+				<an:p align="justify">            a nostro giudizio un intervento a tutela di queste amministrazioni deve essere previsto in tempi brevi da parte del Governo sia a tutela dei creditori dei Comuni che a tutela delle amministrazioni stesse per agevolarne un più efficace e celere uscita dallo stato di dissesto;</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            ad attivarsi affinchè anche i comuni in dissesto finanziario possano accedere al fondo per assicurare liquidità per pagare i debiti certi ed esigibili maturati prima della dichiarazione del dissesto finanziario;</an:p>
+				<an:p align="justify">            ad attivarsi affinchè venga ricercata una soluzione alla problematica dei precari della Pubblica amministrazione nazionale e regionale.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
