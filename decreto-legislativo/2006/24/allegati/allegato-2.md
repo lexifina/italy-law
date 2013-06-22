@@ -1,0 +1,33 @@
+((ALLEGATO 2
+
+(Articolo 1, comma 5)
+
+PIANTA ORGANICA PER LA CORTE SUPREMA DI CASSAZIONE
+
++-------------------------------------------------+------------------+
+
+| Funzione | Organico |
+
++-------------------------------------------------+------------------+
+
+|Primo Presidente della Corte di cassazione | 1 |
+
++-------------------------------------------------+------------------+
+
+|Presidente aggiunto della Corte di cassazione | 1 |
+
++--------------------------------------------------------------------+
+
+|Presidente di sezione della Corte di cassazione | 54 |
+
++-------------------------------------------------+------------------+
+
+|Consigliere della Corte di cassazione | 303 |
+
++-------------------------------------------------+------------------+
+
+|Magistrato di tribunale destinato all'ufficio | |
+
+|del massimario e del ruolo | 67 |
+
+|-------------------------------------------------+------------------+))
