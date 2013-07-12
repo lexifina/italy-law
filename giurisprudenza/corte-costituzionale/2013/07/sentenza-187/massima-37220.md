@@ -1,0 +1,27 @@
+# Massima n. 37220
+
+- Pronuncia: Corte costituzionale, sentenza 187/2013 (ECLI:IT:COST:2013:187)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:187
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Appalti pubblici - Norme della Provincia di Trento - Lavori pubblici di interesse provinciale - Determinazione degli schemi-tipo di bandi delle gare di appalto - Attribuzione alla competenza della Giunta provinciale, previo parere del Consiglio delle autonomie locali, sulla base di bandi-tipo approvati dall'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture - Preclusione per il legislatore provinciale ad intervenire in un ambito materiale che non tollera, per esigenze unitarie, deroghe alla normativa statale di derivazione comunitaria - Violazione della competenza legislativa statale esclusiva nella materia della tutela della concorrenza - Esorbitanza dai limiti posti dallo statuto -  Illegittimità costituzionale  - Assorbimento degli ulteriori profili di censura.
+
+## Testo
+
+E' costituzionalmente illegittimo, per violazione degli artt. 4 e 8 dello statuto della Regione Trentino Alto-Adige e 117, secondo comma, lettera  e ), Cost., l'art. 30, comma 3- bis , della legge della Provincia autonoma di Trento 10 settembre 1993, n. 26 (introdotto dall'art. 16, comma 1, lett. a) della legge provinciale n. 18 del 2012 e modificato dall'art. 68, comma 1, lett.  a ), della legge provinciale n. 25 del 2012, che demanda alla Giunta provinciale, previo parere del Consiglio delle autonomie locali, l'adozione di schemi-tipo di bandi, di inviti a presentare offerte e di altri atti necessari per svolgere le procedure di scelta del contraente, sulla base di bandi-tipo approvati dall'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture». L'art. 64, comma 4- bis , del d.lgs. n. 163 del 2006 (Codice dei contratti pubblici) attribuisce all'Autorità per la vigilanza sui contratti pubblici di lavori, servizi e forniture il compito di approvare i "bandi-tipo", previo parere del Ministero delle infrastrutture e dei trasporti e sentite le categorie professionali interessate. Il bando-tipo costituisce pertanto lo schema di riferimento e detta criteri univoci ai fini della redazione del bando di gara: in questo senso, è stato definito dall'Autorità per la vigilanza sui contratti pubblici come «quadro giuridico di riferimento sulla base del quale le stazioni appaltanti sono tenute a redigere la documentazione di gara». Ne consegue la preclusione per il legislatore provinciale, ancorché dotato di autonomia speciale, ad intervenire in tale ambito materiale riconducibile alla «tutela della concorrenza» In questa prospettiva, il rapporto tra le funzioni dell'Autorità di vigilanza nell'approvazione dei bandi-tipo e l'obbligo di adeguamento delle stazioni appaltanti risponde ad esigenze unitarie, che non tollerano alcun margine di discrezionalità "intermedio" riservato alla Giunta provinciale: il legislatore provinciale risulta pertanto privo del titolo competenziale ad intervenire in  subiecta materia . Quanto al rapporto tra il riparto di competenze legislative tra Stato ed enti territoriali e le funzioni svolte dalle Autorità di regolazione, queste ultime sono funzionali a garantire la tutela e la promozione della concorrenza e la realizzazione di mercati concorrenziali. In tale contesto, in specifico riferimento ai bandi-tipo approvati dalle Autorità, la Corte ha affermato che, fermo restando il residuo margine di discrezionalità delle amministrazioni nell'elaborazione in dettaglio dei bandi delle gare, le Autorità stesse sono competenti a stabilirne i criteri fondamentali di redazione, senza che l'esercizio delle loro funzioni possa produrre alcun tipo di alterazione dei criteri costituzionali di riparto delle competenze legislative e amministrative tra Stato, Regioni ed enti locali, costituendone anzi presupposto e supporto. L'adeguamento della disciplina provinciale alla norma interposta invocata nel presente giudizio non è previsto soltanto «sulla base» - come asserisce la difesa provinciale e come dispone la norma impugnata - ma con riguardo al complesso dei puntuali e articolati criteri previsti nei bandi-tipo adottati dall'Autorità, permanendo comunque la facoltà delle stazioni appaltanti, nella delibera a contrarre, di motivare espressamente in ordine ad eventuali deroghe. Queste ultime rimangono pur sempre ammissibili tanto per le stazioni appaltanti delle amministrazioni statali, quanto per quelle regionali e per quelle degli enti territoriali dotati di autonomia speciale, sorrette dalle peculiari condizioni dello statuto di autonomia (gli uleriori profili di censura rimangono assorbiti).
+
+## Norme
+
+- legge della Provincia autonoma di Trento, 10/09/1993 n. 26, art. 30, comma 3 bis
+- legge della Provincia autonoma di Trento, 03/08/2012 n. 18, art. 16, comma 1 lett. a)
+- legge della Provincia autonoma di Trento, 27/12/2012 n. 25, art. 68, comma 1 lett. a)
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. e)
+- statuto regione Trentino Alto Adige, art. 4
+- statuto regione Trentino Alto Adige, art. 8
+- decreto legislativo, 12/04/2006 n. 163, art. 64, comma 4 bis
+- Costituzione, art. 117, comma 2 lett. l)
