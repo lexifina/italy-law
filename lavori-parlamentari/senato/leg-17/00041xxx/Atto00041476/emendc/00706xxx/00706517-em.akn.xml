@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/890/C/7.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/890/C/7.104"/>
+					<an:FRBRdate date="2013-07-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/890/C/7.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.104"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@"/>
+					<an:FRBRdate date="2013-07-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@.akn"/>
+					<an:FRBRdate date="2013-07-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-07-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-07-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/890/C/7.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/890" showAs="DDL 890"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 11° riunite" href="/dati.senato.it/osr/Commissione/90"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 890</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 5, dopo la lettera</an:i>
+					 b), 
+					<an:i>inserire la seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «b-
+					<an:i>bis)</an:i>
+					 all'articolo 2, il comma 31, è sostituito con il seguente:
+				</an:p>
+				<an:p>        ''31. Nei casi di interruzione di un rapporto di lavoro a tempo indeterminato per le causali che, indipendentemente dal requisito contributivo, darebbero diritto all'ASpl, intervenuti a decorrere dal 1º gennaio 2013, è dovuta, a carico del datore di lavoro, una somma pari al 41 per cento del massimale mensile di ASpl per ogni dodici mesi di anzianità aziendale negli ultimi tre anni. Tale somma è da riproporzionare nei casi di rapporti a tempo parziale in base al rapporto tra le ore pattuite e l'orario normale di lavoro a tempo pieno. Nel computo dell'anzianità aziendale sono compresi i periodi di lavoro con contratto diverso da quello a tempo indeterminato, se il rapporto è proseguito senza soluzione di continuità o se comunque si è dato luogo alla restituzione di cui al comma 30''».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
