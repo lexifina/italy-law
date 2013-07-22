@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/890/C/01.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/890/C/01.1"/>
+					<an:FRBRdate date="2013-07-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/890/C/01.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="01.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@"/>
+					<an:FRBRdate date="2013-07-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@.akn"/>
+					<an:FRBRdate date="2013-07-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-07-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-07-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/890/C/01.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/890" showAs="DDL 890"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 11° riunite" href="/dati.senato.it/osr/Commissione/90"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/2132" showAs="Sacconi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/1662" showAs="Mussolini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29152" showAs="Pagano"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29212" showAs="Piccinelli"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25207" showAs="Serafini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 890</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 01.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Sacconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Mussolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Pagano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Piccinelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al Capo l, prima dell'articolo 1, premettere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 01.</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Misure straordinarie per l'occupazione in occasione di Expo 2015)</an:i>
+				</an:p>
+				<an:p>        1. Le disposizioni di cui al presente articolo contengono misure di carattere eccezionale e temporaneo finalizzate a cogliere le straordinarie opportunità occupazionali per l'Italia derivanti dalla iniziativa dell'Expo 2015 di Milano.</an:p>
+				<an:p>        2. Fino al 31 dicembre 2015 è possibile in tutto il territorio nazionale:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 l'assunzione di lavoratori con contratto a termine tramite rinvio alla specifica causale ''Expo 2015'' in deroga ai requisiti soggettivi o oggettivi previsti dall'articolo 1, commi 1 e 1-
+					<an:i>bis</an:i>
+					, nonché alle disposizioni di cui agli articoli 4 e 5 del decreto legislativo 6 settembre 2001, n. 368;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 l'assunzione di lavoratori intermittenti, di qualsiasi età, in deroga ai requisiti soggettivi o oggettivi di cui all'articolo 34, commi 1 e 2, del decreto legislativo 10 settembre 2003, n. 276;
+				</an:p>
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 l'utilizzazione della somministrazione di lavoro a tempo determinato in deroga ai limiti quantitativi di cui all'articolo 20, comma 4, del decreto legislativo 10 settembre 2003, n. 276;
+				</an:p>
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 l'elevazione ad euro 5.000 del limite di euro 2.000 di compensi per lavoro accessorio prestato nei confronti di committenti imprenditori commerciali o professionisti, di cui all'articolo 70, comma 1, del decreto legislativo 10 settembre 2003, n. 276. L'operatività della misura di cui alla presente lettera è in ogni caso subordinata alla prioritaria adozione del decreto ministeriale di cui all'articolo 72, comma 4, ultimo periodo, del citato decreto legislativo n. 276 del 2003;
+				</an:p>
+				<an:p>
+					            
+					<an:i>e)</an:i>
+					 la stipulazione di contratti di collaborazione coordinata e continuativa con individuazione del progetto di cui all'articolo 61 del decreto legislativo 10 settembre 2003, n. 276, tramite rinvio alla specifica causale ''Expo 2015'';
+				</an:p>
+				<an:p>
+					            
+					<an:i>f)</an:i>
+					 il ricorso al telelavoro in deroga all'articolo 4 della legge 20 maggio 1970, n. 300, fermo restando che i controlli a distanza dei lavoratori non possono superare il cinquanta percento della prestazione contrattuale giornaliera e che, là dove attivati, devono risultare palesi al lavoratore interessato, e dunque non possono essere effettuati con modalità occulte per il lavoratore destinatario dei controlli stessi. Le modalità di controllo devono comunque risultare proporzionate all'obiettivo perseguito, nel pieno rispetto del decreto legislativo 9 aprile 2008, n. 81 di recepimento della direttiva 90/270/CEE relativa ai videoterminali e delle norme sulla protezione dei dati personali.
+				</an:p>
+				<an:p>        3. I contratti attivati ai sensi del presente articolo sono oggetto di specifica attività di valutazione e monitoraggio ai sensi delle pertinenti disposizioni di cui all'articolo 1 della legge 28 giugno 2012, n. 92».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
