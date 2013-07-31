@@ -1,0 +1,33 @@
+Articolo 3
+
+DEFINIZIONI GENERALI
+
+1. Ai fini della presente Convenzione, a meno che il contesto non richieda una diversa interpretazione:
+
+a) il termine "Italia" designa la Repubblica italiana
+
+b) il termine "San Marino" designa la Repubblica di San Marino;
+
+c) le espressioni "uno Stato contraente" e "l'altro Stato contraente" designano, come il contesto richiede, San Marino o l'Italia;
+
+d) il termine "persona" comprende una persona fisica, una societa' ed ogni altra associazione di persone;
+
+e) il termine "societa'" designa qualsiasi persona giuridica o qualsiasi ente che e' considerato persona giuridica ai fini dell'imposizione;
+
+f) le espressioni "impresa di uno Stato contraente" e "impresa dell'altro Stato contraente" designano rispettivamente un'impresa esercitata da un residente di uno Stato contraente e un'impresa esercitata da un residente dell'altro Stato contraente;
+
+g) l'espressione "traffico internazionale" designa qualsiasi attivita' di trasporto effettuato per mezzo di una nave o di un aeromobile da parte di un'impresa la cui sede di direzione effettiva e' situata in uno Stato contraente, ad eccezione del caso in cui la nave o l'aeromobile sia utilizzato esclusivamente tra localita' situate nell'altro Stato contraente;
+
+h) il termine "nazionali" designa:
+
+(i) le persone fisiche che hanno la nazionalita' di uno Stato contraente;
+
+(ii) le persone giuridiche, le societa' di persone, e le associazioni costituite in conformita' della legislazione in vigore in uno Stato contraente;
+
+i) l'espressione "autorita' competente" designa:
+
+(i) per quanto concerne l'Italia, il Ministero dell'Economia e delle Finanze;
+
+(ii) per quanto concerne San Marino, la Segreteria di Stato per le Finanze.
+
+2. Per l'applicazione della Convenzione da parte di uno Stato contraente in qualsiasi momento, le espressioni ivi non definite hanno il significato che ad esse e' in quel momento attribuito dalla legislazione di detto Stato relativa alle imposte alle quali si applica la Convenzione, a meno che il contesto non richieda una diversa interpretazione.
