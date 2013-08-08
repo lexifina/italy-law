@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/G5.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/G5.13"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/974/A/G5.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.13"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@.akn"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-08-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-08-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/974/A/G5.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/974" showAs="DDL 974"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/29084" showAs="De Pin"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/29104" showAs="Gambaro"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 974</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">De Pin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Gambaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di discussione dell'articolo 5,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            lo scambio sul posto è uno strumento disciplinato dalla Delibera ARG/elt74/08 che fino ad oggi ha garantito il diffondersi della cosiddetta "generazione distribuita" e cioè i piccoli impianti a fonte rinnovabile a copertura delle esigenze energetiche di singole famiglie e imprese;</an:p>
+				<an:p align="justify">            l'energia prodotta dall'impianto viene direttamente utilizzata dal proprietario "scambiando" il valore dell'energia in eccesso immessa nella rete elettrica con quella prelevata quando l'impianto non produce;</an:p>
+				<an:p align="justify">            si rende necessario innalzare la soglia di potenza degli impianti per i quali è consentito lo scambio sul posto, così da favorire una estensione dei benefici del sistema anche agli impianti più grandi che non possono più accedere agli incentivi pubblici in Conto energia e che sono comunque rivolti a coprire i consumi di un soggetto pubblico o privato;</an:p>
+				<an:p align="justify">            attualmente per accedere allo SSP è necessaria la coincidenza fisica tra il punto di immissione dell'energia rinnovabile prodotta dall'impianto con quello di prelievo dalla rete del soggetto titolare dello stesso e ciò non per ragioni di tipo tecnico ma solo per mancanza di previsione normativa;</an:p>
+				<an:p align="justify">            tali circostanze hanno enormemente limitato la diffusione degli impianti rinnovabili volti a soddisfare le esigenze proprie a causa delle difficoltà tecniche di costruire il proprio impianto rinnovabile sul tetto della propria casa o azienda,</an:p>
+				<an:p align="justify">        impegna il Governo ad intervenire, entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto-legge, con adeguati strumenti normativi che impongano all'Autorità per l'energia elettrica e il gas di predisporre, con urgenza, un provvedimento di riforma della disciplina del servizio di scambio sul posto dell'energia elettrica prodotta da impianti alimentati da fonti rinnovabili basato sui seguenti principi:</an:p>
+				<an:p align="justify">            a) innalzamento della soglia massima per l'accesso al servizio fino a 5 MW di potenza;</an:p>
+				<an:p align="justify">            b) esclusione dell'obbligo di coincidenza fisica tra i punti di immissione e di prelievo per tutti gli utenti che si avvalgono del servizio in conto scambio, tenuto conto degli oneri di dispacciamento, trasmissione, distribuzione e gestione della rete elettrica.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
