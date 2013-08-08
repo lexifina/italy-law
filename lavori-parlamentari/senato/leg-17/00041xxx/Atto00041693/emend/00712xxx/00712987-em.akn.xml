@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/41.27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/41.27"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/974/A/41.27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="41.27"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@.akn"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-08-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-08-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/974/A/41.27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/974" showAs="DDL 974"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29104" showAs="Gambaro"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29084" showAs="De Pin"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 974</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 41.27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gambaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">De Pin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 7-quater, aggiungere i seguenti:</an:p>
+				<an:p align="justify">
+					        «7-
+					<an:i>quinquies.</an:i>
+					 Al comma 17, articolo 6, del decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, i primi quattro periodi, sono sostituiti dai seguenti:
+				</an:p>
+				<an:p align="justify">        "17. Ai fini di tutela dell'ambiente e dell'ecosistema, all'interno del perimetro delle aree marine e costiere a qualsiasi titolo protette per scopi di tutela ambientale, in virtù di leggi nazionali, regionali o in attuazione di atti e convenzioni dell'Unione europea e internazionali sono vietate le attività di ricerca, di prospezione nonché di coltivazione di idrocarburi liquidi e gassosi in mare, di cui agli articoli 4, 6 e 9 della legge 9 gennaio 1991, n. 9. Il divieto è altresì stabilito nelle zone di mare poste entro le dodici miglia dalle linee di base delle acque territoriali lungo l'intero perimetro costiero nazionale e dal perimetro esterno delle suddette aree marine e costiere protette. Le disposizioni del presente comma si applicano anche per i procedimenti concessori di cui ai citati articoli 4, 6 e 9 della legge 9 gennaio 1991, 11. 9, e successive modificazioni, in corso alla data di entrata in vigore del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, e ai procedimenti autorizzatori e concessori conseguenti e connessi, nonché all'efficacia dei titoli abilitativi già rilasciati alla medesima data, anche ai fini dell'esecuzione delle attività di ricerca, di sviluppo e di coltivazione da autorizzare nell'ambito dei titoli stessi, delle relative proroghe e dei procedimenti autorizzatori e concessori conseguenti e connessi.</an:p>
+				<an:p align="justify">        Le predette attività sono autorizzate previa sottoposizione alla procedura di valutazione di impatto ambientale di cui agli articoli 21 e seguenti del presente decreto, sentito il parere degli enti locali posti in un raggio di dodici miglia dalle aree marine e costiere interessate dalle attività di cui al presente comma.</an:p>
+				<an:p align="justify">
+					        7-
+					<an:i>sexies.</an:i>
+					 L'articolo 35 del decreto legge 22 giugno 2012, n. 83, convertito con modificazioni dalla legge 7 agosto 2012, n. 134, è abrogato"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
