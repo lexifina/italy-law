@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1014/A/G7.18/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1014/A/G7.18"/>
+					<an:FRBRdate date="2013-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1014/A/G7.18/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.18"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@"/>
+					<an:FRBRdate date="2013-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@.akn"/>
+					<an:FRBRdate date="2013-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-09-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-09-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1014/A/G7.18/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1014" showAs="DDL 1014"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/2214" showAs="Scavone"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/17704" showAs="Mauro"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/29049" showAs="Bilardi"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/29073" showAs="Compagnone"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/29165" showAs="Puglisi"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/29087" showAs="Di Giorgi"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/29116" showAs="Lepri"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1014</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.18</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Scavone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Mauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Bilardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Compagnone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Puglisi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Di Giorgi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Lepri</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            vista l'importanza che il comparto della musica dal vivo ha acquisito nel campo delle produzioni artistiche, giovanili e non, sia per quanto riguarda la valenza economica e occupazionale, sia per quello che riguarda lo sviluppo delle capacità artistiche e creative del nostro Paese, è necessario introdurre una misura di semplificazione amministrativa e di incentivo economico (di circa 15-200 euro a concerto), senza oneri per lo Stato, rivolta agli organizzatori di eventi musicali di piccole dimensioni fra cui molto spesso, direttamente o indirettamente, figurano i Comuni;</an:p>
+				<an:p align="justify">            considerato che occorre tenere presente che, per le modalità attuali di ripartizione dei proventi Siae, quelli relativi ai piccoli concerti non sono ripartiti fra gli effettivi aventi diritto ma inseriti in una macro voce che viene utilizzata per le spese di finanziamento e per una ripartizione a campione,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'introduzione di misure che prevedano che gli eventi musicali, teatrali e gli spettacoli dal vivo gratuiti con un numero di spettatori effettivi inferiore a 200 sono esentati dal pagamento del diritto d'autore, ai sensi legge 22 aprile 1941 n. 633, e da tutti gli adempimenti relativi.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
