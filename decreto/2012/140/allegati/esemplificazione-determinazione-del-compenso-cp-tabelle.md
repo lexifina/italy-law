@@ -1,0 +1,3 @@
+Esemplificazione determinazione del compenso CP
+
+Parte di provvedimento in formato grafico
