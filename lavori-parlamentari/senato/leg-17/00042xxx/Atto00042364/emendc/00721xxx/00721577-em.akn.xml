@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6"/>
+					<an:FRBRdate date="2013-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1120/1/6"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@"/>
+					<an:FRBRdate date="2013-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@.akn"/>
+					<an:FRBRdate date="2013-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/1/6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29099" showAs="Fornaro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29105" showAs="Giacobbe"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29144" showAs="Moscardelli"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29162" showAs="Pezzopane"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29167" showAs="Ricchiuti"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22794" showAs="Turano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1120/1/6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Fornaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Giacobbe</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Moscardelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Pezzopane</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Ricchiuti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Turano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					La 6
+					<an:sup>a</an:sup>
+					 Commissione permanente,
+				</an:p>
+				<an:p>        in sede di esame del disegno di legge recante disposizioni per la formazione del bilancio annuale e pluriennale delle Stato (legge di stabilita 2014),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'Irap, l'imposta regionale sulle attività produttive, è stata istituita nell'ambito della riforma della finanza locale con il decreto legislativo del 15 dicembre 1997, n. 446, ed entrata in vigore nel 1998 andando a sostituire una serie di altre imposte vigenti;</an:p>
+				<an:p>            l'imposta, andando a colpire il reddito al lordo del costo del personale, grava in particolar modo su imprese ad alta intensità di manodopera riducendone la redditività; tuttavia l'Irap svolge la sua funzione sociale finanziando il 40 per cento della spesa sanitaria italiana;</an:p>
+				<an:p>            in presenza di una perdita di esercizio, l'imposta rischia di aggravare ulteriormente le condizioni economiche delle imprese e di rallentare la ripresa;</an:p>
+				<an:p>            l'Irap ha inciso in maniera più pesante sulle imprese di più piccole dimensioni che, in larga misura, erano esonerate dal pagamento del principale tributo che l'imposta regionale sulle attività produttive e andata a sostituire, ovvero l'Ilor;</an:p>
+				<an:p>            proprio nell'ottica delia riduzione delia pressione fiscale, volta alla ripresa economica del Paese, appare prioritario intervenire sull'Irap relativa alla componente lavoro applicata alle imprese di più piccole dimensioni;</an:p>
+				<an:p>            in una fase congiunturale come quella cui stiamo vivendo, sarebbe auspicabile intervenire in tale ambito almeno con un innalzamento della deduzione forfettaria dell'Irap,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di provvedere quanta prima ad adottare iniziative normative volte ad innalzare il tetto di deduzione forfetaria dell'Irap applicabile alle imprese di più piccole dimensioni.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
