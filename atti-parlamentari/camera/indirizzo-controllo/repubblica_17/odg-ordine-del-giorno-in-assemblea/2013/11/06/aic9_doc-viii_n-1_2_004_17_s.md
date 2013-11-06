@@ -1,0 +1,69 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.1-2/004 presentata da SANTANGELO VINCENZO (MOVIMENTO 5 STELLE) in data 06/11/2013
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.1-2/004
+- Data: 20131106
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.1-2/004 presentata da SANTANGELO VINCENZO (MOVIMENTO 5 STELLE) in data 06/11/2013
+- Presentatore: SANTANGELO VINCENZO (MOVIMENTO 5 STELLE)
+- Cofirmatario: AIROLA ALBERTO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BATTISTA LORENZO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BENCINI ALESSANDRA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BERTOROTTA ORNELLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BIGNAMI LAURA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BLUNDO ROSETTA ENZA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BOCCHINO FABRIZIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BUCCARELLA MAURIZIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BULGARELLI ELISA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CALDEROLI ROBERTO (LEGA NORD E AUTONOMIE)
+- Cofirmatario: CAMPANELLA FRANCESCO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CAPPELLETTI ENRICO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CASALETTO MONICA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CASTALDI GIANLUCA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CATALFO NUNZIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CIAMPOLILLO LELLO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CIOFFI ANDREA (MOVIMENTO 5 STELLE)
+- Cofirmatario: COTTI ROBERTO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CRIMI VITO CLAUDIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: DE PIETRO CRISTINA (MOVIMENTO 5 STELLE)
+- Cofirmatario: DONNO DANIELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: ENDRIZZI GIOVANNI (MOVIMENTO 5 STELLE)
+- Cofirmatario: FATTORI ELENA (MOVIMENTO 5 STELLE)
+- Cofirmatario: FAZZONE CLAUDIO (IL POPOLO DELLA LIBERTA')
+- Cofirmatario: FUCKSIA SERENELLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: GAETTI LUIGI (MOVIMENTO 5 STELLE)
+- Cofirmatario: GIARRUSSO MARIO MICHELE (MOVIMENTO 5 STELLE)
+- Cofirmatario: GIROTTO GIANNI PIETRO (MOVIMENTO 5 STELLE)
+- Cofirmatario: LEZZI BARBARA (MOVIMENTO 5 STELLE)
+- Cofirmatario: LUCIDI STEFANO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MANGILI GIOVANNA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MARTELLI CARLO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MARTON BRUNO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MOLINARI FRANCESCO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MONTEVECCHI MICHELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MORONESE VILMA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MORRA NICOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MUSSINI MARIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MUSSOLINI ALESSANDRA (IL POPOLO DELLA LIBERTA')
+- Cofirmatario: NUGNES PAOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: ORELLANA LUIS ALBERTO (MOVIMENTO 5 STELLE)
+- Cofirmatario: PAGLINI SARA (MOVIMENTO 5 STELLE)
+- Cofirmatario: PALMA NITTO FRANCESCO (IL POPOLO DELLA LIBERTA')
+- Cofirmatario: PEPE BARTOLOMEO (MOVIMENTO 5 STELLE)
+- Cofirmatario: PETROCELLI VITO ROSARIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: PUGLIA SERGIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: ROMANI MAURIZIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SCIBONA MARCO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SERRA MANUELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: SIMEONI IVANA (MOVIMENTO 5 STELLE)
+- Cofirmatario: TAVERNA PAOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: VACCIANO GIUSEPPE (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/2799
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=senato&stile=9&idDocumento=9/DOC.VIII,N.1-2/004
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.1_2_004_17_S
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Senato Ordine del Giorno  9/DOC.VIII,N.1-2/4 presentato da VINCENZO SANTANGELO mercoledì 6 novembre 2013, seduta n. 135 Il Senato, valutato il progetto di bilancio interno per il 2013; premesso che: l'opera di razionalizzazione dei costi delle istituzioni (centrali e periferiche) non solo si rivela urgente sotto il profilo strettamente "contabile", ma si rende assolutamente necessaria per tentare di riavvicinare i cittadini alle istituzioni, conformandole all'andamento della vita economica del Paese; i costi abnormi delle nostre istituzioni democratiche e rappresentative, oltre a incidere pesantemente sulla struttura della spesa pubblica, costituiscono un fattore decisivo di blocco del "sistema Italia", della sua competitività interna e della sua capacità di attrarre investimenti esterni; considerato che: ai sensi dell'articolo 1, comma 1, della delibera del Consiglio di Presidenza n. 106 del 2011, per ogni assenza giornaliera dalle sedute di Assemblea viene operata una ritenuta corrispondente ad un quindicesimo dell'ammontare complessivo della parte variabile della diaria; ai sensi del predetto articolo 1, comma 2, è considerato assente ai fini della ritenuta il Senatore che non abbia fatto constatare la propria presenza almeno nel 30 per cento dei rilevamenti; il comma 5 del citato articolo 1 esclude, tra gli altri, dal summenzionato rilevamento, i Senatori a vita che, pertanto, percepiscono l'interezza della parte variabile della diaria, indipendentemente dalle assenze dalle votazioni in Assemblea; valutate le presenze totali dei cinque senatori a vita alle votazioni dell'Assemblea nel corso della legislatura corrente; considerato che l'art, 1, comma 2, del Regolamento del Senato dispone che: "I Senatori hanno il dovere di partecipare alle sedute dell'Assemblea e ai lavori delle Commissioni"; impegna, per quanto di rispettiva competenza, il Collegio dei Senatori Questori e il Consiglio di Presidenza a voler provvedere alla modifica della delibera del Consiglio di Presidenza n. 106 del 2011, nel senso di includere i senatori a vita nell'ambito applicativo dell'art. 1, commi 1 e 2, di detta delibera. (numerazione resoconto Senato G4) (9/Doc. VIII, n. 1-2/4) SANTANGELO, CASALETTO, BERTOROTTA, TAVERNA, AIROLA, BATTISTA, BENCINI, BIGNAMI, BLUNDO, BOCCHINO, BUCCARELLA, BULGARELLI, CAMPANELLA, CAPPELLETTI, CASTALDI, CATALFO, CIAMPOLILLO, CIOFFI, COTTI, CRIMI, DE PIETRO, DONNO, ENDRIZZI, FATTORI, FUCKSIA, GAETTI, GIARRUSSO, GIROTTO, LEZZI, LUCIDI, MANGILI, MARTELLI, MARTON, MOLINARI, MONTEVECCHI, MORONESE, MORRA, MUSSINI, NUGNES, ORELLANA, PAGLINI, PEPE, PETROCELLI, PUGLIA, ROMANI MAURIZIO, SCIBONA, SERRA, SIMEONI, VACCIANO
