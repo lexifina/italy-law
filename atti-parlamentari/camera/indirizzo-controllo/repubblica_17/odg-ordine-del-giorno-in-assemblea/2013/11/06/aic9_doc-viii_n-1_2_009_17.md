@@ -1,0 +1,64 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.1-2/009 presentata da BATTISTA LORENZO (MOVIMENTO 5 STELLE) in data 06/11/2013
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.1-2/009
+- Data: 20131106
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.1-2/009 presentata da BATTISTA LORENZO (MOVIMENTO 5 STELLE) in data 06/11/2013
+- Presentatore: BATTISTA LORENZO (MOVIMENTO 5 STELLE)
+- Cofirmatario: AIROLA ALBERTO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BENCINI ALESSANDRA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BERTOROTTA ORNELLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BIGNAMI LAURA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BLUNDO ROSETTA ENZA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BOCCHINO FABRIZIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BUCCARELLA MAURIZIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: BULGARELLI ELISA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CAMPANELLA FRANCESCO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CAPPELLETTI ENRICO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CASALETTO MONICA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CASTALDI GIANLUCA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CATALFO NUNZIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CIAMPOLILLO LELLO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CIOFFI ANDREA (MOVIMENTO 5 STELLE)
+- Cofirmatario: COTTI ROBERTO (MOVIMENTO 5 STELLE)
+- Cofirmatario: CRIMI VITO CLAUDIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: DE PIETRO CRISTINA (MOVIMENTO 5 STELLE)
+- Cofirmatario: DONNO DANIELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: ENDRIZZI GIOVANNI (MOVIMENTO 5 STELLE)
+- Cofirmatario: FATTORI ELENA (MOVIMENTO 5 STELLE)
+- Cofirmatario: FUCKSIA SERENELLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: GAETTI LUIGI (MOVIMENTO 5 STELLE)
+- Cofirmatario: GIARRUSSO MARIO MICHELE (MOVIMENTO 5 STELLE)
+- Cofirmatario: GIROTTO GIANNI PIETRO (MOVIMENTO 5 STELLE)
+- Cofirmatario: LEZZI BARBARA (MOVIMENTO 5 STELLE)
+- Cofirmatario: LUCIDI STEFANO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MANGILI GIOVANNA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MARTELLI CARLO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MARTON BRUNO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MOLINARI FRANCESCO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MONTEVECCHI MICHELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MORONESE VILMA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MORRA NICOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MUSSINI MARIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: NUGNES PAOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: ORELLANA LUIS ALBERTO (MOVIMENTO 5 STELLE)
+- Cofirmatario: PAGLINI SARA (MOVIMENTO 5 STELLE)
+- Cofirmatario: PEPE BARTOLOMEO (MOVIMENTO 5 STELLE)
+- Cofirmatario: PETROCELLI VITO ROSARIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: PUGLIA SERGIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: ROMANI MAURIZIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SANTANGELO VINCENZO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SCIBONA MARCO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SERRA MANUELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: SIMEONI IVANA (MOVIMENTO 5 STELLE)
+- Cofirmatario: TAVERNA PAOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: VACCIANO GIUSEPPE (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=CAMERA&stile=9&idDocumento=9-DOC.VIII,N.1-2-009
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.1_2_009_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Senato Ordine del Giorno  9/DOC.VIII,N.1-2/9 presentato da LORENZO BATTISTA mercoledì 6 novembre 2013, seduta n. 135 Il Senato, valutato il progetto di bilancio interno per il 2013, premesso che: l'attività dei senatori richiede supporto, assistenza e collaborazione da parte di figure professionali qualificate e di alto livello; le somme in favore dei collaboratori parlamentari sono, di fatto, ricomprese nelle dotazioni dei "rimborsi forfettari per mantenere il rapporto fra eletto ed elettore" e assegnate al singolo parlamentare per il tramite del gruppo di appartenenza; da molti anni si discute della necessità di regolarizzare tali rapporti di lavoro per superare l'attuale regime che lascia alla totale discrezionalità del singolo parlamentare la gestione dei relativi compensi; il perdurare dell'assenza di una regolamentazione in tale ambito rischia di generare il paradosso del venir meno di tutti quegli elementi di certezza dei diritti e delle tutele, previsti dalla legislazione vigente in materia di lavoro, proprio nella più autorevole delle sedi istituzionali, quali le due Camere; risolvere il problema del riconoscimento della figura professionale del collaboratore parlamentare, sotto il profilo giuridico ed economico, mediante la modifica degli attuali criteri di assegnazione dei fondi per i loro compensi, in favore di contratti certi e trasparenti - come già avviene per il Parlamento europeo - contribuirebbe anche a ricondurre ad un'effettiva determinazione lo stipendio dei parlamentari, dal quale verrebbero sottratte le somme da destinare obbligatoriamente ai compensi dei collaboratori, impegna, per le rispettive competenze, il Consiglio di Presidenza ed il Collegio dei Questori ad estendere ai collaboratori parlamentari le modalità retributive attualmente previste per i collaboratori dei componenti del Consiglio di presidenza e dei Presidenti di commissione, ossia il versamento diretto da parte dell'amministrazione del Senato della Repubblica dei compensi stabiliti in favore dei collaboratori stessi, previa trattenuta di pari importo dal rimborso delle spese per lo svolgimento del mandato parlamentare. (numerazione resoconto Senato G9) (9/Doc. VIII, n. 1-2/9) BATTISTA, SANTANGELO, CASALETTO, BERTOROTTA, TAVERNA, AIROLA, BENCINI, BIGNAMI, BLUNDO, BOCCHINO, BUCCARELLA, BULGARELLI, CAMPANELLA, CAPPELLETTI, CASTALDI, CATALFO, CIAMPOLILLO, CIOFFI, COTTI, CRIMI, DE PIETRO, DONNO, ENDRIZZI, FATTORI, FUCKSIA, GAETTI, GIARRUSSO, GIROTTO, LEZZI, LUCIDI, MANGILI, MARTELLI, MARTON, MOLINARI, MONTEVECCHI, MORONESE, MORRA, MUSSINI, NUGNES, ORELLANA, PAGLINI, PEPE, PETROCELLI, PUGLIA, ROMANI MAURIZIO, SCIBONA, SERRA, SIMEONI, VACCIANO
