@@ -1,0 +1,72 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.2/054 presentata da CHAOUKI KHALID (PARTITO DEMOCRATICO) in data 06/11/2013
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.2/054
+- Data: 20131106
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.2/054 presentata da CHAOUKI KHALID (PARTITO DEMOCRATICO) in data 06/11/2013
+- Presentatore: CHAOUKI KHALID (PARTITO DEMOCRATICO)
+- Cofirmatario: AMENDOLA VINCENZO (PARTITO DEMOCRATICO)
+- Cofirmatario: ARLOTTI TIZIANO (PARTITO DEMOCRATICO)
+- Cofirmatario: BOLOGNESI PAOLO (PARTITO DEMOCRATICO)
+- Cofirmatario: BONOMO FRANCESCA (PARTITO DEMOCRATICO)
+- Cofirmatario: BORGHI ENRICO (PARTITO DEMOCRATICO)
+- Cofirmatario: BRAGA CHIARA (PARTITO DEMOCRATICO)
+- Cofirmatario: CARNEVALI ELENA (PARTITO DEMOCRATICO)
+- Cofirmatario: CARUSO MARIO (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: CASELLATO FLORIANA (PARTITO DEMOCRATICO)
+- Cofirmatario: CASSANO FRANCO (PARTITO DEMOCRATICO)
+- Cofirmatario: CIMBRO ELEONORA (PARTITO DEMOCRATICO)
+- Cofirmatario: COSTANTINO CELESTE (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: CRIVELLARI DIEGO (PARTITO DEMOCRATICO)
+- Cofirmatario: D'INCECCO VITTORIA (PARTITO DEMOCRATICO)
+- Cofirmatario: FAVA CLAUDIO (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: FERRARI ALAN (PARTITO DEMOCRATICO)
+- Cofirmatario: FITZGERALD NISSOLI FUCSIA (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: GALLI GIAMPAOLO (PARTITO DEMOCRATICO)
+- Cofirmatario: GARAVINI LAURA (PARTITO DEMOCRATICO)
+- Cofirmatario: GIULIANI FABRIZIA (PARTITO DEMOCRATICO)
+- Cofirmatario: GNECCHI MARIALUISA (PARTITO DEMOCRATICO)
+- Cofirmatario: GRASSI GERO (PARTITO DEMOCRATICO)
+- Cofirmatario: GREGORI MONICA (PARTITO DEMOCRATICO)
+- Cofirmatario: LACQUANITI LUIGI (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: MADIA MARIA ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: MANZI IRENE (PARTITO DEMOCRATICO)
+- Cofirmatario: MARAZZITI MARIO (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: MARRONI UMBERTO (PARTITO DEMOCRATICO)
+- Cofirmatario: MATTIELLO DAVIDE (PARTITO DEMOCRATICO)
+- Cofirmatario: MELILLI FABIO (PARTITO DEMOCRATICO)
+- Cofirmatario: MICCOLI MARCO (PARTITO DEMOCRATICO)
+- Cofirmatario: MOSCATT ANTONINO (PARTITO DEMOCRATICO)
+- Cofirmatario: OLIARO ROBERTA (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: PALAZZOTTO ERASMO (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: PALMA GIOVANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: PORTA FABIO (PARTITO DEMOCRATICO)
+- Cofirmatario: QUARTAPELLE PROCOPIO LIA (PARTITO DEMOCRATICO)
+- Cofirmatario: REALACCI ERMETE (PARTITO DEMOCRATICO)
+- Cofirmatario: ROSSI DOMENICO (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: ROSTAN MICHELA (PARTITO DEMOCRATICO)
+- Cofirmatario: ROTTA ALESSIA (PARTITO DEMOCRATICO)
+- Cofirmatario: SBROLLINI DANIELA (PARTITO DEMOCRATICO)
+- Cofirmatario: SCALFAROTTO IVAN (PARTITO DEMOCRATICO)
+- Cofirmatario: SCUVERA CHIARA (PARTITO DEMOCRATICO)
+- Cofirmatario: TENTORI VERONICA (PARTITO DEMOCRATICO)
+- Cofirmatario: TERROSI ALESSANDRA (PARTITO DEMOCRATICO)
+- Cofirmatario: TIDEI MARIETTA (PARTITO DEMOCRATICO)
+- Cofirmatario: VENTRICELLI LILIANA (PARTITO DEMOCRATICO)
+- Cofirmatario: VILLECCO CALIPARI ROSA MARIA (PARTITO DEMOCRATICO)
+- Cofirmatario: ZANIN GIORGIO (PARTITO DEMOCRATICO)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/166
+- Argomento: http://eurovoc.europa.eu/2246
+- Argomento: http://eurovoc.europa.eu/3273
+- Argomento: http://eurovoc.europa.eu/3522
+- Argomento: http://eurovoc.europa.eu/4273
+- Argomento: http://eurovoc.europa.eu/5940
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.2/054
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.2_054_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 2/054 presentato da CHAOUKI Khalid testo di Mercoledì 6 novembre 2013, seduta n. 112 La Camera, premesso che: nelle scorse legislature gli organi competenti di Camera e Senato hanno provveduto a dettare alcune disposizioni relative a rapporti che intercorrono tra Parlamentari e i loro Collaboratori; tali misure, sebbene importanti, non sono risultate in grado di colmare l'enorme vuoto regolamentare nei confronti della figura del Collaboratore parlamentare. Ad oggi, infatti, non esiste una voce di bilancio specifica e vincolata riferita ai Collaboratori; non vi è alcun tipo di modello contrattuale al quale il parlamentare possa fare riferimento, non vi è alcuna relazione fra l'incarico ricoperto, il numero di ore lavorate e la retribuzione, non vi è alcuna chiarezza sul dovere di versamento di tasse, contributi e non vi è alcun elemento di trasparenza; sebbene vi sia l'obbligo da parte del parlamentare di depositare presso gli uffici competenti il contratto del proprio Collaboratore, permane il ricorso diffuso a contratti di lavoro atipici, in particolare partite iva e collaborazioni a progetti, nonostante il rapporto di lavoro abbia, molto spesso, le caratteristiche del rapporto di lavoro subordinato; con l'intento di meglio definire la figura del Collaboratore, nella XVI legislatura venne approvato dalla Camera dei deputati e trasmesso al Senato il 4 ottobre 2012 la proposta di legge C.n.5382, concernente la disciplina del rapporto di lavoro tra i membri del Parlamento ed i loro Collaboratori; tuttavia, la fine anticipata della legislatura non permise la sua discussione ed eventuale approvazione da parte del Senato; la mancata regolamentazione, in particolare sotto un profilo qualitativo, della figura del Collaboratore parlamentare, lascia quindi il rapporto di lavoro alla sola ed unica contrattazione fra parlamentare e Collaboratore con il rischio (come ampiamente rilevato dai media) di produrre distorsioni e irregolarità nel rapporto di lavoro; in molti paesi europei la figura del Collaboratore parlamentare è stata negli anni riconosciuta e maggiormente definita. Tale riconoscimento ha permesso la creazione di una chiara e trasparente disciplina della materia nella quale sono esplicitate le diverse configurazioni del rapporto di lavoro, i tetti finanziari e numero massimo di Collaboratori, il responsabile dell'erogazione della retribuzione, la disciplina per la stipulazione del contratto, eventuali requisiti e incompatibilità; oltre alla disciplina delle modalità di svolgimento e risoluzione del rapporto di lavoro, della garanzie del lavoratore e la disciplina su assistenza e previdenza; il Parlamento Europeo il 28 settembre 2005 ha adottato lo «Statuto dei deputati del Parlamento europeo» (2005/684/CE, Euratom), che all'articolo 21 reca le seguenti disposizioni in materia di assistenti dei parlamentari: i deputati hanno diritto ad essere assistiti da Collaboratori personali da loro liberamente scelti; il Parlamento copre le spese effettivamente sostenute per l'impiego degli assistenti; il Parlamento fissa le condizioni per l'esercizio di questo diritto; inoltre, con una decisione dell'Ufficio di Presidenza del Parlamento europeo del 19 maggio 2008 (GUCE C 159 del 13 luglio 2008, p. 1) sono state adottate le Misure di attuazione dello Statuto, il cui Capitolo 5 è dedicato ai Collaboratori personali dei deputati; (http://eur-lex.europa.eu/LexUriServ/LexUriServ.do?uri=OJ:L: 2005:262:0001:0010:IT:PDF) ; l'Assemblea Nazionale francese già nel 1975 (decreto n.65 del 15 novembre 1975 dell'Ufficio di Presidenza dell'Assemblea Nazionale modificato successivamente nel 1997) disciplina la possibilità per i deputati di reclutare dei Collaboratori, per assisterli nell'esercizio del loro mandato. Il Senato francese, invece, nel 1976 (decreto dell'Ufficio di Presidenza del Senato n.73 del 29 giugno 1976 modificato nel 1996) ha introdotto ufficialmente la figura del Collaboratore parlamentare; (http://www.assemblee-nationale.fr/connaissance/fiches-svnthese/septembre 2012/fiche_82.asp) ; (http://www.senat.fr/role/senateurs_info/moyens_senateurs.html) ; anche in Spagna la figura del Collaboratore parlamentare è stata disciplinata. All'articolo 2 dello Statuto del Personale delle Cortes Generales, approvato con l'Accordo del 27 marzo 2006, adottato in seduta congiunta dagli Uffici di Presidenza del Congresso dei Deputati e del Senato; (http://noticias.juridicas.com/base _datos/Admin/a270306-cg.html#dt3) ; in Gran Bretagna ad ogni membro della Camera dei Comuni è assegnata, per le spese relative ai compensi destinati ai Collaboratori, una specifica indennità (Staffing Costs Allowance) . Essa è stata introdotta con l'approvazione, nella seduta del 5 luglio del 2001, di una mozione di recepimento delle raccomandazioni contenute nel Rapporto n.48 del 2001 del Senior Salaries Review Body (SSRB), un organismo consultivo indipendente costituito per monitorare le spese per le remunerazioni di funzionari pubblici e di cariche dello Stato e che produce, periodicamente, un rapporto sulla retribuzione e le indennità dei membri del Parlamento. La materia è stata parzialmente modificata nel 2009 attraverso la trasformazione dell'indennità di Staffing Allowance in quella di Staffing Expenditure La voce Staffing expenditure riguarda le seguenti spese: stipendi dei Collaboratori; contributi per l'Assicurazione nazionale e per la previdenza dei Collaboratori; pagamenti per le risorse dello staff nel suo complesso; spese per acquisti di servizio per lo staff ; spese per gli straordinari dei Collaboratori; spese di assistenza ai figli dei Collaboratori; costi di welfare associati all'impiego dei Collaboratori (malattia, maternità, ecc.); spese per le certificazioni di buona salute; costi connessi ai tirocini secondo gli standards del National Apprenticeship Service; spese occasionali per i volontari ed interns . (http://parliamentarvstandards.org.uk/Pages/default.aspx) , invita, per le rispettive competenze, l'Ufficio di Presidenza e il Collegio dei Questori a valutare l'opportunità di: disciplinare tempestivamente, in maniera completa e organica il rapporto fra Deputato e Collaboratore tenuto conto delle esigenze di bilancio della Camera dei deputati e avvalendosi delle soluzioni individuate dai principali paesi europei e dal Parlamento Europeo; creare una voce di bilancio vincolata e riservata esclusivamente a quei parlamentari che intendono avvalersi di Collaboratori; individuare forme di pubblicità delle retribuzioni dei soggetti in questione, secondo modalità analoghe a quelle previste per i dipendenti della Camera. 9/Doc. VIII, n.2/ 54 . (Testo modificato nel corso della seduta)   Chaouki , Fava , Marazziti , Amendola , Arlotti , Bolognesi , Bonomo , Borghi , Braga , Carnevali , Caruso , Casellato , Cassano , Cimbro , Crivellari , D'Incecco , Ferrari , Giampaolo Galli , Garavini , Giuliani , Gnecchi , Grassi , Gregori , Lacquaniti , Madia , Manzi , Marroni , Mattiello , Melilli , Miccoli , Moscatt , Fitzgerald Nissoli , Oliaro , Palazzotto , Palma , Quartapelle Procopio , Realacci , Domenico Rossi , Rostan , Rotta , Sbrollini , Scalfarotto , Scuvera , Tentori , Terrosi , Tidei , Ventricelli , Villecco Calipari , Zanin , Costantino , Porta .
