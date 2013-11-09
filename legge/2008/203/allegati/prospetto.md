@@ -1,0 +1,3 @@
+PROSPETTO DI COPERTURA
+
+Parte di provvedimento in formato grafico
