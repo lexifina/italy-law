@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5"/>
+					<an:FRBRdate date="2013-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1120/87/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@"/>
+					<an:FRBRdate date="2013-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@.akn"/>
+					<an:FRBRdate date="2013-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/87/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25531" showAs="Comaroli"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25556" showAs="Bitonci"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1120/87/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Comaroli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bitonci</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2014)»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            la legge di stabilità per il 2014 prevede, all'articolo 6, disposizioni in materia di determinazione del valore della produzione netta delle banche e di altri enti e società finanziarie, modificando in particolare le disposizioni vigenti relative alle annualità nelle quali è possibile contabilizzare le perdite derivanti da rettifiche su crediti e da perdite su crediti;</an:p>
+				<an:p>            con tali disposizioni il Governo riconosce che agendo sulla leva fiscale relativamente al settore bancario si ottengono effetti importanti anche sulla attività del settore e si può favorire o al contrario penalizzare la possibilità per il settore industriale di ottenere credito;</an:p>
+				<an:p>            più in generale la crisi economico-finanziaria che ha investito i mercati di tutto il mondo ha aperto la discussione sulla patrimonializzazione degli istituti di credito e sugli eccessivi livelli di rischio che questi ultimi assumono; il crac di Lehman Brothers ha fatto drammaticamente emergere l'abuso della leva finanziaria da parte degli istituti di credito e il problema della qualità degli strumenti finanziari detenuti dalle banche stesse; i 613 miliardi di dollari di debito dell'istituto americano hanno portato all'avvio del procedimento fallimentare e, dopo il caso Lehman; altri colossi legati al credito e alla finanza immobiliare quali Fannie Mae e Freddie Mac sono stati salvati dall'intervento del tesoro statunitense;</an:p>
+				<an:p>            alla crisi finanziaria si sono aggiunti, in Europa, gli effetti della crisi dei debiti sovrani che ha colpito diversi Stati. Sicuramente gli effetti della crisi del sistema finanziario avrebbero potuto essere più contenuti se il principio della separazione tra banche commerciali e banche d'affari fosse stato in vigore;</an:p>
+				<an:p>            il sistema produttivo è la principale vittima del modello di «banca universale» e della crisi finanziaria: il tessuto imprenditoriale costituito in Italia per più del 95 per cento da piccole e medie imprese, ha risentito e continua a risentire del fenomeno del credit crunch, che sta portando alla chiusura di molte imprese che non ricevono dagli istituti di credito il necessario e, in questo periodo, vitale supporto finanziario per il ciclo produttivo. I nuovi accordi europei in tema di patrimonializzazione delle banche, necessari per tentare di ridare stabilità a un sistema finanziario sull'orlo del collasso, stanno costringendo le banche a continue ricapitalizzazioni che, insieme a un sempre più prudenziale approccio degli istituti di credito, sta «strozzando le imprese»;</an:p>
+				<an:p>        impegna il Governo;</an:p>
+				<an:p>            a valutare l'opportunità di agire sulla leva fiscale relativamente al settore bancario al fine di valorizzare il modello di banca tradizionale, che raccoglie depositi dai cittadini ed eroga credito ai cittadini stessi e al sistema produttivo.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
