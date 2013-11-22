@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5"/>
+					<an:FRBRdate date="2013-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1120/36/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@"/>
+					<an:FRBRdate date="2013-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@.akn"/>
+					<an:FRBRdate date="2013-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/36/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29066" showAs="Catalfo"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29044" showAs="Bencini"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29154" showAs="Paglini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29048" showAs="Bignami"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1120/36/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Catalfo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bencini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Paglini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Bignami</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2014)»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            sono circa 200.000 i lavoratori autonomi iscritti alla gestione previdenziale separata dell'INPS (disciplinata all'articolo 2, comma 26, della legge 8 agosto 1995, n.  335);</an:p>
+				<an:p>            i lavoratori autonomi iscritti alla gestione separata INPS sono da sempre una categoria previdenziale residuale rispetto agli iscritti all'assicurazione generale obbligatoria e agli altri lavoratori-autonomi iscritti in altre casse previdenziali;</an:p>
+				<an:p>            molte delle figure professionali rientranti nella summenzionata categoria operano nell'ambito dell'economia della conoscenza (informatici, consulenti, grafici, interpreti), e si contraddistinguono per una elevata professionalità e capacità di innovazione;</an:p>
+				<an:p>            questa categoria di lavoratori, obbligata al versamento nella gestione separata, rappresenta realtà diversificate e contraddistinte da una pervadente precarietà ed è quindi tra quelle maggiormente colpite dalla crisi economica e dai suoi effetti a lungo termine;</an:p>
+				<an:p>            i lavoratori autonomi titolari di partite IVA individuali versano una contribuzione pari al 27,72 per cento del reddito (aliquota modificata dall'articolo 22, comma 1, della legge 183/2011) e che tale aliquota è destinata ad aumentare al 33 per cento progressivamente fino al 2018 in applicazione delle disposizioni contenute nella legge n.  92/2012;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            gli iscritti alla gestione separata sono in maggioranza lavoratori autonomi che percepiscono meno di 30.000 euro l'anno e lavorano con pubbliche amministrazioni e aziende;</an:p>
+				<an:p>            il carico fiscale e contributivo complessivo nei confronti di tali soggetti ammonta a circa il 60 per cento delle loro entrate, rendendo particolarmente gravoso l'ulteriore aumento della contribuzione previdenziale;</an:p>
+				<an:p>            il versamento della contribuzione previdenziale per i lavoratori autonomi iscritti alla gestione separata è demandato interamente al lavoratore stesso, senza diritto di rivalsa obbligatoria da parte del committente;</an:p>
+				<an:p>            il progressivo aumento comporterà ulteriori chiusure di partite IVA causa insostenibilità dei costi in relazione al fatturato;</an:p>
+				<an:p>            un sondaggio svolto dall'Associazione Consulenti del Terziario Avanzato condotto nel 2012 svela che circa un quarto degli interpellati sostiene di non avere un reddito sufficiente a mantenersi, un altro 47,7 per cento di avere un reddito appena sufficiente a sopravvivere e che complessivamente il 27 per cento dichiara di riuscire ad arrivare a fine mese solo grazie al reddito del partner; il 12,8 per cento grazie ai genitori;</an:p>
+				<an:p>            la categoria summenzionata non gode di alcuna forma di ammortizzatori sociali e le relative associazioni di rappresentanza sono di fatto escluse dai tavoli di concertazione;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a impedire l'aumento dell'aliquota contributiva di un punto percentuale previsto dalle disposizioni della legge n.  92 del 2012;</an:p>
+				<an:p>            a riordinare l'intero sistema delle aliquote contributive per la categoria dei lavoratori auto orni iscritti alla gestione separata, in vista di una perequazione con i restanti lavoratori autonomi.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
