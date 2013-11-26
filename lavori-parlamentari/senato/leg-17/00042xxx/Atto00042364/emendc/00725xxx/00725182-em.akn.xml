@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/11.98/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/11.98"/>
+					<an:FRBRdate date="2013-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/11.98/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.98"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@"/>
+					<an:FRBRdate date="2013-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@.akn"/>
+					<an:FRBRdate date="2013-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/11.98/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/20658" showAs="Zanda"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29054" showAs="Broglia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29085" showAs="Del Barba"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29111" showAs="Guerrieri Paleotti"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29113" showAs="Lai"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/2313" showAs="Sposetti"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/28924" showAs="Verducci"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/29195" showAs="Zanoni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.98</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Zanda</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Broglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Del Barba</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Guerrieri Paleotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Lai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Sposetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Verducci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Zanoni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 10, sopprimere le seguenti parole:</an:i>
+					 «, con riserva di assunzioni di 1.000 unità per la Polizia di Stato, di 1.000 unità per l'Arma dei carabinieri e di 600 unità per il Corpo della guardia dì finanza».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					            -  
+					<an:i>dopo il comma 10, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «10-
+					<an:i>bis</an:i>
+					. Oltre a quanto previsto dai comma 10, per le contingenti esigenze connesse ai servizi di prevenzione e di controllo del territorio e di tutela dell'ordine e della sicurezza pubblica in occasione di Expo Milano 2015, nonché per quelle conseguenti alla riduzione dello stanziamento di cui all'articolo 9, comma 8, sono altresì autorizzate assunzioni straordinarie pari a 1.000 unità per la Polizia di Stato, a 1.000 unità per l'Arma dei carabinieri e a 600 unità per il Corpo della guardia di finanza, da destinare prioritariamente ad assunzioni di personale a tempo indeterminato con qualifica iniziale dei ruoli di base, nel limite di un contingente complessivo ad una spesa annua lorda pari a 20 milioni di euro per l'anno 2014 e a 106 milioni di euro a decorrere dall'anno 2015. A tale fine il fondo di cui al comma 10, ultimo periodo, è incrementato di 20 milioni di euro per l'anno 2014 e di 106 milioni di euro a decorrere dall'anno 2015.»;
+				</an:p>
+				<an:p>
+					            -  
+					<an:i>al comma 11, sostituire le parole:</an:i>
+					 «Le assunzioni di cui al comma 10» 
+					<an:i>con le seguenti:</an:i>
+					 «Le assunzioni di cui ai commi 10 e 10-
+					<an:i>bis</an:i>
+					».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, all'articolo 10, comma 37, sostituire le parole:</an:i>
+					 «150 milioni di euro annui a decorrere dall'anno 2014» 
+					<an:i>con i seguenti:</an:i>
+					 «170 milioni di euro annui a decorrere dall'anno 2014 e di 256 milioni a decorrere dall'anno 2015» 
+					<an:i>e all'Elenco n. 1, gli importi relativi alle singole voci sono incrementati in misura proporzionale.</an:i>
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
