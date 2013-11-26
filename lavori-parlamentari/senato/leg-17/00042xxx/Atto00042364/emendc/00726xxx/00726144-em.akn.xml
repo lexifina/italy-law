@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/17.36/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/17.36"/>
+					<an:FRBRdate date="2013-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/17.36/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="17.36"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@"/>
+					<an:FRBRdate date="2013-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@.akn"/>
+					<an:FRBRdate date="2013-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/17.36/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/21507" showAs="Marino"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29170" showAs="Rossi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29099" showAs="Fornaro"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29105" showAs="Giacobbe"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29144" showAs="Moscardelli"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29162" showAs="Pezzopane"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/29167" showAs="Ricchiuti"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/22794" showAs="Turano"/>
+				<an:TLCPerson id="ENC" href="http://dati.senato.it/senatore/29095" showAs="Favero"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 17.36</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Fornaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Giacobbe</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Moscardelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Pezzopane</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Ricchiuti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Turano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENC" as="#tipoSenatore">Favero</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 7 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «7. All'articolo 13 della Tariffa allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 642, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 al comma 2-
+					<an:i>ter,</an:i>
+					 le parole: ''1,5 per mille a decorrere dal 2013'' sono sostituite dalle seguenti: ''1,5 per mille per il 2013 e 2,5 per mille a decorrere dal 2014'';
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 al sesto periodo della nota 3-
+					<an:i>ter,</an:i>
+					 le parole: ''nella misura minima di euro 34,20'' sono sostituite dalle seguenti: '', ferma restando l'esenzione prevista al comma 2-bis, nella misura di euro 10,00 relativamente ai depositi il cui valore medio di giacenza, o nominale o di rimborso presso ciascun intermediario finanziario è inferiore a euro 10.000 e di euro 20,00 relativamente ai depositi il cui valore medio di giacenza, o nominale o di rimborso presso ciascun intermediario finanziario è pari a euro 10.000 e inferiore a euro 20.000, e nella misura massima di euro 34,20 per i depositi pari o superiori a 20.000 euro''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
