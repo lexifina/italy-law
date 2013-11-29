@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/6.165/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/6.165"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/6.165/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.165"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@.akn"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/6.165/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17769" showAs="Ruta"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29175" showAs="Santini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29049" showAs="Bilardi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29073" showAs="Compagnone"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17704" showAs="Mauro"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/2214" showAs="Scavone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.165</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Ruta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Santini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bilardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Compagnone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Mauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Scavone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 7, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «7-
+					<an:i>bis.</an:i>
+					 Al fine di salvaguardare la continuità occupazionale nel settore dei servizi di 
+					<an:i>call center</an:i>
+					, le aziende con sede legale in Italia, che hanno attuato entro le scadenze previste le misure di stabilizzazione dei collaboratori a progetto di cui all'articolo 1, comma 1202, della legge 27 dicembre 2006, n. 296, possono usufruire di un credito di imposta, utilizzabile in compensazione. anche ai fini IVA, di importo pari a 3,5 milioni di euro annui e comunque entro un tetto massimo pari al 33 per cento dei contributi previdenziali pagati nel periodo successivo alla data di entrata in vigore della presente legge, per il personale stabilizzato entro i termini predetti ed ancora in forza alla data del 31 dicembre 2013. Il valore complessivo del credito di imposta non potrà superare comunque il valore di 9 milioni di euro annui, e spetta per un periodo massimo di 5 anni. Ai fini del godimento dell'incentivo, ciascuna azienda interessata autocertifica entro 60 giorni dalla data di entrata in vigore della presente legge, il numero dei dipendenti interessati, mediante l'invio alla sede territorialmente competente dell'Istituto nazionale di previdenza sociale di un elenco delle persone stabilizzate entro i termini ed ancora in forza; l'azienda fornisce, con cadenza mensile, un aggiornamento di tale elenco.
+				</an:p>
+				<an:p>
+					        7-
+					<an:i>ter.</an:i>
+					 Ai maggiori oneri di cui al comma 7-
+					<an:i>bis</an:i>
+					, pari a 9 milioni di euro per l'anno 2014, si provvede mediante la seguente modifica: nella legge 29 dicembre 1990, n. 407, dopo il comma 9 è aggiunto il seguente: "9-
+					<an:i>bis.</an:i>
+					 Gli incentivi di cui al precedente comma non si applicano alle aziende di 
+					<an:i>call center</an:i>
+					 con meno di 50 dipendenti o collaboratori, anche coordinati e continuativi e autonomi"».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, alla Tabella A, voce</an:i>
+					 Ministero dell'economia e delle finanze, 
+					<an:i>apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p>            2014:    -  9.000;</an:p>
+				<an:p>            2015:</an:p>
+				<an:p>            2016:</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
