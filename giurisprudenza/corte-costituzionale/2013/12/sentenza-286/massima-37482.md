@@ -1,0 +1,24 @@
+# Massima n. 37482
+
+- Pronuncia: Corte costituzionale, sentenza 286/2013 (ECLI:IT:COST:2013:286)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:286
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Impiego pubblico - Norme della Regione Liguria - Disciplina delle ferie - Dipendenti che proseguono il loro rapporto di lavoro con forma contrattuale diversa che comporti la cessazione o il collocamento in aspettativa senza assegni per tutta la durata dell'incarico - Prevista possibilità di conversione delle ferie, previa intesa con il dipendente interessato, e con la garanzia dell'invarianza della spesa finale (c.d. monetizzazione) - Regolamentazione di aspetti inerenti al rapporto di lavoro dei lavoratori pubblici in regime contrattualizzato - Violazione della competenza esclusiva statale nella materia dell'ordinamento civile -  Illegittimità costituzionale  - Assorbimento delle ulteriori censure.
+
+## Testo
+
+È costituzionalmente illegittimo - per violazione dell'art. 117, secondo comma, lettera  l ), Cost., con assorbimento di ogni altro profilo di censura - l'art. 8 della legge della Regione Liguria 28 giugno 2011 n. 15. La suddetta disposizione - il cui testo è stato poi sostituito dall'18, comma 1, della legge regionale, n. 38 del 2011 - disciplina il trattamento feriale del personale regionale in occasione della "prosecuzione" del rapporto di lavoro con l'ente territoriale in altra forma giuridica. In particolare, essa regola tutte quelle ipotesi in cui al rapporto di lavoro a tempo indeterminato intercorrente fra il singolo e la Regione si venga a sovrapporre, per effetto del conferimento di incarico e di conseguente collocamento in aspettativa del destinatario, un altro rapporto di lavoro a tempo determinato. In situazioni del genere, potrebbe verificarsi che il singolo lavoratore, già collocato in aspettativa in virtù del conferimento di un incarico a termine, non sia riuscito a fruire dell'intero periodo feriale cui avrebbe avuto diritto, e ciò in relazione alla disciplina riguardante il rapporto di lavoro a tempo determinato instaurato a seguito del predetto incarico prima della sua scadenza ("cessazione"). Oppure, all'opposto, che il dipendente regionale che venga destinato ad altro incarico non abbia goduto di tutte le ferie maturate, fino al momento dell'attribuzione di esso, durante lo svolgimento del precorso rapporto di lavoro a tempo indeterminato ("collocamento in aspettativa senza assegni per tutta la durata dell'incarico"). Per tali evenienze, la norma regionale impugnata istituisce un meccanismo di "conversione", alla stregua del quale - previa intesa con il dipendente interessato e con la garanzia dell'invarianza della spesa finale (c.d. monetizzazione) - le ferie maturate e non fruite nel primo rapporto, ragguagliate al valore di esse nel nuovo regime, sono convertite (ricalcolate) nel numero di giornate che in tal modo ne risulta; così da poter essere godute nel corso dello svolgimento del secondo rapporto. L'istituto delle ferie è parte integrante del trattamento del prestatore di lavoro subordinato, pubblico o privato che sia. Inoltre, per effetto della intervenuta privatizzazione del rapporto di lavoro alle dipendenze delle pubbliche amministrazioni, anche per il personale delle Regioni la materia è regolata dalla legge dello Stato e, in virtù del rinvio da essa operato, dalla contrattazione collettiva. Ne risulta che la Regione Liguria, avendo legiferato in tema di ferie, ha invaso la sfera di esclusiva competenza legislativa dello Stato in materia di «ordinamento civile», di cui al citato art. 117, secondo comma, lettera  l ), Cost. - Per il principio consolidato nella giurisprudenza costituzionale secondo cui la disciplina relativa al trattamento (economico e normativo) dei dipendenti regionali rientra nella materia dell'ordinamento civile, riservata alla competenza esclusiva statale, essendo il rapporto di impiego di tali dipendenti ormai contrattualizzato: sentenze n. 18 del 2013; n. 290, n. 215 e n. 213 del 2012; n. 339 e n. 77 del 2011; n. 324 del 2010. - Per il principio secondo cui le norme regionali contenenti la disciplina del trattamento (economico e normativo) dei dipendenti regionali devono considerarsi lesive della competenza esclusiva statale nella materia dell'ordinamento civile, di cui all'art. 117, secondo comma, lettera  l ), Cost. anche in caso in cui si tratti di norme regionali meramente ripetitive di clausole contrattuali collettive: sentenza n. 7 del 2011.
+
+## Norme
+
+- legge della Regione Liguria, 28/06/2011 n. 15, art. 8
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
+- Costituzione, art. 117, comma 2 lett. l)
+- Costituzione, art. 117, comma 3
