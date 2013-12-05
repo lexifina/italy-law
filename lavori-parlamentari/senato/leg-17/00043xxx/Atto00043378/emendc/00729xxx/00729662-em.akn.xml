@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1190/25/3 e 4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@.akn"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/25/3 e 4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1190" showAs="DDL 1190"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 3° e 4° riunite" href="/dati.senato.it/osr/Commissione/35"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1190</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1190/25/3 e 4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            sono passati quasi quindici anni dall'operazione della NATO, e più di cinque dalla proclamazione d'indipendenza del Kosovo;</an:p>
+				<an:p>            nessuno sembra sapere con esattezza quanti soldi la comunità internazionale abbia speso in un Paese che risulta essere certamente meno problematico di altre regioni, quali l'Afghanistan e l'Iraq;</an:p>
+				<an:p>
+					            la missione civile 
+					<an:i>Eulex</an:i>
+					 si è rivelata la più grande e dispendiosa mai intrapresa nella storia dell'Europa comunitaria, ed è stata resa ancor più complicata dal mancato riconoscimento del nuovo Stato indipendente da parte di cinque Paesi membri;
+				</an:p>
+				<an:p>            nessun dopoguerra moderno è costato così tanti soldi, in proporzione, eppure ancora adesso un kosovaro su tre è costretto a vivere con trenta euro al mese;</an:p>
+				<an:p>
+					            anche la Corte dei conti di Lussemburgo ha deciso recentemente di porre sotto la lente d'ingrandimento tale situazione, finendo col doversi confrontare con uno scenario di stipendi principeschi, risultati quasi nulli, 
+					<an:i>staff</an:i>
+					 in molti casi inadeguati, sterili rivalità con gli Usa, corruzione e connivenza con una classe politica che in gran parte vive di traffici illeciti;
+				</an:p>
+				<an:p>            in un simile scenario, l'Italia ha rimesso in piedi nella zona municipalità e macchina statale, ricostruito ferrovie, vigilato sul crimine, mantenendo tuttora un migliaio di militari e di funzionari, ma non vi è ancora traccia, dopo tutti questi anni, dei contratti promessi, delle aziende chiamate a investire, delle vere opportunità di sviluppo, ovvero del ritorno economico e politico di tutti questi sforzi;</an:p>
+				<an:p>
+					            la proroga di altri tre mesi, fino al 31 dicembre 2013, della nostra partecipazione alla missione 
+					<an:i>Eulex</an:i>
+					, graverebbe sulle casse dello Stato per ulteriori ventidue milioni di euro,
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            a fare un bilancio definitivo della partecipazione italiana alla missione 
+					<an:i>Eulex</an:i>
+					 per permettere l'elaborazione di una nuova strategia di sostegno e supporto alla popolazione kosovara.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
