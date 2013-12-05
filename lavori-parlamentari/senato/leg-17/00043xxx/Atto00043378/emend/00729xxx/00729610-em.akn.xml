@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/A/G5.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/A/G5.100"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1190/A/G5.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@.akn"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1190/A/G5.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1190" showAs="DDL 1190"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1190</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            nel decreto-legge in esame, all'articolo 5, si prevedono «Iniziative di cooperazione allo sviluppo» e, in particolare, al comma 1, «iniziative di cooperazione volte ad assicurare il miglioramento delle condizioni di vita della popolazione e il sostegno alla ricostruzione civile in favore di Afghanistan (...)»;</an:p>
+				<an:p align="justify">            uno dei tre ambiti della dottrina COIN, che risultano essere i pilastri su cui poggiare la transizione completa del potere dalle forze NATO al Governo afgano, riguarda lo sviluppo socio-economico;</an:p>
+				<an:p align="justify">
+					            in merito al suddetto ambito, lo 
+					<an:i>start-up</an:i>
+					 e la prosecuzione delle iniziative volte ad eseguirlo sono state poste in capo ai «
+					<an:i>Provincial Recostruction Teams</an:i>
+					» della NATO;
+				</an:p>
+				<an:p align="justify">            ad oggi, i «PRT» non hanno prodotto i risultati sperati per diversi motivi, intrinseci ed estrinseci alla natura stessa degli stessi «PRT». Da una parte, vi sono oggettive condizioni di insicurezza territoriali che bloccano sensibilmente la commercializzazione delle risorse del Paese e i derivanti investimenti esteri, dall'altra, il far dipendere le componenti militari dei «PRT» dalla missione ISAF, e quindi dalla NATO, ha fatto sì che i presidi fossero dislocati in maniera poco organica su tutto il territorio del Paese, e che fossero inoltre percepiti come obiettivi sensibili e quindi attaccabili in quanto «formazioni militari estere»,</an:p>
+				<an:p align="justify">
+					        impegna il Governo a rilanciare la cooperazione allo sviluppo e ad uscire dall'approccio dei «
+					<an:i>Provincial Recostruction Teams</an:i>
+					», evidentemente poco soddisfacente in base agli obiettivi preposti, sottoponendo altresì gli stessi ad attenta analisi e valutazione da parte del Parlamento italiano, e puntando piuttosto alle organizzazioni di cooperazione internazionale già esistenti.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
