@@ -1,0 +1,21 @@
+# Massima n. 37496
+
+- Pronuncia: Corte costituzionale, ordinanza 296/2013 (ECLI:IT:COST:2013:296)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:296
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Procedimento penale - Adozione da parte del Procuratore della Repubblica presso il Tribunale di Padova, di un provvedimento concernente la sospensione dei termini processuali e sostanziali relativi a procedimento civile - Ricorso per conflitto di attribuzione tra poteri proposto dal Giudice istruttore del Tribunale di Padova - Asserito difetto di  potestas iudicandi  del Pubblico Ministero che non è parte nel procedimento civile - Difetto dei requisiti soggettivo e oggettivo per la proposizione del ricorso - Inammissibilità.
+
+## Testo
+
+È inammissibile, per carenza dei requisiti soggettivo e oggettivo, il ricorso per conflitto di attribuzione tra poteri dello Stato, promosso, in riferimento agli artt. 25, 101, secondo comma e 104 Cost., dal Giudice istruttore del Tribunale di Padova, sezione distaccata di Cittadella, in relazione al provvedimento adottato, dal locale Procuratore della Repubblica, con il quale quest'ultimo, ai sensi dell'art. 20, comma 4, della legge n. 44 del 1999 (Disposizioni concernenti il Fondo di solidarietà per le vittime delle richieste estorsive e dell'usura), accogliendo l'istanza della parte convenuta nel procedimento civile pendente presso l'autorità ricorrente, ha disposto la sospensione dei termini di prescrizione e di quelli perentori, legali e convenzionali, sostanziali e processuali, comportanti decadenze da qualsiasi diritto, azione ed eccezione, relativi al detto procedimento civile. Sotto il profilo soggettivo, il conflitto di attribuzione postula l'appartenenza degli organi o enti in conflitto a poteri diversi, mentre la fattispecie in esame coinvolge organi appartenenti, entrambi, al potere giudiziario, trattandosi di ricorso proposto da un giudice nei confronti del pubblico ministero. Inoltre, il contestato provvedimento di sospensione dei termini, non concernendo l'esercizio dell'azione penale, né attività di indagine ad essa finalizzata, non è espressione di attribuzioni costituzionali riconosciute al pubblico ministero. Quanto al requisito oggettivo, non è configurabile, nella specie, alcuna lesione delle attribuzioni costituzionali del giudice quale conseguenza del denunciato provvedimento. In particolare, il ricorrente, dubitando della legittimità costituzionale di una norma attributiva di un potere specifico al pubblico ministero, avrebbe potuto far valere le censure in oggetto attraverso la proposizione in via incidentale della questione di legittimità costituzionale dell'art. 20, comma 4, della legge n. 44 del 1999 che affida al pubblico ministero il censurato potere di sospensione dei termini processuali.   - Sull'irrilevanza della circostanza che l'atto introduttivo del conflitto abbia la forma dell'ordinanza, purché risponda ai contenuti richiesti dagli artt. 37 della legge n. 87 del 1953 e 24 delle norme integrative per i giudizi davanti alla Corte costituzionale, v. le seguenti citate decisioni: sentenza n. 315/2006, ordinanze nn. 402/2006 e 129/2005.   - Sulla legittimazione degli organi giurisdizionali ad assumere la qualità di parte nei conflitti di attribuzione, v. le citate ordinanze nn. 340/1999, 244/1999, 338/2007 e 87/1978.   - Relativamente alle attribuzioni costituzionali riconosciute al pubblico ministero ai sensi dell'art. 112 Cost., v. le citate sentenze nn. 410/1998, 110/1998, 420/1995 e 463/1993.  - Sull'inammissibilità del conflitto di attribuzione tra poteri dello Stato nei casi in cui esista un giudizio nel quale una determinata norma debba trovare applicazione e, quindi, possa essere sollevata la questione incidentale sulla legge, v.,  ex multis , la citata sentenza n. 284/2006 e le ordinanze nn. 17/2013 e 38/2008.
+
+## Parametri
+
+- Costituzione, art. 25
+- Costituzione, art. 101, comma 2
+- Costituzione, art. 104
+- legge, 11/03/1953 n. 87, art. 37, comma 3
+- legge, 11/03/1953 n. 87, art. 37, comma 4
