@@ -1,0 +1,51 @@
+# Corte costituzionale, ordinanza 294/2013
+
+- ECLI: ECLI:IT:COST:2013:294
+- Tipo: ordinanza
+- Presidente: SILVESTRI
+- Relatore: Giuseppe Tesauro
+- Redattore: Giuseppe Tesauro
+- Data della decisione: 02/12/2013
+- Data del deposito: 06/12/2013
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 37494
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:294
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Gaetano SILVESTRI; Giudici : Luigi MAZZELLA, Sabino CASSESE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Paolo GROSSI, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Sergio MATTARELLA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnei giudizi di legittimità costituzionale dell'art. 18, comma 22-bis del decreto-legge 6 luglio 2011, n. 98 (Disposizioni urgenti per la stabilizzazione finanziaria), convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, come successivamente modificato dall'art. 24, comma 31-bis, del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equità e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214; dell'art. 2, comma 1, del decreto-legge 13 agosto 2011, n. 138 (Ulteriori misure urgenti per la stabilizzazione finanziaria e per lo sviluppo), convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148 e dell'art. 24, comma 25, del decreto-legge 6 dicembre 2011, n. 201, convertito con modificazioni, dalla legge 22 dicembre 2011 n. 214, promossi dalla Corte dei conti, sezione giurisdizionale per la Regione Campania, con ordinanza del 22 febbraio 2013 e dalla Corte dei conti, sezione giurisdizionale per la Regione Umbria, con ordinanza del 28 marzo 2013, iscritte ai nn. 125 e 133 del registro ordinanze 2013 e pubblicate nella Gazzetta Ufficiale  della Repubblica nn. 23 e 24, prima serie speciale, dell'anno 2013.
+ 	Udito nella camera di consiglio del 23 ottobre 2013 il Giudice relatore Giuseppe Tesauro.
+ 	Ritenuto che la Corte dei conti, sezione giurisdizionale per la Regione Campania, in composizione monocratica, con ordinanza del 22 febbraio 2013, iscritta al reg. ord. n. 125 del 2013, ha sollevato, in riferimento agli artt. 2, 3, 53 e 97, primo comma, della Costituzione, questione di legittimità costituzionale dell'articolo 18, comma 22-bis, del decreto-legge 6 luglio 2011, n. 98 (Disposizioni urgenti per la stabilizzazione finanziaria), convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, come successivamente modificato dall'art. 24, comma 31-bis, del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equità e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e dell'art. 24, comma 25, del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge n. 214 del 2011, nonché, in via subordinata, questione di legittimità costituzionale dell'art. 2, comma 1, del decreto-legge 13 agosto 2011, n. 138 (Ulteriori misure urgenti per la stabilizzazione finanziaria e per lo sviluppo), convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, sempre in riferimento agli artt. 2, 3, 53 e 97 della Costituzione.;
+ 	che, il rimettente premette che i ricorrenti - magistrati ordinari in quiescenza - hanno chiesto il riconoscimento del proprio diritto di percepire il trattamento pensionistico ordinario, privo delle decurtazioni introdotte dall'art. 18, comma 22-bis, del d.l. 6 luglio 2011 n. 98, temporaneamente abrogate dal d.l. 13 agosto 2011, n 138 reintrodotte dall'art. 2, comma 1, legge n. 148 del 2011 e confermate dalla legge n. 214 del 2011 nonché la condanna dell'Amministrazione ai conseguenti pagamenti, con rivalutazione monetaria e interessi.;
+ 	che, a giudizio del rimettente, la disposizione impugnata violerebbe gli artt. 2, 3 e 53 della Costituzione, non solo sotto il profilo della sproporzione ed irrazionalità della misura, ma anche specificamente sotto il profilo della disparità di trattamento, in quanto non sarebbero state colpite le altre categorie di pensionati, pur se percettori di elevati trattamenti, e i contribuenti in generale titolari degli stessi redditi;
+ 	che il prelievo in questione, in definitiva, non solo non sembrerebbe idoneo a garantire risparmi di spesa o introiti tali da realizzare significativamente l'obiettivo di stabilizzazione della finanza pubblica, ma si presenterebbe come irrazionale e discriminatorio, essendo diretto a colpire una limitata categoria di soggetti, anziché la collettività nel suo insieme, nel rispetto del principio di proporzionalità, in violazione quindi sia del principio solidaristico, che di quello di uguaglianza e di assoggettamento al prelievo fiscale in proporzione alla capacità retributiva;
+ 	che con riguardo alla previsione di cui all'art. 2, comma 1, del d.l. 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge n. 148 del 2011, il rimettente ritiene che la norma individui decorrenze temporali distinte per le decurtazioni di cui all'art. 9, comma 2, del d.l. n. 98 del 2011 e di cui all'art. 18, comma 22-bis, citato, sicché in via subordinata solleva questione di legittimità costituzionale in riferimento agli artt. 2, 3, 53 e 97, Cost.
+ 	che con ordinanza del 28 marzo 2013, iscritta al reg. ord. n. 133 del 2013, la Corte dei conti, sezione giurisdizionale per la Regione Umbria, nel corso di un giudizio avente analogo oggetto, ha sollevato, in riferimento agli articoli 2, 3 e 53, della Costituzione, questione di legittimità costituzionale dell'art. 18, comma 22-bis, del d.l. n. 98 del 2011, come successivamente modificato dall'art. 24, comma 31-bis, del d.l. n. 201 del 2011, convertito, con modificazioni, dalla legge n. 214 del 2011 - la cui vigenza è stata solo ribadita, senza nulla innovare, dall'art. 2, comma l, del d.l. n. 138 del 2011, convertito, con modificazioni, dalla legge n. 148 del 2011;
+ 	che il rimettente, dopo aver richiamato i principi enucleati nella sentenza di questa Corte n. 223 del 2012, assume che l'impugnato art. 18, comma 22-bis, del d.l. n. 98 del 2011 si pone in contrasto con gli artt. 2, 3 e 53 della Costituzione.
+ 	Considerato che i rimettenti dubitano in primo luogo della legittimità costituzionale dell'art. 18, comma 22-bis, del decreto-legge 6 luglio 2011, n. 98 (Disposizioni urgenti per la stabilizzazione finanziaria), convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, come successivamente modificato dall'articolo 24, comma 31-bis, del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equità e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, e, in via subordinata dell'art. 2, comma 1, del decreto-legge 13 agosto 2011, n. 138 (Ulteriori misure urgenti per la stabilizzazione finanziaria e per lo sviluppo), convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, in riferimento agli articoli 2, 3, 53 e 97, della Costituzione, in relazione agli interventi normativi che riguardano i magistrati ricorrenti nel giudizio a quo;
+ 	che questa Corte, con la sentenza n. 116 del 2013, ha dichiarato l'illegittimità costituzionale dell'art. 18, comma 22-bis, del d.l. n. 98 del 2011, convertito, con modificazioni, dalla legge n. 111 del 2011, come modificato dall'art. 24, comma 31-bis, del d.l. n. 201 del 2011, convertito, con modificazioni, dalla legge n. 214 del 2011;
+ 	che, dunque, con riferimento al citato art. 18, comma 22-bis, la questione va dichiarata manifestamente inammissibile, essendo divenuta priva di oggetto, con assorbimento della questione sollevata in via subordinata, dalla Corte dei conti, sezione giurisdizionale per la Regione Campania, in relazione all'art. 2, comma 1, del d.l. n. 138 del 2011, convertito, con modificazioni, dalla legge n. 148 del 2011;
+ 	che va altresì dichiarata inammissibile la questione di legittimità costituzionale relativa all'art. 24, comma 25 del d.l. n. 201 del 2011, convertito, con modificazioni, dalla legge n. 214 del 2011 per difetto assoluto di motivazione.
+ 	Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, commi 1 e 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ 	riuniti i giudizi,
+ 	dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 18, comma 22-bis, del decreto-legge 6 luglio 2011, n. 98 (Disposizioni urgenti per la stabilizzazione finanziaria), convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, come modificato dall'articolo 24, comma 31-bis, del decreto-legge 6 dicembre 2011, n. 201 (Disposizioni urgenti per la crescita, l'equità e il consolidamento dei conti pubblici), convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214; dell'art. 2 comma 1, del decreto-legge 13 agosto 2011 n. 138 (Ulteriori misure urgenti per la stabilizzazione finanziaria e per lo sviluppo), convertito, con modificazioni, dalla legge 14 settembre 2011 n. 148 e dell'art. 24, comma 25, del d.l. 6 dicembre n. 201 del 2011, convertito, con modificazioni, dalla legge n. 214 del 2011, sollevata dalla Corte dei conti, sezione giurisdizionale per la Regione Campania, con ordinanza del 22 febbraio 2013 (reg. ord. 125 del 2013) e dalla Corte dei conti, sezione giurisdizionale per la Regione Umbria, con ordinanza del 28 marzo 2013 (reg. ord. 133 del 2013), in riferimento agli artt. 2, 3, 53 e 97 Cost.
+ 	Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della consulta, il 2 dicembre 2013.
+ F.to:
+ Gaetano SILVESTRI, Presidente
+ Giuseppe TESAURO, Redattore
+ Gabriella MELATTI, Cancelliere
+ Depositata in Cancelleria il 6 dicembre 2013.
+ Il Direttore della Cancelleria
+ F.to: Gabriella MELATTI
