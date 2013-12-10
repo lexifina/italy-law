@@ -1,0 +1,5 @@
+Art. 17-bis.
+
+((Oneri posti a carico dei soggetti interessati))
+
+((Gli oneri relativi alle autorizzazioni per le forniture, alle certificazioni e ai controlli da eseguire, ai fini dell'attuazione delle disposizioni di cui alla presente legge, sono posti a carico dei soggetti interessati secondo tariffe determinate sulla base del costo effettivo del servizio, quando cio' non risulta in contrasto con la disciplina comunitaria. Le tariffe di cui al presente articolo sono determinate con decreto del Ministro degli affari esteri, di concerto con il Ministro dell'economia e delle finanze. Gli introiti derivanti dal pagamento delle tariffe determinate ai sensi del presente articolo sono versati all'entrata del bilancio dello Stato per essere successivamente riassegnati, nei limiti previsti dalla legislazione vigente, all'autorita' nazionale competente che rilascia autorizzazioni e certificazioni e alle amministrazioni coinvolte in materia di certificazioni e controlli, secondo l'attivita' svolta.))
