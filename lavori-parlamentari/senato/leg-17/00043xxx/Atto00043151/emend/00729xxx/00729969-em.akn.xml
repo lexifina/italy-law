@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1174/A/G1.108/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1174/A/G1.108"/>
+					<an:FRBRdate date="2013-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1174/A/G1.108/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.108"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@"/>
+					<an:FRBRdate date="2013-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@.akn"/>
+					<an:FRBRdate date="2013-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1174/A/G1.108/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1174" showAs="DDL 1174"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29179" showAs="Serra"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29048" showAs="Bignami"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29140" showAs="Montevecchi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29066" showAs="Catalfo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29051" showAs="Bocchino"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29044" showAs="Bencini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1174</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.108</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bignami</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Montevecchi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Catalfo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bocchino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Bencini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge 1174 recante «Conversione in legge del decreto-legge 15 ottobre 2013, n. 120, recante misure urgenti in materia di riequilibrio della finanza pubblica nonché in materia di immigrazione»,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 1 del presente decreto legge è rubricato: «Disposizioni in materia di immigrazione», tuttavia, la norma appare generica; discorre di «esigenze» senza alcun riferimento ai sempre più gravi disagi umani e psicologici che si avvertono fra gli immigrati, soprattutto donne e minori;</an:p>
+				<an:p align="justify">            la norma, al quanto opaca, rappresenta una sorta di Giano bifronte, espressione delle contraddizioni che si rinvengono nella realtà dei fatti; da un lato ha il merito di voler riconoscere e affrontare il problema dell'immigrazione alla luce delle «esigenze straordinarie connesse all'afflusso di stranieri sul territorio nazionale», dall'altra offre il fianco a critiche, in quanto non indica, almeno in via generale, le reali necessità da riconoscere, presenti nei CIE, nei CARA e nelle comunità per minori;</an:p>
+				<an:p align="justify">            a fronte dell'esigenza di una normativa sistematica, attenta ai bisogni di queste persone, ci si trova, nella realtà, davanti ad un ginepraio di norme, a rimpalli di responsabilità e incapacità di riconoscere e garantire, non soltanto sul piano formale, la dignità di essere umano. Proprio coloro che hanno maggiore necessità di attenzioni, in quanto «doppiamente fragili», sono lasciati soli. Una fragilità che origina dal fatto che i loro diritti vengono soffocati nei paesi di origine, dal quale fuggono per questo motivo, non sapendo che una sorte analoga verrà subita nel paese che li accoglie, l'Italia. Proprio chi è più debole viene coinvolto in un «vulnus disorganizzato» che produce ulteriori disagi psicologici soprattutto, tra i più giovani. Tutto questo avviene pur essendo loro riconosciuti e garantiti i diritti fondamentali della persona umana previsti dalle norme di. diritto interno, dai trattati internazionali in vigore e dai principi generalmente riconosciuti dal diritto internazionale, così come previsto dal decreto legislativo n. 286 del 25 luglio 1998 e successive modifiche;</an:p>
+				<an:p align="justify">            ogni anno giungono in Italia via mare circa 2000 minori stranieri non accompagnati. Il 2013 non costituisce una eccezione ma, anzi, i numeri parrebbero cresciuti. L'Italia affronta il problema dell'accoglienza degli immigrati considerandola una mera emergenza, senza programmare e sviluppare realmente un sistema nazionale che garantisca la sua funzione e fruibilità per tutti i migranti;</an:p>
+				<an:p align="justify">            la non uniformità delle procedure di identificazione e accertamento dell'età dei minori portano, talvolta, a riconoscere tali minori come maggiorenni, con la conseguenza che spesso viene rilevata la loro presenza nei CIE e nei CARA, nonostante l'Italia abbia ratificato, con la legge 27 maggio 1991, n. 176, la Convenzione sui diritti del fanciullo;</an:p>
+				<an:p align="justify">        impegna il Governo a garantire:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 l'attuazione e il funzionamento di un specifico programma/protocollo di assistenza sanitaria e psicologica con particolare attenzione ai minori, ai disabili e alle donne - soprattutto le gestanti - al fine di riconoscere maggiore tutela e dignità agli immigrati;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 la presenza e il regolare funzionamento di uno sportello/punto d'ascolto con il necessario apporto di professionisti, quali psicologi, pedagogisti e medici all'interno di tutti i CIE, CARA e centri di accoglienza per minori.
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
