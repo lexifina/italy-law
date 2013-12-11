@@ -1,0 +1,24 @@
+# Massima n. 37521
+
+- Pronuncia: Corte costituzionale, sentenza 300/2013 (ECLI:IT:COST:2013:300)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:300
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione Friuli-Venezia Giulia - Regime delle esenzioni dalla verifica di assoggettabilità a valutazione di impatto ambientale - Introduzione dell'esenzione relativa a «sistemazioni idraulico-forestali che non comportino la realizzazione di opere idrauliche trasversali di altezza fuori terra in gaveta superiore a cinque metri e che abbiano come finalità prevalente il consolidamento dei versanti instabili attigui alle sezioni d'alveo interessate o il consolidamento del fondo e degli argini di tratte di corsi d'acqua con sezioni idrauliche non superiori a quattro metri o il ripristino della piena funzionalità idraulica di opere esistenti» - Ricorso del Governo - Asserita esorbitanza dalle competenze legislative regionali - Asserita violazione della competenza legislativa esclusiva statale in materia di tutela dell'ambiente - Insussistenza - Progetti ricompresi nell'Allegato IV del codice dell'ambiente, al punto 7, lettera  o ), per i quali l'esenzione è permessa - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 112 della legge della Regione autonoma Friuli-Venezia Giulia 21 dicembre 2012, n. 26 (Legge di manutenzione dell'ordinamento regionale 2012) promossa, in riferimento agli articoli 4 e 5 dello statuto della Regione e all'articolo 117, secondo comma, lettera  s ), della Costituzione, dal Presidente del Consiglio dei ministri. Il ricorrente richiama come norma interposta l'art. 6, comma 9, del d.lgs. 3 aprile 2006, n. 152 (codice dell'ambiente), nella parte in cui prevede che: «Con riferimento ai progetti di cui all'allegato IV, qualora non ricadenti neppure parzialmente in aree naturali protette, le regioni e le province autonome di Trento e di Bolzano possono determinare, per specifiche categorie progettuali o in particolari situazioni ambientali e territoriali, sulla base degli elementi di cui all'allegato V, criteri o condizioni di esclusione dalla verifica di assoggettabilità». La disposizione impugnata soddisfa tutte le anzidette condizioni, come interpretate dalla giurisprudenza costituzionale. Essa, infatti, prevede l'esenzione dalla verifica di assoggettabilità a valutazione di impatto ambientale per le sistemazioni idraulico-forestali, di cui all'art. 54 della legge reg. Friuli-Venezia Giulia n. 9 del 2007, «che non comportino la realizzazione di opere idrauliche trasversali di altezza fuori terra in gaveta superiore a cinque metri e che abbiano come finalità prevalente il consolidamento dei versanti instabili attigui alle sezioni d'alveo interessate o il consolidamento del fondo e degli argini di tratte di corsi d'acqua con sezioni idrauliche non superiori a quattro metri o il ripristino della piena funzionalità idraulica di opere esistenti». Si tratta, pertanto, di progetti ricompresi nell'allegato IV, al punto 7, lettera  o ), «opere di regolazione del corso dei fiumi e dei torrenti, canalizzazione e interventi di bonifica ed altri simili destinati ad incidere sul regime delle acque», per i quali l'esenzione è permessa. Inoltre, i progetti esentati da verifica di assoggettabilità non solo sono descritti con precisione nelle loro caratteristiche essenziali da parte del legislatore regionale, ma si qualificano per il fatto di avere come finalità «il consolidamento dei versanti instabili attigui alle sezioni d'alveo interessate o il consolidamento del fondo e degli argini di tratte di corsi d'acqua», in vista della conservazione e della difesa del suolo, a beneficio della tutela ambientale. - Sulle condizioni che le Regioni devono rispettare ai fini della individuazione dei progetti da esentare dalla verifica di assoggettabilità a valutazione di impatto ambientale, di cui all'art. 6, comma 9, del d.lgs. n. 152 del 2006: sentenza n. 93 del 2013. - Sulla insufficienza e inadeguatezza ai fini della esenzione dalla verifica di assoggettabilità a valutazione di impatto ambientale - in linea con la giurisprudenza della Corte di giustizia dell'Unione europea (sentenza 23 novembre 2006, causa C-486/04, Commissione contro Italia) - di un'individuazione dei progetti da esentare basata soltanto sulla dimensione quantitativa degli stessi: sentenze n. 93 del 2013 e n. 127 del 2010.
+
+## Norme
+
+- legge della Regione autonoma Friuli-Venezia Giulia, 21/12/2012 n. 26, art. 112
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
+- statuto regione Friuli Venezia Giulia, art. 4
+- statuto regione Friuli Venezia Giulia, art. 5
+- decreto legislativo, 03/04/2006 n. 152, art. 6, comma 9
