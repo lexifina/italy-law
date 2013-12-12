@@ -1,12 +1,10 @@
 Art. 415-bis.
 
-(( (Avviso all'indagato della conclusione delle indagini preliminari) ))
-
-((
+(Avviso all'indagato della conclusione delle indagini preliminari)
 
 1.
 
-Prima della scadenza del termine previsto dal comma 2 dell'articolo 405, anche se prorogato, il pubblico ministero, se non deve formulare richiesta di archiviazione ai sensi degli articoli 408 e 411, fa notificare alla persona sottoposta alle indagini e al difensore avviso della conclusione delle indagini preliminari.
+Prima della scadenza del termine previsto dal comma 2 dell'articolo 405, anche se prorogato, il pubblico ministero, se non deve formulare richiesta di archiviazione ai sensi degli articoli 408 e 411, fa notificare alla persona sottoposta alle indagini e al difensore ((nonche', quando si procede per i reati di cui agli articoli 572 e 612-bis del codice penale, anche al difensore della persona offesa o, in mancanza di questo, alla persona offesa)) avviso della conclusione delle indagini preliminari.
 
 2.
 
@@ -25,5 +23,3 @@ Quando il pubblico ministero, a seguito delle richieste dell'indagato, dispone n
 5.
 
 Le dichiarazioni rilasciate dall'indagato, l'interrogatorio del medesimo ed i nuovi atti di indagine del pubblico ministero, previsti dai commi 3 e 4, sono utilizzabili se compiuti entro il termine stabilito dal comma 4, ancorche' sia decorso il termine stabilito dalla legge o prorogato dal giudice per l'esercizio dell'azione penale o per la richiesta di archiviazione.
-
-))
