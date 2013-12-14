@@ -12,7 +12,7 @@ Hanno privilegio generale sui mobili i crediti riguardanti:
 
 4) i crediti del coltivatore diretto, sia proprietario che affittuario, mezzadro, colono, soccidario o comunque compartecipante, per i corrispettivi della vendita dei prodotti, nonche' i crediti del mezzadro o del colono indicati dall'articolo 2765;
 
-((5) i crediti dell'impresa artigiana, definita ai sensi delle disposizioni legislative vigenti, nonche' delle societa' ed enti cooperativi di produzione e lavoro per i corrispettivi dei servizi prestati e della vendita dei manufatti;))
+5) i crediti dell'impresa artigiana, definita ai sensi delle disposizioni legislative vigenti, nonche' delle societa' ed enti cooperativi di produzione e lavoro per i corrispettivi dei servizi prestati e della vendita dei manufatti;((220))
 
 5-bis) i crediti delle societa' cooperative agricole e dei loro consorzi per i corrispettivi della vendita dei prodotti.
 
@@ -47,3 +47,9 @@ Il D.Lgs. 10 settembre 2003, n. 276, ha disposto (con l'art. 86, comma 4) che "L
 AGGIORNAMENTO (149)
 
 La Corte Costituzionale con sentenza 25 marzo-6 aprile 2004, n. 113, (in G.U. 1a s.s. 14/04/2004, n. 15) ha dichiarato "l'illegittimita' costituzionale dell'art. 2751-bis, numero 1, del codice civile, nella parte in cui non munisce del privilegio generale sui mobili il credito del lavoratore subordinato per danni da demansionamento subiti a causa dell'illegittimo comportamento del datore di lavoro."
+
+---------------
+
+AGGIORNAMENTO (220)
+
+Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 82, comma 3-bis) che "Al fine di garantire i crediti spettanti alle cooperative di lavoro, in relazione alla loro finalita' mutualistica, il privilegio di cui all'articolo 2751-bis, numero 5), del codice civile, spettante per corrispettivi dei servizi prestati e dei manufatti prodotti, e' riconosciuto qualora le medesime cooperative abbiano superato positivamente o abbiano comunque richiesto la revisione di cui al decreto legislativo 2 agosto 2002, n. 220".

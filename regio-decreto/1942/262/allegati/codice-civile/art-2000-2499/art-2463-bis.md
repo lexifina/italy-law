@@ -1,8 +1,8 @@
 Art. 2463-bis.
 
-(( (Societa' a responsabilita' limitata semplificata).))
+(Societa' a responsabilita' limitata semplificata).
 
-((La societa' a responsabilita' limitata semplificata puo' essere costituita con contratto o atto unilaterale da persone fisiche che non abbiano compiuto i trentacinque anni di eta' alla data della costituzione.
+La societa' a responsabilita' limitata semplificata puo' essere costituita con contratto o atto unilaterale da persone fisiche ((...)).
 
 L'atto costitutivo deve essere redatto per atto pubblico in conformita' al modello standard tipizzato con decreto del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dello sviluppo economico, e deve indicare:
 
@@ -16,10 +16,12 @@ L'atto costitutivo deve essere redatto per atto pubblico in conformita' al model
 
 5) luogo e data di sottoscrizione;
 
-6) gli amministratori, i quali devono essere scelti tra i soci.
+6) gli amministratori ((...)).
+
+((Le clausole del modello standard tipizzato sono inderogabili)).
 
 La denominazione di societa' a responsabilita' limitata semplificata, l'ammontare del capitale sottoscritto e versato, la sede della societa' e l'ufficio del registro delle imprese presso cui questa e' iscritta devono essere indicati negli atti, nella corrispondenza della societa' e nello spazio elettronico destinato alla comunicazione collegato con la rete telematica ad accesso pubblico.
 
-E' fatto divieto di cessione delle quote a soci non aventi i requisiti di eta' di cui al primo comma e l'eventuale atto e' conseguentemente nullo.
+((COMMA SOPPRESSO DAL D.L. 28 GIUGNO 2013, N. 76, CONVERTITO CON MODIFICAZIONI DALLA L. 9 AGOSTO 2013, N. 99)).
 
-Salvo quanto previsto dal presente articolo, si applicano alla societa' a responsabilita' limitata semplificata le disposizioni del presente capo in quanto compatibili)).
+Salvo quanto previsto dal presente articolo, si applicano alla societa' a responsabilita' limitata semplificata le disposizioni del presente capo in quanto compatibili.
