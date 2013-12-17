@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/958/C/20.32/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/958/C/20.32"/>
+					<an:FRBRdate date="2013-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/958/C/20.32/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.32"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@"/>
+					<an:FRBRdate date="2013-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@.akn"/>
+					<an:FRBRdate date="2013-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/958/C/20.32/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/958" showAs="DDL 958"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29096" showAs="Ferrara"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29200" showAs="Valentini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29035" showAs="Albano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 958</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.32</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Valentini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Albano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 5, aggiungere il seguente:</an:p>
+				<an:p>
+					        «5
+					<an:i>-bis</an:i>
+					. Al decreto legislativo n. 152 del 3 aprile 2006, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 all'articolo 183, comma 1, lettera 
+					<an:i>bb)</an:i>
+					, dopo il numero 2) è inserito il seguente:
+				</an:p>
+				<an:p>
+					        ''2
+					<an:i>-bis)</an:i>
+					 ai fini del calcolo dei limiti quantitativi di cui al numero precedente, il deposito temporaneo effettuato da imprenditori agricoli presso il sito messo a disposizione dalla cooperativa agricola di cui sono soci è considerato distinto ed altro rispetto al deposito temporaneo dei rifiuti prodotti dalla cooperativa stessa'';
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					all'articolo 193, comma 2, dopo il primo periodo è inserito il seguente:
+				</an:p>
+				<an:p>
+					        ''Gli imprenditori agricoli di cui all'articolo 2135 del codice civile possono delegare alla tenuta ed alla compilazione del formulario di identificazione la cooperativa agricola di cui sono soci che abbia messo a loro disposizione un sito per il deposito temporaneo ai sensi dell'articolo 183, comma 1, lettera 
+					<an:i>bb)</an:i>
+					; con apposito decreto del Ministero dell'ambiente e della tutela del territorio e del mare, sentite le organizzazioni di categoria più rappresentative, possono essere previste ulteriori modalità semplificate della tenuta e compilazione del formulario di identificazione, per il caso in cui l'imprenditore agricolo disponga di deposito temporaneo presso la cooperativa agricola di cui è socio''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
