@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120-B/C/1.187"/>
+					<an:FRBRdate date="2013-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.187"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@"/>
+					<an:FRBRdate date="2013-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@.akn"/>
+					<an:FRBRdate date="2013-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120-B/C/1.187/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120-B" showAs="DDL 1120-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/4352" showAs="Bruno"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25458" showAs="Milo"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22899" showAs="Ceroni"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/1407" showAs="Malan"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29126" showAs="Mandelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.187</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bruno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Milo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Ceroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Malan</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Mandelli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sopprimere il comma 341.</an:i>
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
