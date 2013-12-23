@@ -1,0 +1,21 @@
+# Massima n. 37579
+
+- Pronuncia: Corte costituzionale, ordinanza 324/2013 (ECLI:IT:COST:2013:324)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2013:324
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Reato di interruzione colposa della gravidanza (c.d. aborto colposo) - Procedibilità d'ufficio - Asserita disparità di trattamento rispetto a fattispecie delittuose di lesioni gravi o gravissime, derivanti da colpa professionale medica, procedibili a querela - Manifesta infondatezza della questione.
+
+## Testo
+
+E' manifestamente infondata la questione di legittimità costituzionale dell'art. 17, comma 1, della legge 22 maggio 1978, n. 194, censurato, in riferimento all'art. 3 Cost., nella parte in cui prevede, per il reato di interruzione colposa della gravidanza, la procedibilità d'ufficio, invece che a querela di parte, diversamente da quanto prevede l'art. 590 del codice penale per le lesioni personali gravissime. La scelta del regime di procedibilità dei reati coinvolge la politica legislativa e deve, quindi, rimanere affidata a valutazioni discrezionali del legislatore, presupponendo bilanciamenti di interessi e opzioni di politica criminale spesso assai complessi, sindacabili in sede di giudizio di legittimità costituzionale solo per vizio di manifesta irrazionalità. In questa prospettiva, la scelta della procedibilità d'ufficio per il delitto di interruzione colposa della gravidanza si risolve in un'opzione di politica legislativa, che si sottrae a una possibile censura di legittimità costituzionale. Inoltre, in seguito alla riforma attuata con la legge n. 194 del 1978, non può utilmente proporsi una comparazione tra l'aborto colposo e le lesioni personali colpose, poichè l'aborto colposo è configurato come un reato autonomo, rispetto al quale vengono in rilievo, oltre all'integrità psico-fisica della donna, altri interessi costituzionalmente garantiti, quali quelli relativi alla protezione della maternità, e alla tutela del concepito, desumibile dall'art. 2 Cost. - Sulla sindacabilità, in sede di giudizio di legittimità costituzionale, delle valutazioni discrezionali del legislatore solo per vizio di manifesta irrazionalità v.,  ex plurimis , sentenze n. 274 del 1997 e n. 7 del 1987; ordinanze n. 91 del 2001 e n. 354 del 1999; con specifico riferimento al reato di lesioni personali, vedi ordinanze n. 178 del 2003 e n. 204 del 1988. - Sulla configurabilità dell'aborto colposo come un reato autonomo, rispetto al quale vengono in rilievo, oltre all'integrità psico-fisica della donna, altri interessi costituzionalmente garantiti, v. sentenze n. 35 del 1997 e n. 27 del 1975.
+
+## Norme
+
+- legge, 22/05/1978 n. 194, art. 17, comma 1
+
+## Parametri
+
+- Costituzione, art. 3
