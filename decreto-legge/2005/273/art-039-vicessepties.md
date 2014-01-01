@@ -1,0 +1,7 @@
+Art. 39-vicessepties.
+
+(( (Interventi per il patrimonio culturale) ))
+
+(( 1. La disposizione di cui all'articolo 4, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 29 maggio 2003, n. 240, si applica anche nei confronti della soprintendenza archeologica di Pompei. Per l'anno 2006, ai fini della realizzazione di interventi di conservazione e valorizzazione dei beni culturali, il Ministro per i beni e le attivita' culturali puo' destinare, nel limite massimo di 30 milioni di euro, gli introiti derivanti dai biglietti d'ingresso ai complessi archeologici, riscossi dalla soprintendenza nei precedenti esercizi, previo accertamento della non sussistenza di impegni contabili o contrattuali sui predetti fondi, all'attuazione di un programma di interventi sui beni culturali immediatamente cantierabili.
+
+2. Gli stanziamenti destinati alle spese per investimenti, iscritti nello stato di previsione del Ministero per i beni e le attivita' culturali, non impegnati alla data di entrata in vigore della legge di conversione del presente decreto, possono essere destinati, con decreto del Ministro per i beni e le attivita' culturali, all'attuazione di interventi sul patrimonio culturale immediatamente cantierabili, nonche' ad interventi di sviluppo della gestione dei complessi monumentali o museali. A tal fine il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio. ))
