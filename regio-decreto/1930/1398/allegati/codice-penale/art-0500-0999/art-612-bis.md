@@ -2,10 +2,10 @@ Art. 612-bis.
 
 (Atti persecutori).
 
-Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da sei mesi ((a cinque anni)) chiunque, con condotte reiterate, minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura ovvero da ingenerare un fondato timore per l'incolumita' propria o di un prossimo congiunto o di persona al medesimo legata da relazione affettiva ovvero da costringere lo stesso ad alterare le proprie abitudini di vita.
+Salvo che il fatto costituisca piu' grave reato, e' punito con la reclusione da sei mesi a cinque anni chiunque, con condotte reiterate, minaccia o molesta taluno in modo da cagionare un perdurante e grave stato di ansia o di paura ovvero da ingenerare un fondato timore per l'incolumita' propria o di un prossimo congiunto o di persona al medesimo legata da relazione affettiva ovvero da costringere lo stesso ad alterare le proprie abitudini di vita.
 
-La pena e' aumentata se il fatto e' commesso dal coniuge legalmente separato o divorziato o da persona che sia stata legata da relazione affettiva alla persona offesa.
+((La pena e' aumentata se il fatto e' commesso dal coniuge, anche separato o divorziato, o da persona che e' o e' stata legata da relazione affettiva alla persona offesa ovvero se il fatto e' commesso attraverso strumenti informatici o telematici)).
 
 La pena e' aumentata fino alla meta' se il fatto e' commesso a danno di un minore, di una donna in stato di gravidanza o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, ovvero con armi o da persona travisata.
 
-Il delitto e' punito a querela della persona offesa. Il termine per la proposizione della querela e' di sei mesi. Si procede tuttavia d'ufficio se il fatto e' commesso nei confronti di un minore o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, nonche' quando il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio.
+Il delitto e' punito a querela della persona offesa. Il termine per la proposizione della querela e' di sei mesi. ((La remissione della querela puo' essere soltanto processuale. La querela e' comunque irrevocabile se il fatto e' stato commesso mediante minacce reiterate nei modi di cui all'articolo 612, secondo comma)). Si procede tuttavia d'ufficio se il fatto e' commesso nei confronti di un minore o di una persona con disabilita' di cui all'articolo 3 della legge 5 febbraio 1992, n. 104, nonche' quando il fatto e' connesso con altro delitto per il quale si deve procedere d'ufficio.
