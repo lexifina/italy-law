@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1188/A/4.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1188/A/4.9"/>
+					<an:FRBRdate date="2014-01-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1188/A/4.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@"/>
+					<an:FRBRdate date="2014-01-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@.akn"/>
+					<an:FRBRdate date="2014-01-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-01-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-01-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1188/A/4.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1188" showAs="DDL 1188"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29158" showAs="Pepe"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29193" showAs="Vacciano"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29139" showAs="Molinari"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29053" showAs="Bottici"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29050" showAs="Blundo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25398" showAs="Scilipoti Isgro'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1188</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pepe</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Vacciano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bottici</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Blundo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Scilipoti Isgro'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo con il seguente:</an:p>
+				<an:p align="justify">
+					        «Art. 4. - 
+					<an:i>(Capitale della Banca d'Italia). - 1.</an:i>
+					 La Banca d'Italia istituto di diritto pubblico, è la banca centrale della Repubblica italiana, è parte integrante del Sistema Europeo di Banche Centrali ed è autorità nazionale competente nel meccanismo di vigilanza unico di cui all'articolo 6 del Regolamento (VE) n. 1024/2013 del Consiglio del 15 ottobre 2013. È indipendente nell'esercizio dei suoi poteri e nella gestione delle sue finanze.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>2.</an:i>
+					 La Banca d'Italia è autorizzata ad aumentare il proprio capitale mediante utilizzo delle riserve statutarie all'importo di euro 7.500.000.000; a seguito dell'aumento il capitale è rappresentato da quote nominative di partecipazione di euro 20.000 ciascuna.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>3.</an:i>
+					 Ai partecipanti possono essere distribuiti esclusivamente dividendi annuali) a valere sugli utili netti, per un importo non superiore a una percentuale del capitale sociale pari al tasso medio ponderato riconosciuto sui Titoli del Debito Pubblico con durata non superiore all'anno, emessi nell'anno solare precedente dallo Stato Italiano.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>4.</an:i>
+					 Le quote di partecipazione al capitale possono appartenere solamente ad Amministrazioni Pubbliche.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>5.</an:i>
+					 Ciascun partecipante non può possedere, direttamente o indirettamente, una quota del capitale superiore al 5 per cento. Per le quote possedute in eccesso non spetta il diritto di voto ed i relativi dividendi sono imputati alle riserve statutarie della Banca d'Italia.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>6.</an:i>
+					 La Banca d'Italia al fine di favorire il rispetto dei limiti di partecipazione al proprio capitale fissati al comma 5) può acquistare temporaneamente le proprie quote di partecipazione e stipulare contratti aventi ad oggetto le medesime. Tali operazioni sono autorizzate dal Consiglio Superiore con il parere favorevole del Collegio Sindacale ed effettuate con i soggetti appartenenti alle categorie di cui al comma 4, con modalità tali da assicurare trasparenza e parità di trattamento. Per il periodo di tempo limitato in cui le quote restano nella disponibilità della Banca d'Italia, il relativo diritto di voto è sospeso e i dividendi sono imputati alle riserve statutarie della Banca d'Italia».
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
