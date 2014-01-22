@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6"/>
+					<an:FRBRdate date="2014-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1058/8/6"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@"/>
+					<an:FRBRdate date="2014-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@.akn"/>
+					<an:FRBRdate date="2014-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1058/C/G/1058/8/6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1058" showAs="DDL 1058"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Finanze e tesoro" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29115" showAs="Laniece"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/2553" showAs="Zeller"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29156" showAs="Panizza"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29100" showAs="Fravezzi"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29045" showAs="Berger"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1058</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1058/8/6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Laniece</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Zeller</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Panizza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Fravezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Berger</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>in sede di esame del disegno di legge n. 1058, recante delega al Governo recante disposizioni per un sistema fiscale più equo, trasparente e orientato alla crescita,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            le case da gioco autorizzate nel nostro Paese danno oggi lavoro a circa 3.000 dipendenti oltre a generare un notevole indotto sull'economia locale; le stesse concorrono al finanziamento diretto degli Enti pubblici detentori dei diritti di concessione; la crisi del settore è destinata quindi ad avere gravi ricadute occupazionali ed economiche nei territori interessati;</an:p>
+				<an:p>            le case da gioco autorizzate sono altresì realtà attive in una pluralità di servizi afferenti al turismo, alla ristorazione, alla ricezione e partecipano, con risorse economiche ed umane, ad eventi di forte rilevanza artistica e culturale;</an:p>
+				<an:p>            la congiuntura gravemente sfavorevole ha portato i Casinò di Campione d'Italia e di Sanremo a dichiarare lo stato di crisi, mentre il comune di Venezia ha deciso di privatizzarne la gestione, e il Casinò di Saint-Vincent ha annunciato, in questi giorni, la necessità di alleggerire i costi del personale;</an:p>
+				<an:p>            le cause della situazione di difficoltà sono dovute, accanto alla generale congiuntura negativa dell'economia del Paese, alla fortissima concorrenza rappresentata da una sempre crescente offerta di nuove tipologie di gioco, nonché dalla presenza di numerose Case da gioco nei paesi limitrofi (Austria, Francia, Svizzera) spesso ubicate a pochi chilometri dalla frontiera; a ciò si aggiungono provvedimenti legislativi che, seppur concepiti con intenti condivisibili, penalizzano l'attività senza un ritorno concreto in termini di efficacia,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad istituire, in tempi brevi, un tavolo di confronto con gli organismi di rappresentanza delle case da gioco per valutare iniziative atte a favorirne la ripresa economica e a salvaguardarne i lavoratori.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
