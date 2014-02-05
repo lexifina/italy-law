@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1058/A/G15.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1058/A/G15.200"/>
+					<an:FRBRdate date="2014-02-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1058/A/G15.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G15.200"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@"/>
+					<an:FRBRdate date="2014-02-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@.akn"/>
+					<an:FRBRdate date="2014-02-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1058/A/G15.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1058" showAs="DDL 1058"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1058</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G15.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di discussione dell'articolo 15,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il provvedimento in esame prevede una delega al Governo al fine di introdurre nuove forme di fiscalità ambientale, assicurando la compatibilità delle politiche fiscali con lo sviluppo sostenibile e disincentivando le produzioni maggiormente inquinanti;</an:p>
+				<an:p align="justify">            a tal fine si rende noto che è stata richiesta dalla società «Teknosolar Italia2 Srl» alla Regione Basilicata, alla Provincia di Potenza e al Comune di Banzi autorizzazione alla realizzazione di un Impianto Solare Termodinamico con potenza nominale di 50 MW dotato di 8.640 captatori (specchi parabolici) su territorio di Banzi;</an:p>
+				<an:p align="justify">            l'area sui cui si chiede l'autorizzazione è un'area di 226,4 ettari, oggi interessata interamente a terreno agricolo, così com'e da vocazione dell'intero territorio agro-bradanico;</an:p>
+				<an:p align="justify">            in Spagna, unico paese europeo su cui ad oggi insistono Impianti Solari Termodinamici con le caratteristiche di quello per cui viene chiesta autorizzazione, ha dislocato tali impianti in aree industriali per non compromettere territori a così marcata vocazione agricola;</an:p>
+				<an:p align="justify">            l'impianto in questione prevede un'opera di cosiddetta «bonifica» consistente nella impermeabilizzazione del suolo, e che collateralmente prevede la realizzazione di una linea ad alta tensione necessaria a collegare l'impianto con una stazione ad altissima tensione che dovrebbe essere realizzata in territorio di Genzano di Lucania;</an:p>
+				<an:p align="justify">            il medesimo impianto utilizerebbe materiali altamente pericolosi - quali i fluidi termovettori che lo attraverserebbero - in caso di sversamento, oltre che beneficerebbe di non meglio specificati gas «necessari per la sua continuità» (gas che contrasterebbero, per ammissione dello stesso Studio di Impatto Ambientale presentato, con la rinnovabilità delle fonti);</an:p>
+				<an:p align="justify">            come riportato dalla stampa locale e denunciato dalle associazioni ambientaliste, alla realizzazione dell'impianto esprimono contrarietà, oltre che le popolazioni, anche tutti gli amministratori locali (in particolar modo i sindaci dei comuni di Banzi, di Genzano di Lucania e di Palazzo San Gervasio),</an:p>
+				<an:p align="justify">        impegna il Governo ad assumere iniziative per tutelare la vocazione agricola del territorio su cui insisterebbe l'Impianto per cui viene chiesta autorizzazione, per tutelare il diritto alla salute della comunità che vivono in quell'area geografica e per tutelare il diritto di popolazioni ed amministratori locali ad opporsi ad un'opera di cosi importanti dimensioni.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
