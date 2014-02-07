@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1213/C/16.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1213/C/16.2"/>
+					<an:FRBRdate date="2014-02-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1213/C/16.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@"/>
+					<an:FRBRdate date="2014-02-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@.akn"/>
+					<an:FRBRdate date="2014-02-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1213/C/16.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1213" showAs="DDL 1213"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/29153" showAs="Pagliari"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/25424" showAs="Pizzetti"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/29150" showAs="Orru'"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/29166" showAs="Puppato"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/25477" showAs="Lo Moro"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/4352" showAs="Bruno"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1213</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.2 (testo 3)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Pagliari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Pizzetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Orru'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Puppato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Lo Moro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Bruno</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 1 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «1. A decorrere dal 1° gennaio 2014, ai partiti e ai movimenti politici di cui alla legge 3 giugno 1999, n. 157, e successive modificazioni, e alle loro rispettive articolazioni e sezioni territoriali, a prescindere dal numero dei dipendenti, sono estese, nei limiti di spesa di cui al comma 2, le disposizioni in materia di trattamento straordinario di integrazione salariale e i relativi obblighi contributivi, nonché la disciplina in materia di contratti di solidarietà di cui al decreto-legge 30 ottobre 1984, n. 726, convertito, con modificazioni, dalla legge 19 dicembre 1984, n. 863.».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
