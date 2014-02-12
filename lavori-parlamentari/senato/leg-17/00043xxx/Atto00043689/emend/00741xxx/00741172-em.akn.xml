@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1213/A/10.27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1213/A/10.27"/>
+					<an:FRBRdate date="2014-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1213/A/10.27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.27"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@"/>
+					<an:FRBRdate date="2014-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@.akn"/>
+					<an:FRBRdate date="2014-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1213/A/10.27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1213" showAs="DDL 1213"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29100" showAs="Fravezzi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29155" showAs="Palermo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29156" showAs="Panizza"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/2553" showAs="Zeller"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29045" showAs="Berger"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29115" showAs="Laniece"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/2313" showAs="Sposetti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29148" showAs="Olivero"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17651" showAs="Tonini"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/29196" showAs="Zin"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/29121" showAs="Longo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1213</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fravezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Palermo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Panizza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Zeller</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Berger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Laniece</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Sposetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Olivero</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Tonini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Zin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 7, dopo il secondo periodo, inserire i seguenti: «Il limite del 5 per cento di cui al primo periodo è elevato al 20 per cento e comunque per un valore complessivo non superiore all'importo massimo di cui all'articolo 11, comma 2, lettera b) in caso di erogazioni effettuate a favore di un singolo partito che abbia caratteristiche esclusivamente regionali. In via transitoria, negli anni 2014, 2015 e 2016 il limite complessivo delle erogazioni e dei contributi che possono essere corrisposti annualmente in favore di un partito di cui al periodo precedente è pari, rispettivamente, al 30, al 25 e al 20 per cento dell'importo dei proventi iscritti nel conto economico del partito o risultante dal rendiconto d'esercizio riferito al penultimo anno antecedente quello dell'erogazione. Alla copertura dell'onere, valutato in 2 milioni di euro a decorrere dall'anno 2014, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2014-2016, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2014, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
