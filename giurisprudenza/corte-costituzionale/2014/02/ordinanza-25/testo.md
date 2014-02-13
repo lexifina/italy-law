@@ -1,0 +1,63 @@
+# Corte costituzionale, ordinanza 25/2014
+
+- ECLI: ECLI:IT:COST:2014:25
+- Tipo: ordinanza
+- Presidente: SILVESTRI
+- Relatore: Giancarlo Coraggio
+- Redattore: Giancarlo Coraggio
+- Data della decisione: 10/02/2014
+- Data del deposito: 13/02/2014
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 37655
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:25
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Gaetano SILVESTRI; Giudici : Luigi MAZZELLA, Sabino CASSESE, Giuseppe TESAURO, Paolo Maria NAPOLITANO, Giuseppe FRIGO, Alessandro CRISCUOLO, Paolo GROSSI, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Sergio MATTARELLA, Mario Rosario MORELLI, Giancarlo CORAGGIO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 49, comma 1, del decreto legislativo 31 dicembre 1992, n. 546 (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413), promosso dalla Commissione tributaria regionale per la Campania, sezione staccata di Salerno, nel procedimento vertente tra O. F. s.r.l. e l'Agenzia delle entrate, Direzione provinciale di Avellino, con ordinanza del 5 marzo 2013, iscritta al n. 109 del registro ordinanze 2013 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 21, prima serie speciale, dell'anno 2013.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio del 15 gennaio 2014 il Giudice relatore Giancarlo Coraggio.
+ Ritenuto che, nel corso di un procedimento instaurato a séguito dell'istanza proposta da O. F. s.r.l. per ottenere, in via cautelare, la sospensione dell'esecuzione di una sentenza tributaria di secondo grado, impugnata per cassazione, che aveva accolto in parte l'appello proposto dall'Agenzia delle entrate nei confronti della contribuente, la Commissione tributaria regionale della Campania, sezione staccata di Salerno, con ordinanza del 5 marzo 2013, ha sollevato - in riferimento agli artt. 2 e 4 della Costituzione, e all'art. 6, paragrafo 1, della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, firmata a Roma il 4 novembre 1950, ratificata ed eseguita con legge 4 agosto 1955, n. 848, quale norma interposta all'art. 10 Cost. - questione di legittimità dell'art. 49, comma 1, del decreto legislativo 31 dicembre 1992, n. 546 (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413);
+ che la disposizione denunciata stabilisce che «Alle impugnazioni delle sentenze delle commissioni tributarie si applicano le disposizioni del titolo III, capo I, del libro II del codice di procedura civile, escluso l'art. 337 e fatto salvo quanto disposto nel presente decreto»;
+ che, in particolare, la Commissione tributaria regionale ha denunciato il menzionato art. 49, comma 1, del d.lgs. n. 546 del 1992, di cui è chiamata a fare applicazione con riguardo alla sospendibilità della sentenza di appello, nella parte in cui tale norma «non prevede la possibilità di sospensione dell'efficacia di provvedimenti impositivi ed esecutivi dell'Amministrazione finanziaria, confermati da sentenze pronunciate in primo grado ed in appello, qualora dalla loro esecuzione derivi pericolo di grave ed irreparabile danno, con carattere di irreversibilità e non altrimenti evitabile, ad uno dei diritti inviolabili», riconosciuti e tutelati dai parametri costituzionali invocati;
+ che la Commissione tributaria riferisce, in punto di fatto, che nella pendenza del ricorso per cassazione, l'Amministrazione finanziaria aveva notificato alla contribuente cartella di pagamento per la riscossione provvisoria dell'IVA e dell'IRAP, in ragione della sentenza tributaria di secondo grado;
+ che secondo la Commissione tributaria, nella specie, in ragione del solo parziale accoglimento dell'appello e delle precarie condizioni economiche della contribuente, sussisterebbero i presupposti del fumus boni iuris e del periculum in mora, per accogliere l'istanza di sospensione della efficacia della sentenza, ai sensi dell'art. 373 cod. proc. civ., ma che la norma impugnata precluderebbe tale possibilità;
+ che il giudice a quo, in punto di diritto, osserva che l'orientamento giurisprudenziale dominante, al quale ritiene di aderire in ragione di una più fedele applicazione delle regole ermeneutiche, sarebbe contrario all'applicabilità al processo tributario dell'art. 283 cod. proc. civ., sulla sospensione in appello della sentenza di primo grado impugnata, in presenza di «gravi e fondati motivi», e dell'art. 373 cod. proc. civ., sulla sospensione della sentenza d'appello durante la pendenza del ricorso per cassazione al processo tributario, in quanto richiamati nell'art. 337 cod. proc. civ., oggetto di esplicita esclusione da parte della norma impugnata;
+ che, peraltro, gli artt. 47, 49, comma 1, e 61, del d.lgs. n. 546 del 1992, nel limitare al solo giudizio di primo grado, e fino alla pubblicazione della relativa sentenza, il potere del giudice di sospendere l'atto impositivo o esecutivo oggetto di ricorso dinanzi alla giurisdizione tributaria, confermano lo stretto ambito del potere sospensivo del giudice tributario;
+ che secondo la Commissione tributaria regionale non sarebbe dirimente in senso contrario, a fronte di un così chiaro dato normativo, la sentenza n. 217 del 2010 della Corte costituzionale, con la quale veniva dichiarata non fondata (recte: inammissibile) la questione di legittimità costituzionale dell'art. 49, comma 1, del d.lgs. n. 546 del 1992 (in riferimento agli artt. 3, 10, 23, 24, 111 e 113 Cost.) affermandosi la possibilità di un'interpretazione alternativa, secondo cui la norma impugnata non costituirebbe ostacolo all'applicazione al processo tributario dell'inibitoria cautelare di cui all'art. 373 cod. proc. civ., atteso che l'esclusione dell'art. 337 cod. proc. civ. non implicherebbe anche quella degli artt. 283 e  373 cod. proc. civ., «"eccezioni" alla regola»;
+ che, ritenuta la rilevanza della questione, quanto alla non manifesta infondatezza, il giudice a quo prospetta la lesione dell'art. 2 Cost., quale norma fondamentale dai contenuti variabili, la cui individuazione è rimessa alla prudenza del giudice;
+ che per la Commissione rimettente, infatti, l'esercizio del potere impositivo dello Stato deve arrestarsi, nella fase esecutiva, quando può sacrificare i diritti inviolabili dell'uomo sia come singolo che nelle formazioni sociali dove si svolge la sua personalità;
+ che ai diritti inviolabili dell'uomo - prosegue il giudice a quo - deve essere ricondotto anche il diritto al lavoro, riconosciuto dall'art. 4 Cost., posto in pericolo per i dipendenti della contribuente dalla paventata esecuzione della sentenza d'appello, in quanto il suo sacrificio priverebbe il cittadino dei mezzi di sostentamento in una società che l'art. 1 Cost. proclama fondata sul lavoro;
+ che ad avviso della Commissione tributaria regionale, analogamente al diritto inviolabile della libertà personale, al cittadino deve essere garantito anche il diritto ad un'esistenza libera e dignitosa, di talché una sentenza sfavorevole non può consentire all'Amministrazione finanziaria di aggredire esecutivamente diritti e posizioni giuridiche a ciò indispensabili;
+ che, secondo il giudice a quo, altri diritti inviolabili, lesi dalla norma impugnata, sarebbero ravvisabili nell'avere un'abitazione e nella disponibilità di un mezzo di trasporto, rispettivamente lesi dalla vendita in sede di esecuzione fiscale, e dal provvedimento di fermo amministrativo;
+ che ha spiegato intervento il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo che la questione sia dichiarata manifestamente infondata in ragione delle pronunce della Corte costituzionale intervenute su analoghe questioni (sentenza n. 109 e ordinanza n. 245 del 2012, ordinanza n. 217 del 2010), e della giurisprudenza di legittimità (è richiamata la sentenza della Corte di cassazione, n. 2845 del 2012).
+ Considerato che con ordinanza del 5 marzo 2013, la Commissione tributaria regionale della Campania, sezione staccata di Salerno, ha sollevato - in riferimento agli artt. 2 e 4 della Costituzione, e all'art. 6, paragrafo 1, della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, firmata a Roma il 4 novembre 1950, ratificata ed eseguita con legge 4 agosto 1955, n. 848, quale norma interposta all'art. 10 Cost. - questione di legittimità dell'art. 49, comma 1, del decreto legislativo 31 dicembre 1992, n. 546 (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413);
+ che la Commissione rimettente, nell'esaminare la domanda di sospensione dell'efficacia della sentenza di secondo grado proposta dalla contribuente, muove dal presupposto interpretativo che il denunciato comma 1 dell'art. 49 del d.lgs. n. 546 del 1992 escluda l'applicabilità dell'art. 373 cod. proc. civ. alla sentenza tributaria di appello e, quindi, la possibilità, prevista da tale articolo, di sospendere l'esecuzione della sentenza di appello impugnata con ricorso per cassazione, nel caso in cui dalla sua esecuzione possa derivare un «grave ed irreparabile danno»;
+ che con la sentenza n. 217 del 2010 questa Corte ha prospettato la possibilità di interpretare il comma 1 dell'art. 49 del d.lgs. n. 546 del 1992 nel senso che esso non impedisce al giudice di sospendere l'esecuzione delle sentenze tributarie d'appello ai sensi dell'art. 373 cod. proc. civ.;
+ che la giurisprudenza è ormai prevalentemente orientata a ritenere possibile tale interpretazione;
+ che, in particolare, la Corte di cassazione, con la pronuncia n. 2845 del 2012, richiamando la sentenza di questa Corte n. 217 del 2010, ha pronunciato, nell'esercizio della propria funzione nomofilattica, il seguente principio di diritto: «Al ricorso per cassazione avverso una sentenza delle commissioni tributarie regionali si applica la disposizione di cui all'art. 373 cod. proc. civ., comma 1, secondo periodo, giusta la quale il giudice che ha pronunciato la sentenza impugnata può, su istanza di parte e qualora dall'esecuzione possa derivare grave e irreparabile danno, disporre con ordinanza non impugnabile che l'esecuzione sia sospesa o che sia prestata congrua cauzione»;
+ che, con la successiva sentenza n. 109 del 2012, questa Corte ha dichiarato non fondata questione analoga all'odierna, sul rilievo della «riscontrata possibilità di un'interpretazione conforme a Costituzione della disposizione denunciata» nei termini indicati dall'organo di nomofilachia;
+ che, come riaffermato nella ordinanza n. 254 del 2012, la questione risulta, dunque, superata dalla successiva evoluzione della giurisprudenza, che ha individuato un'interpretazione della norma censurata compatibile con i principi evocati;
+ che l'ordinanza di rimessione della Commissione tributaria regionale non introduce argomenti per rimeditare queste conclusioni;
+ che, pertanto, la questione è manifestamente infondata.
+ Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, commi 1 e 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara la manifesta infondatezza della questione di legittimità costituzionale dell'art. 49, comma 1, del decreto legislativo 31 dicembre 1992, n. 546 (Disposizioni sul processo tributario in attuazione della delega al Governo contenuta nell'art. 30 della legge 30 dicembre 1991, n. 413), sollevata, in riferimento agli artt. 2 e 4 della Costituzione, nonché all'art. 6, paragrafo 1, della Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, firmata a Roma il 4 novembre 1950, ratificata e resa esecutiva con legge 4 agosto 1955, n. 848, quale norma interposta all'art. 10 Cost., dalla Commissione tributaria regionale per la Campania, sezione staccata di Salerno, con l'ordinanza in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 10 febbraio 2014.
+ F.to:
+ Gaetano SILVESTRI, Presidente
+ Giancarlo CORAGGIO, Redattore
+ Gabriella MELATTI, Cancelliere
+ Depositata in Cancelleria il 13 febbraio 2014.
+ Il Direttore della Cancelleria
+ F.to: Gabriella MELATTI
