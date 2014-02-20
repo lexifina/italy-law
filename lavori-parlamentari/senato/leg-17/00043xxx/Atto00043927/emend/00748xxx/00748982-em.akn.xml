@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/A/11.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/A/11.16"/>
+					<an:FRBRdate date="2014-02-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/A/11.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@"/>
+					<an:FRBRdate date="2014-02-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@.akn"/>
+					<an:FRBRdate date="2014-02-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/A/11.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25458" showAs="Milo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22899" showAs="Ceroni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29120" showAs="Longo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1407" showAs="Malan"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29126" showAs="Mandelli"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29159" showAs="Perrone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Milo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ceroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Malan</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mandelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Perrone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 3-quinquies, aggiungere i seguenti:</an:p>
+				<an:p align="justify">
+					        3-
+					<an:i>sexies</an:i>
+					. Con effetto dal 1º gennaio 2015, con uno o più regolamenti da adottarsi entro il 31 dicembre 2014, ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, previa parere delle competenti Commissioni parlamentari, il Governo è delegato a istituire unasoglia di esenzione dall'IRPEF per tutti i soggetti che dichiarano un reddito complessivo inferiorea 12 mila euro. Tramite il medesimo decreto sono mornficate ledisposizioni del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, coerentemente con la nuova soglia di esenzione.
+				</an:p>
+				<an:p align="justify">
+					        3-
+					<an:i>septies.</an:i>
+					 A decorrere dall'anno 2014, le amministrazioni pubbliche inserite nel conto economico consolidato della pubblica amministrazione, come individuate dall'ISTAT ai sensi dell'articolo 1, comma 2, della legge 31 dicembre 2009, n. 196, e le società dalle stesse amministrazioni controllate, non possono effettuare spese per consumi intermedi di ammontare superiore al 70 per cento della spesa sostenuta nell'anno 2012. Il predetto limite può essere derogato per effetto di contratti pluriennali già in essere. Il Governo, entro trenta giorni. dalla data di entrata in vigore della legge di conversione del presente decreto, adotta un regolamento ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, al fine di adeguare gli strumenti di acquisto messi a disposizione da Consip S.p.A. I risparmi derivanti dall'applicazione del presente articolo, costituiscono economie di bilancio per le amministrazioni e concorrono al miglioramento dei saldi di bilancio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
