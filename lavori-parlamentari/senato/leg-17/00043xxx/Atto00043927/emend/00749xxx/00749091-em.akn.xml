@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/A/13.77/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/A/13.77"/>
+					<an:FRBRdate date="2014-02-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/A/13.77/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.77"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@"/>
+					<an:FRBRdate date="2014-02-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@.akn"/>
+					<an:FRBRdate date="2014-02-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/A/13.77/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29104" showAs="Gambaro"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.77</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Gambaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 23 aggiungere i seguenti:</an:p>
+				<an:p align="justify">
+					        «23-
+					<an:i>bis.</an:i>
+					 I lavoratori dipendenti o autonomi che non hanno maturato i requisiti contributivi per l'accesso al pensionamento di vecchiaia, o i loro superstiti, possono chiedere, a domanda, la restituzione dei contributi previdenziali versati alle casse previdenziali. Il diritto a presentare la domanda di cui al precedente periodo decorre a partire dal compimento del requisito anagrafico per accedere alla pensione di vecchiaia di cui all'articolo 24 del decreto legge 6 dicembre 2011, n. 201, convertito in legge, con modificazioni, dalla legge 22 dicembre 2011, n. 214, o dal momento del decesso, a condizione che non spetti alcun trattamento pensionistico a carico di casse di previdenza pubbliche o private, ovvero un'indennità per morte. Il diritto alla restituzione, su domanda, dei contributi previdenziali versati spetta anche al lavoratore che, pur essendo inabile ai sensi dell'articolo 2, comma 1, della legge 12 giugno 1984, n. 222, non possieda i requisiti di assicurazione e di contribuzione per il riconoscimento del diritto alla pensione di inabilità di cui all'articolo 4 della citata legge n. 222 del 1984. I contributi restituiti ai sensi dei periodi precedenti sono rivalutati annualmente sulla base dell'indice ISTAT dei prezzi al consumo.
+				</an:p>
+				<an:p align="justify">
+					        23-
+					<an:i>ter.</an:i>
+					 Agli oneri derivanti dall'attuazione del comma 23-
+					<an:i>bis</an:i>
+					, si provvede impiegando, a decorrere all'entrata in vigore della legge di conversione del presente decreto legge, quota parte dei maggiori risparmi conseguiti, rispetto a quanto preventivato all'atto dell'approvazione del decreto-legge 6 dicembre 2011, n. 201, derivati dall'articolo 24 del predetto decreto-legge, ed accertati annualmente con provvedimento del Presidente dell'Inps».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
