@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1215/A/G1.27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1215/A/G1.27"/>
+					<an:FRBRdate date="2014-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1215/A/G1.27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.27"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@"/>
+					<an:FRBRdate date="2014-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@.akn"/>
+					<an:FRBRdate date="2014-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1215/A/G1.27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1215" showAs="DDL 1215"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/2553" showAs="Zeller"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/29045" showAs="Berger"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1215</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Zeller</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Berger</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">         premesso che:</an:p>
+				<an:p align="justify">            il comma 515 della legge 27 dicembre 2013, n. 147 (Legge di Stabilità 2014) disciplina il trasferimento e la delega di funzioni dello Stato alle Province autonome di Trento e di Bolzano e della Regione Valle d'Aosta;</an:p>
+				<an:p align="justify">            in particolare, nella parte del comma in cui si esclude il trasferimento e la delega delle funzioni delle Agenzie fiscali, si sperifica che l'esclusione opera anche in relazione ad ambiti di materia relativi a concessioni statali e alle reti di acquisizione del gettito tributario;</an:p>
+				<an:p align="justify">            si stabilisce, inoltre, che con apposite norme di attuazione avvenga il completamento del trasferimento o della delega delle funzioni statali oggetto dell'intesa;</an:p>
+				<an:p align="justify">        considerato che la formulazione "sia in relazione ad ambiti di materia relativi a concessioni statali e alle reti di acquisizione del gettito tributario" è stata introdotta alla Camera dei deputati, dopo che il Governo aveva proposto e approvato in Senato una prima formulazione concordata con le regioni e province interessate,</an:p>
+				<an:p align="justify">        impegna il Governo a stabilire, nell'ambito dell'emanazione delle norme di attuazione dello Statuto speciale per il Trentino-Alto Adige/Südtirol, che i compiti delle Agenzie fiscali rimangano invariati rispetto a quelli attualmente ad esse attribuiti.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
