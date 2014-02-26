@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100"/>
+					<an:FRBRdate date="2014-02-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@"/>
+					<an:FRBRdate date="2014-02-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@.akn"/>
+					<an:FRBRdate date="2014-02-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-02-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-02-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1214-B/A/G8.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1214-B" showAs="DDL 1214-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1214-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la legge di stabilità, n. 147 del 2013, al comma 748, al fine di risolvere almeno temporaneamente i gravissimi problemi occupazionali connessi alla gestione dei servizi di pulizia e ausiliari delle istituzioni scolastiche ed educative statali e degli enti locali, che coinvolgono 24.000 lavoratori, ha autorizzato, fino al 28 febbraio 2014, alle medesime istituzioni, l'acquisto di servizi di pulizia e di altri servizi ausiliari, garantendo così il posto di lavoro ai suddetti lavoratori;</an:p>
+				<an:p align="justify">            nel medesimo comma 748 si prevedeva che entro il 31 gennaio 2014 il Governo attivasse un tavolo di confronto tra le amministrazioni interessate, gli enti locali e le organizzazioni rappresentative dei lavoratori, per individuare soluzioni normative o amministrative connesse ai loro problemi occupazionali;</an:p>
+				<an:p align="justify">
+					            il 18 febbraio scorso, in prossimità dello scadere della proroga contrattuale fino al successivo 28 febbraio, concessa con la legge di stabilità 2014, l'allora Ministro della pubblica istruzione Carrozza inviava un 
+					<an:i>tweet</an:i>
+					 confermando il proprio impegno con queste parole: «Sono al Senato a trovare una soluzione per i lavoratori socialmente utili della scuola almeno temporanea»; sostenendo inoltre di aver trovato la copertura finanziaria di venti milioni di euro sufficienti per assicurare la proroga di un mese, fino a fine marzo 2014, delle assunzioni;
+				</an:p>
+				<an:p align="justify">
+					            la vicenda dei 24.000 lavoratori 
+					<an:i>ex</an:i>
+					 LSU della scuola rappresenta una vera e propria emergenza sociale, uno dei peggiori risultati della cieca politica rigori sta dei passati governi che attraverso una serie indiscriminata di tagli ha fatto ricadere sulle spalle di una categoria debole e indifesa il peso di politiche che aumentano esponenzialmente le disuguaglianze,
+				</an:p>
+				<an:p align="justify">        impegna il Governo a  intervenire immediatamente, già nel decreto-legge 23 gennaio 2014, n. 3, inserendo la norma di proroga su cui il ministro interessato aveva preso ufficialmente impegno di fronte ai 24.000 lavoratori e alle loro famiglie e contestualmente attivare il tavolo di confronto tra le amministrazioni interessate, gli enti locali e le organizzazioni rappresentative dei lavoratori, al fine di individuare una soluzione normativa o amministrativa definitiva a questa emergenza sociale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
