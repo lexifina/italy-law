@@ -1,0 +1,26 @@
+# Massima n. 37687
+
+- Pronuncia: Corte costituzionale, sentenza 39/2014 (ECLI:IT:COST:2014:39)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:39
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Bilancio e contabilità pubblica - Decreto legge n. 174 del 2012 in materia di finanza e funzionamento degli enti territoriali - Disposizioni per il rafforzamento della partecipazione della Corte dei conti al controllo sulla gestione finanziaria delle Regioni - Istituzione di una verifica delle sezioni regionali di controllo della Corte dei conti sui bilanci preventivi (annuali e pluriennali) e sui rendiconti consuntivi delle Regioni e degli enti che compongono il Servizio sanitario nazionale - Obbligo di tener conto, ai fini della verifica predetta, anche delle partecipazioni in società controllate affidatarie di servizi pubblici, nonché dei risultati definitivi della gestione degli enti del Servizio sanitario regionale - Ricorso della Regione Friuli-Venezia Giulia - Asserita invasione di un ambito riservato alla normativa di attuazione dello statuto speciale - Asserita natura coercitiva del controllo - Insussistenza - Riconoscimento alle dette attribuzioni della Corte dei conti della natura di principio fondamentale nella materia "armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica", valevole nell'intero territorio nazionale - Competenza dello Stato a prevedere forme di controllo della Corte dei conti ulteriori rispetto a quelle disciplinate dagli statuti speciali - Controllo di natura collaborativa - Non fondatezza delle questioni.
+
+## Testo
+
+Non sono fondate le questioni di legittimità costituzionale - promosse dalla Regione autonoma Friuli-Venezia Giulia in riferimento all'art. 116 Cost., al Titolo IV ed all'art. 65 dello statuto friulano ed all'art. 33 del d.P.R. n. 902 del 1975 - dei commi 3 e 4 dell'art. 1 del d.l. 10 ottobre 2012, n. 174 in materia di finanza e funzionamento degli enti territoriali (convertito, con modificazioni, dall'art. 1, comma 1, della legge 7 dicembre 2012, n. 213), i quali, rispettivamente, introducono una verifica delle sezioni regionali di controllo della Corte dei conti sui bilanci preventivi (annuali e pluriennali) e sui rendiconti consuntivi delle Regioni e degli enti che compongono il Servizio sanitario nazionale (SSN), ed impongono che i predetti rendiconti tengano altresì in considerazione le partecipazioni in società controllate affidatarie di servizi pubblici per la collettività regionale e di servizi strumentali alla Regione, nonché i risultati definitivi della gestione degli enti del SSN. Lo Stato può prevedere, nell'esercizio della propria potestà legislativa concorrente nella materia «armonizzazione dei bilanci pubblici e coordinamento della finanza pubblica» e al fine di realizzare interessi costituzionalmente protetti, forme di controllo della Corte dei conti ulteriori rispetto a quelle disciplinate dagli statuti speciali e dalle relative norme di attuazione, salvo il limite che esse non contrastino, in modo puntuale, con le fonti di autonomia. Nella specie, tale limite non risulta superato, atteso che il controllo successivo sulla gestione finanziaria regionale previsto dalle disposizioni impugnate si colloca su un piano palesemente distinto rispetto sia al controllo sulla gestione in senso stretto sia al giudizio di parificazione del rendiconto generale della Regione. Inoltre, il controllo sui bilanci e sui rendiconti delle Regioni e degli enti del SSN - considerato in sé ed a prescindere da quanto previsto esclusivamente dal comma 7 circa gli obblighi discendenti dalla pronuncia del giudizio di controllo e le conseguenze del mancato rispetto degli stessi - consiste nel mero esame di tali bilanci e rendiconti da parte delle competenti sezioni regionali di controllo della Corte dei conti per le indicate finalità di verifica del rispetto degli obiettivi annuali posti dal patto di stabilità interno, dell'osservanza del vincolo previsto in materia di indebitamento dall'art. 119, sesto comma, Cost., della sostenibilità dell'indebitamento e dell'assenza di irregolarità suscettibili di pregiudicare, anche in prospettiva, gli equilibri economico-finanziari degli enti. Tale esame è idoneo a evidenziare le disfunzioni eventualmente rilevate ma non implica, di per sé, alcuna coercizione dell'attività dell'ente sottoposto al controllo. - Sulla distinzione tra controllo successivo sulla gestione finanziaria regionale e controllo sulla gestione in senso stretto, v. la citata sentenza n. 179/2007. - Nel senso che un esame idoneo ad evidenziare eventuali disfunzioni non implichi di per sé alcuna coercizione dell'attività dell'ente sottoposto al controllo, v. la citata sentenza n. 179/2007.
+
+## Norme
+
+- decreto-legge, 10/10/2012 n. 174, art. 1, comma 3
+- decreto-legge, 10/10/2012 n. 174, art. 1, comma 4
+- legge, 07/12/2012 n. 213
+
+## Parametri
+
+- Costituzione, art. 116
+- statuto regione Friuli Venezia Giulia
+- statuto regione Friuli Venezia Giulia, art. 65
+- decreto del Presidente della Repubblica, 25/11/1975 n. 902, art. 33
