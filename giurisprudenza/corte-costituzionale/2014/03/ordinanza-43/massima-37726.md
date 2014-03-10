@@ -1,0 +1,21 @@
+# Massima n. 37726
+
+- Pronuncia: Corte costituzionale, ordinanza 43/2014 (ECLI:IT:COST:2014:43)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:43
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Imposte e tasse - Norme della Regione Siciliana - Contributi relativi a progetti di formazione all'autoimpiego rivolta a soggetti disoccupati - Assimilazione, con norma interpretativa retroattiva, alle borse di studio di cui all'art. 4 della legge n. 476 del 1986 - Conseguente esenzione dall'imposizione sul reddito (e, in specie, dall'IRPEF) - Asserita violazione dei limiti statutari alla competenza legislativa siciliana in materia tributaria - Asserita indebita interferenza sul regime sostanziale dei tributi erariali - Difetto di plausibile motivazione in ordine alla rilevanza della questione - Manifesta inammissibilità della questione.
+
+## Testo
+
+E' manifestamente inammissibile, per difetto di una plausibile motivazione in ordine alla rilevanza, la questione di legittimità costituzionale dell'art. 76 della legge della Regione siciliana 28 dicembre 2004, n. 17, impugnato, in riferimento all'art. 36 dello statuto siciliano, in quanto, assimilando i contributi regionali per i progetti di formazione all'autoimpiego rivolta a soggetti disoccupati (art. 2 della legge regionale n. 3 del 1998) alle borse di studio di cui all'art. 4 della legge n. 476 del 1984, produrrebbe l'effetto di sottrarre detti contributi all'imposizione sul reddito. Il rimettente, nel valutare il trattamento fiscale di un contributo regionale erogato nel 2000, muove dall'erroneo presupposto interpretativo che la norma censurata, in quanto volta a precisare la natura giuridica dei contributi  de quibus , rivestirebbe natura interpretativa e sarebbe dotata di efficacia retroattiva. Tuttavia, una simile efficacia non deriva né da una specifica ed esplicita previsione del testo normativo, né dalla natura di interpretazione autentica della norma stessa. Infatti, la disposizione oggetto della pretesa interpretazione legislativa era chiara, non presentava ambiguità e non risulta che, in epoca antecedente all'introduzione della norma censurata, il trattamento fiscale dei contributi regionali avesse dato luogo a contrasti interpretativi, tali da giustificare un intervento del legislatore. In realtà, l'equiparazione dei contributi regionali previsti dalla legge n. 3 del 1998 alle borse di studio disciplinate dall'art. 4 della legge n. 476 del 1984 non era possibile, perché i primi erano riconducibili alla categoria dei redditi assimilati ai redditi di lavoro dipendente ed erano, di conseguenza, soggetti ad IRPEF. Pertanto, l'impugnato articolo di legge ha carattere innovativo con riferimento al trattamento fiscale dei suddetti contributi ed é destinato ad esplicare i suoi effetti solo dalla sua entrata in vigore. Tale interpretazione in chiave di irretroattività appare conforme alla regola generale di irretroattività della legge tributaria stabilita dall'art. 3 della legge n. 212 del 2000 i cui principi, sebbene non costituiscano parametro idoneo a fondare il giudizio di legittimità costituzionale di leggi statali, forniscono comunque i criteri guida per il giudice nell'interpretazione delle norme tributarie, anche laddove le stesse promanino dalle Regioni ad autonomia differenziata. Dalla ritenuta inapplicabilità  ratione temporis  della disposizione impugnata al contributo oggetto di cognizione nel giudizio  a quo  discende la preclusione dell'esame del merito delle censure e dei prospettati consistenti dubbi di costituzionalità. - In tema di leggi che si qualificano di interpretazione autentica, v. le citate sentenze nn. 210/2013, 103/2013 e 78/2012. - Sull'idoneità dei principi della legge n. 212 del 2000 a porsi, non come parametro del giudizio di legittimità costituzionale, ma come guida per il giudice nell'interpretazione delle norme tributarie, anche laddove queste promanino dalle Regioni ad autonomia differenziata, v. le citate sentenze nn. 216/2008 e 41/2008.
+
+## Norme
+
+- legge della Regione siciliana, 28/12/2004 n. 17, art. 76
+
+## Parametri
+
+- statuto regione Sicilia, art. 36
