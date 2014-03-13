@@ -1,0 +1,21 @@
+# Massima n. 37772
+
+- Pronuncia: Corte costituzionale, sentenza 47/2014 (ECLI:IT:COST:2014:47)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:47
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Sospensione condizionale della pena - Esclusione per le pene irrogate dal giudice di pace - Asserito eccesso di delega - Insussistenza - Divieto coerente con l'impianto complessivo della giurisdizione penale del giudice di pace, quale delineato dalla legge delega, funzionale ad evitare che le sanzioni applicabili dal giudice di pace restino prive di ogni concreta attitudine dissuasiva - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 60 del d.lgs. 28 agosto 2000, n. 274, impugnato, in riferimento all'art. 76 Cost., nella parte in cui non consente di applicare le disposizioni di cui agli artt. 163 e seguenti cod. pen., relative alla sospensione condizionale della pena, nei casi di condanna a pena pecuniaria per reati di competenza del giudice di pace, neppure quando il beneficio sia stato invocato dalla difesa. Il denunciato eccesso di delega non sussiste in quanto il divieto censurato è coerente con l'impianto complessivo della giurisdizione penale del giudice di pace, quale delineato dalla legge delega e, in attuazione di essa, dal decreto delegato secondo il principio, espresso nel corso dei lavori preparatori, del "diritto mite ma effettivo". Il giudice di pace è chiamato, infatti, a conoscere di reati di ridotta gravità, espressivi, per lo più, di conflitti interpersonali a carattere privato; in ordine a tali reati, è stato configurato un nuovo e autonomo assetto sanzionatorio, nel segno della complessiva mitigazione dell'afflittività, lungo le tre linee direttrici della totale rinuncia alla pena detentiva, della centralità della pena pecuniaria e del ricorso, nei casi di maggiore gravità o di recidiva, a speciali sanzioni "paradetentive"; delle condanne, inoltre, non si fa mai menzione nei certificati del casellario giudiziale rilasciati su richiesta dei privati e le relative iscrizioni vengono automaticamente eliminate decorsi cinque o dieci anni; infine, è stato previsto un rito orientato, più che alla repressione del conflitto sotteso al singolo episodio criminoso, alla sua composizione, oltre che a finalità deflattive, imponendosi al giudice - al di fuori delle ipotesi di improcedibilità per i casi di "particolare tenuità del fatto" - di tentare la conciliazione delle parti, ove il reato sia perseguibile a querela, in modo da favorirne la remissione, e stabilendosi che le condotte riparatorie o risarcitorie dell'imputato siano atte a determinare l'estinzione del reato. In siffatto contesto il divieto sancito dalla norma denunciata risulta funzionale ad evitare che le sanzioni applicabili dal giudice di pace restino prive di ogni concreta attitudine dissuasiva e, con essa, anche della capacità di fungere da stimolo alla collaborazione con l'opera di mediazione del giudice. Esso pertanto non collide con gli indirizzi generali della legge delega, ma si colloca in linea di continuità e di complementarità rispetto ad essi. - Sui margini di discrezionalità riconosciuti al legislatore delegato, v.,  ex plurimis ,  le citate sentenze nn. 119/2013, 272/2012, 293/2010 e 98/2008. - Sulla mancata preclusione, per il legislatore delegato, della possibilità di adottare norme che rappresentino un coerente sviluppo e, se del caso, un completamento delle scelte espresse dal legislatore delegante, v. le citate decisioni: sentenze nn. 230/2010, 98/2008 e 426/2006; ordinanza n. 73/2012. - Nel senso che il silenzio del legislatore delegante su uno specifico tema non può impedire, a certe condizioni, l'adozione di norme da parte del legislatore delegato, v. citate sentenze nn. 134/2013 e 272/2012. - Sulla norma che esclude la possibilità di fare ricorso all'applicazione della pena su richiesta nel procedimento davanti al giudice di pace, v. citate ordinanze nn. 312/2005 e 228/2005.
+
+## Norme
+
+- decreto legislativo, 28/08/2000 n. 274, art. 60
+
+## Parametri
+
+- Costituzione, art. 76
