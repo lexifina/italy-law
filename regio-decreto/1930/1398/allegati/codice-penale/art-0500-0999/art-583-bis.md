@@ -8,10 +8,10 @@ Chiunque, in assenza di esigenze terapeutiche, provoca, al fine di menomare le f
 
 La pena e' aumentata di un terzo quando le pratiche di cui al primo e al secondo comma sono commesse a danno di un minore ovvero se il fatto e' commesso per fini di lucro.
 
-((La condanna ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il reato di cui al presente articolo comporta, qualora il fatto sia commesso dal genitore o dal tutore, rispettivamente:
+La condanna ovvero l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il reato di cui al presente articolo comporta, qualora il fatto sia commesso dal genitore o dal tutore, rispettivamente:
 
-1) la decadenza dall'esercizio della potesta' del genitore;
+1) la decadenza dall'esercizio della ((responsabilita' genitoriale));
 
-2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno)).
+2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela e all'amministrazione di sostegno.
 
 Le disposizioni del presente articolo si applicano altresi' quando il fatto e' commesso all'estero da cittadino italiano o da straniero residente in Italia, ovvero in danno di cittadino italiano o di straniero residente in Italia. In tal caso, il colpevole e' punito a richiesta del Ministro della giustizia.

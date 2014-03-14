@@ -1,10 +1,10 @@
 Art. 600-septies.2.
 
-(( (Pene accessorie).))
+(Pene accessorie).
 
-((Alla condanna o all'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per i delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice conseguono:
+Alla condanna o all'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per i delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice conseguono:
 
-1) la perdita della potesta' genitoriale, quando la qualita' di genitore e' prevista quale circostanza aggravante del reato;
+1) la perdita della ((responsabilita' genitoriale)), quando la qualita' di genitore e' prevista quale circostanza aggravante del reato;
 
 2) l'interdizione perpetua da qualsiasi ufficio attinente alla tutela, alla curatela o all'amministrazione di sostegno;
 
@@ -14,4 +14,4 @@ Art. 600-septies.2.
 
 La condanna o l'applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per uno dei delitti previsti dalla presente sezione e per il delitto di cui all'articolo 414-bis del presente codice, quando commessi in danno di minori, comporta in ogni caso l'interdizione perpetua da qualunque incarico nelle scuole di ogni ordine e grado, nonche' da ogni ufficio o servizio in istituzioni o strutture pubbliche o private frequentate abitualmente da minori.
 
-In ogni caso e' disposta la chiusura degli esercizi la cui attivita' risulta finalizzata ai delitti previsti dalla presente sezione, nonche' la revoca della licenza di esercizio o della concessione o dell'autorizzazione per le emittenti radiotelevisive)).
+In ogni caso e' disposta la chiusura degli esercizi la cui attivita' risulta finalizzata ai delitti previsti dalla presente sezione, nonche' la revoca della licenza di esercizio o della concessione o dell'autorizzazione per le emittenti radiotelevisive.
