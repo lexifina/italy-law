@@ -1,0 +1,22 @@
+# Massima n. 37780
+
+- Pronuncia: Corte costituzionale, sentenza 51/2014 (ECLI:IT:COST:2014:51)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:51
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Impiego pubblico - Personale del Corpo di polizia penitenziaria - Procedimento disciplinare conseguente a procedimento penale dal quale emergano fatti e circostanze che rendano possibile l'irrogazione di sanzioni disciplinari - Previsione che il procedimento disciplinare debba iniziare entro il termine di decadenza di 120 giorni dalla data di pubblicazione della sentenza, oppure entro 40 giorni dalla data di notificazione della sentenza all'Amministrazione, anziché dalla data in cui l'Amministrazione ne abbia avuto notizia - Lamentata lesione dell'interesse pubblico a sanzionare il dipendente, con specifico riferimento all'ipotesi di procedimento penale definito con sentenza di non doversi procedere per prescrizione del reato - Asserita violazione dei principi di uguaglianza e di ragionevolezza - Asserita violazione del principio di buon andamento della pubblica amministrazione - Insussistenza - Possibilità di un'interpretazione conforme a Costituzione della disposizione denunciata, già sperimentata dalla giurisprudenza del Consiglio di Stato - Non fondatezza, nei sensi di cui in motivazione, della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 7, comma 6, del d.lgs. 30 ottobre 1992, n. 449, impugnato, in riferimento agli artt. 3 e 97 Cost., nella parte in cui, anche per il caso in cui l'imputato sia stato prosciolto a seguito di dichiarazione di estinzione del reato per prescrizione, fa decorrere, in assenza di notifica, il termine di 120 giorni per l'avvio del procedimento disciplinare dalla data di pubblicazione della sentenza, anziché dalla data in cui l'Amministrazione ne ha avuto notizia. È, infatti, possibile un'interpretazione conforme a Costituzione della disposizione denunciata, interpretazione già sperimentata dalla giurisprudenza del Consiglio di Stato, anche in considerazione del fatto che l'attuale quadro normativo è profondamente diverso da quello esistente al momento in cui la norma censurata è nata. Nella disciplina del rapporto tra processo penale e procedimento disciplinare, infatti, il recente art. 55- ter , comma 1, del d.lgs. n. 165 del 2001 ha superato il principio della pregiudiziale penale contenuto nel d.p.r. n. 3 del 1957 che era stato solo in parte mitigato dalla disciplina introdotta dalla legge n. 19 del 1990 a seguito della sentenza n. 971 del 1988 con la quale è stata dichiarata l'illegittimità della destituzione "automatica". Nell'attuale contesto, inoltre, la Pubblica Amministrazione, deve privilegiare, alle preclusioni temporali e in genere ai formalismi procedimentali, la visione sostanzialistica della adeguata ponderazione dei fatti, anche alla luce delle innovazioni introdotte con la legge 241 del 1990. In altri termini, il buon andamento dell'azione amministrativa sollecita un'interpretazione che valorizza l'intervenuta conoscenza da parte dell'amministrazione della sentenza di non doversi procedere, potendosi, così, assicurare un corretto bilanciamento degli interessi costituzionalmente protetti che vengono in rilievo nel procedimento. D'altra parte, anche nella giurisprudenza costituzionale è ravvisabile un'evoluzione nella valutazione del bilanciamento degli interessi che si contrappongono nel procedimento disciplinare, arrivando a ritenere irragionevole e contrario al principio di buon andamento dell'amministrazione il far decorrere il termine per instaurare il procedimento dalla conclusione del giudizio penale con sentenza irrevocabile, anziché dalla comunicazione della sentenza all'amministrazione.  - Sull'interpretazione di una norma, tenendo conto dell'evoluzione dell'ordinamento giuridico, vedi ordinanza n. 191/2013.   - Sulla declaratoria di illegittimità costituzionale della destituzione automatica, vedi sentenza n. 971/1988.   - Sulla valutazione del bilanciamento degli interessi che si contrappongono nel procedimento disciplinare, vedi le citate sentenze nn. 186/2004 e 264/1990.
+
+## Norme
+
+- decreto legislativo, 30/10/1992 n. 449, art. 7, comma 6
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
