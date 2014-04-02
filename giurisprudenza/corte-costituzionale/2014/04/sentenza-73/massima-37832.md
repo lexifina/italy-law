@@ -1,0 +1,17 @@
+# Massima n. 37832
+
+- Pronuncia: Corte costituzionale, sentenza 73/2014 (ECLI:IT:COST:2014:73)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:73
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ricorso straordinario al Presidente della Repubblica - Rimedio giustiziale, sostanzialmente assimilabile ad un "giudizio" per l'acquisita natura vincolante del parere del Consiglio di Stato - Legittimazione del Consiglio di Stato a sollevare questioni di legittimità costituzionale in sede di parere.
+
+## Testo
+
+Nel giudizio di legittimità costituzionale dell'art. 7, comma 8, del d.lgs. 2 luglio 2010, n. 104, impugnato, in riferimento agli artt. 76 e 77, primo comma, Cost., in quanto ammette il ricorso straordinario al Presidente della Repubblica unicamente per le controversie devolute alla giurisdizione amministrativa, deve essere preliminarmente riconosciuta la legittimazione del Consiglio di Stato a sollevare questioni di legittimità costituzionale in sede di parere sul predetto ricorso. L'art. 69, comma 1, della legge n. 69 del 2009, modificando l'art. 13, primo comma, del d.P.R. n. 1199 del 1971, ha stabilito che l'organo competente ad esprimere il parere sul ricorso straordinario al Capo dello Stato, se ritiene che lo stesso non possa essere deciso indipendentemente dalla risoluzione di una questione di legittimità costituzionale che non risulti manifestamente infondata, sospende l'espressione del parere e, riferendo i termini e i motivi della questione, ordina alla segreteria l'immediata trasmissione degli atti alla Corte costituzionale e la notifica del provvedimento ai soggetti indicati dagli artt. 23 e ss. della legge n. 87 del 1953. Tale disposizione è coerente con i criteri posti dall'art. 1 della legge costituzionale n. 1 del 1948, ai sensi del quale la questione di legittimità costituzionale deve essere rilevata o sollevata nel corso di un giudizio e deve essere ritenuta non manifestamente infondata da parte di un giudice. L'istituto del ricorso straordinario è stato, invero, significativamente ridisegnato dall'art. 69, secondo comma, della legge n. 69 del 2009, che, modificando l'art. 14 del d.P.R. n. 1199 del 1971, ha stabilito che la decisione del ricorso straordinario è adottata con decreto del Presidente della Repubblica su proposta del Ministero competente, conforme al parere del Consiglio di Stato. L'acquisita natura vincolante del parere del Consiglio di Stato, che assume così carattere di decisione, ha conseguentemente modificato l'antico ricorso amministrativo, trasformandolo in un rimedio giustiziale, che è sostanzialmente assimilabile ad un giudizio, quantomeno ai fini dell'applicazione degli artt. 1 della legge costituzionale n. 1 del 1948 e 23 della legge n. 87 del 1953. - Sull'ammissibilità di questioni di legittimità costituzionale sollevate dal Consiglio di giustizia amministrativa per la Regione siciliana in sede di parere sul ricorso straordinario al Presidente della Regione siciliana, v. la citata sentenza n. 265/2013. - Sulla ritenuta natura amministrativa del ricorso straordinario al Presidente della Repubblica, come positivamente disciplinato prima delle modifiche introdotte dalla legge n. 69 del 2009, v. la citata sentenza n. 254/2004.
+
+## Norme
+
+- decreto legislativo, 02/07/2010 n. 104, art. 7, comma 8
