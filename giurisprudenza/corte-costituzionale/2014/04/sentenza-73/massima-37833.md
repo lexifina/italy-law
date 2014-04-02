@@ -1,0 +1,22 @@
+# Massima n. 37833
+
+- Pronuncia: Corte costituzionale, sentenza 73/2014 (ECLI:IT:COST:2014:73)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:73
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo amministrativo - Decreto legislativo adottato in esecuzione della delega al Governo per il "riassetto della disciplina del processo amministrativo" - Previsione che il ricorso straordinario al Presidente della Repubblica è ammissibile unicamente per le controversie devolute alla giurisdizione amministrativa - Asserita estraneità della disposizione alla delega di riordino - Insussistenza - Disposizione intesa a coordinare i rapporti fra la giurisdizione amministrativa e l'ambito di applicazione di un rimedio giustiziale amministrativo alternativo - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 7, comma 8, del d.lgs. 2 luglio 2010, n. 104, impugnato, in riferimento agli artt. 76 e 77, primo comma, Cost., in quanto ammette il ricorso straordinario al Presidente della Repubblica unicamente per le controversie devolute alla giurisdizione amministrativa. Infatti, la disposizione censurata non si riferisce ad un oggetto estraneo alla delega per il riassetto della disciplina del processo amministrativo, contenuta nell'art. 44 della legge n. 69 del 2009, la quale include, fra l'altro, il riordino delle norme vigenti sulla giurisdizione del giudice amministrativo, anche rispetto alle altre giurisdizioni. Detta legge ha invero profondamente inciso sulla disciplina del ricorso straordinario, rendendo vincolante il parere del Consiglio di Stato e consentendo che in tale sede vengano sollevate questioni di legittimità costituzionale. L'istituto ha così perduto la propria connotazione puramente amministrativa ed ha assunto la qualità di rimedio giustiziale amministrativo, con caratteristiche strutturali e funzionali in parte assimilabili a quelle tipiche del processo amministrativo. Il legislatore delegato ha, perciò, inteso coordinare i rapporti fra la giurisdizione amministrativa e l'ambito di applicazione di un rimedio giustiziale attratto per alcuni profili nell'orbita della giurisdizione amministrativa medesima, in quanto metodo alternativo di risoluzione di conflitti, pur senza possederne tutte le caratteristiche. Inoltre, la norma in esame non produce un effetto innovativo incompatibile con la natura della delega, che autorizza l'esercizio di poteri innovativi della normazione vigente, a condizione che siano strettamente necessari in rapporto alla finalità di ricomposizione sistematica perseguita con l'operazione di riordino o riassetto. La limitazione del ricorso straordinario alle sole controversie devolute alla giurisdizione amministrativa ha superato il precedente assetto elaborato  praeter legem  dalla prassi e fondato sulla presupposta natura amministrativa di tale rimedio, che ne consentiva l'esperibilità, in regime di concorrenza e non di alternatività, anche per controversie devolute alla giurisdizione ordinaria. Venuto meno tale presupposto in seguito alle riferite novità normative, il legislatore delegato ha evitato un'inammissibile sovrapposizione fra un rimedio giurisdizionale ordinario e un rimedio giustiziale amministrativo, che è a sua volta alternativo al rimedio giurisdizionale amministrativo e ne ricalca solo alcuni tratti strutturali e funzionali. Tale soluzione, peraltro ricavabile dal sistema, è comunque la conseguenza logica della scelta legislativa di traslare il ricorso straordinario dall'area dei ricorsi amministrativi a quella dei rimedi giustiziali e risponde ad un'evidente finalità di ricomposizione sistematica, compatibile con la qualificazione di delega di riordino o riassetto normativo propria dell'art. 44 della legge n. 69 del 2009. - Per l'affermazione che la delega di cui all'art. 44 della legge n. 69 del 2009 autorizza l'esercizio di poteri innovativi della normazione vigente a condizione che siano «strettamente necessari in rapporto alla finalità di ricomposizione sistematica perseguita con l'operazione di riordino o riassetto», v. la citata sentenza n. 162/2012.
+
+## Norme
+
+- decreto legislativo, 02/07/2010 n. 104, art. 7, comma 8
+
+## Parametri
+
+- Costituzione, art. 76
+- Costituzione, art. 77, comma 1
