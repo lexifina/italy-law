@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1430/A/1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1430/A/1.100"/>
+					<an:FRBRdate date="2014-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1430/A/1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@"/>
+					<an:FRBRdate date="2014-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@.akn"/>
+					<an:FRBRdate date="2014-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1430/A/1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1430" showAs="DDL 1430"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29206" showAs="Conte"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29152" showAs="Pagano"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25386" showAs="Torrisi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29079" showAs="Dalla Tor"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29125" showAs="Mancuso"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23060" showAs="Rossi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29045" showAs="Berger"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29118" showAs="Liuzzi"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/29208" showAs="Gualdani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1430</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Conte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pagano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Torrisi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Dalla Tor</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mancuso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Berger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Liuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Gualdani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, inserire i seguenti:</an:p>
+				<an:p align="justify">
+					        «1-
+					<an:i>bis</an:i>
+					. All'articolo 1, comma 57, lettera 
+					<an:i>a)</an:i>
+					, della legge 24 dicembre 2012, n. 228, le parole: "150 unità" sono sostituite dalle seguenti: "250 unità".
+				</an:p>
+				<an:p align="justify">
+					        1-
+					<an:i>ter</an:i>
+					. Per l'attuazione del precedente comma è autorizzata la spesa di euro 827,650 euro per l'anno 2014 e di euro 2,482 milioni a decorrere dall'anno 2015. Ai relativi oneri si provvede, per l'anno 2014 mediante corrispondente riduzione delle risorse iscritte nello stato di previsione del Ministero dell'istruzione, dell'università e della ricerca per il reclutamento e la formazione iniziale dei dirigenti scolastici, e per l'anno 2015 mediante corrispondente riduzione degli stanziamenti di spesa di cui alla Tabella A, Fondo speciale di parte corrente, Ministero dell'economia e delle finanze a decorrere dal 1º gennaio 2015. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio e a provvedere, nell'ipotesi di incongruità o insufficienza delle coperture finanziarie previste, all'individuazione».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
