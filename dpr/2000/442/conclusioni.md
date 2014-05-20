@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 7 luglio 2000
+
+CIAMPI Amato, Presidente del Consiglio dei Ministri Bassanini, Ministro per la funzione pubblica Loiero, Ministro per gli affari regionali Mattioli, Ministro per le politiche comunitarie Salvi, Ministro del lavoro e della previdenza sociale Bianco, Ministro dell'interno Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti il 22 dicembre 2000 Atti di Governo, registro n. 123, foglio n. 16 La Sezione del controllo, nell'adunanza del 21 dicembre 2000, ha ammesso al visto e alla conseguente registrazione il regolamento, con esclusione: dell'art. 1, comma 1, limitatamente alle parole: "e l'assunzione di particolari categorie di lavoratori, anche se regolate da leggi speciali, ad eccezione di quelle in materia di collocamento della gente di mare e di diritto al lavoro dei disabili"; dell'art. 6; dell'art. 7, lettere b), c), d), e), ed f); dell'art. 8, comma 1, limitatamente alle parole: "ed in quelle speciali".
