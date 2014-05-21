@@ -1,0 +1,27 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Vista la sentenza della Corte costituzionale del 12 febbraio 2014, n. 32, depositata il 25 febbraio 2014 e pubblicata nella Gazzetta Ufficiale del 5 marzo 2014, con cui e' stata dichiarata l'illegittimita' costituzionale degli articoli 4-bis e 4-vicies-ter, del decreto-legge 30 dicembre 2005, n. 272, convertito, con modificazioni, dalla legge 21 febbraio 2006, n. 49, recante misure urgenti per garantire la sicurezza ed i finanziamenti per le prossime Olimpiadi invernali, nonche' la funzionalita' dell'Amministrazione dell'interno. Disposizioni per favorire il recupero di tossicodipendenti recidivi e modifiche al testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309;
+
+Visto l'articolo 10 della legge 15 marzo 2010, n. 38, recante disposizioni per garantire l'accesso alle cure palliative e alla terapia del dolore, che ha apportato modifiche al testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, finalizzate alla semplificazione delle procedure di accesso ai medicinali impiegati nella terapia del dolore;
+
+Visto l'articolo 1, comma 4, del decreto-legge 21 ottobre 1996, n. 536, convertito, con modificazioni, dalla legge 23 dicembre 1996, n. 648, recante misure per il contenimento della spesa farmaceutica e la rideterminazione del tetto di spesa per l'anno 1996;
+
+Considerato che la citata pronuncia di incostituzionalita' e' fondata sul ravvisato vizio procedurale dovuto all'assenza dell'omogeneita' e del necessario legame logico-giuridico tra le originarie disposizioni del decreto-legge 30 dicembre 2005, n. 272, e quelle introdotte dalla legge di conversione 21 febbraio 2006, n. 49, in carenza dei presupposti di cui all'articolo 77, secondo comma, della Costituzione, e non gia' sulla illegittimita' sostanziale delle norme oggetto della pronuncia;
+
+Considerato che la citata pronuncia di incostituzionalita' ha determinato, anche in ragione della dichiarata applicabilita' delle disposizioni vigenti prima dell'intervento di modifica di cui alla citata legge 21 febbraio 2006, n. 49, una situazione di incertezza giuridica in ordine alla validita' di tutti gli atti adottati sulla base delle norme contenute nel testo unico, come modificato dalle norme censurate, che regolamentano la fabbricazione, la produzione, la commercializzazione, la prescrizione e la dispensazione dei medicinali contenenti sostanze ad azione stupefacente o psicotropa, compresi gli atti di aggiornamento delle tabelle ivi previste, anche in relazione alle disposizioni introdotte al predetto testo unico dalla legge 15 marzo 2010, n. 38, in materia di semplificazione delle procedure di accesso ai medicinali impiegati nella terapia del dolore;
+
+Considerato, in particolare, che la caducazione delle tabelle introdotte dagli articoli 4-bis e 4-vicies-ter, del decreto-legge 30 dicembre 2005, n. 272, convertito, con modificazioni, dalla legge 21 febbraio 2006, n. 49, con i relativi aggiornamenti, determina l'effetto di escludere dal novero delle sostanze sottoposte a controllo del Ministero della salute tutte le sostanze sottoposte a controllo in attuazione di convenzioni internazionali ed anche le nuove sostanze psicoattive introdotte sulla base delle nuove acquisizioni scientifiche, dalla data di entrata in vigore della predetta legge 21 febbraio 2006, n. 49, fino alla data del 5 marzo 2014, di pubblicazione nella Gazzetta Ufficiale della citata sentenza della Corte costituzionale;
+
+Ritenuta la straordinaria necessita' ed urgenza di assicurare la continuita' della sottoposizione al controllo del Ministero della salute delle predette sostanze e il rispetto delle convenzioni internazionali in base alle quali sono state aggiornate le relative tabelle, nonche' la continuita' e la funzionalita' dell'assetto autorizzativo, distributivo e di prescrizione e dispensazione di medicinali, determinatosi in attuazione della disciplina recata in materia dalle disposizioni dichiarate costituzionalmente illegittime;
+
+Ritenuta pertanto la straordinaria necessita' ed urgenza di ripristinare, a tutela della salute pubblica e dell'esigenza di certezza giuridica, la disciplina normativa vigente alla data di pubblicazione della citata sentenza della Corte costituzionale, garantendo contestualmente, a decorrere dalla data di entrata in vigore del presente decreto, la continuita' degli effetti degli atti amministrativi adottati sino alla data di pubblicazione della sentenza della Corte costituzionale n. 32 del 12 febbraio 2014, ai sensi del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, e successive modificazioni;
+
+Ritenuta la straordinaria necessita' ed urgenza di favorire l'impiego di medicinali meno onerosi per il Servizio sanitario nazionale per indicazioni terapeutiche per le quali sussiste un superiore motivato interesse pubblico connesso alla tutela della salute;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 14 marzo 2014;
+
+Sulla proposta del Presidente del Consiglio dei ministri e del Ministro della salute, di concerto con il Ministro della giustizia;
+
+Emana il seguente decreto-legge:
