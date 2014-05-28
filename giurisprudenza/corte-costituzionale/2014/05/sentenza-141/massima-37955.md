@@ -1,0 +1,25 @@
+# Massima n. 37955
+
+- Pronuncia: Corte costituzionale, sentenza 141/2014 (ECLI:IT:COST:2014:141)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:141
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione Campania - Impianti per la produzione di energia termoelettrica - Obbligo di collocazione permanente di centraline per il rilevamento dell'inquinamento atmosferico - Contrasto con la normativa statale in materia di autorizzazione integrata ambientale, che prevede valutazioni da condurre caso per caso - Disciplina che assicura un livello di tutela ambientale meno avanzato di quello prescritto dalla normativa comunitaria e nazionale - Violazione della competenza legislativa statale esclusiva in materia di tutela dell'ambiente - Violazione dell'obbligo di osservanza dei vincoli comunitari internazionali -  Illegittimità costituzionale  - Assorbimento di ulteriore profilo.
+
+## Testo
+
+E' costituzionalmente illegittimo, per violazione dell'art. 117, commi primo e secondo, lett.  s ), Cost., l'art. 1, comma 124, della legge della Regione Campania 15 marzo 2011, n. 4, che, relativamente agli impianti per la produzione di energia termoelettrica ubicati nel territorio regionale, prescrive, quale condizione per il rilascio o per il mantenimento dell'autorizzazione di esercizio, l'obbligatoria adozione di un sistema di monitoraggio dello stato della qualità dell'aria, attraverso la collocazione permanente di centraline per il rilevamento dell'inquinamento atmosferico. La materia implicata dalla disposizione  de qua  (che attiene alla tutela della qualità dell'aria per porre rimedio al relativo inquinamento) è da ricondursi alla tutela dell'ambiente e dell'ecosistema, riservata alla competenza esclusiva del legislatore statale che, con il d.lgs. n. 152 del 2006, ha assoggettato ad AIA (autorizzazione integrata ambientale) in sede statale i progetti relativi a centrali termiche ed altri impianti di combustione con potenza termica di almeno 300 MW, mentre ha previsto l'AIA in sede regionale per i progetti concernenti gli impianti di combustione di combustibili in installazione con una potenza termica nominale totale pari o superiore a 50 MW. Alla rispettiva autorità competente (statale o regionale) sono attribuiti il controllo sul rispetto delle condizioni dell'AIA (ivi comprese le misure di contenimento delle emissioni nell'ambiente) e la potestà sanzionatoria nel caso di inosservanza delle prescrizioni autorizzatorie. La norma impugnata, mancando di distinguere, tra i progetti soggetti ad AIA, quelli di competenza regionale da quelli di competenza statale, impone anche a quest'ultimi la dotazione del sistema di monitoraggio dell'aria, quale condizione per ottenere - o comunque mantenere - l'autorizzazione all'esercizio, con conseguente invasione della competenza statale in materia. Inoltre, il d.lgs. n. 155 del 2010 (che ha recepito la direttiva 2008/50/CE per un'aria più pulita in Europa), dopo aver stabilito che la valutazione della qualità dell'aria sia effettuata con metodi e criteri comuni su tutto il territorio nazionale, delinea un sistema di valutazione e gestione della qualità dell'aria sulla base di standard qualitativi elevati ed omogenei al fine di assicurare un approccio uniforme su tutto il territorio nazionale e di assicurare che le stesse situazioni di inquinamento siano valutate e gestite in modo analogo; e vieta l'uso di stazioni di misurazione non conformi per impedirne un inutile eccesso. In particolare, l'art. 5, comma 9, del suddetto decreto richiede che l'installazione o l'adeguamento di stazioni di misurazione della qualità dell'aria per impianti che producano emissioni in atmosfera siano disposte in sede di valutazione di impatto ambientale (VIA) e di AIA, là dove la Regione consideri tali stazioni necessarie. Si tratta, dunque, di una valutazione caso per caso, che deve comunque condurre ad una stazione di misurazione conforme alle disposizioni dello stesso d.lgs. n. 155 del 2010. Ne consegue che in materia di competenza esclusiva statale, quale è quella ambientale, la norma denunciata ha previsto un'installazione di un sistema di monitoraggio dell'aria presso tutti i siti degli impianti per la produzione di energia termoelettrica ubicati nel territorio regionale in contrasto, quindi, anche con l'anzidetta disciplina dettata dalla legge statale di recepimento del diritto europeo. (Rimane assorbito l'ulteriore profilo di violazione dell'art. 3 Cost.) - Sulla competenza esclusiva statale in materia di tutela dell'ambiente e dell'ecosistema, v., tra le tante, le citate sentenze nn. 209/2011, 187/2011 e 225/2009.
+
+## Norme
+
+- legge della Regione Campania, 15/03/2011 n. 4, art. 1, comma 124
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 117, comma 1
+- Costituzione, art. 117, comma 2 lett. s)
+- decreto legislativo, 13/08/2010 n. 155
+- decreto legislativo, 03/04/2006 n. 152
