@@ -1,0 +1,41 @@
+Art. 5, comma 3
+
+Allegato D
+
+MODELLO CERTIFICATO DI CONFORMITA'
+
+PER SISTEMA RUOTA
+
+LOGO DEL COSTRUTTORE DEL SISTEMA
+
+Il sottoscritto ......... in qualita' di ..........
+
+della ditta/societa' ......... con sede in .......
+
+CERTIFICA
+
+che il sistema ruota sotto indicato e' conforme in tutte le sue parti al tipo omologato dal Ministero delle infrastrutture e dei trasporti, Dipartimento per i trasporti, la navigazione ed i sistemi informativi e statistici ? Direzione generale per la motorizzazione, con certificato n. ......... del ../../....
+
+SISTEMA RUOTA COMPOSTO DA:
+
+- RUOTA (n. identificazione, estremi di omologazione, marcatura di cui al par. 5 del Reg. 124 UN/ECE) .......
+
+(eventuali)
+
+- PNEUMATICI (designazione dimensionali) .......
+
+- Adattatore/distanziali (descrizione) .......
+
+- Viti o dadi di fissaggio (descrizione) ........
+
+Certificato n. ..... del ../../....
+
+Firma
+
+.....................
+
+--------------------------------------
+
+(1) sottoscrizione della domanda da parte di persona autorizzata
+
+Parte di provvedimento in formato grafico
