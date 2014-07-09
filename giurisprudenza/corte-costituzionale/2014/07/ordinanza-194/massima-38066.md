@@ -1,0 +1,23 @@
+# Massima n. 38066
+
+- Pronuncia: Corte costituzionale, ordinanza 194/2014 (ECLI:IT:COST:2014:194)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:194
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Responsabilità civile - Danni subiti dai passeggeri in relazione al ritardo dei treni - Responsabilità del vettore ferroviario - Limitazione al solo rimborso del prezzo del biglietto - Asserita violazione del principio di eguaglianza e del criteri di ragionevolezza - Asserita violazione del diritto di agire in giudizio - Omessa ricostruzione della vigente disciplina del trasporto ferroviario - Manifesta inammissibilità della questione.
+
+## Testo
+
+E' manifestamente inammissibile la questione di legittimità costituzionale dell'art. 11 delle «Condizioni e tariffe per i trasporti delle persone» - approvate dal r.d.l. 11 ottobre 1934, n. 1948 (convertito dalla legge n. 911 del 1935), e ad esso allegate - impugnato, in riferimento agli artt. 3 e 24 Cost., nella parte in cui limita la responsabilità del vettore ferroviario, per i danni subiti dai passeggeri in relazione al ritardo dei treni, al solo rimborso del prezzo del biglietto. Il rimettente non ha compiutamente ricostruito il contesto normativo di riferimento poiché ha omesso di verificare se l'art. 1229 cod. civ. - che sanziona con la nullità qualsiasi limitazione pattizia della responsabilità per dolo o colpa grave - potesse rappresentare un utile parametro per "interpretare" la censurata disposizione limitativa come riferita ai soli casi di  culpa levis  e per mantenere l'obbligo risarcitorio ordinario ai casi, invece, di dolo o colpa grave. Inoltre, ha omesso di considerare l'influenza sul quadro ordinamentale sia della riforma dell'Azienda autonoma delle Ferrovie dello Stato (legge n. 210 del 1985), sia delle successive modifiche apportate tanto alla struttura dell'ente quanto al regime delle tariffe e delle condizioni generali di contratto, ormai affrancato dall'antica fonte legislativa e trasferito all'autonomia regolativa dell'ente stesso. Il rimettente avrebbe, dunque, dovuto adeguatamente motivare circa le ragioni in forza delle quali la semplice espunzione della normativa censurata varrebbe, di per sé, ad assegnare alla parte attrice il diritto al risarcimento, escludendo qualsiasi rilevanza, come fonte di obbligazioni, alle condizioni generali di contratto in vigore all'epoca dei fatti. Infine, ha omesso di fornire adeguata motivazione in ordine alle ragioni per le quali al caso di specie abbia ritenuto inapplicabile il regolamento CE 23 ottobre 2007, n. 1371/2007, espressamente richiamato dalle vigenti condizioni generali di trasporto, il quale prevede che il vettore nazionale non può ritenersi "comunitariamente" obbligato a prestazioni risarcitorie diverse da quelle previste dalle dette condizioni generali.
+
+## Norme
+
+- regio decreto legge, 11/10/1934 n. 1948
+- legge, 04/04/1935 n. 911
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
