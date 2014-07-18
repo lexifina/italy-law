@@ -1,0 +1,17 @@
+# Massima n. 38114
+
+- Pronuncia: Corte costituzionale, sentenza 222/2014 (ECLI:IT:COST:2014:222)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:222
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Immunità parlamentare - Procedimento penale per diffamazione nei confronti di un deputato per affermazioni asseritamente offensive pronunciate nel corso di un comizio in danno di altro parlamentare - Deliberazione della Camera dei deputati di insindacabilità delle opinioni espresse dal deputato nell'esercizio delle sue funzioni - Ricorso per conflitto di attribuzione promosso dal Giudice di pace di Viterbo - Insussistenza del nesso funzionale fra le dichiarazioni e l'attività politica del parlamentare - Dichiarazione di non spettanza alla Camera dei deputati del potere esercitato - Conseguente annullamento della delibera di insindacabilità.
+
+## Testo
+
+Non spetta alla Camera dei deputati dichiarare che le affermazioni asseritamente offensive, per le quali pende un procedimento penale davanti al Giudice di pace di Viterbo, espresse da un proprio componente in danno di altro parlamentare, nel corso di un comizio, concernono opinioni espresse da un membro del Parlamento nell'esercizio delle sue funzioni, ai sensi dell'art. 68, primo comma, Cost., con conseguente annullamento della deliberazione di insindacabilità adottata dall'Assemblea il 22 settembre 2010. Infatti, affinché sussista l'immunità prevista dall'art. 68, primo comma, Cost., tra l'attività divulgativa  extra moenia  e l'attività parlamentare propriamente intesa deve sussistere un legame di ordine temporale, oltre ad una sostanziale corrispondenza di significato tra le opinioni espresse nell'esercizio delle funzioni e gli atti esterni, al di là delle formule letterali usate, non essendo sufficiente né una semplice comunanza di argomenti né un mero "contesto politico" entro cui le dichiarazioni  extra moenia  possono collocarsi, né il riferimento alla generica attività parlamentare o l'inerenza a temi di rilievo generale. L'esigenza di salvaguardia dell'autonomia e libertà delle assemblee parlamentari dalle possibili interferenze di altri poteri deve, infatti, bilanciarsi con l'esigenza, di pari rilievo costituzionale, di garanzia del diritto dei singoli alla tutela della loro dignità di persone. Peraltro, lo scrutinio relativo alla sussistenza del nesso funzionale tra opinioni espresse ed atti parlamentari tipici deve essere condotto secondo un criterio di adeguatezza e proporzionalità, che si pone in linea di continuità con la giurisprudenza della Corte europea dei diritti dell'uomo secondo cui non si può giustificare un rifiuto di accesso alla giustizia, da parte del privato che si assuma offeso dalle opinioni del parlamentare, per il solo motivo che la disputa potrebbe essere di natura politica.   - Sul principio secondo cui il potere di intervento nei giudizi per conflitto di attribuzione non può essere precluso quando l'esito del conflitto è suscettibile di condizionare la stessa possibilità che il giudizio comune abbia luogo, v. le citate sentenze nn. 386/2005, 195/2007, 305/2011.   - Sull'ulteriore conflitto di attribuzione avente ad oggetto la deliberazione della Camera dei deputati del 22 settembre 2010, v. la citata sentenza n. 221/2014.
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
