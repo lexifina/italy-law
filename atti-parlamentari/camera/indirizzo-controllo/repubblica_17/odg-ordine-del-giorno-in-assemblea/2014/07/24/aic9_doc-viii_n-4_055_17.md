@@ -1,0 +1,20 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/055 presentata da SPESSOTTO ARIANNA (MOVIMENTO 5 STELLE) in data 24/07/2014
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/055
+- Data: 20140724
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/055 presentata da SPESSOTTO ARIANNA (MOVIMENTO 5 STELLE) in data 24/07/2014
+- Presentatore: SPESSOTTO ARIANNA (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/142
+- Argomento: http://eurovoc.europa.eu/2602
+- Argomento: http://eurovoc.europa.eu/5891
+- Argomento: http://eurovoc.europa.eu/642
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/055
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_055_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 4/055 presentato da SPESSOTTO Arianna testo di Giovedì 24 luglio 2014, seduta n. 271 La Camera, premesso che: con decreto del Ministro dell'ambiente e della tutela del territorio e del mare dell'11 aprile 2008, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dello sviluppo economico, è stato approvato il «Piano d'azione per la sostenibilità ambientale dei consumi nel settore della pubblica amministrazione», successivamente aggiornato con le modifiche apportate dalla Revisione del 2013; il citato Piano prevede la definizione &#8211; attraverso appositi decreti del Ministero dell'ambiente e della tutela del territorio e del mare &#8211; dei cosiddetti «Criteri Ambientali Minimi» da inserire nelle procedure di acquisto relative alle categorie merceologiche elencate nell'articolo 1, comma 1127, della legge 296 del 2006; tali criteri, relativamente all'affidamento dei servizi energetici per gli edifici, ivi compresi i servizi di illuminazione e riscaldamento-raffreddamento, sono stati adottati con decreto del Ministro dell'ambiente e della tutela del territorio e del mare in data 7 marzo 2012, che dispone le condizioni da rispettare nella gestione dei predetti servizi; il decreto prevede tra le altre cose, che vengano realizzati un sistema automatizzato di gestione e monitoraggio degli impianti (accensione/spegnimento, regolazione); dalla lettura del Bilancio di previsione 2014 della Camera, tra gli aspetti che più colpiscono l'attenzione, ci sono i costi sopportati dall'amministrazione legati agli specifici consumi elettrici da parte degli impianti per la fornitura di energia, invita, per le rispettive competenze, l'Ufficio di Presidenza e il Collegio dei Questori a valutare l'opportunità di predisporre un piano di intervento per l'attuazione di misure volte al risparmio e all'efficienza energetica all'interno dei palazzi della Camera dei deputati, anche attraverso l'emanazione di circolari e campagne di sensibilizzazione rivolte ai parlamentari e ai dipendenti della Camera. In particolare: a) con riferimento agli impianti di raffreddamento interni alla Camera, al fine di scongiurare un aumento eccessivo dei consumi energetici, evitare di regolare la temperatura a livelli troppo bassi rispetto alla temperatura esterna, prevedendo una temperatura ricompresa tra i 25 e i 27 gradi; b) prevedere l'installazione di fotocellule, al posto delle normali lampadine, all'interno dei servizi igienici della Camera e in tutti i locali e corridoi a bassa frequentazione, al fine di garantire il massimo risparmio energetico, nell'ottica di una riduzione dei consumi interni; c) abbassare l'intensità dell'impianto di illuminazione dei corridoi della Camera dei Deputati e regolare la luminosità di ciascuno dei Palazzi della Camera sostituendo gradualmente le lampade esistenti con luci a led o soluzioni a risparmio energetico. 9/Doc. VIII, n.4/ 55 .  Spessotto .
