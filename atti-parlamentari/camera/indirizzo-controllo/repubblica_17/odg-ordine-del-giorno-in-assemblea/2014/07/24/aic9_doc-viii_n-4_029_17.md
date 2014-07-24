@@ -1,0 +1,24 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/029 presentata da MANNINO CLAUDIA (MOVIMENTO 5 STELLE) in data 24/07/2014
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/029
+- Data: 20140724
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/029 presentata da MANNINO CLAUDIA (MOVIMENTO 5 STELLE) in data 24/07/2014
+- Presentatore: MANNINO CLAUDIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: DI MAIO LUIGI (MOVIMENTO 5 STELLE)
+- Cofirmatario: FRACCARO RICCARDO (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1707
+- Argomento: http://eurovoc.europa.eu/2527
+- Argomento: http://eurovoc.europa.eu/4511
+- Argomento: http://eurovoc.europa.eu/4622
+- Argomento: http://eurovoc.europa.eu/6400
+- Argomento: http://eurovoc.europa.eu/878
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/029
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_029_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 4/029 presentato da MANNINO Claudia testo di Giovedì 24 luglio 2014, seduta n. 271 La Camera, premesso che: l'uso indiscriminato di veicoli privati per la mobilità genera forti impatti economici (consumi energetici, anche di risorse non riproducibili, strozzature nella catena logistica, degrado delle strutture edilizie e dei monumenti), sociali (congestione da traffico, perdita di tempo, riduzione di spazi sociali e ricreativi utilizzati da veicoli in movimento o in sosta), sanitario-ambientali (emissioni di gas serra, inquinamento atmosferico e acustico, incidentalità, consumo di suolo per strade, parcheggi, impianti a servizio ecc.); in ambito urbano, buona parte della richiesta di mobilità risulta determinata dal tragitto casa-lavoro e da spostamenti comunque correlati all'attività lavorativa. Ad esempio, secondo fonti UE, il traffico urbano genera il 40 per cento delle emissioni di CO 2 e il 70 per cento delle altre emissioni inquinanti prodotte dagli autoveicoli, e secondo dati del Ministero dell'ambiente nel 2012 in Italia il 70 per cento delle emissioni di CO 2 dei trasporti sia passeggeri che merci è stato prodotto per coprire distanze inferiori ai 50 km, per lo più all'interno delle aree urbane; in questo ambito, la Camera può intervenire per abbattere l'impatto causato, in termini di mobilità urbana, dalla propria attività istituzionale, ovviamente nei rispetto di irrinunciabili esigenze funzionali. In particolare, si dovrebbero porre in essere misure volte, da un lato, a ridurre per quanto possibile le esigenze di spostamenti individuali, senza rinunciare allo svolgimento delle necessarie attività ma ripensandone talune modalità di svolgimento, dall'altro, a razionalizzare gli spostamenti comunque necessari (in termini, per esempio, di uso di modalità collettive, pubbliche, meno inquinanti); tale abbattimento, per essere veramente efficace ed incisivo, non può risultare da un coacervo di iniziative scollegate e «volontaristiche», bensì da una complessiva programmazione a livello unitario che &#8211; nel coinvolgere gli utenti a livello informativo e consultivo &#8211; possa tener conto di tutti i fattori in gioco; il decreto del Ministero dell'ambiente 27 marzo 1998, «Mobilità sostenibile nelle aree urbane», ha previsto, all'articolo 3, per le imprese e per gli enti pubblici con singole unità locali con più di 300 dipendenti, l'obbligo di adottare il piano degli spostamenti casa-lavoro del proprio personale dipendente, da aggiornare annualmente, e di individuare un responsabile della mobilità aziendale (cosiddetto « mobility manager »). Nel caso della Camera, il piano, invece di essere limitato ai soli dipendenti, potrebbe utilmente essere esteso alla generalità di coloro che frequentano costantemente le sedi, naturalmente tenendo in debito conto le caratteristiche peculiari della Camera, fra le quali il carattere istituzionale e rappresentativo di taluni spostamenti, la natura indifferibile e urgente di alcune esigenze di mobilità, nonché l'imprevedibilità degli orari di attività lavorativa, invita, per le rispettive competenze, l'Ufficio di Presidenza e il Collegio dei Questori a valutare l'opportunità di avviare uno studio di fattibilità per elaborare un piano degli spostamenti casa-lavoro per la generalità dei frequentatori delle sedi e a individuare, senza maggiori oneri per l'Amministrazione, un responsabile della mobilità dotandolo dei necessari poteri. 9/Doc. VIII, n.4/ 29 . (Testo modificato nel corso della seduta)   Mannino , Luigi Di Maio , Fraccaro .
