@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/G10.201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/G10.201"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1563/A/G10.201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10.201"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@.akn"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1563/A/G10.201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1563" showAs="DDL 1563"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29100" showAs="Fravezzi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29155" showAs="Palermo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29156" showAs="Panizza"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1563</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10.201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fravezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Palermo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Panizza</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge n. 1563 di conversione del decreto-legge 31 maggio 2014, n. 83, recante disposizioni urgenti per la tutela del patrimonio culturale, lo sviluppo della cultura e il rilancio del turismo,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            gli interventi previsti dall'articolo 10 al fine di favorire la riqualificazione e l'accessibilità delle strutture ricettive potranno essere avviati solo dopo l'entrata in vigore del decreto attuativo, che dovrà essere adottato entro la fine del mese di ottobre 2014;</an:p>
+				<an:p align="justify">            considerato che le strutture ricettive effettuano i lavori di manutenzione straordinaria e di ammodernamento insieme ad altri interventi, volti al miglioramento delle condizioni di sicurezza.</an:p>
+				<an:p align="justify">            Premesso inoltre che si rende conseguentemente necessario prorogare il termine stabilito per gli interventi di prevenzione incendi, che, stando al termine attualmente previsto, dovrebbero essere conclusi entro dicembre 2014;</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            di prorogare il termine, previsto dall'articolo Il del decreto legge 2013, n. 150, convertito in legge 27 febbraio 2014 n. 15, sino al quindicesimo mese successivo alla data di pubblicazione del decreto di cui al comma 4, articolo 10 del presente decreto legge, al fine di consentire il coordinamento dei tempi di realizzazione dei diversi tipi di intervento di riqualificazione e ristrutturazione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
