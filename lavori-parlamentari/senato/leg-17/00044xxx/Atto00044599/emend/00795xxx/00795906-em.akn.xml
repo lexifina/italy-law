@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/A/17.0.17"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="17.0.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@.akn"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/A/17.0.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23080" showAs="Tomaselli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29057" showAs="Caleo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29077" showAs="Cuomo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29192" showAs="Vaccari"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29040" showAs="Astorre"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29176" showAs="Scalia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 17.0.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Tomaselli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Caleo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Cuomo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Astorre</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Scalia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					, aggiungere il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 17-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifiche al decreto legislativo 12 aprile 2006 n. 163 recante Codice dei contratti pubblici relativi a lavori, servizi e forniture in attuazione delle direttive 2004/17/CE e 2004/18/CE)</an:i>
+				</an:p>
+				<an:p align="justify">        1. Al decreto legislativo 12 aprile 2006 n. 163 sono apportate le seguenti modificazioni:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 all'articolo 33, al comma 3-
+					<an:i>bis</an:i>
+					, nel secondo capoverso dopo le parole "possono acquisire" è inserita la parola "lavori", dopo le parole "soggetto aggregatore" sono inserite le parole "o dalle centrali di committenza costituite ai sensi dell'articolo 1 comma 455 della legge 27 dicembre 2006 n. 296" e l'ultimo periodo è soppresso;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 all'articolo 33, dopo il comma 3-
+					<an:i>bis</an:i>
+					 sono aggiunti i seguenti:
+				</an:p>
+				<an:p align="justify">
+					        "3-
+					<an:i>ter</an:i>
+					. Le disposizioni del comma 3-
+					<an:i>bis</an:i>
+					 non si applicano: a) alle acquisizioni di lavori servizi e forniture in economia mediante amministrazione diretta; b) nei casi di cui al secondo periodo del comma 8 e al secondo periodo del comma 11 dell'articolo 125 del codice dei contratti pubblici; c) nei casi di lavori urgenti e somma urgenza in base a quanto previsto dagli articoli 175 e 176 del D.P.R. 5 ottobre 2010 n. 207.";
+				</an:p>
+				<an:p align="justify">
+					        3-
+					<an:i>quater</an:i>
+					. Le disposizioni di cui al comma 3 bis entrano in vigore il 1º gennaio 2015 per le acquisizioni di beni e servizi e il 1º luglio 2015 per le acquisizioni dei lavori. Sono fatti salvi i bandi e gli avvisi di gara pubblicati fino allo gennaio 2015 per forniture e servizi e fino al 1º luglio 2015 per i lavori».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
