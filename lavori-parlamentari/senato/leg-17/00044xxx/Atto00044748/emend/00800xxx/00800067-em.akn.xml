@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1582/A/25.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1582/A/25.4"/>
+					<an:FRBRdate date="2014-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1582/A/25.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="25.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@"/>
+					<an:FRBRdate date="2014-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@.akn"/>
+					<an:FRBRdate date="2014-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1582/A/25.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1582" showAs="DDL 1582"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29075" showAs="Crimi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29091" showAs="Endrizzi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29143" showAs="Morra"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29046" showAs="Bertorotta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1582</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 25.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Crimi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Endrizzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Morra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Bertorotta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 7, aggiungere il seguente:</an:p>
+				<an:p align="justify">
+					        «7-
+					<an:i>bis</an:i>
+					. A decorrere dalla data di entrata in vigore detta legge di conversione del presente decreto le Commissioni mediche delle Aziende sanitarie locali sono integrate da due medici dell'Inps in qualità di componenti effettivi. Gli accertamenti che la Commissione medica integrata conclude con giudizio unanime comportano l'esclusione della persona disabile da ulteriori verifiche. Nel caso in cui la valutazione non unanime dell'accertamento da parte della Commissione medica integrata, derivi da giudizi di uno o entrambi i medici di nomina Inps, questi dovranno inserire la motivazione nel verbale, in questo caso l'INPS sospende l'invio del verbale alla persona disabile e acquisisce dalla Asl la documentazione sanitaria. Il Responsabile del Centro Medico Legate territorialmente competente, entro i successivi dieci giorni potrà validare il verbale agli atti ovvero disporre una nuova visita da effettuarsi entro i successivi venti giorni. Nel caso sia disposta una ulteriore visita questa sarà effettuata da una Commissione medica costituita da: un medico Inps, indicato dal Responsabile della Commissione medico legale, diverso dal componente della Commissione medica integrata con funzione di presidente, al quale è demandato il giudizio definitivo, da un medico rappresentante delle associazioni di categoria, e da un operatore sociale nei casi previsti dalla normativa vigente.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
