@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1429/A/15.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1429/A/15.10"/>
+					<an:FRBRdate date="2014-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1429/A/15.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@"/>
+					<an:FRBRdate date="2014-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@.akn"/>
+					<an:FRBRdate date="2014-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-08-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-08-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1429/A/15.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1429" showAs="DDL 1429"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29048" showAs="Bignami"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29146" showAs="Mussini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29135" showAs="Mauro"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17879" showAs="Buemi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29139" showAs="Molinari"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29166" showAs="Puppato"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/29051" showAs="Bocchino"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1429</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bignami</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Mussini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Buemi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Puppato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Bocchino</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire Il comma 1 con il seguente:</an:p>
+				<an:p align="justify">        «1. L'articolo 75 della Costituzione è sostituito dal seguente:</an:p>
+				<an:p align="justify">        "Art. 75. È indetto referendum popolare per deliberare l'abrogazione di una legge o di un atto avente valore di legge, oppure di articoli o parti di essi con autonomo valore normativo, quando lo richiedono ottocentomila elettori o cinque Consigli regionali.</an:p>
+				<an:p align="justify">        Per indire un referendum è ammesso l'utilizzo da parte dei cittadini della firma digitale.</an:p>
+				<an:p align="justify">        Non è ammesso il referendum per le leggi tributarie e di bilancio, di amnistia e di indulto, di autorizzazione a ratificare trattati internazionali.</an:p>
+				<an:p align="justify">        Hanno diritto di partecipare al referendum tutti gli elettori.</an:p>
+				<an:p align="justify">        La proposta soggetta a referendum è approvata se ha partecipato alla votazione la maggioranza degli elettori che hanno partecipato all'ultima elezione della Camera dei deputati, e se è raggiunta là maggioranza dei voti validamente espressi.</an:p>
+				<an:p align="justify">
+					        La legge determina le modalità di attuazione del 
+					<an:i>referendum</an:i>
+					"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
