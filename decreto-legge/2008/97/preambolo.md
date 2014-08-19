@@ -1,0 +1,25 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visto il decreto-legge 23 aprile 2008, n. 80;
+
+Considerato il ruolo di Alitalia-Linee aeree italiane s.p.a. quale vettore che maggiormente assicura il servizio pubblico di trasporto aereo nei collegamenti tra il territorio nazionale ed i Paesi non appartenenti all'Unione europea, nonche' nei collegamenti di adduzione sulle citate rotte del traffico passeggeri e merci dai e ai bacini di utenza regionali;
+
+Considerato che nel luglio 2007 si e' conclusa senza esito positivo la procedura competitiva per la cessione di una quota del capitale di Alitalia-Linee aeree italiane s.p.a. non inferiore al 30,1 per cento e alle obbligazioni convertibili detenute dal Ministero dell'economia e delle finanze, avviata mediante avviso di sollecitazione di manifestazioni di interesse, pubblicato il 29 dicembre 2006;
+
+Considerato inoltre che, successivamente alla chiusura della citata procedura competitiva, Alitalia-Linee aeree italiane s.p.a. ha attivato un processo finalizzato all'individuazione di un partner industriale o finanziario in grado di consentire il risanamento, il rilancio e lo sviluppo della societa', anche attraverso l'acquisizione della quota di controllo detenuta dal Ministero dell'economia e delle finanze e che, nell'aprile 2008, Air France-KLM ha ritirato la propria offerta vincolante presentata ad Alitalia-Linee aeree italiane s.p.a. in data 14 marzo 2008, all'esito della fase di esclusiva concessa dalla societa' nel gennaio del 2008;
+
+Considerato, infine, l'aggravarsi della situazione finanziaria
+
+dell'Alitalia-Linee aeree italiane s.p.a. manifestato nelle informazioni rese al mercato e segnatamente nel resoconto intermedio sulla gestione al 31 marzo 2008, comunicato al pubblico il 13 maggio e il 27 maggio 2008;
+
+Ritenuta conseguentemente la straordinaria necessita' ed urgenza di emanare disposizioni al riguardo;
+
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni per garantire il monitoraggio e la trasparenza dei meccanismi di allocazione della spesa pubblica ed in materia fiscale, nonche' per il differimento e la proroga di termini di imminente scadenza, concernenti attivita' che richiedono una ulteriore disamina da parte delle amministrazioni competenti, come delineate a seguito dell'insediamento del nuovo Governo;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 30 maggio 2008;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'economia e delle finanze;
+
+Emana il seguente decreto-legge:
