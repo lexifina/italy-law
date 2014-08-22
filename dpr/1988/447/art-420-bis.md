@@ -1,8 +1,6 @@
 Art. 420-bis.
 
-(( (Assenza dell'imputato). ))
-
-((
+(Assenza dell'imputato).
 
 1.
 
@@ -20,4 +18,16 @@ Nei casi di cui ai commi 1 e 2, l'imputato e' rappresentato dal difensore. E' al
 
 L'ordinanza che dispone di procedere in assenza dell'imputato e' revocata anche d'ufficio se, prima della decisione, l'imputato compare. Se l'imputato fornisce la prova che l'assenza e' stata dovuta ad una incolpevole mancata conoscenza della celebrazione del processo, il giudice rinvia l'udienza e l'imputato puo' chiedere l'acquisizione di atti e documenti ai sensi dell'articolo 421, comma 3. Nel corso del giudizio di primo grado, l'imputato ha diritto di formulare richiesta di prove ai sensi dell'articolo 493. Ferma restando in ogni caso la validita' degli atti regolarmente compiuti in precedenza, l'imputato puo' altresi' chiedere la rinnovazione di prove gia' assunte. Nello stesso modo si procede se l'imputato dimostra che versava nell'assoluta impossibilita' di comparire per caso fortuito, forza maggiore o altro legittimo impedimento e che la prova dell'impedimento e' pervenuta con ritardo senza sua colpa.
 
-5. Il giudice revoca altresi' l'ordinanza e procede a norma dell'articolo 420-quater se risulta che il procedimento, per l'assenza dell'imputato, doveva essere sospeso ai sensi delle disposizioni di tale articolo))
+5.
+
+Il giudice revoca altresi' l'ordinanza e procede a norma dell'articolo 420-quater se risulta che il procedimento, per l'assenza dell'imputato, doveva essere sospeso ai sensi delle disposizioni di tale articolo.
+
+((215))
+
+-------------
+
+AGGIORNAMENTO (215)
+
+La L. 28 aprile 2014, n. 67, come modificata dalla L. 11 agosto 2014, n. 118, ha disposto (con l'art. 15-bis, comma 1) che "Le disposizioni di cui al presente capo si applicano ai procedimenti in corso alla data di entrata in vigore della presente legge, a condizione che nei medesimi procedimenti non sia stato pronunciato il dispositivo della sentenza di primo grado".
+
+Ha inoltre disposto (con l'art. 15-bis, comma 2) che "In deroga a quanto previsto dal comma 1, le disposizioni vigenti prima della data di entrata in vigore della presente legge continuano ad applicarsi ai procedimenti in corso alla data di entrata in vigore della presente legge quando l'imputato e' stato dichiarato contumace e non e' stato emesso il decreto di irreperibilita'".
