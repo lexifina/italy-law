@@ -1,13 +1,13 @@
 Art. 2343-bis.
 
-(( (Acquisto della societa' da promotori, fondatori, soci e amministratori). ))
+(Acquisto della societa' da promotori, fondatori, soci e amministratori).
 
-((L'acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei promotori, dei fondatori, dei soci o degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese, deve essere autorizzato dall'assemblea ordinaria.
+L'acquisto da parte della societa', per un corrispettivo pari o superiore al decimo del capitale sociale, di beni o di crediti dei promotori, dei fondatori, dei soci o degli amministratori, nei due anni dalla iscrizione della societa' nel registro delle imprese, deve essere autorizzato dall'assemblea ordinaria.
 
-L'alienante deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' contenente la descrizione dei beni o dei crediti, il valore a ciascuno di essi attribuito, i criteri di valutazione seguiti, nonche' l'attestazione che tale valore non e' inferiore al corrispettivo, che deve comunque essere indicato.
+L'alienante deve presentare la relazione giurata di un esperto designato dal tribunale nel cui circondario ha sede la societa' ((ovvero la documentazione di cui all'articolo 2343-ter primo e secondo comma)) contenente la descrizione dei beni o dei crediti, il valore a ciascuno di essi attribuito, i criteri di valutazione seguiti, nonche' l'attestazione che tale valore non e' inferiore al corrispettivo, che deve comunque essere indicato.
 
-La relazione deve essere depositata nella sede della societa' durante i quindici giorni che precedono l'assemblea. I soci possono prenderne visione. Entro trenta giorni dall'autorizzazione il verbale dell'assemblea, corredato dalla relazione dell'esperto designato dal tribunale, deve essere depositato a cura degli amministratori presso l'ufficio del registro delle imprese.
+La relazione deve essere depositata nella sede della societa' durante i quindici giorni che precedono l'assemblea. I soci possono prenderne visione. Entro trenta giorni dall'autorizzazione il verbale dell'assemblea, corredato dalla relazione dell'esperto designato dal tribunale ((ovvero dalla documentazione di cui all'articolo 2343-ter)), deve essere depositato a cura degli amministratori presso l'ufficio del registro delle imprese.
 
 Le disposizioni del presente articolo non si applicano agli acquisti che siano effettuati a condizioni normali nell'ambito delle operazioni correnti della societa' ne' a quelli che avvengono nei mercati regolamentati o sotto il controllo dell'autorita' giudiziaria o amministrativa.
 
-In caso di violazione delle disposizioni del presente articolo gli amministratori e l'alienante sono solidalmente responsabili per i danni causati alla societa', ai soci ed ai terzi.))
+In caso di violazione delle disposizioni del presente articolo gli amministratori e l'alienante sono solidalmente responsabili per i danni causati alla societa', ai soci ed ai terzi.

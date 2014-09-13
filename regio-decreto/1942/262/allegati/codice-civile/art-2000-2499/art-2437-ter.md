@@ -4,9 +4,9 @@ Art. 2437-ter.
 
 Il socio ha diritto alla liquidazione delle azioni per le quali esercita il recesso.
 
-Il valore di liquidazione delle azioni e' determinato dagli amministratori, sentito il parere del collegio sindacale e del soggetto incaricato della ((revisione legale dei conti)), tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni.
+Il valore di liquidazione delle azioni e' determinato dagli amministratori, sentito il parere del collegio sindacale e del soggetto incaricato della revisione legale dei conti, tenuto conto della consistenza patrimoniale della societa' e delle sue prospettive reddituali, nonche' dell'eventuale valore di mercato delle azioni.
 
-Il valore di liquidazione delle azioni quotate in mercati regolamentati e' determinato facendo esclusivo riferimento alla media aritmetica dei prezzi di chiusura nei sei mesi che precedono la pubblicazione ovvero ricezione dell'avviso di convocazione dell'assemblea le cui deliberazioni legittimano il recesso.
+Il valore di liquidazione delle azioni quotate in mercati regolamentati e' determinato facendo ((...)) riferimento alla media aritmetica dei prezzi di chiusura nei sei mesi che precedono la pubblicazione ovvero ricezione dell'avviso di convocazione dell'assemblea le cui deliberazioni legittimano il recesso. ((Lo statuto delle societa' con azioni quotate in mercati regolamentati puo' prevedere che il valore di liquidazione sia determinato secondo i criteri indicati dai commi 2 e 4 del presente articolo, fermo restando che in ogni caso tale valore non puo' essere inferiore al valore che sarebbe dovuto in applicazione del criterio indicato dal primo periodo del presente comma.))
 
 Lo statuto puo' stabilire criteri diversi di determinazione del valore di liquidazione, indicando gli elementi dell'attivo e del passivo del bilancio che possono essere rettificati rispetto ai valori risultanti dal bilancio, unitamente ai criteri di rettifica, nonche' altri elementi suscettibili di valutazione patrimoniale da tenere in considerazione.
 
