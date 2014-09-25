@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G2.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G2.5"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G2.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@.akn"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-09-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-09-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1613/A/G2.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1613" showAs="DDL 1613"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1613</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'attacco israeliano nella Striscia di Gaza ha determinato una cifra consistente di morti e feriti fra la popolazione civile palestinese e un ammontare complessivo di danni stimato in circa 7-8 miliardi di dollari;</an:p>
+				<an:p align="justify">            il conflitto israelo-palestinese si sviluppa nella quotidianità attraverso una serie ininterrotta di piccoli e grandi momenti di tensione anche in città e territori assai distanti da Gaza, in particolare nella Cisgiordania, anche e soprattutto in conseguenza dell'occupazione dei territori da parte dei coloni ebrei;</an:p>
+				<an:p align="justify">            entrambe le comunità tuttavia - quella israeliana e quella palestinese - laddove il conflitto è più distante in particolare, mostrano interessanti elementi di vivacità, un insediamento importante della società civile e una propensione, differente ma certamente notevole, allo sviluppo e alla democrazia;</an:p>
+				<an:p align="justify">
+					            il perdurare del conflitto, la trasgressione sistematica degli accordi di pace, gli apici di guerra che si sviluppano frequentemente nella forma di una 
+					<an:i>«escalation»</an:i>
+					 di provocazione reazione e violenza, rischiano di vanificare gli sforzi di chi - nonostante tutto - opera per alimentare un processo di pace, convivenza, cooperazione e sviluppo economico, culturale e sociale;
+				</an:p>
+				<an:p align="justify">            la sicurezza di entrambi i popoli non può che passare per un forte investimento sugli strumenti di pace e attraverso una tutela internazionale del processo medesimo, elemento sul quale - in questa fase - sembrano convergere sia la parte israeliana che quella palestinese;</an:p>
+				<an:p align="justify">            il rafforzamento della pace, la garanzia piena degli accordi, la prospettiva di uno sviluppo economico e sociale pieno, costituiscono anche il terreno sul quale è possibile depotenziare e marginalizzare le organizzazioni più violente ed estremistiche di entrambi i campi,</an:p>
+				<an:p align="justify">        impegna il Governo in accordo con l'Autorità Nazionale Palestinese, lo Stato d'Israele, i partner internazionali, a sostenere con determinazione nelle sedi europee e internazionali un approfondimento della fattibilità politica e tecnica a promuovere le condizioni per l'invio di una forza internazionale di interposizione e pace sotto l'egida dell'ONU, che preveda l'utilizzo dei caschi blu.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+				<an:p>(**) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
