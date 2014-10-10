@@ -1,0 +1,22 @@
+# Massima n. 38124
+
+- Pronuncia: Corte costituzionale, sentenza 232/2014 (ECLI:IT:COST:2014:232)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:232
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Attività estrattive - Gestione delle terre e rocce da scavo provenienti da piccoli cantieri - Delibera della Giunta regionale del Veneto 11 febbraio 2013, n. 179, recante «Procedure operative per la gestione delle terre e rocce da scavo per i quantitativi indicati all'art. 266, comma 7, del d.lgs. n. 152 del 2006 e s.m.i.» - Intervento regionale in via suppletiva in attesa dell'intervento statale - Ricorso per conflitto di attribuzione tra enti promosso dal Governo - Delibera invasiva della competenza legislativa esclusiva statale in materia di ambiente - Dichiarazione che non spettava alla Giunta regionale del Veneto deliberare in materia di procedure operative per la gestione delle terre e rocce da scavo provenienti da cantieri di piccole dimensioni, come definiti dall'art. 266, comma 7, del decreto legislativo 3 aprile 2006, n. 152 - Annullamento della delibera impugnata - Assorbimento degli ulteriori motivi di censura.
+
+## Testo
+
+Non spetta alla Giunta regionale del Veneto deliberare in materia di procedure operative per la gestione delle terre e rocce da scavo provenienti da cantieri di piccole dimensioni, come definiti dall'art. 266, comma 7, del d. lgs. 3 aprile 2006, n. 152 (Norme in materia ambientale) e va conseguentemente annullata l'impugnata delibera 11 febbraio 2013, n. 179 che ha approvato le procedure operative per la gestione delle terre e rocce da scavo prodotte nel corso di attività e interventi provenienti da cantieri di piccole dimensioni, la cui produzione non superi i 6000 metri cubi per singolo cantiere. La disciplina delle procedure per lo smaltimento delle rocce e terre da scavo, infatti, attiene al trattamento dei residui di produzione ed è, perciò, da ascriversi alla «tutela dell'ambiente», affidata in via esclusiva alla competenza dello Stato ai sensi dell'art. 117, secondo comma, lett.  s ), Cost., affinché siano garantiti livelli di tutela uniformi su tutto il territorio nazionale. Dalla disciplina contenuta negli artt. 184- bis  e 266, comma 7, del codice dell'ambiente (d.lgs. n. 152 del 2006), in particolare, non residua alcuna competenza - neppure di carattere suppletivo e cedevole - in capo alle Regioni e alle Province autonome in vista della semplificazione delle procedure da applicarsi ai cantieri di piccole dimensioni. L'impugnata delibera, pertanto, anche se valevole in via suppletiva in attesa dell'intervento statale, ha invaso le competenze dello Stato in materia di tutela dell'ambiente. (Restano assorbiti gli altri motivi di censura) - Sull'idoneità a innescare un conflitto intersoggettivo di attribuzione di qualsiasi atto, dotato di efficacia e rilevanza esterna, diretto a esprimere in modo chiaro e inequivoco la pretesa di esercitare una competenza, il cui svolgimento possa determinare una invasione, o una menomazione, della altrui sfera di attribuzioni, v.,  ex plurimis , le sentenze nn. 122/2013 e 332/2011. - Sull'inammissibilità di un conflitto di attribuzione proposto contro atti meramente consequenziali (confermativi, riproduttivi, esplicativi, esecutivi ecc.) rispetto ad atti anteriori, non impugnati, v.,  ex plurimis , le sentenze nn. 130/2014, 144/2013 e 207/2012. - Sull'inammissibilità di un conflitto di attribuzione proposto contro un atto che ripeta identicamente il contenuto o costituisca una mera e necessaria esecuzione di un altro atto, che ne costituisce il precedente logico e giuridico, v. le citate sentenze nn. 369/2010, 472/1975, 32/1958 e 18/1956. - Sull'irrilevanza delle sopravvenienze di fatto, come l'esaurimento degli effetti dell'atto impugnato, ai fini del persistere dell'interesse alla decisione dei conflitti di attribuzione, v.,  ex plurimis , le sentenze nn. 9/2013, 328/2010, 222/2006, 287/2005, 263/2005 e 289/1993. - Sulla riconducibilità della disciplina delle procedure per lo smaltimento delle rocce e terre da scavo al trattamento dei residui di produzione, ascrivibile, pertanto, alla «tutela dell'ambiente», v. le citate sentenze nn. 70/2014 e 300/2013.
+
+## Norme
+
+- deliberazione giunta regione Veneto, 11/02/2013 n. 179
+
+## Parametri
+
+- Costituzione, art. 118, comma 1
+- Costituzione, art. 117, comma 2 lett. s)
