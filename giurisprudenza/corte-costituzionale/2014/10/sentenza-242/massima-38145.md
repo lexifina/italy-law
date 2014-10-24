@@ -1,0 +1,24 @@
+# Massima n. 38145
+
+- Pronuncia: Corte costituzionale, sentenza 242/2014 (ECLI:IT:COST:2014:242)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:242
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Istruzione - Parità degli istituti scolastici - Requisiti necessari ai fini del riconoscimento - "Organica costituzione di corsi completi", con esclusione del riconoscimento "a singole classi, tranne che in fase di istituzione di nuovi corsi completi, ad iniziare dalla prima classe" - Censura della disposizione nella parte in cui "nel periodo transitorio di passaggio al nuovo ordinamento scolastico, introduce il divieto per gli istituti paritari di costituire intere sezioni  ex novo , consentendo di costituire solo la prima classe a partire dall'anno scolastico 2010/2011, e gradualmente ciascuna classe per ogni successivo anno, fino al completamento del corso" - Asserita disparità di trattamento rispetto agli istituti scolastici statali - Insussistenza - Esigenza di assicurare il graduale ed organico passaggio dai vecchi ai nuovi corsi di studio - Non fondatezza delle questioni.
+
+## Testo
+
+Non sono fondate le questioni di legittimità costituzionale dell'art. 1, comma 4, lettera  f ), della legge 10 marzo 2000, n. 62, impugnato, in riferimento agli artt. 3, 33, 41 e 76 Cost., nella parte in cui - nel prevedere, fra i requisiti necessari ai fini del riconoscimento della parità degli istituti scolastici, "l'organica costituzione di corsi completi", e la possibilità, nel periodo transitorio di passaggio al nuovo ordinamento scolastico, di ottenere la parità per singole classi, ad iniziare dalla prima - introduce il divieto implicito, secondo il "diritto vivente", di costituire intere sezioni  ex novo  per le classi paritarie, consentendo di costituire solo la prima classe a partire dall'anno scolastico 2010/2011, e gradualmente ciascuna classe per ogni successivo anno, fino al completamento del corso. In particolare, il divieto di attivare classi successive alla prima si applica sia alle scuole statali che a quelle paritarie. La prosecuzione del percorso scolastico delle classi già funzionanti, fino al graduale esaurimento dei corsi, viene infatti riferita allo stesso modo ad entrambe. Ne consegue che è solo negli istituti scolastici statali, o in quelli paritari preesistenti, che può verificarsi una fisiologica e temporanea coesistenza fra le nuove classi prime del corso di studi, da sviluppare in conformità al nuovo ordinamento, e le ulteriori classi, già avviate secondo il vecchio corso di studi, da completare sino al suo esaurimento. Tale interpretazione della norma censurata porta ad escludere la sussistenza di alcuna irragionevole disparità di trattamento nei confronti degli istituti paritari. Per i medesimi motivi, risulta infondata la censura relativa all'art. 33 Cost., in quanto, individuata la  ratio  del divieto di istituire classi successive alla prima nell'esigenza di assicurare il graduale ed organico passaggio dai vecchi ai nuovi corsi di studio, la stessa appare coerente con le finalità di assicurare il rispetto degli  standard  qualitativi ai quali la scuola paritaria deve rispondere e di garantire il ruolo riconosciuto alle scuole paritarie nel sistema nazionale di istruzione pluralistico. Quanto alla dedotta lesione della libertà di iniziativa economica, premesso che può essere anche "ragionevolmente limitata" nel quadro di un bilanciamento con altri interessi costituzionalmente rilevanti, l'infondatezza della questione discende dalla considerazione delle finalità che il contestato divieto consentirebbe di soddisfare, quali l'organico passaggio dai vecchi corsi di studio a quelli nuovi. Infine, il denunciato eccesso di delega non sussiste e l'invocato parametro risulta del tutto in conferente in quanto la disposizione censurata non è stata adottata in attuazione della legge delega indicata dal rimettente, che è persino successiva (legge 28 marzo 2003, n. 53). - Sulla facoltà del giudice  a quo , di fronte ad un orientamento giurisprudenziale consolidato, di assumere l'interpretazione censurata in termini di "diritto vivente" e di richiederne il controllo di compatibilità con parametri costituzionali, v. le citate sentenze nn. 191/2013, 258/2012, 117/2012 e 91/2004. - Sul principio secondo cui la rilevanza della questione deve essere valutata alla luce delle circostanze sussistenti al momento dell'ordinanza di remissione v.,  ex multis , le citate sentenze nn. 42/2011, 354/2010, 227/2010, 272/2007, 244/2005, n. 24 del 2004, 383/2002, ordinanza n. 270/2003.
+
+## Norme
+
+- legge, 10/03/2000 n. 62, art. 1, comma 4 lett. f)
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 33
+- Costituzione, art. 41
+- Costituzione, art. 76
