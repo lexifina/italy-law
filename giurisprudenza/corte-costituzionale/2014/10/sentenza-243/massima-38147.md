@@ -1,0 +1,30 @@
+# Massima n. 38147
+
+- Pronuncia: Corte costituzionale, sentenza 243/2014 (ECLI:IT:COST:2014:243)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:243
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Procedimento civile - Controversie in materia di invalidità civile, di pensione di inabilità e di assegno di invalidità - Accertamento tecnico preventivo (ATP) per la verifica delle condizioni sanitarie legittimanti la pretesa, quale condizione di procedibilità della domanda - Asserita introduzione di una forma atipica di "giurisdizione condizionata", lesiva del principio di ragionevolezza e eguaglianza, del diritto di azione e di difesa in giudizio, del diritto all'assistenza sociale, dei principi di parità e del contraddittorio nonché della motivazione dei provvedimenti giurisdizionali - Insussistenza - Congruo bilanciamento tra gli interessi generali al contenimento e alla brevità del contenzioso e l'interesse della parte - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale, in riferimento agli artt. 3, 24, 38 e 111 Cost., degli artt. 445- bis  cod. proc. civ. e 10, comma 6- bis , del d.l. 30 settembre 2005, n. 203 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 2 dicembre 2005, n. 248), i quali, relativamente alle controversie in materia di invalidità, cecità, sordità civile,  handicap  e disabilità, nonché di pensione di inabilità e di assegno di invalidità, prevedono, rispettivamente, l'accertamento tecnico per la verifica preventiva delle condizioni sanitarie legittimanti la pretesa fatta valere in giudizio, quale condizione di procedibilità della domanda, e la partecipazione alle indagini di un medico legale dell'INPS, su richiesta del consulente tecnico d'ufficio (CTU), tenuto a comunicare al predetto Istituto l'avvio delle operazioni di consulenza. La censurata normativa non delinea un'ipotesi di giurisdizione condizionata al previo esperimento di rimedi amministrativi, bensì un procedimento giurisdizionale sommario, modellato su quelli d'istruzione preventiva, a carattere contenzioso, avente ad oggetto la verifica delle condizioni sanitarie legittimanti la pretesa che s'intende far valere, cui fa seguito un eventuale giudizio di merito a cognizione piena. Il legislatore ha inteso così perseguire gli interessi generali alla riduzione del contenzioso assistenziale e previdenziale (nelle ipotesi in cui il conseguimento della prestazione è subordinato all'accertamento del requisito sanitario), al contenimento della durata dei processi in materia ed al conseguimento della certezza giuridica in ordine al citato accertamento; e, nel ragionevole esercizio della sua discrezionalità in tema di processo, ha congruamente bilanciato tali interessi generali con quello della parte a far valere il suo diritto di assistenza o previdenza, basato sullo stato di invalidità. Al giudice, investito dell'istanza di accertamento tecnico preventivo, spettano tutti i poteri procedimentali previsti dal codice di rito civile, nonché il governo dei tempi del procedimento, e l'omologazione giudiziale dell'accertamento del requisito sanitario secondo le risultanze probatorie indicate nella relazione del CTU rinviene la sua motivazione, in assenza di contestazioni, nell'accordo tacito tra le parti. Il difensore della parte ricorrente partecipa attivamente a tutto il procedimento, che fin dalla nomina del CTU si svolge nel contraddittorio delle parti, che possono fare osservazioni fino al deposito della consulenza e presentare contestazioni nel termine perentorio assegnato dal giudice. La previsione che impone al CTU di chiedere all'ente previdenziale la nomina del medico legale e di comunicare l'avvio delle indagini non attribuisce al consulente di parte INPS una posizione privilegiata in violazione del principio del contraddittorio, ma garantisce il contraddittorio anche tecnico fin dall'inizio delle operazioni processuali, in considerazione degli interessi pubblici di cui il detto ente è portatore e dei quali va garantita la tutela, peraltro senza che la realizzazione di tale esigenza incida sul libero espletamento dell'attività difensiva della parte privata. Infine, la mancata attribuzione dell'efficacia di titolo esecutivo al decreto di omologa è ragionevole perché coerente con la natura del provvedimento, atto meramente dichiarativo della sussistenza o meno del requisito medico-sanitario, il quale rende inoppugnabile un'acquisizione probatoria, ma non decide sul merito della domanda, essendo necessaria da parte dell'INPS la verifica anche degli altri requisiti, diversi da quello medico-sanitario, che la legge prevede per l'attribuzione di un determinato beneficio. - Per l'orientamento secondo cui la tutela giurisdizionale garantita dall'art. 24 Cost. non comporta l'assoluta immediatezza dell'esperibilità del diritto di azione, né deve necessariamente porsi in relazione di immediatezza con il sorgere del diritto, a condizione che la determinazione concreta di modalità e di oneri non renda difficile o impossibile l'esercizio di esso, v.,  ex multis , le seguenti citate decisioni: sentenze nn. 276/2000, 67/1990 e 186/1972; ordinanza n. 251/2003. - Relativamente alle condizioni che legittimano forme di accesso alla giurisdizione subordinate al previo adempimento di oneri finalizzati al perseguimento di interessi generali, v. le citate sentenze nn. 98/2014 e 406/1993.
+
+## Norme
+
+- codice di procedura civile, art. 445 bis
+- decreto-legge, 30/09/2005 n. 203, art. 10, comma 6 bis
+- legge, 02/12/2005 n. 248
+- decreto-legge, 01/07/2009 n. 78, art. 20, comma 5 bis
+- legge, 03/08/2009 n. 102
+- legge, 15/07/2011 n. 111
+- decreto-legge, 06/07/2011 n. 98, art. 38, comma 8
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 38
+- Costituzione, art. 111
