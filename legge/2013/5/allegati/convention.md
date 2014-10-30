@@ -1,0 +1,7 @@
+Allegato
+
+UNITED NATIONS CONVENTION ON JURISDICTIONAL
+
+IMMUNITIES OF STATES AND THEIR PROPERTY
+
+Parte di provvedimento in formato grafico
