@@ -4,7 +4,7 @@ Art. 21-quinquies.
 
 1.
 
-Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto o di nuova valutazione dell'interesse pubblico originario, il provvedimento amministrativo ad efficacia durevole puo' essere revocato da parte dell'organo che lo ha emanato ovvero da altro organo previsto dalla legge. La revoca determina la inidoneita' del provvedimento revocato a produrre ulteriori effetti. Se la revoca comporta pregiudizi in danno dei soggetti direttamente interessati, l'amministrazione ha l'obbligo di provvedere al loro indennizzo. PERIODO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104.
+((Per sopravvenuti motivi di pubblico interesse ovvero nel caso di mutamento della situazione di fatto non prevedibile al momento dell'adozione del provvedimento o, salvo che per i provvedimenti di autorizzazione o di attribuzione di vantaggi economici, di nuova valutazione dell'interesse pubblico originario)), il provvedimento amministrativo ad efficacia durevole puo' essere revocato da parte dell'organo che lo ha emanato ovvero da altro organo previsto dalla legge. La revoca determina la inidoneita' del provvedimento revocato a produrre ulteriori effetti. Se la revoca comporta pregiudizi in danno dei soggetti direttamente interessati, l'amministrazione ha l'obbligo di provvedere al loro indennizzo. PERIODO ABROGATO DAL D.LGS. 2 LUGLIO 2010, N. 104.
 
 1-bis.
 
@@ -12,4 +12,4 @@ Ove la revoca di un atto amministrativo ad efficacia durevole o istantanea incid
 
 1-ter.
 
-((COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35)).
+COMMA ABROGATO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO CON MODIFICAZIONI DALLA L. 4 APRILE 2012, N. 35.
