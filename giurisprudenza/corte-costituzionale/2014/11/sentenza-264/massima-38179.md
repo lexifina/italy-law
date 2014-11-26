@@ -1,0 +1,21 @@
+# Massima n. 38179
+
+- Pronuncia: Corte costituzionale, sentenza 264/2014 (ECLI:IT:COST:2014:264)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:264
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Immunità parlamentare - Procedimento civile per il risarcimento del danno derivante dalle dichiarazioni, asseritamente diffamatorie, rese da un deputato ad un quotidiano nazionale in danno di magistrati componenti l'Ufficio centrale circoscrizionale estero - Deliberazione della Camera dei deputati di insindacabilità delle opinioni espresse dal deputato nell'esercizio delle sue funzioni - Ricorso per conflitto di attribuzione promosso dalla Corte d'appello di Milano - Insussistenza del nesso funzionale fra le dichiarazioni e l'attività politica del parlamentare - Dichiarazione di non spettanza alla Camera dei deputati del potere esercitato - Conseguente annullamento della delibera di insindacabilità.
+
+## Testo
+
+Non spettava alla Camera dei deputati affermare che le dichiarazioni asseritamente offensive - per le quali pende un procedimento civile per risarcimento del danno davanti alla Corte d'Appello di Milano - espresse da un proprio componente in danno di magistrati componenti l'ufficio centrale circoscrizionale estero, concernono opinioni espresse da un membro del Parlamento nell'esercizio delle sue funzioni, ai sensi dell'art. 68, primo comma, Cost., con conseguente annullamento della impugnata deliberazione di insindacabilità. Infatti, il "nesso funzionale" che deve sussistere tra le dichiarazioni divulgative rese  extra moenia  da un membro del Parlamento e l'attività parlamentare propriamente intesa, deve essere visto come identificabilità della dichiarazione quale espressione della attività parlamentare, postulandosi anche, a tal fine, una sostanziale contestualità tra i due momenti, a testimonianza dell'unitario alveo "funzionale" che le deve, appunto, correlare. La preclusione all'esercizio della funzione giurisdizionale scaturisce, in via diretta ed immediata, dalla deliberazione della Camera competente che affermi la sussistenza di detta prerogativa. Ne deriva che gli elementi di fatto a sostegno del richiamato "nesso funzionale" tra le opinioni del parlamentare e gli eventuali atti divulgativi  extra moenia  non possono che derivare dalle "allegazioni" che la Camera stessa ha l'onere di indicare o di produrre. Nella specie, la relazione che ha accompagnato la proposta della Giunta per le autorizzazioni della Camera dei deputati, nonchè gli interventi susseguitisi in sede di discussione in Assemblea, si limitano a ritenere sussistente la prerogativa senza operare alcun richiamo ad atti in qualche modo riconducibili alle funzioni del parlamentare interessato o alla sua stessa persona. Peraltro, la mancata costituzione in giudizio della Camera dei deputati ha obiettivamente impedito di acquisire al contraddittorio processuale le ragioni a sostegno della deliberazione di insindacabilità ritenute rilevanti sul piano delle competenze costituzionali. - Per l'ammissibilità del conflitto, v. la citata ordinanza n. 262/2013. - Sulla delimitazione dell'ambito di operatività dell'insindacabilità, v. la citata sentenza n. 313/2013. - Nel senso che la garanzia dell'insindacabilità opera specificamente in relazione "all'esercizio" delle funzioni medesime parlamentari  stricto sensu , v. le citate sentenze nn. 313/2013 e 221/2014.
+
+## Norme
+
+- deliberazione della Camera dei deputati, 19/12/2008
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
