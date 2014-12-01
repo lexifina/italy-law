@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13"/>
+					<an:FRBRdate date="2014-12-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1651/123/8 e 13"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@"/>
+					<an:FRBRdate date="2014-12-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@.akn"/>
+					<an:FRBRdate date="2014-12-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1651/C/G/1651/123/8 e 13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1651" showAs="DDL 1651"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 8° e 13° riunite" href="/dati.senato.it/osr/Commissione/124"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/22551" showAs="Bisinella"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/29185" showAs="Stefani"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/25359" showAs="Crosio"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/29039" showAs="Arrigoni"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/29080" showAs="Dalla Zuanna"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/29163" showAs="Piccoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1651</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1651/123/8 e 13 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Bisinella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Stefani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Crosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Arrigoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Dalla Zuanna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Piccoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            esaminato il decreto-legge 12 settembre 2014, n. 133, recante misure urgenti per l'apertura dei cantieri, la realizzazione delle opere pubbliche, la digitalizzazione del Paese, la semplificazione burocratica, l'emergenza del dissesto idrogeologico e per la ripresa delle attività produttive;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 7 interviene in materia di rischio idrogeologico prevedendo procedure acceleratorie per la realizzazione delle opere di difesa del suolo e di mitigazione del rischio idraulico;</an:p>
+				<an:p>            la regione Veneto sta realizzando ed ha programmato di realizzare, successivamente alla drammatica alluvione dell'autunno 2010, una serie di interventi necessari al ripristino delle opere di difesa idrogeologica danneggiate e interventi strutturali nelle zone più delicate dal punto di vista della sicurezza idraulica;</an:p>
+				<an:p>            una delle principali criticità del territorio regionale interessa il bacino idrografico del Brenta - Bacchiglione; infatti, la mitigazione del rischio idraulico del Bacchiglione rientra negli accordi di programma tra la regione Veneto e il Ministero dell'ambiente;</an:p>
+				<an:p>            per il solo bacino idraulico del fiume Bacchiglione e suoi affluenti il censimento dei danni alle sole opere idrauliche, conseguente all'evento di piena del 2010 e accertato nell'ambito della rendicontazione del finanziamento del Fondo di solidarietà dell'Unione europea, assomma a 512 milioni di euro;</an:p>
+				<an:p>            l'intervento risolutivo per la mitigazione del rischio idraulico del bacino idrografico del Brenta Bacchiglione e rappresentato dall'utilizzo dell'idrovia Padova-Venezia, opera lasciata ad oggi incompleta, come scolmatore per la diversione delle piene del sistema Brenta-Bacchiglione;</an:p>
+				<an:p>            uno studio commissionato dalla regione Veneto ha confermato l'opportunità e la fattibilità di un canale scolmatore sul tracciato del vecchio progetto di idrovia Padova-Venezia; la realizzazione di tale canale proteggerebbe i territori di Padova e Vicenza e parte del veneziano dall'esondazione del Brenta e del Bacchiglione e contrasterebbe i fenomeni erosivi che stanno interessando parte della laguna di Venezia; inoltre, garantirebbe un sollievo all'agricoltura del veneziano in caso di siccità;</an:p>
+				<an:p>            il costo dell'opera non supera i 300 milioni di euro, cifra di molto inferiore a quella spesa per far fronte alle opere idrauliche dei danni conseguenti all'evento di piena del 2010,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad adottare le opportune iniziative per promuovere, di concerto con la regione Veneto, l'inserimento tra le opere prioritarie della realizzazione del canale scolmatore per la diversione delle piene del sistema Brenta-Bacchiglione, sul tracciato del vecchio progetto di idrovia Padova-Venezia, quale opera strategica per la sicurezza idraulica di una delle zone più ricche e densamente abitate del nostro Paese.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
