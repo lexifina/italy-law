@@ -1,0 +1,17 @@
+# Massima n. 38196
+
+- Pronuncia: Corte costituzionale, ordinanza 271/2014 (ECLI:IT:COST:2014:271)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:271
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Immunità parlamentari - Procedimento civile per il risarcimento del danno a carico di un senatore, in relazione ad affermazioni rese nel corso di una conferenza stampa - Deliberazione di insindacabilità delle opinioni del parlamentare adottata dal Senato della Repubblica - Ricorso per conflitto di attribuzione promosso dalla Corte d'appello di Palermo - Sussistenza dei requisiti soggettivo ed oggettivo per l'instaurazione del conflitto - Ammissibilità del ricorso - Comunicazione e notificazione conseguenti.
+
+## Testo
+
+È ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87, il conflitto di attribuzione tra poteri dello Stato, proposto dalla Corte d'appello di Palermo, nel corso di un giudizio civile per il risarcimento danni, in ordine alla deliberazione del Senato della Repubblica del 29 gennaio 2009 (doc. IV- quater , n. 5), con la quale è stato affermato che le dichiarazioni rese da un soggetto, senatore all'epoca dei fatti, nei confronti del Commissario straordinario dell'Ente Autonomo Fiera del Mediterraneo concernono opinioni espresse da un membro del Parlamento nell'esercizio delle sue funzioni, come tali insindacabili ai sensi dell'art. 68, primo comma, Cost. Infatti, nella fattispecie esiste la materia di un conflitto la cui risoluzione spetta alla competenza della Corte costituzionale, sussistendone tanto il requisito soggettivo quanto quello oggettivo. Con riguardo al requisito soggettivo, va riconosciuta la legittimazione della Corte d'appello di Palermo a promuovere conflitto di attribuzione tra poteri dello Stato, in quanto organo giurisdizionale, in posizione di indipendenza costituzionalmente garantita, competente a dichiarare definitivamente, nell'esercizio delle funzioni attribuitegli, la volontà del potere cui appartiene; parimenti, deve essere riconosciuta la legittimazione del Senato della Repubblica ad essere parte del conflitto, quale organo competente a dichiarare in modo definitivo la propria volontà in ordine all'applicazione dell'art. 68, primo comma, Cost. Per quanto attiene al profilo oggettivo, il ricorrente lamenta la lesione della propria sfera di attribuzione, costituzionalmente garantita, in conseguenza di un esercizio ritenuto illegittimo, per inesistenza dei relativi presupposti, del potere spettante al Senato della Repubblica di dichiarare l'insindacabilità delle opinioni espresse da un membro di quel ramo del Parlamento ai sensi dell'art. 68, primo comma, Cost. - Sulla idoneità ad instaurare un giudizio per conflitto di attribuzione di un atto introduttivo avente la forma dell'ordinanza, v., tra le ultime, le citate ordinanze nn. 161/2014 e 151/2013.
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
