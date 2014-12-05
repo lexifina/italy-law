@@ -1,0 +1,24 @@
+# Massima n. 38199
+
+- Pronuncia: Corte costituzionale, sentenza 274/2014 (ECLI:IT:COST:2014:274)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2014:274
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Sanità pubblica - Regolamentazione specifica per l'impiego di medicinali per terapie avanzate a base di cellule staminali mesenchimali (metodo stamina), con contestuale avvio di un percorso di sperimentazione clinica - Facoltà per le strutture pubbliche di completare i trattamenti su singoli pazienti avviati prima dell'entrata in vigore del decreto-legge censurato - Lamentata esclusione della possibilità di avviare alle strutture pubbliche pazienti che abbiano richiesto il trattamento solo dopo l'entrata in vigore del d.l. medesimo "sino all'esito della decisione da parte della Corte costituzionale" - Asserita violazione del dovere di solidarietà - Asserita violazione del diritto alla salute - Asserita disparità di trattamento - Insussistenza - Applicazione del principio di doverosa cautela nella validazione e somministrazione di nuovi farmaci - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 2 del d.l. 25 marzo 2013, n. 24 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 23 maggio 2013, n. 57), impugnato, in riferimento agli artt. 2, 3 e 32 Cost., nella parte in cui - promuovendo una sperimentazione clinica sull'impiego di medicinali per terapie avanzate a base di cellule staminali mesenchimali e consentendo alle strutture pubbliche di completare i trattamenti su singoli pazienti con tali medicinali, avviati anteriormente alla data della sua entrata in vigore (ivi inclusi quelli in relazione ai quali sia stato praticato il prelievo dal paziente o da donatore di cellule destinate all'uso terapeutico e quelli già ordinati dall'autorità giudiziaria) - esclude di avviare alle predette strutture pazienti che abbiano richiesto il trattamento in esame solo successivamente. La promozione di una sperimentazione clinica per testare l'efficacia, ed escludere collaterali effetti nocivi, di un nuovo farmaco non consente, di regola, di porre anticipatamente a carico di strutture pubbliche la somministrazione del farmaco medesimo, per evidenti motivi di tutela della salute e di corretta utilizzazione delle risorse a disposizione del Servizio sanitario nazionale. Nel caso di specie, il legislatore ha parzialmente derogato ai riferiti principi, intervenendo in una particolare situazione fattuale nella quale trattamenti con cellule staminali erano stati avviati per iniziativa di vari giudici che, in via cautelare, avevano ordinato a strutture pubbliche di effettuarli. In tale anomalo contesto, il d.l. del 2013, privilegiando principi di continuità terapeutica ed esigenze di non interferenza con provvedimenti dell'autorità giudiziaria, ha consentito la sola prosecuzione dei trattamenti con cellule staminali già avviati o già ordinati da singoli giudici. Tuttavia, le circostanze peculiari ed eccezionali che hanno indotto il legislatore a non interrompere i trattamenti già avviati non ricorrono nei riguardi di altri pazienti che abbiano chiesto la somministrazione del medesimo trattamento successivamente ed in relazione ai quali non trova giustificazione una deroga al principio di doverosa cautela nella validazione e somministrazione di nuovi farmaci. E ciò pertanto, di per sé, all'un tempo esclude sia che tra le due categorie di pazienti poste in comparazione sussista l'ipotizzata violazione del precetto dell'eguaglianza, sia che possa prospettarsi leso il diritto alla salute o violato il dovere di solidarietà nei confronti dei pazienti per i quali non può darsi avvio presso strutture pubbliche al trattamento  de quo  dopo l'entrata in vigore del d.l. del 2013. - Sulla legittimazione del giudice della cautela a sollevare questione incidentale di legittimità costituzionale, v. la citata sentenza n. 172/2012. - Per l'affermazione secondo cui le decisioni sul merito delle scelte terapeutiche, in relazione alla loro appropriatezza, non potrebbero nascere da valutazioni di pura discrezionalità politica del legislatore, bensì dovrebbero prevedere «l'elaborazione di indirizzi fondati sulla verifica dello stato delle conoscenze scientifiche e delle evidenze sperimentali acquisite, tramite istituzioni e organismi - di norma nazionali e sovra-nazionali - a ciò deputati, dato l'essenziale rilievo che a questi fini rivestono gli organi tecnico-scientifici», v. la citata sentenza n. 282/2002.
+
+## Norme
+
+- decreto-legge, 25/03/2013 n. 24, art. 2
+- legge, 23/05/2013 n. 57
+
+## Parametri
+
+- Costituzione, art. 2
+- Costituzione, art. 3
+- Costituzione, art. 32
