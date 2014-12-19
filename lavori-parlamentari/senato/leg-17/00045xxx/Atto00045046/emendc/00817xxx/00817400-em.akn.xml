@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/1.1231/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/1.1231"/>
+					<an:FRBRdate date="2014-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/1.1231/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1231"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@"/>
+					<an:FRBRdate date="2014-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@.akn"/>
+					<an:FRBRdate date="2014-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/C/1.1231/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1231</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 141, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «141-
+					<an:i>bis.</an:i>
+					 Con riferimento alle risorse assegnate dall'articolo 12 Regolamento (CE) n. 1198 del 2006 del 27 luglio 2007, del Consiglio, il fondo di rotazione di cui all'articolo 5 della legge 16 aprile 1987, n. 183, a seguito della rimodulazione del tasso di cofinanziamento nazionale, è incrementato per l'anno 2015 di euro 13 milioni con riferimento alle misure dell'Asse 4 e di euro 36 milioni per le misure dell'Asse 2 del Regolamento stesso. Le quote liberatesi, di competenza delle Regioni, sono utilizzate per le medesime finalità».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, all'articolo 3, comma 76, tabella C, voce Piano triennale della pesca (ministero infrastrutture - 4.1. Cap. 2179) la dotazione finanziaria viene incrementata nel 2015 da 338.552 a 1.000.000 euro; nel 2016 da 346.324 a 900.000 euro; nel 2017 da 346.324 a 800.000; e alla voce Ministero delle politiche agricole, alimentari e forestali, legge 8 luglio 1991, n. 267, relativa all'attuazione del Piano nazionale della pesca marittima e misure in materia di credito peschereccio, nonché di riconversione delle unità da pesca adibite alla pesca con reti da posta derivanti: articolo 1, comma 1, Attuazione del piano nazionale per la pesca marittima (1.5 - Capp. 1173, 1413, 1414, 1415, 1418, 1477, 1488) apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p>        2015: + 5.000.000;</an:p>
+				<an:p>        2016:+ 4.000.000;</an:p>
+				<an:p>        2017: + 3.000.000.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
