@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/G1.21/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/G1.21"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/A/G1.21/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.21"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@.akn"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/A/G1.21/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29042" showAs="Battista"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2553" showAs="Zeller"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29155" showAs="Palermo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29156" showAs="Panizza"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29115" showAs="Laniece"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29121" showAs="Longo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.21</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Battista</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Zeller</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Palermo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Panizza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Laniece</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2015)»</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 1, comma 114; della legge di stabilità autorizza la spesa di 100 milioni di euro annui, per tre anni a partire dal 20 17, per la realizzazione di opere di accesso agli impianti portuali;</an:p>
+				<an:p align="justify">            tale disposizione è volta al miglioramento della competitività dei porti italiani;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            il Porto Franco di Trieste rappresenta un unicum nell'ordinamento giuridico italiano e comunitario, soprattutto in considerazione delle vicende storico-politiche che ne segnarono l'istituzione e, più in generale, che interessarono il territorio di Trieste;</an:p>
+				<an:p align="justify">            dopo la seconda Guerra mondiale, il Porto Franco di Trieste è stato «internazionalizzato» dal Trattato di pace fra l'Italia e le Potenze alleate ed associate, firmato a Parigi il 10 febbraio 1947 e, in particolare, dall'Allegato VIII del Trattato in questione;</an:p>
+				<an:p align="justify">            il Porto Franco di Trieste, inteso come sommatoria dei suoi «Punti Franchi», è l'unica zona franca situata nell'Unione europea che gode di un regime speciale, più favorevole rispetto a quello più restrittivo posto dal Codice Doganale Comunitario per le zone e depositi franchi;</an:p>
+				<an:p align="justify">        considerato altresì che:</an:p>
+				<an:p align="justify">            il regime di porto franco internazionale del porto di Trieste previsto dall'Allegato VITI del Trattato di Parigi del 1947 e fatto salvo dAl successivi trattati comunitari, consente alle imprese di ottenere benefici fiscali attraverso un regime agevolato, ridotte formalità doganali e agevolazioni in termini di stoccaggio e manipolazione dei beni;</an:p>
+				<an:p align="justify">            tuttavia non è ancora stato predisposto un intervento legislativo volto a dare piena attuazione a quanto disposto nell'Allegato VIII succitato;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a porre in essere le opportune iniziative di carattere legislativo volte a dare piena attuazione alle disposizioni dell'Allegato VIII del Trattato di Parigi del 1947, anche per quanto concerne l'imposizione fiscale diretta e indiretta all'interno dei punti franchi del Porto di Trieste, compatibilmente con quanto previsto dal Trattato sul Funzionamento dell'Unione Europea.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
