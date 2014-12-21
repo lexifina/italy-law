@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/G1.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/G1.16"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/A/G1.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.16"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@.akn"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/A/G1.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29179" showAs="Serra"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29050" showAs="Blundo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29127" showAs="Mangili"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29034" showAs="Airola"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Blundo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mangili</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Airola</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 1698, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2015)»,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            dagli indicatori demografici ISTAT si ricava che in Italia, nel corso del 2013, sono nati 541 mila bambini, con un insistito calo delle nascite e una percentuale di nuovi nati che si è andata riducendo progressivamente per il quinto anno consecutivo;</an:p>
+				<an:p align="justify">
+					            tali indicatori demografici, riferiti all'anno 2013, evidenziano non solo un problema di calo demografico 
+					<an:i>tout court</an:i>
+					, ma, altresì, il preoccupante e più generale invecchiamento della popolazione italiana che, ragionevolmente, può ricondursi fra gli effetti relativi al perdurare e all'acuirsi della crisi economica;
+				</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            a un'aspettativa di vita che è andata progressivamente migliorando per entrambi i sessi - pari, in media, a 79,8 anni per gli uomini e 84,6 anni per le donne - si associa, in modo inversamente proporzionale, una riduzione sensibile del numero dei giovani; al punto che - sempre all'altezza del 2013 - i giovanissimi, fino a quattordici anni di età rappresentavano il 13,9 per cento della popolazione rispetto a un 21,4 per cento di ultrasessantacinquenni;</an:p>
+				<an:p align="justify">        considerato inoltre che:</an:p>
+				<an:p align="justify">
+					            la 
+					<an:i>ratio</an:i>
+					 del comma 95 dell'articolo 1 è quella di incentivare la natalità attraverso un contributo economico alle famiglie per ogni figlio naturale o adottivo, fino al compimento del terzo anno di età o per tre anni a partire dal mese di adozione;
+				</an:p>
+				<an:p align="justify">            risulta ragionevole incrementare gli incentivi economici per le famiglie di cui almeno un genitore svolga la propria attività lavorativa a una distanza significativa rispetto al luogo di residenza;</an:p>
+				<an:p align="justify">        valutato che:</an:p>
+				<an:p align="justify">            il pendolarismo in particolare penalizza numerosi insegnanti che, come altri lavoratori, si vedono costretti quotidianamente a faticosi trasferimenti fra scuola e abitazione di residenza, vanificando o minando al tempo stesso il principio stesso della continuità didattica,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare gli interventi opportuni, anche a carattere normativo, al fine di stabilire degli incentivi economici - prevedendo al contempo i criteri per la fruizione e per l'assegnazione - in favore degli insegnanti che svolgono la propria attività lavorativa a una distanza non inferiore a 50 chilometri dal luogo di residenza e il cui nucleo familiare ha un indicatore della situazione economica (ISEE) non superiore a 20.000 euro.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
