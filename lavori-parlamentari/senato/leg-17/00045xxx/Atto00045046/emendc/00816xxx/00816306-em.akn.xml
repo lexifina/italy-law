@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/1.150/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/1.150"/>
+					<an:FRBRdate date="2014-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/1.150/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.150"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@"/>
+					<an:FRBRdate date="2014-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@.akn"/>
+					<an:FRBRdate date="2014-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/C/1.150/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29127" showAs="Mangili"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.150</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Mangili</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 16, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «16-
+					<an:i>bis.</an:i>
+					 Nei limiti di spesa di 100 milioni di euro in caso di 
+					<an:i>startup</an:i>
+					 innovative è escluso dall'imposizione sul reddito d'impresa il 50 per cento del valore degli investimenti in nuovi beni strumentali fatti a decorrere dalla data di entrata in vigore della presente legge e fino al 30 giugno 2020. L'agevolazione di cui al presente comma può essere fruita esclusivamente in sede di versamento del saldo delle imposte sui redditi dovute per il periodo d'imposta di effettuazione degli investimenti ed è revocata se la startup innovativa cede a terzi o destina i beni oggetto degli investimenti a finalità estranee all'esercizio d'impresa prima del secondo periodo d'imposta successivo alloro acquisto. L'agevolazione di cui al presente comma è altresì revocata se i beni oggetto degli investimenti sono ceduti a soggetti aventi stabile organizzazione in Paesi non aderenti allo Spazio economico europeo».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, all'articolo 3, al comma 76, aggiungere, in fine, le parole:</an:i>
+					 «ivi comprese le variazioni di cui al periodo successivo. Le dotazioni in conto capitale, relative alle autorizzazioni di spesa di cui alla predetta Tabella C sono ridotte in maniera lineare per un importo pari a 100 milioni di euro per ciascuno degli anni 2015, 2016, 2017».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
