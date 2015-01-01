@@ -4,7 +4,7 @@ Art. 3-bis.
 
 1.
 
-Al fine di facilitare la comunicazione tra pubbliche amministrazioni e cittadini, e' facolta' di ogni cittadino indicare alla pubblica amministrazione, secondo le modalita' stabilite al comma 3, un proprio indirizzo di posta elettronica certificata, rilasciato ai sensi dell'articolo 16-bis, comma 5, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2 quale suo domicilio digitale.
+Al fine di facilitare la comunicazione tra pubbliche amministrazioni e cittadini, e' facolta' di ogni cittadino indicare alla pubblica amministrazione, secondo le modalita' stabilite al comma 3, un proprio indirizzo di posta elettronica certificata ((...)) quale suo domicilio digitale.
 
 2.
 
@@ -34,7 +34,7 @@ Le modalita' di predisposizione della copia analogica di cui ai commi 4-bis e 4-
 
 Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
 
-((21))
+(21)
 
 ------------
 
