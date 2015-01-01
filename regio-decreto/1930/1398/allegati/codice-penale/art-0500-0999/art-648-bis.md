@@ -2,7 +2,7 @@ Art. 648-bis.
 
 (Riciclaggio).
 
-Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce denaro, beni o altre utilita' provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da quattro a dodici anni e con la multa da lire due milioni a lire trenta milioni.
+Fuori dei casi di concorso nel reato, chiunque sostituisce o trasferisce denaro, beni o altre utilita' provenienti da delitto non colposo, ovvero compie in relazione ad essi altre operazioni, in modo da ostacolare l'identificazione della loro provenienza delittuosa, e' punito con la reclusione da quattro a dodici anni e con la multa da ((5.000 a euro 25.000)).
 
 La pena e' aumentata quando il fatto e' commesso nell'esercizio di un'attivita' professionale.
 
@@ -10,7 +10,7 @@ La pena e' diminuita se il denaro, i beni o le altre utilita' provengono da deli
 
 Si applica l'ultimo comma dell'articolo 648.
 
-(125) ((233))
+(125) (233)
 
 -------------
 
