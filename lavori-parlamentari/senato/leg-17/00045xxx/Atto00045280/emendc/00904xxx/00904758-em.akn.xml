@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1779/C/1.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1779/C/1.17"/>
+					<an:FRBRdate date="2015-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1779/C/1.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@"/>
+					<an:FRBRdate date="2015-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@.akn"/>
+					<an:FRBRdate date="2015-03-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-03-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-03-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1779/C/1.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1779" showAs="DDL 1779"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 5° riunite" href="/dati.senato.it/osr/Commissione/4"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1779</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 9 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «9-
+					<an:i>bis</an:i>
+					. Al fine di assicurare l'espletamento delle funzioni di tutela, fruizione e valorizzazione del patrimonio culturale, il Ministero dei beni e delle attività culturali e del turismo, vista la specificità dei profili professionali che prevede l'impiego di figure tecniche abilitate a trattare sui beni culturali, non reperibili mediante la mobilità volontaria da altre amministrazioni, è autorizzato, nel limite dei posti vacanti in organico, a procedere, con proroga al 31 dicembre 2015 delle disposizioni di cui all'articolo 2, comma 12 del decreto-legge 30 dicembre 2013, n. 101, convertito, con modificazioni, dalla legge 30 ottobre 2013 n. 125 e in deroga all'articolo 24 del decreto legislativo 27 ottobre 2009, n. 150 e successive modificazioni, allo scorrimento delle graduatorie relative alle procedure concorsuali interne già concluse e vigenti alla data di entrata in vigore della presente legge di conversione. Alla copertura degli oneri derivanti dal presente comma si provvede a decorre dall'anno 2015, nel limite di spesa di euro 1.500.000, attraverso i fondi sulle facoltà assunzionali del predetto Ministero, nell'ambito degli stanziamenti di bilancio previsti a legislazione vigente per il reclutamento del personale del Ministero dei beni e delle attività culturali e del turismo e nel rispetto dei limiti percentuali in materia di assunzioni di personale a tempo indeterminato previsti dalla normativa vigente».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
