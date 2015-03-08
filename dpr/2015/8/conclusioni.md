@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 gennaio 2015
+
+Il Presidente del Senato della Repubblica nell'esercizio delle funzioni del Presidente della Repubblica, ai sensi dell'articolo 86 della Costituzione GRASSO Renzi, Presidente del Consiglio dei ministri Lupi, Ministro delle infrastrutture e dei trasporti Guidi, Ministro dello sviluppo economico Madia, Ministro per la semplificazione e la pubblica amministrazione Lanzetta, Ministro per gli affari regionali e le autonomie Orlando, Ministro della giustizia Padoan, Ministro dell'economia e delle finanze Lorenzin, Ministro della salute Poletti, Ministro del lavoro e delle politiche sociali Gentiloni Silveri, Ministro degli affari esteri e della cooperazione internazionale Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 18 febbraio 2015 Ufficio controllo atti P.C.M. Ministeri giustizia e affari esteri, reg.ne - prev. n. 375
