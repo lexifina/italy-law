@@ -1,0 +1,7 @@
+Allegato A
+
+(di cui all'articolo 5, comma 3)
+
+Ordine di protezione europeo
+
+Parte di provvedimento in formato grafico
