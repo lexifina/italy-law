@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577/C/1.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577/C/1.1"/>
+					<an:FRBRdate date="2015-03-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1577/C/1.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@"/>
+					<an:FRBRdate date="2015-03-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@.akn"/>
+					<an:FRBRdate date="2015-03-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-03-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-03-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1577/C/1.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1577" showAs="DDL 1577"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29103" showAs="Galimberti"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23035" showAs="Pelino"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25464" showAs="Mazzoni"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29204" showAs="Bocca"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29159" showAs="Perrone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1577</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Galimberti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Pelino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Mazzoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Bocca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Perrone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 1. - 
+					<an:i>(Accelerazione e semplificazione nei servizi per i cittadini e le imprese). -</an:i>
+					 1. All'articolo 38, comma 3, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133 sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 la lettera 
+					<an:i>d)</an:i>
+					 è sostituita dalla seguente:
+				</an:p>
+				<an:p>
+					            ''
+					<an:i>d)</an:i>
+					 per gli adempimenti soggetti a segnalazione certificata d'inizio attività di cui all'articolo 19 della legge 7 agosto 1990, n. 241 ovvero a mera comunicazione o del tutto libere a norma dell'articolo 12 del decreto-legge 9 febbraio 2012, n. 5, convertito dalla legge 4 aprile 2012, n. 35, la gestione telematica delle pratiche di competenza dello Sportello Unico per le Attività Produttive è affidata alle Camere di Commercio in maniera omogenea per tutti i Comuni italiani. Per tutti gli altri casi, lo sportello unico è una funzione del comune competente per territorio. I comuni possono esercitare le funzioni telematiche di compilazione ed invio delle istanze allo sportello unico delegandole alle camere di commercio competenti per territorio le quali mettono a disposizione il portale 'impresa.gov' che assume la denominazione di 'impresainungiorno''';
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 dopo la lettera 
+					<an:i>d)</an:i>
+					 è inserita la seguente:
+				</an:p>
+				<an:p>
+					            ''
+					<an:i>d-bis)</an:i>
+					 Ferma restando la disposizione di cui alle lettere 
+					<an:i>a-</an:i>
+					bis), 
+					<an:i>c)</an:i>
+					 nonché dall'articolo 19-
+					<an:i>bis</an:i>
+					 del decreto-legge 24 giugno 2014, n. 91, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 116, la compilazione della modulistica e la trasmissione dei dati, atti, documenti, elaborati tecnici ed allegati avviene, a pena di nullità, esclusivamente tramite il portale di cui alla lettera 
+					<an:i>d),</an:i>
+					 che assicura, in ogni caso, l'interscambio telematico dei dati con il sistema informativo del SUAP''.
+				</an:p>
+				<an:p>
+					        2. Gli sportelli unici accreditati ai sensi del comma 10, articolo 4 del decreto del Presidente della Repubblica 7 settembre 2010, n. 160, si adeguano alla previsione di cui al comma 1 entro 90 giorni dalla pubblicazione nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 della presente legge.
+				</an:p>
+				<an:p>
+					        3. In caso di inosservanza degli obblighi di cui al camma 1, il comune decade daIl'accreditamento di cui al comma 10, articolo 4 del decreto del Presidente della Repubblica 160/2010 e ad esso si applica la procedura prevista dal comma 3-
+					<an:i>bis</an:i>
+					, articolo 38, decreto-legge 25 giugno 2008, n. 112».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
