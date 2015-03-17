@@ -1,0 +1,24 @@
+# Massima n. 38274
+
+- Pronuncia: Corte costituzionale, sentenza 37/2015 (ECLI:IT:COST:2015:37)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2015:37
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Impiego pubblico - Agenzie delle dogane, delle entrate e del territorio - Copertura provvisoria di posizioni dirigenziali, nelle more dell'espletamento delle procedure concorsuali, attraverso l'attribuzione di incarichi dirigenziali a tempo determinato affidati a funzionari privi della relativa qualifica - Reiterate proroghe del termine previsto per l'espletamento del concorso per dirigenti - Indefinito protrarsi nel tempo di un'assegnazione asseritamente temporanea di mansioni superiori - Violazione della regola del pubblico concorso per l'accesso alle pubbliche amministrazioni -  Illegittimità costituzionale.
+
+## Testo
+
+È costituzionalmente illegittimo, per violazione degli artt. 3, 51 e 97 Cost., l'art. 8, comma 24, del d.l. 2 marzo 2012, n. 16 (Disposizioni urgenti in materia di semplificazioni tributarie, di efficientamento e potenziamento delle procedure di accertamento), convertito, con modificazioni, dall'art. 1, comma 1, della l. 26 aprile 2012, n. 44 in quanto consente alle Agenzie delle dogane, delle entrate e del territorio di coprire provvisoriamente posizioni dirigenziali, nelle more dell'espletamento delle procedure concorsuali, attraverso l'affidamento di incarichi dirigenziali a tempo determinato a funzionari privi della relativa qualifica, protraendo un'assegnazione asseritamente temporanea di mansioni superiori in maniera indefinita nel tempo in conseguenza delle reiterate proroghe del termine previsto per l'espletamento del concorso per dirigenti. La disposizione impugnata viola la regola del pubblico concorso per l'accesso alle pubbliche amministrazioni. L'assegnazione di posizioni dirigenziali ad un funzionario può avvenire solo ricorrendo alla reggenza, quale istituto che serve a colmare vacanze nell'ufficio determinate da cause imprevedibili ed a cui è possibile ricorrere a condizione che sia stata avviata la procedura per la copertura del posto vacante e nei limiti di tempo previsti per tale copertura. Straordinarietà e temporaneità sono caratteristiche essenziali dell'istituto. Per contro, la norma impugnata, pur avendo cura di esibire il carattere della temporanietà, consente il ricorso alla descritta modalità di copertura delle posizioni vacanti sino all'assunzione dei vincitori delle procedure concorsuali. Questo significa che al termine, certo nell'an e nel quando, delle procedure concorsuali si affianca un diverso termine, certo nella sola attribuzione del diritto all'assunzione, ma incerto nel quando perché tra il completamento delle procedure concorsuali e l'assunzione dei vincitori può trascorrere anche un notevole lasso temporale. In questo senso, il termine finale fissato dalla disposizione impugnata finisce per non essere certo, preciso e sicuro, in contraddizione con l'affermata temporaneità. Inoltre, la regola del pubblico concorso per l'accesso alle pubbliche amministrazioni non è soddisfatta dal rinvio che la norma impugnata opera all'art. 19, comma 1- bis , del d.lgs. n. 165 del 2001, nella parte in cui stabilisce che gli incarichi dirigenziali ai funzionari sono attribuiti con apposita procedura selettiva. La norma di rinvio si limita a prevedere che l'amministrazione renda conoscibili, anche mediante pubblicazione di apposito avviso sul sito istituzionale, il numero e la tipologia di posti che si rendono disponibili nella dotazione organica ed i criteri di scelta, stabilendo, altresì, che siano acquisite e valutate le disponibilità dei funzionari interni interessati. I contratti non sono, dunque, assegnati attraverso il ricorso ad una procedura aperta e pubblica, conformemente a quanto richiesto dagli artt. 3, 51 e 97 Cost. Sulla delimitazione del  thema decidendum  ad opera dell'ordinanza di rimessione, v.  ex plurimis  le citate sentenze nn. 50/2010, 227/2010, 275/2013, 198/2014 e 211/2014. Sulla riconducibilità alla regola del pubblico concorso del passaggio ad una fascia funzionale superiore, v.  ex plurimis  le sentenze nn. 194/2002, 293/2009, 150/2010, 7/2011 e 217/2012. Sull'inapplicabilità dell'interpello laddove sia necessario il passaggio dalla qualifica di funzionario a quella di dirigente, v. la citata sentenza n. 17/2014. Sulla necessità che gli incarichi dirigenziali siano attribuiti attraverso il ricorso ad una procedura aperta e pubblica, v. le citate sentenze nn. 453/1990, 293/2009, 149/2010, 150/2010 e 217/2012.
+
+## Norme
+
+- decreto-legge, 02/03/2012 n. 16, art. 8, comma 24
+- legge, 26/04/2012 n. 44
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 51
+- Costituzione, art. 97
