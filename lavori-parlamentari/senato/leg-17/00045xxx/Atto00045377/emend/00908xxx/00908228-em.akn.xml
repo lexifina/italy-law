@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/A/8.0.1"/>
+					<an:FRBRdate date="2015-03-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@"/>
+					<an:FRBRdate date="2015-03-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@.akn"/>
+					<an:FRBRdate date="2015-03-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-03-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-03-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1813/A/8.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1813" showAs="DDL 1813"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1813</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 8</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">«Art. 8-bis.</an:p>
+				<an:p align="center">
+					<an:i>(potenziamento del Fondo Centrale di Garanzia)</an:i>
+				</an:p>
+				<an:p align="justify">
+					        1. All'articolo 1, comma 1, lettera 
+					<an:i>b)</an:i>
+					, del decreto-legge 21 giugno 2013 n. 69 convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, dopo le parole: «il rilascio della garanzia» sono inserite le seguenti «diretta ai sensi dell'art. 2 del decreto 31 maggio 1999, n. 248».
+				</an:p>
+				<an:p align="justify">        2. All'articolo 2, comma 6, del decreto-legge 21 giugno 2013 n. 69 convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, l'ultimo periodo è soppresso.</an:p>
+				<an:p align="justify">        3. All'articolo 39, comma 1, del decreto-legge 6 dicembre 2011, n. 201 convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214 dopo il primo periodo è inserito il seguente: «La garanzia diretta su singola operazione non può essere concessa per un ammontare superiore al 60 per cento dell'operazione.»</an:p>
+				<an:p align="justify">
+					        4. L'art. 1, comma 48, lettera 
+					<an:i>a)</an:i>
+					, della legge 27 dicembre 2013, n. 147 è sostituito dal seguente:
+				</an:p>
+				<an:p align="justify">
+					            «
+					<an:i>a)</an:i>
+					 il Fondo di garanzia per le piccole e medie imprese di cui all'articolo 2, comma 100, lettera 
+					<an:i>a)</an:i>
+					, della legge 23 dicembre 1996, n. 662. L'amministrazione del Fondo, ai sensi dell'articolo 47 del testo unico di cui al decreto legislativo 10 settembre 1993, n. 385, e successive modificazioni, è affidata a un Comitato, composto da: due rappresentanti del Ministero dello sviluppo economico di cui uno con funzione di presidente; due rappresentanti del Ministero dell'economia e delle finanze di cui uno con funzione di vice presidente, un rappresentante della Unità di valutazione di cui all'articolo 3, comma 5, del decreto legislativo 5 dicembre 1997, n. 430; un rappresentante indicato dalla Conferenza permanente dei rapporti tra Stato, regioni e province autonome di Trento e Bolzano, un rappresentante delle organizzazioni rappresentative a livello nazionale delle piccole e medie imprese industriali, un rappresentante delle organizzazioni rappresentative a livello nazionale delle piccole e medie imprese commerciali, un rappresentante delle organizzazioni rappresentative a livello nazionale delle piccole e medie imprese artigiane, un rappresentante dell'Associazione Bancaria Italiana, un rappresentante delle organizzazioni rappresentative a livello nazionale dei confidi. Il Ministero dello sviluppo economico comunica al gestore del Fondo i nominativi dei componenti del comitato, che è istituito ai sensi del citato articolo 47 del decreto legislativo n. 385 del 1993, affinché provveda alla sua formale costituzione. Con l'adozione del provvedimento di costituzione del comitato da parte del gestore decade l'attuale organo di amministrazione del Fondo.»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
