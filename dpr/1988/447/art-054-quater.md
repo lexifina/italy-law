@@ -1,8 +1,6 @@
 Art. 54-quater.
 
-(( (Richiesta di trasmissione degli atti a un diverso pubblico ministero) ))
-
-((
+(Richiesta di trasmissione degli atti a un diverso pubblico ministero)
 
 1.
 
@@ -14,10 +12,12 @@ La richiesta deve essere depositata nella segreteria del pubblico ministero che 
 
 3.
 
-Il pubblico ministero decide entro dieci giorni dalla presentazione della richiesta e, ove la accolga, trasmette gli atti del procedimento all'ufficio del pubblico ministero presso il giudice competente, dandone comunicazione al richiedente. Se non provvede in tal senso, il richiedente, entro i successivi dieci giorni, puo' chiedere al procuratore generale presso la corte d'appello o, qualora il giudice ritenuto competente appartenga ad un diverso distretto, al procuratore generale presso la Corte di cassazione, di determinare quale ufficio del pubblico ministero deve procedere. Il procuratore generale, assunte le necessarie informazioni, provvede alla determinazione, entro venti giorni dal deposito della richiesta, con decreto motivato dandone comunicazione alle parti ed agli uffici interessati. Quando la richiesta riguarda taluno dei reati indicati nell'articolo 51, comma 3-bis, il procuratore generale provvede osservando le disposizioni dell'articolo 54-ter.
+Il pubblico ministero decide entro dieci giorni dalla presentazione della richiesta e, ove la accolga, trasmette gli atti del procedimento all'ufficio del pubblico ministero presso il giudice competente, dandone comunicazione al richiedente. Se non provvede in tal senso, il richiedente, entro i successivi dieci giorni, puo' chiedere al procuratore generale presso la corte d'appello o, qualora il giudice ritenuto competente appartenga ad un diverso distretto, al procuratore generale presso la Corte di cassazione, di determinare quale ufficio del pubblico ministero deve procedere. Il procuratore generale, assunte le necessarie informazioni, provvede alla determinazione, entro venti giorni dal deposito della richiesta, con decreto motivato dandone comunicazione alle parti ed agli uffici interessati. Quando la richiesta riguarda taluno dei reati indicati nell'articolo 51, comma 3-bis ((e comma 3-quater)), il procuratore generale provvede osservando le disposizioni dell'articolo 54-ter.
 
 4.
 
 La richiesta non puo' essere riproposta a pena di inammissibilita' salvo che sia basata su fatti nuovi e diversi.
 
-5. Gli atti di indagine preliminare compiuti prima della trasmissione degli atti o della comunicazione del decreto di cui al comma 3 possono essere utilizzati nei casi e nei modi previsti dalla legge))
+5.
+
+Gli atti di indagine preliminare compiuti prima della trasmissione degli atti o della comunicazione del decreto di cui al comma 3 possono essere utilizzati nei casi e nei modi previsti dalla legge.
