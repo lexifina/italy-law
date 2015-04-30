@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577/A/G9.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577/A/G9.100"/>
+					<an:FRBRdate date="2015-04-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1577/A/G9.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G9.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@"/>
+					<an:FRBRdate date="2015-04-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@.akn"/>
+					<an:FRBRdate date="2015-04-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-04-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-04-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1577/A/G9.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1577" showAs="DDL 1577"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17704" showAs="Mauro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/27647" showAs="D'Anna"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17635" showAs="Ruvolo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/2214" showAs="Scavone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1577</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G9.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Mauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Anna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Ruvolo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Scavone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge AS 1577 recante: «Riorganizzazione delle Amministrazioni Pubbliche», 9 nell'ambito dell'esame dell'articolo 9 di riforma della dirigenza pubblica e dell'adozione di norme che istituiscono il ruolo unico dei dirigenti non di ruolo, considerata la necessità di garantire il godimento dei diritti acquisiti ed evitare l'eventuale insorgere di contenziosi in sede giudiziaria con i soggetti aventi qualifica di dirigente al momento della approvazione delle legge e dei decreti delegati,</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a valutare l'adozione di disposizioni, anche transitorie, che consentano la confluenza nel suddetto ruolo unico dei dirigenti non di ruolo che hanno svolto incarichi a tempo determinato, ex articolo 110 del decreto legislativo n. 267 del 2000, nonché dell'articolo 19 del decreto legislativo n. 165 del 2001, per la durata non inferiore a 36 mesi, a condizione che il conferimento dell'incarico discenda da una procedura selettiva ad evidenza pubblica.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
