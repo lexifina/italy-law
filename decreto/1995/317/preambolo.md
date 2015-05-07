@@ -1,0 +1,27 @@
+IL MINISTRO DEI TRASPORTI
+
+E DELLA NAVIGAZIONE
+
+Visto l'art. 121, comma 2, del decreto legislativo 30 aprile 1992, n. 285 "Nuovo codice della strada";
+
+Visto l'art. 333 del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495 "Regolamento di esecuzione e di attuazione del nuovo codice della strada";
+
+Visto l'art. 123, comma 3, comma 7 e comma 10, del decreto legislativo 30 aprile 1992, n. 285 "Nuovo codice della strada";
+
+Visto l'art. 335, comma 12, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495 "Regolamento di esecuzione e di attuazione del nuovo codice della strada";
+
+Visto l'art. 336, comma 1, del suddetto decreto;
+
+Visto l'art. 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+Visto l'art. 3 del decreto legislativo 3 febbraio 1993, n. 29, concernente la razionalizzazione dell'organizzazione delle amministrazioni pubbliche e revisioni della disciplina in materia di pubblico impiego, a norma dell'art. 2 della legge 23 ottobre 1992, n.
+
+421;
+
+Viste le direttive n. 80/1263 CEE del 4 dicembre 1980 e n. 91/439/CEE del 29 luglio 1991;
+
+Sentito il parere del Consiglio di Stato espresso nell'adunanza del 17 novembre 1994;
+
+Vista la comunicazione fatta al Presidente del Consiglio dei Ministri, a norma dell'art. 17, comma 3, della citata legge n. 400 del 1988 in data 11 gennaio 1995;
+
+Considerata la necessita' di determinare i requisiti, i compiti delle autoscuole, i criteri per consentire la vigilanza sulle stesse nonche' le modalita' di svolgimento degli esami; A D O T T A il seguente regolamento:
