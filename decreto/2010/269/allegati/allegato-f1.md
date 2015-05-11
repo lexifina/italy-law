@@ -1,0 +1,3 @@
+ALLEGATO F1
+
+Parte di provvedimento in formato grafico
