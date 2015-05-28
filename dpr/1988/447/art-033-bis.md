@@ -16,7 +16,7 @@ delitti previsti dal capo I dei titolo II del libro II del codice penale, esclus
 
 c)
 
-delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600-sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater e 644 del codice penale;
+delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, ((433-bis, secondo comma,)) 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600-sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater e 644 del codice penale;
 
 d)
 
