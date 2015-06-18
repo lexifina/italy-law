@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/C/9.223/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/C/9.223"/>
+					<an:FRBRdate date="2015-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1934/C/9.223/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.223"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@"/>
+					<an:FRBRdate date="2015-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@.akn"/>
+					<an:FRBRdate date="2015-06-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-06-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-06-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1934/C/9.223/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1934" showAs="DDL 1934"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Istruzione pubblica, beni culturali" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29051" showAs="Bocchino"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29058" showAs="Campanella"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29146" showAs="Mussini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29044" showAs="Bencini"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29168" showAs="Romani"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29064" showAs="Casaletto"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/29139" showAs="Molinari"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1934</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.223</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bocchino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Campanella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Mussini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Bencini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Romani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Casaletto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 15 con i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «15. Previo esaurimento degli idonei inclusi nelle graduatorie regionali del concorso per il reclutamento di dirigenti scolastici, bandito con decreto direttori aie del Ministero dell'istruzione, dell'università e della ricerca 13 luglio 2011, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					, 4 serie speciale, n. 56 del 15 luglio 2011, il reclutamento dei dirigenti scolastici, ai fini della copertura dei posti vacanti, si effettua, separatamente, per la scuola unitaria di base, scuola dell'infanzia, primaria e secondaria di primo grado, e per le scuole del secondo ciclo di istruzione, tramite corso-concorso, per esami e titoli, bandito dalla Scuola nazionale dell'amministrazione, con cadenza annuale. Ad esso può partecipare il personale docente ed educativo che abbia maturato, dopo la nomina in ruolo, nel particolare settore di riferimento, almeno cinque anni di effettivo servizio, con il possesso della laurea. Per l'area della scuola unitaria di base la prima prova attiene alle problematiche, di natura pedagogico-didattica e organizzativa, per come esplicitate nelle ''Indicazioni nazionali per il curricolo della scuola dell'infanzia e del primo ciclo di istruzione'', del 4 settembre 2012. La seconda prova scritta consiste nella soluzione di un caso relativo alla gestione dell'istituzione scolastica, con particolare riferimento alle strategie di direzione in rapporto alle esigenze formative del territorio. La terza prova scritta verte sulle problematiche relative alla gestione amministrativo-contabile delle istituzione scolastiche, di cui al decreto 1 febbraio 2001, n. 44. Segue la prova orale e la valutazione dei titoli. Per l'area del secondo ciclo di istruzione la prima prova scritta attiene alle problematiche di natura pedagogico-didattica e organizzativa di cui ai decreti del Presidente della Repubblica del 15 marzo 2010, n. 87, 88 e 89, relativi alla riforma dell'istruzione professionale, dell'istruzione tecnica e dei licei. La seconda prova scritta consiste nella soluzione di un caso relativo alla gestione dell'istituzione scolastica, con particolare riferimento alle strategie di direzione in rapporto alle esigenze formative del territorio. La terza prova scritta verte sulle problematiche relative alla gestione amministrativo-contabile delle istituzioni scolastiche, di cui al decreto 1 febbraio 2001, n. 44. Segue la prova orale e la valutazione dei titoli. La commissione esaminatrice è composta da un docente universitario di scienze dell'educazione che la presiede, da un dirigente tecnico del settore di riferimento, da due dirigenti scolastici con almeno cinque anni di servizio effettivo nel ruolo e da un dirigente amministrativo del Ministero dell'istruzione, dell'università e della ricerca. I candidati vincitori del concorso effettuano un periodo di tirocinio e formazione di un anno.
+				</an:p>
+				<an:p>
+					        15-
+					<an:i>bis</an:i>
+					. Ai fini della realizzazione delle disposizioni di cui al comma 15 della presente legge, tramite regolamento del Ministero dell'Istruzione, dell'Università e della Ricerca, sono emanate le norme sulla disciplina del reclutamento, sui contenuti specifici della prova orale, sulla individuazione dei titoli valutabili, culturali, di servizio, professionali e pubblicazioni e, inoltre, sulla formazione e tirocinio, nel pieno rispetto della peculiarità ordinamentale della dirigenza scolastica alla luce del comma 16 dell'articolo 21 della legge n. 15 marzo 1997, n. 59.»
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
