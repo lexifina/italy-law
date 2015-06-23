@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1678/C/1.28/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1678/C/1.28"/>
+					<an:FRBRdate date="2015-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1678/C/1.28/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.28"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@"/>
+					<an:FRBRdate date="2015-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@.akn"/>
+					<an:FRBRdate date="2015-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-06-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-06-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1678/C/1.28/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1678" showAs="DDL 1678"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Lavori pubblici, comunicazioni" href="/dati.senato.it/osr/Commissione/8"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/17695" showAs="Maran"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/22740" showAs="Filippi"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/29052" showAs="Borioli"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/29060" showAs="Cantini"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/29062" showAs="Cardinali"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/29150" showAs="Orru'"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/25235" showAs="Ranucci"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/29183" showAs="Sonego"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1678</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.28 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Maran</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Borioli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Cantini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Cardinali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Orru'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Ranucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Sonego</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire la lettera</an:i>
+					 d) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>d)</an:i>
+					 semplificazione, armonizzazione e progressiva digitalizzazione delle procedure in materia di affidamento degli appalti pubblici e delle concessioni, attraverso la promozione di reti e sistemi informatici già sperimentati in altre procedure competitive e anche attraverso la promozione di soluzioni innovative nelle materie disciplinate con particolare riguardo allo sviluppo delle infrastrutture e degli insediamenti produttivi strategici di preminente interesse nazionale;».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, alla lettera</an:i>
+					 ee)
+					<an:i>, aggiungere in fine le seguenti parole:</an:i>
+					 «anche attraverso la sperimentazione di procedure e sistemi informatici già adoperati per aste telematiche».
+				</an:p>
+				<an:p/>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
