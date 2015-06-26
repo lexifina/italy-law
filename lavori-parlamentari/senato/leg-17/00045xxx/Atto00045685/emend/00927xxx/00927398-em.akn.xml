@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/G1.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/G1.200"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1934/A/G1.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.200"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@.akn"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-06-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-06-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1934/A/G1.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1934" showAs="DDL 1934"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29043" showAs="Bellot"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25449" showAs="Munerato"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22551" showAs="Bisinella"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1934</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bellot</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Munerato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bisinella</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>L'Assemblea,</an:p>
+				<an:p align="justify">            in sede di esame del provvedimento di riforma del sistema scolastico cosiddetto «Buona-Scuola»;</an:p>
+				<an:p align="justify">
+					            rammentato che le sezioni di scuola dell'infanzia e le classi di ogni ordine e grado sono al momento costituite secondo i criteri e i parametri numerici indicati nel «Regolamento recante norme per la riorganizzazione della rete scolastica e il razionale ed efficace utilizzo delle risorse umane della scuola, ai sensi dell'articolo 64, comma 4, del decreto-legge 25 giugno 2008 n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008 n. 133» approvato con decreto del Presidente della Repubbica 20 marzo 2009 n. 81, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 del 2 luglio 2009 n. 151;
+				</an:p>
+				<an:p align="justify">
+					            preso atto che tra gli obiettivi indicati all'articolo 2, comma 3, la lettera 
+					<an:i>m)</an:i>
+					 prevede la riduzione del numero di alunni e di studenti per classe;
+				</an:p>
+				<an:p align="justify">            ricordate le specificità riconosciute alla province con territorio interamente montano, come Belluno, ai sensi della legge n. 56 del 2014;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a tener conto, nelle more di attuazione del provvedimento, delle peculiarità riconosciute alle province interamente montane, valutando l'eventualità di prevedere deroghe al limite numerico minimo e massimo di alunni ai fini della formazione delle classi nei territori delle suddette province.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
