@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1971/A/5.0.18"/>
+					<an:FRBRdate date="2015-07-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.18"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@"/>
+					<an:FRBRdate date="2015-07-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@.akn"/>
+					<an:FRBRdate date="2015-07-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1971/A/5.0.18/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1971" showAs="DDL 1971"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29059" showAs="Candiani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1971</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.18</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Candiani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        1. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge presso la Cassa Depositi e Prestiti Spa, quale soggetto gestore, è istituito il Fondo finanziario settoriale per l'agricoltura, di seguito denominato "Fondo" al fine di realizzare interventi a favore del ricambio generazionale in agricoltura nonché di tutela del territorio finalizzati, attraverso la continuità delle attività agricole, a contenere il consumo del suolo, quale bene comune e risorsa non rinnovabile, e a preservarne la vocazione agricola.</an:p>
+				<an:p align="justify">        2. Con successivo decreto del Ministero delle Politiche agricole, alimentari e forestali di concerto con Ministero dello Sviluppo economico e del Ministero dell'Economia vengono fissati i requisiti, le condizioni e le modalità di accesso al Fondo attraverso i quali la Cassa depositi e prestiti S.p.A., su apposita domanda del soggetto interessato, procede alle erogazioni.</an:p>
+				<an:p align="justify">
+					        3. La dotazione del fondo ammonta a 10 milioni di euro per l'anno 2015 e a 20 milioni di euro a decorrere dal 2016. All'onere derivante dall'attuazione del presente articolo, valutato in 10 milioni di euro per il 2015 e 20 milioni di euro a decorrere dal 2016 si provvede mediante riduzione lineare delle dotazioni finanziarie di parte corrente, iscritte a legislazione vigente in termini di competenza e di cassa, nell'ambito delle spese rimodulabili, di cui all'articolo 21, comma 5, lettera 
+					<an:i>b)</an:i>
+					, della legge 31 dicembre 2009, n. 196, delle missioni di spesa di ciascun Ministero, ad esclusione del Ministero delle Politiche agricole, alimentari e forestali».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
