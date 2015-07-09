@@ -1,0 +1,21 @@
+# Massima n. 38478
+
+- Pronuncia: Corte costituzionale, sentenza 144/2015 (ECLI:IT:COST:2015:144)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2015:144
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Immunità parlamentare - Procedimento civile per il risarcimento del danno derivante dalle dichiarazioni, asseritamente diffamatorie, rese da un senatore nel corso di programmi televisivi ed alla stampa sul conto di un privato - Deliberazione del Senato della Repubblica di insindacabilità delle opinioni espresse dal senatore nell'esercizio delle sue funzioni - Ricorso per conflitto di attribuzione promosso dal Tribunale ordinario di Roma, prima sezione civile - Insussistenza del nesso funzionale fra le dichiarazioni e l'attività politica del parlamentare - Dichiarazione di non spettanza al Senato della Repubblica del potere esercitato - Conseguente annullamento della delibera di insindacabilità.
+
+## Testo
+
+Non spetta al Senato della Repubblica affermare che le dichiarazioni rese in televisione e alla stampa da un proprio componente, per le quali pende un procedimento risarcitorio davanti al Tribunale ordinario di Roma, costituiscono opinioni espresse da un membro del Parlamento nell'esercizio delle sue funzioni, ai sensi dell'art. 68, primo comma, Cost.; pertanto è annullata la deliberazione di insindacabilità adottata dal Senato il 20 dicembre 2012. Affinchè esista un nesso funzionale tra le dichiarazioni rese  extra moenia  da un parlamentare e l'espletamento delle sue funzioni, al quale è subordinata la prerogativa dell'insindacabilità, è necessario che tali dichiarazioni possano essere identificate come espressione dell'esercizio di attività parlamentare. A tal fine è richiesto il concorso di due requisiti: a) un legame di ordine temporale fra l'attività parlamentare e l'attività esterna, tale che questa venga ad assumere una finalità divulgativa della prima; b) una sostanziale corrispondenza di significato tra le opinioni espresse nell'esercizio delle funzioni e gli atti esterni, al di là delle formule letterali usate, non essendo sufficiente né un semplice collegamento tematico o una corrispondenza contenutistica parziale, né un mero «contesto politico» entro cui le dichiarazioni  extra moenia  possano collocarsi, né, infine, il riferimento alla generica attività parlamentare o l'inerenza a temi di rilievo generale, seppur dibattuti in Parlamento. Nella specie, difettano ambedue i citati requisiti, non essendo individuabile alcun atto parlamentare che possa valere come termine di riferimento per la verifica della sussistenza del nesso funzionale. Lo stesso senatore ha, del resto, precisato di non avere svolto attività parlamentari inerenti alla specifica questione e di avere rilasciato le dichiarazioni oggetto del processo nell'ambito della propria attività di denuncia e critica politica. Per l'ammissibilità del conflitto, v. la citata ordinanza n. 317/2013. Sulla sanabilità della notifica del ricorso spedito per raccomandata senza l'intermediazione dell'ufficiale giudiziario, v. la citata ordinanza n. 56/2013. Sull'irrilevanza della mancata attestazione di conformità nelle copie del ricorso notificato in quanto la «corrispondenza della copia notificata dell'ordinanza di ammissibilità all'originale può essere conseguita attraverso il confronto con il testo della decisione pubblicata nella  Gazzetta Ufficiale », v. la citata sentenza n. 452/2006. Sul nesso funzionale, v.,  ex multis , le citate sentenze nn. 55/2014, 305/2013, 205/2012, 334/2011, 333/2011 e 98/2011. Sull'esistenza di un «legame evidente» tra l'atto in ipotesi lesivo e l'esercizio della funzione tipica del parlamentare, v. le citate sentenze nn. 115/2014 e 313/2013. Nel senso che un'interpretazione del concetto di nesso funzionale sganciato dal collegamento diretto fra opinioni espresse e atti della funzione non è compatibile con il disegno costituzionale, v. le citate sentenze nn. 115/2014 e 313/2013.
+
+## Norme
+
+- deliberazione del Senato della Repubblica, 20/12/2012
+
+## Parametri
+
+- Costituzione, art. 68, comma 1
