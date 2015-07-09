@@ -1,0 +1,9 @@
+Allegato
+
+Agreement Between
+
+the Italian Republic and Japan
+
+on Social Security
+
+Parte di provvedimento in formato grafico
