@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11"/>
+					<an:FRBRdate date="2015-07-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1993/14/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@"/>
+					<an:FRBRdate date="2015-07-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@.akn"/>
+					<an:FRBRdate date="2015-07-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1993/C/G/1993/14/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1993" showAs="DDL 1993"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Lavoro, previdenza sociale" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29066" showAs="Catalfo"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29154" showAs="Paglini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1993</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1993/14/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Catalfo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Paglini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede d'esame del disegno di legge di conversione in legge, con modificazioni, del decreto-legge 21 maggio 2015, n. 65, recante disposizioni urgenti in materia di pensioni, di ammortizzatori sociali e di garanzie TFR (AS 1993);</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 24 del decreto-legge n. 201/2011, cosiddetta «riforma Fornero», ha disposto, in sintesi, l'abolizione delle pensioni di anzianità, l'innalzamento repentino dei requisiti anagrafici per accedere alla pensione di vecchiaia, le penalizzazioni per le pensioni anticipate (età inferiore a 62 anni a prescindere dall'anzianità contributiva) ed il calcolo col sistema contributivo di tutte le pensioni a decorrere dal 1º gennaio 2012;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            tale riforma ha creato non poche piaghe sociali; basti pensare agli esodati, intendendo con tale terminologia anche tutti quei lavoratori percettori di ammortizzatori sociali o addirittura licenziati e che erano prossimi alla pensione secondo le regole previgenti o al personale della scuola cosiddetto «quota '96», vale a dire gli oltre tremila docenti in procinto di maturare, appunto, la quota 96 quale somma di età, anagrafica e contributiva, ma che si son visti sfumare il diritto a pensione;</an:p>
+				<an:p>            proprio riguardo agli esodati, l'ultimo report diffuso dall'Inps il 27 ottobre 2014, relativo alle procedure di monitoraggio dei lavoratori beneficiari di salvaguardia, denuncia che la questione è tutt'altro che chiusa, sia per il numero degli aventi diritto certificati dall'istituto rispetto ai posti disponibili e sia per l'esclusione, in tutte e sei le salvaguardie, di talune categorie di lavoratori;</an:p>
+				<an:p>            la «riforma Fornero» ha colpito duramente anche i lavoratori addetti a mansioni usuranti, stravolgendo i requisiti per la pensione anticipata con un sistema di quote meno favorevole, trasformando quello che per loro era un diritto in un miraggio;</an:p>
+				<an:p>            la crescita esponenziale del tasso di disoccupazione - pari al 13,2 per cento fra i più altri dell'eurozona ed il più alto in assoluto degli ultimi 37 anni - è dovuta non soltanto alla fase recessiva che il nostro Paese sta vivendo, bensì anche alla «riforma Fornero» che, prolungando la permanenza al lavoro con l'innalzamento dell'età pensionabile, ha di fatto bloccato il ricambio generazionale, portando la disoccupazione giovanile al 43,3 per cento;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a porre in essere opportune iniziative normative al fine di pervenire nel più breve tempo possibile ad una riforma del sistema pensionistico che tenga conto quanto più possibile della tutela delle fasce reddituali più deboli e all'abrogazione dell'articolo 24 del decreto-legge n. 201 del 2011.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
