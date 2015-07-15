@@ -1,0 +1,24 @@
+# Massima n. 38489
+
+- Pronuncia: Corte costituzionale, sentenza 154/2015 (ECLI:IT:COST:2015:154)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2015:154
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Professioni - Agrotecnici - Abilitazione a compiere operazioni in materia catastale e in particolare atti di aggiornamento geometrico - Disposizione aggiunta in sede di conversione di un provvedimento c.d. milleproroghe - Norma disomogenea rispetto all'oggetto e alla finalità del decreto-legge -  Illegittimità costituzionale  - Assorbimento di ulteriori questioni.
+
+## Testo
+
+E' costituzionalmente illegittimo, per violazione dell'art. 77, secondo comma, Cost., l'art. 26, comma 7-ter, del d.l. 31 dicembre 2007, n. 248 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 28 febbraio 2008, n. 31), che, nel fornire l'interpretazione autentica dell'art. 145, comma 96, della legge n. 388 del 2000, estende agli agrotecnici l'abilitazione a compiere alcune operazioni in materia catastale, tra cui gli atti di aggiornamento geometrico. La disposizione censurata, inserita nel provvedimento d'urgenza in sede di conversione, appare mossa dall'unico obiettivo di superare un contrasto giurisprudenziale sorto sull'individuazione dei soggetti abilitati a sottoscrivere determinati atti catastali. Sicché, in relazione alle caratteristiche originarie del decreto legge di riferimento, che è un provvedimento "milleproroghe", risulta palese che la norma in oggetto non proroga alcun termine previsto da precedenti disposizioni legislative, né prefigura interventi di riassetto di carattere finanziario. Pertanto, si versa in un caso di evidente o manifesta mancanza di ogni nesso di interrelazione tra le disposizioni incorporate nella legge di conversione e quelle dell'originario decreto-legge. L'inserimento in sede di conversione di una norma eterogenea rispetto all'oggetto e alla finalità del decreto legge concretizza un uso improprio, da parte del Parlamento, di un potere che la Costituzione attribuisce ad esso, con speciali modalità di procedura, allo scopo tipico di convertire, o non, in legge il decreto governativo. (Restano assorbite le questioni sollevate con riferimento agli artt. 3 e 97, secondo comma, Cost.) Per l'infondatezza della questione di legittimità costituzionale dell'art. 11 della legge n. 251 del 1986, recante l'istituzione dell'albo professionale degli agrotecnici, nella parte in cui non prevede l'esercizio, da parte di tale categoria di professionisti, di compiti inerenti alla formazione e redazione dei tipi di frazionamento e/o mappale, v. la citata sentenza n. 441/2000. Sul potere del giudice  a quo  di valutare la sussistenza della giurisdizione e dell'interesse a ricorrere, v.,  ex multis , le citate sentenze nn. 91/2013, 41/2011, 270/2010, 50/2007 e 62/1992. Sulla natura meramente "esterna", strumentale al riscontro della rilevanza della questione, della verifica compiuta dalla Corte costituzionale circa la giurisdizione del rimettente e l'interesse a ricorrere, v. la citata sentenza n. 241/2008. Per l'affermazione che il difetto di giurisdizione del rimettente può essere rilevato dalla Corte costituzionale solo nei casi in cui appaia manifesto, dovendo invece la relativa indagine arrestarsi qualora il rimettente abbia motivato in maniera non implausibile sulla sussistenza della propria  potestas iudicandi , v.,  ex multis , le citate sentenze nn. 116/2013, 279/2012, 94/2009 e l'ordinanza n. 318/2013. Sull'assorbimento delle questioni sollevate in riferimento a diversi parametri costituzionali, quando la censura che presenta pregiudizialità logico-giuridica è fondata, v. le citate sentenze nn. 162/2012, 80/2012, 93/2011 e 293/2010. Per l'affermazione che i provvedimenti "milleproroghe" «devono obbedire alla ratio unitaria di intervenire con urgenza sulla scadenza di termini il cui decorso sarebbe dannoso per interessi ritenuti rilevanti dal Governo e dal Parlamento, o di incidere su situazioni esistenti - pur attinenti ad oggetti e materie diversi - che richiedono interventi regolatori di natura temporale», v. la citata sentenza 22/2012. Sull'impossibilità di inserire nella legge di conversione norme eterogenee rispetto all'oggetto o alla finalità del decreto-legge, v. le citate sentenze nn. 251/2014, 32/2014, 22/2012, 355/2010 e l'ordinanza n. 34/2013. Per l'affermazione che la possibilità del Governo di ricorrere al decreto-legge deve essere limitata ai soli casi straordinari di necessità e urgenza, v. le citate sentenze nn. 128/2008 e 171/2007.
+
+## Norme
+
+- decreto-legge, 31/12/2007 n. 248, art. 26, comma 7 ter
+- legge, 28/02/2008 n. 31
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 77, comma 2
+- Costituzione, art. 97, comma 2
