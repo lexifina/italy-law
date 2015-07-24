@@ -1,0 +1,30 @@
+# Massima n. 38541
+
+- Pronuncia: Corte costituzionale, sentenza 188/2015 (ECLI:IT:COST:2015:188)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2015:188
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Enti locali - Norme della Regione Piemonte - Riordino delle funzioni e dei compiti amministrativi della Regione e degli enti locali, in attuazione del sistema di decentramento amministrativo - Bilancio di previsione per l'anno finanziario 2013 e bilancio pluriennale per gli anni finanziari 2013-2015 - Assegnazioni riguardanti l'unità previsionale di base UPB 05011, capitolo 149827R (Fondo per l'esercizio delle funzioni conferite - L.R. 34/98) - Riduzione, senza alcun allegato piano di riorganizzazione e di riallocazione, delle dotazioni finanziarie storiche per l'esercizio delle funzioni conferite alle Province dalla legge della Regione Piemonte n. 34 del 1998 e dalle altre leggi regionali che ad essa si richiamano - Pregiudizio allo svolgimento delle funzioni per la mancata attribuzione di risorse adeguate - Irragionevolezza - Violazione dell'autonomia amministrativa e finanziaria delle Province - Violazione del principio del buon andamento dell'amministrazione pubblica -  Illegittimità costituzionale  in parte qua   - Assorbimento di ulteriori censure.
+
+## Testo
+
+Sono costituzionalmente illegittimi, per violazione degli artt. 3, 97 e 119 Cost., gli artt. 2, commi 1 e 2, e 4 della legge della Regione Piemonte 7 maggio 2013, n. 9 (Bilancio di previsione per l'anno finanziario 2013 e bilancio pluriennale per gli anni finanziari 2013-2015), in combinato disposto con l'Allegato A, relativamente all'Unità previsionale di base UPB DB05011, capitolo 149827R, nella parte in cui non consentono di attribuire adeguate risorse per l'esercizio delle funzioni conferite alle Province dalla vigente legislazione regionale. Riduzione di risorse, per le Regioni come per le Province, sono legittime purchè tali da non rendere impossibile lo svolgimento delle funzioni; ciò vale tanto più in presenza di un sistema di finanziamento che dovrebbe essere coordinato con il riparto delle funzioni, così da far corrispondere il più possibile esercizio di funzioni e relativi oneri finanziari da un lato, disponibilità di risorse dall'altro. La norma impugnata, invece, in modo irragionevole e sproporzionato, riduce - senza alcun allegato piano di riorganizzazione e di riallocazione - le dotazioni finanziarie storiche per l'esercizio delle funzioni conferite pregiudicandone lo svolgimento. Essa, inoltre, collide anche con il principio di buon andamento che implica, da un lato, che le risorse stanziate siano idonee ad assicurare la copertura della spesa, e, dall'altro, che siano spese proficuamente in relazione agli obiettivi correttamente delineati già in sede di approvazione del bilancio di previsione. A determinare il  vulnus  non è la riduzione in sé della dotazione finanziaria, bensì la sua irragionevole percentuale, in assenza di correlate misure che ne possano giustificare il dimensionamento attraverso il recupero di efficienza o una riallocazione di parte delle funzioni a suo tempo conferite. Nel caso in esame la apoditticità della riduzione è assoluta, essendosi manifestata attraverso un mero stanziamento di bilancio, drasticamente ridotto rispetto alla somma erogata negli esercizi anteriori. Infine, l'entità della riduzione delle risorse necessarie per le funzioni trasferite o delegate alle Province piemontesi si riverbera necessariamente sull'autonomia di queste ultime nella misura in cui non consente di finanziare le funzioni a loro attribuite. (Restano assorbite le ulteriori censure formulate dal giudice rimettente) Sul principio della salvaguardia della essenziale unitarietà e globalità del bilancio, v. le citate sentenze n. 12/1987, n. 22/1968 e n. 1/1966. Per il riconoscimento dei principi di gradualità e di proporzionalità in ordine all'attuazione di valori costituzionali che importi rilevanti oneri a carico del bilancio statale, v.,  ex multis , le citate sentenze n. 33/1987, n. 173/1986, n. 12/1986, n. 349/1985 e n. 26/1980. Per l'affermazione che la legge di approvazione del bilancio o qualsiasi altra legge incidente sulla stessa non costituiscono «una zona franca sfuggente a qualsiasi sindacato del giudice di costituzionalità», v. la citata sentenza n. 260/1990. Sulla cosiddetta "funzione autorizzatoria" della spesa, che caratterizza il sistema di contabilità finanziaria delle Regioni, v.,  ex plurimis , la citata sentenza n. 70/2012. Per l'affermazione che alle Regioni a statuto speciale non può essere assicurata una garanzia quantitativa di entrate, cosicché il legislatore statale può sempre modificare, diminuire o persino sopprimere i tributi erariali, senza che ciò comporti automaticamente una violazione dell'autonomia finanziaria regionale, v. la citata sentenza n. 97/2013. Per il costante orientamento della Corte, secondo cui possono aversi, senza violazione costituzionale, anche riduzioni di risorse per la Regione, purché non tali da rendere impossibile lo svolgimento delle sue funzioni, v. le citate sentenze n. 138/1999 e n. 241/2012.
+
+## Norme
+
+- legge della Regione Piemonte, 07/05/2013 n. 9, art. 2, comma 1
+- legge della Regione Piemonte, 07/05/2013 n. 9, art. 2, comma 2
+- legge della Regione Piemonte, 07/05/2013 n. 9, art. 4
+- legge della Regione Piemonte, 07/05/2013 n. 9, comma relativamente all' U.P.B. DB05011, capitolo 149827R
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 97
+- Costituzione, art. 114, comma 1
+- Costituzione, art. 117
+- Costituzione, art. 118, comma 2
+- Costituzione, art. 119
+- Costituzione, art. 114, comma 2
