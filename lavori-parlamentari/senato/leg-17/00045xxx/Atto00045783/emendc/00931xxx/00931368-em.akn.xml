@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/C/9.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/C/9.11"/>
+					<an:FRBRdate date="2015-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/C/9.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@"/>
+					<an:FRBRdate date="2015-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@.akn"/>
+					<an:FRBRdate date="2015-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/C/9.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29175" showAs="Santini"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29054" showAs="Broglia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29085" showAs="Del Barba"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29111" showAs="Guerrieri Paleotti"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29113" showAs="Lai"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29122" showAs="Lucherini"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/2313" showAs="Sposetti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Santini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Broglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Del Barba</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Guerrieri Paleotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Lai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Lucherini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Sposetti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 9 aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «9-
+					<an:i>bis</an:i>
+					. L'articolo 5, ventinovesimo comma, del decreto-legge 30 dicembre 1982, n. 953, convertito, con modificazioni, dalla legge 28 febbraio 1983, n. 53, come sostituito dall'articolo 7, comma 2, della legge 23 luglio 2009, n. 99 si interpreta nel senso che in caso di locazione finanziaria il soggetto tenuto al pagamento della tassa automobilistica è esclusivamente I'utilizzatore; è configurabile la responsabilità solidale della società di 
+					<an:i>leasing</an:i>
+					 solo nella particolare ipotesi in cui questa abbia provveduto, in base alle modalità stabilite dall'ente competente, al pagamento cumulativo, In luogo degli utilizzatori, delle tasse dovute per i periodi compresi nella durata del contratto di locazione finanziaria.
+				</an:p>
+				<an:p>
+					        9-
+					<an:i>ter</an:i>
+					. All'articolo 7 della legge 23 luglio 2009, n. 99 il comma 3 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''3. La competenza ed il gettito della tassa automobilistica è determinata in ogni caso in relazione al luogo di residenza dell'utilizzatore a titolo di locazione finanziaria del veicolo''.</an:p>
+				<an:p>
+					        9-
+					<an:i>quater</an:i>
+					. La disposizione di cui al comma precedente si applica ai veicoli con scadenza del termine utile per il pagamento sucessiva alla data di entrata in vigore della presente legge di conversione».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
