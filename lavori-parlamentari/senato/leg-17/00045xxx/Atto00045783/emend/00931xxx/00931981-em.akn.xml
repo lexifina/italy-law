@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/4.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/4.9"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/4.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@.akn"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/A/4.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAXAH3G" href="http://dati.senato.it/senatore/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDAKBH3G" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDAXBH3G" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXAH3G" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKBH3G" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXBH3G" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2 sostituire le parole: «31 dicembre 2014» con le seguenti: «30 luglio 2015»; dopo il comma 4 aggiungere i seguenti:</an:p>
+				<an:p align="justify">        «5. Al fine di salvaguardare gli equilibri di bilancio delle città metropolitane e delle province nel 2015, dal 1º gennaio 2015 la spesa del personale soprannumerario in attuazione di quello previsto dall'articolo 1, comma 421, della legge 23 dicembre 2014, n. 190, non è più posta carico dei bilanci degli enti di area vasta.</an:p>
+				<an:p align="justify">        6. La spesa del personale soprannumerario delle città metropolitane e delle province che svolge funzioni amministrative disciplinate dalle leggi regionali è posta a carico dei bilanci regionali, fatta salva la disciplina specifica del personale delle polizie provinciale e dei servizi per l'impiega di cui agli articoli 5 e 15 del presente decreto, in assenza di leggi regionali di riordino delle funzioni provinciali che coprano integralmente la spesa di personale connessa a tali funzioni, in attuazione dell'articolo l'articolo 8 della legge 5 giugno 2003, n. 131, l'Osservatorio nazionale sull'attuazione della legge 8 aprile 2014, n 56, certifica i costi del personale soprannumerario non ricollocato attraverso provvedimenti regionali di riordino delle funzioni provinciali ed entro il 30 settembre 2015 è operata una riduzione di importo corrispondente a valere sui trasferimenti statali a qualsiasi titolo disposti in favore di ciascuna regione ed la conseguente rassegnazione delle somme necessarie alle città metropolitane e alle province interessate».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
