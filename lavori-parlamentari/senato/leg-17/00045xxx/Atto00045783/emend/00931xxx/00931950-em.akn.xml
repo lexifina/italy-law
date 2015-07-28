@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/2.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/2.20"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/2.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@.akn"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/A/2.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAEQH3G" href="http://dati.senato.it/senatore/29175" showAs="SANTINI"/>
+				<an:TLCPerson id="IDAZRH3G" href="http://dati.senato.it/senatore/29054" showAs="BROGLIA"/>
+				<an:TLCPerson id="IDAPSH3G" href="http://dati.senato.it/senatore/29085" showAs="DEL BARBA"/>
+				<an:TLCPerson id="IDAGQH3G" href="http://dati.senato.it/senatore/29111" showAs="GUERRIERI PALEOTTI"/>
+				<an:TLCPerson id="IDAVWH3G" href="http://dati.senato.it/senatore/29113" showAs="LAI"/>
+				<an:TLCPerson id="IDALVH3G" href="http://dati.senato.it/senatore/29122" showAs="LUCHERINI"/>
+				<an:TLCPerson id="IDAMRH3G" href="http://dati.senato.it/senatore/25224" showAs="SANGALLI"/>
+				<an:TLCPerson id="IDAVRH3G" href="http://dati.senato.it/senatore/2313" showAs="SPOSETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEQH3G" as="#tipoSenatore">SANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZRH3G" as="#tipoSenatore">BROGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPSH3G" as="#tipoSenatore">DEL BARBA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGQH3G" as="#tipoSenatore">GUERRIERI PALEOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVWH3G" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALVH3G" as="#tipoSenatore">LUCHERINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMRH3G" as="#tipoSenatore">SANGALLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVRH3G" as="#tipoSenatore">SPOSETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 6 aggiungere, in fine, il seguente comma:</an:p>
+				<an:p align="justify">
+					        «6-
+					<an:i>bis</an:i>
+					. Gli enti che, negli anni 2013 e 2014, hanno presentato richiesta di adesione alla procedura di riequilibrio finanziario pluriennale ai sensi dell'articolo 243-
+					<an:i>bis</an:i>
+					 del decreto legislativo '8 agosto 2000, n. 267, o che hanno avuto approvato il piano di riequilibrio ai sensi dell'articolo 243-
+					<an:i>quater</an:i>
+					 del decreto legislativo 18 agosto 2000, n. 267, e che a far data dall'anno 2015 hanno avviato I'armonizzazione dei sistemi contabili e degli schemi di bilancio ai sensi e per gli effetti del decreto legislativo n. 118 del 23 giugno 2011 e successive modifiche e integrazioni, hanno la facoltà di riformulare il piano di riequillbrio conle modalità previste dal comma 5 dell'art. 243-
+					<an:i>bis</an:i>
+					 del decreto legislativo 18 agosto 200, n. 267 da adottarsi entro il termine di 180 giorni decorrenti dall'entrata in vigore della presente legge».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
