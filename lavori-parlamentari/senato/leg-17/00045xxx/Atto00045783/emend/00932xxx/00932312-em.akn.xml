@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/7.73/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/7.73"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/7.73/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.73"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@.akn"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/A/7.73/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAEOH3G" href="http://dati.senato.it/senatore/29175" showAs="SANTINI"/>
+				<an:TLCPerson id="IDAWNH3G" href="http://dati.senato.it/senatore/29054" showAs="BROGLIA"/>
+				<an:TLCPerson id="IDAKLH3G" href="http://dati.senato.it/senatore/29085" showAs="DEL BARBA"/>
+				<an:TLCPerson id="IDA4MH3G" href="http://dati.senato.it/senatore/29111" showAs="GUERRIERI PALEOTTI"/>
+				<an:TLCPerson id="IDACLH3G" href="http://dati.senato.it/senatore/29113" showAs="LAI"/>
+				<an:TLCPerson id="IDAPLH3G" href="http://dati.senato.it/senatore/29122" showAs="LUCHERINI"/>
+				<an:TLCPerson id="IDAHNH3G" href="http://dati.senato.it/senatore/25224" showAs="SANGALLI"/>
+				<an:TLCPerson id="IDAFPH3G" href="http://dati.senato.it/senatore/2313" showAs="SPOSETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.73</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEOH3G" as="#tipoSenatore">SANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWNH3G" as="#tipoSenatore">BROGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKLH3G" as="#tipoSenatore">DEL BARBA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4MH3G" as="#tipoSenatore">GUERRIERI PALEOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACLH3G" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPLH3G" as="#tipoSenatore">LUCHERINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHNH3G" as="#tipoSenatore">SANGALLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFPH3G" as="#tipoSenatore">SPOSETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 4 aggiungere i seguenti commi:</an:p>
+				<an:p align="justify">
+					        «4-
+					<an:i>bis</an:i>
+					. Il comma 1 dell'articolo 1-
+					<an:i>quinquies</an:i>
+					 del decreto-legge 31 marzo 2005, n. 44, convertito, con modificazioni, dalla legge 31 maggio 2005, n. 88 è sostituito come segue:
+				</an:p>
+				<an:p align="justify">            "1. l'articolo 4 del regio decreto-legge 13 aprile 1939, n. 652, convertito, con modiflcazioni, dalla legge 11 agosto 1939, n. 1249, si interpreta nel senso che gli immobili urbani sono costituiti dal suolo e dalle costruzioni, nonché dagli elementi a ess strutturalmente connessi che ne accrescano la qualità e l'utilità nei limiti dell'ordinario apprezzamente. Non concorrono alla determinazione della rendita catastale, ai sensi dell'articolo 10 del citato regio decreto-legge, i macchinari, i congegni, le attrezzature e gli altri impianti funzionali allo specifico processo produttivo.".</an:p>
+				<an:p align="justify">
+					        4-
+					<an:i>ter</an:i>
+					. A decorrere della data di entrata in vigore della legge di conversione del presente decreto-legge, per gli immobili urbani da censire o già censiti in una categoria dei gruppi D ed E, le dichiarazioni in catasto di nuova costruzione o variazione di quelle esistenti sono rese in conformità alle disposizioni di cui al comma precedente.
+				</an:p>
+				<an:p align="justify">
+					        4-
+					<an:i>quater</an:i>
+					. I commi 244 e 245 dell'articolo 1 della legge 23 dicembre 2014, n. 190 sono abrogati.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
