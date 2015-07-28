@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/1.80/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/1.80"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/1.80/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.80"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@.akn"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/A/1.80/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAQMH3G" href="http://dati.senato.it/senatore/29073" showAs="COMPAGNONE"/>
+				<an:TLCPerson id="IDAKLH3G" href="http://dati.senato.it/senatore/2214" showAs="SCAVONE"/>
+				<an:TLCPerson id="IDAIMH3G" href="http://dati.senato.it/senatore/17704" showAs="Giovanni MAURO"/>
+				<an:TLCPerson id="IDAFMH3G" href="http://dati.senato.it/senatore/29063" showAs="CARIDI"/>
+				<an:TLCPerson id="IDA3JH3G" href="http://dati.senato.it/senatore/29166" showAs="PUPPATO"/>
+				<an:TLCPerson id="IDATMH3G" href="http://dati.senato.it/senatore/22730" showAs="DAVICO"/>
+				<an:TLCPerson id="IDA2JH3G" href="http://dati.senato.it/senatore/29158" showAs="PEPE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.80</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQMH3G" as="#tipoSenatore">COMPAGNONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKLH3G" as="#tipoSenatore">SCAVONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIMH3G" as="#tipoSenatore">Giovanni MAURO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFMH3G" as="#tipoSenatore">CARIDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3JH3G" as="#tipoSenatore">PUPPATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATMH3G" as="#tipoSenatore">DAVICO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2JH3G" as="#tipoSenatore">PEPE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire il comma 9, con il seguente:</an:p>
+				<an:p align="justify">
+					        «9. All'articolo 43 del decreto-legge 12 settembre 2014, n. 133, convertito con modificazioni, dalla legge 11 novembre 2014, n. 164, dopo il comma 3-
+					<an:i>bis</an:i>
+					 è inserito il seguente:
+				</an:p>
+				<an:p align="justify">
+					        "3-
+					<an:i>ter</an:i>
+					. Le sanzioni relative al mancato rispetto dei vincoli del patto di stabilità interno negli anni 2012 e 2013 non trovano applicazione, e qualora già applicate ne vengono meno gli effetti, nei confronti degli enti locali per i quali la dichiarazione di dissesto finanziario sia intervenuta entro il 31 dicembre 2013 e la violazione del patto di stabilità interno sia stata accertata entro il 31 dicembre 2014"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
