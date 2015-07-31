@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/2.0.200"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.200"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@.akn"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1880/A/2.0.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1880" showAs="DDL 1880"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAAKW2F" href="http://dati.senato.it/senatore/29048" showAs="BIGNAMI"/>
+				<an:TLCPerson id="IDAGMW2F" href="http://dati.senato.it/senatore/29166" showAs="PUPPATO"/>
+				<an:TLCPerson id="IDA0LW2F" href="http://dati.senato.it/senatore/29181" showAs="SIMEONI"/>
+				<an:TLCPerson id="IDAEKW2F" href="http://dati.senato.it/senatore/29104" showAs="GAMBARO"/>
+				<an:TLCPerson id="IDAVMW2F" href="http://dati.senato.it/senatore/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDA3MW2F" href="http://dati.senato.it/senatore/29133" showAs="MASTRANGELI"/>
+				<an:TLCPerson id="IDAKMW2F" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="IDAWKW2F" href="http://dati.senato.it/senatore/29083" showAs="DE PIETRO"/>
+				<an:TLCPerson id="IDAQMW2F" href="http://dati.senato.it/senatore/29149" showAs="ORELLANA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1880</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAKW2F" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGMW2F" as="#tipoSenatore">PUPPATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0LW2F" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEKW2F" as="#tipoSenatore">GAMBARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVMW2F" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3MW2F" as="#tipoSenatore">MASTRANGELI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKMW2F" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWKW2F" as="#tipoSenatore">DE PIETRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQMW2F" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">
+					        2-
+					<an:i>bis</an:i>
+					. Il tre per cento degli utili derivanti dagli 
+					<an:i>spot</an:i>
+					 pubblicitari trasmessi dalla RAI-Radio Televisione Italiana, nei quali vengono impiegati minori di anni diciotto, è devoluto al Fondo per l'infanzia e dell'adolescenza».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
