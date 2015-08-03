@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.9"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@.akn"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-08-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-08-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1577-B/A/G8.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1577-B" showAs="DDL 1577-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAV0JVC" href="http://dati.senato.it/senatore/29062" showAs="CARDINALI"/>
+				<an:TLCPerson id="IDAN2JVC" href="http://dati.senato.it/senatore/29052" showAs="BORIOLI"/>
+				<an:TLCPerson id="IDAH1JVC" href="http://dati.senato.it/senatore/29060" showAs="CANTINI"/>
+				<an:TLCPerson id="IDA5ZJVC" href="http://dati.senato.it/senatore/22740" showAs="FILIPPI"/>
+				<an:TLCPerson id="IDAR2JVC" href="http://dati.senato.it/senatore/25511" showAs="Stefano ESPOSITO"/>
+				<an:TLCPerson id="IDAO2JVC" href="http://dati.senato.it/senatore/29150" showAs="ORRU'"/>
+				<an:TLCPerson id="IDAF2JVC" href="http://dati.senato.it/senatore/25235" showAs="RANUCCI"/>
+				<an:TLCPerson id="IDAQ1JVC" href="http://dati.senato.it/senatore/29183" showAs="SONEGO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1577-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAV0JVC" as="#tipoSenatore">CARDINALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAN2JVC" as="#tipoSenatore">BORIOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAH1JVC" as="#tipoSenatore">CANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5ZJVC" as="#tipoSenatore">FILIPPI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAR2JVC" as="#tipoSenatore">Stefano ESPOSITO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAO2JVC" as="#tipoSenatore">ORRU'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAF2JVC" as="#tipoSenatore">RANUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQ1JVC" as="#tipoSenatore">SONEGO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame disegno di legge n. 1577-B, recante «Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche»;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            l'articolo 8, comma 1, lettera 
+					<an:i>f)</an:i>
+					 del provvedimento in esame reca, tra i principi e criteri direttivi per la riorganizzazione dell'amministrazione dello Stato, sia quelli relativi al riordino del Comitato nazionale paraolimpico sia quelli concernenti la riforma della disciplina delle autorità portuali, materie che appaiono tra loro eterogenee;
+				</an:p>
+				<an:p align="justify">
+					            la seconda delega prevede in particolare la riorganizzazione, razionalizzazione e semplificazione della disciplina concernente le autorità portuali di cui alla legge 28 gennaio 1994, n. 84, con particolare riferimento al numero, all'individuazione di autorità di sistema nonché alla 
+					<an:i>governance</an:i>
+					 tenendo conto del ruolo delle regioni e degli enti locali e alla semplificazione e unificazione delle procedure doganali e amministrative in materia di porti;
+				</an:p>
+				<an:p align="justify">            il settore della portualità presenta un elevato grado di complessità, essendo caratterizzato da una notevole stratificazione normativa e da una pluralità di competenze, esercitate da vari soggetti pubblici e privati, portatori di istanze ed interessi variegati e spesso divergenti;</an:p>
+				<an:p align="justify">            tale complessità ha vanificato i numerosi tentativi fatti in passato per la riforma della legislazione in materia portuale, tra i quali è da ricordare da ultimo quello contenuto nel testo unificato dei disegni di legge nn. 143,263. 754 e 2403, elaborato dal comitato ristretto, composto in seno all'8ª Commissione nel corso della XVI legislatura, approvato in prima lettura dall'Aula del Senato il 12 settembre 2012 e successivamente riproposto nella XVII legislatura, ai sensi dell'articolo 81 del Regolamento del Senato con i disegni di legge nn. 120 e 370. sui quali l'8ª Commissione ha condotto un lungo e approfondito esame;</an:p>
+				<an:p align="justify">            uno degli aspetti più complessi della riforma del sistema è proprio quello della riorganizzazione delle autorità portuali individuato dalla delega in esame, che dovrebbe pertanto essere affrontato in maniera organica e coerente in uno o più provvedimenti di delega aventi carattere specifico, evitando commistioni tra materie eterogenee;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            la stessa esigenza di una visione organica e coerente impone di tenere in adeguata considerazione il quadro legislativo vigente nel quale la suddetta delega andrebbe ad inserirsi, assicurando il necessario coordinamento, onde evitare sovrapposizioni e incongruenze tra strumenti normativi diversi, che rischierebbero di compromettere l'efficacia stessa delle disposizioni;</an:p>
+				<an:p align="justify">            tale quadro legislativo si compone in primo luogo dell'articolo 117, terzo comma della Costituzione in base al quale i porti civili rientrano tra le materie di legislazione concorrente il che implica la necessità di un preventivo raccordo tra Stato e regioni;</an:p>
+				<an:p align="justify">            in secondo luogo, l'attuazione della delega in esame non può prescindere dalle previsioni contenute nel Piano strategico nazionale della portualità e della logistica recentemente trasmesso dal Governo al Parlamento (atto del Governo n. 188), ai sensi dell'articolo 29, comma 1, del decreto-legge 12 settembre 2014, n. 133 (decreto «Sblocca Italia»);</an:p>
+				<an:p align="justify">
+					            il suddetto Piano contiene infatti una specifica proposta per la riforma della 
+					<an:i>governance</an:i>
+					 delle autorità portuali e, inoltre, il citato articolo 29, comma 1, del decreto-legge n. 133 prevede espressamente che la l'azionalizzazione, il riassetto e l'accorpamento delle autorità portuali esistenti sia effettuato ai sensi della legge n. 84 del 1994, che stabilisce a tal fine specifiche procedure,
+				</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">
+					            ad attuare la delega per la riorganizzazione delle autorità portuali, di cui all'articolo 8, comma 1, lettera 
+					<an:i>f)</an:i>
+					, del disegno di legge in esame mediante l'adozione di uno o più decreti legislativi aventi carattere organico e riguardanti specificamente la materia in questione;
+				</an:p>
+				<an:p align="justify">
+					            a tenere adeguatamente conto, nell'esercizio della stessa delega, del vigente quadro normativa di riferimento, costituito dalla competenza legislativa concorrente tra Stato e Regioni in materia di porti, dalle procedure di riordino delle autorità portuali previste dalla legge n. 84 del 1994 (come richiamate anche dal decreto-legge n. 133 del 2014) e, infine, dalla proposta di riforma della 
+					<an:i>governance</an:i>
+					 delle stesse autorità portuali contenuta nel Piano strategico nazionale della portualità e della logistica recentemente presentato dal Governo in Parlamento.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
