@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1"/>
+					<an:FRBRdate date="2015-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G21-OCTIES.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@"/>
+					<an:FRBRdate date="2015-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@.akn"/>
+					<an:FRBRdate date="2015-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2021/A/G21-OCTIES.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2021" showAs="DDL 2021"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAGSXAD" href="http://dati.senato.it/senatore/29092" showAs="FABBRI"/>
+				<an:TLCPerson id="IDADWXAD" href="http://dati.senato.it/senatore/29052" showAs="BORIOLI"/>
+				<an:TLCPerson id="IDARVXAD" href="http://dati.senato.it/senatore/29078" showAs="D'ADDA"/>
+				<an:TLCPerson id="IDAPUXAD" href="http://dati.senato.it/senatore/29095" showAs="FAVERO"/>
+				<an:TLCPerson id="IDAWSXAD" href="http://dati.senato.it/senatore/30914" showAs="FASIOLO"/>
+				<an:TLCPerson id="IDAXUXAD" href="http://dati.senato.it/senatore/25229" showAs="GRANAIOLA"/>
+				<an:TLCPerson id="IDACSXAD" href="http://dati.senato.it/senatore/29180" showAs="SILVESTRO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2021</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G21-OCTIES.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGSXAD" as="#tipoSenatore">FABBRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADWXAD" as="#tipoSenatore">BORIOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARVXAD" as="#tipoSenatore">D'ADDA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPUXAD" as="#tipoSenatore">FAVERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWSXAD" as="#tipoSenatore">FASIOLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXUXAD" as="#tipoSenatore">GRANAIOLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACSXAD" as="#tipoSenatore">SILVESTRO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge di conversione del decreto-legge 27 giugno 2015, n. 83, recante «Misure urgenti in materia fallimentare, civile e processuale civile e di organizzazione e funzionamento dell'amministrazione giudizi aria»</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            l'Articolo 21-
+					<an:i>octies</an:i>
+					 del provvedimento in discussione prevede di garantire il necessario bilanciamento tra le esigenze di continuità dell'attività produttiva, di salvaguardia dell'occupazione, della sicurezza sul luogo di lavoro, della salute e dell'ambiente salubre per l'Uva;
+				</an:p>
+				<an:p align="justify">            per garantire la prosecuzione delle attività, l'azienda deve predisporre un piano recante misure e attività aggiuntive) anche di tipo provvisorio, per la tutela della sicurezza sui luoghi di lavoro, riferite all'impianto oggetto del provvedimento di sequestro;</an:p>
+				<an:p align="justify">            il tema della sicurezza sui luoghi di lavoro e della salute è un tema cardine per le attività dell'ILVA, ancora di più oggi che l'azienda, in amministrazione straordinaria, è sotto controllo dello Stato;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad attivare il management di ILVA affinché sia attuata una revisione ed un aggiornamento completa del piano della sicurezza sui luoghi di lavoro e della salute, individuandone ogni attività aggiuntiva che possa, garantire la sicurezza massima dei lavoratori;</an:p>
+				<an:p align="justify">            a valutare l'opportunità, per una maggiore tutela e sicurezza per i lavoratori dell'ILVA, a reperire le somme necessarie per rendere più moderno e innovativo il piano, anche con eventuali misure e attività aggiuntive, affinché siano evitati incidenti e morti sul lavoro.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
