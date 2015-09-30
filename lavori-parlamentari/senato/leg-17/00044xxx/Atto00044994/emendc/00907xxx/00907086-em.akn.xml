@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1"/>
+					<an:FRBRdate date="2015-09-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.100 testo 2/1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@"/>
+					<an:FRBRdate date="2015-09-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@.akn"/>
+					<an:FRBRdate date="2015-09-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-09-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-09-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1676/C/3.0.100 testo 2/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1676" showAs="DDL 1676"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="13ª Commissione permanente" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDARCUJC" href="http://dati.senato.it/senatore/29186" showAs="STEFANO"/>
+				<an:TLCPerson id="IDACBUJC" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDANBUJC" href="http://dati.senato.it/senatore/29048" showAs="BIGNAMI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1676</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.100 testo 2/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARCUJC" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACBUJC" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANBUJC" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 3.0.100 (testo 2), sostituire i commi 3 e 4 con i seguenti:</an:i>
+				</an:p>
+				<an:p>"3. Al comma 466 dell'articolo 1 della legge 23 dicembre 2014, n. 190 , dopo il numero 3, aggiungere il seguente:</an:p>
+				<an:p>
+					"3-
+					<an:i>bis</an:i>
+					) nei saldi di competenza e cassa le risorse provenienti dallo Stato destinate agli interventi per il contrasto alla diffusione della Xylella fastidiosa e le relative spese di parte corrente ed in conto capitale nonché gli impegni ed i pagamenti effettuati, per la predetta finalità, dalla regione Puglia con risorse autonome. L'esclusione delle spese opera anche se esse sono effettuate in più anni, purché nei limiti complessivi delle risorse statali trasferite e nel limite di 5 milioni di euro per gli interventi finanziati con risorse autonome della regione Puglia".
+				</an:p>
+				<an:p>4. Nel saldo finanziario in termini di competenza mista, individuato ai sensi dell'articolo 31, comma 3, della legge 12 novembre 2011, n. 183, rilevante ai fini della verifica del rispetto del patto di stabilità interno degli enti locali, non sono considerate le risorse provenienti dallo Stato e dalle Regioni destinate agli interventi per il contrasto alla diffusione della Xylella fastidiosa e le relative spese di parte corrente ed in conto capitale nonché gli impegni ed i pagamenti effettuati, per la predetta finalità, dagli enti locali della regione Puglia con risorse autonome. L'esclusione delle spese opera anche se esse sono effettuate in più anni, purché nei limiti complessivi delle risorse statali e regionali trasferite e nel limite di 15 milioni di euro per gli interventi finanziati con le risorse autonome degli enti locali.</an:p>
+				<an:p>
+					4-
+					<an:i>bis</an:i>
+					.  Ai maggiori oneri di cui al presente articolo, determinati nel limite massimo di 20 milioni di euro per l'anno 2015, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307."
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
