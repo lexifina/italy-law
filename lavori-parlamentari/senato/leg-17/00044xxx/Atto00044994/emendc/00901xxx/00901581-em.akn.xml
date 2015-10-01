@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/56.0.7"/>
+					<an:FRBRdate date="2015-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="56.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@"/>
+					<an:FRBRdate date="2015-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@.akn"/>
+					<an:FRBRdate date="2015-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-10-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-10-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1676/C/56.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1676" showAs="DDL 1676"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="13ª Commissione permanente" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAJDEAD" href="http://dati.senato.it/senatore/29113" showAs="LAI"/>
+				<an:TLCPerson id="IDACDEAD" href="http://dati.senato.it/senatore/29037" showAs="ANGIONI"/>
+				<an:TLCPerson id="IDAMDEAD" href="http://dati.senato.it/senatore/29076" showAs="CUCCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1676</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 56.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJDEAD" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACDEAD" as="#tipoSenatore">ANGIONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMDEAD" as="#tipoSenatore">CUCCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 56</an:b>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 56-</an:b>
+					<an:i>
+						<an:b>bis</an:b>
+					</an:i>
+				</an:p>
+				<an:p>
+					        1. All'articolo 221, comma 3, letto 
+					<an:i>a)</an:i>
+					, del decreto legislativo 3 aprile 2006, n. 152 le parole: "sull'intero territorio nazionale" sono soppresse.
+				</an:p>
+				<an:p>
+					        2. All'articolo 221 del decreto legislativo 3 aprile 2006, n. 152, dopo il comma 3 è inserito il seguente comma: "1-
+					<an:i>bis</an:i>
+					. I produttori che intendano dar vita al sistema di gestione autonomo di cui alla lettera 
+					<an:i>a)</an:i>
+					 del precedente comma 1 sono chiamati a raggiungere gli obiettivi di riciclaggio e di recupero previsti dalla normativa attraverso la gestione dei propri rifiuti di imballaggio, o di rifiuti di imballaggio equivalenti per quantità e qualità"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
