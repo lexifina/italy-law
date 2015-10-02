@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/C/1.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/C/1.8"/>
+					<an:FRBRdate date="2015-10-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2054/C/1.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@"/>
+					<an:FRBRdate date="2015-10-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@.akn"/>
+					<an:FRBRdate date="2015-10-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-10-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-10-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2054/C/1.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2054" showAs="DDL 2054"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAXHBZB" href="http://dati.senato.it/senatore/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDACGBZB" href="http://dati.senato.it/senatore/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDAUHBZB" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDA0HBZB" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDAXGBZB" href="http://dati.senato.it/senatore/29053" showAs="BOTTICI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2054</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXHBZB" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACGBZB" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUHBZB" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0HBZB" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXGBZB" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire i commi 1 e 2, con i seguenti:</an:i>
+				</an:p>
+				<an:p>        «1. All'articolo 9, comma 3, della legge 6 luglio 2012, n. 96, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 dopo il secondo periodo sono inseriti i seguenti: ''Per lo svolgimento dei compiti ad essa affidati dalla legge la Commissione può altresì avvalersi di tre unità di personale, dipendenti della Corte dei conti, addette alle attività di revisione, una unità proveniente dalla Guardia di Finanza e due unità di personale dipendenti da altre amministrazioni pubbliche, esperte nell'attività di controllo contabile. I dipendenti di cui al terzo periodo sono collocati fuori ruolo dalle amministrazioni di appartenenza e beneficiano del medesimo trattamento economico lordo annuo in godimento al momento dell'incarico, ivi incluse le indennità accessorie, corrisposto a carico delle amministrazioni di appartenenza. All'atto del collocamento fuori ruolo dei predetti dipendenti, è reso indisponibile per tutta la durata del collocamento fuori ruolo un numero di posti nella dotazione organica dell'amministrazione di appartenenza equivalente dal punto di vista finanziario'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 l'ottavo periodo è sostituito dal seguente: ''Per la durata dell'incarico, i componenti della Commissione sono collocati fuori ruolo dalle amministrazioni di appartenenza, secondo le disposizioni dell'articolo 1, commi 66 e 68, della legge 6 novembre 2012, n. 190''.
+				</an:p>
+				<an:p>        2. È fatto divieto a enti, aziende e società private ovvero controllate o partecipate da soggetti pubblici o che comunque siano titolari di concessioni pubbliche di finanziare con contributi, donazioni, sponsorizzazioni o inserzioni pubblicitarie, anche attraverso i loro dirigenti, le istituzioni, fondazioni e associazioni che abbiano come scopo sociale l'elaborazione di politiche pubbliche e che siano presiedute o dirette da persone che siano titolari di incarichi di governo a livello nazionale, regionale o locale, o siano membri del Parlamento nazionale o europeo ovvero di assemblee elettive regionali o locali, o che lo siano stati nei dieci anni precedenti. Lo stesso divieto si applica allorché le predette istituzioni, fondazioni o associazioni, pur non essendo presiedute o dirette dalle persone di cui al periodo precedente, dedicano la loro attività prevalente al supporto politico-culturale o organizzativo di una o più delle persone stesse, di un partito o di una corrente di partito».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
