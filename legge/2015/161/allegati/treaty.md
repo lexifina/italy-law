@@ -1,0 +1,7 @@
+TREATY ON EXTRADITION
+
+BETWEEN
+
+THE REPUBLIC OF ITALY AND THE PEOPLE'S REPUBLIC OF CHINA
+
+Parte di provvedimento in formato grafico
