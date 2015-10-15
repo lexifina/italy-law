@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/A/1.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/A/1.16"/>
+					<an:FRBRdate date="2015-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2054/A/1.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@"/>
+					<an:FRBRdate date="2015-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@.akn"/>
+					<an:FRBRdate date="2015-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-10-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-10-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2054/A/1.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2054" showAs="DDL 2054"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAFDFEC" href="http://dati.senato.it/senatore/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDA2CFEC" href="http://dati.senato.it/senatore/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDAKCFEC" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDAYDFEC" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDA4HFEC" href="http://dati.senato.it/senatore/29053" showAs="BOTTICI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2054</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.16 (TESTO 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFDFEC" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2CFEC" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKCFEC" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYDFEC" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4HFEC" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo con il seguente:</an:p>
+				<an:p>
+					        «Art. 1. - 
+					<an:i>(Soppressione del finanziamento pubblico ai partiti e ai movimenti politici e riassegnazione di fondi). - 1.</an:i>
+					 Qualsiasi finanziamento pubblico per i partiti e movimenti politici di cui all'articolo 14 del decreto-legge 28 dicembre 2013, n. 149, convertito, con modificazioni dalla legge 21 febbraio 2014, n. 13, cessa a partire dall'esercizio in corso alla data di entrata in vigore del citato decreto 149 del 2013. I risparmi derivanti dalla mancata erogazione delle somme riguardanti gli anni 2013, 2014, 2015 e 2016 sono riassegnati all'entrata del bilancio dello Stato, per essere destinati, con decreto del Ministro dell'economia e delle finanze , a favore del finanziamento di interventi in favore dei siti italiani inseriti nella lista del patrimonio mondiale dell'UNESCO ai sensi dell'articolo 4, comma 1, della legge n. 77 del 2006».
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Aggiungono la firma in corso di seduta i restanti componenti del Gruppo M5S</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
