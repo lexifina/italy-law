@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/A/1.0.6"/>
+					<an:FRBRdate date="2015-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@"/>
+					<an:FRBRdate date="2015-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@.akn"/>
+					<an:FRBRdate date="2015-10-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-10-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-10-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2054/A/1.0.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2054" showAs="DDL 2054"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAZAFEC" href="http://dati.senato.it/senatore/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDA0BFEC" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDAKCFEC" href="http://dati.senato.it/senatore/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDABBFEC" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDAPGFEC" href="http://dati.senato.it/senatore/29053" showAs="BOTTICI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2054</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.6 (TESTO 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZAFEC" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0BFEC" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKCFEC" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABBFEC" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPGFEC" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					        Dopo l'
+					<an:b>articolo</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Norma transitoria)</an:i>
+				</an:p>
+				<an:p>        1. Per il solo anno 2015, le risorse non utilizzate per le finalità di cui al comma 9 dell'articolo 11 del decreto-legge 28 dicembre 2013, n. 149 convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 13, in deroga a quanto previsto dal comma 11 del medesimo articolo, sono assegnate al Fondo per le emergenze nazionali della Protezione civile. Le relative risorse sono, a tal fine, riassegnati all'entrata del bilancio dello Stato, per essere destinati, con decreto del Ministro dell'economia e delle finanze al Fondo di cui all'articolo 1, comma 235, della legge 24 dicembre 2012, n. 228, e successive modificazioni».</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Aggiungono la firma in corso di seduta i restanti componenti del Gruppo M5S</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
