@@ -1,0 +1,7 @@
+Allegato VI
+
+(articolo 15, comma 7)
+
+BOLLO DI AUTENTICAZIONE DEI PUNZONI RILASCIATI AGLI ASSEGNATARI DEI MARCHI DI IDENTIFICAZIONE
+
+Parte di provvedimento in formato grafico
