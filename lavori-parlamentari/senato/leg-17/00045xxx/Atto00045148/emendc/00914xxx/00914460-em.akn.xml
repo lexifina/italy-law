@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1738/C/6.0.2"/>
+					<an:FRBRdate date="2015-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@"/>
+					<an:FRBRdate date="2015-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@.akn"/>
+					<an:FRBRdate date="2015-10-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-10-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-10-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1738/C/6.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1738" showAs="DDL 1738"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDABOBP" href="http://dati.senato.it/senatore/29115" showAs="LANIECE"/>
+				<an:TLCPerson id="IDADNBP" href="http://dati.senato.it/senatore/2553" showAs="ZELLER"/>
+				<an:TLCPerson id="IDACPBP" href="http://dati.senato.it/senatore/29100" showAs="FRAVEZZI"/>
+				<an:TLCPerson id="IDAMNBP" href="http://dati.senato.it/senatore/29156" showAs="PANIZZA"/>
+				<an:TLCPerson id="IDAPOBP" href="http://dati.senato.it/senatore/29121" showAs="Fausto Guilherme LONGO"/>
+				<an:TLCPerson id="IDAHNBP" href="http://dati.senato.it/senatore/29196" showAs="ZIN"/>
+				<an:TLCPerson id="IDAAOBP" href="http://dati.senato.it/senatore/29045" showAs="BERGER"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1738</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABOBP" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADNBP" as="#tipoSenatore">ZELLER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACPBP" as="#tipoSenatore">FRAVEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMNBP" as="#tipoSenatore">PANIZZA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPOBP" as="#tipoSenatore">Fausto Guilherme LONGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHNBP" as="#tipoSenatore">ZIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAOBP" as="#tipoSenatore">BERGER</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 6, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 6-
+						<an:i>bis</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">(Disposizioni per la Regione autonoma Valle d'Aosta)</an:p>
+				<an:p>
+					        Nell'esercizio della delega di cui all'articolo 1, comma 1, lettera 
+					<an:i>c)</an:i>
+					, il Governo si attiene ai seguenti principi e criteri direttivi:
+				</an:p>
+				<an:p>        1. prevedere che alla nomina, decadenza, dispensa, ammonimento, censura e revoca dall'ufficio giudice onorario di pace nella regione Valle d'Aosta si provveda su proposta del Presidente della Regione, secondo quanto previsto in apposite norme di attuazione dello Statuto speciale, osservate le altre norme in materia stabilite dall'ordinamento giudiziario;</an:p>
+				<an:p>        2. prevedere che con norme di attuazione i cui al comma 1 si disciplinino altresì le modalità di copertura dei posti di giudice onorario di pace onorario nelle sedi valdostane;</an:p>
+				<an:p>        3. prevedere che il Presidente della Regione autonoma Valle d'Aosta rilasci l'autorizzazione all'esercizio delle funzioni del personale amministrativo presso gli uffici del giudice di pace, che detto personale sia inquadrato nei ruoli locali secondo le modalità che saranno stabilite con legge della regione e che il Presidente della Regione provveda anche alla revoca e alla sospensione temporanea dell'autorizzazione nei casi previsti dall'ordinamento giudiziario;</an:p>
+				<an:p>        4. prevedere che le spese sostenute in conseguenza di quanto disposto dal presente articolo vengano rimborsate dallo Stato alla Regione;</an:p>
+				<an:p>        5. prevedere che nel territorio della regione Valle d'Aosta, per la nomina dei giudici onorari di pace nonché dei cancellieri, degli usceri e degli altri addetti agli uffici del giudice di pace, sia richiesta la conoscenza della lingua francese, ai sensi dell'articolo 38 dello Statuto speciale, adottato con legge costituzionale 26 febbraio 1948, n. 4, e degli articoli 51, 52, 53 e 54 della legge 16 maggio 1978, n. 196;</an:p>
+				<an:p>        6. prevedere che nei comuni della Valle d'Aosta e nelle relative borgate o frazioni possano essere istituiti uffici distinti del giudice di pace».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
