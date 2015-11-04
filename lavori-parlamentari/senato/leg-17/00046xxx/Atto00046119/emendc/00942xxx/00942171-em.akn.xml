@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11"/>
+					<an:FRBRdate date="2015-11-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/5/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@"/>
+					<an:FRBRdate date="2015-11-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@.akn"/>
+					<an:FRBRdate date="2015-11-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA4HZO" href="http://dati.senato.it/senatore/22706" showAs="AMATI"/>
+				<an:TLCPerson id="IDAVGZO" href="http://dati.senato.it/senatore/29153" showAs="PAGLIARI"/>
+				<an:TLCPerson id="IDA0DZO" href="http://dati.senato.it/senatore/29200" showAs="VALENTINI"/>
+				<an:TLCPerson id="IDAOGZO" href="http://dati.senato.it/senatore/29162" showAs="PEZZOPANE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/5/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4HZO" as="#tipoSenatore">AMATI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVGZO" as="#tipoSenatore">PAGLIARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0DZO" as="#tipoSenatore">VALENTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOGZO" as="#tipoSenatore">PEZZOPANE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 11a Commissione del Senato,</an:p>
+				<an:p>in sede di esame del disegno di legge recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2016)" (A.S. 2111),</an:p>
+				<an:p>considerato che:</an:p>
+				<an:p>all'articolo 25, comma 1, del disegno di legge n. 2111 (legge di stabilità 2016) sono previste misure per il sostegno alle persone con disabilità grave,</an:p>
+				<an:p>con sentenza del 4 luglio 2013 la Corte di Giustizia Europea, Quarta Sezione, ha dichiarato che la Repubblica italiana, non imponendo a tutti i datori di lavoro di prevedere soluzioni ragionevoli applicabili a tutti i disabili, è venuta meno al suo obbligo di recepire correttamente e completamente l'articolo 5 della direttiva 2000/78/CE del Consiglio, del 27 novembre 2000, che stabilisce un quadro generale per la parità di trattamento in materia di occupazione e di condizioni di lavoro (GU L 303, pag. 16);</an:p>
+				<an:p>lo stratificato quadro normativo nazionale sul tema, valutato nel suo complesso, non impone all'insieme dei datori di lavoro l'obbligo di adottare, ove ve ne sia necessità, provvedimenti efficaci e pratici, in funzione delle esigenze delle situazioni concrete, a favore di tutti i disabili, che riguardino i diversi aspetti dell'occupazione e delle condizioni di lavoro, al fine di consentire a tali persone di accedere ad un lavoro, di svolgerlo, di avere una promozione o di ricevere una formazione. Pertanto, essa non assicura una trasposizione corretta e completa dell'articolo 5 della direttiva 2000/78/CE.</an:p>
+				<an:p>Rilevato inoltre che:</an:p>
+				<an:p>le conseguenze di questo contesto pesano particolarmente sui sordomuti, che pur rientrando fra le categorie protette riscontrano ostacoli maggiori nell'inserimento lavorativo;</an:p>
+				<an:p>impegna il Governo:</an:p>
+				<an:p>a valutare l'opportunità, già in sede di esame del disegno di legge in oggetto, di introdurre misure concrete quali ad esempio la previsione di interpreti LIS (Lingua dei Segni Italiana) durante la fase di colloquio di lavoro, di tirocinio e formazione, che garantiscano la parità di trattamento e la trasposizione corretta, completa ed effettiva dell'articolo 5 della direttiva 2000/78/CE.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
