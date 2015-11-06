@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13"/>
+					<an:FRBRdate date="2015-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/14/13"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@"/>
+					<an:FRBRdate date="2015-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@.akn"/>
+					<an:FRBRdate date="2015-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/14/13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="13ª Commissione permanente" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAZZZJ" href="http://dati.senato.it/senatore/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDASYZJ" href="http://dati.senato.it/senatore/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDAO0ZJ" href="http://dati.senato.it/senatore/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDAM0ZJ" href="http://dati.senato.it/senatore/29048" showAs="BIGNAMI"/>
+				<an:TLCPerson id="IDAJYZJ" href="http://dati.senato.it/senatore/29163" showAs="PICCOLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/14/13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZZZJ" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASYZJ" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAO0ZJ" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAM0ZJ" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJYZJ" as="#tipoSenatore">PICCOLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 13a Commissione permanente in sede di esame del disegno di legge di stabilità per il 2016,</an:p>
+				<an:p>premesso che:</an:p>
+				<an:p>l'articolo 35, comma 1, del decreto-legge 12 settembre 2014, n. 133, cosiddetto "Sblocca Italia" ha previsto l'individuazione a livello nazionale della "capacità complessiva di trattamento di  rifiuti urbani e assimilati degli impianti di incenerimento  in  esercizio  o autorizzati a livello nazionale,  con  l'indicazione  espressa  della capacità di ciascun impianto, e gli impianti  di  incenerimento  con recupero energetico di rifiuti urbani e assimilati da realizzare  per coprire  il  fabbisogno  residuo,  determinato   con   finalità   di progressivo riequilibrio socio-economico fra le aree  del  territorio nazionale e nel rispetto degli obiettivi di raccolta differenziata  e di riciclaggio, tenendo conto  della  pianificazione  regionale. Gli impianti così   individuati  costituiscono infrastrutture e insediamenti strategici di preminente interesse nazionale (...)";</an:p>
+				<an:p>il decreto attuativo di tale norma, che ha provocato la contrarietà di tutte le regioni, prevede una riclassificazione degli inceneritori, da impianti di smaltimento ad impianti di recupero energia ed il loro massimo potenziamento, dichiarandoli "insediamenti strategici di preminente interesse nazionale ai fini della tutela della salute e dell'ambiente"; in questo modo tali impianti possono accogliere rifiuti provenienti anche da fuori regione, a discapito di qualsiasi programmazione regionale e ciò addirittura disincentiva e deresponsabilizza soprattutto quelle Regioni che in tema di autosufficienza sono inadempienti;</an:p>
+				<an:p>pertanto, tale riclassificazione, oltre a far decadere i principi di autosufficienza e di prossimità tra il luogo di produzione e lo smaltimento dei rifiuti, nonché l'obbligo di smaltimento dei rifiuti all'interno del territorio regionale, rischia di aumentare pesantemente gli impatti e i rischi ambientali derivanti dal trasporto dei rifiuti da e verso gli stessi impianti di incenerimento, confermando una direzione opposta ai principi delle direttive comunitarie che mirano a conseguire la minimizzazione degli effetti ambientali negativi derivanti dalla gestione dei rifiuti;</an:p>
+				<an:p>il decreto attuativo proposto dal governo, inviato alla Conferenza Stato-Regioni per il parere, punta alla autorizzazione di altri dodici nuovi impianti di incenerimento di rifiuti, anche in regioni che sono già "virtuose" sulla gestione dei rifiuti;</an:p>
+				<an:p>nel territorio veneto, il decreto prevede la riattivazione dell'impianto di incenerimento di Ca' del Bue; tale imposizione finirebbe per pregiudicare il lavoro svolto fino ad oggi dalla Regione in tema di efficiente gestione del ciclo dei rifiuti. L'amministrazione regionale, nella relazione inviata al Governo precisa: «Ogni sforzo compiuto ad oggi da questa Amministrazione… risulterebbe ineludibilmente pregiudicato dall'azione del Governo che risulterebbe non essere in linea con gli obiettivi regionali»;</an:p>
+				<an:p>la regione Veneto, come anche le altre regioni, ha già stabilito le modalità di gestione e smaltimento dei propri rifiuti e il decreto del Governo si intromette pesantemente in tali questioni programmatiche che fino ad oggi erano di esclusiva competenza regionale;</an:p>
+				<an:p>occorre garantire l'autonomia regionale nella programmazione del ciclo di gestione e smaltimento dei rifiuti, specialmente qualora di tratti di regioni, come la regione Veneto, che fino ad oggi abbiano dato ampia dimostrazione di virtuosità nella gestione dei propri rifiuti,</an:p>
+				<an:p>impegna il Governo:</an:p>
+				<an:p>a rivedere le previsioni del Piano nazionale degli inceneritori dichiarati strategici di preminente interesse nazionale, di attuazione dell'articolo 35, comma 1, del decreto-legge 12 settembre 2014, n. 133, cosiddetto "Sblocca Italia", convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, escludendo da tale Piano degli impianti dichiarati strategici la riattivazione dell'impianto di incenerimento di Ca' del Bue nel territorio della regione Veneto, allo scopo di non interferire con la programmazione del ciclo di gestione e smaltimento dei rifiuti di tale Regione.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
