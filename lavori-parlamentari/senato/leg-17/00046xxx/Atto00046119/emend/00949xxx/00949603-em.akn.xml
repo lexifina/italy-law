@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/25.40/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/25.40"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/25.40/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="25.40"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/25.40/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAVQ5P" href="http://dati.senato.it/senatore/29083" showAs="DE PIETRO"/>
+				<an:TLCPerson id="IDAMS5P" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDA1T5P" href="http://dati.senato.it/senatore/29181" showAs="SIMEONI"/>
+				<an:TLCPerson id="IDAOV5P" href="http://dati.senato.it/senatore/29146" showAs="MUSSINI"/>
+				<an:TLCPerson id="IDALV5P" href="http://dati.senato.it/senatore/29149" showAs="ORELLANA"/>
+				<an:TLCPerson id="IDA2T5P" href="http://dati.senato.it/senatore/29064" showAs="CASALETTO"/>
+				<an:TLCPerson id="IDA0X5P" href="http://dati.senato.it/senatore/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="IDAPV5P" href="http://dati.senato.it/senatore/29133" showAs="MASTRANGELI"/>
+				<an:TLCPerson id="IDARX5P" href="http://dati.senato.it/senatore/29048" showAs="BIGNAMI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 25.40</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVQ5P" as="#tipoSenatore">DE PIETRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMS5P" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1T5P" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOV5P" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALV5P" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2T5P" as="#tipoSenatore">CASALETTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0X5P" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPV5P" as="#tipoSenatore">MASTRANGELI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARX5P" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 2, aggiungere il seguente:</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Al fine di garantire cure adeguate e migliori condizioni di vita alle persone affette da epilessia, è istituito nello stato di previsione del Ministero della salute un Fondo destinato ai malati di epilessia con una dotazione finanziaria di 2 milioni di euro per l'anno 2016 e di 4 milioni di euro annui a decorrere dall'anno 2017».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 14, secondo comma apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>a) sostituire le parole:</an:i>
+					 «10 milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «8 milioni»;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 sostituire le parole: «50-milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «46 milioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
