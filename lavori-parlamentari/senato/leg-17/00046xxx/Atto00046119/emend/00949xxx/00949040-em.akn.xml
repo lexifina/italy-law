@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.0.19"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.0.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/9.0.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAPFSP" href="http://dati.senato.it/senatore/22717" showAs="BONFRISCO"/>
+				<an:TLCPerson id="IDAPESP" href="http://dati.senato.it/senatore/25458" showAs="MILO"/>
+				<an:TLCPerson id="IDALGSP" href="http://dati.senato.it/senatore/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDADGSP" href="http://dati.senato.it/senatore/25261" showAs="D'AMBROSIO LETTIERI"/>
+				<an:TLCPerson id="IDA1GSP" href="http://dati.senato.it/senatore/29203" showAs="DI MAGGIO"/>
+				<an:TLCPerson id="IDAYDSP" href="http://dati.senato.it/senatore/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDA4FSP" href="http://dati.senato.it/senatore/30259" showAs="PAGNONCELLI"/>
+				<an:TLCPerson id="IDAQFSP" href="http://dati.senato.it/senatore/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="IDAUCSP" href="http://dati.senato.it/senatore/29188" showAs="TARQUINIO"/>
+				<an:TLCPerson id="IDASCSP" href="http://dati.senato.it/senatore/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.0.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPFSP" as="#tipoSenatore">BONFRISCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPESP" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALGSP" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADGSP" as="#tipoSenatore">D'AMBROSIO LETTIERI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1GSP" as="#tipoSenatore">DI MAGGIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYDSP" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4FSP" as="#tipoSenatore">PAGNONCELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQFSP" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUCSP" as="#tipoSenatore">TARQUINIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASCSP" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 9-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Compensazioni fiscali)</an:i>
+				</an:p>
+				<an:p>
+					        1. All'articolo 28-
+					<an:i>quinquies</an:i>
+					 del decreto del Presidente della Repubblica 29 settembre 1973, n. 602, dopo il comma 2 è inserito il seguente: ''2-
+					<an:i>bis</an:i>
+					. La compensazione di cui al comma 1 del presente articolo si applica, su richiesta del creditore, con riferimento a tutti i crediti non prescritti, certi, liquidi ed esigibili maturati nei confronti dello Stato, degli enti pubblici nazionali, delle regioni, degli enti locali e degli enti del Servizio sanitario nazionale per somministrazioni, forniture e appalti, a tutte le somme dovute dalla medesima data a titolo di tributi e imposte, con l'utilizzo del sistema previsto dall'articolo 17, del decreto legislativo 9 luglio 1997, n. 241, ed esclusivamente attraverso i servizi telematici messi a disposizione dall'Agenzia delle entrate. Si applicano, in quanto compatibili, le previsioni del predetto comma 1''.
+				</an:p>
+				<an:p>
+					        2. Il decreto del Ministro dell'economia e delle finanze di cui al comma 2 dell'articolo 28-
+					<an:i>quinquies</an:i>
+					 del decreto dei Presidente della Repubblica 29 settembre 1973, n. 602, è emanato entro il 15 gennaio 2016».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, con decreto del Presidente del Consiglio dei Ministri, da emanare entro il 30 settembre 2016, su proposta del Ministro dell'economia e delle finanze, previa deliberazione del Consiglio dei Ministri e previo parere delle Commissioni parlamentari competenti per i profili finanziari, è disposta una riduzione delle dotazioni finanziarie, iscritte a legislazione vigente nell'ambito delle spese rimodulabili di cui all'articolo 21, comma 5, lettera</an:i>
+					 b)
+					<an:i>, della legge 31 dicembre 2009, n. 196, delle missioni di spesa di ciascun Ministero, tale da assicurare minori spese in termini di indebitamente netto pari a 1.300 milioni di euro a decorrere dal 2016. Le misure di cui al periodo precedente non sono adottate o sono adottate per importi inferiori a quelli indicati ove, entro la data ivi indicata, siano approvati provvedimenti normativi che i predetti importi attraverso interventi di razionalizzazione e revisione della spesa pubblica.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
