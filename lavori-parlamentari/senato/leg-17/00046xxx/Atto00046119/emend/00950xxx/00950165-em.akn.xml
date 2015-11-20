@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/38.40/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/38.40"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/38.40/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="38.40"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/38.40/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAKARP" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDAHCRP" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDAEDRP" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDA3CRP" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDAEERP" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDA5GRP" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAVFRP" href="http://dati.senato.it/senatore/29186" showAs="STEFANO"/>
+				<an:TLCPerson id="IDA5DRP" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDASDRP" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 38.40</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKARP" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHCRP" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEDRP" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3CRP" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEERP" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5GRP" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVFRP" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5DRP" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASDRP" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 8 sostituire le parole: «1.000 unità di personale amministrativo proveniente dagli enti di area vasta,», con le seguenti: «1.000 unità di personale amministrativo proveniente dagli enti di area vasta e Croce Rossa» e le parole: «l'acquisizione del personale proveniente dagli enti di area vasta è effettuata mediante procedure di mobilità volontaria semplificate prescindendo dall'assenso dell'amministrazione di appartenenza» con: «l'acquisizione del personale proveniente dagli enti di area vasta e Croce Rossa è effettuata mediante procedure di mobilità volontaria semplificate prescindendo dall'assenso dell'amministrazione di appartenenza».</an:p>
+				<an:p>
+					<an:i>Le procedure di mobilità di cui al decreto ministeriale 14 settembre 2105 riguardanti i lavoratori della croce rossa italiana si intendono anche verso il SSN e gli enti locali così come previsto dall'articolo 6 del decreto-legge n. 178 del 2012.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
