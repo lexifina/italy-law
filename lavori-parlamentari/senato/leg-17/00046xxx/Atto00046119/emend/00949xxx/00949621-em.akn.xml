@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/25.0.11"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="25.0.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/25.0.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAI0RP" href="http://dati.senato.it/senatore/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDAJ1RP" href="http://dati.senato.it/senatore/29102" showAs="GAETTI"/>
+				<an:TLCPerson id="IDAP3RP" href="http://dati.senato.it/senatore/29093" showAs="FATTORI"/>
+				<an:TLCPerson id="IDA22RP" href="http://dati.senato.it/senatore/29189" showAs="TAVERNA"/>
+				<an:TLCPerson id="IDAL3RP" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDAC4RP" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 25.0.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAI0RP" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJ1RP" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAP3RP" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA22RP" as="#tipoSenatore">TAVERNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAL3RP" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAC4RP" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					, aggiungere il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 25-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>
+					        1. Le risorse di cui all'articolo 41, comma 2, lettera 
+					<an:i>c)</an:i>
+					, punto n. 2), del decreto legislativo 4 marzo 2014, n. 26, destinate allo sviluppo e la ricerca di approcci alternativi per l'utilizzo a fini scientifici degli animali, finalizzati alla riduzione o al non uso dei medesimi, ovvero all'utilizzo di procedure non dolorose, previsti dall'articolo 37, comma 1, del medesimo decreto legislativo, sono incrementare di 1.000.000 euro per ciascuno degli anni 2016, 2017 e 2018».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 51, comma 2, aggiungere, infine, le parole:</an:i>
+					 «, ivi comprese le variazioni di cui al periodo successivo le dotazioni di parte corrente, relative alle autorizzazioni di spesa di cui alla predetta Tabella C sono ridotte in maniera lineare per un importo pari a 1.000.000 di euro annui per ciascuno degli anni del triennio 2016-2018».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
