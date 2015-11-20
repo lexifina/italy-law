@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/42.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/42.5"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/42.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="42.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/42.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDANFQP" href="http://dati.senato.it/senatore/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDAZAQP" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDAYGQP" href="http://dati.senato.it/senatore/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDASCQP" href="http://dati.senato.it/senatore/29101" showAs="FUCKSIA"/>
+				<an:TLCPerson id="IDACCQP" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDA4CQP" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDAVFQP" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDACEQP" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 42.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANFQP" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZAQP" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYGQP" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASCQP" as="#tipoSenatore">FUCKSIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACCQP" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4CQP" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVFQP" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACEQP" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, inserire il seguente:</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Al fine di pervenire alla completa rimozione dell'
+					<an:i>etemit</an:i>
+					 o dell'amianto negli edifici pubblici e privati, il Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro delle infrastrutture e dei trasporti, definisce, entro sessanta giorni dalla data di entrata in vigore della presente legge, un programma di interventi finalizzato a provvedere alla rimozione e allo smaltimento del medesimo materiale presente negli edifici con priorità per gli edifici pubblici, per i locali aperti al pubblico o di utilizzazione collettiva e per i blocchi di appartamenti, anche attraverso la sostituzione delle coperture contenenti amianto o 
+					<an:i>eternit</an:i>
+					 con l'installazione di moduli fotovoltaici. Per la realizzazione del programma di cui al presente comma è autorizzata la spesa di 30 milioni di euro per ciascun anno del triennio 2016-2018».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla tabella A, vece</an:i>
+					 Ministero dell'economia e finanze 
+					<an:i>apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p>        2016: - 30.000.000;</an:p>
+				<an:p>        2017: - 30.000.000;</an:p>
+				<an:p>        2018: - 30.000.000.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
