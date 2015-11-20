@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/33.154/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/33.154"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/33.154/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="33.154"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/33.154/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAZERP" href="http://dati.senato.it/senatore/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDALHRP" href="http://dati.senato.it/senatore/29050" showAs="BLUNDO"/>
+				<an:TLCPerson id="IDA5BRP" href="http://dati.senato.it/senatore/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDA5CRP" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDAEDRP" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 33.154</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZERP" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALHRP" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5BRP" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5CRP" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEDRP" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 23, inserire il seguente:</an:p>
+				<an:p>
+					        «23-
+					<an:i>bis</an:i>
+					. All'articolo l della legge 13 luglio 2015, n. 107, il comma 121 è abrogato. I risparmi conseguenti all'abrogazione di cui al precedente periodo confluiscono in un Fondo, appositamente istituito nello stato di previsione del Ministero dell'Istruzione, dell'Università e della Ricerca, denominato Fondo per la Formazione continua del personale docente. Al fine di sostenere la formazione continua dei docenti e di valorizzare le relative competenze professionali, il Ministero dell'istruzione, dell'università e della ricerca adotta ogni tre anni con decreto un Piano nazionale di formazione, coerentemente con le norme contrattuali, sentite le organizzazioni sindacali rappresentative di categoria e le commissioni parlamentari competenti. Il primo decreto dovrà essere adottato entro due mesi dall'approvazione della presente legge. La formazione in servizio dei docenti è obbligatoria, retribuita, permanente e strutturale. Le attività di formazione sono definite dalle singole istituzioni scolastiche in coerenza con il piano dell'offerta formativa».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
