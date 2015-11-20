@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/11.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/11.4"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/11.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/11.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAKWRP" href="http://dati.senato.it/senatore/3939" showAs="SCHIFANI"/>
+				<an:TLCPerson id="IDAAXRP" href="http://dati.senato.it/senatore/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDANSRP" href="http://dati.senato.it/senatore/29208" showAs="GUALDANI"/>
+				<an:TLCPerson id="IDAETRP" href="http://dati.senato.it/senatore/17698" showAs="MARINELLO"/>
+				<an:TLCPerson id="IDA3SRP" href="http://dati.senato.it/senatore/29125" showAs="MANCUSO"/>
+				<an:TLCPerson id="IDABWRP" href="http://dati.senato.it/senatore/17552" showAs="BIANCONI"/>
+				<an:TLCPerson id="IDAHURP" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDAAWRP" href="http://dati.senato.it/senatore/17704" showAs="Giovanni MAURO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKWRP" as="#tipoSenatore">SCHIFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAXRP" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANSRP" as="#tipoSenatore">GUALDANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAETRP" as="#tipoSenatore">MARINELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3SRP" as="#tipoSenatore">MANCUSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABWRP" as="#tipoSenatore">BIANCONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHURP" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAWRP" as="#tipoSenatore">Giovanni MAURO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il comma 1 è sostituito dal seguente:</an:p>
+				<an:p>        «1. Lo sgravio contributivo di cui all'articolo 1, comma 118, della legge n. 190 del 2014, è prorogato, limitatamente alla aree dell'obiettivo 1, in relazione alle nuove assunzioni con contratto di lavoro a tempo indeterminato, con esclusione dei contratti di apprendistato e dei contratti di lavoro domestico, decorrenti dal 1º gennaio 2016 con riferimento a contratti stipulati non oltre il 31 dicembre 2016, alle medesime condizioni previste dal comma 118. Lo sgravio è riconosciuto per un periodo-massimo di 24 mesi»,</an:p>
+				<an:p>            Al comma 2 tutti gli importi ivi indicati sono raddoppiati.</an:p>
+				<an:p>
+					<an:i>È aggiunto il seguente comma:</an:i>
+					 «L'autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge n. 282 del 2004, come rifinanziata dal comma 34 dell'articolo 33, è ridotta di 230 milioni per il 2016, 300 milioni per il 2017, 320 milioni per il 2018 e 40 milioni per il 2019».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, ridurre proporzionalmente del 75 per cento tutti gli accantonamenti della allegata Tabella A, con esclusione di quello relativo al MAE.</an:i>
+				</an:p>
+				<an:p>
+					<an:i>Ridurre tutti gli stanziamenti rimodulabili di parte corrente iscritti nella allegata tabella C in maniera lineare del 5 per cento.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
