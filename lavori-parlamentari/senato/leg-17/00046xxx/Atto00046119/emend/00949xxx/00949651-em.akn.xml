@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/G26.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/G26.100"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/G26.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G26.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/G26.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAOMRP" href="http://dati.senato.it/senatore/25449" showAs="MUNERATO"/>
+				<an:TLCPerson id="IDAWORP" href="http://dati.senato.it/senatore/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDA3MRP" href="http://dati.senato.it/senatore/22551" showAs="BISINELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G26.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOMRP" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWORP" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3MRP" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            esaminato il disegno di legge di stabilità per il 2016;</an:p>
+				<an:p>            valutato nel dettaglio gli interventi recati dall'articolo 26 del provvedimento;</an:p>
+				<an:p>            ricordato che il decreto-legge 19 giugno 2015, n. 78, convertito, con modificazioni, dalla legge 6 agosto 2015, n. 125, ha previsto agevolazioni in favore di due sulle tre regioni colpite dagli eventi sismici del 2012, escludendo il Veneto e contemplando solo l'Emilia Romagna e la Lombardia;</an:p>
+				<an:p>            ribadito che in tal modo si è creata una forte disparità di trattamento tra i Comuni emiliani, lombardi e veneti, privilegiando alcune comunità a danno di altre, tutte parimenti in diritto di beneficiare di agevolazioni tese ad affrontare con più vigore ed efficacia la difficile fase post terremoto che ancora perdura;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a prevedere, nelle more di attuazione del provvedimento, anche in favore dei Comuni veneti colpiti dal terremoto nel maggio 2012, al pari di quanto già previsto per i Comuni emiliani e lombardi colpiti dal medesimo evento, la concessione di contributi per la riparazione e la ricostruzione degli immobili di edilizia abitativa, ad uso produttivo e per i servizi pubblici e privati e delle infrastrutture, delle dotazioni territoriali e delle attrezzature pubbliche, distrutte o danneggiati dai predetti eventi sismici del maggio 2012.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
