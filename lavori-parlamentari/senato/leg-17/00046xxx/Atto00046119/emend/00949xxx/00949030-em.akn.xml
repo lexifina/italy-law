@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.117/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.117"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.117/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.117"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/9.117/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAEKRP" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDAPORP" href="http://dati.senato.it/senatore/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDATORP" href="http://dati.senato.it/senatore/29101" showAs="FUCKSIA"/>
+				<an:TLCPerson id="IDACORP" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDADNRP" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDAINRP" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDAWIRP" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.117</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEKRP" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPORP" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATORP" as="#tipoSenatore">FUCKSIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACORP" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADNRP" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAINRP" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWIRP" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 11, aggiungere, in fine, il seguente:</an:p>
+				<an:p>
+					        «11-
+					<an:i>bis</an:i>
+					. All'articolo 1, comma 37, della legge 24 dicembre 2007, n. 244, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 le parole: ''30 novembre 2007'' sono sostituite dalle seguenti: ''30 novembre 2015'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 le parole: ''30 aprile 2008'' sono sostituite dalle seguenti ''30 aprile 2016'';
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 le parole ''1º gennaio 2008'' sono sostituite dalle seguenti parole: ''1º gennaio 2016'';
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 le parole ''1º gennaio 2007'' sono sostituite dalle seguenti ''1º gennaio 2015'';
+				</an:p>
+				<an:p>
+					<an:i>e)</an:i>
+					 le parole ''16 dicembre 2008'' sono sostituite dalle seguenti ''16 dicembre 2016'';
+				</an:p>
+				<an:p>
+					<an:i>f)</an:i>
+					 le parole ''16 marzo 2009'' sono sostituite dalle seguenti ''16 marzo 2017''».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>f) all'articolo 33, sostituire il comma 8, con il seguente:</an:i>
+				</an:p>
+				<an:p>        «8. All'articolo 12, comma 4, del decreto-legge 28 dicembre 2013, n. 149, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 13, sopprimere le seguenti parole: ''di 27,7 milioni di euro per l'anno 2016 e di 45,1 milioni di euro a decorrere dall'anno 2017''»;</an:p>
+				<an:p>            g) all'articolo 33, al comma 34, sostituire le parole: «300 milioni» con le seguenti: «200 milioni»;</an:p>
+				<an:p>
+					<an:i>h) all'articolo 48, comma 1, sostituire le parole:</an:i>
+					 «15 per cento» 
+					<an:i>con le seguenti:</an:i>
+					 «17 per cento»;
+				</an:p>
+				<an:p>            i) all'articolo 48, comma 2, sostituire le parole: «5,5 per cento» con le seguenti: «6 per cento»;</an:p>
+				<an:p>            j) dopo l'articolo 50, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 50-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Riduzione della percentuale di deducibilità degli interessi passivi delle banche e di altri enti e società finanziari)</an:i>
+				</an:p>
+				<an:p>        1. In deroga all'articolo 3 della legge 27 luglio 2000, n. 212, a decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2015, al decreto legislativo 15 dicembre 1997, n. 446, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 all'articolo 6, comma 8, le parole: ''nella misura del 96 per cento'' sono sostituite dalle seguenti: ''nella misura del 93 per cento'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 all'articolo 6, comma 9, le parole: ''nella misura del 96 per cento'' sono sostituite dalle seguenti: ''nella misura del 93 per cento'';
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 all'articolo 7, comma 2, le parole: ''nella misura del 96 per cento'' sono sostituite dalle seguenti: ''nella misura del 93 per cento''»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
