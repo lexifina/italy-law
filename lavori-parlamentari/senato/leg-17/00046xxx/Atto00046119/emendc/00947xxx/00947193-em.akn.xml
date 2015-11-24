@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/4/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@.akn"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/4/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAGO5L" href="http://dati.senato.it/senatore/29048" showAs="BIGNAMI"/>
+				<an:TLCPerson id="IDAYN5L" href="http://dati.senato.it/senatore/22717" showAs="BONFRISCO"/>
+				<an:TLCPerson id="IDALP5L" href="http://dati.senato.it/senatore/29146" showAs="MUSSINI"/>
+				<an:TLCPerson id="IDAJP5L" href="http://dati.senato.it/senatore/29083" showAs="DE PIETRO"/>
+				<an:TLCPerson id="IDA4P5L" href="http://dati.senato.it/senatore/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDAZM5L" href="http://dati.senato.it/senatore/29193" showAs="VACCIANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/4/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGO5L" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYN5L" as="#tipoSenatore">BONFRISCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALP5L" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJP5L" as="#tipoSenatore">DE PIETRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4P5L" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZM5L" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del disegno di legge A.S. 2111 recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2016)»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 4 del presente provvedimento prevede una riforma della tassazione locale immobiliare: in particolare i commi 1-3 intervengono sull'IMU, tra l'altro ampliando le agevolazioni per i terreni agricoli;</an:p>
+				<an:p>            i commi 4 e 5 prevedono l'eliminazione della TASI sull'abitazione principale, anche nell'ipotesi in cui è il detentore a destinare l'immobile ad abitazione principale; viene disposta un'aliquota ridotta per gli immobili - merce ed estesa l'esenzione per la prima casa all'imposta sugli immobili all'estero - IVIE;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            le misure sopra evidenziate avrebbero dovuto essere precedute da una seria riforma del catasto;</an:p>
+				<an:p>            il governo non ha però emanato il decreto, il cui termine è già scaduto, che avrebbe dovuto definire i valori catastali in attuazione della Delega Fiscale, Legge 11 marzo 2014,  n. 23;</an:p>
+				<an:p>            se il decreto non fosse stato bloccato, il primo luglio 2015 sarebbe dovuto partire il campionamento degli immobili, con termine nel giugno 2016. Le funzioni statistiche per dare i valori agli immobili avrebbero dovuto essere completate entro il giugno 2018;</an:p>
+				<an:p>            come evidenziato in audizione dal direttore dell'Agenzia delle Entrate, Rossella Orlandi, in Commissione bicamerale di vigilanza sull'anagrafe tributaria, l'attuale sistema catastale presenta notevoli carenze: «al 31 agosto scorso su un totale di circa 61 milioni di unità immobiliari dei gruppi catastali ordinari (''A'', ''B'' e ''C''), 57,4 milioni sono le unità con planimetria; circa 3 milioni non risultano possedere la correlata planimetria; e per circa 0,3 milioni di unità con planimetria non è possibile calcolare la superficie. In definitiva, sul totale di circa 61 milioni di unità immobiliari censite nei gruppi ''A'', ''B'' e ''C'', il 5,4 per cento circa, pari a 3,3 milioni di unità, risultano prive di superficie»;</an:p>
+				<an:p>        tenuto conto che:</an:p>
+				<an:p>            la progressività delle imposte è sancita dal dettato costituzionale;</an:p>
+				<an:p>        impegna il governo:</an:p>
+				<an:p>            ad attuare con urgenza una revisione completa della disciplina relativa al sistema estimativo del catasto dei fabbricati su tutto il territorio nazionale, attribuendo a ciascuna unità immobiliare il relativo valore patrimoniale e la rendita.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
