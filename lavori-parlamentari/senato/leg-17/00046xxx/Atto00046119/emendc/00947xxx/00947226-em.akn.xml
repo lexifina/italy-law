@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/37/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@.akn"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/37/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAOM5L" href="http://dati.senato.it/senatore/29123" showAs="LUCIDI"/>
+				<an:TLCPerson id="IDAYP5L" href="http://dati.senato.it/senatore/29034" showAs="AIROLA"/>
+				<an:TLCPerson id="IDABO5L" href="http://dati.senato.it/senatore/29046" showAs="BERTOROTTA"/>
+				<an:TLCPerson id="IDAON5L" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDATI5L" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDAMN5L" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/37/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOM5L" as="#tipoSenatore">LUCIDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYP5L" as="#tipoSenatore">AIROLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABO5L" as="#tipoSenatore">BERTOROTTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAON5L" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATI5L" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMN5L" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            al comma 2 dell'articolo 23 del provvedimento in titolo si, incrementa il finanziamento a favore dell'Agenzia italiana per la cooperazione allo sviluppo di 120 milioni per l'anno 2016, 240 milioni nel 2017, 360 milioni nel 2018;</an:p>
+				<an:p>            l'agenzia di cui al precedente periodo rappresenta l'ennesima istituzione creata, dal legislatore italiano, per la realizzazione di compiti già previsti in capo all'allora Ministero degli Affari esteri;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            ad un anno e mezzo dall'approvazione della legge n. 124 del 2014, recante la nuova «Disciplina generale sulla cooperazione internazionale per lo sviluppo», non si dispone di alcuna notizia in merito all'Agenzia di cui innanzi, né si ha contezza di qualsivoglia operato dell'Agenzia medesima, nonostante i già previsti stanziamenti milionari - 5.301.962 per l'anno 2015 e in euro 5.279.238 annui a decorrere dall'anno 2016 - relativi al funzionamento della stessa, di cui all'articolo 33, comma 2 della citata legge;</an:p>
+				<an:p>        impegna il governo a:</an:p>
+				<an:p>            informare le commissioni parlamentari, competenti dello stato di attuazione della legge n. 124 del 2014; con particolare riferimento al funzionamento dell'Agenzia italiana per la cooperazione allo sviluppo, entro 30 giorni dall'entrata in vigore della presente legge.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
