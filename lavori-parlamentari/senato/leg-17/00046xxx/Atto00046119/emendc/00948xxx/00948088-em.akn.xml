@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/198/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@.akn"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/198/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAVFXQ" href="http://dati.senato.it/senatore/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDAGHXQ" href="http://dati.senato.it/senatore/25449" showAs="MUNERATO"/>
+				<an:TLCPerson id="IDATCXQ" href="http://dati.senato.it/senatore/22551" showAs="BISINELLA"/>
+				<an:TLCPerson id="IDANFXQ" href="http://dati.senato.it/senatore/29156" showAs="PANIZZA"/>
+				<an:TLCPerson id="IDALDXQ" href="http://dati.senato.it/senatore/29048" showAs="BIGNAMI"/>
+				<an:TLCPerson id="IDAAGXQ" href="http://dati.senato.it/senatore/29151" showAs="PADUA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/198/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVFXQ" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGHXQ" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATCXQ" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANFXQ" as="#tipoSenatore">PANIZZA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALDXQ" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAGXQ" as="#tipoSenatore">PADUA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato</an:p>
+				<an:p>            in sede di esame dell'articolo 21 della legge di stabilità per il 2016</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            le associazioni senza scopo di lucro (Onlus o associazioni politiche, sindacali, di categoria, religiose, assistenziali, culturali, sportive dilettantistiche, di promozione sociale e di formazione extra-scolastica) che organizzano occasionalmente, in concomitanza di celebrazioni, ricorrenze o campagne di sensibilizzazione, spettacoli e intrattenimenti pubblici nonostante siano esenti dall'imposta sugli spettacoli ai sensi dell'articolo 23 del decreto legislativo 4 dicembre 1997, n. 460, sono tenute a corrispondere alla Società italiana degli autori e degli editori (SIAE) i diritti d'autore per le pubbliche esecuzioni;</an:p>
+				<an:p>
+					            si tratta nella maggior parte dei casi di un ulteriore costo, spesso insostenibile, che grava sulle scarse risorse di cui le associazioni dispongono. Per fare un esempio per una piccola festa zonale organizzata da una sola parrocchia o da una 
+					<an:i>pro loco</an:i>
+					 in frazioni o comuni fino a 3.000 abitanti, il costo può arrivare fino a 100 euro giornalieri;
+				</an:p>
+				<an:p>            molte realtà del volontariato sociale in Italia, come da comunicazioni di esclusione inviate, in questo periodo, dai competenti uffici dell'Agenzia delle entrate, si vedono negato il diritto a ricevere il 5 per mille dell'IRPEF relativo alle dichiarazioni dei redditi presentate nel 2015 (anno d'imposta 2014), esclusivamente per aver omesso l'invio cartaceo con raccomandata o PEC dell'atto di notorietà (tra l'altro contenente dati già in possesso della Pubblica amministrazione) entro la scadenza del 30 giugno 2015, peraltro dopo aver adempiuto correttamente all'iscrizione telematica;</an:p>
+				<an:p>            il «mondo del volontariato sociale» non dispone di strutture organizzative tali da poter sempre rispettare adempimenti burocratici che appaiono obiettivamente eccessivi e ridondanti, tanto da aver determinato già precedenti sanatorie (l'ultima riguarda gli anni 2006, 2007 e 2008),</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					al fine di agevolare la realizzazione di manifestazioni in forma gratuita da parte di 
+					<an:i>Onlus</an:i>
+					, parrocchie e 
+					<an:i>pro loco</an:i>
+					, a valutare l'opportunità, in sede di esame della presente legge di stabilità alla Camera dei deputati, di prevedere una riduzione adeguata dei proventi spettanti alla SIAE quando l'esecuzione, la rappresentazione o la recitazione dell'opera avvengono nella sede dei centri o degli istituti di assistenza, formalmente istituiti, nonché delle associazioni di volontariato, di associazioni di promozione sociale, di Onlus e di organizzazioni non lucrative di utilità sociale, di cooperative sociali, purché destinate ai soli soci ed invitati e sempre che non vengano effettuate a scopo di lucro;
+				</an:p>
+				<an:p>a valutare la possibilità di prorogare, anche a fronte del pagamento di una sanzione, i termini per l'invio della documentazione cartacea relativamente alla dichiarazione sostitutiva di atto notorio, per i soggetti che abbiano trasmesso tempestivamente la comunicazione in via telematica, interessati alla destinazione del 5 per mille dell'IRPEF, ai sensi dell'articolo 1 del decreto del Presidente del Consiglio dei ministri 23 aprile 2010.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
