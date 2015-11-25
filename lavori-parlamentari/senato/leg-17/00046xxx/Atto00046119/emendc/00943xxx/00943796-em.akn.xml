@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/13.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/13.8"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/13.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/13.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA21VQ" href="http://dati.senato.it/senatore/23035" showAs="PELINO"/>
+				<an:TLCPerson id="IDAIYVQ" href="http://dati.senato.it/senatore/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDAZ2VQ" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDAX0VQ" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDAR0VQ" href="http://dati.senato.it/senatore/31391" showAs="BOCCARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA21VQ" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIYVQ" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZ2VQ" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAX0VQ" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAR0VQ" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 7 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «7-
+					<an:i>bis</an:i>
+					. Al fine di rendere più efficaci le misure di sostegno di cui ai commi precedenti, al Regio Decreto 16 marzo 1942, n. 267 sono apportate le seguenti modifiche:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 all'articolo l 82-
+					<an:i>quater</an:i>
+					, il comma secondo è sostituto con il seguente ''Sono parificati ai crediti di cui al primo comma i crediti derivanti da finanziamenti erogati da banche e intermediari finanziari iscritti nell'albo di cui all'articolo 106, decreto legislativo 10 settembre 1993, n. 385, in funzione della presentazione della domanda di ammissione alla procedura di concordato preventivo o della domanda di omologazione dell'accordo di ristrutturazione dei debiti, purché i finanziamenti siano indicati nella proposta di concordato o nell'accordo di ristrutturazione. II professionista che redige la relazione prevista dagli articoli 161, terzo comma e 182-
+					<an:i>bis</an:i>
+					, primo comma, attesta che i finanziamenti di cui al periodo precedente sono destinati alla copertura dei costi della procedura e del fabbisogno finanziario della società ai finì della presentazione della domanda. Resta ferma la prededucibilità del credito anche qualora la proposta di concordato preventivo dovesse essere dichiarata inammissibile ai sensi dell'articolo 162, o l'accordo di ristrutturazione dei debiti non dovesse essere omologato'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 all'articolo 67, terzo comma, dopo la lettera 
+					<an:i>g)</an:i>
+					 è inserita la seguente;
+				</an:p>
+				<an:p>
+					            ''
+					<an:i>g-bis)</an:i>
+					 in relazione a quanto disposto dall'articolo 182
+					<an:i>-quater</an:i>
+					, secondo comma, gli atti, i pagamenti e le garanzie posti in essere in funzione della presentazione della domanda di ammissione alla procedura di concordato preventivo o della domanda di omologazione dell'accordo di ristrutturazione dei debiti, anche qualora la proposta di concordato preventivo dovesse essere dichiarata inammissibile ai sensi dell'articolo 162, o l'accordo di ristrutturazione dei debiti non dovesse essere omologato'';
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 all'articolo 217-
+					<an:i>bis</an:i>
+					, dopo le parole: ''a norma dell'articolo 182-
+					<an:i>quinquies''</an:i>
+					 sono aggiunte le seguenti parole: ''oltre ai pagamenti e alle operazioni di finanziamento posti in essere ai sensi degli articoli 67, terzo comma, lettera 
+					<an:i>g-bis)</an:i>
+					 e 182-
+					<an:i>quater</an:i>
+					 secondo comma''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
