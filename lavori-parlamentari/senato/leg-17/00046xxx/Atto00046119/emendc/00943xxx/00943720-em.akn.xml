@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/11.58/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/11.58"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/11.58/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.58"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/11.58/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDACRVQ" href="http://dati.senato.it/senatore/29151" showAs="PADUA"/>
+				<an:TLCPerson id="IDAFSVQ" href="http://dati.senato.it/senatore/22770" showAs="PIGNEDOLI"/>
+				<an:TLCPerson id="IDAZSVQ" href="http://dati.senato.it/senatore/25226" showAs="BERTUZZI"/>
+				<an:TLCPerson id="IDAFRVQ" href="http://dati.senato.it/senatore/29175" showAs="SANTINI"/>
+				<an:TLCPerson id="IDADSVQ" href="http://dati.senato.it/senatore/29095" showAs="FAVERO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.58</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACRVQ" as="#tipoSenatore">PADUA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFSVQ" as="#tipoSenatore">PIGNEDOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZSVQ" as="#tipoSenatore">BERTUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFRVQ" as="#tipoSenatore">SANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADSVQ" as="#tipoSenatore">FAVERO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis.</an:i>
+					 Il comma 1, dell'articolo 5 del decreto-legge 10 ottobre 1996, n. 510, convertito con modificazioni dalla legge 28 novembre 1996, n. 608, si interpreta nel senso che gli accordi provinciali di riallineamento retributivo possono demandare la definizione di tutto o parte del programma di graduale riallineamento dei trattamenti economici dei lavoratori agli accordi aziendali di recepimento purché sottoscritti con le stesse parti che hanno stipulato l'accordo provinciale: Non si dà luogo alla ripetizione di eventuali versamenti contributivi effettuati antecedente mente alla data di entrata in vigore della presente legge.».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla tabella A, voce:</an:i>
+					 Ministero dell'economia e delle finanze, apportare le seguenti variazioni:
+				</an:p>
+				<an:p>            2016:  -  10.000.000;</an:p>
+				<an:p>            2017:  -  10.000;000;</an:p>
+				<an:p>            2018:  -  10.000.000.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
