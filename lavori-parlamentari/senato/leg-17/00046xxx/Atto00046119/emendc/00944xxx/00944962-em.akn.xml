@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/23.0.3"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/23.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAIRJP" href="http://dati.senato.it/senatore/29172" showAs="RUSSO"/>
+				<an:TLCPerson id="IDA1QJP" href="http://dati.senato.it/senatore/29113" showAs="LAI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIRJP" as="#tipoSenatore">RUSSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1QJP" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 23-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">(Credito di imposta per imprese televisive e radiofoniche locali)</an:p>
+				<an:p>        1. È previsto, per gli anni 2016 e 2017, un contributo in favore di imprese televisive locali con ascolti rilevati da Auditel e imprese radiofoniche locali con ascolti rilevati da Radio Monitor che investono in campagne pubblicitarie.</an:p>
+				<an:p>        2. Il contributo, pari a 25 milioni di euro per ciascun anno, è riconosciuto nella forma di credito di imposta nella misura dell'80 per cento dell'investimento sostenuto, con il limite complessivo di euro 25 mila per ogni singola impresa inserzionista. Il contributo è utilizzabile in compensazione, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241.</an:p>
+				<an:p>        3. Le modalità di fruizione del contributo di cui ai precedenti commi vengono determinate con decreto del Ministro dell'Economia e delle Finanze, da emanarsi entro novanta giorni dalla data di entrata in vigore della presente legge.</an:p>
+				<an:p>
+					        4. Agli oneri derivanti dal presente articolo si provvede mediante corrispondente riduzione delle dotazioni finanziarie di parte corrente di ciascun ministero, di cui all'articolo 21, comma 5, lettera 
+					<an:i>b)</an:i>
+					, della legge 31 dicembre 2009, n. 196».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
