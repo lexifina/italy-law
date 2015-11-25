@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/35.92/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/35.92"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/35.92/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="35.92"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/35.92/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAC5WQ" href="http://dati.senato.it/senatore/17879" showAs="BUEMI"/>
+				<an:TLCPerson id="IDA24WQ" href="http://dati.senato.it/senatore/29121" showAs="Fausto Guilherme LONGO"/>
+				<an:TLCPerson id="IDA31WQ" href="http://dati.senato.it/senatore/2553" showAs="ZELLER"/>
+				<an:TLCPerson id="IDAO2WQ" href="http://dati.senato.it/senatore/29196" showAs="ZIN"/>
+				<an:TLCPerson id="IDA43WQ" href="http://dati.senato.it/senatore/29149" showAs="ORELLANA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 35.92</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAC5WQ" as="#tipoSenatore">BUEMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA24WQ" as="#tipoSenatore">Fausto Guilherme LONGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA31WQ" as="#tipoSenatore">ZELLER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAO2WQ" as="#tipoSenatore">ZIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA43WQ" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 20, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «20-
+					<an:i>bis</an:i>
+					. Per i comuni con meno di 5000 abitanti cui è stata concessa l'anticipazione di cui all'articolo 33, comma 1, del decreto-legge 24 aprile 2014, n. 66, convertito, con modificazioni, dalla legge 23 giugno 2014, n. 89 da destinare all'incremento della massa attiva della gestione liquidatoria per il pagamento dei debiti ammessi, con le modalità di cui all'articolo 258 del decreto legislativo 18 agosto 2000, n. 267, a decorrere dall'anno 2016 tale debito, per una somma totale di euro 15.262.838,50 da estinguere negli anni di riferimento del mutuo stesso, è trasferito a carico dello Stato che lo imputa proporzionalmente al capitolo di riferimento del Fondo di rotazione medesimo;
+				</an:p>
+				<an:p>        b) i comuni sono obbligati a destinare l'intero importo delle risorse derivanti dalla cancellazione delle rate di mutuo ad attività ed opere finalizzate a prevenire il dissesto idrogeologico, nonché al contrasto della criminalità con azioni mirate di prevenzione e recupero del tessuto sociale dei rispettivi territori amministrati;</an:p>
+				<an:p>
+					        c) l'applicazione delle disposizioni di cui al punto 
+					<an:i>a)</an:i>
+					, è subordinata all'approvazione, da parte del Ministro dell'Interno, di specifici programmi di intervento, relativi agli obiettivi di cui al punto 
+					<an:i>b)</an:i>
+					, presentati dai Sindaci i quali sono altresì tenuti a trasmettere, annualmente, dettagliata relazione sui risultati ottenuti».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'onere derivante dall'attuazione della presente disposizione, determinato in 15 milioni di euro complessivi si provvede mediante corrispondente riduzione dell'autorizzazione di spesa relativa di cui alla Tabella C allegata al presente disegno di legge Ministro dell'economia e delle finanze è autorizzato ad apportare con propri decreti, le occorrenti variazioni di bilancio.</an:i>
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
