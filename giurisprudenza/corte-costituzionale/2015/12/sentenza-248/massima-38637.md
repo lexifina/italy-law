@@ -1,0 +1,22 @@
+# Massima n. 38637
+
+- Pronuncia: Corte costituzionale, sentenza 248/2015 (ECLI:IT:COST:2015:248)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2015:248
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Esecuzione mobiliare - Somme dovute dai privati a titolo di stipendio, di salario o di altre indennità relative al rapporto di lavoro o di impiego - Pignorabilità nella misura di un quinto per i tributi dovuti allo Stato, alle province e ai comuni, ed in eguale misura per ogni altro credito  - Mancata previsione della impignorabilità assoluta dei redditi esigui - Asserita violazione del principio della retribuzione adeguata alle esigenze di vita - Asserita violazione del principio di eguaglianza con riferimento ai crediti pensionistici secondo il regime indicato dalla sentenza n. 506 del 2002 e ai crediti erariali di cui all'art. 72-ter del d.P.R. n. 602 del 1973 - Insussistenza - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 545, quarto comma, cod. proc. civ. - impugnato, in riferimento agli artt. 3 e 36 Cost. - in quanto non prevede l'impignorabilità assoluta della quota di retribuzione necessaria al mantenimento del lavoratore e della famiglia. Secondo la previsione codicistica, i crediti derivanti da rapporto di lavoro o di impiego sono di norma pignorabili nella misura del "quinto", mentre, per quel che riguarda gli emolumenti da pensione, la giurisprudenza costituzionale ritiene che, pur mantenendosi il predetto limite, debba essere sottratta al regime generale di pignorabilità la parte necessaria a soddisfare le esigenze minime di vita del pensionato. Lo scopo dell'art. 545 cod. proc. civ. è quello di contemperare la protezione del credito con l'esigenza del lavoratore di avere, attraverso una retribuzione congrua, un'esistenza libera e dignitosa. La facoltà di escutere il debitore non può essere sacrificata totalmente, anche se la privazione di una parte del salario è un sacrificio che può essere molto gravoso per il lavoratore scarsamente retribuito. La scelta del criterio di limitazione della pignorabilità e l'entità di detta limitazione rientrano nel potere costituzionalmente insindacabile del legislatore. La tutela della certezza dei rapporti giuridici, in quanto collegata agli strumenti di protezione del credito personale, non consente di negare in radice la pignorabilità degli emolumenti ma di attenuarla per particolari situazioni la cui individuazione è riservata alla discrezionalità del legislatore. Non può essere, pertanto, esteso ai crediti retributivi quanto affermato, con riguardo alla pignorabilità delle pensioni, nella sentenza n. 506 del 2002, che evidenzia la diversa configurazione della tutela prevista dall'art. 38 rispetto a quella dell'art. 36 Cost.; né può costituire  tertium comparationis  l'art. 72- ter  del d.P.R. n. 602 del 1973 nella vigente formulazione, in materia di riscossione di crediti erariali, il quale riguarda l'ancor più eterogenea fattispecie inerente alla riscossione coattiva delle imposte sul reddito. Sulla sottrazione al regime generale di pignorabilità della parte di pensione necessaria a soddisfare le esigenze minime di vita del pensionato, v. la citata sentenza n. 506/2002. Sul contemperamento dell'interesse del creditore con quello del debitore che percepisce lo stipendio, v. le citate sentenze nn. 38/1970 e 20/1968. Sull'art. 545, quarto comma, cod. proc. civ., v. le citate sentenze nn. 209/1975, 102/1974, 20/1968 e le citate ordinanze nn. 260/1987 e 12/1977. Sulla possibilità per il legislatore di porre dei limiti al regime di pignorabilità, v.,  ex plurimis , la citata sentenza n. 22/1969 e la citata ordinanza n. 225/2002. Sulla non fondatezza della questione di legittimità costituzionale dell'art. 545, quarto comma, cod. proc. civ. in riferimento all'art. 36 Cost., v. le citate sentenze nn. 434/1997, 209/1975, 102/1974, 38/1970, 20/1968 e le citate ordinanze nn. 491/1987, 260/1987, 12/1977. Per l'affermazione che la responsabilità patrimoniale del debitore inadempiente resta piena ed illimitata, v. la citata sentenza n. 580/1989. Sulla portata del principio di eguaglianza, v. la citata sentenza n. 264/2005.
+
+## Norme
+
+- codice di procedura civile, art. 545, comma 4
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 36
