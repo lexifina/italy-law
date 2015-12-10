@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1894/C/1.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1894/C/1.1"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1894/C/1.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@.akn"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1894/C/1.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1894" showAs="DDL 1894"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA0DZO" href="http://dati.senato.it/senatore/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDAJEZO" href="http://dati.senato.it/senatore/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDAMCZO" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDARCZO" href="http://dati.senato.it/senatore/29075" showAs="CRIMI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1894</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0DZO" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJEZO" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMCZO" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARCZO" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 1.</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Istituzione della "Giornata nazionale per la legalità e il contrasto alla criminalità mafiosa" e affissione di un'immagine di Falcone e Borsellino negli istituti scolastici)</an:i>
+				</an:p>
+				<an:p>            1. È istituita la "Giornata nazionale per la legalità e il contrasto alla criminalità mafiosa" al fine di celebrare il valore della legalità, dell'onestà e del coraggio rappresentato da Giovanni Falcone e Paolo Borsellino quali servitori dello Stato. La "Giornata nazionale" di cui al presente comma ricorre il giorno 23 del mese di maggio di ogni anno e non determina gli effetti civili di cui alla legge 27 maggio 1949, n. 260.</an:p>
+				<an:p>            2. Gli istituti scolastici di ogni ordine e grado, in occasione della Giornata di cui al comma 1, promuovono, nell'ambito della propria autonomia e delle rispettive competenze, iniziative volte alla sensibilizzazione sul valore storico, istituzionale e sociale della lotta alla mafia e delle vittime della criminalità organizzata.</an:p>
+				<an:p>            3. Il Ministro dell'istruzione, dell'università e della ricerca, con proprio provvedimento, stabilisce le modalità con le quali gli istituti scolastici, pubblici e privati, di ogni ordine e grado, nel rispetto della propria autonomia, provvedono all'affissione di un'immagine raffigurante i magistrati Giovanni Falcone e Paolo Borsellino».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, sostituire il titolo con il seguente</an:i>
+					: «Istituzione della "Giornata nazionale per la legalità e il contrasto alla criminalità mafiosa" e disposizioni per l'affissione delle immagini di Giovanni Falcone e Paolo Borsellino negli Istituti scolastici di ogni ordine e grado».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
