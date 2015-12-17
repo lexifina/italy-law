@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/G10.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/G10.101"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2145/A/G10.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@.akn"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2145/A/G10.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2145" showAs="DDL 2145"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA2L2P" href="http://dati.senato.it/senatore/25449" showAs="MUNERATO"/>
+				<an:TLCPerson id="IDASL2P" href="http://dati.senato.it/senatore/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDA4L2P" href="http://dati.senato.it/senatore/22551" showAs="BISINELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2145</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2L2P" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASL2P" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4L2P" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che</an:p>
+				<an:p align="justify">            per la particolare conformazione del territorio, posto in un ampio areale sottoposto a tutela ambientale e paesaggistica e costituita dalla presenza del Delta del Po e dalla laguna Veneta che determina una oggettiva difficoltà nelle comunicazioni tra le regioni Emilia Romagna e Veneto fino a configurare una vera e propria cesura territoriale che assimila questo ambiente ad una condizione di insularità risulta assolutamente necessario garantire la continuità territoriale alle popolazioni residenti e ai flussi turistici e di lavoro;</an:p>
+				<an:p align="justify">            è a rischio chiusura il servizio ponti in barche sul Po di gnocca e sul Po di Goro ed un sos è stato lanciato in questi giorni dai sindaci dei quattro comuni coinvolti: Ariano nel Polesine (RO), Goro (FE), Porto Tolle (RO) e Taglio di Po (RO);</an:p>
+				<an:p align="justify">            i quattro comuni da decenni gestiscono, in maniera autonoma e con grandi sacrifici economici il ponte in barche presente sul Po di Gnocca, che collega gli abitanti di Gorino Sullam (Taglio Po) e di Santa Giulia (Porto tolle) e, il ponte in barche sul Po di Goro, che collega gli abitanti di Gorino Veneto (ariano nel Polesine) e di Gorine, Ferrarese (Goro);</an:p>
+				<an:p align="justify">            tali strutture sono fondamentali per il territorio, sia perché collegano la regione veneto con l'Emilia Romagna, le due Provincie e i due Parchi, concretizzando l'idea del Grande Delta sulla quale il comitato internazionale del programma Mab (Man and the biosphere) dell'Unesco si è espresso favorevolmente lo scorso giugno, e sia perché sono quotidianamente usati da centinaia di cittadini che attraversano i rami del Po per necessità lavorative e/o familiari;</an:p>
+				<an:p align="justify">            le medesime strutture, peraltro, sono fondamentali anche per il turismo, consentendo una visitazione completa del «Delta», dalle saline di Comacchio alle valli di Rosolina;</an:p>
+				<an:p align="justify">            i quattro Comuni, al fine di ottimizzare i costi ed il servizio, hanno deciso di gestire in maniera unitaria le due strutture, individuando il comune di Taglio di Po quale capo fila; pur tuttavia sono in grado di assicurare il servizio solo fino al 31 dicembre dell'anno in corso, causa le sempre più esigue risorse dei Comuni medesimi;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a reperire, nel prossimo provvedimento di fine anno e comunque in tempo utile per scongiurare l'interruzione dei servizi e in particolare per incentivare il programma del Grande Delta quale area MAB e garantire un completo ed efficace sistema di collegamenti tra le regioni Veneto ed Emilia Romagna nonché per evitare la chiusura dei ponti in barche sul Po di Gnocca e sul Po di Goro, le necessarie risorse, comunque non inferiori a 30 milioni per il 2016 affinché il comune di Taglio di Po possa continuare a gestire in maniera ottimale le due strutture rappresentanti un collegamento importante e fondamentale del grande Delta sia per i duemila residenti nelle varie frazioni che per i flussi turistico, commerciale e lavorativo.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
