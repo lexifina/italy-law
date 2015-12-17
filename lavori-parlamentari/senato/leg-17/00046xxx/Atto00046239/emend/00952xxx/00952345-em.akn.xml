@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/2.0.101"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.101"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@.akn"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2145/A/2.0.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2145" showAs="DDL 2145"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDASM2P" href="http://dati.senato.it/senatore/22717" showAs="BONFRISCO"/>
+				<an:TLCPerson id="IDAVM2P" href="http://dati.senato.it/senatore/25458" showAs="MILO"/>
+				<an:TLCPerson id="IDAFM2P" href="http://dati.senato.it/senatore/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDAGK2P" href="http://dati.senato.it/senatore/29188" showAs="TARQUINIO"/>
+				<an:TLCPerson id="IDAMM2P" href="http://dati.senato.it/senatore/25261" showAs="D'AMBROSIO LETTIERI"/>
+				<an:TLCPerson id="IDANL2P" href="http://dati.senato.it/senatore/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="IDA4M2P" href="http://dati.senato.it/senatore/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDA2K2P" href="http://dati.senato.it/senatore/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2145</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASM2P" as="#tipoSenatore">BONFRISCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVM2P" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFM2P" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGK2P" as="#tipoSenatore">TARQUINIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMM2P" as="#tipoSenatore">D'AMBROSIO LETTIERI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANL2P" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4M2P" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2K2P" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni urgenti per le imprese delle zone colpite da eventi calamitosi e alluvionali)</an:i>
+				</an:p>
+				<an:p align="justify">        1. Al fine di garantire immediati interventi di sostegno in favore delle imprese colpite da eventi calamitosi e alluvionali negli anni 2014 e 2015, anche riconducibili ai cambiamenti climatici manifestatisi nei territori per i quali sia stato dichiarato lo stato di calamità è autorizzata la spesa di 190 milioni di euro per l'anno 2015.</an:p>
+				<an:p align="justify">        2. Le risorse di cui al comma 1 sono destinate:</an:p>
+				<an:p align="justify">
+					<an:i>a)</an:i>
+					 per 90 milioni di euro per gli eventi calamitosi e alluvionali del luglio 2015 avvenuti in Veneto;
+				</an:p>
+				<an:p align="justify">
+					<an:i>b)</an:i>
+					 per 50 milioni di euro per gli eventi calamitosi e alluvionali dell'ottobre 2015 che hanno colpito la provincia di Benevento;
+				</an:p>
+				<an:p align="justify">
+					<an:i>c)</an:i>
+					 per 50 milioni di euro per gli eventi calamitosi e alluvionali del 2014 e 2015 che hanno colpito le province di Bari e Foggia.
+				</an:p>
+				<an:p align="justify">        3. Le risorse, come ripartite dal comma 2 sono finalizzate, in deroga alla legislazione vigente e ai soli fini di cui al comma 1, alla integrale deducibilità ai fini Irpef, Ires e lrap, delle spese per la manutenzione, riparazione, ammodernamento e trasformazione dei beni danneggiati dagli eventi calamitosi o alluvionali manifestatisi nei territori per i quali sia stato dichiarato lo stato di calamità naturale, sostenute dalle imprese e dagli esercenti le arti e le professioni nell'esercizio di competenza determinato ai sensi del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, indipendentemente che dal bilancio risultino imputate ad incremento del costo dei beni ai quali si riferiscono.</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, All'articolo 17, comma 1, lettera a)</an:i>
+					 sostituire le parole: «483,8 milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «673,8 milioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
