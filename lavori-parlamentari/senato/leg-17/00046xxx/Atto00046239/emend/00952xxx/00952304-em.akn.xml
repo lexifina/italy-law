@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/G1.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/G1.1"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2145/A/G1.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@.akn"/>
+					<an:FRBRdate date="2015-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2145/A/G1.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2145" showAs="DDL 2145"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDATD3P" href="http://dati.senato.it/senatore/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDAUC3P" href="http://dati.senato.it/senatore/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDAUD3P" href="http://dati.senato.it/senatore/29130" showAs="MARTELLI"/>
+				<an:TLCPerson id="IDAZC3P" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDAYD3P" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDA5C3P" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2145</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATD3P" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUC3P" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUD3P" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZC3P" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYD3P" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5C3P" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        esaminato il disegno di legge recante Conversione in legge del decreto-legge 25 novembre 2015, n. 185, recante misure urgenti per interventi nel territorio;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 1 detta Disposizioni urgenti in materia di bonifica ambientale e rigenerazione urbana del comprensorio Bagnoli-Coroglio prevedendo che in base a quanto disposto dall'articolo 33 del decreto-legge 12 settembre 2014, n. 133, convertito con modificazioni, dalla legge 11 novembre 2014, n. 164, sono trasferiti immediatamente al Soggetto Attuatore 50 milioni di euro per l'anno 2015;</an:p>
+				<an:p align="justify">            l'articolo 33 sopra citato stabilisce una disciplina speciale per la realizzazione di interventi di bonifica ambientale e di rigenerazione urbana nel comprensorio Bagnoli-Coroglio, che viene-dichiarato dallo stesso articolo area di rilevante interesse;</an:p>
+				<an:p align="justify">            alla formazione, all'approvazione e all'attuazione del programma di risanamento ambientale e del documento di indirizzo strategico per la rigenerazione urbana sono preposti un Commissario straordinario del Governo e un Soggetto attuatore;</an:p>
+				<an:p align="justify">            il Commissario straordinario del Governo e il Soggetto attuatore devono comunque operare nel rispetto delle procedure di scelta del contraente, sia per la progettazione che per l'esecuzione dei lavori, previste dal Codice dei contratti pubblici di cui al decreto legislativo 163 del 2006;</an:p>
+				<an:p align="justify">            il Commissario straordinario coordina gli interventi infrastrutturali pubblici e privati dell'area di rilevante interesse nazionale. Gli eventuali oneri derivanti dall'attività del Commissario sono a carico delle risorse del bilancio della Presidenza del Consiglio dei Ministri;</an:p>
+				<an:p align="justify">            il Soggetto Attuatore, nominato con un decreto del Presidente del consiglio dei Ministri, elabora e attua il programma di risanamento ambientale e rigenerazione urbana, nell'ambito delle risorse disponibili a legislazione vigente e svolge compiti di stazione appaltante per l'affidamento dei lavori previsti e opera in deroga alle procedure ad evidenza pubblica;</an:p>
+				<an:p align="justify">            risulta difficile che lo stesso soggetto adempi con la dovuta diligenza i seguenti compiti: bonifica, VIA, AIA, progetto di riqualificazione, edificazione, volumetrie premianti, potendosi configurare un evidente conflitto di interessi;</an:p>
+				<an:p align="justify">        impegna, quindi, il Governo:</an:p>
+				<an:p align="justify">            ad effettuare una separazione netta tra pubblico e interesse privato, tra i ruoli di controllori e controllati.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
