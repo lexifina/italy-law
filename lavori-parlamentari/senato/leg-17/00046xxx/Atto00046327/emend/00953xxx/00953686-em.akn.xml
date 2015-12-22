@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/A/1.380"/>
+					<an:FRBRdate date="2015-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.380"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@"/>
+					<an:FRBRdate date="2015-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@.akn"/>
+					<an:FRBRdate date="2015-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.380/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111-B" showAs="DDL 2111-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAZF1N" href="http://dati.senato.it/senatore/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDASD1N" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDAGE1N" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDANH1N" href="http://dati.senato.it/senatore/31391" showAs="BOCCARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.380</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZF1N" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASD1N" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGE1N" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANH1N" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire il comma 248 con il seguente:</an:p>
+				<an:p>        «248. Per il personale dipendente da amministrazioni istituzioni ed enti pubblici diversi dall'amministrazione statale, gli oneri per i rinnovi contrattuali, nonché quelli derivanti dalla corresponsione dei miglioramenti economici al personale di cui all'articolo 3, comma 2, del decreto legislativo 30 marzo 2001, n. 165, sono posti a carico dei rispettivi bilanci ai sensi dell'articolo 48, comma 2, dei medesimo decreto legislativo. Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la semplificazione e la pubblica amministrazione, di concerto con il Ministro dell'economia e delle finanze, da emanarsi entro 30 giorni dalla data dell'entrata in vigore della presente legge, sono fissati i criteri di determinazione dei predetti oneri in coerenza con quanto previsto dal comma 1 e 2; le predette disposizioni si applicano anche al personale convenzionato con il Servizio sanitario nazionale».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
