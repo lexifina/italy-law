@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2195/A/G1.59/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2195/A/G1.59"/>
+					<an:FRBRdate date="2016-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2195/A/G1.59/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.59"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@"/>
+					<an:FRBRdate date="2016-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@.akn"/>
+					<an:FRBRdate date="2016-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2195/A/G1.59/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2195" showAs="DDL 2195"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDASSOO" href="http://dati.senato.it/senatore/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDASUOO" href="http://dati.senato.it/senatore/29130" showAs="MARTELLI"/>
+				<an:TLCPerson id="IDAXTOO" href="http://dati.senato.it/senatore/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDABTOO" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDAZUOO" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDALUOO" href="http://dati.senato.it/senatore/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDA1UOO" href="http://dati.senato.it/senatore/29055" showAs="BUCCARELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2195</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.59</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASSOO" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASUOO" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXTOO" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABTOO" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZUOO" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALUOO" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1UOO" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato</an:p>
+				<an:p>        impegna il Governo ad assumere le opportune iniziative al fine di prevedere che:</an:p>
+				<an:p>            - gli impianti strategici di interesse nazionale, fra cui lo stabilimento ILVA di Taranto, producano una mappatura delle attività collaterali collegate alla produzione e un piano di produzione e gestione rifiuti e sottoprodotti;</an:p>
+				<an:p>            - in tale piano sia prevista la mappatura dei rifiuti speciali pericolosi e non presenti nel perimetro dello stabilimento, con particolare riferimento ai materiali contenenti amianto e ai materiali radioattivi;</an:p>
+				<an:p>            - per quanto attiene lo smaltimento degli stessi siano monitorati i piani di recupero e di utilizzo, in particolar modo per la presenza di radioattività e di cessione di sostanze tossiche e cancerogene;</an:p>
+				<an:p>            - sia privilegiato lo smaltimento a filiera corta di tutti i rifiuti ed eventualmente lo smaltimento entro il confine regionale, se non è prevista una sede di smaltimento sicura e/o un piano industriale di recupero ben definito e pubblico, al fine di limitare la cessione di metalli pesanti, cromo esavalente, fibre di amianto in atmosfera durante i trasporti su strada o ferroviari.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
