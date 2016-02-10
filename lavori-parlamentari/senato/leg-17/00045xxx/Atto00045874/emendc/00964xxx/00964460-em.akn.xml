@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2016/C/1.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2016/C/1.2"/>
+					<an:FRBRdate date="2016-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2016/C/1.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@"/>
+					<an:FRBRdate date="2016-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@.akn"/>
+					<an:FRBRdate date="2016-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2016/C/1.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2016" showAs="DDL 2016"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAYBCP" href="http://dati.senato.it/senatore/1148" showAs="GIOVANARDI"/>
+				<an:TLCPerson id="IDA1BCP" href="http://dati.senato.it/senatore/476" showAs="CARDIELLO"/>
+				<an:TLCPerson id="IDANBCP" href="http://dati.senato.it/senatore/29173" showAs="SAGGESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2016</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYBCP" as="#tipoSenatore">GIOVANARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1BCP" as="#tipoSenatore">CARDIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANBCP" as="#tipoSenatore">SAGGESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire le parole da:</an:i>
+					 «e nell'anno 1966» 
+					<an:i>fino alla fine del medesimo comma, con le seguenti:</an:i>
+					 «nonché negli anni 1966, 1967, 1968 e 1969, a decorrere dal 1º gennaio 2016».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 3, sostituire le parole da:</an:i>
+					 «3.285.000 euro annui» 
+					<an:i>fino a:</an:i>
+					 «per l'anno 2015» 
+					<an:i>con le seguenti:</an:i>
+					 «4 milioni di euro annui a decorrere dal 2016, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2016-2018, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2016».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, sopprimere l'articolo 2.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
