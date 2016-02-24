@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/4.28/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/4.28"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/4.28/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.28"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@.akn"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2237/A/4.28/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2237" showAs="DDL 2237"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAVCCQ" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDAHDCQ" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDARDCQ" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDAXDCQ" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDACBCQ" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDASACQ" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDARBCQ" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDAZECQ" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2237</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.28</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVCCQ" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHDCQ" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARDCQ" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXDCQ" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACBCQ" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASACQ" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARBCQ" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZECQ" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 6-quater, aggiungere il seguente:</an:p>
+				<an:p>
+					        «6-
+					<an:i>quinquies</an:i>
+					. Nei casi di violazione riguardanti il mancato rispetto del patto di stabilità interno per il 2015, ai piccoli comuni non si applicano le sanzioni di cui all'articolo 31, comma 26 della legge 12 novembre 2011, n. 183, qualora gli stessi comuni dimostrino di rientrare dallo sforamento entro i primi sei mesi dell'anno 2016, anche al netto dei ritardi dei trasferimenti regionali causa ovvero concausa della violazione stessa».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
