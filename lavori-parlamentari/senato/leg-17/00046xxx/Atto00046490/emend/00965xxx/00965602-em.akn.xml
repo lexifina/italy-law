@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G8.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G8.3"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G8.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.3"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@.akn"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2237/A/G8.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2237" showAs="DDL 2237"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDALNBQ" href="http://dati.senato.it/senatore/29166" showAs="PUPPATO"/>
+				<an:TLCPerson id="IDAALBQ" href="http://dati.senato.it/senatore/29192" showAs="VACCARI"/>
+				<an:TLCPerson id="IDANOBQ" href="http://dati.senato.it/senatore/29057" showAs="CALEO"/>
+				<an:TLCPerson id="IDAAOBQ" href="http://dati.senato.it/senatore/29077" showAs="CUOMO"/>
+				<an:TLCPerson id="IDAIPBQ" href="http://dati.senato.it/senatore/29080" showAs="DALLA ZUANNA"/>
+				<an:TLCPerson id="IDAAPBQ" href="http://dati.senato.it/senatore/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDAHNBQ" href="http://dati.senato.it/senatore/29141" showAs="MORGONI"/>
+				<an:TLCPerson id="IDA4MBQ" href="http://dati.senato.it/senatore/29182" showAs="SOLLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2237</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALNBQ" as="#tipoSenatore">PUPPATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAALBQ" as="#tipoSenatore">VACCARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANOBQ" as="#tipoSenatore">CALEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAOBQ" as="#tipoSenatore">CUOMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIPBQ" as="#tipoSenatore">DALLA ZUANNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAPBQ" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHNBQ" as="#tipoSenatore">MORGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4MBQ" as="#tipoSenatore">SOLLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che</an:p>
+				<an:p>            l'articolo 8 del decreto-legge proroga di un anno, ossia fino al 31 dicembre 2016, rispettivamente il periodo in cui continuano ad applicarsi gli adempimenti e gli obblighi relativi alla gestione dei rifiuti antecedenti alla disciplina del sistema di controllo della tracciabilità dei rifiuti - SISTRI e non si applicano le sanzioni relative al sistema medesimo, nonché il termine finale di efficacia del contratto con l'attuale concessionaria del SISTRI;</an:p>
+				<an:p>
+					            stabilisce inoltre che, in ogni caso, all'attuale concessionaria del SISTRI sono corrisposti - a titolo di anticipazione delle somme da versare per l'indennizzo dei costi di produzione e salvo conguaglio 20 milioni di euro (10 milioni per ciascuno degli anni 2015-2016) e precisa che l'indennizzo dovrà avvenire a seguito della procedura prevista dal terzo periodo del comma 9-
+					<an:i>bis</an:i>
+					, secondo cui all'attuale società concessionaria del SISTRI è garantito l'indennizzo dei costi di produzione consuntivati sino al 31 dicembre 2016, previa valutazione di congruità dell'Agenzia per l'Italia digitale, nei limiti dei contributi versati dagli operatori alla predetta data;
+				</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            l'Unione europea con la direttiva 2008/98/CE del Parlamento europeo e del Consiglio, del 19 novembre 2008 ha stabilito misure volte a proteggere 1'ambiente e la salute umana prevenendo o riducendo gli impatti negativi della produzione e della gestione dei rifiuti. Secondo la direttiva gli Stati membri adottano le misure necessarie affinché la produzione, la raccolta, il trasporto, lo stoccaggio e il trattamento dei rifiuti pericolosi siano eseguiti in condizioni tali da garantire la protezione dell'ambiente e della salute umana, comprese misure volte a garantire la tracciabilità dalla produzione alla destinazione finale e il controllo dei rifiuti pericolosi al fine di soddisfare i requisiti informativi su quantità e qualità di rifiuti pericolosi prodotti o gestiti;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a dare informazioni sull'esito del bando che doveva prevedere l'avvio di un più adeguato sistema di tracciabilità dei rifiuti industriali - non solo viaggianti su gomma- a fare data dal 31/12/2015;</an:p>
+				<an:p>
+					            a dare quindi certezza in tempi rapidi della piena attuazione del suddetto bando al fine di rendere effettivamente tracciabile il rifiuto pericoloso e non pericoloso lavorato in Italia, avendo conoscenza di ogni spostamento avvenuto con ogni mezzo, di qualunque provenienza sia il vettore. Con particolare riguardo alla necessità di coordinamento con arpa e ISPRA, alla trasparenza, all'adeguatezza del sistema e alle migliori 
+					<an:i>best practis europee</an:i>
+					. In modo coordinato, economico e semplificato anche per le aziende produttrici, trasportatrici e gestori finali.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
