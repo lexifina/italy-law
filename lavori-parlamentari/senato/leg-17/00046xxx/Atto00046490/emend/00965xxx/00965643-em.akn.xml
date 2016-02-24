@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/10.0.5"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@.akn"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2237/A/10.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2237" showAs="DDL 2237"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAVVBQ" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDA3SBQ" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDA2WBQ" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDATXBQ" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDAJXBQ" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDAIXBQ" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAKXBQ" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDAORBQ" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2237</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVVBQ" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3SBQ" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2WBQ" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATXBQ" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJXBQ" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIXBQ" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKXBQ" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAORBQ" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					, aggiungere il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Proroga di termini in materia di occupazione)</an:i>
+				</an:p>
+				<an:p>
+					        1. L'articolo 2-
+					<an:i>bis</an:i>
+					 del decreto-legge 31 dicembre 2014 n. 192, convertito con modificazioni dalla legge 27 febbraio 2015, n. 1, è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					        "Art. 2-
+					<an:i>bis. - (Proroga di interventi in materia di contratti di solidarietà). - 1</an:i>
+					. L'intervento di cui all'articolo 1, comma 6, del decreto-legge 1º luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, è prorogato fino all'anno 2020, nel limite di 50 milioni di euro per ciascun anno. A tal fine, l'ammontare del trattamento di integrazione salariale relativo ai contratti di solidarietà di cui all'articolo 1 del decreto-legge 30 ottobre 1984, n. 726, convertito, con modificazioni, dalla legge 19 dicembre 1984, n. 863, e successive modificazioni, è aumentato nella misura del 10 per cento della retribuzione persa a seguito della riduzione di orario. Le risorse di cui al primo periodo sono destinate in via prioritaria ai trattamenti dovuti in forza di contratti di solidarietà stipulati in ciascuno degli anni dal 2014 al 2020. Al relativo onere, pari a 50 milioni di euro per ciascun anno fino al 2020, si provvede a valere sulle risorse del fondo sociale per occupazione e formazione di cui all'articolo 18, comma 1, lettera 
+					<an:i>a)</an:i>
+					, del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2."».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
