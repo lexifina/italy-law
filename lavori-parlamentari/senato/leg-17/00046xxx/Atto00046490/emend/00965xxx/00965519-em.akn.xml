@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G4.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G4.3"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G4.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.3"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@.akn"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2237/A/G4.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2237" showAs="DDL 2237"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDASVBQ" href="http://dati.senato.it/senatore/29132" showAs="MARTON"/>
+				<an:TLCPerson id="IDAPXBQ" href="http://dati.senato.it/senatore/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDAHXBQ" href="http://dati.senato.it/senatore/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDANSBQ" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDAJTBQ" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDANXBQ" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDATVBQ" href="http://dati.senato.it/senatore/29074" showAs="COTTI"/>
+				<an:TLCPerson id="IDAQRBQ" href="http://dati.senato.it/senatore/29174" showAs="SANTANGELO"/>
+				<an:TLCPerson id="IDARXBQ" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2237</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASVBQ" as="#tipoSenatore">MARTON</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPXBQ" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHXBQ" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANSBQ" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJTBQ" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANXBQ" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATVBQ" as="#tipoSenatore">COTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQRBQ" as="#tipoSenatore">SANTANGELO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARXBQ" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>
+					            il comma 6-
+					<an:i>ter</an:i>
+					 lettera 
+					<an:i>a)</an:i>
+					 e 
+					<an:i>b)</an:i>
+					 dell'articolo 4 del provvedimento in esame proroga di 12 mesi il periodo di vigenza della Rappresentanza militare;
+				</an:p>
+				<an:p>            con il parere n. 143 del 2016 il Consiglio di Stato ha accolto il ricorso di un militare dell'esercito avverso le procedure di elezione dei delegati della categoria «B», Sezione Esercito, del Cocer con la conseguenza che l'Organismo è in parte illegittimo;</an:p>
+				<an:p>            l'approvazione del decreto-legge n. 210 del 2015 nella parte in cui si prorogano il mandato della Rappresentanza militare rischia di configurarsi, di fatto, come una elusione del giudicato sul ricorso straordinario la cui decisione «è adottata con decreto del Presidente della Repubblica su proposta del Ministero competente conforme al parere del Consiglio di Stato.» (decreto del Presidente della Repubblica n. 1199 del 1971, articolo 14);</an:p>
+				<an:p>            la proroga di 12 mesi del mandato della Rappresentanza Militare metterebbe il Presidente della Repubblica di fronte al paradosso di dover emanare sulla stessa materia due alti contrastanti: il primo, il decreto del Presidente della Repubblica sul ricorso straordinario che annulla le elezioni dei delegati della categoria B della Sezione Esercito del Cocer, il secondo, la legge di conversione in legge del decreto-legge n. 210 del 2015 che proroga un organismo in parte già dichiarato illegittimo per l'effetto della decisione - immodificabile - sul ricorso straordinario;</an:p>
+				<an:p>            allo stato dell'arte le convocazioni della sezione Esercito del Cocer, ovvero quelle del Cocer nella sua interezza (interforze) sono tutte viziate per effetto della decisione del Consiglio di Stato sul ricorso straordinario e, ancorché non vi sia ancora il decreto del Presidente della Repubblica decisorio, non può essere esclusa l'insorgenza di un danno erariale;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            a valutare la possibilità di adottare ulteriori iniziative normative volte a non far valere la proroga di cui al comma 6-
+					<an:i>ter</an:i>
+					 lettera 
+					<an:i>a)</an:i>
+					 e 
+					<an:i>b)</an:i>
+					 dell'articolo 4 del provvedimento in esame per quei Cocer ritenuti illegittimi dalla magistratura;
+				</an:p>
+				<an:p>            a considerare l'opportunità di attivare misure volte a controllare la regolarità delle votazioni della Rappresentanza militare nell'ambito delle Forze Armate.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
