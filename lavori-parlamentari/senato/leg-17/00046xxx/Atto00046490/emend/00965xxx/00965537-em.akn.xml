@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/7.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/7.2"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/7.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@.akn"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2237/A/7.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2237" showAs="DDL 2237"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAOCAQ" href="http://dati.senato.it/senatore/29033" showAs="AIELLO"/>
+				<an:TLCPerson id="IDAMDAQ" href="http://dati.senato.it/senatore/29208" showAs="GUALDANI"/>
+				<an:TLCPerson id="IDAYEAQ" href="http://dati.senato.it/senatore/29079" showAs="DALLA TOR"/>
+				<an:TLCPerson id="IDAJCAQ" href="http://dati.senato.it/senatore/29206" showAs="CONTE"/>
+				<an:TLCPerson id="IDAWBAQ" href="http://dati.senato.it/senatore/29038" showAs="ANITORI"/>
+				<an:TLCPerson id="IDAEBAQ" href="http://dati.senato.it/senatore/17805" showAs="VICECONTE"/>
+				<an:TLCPerson id="IDAUDAQ" href="http://dati.senato.it/senatore/25243" showAs="DI GIACOMO"/>
+				<an:TLCPerson id="IDASAAQ" href="http://dati.senato.it/senatore/645" showAs="COLUCCI"/>
+				<an:TLCPerson id="IDATAAQ" href="http://dati.senato.it/senatore/29049" showAs="BILARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2237</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOCAQ" as="#tipoSenatore">AIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMDAQ" as="#tipoSenatore">GUALDANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYEAQ" as="#tipoSenatore">DALLA TOR</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJCAQ" as="#tipoSenatore">CONTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWBAQ" as="#tipoSenatore">ANITORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEBAQ" as="#tipoSenatore">VICECONTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUDAQ" as="#tipoSenatore">DI GIACOMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASAAQ" as="#tipoSenatore">COLUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATAAQ" as="#tipoSenatore">BILARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1-bis, aggiungere il seguente:</an:p>
+				<an:p>
+					        «1-
+					<an:i>ter</an:i>
+					. Al comma 7 dell'articolo 12 del decreto legge 22 giugno 2012, n. 83, convertito con legge 7 agosto 2012, n. 134, le parole: "31 dicembre 2016" sono sostituite dalle seguenti parole: "31 dicembre 2017"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
