@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G4.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G4.2"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G4.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@.akn"/>
+					<an:FRBRdate date="2016-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2237/A/G4.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2237" showAs="DDL 2237"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAMCAQ" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDADDAQ" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDABCAQ" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDA5CAQ" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDAUCAQ" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDAXDAQ" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDAMAAQ" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDA1DAQ" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2237</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMCAQ" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADDAQ" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABCAQ" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5CAQ" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUCAQ" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXDAQ" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMAAQ" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1DAQ" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge A.S. 2237,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il comma 2 dell'articolo 4 del provvedimento in esame proroga al 31 dicembre 2016 il termine di attuazione delle vigenti disposiúonì legislative e regolamentari in materia di prevenzione incendi per Pedilizia scolastica;</an:p>
+				<an:p>            il Gruppo Parlamentare Sinistra ltaliana durante Pesmne in sede referente ha proposto degli emendamenti finalizzati a sopprimere detta disposizione o in alternativa a proporre che l'adeguamento venga completato almeno entro il 31 luglio 2016 anziché entro il 31 dicembre 2016;</an:p>
+				<an:p>            si evidenzia che proprio in materia di antincendio, come ben evidenziato dalla stampa nazionale e locale, la scuola italiana vive in una situazione di emergenza cronica, tanto è vero che secondo l'ultimo rapporto dell'associazione Save the Children, il 54% per cento degli istituti scolastici non rispetterebbe neanche la normativa attualmente vigente, mentre per rassociazione Legambiente la percentuale di strutture prive di certificato dì prevenzione salirebbe addirittura al 60%;</an:p>
+				<an:p>        impegna il Governo</an:p>
+				<an:p>            a valutare con particolare attenzione l'opportunità di porre in essere ogni iniziativa anche normativa fmalizzata a fissare quantomeno al 31 luglio 2016 il termine di attuazione delle vigenti disposizioni legislative e regolamentari in materia di prevenzione incendì per l'edilizia scolastica disposto dall'articolo 4 del provvedimento in esame.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
