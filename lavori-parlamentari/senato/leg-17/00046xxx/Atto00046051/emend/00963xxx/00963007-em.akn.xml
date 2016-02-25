@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2081/A/8.6005/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2081/A/8.6005"/>
+					<an:FRBRdate date="2016-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2081/A/8.6005/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8.6005"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@"/>
+					<an:FRBRdate date="2016-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@.akn"/>
+					<an:FRBRdate date="2016-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2081/A/8.6005/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2081" showAs="DDL 2081"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAPAN4" href="http://dati.senato.it/senatore/22717" showAs="BONFRISCO"/>
+				<an:TLCPerson id="IDA4DN4" href="http://dati.senato.it/senatore/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDA1FN4" href="http://dati.senato.it/senatore/25261" showAs="D'AMBROSIO LETTIERI"/>
+				<an:TLCPerson id="IDA5DN4" href="http://dati.senato.it/senatore/29203" showAs="DI MAGGIO"/>
+				<an:TLCPerson id="IDACAN4" href="http://dati.senato.it/senatore/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDAXEN4" href="http://dati.senato.it/senatore/25458" showAs="MILO"/>
+				<an:TLCPerson id="IDA2AN4" href="http://dati.senato.it/senatore/30259" showAs="PAGNONCELLI"/>
+				<an:TLCPerson id="IDANFN4" href="http://dati.senato.it/senatore/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="IDAPBN4" href="http://dati.senato.it/senatore/29188" showAs="TARQUINIO"/>
+				<an:TLCPerson id="IDAKBN4" href="http://dati.senato.it/senatore/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2081</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8.6005</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPAN4" as="#tipoSenatore">BONFRISCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4DN4" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1FN4" as="#tipoSenatore">D'AMBROSIO LETTIERI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5DN4" as="#tipoSenatore">DI MAGGIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACAN4" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXEN4" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2AN4" as="#tipoSenatore">PAGNONCELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANFN4" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPBN4" as="#tipoSenatore">TARQUINIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKBN4" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, primo periodo, sostituire le parole:«decreti legislativi» con le seguenti: «disegni di legge».</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>a) sopprimere i commi 2 e 3;</an:i>
+				</an:p>
+				<an:p>
+					<an:i>b) sostituire il comma 4 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «4. Entro due anni dalla data di entrata in vigore di ciascun disegno di legge ai sensi del comma 1,il Governo può adottare uno o più decreti legislativi nel rispetto dei principi e dei criteri direttivi di cui al citato comma 1.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
