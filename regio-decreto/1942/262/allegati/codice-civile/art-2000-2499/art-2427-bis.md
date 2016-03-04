@@ -1,6 +1,8 @@
 Art. 2427-bis.
 
-(Informazioni relative al valore equo "fair value" degli strumenti finanziari).
+(Informazioni relative al ((fair value)) degli strumenti finanziari).
+
+((246))
 
 1. Nella nota integrativa sono indicati:
 
@@ -8,7 +10,21 @@ Art. 2427-bis.
 
 a) il loro fair value;
 
-b) informazioni sulla loro entita' e sulla loro natura;
+b) informazioni sulla loro entita' e sulla loro natura ((, compresi i termini e le condizioni significative che possono influenzare l'importo, le scadenze e la certezza dei flussi finanziari futuri;))
+
+((246))
+
+((b-bis) gli assunti fondamentali su cui si basano i modelli e le tecniche di valutazione, qualora il fair value non sia stato determinato sulla base di evidenze di mercato;))
+
+((246))
+
+((b-ter) le variazioni di valore iscritte direttamente nel conto economico, nonche' quelle imputate alle riserve di patrimonio netto;))
+
+((246))
+
+((b-quater) una tabella che indichi i movimenti delle riserve di fair value avvenuti nell'esercizio.))
+
+((246))
 
 2) per le immobilizzazioni finanziarie iscritte a un valore superiore al loro fair value, con esclusione delle partecipazioni in societa' controllate e collegate ai sensi dell'articolo 2359 e delle partecipazioni in joint venture:
 
@@ -16,20 +32,16 @@ a) il valore contabile e il fair value delle singole attivita', o di appropriati
 
 b) i motivi per i quali il valore contabile non e' stato ridotto, inclusa la natura degli elementi sostanziali sui quali si basa il convincimento che tale valore possa essere recuperato.
 
-2. Ai fini dell'applicazione delle disposizioni del comma 1, sono considerati strumenti finanziari derivati anche quelli collegati a merci che conferiscono all'una o all'altra parte contraente il diritto di procedere alla liquidazione del contratto per contanti o mediante altri strumenti finanziari, ad eccezione del caso in cui si verifichino contemporaneamente le seguenti condizioni:
+2. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246))
 
-a) il contratto sia stato concluso e sia mantenuto per soddisfare le esigenze previste dalla societa' che redige il bilancio di acquisto, di vendita o di utilizzo delle merci;
+3. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246))
 
-b) il contratto sia stato destinato a tale scopo fin dalla sua conclusione;
+4. ((COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139)). ((246))
 
-c) si prevede che il contratto sia eseguito mediante consegna della merce.
+5. COMMA ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173.
 
-3. Il fair value e' determinato con riferimento:
+---------------
 
-a) al valore di mercato, per gli strumenti finanziari per i quali e' possibile individuare facilmente un mercato attivo; qualora il valore di mercato non sia facilmente individuabile per uno strumento, ma possa essere individuato per i suoi componenti o per uno strumento analogo, il valore di mercato puo' essere derivato da quello dei componenti o dello strumento analogo;
+AGGIORNAMENTO (246)
 
-b) al valore che risulta da modelli e tecniche di valutazione generalmente accettati, per gli strumenti per i quali non sia possibile individuare facilmente un mercato attivo; tali modelli e tecniche di valutazione devono assicurare una ragionevole approssimazione al valore di mercato.
-
-4. Il fair value non e' determinato se l'applicazione dei criteri indicati al comma precedente non da' un risultato attendibile.
-
-5. ((COMMA ABROGATO DAL D.LGS. 3 NOVEMBRE 2008, N. 173)).
+Il D.Lgs. 18 agosto 2015, n. 139 ha disposto (con l'art. 12, comma 1) che le presenti modifiche si applicano ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
