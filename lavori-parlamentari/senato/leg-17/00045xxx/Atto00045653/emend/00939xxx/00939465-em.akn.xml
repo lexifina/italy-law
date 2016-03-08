@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1917/A/13.0.2"/>
+					<an:FRBRdate date="2016-03-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@"/>
+					<an:FRBRdate date="2016-03-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@.akn"/>
+					<an:FRBRdate date="2016-03-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-03-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-03-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1917/A/13.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1917" showAs="DDL 1917"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAGUKP" href="http://dati.senato.it/senatore/29042" showAs="BATTISTA"/>
+				<an:TLCPerson id="IDATUKP" href="http://dati.senato.it/senatore/2553" showAs="ZELLER"/>
+				<an:TLCPerson id="IDAGVKP" href="http://dati.senato.it/senatore/29121" showAs="Fausto Guilherme LONGO"/>
+				<an:TLCPerson id="IDA2UKP" href="http://dati.senato.it/senatore/29196" showAs="ZIN"/>
+				<an:TLCPerson id="IDAHVKP" href="http://dati.senato.it/senatore/29156" showAs="PANIZZA"/>
+				<an:TLCPerson id="IDAAVKP" href="http://dati.senato.it/senatore/29100" showAs="FRAVEZZI"/>
+				<an:TLCPerson id="IDADUKP" href="http://dati.senato.it/senatore/29083" showAs="DE PIETRO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1917</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGUKP" as="#tipoSenatore">BATTISTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATUKP" as="#tipoSenatore">ZELLER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGVKP" as="#tipoSenatore">Fausto Guilherme LONGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2UKP" as="#tipoSenatore">ZIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHVKP" as="#tipoSenatore">PANIZZA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAAVKP" as="#tipoSenatore">FRAVEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADUKP" as="#tipoSenatore">DE PIETRO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 13-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Dati biometrici e trattamento connesso alle operazioni militari svolte all'estero)</an:i>
+				</an:p>
+				<an:p>        1. Si considera come tecnica biometrica la raccolta dati per l'analisi ed il riconoscimento delle caratteristiche di un individuo mediante uno o più elementi specifici della sua identità fisica e fisiologica (iride, impronte digitali, geometria della mano e del volto);</an:p>
+				<an:p>        2. Nei casi previsti dai decreti di cui al comma 6 e nei soli casi di necessità ed urgenza, al personale militare autorizzato, operante nelle missioni internazionali, sono attribuite funzioni di raccolta, inserimento ed archiviazione all'interno del sistema AFIS delle informazioni biometriche dei soggetti identificati ai fini preventivi o giudiziari, nonché per attività di analisi e di riconoscimento.</an:p>
+				<an:p>        3. Il riconoscimento di un individuo avviene in maniera adeguata, pertinente e non eccedente rispetto alle finalità per le quali vengono rilevati e/o per le quali vengono successivamente trattate.</an:p>
+				<an:p>        4. Il Ministero della difesa e il Ministero dell'interno garantiscono, conformemente alle disposizioni della presente legge, la tutela dei diritti e delle libertà fondamentali delle persone fisiche, la protezione giuridica della sfera della riservatezza, con riguardo al trattamento dei dati personali.</an:p>
+				<an:p>        5. I dati biometrici raccolti durante le missioni internazionali sono immessi nelle banche dati delle Forze di polizia italiane, nel CED-SDI del Dipartimento della pubblica sicurezza e nella banca dati AFIS, in conformità con i principi di cui al comma 3.</an:p>
+				<an:p>        6. Il Ministero della difesa, entro e non oltre sei mesi dall'entrata in vigore della presente legge, di concerto con il Ministero dell'interno e previo parere del Garante per la protezione dei dati personali, provvede a dettare le disposizioni necessarie a consentire il coordinamento con la disciplina, l'espletamento delle procedure da parte del personale militare autorizzato di cui al comma 2, nonché la definizione delle modalità attuative.</an:p>
+				<an:p>        7. Il trattamento dei dati biometrici da parte del personale militare è altresì consentito quando è effettuato in attuazione di protocolli d'intesa per la prevenzione e il contrasto di attività terroristiche stipulati con il Ministero dell'interno o con i suoi uffici periferici di cui all'articolo 15, comma 2, del decreto legislativo 30 luglio 1999, n. 300, previo parere del Garante per la protezione dei dati personali, che specificano la tipologia dei dati trattati e delle operazioni eseguibili».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
