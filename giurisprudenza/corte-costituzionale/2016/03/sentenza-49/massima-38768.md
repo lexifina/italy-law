@@ -1,0 +1,24 @@
+# Massima n. 38768
+
+- Pronuncia: Corte costituzionale, sentenza 49/2016 (ECLI:IT:COST:2016:49)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:49
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - Norme della Regione Toscana - Possibilità per l'Amministrazione di esercitare poteri sanzionatori per la repressione degli abusi edilizi, anche oltre il termine di trenta giorni dalla presentazione della SCIA, in un numero più ampio di ipotesi rispetto alla previsione statale - Introduzione di una normativa sostitutiva dei principi fondamentali dettati dal legislatore statale - Violazione della competenza legislativa statale nella materia concorrente del governo del territorio - Illegittimità costituzionale - Assorbimento di ulteriore censura.
+
+## Testo
+
+È costituzionalmente illegittimo, per violazione dell'art. 117, terzo comma, Cost., l'art. 84- bis , comma 2, lett.  b ), della legge della Regione Toscana 3 gennaio 2005, n. 1, che stabilisce la possibilità per l'Amministrazione di esercitare poteri sanzionatori per la repressione degli abusi edilizi, anche oltre il termine di trenta giorni dalla presentazione della SCIA, in un numero più ampio di ipotesi rispetto alla previsione statale. Nell'ambito della materia concorrente del «governo del territorio», i titoli abilitativi agli interventi edilizi costituiscono oggetto di una disciplina che assurge a principio fondamentale e tale valutazione deve ritenersi valida anche per la denuncia di inizio attività (DIA) e per la segnalazione certificata di inizio attività (SCIA), che si inseriscono in una fattispecie, il cui effetto è pur sempre quello di legittimare il privato ad effettuare gli interventi edilizi. Tale fattispecie ha una struttura complessa e non si esaurisce, rispettivamente, con la dichiarazione o la segnalazione, ma si sviluppa in due fasi ulteriori: una prima, di ordinaria attività di controllo dell'Amministrazione; una seconda, in cui può esercitarsi l'autotutela amministrativa. Anche le condizioni e le modalità di esercizio dell'intervento della pubblica amministrazione, una volta che siano esauriti i termini prescritti dalla normativa statale, devono considerarsi il necessario completamento della disciplina dei titoli abitativi, poiché l'individuazione della loro consistenza e della loro efficacia non può prescindere dalla capacità di resistenza rispetto alle verifiche effettuate dall'Amministrazione successivamente alla maturazione degli stessi. La disciplina di questa fase ulteriore è, dunque, parte integrante del titolo abilitativo e costituisce un tutt'uno inscindibile. Il suo perno è costituito da un istituto di portata generale - quello dell'autotutela - che si colloca allo snodo delicatissimo del rapporto fra il potere amministrativo e il suo riesercizio, da una parte, e la tutela dell'affidamento del privato, dall'altra. Ne deriva che la disciplina  de qua  costituisce espressione di un principio fondamentale della materia «governo del territorio». La normativa regionale, nell'attribuire all'Amministrazione un potere di intervento, lungi dall'adottare disposizioni di dettaglio, ha introdotto una disciplina sostitutiva dei principi fondamentali dettati dal legislatore statale, toccando i punti nevralgici del sistema elaborato nella legge sul procedimento amministrativo e con tutti i rischi per la certezza e l'unitarietà dello stesso. (È assorbita la censura relativa alla violazione dell'art. 117, secondo comma, lett.  m , Cost.) Per l'affermazione che lo  ius superveniens  non viene in rilievo nel giudizio di costituzionalità poiché, secondo il principio del  tempus regit actum , la valutazione della legittimità del provvedimento impugnato va condotta con riguardo alla situazione di fatto e di diritto esistente al momento della sua adozione, v. la citata sentenza n. 151/2014. Sulla qualificazione delle norme sui titoli abilitativi come espressine di principi fondamentali in materia di «governo del territorio» di cui all'art. 117, terzo comma, Cost., v. le citate sentenze nn. 259/2014, 139/2013, 109/2013 e 303/2003. In materia di DIA e di SCIA, v. le citate sentenze nn. 121/2014, 188/2012 e 164/2012. Per l'affermazione che il rapporto tra normativa di principio e normativa di dettaglio deve essere inteso nel senso che l'una è volta a prescrivere criteri e obiettivi, mentre all'altra spetta l'individuazione degli strumenti concreti da utilizzare per raggiungere quegli obiettivi, v. le citate sentenze nn. 272/2013 e 237/2009.
+
+## Norme
+
+- legge della Regione Toscana, 03/01/2005 n. 1, art. 84 bis, comma 2 lett. b)
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. m)
+- Costituzione, art. 117, comma 3
+- legge, 07/08/1990 n. 241, art. 19, comma 3
+- legge, 07/08/1990 n. 241, art. 19, comma 4
