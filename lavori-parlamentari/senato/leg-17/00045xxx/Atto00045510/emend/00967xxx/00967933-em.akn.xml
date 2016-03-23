@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1870/A/4.281/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1870/A/4.281"/>
+					<an:FRBRdate date="2016-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1870/A/4.281/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.281"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@"/>
+					<an:FRBRdate date="2016-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@.akn"/>
+					<an:FRBRdate date="2016-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-03-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-03-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1870/A/4.281/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1870" showAs="DDL 1870"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA1USL" href="http://dati.senato.it/senatore/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="IDANTSL" href="http://dati.senato.it/senatore/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDAHUSL" href="http://dati.senato.it/senatore/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDADTSL" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDAPTSL" href="http://dati.senato.it/senatore/29093" showAs="FATTORI"/>
+				<an:TLCPerson id="IDAZTSL" href="http://dati.senato.it/senatore/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDAJVSL" href="http://dati.senato.it/senatore/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDAEUSL" href="http://dati.senato.it/senatore/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDAJTSL" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDAHTSL" href="http://dati.senato.it/senatore/29154" showAs="PAGLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1870</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.281</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1USL" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANTSL" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHUSL" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADTSL" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPTSL" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZTSL" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJVSL" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEUSL" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJTSL" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHTSL" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, sostituire la lettera l), con la seguente:</an:p>
+				<an:p>
+					            «
+					<an:i>l)</an:i>
+					 prevedere il divieto di emolumenti, compensi, a qualsiasi titolo attribuiti a componenti degli organi di amministrazione e controllo, ai dirigenti nonché agli associati, fatti salvi eventuali rimborsi spesa basati su certificazione adeguata e verificabile».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
