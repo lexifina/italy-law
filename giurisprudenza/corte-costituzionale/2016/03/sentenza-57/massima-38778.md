@@ -1,0 +1,28 @@
+# Massima n. 38778
+
+- Pronuncia: Corte costituzionale, sentenza 57/2016 (ECLI:IT:COST:2016:57)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:57
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Sostituzione della pena dell'ergastolo, inflitta all'esito di un giudizio abbreviato, con quella della reclusione di trenta anni - Fattispecie relativa a richiesta di giudizio abbreviato formulata nella vigenza del decreto-legge n. 341 del 2000 - Incidente di legittimità costituzionale sollevato nel procedimento di esecuzione nei confronti di una norma applicata nel giudizio di cognizione per l'asserita necessità di conformarsi alla sentenza della Corte EDU, Scoppola contro Italia - Fattispecie estranea alla sentenza Scoppola contro Italia - Difetto di rilevanza - Inammissibilità delle questioni.
+
+## Testo
+
+Sono inammissibili, per difetto di rilevanza, le questioni di legittimità costituzionale degli artt. 4- ter , commi 2 e 3, del d.l. 7 aprile 2000, n. 82 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 5 giugno 2000, n. 144) e 7, commi 1 ("come risultante dalla declaratoria di incostituzionalità del 3 luglio 2013") e 2, del d.l. 24 novembre 2000, n. 341 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 19 gennaio 2001, n. 4), impugnati, in riferimento agli artt. 3 e 117, primo comma, Cost., nella parte in cui, alla luce dell'orientamento consolidatosi nella giurisprudenza di legittimità, non escludono dall'applicazione della disciplina ivi prevista sulla fruibilità del giudizio abbreviato gli imputati di delitti puniti con l'ergastolo ai quali, nei giudizi di appello pendenti alla data di entrata in vigore dell'indicato art. 4- ter  (7 aprile 2000), era stato attribuito il diritto di definire con il rito premiale la relativa posizione e di godere del trattamento "sostanziale"  ex  art. 30, comma 1, lett.  b ), della legge n. 479 del 1999 (sostituzione dell'ergastolo con la reclusione di 30 anni) e che, tuttavia, hanno potuto esercitare tale diritto solo dopo il 24 novembre 2000 (data di entrata in vigore del citato art. 7 che ha limitato il beneficio ai soli condannati all'ergastolo senza isolamento diurno). La sentenza n. 210 del 2013 (dichiarativa dell'incostituzionalità dell'art. 7, comma 1, del d.l. n. 341 del 2000) ha preso in considerazione la situazione - analoga a quella che ha determinato la condanna dell'Italia pronunciata dalla Corte europea dei diritti dell'uomo nella sentenza del 17 settembre 2009, Scoppola contro Italia - dei condannati all'ergastolo che avevano chiesto il giudizio abbreviato tra il 2 gennaio (data di entrata in vigore della legge n. 479 del 1999 che ha reintrodotto per tali soggetti la fruibilità del rito premiale) e il 24 novembre 2000 ed erano stati, tuttavia, condannati alla pena perpetua per effetto della sopravvenuta sfavorevole modificazione normativa. In simili ipotesi, caratterizzate dall'assoluta identità tra il caso deciso dalla Corte EDU, alla cui sentenza il giudice ritiene di doversi adeguare, e il caso oggetto del procedimento  a quo , è possibile derogare al principio (che declina nel caso di specie il requisito della rilevanza proprio di ogni quesito incidentale) che preclude al giudice dell'esecuzione di impugnare disposizioni primarie già applicate, in via definitiva, in fase di cognizione; ed è possibile sollevare questione di legittimità costituzionale della norma in base alla quale è stata determinata la pena. In tal modo, non muta il requisito della rilevanza bensì l'oggetto del giudizio esecutivo che attrae a sé il compito di conferire esecuzione alla pronuncia europea, per casi identici a quello con essa deciso, e di rimuovere la disposizione primaria di diritto interno che lo impedisce, benché il suo contrasto con l'art. 117, primo comma, Cost. richieda una dichiarazione di illegittimità costituzionale. Tuttavia, la fattispecie oggetto del procedimento principale non concerne l'esecuzione della sentenza Scoppola perché l'imputato ha richiesto il giudizio abbreviato dopo il 24 novembre 2000, quando già era entrata in vigore la meno favorevole norma introdotta dal denunciato art. 7. La diversità, sul punto, della fattispecie oggetto del giudizio  a quo  rende palese che la disciplina contestata dal rimettente non pone alcun dubbio di compatibilità con la CEDU, perché non concerne un caso come quello che aveva formato oggetto della sentenza Scoppola. Per la declaratoria di illegittimità costituzionale dell'art. 7, comma 1, del d.l. n. 341 del 2000, v. la citata sentenza n. 210/2013. Per il principio secondo cui non è consentito al giudice dell'esecuzione impugnare disposizioni primarie che siano già state applicate, in via definitiva, in fase di cognizione, v. le citate sentenze nn. 100/2015, 210/2013 e 65/1964. Nel senso che la necessità di conformarsi a una sentenza della Corte EDU costituisce il solo caso che può giustificare un incidente di legittimità costituzionale sollevato nel procedimento di esecuzione nei confronti di una norma applicata nel giudizio di cognizione, v. le citate sentenze nn. 100/2015 e 210/2013.
+
+## Norme
+
+- decreto-legge, 07/04/2000 n. 82, art. 4 ter, comma 2
+- decreto-legge, 07/04/2000 n. 82, art. 4 ter, comma 3
+- legge, 05/06/2000 n. 144
+- decreto-legge, 24/11/2000 n. 341, art. 7, comma 1
+- decreto-legge, 24/11/2000 n. 341, art. 7, comma 2
+- legge, 19/01/2001 n. 4
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 117, comma 1
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 7 par. 1
