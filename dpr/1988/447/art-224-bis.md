@@ -1,10 +1,10 @@
 Art. 224-bis.
 
-(( (Provvedimenti del giudice per le perizie che richiedono il compimento di atti idonei ad incidere sulla liberta' personale).
+(Provvedimenti del giudice per le perizie che richiedono il compimento di atti idonei ad incidere sulla liberta' personale).
 
 1.
 
-Quando si procede per delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione superiore nel massimo a tre anni e negli altri casi espressamente previsti dalla legge, se per l'esecuzione della perizia e' necessario compiere atti idonei ad incidere sulla liberta' personale, quali il prelievo di capelli, di peli o di mucosa del cavo orale su persone viventi ai fini della determinazione del profilo del DNA o accertamenti medici, e non vi e' il consenso della persona da sottoporre all'esame del perito, il giudice, anche d'ufficio, ne dispone con ordinanza motivata l'esecuzione coattiva, se essa risulta assolutamente indispensabile per la prova dei fatti.
+Quando si procede per delitto non colposo, consumato o tentato, per il quale la legge stabilisce la pena dell'ergastolo o della reclusione superiore nel massimo a tre anni ((, per i delitti di cui agli articoli 589-bis e 590-bis del codice penale)) e negli altri casi espressamente previsti dalla legge, se per l'esecuzione della perizia e' necessario compiere atti idonei ad incidere sulla liberta' personale, quali il prelievo di capelli, di peli o di mucosa del cavo orale su persone viventi ai fini della determinazione del profilo del DNA o accertamenti medici, e non vi e' il consenso della persona da sottoporre all'esame del perito, il giudice, anche d'ufficio, ne dispone con ordinanza motivata l'esecuzione coattiva, se essa risulta assolutamente indispensabile per la prova dei fatti.
 
 2.
 
@@ -52,4 +52,4 @@ Qualora la persona invitata a presentarsi per i fini di cui al comma I non compa
 
 7.
 
-L'atto e' nullo se la persona sottoposta al prelievo o agli accertamenti non e' assistita dal difensore nominato )).
+L'atto e' nullo se la persona sottoposta al prelievo o agli accertamenti non e' assistita dal difensore nominato .
