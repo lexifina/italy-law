@@ -1,0 +1,25 @@
+# Massima n. 38800
+
+- Pronuncia: Corte costituzionale, sentenza 67/2016 (ECLI:IT:COST:2016:67)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:67
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - Edifici esistenti non più compatibili con gli indirizzi della pianificazione - Previsione che, nelle more dell'attuazione del piano, resta salva la facoltà del proprietario di eseguire tutti gli interventi conservativi, ad eccezione della demolizione e successiva ricostruzione non giustificata da obiettive ed improrogabili ragioni di ordine statico od igienico sanitario - Ricorso della Regione Puglia - Asserita adozione di normativa di dettaglio, lesiva della competenza legislativa regionale nella materia concorrente del governo del territorio - Asserita violazione del principio di sussidiarietà per la ritenuta espropriazione delle funzioni amministrative dei Comuni in tema di titoli abilitativi in materia edilizia - Asserita violazione del principio di eguaglianza per trattamento uniforme di situazioni diverse - Insussistenza - Disciplina costituente un principio fondamentale di settore - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale - promossa dalla Regione Puglia in riferimento agli artt. 3, primo comma, 117, terzo comma, e 118, commi primo e secondo, Cost. - dell'art. 17, comma 1, lett.  b ), del d.l. 12 settembre 2014, n. 133 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 11 novembre 2014, n. 164), il quale, introducendo l'art. 3- bis  del d.P.R. n. 380 del 2001, dopo aver previsto che lo strumento urbanistico locale individua gli edifici esistenti non più compatibili con gli indirizzi della pianificazione, fa salva, nelle more dell'attuazione del piano, la facoltà del proprietario di eseguire tutti gli interventi conservativi, ad eccezione della demolizione e successiva ricostruzione non giustificata da obiettive ed improrogabili ragioni di ordine statico od igienico sanitario. La norma, dettando una prescrizione unitaria ed evidentemente "di principio", consente alle amministrazioni comunali di favorire, quale alternativa, anche economicamente preferibile rispetto all'espropriazione, la riqualificazione delle aree attraverso forme di compensazione incidenti sull'area interessata e senza aumento della superficie coperta. Il meccanismo é riconducibile al sistema della "perequazione urbanistica", inteso a combinare, in contesti procedimentali di "urbanistica contrattata", il mancato onere per l'amministrazione comunale, connesso allo svolgersi di procedure ablatorie, con la corrispondente incentivazione al recupero, da parte dei proprietari, del patrimonio immobiliare esistente: il tutto in linea con l'esplicito intento legislativo di promuovere la ripresa del settore edilizio senza aumentare, e anzi riducendo, il consumo di suolo. Tale quadro di riferimento è legato alla competenza dello Stato a determinare principi fondamentali di settore, perfettamente rispondenti all'esigenza di salvaguardare le attribuzioni legislative concorrenti delle Regioni e quelle amministrative degli enti territoriali minori, restando inalterata l'attribuzione ai Comuni del compito di pianificazione urbanistica e di individuazione in concreto delle aree interessate da interventi di risanamento, con l'adozione degli appositi strumenti di concertazione perequativa e di assenso alla realizzazione delle opere. La disposizione, in cui si inserisce la contestata previsione, si propone complessivamente di evitare, da un lato, che, relativamente alle attività di risanamento urbanistico su tutto il territorio della Repubblica, possano determinarsi disparità di disciplina tali da vanificare gli scopi perseguiti dallo Stato nell'interesse dell'intera comunità nazionale e, dall'altro, che l'eventuale inerzia delle amministrazioni locali, relativamente all'attuazione di interventi di conservazione del patrimonio edilizio esistente, impedisca agli stessi proprietari degli immobili di esercitare scelte o facoltà inerenti al proprio diritto dominicale. Infine, l'asserito carattere autoapplicativo ed autosufficiente della disposizione impugnata non implica affatto che essa abbia natura "di dettaglio": infatti, la circostanza che, pur nel sistema della legislazione concorrente, una disciplina statale "di principio" non abbisogni, per divenire efficace, di specifiche disposizioni attuative, non può essere considerata come automaticamente produttiva dell'effetto di "espropriare" i legislatori regionali del loro autonomo potere di conformare la regolazione statale alle proprie specifiche esigenze.
+
+## Norme
+
+- decreto-legge, 12/09/2014 n. 133, art. 17, comma 1 lett. b)
+- legge, 11/11/2014 n. 164
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 117, comma 3
+- Costituzione, art. 118, comma 1
+- Costituzione, art. 118, comma 2
