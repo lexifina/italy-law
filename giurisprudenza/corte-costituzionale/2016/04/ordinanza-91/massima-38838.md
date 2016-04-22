@@ -1,0 +1,23 @@
+# Massima n. 38838
+
+- Pronuncia: Corte costituzionale, ordinanza 91/2016 (ECLI:IT:COST:2016:91)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:91
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Regolamento per la tutela giurisdizionale dei dipendenti della Camera dei deputati (c.d. autodichia) - Disposizioni che disciplinano la costituzione degli organi giurisdizionali interni di primo e secondo grado ed il procedimento dinanzi ad essi - Ricorso per conflitto di attribuzione tra poteri dello Stato promosso dal Tribunale ordinario di Roma, sezione seconda lavoro - Richiesta di dichiarare che non spettava alla Camera dei deputati deliberare norme regolamentari che precludessero l'accesso dei propri dipendenti alla tutela giurisdizionale in riferimento alle controversie di lavoro - Sussistenza dei requisiti soggettivo ed oggettivo per l'instaurazione del conflitto - Ammissibilità del ricorso - Comunicazione e notificazione conseguenti.
+
+## Testo
+
+È ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87, il conflitto di attribuzione tra poteri dello Stato promosso - per violazione degli artt. 3, primo comma, 24, primo comma, 102, secondo comma, quest'ultimo in combinato disposto con la VI disposizione transitoria, 108, secondo comma, e 111, primo e secondo comma, Cost. - dal Tribunale ordinario di Roma, sezione seconda lavoro, nei confronti della Camera dei deputati, in relazione alla deliberazione degli artt. da 1 a 6- bis  del Regolamento per la tutela giurisdizionale dei dipendenti 28 aprile 1988, nella parte in cui precludono ai dipendenti l'accesso alla tutela giurisdizionale in riferimento alle controversie di lavoro insorte con la Camera stessa. Sotto il profilo del requisito soggettivo, va riconosciuta la legittimazione a sollevare conflitto del ricorrente in quanto organo giurisdizionale, in posizione di indipendenza costituzionalmente garantita, nonché la legittimazione della Camera dei deputati ad essere parte del presente conflitto, poiché entrambi i soggetti sono competenti a dichiarare definitivamente la volontà del potere cui appartengono; quanto al profilo oggettivo, il Tribunale ricorrente lamenta la lesione della propria sfera di attribuzioni, costituzionalmente garantita, in conseguenza della mancanza, per inesistenza dei relativi presupposti, del potere della Camera dei deputati di deliberare norme regolamentari che precludano l'accesso dei propri dipendenti alla tutela giurisdizionale in riferimento alle controversie di lavoro. Sulla idoneità ad instaurare un giudizio per conflitto di attribuzione di un atto introduttivo che risponda ai contenuti previsti dall'art. 37 della legge n. 87 del 1953 e dall'art. 24, comma 1, delle norme integrative per i giudizi davanti alla Corte costituzionale, non rilevando la forma dell'ordinanza rivestita dallo stesso, v.,  ex plurimis , la sentenza n. 315/2006 nonchè le ordinanze nn. 137/2015, 271/2014, 161/2014, 296/2013, 151/2013, 229/2012, 402/2006 e 129/2005. Sull'inesistenza di un termine per sollevare i conflitti di attribuzione tra poteri, in modo da favorirne al massimo la composizione, v. le sentenze nn. 58/2004 e 116/2003, nonché le ordinanze nn. 137/2015 e 61/2000. Sulla legittimazione della Camera dei deputati ad essere parte di un conflitto di attribuzione tra poteri dello Stato, quale organo competente a dichiarare in modo definitivo la volontà del potere cui appartiene , v.,  ex plurimis , l'ordinanza n. 37/1998. Sulla necessità ai sensi dell'art. 37, quarto comma, della legge n. 87 del 1953 di disporre la notificazione del ricorso e dell'ordinanza di ammissibilità del conflitto di attribuzione tra poteri dello Stato anche al Senato della Repubblica, stante l'identità della posizione costituzionale dei due rami del Parlamento in relazione alle questioni di principio da trattare, v. le citate ordinanze nn. 327/2011, 241/2011, 104/2011, 211/2010, 8/2008, 186/2005, 185/2005, 178/2001, 102/2000 e 470/1995.
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 24, comma 1
+- Costituzione, art. 102, comma 2
+- disposizioni transitorie della Costituzione
+- Costituzione, art. 108, comma 2
+- Costituzione, art. 111, comma 1
+- Costituzione, art. 111, comma 2
