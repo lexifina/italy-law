@@ -1,0 +1,24 @@
+# Massima n. 38837
+
+- Pronuncia: Corte costituzionale, sentenza 90/2016 (ECLI:IT:COST:2016:90)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:90
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Espropriazione per pubblica utilità - Norme della Provincia di Bolzano - Determinazione dell'indennità di espropriazione per le aree non edificabili - Giusto prezzo da attribuire, entro i valori minimi e massimi stabiliti dalla apposita Commissione, all'area quale terreno agricolo considerato libero da vincoli di contratti agrari, secondo il tipo di coltura in atto al momento dell'emanazione del decreto che determina l'indennità di esproprio - Criterio asseritamente simile a quello del valore agricolo medio dichiarato illegittimo dalle sentenze n. 181 del 2011 e n. 187 del 2014 - Asserita violazione del diritto dell'espropriato di ricevere un serio ristoro come individuato dalla giurisprudenza costituzionale e convenzionale - Insussistenza - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale dell'art. 8, comma 3, della legge della Provincia autonoma di Bolzano 15 aprile 1991, n. 10 (come sostituito dall'art. 38, comma 7, della legge provinciale n. 4 del 2008), sollevata in riferimento agli artt. 42, terzo comma, e 117, primo comma, Cost. La norma determina l'indennità di espropriazione per le aree non edificabili in base ai valori minimi e massimi stabiliti dalla commissione provinciale estimatrice, nonché in base alla coltura in atto al momento dell'emanazione del decreto che determina l'importo indennitario, costituente il giusto prezzo da attribuire all'espropriato. Esso, così determinato, è privo di quel carattere astratto e automatico riscontrato dalla giurisprudenza costituzionale in riferimento ad altre fattispecie, aventi ad oggetto il valore agricolo medio. Nel caso in esame, al contrario, il giusto prezzo dell'indennizzo evoca l'idea di un corrispettivo commisurato al valore effettivo del bene espropriato, e dunque conferisce all'organo competente alla determinazione dell'indennità un margine di apprezzamento che va esercitato avendo come riferimento le caratteristiche effettive del bene espropriando. L'analisi sistematica della legge impugnata, infatti, evidenzia che la citata commissione deve prendere in considerazione le caratteristiche effettive dello specifico terreno da espropriare, nonché le altre possibili sue caratteristiche, per cui oltre al tipo di coltura si deve considerare, ad esempio, anche la posizione del terreno o la sua esposizione. In tal modo risulta rispettato il principio costituzionale e convenzionale per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali che, esclusa la necessaria coincidenza tra valore di mercato e indennità espropriativa, prescrive che il ristoro economico debba avere un ragionevole legame con il valore di mercato (o venale) del bene ablato. Infine, nell'ipotesi in cui le tabelle recanti i valori minimi e massimi predisposte dalla commissione non garantiscano ugualmente un serio ristoro all'espropriato, resta ferma la sindacabilità delle stesse nel giudizio di opposizione alla stima, ai fini di un'eventuale disapplicazione dell'atto amministrativo che le ha approvate. Sul significato intrinseco di giusto prezzo, e sulla necessità che esso vada interpretato in modo conforme ai principi sanciti dalla giurisprudenza costituzionale, v. le citate sentt. nn. 181/2011 e 335/1985. Sulla necessità che l'indennizzo assicurato all'espropriato dall'art. 42, terzo comma, Cost., se non deve costituire una integrale riparazione per la perdita subita, non sia però fissato in una misura irrisoria o meramente simbolica, ma rappresenti un serio ristoro, v,  ex multis , le citate sentt. nn. 181/2011 e 187/2014. Sulla necessità che il valore dell'indennizzo espropriativo tenga conto del valore del bene in relazione alle sue caratteristiche essenziali, fatte palesi dalla potenziale utilizzazione economica di esso, secondo legge, v. la citata sent. n. 5/1980. Sulla necessità che, esclusa la coincidenza tra valore di mercato e indennità espropriativa, il punto di riferimento per determinare l'indennità di espropriazione sia il valore di mercato (o venale) del bene ablato, v, le citate sentt. nn. 338/2011, 348/2007, 216/1990 e 231/1984.
+
+## Norme
+
+- legge della Provincia autonoma di Bolzano, 15/04/1991 n. 10, art. 8, comma 3
+- legge della Provincia autonoma di Bolzano, 10/06/2008 n. 4, art. 38, comma 7
+
+## Parametri
+
+- Costituzione, art. 42, comma 3
+- Costituzione, art. 117, comma 1
+- convenzione europea dei diritti dell'uomo e delle libertà fondamentali (Roma 04/11/1950), art. 1 del protocollo addizionale
