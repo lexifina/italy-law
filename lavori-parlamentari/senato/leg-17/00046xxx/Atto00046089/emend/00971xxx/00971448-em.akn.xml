@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8"/>
+					<an:FRBRdate date="2016-04-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.401/8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@"/>
+					<an:FRBRdate date="2016-04-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@.akn"/>
+					<an:FRBRdate date="2016-04-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-04-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-04-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/54-B/A/1.401/8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/54-B" showAs="DDL 54-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTDVEFNDXMAJSJFYF5ETI5X1SMIFEJJ1SCCFMH2Z001VEGBQRX5D" href="http://dati.senato.it/senatore/1148" showAs="GIOVANARDI"/>
+				<an:TLCPerson id="IDEFMYTF31STFZOBY55DUB01QICILAARJCVWTJWNMA5DOLDCQDSUBP" href="http://dati.senato.it/senatore/18715" showAs="QUAGLIARIELLO"/>
+				<an:TLCPerson id="ID25T4VEREIGQMNFQRPZBUVJK2TEZ45DA0EZKAPCDD3TTPN3RI0UFM" href="http://dati.senato.it/senatore/656" showAs="COMPAGNA"/>
+				<an:TLCPerson id="ID4WZJZYB40NB4IQYPE5BFHFUU5IOKR0DF5CFGTNPBBLMG4YC1GPSJ" href="http://dati.senato.it/senatore/22707" showAs="AUGELLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 54-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.401/8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTDVEFNDXMAJSJFYF5ETI5X1SMIFEJJ1SCCFMH2Z001VEGBQRX5D" as="#tipoSenatore">GIOVANARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEFMYTF31STFZOBY55DUB01QICILAARJCVWTJWNMA5DOLDCQDSUBP" as="#tipoSenatore">QUAGLIARIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID25T4VEREIGQMNFQRPZBUVJK2TEZ45DA0EZKAPCDD3TTPN3RI0UFM" as="#tipoSenatore">COMPAGNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4WZJZYB40NB4IQYPE5BFHFUU5IOKR0DF5CFGTNPBBLMG4YC1GPSJ" as="#tipoSenatore">AUGELLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire il punto 3-bis con il seguente:</an:p>
+				<an:p>«3-bis. Si applica la pena della reclusione da due a sei anni se la propaganda, ovvero l'istigazione e l'incitamento commessi in modo che derivi concreto pericolo di diffusione, si fondano in tutto o in parte sulla negazione della Shoah o del crimine di genocidio, come definito dall'articolo 6 dello statuto della Corte penale internazionale, ratificato ai sensi della legge 12 luglio 1999, n. 232.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
