@@ -1,0 +1,12 @@
+# Legge 3 maggio 2016, n. 79
+
+- Tipo: Ordinaria
+- Numero: 79
+- Data: 2016-05-03
+- Titolo: Ratifica ed esecuzione dei seguenti accordi in materia ambientale: a) Emendamento di Doha al Protocollo di Kyoto alla Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, fatto a Doha l'8 dicembre 2012; b) Accordo tra l'Unione europea e i suoi Stati membri, da una parte, e l'Islanda, dall'altra, per quanto concerne la partecipazione dell'Islanda all'adempimento congiunto degli impegni dell'Unione europea, dei suoi Stati membri e dell'Islanda per il secondo periodo di impegno del Protocollo di Kyoto della Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, fatto a Bruxelles il 1° aprile 2015; c) Protocollo relativo alla cooperazione in materia di prevenzione dell'inquinamento provocato dalle navi e, in caso di situazione critica, di lotta contro l'inquinamento del Mare Mediterraneo, fatto alla Valletta il 25 gennaio 2002; d) Decisione II/14 recante emendamento alla Convenzione sulla valutazione dell'impatto ambientale in un contesto transfrontaliero, fatta ad Espoo il 25 febbraio 1991, adottata a Sofia il 27 febbraio 2001; e) Decisione III/7 recante il secondo emendamento alla Convenzione sulla valutazione dell'impatto ambientale in un contesto transfrontaliero, fatta ad Espoo il 25 febbraio 1991, adottata a Cavtat il 1°- 4 giugno 2004; f) Protocollo sulla valutazione ambientale strategica alla Convenzione sulla valutazione dell'impatto ambientale in un contesto transfrontaliero, fatta ad Espoo il 25 febbraio 1991, fatto a Kiev il 21 maggio 2003 (3512)
+- Pubblicazione: G.U. n.121 del 25 maggio 2016
+- Legislatura: XVII legislatura della Repubblica (repubblica_17)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2016;79
+- Lavori preparatori: http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=pdl&idLegislatura=17&idDocumento=3512
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L2016_79
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
