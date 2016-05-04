@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2228/A/26.204/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2228/A/26.204"/>
+					<an:FRBRdate date="2016-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2228/A/26.204/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="26.204"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@"/>
+					<an:FRBRdate date="2016-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@.akn"/>
+					<an:FRBRdate date="2016-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2228/A/26.204/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBH54D24401EOLAIDUDMMRIPPANBD0XFJIS5RNTFQ1IF4PSPSU3XC" href="http://dati.senato.it/senatore/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDACKF3BNE1VPQLIW4O1JGKQLOFB5K1AENZSX5XJPTYZYRLDR02IJK" href="http://dati.senato.it/senatore/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDIRJGAMLISNYVOJE1WWOUQOPKSMC2CNMZUO3N5MC4XAPMNIPWQIBO" href="http://dati.senato.it/senatore/29059" showAs="CANDIANI"/>
+				<an:TLCPerson id="ID0NG4D04HCNQVEX1HZ1M522W2RDUXRQUWD2OOEPPRA5APP3ZUZTXF" href="http://dati.senato.it/senatore/25528" showAs="CONSIGLIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 26.204</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBH54D24401EOLAIDUDMMRIPPANBD0XFJIS5RNTFQ1IF4PSPSU3XC" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACKF3BNE1VPQLIW4O1JGKQLOFB5K1AENZSX5XJPTYZYRLDR02IJK" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIRJGAMLISNYVOJE1WWOUQOPKSMC2CNMZUO3N5MC4XAPMNIPWQIBO" as="#tipoSenatore">CANDIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0NG4D04HCNQVEX1HZ1M522W2RDUXRQUWD2OOEPPRA5APP3ZUZTXF" as="#tipoSenatore">CONSIGLIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, capoverso «12-bis», sostituire le parole: «La fauna selvatica stanziale e migratoria abbattuta deve essere annotata sul tesserino venatorio di cui al comma 12 subito dopo l'abbattimento.» con le seguenti: «La fauna selvatica stanziale abbattuta deve essere annotata sul tesserino venatorio di cui al comma 12 al momento del recupero, quella migratoria ad eccezione della beccaccia a fine giornata di caccia».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
