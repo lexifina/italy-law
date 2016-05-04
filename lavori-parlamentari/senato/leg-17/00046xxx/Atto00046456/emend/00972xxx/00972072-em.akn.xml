@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2228/A/23.204/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2228/A/23.204"/>
+					<an:FRBRdate date="2016-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2228/A/23.204/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.204"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@"/>
+					<an:FRBRdate date="2016-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@.akn"/>
+					<an:FRBRdate date="2016-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2228/A/23.204/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAHIZXKOZHPNICHAKBXNHX3W4MBCAPRZCUWPYVUF4RBO0C4EV12MB" href="http://dati.senato.it/senatore/29062" showAs="CARDINALI"/>
+				<an:TLCPerson id="IDA1I0JDIGTM3PPSVKSWXSU02ZFGSUQFYLX4MQ3ZKC3FQESN33F0GC" href="http://dati.senato.it/senatore/29162" showAs="PEZZOPANE"/>
+				<an:TLCPerson id="IDLJSR2YRGLBBZLNH4KQ3ZU2UMHOZSMGVUTJAT5JGN0ORVCJGRALUM" href="http://dati.senato.it/senatore/29170" showAs="Gianluca ROSSI"/>
+				<an:TLCPerson id="IDA0HXG0WIFPZ0CZO4UZCZ1GY4LHTHE5MFG54HRJF344LHYPVMIXPC" href="http://dati.senato.it/senatore/25466" showAs="MATTESINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.204</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHIZXKOZHPNICHAKBXNHX3W4MBCAPRZCUWPYVUF4RBO0C4EV12MB" as="#tipoSenatore">CARDINALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1I0JDIGTM3PPSVKSWXSU02ZFGSUQFYLX4MQ3ZKC3FQESN33F0GC" as="#tipoSenatore">PEZZOPANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLJSR2YRGLBBZLNH4KQ3ZU2UMHOZSMGVUTJAT5JGN0ORVCJGRALUM" as="#tipoSenatore">Gianluca ROSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0HXG0WIFPZ0CZO4UZCZ1GY4LHTHE5MFG54HRJF344LHYPVMIXPC" as="#tipoSenatore">MATTESINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, capoverso «art. 25-quater», apportare le seguenti modifiche:</an:p>
+				<an:p>
+					<an:i>a) al comma 1, sostituire le parole:</an:i>
+					 «del 22 per cento» 
+					<an:i>con le parole:</an:i>
+					 «di euro 10.000» 
+					<an:i>e aggiungere, in fine, il seguente periodo:</an:i>
+					 «Superato il limite di euro 25.000, il contribuente è tenuto per l'anno successivo a munirsi di partita IVA. Possono essere considerati raccoglitori occasionali solo le persone fisiche. Non sono mai considerati occasionali coloro che cedono il prodotto derivante da tartufaia controllata o coltivata.»;
+				</an:p>
+				<an:p>
+					<an:i>b) dopo il comma 1, aggiungere il seguente comma:</an:i>
+					 «1-
+					<an:i>bis.</an:i>
+					 L'acquirente professionale è tenuto ad emettere una ricevuta indicante i dati del cedente, il Comune di raccolta e l'eventuale esonero dalla ritenuta ai sensi dei comma 1. La ricevuta deve essere controfirmata dal cedente a pena di nullità».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
