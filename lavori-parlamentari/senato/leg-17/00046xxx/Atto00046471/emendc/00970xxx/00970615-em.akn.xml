@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/C/6.61/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/C/6.61"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2232/C/6.61/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.61"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@.akn"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2232/C/6.61/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2232" showAs="DDL 2232"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDG3J5MHZ2BU0MDQLEQLBGVPDZVOYT13YSL4E2VUN2JTUNJULRA14E" href="http://dati.senato.it/senatore/29124" showAs="MANASSERO"/>
+				<an:TLCPerson id="IDKTXQPWMPJFP0EVQSSH40Z4102IZSJTBM3JME5WGCN1Q0X1GK5IYC" href="http://dati.senato.it/senatore/29095" showAs="FAVERO"/>
+				<an:TLCPerson id="IDJ1WKHWETRUUNDRM4EVKDBN2ZVFFWWRW1213TOJGBH1XLLIHNB1LF" href="http://dati.senato.it/senatore/29078" showAs="D'ADDA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2232</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.61</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG3J5MHZ2BU0MDQLEQLBGVPDZVOYT13YSL4E2VUN2JTUNJULRA14E" as="#tipoSenatore">MANASSERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKTXQPWMPJFP0EVQSSH40Z4102IZSJTBM3JME5WGCN1Q0X1GK5IYC" as="#tipoSenatore">FAVERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ1WKHWETRUUNDRM4EVKDBN2ZVFFWWRW1213TOJGBH1XLLIHNB1LF" as="#tipoSenatore">D'ADDA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 9 aggiungere il seguente periodo:</an:i>
+					 «Il Ministro del lavoro e delle politiche sociali, entro sessanta giorni dalla data di entrata in vigore della presente legge, provvede ad istituire presso di sé un organo di controllo che assicuri, secondo quanto previsto dall'articolo 12, comma 5 della Convenzione ONU sul diritto alle persone con disabilità, la realizzazione di tutte le misure appropriate ed efficaci per assicurare l'eguale diritto delle persone con disabilità alla propria o ereditata proprietà, al controllo dei propri affari finanziari e ad avere pari accesso a prestiti bancari, mutui e altre forme di credito finanziario, e assicureranno che le persone con disabilità non vengano arbitrariamente private della loro proprietà».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
