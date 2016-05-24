@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1196/C/4.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1196/C/4.5"/>
+					<an:FRBRdate date="2016-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1196/C/4.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@"/>
+					<an:FRBRdate date="2016-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@.akn"/>
+					<an:FRBRdate date="2016-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1196/C/4.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1196" showAs="DDL 1196"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="7ª Commissione permanente" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDX5VAICRP5CEBZACHSF10EW3XCMNPAT0DM2YHLNOWQOHWZPXX1BD" href="http://dati.senato.it/senatore/22717" showAs="BONFRISCO"/>
+				<an:TLCPerson id="ID5OHHNM0OPKHPGLHELHO1RZTM3LWMHHVL5X5RVNIORP1G4BLDOKCH" href="http://dati.senato.it/senatore/29118" showAs="LIUZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1196</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDX5VAICRP5CEBZACHSF10EW3XCMNPAT0DM2YHLNOWQOHWZPXX1BD" as="#tipoSenatore">BONFRISCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5OHHNM0OPKHPGLHELHO1RZTM3LWMHHVL5X5RVNIORP1G4BLDOKCH" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 3 inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis.</an:i>
+					 Il Comitato tecnico-scientifico di cui all'articolo 1 definisce apposite convenzioni con i soggetti pubblici e privati che presentano progetti di educazione finanziaria, assicurativa e previdenziale ritenuti idonei secondo linee guida definite dal Comitato stesso. Per lo svolgimento dei progetti presentati, tali soggetti si impegnano a garantire un adeguato apporto di risorse monetarie non inferiori ad un terzo del costo dei progetti stessi. Sono inoltre definite apposite convenzioni con i soggetti che vogliano contribuire ai progetti in qualità di sostenitori volontari. Tale contribuzione può essere economica o sotto forma di altre risorse.
+				</an:p>
+				<an:p>
+					            3-
+					<an:i>ter.</an:i>
+					 Gli enti locali hanno facoltà di attivare progetti finalizzati all'educazione finanziaria, assicurativa e previdenziale».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
