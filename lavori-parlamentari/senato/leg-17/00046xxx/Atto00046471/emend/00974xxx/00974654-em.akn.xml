@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/A/1.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/A/1.19"/>
+					<an:FRBRdate date="2016-05-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2232/A/1.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@"/>
+					<an:FRBRdate date="2016-05-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@.akn"/>
+					<an:FRBRdate date="2016-05-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2232/A/1.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2232" showAs="DDL 2232"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1212DNKTJ2D4FXUNKGA1SQOJ5MSF1XRMJAGZ1JPLYZYCRIELA1ZC" href="http://dati.senato.it/senatore/29154" showAs="PAGLINI"/>
+				<an:TLCPerson id="ID4H43KVWNQ5ZLF45HDEBJQZQMPKLXPKX3BJZ0NTHV1DDEA3IYKCFD" href="http://dati.senato.it/senatore/29179" showAs="SERRA"/>
+				<an:TLCPerson id="ID403SDKNORK1VHJCLZ4ZPC3MKJM5HAJ1JMKIT01DD1Z3G3AYGV3WJ" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDXT2UP1Y4BJBQICU3PLPPX2CRWNJVM4504YFUU1HEQSMTMGZ0RTEB" href="http://dati.senato.it/senatore/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDWBRM4EWUAJEHL2A4AJU4P0F2PEIUE13IGJ3RSZKP4442QKAV5RCK" href="http://dati.senato.it/senatore/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2232</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1212DNKTJ2D4FXUNKGA1SQOJ5MSF1XRMJAGZ1JPLYZYCRIELA1ZC" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4H43KVWNQ5ZLF45HDEBJQZQMPKLXPKX3BJZ0NTHV1DDEA3IYKCFD" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID403SDKNORK1VHJCLZ4ZPC3MKJM5HAJ1JMKIT01DD1Z3G3AYGV3WJ" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXT2UP1Y4BJBQICU3PLPPX2CRWNJVM4504YFUU1HEQSMTMGZ0RTEB" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWBRM4EWUAJEHL2A4AJU4P0F2PEIUE13IGJ3RSZKP4442QKAV5RCK" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, primo periodo, sostituire le parole: «cura e protezione», con le seguenti: «e cura».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 3, comma 2, primo periodo, sostituire le parole:</an:i>
+					 «cura e protezione»
+					<an:i>, con le seguenti:</an:i>
+					 «e cura».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
