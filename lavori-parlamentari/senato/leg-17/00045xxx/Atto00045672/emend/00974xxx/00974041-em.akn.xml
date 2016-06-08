@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1932/A/3.205/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1932/A/3.205"/>
+					<an:FRBRdate date="2016-06-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1932/A/3.205/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.205"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@"/>
+					<an:FRBRdate date="2016-06-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@.akn"/>
+					<an:FRBRdate date="2016-06-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-06-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-06-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1932/A/3.205/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1932" showAs="DDL 1932"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLHSE3YFZFSBVIX3IV141I5O2WFBCXS5S0PAL4OGBBD2L2J4NVQV" href="http://dati.senato.it/senatore/29061" showAs="CAPPELLETTI"/>
+				<an:TLCPerson id="IDXVN3WKSQFGDEJCFXQ4HW3TQ5UYMZQLVPJWC3YHELY2HHN1QJXNM" href="http://dati.senato.it/senatore/29106" showAs="GIARRUSSO"/>
+				<an:TLCPerson id="IDVZBHSNAH0ENHESQL2EVQA3GBDDJ0C5HY3QRLNUG5XI0LGYZ3Y25K" href="http://dati.senato.it/senatore/29055" showAs="BUCCARELLA"/>
+				<an:TLCPerson id="ID5JG3PNMRNJT1I30GV43K1RUIIDHN2U4Z3BY0AGCNUNAQYDIXL2BG" href="http://dati.senato.it/senatore/29177" showAs="SCIBONA"/>
+				<an:TLCPerson id="ID453NIDA2ILWDMNONRGGIHRXJSJF1HPRWATDE5FHR3NMWB3OV30MD" href="http://dati.senato.it/senatore/29142" showAs="MORONESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1932</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.205</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLHSE3YFZFSBVIX3IV141I5O2WFBCXS5S0PAL4OGBBD2L2J4NVQV" as="#tipoSenatore">CAPPELLETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXVN3WKSQFGDEJCFXQ4HW3TQ5UYMZQLVPJWC3YHELY2HHN1QJXNM" as="#tipoSenatore">GIARRUSSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVZBHSNAH0ENHESQL2EVQA3GBDDJ0C5HY3QRLNUG5XI0LGYZ3Y25K" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5JG3PNMRNJT1I30GV43K1RUIIDHN2U4Z3BY0AGCNUNAQYDIXL2BG" as="#tipoSenatore">SCIBONA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID453NIDA2ILWDMNONRGGIHRXJSJF1HPRWATDE5FHR3NMWB3OV30MD" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, capoverso «Art. 339-bis», dopo le parole: «se il fatto è commesso», inserire le seguenti: «, per le finalità di cui all'articolo 338,».</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
