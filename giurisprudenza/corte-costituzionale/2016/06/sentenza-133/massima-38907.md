@@ -1,0 +1,24 @@
+# Massima n. 38907
+
+- Pronuncia: Corte costituzionale, sentenza 133/2016 (ECLI:IT:COST:2016:133)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:133
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Impiego pubblico - Abrogazione dell'istituto del trattenimento in servizio dei dipendenti civili dello Stato - Disciplina applicabile ai docenti e ricercatori universitari, avvocati dello Stato e magistrati - Asserita irragionevolezza della disciplina, lesiva dell'affidamento dei consociati nella sicurezza giuridica - Asserita violazione del principio di eguaglianza - Insussistenza - Misura finalizzata al ricambio generazionale e al risparmio di spesa - Non fondatezza delle questioni.
+
+## Testo
+
+Non sono fondate le questioni di legittimità costituzionale dell'art. 1, commi 1, 2 e 3, del d.l. 24 giugno 2014, n. 90 (convertito, con modificazioni, dall'art. 1, comma 1, della legge 11 agosto 2014, n. 114), impugnato, in riferimento all'art. 3 Cost., in quanto - nel disporre l'abrogazione dell'istituto del trattenimento in servizio dei dipendenti civili dello Stato e nel dettare la relativa disciplina transitoria - irragionevolmente sacrificherebbe l'affidamento dei consociati (e, in particolare, degli avvocati dello Stato) nella sicurezza giuridica e nel protrarsi della permanenza in servizio, precluderebbe all'amministrazione ogni valutazione discrezionale in relazione alle proprie esigenze organizzative e funzionali e perseguirebbe la finalità del ricambio generazionale ponendosi in contrasto con la disciplina fortemente limitativa delle nuove assunzioni posta dal medesimo decreto. L'eliminazione del trattenimento in servizio ha portato a compimento un percorso già avviato, per agevolare, nel tempo, il ricambio generazionale e consentire un risparmio di spesa, in attuazione dei principi di buon andamento e efficienza dell'amministrazione, senza alcuna lesione dell'affidamento. Infatti, sia la circostanza della "degradazione" del diritto al trattenimento in servizio a mero interesse sia la considerazione che l'originaria previsione dell'estensione del trattenimento degli avvocati dello Stato fino al 31 dicembre 2015 era contenuta in un provvedimento di per sé soggetto a modifiche in sede di conversione (ove il termine è stato anticipato al 31 ottobre 2014) impediscono di ritenere che un affidamento nella più duratura prosecuzione del servizio possa essersi consolidato e che quest'ultimo sia stato illegittimamente ed eccessivamente compresso dall'anticipazione della cessazione. Infine, non sussiste la pretesa contraddittorietà della normativa censurata rispetto al successivo art. 3 che provvede a contingentare le assunzioni del personale con riguardo agli anni 2014-2018, condizionando la facoltà di assumere nel 2014 alla circostanza che la spesa sia pari al 20 per cento di quella relativa al personale di ruolo cessato nell'anno precedente e riducendo negli anni successivi tale limitazione fino a consentire il completo "sblocco" delle assunzioni alla data del 2018. Questa disciplina risulta coerente con l'obiettivo del ricambio generazionale sotteso all'abolizione del trattenimento in servizio, all'interno di una programmazione articolata nel tempo. La  ratio  del denunciato art. 1 é quella di favorire politiche di ricambio generazionale a fronte della crisi economica ed i relativi effetti positivi sono connessi alla necessità di realizzare progressivi risparmi che, in relazione al regime del  turn over , alimenteranno le risorse utilizzabili per le nuove assunzioni. Sull'ammissibilità di questioni sollevate nella fase cautelare, non potendo ritenersi esaurita la  potestas iudicandi  del giudice  a quo  quando la concessione della misura cautelare, provvisoria e temporanea fino alla ripresa del giudizio cautelare dopo l'incidente di costituzionalità, sia fondata, quanto al  fumus boni iuris , sulla non manifesta infondatezza della questione di legittimità costituzionale, v. le citate sentenze nn. 200/2014 e 83/2013. Per la legittimazione del Consiglio di Stato a sollevare questioni di legittimità costituzionale in sede di parere sul ricorso straordinario al Presidente della Repubblica, v. la citata sentenza n. 73/2014. Sul principio di ininfluenza delle vicende relative al giudizio principale sul giudizio incidentale di costituzionalità (art. 18 delle norme integrative per i giudizi davanti alla Corte costituzionale), v. le citate sentenze nn. 236/2015 e 274/2011.
+
+## Norme
+
+- decreto-legge, 24/06/2014 n. 90, art. 1, comma 1
+- decreto-legge, 24/06/2014 n. 90, art. 1, comma 2
+- decreto-legge, 24/06/2014 n. 90, art. 1, comma 3
+- legge, 11/08/2014 n. 114
+
+## Parametri
+
+- Costituzione, art. 3
