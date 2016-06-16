@@ -1,0 +1,65 @@
+# Corte costituzionale, ordinanza 149/2016
+
+- ECLI: ECLI:IT:COST:2016:149
+- Tipo: ordinanza
+- Presidente: GROSSI
+- Relatore: Marta Cartabia
+- Redattore: Marta Cartabia
+- Data della decisione: 18/05/2016
+- Data del deposito: 16/06/2016
+- Giudizio: GIUDIZIO SULL'AMMISSIBILITÀ DI RICORSO PER CONFLITTO DI ATTRIBUZIONE TRA POTERI DELLO STATO
+- Massime: 38933
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:149
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Paolo GROSSI; Giudici : Alessandro CRISCUOLO, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Giulio PROSPERETTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio per conflitto di attribuzione tra poteri dello Stato sorto a seguito della decisione del Vice Presidente della Commissione giustizia del Senato della Repubblica del 12 ottobre 2015 e della decisione della Conferenza dei Presidenti dei Gruppi parlamentari del Senato della Repubblica del 13 ottobre 2015, promosso dal senatore Giovanardi Carlo Amedeo e da altri senatori, con ricorso depositato in cancelleria l'11 febbraio 2016 ed iscritto al n. 4 del registro conflitti tra poteri dello Stato 2016, fase di ammissibilità.
+ Udito nella camera di consiglio del 18 maggio 2016 il Giudice relatore Marta Cartabia.
+ Ritenuto che, con ricorso depositato nella cancelleria della Corte costituzionale in data 11 febbraio 2016, alcuni senatori della Repubblica hanno sollevato conflitto di attribuzione tra poteri dello Stato, ai sensi dell'art. 134 della Costituzione, nei confronti del Presidente del Senato della Repubblica, della Conferenza dei Presidenti dei Gruppi parlamentari del Senato e del Vice Presidente della Commissione giustizia del Senato;
+ che i ricorrenti impugnano il provvedimento con cui il Vice Presidente della Commissione giustizia del Senato ha disposto l'abbinamento del disegno di legge n. 2081, recante «Regolamentazione delle unioni civili tra persone dello stesso sesso e disciplina delle convivenze», ad altri disegni di legge (n. 2069 e n. 2084) in materia di unioni civili già all'esame dell'Assemblea (come risulta dal resoconto sommario della seduta della Commissione giustizia n. 243 del 12 ottobre 2015); nonché il provvedimento con cui la Conferenza dei Presidenti dei Gruppi parlamentari ha inserito l'esame del d.d.l. n. 2081 nel calendario dei lavori dell'Assemblea (come risulta dalla riunione n. 132 della Conferenza relativamente al calendario dei lavori dal 14 al 22 ottobre 2015), e quello con cui il Presidente del Senato ha sottoposto il medesimo disegno di legge all'esame e al voto dell'Assemblea (come risulta dai resoconti stenografici delle sedute pubbliche n. 522 e n. 523 dell'Assemblea del Senato rispettivamente del 13 e del 14 ottobre 2015);
+ che, secondo quanto affermato nel ricorso, per effetto dei suddetti atti sarebbe stato menomato l'esercizio delle prerogative spettanti a ciascun parlamentare e sarebbero stati conseguentemente violati gli artt. 1, secondo comma, 67, 71, 72, primo e quarto comma, Cost.;
+ che, quanto al profilo soggettivo, i ricorrenti affermano la loro piena legittimazione, muovendo dalla considerazione che la giurisprudenza costituzionale in materia non esclude esplicitamente che i singoli parlamentari possano essere qualificati poteri dello Stato ai fini del conflitto di attribuzione ex art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), salvo il caso in cui il rimedio non abbia carattere di residualità;
+ che la legittimazione del singolo parlamentare deriverebbe dall'essere titolare di specifici poteri riconosciutigli direttamente dalla Costituzione, quale rappresentante della Nazione (art. 67 Cost.), «prima forma organica attraverso la quale, a livello di Stato-apparato, si esprime la sovranità popolare» (art. 1, secondo comma, Cost.), e partecipe della funzione legislativa delle Camere (art. 71 Cost.), poteri che si estrinsecano sia tramite la presentazione di progetti di legge e di proposte emendative, sia tramite la partecipazione ai lavori delle commissioni, anche se di esse non si faccia parte;
+ che corollario di tali prerogative sarebbe la sussistenza, in capo al singolo parlamentare, del «diritto di esigere che i Regolamenti (espressamente richiamati dall'art. 72, co. 1, Cost.) siano formulati e, comunque, interpretati ed applicati conformemente a Costituzione [...], a tutela proprio delle attribuzioni che a lui competono in virtù del potere di cui è uti singulus portatore»;
+ che, quanto al profilo oggettivo, è lamentata la violazione di una serie di norme regolamentari relative all'iter di formazione della legge (particolarmente, degli artt. 31, 43, 44 e 51 del Regolamento del Senato della Repubblica) e, per il loro tramite, dell'art. 72, primo e quarto comma, Cost.;
+ che i ricorrenti ricostruiscono analiticamente le vicende dei lavori parlamentari dalle quali discenderebbero le lamentate violazioni, esponendo che il disegno di legge n. 2081, presentato il 6 ottobre 2015 e assegnato il successivo 7 ottobre all'esame della Commissione giustizia del Senato, è stato illustrato da parte della relatrice della Commissione, unitamente ad altri due disegni di legge in materia (n. 2069 e n. 2084), nella seduta notturna del 12 ottobre 2015, mentre la sua trattazione rinviata alla seduta del 13 ottobre 2015;
+ che tale trattazione è stata poi ulteriormente rinviata alla seduta pomeridiana del giorno successivo, ma non ha avuto luogo, essendo stato nel frattempo disposto, da parte del Vice Presidente della Commissione giustizia, l'abbinamento del d.d.l. n. 2081 ad altri disegni di legge in materia di unioni civili già all'esame dell'Assemblea, senza che, ad avviso dei ricorrenti, la Commissione si sia espressa sul punto, come invece previsto dall'art. 51 del Regolamento del Senato della Repubblica;
+ che la Conferenza dei Presidenti dei Gruppi parlamentari ha inserito l'esame del d.d.l. n. 2081 nel calendario dell'Assemblea, senza il previo esame in Commissione e senza rispettare i termini indicati dalle norme regolamentari (art. 44);
+ che, ad avviso dei ricorrenti, il Presidente del Senato ha sottoposto il disegno di legge all'esame e al voto dell'Assemblea, in contrasto con le norme regolamentari sulla programmazione dei lavori (artt. 53 e 55);
+ che il mancato esame in Commissione del testo normativo, ridotti i lavori alla sua mera illustrazione, avrebbe determinato «un caso di grave menomazione delle funzioni e delle prerogative dei Senatori facenti parte della Commissione, della minoranza parlamentare e, più ampiamente, di tutti i membri della Camera Alta».
+ Considerato che, in questa fase del giudizio, la Corte è chiamata a deliberare, ai sensi dell'art. 37, terzo e quarto comma, della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), l'ammissibilità del ricorso, valutando, senza contraddittorio, se sussistano i requisiti soggettivo e oggettivo di un conflitto di attribuzione tra poteri dello Stato;
+ che la Corte costituzionale è chiamata a verificare, in camera di consiglio, l'esistenza o meno della «materia di un conflitto la cui risoluzione spetti alla sua competenza»;
+ che il conflitto di attribuzione tra poteri dello Stato è risolto dalla Corte costituzionale «per la delimitazione della sfera di attribuzioni determinata per i vari poteri da norme costituzionali» (art. 37, primo comma, della l. n. 87 del 1953);
+ che occorre, quindi, affinché vi sia materia del conflitto, che si lamenti la violazione di norme costituzionali attributive di potere al soggetto ricorrente;
+ che, a questo proposito, vero è che i senatori ricorrenti invocano gli artt. 1, secondo comma, 67, 71 e 72, primo e quarto comma, della Costituzione, ritenendo che da tali disposizioni costituzionali derivi la titolarità, in capo a ciascun parlamentare, del potere di iniziativa legislativa, che si estrinseca non solo con la presentazione di proposte di legge, ma altresì con la formalizzazione di emendamenti ai progetti di legge in discussione e con la partecipazione ai lavori delle Commissioni parlamentari, anche se di esse non si faccia parte;
+ che, tuttavia, è altresì vero che i ricorrenti, dopo aver invocato le suddette disposizioni costituzionali, sviluppano le censure lamentando una serie di violazioni dei regolamenti e della prassi parlamentare dovute a uno scorretto andamento dei lavori parlamentari relativi al disegno di legge n. 2081;
+ che, in particolare, i ricorrenti si dolgono del fatto che il Vice Presidente della Commissione giustizia abbia disposto l'abbinamento del d.d.l. n. 2081 agli altri disegni di legge in materia di unioni civili già all'esame dell'Assemblea, senza richiedere sul punto una deliberazione dell'intera Commissione, in violazione dell'art. 51 del Regolamento del Senato della Repubblica;
+ che, inoltre, i ricorrenti lamentano il mancato rispetto delle varie fasi della programmazione dei lavori come descritte dagli artt. 53 e 55 del Regolamento del Senato della Repubblica da parte del Presidente del Senato e della Conferenza dei Presidenti dei Gruppi parlamentari, che avrebbero disposto l'inserimento dell'esame del d.d.l. n. 2081 direttamente nel calendario dell'Assemblea, senza preventivamente ricomprenderlo nel programma;
+ che, infine, i ricorrenti ritengono che tali violazioni dei procedimenti parlamentari abbiano indebitamente ridotto l'esame del d.d.l. n. 2081 in Commissione giustizia, dove il suddetto disegno di legge è pervenuto poco più di una settimana prima della sua "calendarizzazione" all'esame in Assemblea, in virtù di una erronea applicazione dell'art. 44 del Regolamento del Senato della Repubblica;
+ che, dunque, alla luce della ricostruzione della vicenda, la menomazione lamentata dai ricorrenti inerisce tutta alle modalità di svolgimento dei lavori parlamentari come disciplinati da norme e prassi regolamentari, che scandiscono e regolano i "momenti" del procedimento di formazione delle leggi, quali sono sia l'abbinamento dei disegni di legge attinenti a materie identiche o strettamente connesse, sia la "calendarizzazione" dei lavori in Assemblea, con conseguente discussione, esame, modifica e votazione dei disegni di legge in tale sede;
+ che, come questa Corte ha già avuto modo di chiarire, a ciascuna Camera è riconosciuta e riservata la potestà di disciplinare, tramite il proprio Regolamento, il procedimento legislativo «in tutto ciò che non sia direttamente ed espressamente già disciplinato dalla Costituzione» (sentenza n. 78 del 1984);
+ che, entro questi limiti, le vicende e i rapporti attinenti alla disciplina del procedimento legislativo «ineriscono alle funzioni primarie delle Camere» (sentenza n. 120 del 2014) e sono, per ciò stesso, coperte dall'autonomia che a queste compete e che si estrinseca non solo nella determinazione di cosa approvare, ma anche nella determinazione di quando approvare;
+ che, dunque, il presente conflitto, nei termini in cui è stato articolato, «non attinge al livello del conflitto tra poteri dello Stato, la cui risoluzione spetta alla Corte costituzionale» (ordinanze n. 366 del 2008 e n. 90 del 1996), inerendo le argomentazioni addotte nel ricorso esclusivamente alla lesione di norme del Regolamento del Senato e della prassi parlamentare, senza che sia validamente dimostrata l'idoneità di queste ultime a integrare i parametri costituzionali invocati;
+ che le eventuali violazioni di mere norme regolamentari e della prassi parlamentare lamentate dai ricorrenti debbono trovare all'interno delle stesse Camere gli strumenti intesi a garantire il corretto svolgimento dei lavori, nonché il rispetto del diritto parlamentare, dei diritti delle minoranze e dei singoli componenti (sentenza n. 379 del 1996);
+ che, pertanto, il ricorso deve ritenersi inammissibile, restando assorbito l'esame di ogni altro profilo e requisito, anche soggettivo.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara inammissibile il conflitto di attribuzione tra poteri dello Stato promosso dal senatore Giovanardi Carlo Amedeo e da altri senatori nei confronti del Presidente del Senato della Repubblica, della Conferenza dei Presidenti dei Gruppi parlamentari del Senato e del Vice Presidente della Commissione Giustizia del Senato, con il ricorso indicato in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 18 maggio 2016.
+ F.to:
+ Paolo GROSSI, Presidente
+ Marta CARTABIA, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 16 giugno 2016.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
