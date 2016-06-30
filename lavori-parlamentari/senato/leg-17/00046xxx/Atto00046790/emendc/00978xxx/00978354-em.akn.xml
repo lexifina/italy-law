@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/C/19.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/C/19.3"/>
+					<an:FRBRdate date="2016-06-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2345/C/19.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@"/>
+					<an:FRBRdate date="2016-06-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@.akn"/>
+					<an:FRBRdate date="2016-06-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-06-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-06-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2345/C/19.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2345" showAs="DDL 2345"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="14ª Commissione permanente " href="/dati.senato.it/osr/Commissione/14"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDRKU5WY0GMPFCIC34ZFYQP1ETK2E0BANNZ0TC2IOLKFAS5SPV34O" href="http://dati.senato.it/senatore/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="IDSD0KZJ2K05EWNVVAB1XMYEK2WDNHBEPXOT4CTAFV55UR0L1SW0NI" href="http://dati.senato.it/senatore/29193" showAs="VACCIANO"/>
+				<an:TLCPerson id="IDRDYSHRLVLDIN3MKS2GYOZKOXHYBRU2F2PV1JWK1P55HB3SCPCML" href="http://dati.senato.it/senatore/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="ID2NYD4WHOJH20GQTFMPGF4U3S5I0MDVI4JRPIWAEARAW02PX3MA3C" href="http://dati.senato.it/senatore/29168" showAs="Maurizio ROMANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2345</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDRKU5WY0GMPFCIC34ZFYQP1ETK2E0BANNZ0TC2IOLKFAS5SPV34O" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSD0KZJ2K05EWNVVAB1XMYEK2WDNHBEPXOT4CTAFV55UR0L1SW0NI" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRDYSHRLVLDIN3MKS2GYOZKOXHYBRU2F2PV1JWK1P55HB3SCPCML" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2NYD4WHOJH20GQTFMPGF4U3S5I0MDVI4JRPIWAEARAW02PX3MA3C" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 b), 
+					<an:i>dopo la parola:</an:i>
+					 «punito» 
+					<an:i>inserire le seguenti:</an:i>
+					 «, in caso di condanna, con il divieto di contrattare con la pubblica amministrazione».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
