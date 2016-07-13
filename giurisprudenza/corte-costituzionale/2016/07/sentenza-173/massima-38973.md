@@ -1,0 +1,13 @@
+# Massima n. 38973
+
+- Pronuncia: Corte costituzionale, sentenza 173/2016 (ECLI:IT:COST:2016:173)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:173
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Intervento in giudizio - Intervento adesivo - Terzi che non sono portatori di un interesse qualificato immediatamente inerente al rapporto sostanziale dedotto in giudizio - Inammissibilità.
+
+## Testo
+
+Nel giudizio di legittimità costituzionale, in riferimento agli artt. 3, 4, 35, 36, 38, 53, 81, 97, 117, primo comma, e 136 Cost., dell'art. 1, commi 483, 486, 487 e 590, della legge 27 dicembre 2013, n. 147 (Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato - legge di stabilità 2014), é inammissibile l'intervento tardivo e l'intervento adesivo di soggetti che non sono parti della controversia  a   quo . Infatti, il termine per l'intervento nei giudizi costituzionali deve essere ritenuto perentorio, mentre la circostanza che gli istanti siano parti in giudizi pensionistici dinanzi a sezioni giurisdizionali della Corte dei conti diverse da quella rimettente nei quali trovano applicazione le stesse norme denunciate e che tali processi siano stati sospesi in attesa della definizione delle sollevate questioni di legittimità costituzionale non è sufficiente a rendere ammissibile l'intervento, essendo i rapporti sostanziali dedotti in causa comunque differenti da quelli oggetto del procedimento da cui è scaturito l'incidente di costituzionalità. Sulla perentorietà del termine per l'intervento nei giudizi costituzionali, v.,  ex   multis , le citate sentenze nn. 102/2016, 220/2014 e 128/2014. Per il costante orientamento secondo cui possono intervenire nel giudizio incidentale di legittimità costituzionale le sole parti del giudizio principale ed i terzi portatori di un interesse qualificato, immediatamente inerente al rapporto sostanziale dedotto in giudizio e non semplicemente regolato, al pari di ogni altro, dalla norma o dalle norme oggetto di censura, v., tra le altre, le citate sentenze nn. 70/2015 e 216/2014. Nel senso che l'ammissibilità di interventi ad opera di terzi, titolari di interessi soltanto analoghi a quelli dedotti nel giudizio principale, contrasterebbe con il carattere incidentale del giudizio di legittimità costituzionale, in quanto l'accesso delle parti al detto giudizio avverrebbe senza la previa verifica della rilevanza e della non manifesta infondatezza della questione da parte del giudice  a quo , v., per tutte, le seguenti citate decisioni: sentenza n. 71/2015; ordinanza n. 32/2013.
