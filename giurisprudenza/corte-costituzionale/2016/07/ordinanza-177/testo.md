@@ -1,0 +1,62 @@
+# Corte costituzionale, ordinanza 177/2016
+
+- ECLI: ECLI:IT:COST:2016:177
+- Tipo: ordinanza
+- Presidente: GROSSI
+- Relatore: Franco Modugno
+- Redattore: Franco Modugno
+- Data della decisione: 01/06/2016
+- Data del deposito: 14/07/2016
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 38986
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:177
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Paolo GROSSI; Giudici : Alessandro CRISCUOLO, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Giulio PROSPERETTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 323 del codice penale, promosso dal Giudice per le indagini preliminari del Tribunale ordinario di Enna nel procedimento penale a carico di V.C., con ordinanza del 23 luglio 2015, iscritta al n. 333 del registro ordinanze 2015 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 1, prima serie speciale, dell'anno 2016.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio del 1° giugno 2016 il Giudice relatore Franco Modugno.
+ Ritenuto che, con ordinanza emessa il 23 luglio 2015, il Giudice per le indagini preliminari del Tribunale ordinario di Enna ha sollevato, in relazione agli artt. 25, secondo comma, e 97, primo comma, della Costituzione, questione di legittimità costituzionale dell'art. 323 del codice penale;
+ che la questione è stata sollevata all'esito dell'udienza camerale fissata per l'opposizione della persona offesa alla richiesta di archiviazione formulata dal pubblico ministero, il quale aveva indagato, per il reato di abuso d'ufficio, il direttore di un'unità operativa ospedaliera, denunciato da un dirigente medico per «plurime e reiterate vessazioni» e, in particolare, per «la violazione della disciplina dei contratti collettivi nazionali in tema di ferie, turni, ordini di servizio, carichi ed orari di lavoro»;
+ che il pubblico ministero, pur non disconoscendo l'esistenza delle condotte denunciate, aveva tuttavia avanzato richiesta di archiviazione, ponendo in evidenza l'irrilevanza della violazione di norme contenute nei contratti collettivi nazionali ai fini della configurabilità del reato previsto dall'art. 323 cod. pen.;
+ che, nell'opposizione proposta, la persona offesa aveva rilevato come, secondo la costante giurisprudenza di legittimità, il reato di abuso di ufficio - e, in particolare, il presupposto in esso contemplato inerente alla «violazione di norme di legge» - potesse essere integrato anche dalla sola inosservanza del principio costituzionale di imparzialità della pubblica amministrazione, con la conseguenza che anche la reiterata violazione dei contratti collettivi nazionali in danno di un pubblico dipendente ben avrebbe potuto perfezionare la violazione di norma di legge, «ossia dell'art. 97 Cost.»;
+ che il rimettente - rilevando che la giurisprudenza di legittimità ha da tempo adottato un'interpretazione assai ampia della nozione di «violazione di norme di legge» - assume costituire «diritto vivente» il fatto che il requisito in questione possa consistere anche nella inosservanza dell'art. 97 Cost., la cui «parte immediatamente precettiva» impone ad ogni pubblico funzionario, nell'esercizio delle funzioni, di non usare il potere conferitogli dalla legge per compiere favoritismi e procurare ingiusti vantaggi ovvero per realizzare intenzionali vessazioni o discriminazioni, e che, pertanto, assume rilevanza la violazione «non solo di norme giuridiche contenute in leggi e regolamenti ma anche di quelle previste in atti amministrativi, circolari, contratti collettivi e addirittura discendenti da prassi amministrative»;
+ che, nondimeno, l'inclusione dei principî di imparzialità e buon andamento tra le violazioni di legge rilevanti per integrare l'abuso di ufficio risulterebbe - come rilevato anche dalla dottrina ed affermato dalla giurisprudenza costituzionale (è citata la sentenza n. 447 del 1998) - foriera di vaghezza ed elasticità della fattispecie incriminatrice, così sovvertendo, secondo il rimettente, le stesse finalità della riforma di tale precetto introdotte con la «novella del 1997»;
+ che, in forza di tali premesse, il giudice a quo ritiene rilevante e non manifestamente infondata la questione di legittimità costituzionale;
+ che, quanto al primo presupposto, il rimettente reputa, ai fini dell'accoglimento o del rigetto dell'opposizione alla richiesta di archiviazione, di «rilevanza dirimente» l'inclusione dell'art. 97 Cost. - e, dunque, dei principî di imparzialità e buon andamento - nel novero delle norme la cui violazione è idonea ad integrare la fattispecie di cui all'art. 323 cod. pen.;
+ che, quanto alla non manifesta infondatezza, il rimettente rileva che la criticata ermeneutica dell'art. 323 cod. pen. si pone in contrasto con l'art. 25 Cost., «sotto il profilo della necessaria determinatezza delle fattispecie penali» e, inoltre, che l'insufficiente determinazione della predetta fattispecie incriminatrice «può comportare il rischio di interferenze tra la giurisdizione e l'amministrazione», violando così gli «stessi principi contemplati dall'art. 97 Cost.»;
+ che nel giudizio è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, chiedendo, anche con successiva memoria depositata il 10 maggio 2016, che la questione sia dichiarata inammissibile;
+ che la difesa statale osserva come l'ordinanza di rimessione, di là da un generico riferimento alla originaria querela della persona offesa, difetti di puntuale descrizione della condotta materiale contestata all'indagato, con evidenti ricadute circa il vaglio di rilevanza della questione;
+ che inoltre, secondo l'Avvocatura generale dello Stato, il rimettente non chiarisce né le ragioni per le quali nella «violazione di norme di legge» di cui all'art. 323 cod. pen. dovrebbe sussumersi anche la violazione delle norme contenute nei contratti collettivi nazionali, né quelle per le quali egli non ritenga di potersi discostare da un tale orientamento giurisprudenziale tutt'altro che consolidato - e che anzi trova significative smentite presso la stessa giurisprudenza di legittimità -, adottando un'interpretazione conforme ai parametri costituzionali evocati nell'ordinanza di rimessione;
+ che la questione di legittimità costituzionale, a parere del Presidente del Consiglio dei ministri, sarebbe comunque manifestamente infondata;
+ che, infatti, quanto alla dedotta violazione dell'art. 25 Cost., la difesa interveniente rileva che il vizio di indeterminatezza ben potrebbe escludersi, nella specie, assumendo il criterio interpretativo «tipologico», talvolta utilizzato dalla giurisprudenza costituzionale, in forza del quale deve considerarsi comunque determinata quella fattispecie idonea ad esprimere, attraverso i normali strumenti interpretativi, un «tipo criminoso», espressivo cioè di un «omogeneo contenuto di disvalore, corrispondente alla previsione sanzionatoria determinata» (vengono citate, in proposito, le sentenze n. 247 del 1989 e n. 35 del 1991);
+ che tale ultima considerazione - conclude l'Avvocatura generale dello Stato - vale ad escludere anche il lamentato vizio di violazione dell'art. 97 Cost., posto che la necessità di individuare un interesse del tutto collidente con quello pubblico - interesse alla cui realizzazione deve essere unicamente rivolta la condotta dell'agente - costituisce «sufficiente argine ad indebite ingerenze della giurisdizione nelle discrezionali valutazioni dell'amministrazione».
+ Considerato che il Giudice per le indagini preliminari del Tribunale ordinario di Enna, con l'ordinanza in epigrafe, dubita - in riferimento agli artt. 25, secondo comma, e 97, primo comma (recte: secondo comma), della Costituzione - della legittimità costituzionale dell'art. 323 del codice penale nella parte in cui, secondo il «diritto vivente», includerebbe nel requisito della «violazione di norme di legge», necessario per la configurazione della fattispecie incriminatrice dell'abuso di ufficio, anche la violazione dell'art. 97 Cost. e, dunque, dei principî di imparzialità e buon andamento della pubblica amministrazione e, persino, quella di norme previste nei contratti collettivi di lavoro o in atti amministrativi, circolari ed addirittura discendenti da prassi amministrative;
+ che, nondimeno, la fattispecie oggetto della delibazione giudiziale è descritta in modo del tutto insufficiente nell'ordinanza di rimessione, non chiarendosi se la condotta per la quale è ipotizzabile l'abuso di ufficio sia consistita nella «violazione della disciplina dei contratti collettivi nazionali in tema di ferie, turni, ordini di servizio, carichi ed orari di lavoro» ovvero in diverse «plurime e reiterate vessazioni», tali da integrare autonoma violazione dei principî di imparzialità e buon andamento della pubblica amministrazione di cui all'art. 97 Cost.;
+ che tale carente descrizione della fattispecie non consente di verificare sotto quale specifico profilo la disposizione censurata debba essere applicata per definire il giudizio principale;
+ che, nondimeno, qualora, per la delibazione dell'ipotesi di reato, venisse in rilievo la violazione di norme del contratto collettivo di lavoro, si rivelerebbe errata la ricostruzione del «diritto vivente» prospettata dal rimettente, considerando che, secondo la prevalente giurisprudenza di legittimità, la violazione da parte del pubblico ufficiale delle norme collettive contrattuali applicabili ai rapporti di pubblico impiego non realizza uno dei presupposti necessari per la configurabilità del reato di abuso di ufficio (Corte di cassazione, sezione sesta penale, sentenze 3 novembre 2005-13 aprile 2006, n. 13511 e 25 settembre 2008-5 febbraio 2009, n. 5026);
+ che se, invece, la violazione di legge fosse ritenuta dal rimettente in relazione alle «plurime e reiterate vessazioni» denunciate dalla persona offesa - e, dunque, in condotte direttamente lesive del principio di imparzialità sancito dall'art. 97 Cost. - non risulterebbero illustrate le ragioni per le quali il rimettente, a fronte di un contrasto diacronico di giurisprudenza sull'interpretazione della nozione di «violazione di norme di legge» (esemplificato da Corte di cassazione, sezione seconda penale, sentenza 27 ottobre-20 novembre 2015, n. 46096 e, sezione sesta penale, sentenza 18 febbraio-25 marzo 2009, n. 13097), non ritenga di praticare un'interpretazione conforme a Costituzione e reputi invece operante il vincolo dell'asserito «diritto vivente» nella specifica sede processuale in cui è chiamato a pronunciare ed in relazione alla richiesta di archiviazione al suo esame;
+ che, inoltre, la carente descrizione della fattispecie si riverbera sull'indeterminatezza e ambiguità del petitum formulato, in alcun modo specificato rispetto alla species facti oggetto del giudizio principale e neppure reso chiaro dal dispositivo dell'ordinanza di rimessione, ove il giudice a quo si limita a dare conto della rilevanza e non manifesta infondatezza della «questione di costituzionalità dell'art. 323 c.p.»;
+ che, pertanto, sussistendo plurimi profili ostativi allo scrutinio della questione proposta, essa si palesa manifestamente inammissibile.
+ Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 9, comma 2, delle norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara la manifesta inammissibilità della questione di legittimità costituzionale dell'art. 323 del codice penale, sollevata, in riferimento agli artt. 25, secondo comma, e 97, secondo comma, della Costituzione, dal Giudice per le indagini preliminari del Tribunale ordinario di Enna, con l'ordinanza indicata in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 1° giugno 2016.
+ F.to:
+ Paolo GROSSI, Presidente
+ Franco MODUGNO, Redattore
+ Carmelinda MORANO, Cancelliere
+ Depositata in Cancelleria il 14 luglio 2016.
+ Il Cancelliere
+ F.to: Carmelinda MORANO
