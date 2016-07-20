@@ -1,0 +1,20 @@
+# Massima n. 39012
+
+- Pronuncia: Corte costituzionale, sentenza 190/2016 (ECLI:IT:COST:2016:190)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:190
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Sanità pubblica - Verifica delle complessive spese sanitarie relative alle prestazioni in regime di esenzione - Attività di controllo svolta dal Comando Carabinieri per la tutela della salute-Nucleo antisofisticazioni e sanità di Trento presso gli uffici dell'Assessorato alla sanità della Provincia di Bolzano - Ricorso per conflitto di attribuzione tra enti proposto dalla Provincia di Bolzano - Attività svolta in esecuzione dei poteri di vigilanza e controllo attribuiti al Ministero della salute e non nell'ambito di una azione di polizia giudiziaria o propedeutica all'accertamento di illeciti penali - Lesione delle prerogative della Provincia ricorrente - Dichiarazione di non spettanza allo Stato, e per esso al Comando Carabinieri per la tutela della salute-Nucleo antisofisticazioni e sanità di Trento, della competenza contestata - Annullamento dell'atto impugnato.
+
+## Testo
+
+Non spettava allo Stato e, per esso, al Comando Carabinieri per la tutela della salute - Nucleo antisofisticazioni e sanità di Trento esercitare controlli presso l'Assessorato alla sanità della Provincia autonoma di Bolzano per la verifica delle spese sanitarie concesse in regime di esenzione, come risultante dal verbale dello stesso Comando del 23 febbraio 2015, che va, conseguentemente annullato. L'accertamento compiuto dal NAS non ha avuto ad oggetto un'attività di polizia giudiziaria o, comunque, propedeutica all'accertamento di illeciti penali, ma un'attività, di carattere amministrativo, volta alla verifica delle complessive spese sanitarie relative alle prestazioni in regime di esenzione che rientra nella specifica ed esclusiva competenza della Provincia autonoma di Bolzano in materia di igiene e sanità, secondo quanto previsto dagli artt. 4, primo comma, num. 7), 9, primo comma, num. 10) e 16, primo comma, del d.P.R. n. 670 del 1972, nonché dagli artt. 1 e 2 del d.P.R. n. 474 del 1975, dall'art. 15 della legge della Regione autonoma Trentino-Alto Adige/ Südtirol  n. 6 del 1980, e dall'art. 4 del d.lgs. n. 266 del 1992. Pertanto, dal complessivo assetto di competenze valide in materia, l'iniziativa assunta dal Comando Carabinieri si colloca in un ambito eccedente le prerogative dello Stato in quanto non rientra nell'ambito della funzione istituzionale dell'Arma dei Carabinieri di sicurezza pubblica e di prevenzione e repressione dei reati, ma integra una verifica di natura amministrativa riservata, come tale, alla competenza esclusiva della Provincia autonoma di Bolzano. Sulla riconducibilità alla competenza delle Province autonome del potere ispettivo e di controllo sull'attività amministrativa e finanziaria degli enti sanitari e ospedalieri, nell'ambito della disciplina vigente per il Trentino-Alto Adige, v. le citate sentenze nn. 237/2014, 80/2007, 182/1997 e 228/1993. Sull'affermazione del principio secondo cui lo Stato, non concorrendo al finanziamento dei Comuni che insistono sul territorio della Regione autonoma Trentino-Alto Adige/ Südtirol,  non può neppure adottare norme per il loro coordinamento finanziario, competendo tale coordinamento solo alla Provincia, v. le citate sentenze nn. 75/2016, 125/2015, 187/2012, 115/2012, 133/2010 e 341/2009. Sulla dichiarazione di illegittimità costituzionale delle norme che attribuiscono ad apparati ispettivi dell'amministrazione centrale poteri di verifica sul complesso delle attività amministrative e finanziarie degli enti territoriali, v. le citate sentenze nn. 39/2014 e 219/2013.
+
+## Parametri
+
+- decreto del Presidente della Repubblica, 28/03/1975 n. 474, art. 1
+- decreto legislativo, 16/03/1992 n. 267, art. 1
+- decreto legislativo, 16/03/1992 n. 266, art. 4
+- decreto del Presidente della Repubblica, 28/03/1975 n. 474, art. 2
