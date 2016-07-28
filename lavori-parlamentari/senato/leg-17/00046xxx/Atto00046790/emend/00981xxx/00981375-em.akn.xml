@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/12.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/12.3"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/12.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@.akn"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2345/A/12.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2345" showAs="DDL 2345"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBH2RVJFZFADLJXO05VZZGITIJDMYF5QN2FZHVYCSCSHY1FACP2AJ" href="http://dati.senato.it/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="ID3UQTBQQ33XNHHYF0NNF3KT4L0HUNODYO0TAJJNZIZAN05HVW5LM" href="http://dati.senato.it/29193" showAs="VACCIANO"/>
+				<an:TLCPerson id="IDTY3IZZXTPFQFAC1PS5YRV24CBE2ASBJN5A5BUNJWZDBAXRRT05H" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID44NH2CKBY3FDJPJ55O41MK5QXB2WTVLFIQY0SUZTO34D1FVVDQH" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDIKEDITTRDS3SE4EAWIHPO3L1LFHLWGD4WGQEF1L04X1W5VZSOOMO" href="http://dati.senato.it/29149" showAs="ORELLANA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2345</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBH2RVJFZFADLJXO05VZZGITIJDMYF5QN2FZHVYCSCSHY1FACP2AJ" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3UQTBQQ33XNHHYF0NNF3KT4L0HUNODYO0TAJJNZIZAN05HVW5LM" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTY3IZZXTPFQFAC1PS5YRV24CBE2ASBJN5A5BUNJWZDBAXRRT05H" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID44NH2CKBY3FDJPJ55O41MK5QXB2WTVLFIQY0SUZTO34D1FVVDQH" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIKEDITTRDS3SE4EAWIHPO3L1LFHLWGD4WGQEF1L04X1W5VZSOOMO" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo la lettera n), inserire le seguenti:</an:p>
+				<an:p>
+					            «
+					<an:i>n-bis)</an:i>
+					 prevedere disposizioni transitorie e temporanee dirette ad aumentare l'immediata convenienza dell'utilizzo dei mezzi elettronici di pagamento, sia con un significativo abbattimento dei costi fissi del terminale POS che con l'abolizione delle commissioni bancarie sui pagamenti, eventualmente anche mediante forme di defiscalizzazione verso quelle categorie di esercenti che potrebbero veicolare maggiormente la diffusione di tali mezzi di pagamento e che non sono dotati degli strumenti necessari al pagamento elettronico;
+				</an:p>
+				<an:p>
+					<an:i>n-ter)</an:i>
+					 prevedere disposizioni transitorie e temporanee dirette ad aumentare l'immediata convenienza dell'utilizzo dei mezzi elettronici di pagamento da parte dei consumatori, tramite l'adozione di misure premiali sull'utilizzazione di tali sistemi di pagamento e l'intangibilità delle somme al di sotto della soglia di sopravvivenza rivenienti dalle carte di pagamento.
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente sostituire il comma 2, con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2. Dall'attuazione del primo comma, con l'esclusione di cui alle lettere 
+					<an:i>n-bis)</an:i>
+					 e 
+					<an:i>n-ter),</an:i>
+					 non devono derivare nuovi o maggiori oneri a carico della finanza pubblica. A decorrere dalla entrata in vigore della presente legge, le previsioni di cui alle lettere 
+					<an:i>n-bis)</an:i>
+					 e 
+					<an:i>n-ter)</an:i>
+					 andranno a valere, durante il tempo e nei limiti per il quale verranno stabilite, sulle misure dell'imposta fissa di bollo che, ovunque ricorrano, sono rideterminate in aumento del 10 per cento».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
