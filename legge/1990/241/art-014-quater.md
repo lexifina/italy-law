@@ -1,44 +1,22 @@
 Art. 14-quater.
 
-(Effetti del dissenso espresso nella conferenza di servizi)
+(( (Decisione della conferenza di servizi).))
+
+((
 
 1.
 
-Il dissenso di uno o piu' rappresentanti delle amministrazioni ivi comprese quelle preposte alla tutela ambientale, fermo restando quanto previsto dall'articolo 26 del decreto legislativo 3 aprile 2006, n. 152, paesaggistico-territoriale, del patrimonio storico-artistico o alla tutela della salute e della pubblica incolumita', regolarmente convocate alla conferenza di servizi, a pena di inammissibilita', deve essere manifestato nella conferenza di servizi, deve essere congruamente motivato, non puo' riferirsi a questioni connesse che non costituiscono oggetto della conferenza medesima e deve recare le specifiche indicazioni delle modifiche progettuali necessarie ai fini dell'assenso.
+La determinazione motivata di conclusione della conferenza, adottata dall'amministrazione procedente all'esito della stessa, sostituisce a ogni effetto tutti gli atti di assenso, comunque denominati, di competenza delle amministrazioni e dei gestori di beni o servizi pubblici interessati.
 
 2.
 
-COMMA ABROGATO DALLA L. 11 FEBBRAIO 2005, N. 15.
+Le amministrazioni i cui atti sono sostituiti dalla determinazione motivata di conclusione della conferenza possono sollecitare con congrua motivazione l'amministrazione procedente ad assumere, previa indizione di una nuova conferenza, determinazioni in via di autotutela ai sensi dell'articolo 21-nonies. Possono altresi' sollecitarla, purche' abbiano partecipato, anche per il tramite del rappresentante di cui ai commi 4 e 5 dell'articolo 14-ter, alla conferenza di servizi o si siano espresse nei termini, ad assumere determinazioni in via di autotutela ai sensi dell'articolo 21-quinquies.
 
 3.
 
-Al di fuori dei casi di cui all'articolo 117, ottavo comma, della Costituzione, e delle infrastrutture ed insediamenti produttivi strategici e di preminente interesse nazionale, di cui alla parte seconda, titolo terzo, capo quarto del decreto legislativo 12 aprile 2006, n. 163, e successive modificazioni, nonche' dei casi di localizzazione delle opere di interesse statale, ove venga espresso motivato dissenso da parte di un'amministrazione preposta alla tutela ambientale, paesaggistico-territoriale, del patrimonio storico-artistico o alla tutela della salute e della pubblica incolumita', la questione, in attuazione e nel rispetto del principio di leale collaborazione e dell'articolo 120 della Costituzione, e' rimessa dall'amministrazione procedente alla deliberazione del Consiglio dei Ministri, che ((ha natura di atto di alta amministrazione. Il Consiglio dei Ministri)) si pronuncia entro sessanta giorni, previa intesa con la Regione o le Regioni e le Province autonome interessate, in caso di dissenso tra un'amministrazione statale e una regionale o tra piu' amministrazioni regionali, ovvero previa intesa con la Regione e gli enti locali interessati, in caso di dissenso tra un'amministrazione statale o regionale e un ente locale o tra piu' enti locali ((, motivando un'eventuale decisione in contrasto con il motivato dissenso)). Se l'intesa non e' raggiunta entro trenta giorni, la deliberazione del Consiglio dei ministri puo' essere comunque adottata. Se il motivato dissenso e' espresso da una regione o da una provincia autonoma in una delle materie di propria competenza, ai fini del raggiungimento dell'intesa, entro trenta giorni dalla data di rimessione della questione alla delibera del Consiglio dei Ministri, viene indetta una riunione dalla Presidenza del Consiglio dei Ministri con la partecipazione della regione o della provincia autonoma, degli enti locali e delle amministrazioni interessate, attraverso un unico rappresentante legittimato, dall'organo competente, ad esprimere in modo vincolante la volonta' dell'amministrazione sulle decisioni di competenza. In tale riunione i partecipanti debbono formulare le specifiche indicazioni necessarie alla individuazione di una soluzione condivisa, anche volta a modificare il progetto originario.
+In caso di approvazione unanime, la determinazione di cui al comma 1 e' immediatamente efficace. In caso di approvazione sulla base delle posizioni prevalenti, l'efficacia della determinazione e' sospesa ove siano stati espressi dissensi qualificati ai sensi dell'articolo 14-quinquies e per il periodo utile all'esperimento dei rimedi ivi previsti.
 
-Se l'intesa non e' raggiunta nel termine di ulteriori trenta giorni, e' indetta una seconda riunione dalla Presidenza del Consiglio dei Ministri con le medesime modalita' della prima, per concordare interventi di mediazione, valutando anche le soluzioni progettuali alternative a quella originaria. Ove non sia comunque raggiunta l'intesa, in un ulteriore termine di trenta giorni, le trattative, con le medesime modalita' delle precedenti fasi, sono finalizzate a risolvere e comunque a individuare i punti di dissenso. Se all'esito delle predette trattative l'intesa non e' raggiunta, la deliberazione del Consiglio dei Ministri puo' essere comunque adottata con la partecipazione dei Presidenti delle regioni o delle province autonome interessate. (26)
-
-3-bis.
-
-IL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122 HA DISPOSTO CHE IL PRESENTE COMMA E' SOSTITUITO DALL'ATTUALE COMMA 3 DELL'ART. 14-QUATER DELLA L. 7 AGOSTO 1990, N. 241.
-
-3-ter.
-
-IL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122 HA DISPOSTO CHE IL PRESENTE COMMA E' SOSTITUITO DALL'ATTUALE COMMA 3 DELL'ART. 14-QUATER DELLA L. 7 AGOSTO 1990, N. 241.
-
-3-quater.
-
-IL D.L. 31 MAGGIO 2010, N. 78, CONVERTITO CON MODIFICAZIONI DALLA L. 30 LUGLIO 2010, N. 122 HA DISPOSTO CHE IL PRESENTE COMMA E' SOSTITUITO DALL'ATTUALE COMMA 3 DELL'ART. 14-QUATER DELLA L. 7 AGOSTO 1990, N. 241.
-
-3-quinquies.
-
-Restano ferme le attribuzioni e le prerogative riconosciute alle regioni a statuto speciale e alle province autonome di Trento e di Bolzano dagli statuti speciali di autonomia e dalle relative norme di attuazione.
-
-4.
-
-COMMA ABROGATO DALLA L. 11 FEBBRAIO 2005, N. 15.
-
-5.
-
-Nell'ipotesi in cui l'opera sia sottoposta a VIA e in caso di provvedimento negativo trova applicazione l'articolo 5, comma 2, lettera c-bis), della legge 23 agosto 1988, n. 400, introdotta dall'articolo 12, comma 2, del decreto legislativo 30 luglio 1999, n. 303.
+4. I termini di efficacia di tutti i pareri, autorizzazioni, concessioni, nulla osta o atti di assenso comunque denominati acquisiti nell'ambito della conferenza di servizi decorrono dalla data della comunicazione della determinazione motivata di conclusione della conferenza.))
 
 -------------
 
