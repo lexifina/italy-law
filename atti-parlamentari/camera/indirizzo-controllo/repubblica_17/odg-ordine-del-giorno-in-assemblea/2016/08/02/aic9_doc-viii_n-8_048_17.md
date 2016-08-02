@@ -1,0 +1,20 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.8/048 presentata da SPESSOTTO ARIANNA (MOVIMENTO 5 STELLE) in data 02/08/2016
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.8/048
+- Data: 20160802-20160803
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.8/048 presentata da SPESSOTTO ARIANNA (MOVIMENTO 5 STELLE) in data 02/08/2016
+- Presentatore: SPESSOTTO ARIANNA (MOVIMENTO 5 STELLE)
+- Cofirmatario: DI MAIO LUIGI (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1158
+- Argomento: http://eurovoc.europa.eu/2947
+- Argomento: http://eurovoc.europa.eu/3133
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.8/048
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.8_048_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 8/048 presentato da SPESSOTTO Arianna testo di Martedì 2 agosto 2016, seduta n. 666 La Camera, premesso che: la raccolta differenziata, divenuta un obbligo di legge nell'ordinamento italiano con il decreto legislativo n.22 del 1997, è un sistema di raccolta dei rifiuti che prevede, per ogni tipologia di rifiuto, una prima selezione da parte dei cittadini e che consente di raggruppare quelli urbani in base alla loro tipologia materiale, compresa la frazione organica umida, e di destinarli al riciclaggio, e quindi al riutilizzo di materia prima; lo scopo finale della raccolta differenziata è quello di ridurre quanto più possibile, la quantità di residuo non riciclabile da portare in discarica o da trattare con inceneritori o termovalorizzatori e, contemporaneamente, recuperare, mediante il riciclaggio dei rifiuti, tutte le materie prime riutilizzabili, che divengono così fonte di ricchezza e non più di inquinamento; differenziare gli scarti rappresenta un passo fondamentale per consentire l'attuazione di un corretto ciclo dei rifiuti, poiché consente di ridurre in maniera decisiva le quantità da avviare in discarica, consente di recuperare valore con la cessione delle materie prime «differenziate» e, di conseguenza, permette il riciclo e recupero dei materiali con un minore impiego di risorse naturali; da tempo la Camera dei deputati, attraverso il conferimento del servizio di raccolta differenziata dei rifiuti a ditte esterne, promuove questo tipo di raccolta all'interno dei suoi Uffici: secondo i dati forniti dall'Amministrazione della stessa Camera, nell'ultimo anno, l'80 per cento del materiale differenziato e consegnato come rifiuto, sarebbe stato correttamente riciclato; il miglioramento della qualità della raccolta differenziata può fare la differenza sia in termini ambientali che economici e la mancata raccolta differenziata genera danni all'ambiente e all'economia, scaricandone i costi sulla comunità, invita, nell'ambito delle rispettive competenze, l'Ufficio di Presidenza e il Collegio dei Questori a valutare l'opportunità di introdurre, nei locali in cui si riuniscono le Commissioni parlamentari, e, qualora ciò non sia stato già attuato, ovunque siano collocati dei cestini all'interno della Camera dei deputati, un sistema di gestione e raccolta differenziata dei rifiuti, attraverso il posizionamento di appositi contenitori facilmente distinguibili per tonalità di colore differenti, al fine di promuovere tale raccolta, attraverso modalità più intuitive, anche nell'ottica di una riduzione dei costi dovuti ad errate modalità operative nella differenziazione dei rifiuti. 9/Doc. VIII, n.8/ 48 .  Spessotto , Luigi Di Maio .
