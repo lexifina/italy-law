@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2271/A/G1.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2271/A/G1.20"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2271/A/G1.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.20"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@.akn"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2271/A/G1.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2271" showAs="DDL 2271"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID35FAU5REDNJKG12EE3YMJQPLWNYRMWGKYUF5ZRFRQ5FUAJLTEA2D" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDHIMUXEX2S2CLM35EKRHE4TEOPHAMM3A5FK4R0HJ5NQNS4144OHFK" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDQJAUMEU0IRUTFBML4BBT5XUTGN4EP1QNMWJJGMOF5J5ARVA1XE1H" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="ID4325AUSZ1YNCM3MPCUYILP3OGFINRGNQHJ0RPVI4GJ1I5RU0RHAI" href="http://dati.senato.it/29070" showAs="CIOFFI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2271</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID35FAU5REDNJKG12EE3YMJQPLWNYRMWGKYUF5ZRFRQ5FUAJLTEA2D" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHIMUXEX2S2CLM35EKRHE4TEOPHAMM3A5FK4R0HJ5NQNS4144OHFK" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQJAUMEU0IRUTFBML4BBT5XUTGN4EP1QNMWJJGMOF5J5ARVA1XE1H" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4325AUSZ1YNCM3MPCUYILP3OGFINRGNQHJ0RPVI4GJ1I5RU0RHAI" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge n. 2271-A, recante Istituzione del Fondo per il pluralismo e l'innovazione dell'informazione e deleghe al Governo per la ridefinizione della disciplina del sostegno pubblico per il settore dell'editoria, della disciplina di profili pensionistici dei giornalisti e della composizione e delle competenze del Consiglio nazionale dell'Ordine dei giornalisti;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            l'articolo 1 del disegno di legge in oggetto prevede l'istituzione, nello stato di previsione del Ministero dell'economia e delle finanze, del Fondo per il pluralismo e l'innovazione dell'informazione, di cui all'articolo 1, comma 160, primo periodo, lettera 
+					<an:i>b)</an:i>
+					, della legge 28 dicembre 2015, n. 208, come sostituita dall'articolo 7, comma 1, della presente legge, di seguito denominato «Fondo» in cui confuisce, tra le altre, una quota, fino ad un importo massimo di 100 milioni di euro in ragione d'anno per il periodo 2016-2018, delle eventuali maggiori entrate versate a titolo di canone di abbonamento alla televisione;
+				</an:p>
+				<an:p>            il citato comma 160 prevede, fra l'altro, che, per gli anni dal 2016 al 2018, le eventuali maggiori entrate versate a titolo di canone di abbonamento alla televisione rispetto alle somme già iscritte a tale titolo nel bilancio di previsione per l'anno 2016 sono riversate all'Erario per una quota pari al 33 per cento del loro ammontare per l'anno 2016 e del 50 per cento per ciascuno degli anni 2017 e 2018, per essere destinate all'ampliamento sino ad euro 8.000 della soglia reddituale prevista dall'articolo 1, comma 132, della legge 24 dicembre 2007, n. 244, ai fini della esenzione dal pagamento del canone di abbonamento televisivo in favore di soggetti di età pari o superiore a settantacinque anni,</an:p>
+				<an:p>        impegna il Governo a valutare l'adozione delle necessarie misure, anche di carattere normativo, volte ad estendere la platea dei soggetti, appartenenti a fasce di popolazione svantaggiate, che possano beneficiare della esenzione dal pagamento del canone di abbonamento televisivo, con particolare riferimento ad un ulteriore ampliamento della soglia reddituale prevista, ad un abbassamento dei requisiti di età anagrafica e all'estensione di tali misure alle famiglie numerose o con soggetti non autosufficienti nonché ai pensionati</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
