@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2271/A/1.306/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2271/A/1.306"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2271/A/1.306/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.306"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@.akn"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2271/A/1.306/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2271" showAs="DDL 2271"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSUG13CXCN0LPPGNN1JIOAJBU4FCBDYDL3KKXPCDFRHYFX0ASXOYK" href="http://dati.senato.it/29034" showAs="AIROLA"/>
+				<an:TLCPerson id="IDYIBKZ2FC5XGZKA0AO5AJQXWGLJLMPPP4RQU5YTNBYROOM2N1XRZF" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDVYI44P5HGEWXMBBHOTVJJMQFJCU2S2WXKKSQJRG3V24FG0OBKYAB" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDQ4EJAUJ2UIRSHXEID315YAVAKBJALJT3WX2LLIPT0SGM3VI1D5PI" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDWX4C51RDF5OEJCJBXCO2CRXNKOQFYVGVYEWEELEUZO5I1CLBWEL" href="http://dati.senato.it/29070" showAs="CIOFFI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2271</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.306</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSUG13CXCN0LPPGNN1JIOAJBU4FCBDYDL3KKXPCDFRHYFX0ASXOYK" as="#tipoSenatore">AIROLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYIBKZ2FC5XGZKA0AO5AJQXWGLJLMPPP4RQU5YTNBYROOM2N1XRZF" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVYI44P5HGEWXMBBHOTVJJMQFJCU2S2WXKKSQJRG3V24FG0OBKYAB" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ4EJAUJ2UIRSHXEID315YAVAKBJALJT3WX2LLIPT0SGM3VI1D5PI" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWX4C51RDF5OEJCJBXCO2CRXNKOQFYVGVYEWEELEUZO5I1CLBWEL" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, sopprimere la lettera c).</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
