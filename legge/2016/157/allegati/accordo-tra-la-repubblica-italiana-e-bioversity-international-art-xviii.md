@@ -1,0 +1,5 @@
+ARTICOLO XVIII
+
+ARBITRATO
+
+1. Per le controversie sorte tra l'Organizzazione ed il suo personale, in base alla decisione adottata in occasione della 16ma riunione del Board of Trustees dell'Organizzazione in data 18 settembre 2000, della successiva comunicazione del Direttore Generale dell'Organizzazione del 12 ottobre 2000 al Direttore Generale dell'ILO e della Decisione del Governing Body dell'ILO adottata in occasione della 279ma Sessione del novembre 2000, e' Competente il Tribunale Amministrativo dell'ILO. Nei contratti con gli altri soggetti, siano essi persone fisiche o giuridiche, l'Organizzazione inserira' clausole relative alla soluzione delle controversie mediante arbitrato, mediante procedure che si conformino ai criteri giuridici generalmente accettati a tutela dell'imparzialita' dell'organo giudicante e di altri aspetti, come la salvaguardia del contraddittorio. Inoltre, l'Organizzazione dovra' avere una adeguata copertura assicurativa o adottare altre misure analoghe al fine di consentirle di far fronte a richieste di risarcimento di natura extra-contrattuale.
