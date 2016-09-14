@@ -38,6 +38,4 @@ Acquisito il parere delle competenti Commissioni della Camera dei deputati e del
 
 Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 marzo 2005;
 
-Sulla proposta del Ministro per l'innovazione e le tecnologie, di concerto con il Ministro per la funzione pubblica, con il Ministro dell'economia e delle finanze, con il Ministro dell'interno, con il Ministro della giustizia, con il Ministro delle attivita' produttive e con il Ministro delle comunicazioni;
-
-Emana il seguente decreto legislativo:
+Sulla proposta del Ministro per l'innovazione e le tecnologie, di concerto con il Ministro per la funzione pubblica, con il Ministro dell'economia e delle finanze, con il Ministro dell'interno, con il Ministro della giustizia, con il Ministro delle attivita' produttive e con il Ministro delle comunicazioni; Emana il seguente decreto legislativo:
