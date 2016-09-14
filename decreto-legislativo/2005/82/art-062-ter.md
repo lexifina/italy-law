@@ -1,8 +1,6 @@
 Art. 62-ter.
 
-(( (Anagrafe nazionale degli assistiti). ))
-
-((
+(Anagrafe nazionale degli assistiti).
 
 1.
 
@@ -10,23 +8,23 @@ Per rafforzare gli interventi in tema di monitoraggio della spesa del settore sa
 
 2.
 
-L'ANA, realizzata dal Ministero dell'economia e delle finanze, in accordo con il Ministero della salute in relazione alle specifiche esigenze di monitoraggio dei livelli essenziali di assistenza (LEA), nel rispetto delle previsioni di cui al comma 5 dell'articolo 62 del presente decreto, subentra, per tutte le finalita' previste dalla normativa vigente, alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, ai sensi dell'articolo 7 della legge 7 agosto 1982, n. 526, che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento.
+L'ANA, realizzata dal Ministero dell'economia e delle finanze, in accordo con il Ministero della salute in relazione alle specifiche esigenze di monitoraggio dei livelli essenziali di assistenza (LEA), nel rispetto delle previsioni di cui al comma 5 dell'articolo 62 del ((presente Codice)), subentra, per tutte le finalita' previste dalla normativa vigente, alle anagrafi e agli elenchi degli assistiti tenuti dalle singole aziende sanitarie locali, ai sensi dell'articolo 7 della legge 7 agosto 1982, n. 526, che mantengono la titolarita' dei dati di propria competenza e ne assicurano l'aggiornamento.
 
 3.
 
-L'ANA assicura alla singola azienda sanitaria locale la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali, secondo le modalita' di cui all'articolo 58, comma 2, del presente decreto.
+L'ANA assicura alla singola azienda sanitaria locale la disponibilita' dei dati e degli strumenti per lo svolgimento delle funzioni di propria competenza e garantisce l'accesso ai dati in essa contenuti da parte delle pubbliche amministrazioni per le relative finalita' istituzionali, secondo le modalita' di cui all'articolo 58, comma 2, del ((presente Codice)).
 
 4.
 
-Con il subentro dell'ANA, l'azienda sanitaria locale cessa di fornire ai cittadini il libretto sanitario personale previsto dall'articolo 27 della legge 23 dicembre 1978, n. 833. E' facolta' dei cittadini di accedere in rete ai propri dati contenuti nell'ANA, secondo le modalita' di cui al comma 1 dell'articolo 6 del presente decreto, ovvero di richiedere presso l'azienda sanitaria locale competente copia cartacea degli stessi.
+Con il subentro dell'ANA, l'azienda sanitaria locale cessa di fornire ai cittadini il libretto sanitario personale previsto dall'articolo 27 della legge 23 dicembre 1978, n. 833. E' facolta' dei cittadini di accedere in rete ai propri dati contenuti nell'ANA, secondo le modalita' di cui al comma 1 dell'articolo 6 del ((presente Codice)), ovvero di richiedere presso l'azienda sanitaria locale competente copia cartacea degli stessi.
 
 5.
 
-In caso di trasferimento di residenza del cittadino, l'ANA ne da' immediata comunicazione in modalita' telematica alle aziende sanitarie locali interessate dal trasferimento. L'azienda sanitaria locale nel cui territorio e' compresa la nuova residenza provvede alla presa in carico del cittadino, nonche' all'aggiornamento dell'ANA per i dati di propria competenza. Nessun'altra comunicazione in merito al trasferimento di residenza e' dovuta dal cittadino alle aziende sanitarie locali interessate.
+In caso di trasferimento di residenza del cittadino, l'ANA ne da' immediata comunicazione in modalita' telematica alle aziende sanitarie locali interessate dal trasferimento. L'azienda sanitaria locale nel cui territorio e' compresa la nuova residenza provvede alla presa in carico del cittadino, nonche' all'aggiornamento dell'ANA per i dati di propria competenza. Nessun'altra comunicazione in merito al trasferimento di residenza e' dovuta dal cittadino alle aziende sanitarie locali interessate.((28))
 
 6.
 
-L'ANA assicura al nuovo sistema informativo sanitario nazionale realizzato dal Ministero della salute in attuazione di quanto disposto dall'articolo 87 della legge 23 dicembre 2000, n. 388, con le modalita' definite dal decreto del Presidente del Consiglio dei ministri di cui al comma 7, l'accesso ai dati e la disponibilita' degli strumenti funzionali a garantire l'appropriatezza e l'efficacia delle prestazioni di cura erogate al cittadino, nonche' per le finalita' di cui all'articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
+L'ANA assicura al nuovo sistema informativo sanitario nazionale realizzato dal Ministero della salute in attuazione di quanto disposto dall'articolo 87 della legge 23 dicembre 2000, n. 388, con le modalita' definite dal decreto del Presidente del Consiglio dei ministri di cui al comma 7, l'accesso ai dati e la disponibilita' degli strumenti funzionali a garantire l'appropriatezza e l'efficacia delle prestazioni di cura erogate al cittadino, nonche' per le finalita' di cui all'articolo 15, comma 25-bis, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.((28))
 
 7.
 
@@ -42,6 +40,10 @@ il piano per il graduale subentro dell'ANA alle anagrafi e agli elenchi degli as
 
 c)
 
-le garanzie e le misure di sicurezza da adottare, i criteri per l'interoperabilita' dell'ANA con le altre banche dati di rilevanza nazionale e regionale, nonche' le modalita' di cooperazione dell'ANA con banche dati gia' istituite a livello regionale per le medesime finalita', nel rispetto della normativa sulla protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e delle regole tecniche del sistema pubblico di connettivita', ai sensi del presente decreto.
+le garanzie e le misure di sicurezza da adottare, i criteri per l'interoperabilita' dell'ANA con le altre banche dati di rilevanza nazionale e regionale, nonche' le modalita' di cooperazione dell'ANA con banche dati gia' istituite a livello regionale per le medesime finalita', nel rispetto della normativa sulla protezione dei dati personali, di cui al decreto legislativo 30 giugno 2003, n. 196, e delle regole tecniche del sistema pubblico di connettivita', ai sensi del ((presente Codice)).
 
-))
+------------
+
+AGGIORNAMENTO (28)
+
+Il D.Lgs. 26 agosto 2016, n. 179 ha disposto (con l'art. 61, comma 2, lettera d)) che la parola «cittadino», ovunque ricorra, si intende come «persona fisica».

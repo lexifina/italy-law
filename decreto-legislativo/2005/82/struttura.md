@@ -26,10 +26,6 @@
 
 - Capo VII REGOLE TECNICHE (Art. 71.)
 
-- ((Capo VIII SISTEMA PUBBLICO DI CONNETTIVITA' E RETE INTERNAZIONALE DELLA PUBBLICA AMMINISTRAZIONE SEZIONE I Definizioni relative al sistema pubblico di connettivita')) (Art. 72.)
-
-- ((SEZIONE II Sistema pubblico di connettivita' SPC)) (Art. 75.)
-
-- SEZIONE III Rete internazionale della pubblica amministrazione e compiti del ((DigitPA)) (Art. 85.)
+- Capo VIII ((SISTEMA PUBBLICO DI CONNETTIVITA')) (Art. 72.)
 
 - ((Capo IX)) DISPOSIZIONI TRANSITORIE FINALI E ABROGAZIONI (Art. 88.)

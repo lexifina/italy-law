@@ -1,8 +1,6 @@
 Art. 5-bis.
 
-(( (Comunicazioni tra imprese e amministrazioni pubbliche). ))
-
-((
+(Comunicazioni tra imprese e amministrazioni pubbliche).
 
 1.
 
@@ -14,10 +12,8 @@ Con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro 
 
 3.
 
-DigitPA, anche avvalendosi degli uffici di cui all'articolo 17, provvede alla verifica dell'attuazione del comma 1 secondo le modalita' e i termini indicati nel decreto di cui al comma 2.
+((AgID)), anche avvalendosi degli uffici di cui all'articolo 17, provvede alla verifica dell'attuazione del comma 1 secondo le modalita' e i termini indicati nel decreto di cui al comma 2.
 
 4.
 
 Il Governo promuove l'intesa con regioni ed enti locali in sede di Conferenza unificata per l'adozione degli indirizzi utili alla realizzazione delle finalita' di cui al comma 1.
-
-))

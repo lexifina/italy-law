@@ -1,8 +1,6 @@
 Art. 6-bis.
 
-(( (Indice nazionale degli indirizzi PEC delle imprese e dei professionisti). ))
-
-((
+(Indice nazionale degli indirizzi PEC delle imprese e dei professionisti)
 
 1.
 
@@ -10,7 +8,15 @@ Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' l
 
 2.
 
-L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2.
+L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. ((Gli indirizzi PEC inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.))
+
+((
+
+2-bis.
+
+L'INI-PEC acquisisce dagli ordini e dai collegi professionali gli attributi qualificati dell'identita' digitale ai fini di quanto previsto dal decreto di cui all'articolo 64, comma 2-sexies.
+
+))
 
 3.
 
@@ -27,5 +33,3 @@ Nel decreto di cui al comma 4 sono anche definite le modalita' e le forme con cu
 6.
 
 Dall'attuazione delle disposizioni di cui al presente articolo non devono derivare nuovi o maggiori oneri a carico della finanza pubblica.
-
-))
