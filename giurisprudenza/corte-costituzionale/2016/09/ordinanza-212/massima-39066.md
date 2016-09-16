@@ -1,0 +1,17 @@
+# Massima n. 39066
+
+- Pronuncia: Corte costituzionale, ordinanza 212/2016 (ECLI:IT:COST:2016:212)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:212
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati ministeriali - Giudice per le indagini preliminari presso il Tribunale ordinario di Milano - Domanda di autorizzazione a procedere in giudizio ai sensi dell'art. 96 della Costituzione, presentata nei confronti di un senatore, nella sua qualità di Ministro dell'economia e delle finanze  pro tempore , per il reato di corruzione per atti contrari ai doveri dell'ufficio - Deliberazione con cui il Senato della Repubblica ha dichiarato la propria incompetenza "data la non ministerialità dei reati" - Ricorso per conflitto di attribuzione tra poteri dello Stato promosso dal Giudice per le indagini preliminari presso il Tribunale ordinario di Milano nei confronti del Senato della Repubblica - Richiesta di dichiarare che non spettava al Senato della Repubblica attribuire una qualificazione giuridica dei fatti ascritti al senatore diversa da quella prospettata dal Tribunale dei Ministri al quale andava rimessa in via esclusiva - Ricorso proposto da soggetto che si è riconosciuto privo di competenza funzionale - Difetto del requisito soggettivo per l'instaurazione del conflitto - Inammissibilità del ricorso.
+
+## Testo
+
+È inammissibile il conflitto di attribuzione tra poteri dello Stato promosso dal Giudice per le indagini preliminari presso il Tribunale ordinario di Milano nei confronti del Senato della Repubblica che, con deliberazione del 2 luglio 2015 (doc. IV- bis , n. 2-A), ha fornito una qualificazione giuridica dei fatti ascritti a Tremonti Giulio diversa da quella prospettata dal Tribunale dei Ministri. Il conflitto risulta carente del requisito di ordine soggettivo prescritto dall'art. 37, primo comma, della legge n. 87 del 1953 in quanto il GIP ricorrente, come dallo stesso dichiarato, non possiede «alcuna competenza funzionale» in ordine alla valutazione circa la natura ministeriale del reato. Proprio alla luce di tale mancanza di competenza, il ricorrente non può che disporre la trasmissione degli atti al Collegio per i reati ministeriali, costituito  ex  art. 7 della legge costituzionale n. 1 del 1989, da ritenersi necessaria, ai sensi del precedente art. 6, ogni qual volta venga ravvisata, quantomeno sotto il profilo del dubbio, l'ipotizzabilità di un reato ministeriale dal p.m. o, successivamente, dal GIP. Sulla possibilità che il ramo del Parlamento competente ai sensi dell'art. 96 Cost. possa esprimere una propria valutazione sulla natura del fatto contestato al ministro, purché essa si collochi all'interno della procedura per reato ministeriale attivata dall'autorità giudiziaria, v. le citate sentenze nn. 29/2014, 88/2012 e 87/2012. Sull'affermazione che il conflitto di attribuzione tra poteri dello Stato si estende a comprendere ogni ipotesi in cui dall'illegittimo esercizio di un potere altrui consegua la menomazione di una sfera di attribuzioni costituzionalmente assegnate all'altro soggetto, v. la citata sentenza n. 110/1970. Sulla possibilità che un conflitto fra poteri sorga anche a fronte di un'omissione lesiva di attribuzioni altrui, v.,  ex plurimis ,   le citate   sentenze nn. 241/2009 e 406/1989.
+
+## Parametri
+
+- Costituzione, art. 96
