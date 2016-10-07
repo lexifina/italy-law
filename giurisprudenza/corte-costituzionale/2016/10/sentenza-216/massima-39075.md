@@ -1,0 +1,23 @@
+# Massima n. 39075
+
+- Pronuncia: Corte costituzionale, sentenza 216/2016 (ECLI:IT:COST:2016:216)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:216
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Giudizio abbreviato - Accoglimento della richiesta - Automatica estromissione del responsabile civile, anche d'ufficio - Asserita disparità di trattamento della parte civile e dell'imputato, sul piano delle pretese risarcitorie, rispetto al giudizio ordinario - Asserita lesione del diritto di agire in giudizio dei predetti soggetti processuali - Asserito contrasto con il principio della ragionevole durata del processo - Insussistenza - Non fondatezza della questione.
+
+## Testo
+
+Non è fondata la questione di legittimità costituzionale, in riferimento agli artt. 3, 24 e 111 Cost., dell'art. 87, comma 3, cod. proc. pen., in forza del quale l'esclusione del responsabile civile è disposta senza ritardo, anche d'ufficio, quando il giudice accoglie la richiesta di giudizio abbreviato. La norma mira a non gravare detto giudizio, caratterizzato dalla massima celerità, della presenza, non indispensabile, di soggetti la cui posizione può restare incisa solo sul piano privatistico dalla decisione penale. Tale  ratio  non risulta scalfita dalle successive modifiche della pertinente disciplina (legge n. 479 del 1999), consistite nella soppressione del requisito del consenso del pubblico ministero e nella previsione di possibili integrazioni del materiale probatorio. Il giudizio abbreviato costituisce tuttora un modello alternativo al dibattimento che, da un lato, si fonda sull'intero materiale raccolto nelle indagini preliminari e, dall'altro, consente una limitata acquisizione di elementi meramente integrativi, sì da mantenere la configurazione di rito "a prova contratta", il cui carattere essenziale è dato dal minor dispendio di tempo e di energie processuali rispetto al procedimento ordinario che giustifica l'effetto premiale di una significativa riduzione della pena inflitta in caso di condanna. L'esclusione del responsabile civile continua, dunque, a connotarsi come una scelta non irragionevole - perché coerente con gli immutati obiettivi di fondo del rito speciale - effettuata dal legislatore nell'esercizio dell'ampia discrezionalità di cui fruisce nella disciplina degli istituti processuali. Né da tale scelta deriva un pregiudizio al diritto di azione della parte civile che può pur sempre esercitare l'azione risarcitoria in sede civile e, laddove non accetti il giudizio abbreviato, non subisce neppure la sospensione del processo civile fino alla pronuncia della sentenza penale definitiva. Riguardo all'imputato, l'operatività della norma dipende da una sua libera scelta, finalizzata a lucrare un trattamento premiale in cambio della rinuncia a determinate garanzie riconosciutegli nel procedimento ordinario. Infine, la disposizione è funzionale alla realizzazione dell'obiettivo di una ragionevole durata del processo, in quanto volta a rendere più celere la definizione del processo penale che si svolga con il rito alternativo. In materia di giudizio abbreviato, v. le seguenti citate decisioni: sentenze nn. 169/2003 e 115/2001; ordinanza n. 57/2005. Sulla possibilità per l'imputato di citare nel processo l'assicuratore quale responsabile civile, v. la citata sentenza n. 112/1998.
+
+## Norme
+
+- codice di procedura penale, art. 87, comma 3
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 24
+- Costituzione, art. 111
