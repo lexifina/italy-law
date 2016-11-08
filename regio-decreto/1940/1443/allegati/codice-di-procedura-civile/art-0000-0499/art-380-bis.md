@@ -1,19 +1,23 @@
 Art. 380-bis
 
-(Procedimento per la decisione sull'inammissibilita' del ricorso e per la decisione in camera di consiglio).
+(( (Procedimento per la decisione in camera di consiglio sull'inammissibilita' o sulla manifesta fondatezza o infondatezza del ricorso). ))
 
-Il relatore della sezione di cui all'articolo 376, primo comma, primo periodo, se appare possibile definire il giudizio ai sensi dell'articolo 375, primo comma, numeri 1) e 5), deposita in cancelleria una relazione con la concisa esposizione delle ragioni che possono giustificare la relativa pronuncia.
+((Nei casi previsti dall'articolo 375, primo comma, numeri 1) e 5), su proposta del relatore della sezione indicata nell'articolo 376, primo comma, il presidente fissa con decreto l'adunanza della Corte indicando se e' stata ravvisata un'ipotesi di inammissibilita', di manifesta infondatezza o di manifesta fondatezza del ricorso.
 
-Il presidente fissa con decreto l'adunanza della Corte. ((Almeno venti giorni prima della data stabilita per l'adunanza, il decreto e la relazione sono notificati agli avvocati delle parti i quali hanno facolta' di presentare memorie non oltre cinque giorni prima, e di chiedere di essere sentiti, se compaiono.))
+Almeno venti giorni prima della data stabilita per l'adunanza, il decreto e' notificato agli avvocati delle parti, i quali hanno facolta' di presentare memorie non oltre cinque giorni prima.
 
-((140))
+Se ritiene che non ricorrano le ipotesi previste dall'articolo 375, primo comma, numeri 1) e 5), la Corte in camera di consiglio rimette la causa alla pubblica udienza della sezione semplice)).
 
-Se il ricorso non e' dichiarato inammissibile, il relatore nominato ai sensi dell'articolo 377, primo comma, ultimo periodo, quando appaiono ricorrere le ipotesi previste dall'articolo 375, primo comma, numeri 2) e 3), deposita in cancelleria una relazione con la concisa esposizione dei motivi in base ai quali ritiene che il ricorso possa essere deciso in camera di consiglio e si applica il secondo comma.
-
-Se ritiene che non ricorrono le ipotesi previste dall'articolo 375, primo comma, numeri 2) e 3), la Corte rinvia la causa alla pubblica udienza.
+((152))
 
 ------------
 
 AGGIORNAMENTO (140)
 
 Il D.L. 21 giugno 2013, n. 69 convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 75, comma 2) che "Le disposizioni di cui al presente articolo si applicano ai giudizi dinanzi alla Corte di cassazione nei quali il decreto di fissazione dell'udienza o dell'adunanza in camera di consiglio sia adottato a partire dal giorno successivo alla data di entrata in vigore della legge di conversione del presente decreto".
+
+---------------
+
+AGGIORNAMENTO (152)
+
+Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, ha disposto (con l'art. 1-bis, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati successivamente alla data di entrata in vigore della legge di conversione del presente decreto, nonche' a quelli gia' depositati alla medesima data per i quali non e' stata fissata udienza o adunanza in camera di consiglio".
