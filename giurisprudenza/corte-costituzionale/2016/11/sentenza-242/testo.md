@@ -1,0 +1,96 @@
+# Corte costituzionale, sentenza 242/2016
+
+- ECLI: ECLI:IT:COST:2016:242
+- Tipo: sentenza
+- Presidente: GROSSI
+- Relatore: Giorgio Lattanzi
+- Redattore: Giorgio Lattanzi
+- Data della decisione: 05/10/2016
+- Data del deposito: 22/11/2016
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 39141, 39142, 39143, 39144
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2016:242
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Paolo GROSSI; Giudici : Alessandro CRISCUOLO, Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale degli artt. 2, 49 e 69 della legge della Regione Veneto 27 aprile 2015, n. 6 (Legge di stabilità regionale per l'esercizio 2015), promosso dal Presidente del Consiglio dei ministri, con ricorso notificato il 26-29 giugno 2015, depositato in cancelleria il 2 luglio 2015 ed iscritto al n. 72 del registro ricorsi 2015.
+ Visto l'atto di costituzione della Regione Veneto, nonché l'atto di intervento   dell'Historic Wheels Club ed altro, fuori termine;
+          udito nell'udienza pubblica del 4 ottobre 2016 il Giudice relatore Giorgio Lattanzi;
+          uditi l'avvocato dello Stato Gabriella Palmieri per il Presidente del Consiglio dei ministri e l'avvocato Ezio Zanon per la Regione Veneto.
+
+## Testo
+
+Ritenuto in fatto1.- Con ricorso spedito per la notificazione il 26 giugno 2015, ricevuto il successivo 29 giugno e depositato il 2 luglio 2015 (reg. ric. n. 72 del 2015), il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha promosso questioni di legittimità costituzionale degli artt. 2, 49 e 69 della legge della Regione Veneto 27 aprile 2015, n. 6 (Legge di stabilità regionale per l'esercizio 2015), in riferimento agli artt. 81, terzo comma, 117, primo e secondo comma, lettera e), 119, secondo comma, e 120, primo comma, della Costituzione.
+ L'art. 2 impugnato esenta, a certe condizioni, dalla tassa automobilistica «ordinaria» gli autoveicoli e i motoveicoli di età compresa tra venti e trenta anni, di interesse storico collezionistico, assoggettandoli, in caso di utilizzazione sulla pubblica strada, ad una «tassa di circolazione forfettaria».
+ Il ricorrente premette che la tassa automobilistica è un tributo proprio derivato delle Regioni, che ne incamerano il gettito, ma possono disciplinarlo solo entro i limiti massimi di manovrabilità previsti dalla legislazione statale, in base all'art. 8, comma 2, del decreto legislativo 6 maggio 2011, n. 68 (Disposizioni in materia di autonomia di entrata delle regioni a statuto ordinario e delle province, nonché di determinazione dei costi e dei fabbisogni standard nel settore sanitario).
+ Come questa Corte avrebbe riconosciuto con la sentenza n. 288 del 2012, la tassa automobilistica sarebbe perciò un tributo erariale, oggetto della competenza esclusiva statale, attribuita dall'art. 117, secondo comma, lettera e), Cost., e non costituirebbe, invece, un tributo proprio della Regione ai sensi dell'art. 119, secondo comma, Cost.
+ La Regione, in particolare, non potrebbe modificarne il presupposto, né introdurre nuove agevolazioni.
+ La disposizione impugnata, per tali ragioni, violerebbe gli artt. 117, secondo comma, lettera e), e 119, secondo comma, Cost.
+ 2.- L'art. 49 impugnato prevede che la Regione valorizzi il proprio patrimonio produttivo e culturale mediante marchi collettivi di qualità istituiti ai sensi delle vigenti leggi nazionali e regionali. A tal fine, la Giunta regionale provvede alla registrazione e alla promozione dei marchi di proprietà della Regione Veneto.
+ Il ricorrente richiama a tale proposito la giurisprudenza della Corte di giustizia dell'Unione europea, e di questa stessa Corte, in base alle quali sarebbe precluso ad un'autorità pubblica nazionale o regionale istituire o disciplinare «misure di marcatura di origine» perché avrebbero effetti restrittivi sulla libera circolazione delle merci nel territorio dell'Unione e sarebbero perciò in contrasto con gli artt. 34 e 35 del Trattato sul funzionamento dell'Unione europea (TFUE), sottoscritto a Roma il 25 marzo 1957, in violazione dell'art. 117, primo comma, Cost.
+ Ciò potrebbe infatti «rendere più difficile la vendita in uno Stato membro della merce prodotta in un altro Stato membro».
+ Inoltre tale effetto, a parere dell'Avvocatura generale, incidendo sulla libera circolazione delle merci e inducendo i consumatori a preferire i prodotti veneti, determinerebbe anche un contrasto con l'art. 120, primo comma, Cost.
+ 3.- L'art. 69 impugnato prevede che le risorse destinate alla copertura del Fondo anticipazione di liquidità di cui all'art. 3 del decreto-legge 8 aprile 2013, n. 35 (Disposizioni urgenti per il pagamento dei debiti scaduti della pubblica amministrazione, per il riequilibrio finanziario degli enti territoriali, nonché in materia di versamento di tributi degli enti locali), convertito, con modificazioni, dall'art. 1, comma 1, della legge 6 giugno 2013, n. 64, sono comunque garantite anche mediante l'utilizzo delle risorse destinate al finanziamento del Fondo Sanitario Regionale, allocate quali spesa sanitaria corrente.
+ Il ricorrente osserva che la Regione ha avuto accesso alle anticipazioni di liquidità assicurate dallo Stato per pagare i debiti pregressi. Ciò è accaduto in conformità all'art. 3, comma 5, del d.l. n. 35 del 2013, ovvero individuando idonee e congrue misure di copertura, soggette al controllo del Tavolo di verifica degli adempimenti regionali.
+ La disposizione censurata distrae, invece, risorse dal finanziamento del servizio sanitario, destinate alla erogazione dei livelli essenziali di assistenza, «con ciò intervenendo sulle coperture già adottate e positivamente verificate ai fini della sottoscrizione dei contratti di prestito».
+ Verrebbe così introdotto un onere a carico del Servizio sanitario nazionale senza indicazione della copertura, con conseguente violazione dell'art. 81, terzo comma, Cost.
+ 4.- Si è costituita in giudizio la Regione Veneto, chiedendo che il ricorso sia dichiarato inammissibile e comunque non fondato.
+ Quanto all'art. 2, la Regione reputa che le sia precluso derogare a un'esenzione imposta dalla legge dello Stato, ma non introdurre nuovi esenzioni, tenuto conto che il gettito della tassa automobilistica è destinato al bilancio regionale.
+ Non sarebbe pertinente, in particolare, la giurisprudenza costituzionale formatasi anteriormente all'art. 8 del d.lgs. n. 68 del 2011, che ha trasformato la tassa in un particolare tributo proprio derivato della Regione, su cui quest'ultima dovrebbe avere margini di manovra più ampi di quelli relativi a tutti gli altri tributi di tale natura.
+ Con riferimento all'art. 49, la difesa regionale pone in evidenza che la disposizione non è diretta alla istituzione di nuovi marchi ma alla sola copertura degli oneri finanziari derivanti dalla registrazione, presso l'Ufficio per l'armonizzazione del mercato interno, e alla promozione di marchi già disciplinati dalla normativa statale e regionale.
+ La prerogativa di istituire marchi collettivi sarebbe poi riconosciuta alla Regione dagli artt. 5 e 66 del Regolamento del Consiglio 26 febbraio 2009, n. 207/2009/CE (Regolamento del Consiglio sul marchio comunitario - Versione codificata - Testo rilevante ai fini del SEE), e dall'art. 19, comma 3, del decreto legislativo 10 febbraio 2005, n. 30 (Codice della proprietà industriale, a norma dell'articolo 15 della legge 12 dicembre 2002, n. 273).
+ L'attività di promozione, in sé non oggetto di censura a parere della Regione, è inoltre valorizzata dalla Risoluzione del Parlamento europeo del 14 gennaio 2014 sul marchio regionale.
+ L'erroneo presupposto da cui parte il ricorrente circa il contenuto della disposizione impugnata determinerebbe l'infondatezza della censura, di cui la Regione eccepisce in via principale l'inammissibilità per difetto di motivazione.
+ 5.- Quanto all'art. 69, la Regione Veneto rileva di non essere soggetta a piano di rientro in materia sanitaria, e di non incontrare alcun vincolo di destinazione nell'impiego delle risorse del fondo sanitario.
+ Il vincolo non potrebbe derivare, né dall'art. 3 del d.l. n. 35 del 2013, che non esprime normativa interposta ai sensi dell'art. 81 Cost., né dall'art. 8, comma 1, del decreto legislativo 18 febbraio 2000, n. 56 (Disposizioni in materia di federalismo fiscale, a norma dell'articolo 10 della legge 13 maggio 1999, n. 133), oramai superato dall'art. 83, comma 1, della legge 23 dicembre 2000, n. 388, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2001)».
+ Infine, sarebbe proprio la dichiarazione di illegittimità costituzionale della norma impugnata a determinare la mancanza di copertura finanziaria.
+ 6.- Nelle more del giudizio l'art. 69 impugnato è stato abrogato dall'art. 2, comma 1, della legge della Regione Veneto 9 ottobre 2015, n. 17 (Razionalizzazione della spesa regionale).
+ 7.- Nell'imminenza dell'udienza pubblica la Regione Veneto ha depositato una memoria.
+ Con riferimento all'art. 2 impugnato, la ricorrente, pur consapevole della sopravvenuta sentenza di questa Corte n. 199 del 2016, ne sollecita un ripensamento.
+ Con riferimento all'art. 49 impugnato, la Regione insiste sulle conclusioni già rassegnate, osservando che la Commissione europea avrebbe maturato un orientamento favorevole ai marchi di qualità regionali, come si dovrebbe desumere dalla comunicazione C(2005)3849 def. del 20 ottobre 2005.
+ Con riferimento all'art. 69 impugnato, la Regione Veneto rileva che la norma, ormai abrogata, non ha avuto applicazione, come certificato da una dichiarazione del responsabile dell'Ufficio bilancio, e chiede pertanto che sia dichiarata la cessazione della materia del contendere.
+ 8.- Anche l'Avvocatura generale dello Stato ha depositato una memoria, insistendo per l'accoglimento del ricorso e riproducendo gli argomenti ivi già sviluppati.
+ 9.- Da ultimo, è intervenuta in giudizio l'Associazione Historic Whells Club, chiedendo il rigetto del ricorso con riferimento all'art. 2 impugnato.Considerato in diritto1.- Il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha promosso questioni di legittimità costituzionale degli artt. 2, 49 e 69 della legge della Regione Veneto 27 aprile 2015, n. 6 (Legge di stabilità regionale per l'esercizio 2015), in riferimento agli artt. 81, terzo comma, 117, primo e secondo comma, lettera e), 119, secondo comma, e 120, primo comma, della Costituzione.
+ 2.- È intervenuta in giudizio l'Associazione Historic Whells Club, con atto depositato oltre il termine stabilito dagli artt. 4 e 23 delle norme integrative per i giudizi davanti alla Corte costituzionale. L'intervento è inammissibile, sia perché tardivo, sia perché, per costante giurisprudenza di questa Corte (sentenze n. 63 del 2016,  n. 121 del 2010, n. 172 del 1994 e n. 111 del 1975), nei giudizi di legittimità costituzionale in via principale non è ammessa la presenza di soggetti diversi dalla parte ricorrente e dal titolare della potestà legislativa il cui atto è oggetto di contestazione.
+ 3.- Nelle more del giudizio l'art. 69 della legge impugnata è stato abrogato dall'art. 2, comma 1, della legge della Regione Veneto 9 ottobre 2015, n. 17 (Razionalizzazione della spesa regionale).
+ La disposizione censurata destinava gli stanziamenti allocati in bilancio, all'upb UO248 "Spesa sanitaria corrente" (capitolo U/102324), alla copertura del Fondo anticipazione di liquidità, privando, secondo il ricorrente, la spesa sanitaria corrente di  idonea copertura, in violazione dell'art. 81, terzo comma, Cost.
+ La Regione ha certificato che nel periodo di vigenza della norma impugnata non è stato adottato alcun titolo di spesa inerente al Fondo anticipazione di liquidità, che abbia impiegato le risorse stanziate dal capitolo U/102324.
+ Ne consegue la cessazione della materia del contendere sulla questione relativa all'art. 69 impugnato, perché l'abrogazione della norma è pienamente satisfattiva delle ragioni del ricorrente e medio tempore la stessa non ha avuto applicazione (ex plurimis, sentenza n. 199 del 2016).
+ 4.- L'art. 2 della legge regionale impugnata dispone, a certe condizioni, l'esenzione dal pagamento della tassa automobilistica dei veicoli e motoveicoli di interesse storico collezionistico, a partire dal ventesimo anno dalla loro costruzione.
+ Il ricorrente deduce la violazione degli artt. 117, secondo comma, lettera e), e 119, secondo comma, Cost., perché la tassa automobilistica è un tributo proprio derivato delle Regioni a statuto ordinario, ai sensi dell'art. 8, comma 2, del decreto legislativo 6 maggio 2011, n. 68 (Disposizioni in materia di autonomia di entrata delle regioni a statuto ordinario e delle province, nonché di determinazione dei costi e dei fabbisogni standard nel settore sanitario).
+ La Regione perciò potrebbe disciplinare il tributo nei soli limiti massimi di manovrabilità previsti dalla legislazione statale, che non reca più alcuna esenzione per i veicoli indicati dalla disposizione impugnata.
+ 5.- La questione è fondata, come è stato già ritenuto rispetto ad altra analoga normativa regionale dalla sentenza n. 199 del 2016, pronunciata dopo la presentazione dell'odierno ricorso.
+ Questa Corte, nel vigore dell'art. 8 del d.lgs. n. 68 del 2011, ha già avuto occasione di affermare che i limiti di manovrabilità imposti alla legge regionale concernono anche le esenzioni dalla tassa automobilistica, permesse solo nei termini stabiliti dalla legge dello Stato (sentenza n. 288 del 2012), così confermando la propria giurisprudenza anteriore (sentenze n. 451 del 2007, n. 455 del 2005 e n. 296 del 2003).
+ Quest'ultima, in particolare, non aveva ad oggetto soltanto l'eliminazione con legge regionale di esenzioni previste dalla legislazione statale, ma anche l'ipotesi opposta, che ricorre nel caso di specie, della previsione di un'esenzione di esclusiva fonte regionale (sentenza n. 296 del 2003). Una volta stabilito che la tassa automobilistica continua a non essere un tributo proprio della Regione (sentenza n. 288 del 2012), se ne devono trarre, riguardo alla potestà legislativa della Regione, tutte le conseguenze già individuate dalla giurisprudenza costituzionale.
+ Occorre perciò ribadire che un intervento sull'esenzione dalla tassa dei veicoli di interesse storico e collezionistico eccede la competenza regionale e incide «su un aspetto della disciplina sostanziale del tributo riservat[o] alla competenza legislativa esclusiva dello Stato» (sentenza n. 455 del 2005), in violazione degli artt. 117, secondo comma, lettera e), e 119, secondo comma, Cost.
+ 6.- L'art. 49 della legge impugnata demanda alla Giunta regionale il compito di registrare e promuovere i marchi collettivi di qualità, di proprietà della Regione, istituiti ai sensi delle vigenti leggi nazionali e regionali, per valorizzare il «patrimonio produttivo e culturale nonché i prodotti di qualità del territorio veneto», e dispone a tal fine uno stanziamento di fondi.
+ Il ricorrente ritiene lesi gli artt. 117, primo comma, e 120, primo comma, Cost., sostenendo che l'istituzione di marchi di qualità da parte della Regione ostacola la libera circolazione delle merci sul territorio nazionale (art. 120, primo comma, Cost.) e comporta una misura di effetto equivalente alla restrizione all'importazione, vietata dagli artt. 34 e 35 del Trattato sul funzionamento dell'Unione europea (TFUE), sottoscritto a Roma il 25 marzo 1957 (art. 117, primo comma, Cost.).
+ 7.- La censura è adeguatamente argomentata, e perciò supera l'eccezione di inammissibilità svolta sotto questo aspetto dalla difesa regionale, ma non è fondata, perché si basa su un erroneo presupposto interpretativo.
+ Questa Corte ha ripetutamente affermato che è preclusa alla legge regionale l'istituzione di marchi che attestano contestualmente la qualità e l'origine geografica di prodotti, perché essi possono produrre effetti restrittivi sulla libera circolazione delle merci (sentenze n. 66 del 2013, n. 191 e n. 86 del 2012, e n. 213 del 2006), in contrasto con quanto ritenuto dalla Corte di giustizia dell'Unione europea.
+ Tuttavia, come ha correttamente eccepito la difesa della Regione Veneto, la disposizione censurata non ha per oggetto l'istituzione di tali marchi. Essa, invece, nel presupposto che dei marchi di qualità, relativi al patrimonio produttivo e culturale della Regione, siano già stati istituiti «ai sensi delle vigenti leggi nazionali e regionali», si limita ad attribuire alla Giunta il compito di curarne la registrazione e la promozione, e a reperire le risorse economiche a ciò necessarie.
+ L'eventuale contrasto del marchio con la normativa europea e gli eventuali effetti restrittivi sulla libera circolazione delle merci, se esistenti, sarebbero perciò da imputare alla legislazione sulla cui base lo stesso è stato istituito e non alla norma oggetto del ricorso.
+ Quest'ultima, inoltre, cade su marchi di qualità volti a valorizzare il patrimonio produttivo e culturale del Veneto, indipendentemente dall'esistenza negli stessi di      un'indicazione di provenienza geografica, perciò non c'è ragione di ritenere che i marchi ai quali la disposizione impugnata è destinata ad applicarsi siano stati istituiti in violazione della normativa europea, pur dovendosi ribadire che questo profilo riguarda le leggi sulla cui base è avvenuta l'istituzione e non l'art. 49 impugnato.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ 1) dichiara inammissibile l'intervento dell'Associazione Historic Whells Club nel giudizio promosso dal Presidente del Consiglio dei ministri con il ricorso indicato in epigrafe;
+ 2) dichiara l'illegittimità costituzionale dell'art. 2 della legge della Regione Veneto 27 aprile 2015, n. 6 (Legge di stabilità regionale per l'esercizio 2015);
+ 3) dichiara cessata la materia del contendere sulla questione di legittimità costituzionale dell'art. 69 della legge della Regione Veneto n. 6 del 2015, promossa, in riferimento all'art. 81, terzo comma, della Costituzione, dal Presidente del Consiglio dei ministri, con il ricorso indicato in epigrafe;
+ 4) dichiara non fondata la questione di legittimità costituzionale dell'art. 49 della legge della Regione Veneto n. 6 del 2015, promossa, in riferimento agli artt. 117, primo comma, e 120, primo comma, Cost., dal Presidente del Consiglio dei ministri, con il ricorso indicato in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 5 ottobre 2016.
+ F.to:
+ Paolo GROSSI, Presidente
+ Giorgio LATTANZI, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 22 novembre 2016.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
