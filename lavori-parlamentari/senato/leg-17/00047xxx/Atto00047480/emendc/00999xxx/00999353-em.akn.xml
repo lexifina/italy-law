@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.912/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.912"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.912/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.912"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.912/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIQBNR005PUCIG1TNQALSI11FAD3EMXLTT1ZSUPDI2POI5CJ3ZIMH" href="http://dati.senato.it/29177" showAs="SCIBONA"/>
+				<an:TLCPerson id="IDKABB4UBJBVQAKBQAACS5PX443IRV40YBCUBF3KEXJTRGJBQETNEN" href="http://dati.senato.it/29070" showAs="CIOFFI"/>
+				<an:TLCPerson id="IDFKITJUXIGV40EXYMQPTI0RT0KGDJHEJRMXYAEYPHOZ4WC3DXUFHH" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDT433QAZWIXTABLRDETSQXPKWIDNK1CT1YJPHUHJ32WOQGVULUG0I" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDSY2U2BI05XRVIQTSBEDEA54IEOSXG0DN2I3JJBCL0V2Y4FL3SPC" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.912</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIQBNR005PUCIG1TNQALSI11FAD3EMXLTT1ZSUPDI2POI5CJ3ZIMH" as="#tipoSenatore">SCIBONA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKABB4UBJBVQAKBQAACS5PX443IRV40YBCUBF3KEXJTRGJBQETNEN" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFKITJUXIGV40EXYMQPTI0RT0KGDJHEJRMXYAEYPHOZ4WC3DXUFHH" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT433QAZWIXTABLRDETSQXPKWIDNK1CT1YJPHUHJ32WOQGVULUG0I" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSY2U2BI05XRVIQTSBEDEA54IEOSXG0DN2I3JJBCL0V2Y4FL3SPC" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 615 aggiungere il seguente:</an:p>
+				<an:p>
+					            «615-
+					<an:i>bis.</an:i>
+					 Il Fondo nazionale per il concorso finanziario dello Stato agli oneri del trasporto pubblico locale anche ferroviario di cui al comma l dell'articolo 16-
+					<an:i>bis</an:i>
+					 del decreto-legge n. 95 del 2012, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135 e incrementato di 300 milioni di euro per l'anno 2017, di 300 milioni per il 2018 e di 300 milioni per il 2019».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 140 primo periodo, sostituire le parole:</an:i>
+					 1.900 milioni di euro fino a l'anno 2019, 
+					<an:i>con le seguenti:</an:i>
+					 1.600 milioni di euro per l'anno 2017, 2.850 milioni di euro per l'anno 2018, di 3.200 milioni di euro per l'anno 2019.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
