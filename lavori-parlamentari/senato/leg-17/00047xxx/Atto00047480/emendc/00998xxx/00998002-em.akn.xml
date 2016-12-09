@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.103"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.103"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAHWD2BOLKJTWPCXN4XDXXMF3YPX20SIG1C3Q0DDGP4RKIMLYOXFG" href="http://dati.senato.it/25359" showAs="CROSIO"/>
+				<an:TLCPerson id="IDM3MKSNYXKPI2BF5D3YWQUVRTAOMWGE5PWGBYCNOJ1PFESPWL5VNM" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="IDIFYL5HRPJGF2OBODS1X2DHJBRLZ54P0ZSQK2KQCOYKVKH5HX0JYN" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHWD2BOLKJTWPCXN4XDXXMF3YPX20SIG1C3Q0DDGP4RKIMLYOXFG" as="#tipoSenatore">CROSIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM3MKSNYXKPI2BF5D3YWQUVRTAOMWGE5PWGBYCNOJ1PFESPWL5VNM" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIFYL5HRPJGF2OBODS1X2DHJBRLZ54P0ZSQK2KQCOYKVKH5HX0JYN" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 40, aggiungere i seguenti::</an:p>
+				<an:p>
+					        «40-
+					<an:i>bis.</an:i>
+					 In attesa della riforma del finanziamento dell'emittenza radiotelevisiva locale è prorogato per gli anni 2017 e 2018 il regime previsto dall'articolo 10 della legge 27 ottobre 1993, n. 422. A tal fine la quota pari ai tre quarti dei proventi derivanti dalla tassa di concessione governativa e dall'IVA versate all'interno del canone di abbonamento di cui al di cui al comma 1, sono destinati a sostegno dell'emittenza radiotelevisiva locale.
+				</an:p>
+				<an:p>
+					        40-
+					<an:i>ter</an:i>
+					. Entro il 31dicembre di ciascun anno avviene l'erogazione agli aventi diritto di cui al comma 1-
+					<an:i>bis</an:i>
+					 secondo le graduatorie elaborate dai Corecom e la verifica da parte del Ministero dello Sviluppo economico.
+				</an:p>
+				<an:p>
+					        40-
+					<an:i>quater</an:i>
+					. Per gli anni 2017 e 2018, il relativo onere è quantificato prudenzialmente in 110 milioni di euro annui: l'intero importo delle suddette misure di sostegno verrà riconosciuto alle TV locali, ad esclusione di una quota pari al 10 per cento da destinare alle emittenti radiofoniche locali, con regole di distribuzione uguali a quelle relative alla distribuzione tra TV locali».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, il Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, è ridotto di 110 milioni di euro per l'anno 2017 e di 110 milioni di euro per l'anno 2018.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
