@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.292/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.292"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.292/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.292"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.292/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYHQTZCM0VNOPCN3L4BYGP2TLMMYAYZNWKOYYTXILYSCTMTN2YKQF" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="ID4BY2SOLOIMIINSDE0VRLEIJDEHP0FPQKWXDKPKJHZV2KINXCU32K" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.292</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYHQTZCM0VNOPCN3L4BYGP2TLMMYAYZNWKOYYTXILYSCTMTN2YKQF" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4BY2SOLOIMIINSDE0VRLEIJDEHP0FPQKWXDKPKJHZV2KINXCU32K" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Al comma 179, lettera b)
+					<an:i>, sostituire le parole:</an:i>
+					 «primo grado» 
+					<an:i>con le seguenti:</an:i>
+					 «secondo grado».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>il comma 2 dell'articolo 81 è soppresso;</an:i>
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>per la quota pari a 82.051.000 di euro annui a decorrere dall'anno 2017, si provvede mediante corrispondente riduzione degli stanziamenti, ai fini del bilancio triennale 2017-2019, degli stati di previsione dei fondi speciali di parte corrente della Tabella A allegata, allo scopo parzialmente utilizzando gli accantonamenti relativi al Ministero dell'economia e delle finanze per 46.539.000 euro per ciascuno degli anni 2017, 2018 e 2019, al Ministero dello sviluppo economico per 1.880.000 euro per ciascuno degli anni 2017, 2018 e 2019, al Ministero della giustizia per 3.301.000 euro per ciascuno degli anni 2011, 2018 e 2019, al Ministero dell'Ambiente per 8.471.000 euro per ciascuno degli anni 2017, 2018 e 2019, al Ministero delle infrastrutture e dei trasporti per 9.500.000 euro per ciascuno degli anni 2017, 2018 e 2019 e al Ministero della salute per 11.360.000 euro per ciascuno degli anni 2017, 2018 e 2019.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
