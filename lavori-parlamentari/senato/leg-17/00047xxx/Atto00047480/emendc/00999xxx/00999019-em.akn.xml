@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.735/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.735"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.735/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.735"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.735/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDM2SLCUUBWCCDMFXOBKPTWFDNILT002QEGH42SMDU0WN1JIIGN0I" href="http://dati.senato.it/25207" showAs="SERAFINI"/>
+				<an:TLCPerson id="ID1B1AXF4TVP31IRTLU3YVNPCPSNIYTTCMFPGYGQBJKV3EYJSG33OI" href="http://dati.senato.it/31009" showAs="BERTACCO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.735</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM2SLCUUBWCCDMFXOBKPTWFDNILT002QEGH42SMDU0WN1JIIGN0I" as="#tipoSenatore">SERAFINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1B1AXF4TVP31IRTLU3YVNPCPSNIYTTCMFPGYGQBJKV3EYJSG33OI" as="#tipoSenatore">BERTACCO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 492, inserire il seguente:</an:p>
+				<an:p>        «492-bis. Nello stato di previsione del Ministero dell'economia e delle finanze è istituito nell'anno 2017 un Fondo con un importo pari a 100 milioni di euro, destinato alle spese per gli interventi straordinari per investimenti destinati a edilizia scolastica, viabilità, trasporto pubblico, infrastrutture e tutela dell'ambiente, per i Comuni che si sono avvalsi della possibilità di azzerare l'aliquota TASI secondo quanto previsto dall'articolo 1, comma 676, della legge n. 147 deI2013. Con decreto del Ministro dell'economia e delle finanze da emanarsi entro e non oltre 60 giorni dalla entrata in vigore della presente legge sono definiti termini e modalità di attuazione della presente disposizione. Con decreto del presidente del Consiglio dei ministri, da adottare entro il 30 marzo 2017, su proposta del Ministro dell'economia e delle finanze, pre4Jio parere delle Commissioni parlamentari competenti per materia, sono disposte variazioni delle aliquote di imposta e riduzioni della misura delle agevolazioni e delle detrazioni vigenti tali da assicurare la copertura degli oneri delle disposizioni di cui al comma precedente, pari a 100 milioni di euro per l'anno 2017, ferma restando la necessaria tutela, costituzionalmente garantita, dei contribuenti più deboli, della famiglia e della salute, prevedendo un limite di reddito sotto il quale non si applica la riduzione delle spese fiscali.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
