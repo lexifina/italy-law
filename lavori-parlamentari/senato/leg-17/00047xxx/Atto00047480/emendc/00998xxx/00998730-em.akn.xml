@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.430/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.430"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.430/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.430"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.430/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKIJNG24Z1DTFN43B3HWV0YW5YEUZSWA1KNVQQGLVXIJ3OY2M3K" href="http://dati.senato.it/29067" showAs="CENTINAIO"/>
+				<an:TLCPerson id="IDMU12S44TBJL5H1KWMA3PRDRSGBAC2K4BWBN3NSKMCDIMXEVVDQXK" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="IDQHFAWW1DIF43GX3B2OWTORRHIMNEAHWCUYKXODFABVO54AYCY0OL" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.430</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKIJNG24Z1DTFN43B3HWV0YW5YEUZSWA1KNVQQGLVXIJ3OY2M3K" as="#tipoSenatore">CENTINAIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMU12S44TBJL5H1KWMA3PRDRSGBAC2K4BWBN3NSKMCDIMXEVVDQXK" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQHFAWW1DIF43GX3B2OWTORRHIMNEAHWCUYKXODFABVO54AYCY0OL" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 294, aggiungere il seguente:</an:p>
+				<an:p>
+					        «294-
+					<an:i>bis.</an:i>
+					 Al fine di rispondere alla crescente domanda di partecipazione e formazione tecnica superiore, la quota parte del Fondo per l'istruzione e formazione tecnica superiore di cui all'articolo 1, comma 875, della legge 27 dicembre 2006, n. 296 destinata ai percorsi di cui al decreto del Presidente del Consiglio dei Ministri 25 gennaio 2008, svolti dagli istituti tecnici superiori è incrementata di euro 13 milioni per l'anno 2017, 13 milioni per l'anno 2018 e di 13 milioni dall'anno 2019. L'incremento del fondo è destinato, prioritariamente, a finanziare la crescita del sistema ed è assegnato alle fondazioni ITS in relazione all'aumento percentuale dei percorsi rilevato nell'anno precedente, con riferimento al limite di costo previsto dalla normativa vigente».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 625, dell'articolo 1, sostituire le parole da:</an:i>
+					 « è incrementato di»
+					<an:i>, fino alla fine del comma, con le seguenti:</an:i>
+					 «è incrementato di 50,95 milioni di euro per il 2017, di 78,75 milioni di euro per il 2018, di 92,402 milioni di euro per il 2019, di 101,45 milioni di euro per il 2020, di 95,45 milioni di euro per i1 2021, di 86,45 milioni di euro per il 2022, di 77,45 milioni di euro per il 2023, di 65,45 milioni di euro per il 2024, di 52,45 milioni di euro per il 2025 e di 38,45 milioni di euro annui a decorrere da12026».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
