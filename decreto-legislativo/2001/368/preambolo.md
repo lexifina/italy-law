@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la direttiva 1999/70/CE del Consiglio, del 28 giugno 1999, relativa all'accordo quadro sul lavoro a tempo determinato concluso dalla CES, dall'UNICE e dal CEEP;
+
+Vista la legge 29 dicembre 2000, n. 422, ed, in particolare, l'articolo 1, commi 1 e 3, e l'allegato B;
+
+Vista la deliberazione preliminare del Consiglio dei Ministri, adottata nella riunione del 28 giugno 2001;
+
+Acquisiti i pareri delle permanenti commissioni parlamentari della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio del Ministri, adottata nella riunione del 9 agosto 2001;
+
+Sulla proposta del Ministro per le politiche comunitarie, del Ministro del lavoro e delle politiche sociali e del Ministro dell'economia e delle finanze, di concerto con il Ministro degli affari esteri e con il Ministro della giustizia;
+
+Emana il seguente decreto legislativo:
