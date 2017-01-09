@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, sentenza breve n. 255/2017
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE PRIMA QUATER
+- Numero provvedimento: 201700255
+- Numero di ricorso (NRG): 201612884
+- Data di pubblicazione: 2017-01-09
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA DIFETTO DI GIURISDIZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2016-11-24
+- Oggetto del ricorso: ANNULLAMENTO DELLA NOTA DI LAZIO INNOVA SPA DEL 15.9.2016 PROT. N. 20776 CON LA QUALE VENIVA DISPOSTA LA REVOCA DEL CONTRIBUTO CONCESSO AI SENSI DELL'AVVISO PUBBLICO POR FESR 2007-2013 "PROGETTI DI INNOVAZIONE DELLE MICRO E PICCOLE IMPRESE"
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/0929c42a-d6d6-4a08-a565-06065fd5a231/resource/50bb7c95-4dc9-4c07-a08a-d5ecea4ac7e0/download/tar-lazio-roma-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
