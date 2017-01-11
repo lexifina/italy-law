@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2224/A/G4.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2224/A/G4.100"/>
+					<an:FRBRdate date="2017-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2224/A/G4.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@"/>
+					<an:FRBRdate date="2017-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@.akn"/>
+					<an:FRBRdate date="2017-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-01-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-01-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2224/A/G4.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2224" showAs="DDL 2224"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSL55HH5NFKJOM4R5SERNZBEL3EJO0KVSRQG15XPXTBEEROEGJP2N" href="http://dati.senato.it/29102" showAs="GAETTI"/>
+				<an:TLCPerson id="IDPFJ11LMT4FNKP2ZWLMB0113UBP0ODCOJ3NRQP4FLERBXEXPB1MQD" href="http://dati.senato.it/29189" showAs="TAVERNA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2224</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSL55HH5NFKJOM4R5SERNZBEL3EJO0KVSRQG15XPXTBEEROEGJP2N" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPFJ11LMT4FNKP2ZWLMB0113UBP0ODCOJ3NRQP4FLERBXEXPB1MQD" as="#tipoSenatore">TAVERNA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 4 reca «Trasparenza dei dati»;</an:p>
+				<an:p>            l'articolo 37 del decreto del Presidente della Repubblica 10 settembre 1990, n. 285, recante «Approvazione del regolamento di polizia mortuaria» stabilisce che sono sottoposte al riscontro diagnostico, «[ .. ]i cadaveri delle persone decedute senza assistenza medica, trasportati ad un ospedale o ad un deposito di osservazione o ad un obitorio, nonché i cadaveri delle persone decedute negli ospedali, nelle cliniche universitarie e negli istituti di cura privati quando i rispettivi direttori, primari o medici curanti lo dispongano per il controllo della diagnosi o per il chiarimento di quesiti clinico-scientifici»;</an:p>
+				<an:p>            il comma 2, dell'articolo 37 del decreto del Presidente della Repubblica n. 285/1990, prescrive, altresì, che «il coordinatore sanitario può disporre il riscontro diagnostico anche sui cadaveri delle persone decedute a domicilio quando la morte sia dovuta a malattia infettiva e diffusiva o sospetta di esserlo, o a richiesta del medico curante quando sussista il dubbio sulle cause di morte»,</an:p>
+				<an:p>        impegna il Governo ad attuare misure di carattere normativo volte ad introdurre la possibilità per i familiari (o gli aventi titolo) di disporre il riscontro diagnostico del deceduto sia nel caso di decesso ospedaliero che in altro luogo, con la presenza di un medico di fiducia.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
