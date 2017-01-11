@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2224/A/G12.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2224/A/G12.100"/>
+					<an:FRBRdate date="2017-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2224/A/G12.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G12.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@"/>
+					<an:FRBRdate date="2017-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@.akn"/>
+					<an:FRBRdate date="2017-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-01-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-01-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2224/A/G12.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2224" showAs="DDL 2224"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQWSG3BPQKT2LPTWZRVYJW1DQWICPFV5APVDIOVKONXW4YUABK0RL" href="http://dati.senato.it/29168" showAs="Maurizio ROMANI"/>
+				<an:TLCPerson id="IDX5242KOAV1KQBVDOFNE4B0WBDF1U4FP0PT54YJGGLGTDR210HRRK" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDHIRSCAOMWSIVMDOL5AWGUXJCPL12DXBHP0GA3ILEK14OMF1POR2E" href="http://dati.senato.it/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="IDX4SHO53F1VCVHB451ALVUPNK5CT0CLAJE5RQHYNZY0FVXZG0ZUTG" href="http://dati.senato.it/29181" showAs="SIMEONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2224</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G12.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQWSG3BPQKT2LPTWZRVYJW1DQWICPFV5APVDIOVKONXW4YUABK0RL" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX5242KOAV1KQBVDOFNE4B0WBDF1U4FP0PT54YJGGLGTDR210HRRK" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHIRSCAOMWSIVMDOL5AWGUXJCPL12DXBHP0GA3ILEK14OMF1POR2E" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX4SHO53F1VCVHB451ALVUPNK5CT0CLAJE5RQHYNZY0FVXZG0ZUTG" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame dell'Atto Senato n. 2224 recante norme in materia di responsabilità professionale del personale sanitario,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            risulta essere in atto una campagna pubblicitaria, attraverso l'invio di messaggi commerciali diretti ai telefoni cellulari, avente ad oggetto l'offerta di consulenze legali gratuite per coloro che ritengano di aver subito un danno a seguito di un errore medico. Lo stesso tipo di messaggio pubblicitario era stato veicolato nel corso del 2012 anche dalle reti televisive pubbliche, generando la forte opposizione da parte di medici e personale sanitario. Spesso tali messaggi commerciali includono anche la certezza di una conclusione favorevole a colui che agisce tramite il servizio di consulenza pubblicizzato;</an:p>
+				<an:p>            la diffusione di messaggi pubblicitari contenenti la promessa di servizi senza costi anticipati e con risultati quasi certi ha contribuito ad aumentare il numero delle richieste di risarcimento ed il conseguente maggiore ricorso alla medicina difensiva con un notevole danno economico per il Servizio sanitario nazionale;</an:p>
+				<an:p>            tali offerte commerciali trasformano di fatto il contenzioso da giusta rivendicazione di chi è stato vittima di un episodio accertato di malasanità a mera occasione di speculazione economica, alimentando la sfiducia dei cittadini nei confronti del personale sanitario e a danno, in primo luogo, dell'efficienza del Servizio sanitario nazionale,</an:p>
+				<an:p>        impegna il Governo ad attivarsi per limitare, o comunque regolamentare, la possibilità di veicolare simili messaggi pubblicitari.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
