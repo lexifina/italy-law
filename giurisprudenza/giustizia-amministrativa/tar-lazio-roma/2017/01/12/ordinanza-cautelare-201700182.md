@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 182/2017
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 201700182
+- Numero di ricorso (NRG): 201613383
+- Data di pubblicazione: 2017-01-12
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2016-12-01
+- Oggetto del ricorso: ANNULLAMENTO DEL DM N.546 DEL 30.6.16 E RELATIVI ALLEGATI, NELLA PARTE IN CUI, NON PERMETTE L'IMMATRICOLAZIONE AI RICORRENTI AI CORSI DI LAUREA IN MEDICINA E CHIRURGIA E ODONTOIATRIA A.A. 2016/2017; NONCHÉ DELL'ART.120, COMMI 1-2 DELLO STESSO DM NELLA PARTE IN CUI VIENE DICHIARATA LA NON IDONEITÀ DEI SOGGETTI EXTRACOMUNITARI CON PUNTEGGI PIÙ BASSI DI 20 NEL CASO DI POSTI LIBERI. - RISARCIMENTO DANNI -
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
