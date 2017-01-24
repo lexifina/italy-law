@@ -1,0 +1,22 @@
+# Massima n. 39538
+
+- Pronuncia: Corte costituzionale, sentenza 17/2017 (ECLI:IT:COST:2017:17)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:17
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Misure cautelari - Custodia cautelare in carcere - Applicazione nei confronti della madre di minori imputata per gravi reati - Divieto solo in presenza di prole di età non superiore a sei anni - Denunciata lesione del "preminente" interesse del minore a fruire dell'affetto e delle cure materne dopo il sesto anno d'età - Dedotto contrasto con la garanzia costituzionale della protezione dell'infanzia (anche alla luce della Convenzione sui diritti del fanciullo) - Insussistenza del vizio ipotizzato - Bilanciamento legislativo non irragionevole tra le esigenze di difesa sociale e l'interesse del minore - Non fondatezza della questione.
+
+## Testo
+
+È dichiarata non fondata la questione di legittimità costituzionale dell'art. 275, comma 4, cod. proc. pen., censurato dal Tribunale di Roma - in riferimento agli artt. 3 e 31, [secondo comma], Cost. (quest'ultimo anche alla luce della Convenzione sui diritti del fanciullo) - nella parte in cui, prevedendo "che non possa essere disposta o mantenuta la custodia cautelare in carcere nei confronti di imputati [...] per gravi reati, che siano genitori di prole solo di età non superiore a sei anni", sacrificherebbe irragionevolmente alle esigenze cautelari l'interesse del minore a fruire oltre tale età dell'assistenza e delle cure genitoriali. La disposizione censurata è frutto di un non irragionevole bilanciamento, compiuto necessariamente in astratto dal legislatore, tra le esigenze di difesa sociale, sottese a quelle cautelari, e l'interesse, anch'esso di rilievo costituzionale, alla protezione dell'infanzia, garantita dall'art. 31 Cost., poiché non preclude in assoluto alla madre imputata per gravi reati di accedere alla misura cautelare più idonea a garantire il suo rapporto col figlio minore in tenera età, ma stabilisce che tale accesso trova un limite laddove il minore abbia compiuto l'età di sei anni, la quale coincide (in base a dati di esperienza tenuti in conto nei lavori preparatori della legge n. 62 del 2011) con l'assunzione, da parte del minore, dei primi obblighi di scolarizzazione e, dunque, con l'inizio di un processo di relativa autonomizzazione rispetto alla madre. Non può quindi accogliersi la richiesta di una pronuncia additiva che - cancellando il bilanciamento non manifestamente irragionevole operato dal legislatore - attribuisca prevalenza assoluta all'interesse del minore, indipendentemente dalla sua età, a mantenere un rapporto continuativo con la madre; né minori incongruità produrrebbe una soluzione che affidasse alla discrezionalità del giudice penale l'apprezzamento, caso per caso, della particolare condizione del minore di qualsiasi età, derivando da essa l'incoerente condizione di un giudice penale chiamato ad applicare una misura nei confronti di un imputato, sulla base di valutazioni relative non già a quest'ultimo, ma a un soggetto terzo - il minore - estraneo al processo. ( Precedenti citati: sentenze n. 239 del 2014 e n. 177 del 2009, ordinanza n. 145 del 2009, sulla protezione costituzionale dell'infanzia ). I criteri oggettivi calibrati sull'età del minore - indicati da tutte le misure che i codici penale e di procedura penale e l'ordinamento penitenziario prevedono a tutela dei minori estranei al processo e non coinvolti nelle valutazioni sulla pericolosità del genitore imputato - costituiscono anche un efficace usbergo della serenità del giudice, chiamato a delicate decisioni, in special modo nei casi relativi a gravi delitti di criminalità organizzata. Nelle ipotesi in cui la giurisprudenza costituzionale ha consentito al giudice di derogare caso per caso a limiti o differenze di età fissati dal legislatore per l'adozione di minori, la valutazione più flessibile è condotta secondo modalità tutte interne al preminente interesse del minore, senza confliggere con altri, e opposti, interessi di rango costituzionale. ( Precedenti citati: sentenze n. 283 del 1999, n. 303 del 1996, n. 148 del 1992, n. 44 del 1990 e n. 183 del 1988 ).
+
+## Norme
+
+- codice di procedura penale, art. 275, comma 4
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 31
