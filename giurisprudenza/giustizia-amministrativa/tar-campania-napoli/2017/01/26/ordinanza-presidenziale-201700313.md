@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza presidenziale n. 313/2017
+
+- Tipo: ORDINANZA PRESIDENZIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201700313
+- Numero di ricorso (NRG): 201700286
+- Data di pubblicazione: 2017-01-26
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA COMPETENTE IL TAR CAPOLUOGO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2017-01-30
+- Oggetto del ricorso: DECRETO DEL COMMISSARIO AD ACTA PER L'ATTUAZIONE DEL PIANO DI RIENTRO DAI DISAVANZI DEL SSR CAMPANO N.89 DEL 08/08/2016 AVENTE AD OGGETTO " DEFINIZIONE PER GLI ESERCIZI 2016 E 2017 DEI LIMITI DI SPESA E DEI RELATIVI CONTRATTI CON GLI EROGATORI PRIVATI - DETERMINAZIONI "
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
