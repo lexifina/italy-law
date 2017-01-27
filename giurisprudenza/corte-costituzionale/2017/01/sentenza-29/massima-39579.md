@@ -1,0 +1,22 @@
+# Massima n. 39579
+
+- Pronuncia: Corte costituzionale, sentenza 29/2017 (ECLI:IT:COST:2017:29)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:29
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Demanio e patrimonio dello Stato e delle Regioni - Concessioni demaniali marittime per la realizzazione e la gestione di strutture dedicate alla nautica da diporto - Canone concessorio - Rideterminazione, anche per i rapporti in corso, in base ai criteri fissati per le concessioni relative alle attività turistico-ricreative - Denunciata equiparazione irragionevole delle due tipologie di concessioni, in violazione dei principi di eguaglianza, di affidamento dei cittadini nella sicurezza dei rapporti giuridici, e di libera iniziativa economica - Insussistenza alla stregua dell'interpretazione costituzionalmente corretta della disposizione censurata - Inapplicabilità dei nuovi canoni commisurati ai valori di mercato alle concessioni non ancora scadute che prevedano la realizzazione di impianti ed infrastrutture da parte del concessionario - Non fondatezza della questione nei sensi di cui in motivazione.
+
+## Testo
+
+È dichiarata non fondata, nei sensi di cui in motivazione, la questione di legittimità costituzionale - sollevata dal Consiglio di Stato e dal TAR Toscana in riferimento agli artt. 3 e 41 Cost. - dell'art. 1, comma 252, della legge n. 296 del 2006, nella parte in cui, anche con riferimento ai rapporti concessori in corso, estende i medesimi criteri di determinazione dei canoni, dettati per le concessioni con finalità turistico-ricreative, alle concessioni di beni del demanio marittimo per la realizzazione e la gestione di strutture dedicate alla nautica da diporto. La denunciata irragionevolezza dell'equiparazione delle due tipologie di concessioni ai fini dell'applicabilità dei nuovi criteri di determinazione dei canoni non dipende dalla maggiore durata e dal numero limitato delle concessioni per la nautica da diporto, trattandosi di elementi ininfluenti rispetto al calcolo di convenienza economica compiuto dal concessionario prima dell'entrata in vigore della legge n. 296 del 2006; l'unico tratto distintivo rilevante è invece rappresentato dall'entità degli investimenti richiesti (soprattutto, ma non in via esclusiva) ai titolari di concessioni per la nautica da diporto, laddove queste abbiano ad oggetto opere che debbano essere realizzate a cura del concessionario. Con riferimento a tale specifica categoria di rapporti concessori, un'interpretazione costituzionalmente corretta della disposizione censurata porta ad escludere l'applicabilità, generale ed indifferenziata, dei canoni commisurati ai valori di mercato a tutte le concessioni di strutture dedicate alla nautica da diporto, rilasciate prima del 2007ed impone la necessità di considerare la natura e le caratteristiche dei beni oggetto di concessione, quali erano all'avvio del rapporto concessorio, nonché delle modifiche successivamente intervenute a cura e spese dell'amministrazione concedente. Alla stregua di tale interpretazione - consentita dal testuale riferimento (art. 03 [comma 1, lett. b), n. 2.1] del d.l. n. 400, come sostituito dall'art. 1, comma 251, della legge n. 296 del 2006) ad opere costituenti "pertinenze demaniali marittime" e, pertanto, già appartenenti allo Stato - va esclusa l'applicabilità dei nuovi criteri commisurati al valore di mercato alle concessioni non ancora scadute che prevedano la realizzazione di impianti ed infrastrutture da parte del concessionario, ivi incluse quelle rilasciate prima del 2007, non avendo dette opere ancora acquisito la qualità demaniale; mentre, con riferimento agli aumenti dei canoni tabellari (art. 03, comma 1, lett. b, n. 1, del d.l. n. 400) valgono i principi affermati nella sentenza n. 302 del 2010, che ha ritenuto compatibile con gli artt. 3 e 97 Cost. l'adeguamento dei canoni delle concessioni turistico-ricreative, in quanto non inaspettato e volto a consentire allo Stato una maggiorazione delle entrate e rendere i predetti canoni più equilibrati rispetto a quelli pagati in favore di locatori privati. ( Precedenti citati: sentenze n. 302 del 2010 e n. 88 del 1997 ).
+
+## Norme
+
+- legge, 27/12/2006 n. 296, art. 1, comma 252
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 41
