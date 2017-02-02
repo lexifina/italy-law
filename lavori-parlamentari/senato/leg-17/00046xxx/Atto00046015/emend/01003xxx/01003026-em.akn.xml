@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.308/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.308"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.308/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.308"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@.akn"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2068/A/1.308/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2068" showAs="DDL 2068"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAGEJ1AWNLE0HLVJABQAKLNDY3YR1ZK5VOVZIYJUAOROJF0LRRCD" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDCV41N04WTZDOLSBOMASJAFSY3JXGV3LVFTR4F1K4XGDB3P2X5J2M" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDERXL0BH2IUNVJ3QOMLKMXWCVMSR2ZXLD3YV5JLJPU1KDA110OUF" href="http://dati.senato.it/29059" showAs="CANDIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2068</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.308</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGEJ1AWNLE0HLVJABQAKLNDY3YR1ZK5VOVZIYJUAOROJF0LRRCD" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCV41N04WTZDOLSBOMASJAFSY3JXGV3LVFTR4F1K4XGDB3P2X5J2M" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDERXL0BH2IUNVJ3QOMLKMXWCVMSR2ZXLD3YV5JLJPU1KDA110OUF" as="#tipoSenatore">CANDIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo la lettera g), inserire la seguente:</an:p>
+				<an:p>
+					            «
+					<an:i>g-bis)</an:i>
+					 individuazione del soggetto cui attribuire la dichiarazione dello stato di calamità nella figura del Presidente del Consiglio dei ministri, sentito il Consiglio stesso; in casi di estrema urgenza, nell'impossibilità di convocare il Consiglio dei ministri, il Presidente del Consiglio può emanare la dichiarazione dello stato di calamità anche in assenza di parere, salvo ratifica da conseguire nell'immediato; a tal fine, il Presidente del Consiglio, su proposta del Capo del Dipartimento nazionale della protezione civile ovvero di uno o più presidenti di regione, può emanare ordinanze non derogatorie di protezione civile di cui all'articolo 5 della legge 24 febbraio 1995, n. 225, e successive modifiche ed integrazioni, secondo le modalità e nei limiti individuati dal decreto delegato».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
