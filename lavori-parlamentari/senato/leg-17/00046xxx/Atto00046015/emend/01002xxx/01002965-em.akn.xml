@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.53/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.53"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.53/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.53"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@.akn"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2068/A/1.53/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2068" showAs="DDL 2068"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCG0IJIQ0E02JJWYTZOPUCKTE1DHCRCXCSS230XG4F3B21N5KZTAB" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDTZZOPOGDPJFPBFHVYZ0EDUNYXCAB3NHWCSQWYPGEON3D5Y22I2VM" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="ID3WRJLDCTZT3EJXUQKY0OTXFSKPEY4OOCLO2MVKLU12G4TLNXHKQG" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDXI1NDJ3BSVNGFC1OYH4XVVNBVJHHDFT2CQY0YJIDXIRUOWOHAZLN" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2068</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.53</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCG0IJIQ0E02JJWYTZOPUCKTE1DHCRCXCSS230XG4F3B21N5KZTAB" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTZZOPOGDPJFPBFHVYZ0EDUNYXCAB3NHWCSQWYPGEON3D5Y22I2VM" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3WRJLDCTZT3EJXUQKY0OTXFSKPEY4OOCLO2MVKLU12G4TLNXHKQG" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXI1NDJ3BSVNGFC1OYH4XVVNBVJHHDFT2CQY0YJIDXIRUOWOHAZLN" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo la lettera d), inserire la seguente:</an:p>
+				<an:p>
+					            «
+					<an:i>d-bis)</an:i>
+					 partecipazione e collaborazione con gli enti pubblici di ricerca al fine di assicurare l'aggiornamento degli strumenti e delle procedure di previsione, prevenzione e mitigazione secondo lo stato dell'arte della ricerca nel settore; messa a punto di strumenti di facile utilizzo per la gestione dell'emergenza; costante aggiornamento degli operatori all'interno della protezione civile e in tutta la catena della gestione delle emergenze; partecipazione alle iniziative di ricerca e di utilizzo delle infrastrutture per la gestione delle emergenze promosse dall'Unione europea».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
