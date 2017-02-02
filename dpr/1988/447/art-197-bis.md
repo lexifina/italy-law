@@ -12,7 +12,7 @@ L'imputato in un procedimento connesso ai sensi dell'articolo 12, comma 1, lette
 
 3.
 
-Nei casi previsti dai commi 1 e 2 il testimone e' assistito da un difensore. In mancanza di difensore di fiducia e' designato un difensore di ufficio. ((155))
+Nei casi previsti dai commi 1 e 2 il testimone e' assistito da un difensore. In mancanza di difensore di fiducia e' designato un difensore di ufficio. (155) ((244))
 
 4.
 
@@ -24,10 +24,18 @@ In ogni caso le dichiarazioni rese dai soggetti di cui al presente articolo non 
 
 6.
 
-Alle dichiarazioni rese dalle persone che assumono l'ufficio di testimone ai sensi del presente articolo si applica la disposizione di cui all'articolo 192, comma 3. ((155))
+Alle dichiarazioni rese dalle persone che assumono l'ufficio di testimone ai sensi del presente articolo si applica la disposizione di cui all'articolo 192, comma 3. (155) ((244))
 
 ---------------
 
 AGGIORNAMENTO (155)
 
 La Corte costituzionale, con sentenza 8 - 21 novembre 2006, n. 381 (in G.U. 1a s.s. 29/11/2006, n. 47) ha dichiarato l'illegittimita' costituzionale dell'art. 197-bis, commi 3 e 6, del codice di procedura penale, nella parte in cui prevedono, rispettivamente, l'assistenza di un difensore e l'applicazione della disposizione di cui all'art. 192, comma 3, del medesimo codice di rito anche per le dichiarazioni rese dalle persone, indicate al comma 1 del medesimo art. 197-bis cod. proc. pen., nei cui confronti sia stata pronunciata sentenza di assoluzione «per non aver commesso il fatto» divenuta irrevocabile.
+
+---------------
+
+AGGIORNAMENTO (244)
+
+La Corte costituzionale, con sentenza 7 dicembre 2016 - 26 gennaio 2017 , n. 21 (in G.U. 1ª s.s. 1/2/2017, n. 5) ha dichiarato l'illegittimita' costituzionale del presente articolo, comma 6 "nella parte in cui prevede l'applicazione della disposizione di cui all'art. 192, comma 3, del medesimo codice di rito anche per le dichiarazioni rese dalle persone, indicate al comma 1 dell'art. 197-bis cod. proc. pen., nei cui confronti sia stata pronunciata sentenza di assoluzione "perche' il fatto non sussiste" divenuta irrevocabile".
+
+Ha inoltre dichiarato l'illegittimita' costituzionale del presente articolo, comma 3 "nella parte in cui prevede l'assistenza di un difensore anche per le dichiarazioni rese dalle persone, indicate al comma 1 del medesimo art. 197-bis, nei cui confronti sia stata pronunciata sentenza di assoluzione "perche' il fatto non sussiste" divenuta irrevocabile".
