@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2284/C/1.84/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2284/C/1.84"/>
+					<an:FRBRdate date="2017-02-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2284/C/1.84/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.84"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@"/>
+					<an:FRBRdate date="2017-02-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@.akn"/>
+					<an:FRBRdate date="2017-02-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2284/C/1.84/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2284" showAs="DDL 2284"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDW0BAWTSLSNBCCB2ATNK1NQJODEBQ1MWLRSGWIDPZX2JI1L3RJFYC" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+				<an:TLCPerson id="IDLYU23G1SMKVPBEUWK11GTTIHORCNPOB3NEYXTPEXO33D431SW3G" href="http://dati.senato.it/17739" showAs="PALMA"/>
+				<an:TLCPerson id="ID33SENOHFESTLKGYK0OPHUUTEKDAHHV04X0NJ3QOJ5IOTMFDD1FGB" href="http://dati.senato.it/476" showAs="CARDIELLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2284</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.84</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDW0BAWTSLSNBCCB2ATNK1NQJODEBQ1MWLRSGWIDPZX2JI1L3RJFYC" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLYU23G1SMKVPBEUWK11GTTIHORCNPOB3NEYXTPEXO33D431SW3G" as="#tipoSenatore">PALMA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID33SENOHFESTLKGYK0OPHUUTEKDAHHV04X0NJ3QOJ5IOTMFDD1FGB" as="#tipoSenatore">CARDIELLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 b), 
+					<an:i>al numero 7.2), aggiungere, in fine, le seguenti parole:</an:i>
+					 «confermando, comunque, la competenza della sezione circondariale nell'ipotesi in cui sia in corso, tra le stesse parti, giudizio separazione o di divorzio o giudizio ai sensi degli articoli 316 del codice civile o anche di modifica delle condizioni di separazione o di divorzio riguardanti la prole».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al numero 8), dopo le parole:  «333 del codice civile», inserire le seguenti:</an:i>
+					 «salvo quanto previsto al numero 7.2) in ordine alla competenza della sezione circondariale anche per tali procedimenti».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
