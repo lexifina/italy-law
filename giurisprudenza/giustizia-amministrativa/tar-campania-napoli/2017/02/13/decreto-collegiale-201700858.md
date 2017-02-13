@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto collegiale n. 858/2017
+
+- Tipo: DECRETO COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE OTTAVA
+- Numero provvedimento: 201700858
+- Numero di ricorso (NRG): 201604198
+- Data di pubblicazione: 2017-02-13
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2016-09-29
+- Oggetto del ricorso: PER L'ANNULLAMENTO DEL VERBALE DEL 16 MARZO 2016 DELLA SOTTOCOMMISSIONE ESAMINATRICE PRESSO LA CORTE D'APPELLO DI MILANO DEL CONCORSO PER ESAME PER L'ABILITAZIONE ALL'ESERCIZIO DELLA PROFESSIONE DI AVVOCATO - SESSIONE 2015 - NELLA PARTE IN CUI ANNULLA L'ELABORATO N. 1947 RITENENDOLO PRESUNTIVAMENTE IDENTICO ALL'ELABORATO 1946.....
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
