@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/988/C/21.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/988/C/21.0.1"/>
+					<an:FRBRdate date="2017-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/988/C/21.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="21.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@"/>
+					<an:FRBRdate date="2017-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@.akn"/>
+					<an:FRBRdate date="2017-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/988/C/21.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/988" showAs="DDL 988"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 2° e 6° riunite" href="/dati.senato.it/osr/Commissione/21"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1IJ23H1V5H3LDRC33DIUSJ2RPK2DSAU5PBSELJGFRWM0R15AVSDK" href="http://dati.senato.it/17823" showAs="FALANGA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 988</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 21.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1IJ23H1V5H3LDRC33DIUSJ2RPK2DSAU5PBSELJGFRWM0R15AVSDK" as="#tipoSenatore">FALANGA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 21.</an:b>
+				</an:p>
+				<an:p align="center">(Giusto processo)</an:p>
+				<an:p>        1. La giurisdizione tributaria si attua mediante il canone del giusto processo di cui all'articolo 111 della Costituzione ed all'articolo 6 della Convenzione europea dei diritti dell'uomo e delle libertà fondamentali».    </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
