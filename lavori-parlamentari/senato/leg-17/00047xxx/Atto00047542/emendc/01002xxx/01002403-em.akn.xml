@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/14.36/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/14.36"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/14.36/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="14.36"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@.akn"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/C/14.36/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYWXR0YBLNG1VEHOILSZRTCSE4CJ5UIGZVJ0QUSLXLMHNLSDQR35B" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDAU5CE0S14Z3PHM103EC4Y3LCTODBFAWNSTE0BYBQZC5WNRBEMQ5O" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDDVYH4PV14R10LVSCKEVJ4TXMQOSEVUQFGISKUHDMIW0XOZHXGALI" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 14.36</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYWXR0YBLNG1VEHOILSZRTCSE4CJ5UIGZVJ0QUSLXLMHNLSDQR35B" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAU5CE0S14Z3PHM103EC4Y3LCTODBFAWNSTE0BYBQZC5WNRBEMQ5O" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDVYH4PV14R10LVSCKEVJ4TXMQOSEVUQFGISKUHDMIW0XOZHXGALI" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 8, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «8-
+					<an:i>bis.</an:i>
+					 Per l'attuazione dei primi interventi di emergenza nelle aree colpite dagli eventi sismici del 18 gennaio 2017, nelle more della ricognizione in ordine agli effettivi e indispensabili interventi, si provvede nello stanziamento di 100 milioni di euro ai sensi dell'articolo 5, comma 5-
+					<an:i>quinquies</an:i>
+					, della legge 24 febbraio 1992, n. 225. Ai fini della riparazione, ricostruzione, assistenza alla popolazione e ripresa economica, ai territori colpiti dagli eventi sismici del 18 gennaio 2017 si applica il decreto-legge 17 ottobre 2016, n. 189, convertito con modificazioni dalla legge 15 dicembre 2016, n. 229. L'importo complessivo degli stanziamenti da autorizzare è determinato con successivo provvedimento in relazione alla quantificazione dell'ammontare dei danni e delle risorse necessarie. All'onere derivante dal presente comma valutato in 100 milioni di euro per l'anno 2017, si provvede:
+				</an:p>
+				<an:p>            a) per l'importo pari a 43 milioni di euro, mediante corrispondente riduzione del il Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307;</an:p>
+				<an:p>            b) per l'importo pari a 57 milioni di euro, mediante corrispondente riduzione degli stanziamenti degli stati di previsione di parte corrente iscritti, ai fini del bilancio triennale 2017-2019, nell'ambito dei programmi ''Fondi di riserva e speciali'' delle missioni ''Fondi da ripartire'', allo scopo parzialmente utilizzando gli accantonamenti relativi al Ministero dell'economia e delle finanze per 36.000.000, al Ministero della giustizia per 3.000.000 euro, ai Ministero delle infrastrutture e dei trasporti per 7.000.000 euro, al Ministero dell'ambiente per 6.000.000 euro e al Ministero della Salute per 5.000.000 euro''».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
