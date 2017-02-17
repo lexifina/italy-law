@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/10.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/10.6"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/10.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@.akn"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/C/10.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAHXM2V4U1OMWHQTTGLWAIGPDKFE5IA2U2GXVMMQJGC50WRAS41B" href="http://dati.senato.it/23035" showAs="PELINO"/>
+				<an:TLCPerson id="ID222WJRP5B5FCLNYV5PJ103LUNIDBGWY4T2YMLXL1BU2PDFJG3URO" href="http://dati.senato.it/1407" showAs="MALAN"/>
+				<an:TLCPerson id="IDRCYRLVXNNG3VKBBIJVVPFMPASFEHM2KUS0IYWQG355OZ1O1Q2JZO" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHXM2V4U1OMWHQTTGLWAIGPDKFE5IA2U2GXVMMQJGC50WRAS41B" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID222WJRP5B5FCLNYV5PJ103LUNIDBGWY4T2YMLXL1BU2PDFJG3URO" as="#tipoSenatore">MALAN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRCYRLVXNNG3VKBBIJVVPFMPASFEHM2KUS0IYWQG355OZ1O1Q2JZO" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. A causa dell'inadeguatezza ancora permanente del nuovo Tribunale dell'Aquila ad accogliere i procedimenti dei presidi giudizi ari di Avezzano e Sulmona, unita alla carenza di strutture e infrastrutture legate alla ricostruzione non ancora completata della città dell'Aquila, e della difficoltà del palazzo di Chieti ad assorbire il carico delle circoscrizioni giudiziarie di Vasto e Lanciano, e considerato che nell'anno 2017 vengono formati i ruoli delle udienze relative all'anno 2018 ed è necessario individuare il luogo di celebrazione delle udienze, il termine di cui all'articolo 11, comma 3, primo periodo, del decreto legislativo 7 settembre 2012, n. 155, come prorogato dall'articolo 3-
+					<an:i>bis</an:i>
+					, comma 1, del decreto legge 30 dicembre 2013, n. 150, convertito, con modificazioni, dalla legge 27 febbraio 2014, n. 15, è prorogato di ulteriori quattro anni».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente,</an:i>
+					 all'onere derivante dall'applicazione del comma 2-
+					<an:i>bis</an:i>
+					, valutato in 0.5 milioni di euro a decorrere dal 2018, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282.
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
