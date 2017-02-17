@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/12.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/12.3"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/12.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@.akn"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/C/12.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXC31JVYMWJPINDYITOOEEX5BOMK5LFDZDGBTLZOYHV4XMVY4YYON" href="http://dati.senato.it/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDX5T4FBGWRIWKCMWBOP15HHWGGE3TWLUNOOHYZZ2IQMTLOOU4OF" href="http://dati.senato.it/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDFTFR0QYEKQLCJDOTQ1CT3RGR3KNKQZAR2HBLT2I4IGRYGFRNNNON" href="http://dati.senato.it/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="IDL150RFVTBQWCOSATNIVTEHITCBAOHMORQOA3MSKOUFO04YEU05LL" href="http://dati.senato.it/29188" showAs="TARQUINIO"/>
+				<an:TLCPerson id="ID0UH0TLR3JKNZ0ZVPESJQ2KXKKMNJN1NE0GXTQPXG15NLBLHUKBD" href="http://dati.senato.it/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXC31JVYMWJPINDYITOOEEX5BOMK5LFDZDGBTLZOYHV4XMVY4YYON" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX5T4FBGWRIWKCMWBOP15HHWGGE3TWLUNOOHYZZ2IQMTLOOU4OF" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFTFR0QYEKQLCJDOTQ1CT3RGR3KNKQZAR2HBLT2I4IGRYGFRNNNON" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDL150RFVTBQWCOSATNIVTEHITCBAOHMORQOA3MSKOUFO04YEU05LL" as="#tipoSenatore">TARQUINIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0UH0TLR3JKNZ0ZVPESJQ2KXKKMNJN1NE0GXTQPXG15NLBLHUKBD" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire la lettera</an:i>
+					 a) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>a)</an:i>
+					 al comma 3-
+					<an:i>bis</an:i>
+					, primo periodo, le parole: ''Fino alla data del subentro nella gestione del servizio da parte del concessionario individuato con le procedure di cui al comma 9-
+					<an:i>bis</an:i>
+					, e comunque non oltre il 31 dicembre 2017,'' sono sostituite con le seguenti: ''Fino al 31 dicembre 2017,''; al terzo periodo le parole: ''Le sanzioni relative ai SISTRI di cui all'articolo 260-
+					<an:i>bis</an:i>
+					, commi 1 e 2, del decreto legislativo 3 aprile 2086, n. 152, e successive modificazioni, si applicano a decorrere dallo aprile 2015.'' sono sostituite con le seguenti: ''Fino al collaudo con esito positivo della piena operatività del nuovo sistema di tracciabilità individuato a mezzo di procedure ad evidenza pubblica, bandite dalia Consip SPA il 26 giugno 2015, le sanzioni di cui all'articolo 260-
+					<an:i>bis</an:i>
+					, commi 1 e 2, del decreto legislativo 3 aprile, n. 152, non si applicano.'' e l'ultimo periodo è soppresso».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
