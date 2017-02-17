@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/13.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/13.7"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/13.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@.akn"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/C/13.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUDCR41VI2QLRBCDSHD3UW251BPEFSMFZQOUFCSDCHHWCFM5ZZSJG" href="http://dati.senato.it/29085" showAs="DEL BARBA"/>
+				<an:TLCPerson id="IDX3Y1WU5C04MWJ1QEVSCBMS5CMNGOCATGFJOEXVBMEHTOYFBUOEID" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+				<an:TLCPerson id="IDBBGWPK42JNQJOEQOIC1IXYEYAJP0PVX1SOOBUGNGPS45DX0WOHRN" href="http://dati.senato.it/29100" showAs="FRAVEZZI"/>
+				<an:TLCPerson id="IDSMLLAUU2YXTIN4L5KIYNKVGTZ0RMZ1253S4H2K1JLPOEBBBQF2J" href="http://dati.senato.it/29071" showAs="COCIANCICH"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.7 (testo 4)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUDCR41VI2QLRBCDSHD3UW251BPEFSMFZQOUFCSDCHHWCFM5ZZSJG" as="#tipoSenatore">DEL BARBA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX3Y1WU5C04MWJ1QEVSCBMS5CMNGOCATGFJOEXVBMEHTOYFBUOEID" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBBGWPK42JNQJOEQOIC1IXYEYAJP0PVX1SOOBUGNGPS45DX0WOHRN" as="#tipoSenatore">FRAVEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSMLLAUU2YXTIN4L5KIYNKVGTZ0RMZ1253S4H2K1JLPOEBBBQF2J" as="#tipoSenatore">COCIANCICH</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					«2-
+					<an:i>bis</an:i>
+					. L'efficacia delle pretese tributarie relative al disconoscimento dell'esecuzione dell'articolo 52, comma 3, lettera 
+					<an:i>b</an:i>
+					), del decreto legislativo n. 504 del 1995, nei confronti dei consorzi e delle società consortili che hanno prodotto energia elettrica da fonti rinnovabili per uso proprio, per uso delle imprese associate e dei loro soci, è sospesa, su istanza di parte, fino alla definizione di impresa di autoproduzione di energia elettrica da fonti rinnovabili, da valere a tutti gli effetti di legge, e comunque non oltre il 30 novembre 2017.»
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
