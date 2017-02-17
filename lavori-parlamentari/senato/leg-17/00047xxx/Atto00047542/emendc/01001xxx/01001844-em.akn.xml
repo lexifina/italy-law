@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2630/12/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@.akn"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/12/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIF22TII14IZNIK3OEZNBK0OMBCLLP0CWPSBRDFPULVMMN0IODSIO" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDCN4C0FRMK31KPZFNZGYDHM52RPHCGBE1LRJFSYHZS1YLK2NF0IEO" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="IDPDXTYRPDILLQQJD1WTCMXRIKMORVSXPQHZFGNGFQLHELPG0FUFO" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2630/12/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIF22TII14IZNIK3OEZNBK0OMBCLLP0CWPSBRDFPULVMMN0IODSIO" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCN4C0FRMK31KPZFNZGYDHM52RPHCGBE1LRJFSYHZS1YLK2NF0IEO" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPDXTYRPDILLQQJD1WTCMXRIKMORVSXPQHZFGNGFQLHELPG0FUFO" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il comma 4 dell'articolo 6 del provvedimento in esame dispone il differimento al 1º gennaio 2018 dell'applicazione alla RAI delle misure di contenimento di spesa in materia di gestione, organizzazione, contabilità, finanza, investimenti e disinvestimenti previste a legislazione vigente per le pubbliche amministrazioni;</an:p>
+				<an:p>            praticamente, questa deroga rinvia di un anno l'obbligo per la concessionaria del servizio pubblico radiotelevisivo di rispettare i vincoli su appalti, acquisti e assunzioni cui sono soggetti gli enti pubblici, e quindi anche la Rai visto che da ottobre è stata inserita dall'Istat nel perimetro della pubblica amministrazione visto che i proventi dell'attività commerciale valgono meno del 50 per cento dei ricavi;</an:p>
+				<an:p>            se la Rai fosse trattata come una Pubblica Amministrazione a tutti gli effetti dovrebbe poter assumere i propri dirigenti solo per concorso, effettuare acquisti solo attraverso la centrale Consip e rispettare il Codice dei contratti pubblici quando si affidano lavori e forniture o si compra un'opera audiovisiva;</an:p>
+				<an:p>            i vertici aziendali avevano già espresso forte preoccupazione per queste limitazioni, temendo la competitività nei confronti degli altri operatori televisivi (nonostante per l'anno 2017 le previsioni stimate di introiti derivanti dal canone Rai sono di circa 2 miliardi, superiori di circa 400 mila euro rispetto a pochi anni fa e gli incassi da pubblicità sono superiori ai 500 mila euro);</an:p>
+				<an:p>
+					            la Rai (una società per azioni che esercita un'attività di servizio pubblico, interamente partecipata dallo Stato, le cui quote appartengono per il 99,56 per cento al Ministero dell'economia e delle finanze e per lo 0,44 alla Siae) opera in concorrenza con le tv generaliste per scelte di programmazione, 
+					<an:i>audience</an:i>
+					 e vendita di contenuti, eppure per moltissimi anni ha sostenuto dei costi esagerati rispetto al suo principale 
+					<an:i>competitor</an:i>
+					, soprattutto in relazione ai costi del personale;
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a procedere all'applicazione immediata delle disposizioni relative al contenimento di spesa in materia di gestione, organizzazione, contabilità, finanza, investimenti e disinvestimenti previste a legislazione vigente per le pubbliche amministrazioni, anche per la concessionaria del servizio pubblico, così come predisposto dall'Istat.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
