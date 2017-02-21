@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/5.301/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/5.301"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/A/5.301/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.301"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@.akn"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/A/5.301/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3YYLBHCA1OEVLMTTCSFEBMTNJEE4JEYMLCW1OHG1GZXOM3RUKSGE" href="http://dati.senato.it/25464" showAs="MAZZONI"/>
+				<an:TLCPerson id="IDHCQ0ZBJLQ3X2JFGH4JEIQCAAKGIKAT5RRFYJDFG5BGKSLBJQ5L" href="http://dati.senato.it/22863" showAs="BARANI"/>
+				<an:TLCPerson id="ID3MV41JXSOVJPCMX42XUCIVIXIGE3SCGA0QRDWCKEVSXBZ4TDD0WD" href="http://dati.senato.it/25458" showAs="MILO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.301</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3YYLBHCA1OEVLMTTCSFEBMTNJEE4JEYMLCW1OHG1GZXOM3RUKSGE" as="#tipoSenatore">MAZZONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHCQ0ZBJLQ3X2JFGH4JEIQCAAKGIKAT5RRFYJDFG5BGKSLBJQ5L" as="#tipoSenatore">BARANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3MV41JXSOVJPCMX42XUCIVIXIGE3SCGA0QRDWCKEVSXBZ4TDD0WD" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 11 aggiungere i seguenti:</an:p>
+				<an:p>
+					        «11-
+					<an:i>bis.</an:i>
+					 Il termine di cui all'articolo 9, comma 4, secondo periodo, della legge 6 luglio 2012, n. 96, è prorogato al 15 giugno 2017 per gli esercizi 2013, 2014 e 2015.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>ter.</an:i>
+					 All'articolo 9 della legge 6 luglio 2012, n. 96 sono apportate le seguenti modificazioni: al comma 1, primo periodo e al comma 4, secondo periodo, sostituire le parole «che abbiano conseguito almeno il 2 per cento dei voti validi espressi nelle elezioni per il rinnovo della Camera dei deputati ovvero che abbiano almeno un rappresentante eletto alla Camera medesima, al Senato della Repubblica o al Parlamento europeo o in un consiglio regionale o nei consigli delle province autonome di Trento e di Bolzano» con le seguenti: «che abbiano almeno un rappresentante eletto alla Camera dei deputati, al Senato della Repubblica o al Parlamento europeo»; al comma 2 dopo le parole: «ciascun partito e movimento politico» aggiungere le seguenti: «iscritto al registro di cui all'articolo 4 del decreto-legge 28 dicembre 2013, n. 149 convertito con modificazioni dalla legge n. 13 del 2014».
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>quater.</an:i>
+					 Le disposizioni di cui al comma 2 si applicano a decorrere dalla data di entrata in vigore della legge 6 luglio 2012, n 96».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
