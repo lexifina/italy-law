@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/6.84/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/6.84"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/A/6.84/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.84"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@.akn"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/A/6.84/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3GH4IWNU3I3YLBAAZYQ3E12Q0K3W4HX3C3RBQPPWUB0B2YTETBDJ" href="http://dati.senato.it/29141" showAs="MORGONI"/>
+				<an:TLCPerson id="IDFF2TAFNHLXN0MLBRQQBAFKZ5FGU0TFZJNM0DUGH1OUN2MUMDKJVP" href="http://dati.senato.it/29107" showAs="GINETTI"/>
+				<an:TLCPerson id="IDXYOCORKB2C2THVC5RTD1OOZBKP12HZAASS1DQAIKK21MNKC2DMNK" href="http://dati.senato.it/23060" showAs="Luciano ROSSI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.84</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3GH4IWNU3I3YLBAAZYQ3E12Q0K3W4HX3C3RBQPPWUB0B2YTETBDJ" as="#tipoSenatore">MORGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFF2TAFNHLXN0MLBRQQBAFKZ5FGU0TFZJNM0DUGH1OUN2MUMDKJVP" as="#tipoSenatore">GINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXYOCORKB2C2THVC5RTD1OOZBKP12HZAASS1DQAIKK21MNKC2DMNK" as="#tipoSenatore">Luciano ROSSI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 10, aggiungere i seguenti:</an:p>
+				<an:p>
+					        «10-
+					<an:i>bis.</an:i>
+					 All'articolo 3, comma 2, lettera 
+					<an:i>a)</an:i>
+					 del decreto del Ministero dello Sviluppo Economico del 23 giugno 2016; dopo le parole: ''di cui all'articolo 4, comma 3'' sono aggiunte le parole: ''e per gli impianti solari termodinamici soggetti a procedura d'asta''.
+				</an:p>
+				<an:p>
+					        10-
+					<an:i>ter.</an:i>
+					 All'articolo 12, comma 2, del decreto del Ministero dello Sviluppo Economico del 23 giugno 2016, in fine, è aggiunto il seguente periodo: ''Per i contingenti non assegnati entro il 10 dicembre 2016 con le procedure di cui al comma 1, relativi agli impianti solari termodinamici, il GSE pubblica un secondo bando entro il 20 agosto 2017. Il bando è pubblicato dieci giorni prima dell'inizio del periodo di presentazione delle domande di partecipazione, fissato in novanta giorni''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
