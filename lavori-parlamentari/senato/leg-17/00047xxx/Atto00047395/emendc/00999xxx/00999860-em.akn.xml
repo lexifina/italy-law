@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2583/C/5.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2583/C/5.13"/>
+					<an:FRBRdate date="2017-02-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2583/C/5.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@"/>
+					<an:FRBRdate date="2017-02-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@.akn"/>
+					<an:FRBRdate date="2017-02-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2583/C/5.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2583" showAs="DDL 2583"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4B02TRGUU4FCC12HFUP0X0PF0DUHO1ASOG3UEJJRBLYPGB35ZGH" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDZT2A0OSHX0C3P02Y5HA5O3P4JCB2ZAYA10FSJGPWA4GGY41IYHQB" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDKCIKM51YJTR1BH1UJN4G2C0ANJ1KD2GG4VY5DZD3JG2EE3HTE31F" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDCEDOQQB45PYFCOXTFASX5GYN0MRQBNRMK5NP4TFU5ZT40S2Q1QMO" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2583</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4B02TRGUU4FCC12HFUP0X0PF0DUHO1ASOG3UEJJRBLYPGB35ZGH" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZT2A0OSHX0C3P02Y5HA5O3P4JCB2ZAYA10FSJGPWA4GGY41IYHQB" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKCIKM51YJTR1BH1UJN4G2C0ANJ1KD2GG4VY5DZD3JG2EE3HTE31F" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCEDOQQB45PYFCOXTFASX5GYN0MRQBNRMK5NP4TFU5ZT40S2Q1QMO" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «Art. 19-
+					<an:i>bis</an:i>
+					»
+					<an:i>, comma 4, dopo le parole:</an:i>
+					 «socio sanitari»
+					<an:i>, inserire le seguenti:</an:i>
+					 «non invasivi».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
