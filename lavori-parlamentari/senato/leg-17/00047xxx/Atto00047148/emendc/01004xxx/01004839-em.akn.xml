@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11"/>
+					<an:FRBRdate date="2017-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2494/5/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@"/>
+					<an:FRBRdate date="2017-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@.akn"/>
+					<an:FRBRdate date="2017-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2494/C/G/2494/5/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2494" showAs="DDL 2494"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTKZHMPJ431AKG3BVGFLLBTHHTPXYKETR3U20GXDFITRS33WWPDAJ" href="http://dati.senato.it/29095" showAs="FAVERO"/>
+				<an:TLCPerson id="IDBCEAOSVX2A3CJC2ZEC00GYUDWPOZVMFMPYJHJN5EORHFZ4JLQHH" href="http://dati.senato.it/29162" showAs="PEZZOPANE"/>
+				<an:TLCPerson id="IDNAKIADVVSLKX35FIKIECELLQFJWNQVFFY5YP2LZNCMXVXJLH50E" href="http://dati.senato.it/29184" showAs="SPILABOTTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2494</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2494/5/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTKZHMPJ431AKG3BVGFLLBTHHTPXYKETR3U20GXDFITRS33WWPDAJ" as="#tipoSenatore">FAVERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBCEAOSVX2A3CJC2ZEC00GYUDWPOZVMFMPYJHJN5EORHFZ4JLQHH" as="#tipoSenatore">PEZZOPANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNAKIADVVSLKX35FIKIECELLQFJWNQVFFY5YP2LZNCMXVXJLH50E" as="#tipoSenatore">SPILABOTTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge recante «Delega recante norme relative al contrasto della povertà, al riordino delle prestazioni e al sistema degli interventi e dei servizi sociali» (A.S. 2494),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il disegno di legge in esame reca una disciplina di delega al Governo concernente il contrasto della povertà, il riordino delle relative prestazioni assistenziali ed il coordinamento del sistema degli interventi in materia di servizi sociali;</an:p>
+				<an:p>            nel corso degli anni, sono aumentati gli oneri per l'assistenza e la cura di persone anziane con disabilità e in condizione di non autosufficienza;</an:p>
+				<an:p>            il numero di persone in età avanzata è destinato ad aumentare in Italia, nell'arco di un decennio, mentre il numero di non autosufficienti crescerà più velocemente della media europea;</an:p>
+				<an:p>
+					            le politiche di 
+					<an:i>welfare</an:i>
+					 sono impegnate sempre più ad intervenire non solo nei casi di non autonomia e non autosufficienza ma anche sulle condotte di crisi che determinano la riduzione in povertà di tali persone già fortemente svantaggiate per le loro condizioni di salute;
+				</an:p>
+				<an:p>            sono quindi necessarie nuove misure che si sostituiscano a quelle attuali e che aumentino il benessere delle persone disabili e non autosufficienti, e dei loro familiari, a rischio povertà, in modo coerente con le loro condizioni specifiche;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di prevedere, attraverso atti di propria competenza, una serie di misure, in sostituzione di quelle vigenti, di sostegno ai disabili e non autosufficienti di tutte le età a rischio di povertà, rapportate alla entità e caratteristica del loro bisogno di assistenza, cui si aggiungano opportunità di inserimento lavorativo attivo per evitare la loro esclusione sociale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
