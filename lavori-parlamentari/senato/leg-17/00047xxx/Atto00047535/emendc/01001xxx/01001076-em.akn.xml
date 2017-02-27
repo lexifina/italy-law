@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2629/C/15.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2629/C/15.2"/>
+					<an:FRBRdate date="2017-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2629/C/15.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@"/>
+					<an:FRBRdate date="2017-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@.akn"/>
+					<an:FRBRdate date="2017-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2629/C/15.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2629" showAs="DDL 2629"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFZCZN2HIPTDQJ40N2BUUF2VMUHMLDBJN04CFNPBTDLESMC2SYWEK" href="http://dati.senato.it/2064" showAs="Paolo ROMANI"/>
+				<an:TLCPerson id="IDPCMU3GESP3N5O3NSN2T2XLEDDJUY4BUUAJWLH2DFNHKRW5BN14ZF" href="http://dati.senato.it/25206" showAs="SCIASCIA"/>
+				<an:TLCPerson id="ID43NZGSYS0YJCDVFSHOG5LUA5UHNDJ4RAOYCYKYPZJ4SIVNNLCQHC" href="http://dati.senato.it/500" showAs="CARRARO"/>
+				<an:TLCPerson id="IDWZX1ESXXKE3MSBO5EQ5GBZGGK1DRDKYWLBL0YNBKMHIWOHJHI2E" href="http://dati.senato.it/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDWZBQAARZW1DPMJ2DCCMNKIBLZBFWOCI5ZLJUBKPXNQ2HTYTAIBP" href="http://dati.senato.it/29103" showAs="GALIMBERTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2629</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFZCZN2HIPTDQJ40N2BUUF2VMUHMLDBJN04CFNPBTDLESMC2SYWEK" as="#tipoSenatore">Paolo ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPCMU3GESP3N5O3NSN2T2XLEDDJUY4BUUAJWLH2DFNHKRW5BN14ZF" as="#tipoSenatore">SCIASCIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID43NZGSYS0YJCDVFSHOG5LUA5UHNDJ4RAOYCYKYPZJ4SIVNNLCQHC" as="#tipoSenatore">CARRARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWZX1ESXXKE3MSBO5EQ5GBZGGK1DRDKYWLBL0YNBKMHIWOHJHI2E" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWZBQAARZW1DPMJ2DCCMNKIBLZBFWOCI5ZLJUBKPXNQ2HTYTAIBP" as="#tipoSenatore">GALIMBERTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, aggiungere, in fine, la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>f-bis)</an:i>
+					 la dichiarazione dell'azzeramento di tutti i bonus ed emolumenti accessori legati alla produttività erogati al personale dirigente della medesima».  
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
