@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/6.38/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/6.38"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/C/6.38/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.38"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@.akn"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/C/6.38/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 2° riunite" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDDFRAGTQ0NX0IKHQMGMMSA3GAMDRLVBN1EUHWIHBHJPPL1XVM1XL" href="http://dati.senato.it/29042" showAs="BATTISTA"/>
+				<an:TLCPerson id="IDS3Q0PEIB3BRWGEBLXSCVXD5BDJKWJXAHUTD34KM4ZZ4JG2LGSJTH" href="http://dati.senato.it/29149" showAs="ORELLANA"/>
+				<an:TLCPerson id="IDSHH1OTPFKTOMDM0KHBLUTK2ITCGJ3WATQINT121XNT4GQQCZ5P" href="http://dati.senato.it/29155" showAs="PALERMO"/>
+				<an:TLCPerson id="IDHNHLXG4DGIJ4DV3I5EGPAAYW4B034SO2VO3OONCOGG5QSPJH1QS" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.38</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDDFRAGTQ0NX0IKHQMGMMSA3GAMDRLVBN1EUHWIHBHJPPL1XVM1XL" as="#tipoSenatore">BATTISTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS3Q0PEIB3BRWGEBLXSCVXD5BDJKWJXAHUTD34KM4ZZ4JG2LGSJTH" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSHH1OTPFKTOMDM0KHBLUTK2ITCGJ3WATQINT121XNT4GQQCZ5P" as="#tipoSenatore">PALERMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHNHLXG4DGIJ4DV3I5EGPAAYW4B034SO2VO3OONCOGG5QSPJH1QS" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 c) 
+					<an:i>al capoverso:</an:i>
+					 «Art. 14»
+					<an:i>, sono apportate le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					        a) 
+					<an:i>al comma 2, sostituire il primo periodo con il seguente:</an:i>
+					 «Il verbale della trascrizione è sottoscritto dal presidente o dal componente della Commissione territoriale che ha condotto il colloquio, dall'interprete e dal richiedente.»;
+				</an:p>
+				<an:p>
+					        b) 
+					<an:i>al comma 4, dopo le parole:</an:i>
+					 «in lingua italiana»
+					<an:i>, aggiungere le seguenti:</an:i>
+					 «o in una lingua a lui comprensibile»;
+				</an:p>
+				<an:p>
+					        c) 
+					<an:i>al comma 5, aggiungere in fine le seguenti parole:</an:i>
+					 «e al verbale di trascrizione.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
