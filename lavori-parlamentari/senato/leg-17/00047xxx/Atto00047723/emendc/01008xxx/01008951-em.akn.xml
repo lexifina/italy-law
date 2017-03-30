@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/8.57/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/8.57"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/C/8.57/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8.57"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@.akn"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/C/8.57/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 2° riunite" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDT5R3HKHGXJV2EWMI1P5TCEZKVNQDFGUJX0IOQCCECBROQ5RSGAQO" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDFYPSRYL3FBDVGJ4ZHLERPMKW5PKWSMB41IOY5LLEDAXBGU2QKJUO" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDYBFBII5YTW1YFWDNN4OESDLABPVTMU05RBES04JRCP4QQUQZBZEH" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDXJ4NULKFHMAXIDTOPEN2I1CUSNJO20WOWPC1MXEO2LAIMM5LA4XO" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8.57</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT5R3HKHGXJV2EWMI1P5TCEZKVNQDFGUJX0IOQCCECBROQ5RSGAQO" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFYPSRYL3FBDVGJ4ZHLERPMKW5PKWSMB41IOY5LLEDAXBGU2QKJUO" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYBFBII5YTW1YFWDNN4OESDLABPVTMU05RBES04JRCP4QQUQZBZEH" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXJ4NULKFHMAXIDTOPEN2I1CUSNJO20WOWPC1MXEO2LAIMM5LA4XO" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 d) 
+					<an:i>capoverso</an:i>
+					 «Art. 22-
+					<an:i>bis</an:i>
+					»
+					<an:i>, è aggiunto il seguente periodo:</an:i>
+					 «I prefetti inviano annualmente al Ministero dell'interno una relazione contenente i dati sul monitoraggio dell'applicazione di quanto previsto dal presente articolo».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 20, comma 1, aggiungere le seguenti parole:</an:i>
+					 «nonché alle relazioni dei prefetti di cui all'articolo 8, comma 1, lettera 
+					<an:i>d)</an:i>
+					».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
