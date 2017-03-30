@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/19.24/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/19.24"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/C/19.24/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.24"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@.akn"/>
+					<an:FRBRdate date="2017-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/C/19.24/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 2° riunite" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLHAKGOXLHDQBDQEK10BHQAU24KNQAEWEHSK41X132U4IZ5ZYQ0I" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDAYVNAU1JJXFSJEJ3TLEX0SHVDMTQRCOW4XBVALPS52FOO5Y2XW3N" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDNFVL1J0JMNUJKFGXXP3FQ4WKYHHWYFW3F1YGXSL51LXZXN52XVEN" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.24</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLHAKGOXLHDQBDQEK10BHQAU24KNQAEWEHSK41X132U4IZ5ZYQ0I" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYVNAU1JJXFSJEJ3TLEX0SHVDMTQRCOW4XBVALPS52FOO5Y2XW3N" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNFVL1J0JMNUJKFGXXP3FQ4WKYHHWYFW3F1YGXSL51LXZXN52XVEN" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, al secondo periodo sostituire le parole:</an:i>
+					 «La dislocazione dei»
+					<an:i>, con le seguenti:</an:i>
+					 «L'individuazione dei siti e delle aree ove saranno dislocati i»
+					<an:i>, e  sostituire la parola:</an:i>
+					 «sentito»
+					<an:i>, con le seguenti:</an:i>
+					 «d'intesa con» 
+					<an:i>e dopo la parola:</an:i>
+					 «interessata»
+					<an:i>, aggiungere le seguenti:</an:i>
+					 «e con i Sindaci dei comuni interessati».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
