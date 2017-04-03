@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 1482/2017
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE PRIMA BIS
+- Numero provvedimento: 201701482
+- Numero di ricorso (NRG): 200105796
+- Data di pubblicazione: 2017-04-03
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2001-05-15
+- Oggetto del ricorso: ESCLUSIONE DAL CONCORSO A 960 POSTI PER L'AMMISSIONE NEL RUOLO TRUPPA IN SERVIZIO PERMANENTE DELLA MARINA MILITARE.RICORSO PEER REGOLAMENTO DI COMPETENZA DAL TAR PUGLIA SEZ.LECCE CON D.P.N.498/2001
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
