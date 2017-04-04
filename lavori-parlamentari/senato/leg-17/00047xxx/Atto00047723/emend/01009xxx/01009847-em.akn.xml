@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/17.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/17.15"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/17.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="17.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/17.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDK150MJEJCYO1HZKVDG55WW5BPHV11L352GTZV5H3J4AETPMGPUXE" href="http://dati.senato.it/22337" showAs="CASSON"/>
+				<an:TLCPerson id="ID4PGJ45Y3POWMBHZJ4RMGUKZ3IGK3WFSAPPJZQXHXDZ40DWANOFJJ" href="http://dati.senato.it/29088" showAs="DIRINDIN"/>
+				<an:TLCPerson id="IDMTPKV0WV0X0CIKDPGGVMFPM5VOKADPM5WMDS4OIIWM4J1YLQ45EO" href="http://dati.senato.it/29167" showAs="RICCHIUTI"/>
+				<an:TLCPerson id="IDWLXL1E2THUE0CAIZJRHORPUJJLARHO34P0KWX2EPZVJZVK3ITEPK" href="http://dati.senato.it/25229" showAs="GRANAIOLA"/>
+				<an:TLCPerson id="IDX3TO2WICTMHXBVX5RH0V4XHDYG4DV1TDS2P4NEPDEDMVDQDYGIYH" href="http://dati.senato.it/4387" showAs="CORSINI"/>
+				<an:TLCPerson id="IDSIYRTNECI1PHBEWJHRLXK3TFGNIT11H1RPOWVXN30RXEUBMRDJPI" href="http://dati.senato.it/29137" showAs="MINEO"/>
+				<an:TLCPerson id="IDVVMRVPTEYB5WNAGFBKMNXJHCDDDH12IYAZGBZHCMRSZIKSPUXP1F" href="http://dati.senato.it/29146" showAs="MUSSINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 17.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK150MJEJCYO1HZKVDG55WW5BPHV11L352GTZV5H3J4AETPMGPUXE" as="#tipoSenatore">CASSON</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4PGJ45Y3POWMBHZJ4RMGUKZ3IGK3WFSAPPJZQXHXDZ40DWANOFJJ" as="#tipoSenatore">DIRINDIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMTPKV0WV0X0CIKDPGGVMFPM5VOKADPM5WMDS4OIIWM4J1YLQ45EO" as="#tipoSenatore">RICCHIUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWLXL1E2THUE0CAIZJRHORPUJJLARHO34P0KWX2EPZVJZVK3ITEPK" as="#tipoSenatore">GRANAIOLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX3TO2WICTMHXBVX5RH0V4XHDYG4DV1TDS2P4NEPDEDMVDQDYGIYH" as="#tipoSenatore">CORSINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSIYRTNECI1PHBEWJHRLXK3TFGNIT11H1RPOWVXN30RXEUBMRDJPI" as="#tipoSenatore">MINEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVVMRVPTEYB5WNAGFBKMNXJHCDDDH12IYAZGBZHCMRSZIKSPUXP1F" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, capoverso «Art. 10-ter», alla fine del comma 2 è inserito il seguente periodo: «Tali operazioni si svolgono nei locali della questura dopo che sia stato svolto il colloquio. Si osservano le disposizioni previste nei commi 1-ter, 1-quater, 1-quinquies, 1-sexies, 1-septies».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
