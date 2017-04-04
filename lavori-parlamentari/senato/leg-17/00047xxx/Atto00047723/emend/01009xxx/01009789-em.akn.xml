@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G9.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G9.100"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G9.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G9.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/G9.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDO3DLHZOJEYS2JM54F0CVBR5JCOBC42FQHKZLGPBR2GVZSLYGOCJP" href="http://dati.senato.it/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDDLXXPC3YPBUXJXYTI3FNYGAEZBZOJ2JPQOGNCMOUGOMFCYZF3GEM" href="http://dati.senato.it/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDEDEUNWWFWVLOE12EQ4ULXYIITIB0KNOD3HREMTBIQPFJ2ODQJUSD" href="http://dati.senato.it/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="ID50NIYE2HJP4AKM13XTWZSU5Y5FXPF1ODIHSEYBYKPNVMYSZHQEH" href="http://dati.senato.it/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G9.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO3DLHZOJEYS2JM54F0CVBR5JCOBC42FQHKZLGPBR2GVZSLYGOCJP" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDLXXPC3YPBUXJXYTI3FNYGAEZBZOJ2JPQOGNCMOUGOMFCYZF3GEM" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEDEUNWWFWVLOE12EQ4ULXYIITIB0KNOD3HREMTBIQPFJ2ODQJUSD" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID50NIYE2HJP4AKM13XTWZSU5Y5FXPF1ODIHSEYBYKPNVMYSZHQEH" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge n. 2705 recante: «Conversione in legge del decreto-legge 17 febbraio 2017, n. 13, recante disposizioni urgenti per l'accelerazione dei procedimenti in materia di protezione internazionale, nonché per il contrasto dell'immigrazione illegale»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            una maggiore integrazione dei cittadini stranieri che vivono regolarmente nel nostro paese e che intendano far arrivare propri familiari sul territorio nazionale, al fine del ricongiungimento, necessita che i richiedenti tale ricongiungimento si trovino in condizioni economiche e patrimoniali tali da poter provvedere ai bisogni dei propri familiari, senza che ciò si traduca in un ulteriore onere a carico della finanza pubblica;</an:p>
+				<an:p>            l'eventuale ricongiungimento, ove implichi per i cittadini stranieri il riconoscimento di provvidenze pubbliche, ovvero di beni o servizi pubblici o di pubblica utilità, non debba, a parità di condizioni andare a discapito di quelle fasce di cittadini italiani, che già si confrontano con gravi situazioni di disagio ed emarginazione economico-sociali,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a prevedere adeguate misure atte a modificare le attuali condizioni economiche previste per i ricongiungimenti, come, ad esempio l'aumento del reddito percepito dal richiedente che intenda ricongiungersi con un familiare, ad un importo almeno doppio di quello dell'assegno sociale, ovvero, l'aumento sino al quadruplo di tale assegno, nelle ipotesi di ricongiungimenti con uno o più figli minori di quattordici anni di età;</an:p>
+				<an:p>            a prevedere, altresì, adeguate misure che, ove dal ricongiungimento derivino per il nucleo familiare condizioni reddituali o patrimoniali che danno diritto a provvidenze pubbliche, ovvero alla fruizione di beni o servizi pubblici o di pubblica utilità, garantiscano in via prioritaria ai cittadini italiani, a parità di condizioni con gli stranieri, la fruizione di tali diritti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
