@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G18.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G18.200"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G18.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G18.200"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/G18.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJVU2FIQFQQ3BLV2RZ5JDSAWMEGKCJMMTZJ03VENGMHTCFU1LBCOK" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="ID0HS3LNRTREPAOBUVNJX2BSSECFD2KFRBCIRSVVDIHHU1OFFNCJAH" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDDTAOWCFTS12COCOPOVATIWW0WDQLLFZA0UD1AZUBSHH0COEGXQN" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G18.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJVU2FIQFQQ3BLV2RZ5JDSAWMEGKCJMMTZJ03VENGMHTCFU1LBCOK" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0HS3LNRTREPAOBUVNJX2BSSECFD2KFRBCIRSVVDIHHU1OFFNCJAH" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDTAOWCFTS12COCOPOVATIWW0WDQLLFZA0UD1AZUBSHH0COEGXQN" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        esaminato il disegno di legge recante «Conversione in legge del decreto-legge 17 febbraio 2017, n. 13, recante disposizioni urgenti per l'accelerazione dei procedimenti in materia di protezione internazionale, nonché per il contrasto dell'immigrazione illegale»;</an:p>
+				<an:p>            rilevato che il programma di ricollocazione, c.d. «Relocation», adottato dall'Unione Europea nell'ambito dell'Agenda Europea sulla Migrazione del 3 maggio 2015 e divenuto operativo nel settembre del medesimo anno per effetto delle Decisioni del Consiglio Europeo n. 1523 e n. 1601, prevedeva, in parziale deroga al Regolamento «Dublino III» (1.604/2013), una prima fase per la redistribuzione di circa 40 mila richiedenti protezione internazionale da Italia e Grecia in altri Stati membri dell'Unione entro il 26 settembre 2017;</an:p>
+				<an:p>
+					            preso atto che secondo quanto stabilito possono beneficiare del ricollocamento solo i richiedenti protezione internazionale «
+					<an:i>in clear need of protection</an:i>
+					», ossia appartenenti a determinate nazionalità, o apolidi, per le quali il tasso di riconoscimento della protezione internazionale, sulla base dei dati Eurostat dell'ultimo quadrimestre, è pari o superiore al 75 per cento, cioè siriani, iracheni e eritrei;
+				</an:p>
+				<an:p>            rilevato infine che al 27 febbraio 2017 risultano ricollocati dall'Italia solo 3.703 richiedenti protezione internazionale e che le nazionalità dei richiedenti indicate nel piano di ricollocamento europeo non risultano, secondo i dati disponibili al 31.12.2016, tra quelle dichiarate al momento del foto segnalamento per asilo politico né tra quelle dei richiedenti asilo, dove ai primi posti tra i paesi di origine vi sono Nigeria, Pakistan, Gambia, Senegal e Costa d'Avorio,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad adottare idonee iniziative nelle opportune sedi al fine di procedere ad una revisione degli accordi adottati in ambito europeo per estendere la possibilità del ricollocamento a richiedenti protezione internazionale di altre nazionalità rispetto a quelle già individuate dal piano europeo.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
