@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/18.0.11"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.0.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/18.0.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2GRP34AKELC0EZCUOZNOZZX4DBFKA1QGBPICTMGOVU41ECA231ZN" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDYZPDUT4XSVIQHCVI3BU1GA52JHQGINX33KPYZONNLGMTLF0CREFB" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDJ5AJOLBE42LPOH1NFD3XGNFKJIMZMS1SFPMTGCJN0C5TE0MVOPD" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDMA52CR2FUTVFFAHL41ZXW1MC5FP3WMB5N2NZF4FJ2SRKENRAMUEM" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.0.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2GRP34AKELC0EZCUOZNOZZX4DBFKA1QGBPICTMGOVU41ECA231ZN" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYZPDUT4XSVIQHCVI3BU1GA52JHQGINX33KPYZONNLGMTLF0CREFB" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ5AJOLBE42LPOH1NFD3XGNFKJIMZMS1SFPMTGCJN0C5TE0MVOPD" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMA52CR2FUTVFFAHL41ZXW1MC5FP3WMB5N2NZF4FJ2SRKENRAMUEM" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 18-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni concernenti la polizia locale)</an:i>
+				</an:p>
+				<an:p>        1. Dopo il secondo comma dell'articolo 9 della legge 10 aprile 1981, n. 121, sono inseriti i seguenti:</an:p>
+				<an:p>        "L'accesso ai dati e alle informazioni di cui al primo comma è altresì consentito agli agenti ufficiali di polizia giudiziaria appartenenti alla polizia locale autorizzati, ai sensi dell'articolo 11, con apposito regolamento di attuazione.</an:p>
+				<an:p>        È escluso, per i sottoufficiali e agenti di polizia locale di cui al terzo comma del presente articolo, l'accesso ai dati e alle informazioni secretati di cui all'articolo 21 della legge 26 marzo 2001, n. 128.</an:p>
+				<an:p>        Il regolamento di cui al terzo comma garantisce comunque l'accesso ai dati relativi ai veicoli rubati, ai documenti d'identità rubati o smarriti, alle informazioni concernenti i permessi di soggiorno rilasciati e rinnovati, ai precedenti penali nonché ai provvedimenti amministrativi penali pendenti riguardanti persone e cose.</an:p>
+				<an:p>        Gli appartenenti alla polizia locale conferiscono al Centro elaborazione dati del Dipartimento della pubblica sicurezza, senza ritardo, le notizie e le informazioni acquisite nel corso delle attività di prevenzione e di repressione dei reati nonché di quelle amministrative, secondo modalità tecniche individuate con il regolamento di cui al terzo comma".</an:p>
+				<an:p>        2. Il regolamento di attuazione di cui al terzo comma dell'articolo 9 della legge 10 aprile 1981, n. 121, introdotto dal comma 1 del presente articolo, è adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro sei mesi dalla data di entrata in vigore nella presente legge.</an:p>
+				<an:p>
+					        3. Il comma 1 dell'articolo 16-
+					<an:i>quater</an:i>
+					 del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68, e successive modificazioni, è sostituito dal seguente:
+				</an:p>
+				<an:p>        "1. Gli operatori di polizia locale accedono gratuitamente ai sistemi informativi automatizzati del pubblico registro automobilistico, della Direzione generale della motorizzazione civile e delle camere di commercio, industria, artigianato e agricoltura"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
