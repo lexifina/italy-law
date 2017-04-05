@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/G8.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/G8.100"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2756/A/G8.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@.akn"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2756/A/G8.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2756" showAs="DDL 2756"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBMXO45MT3FQPI0AOVWQF0CDPOJRKF5ULZCVTB4BTXTUVBLSVRM0H" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDSZFAMO1ORJBMJSGQO0CDMZILFBQNIXJ3LUYAU5NRH2KSHCTW1XYH" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDJHFFMJYYKPMCFQ3Q0TSH40O1IBUPYNVRTO4LTLICYUN1JVGNMZ2E" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDV53H4UKTTUC2GZZIFGRPFQIQXLZ0GALJCVS44EIL52KXH0F4YRZK" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDIMR1RTYU4FJSJLZCQYRVBZ4PHN1CO3NOT3HIVLSEPKVCAL4BOVP" href="http://dati.senato.it/23035" showAs="PELINO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2756</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBMXO45MT3FQPI0AOVWQF0CDPOJRKF5ULZCVTB4BTXTUVBLSVRM0H" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSZFAMO1ORJBMJSGQO0CDMZILFBQNIXJ3LUYAU5NRH2KSHCTW1XYH" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJHFFMJYYKPMCFQ3Q0TSH40O1IBUPYNVRTO4LTLICYUN1JVGNMZ2E" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV53H4UKTTUC2GZZIFGRPFQIQXLZ0GALJCVS44EIL52KXH0F4YRZK" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIMR1RTYU4FJSJLZCQYRVBZ4PHN1CO3NOT3HIVLSEPKVCAL4BOVP" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del disegno di legge di conversione del decreto-legge 9 febbraio 2017, n.8, recante, nuovi interventi urgenti in favore delle popolazioni colpite dagli eventi sismici del 2016 e del 2017,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 8 del decreto-legge reca disposizioni in materia di legalità e trasparenza;</an:p>
+				<an:p>            la norma modifica l'articolo 30 del decreto-legge n. 189 del 2016, concernente la prevenzione e il contrasto delle infiltrazioni della criminalità organizzata nell'affidamento e nell'esecuzione dei contratti post-sisma specificando, in particolare, la procedura per la copertura dell'onere, che avverrà mediante corrispondente versamento all'entrata del bilancio dello Stato delle risorse della contabilità speciale del Commissario straordinario, per la successiva riassegnazione ad apposito capitolo dello stato di previsione del Ministero dell'interno;</an:p>
+				<an:p>            sarebbe opportuno estendere alla ricostruzione privata quanto previsto dall'articolo 8 dello stesso decreto-legge che permetta la partecipazione, agli affidamenti per la ricostruzione pubblica, agli operatori economici che hanno presentato domanda di iscrizione all'Anagrafe;</an:p>
+				<an:p>            misure in tale direzione offrirebbero una soluzione al rischio che l'Anagrafe antimafia degli esecutori possa determinare un rallentamento del processo di ricostruzione dovuto al gran numero di operatori sui quali effettuare i controlli antimafia;</an:p>
+				<an:p>            al momento dell'espletamento della procedura concorrenziale di cui all'articolo 6, comma 13 del decreto-legge, n. 189 del 2016, qualora l'impresa esecutrice dei lavori di ricostruzione privata non risulti iscritta all'Anagrafe, decorreranno i termini di cui all'articolo 92, commi 2 e 3, del D.Lgs. 159/2011. Decorsi tali termini, quindi, il committente sarà legittimato a procedere alla sottoscrizione del contratto, fatte salve le cautele di legge previste in caso di successivo diniego dell'iscrizione all'Anagrafe,</an:p>
+				<an:p>        impegna. il Governo ad assumere iniziative nel senso indicato in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
