@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/A/G8.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/A/G8.100"/>
+					<an:FRBRdate date="2017-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2754/A/G8.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@"/>
+					<an:FRBRdate date="2017-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@.akn"/>
+					<an:FRBRdate date="2017-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2754/A/G8.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2754" showAs="DDL 2754"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKYHSABNZ02VHFH1O3BZQSFBVSMFQB5ZZN2QNP4JLR0WSUQJ2AISP" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDKRRJ5VH2XHKHBJA2K5ST3IGA2NEX5H4BOQRYEWFQKLV4K1AJVYJH" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDR0SPWVSJAV4VOLT0IWM23242JE53IETK3TYHY3O50FWEQXXZSVHI" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2754</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKYHSABNZ02VHFH1O3BZQSFBVSMFQB5ZZN2QNP4JLR0WSUQJ2AISP" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKRRJ5VH2XHKHBJA2K5ST3IGA2NEX5H4BOQRYEWFQKLV4K1AJVYJH" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR0SPWVSJAV4VOLT0IWM23242JE53IETK3TYHY3O50FWEQXXZSVHI" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame dell'A.S. 2754 (Conversione in legge, con modificazioni, del decreto-legge 20 febbraio 2017, n. 14, recante disposizioni urgenti in materia di sicurezza delle città);</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 8 introduce alcune modifiche al Testo unico delle leggi sull'ordinamento degli enti locali (D.Lgs. 18 agosto 2000, n. 267), in relazione al potere del sindaco di adottare ordinanze in materia di sicurezza, di natura contingibile o non contingibile, con particolare riferimento agli orari di vendita e di somministrazione di bevande alcoliche;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            il gioco d'azzardo, non solo sotto il profilo normativo, è una questione che riguarda la sicurezza e l'ordine pubblico, oltreché, per diversi e distinti profili, la materia sanitaria con particolare r.iferimento alle dipendenze patologiche,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            attraverso gli opportuni e celeri provvedimenti di carattere normativo ed amministrativo a prevedere:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 che il Sindaco, fatte salve le normative vigenti, attraverso apposite ordinanze, possa regolare gli orari, l'ubicazione e le modalità di esercizio di tutti i giochi pubblici in denaro offerti dietro concessione statale e regolati dall'Agenzia delle Dogane e dei Monopoli, con particolare riferimento alla tutela dei cittadini minorenni e quelli socialmente vulnerabili;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 che i Comuni possano autonomamente limitare la distribuzione sul territorio dei luoghi in cui si esercitano giochi pubblici in denaro anche offerti dietro concessione statale e regolati dall'Agenzia delle Dogane e dei Monopoli, attraverso l'imposizione di distanze minime rispetto a luoghi sensibili quali edifici scolastici o luoghi abitualmente frequentati dai minori e dalle fasce deboli e maggiormente vulnerabili della popolazione;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 ad attenersi, in sede di Conferenza unificata, al rispetto dell'autonomia normativa e regolamentare di Regioni ed enti locali in materia di contrasto all'azzardopatia, in modo da garantire e preservare la normativa regionale vigente, con particolare riferimento alla possibilità di introdurre limiti di distanza dei punti di offerta di gioco dai luoghi sensibili anche in misura maggiore rispetto ai limiti eventualmente fissati a livello nazionale.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
