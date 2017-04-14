@@ -1,0 +1,5 @@
+Art. 2635-ter.
+
+(( (Pene accessorie). ))
+
+((La condanna per il reato di cui all'articolo 2635, primo comma, importa in ogni caso l'interdizione temporanea dagli uffici direttivi delle persone giuridiche e delle imprese di cui all'articolo 32-bis del codice penale nei confronti di chi sia gia' stato condannato per il medesimo reato o per quello di cui all'articolo 2635-bis, secondo comma.))
