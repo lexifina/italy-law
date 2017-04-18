@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/C/11.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/C/11.5"/>
+					<an:FRBRdate date="2017-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2756/C/11.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@"/>
+					<an:FRBRdate date="2017-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@.akn"/>
+					<an:FRBRdate date="2017-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2756/C/11.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2756" showAs="DDL 2756"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUCY2YNIL4Q0BSTCCUGPIAY5JAVVY0JCEUFGZSRAMW24KNBK1H" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDQ3EP3ER1IKX1F2GBKP2STKZSRFKSPIT0YTHOI4KGQFIIL5JDFDSL" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDSSLYWIGGGCOJB1WEHHOYGCQQQO0SFTVWEB00GCYNDBPU5FU30JL" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDPGJTKYWN04KGI35JNK4FFFZVSBYM0RC4PUEXGKOFUQL1FDFQYMGC" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDHNOK25WMPTNNBGLW1ODN243HKC5T0JVQGV3LXLGMQWAB2VVSUNKD" href="http://dati.senato.it/23035" showAs="PELINO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2756</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUCY2YNIL4Q0BSTCCUGPIAY5JAVVY0JCEUFGZSRAMW24KNBK1H" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ3EP3ER1IKX1F2GBKP2STKZSRFKSPIT0YTHOI4KGQFIIL5JDFDSL" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSSLYWIGGGCOJB1WEHHOYGCQQQO0SFTVWEB00GCYNDBPU5FU30JL" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPGJTKYWN04KGI35JNK4FFFZVSBYM0RC4PUEXGKOFUQL1FDFQYMGC" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHNOK25WMPTNNBGLW1ODN243HKC5T0JVQGV3LXLGMQWAB2VVSUNKD" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 a)
+					<an:i>, dopo il numero 2), aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «2-
+					<an:i>bis)</an:i>
+					 alla lettera 
+					<an:i>g)</an:i>
+					 sono aggiunte, in fine, le parole: ''. Per tutte le imprese non elencate negli allegati 1 e 2 del presente decreto che hanno subito una riduzione dell'attività svolta, a seguito degli eventi sismici del 2016 e del 2017, la sospensione si applica fino al 31 dicembre 2019. Per l'attuazione delle disposizioni di cui al periodo precedente è autorizzata una spesa pari ad euro 20 milioni per l'anno 2017, 20 milioni per l'anno 2018 e 20 milioni per l'anno 2019. Al relativo onere si provvede mediante corrispondente riduzione, nella misura corrispondente per ciascuno degli anni 2017, 2018 e 2019, dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale, nell'ambito del programma 'Fondi di riserva e speciali' della missione 'Fondi da ripartire' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio''.».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
