@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/G2.400/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/G2.400"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2784/A/G2.400/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.400"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@.akn"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2784/A/G2.400/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2784" showAs="DDL 2784"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXR2WGSWQ0VT3MKTI355ANTELRCEQ5WK4JDVW5GJBDCOMICYVI4BI" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="ID4U05RPZA5MTZOKXGZZUX4OPKSCRL5HNUXDURVDPQMQF1PKJ1YYDJ" href="http://dati.senato.it/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="ID4E1NLV2O3KQLG4IIONPUTIOAQHCX5DVYDSZYL3DVP21PG4RUYRE" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDKAR5QKOYCLYRCGFYIKWSM3PWHC2PSPQRFKWNJVMKKYYWDREGV5L" href="http://dati.senato.it/29154" showAs="PAGLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2784</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.400</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXR2WGSWQ0VT3MKTI355ANTELRCEQ5WK4JDVW5GJBDCOMICYVI4BI" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4U05RPZA5MTZOKXGZZUX4OPKSCRL5HNUXDURVDPQMQF1PKJ1YYDJ" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4E1NLV2O3KQLG4IIONPUTIOAQHCX5DVYDSZYL3DVP21PG4RUYRE" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKAR5QKOYCLYRCGFYIKWSM3PWHC2PSPQRFKWNJVMKKYYWDREGV5L" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede d'esame del disegno di legge di conversione in legge del decreto-legge 17 marzo 2017, n. 25, recante disposizioni urgenti per l'abrogazione delle disposizioni in materia di lavoro accessorio nonché per la modifica delle disposizioni sulla responsabilità solidale in materia di appalti (AS 2784);</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 2 del decreto-legge in esame modifica la disciplina in materia di responsabilità solidale tra committente e appaltatore in relazione ai trattamenti retributivi (comprensivi delle quote di trattamento di fine rapporto), ai contributi previdenziali e ai premi assicurativi dovuti ai lavoratori subordinati in relazione al periodo di esecuzione del contratto di appalto;</an:p>
+				<an:p>
+					            in particolare, modificando l'articolo 29, comma 2, del decreto legislativo n. 276 del 2003, viene eliminata la possibilità, per i contratti collettivi, di derogare al principio della responsabilità solidale tra committente e appaltatore, nel caso in cui, attraverso la contrattazione collettiva, si individuino metodi e procedure di controllo e di verifica della regolarità complessiva degli appalti (comma 1, lettera 
+					<an:i>a)</an:i>
+					),
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a porre in essere opportune iniziative di carattere normativo al fine di prevedere che:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 i contratti collettivi nazionali di lavoro, sottoscritti dalle associazioni dei datori di lavoro e dei lavoratori comparativamente più rappresentative del settore possano individuare esclusivamente clausole di maggior favore per i lavoratori rispetto a quanto stabilito dall'articolo 29, comma 2, primo periodo, del decreto legislativo n. 276 del 2003;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 i suddetti contratti collettivi nazionali possano individuare anche metodi e procedure di controllo e di verifica della regolarità complessiva dell'appalto.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
