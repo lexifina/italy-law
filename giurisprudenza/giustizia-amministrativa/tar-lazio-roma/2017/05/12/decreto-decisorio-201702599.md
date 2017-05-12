@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 2599/2017
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA QUATER
+- Numero provvedimento: 201702599
+- Numero di ricorso (NRG): 200908343
+- Data di pubblicazione: 2017-05-12
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2009-10-22
+- Oggetto del ricorso: ANNULLAMENTO DELLA GRADUATORIA DI MERITO RELATIVA ALLA SELEZIONE PER TITOLI INDETTA AI SENSI ART. 15 CO. 5 CCNL 7.4.06 PER N. 6 POSTI DI PRIMO TECNOLOGO IN PROVA - II LIVELLO PROFESSIONALE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
