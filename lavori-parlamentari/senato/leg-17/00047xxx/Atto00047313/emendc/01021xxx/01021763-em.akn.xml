@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1"/>
+					<an:FRBRdate date="2017-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.49/1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@"/>
+					<an:FRBRdate date="2017-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@.akn"/>
+					<an:FRBRdate date="2017-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2287-BIS/C/1.49/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2287-BIS" showAs="DDL 2287-BIS"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="7ª Commissione permanente" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJURKQON0ZERWPX5QNB0JC05CLELJQIBO34ALJ1GT5FAUTHMUE3I" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDKS134SSLILVG3DFHSML3XZ4PB0IE0C4D454LKMCGO0BWUJMFKLL" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+				<an:TLCPerson id="IDGNKHIPKFTTIDJKQWRVGXWAP50NJ44A2BJ4FNFZU5ASTLI44F3MI" href="http://dati.senato.it/29179" showAs="SERRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2287-BIS</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.49/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJURKQON0ZERWPX5QNB0JC05CLELJQIBO34ALJ1GT5FAUTHMUE3I" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKS134SSLILVG3DFHSML3XZ4PB0IE0C4D454LKMCGO0BWUJMFKLL" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGNKHIPKFTTIDJKQWRVGXWAP50NJ44A2BJ4FNFZU5ASTLI44F3MI" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 1.49, sostituire le parole da:</an:i>
+					 «del seguente ulteriore criterio» 
+					<an:i>fino alla fine del comma, con le seguenti:</an:i>
+					 «dei seguenti ulteriori princìpi e criteri direttivi:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 supporto nel conseguimento di obiettivi di efficientamento delle spese;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 contenimento e riduzione del costo dei fattori produttivi anche mediante la messa in comune, tra una o più fondazioni esistenti, di strutture e materiale scenico, o attraverso l'acquisto o la condivisione di beni e servizi comuni, lo scambio di spettacoli e la realizzazione di coproduzioni, assicurando il conseguimento di economie di scala e un ampliamento nell'offerta di spettacoli, con particolare riguardo al pubblico giovanile;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 previsione del controllo e della vigilanza, con rafforzamento della responsabilizzazione sulla gestione economico-finanziaria delle singole fondazioni e attribuzione della responsabilità dell'equilibrio di bilancio al sovrintendente e agli altri organi di gestione, incentivando l'adozione di modelli di gestione più virtuosi ed evitando misure punitive legate al mancato pareggio economico a danno del personale senza incarichi di gestione;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 previsione di strumenti di garanzia e trasparenza nei processi di attribuzione dei contributi statali, prevedendo che la nomina dei membri della commissione che dispone in merito all'erogazione di tali contributi avvenga mediante selezione pubblica per titoli;
+				</an:p>
+				<an:p>
+					<an:i>e)</an:i>
+					 revisione dei criteri di ripartizione del contributo statale prevedendo in particolare:
+				</an:p>
+				<an:p>                1) lo scorporo dal Fondo unico per lo spettacolo delle risorse a esse destinate;</an:p>
+				<an:p>                2) un metodo di calcolo oggettivo circa i criteri di ripartizione in oggetto sulla base dei risultati di gestione del triennio precedente;</an:p>
+				<an:p>                3) il riconoscimento della qualità artistica degli spettacoli;</an:p>
+				<an:p>                4) una distribuzione più omogenea sul territorio nazionale;</an:p>
+				<an:p>                5) l'incentivazione di meccanismi di gestione virtuosa e trasparenza amministrativa, tali da agevolare l'offerta occupazionale e facilitare la condivisione del materiale scenico;</an:p>
+				<an:p>                6) l'incentivazione di strategie per la diffusione ad ampio raggio della cultura lirica, con particolare riguardo alle aree disagiate attraverso progetti condivisi con enti locali, scuole e associazioni impegnate nel contrasto al disagio sociale;</an:p>
+				<an:p>                7) il riconoscimento nella capacità di realizzare coproduzioni italiane e internazionali;</an:p>
+				<an:p>                8) l'incentivazione di iniziative tese alla fruizione da parte delle persone con disabilità;</an:p>
+				<an:p>
+					<an:i>f)</an:i>
+					 con riferimento al riconoscimento dell'annualità di contribuzione, considerata la difficoltà per i lavoratori dello spettacolo di raggiungere i 120 giorni di contribuzione annuale, di cui alla legge 22 dicembre 2011, n. 214, previsione di una soglia di contribuzione più bassa che contempli un minor numero di giornate lavorate, in modo da permettere loro di maturare comunque un dignitoso trattamento previdenziale;
+				</an:p>
+				<an:p>
+					<an:i>g)</an:i>
+					 proseguimento del percorso di risanamento e di stabilizzazione economico-finanziaria e patrimoniale avviato dalle fondazioni sulla base dell'articolo 11 del decreto-legge 8 agosto 2013, n. 91, convertito con modificazioni dalla legge 7 ottobre 2013, n. 11, prevedendo misure di salvaguardia in favore della funzione sociale, del valore culturale e dell'impronta pubblicistica delle fondazioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
