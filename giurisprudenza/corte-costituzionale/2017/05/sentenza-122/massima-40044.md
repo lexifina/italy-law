@@ -1,0 +1,22 @@
+# Massima n. 40044
+
+- Pronuncia: Corte costituzionale, sentenza 122/2017 (ECLI:IT:COST:2017:122)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:122
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ordinamento penitenziario - Detenuti in regime speciale - Misure limitative adottabili nei loro confronti dall'amministrazione penitenziaria - Divieto di inviare all'esterno e di ricevere dall'esterno libri e riviste a stampa - Denunciata violazione delle garanzie a tutela della libertà della corrispondenza - Insussistenza - Limitazione non lesiva della libertà riconosciuta al detenuto di comunicare tramite la corrispondenza epistolare - Non fondatezza della questione.
+
+## Testo
+
+È dichiarata non fondata la questione di legittimità costituzionale dell'art. 41-bis, comma 2-quater, lett. a) e c), della legge n. 354 del 1975, censurato dal Magistrato di sorveglianza di Spoleto - in riferimento all'art. 15 Cost. - nella parte in cui, secondo il "diritto vivente", consente all'amministrazione penitenziaria (anziché nei singoli casi all'autorità giudiziaria, nelle forme e in base ai presupposti di cui all'art. 18-ter ordin. penit.) di adottare, nei confronti dei detenuti in regime speciale, il divieto di ricevere dall'esterno e di spedire all'esterno libri e riviste a stampa. Anche ammettendo, a fronte dell'ampia formula dell'art. 15 Cost., che le comunicazioni siano da esso protette a prescindere dal mezzo materiale impiegato per la trasmissione del pensiero (e, dunque, anche se effettuate "in forma reale", ossia tramite lo scambio di oggetti "significanti", quali sarebbero, secondo il rimettente, le pubblicazioni a stampa, ma potrebbe essere qualsivoglia altro oggetto), la libertà di corrispondenza del detenuto è riconosciuta dall'ordinamento penitenziario - in coerenza con la condizione di legittima restrizione della libertà personale in cui egli versa - in quanto sia esplicata attraverso gli ordinari strumenti di comunicazione (in particolare, la corrispondenza epistolare, pur con le modalità e i controlli per essa previsti), e non anche nella forma anomala dello scambio diretto o per posta di oggetti aventi un significato convenzionale o estemporaneamente vicari dell'usuale supporto cartaceo. A tale prospettiva - correlata alle limitazioni imposte ai colloqui diretti con persone esterne all'ambiente carcerario e alla possibilità di ricevere e scambiare oggetti - resta palesemente estraneo il concorrente riconoscimento, ad opera degli artt. 18 e 18-ter ordin. penit., del diritto dei detenuti di ricevere (anche a mezzo posta) e di tenere con sé la stampa in libera vendita all'esterno, in quanto strumento per l'esercizio dei distinti diritti di informazione e di studio e non in quanto forma di corrispondenza nei sensi ipotizzati dal rimettente.  (Precedente citato: sentenza n. 20 del 2017, sulla libertà di corrispondenza epistolare dei detenuti, salvi i limiti connessi alla necessità di affidarsi all'amministrazione penitenziaria per lo smistamento della posta). La legittima restrizione della libertà personale, cui è sottoposta la persona detenuta e che trova alla sua base un provvedimento giurisdizionale, non annulla affatto la tutela costituzionale dei diritti fondamentali, ma si riverbera inevitabilmente, in modo più o meno significativo, sulle modalità di esercizio delle altre libertà (tra cui quella di comunicazione) costituzionalmente alla prima collegate. Chi si trova in stato di detenzione, pur privato della maggior parte della sua libertà, ne conserva sempre un residuo, che è tanto più prezioso in quanto costituisce l'ultimo ambito nel quale può espandersi la sua libertà individuale, e il cui esercizio, proprio per questo, non può essere rimesso alla discrezionalità dell'autorità amministrativa preposta all'esecuzione della pena detentiva. La tutela dei diritti costituzionali del detenuto opera, pur tuttavia, con le limitazioni che lo stato di detenzione necessariamente comporta. ( Precedenti citati: sentenze n. 20 del 2017, n. 26 del 1999, n. 212 del 1997 e n. 349 del 1993 ).
+
+## Norme
+
+- legge, 26/07/1975 n. 354, art. 41 bis, comma 2 quater, lett a)
+- legge, 26/07/1975 n. 354, art. 41 bis, comma 2 quater, lett c)
+
+## Parametri
+
+- Costituzione, art. 15
