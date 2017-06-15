@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/4.21/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/4.21"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/4.21/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.21"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@.akn"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-06-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-06-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2853/A/4.21/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2853" showAs="DDL 2853"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSEBV4SFQJOS1IAWVYSQMNXDOOJIYVVXYBPMCMVNTMGDMOLPF1ALF" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDIILOURFYXPUMKBMFYIJGCGQCDMIP52TLJUB3PXENYBRVPCDW0RTL" href="http://dati.senato.it/22551" showAs="BISINELLA"/>
+				<an:TLCPerson id="IDBTRHA4K3K4VKHYTM4GDLFVVT4GD00BHVRVWBVGC4JCWTOLZO0NMP" href="http://dati.senato.it/25449" showAs="MUNERATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2853</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.21</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSEBV4SFQJOS1IAWVYSQMNXDOOJIYVVXYBPMCMVNTMGDMOLPF1ALF" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIILOURFYXPUMKBMFYIJGCGQCDMIP52TLJUB3PXENYBRVPCDW0RTL" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBTRHA4K3K4VKHYTM4GDLFVVT4GD00BHVRVWBVGC4JCWTOLZO0NMP" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 3, aggiungere il seguente:</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis.</an:i>
+					 Ferme restando le competenze delle Regioni in materia di turismo, le unità immobiliari date in locazione per periodi di durata inferiore a trenta giorni sono equiparate alle strutture turistico ricettive, anche ai fini della comunicazione delle generalità degli alloggiati, ai sensi dell'articolo 109 del testo unico delle leggi di pubblica sicurezza approvato con regio decreto 18 agosto 1931, n. 773 e successive modifiche ed integrazioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
