@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/G14.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/G14.3"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/G14.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G14.3"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@.akn"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-06-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-06-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2853/A/G14.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2853" showAs="DDL 2853"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1FQSW3NGE2CCKX5ESIMK0YMF0FVLNVD4ML51LBE0AC0RM4GMWA4G" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDCHK4R2OONKAYOKGKD3PB0BASEICEKXYSC3KD5MBAW30QXUYAEGBC" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="ID1B0BSPRW0V12FCYMXLRGY502UQ3LVI3SPWR0EOCWEXNLW4LXTQE" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="ID3VH3GV2OKPN5FCYMYREQP3XS2H0JJMH4P44B0OMJBM43Q55QZ05P" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDYXMLBPF5R354DIZLADAMHG512LSG3JFGYTIXQTO2IOJPXQLPYTVH" href="http://dati.senato.it/29103" showAs="GALIMBERTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2853</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G14.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1FQSW3NGE2CCKX5ESIMK0YMF0FVLNVD4ML51LBE0AC0RM4GMWA4G" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCHK4R2OONKAYOKGKD3PB0BASEICEKXYSC3KD5MBAW30QXUYAEGBC" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1B0BSPRW0V12FCYMXLRGY502UQ3LVI3SPWR0EOCWEXNLW4LXTQE" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3VH3GV2OKPN5FCYMYREQP3XS2H0JJMH4P44B0OMJBM43Q55QZ05P" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYXMLBPF5R354DIZLADAMHG512LSG3JFGYTIXQTO2IOJPXQLPYTVH" as="#tipoSenatore">GALIMBERTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del disegno di legge recante «Conversione in legge del decreto-legge 24 aprile 2017, n. 50, recante disposizioni urgenti in materia finanziaria, iniziative a favore degli enti territoriali, ulteriori interventi per le zone colpite da eventi sismici e misure per lo sviluppo»;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 14 del decreto legge in oggetto introduce due novelle all'articolo 1 della legge n.232 del 2016 (legge di bilancio 2017) relative al riparto del Fondo di solidarietà comunale (FSC), che costituisce il fondo per il funziomento dei comuni anche con finalità di perequazione, alimentato con una quota del gettito IMU di spettanza dei comuni stessi;</an:p>
+				<an:p>            l'articolo 45 del decreto-legge n. 66 del 2014 (Misure urgenti per la competitività e la giustizia-sociale), convertito, con modificazioni dalla legge n. 89 del 2014, ha disciplinato la ristrutturazione di parte del debito delle regioni, con una conseguente riduzione dell'onere annuale destinato al pagamento dello stesso, limitata a due tipologie di operazioni di indebitamento:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 mutui contratti con il Ministero dell'economia e delle finanze, direttamente o per il tramite della Cassa Depositi e Prestiti S.p.A., con vita residua pari o superiore a 5 anni e importo del debito residuo da ammortizzare superiore a 20 milioni di euro; in questi casi la scadenza viene allungata fino a trent'anni da ammortizzare con rate costanti ad interessi pari a quelli dei BTP con durata finanziaria più vicina al nuovo mutuo;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 titoli obbligazionari regionali con vita residua pari o superiore a 5 anni e valore nominale dei titoli pari o superiore a 250 milioni di euro; in questi casi la regione finaziaria il riacquisto dei titoli utilizzando il ricavato di un mutuo concesso dal MEF e con contestuale cancellazione dei derivati insistenti su di essi,
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare la possibilità di prevedere, analogamente a quanto previsto dalle Regioni, la ristrutturazione del debito degli enti territoriali, autorizzando il Ministero dell'economia e delle finanze ad effettuare la ristrutturazione dei mutui intestati agli enti locali e i mutui gestiti dalla Cassa depositi e prestiti S.p.A. per conto del Ministero dell'economia e finanze, sia mediante rinegoziazione dei tassi d'interesse e della scadenza, sia mediante estinzione anticipata e accensione di nuovo mutuo senza applicazioni di penali a carico dell'ente mutuatario.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
