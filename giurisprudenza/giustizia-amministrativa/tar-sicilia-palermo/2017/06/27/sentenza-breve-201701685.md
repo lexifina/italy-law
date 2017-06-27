@@ -1,0 +1,19 @@
+# TAR SICILIA - PALERMO, sentenza breve n. 1685/2017
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR SICILIA - PALERMO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201701685
+- Numero di ricorso (NRG): 201701317
+- Data di pubblicazione: 2017-06-27
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2017-05-24
+- Oggetto del ricorso: RIMBORSO DELLE SPESE LEGALI SOSTENUTE NELL'AMBITO DI UN PROCEDIMENTO PENALE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 6
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sicilia-palermo-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/2c19ca29-aba7-4e40-b27d-3731cd1dd708/resource/2b4a82ad-1e92-40e8-a665-29224ebb9b5a/download/tar-sicilia-palermo-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
