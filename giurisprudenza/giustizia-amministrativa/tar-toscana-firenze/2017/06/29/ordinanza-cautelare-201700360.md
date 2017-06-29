@@ -1,0 +1,19 @@
+# TAR TOSCANA - FIRENZE, ordinanza cautelare n. 360/2017
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR TOSCANA - FIRENZE
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201700360
+- Numero di ricorso (NRG): 201700760
+- Data di pubblicazione: 2017-06-29
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2017-06-14
+- Oggetto del ricorso: RITO APPALTI (EX ART. 120 SS C.P.A.) - SESTA “PROROGA TECNICA” DALL’1/3/2017 AL 30/9/2017 (PROVVEDIMENTO IMPUGNATO) DEL “CONTRATTO IN FORMA PUBBLICA AMMINISTRATIVA PER L’AFFIDAMENTO DEL SERVIZIO DI RECUPERO, CUSTODIA E ACQUISTO DI VEICOLI OGGETTO DEI PROVVEDIMENTI DI SEQUESTRO AMMINISTRATIVO, FERMO O CONFISCA AI SENSI DELL’ART. 214-BIS DEL D.LGS. 30/04/1992, N. 285 - AMBITO PROVINCIALE DI PISA - REPERTORIO N. 6294, SOTTOSCRITTO IL 27 GIUGNO 2011 - C.I.G. N. 03905178DO
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-toscana-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/3b524df4-8a01-46fd-b979-a10fc05bcc50/resource/ec0be8b5-8eed-485c-9cb3-4db811e87ab9/download/tar-toscana-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
