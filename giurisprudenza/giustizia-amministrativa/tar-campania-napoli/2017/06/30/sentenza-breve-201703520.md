@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 3520/2017
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUINTA
+- Numero provvedimento: 201703520
+- Numero di ricorso (NRG): 201701098
+- Data di pubblicazione: 2017-06-30
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA DIFETTO DI GIURISDIZIONE NEI TERMINI ESPOSTI
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2017-03-24
+- Oggetto del ricorso: DELLA NOTA PROT.N. 006494/2017 DEL 25.01.2017, NOTIFICATA ALLA RICORRENTE ADDÌ 26.01.2017 (DOC.2), CON CUI IL COMUNE DI NAPOLI HA RESPINTO L’ISTANZA DI SCORRIMENTO DELLA GRADUATORIA DI MERITO - APPROVATA CON D.D. DEL COMUNE DI NAPOLI NN. 629 E 630 DELL’08.10.2015 - DELLA PROCEDURA CONCORSUALE INDETTA PER IL RECLUTAMENTO DI N. 11 MAESTRE CATEGORIA C POSIZIONE ECONOMICA C1
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
