@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287/A/16.302/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287/A/16.302"/>
+					<an:FRBRdate date="2017-07-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2287/A/16.302/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.302"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@"/>
+					<an:FRBRdate date="2017-07-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@.akn"/>
+					<an:FRBRdate date="2017-07-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2287/A/16.302/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2287" showAs="DDL 2287"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2M1XXZVENLSDPWS3A0I4QTN4LIZ4ZQTXLM30KXJJLK3VAKUR0V5C" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+				<an:TLCPerson id="IDBDNME55KACFSHK03R4TIQQUZRGOVMVXUG2E0KXJLZJBLMTAOZTMG" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDZM1LJAJ2G0EAMLMA4S2M4FPW3O2E3GBOK5IZQXHO1K0YQ3KAITEF" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2287</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.302 (TESTO 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2M1XXZVENLSDPWS3A0I4QTN4LIZ4ZQTXLM30KXJJLK3VAKUR0V5C" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBDNME55KACFSHK03R4TIQQUZRGOVMVXUG2E0KXJLZJBLMTAOZTMG" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZM1LJAJ2G0EAMLMA4S2M4FPW3O2E3GBOK5IZQXHO1K0YQ3KAITEF" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo le parole: «opere italiane ed europee» inserire le seguenti: «, anche con caratteristiche di documentario».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
