@@ -1,0 +1,17 @@
+# Massima n. 41567
+
+- Pronuncia: Corte costituzionale, sentenza 164/2017 (ECLI:IT:COST:2017:164)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:164
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Rilevanza della questione incidentale - Questioni aventi ad oggetto norme relative alla responsabilità civile dei magistrati - Condizioni e limiti di rilevanza nei giudizi aventi altro oggetto.
+
+## Testo
+
+La rilevanza di questioni di legittimità costituzionale concernenti la responsabilità civile dei magistrati sollevate nel corso di giudizi aventi altro oggetto è stata affermata dalla sentenza n. 18 del 1989 non già in assoluto, ma in rapporto allo specifico ambito degli incidenti allora scrutinati, nei quali venivano in considerazione aspetti - concernenti lo status di giudice, la sua composizione, nonché, in generale, le garanzie e i doveri che riguardano il suo operare - ontologicamente rilevanti nell'ambito dei procedimenti a quibus, con la conseguenza che le sollevate questioni di costituzionalità della legge n. 117 del 1988 erano rilevanti, in quanto direttamente collegate con profili attinenti alla struttura dell'organo giudicante e ad ipotizzate distinzioni funzionali interne ad esso, vale a dire alla sua stessa composizione. ( Precedenti citati: sentenza n. 18 del 1989 e ordinanza n. 243 del 1989 ). La rilevanza della questione incidentale di legittimità costituzionale richiede la necessaria relazione di "dipendenza funzionale" tra giudizio a quo e tema agitato attraverso la questione sollevata: relazione che, secondo la costante giurisprudenza costituzionale, deve assumere i connotati della pregiudizialità, la quale comporta l'impossibilità di definire il procedimento pregiudicato in assenza della delibazione della quaestio pregiudicante. Tuttavia, attesa la peculiarità del ruolo del giudice, non si può escludere a priori che norme, pur non immediatamente applicabili nel processo, vadano ad incidere in maniera evidente ed attuale sulle garanzie costituzionali della funzione giurisdizionale, così condizionando l'esercizio della relativa attività. Ciò tuttavia presuppone che tale incidenza - per qualità, intensità, univocità ed evidenza della sua direzione, immediatezza ed estensione dei suoi effetti - sia tale da determinare una effettiva interferenza sulle condizioni di indipendenza e terzietà nel decidere, a prescindere da qualsiasi profilo che possa riguardare un eventuale "perturbamento psicologico" del singolo giudice. Ai fini della rilevanza occorrerà ulteriormente verificare se la norma asseritamente interferente sullo status di magistrato ne comprometta o possa comprometterne l'indipendenza e la terzietà in relazione alla concreta regiudicanda posta al suo esame ed alla specifica e conseguente decisione che è chiamato ad adottare nel giudizio a quo. ( Precedenti citati: sentenze n. 19 del 1978 e n. 147 del 1974, secondo cui il nesso di pregiudizialità, richiesto per rendere rilevante la questione, non è integrato da un mero turbamento della serenità di giudizio del giudice; ordinanze n. 421 del 2008, n. 180 del 2006 e n. 326 del 1987, sull'irrilevanza della previsione di compensi dei giudici di pace e dei componenti delle commissioni tributarie collegati ad ogni singolo processo definito ).
+
+## Norme
+
+- legge, 13/04/1988 n. 117
