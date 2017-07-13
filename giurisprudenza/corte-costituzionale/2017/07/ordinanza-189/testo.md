@@ -1,0 +1,50 @@
+# Corte costituzionale, ordinanza 189/2017
+
+- ECLI: ECLI:IT:COST:2017:189
+- Tipo: ordinanza
+- Presidente: GROSSI
+- Relatore: Augusto Antonio Barbera
+- Redattore: Augusto Antonio Barbera
+- Data della decisione: 05/07/2017
+- Data del deposito: 13/07/2017
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 39638
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:189
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Paolo GROSSI; Giudici : Giorgio LATTANZI, Aldo CAROSI, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale promosso dalla Commissione tributaria regionale della Campania, nel procedimento vertente tra R.C. e l'Agenzia delle Entrate - direzione provinciale di Napoli, con ordinanza del 6 maggio 2016, iscritta al n. 261 del registro ordinanze 2016, e pubblicata nella Gazzetta Ufficiale della Repubblica n. 1, prima serie speciale, dell'anno 2017.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio del 5 luglio 2017 il Giudice relatore Augusto Antonio Barbera.
+ Ritenuto che con ordinanza del 6 maggio 2016, iscritta al n. 261 del registro ordinanze 2016, la Commissione tributaria regionale della Campania ha sollevato questione di legittimità costituzionale del «diritto nazionale» e dunque di «tutte le norme» interne che «a differenza del diritto dell'Unione europea», non prevedono alcun «obbligo generalizzato di contraddittorio endoprocedimentale in materia tributaria, vieppiù a pena di nullità», disposizioni ritenute in contrasto con l'art. 117, primo comma, della Costituzione, nonché «comunque con criteri comuni di razionalità ed uniformità logico-giuridica, di diritto interno ed internazionale»;
+ che, certo il diritto al contraddittorio, anticipato in materia di procedimento tributario ove imposto dalla legge nazionale, o desunto, per i tributi armonizzati, dai principi fondamentali dettati dal diritto dell'Unione europea, la Commissione rimettente dubita, inoltre, della legittimità costituzionale - in riferimento agli articoli 3, 24 e 117, primo comma, Cost., nonché per asserito contrasto «con i criteri di razionalità e con i principi generali dell'ordinamento» - dell'interpretazione del dato normativo di riferimento offerta dalle sezioni unite della Corte di cassazione con la sentenza del 9 dicembre 2015, n. 24823, in forza della quale la previsione di «nullità, testuale o virtuale, per violazione del contraddittorio, sia essa riconosciuta in via interpretativa o per effetto della declaratoria delle norme in precedenza indicate», può essere riscontrata «unicamente a condizione che il contribuente in giudizio esponga le ragioni che avrebbe fatto valere nel mancato contraddittorio ed ancora a condizione che esse non appaiano pretestuose o devianti dai canoni di correttezza e lealtà»;
+ che, per quanto emerge dall'ordinanza di rimessione, il giudizio principale ha ad oggetto l'impugnazione della sentenza con la quale è stato rigettato il ricorso proposto da R.C. avverso l'avviso di accertamento comunicatogli dall'Agenzia delle entrate competente, relativo a pretese imposte dirette e imposte nel valore aggiunto (IVA) per l'anno 2009, in esito alla rettifica del reddito dichiarato, realizzata in applicazione del disposto di cui all'art. 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 (Disposizioni comuni in materia di accertamento delle imposte sui redditi) e che, tra i motivi di gravame, il contribuente ha addotto il difetto di motivazione della sentenza impugnata avuto riguardo alla eccepita violazione del contraddittorio preventivo, indicato, in primo grado, quale vizio invalidante l'atto;
+ che, nel prospettare la questione, la Commissione rimettente muove dall'interpretazione offerta dalle sezioni unite della Corte di cassazione (con la sentenza n. 24823 del 2015, già richiamata), in ordine al limitato perimetro di operatività da assegnare all'art. 12, comma 7, della legge 27 luglio 2000, n. 212 (Disposizioni in materia di statuto dei diritti del contribuente), riferibile solo ai controlli fiscali realizzati tramite accessi, ispezioni o verifiche sui luoghi di riferimento del contribuente (comma 1 del citato art. 12) nonché alla affermata impossibilità di rintracciare, nell'ordinamento interno, un principio fondamentale, non positivizzato, che consenta, in via generalizzata, di dichiarare la nullità degli accertamenti resi senza il contraddittorio preventivo;
+ che, ad avviso del giudice a quo, una tale ricostruzione non sarebbe condivisibile perché frutto di un approccio interpretativo «burocratico», cui poteva altrimenti ovviarsi attraverso il possibile e lecito ricorso all'analogia o comunque mediante una interpretazione logico-sistematica e storico-evolutiva dell'insieme di disposizioni che prevedono ipotesi di accertamento precedute, a pena di invalidità, dall'obbligo di contraddittorio;
+ che, in ragione di tali premesse argomentative, la Commissione rimettente rassegna l'esigenza di «invocare una pronuncia quantomeno interpretativa della Corte costituzionale in ordine al tema in questione, onde chiarire se l'attuale stato della legislazione interna, integrato per quanto di ragione dall'assetto normativo europeo, consenta già di pervenire alla specifica affermazione di un obbligo generale del contraddittorio endoprocedimentale in materia tributaria, semmai ricavandolo in via di estensione esegetica dall'art. 12, comma 7, legge n. 212/2000 o per converso legittimi la conclusione [...] delle S.U. della Cassazione», dovendosi ritenere, in tale ultimo caso, che una siffatta interpretazione restrittiva si pone in conflitto con «l'art. 117, comma 1 Cost., e, per esso, rispetto ai vincoli derivanti dall'ordinamento comunitario, o quantomeno rispetto a criteri generali di razionalità ed uniformità con detto ordinamento», dando altresì corpo ad un ingiustificato distinguo fra tributi armonizzati e non armonizzati, perché finisce con il legittimare letture disciplinari differenti per «situazioni indubbiamente connotate da eadem ratio e come tali meritevoli di essere sussunte in una logica unitaria di trattamento normativo»;
+ che, inoltre, ad avviso della rimettente, la soluzione adottata dalla Corte di Cassazione in ordine alla sorte di tale violazione, laddove sia previsto il contraddittorio preventivo, per essere la stessa inidonea a produrre effetti invalidanti se il contribuente non espone, in giudizio, le ragioni che avrebbe fatto valere ove fosse stato sentito prima dell'adozione dell'atto, si pone in conflitto con gli articoli 3 e 24 Cost., per la asserita disparità di trattamento delle parti, con intollerabile sbilanciamento a svantaggio del contribuente, costretto comunque a vedere limitata e compromessa la sua difesa e con ulteriori ricadute anche sul rispetto dell'art. 117, primo comma, Cost., «almeno per quanto direttamente riguardante i tributi cosiddetti armonizzati», nonché «in genere per ogni tipo di tributi»;
+ che nel relativo giudizio di costituzionalità è intervenuto il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, eccependo: in via pregiudiziale, più profili di inammissibilità delle questioni e fra questi, in particolare, quello relativo alla omessa individuazione delle norme sospettate di incostituzionalità; nel merito, l'inconferenza del parametro evocato a supporto della prima questione, mentre, per la seconda, l'infondatezza della relativa prospettazione, perché la perdita del gettito fiscale, correlata ad una violazione solo formale della regola procedimentale, deve ritenersi giustificata solo quando si riscontri una lesione effettiva della prospettive difensive del contribuente, così da evitare che la relativa contestazione non assuma contenuti meramente pretestuosi.
+ Considerato che, tra le numerose ragioni di inammissibilità delle questioni evidenziate dalla difesa dell'interveniente, appare decisiva ed assorbente quella inerente l'omessa individuazione delle norme sospettate di incostituzionalità;
+ che, in particolare, sia la prima che la seconda questione prospettate con l'ordinanza in oggetto devono ritenersi inammissibili per la generica e incerta formulazione del petitum sotto il profilo sia della individuazione delle specifiche disposizioni censurate, sia della conseguente indeterminatezza della pronunzia da adottare per eliminare i vizi di illegittimità costituzionale denunziati (sentenza n. 218 del 2014);
+ che manca, infatti, per entrambe le questioni, una puntuale identificazione delle norme censurate, del tutto assenti con riferimento alla seconda questione e inadeguatamente indicate per la prima, stante la inaccettabile genericità dei riferimenti al «diritto nazionale», nonché alle «norme che testualmente non prevedono il detto contraddittorio», contenuti nelle conclusioni e non altrimenti ovviati dalla complessiva lettura della ordinanza.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara manifestamente inammissibile la questione di legittimità costituzionale sollevata, in riferimento agli artt. 3, 24 e 117, primo comma, della Costituzione, dalla Commissione tributaria regionale della Campania con l'ordinanza in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 5 luglio 2017.
+ F.to:
+ Paolo GROSSI, Presidente
+ Augusto Antonio BARBERA, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 13 luglio 2017.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
