@@ -1,0 +1,51 @@
+# Corte costituzionale, ordinanza 188/2017
+
+- ECLI: ECLI:IT:COST:2017:188
+- Tipo: ordinanza
+- Presidente: GROSSI
+- Relatore: Augusto Antonio Barbera
+- Redattore: Augusto Antonio Barbera
+- Data della decisione: 05/07/2017
+- Data del deposito: 13/07/2017
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 39731, 39732
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:188
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Paolo GROSSI; Giudici : Giorgio LATTANZI, Aldo CAROSI, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale degli artt. 32, 39 e 41-bis, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 (Disposizioni comuni in materia di accertamento delle imposte sui redditi), e dell'art. 12, comma 7, della legge 27 luglio 2000, n. 212 (Disposizioni in materia di statuto dei diritti del contribuente), promosso dalla Commissione tributaria provinciale di Siracusa, nel procedimento vertente tra R.T. di S.G. & C. SAS e l'Agenzia delle Entrate - direzione provinciale di Siracusa, con ordinanza del 17 giugno 2016, iscritta al n. 235 del registro ordinanze 2016, e pubblicata nella Gazzetta Ufficiale della Repubblica n. 47, prima serie speciale, dell'anno 2016.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio del 5 luglio 2017 il Giudice relatore Augusto Antonio Barbera;
+ Ritenuto che la Commissione tributaria provinciale di Siracusa, con ordinanza del 17 giugno 2016, iscritta al n. 235 del registro ordinanze 2016, ha sollevato questione di legittimità costituzionale sia del comma 7 dell'art. 12 della legge 27 luglio 2000, n. 212 (Disposizioni in materia di statuto dei diritti del contribuente), sia degli artt. 32, 39 e 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 (Disposizioni comuni in materia di accertamento delle imposte sui redditi) in riferimento agli artt. 3, 24, 53, 111 e 117, primo comma, della Costituzione;
+ che nel giudizio principale, come evidenziato dalla Commissione rimettente, la società in accomandita semplice R.T. di S.G. & C. ha impugnato un avviso di accertamento con il quale l'amministrazione finanziaria, relativamente all'anno d'imposta 2010, ha rettificato il reddito dichiarato, intimando il pagamento del dovuto per imposta regionale sulle attività produttive (IRAP) e imposta sul valore aggiunto (IVA) e, che, a sostegno del ricorso, la contribuente ha sollevato alcuni temi pregiudiziali rispetto al merito dell'accertamento contestato e, fra questi, la violazione dell'art. 12, comma 7, della legge n. 212 del 2000 perché non sarebbe stata rispettata la sequela procedimentale ivi prevista con violazione del diritto al contraddittorio preventivo;
+ che, così come rimarcato dalla Commissione rimettente, il dato normativo posto a fondamento dell'atto impugnato - nella specie, costituito dal combinato disposto di cui agli artt. 32, 39, comma 1, lettera d) e 41-bis del d.P.R. n. 600 del 1973 - non prevede, per i tributi non armonizzati, un obbligo preventivo di instaurazione del contraddittorio prima della emissione dell'atto impositivo; ciò a differenza di quanto si desume, per i tributi armonizzati, dall'art. 41 della Carta dei diritti fondamentali dell'Unione europea, proclamata a Nizza il 7 dicembre 2000 e adottata a Strasburgo il 12 dicembre 2007, e, per gli altri tributi, dall'art. 12, comma 7, della legge 212 del 2000, il quale, tuttavia, nell'interpretazione delle sezioni unite della Corte di Cassazione (sentenza 9 dicembre 2015, n. 24823), deve ritenersi limitato alle sole verifiche legate ad accessi sui luoghi di riferimento del contribuente, diverse da quella sottesa al contenzioso oggetto del giudizio principale;
+ che, ad avviso del giudice rimettente, una siffatta interpretazione del dato normativo di riferimento viola l'art 117, primo comma, Cost., perché si pone in contrasto sia con l'art. 1 del Protocollo Addizionale alla Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali (CEDU), firmata a Roma il 4 novembre 1950, ratificata e resa esecutiva con legge 4 agosto 1955, n. 848 - giacché il procedimento che porta all'accertamento tributario, e dunque ad un titolo idoneo all'azione esecutiva, oltre che foriero di maggior importi per sanzioni e interessi, non risulta preceduto dal preventivo contradditorio con il contribuente - sia con l'art. 6 della CEDU, applicabile anche nei giudizi tributari, considerata la funzione deterrente e punitiva delle sanzioni correlate all'accertamento tributario;
+ che, inoltre, la Commissione tributaria provinciale di Siracusa fa propri i dubbi di legittimità costituzionale prospettati, in riferimento agli artt. 3, 53, 24 e 111 Cost., dalla Commissione regionale tributaria della Toscana, con ordinanza del 18 gennaio 2016, le cui argomentazioni, estese a tutte le disposizioni censurate con l'ordinanza in disamina, vengono pedissequamente ribadite;
+ che è intervenuto nel giudizio di costituzionalità il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, eccependo: in via pregiudiziale, più profili di inammissibilità delle questioni, e tra questi, in particolare, la genericità della descrizione della fattispecie oggetto del giudizio principale, nonché l'inadeguatezza della motivazione dell'ordinanza di rimessione, in relazione ai motivi di ricorso pregiudiziali rispetto al merito, diversi da quello concernente la violazione del contradditorio, logicamente ostativi, se fondati, all'applicabilità delle norme sospettate di incostituzionalità; nel merito, la manifesta infondatezza dei dubbi prospettati, per l'inconducenza dei riferimenti alla CEDU, nonché per l'inconferenza delle censure prospettate in relazione agli artt. 3, 24, 53 e 111 Cost.
+ Considerato che l'ordinanza in disamina non può ritenersi carente sotto il profilo della compiuta descrizione della fattispecie sottesa al giudizio principale;
+ che, infatti, diversamente da quanto sostenuto dalla difesa dell'interveniente, risulta puntualmente evidenziato che, nel caso di specie, l'accertamento impugnato - motivato dalla contestata deducibilità di alcuni costi portati in dichiarazione, con una conseguente rettifica del reddito dichiarato ex art. 39 del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 (Disposizioni comuni in materia di accertamento delle imposte sui redditi) e una diversa determinazione, per quel che qui interessa, del quantum dovuto per l'imposta regionale sulle attività produttive (IRAP) - ha seguito un cammino procedurale (caratterizzato dall'invito rivolto al contribuente ai sensi del comma 3 dell'art. 32 del citato d.P.R. n. 600 del 1973), estraneo alle ipotesi per le quali è previsto, ex lege, l'obbligo preventivo del contraddittorio;
+ che l'ordinanza è, tuttavia, manifestamente inammissibile perché, come sul punto correttamente rilevato dalla difesa del Presidente del Consiglio dei ministri, la Commissione rimettente, benché abbia dato espressamente conto di alcuni profili del giudizio principale logicamente e giuridicamente pregiudiziali rispetto alla applicabilità delle norme censurate (in particolare, è decisivo il riferimento alla inesistenza della notifica dell'atto impugnato, con eccezione preliminare ed assorbente, perché inerente alla stessa puntuale instaurazione del rapporto processuale lamentata dal contribuente), non ha poi adeguatamente motivato, anche solo in termini di mera plausibilità, in ordine alle ragioni che permetterebbero di rigettare le dette eccezioni preliminari;
+ che, in particolare, deve ritenersi insufficiente al fine il riferimento alle difese spese, nel giudizio principale, su tali temi, dall'amministrazione finanziaria, la quale, nel costituirsi, avrebbe replicato su tali eccezioni pregiudiziali «depositando documentazione varia ed invocando giurisprudenza contraria alla tesi della ricorrente (che condurrebbe alla reiezione di tutte le censure ad eccezione di quella relativa alla violazione dell'art. 12 dello statuto del contribuente)»;
+ che un siffatto argomentare è, all'evidenza, apodittico, in mancanza della descrizione del tenore delle difese della parte interessata e, soprattutto, del contenuto dell'orientamento della giurisprudenza (peraltro, in difetto anche dell'indicazione degli estremi delle pronunce che l'avrebbero espresso) che dovrebbe, positivamente, sostenerne il portato;
+ che l'insufficienza della motivazione su tali motivi del ricorso proposto nel giudizio principale, il cui eventuale accoglimento sarebbe suscettibile di determinare l'annullamento dell'atto impugnato, finisce per ricadere negativamente sull'onere di argomentare adeguatamente in ordine alla rilevanza delle questioni, così da imporre la declaratoria di manifesta inammissibilità (tra le tante, ordinanze nn. 122 e 24 del 2015; ordinanza n. 158 del 2013).
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara manifestamente inammissibile la questione di legittimità costituzionale dell'art. 12, comma 7, della legge 27 luglio 2000, n. 212 (Disposizioni in materia di statuto dei diritti del contribuente) e degli artt. 32, 39, 41-bis del decreto del Presidente della Repubblica 29 settembre 1973, n. 600 (Disposizioni comuni in materia di accertamento delle imposte sui redditi), sollevata dalla Commissione tributaria provinciale di Siracusa in riferimento agli artt. 3, 24, 53, 111 e 117, primo comma, della Costituzione.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 5 luglio 2017.
+ F.to:
+ Paolo GROSSI, Presidente
+ Augusto Antonio BARBERA, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 13 luglio 2017.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
