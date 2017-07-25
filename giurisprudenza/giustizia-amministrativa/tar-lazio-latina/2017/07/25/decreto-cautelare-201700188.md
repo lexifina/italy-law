@@ -1,0 +1,19 @@
+# TAR LAZIO - LATINA, decreto cautelare n. 188/2017
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - LATINA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201700188
+- Numero di ricorso (NRG): 201700457
+- Data di pubblicazione: 2017-07-25
+- Udienza: PROCESSO MONOCRATICO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2017-06-28
+- Oggetto del ricorso: ANNULLAMENTO DELL'ORDINANZA N. 4 DEL 24/06/2017 CON LA QUALE È STATA DISPOSTA LA SOSPENSIONE DEI LAVORI DI COSTRUZIONE DEL DISSALATORE MARINO A SERVIZIO DELL'ISOLA, DELLE NOTE PROT.N.2175 DEL 19/06/2017 E PROT.N.2182 DEL 19/06/2017,DELLA NOTA DEL 21/06/2017.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-latina-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/c5788dce-5064-4cb8-a911-32f666600891/resource/46cbcbb2-e7b5-4254-b319-195c70a82991/download/tar-lazio-latina-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
