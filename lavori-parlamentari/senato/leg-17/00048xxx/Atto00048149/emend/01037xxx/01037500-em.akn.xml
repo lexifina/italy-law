@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G13.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G13.101"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G13.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G13.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/G13.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID12DUEVWPDWT3EILCB5RTAYRREGMWVJZZZ4Z4U4JZO2PEDDQRKVDJ" href="http://dati.senato.it/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="ID2XHT5P2Q22WDMQPZRDJKGXBWIJ2UTUQ1ACQ4W1NHTWM0I5UFNGXH" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G13.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID12DUEVWPDWT3EILCB5RTAYRREGMWVJZZZ4Z4U4JZO2PEDDQRKVDJ" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2XHT5P2Q22WDMQPZRDJKGXBWIJ2UTUQ1ACQ4W1NHTWM0I5UFNGXH" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 13 del decreto legge, di cui la legge di conversione è al nostro esame, prevede disposizioni in materia di risanamento ambientale da parte dell'Amministrazione straordinaria ILVA, per l'utilizzo di risorse ai fini dell'attuazione e della realizzazione di interventi di risanamento e bonifica ambientale;</an:p>
+				<an:p>            la vertenza Uva rischia però di concludersi con migliaia di esuberi tra i dipendenti Uva senza considerare l'indotto, anche se la cordata Am-Investco ha ultimamente abbassato il numero degli esuberi da circa 5.500 a 4.200, mantenendo quindi gli addetti dei siti produttivi costanti a quota 10.000 (invece dei 9.407 di inizio piano e di 8.480 inizialmente previsti a fine piano nel 2024);</an:p>
+				<an:p>            tutti i lavoratori devono essere ricollocati. Non si possono comunque accettare licenziamenti, tenendo in considerazione anche l'indotto, e questo si può ottenere se non c'è una riduzione della capacità produttiva e accelerando i tempi degli investimenti;</an:p>
+				<an:p>            c'è bisogno - rispetto all'accordo che si sta prospettando con la cordata Am-Investco - di chiarire meglio la portata degli investimenti previsti e di impegnare la nuova proprietà a non ridurre la capacità produttiva né di Taranto, né degli altri stabilimenti;</an:p>
+				<an:p>            esiste un problema dell'assetto proprietario stante il ruolo strategico della siderurgia, che richiede di valutare una presenza non solo privata per dare maggiori garanzie, coinvolgendo nella proprietà anche la Cassa depositi e prestiti;</an:p>
+				<an:p>            occorre modificare la legge Marzano in modo di potere riaffidare la proprietà all'amministrazione straordinaria nel caso che l'acquirente si mostri inadempiente sugli investimenti;</an:p>
+				<an:p>            servono, infatti, garanzie e verifiche in termini occupazionali, di salvaguardia della salute pubblica e dei lavoratori, nonché dì ambiente;</an:p>
+				<an:p>            occorre anticipare al massimo gli investimenti concernenti l'ambiente, ed in particolare, anticipare i tempi di copertura dei parchi minerali;</an:p>
+				<an:p>        impegna il Governo,</an:p>
+				<an:p>            a intervenire e a vigilare al fine di ottenere le garanzie occupazionali, di salute e di risanamento ambientale descritte in premessa, anche tramite l'intervento della Cassa depositi e prestiti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
