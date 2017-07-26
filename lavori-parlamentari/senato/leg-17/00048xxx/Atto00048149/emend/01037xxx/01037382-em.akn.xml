@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/10.0.5"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/10.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGT1JZ1QNYJATDL3RDSQPIKCLPLRYJGL5CK5WF4GIP3LKCQDV54IH" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDMUW0NZRZMJM1DOJDX1XDLTG20J4YOZ13UQDDFYDVOKM1ITE0HAWD" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="ID2IY1X3WT5E4VK0P1F3TZZRPWQPQL0JI2MBKCD0E5HX0SRKLK1JQE" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDMFI3OQH4OVFOET4P0COEHYXQYOOCRDY0LUYLZEC33QBBGYZDFWXP" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGT1JZ1QNYJATDL3RDSQPIKCLPLRYJGL5CK5WF4GIP3LKCQDV54IH" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMUW0NZRZMJM1DOJDX1XDLTG20J4YOZ13UQDDFYDVOKM1ITE0HAWD" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2IY1X3WT5E4VK0P1F3TZZRPWQPQL0JI2MBKCD0E5HX0SRKLK1JQE" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMFI3OQH4OVFOET4P0COEHYXQYOOCRDY0LUYLZEC33QBBGYZDFWXP" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disciplina della capacità assunzionale dei Comuni)</an:i>
+				</an:p>
+				<an:p>        1. Nel rispetto della programmazione del fabbisogno e di quella finanziaria e contabile, ai fini della determinazione delle capacità assunzionali gli enti locali possono computare le cessazioni dal servizio del personale dì ruolo programmate e maturate nell'anno di riferimento».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
