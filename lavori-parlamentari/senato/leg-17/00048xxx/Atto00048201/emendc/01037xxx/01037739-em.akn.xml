@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2879/C/2.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2879/C/2.3"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2879/C/2.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2879/C/2.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2879" showAs="DDL 2879"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTWRF5FK2WEXELRPTI0WWWAPS3K1Q5YWSRFWZ2MLFBPS3JTA5QNPE" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+				<an:TLCPerson id="IDH4UIU101EA5IBNY0DGAJ1J3MLM4WAUWKE2J4A5BIZMDTVY53IZ1E" href="http://dati.senato.it/29034" showAs="AIROLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2879</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTWRF5FK2WEXELRPTI0WWWAPS3K1Q5YWSRFWZ2MLFBPS3JTA5QNPE" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH4UIU101EA5IBNY0DGAJ1J3MLM4WAUWKE2J4A5BIZMDTVY53IZ1E" as="#tipoSenatore">AIROLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 b)
+					<an:i>, sopprimere le parole da:</an:i>
+					 «in deroga all'articolo 90» 
+					<an:i>fino alla fine del periodo.</an:i>
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>al medesimo comma, lettera</an:i>
+					 c) 
+					<an:i>sostituire le parole:</an:i>
+					 «che i commissari liquidatori procedano alla cessione di cui all'articolo 3 in conformità all'offerta vincolante formulata dal cessionario individuato ai sensi dell'articolo 3, comma 3» 
+					<an:i>con le seguenti:</an:i>
+					 «la cessione di cui all'articolo 3 dovrà essere effettuata con una procedura pubblica di selezione dell'offerta economica più vantaggiosa per lo Stato disposta ai sensi dell'articolo 3, comma 3.»;
+				</an:p>
+				<an:p>
+					<an:i>all'articolo 3, comma 3, sostituire il primo periodo con il seguente:</an:i>
+					 «Il cessionario è individuato con una procedura pubblica di selezione dell'offerta economicamente più vantaggiosa per lo Stato disposta con decreto dal Ministro dell'economia e delle finanze da adottare entro 30 giorni dalla data di entrata in vigore del presente decreto e da pubblicarsi sul sito 
+					<an:i>web</an:i>
+					 istituzionale del Ministero dell'economia e delle finanze e della Banca d'Italia».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
