@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G15.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G15.104"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G15.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G15.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/G15.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKQTMXJWP5TABJKCQOK4YINU2CJL3IMFRU1Q33MH1RVY1RWZVGOUN" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDC3J15KMWTCMKPP3TJWIFU2H4WDPMDCVUQYAT5CGDCMROPLLTSRZO" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDC5RFSBFHLTEBKQ1IXFDEAGZ1XGXH2Q05EHWOKOJG4NMCO1IE5BXK" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="ID01KZYHBLLL0XDCSAMW1ITMTLNMBPVRHA21PJBQJTJAY0ISSDTHIC" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G15.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKQTMXJWP5TABJKCQOK4YINU2CJL3IMFRU1Q33MH1RVY1RWZVGOUN" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC3J15KMWTCMKPP3TJWIFU2H4WDPMDCVUQYAT5CGDCMROPLLTSRZO" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC5RFSBFHLTEBKQ1IXFDEAGZ1XGXH2Q05EHWOKOJG4NMCO1IE5BXK" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID01KZYHBLLL0XDCSAMW1ITMTLNMBPVRHA21PJBQJTJAY0ISSDTHIC" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge di Conversione del decreto-legge 20 giugno 2017, n. 91, recante disposizioni urgenti per la crescita economica nel Mezzogiorno,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            le risorse individuate dal decreto-legge n. 50 del 2017, appena convertito, non risultano sufficienti a garantire il conseguimento degli equilibri di parte corrente di tutte le Province delle Regioni a Statuto ordinario;</an:p>
+				<an:p>            occorre uno stanziamento ulteriore per l'anno in corso, la cui copertura potrebbe rinvenirsi a valere sul fondo per gli interventi strutturali (c.d. «fondo fispe») per l'anno in corso;</an:p>
+				<an:p>        impegna il Governo a,</an:p>
+				<an:p>            prevedere la possibilità in un diverso quadro normativo, di incrementare il contributo per l'esercizio delle funzioni fondamentali delle Province per gli anni 2017, 2018 e 2019 alle Province delle regioni a statuto ordinario che alla data del 30 giugno 2017 non hanno adottato lo schema di bilancio 2017.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
