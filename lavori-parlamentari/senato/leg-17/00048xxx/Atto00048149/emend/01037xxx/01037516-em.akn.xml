@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/14.0.5"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="14.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/14.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXHTP5H1BMVKDJG1PRPAIBX2NNEUFMV0RWRBTKH4SFQ1YD0CI13L" href="http://dati.senato.it/29092" showAs="FABBRI"/>
+				<an:TLCPerson id="IDC4OHECYD25ZVIMVOJ3HIQGAAZDXDYY5VCCPQ0HBPV3DNP0GF13QN" href="http://dati.senato.it/22706" showAs="AMATI"/>
+				<an:TLCPerson id="IDOULKJ540IJWIWBPHPHNBSEIXPCDOALPFVXCBQJDYTKM2OUHFQEL" href="http://dati.senato.it/29141" showAs="MORGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 14.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXHTP5H1BMVKDJG1PRPAIBX2NNEUFMV0RWRBTKH4SFQ1YD0CI13L" as="#tipoSenatore">FABBRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC4OHECYD25ZVIMVOJ3HIQGAAZDXDYY5VCCPQ0HBPV3DNP0GF13QN" as="#tipoSenatore">AMATI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOULKJ540IJWIWBPHPHNBSEIXPCDOALPFVXCBQJDYTKM2OUHFQEL" as="#tipoSenatore">MORGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 14-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifiche al Credito d'imposta investimenti Sisma Centro Italia)</an:i>
+				</an:p>
+				<an:p>
+					        1. L'articolo 18-
+					<an:i>quater</an:i>
+					 del decreto-legge 9 febbraio 2017, n. 8, convertito, con modificazioni, dalla legge 7 aprile 2015, n. 45, è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					        "Art. 18-
+					<an:i>quater. - (Credito d'imposta investimenti Sisma Centro Italia). - 1.</an:i>
+					 Alle piccole e medie imprese, come definite dall'allegato 1 del Regolamento (UE) n. 651/2014 della Commissione, del 17 giugno 2014, che effettuano investimenti in beni strumentali nuovi destinati a strutture produttive già esistenti o che vengono impiantate nei territori dei Comuni delle regioni del Lazio, dell'Umbria, delle Marche e dell'Abruzzo, di cui agli allegati 1, 2 e 3 del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, con la legge 15 dicembre 2016, n. 229, fino al 31 dicembre 2019, è attribuito un credito d'imposta nella misura del 20 per cento per le piccole imprese e del 10 per cento per le medie imprese, ai sensi e per gli effetti di cui all'articolo 17 del regolamento (UE) n. 651/2014 della Commissione del 17 giugno 2014 che dichiara alcune categorie di aiuti compatibili con il mercato interno in applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione Europea.
+				</an:p>
+				<an:p>        2. In relazione agli interventi di cui al comma 1 si applicano, in quanto compatibili, le disposizioni di cui all'articolo 1, comma 98 e seguenti, della legge 28 dicembre 2015 n. 208.</an:p>
+				<an:p>
+					        3. I soggetti che intendono avvalersi del credito d'imposta devono presentare apposita comunicazione all'Agenzia delle entrate. Le modalità, i termini di presentazione e il contenuto della comunicazione sono stabiliti con provvedimento del direttore dell'Agenzia medesima, da emanare entro trenta giorni dalla data di pubblicazione della presente legge nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					. L'Agenzia delle entrate comunica alle imprese l'autorizzazione alla fruizione del credito d'imposta.
+				</an:p>
+				<an:p>        4. Agli oneri derivanti dal presente articolo, valutati in 20 milioni di euro per l'anno 2017 e in 23,9 milioni di euro per l'anno 2018, si provvede mediante corrispondente riduzione della dotazione del Fondo per interventi strutturali di politica economica di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307."».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
