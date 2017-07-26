@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/11.23/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/11.23"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/11.23/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.23"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/11.23/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQXSSTFWY2HMYIZFFYT00F5XYSI3YIBXZDDIZ5TDD24Z2BYDSZ45M" href="http://dati.senato.it/29109" showAs="GOTOR"/>
+				<an:TLCPerson id="IDLT4ZZFHKCTEBMKRTC0ZQAYY5PGUIDMZJ2WQKFVFEK0UCUTQRLTZK" href="http://dati.senato.it/29167" showAs="RICCHIUTI"/>
+				<an:TLCPerson id="ID3ISHKMOIDE2XN4G3DAVO4DEH1LDJ2UH3TSFZCROBC1Q4MCBQ0LXP" href="http://dati.senato.it/29042" showAs="BATTISTA"/>
+				<an:TLCPerson id="IDRTPDDQN0QRRTC4XEV13O1PT2POI0X4O1HQWAP5HQWPATAWIS1PG" href="http://dati.senato.it/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="IDLXHL5D5BWZAJG4JSGWDPOSI2WO3JW4ZPDXYESPHGDZF1ZFTZJQYF" href="http://dati.senato.it/25495" showAs="GATTI"/>
+				<an:TLCPerson id="IDB2ANGWVSU2KNGYRVALJ4SRCGIHN2N2HJPYVE22BXMEM05OJHUPDG" href="http://dati.senato.it/25229" showAs="GRANAIOLA"/>
+				<an:TLCPerson id="ID01KZYHBLLL0XDCSAMW1ITMTLNMBPVRHA21PJBQJTJAY0ISSDTHIC" href="http://dati.senato.it/25477" showAs="LO MORO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.23</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQXSSTFWY2HMYIZFFYT00F5XYSI3YIBXZDDIZ5TDD24Z2BYDSZ45M" as="#tipoSenatore">GOTOR</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLT4ZZFHKCTEBMKRTC0ZQAYY5PGUIDMZJ2WQKFVFEK0UCUTQRLTZK" as="#tipoSenatore">RICCHIUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3ISHKMOIDE2XN4G3DAVO4DEH1LDJ2UH3TSFZCROBC1Q4MCBQ0LXP" as="#tipoSenatore">BATTISTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRTPDDQN0QRRTC4XEV13O1PT2POI0X4O1HQWAP5HQWPATAWIS1PG" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLXHL5D5BWZAJG4JSGWDPOSI2WO3JW4ZPDXYESPHGDZF1ZFTZJQYF" as="#tipoSenatore">GATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB2ANGWVSU2KNGYRVALJ4SRCGIHN2N2HJPYVE22BXMEM05OJHUPDG" as="#tipoSenatore">GRANAIOLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID01KZYHBLLL0XDCSAMW1ITMTLNMBPVRHA21PJBQJTJAY0ISSDTHIC" as="#tipoSenatore">LO MORO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 4, aggiungere i seguenti:</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis</an:i>
+					. Allo scopo di agevolare la ricollocazione dei docenti del Mezzogiorno, che hanno maturato un'esperienza pluriennale nei territori delle regioni Abruzzo, Basilicata, Calabria, Campania, Molise, Puglia, Sardegna e Sicilia, nel periodo precedente l'anno 2015, e divenuti quindi titolari di cattedre in altre regioni e in particolare nel nord Italia, in virtù delle previsioni di cui alla legge 13 luglio 2015, n. 107, con conseguenti ricadute negative per il tessuto socio economico del Mezzogiorno, dalla data di entrata in vigore della legge di conversione del presente decreto, si dispone la trasformazione di non meno del quaranta per cento dei posti in deroga sul sostegno in organico di diritto, e la conseguente titolarità a domanda degli interessati nel nuovo organico di diritto disponibile nell'ambito prescelto, dando priorità ai docenti assunti sulla base delle previsioni di cui alla legge 13 luglio 2015, n. 107.
+				</an:p>
+				<an:p>
+					        4-
+					<an:i>ter</an:i>
+					. A copertura degli oneri di cui al precedente comma, si provvede a valere sullo stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2017-2019, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
