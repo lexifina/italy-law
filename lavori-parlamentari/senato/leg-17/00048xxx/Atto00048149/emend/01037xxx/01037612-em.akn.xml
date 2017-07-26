@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/15.0.37"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.0.37"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.37/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFW534KYGJWULHQKM23L3Z2TZUBTAIBYCYVKPUKDXYIOTYW14KY5P" href="http://dati.senato.it/29113" showAs="LAI"/>
+				<an:TLCPerson id="ID5GZL0XZEZDWKJOBXRYCF2CBKDVGCFCNIRIEEILTHIUI43SVAKTO" href="http://dati.senato.it/29037" showAs="ANGIONI"/>
+				<an:TLCPerson id="IDIQKPJKU5M51BIS2W4FBSWMSPYIOLQUXLJR2QOIJQIHAEQIKY35UK" href="http://dati.senato.it/29076" showAs="CUCCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.0.37</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFW534KYGJWULHQKM23L3Z2TZUBTAIBYCYVKPUKDXYIOTYW14KY5P" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5GZL0XZEZDWKJOBXRYCF2CBKDVGCFCNIRIEEILTHIUI43SVAKTO" as="#tipoSenatore">ANGIONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIQKPJKU5M51BIS2W4FBSWMSPYIOLQUXLJR2QOIJQIHAEQIKY35UK" as="#tipoSenatore">CUCCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo, l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 15-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>        1. Nel caso di dismissione o trasferimento di immobili pubblici anche a seguito di successione nella titolarità dei beni demaniali e patrimoniali, in favore delle Regioni o dei Comuni, è applicabile l'articolo 31 della legge 28 febbraio 1985 n. 47 e non si applicano le condizioni di nullità di cui al secondo comma dell'articolo 40 della stessa legge, fatto salvo quanto previsto dall'articolo 32 del decreto-legge 30 settembre 2003 n. 269. In assenza di idoneo e sufficiente stato di consistenza la domanda di cui al succitato articolo 31 può essere presentata all'accertamento delle condizioni di fatto e di diritto degli immobili effettuato dall'ente subentrato nella titolarità, anche nell'ipotesi in cui il subentro sia intervenuto in data anteriore all'entrata in vigore della presente legge. Le domande sono presentate ai sensi delle leggi vigenti all'epoca di ultimazione dei lavori».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
