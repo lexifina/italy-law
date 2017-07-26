@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/15.0.39"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.0.39"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/15.0.39/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDLJTPBJ50URJIM5KIC4L0M4PJVARVETT5BV3XM2P3YGFHUWUC0I" href="http://dati.senato.it/29141" showAs="MORGONI"/>
+				<an:TLCPerson id="ID33O21O11ELIRHLFEQYCAO15NHN2FP42SRCLIJQFWWIWAGTNWLV2M" href="http://dati.senato.it/22706" showAs="AMATI"/>
+				<an:TLCPerson id="IDQ311Z3YQFBVLG4KOQBZUS0SQVFNXCAFFJLQFL1GFMZGXFQDLVD1H" href="http://dati.senato.it/29092" showAs="FABBRI"/>
+				<an:TLCPerson id="IDE102XWALHNBYI15TUPO4SJ0BAO1CVNK2X0310HOD4AADFCOYOFYI" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.0.39</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDLJTPBJ50URJIM5KIC4L0M4PJVARVETT5BV3XM2P3YGFHUWUC0I" as="#tipoSenatore">MORGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID33O21O11ELIRHLFEQYCAO15NHN2FP42SRCLIJQFWWIWAGTNWLV2M" as="#tipoSenatore">AMATI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ311Z3YQFBVLG4KOQBZUS0SQVFNXCAFFJLQFL1GFMZGXFQDLVD1H" as="#tipoSenatore">FABBRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE102XWALHNBYI15TUPO4SJ0BAO1CVNK2X0310HOD4AADFCOYOFYI" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 15-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 4, del decreto-legge 9 febbraio 2017, n. 8, convertito, con modificazioni, dalla legge 7 aprile 2017, n. 45, le parole: "31 luglio 2017" sono sostituite con le seguenti: "31 dicembre 2017"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
