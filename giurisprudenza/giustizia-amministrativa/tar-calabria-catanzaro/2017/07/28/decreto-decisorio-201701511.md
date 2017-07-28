@@ -1,0 +1,19 @@
+# TAR CALABRIA - CATANZARO, decreto decisorio n. 1511/2017
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR CALABRIA - CATANZARO
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 201701511
+- Numero di ricorso (NRG): 200900330
+- Data di pubblicazione: 2017-07-28
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2009-03-19
+- Oggetto del ricorso: A) DELLA DELIBERAZIONE DI REVOCA EX NUNC DELL’INTERVENTO AGEVOLATIVO CONCESSO A MERCURI PASQUALE SULL’OPERAZIONE N.327981 AI SENSI DELLA LEGGE 1329/1965, ADOTTATA IN DATA 17.07.2008 DAL COMITATO AGEVOLAZIONI MCC S.P.A. REGIONE CALABRIA;
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-catanzaro-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/4a594d12-def6-459f-bc2d-92a79e3a16d1/resource/cb81f88b-36e2-4020-81cb-eb348af2bafc/download/tar-calabria-catanzaro-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
