@@ -1,6 +1,6 @@
 Art. 625-bis.
 
-(( (Ricorso straordinario per errore materiale o di fatto).
+(Ricorso straordinario per errore materiale o di fatto).
 
 1.
 
@@ -12,7 +12,9 @@ La richiesta e' proposta dal procuratore generale o dal condannato, con ricorso 
 
 3.
 
-L'errore materiale di cui al comma 1 puo' essere rilevato dalla corte di cassazione, d'ufficio, in ogni momento.
+L'errore materiale di cui al comma 1 puo' essere rilevato dalla corte di cassazione, d'ufficio, in ogni momento ((e senza formalita'.
+
+L'errore di fatto puo' essere rilevato dalla corte di cassazione, d'ufficio, entro novanta giorni dalla deliberazione)).
 
 4.
 

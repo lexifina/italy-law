@@ -1,33 +1,59 @@
 Art. 90-bis.
 
-(( (Informazioni alla persona offesa). ))
+(Informazioni alla persona offesa)
 
-(( 1. Alla persona offesa, sin dal primo contatto con l'autorita' procedente, vengono fornite, in una lingua a lei comprensibile, informazioni in merito:
+1.
 
-a) alle modalita' di presentazione degli atti di denuncia o querela, al ruolo che assume nel corso delle indagini e del processo, al diritto ad avere conoscenza della data, del luogo del processo e della imputazione e, ove costituita parte civile, al diritto a ricevere notifica della sentenza, anche per estratto;
+Alla persona offesa, sin dal primo contatto con l'autorita' procedente, vengono fornite, in una lingua a lei comprensibile, informazioni in merito:
 
-b) alla facolta' di ricevere comunicazione dello stato del procedimento e delle iscrizioni di cui all'articolo 335, commi 1 e 2;
+a)
 
-c) alla facolta' di essere avvisata della richiesta di archiviazione;
+alle modalita' di presentazione degli atti di denuncia o querela, al ruolo che assume nel corso delle indagini e del processo, al diritto ad avere conoscenza della data, del luogo del processo e della imputazione e, ove costituita parte civile, al diritto a ricevere notifica della sentenza, anche per estratto;
 
-d) alla facolta' di avvalersi della consulenza legale e del patrocinio a spese dello Stato;
+c)
 
-e) alle modalita' di esercizio del diritto all'interpretazione e alla traduzione di atti del procedimento;
+alla facolta' di essere avvisata della richiesta di archiviazione;
 
-f) alle eventuali misure di protezione che possono essere disposte in suo favore;
+d)
 
-g) ai diritti riconosciuti dalla legge nel caso in cui risieda in uno Stato membro dell'Unione europea diverso da quello in cui e' stato commesso il reato;
+alla facolta' di avvalersi della consulenza legale e del patrocinio a spese dello Stato;
 
-h) alle modalita' di contestazione di eventuali violazioni dei propri diritti;
+e)
 
-i) alle autorita' cui rivolgersi per ottenere informazioni sul procedimento;
+alle modalita' di esercizio del diritto all'interpretazione e alla traduzione di atti del procedimento;
 
-l) alle modalita' di rimborso delle spese sostenute in relazione alla partecipazione al procedimento penale;
+f)
 
-m) alla possibilita' di chiedere il risarcimento dei danni derivanti da reato;
+alle eventuali misure di protezione che possono essere disposte in suo favore;
 
-n) alla possibilita' che il procedimento sia definito con remissione di querela di cui all'articolo 152 del codice penale, ove possibile, o attraverso la mediazione;
+g)
 
-o) alle facolta' ad essa spettanti nei procedimenti in cui l'imputato formula richiesta di sospensione del procedimento con messa alla prova o in quelli in cui e' applicabile la causa di esclusione della punibilita' per particolare tenuita' del fatto;
+ai diritti riconosciuti dalla legge nel caso in cui risieda in uno Stato membro dell'Unione europea diverso da quello in cui e' stato commesso il reato;
 
-p) alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza e alle case rifugio))
+h)
+
+alle modalita' di contestazione di eventuali violazioni dei propri diritti;
+
+i)
+
+alle autorita' cui rivolgersi per ottenere informazioni sul procedimento;
+
+l)
+
+alle modalita' di rimborso delle spese sostenute in relazione alla partecipazione al procedimento penale;
+
+m)
+
+alla possibilita' di chiedere il risarcimento dei danni derivanti da reato;
+
+n)
+
+alla possibilita' che il procedimento sia definito con remissione di querela di cui all'articolo 152 del codice penale, ove possibile, o attraverso la mediazione;
+
+o)
+
+alle facolta' ad essa spettanti nei procedimenti in cui l'imputato formula richiesta di sospensione del procedimento con messa alla prova o in quelli in cui e' applicabile la causa di esclusione della punibilita' per particolare tenuita' del fatto;
+
+p)
+
+alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza e alle case rifugio.
