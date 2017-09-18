@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza collegiale n. 9776/2017
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA QUATER
+- Numero provvedimento: 201709776
+- Numero di ricorso (NRG): 201512947
+- Data di pubblicazione: 2017-09-18
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: PROROGA TERMINI COMMISSARIO AD ACTA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2015-11-06
+- Oggetto del ricorso: SILENZIO-RIFIUTO SULLA RICHIESTA DI STIPULA DELLA CONVENZIONE RELATIVA AL PARCHEGGIO DI VIA CESSATI SPIRITI EX ART. 6 L. N. 122/89 IDENTIFICATO CON IL CODICE DI INTERVENTO B1.4-097 (N. 11990) ED APPROVATO CON DELIBERA G.C. 293/13
+- Tipo di ricorso: SILENZIO P.A. (ex art. 117 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
