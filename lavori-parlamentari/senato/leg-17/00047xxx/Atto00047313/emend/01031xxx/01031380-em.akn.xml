@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@.akn"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G5.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2287-BIS" showAs="DDL 2287-BIS"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSJ03UTVBPADRMJFOSLCQCJN3LNWQZG0UP4OOSOKSQPW5HCMDIBB" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDXK1LW4SCTIZIDAXDMBYQ4FHTKKYG0SXSJZADIDCCGJSHPZPZI0M" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDOLK0PHPCWSXHCGXEIG2JR1I1OWSZP55LP5UIZPQJC1JU3EFNYME" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2287-BIS</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSJ03UTVBPADRMJFOSLCQCJN3LNWQZG0UP4OOSOKSQPW5HCMDIBB" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXK1LW4SCTIZIDAXDMBYQ4FHTKKYG0SXSJZADIDCCGJSHPZPZI0M" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOLK0PHPCWSXHCGXEIG2JR1I1OWSZP55LP5UIZPQJC1JU3EFNYME" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>
+					            in sede d'esame del disegno di legge recante Delega al Governo per il codice dello spettacolo (A.S. 2287-
+					<an:i>bis</an:i>
+					), premesso che:
+				</an:p>
+				<an:p>            all'articolo 5 sono previste forme di incentivi e benefici fiscali vòlte a incentivare ulteriormente la partecipazione dei privati al sostegno e al rafforzamento del settore dello spettacolo, nonché a promuovere la produzione musicale delle opere di artisti emergenti;</an:p>
+				<an:p>
+					            l'intervento pubblico a sostegno delle attività di spettacolo, di cui all'articolo 1, comma 4, rispettivamente alla lettera 
+					<an:i>c)</an:i>
+					, alla lettera 
+					<an:i>d)</an:i>
+					 e alla lettera 
+					<an:i>e)</an:i>
+					, favorisce e promuove in particolare «le attività di spettacolo realizzate con il diretto coinvolgimento dei giovani fin dall'infanzia», «il teatro per ragazzi, incentivando la produzione qualificata e la ricerca», «l'accesso alla fruizione delle arti della scena, intese come opportunità di sviluppo culturale per tutti i cittadini, con particolare attenzione alle nuove generazioni di pubblico, fin dall'infanzia»;
+				</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>
+					            il decreto legislativo 13 aprile 2017, n. 60, recentemente adottato, in attuazione dei principi di delega di cui all'articolo 1, commi 180, 181, lettera 
+					<an:i>g)</an:i>
+					, della legge 13 luglio 2015, n. 107 (cosiddetta «Buona Scuola»), recante Norme sulla promozione della cultura umanistica, del patrimonio artistico e della creatività, ponendo l'attenzione sull'importanza delle discipline artistiche, fin dall'infanzia e nelle sue diverse declinazioni, era finalizzato a promuovere lo sviluppo della sensibilità artistica degli alunni e degli studenti al fine di valorizzarne i talenti e di fornire loro una conoscenza artistica di base che si riveli in grado di consentire una crescita personale e cognitiva nonché un armonioso sviluppo delle rispettive personalità;
+				</an:p>
+				<an:p>        valutato che:</an:p>
+				<an:p>            già in fase di audizioni era stato rilevata da più parti la difficoltà di dare attuazione a progetti ambiziosi di così ampio respiro e peraltro ampiamente condivisibili, senza prevedere tuttavia risorse aggiuntive adeguate per la loro realizzazione;</an:p>
+				<an:p>            alle problematiche che il sistema scolastico si trova ad affrontare in ambito formativo si coniuga la difficoltà, per i giovani artisti, di riuscire a conseguire una adeguata crescita professionale e un progressivo inserimento nel mercato lavoro;</an:p>
+				<an:p>            è quanto mai necessario e opportuno, fin dall'età scolare coinvolgere alunni e studenti nell'apprendimento interdisciplinare di tecniche e saperi e dando loro modo di sviluppare quelle attitudini che sono tradizionalmente parte della cultura umanistica quali l'attenzione, il rigore, le capacità critiche, analitiche e metodologiche anche attraverso la conoscenza del patrimonio culturale nelle sue diverse declinazioni,</an:p>
+				<an:p>        impegna il Governo a reperire ulteriori risorse finanziarie finalizzate a promuovere e sostenere, anche sotto forma di credito d'imposta, l'iscrizione annuale e l'abbonamento, per i ragazzi di età compresa tra 5 e 18 anni, a corsi di danza, teatro e musica, presso scuole rispondenti alle caratteristiche individuate con decreto del Ministro dei beni e delle attività culturali e del turismo, di concerto con il Ministro dell'economia e delle finanze e con il Ministero dell'istruzione dell'università e della ricerca o presso scuole inserite negli appositi registri previsti dalla legislazione delle regioni e delle province autonome di Trento e di Bolzano.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
