@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.204"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@.akn"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/2.204/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2287-BIS" showAs="DDL 2287-BIS"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJM1XH2KONBCVHRYSRTB5PIUOC4NY1PYMLI1Q1ND1ONH0KG12WIM" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDX5DMBJ4NJY44DZGJVPYXKPCCTCPQWW1FAIG0QVII2VRLBCLZ2XUI" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDQY3VIXOYXK0FEPTKYE1EN43RXOW2BZZHLXRY4CP05HABMETIAUBE" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2287-BIS</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.204</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJM1XH2KONBCVHRYSRTB5PIUOC4NY1PYMLI1Q1ND1ONH0KG12WIM" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX5DMBJ4NJY44DZGJVPYXKPCCTCPQWW1FAIG0QVII2VRLBCLZ2XUI" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQY3VIXOYXK0FEPTKYE1EN43RXOW2BZZHLXRY4CP05HABMETIAUBE" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, dopo lettera f), aggiungere la seguente:</an:p>
+				<an:p>
+					        «
+					<an:i>f-bis)</an:i>
+					. Nel rispetto della normativa europea, prevedere la liberalizzazione dell'esercizio delle attività di intermediazione dei diritti d'autore limitandone comunque l'esercizio a organismi di gestione collettiva dei diritti e degli enti di gestione indipendenti in possesso dei requisiti previsti dalla normativa vigente e idonei ad assicurare ai titolari dei diritti una puntuale rendicontazione dell'attività svolta nel loro interesse; nonché assicurare ai titolari dei diritti la gestione autonoma degli stessi, anche tramite ricorso a licenze di tipo 
+					<an:i>creative commons</an:i>
+					, previo eventuale assolvimento degli obblighi di comunicazione previsti nel mandato conferito all'organismo di gestione collettiva o all'ente di gestione indipendente».
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Aggiungono la firma in corso di seduta la senatrice Fucksia e i restanti componenti del Gruppo FL (Id-PL, PLI)</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
