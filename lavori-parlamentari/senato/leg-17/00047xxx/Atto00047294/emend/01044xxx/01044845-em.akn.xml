@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/G3.103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/G3.103"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2541/A/G3.103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@.akn"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2541/A/G3.103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2541" showAs="DDL 2541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4K5LWIF2U31PC0R3TRGZKRYMQGT1HGWM1DZ3N3K3UNMZGKKZUOOM" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDXYH2GJCBHW1QD1JKKYQUJFMTCJVKTHCESOFMAJN2HT2P3B4L3C2C" href="http://dati.senato.it/22551" showAs="BISINELLA"/>
+				<an:TLCPerson id="IDBI02F1JHZWRILZKYQX0KWUWGJMLUYSSDRJ1J5NHQGNW4TKIHXPZC" href="http://dati.senato.it/25449" showAs="MUNERATO"/>
+				<an:TLCPerson id="IDD4PMDFM43F0WIZ5ASXNNQRP52JT0B3M452HO1FFXR5EMUJNLZAXJ" href="http://dati.senato.it/29163" showAs="PICCOLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4K5LWIF2U31PC0R3TRGZKRYMQGT1HGWM1DZ3N3K3UNMZGKKZUOOM" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXYH2GJCBHW1QD1JKKYQUJFMTCJVKTHCESOFMAJN2HT2P3B4L3C2C" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBI02F1JHZWRILZKYQX0KWUWGJMLUYSSDRJ1J5NHQGNW4TKIHXPZC" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD4PMDFM43F0WIZ5ASXNNQRP52JT0B3M452HO1FFXR5EMUJNLZAXJ" as="#tipoSenatore">PICCOLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge n. 2541,</an:p>
+				<an:p>        impegna il Governo, nel primo provvedimento utile, ad affrontare e risolvere le problematiche di cui all'emendamento 3.103, relativo all'assegnazione di un contributo per gli anni 2018 e 2019 al fine di assicurare la gestione e la manutenzione del cimitero monumentale delle vittime del Vajont.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
