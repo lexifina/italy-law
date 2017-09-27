@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2886/22/14"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@.akn"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2886/C/G/2886/22/14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2886" showAs="DDL 2886"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="14ª Commissione permanente " href="/dati.senato.it/osr/Commissione/14"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHWLXLIXMYY0ODTOVJ1XPVERPNKVMHTLAF5MK5TEI1QHIYZBFLMS" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+				<an:TLCPerson id="IDRGJTCXPSGRBSDADFCHYDQWUU1Z5ISHXONQEP3JDK55OYELSL4DO" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDD4HG4XZOYY1VKNV5UXFTNPPHMPISI55DCGHQKLGPBW0QTMAR15SI" href="http://dati.senato.it/29070" showAs="CIOFFI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2886</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2886/22/14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHWLXLIXMYY0ODTOVJ1XPVERPNKVMHTLAF5MK5TEI1QHIYZBFLMS" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRGJTCXPSGRBSDADFCHYDQWUU1Z5ISHXONQEP3JDK55OYELSL4DO" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD4HG4XZOYY1VKNV5UXFTNPPHMPISI55DCGHQKLGPBW0QTMAR15SI" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante «Disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - Legge europea 2017»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 9 reca modifiche al decreto del Presidente della Repubblica n. 633 del 1972 sulla disciplina dell'IVA e in particolare al regime di non imponibilità ai fini IVA delle cessioni all'esportazione, al fine di esentare dall'IVA le cessioni effettuate nei confronti delle pubbliche amministrazioni e dei soggetti della cooperazione allo sviluppo iscritti in apposito elenco, che provvedono al trasporto e alla spedizione dei beni all'estero in attuazione di finalità umanitarie, comprese quelle dirette a realizzare programmi di cooperazione allo sviluppo;</an:p>
+				<an:p>            la predetta norma non prevede un termine termporale entro cui il Ministro dell'economia sia chiamato ad adottare il decreto ministeriale che dovrà stabilire le modalità con cui le cessioni all'esportazione potranno beneficiare del regime di non imponibilità IVA;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a prevedere che il decreto del Ministro dell'economia e delle finanze, previsto dall'articolo 9 del disegno di legge, per stabilire le modalità con cui le cessioni all'esportazione potranno beneficiare del regime di non imponibilità dell'IVA, debba essere adottato entro 90 giorni dall'entrata in vigore della legge europea 2017.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
