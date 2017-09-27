@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/15.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/15.100"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2541/A/15.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@.akn"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2541/A/15.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2541" showAs="DDL 2541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWNCUVI5FARTQO4RXHJB3MRQDACZEK05XO20FVEC1HCKV51WXAY1" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDEMVFXLXP5ORHLEW3TMFSZIPHHJWXT5CYTVO0LBP1VSQOTC10GWD" href="http://dati.senato.it/22551" showAs="BISINELLA"/>
+				<an:TLCPerson id="IDWY3DBWOLLKR0LNGM2QFSCVLMDDYGA2T2QS4EN4OSHRS5C213BFIC" href="http://dati.senato.it/25449" showAs="MUNERATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWNCUVI5FARTQO4RXHJB3MRQDACZEK05XO20FVEC1HCKV51WXAY1" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEMVFXLXP5ORHLEW3TMFSZIPHHJWXT5CYTVO0LBP1VSQOTC10GWD" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWY3DBWOLLKR0LNGM2QFSCVLMDDYGA2T2QS4EN4OSHRS5C213BFIC" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 3, aggiungere il seguente:</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis</an:i>
+					. All'articolo 4-
+					<an:i>bis</an:i>
+					 della Legge 9 dicembre 1998, n. 431, dopo il comma 1, è inserito il seguente:
+				</an:p>
+				<an:p>
+					        ''1-
+					<an:i>bis</an:i>
+					. La convenzione di cui all'articolo 4, comma 1, prevede che la detrazione per locazione prevista dall'articolo 15, comma 1, lettera 
+					<an:i>i-sexies)</an:i>
+					 del Testo Unico delle imposte sui redditi di cui al Decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, a favore degli studenti universitari fuori sede, venga estesa anche agli studenti fuori sede residenti in zone montane o disagiate che frequentino Università ubicata in un comune distante almeno 50 chilometri dal comune di residenza''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
