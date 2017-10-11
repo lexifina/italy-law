@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11"/>
+					<an:FRBRdate date="2017-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2858/9/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@"/>
+					<an:FRBRdate date="2017-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@.akn"/>
+					<an:FRBRdate date="2017-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/9/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2858" showAs="DDL 2858"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBV25XJZNVJBMOHYD5A3QUFINLIB3NXK0AQGYRGHIXDKFAIJIEFRL" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDCK5P2V2ZGK4KRG0KH0RTNBVYIY1NBPUNHUX3LOZMJI0FKEEW0O" href="http://dati.senato.it/25207" showAs="SERAFINI"/>
+				<an:TLCPerson id="IDGAASU0EV5RB2HUX1WRDFPL54IICEFP12HUGDZIL1KIP14L0AAYOC" href="http://dati.senato.it/30913" showAs="AURICCHIO"/>
+				<an:TLCPerson id="IDBLAI0YKJ4CRXEB4DOXOJ1KJKWNSKRRNAII5X4OLZXVE14C3EQ5KL" href="http://dati.senato.it/25412" showAs="Mariarosaria ROSSI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2858</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2858/9/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBV25XJZNVJBMOHYD5A3QUFINLIB3NXK0AQGYRGHIXDKFAIJIEFRL" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCK5P2V2ZGK4KRG0KH0RTNBVYIY1NBPUNHUX3LOZMJI0FKEEW0O" as="#tipoSenatore">SERAFINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGAASU0EV5RB2HUX1WRDFPL54IICEFP12HUGDZIL1KIP14L0AAYOC" as="#tipoSenatore">AURICCHIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBLAI0YKJ4CRXEB4DOXOJ1KJKWNSKRRNAII5X4OLZXVE14C3EQ5KL" as="#tipoSenatore">Mariarosaria ROSSI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge recante «Disposizioni in materia di equità del compenso e responsabilità professionale delle professioni regolamentate»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'equilibrio di un contratto va analizzato in senso economico, considerando il «valore della prestazione», nonché in senso strettamente normativo, valutando l'equilibrio in base all'insieme delle prestazioni normative assunte dalle parti;</an:p>
+				<an:p>            l'equità è un principio deontologico fondamentale per un'attività professionale;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a prevedere la possibilità di disciplinare l'ipotesi di squilibrio contrattuale tra committente e professionista, stabilendo la nullità della clausola che attribuisce al primo la facoltà di recedere dal contratto senza la previa remunerazione del compenso relativo alle attività già svolte dal secondo o avviate in forza del contratto oggetto di rescissione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
