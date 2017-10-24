@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2383/C/2.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2383/C/2.2"/>
+					<an:FRBRdate date="2017-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2383/C/2.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@"/>
+					<an:FRBRdate date="2017-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@.akn"/>
+					<an:FRBRdate date="2017-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2383/C/2.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2383" showAs="DDL 2383"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 9° e 13° riunite" href="/dati.senato.it/osr/Commissione/140"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLVWUCEPMSYLOOLXDUVMPMVJVMOJX1NEI4FNZYVGVCARIALVHN1LN" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="ID3VES1HBMPRGPCGS0OVKCMZQVRIOFVKLHG2BZPKDTBAFZYUI4U4HD" href="http://dati.senato.it/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDSONT5EU5H4TPDSDZ0KUL1XPR4IBQBEIVCIMFGDEPEIT4HOQY44PB" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2383</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLVWUCEPMSYLOOLXDUVMPMVJVMOJX1NEI4FNZYVGVCARIALVHN1LN" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3VES1HBMPRGPCGS0OVKCMZQVRIOFVKLHG2BZPKDTBAFZYUI4U4HD" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSONT5EU5H4TPDSDZ0KUL1XPR4IBQBEIVCIMFGDEPEIT4HOQY44PB" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, premettere alla lettera a) le seguenti:</an:i>
+				</an:p>
+				<an:p>
+					            «1-
+					<an:i>a)</an:i>
+					 ''suolo'': lo strato superficiale della crosta terrestre, formato da particelle minerali, materia organica, acqua, aria e organismi viventi. Esso, grazie alla propria fertilità fisica, chimica e biologica, produce insostituibili funzioni e servizi ecosistemici nella produzione di alimenti e di altre biomasse, nell'immagazzinare e trasformare minerali, materia organica, acqua, energia e sostanze chimiche, nel filtrare le acque e gli inquinanti. Il suolo rappresenta la piattaforma dell'attività umana, oltre a costituire l'
+					<an:i>habitat</an:i>
+					 di gran parte degli organismi della biosfera; esso è fonte di materie prime ed è testimone degli ambienti del passato; esso inoltre è componente essenziale della zona critica della terra, cioè dello strato che si estende dal limite più esterno della vegetazione fino alla zona in cui circolano le acque sotterranee. Il suolo è una risorsa soggetta a processi di formazione estremamente lenti e pertanto è da considerarsi una risorsa non rinnovabile;
+				</an:p>
+				<an:p>
+					            2-
+					<an:i>a)</an:i>
+					 ''degrado del suolo'': la perdita delle capacità del suolo di svolgere le sue funzioni e i suoi servizi ecosistemici».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
