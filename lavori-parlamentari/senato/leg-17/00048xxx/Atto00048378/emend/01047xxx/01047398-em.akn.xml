@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2941/A/6.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2941/A/6.10"/>
+					<an:FRBRdate date="2017-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2941/A/6.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@"/>
+					<an:FRBRdate date="2017-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@.akn"/>
+					<an:FRBRdate date="2017-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2941/A/6.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2941" showAs="DDL 2941"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTOAME12S4SHXCKAHQFZDJB3QYCUHN05FI0XY10FO4AWAXJMXQNUE" href="http://dati.senato.it/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDJCQKMGT3OOWEN5YGMA1XOQYU0LYU3F41OQULJJLWN1RFTEBJYEP" href="http://dati.senato.it/25261" showAs="D'AMBROSIO LETTIERI"/>
+				<an:TLCPerson id="IDRFZOAJTWPJYPJBOGA3YOJMRXHKRMCUROOZEHHGMMC3DYDPJGTFFM" href="http://dati.senato.it/29203" showAs="DI MAGGIO"/>
+				<an:TLCPerson id="IDCWKMEYSBDSC3ENSR1053ILPTRHL2UTPTF5RNQLHSWOQ5ATBP5ZJK" href="http://dati.senato.it/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDR0QYJTHRJV3MEMVFQUJ4SBCCZBNZU3PRXIRUKTLCKIQXSCQHMPCN" href="http://dati.senato.it/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="IDOGHFQ2QUMHIZPRTVPJMUDJWOIJVSGZ2OA32WCBIDKFGZJ4WKP2PM" href="http://dati.senato.it/29188" showAs="TARQUINIO"/>
+				<an:TLCPerson id="IDVSSEXHJXH4COHM4P0IHAYIXDAIVF3YCM5N0SD0GP1MZ0JT3QELHD" href="http://dati.senato.it/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2941</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTOAME12S4SHXCKAHQFZDJB3QYCUHN05FI0XY10FO4AWAXJMXQNUE" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJCQKMGT3OOWEN5YGMA1XOQYU0LYU3F41OQULJJLWN1RFTEBJYEP" as="#tipoSenatore">D'AMBROSIO LETTIERI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRFZOAJTWPJYPJBOGA3YOJMRXHKRMCUROOZEHHGMMC3DYDPJGTFFM" as="#tipoSenatore">DI MAGGIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCWKMEYSBDSC3ENSR1053ILPTRHL2UTPTF5RNQLHSWOQ5ATBP5ZJK" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR0QYJTHRJV3MEMVFQUJ4SBCCZBNZU3PRXIRUKTLCKIQXSCQHMPCN" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOGHFQ2QUMHIZPRTVPJMUDJWOIJVSGZ2OA32WCBIDKFGZJ4WKP2PM" as="#tipoSenatore">TARQUINIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVSSEXHJXH4COHM4P0IHAYIXDAIVF3YCM5N0SD0GP1MZ0JT3QELHD" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire le parole:</an:i>
+					 «1º gennaio 2014» 
+					<an:i>con le seguenti:</an:i>
+					 «1º gennaio 2017».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
