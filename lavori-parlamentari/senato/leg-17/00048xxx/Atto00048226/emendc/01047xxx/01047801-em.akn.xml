@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2888/C/2.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2888/C/2.7"/>
+					<an:FRBRdate date="2017-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2888/C/2.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@"/>
+					<an:FRBRdate date="2017-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@.akn"/>
+					<an:FRBRdate date="2017-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2888/C/2.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2888" showAs="DDL 2888"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCYE3BVEO2OUZLJTO3EZOKEX0DMCQLYWD0400S5I5SJPWWEFJHZDF" href="http://dati.senato.it/29125" showAs="MANCUSO"/>
+				<an:TLCPerson id="ID22M4SE5TLWMWLGR51ADICGHN4BXVDL4MDZJQBDC51OS5MJK4AL4B" href="http://dati.senato.it/17552" showAs="BIANCONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2888</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCYE3BVEO2OUZLJTO3EZOKEX0DMCQLYWD0400S5I5SJPWWEFJHZDF" as="#tipoSenatore">MANCUSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID22M4SE5TLWMWLGR51ADICGHN4BXVDL4MDZJQBDC51OS5MJK4AL4B" as="#tipoSenatore">BIANCONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso, sostituire le parole:</an:i>
+					 «anche del rimborso spese di segreteria e di rappresentanza» 
+					<an:i>con le seguenti:</an:i>
+					 «di un trattamento finalizzato all'assegno di fine mandato».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>        «2. Al secondo comma dell'articolo 1, legge 31 ottobre 1965, n. 1261, è aggiunto, in fine, il seguente periodo: ''Gli Uffici di Presidenza delle due Camere determinano la corresponsione ai membri del Parlamento dei rimborsi spese di segreteria e di rappresentanza''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
