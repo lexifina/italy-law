@@ -1,0 +1,22 @@
+# Massima n. 41702
+
+- Pronuncia: Corte costituzionale, sentenza 232/2017 (ECLI:IT:COST:2017:232)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:232
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - Norme della Regione Siciliana - Attività in regime di edilizia libera - Possibilità di realizzare senza alcun titolo abilitativo tutti gli interventi inerenti agli impianti alimentati da fonti di energia rinnovabili - Omessa salvaguardia della previa verifica di assoggettabilità a VIA sul progetto preliminare, qualora prevista - Esorbitanza dalla competenza legislativa esclusiva in materia di urbanistica statutariamente attribuita alla Regione Siciliana e invasione della competenza statale esclusiva in materia di tutela dell'ambiente - Illegittimità costituzionale in parte qua.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo - per violazione dell'art. 117, secondo comma, lett. s), Cost. - l'art. 3, comma 2, lett. f), della legge reg. Siciliana n. 16 del 2016, nella parte in cui consente di realizzare, senza alcun titolo abilitativo, tutti gli interventi inerenti agli impianti ad energia rinnovabile di cui agli artt. 5 e 6 del d.lgs. n. 28 del 2011 senza fare salvo il previo espletamento della verifica di assoggettabilità a VIA (valutazione di impatto ambientale) sul progetto preliminare, qualora prevista. Posto che la disciplina statale relativa alla tutela dell'ambiente viene a funzionare come un limite alla disciplina che le Regioni e le Province autonome dettano in altre materie di loro competenza, la disposizione impugnata dal Governo ha oltrepassato il limite alla competenza primaria regionale in materia di "urbanistica" (art. 14, primo comma, dello statuto speciale) e ha invaso la sfera di competenza esclusiva del legislatore statale. Infatti, nell'assoggettare al regime di edilizia libera tutti gli impianti ad energia rinnovabile, il legislatore siciliano ha fatto salve le prescrizioni indicate nel comma 1 del citato art. 3, ma non le verifiche preventive inerenti all'eventuale incidenza dannosa sull'ambiente dei medesimi impianti, che il legislatore statale - in un'ottica di ragionevole bilanciamento dei contrapposti interessi coinvolti nella loro realizzazione - ha ritenuto di garantire attraverso la complessa disciplina del procedimento per il rilascio dell'autorizzazione unica di cui all'art. 12 del d.lgs. n. 387 del 2003, il quale fa salvo, ove previsto, l'espletamento della verifica di assoggettabilità a VIA disciplinato dall'art. 20 del d.lgs. n. 152 del 2006. ( Precedente citato: sentenza n. 67 del 2010 ). Secondo la giurisprudenza costituzionale, l'obbligo di sottoporre il progetto alla procedura di VIA (valutazione di impatto ambientale) o, nei casi previsti, alla preliminare verifica di assoggettabilità a VIA, rientra nella materia della tutela ambientale e rappresenta nella disciplina statale, anche in attuazione degli obblighi comunitari, un livello di protezione uniforme che si impone sull'intero territorio nazionale, pur nella concorrenza di altre materie di competenza regionale, comprese la "produzione", il "trasporto" e la "distribuzione nazionale" dell'energia. ( Precedenti citati: sentenze n. 215 del 2015, n. 120 del 2010, n. 249 del 2009, n. 234 del 2009, n. 225 del 2009, n. 88 del 2009, n. 62 del 2008 e n. 215 del 2005 ). La realizzazione di impianti di energia da fonti rinnovabili comporta la concorrenza di vari interessi costituzionalmente rilevanti, per certi versi interni alla stessa materia della "tutela dell'ambiente", che si realizza attraverso l'incrocio di diverse tipologie di verifica, il cui coordinamento e la cui acquisizione sincronica, essendo necessari per l'autorizzazione unica finale, non tollerano ulteriori differenziazioni su base regionale. In altri termini, attraverso distinti sub-procedimenti, il legislatore statale ha operato il bilanciamento tra l'intrinseca utilità di simili impianti, che producono energia senza inquinare l'ambiente, e il principio di precauzione attuato mediante la separata verifica che gli stessi impianti non danneggino in altro modo il medesimo ambiente. ( Precedenti citati: sentenza n. 267 del 2016 ).
+
+## Norme
+
+- legge della Regione siciliana, 10/08/2016 n. 16, art. 3, comma 2 lett. f)
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
+- statuto regione Sicilia, art. 14, comma 1
