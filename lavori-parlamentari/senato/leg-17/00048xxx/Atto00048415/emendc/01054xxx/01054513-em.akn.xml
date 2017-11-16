@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/49.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/49.9"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/49.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="49.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@.akn"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/49.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGRCIOUVBMNLOM0XLAYQMC3EJ5DN5GUHOSV1FSLIW5EKHJIMIKPJC" href="http://dati.senato.it/29070" showAs="CIOFFI"/>
+				<an:TLCPerson id="IDXDGOVLQBGBB5NHOLAUF1IRHTAKD3S0QGP1CEARFISHFW0WSNVFGO" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDUFGMVXRBUWD0C4XSSODB3L2SDFYE5N4Z53JTDCE5OUKWXL4EJMRM" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 49.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGRCIOUVBMNLOM0XLAYQMC3EJ5DN5GUHOSV1FSLIW5EKHJIMIKPJC" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXDGOVLQBGBB5NHOLAUF1IRHTAKD3S0QGP1CEARFISHFW0WSNVFGO" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUFGMVXRBUWD0C4XSSODB3L2SDFYE5N4Z53JTDCE5OUKWXL4EJMRM" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>dopo le parole:</an:i>
+					 «al comma 1» 
+					<an:i>aggiungere le seguenti:</an:i>
+					 «posto in essere dai concessionari»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>sopprimere le seguenti parole:</an:i>
+					 «o richiedenti la concessione di derivazione»;
+				</an:p>
+				<an:p>
+					            c) 
+					<an:i>dopo le parole:</an:i>
+					 «specifica competenza tecnica» 
+					<an:i>aggiungere le seguenti:</an:i>
+					 «anche per i servizi di ingegneria».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
