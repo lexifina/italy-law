@@ -2,9 +2,9 @@ Art. 640-bis.
 
 (Truffa aggravata per il conseguimento di erogazioni pubbliche).
 
-La pena e' della reclusione da uno a sei anni e si procede d'ufficio se il fatto di cui all'articolo 640 riguarda contributi, finanziamenti, mutui agevolati ovvero altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o delle Comunita' europee.
+La pena e' della reclusione ((da due a sette anni)) e si procede d'ufficio se il fatto di cui all'articolo 640 riguarda contributi, finanziamenti, mutui agevolati ovvero altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o delle Comunita' europee.
 
-(125) ((233))
+(125) (233)
 
 -------------
 

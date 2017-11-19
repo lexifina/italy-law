@@ -1,7 +1,15 @@
 Art. 316-ter.
 
-(( (Indebita percezione di erogazioni a danno dello Stato). ))
+(Indebita percezione di erogazioni a danno dello Stato).
 
-((Salvo che il fatto costituisca il reato previsto dall'articolo 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per se' o per altri, contributi, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati dallo Stato, da altri enti pubblici o dalle Comunita' europee e' punito con la reclusione da sei mesi a tre anni.
+Salvo che il fatto costituisca il reato previsto dall'articolo 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per se' o per altri, contributi, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati dallo Stato, da altri enti pubblici o dalle Comunita' europee e' punito con la reclusione da sei mesi a tre anni.
 
-Quando la somma indebitamente percepita e' pari o inferiore a lire sette milioni settecentoquarantacinquemila si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da dieci a cinquanta milioni di lire. Tale sanzione non puo' comunque superare il triplo del beneficio conseguito)).
+Quando la somma indebitamente percepita e' pari o inferiore a lire sette milioni settecentoquarantacinquemila si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da dieci a cinquanta milioni di lire. Tale sanzione non puo' comunque superare il triplo del beneficio conseguito.
+
+((281))
+
+-------------
+
+AGGIORNAMENTO (281)
+
+Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per il delitto previsto dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva.

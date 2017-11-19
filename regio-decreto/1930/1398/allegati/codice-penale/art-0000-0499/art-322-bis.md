@@ -1,6 +1,6 @@
 Art. 322-bis.
 
-(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione di membri ((della Corte penale internazionale o)) degli organi delle Comunita' europee e di funzionari delle Comunita' europee e di Stati esteri).
+(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione di membri della Corte penale internazionale o degli organi delle Comunita' europee e di funzionari delle Comunita' europee e di Stati esteri).
 
 Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comma, si applicano anche:
 
@@ -14,7 +14,7 @@ Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comm
 
 5) a coloro che, nell'ambito di altri Stati membri dell'Unione europea, svolgono funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio;
 
-((5-bis) ai giudici, al procuratore, ai procuratori aggiunti, ai funzionari e agli agenti della Corte penale internazionale, alle persone comandate dagli Stati parte del Trattato istitutivo della Corte penale internazionale le quali esercitino funzioni corrispondenti a quelle dei funzionari o agenti della Corte stessa, ai membri ed agli addetti a enti costituiti sulla base del Trattato istitutivo della Corte penale internazionale)).
+5-bis) ai giudici, al procuratore, ai procuratori aggiunti, ai funzionari e agli agenti della Corte penale internazionale, alle persone comandate dagli Stati parte del Trattato istitutivo della Corte penale internazionale le quali esercitino funzioni corrispondenti a quelle dei funzionari o agenti della Corte stessa, ai membri ed agli addetti a enti costituiti sulla base del Trattato istitutivo della Corte penale internazionale.
 
 Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso:
 
@@ -23,3 +23,11 @@ Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e sec
 2) a persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di altri Stati esteri o organizzazioni pubbliche internazionali, qualora il fatto sia commesso per procurare a se' o ad altri un indebito vantaggio in operazioni economiche internazionali ovvero al fine di ottenere o di mantenere un'attivita' economica o finanziaria.
 
 Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi.
+
+((281))
+
+-------------
+
+AGGIORNAMENTO (281)
+
+Il D.Lgs. 6 settembre 2011, n. 159, come modificato dalla L. 17 ottobre 2017, n. 161, ha disposto (con l'art. 71, commi 1 e 3) che le pene stabilite per i delitti previsti dal presente articolo sono aumentate da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione. Alla pena e' aggiunta una misura di sicurezza detentiva.
