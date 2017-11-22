@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/C/2.0.2"/>
+					<an:FRBRdate date="2017-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@"/>
+					<an:FRBRdate date="2017-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@.akn"/>
+					<an:FRBRdate date="2017-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2942/C/2.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2942" showAs="DDL 2942"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPKH0GTLLI1M2NJRG2SOKBNSTBOIWJ0P5UY0SUAEGSU3NI0WJO5IP" href="http://dati.senato.it/25458" showAs="MILO"/>
+				<an:TLCPerson id="IDLNUZSST5ALYWBCIN4UQ5K2TS3FQRRSCXWVGS2XLMGPKG0RS0FEAF" href="http://dati.senato.it/22863" showAs="BARANI"/>
+				<an:TLCPerson id="ID3OGIBRFHPULJBLLFYMIHJEFZ1JJSJVJR5V2ESILYOXVSBTVZDKFB" href="http://dati.senato.it/29114" showAs="LANGELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2942</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPKH0GTLLI1M2NJRG2SOKBNSTBOIWJ0P5UY0SUAEGSU3NI0WJO5IP" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLNUZSST5ALYWBCIN4UQ5K2TS3FQRRSCXWVGS2XLMGPKG0RS0FEAF" as="#tipoSenatore">BARANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3OGIBRFHPULJBLLFYMIHJEFZ1JJSJVJR5V2ESILYOXVSBTVZDKFB" as="#tipoSenatore">LANGELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 2-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">(Misure in favore dei territori dell'Isola di Ischia interessati dall'evento sismico del 21 agosto 2017)</an:p>
+				<an:p>        1. Nello stato di previsione del Ministero dell'economia e delle finanze è istituito il fondo per la ricostruzione nei territori dei comuni di Casamicciola terme, Lacco Amena e Forio d'Ischia dell'isola di Ischia, colpiti dal sisma del 21 agosto 2017, con una dotazione di 20 milioni di euro per l'anno 2018 e 40 milioni di euro per ciascuno degli anni 2019 e 2020.</an:p>
+				<an:p>        2. Con decreto del presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, sono stabiliti gli interventi e le modalità di ripartizione del suddetto Fondo per l'erogazione, la ripartizione, la ricostruzione e la ripresa economica dei territori dei comuni interessati».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
