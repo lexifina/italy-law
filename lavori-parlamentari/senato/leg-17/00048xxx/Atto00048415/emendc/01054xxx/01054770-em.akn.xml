@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2960/107/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@.akn"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/107/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOYC1SP4VZTARGCQU0PUETJKASN5VR214VTQK0JD32LBHPP0DNQCN" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDDN3IMHZH2HDFFMT3TSGJLLISCD0M0BOFTPTABUHEQKOOAUZYV1OM" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="ID0SGUSMPPOMFVCQF5ZDBPLEJNMEOW1O4AN0N3JIP55KUCBHNNMJZE" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDVWNDFMVZHZAYGY40OQKW55ZPHF2GV1XJ5LOAOYGTJCZ0Z2FQEZ1K" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2960/107/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOYC1SP4VZTARGCQU0PUETJKASN5VR214VTQK0JD32LBHPP0DNQCN" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDN3IMHZH2HDFFMT3TSGJLLISCD0M0BOFTPTABUHEQKOOAUZYV1OM" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0SGUSMPPOMFVCQF5ZDBPLEJNMEOW1O4AN0N3JIP55KUCBHNNMJZE" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVWNDFMVZHZAYGY40OQKW55ZPHF2GV1XJ5LOAOYGTJCZ0Z2FQEZ1K" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>in sede d'esame del disegno di legge recante «Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020»,        </an:p>
+				<an:p>premesso che:</an:p>
+				<an:p>            al fine di garantire e promuovere il miglioramento della qualità e dell'efficienza dell'attività di ricerca sanitaria, parte integrante del Servizio sanitario nazionale, e di consentire un'organica disciplina dei rapporti di lavoro del personale della ricerca sanitaria;</an:p>
+				<an:p>        impegna il Governo a:</an:p>
+				<an:p>            valutare la possibilità di istituire presso gli Istituti di ricovero e cura a carattere scientifico pubblici e gli Istituti zooprofilattici sperimentali, di seguito denominati «Istituti», fermo restando il rispetto dei vincoli in materia di spesa del personale, un ruolo della ricerca sanitaria e delle attività di supporto alla ricerca sanitaria, nell'ambito rispettivamente della dirigenza sanitaria e della categoria apicale del Comparto.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
