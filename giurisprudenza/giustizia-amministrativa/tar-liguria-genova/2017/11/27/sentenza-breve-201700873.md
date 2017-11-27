@@ -1,0 +1,19 @@
+# TAR LIGURIA - GENOVA, sentenza breve n. 873/2017
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR LIGURIA - GENOVA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 201700873
+- Numero di ricorso (NRG): 201700796
+- Data di pubblicazione: 2017-11-27
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA INAMMISSIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2017-11-16
+- Oggetto del ricorso: PROVVEDIMENTO DEL 21.09.2017 CONCERNENTE REVOCA IN SEDE DI AUTOTUTELA DI AGGIUDICAZIONE GARA IN ACQUISIZIONE DIRETTA “17A/0012 – FORNITURA DI ANODI SACRIFICALI PER IMPIANTO ANTIVEGETATIVO INSTALLATO A BORDO DI NAVE ANTEO”.
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-liguria-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/a4e653a2-ed2b-477a-b408-96e24f48ed52/resource/5d568c50-7e0e-449d-af7a-43a84cb15aa8/download/tar-liguria-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
