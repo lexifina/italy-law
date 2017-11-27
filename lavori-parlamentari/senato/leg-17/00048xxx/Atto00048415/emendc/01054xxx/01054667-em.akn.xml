@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2960/5/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@.akn"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/5/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFDNATAAQJ5JHGIQKWGK5X0FCMPEUA3NZZL1AXF22H41ONLX5UHD" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDUWW42QFFKOUHDFWG3O2KAVBTJNR3IXI3J1QBLE1W2DSRLHOPDR" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="ID4ACXZPIXKQZVOZYOXYLHPCHE2IYFISYOGUYKUUCRUELKFWX1SMCI" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDEPODYKPOT5CDMLTXGUMDVXCH2NMEY4V4OJGF1DBIAMASI5WZQXDG" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2960/5/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFDNATAAQJ5JHGIQKWGK5X0FCMPEUA3NZZL1AXF22H41ONLX5UHD" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUWW42QFFKOUHDFWG3O2KAVBTJNR3IXI3J1QBLE1W2DSRLHOPDR" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4ACXZPIXKQZVOZYOXYLHPCHE2IYFISYOGUYKUUCRUELKFWX1SMCI" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEPODYKPOT5CDMLTXGUMDVXCH2NMEY4V4OJGF1DBIAMASI5WZQXDG" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020 (AS 2960)</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il capo V del titolo II della parte I del disegno di legge in esame reca misure per lavoro, la previdenza e l'inclusione sociale;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            la pensione integrata al trattamento minimo, o pensione minima, o integrazione al minimo, viene riconosciuta al pensionato il cui reddito da pensione, sulla base del calcolo dei contributi versati, risulti inferiore ad un livello fissato dalla legge, considerato il «minimo vitale»;</an:p>
+				<an:p>            importo mensile varia ogni anno: l'Inps ha fissato l'importo della pensione minima per anno 2017 a 501,89 euro per 13 mensilità, corrispondenti a 6.524,57 euro l'anno;</an:p>
+				<an:p>            se tale reddito è formalmente considerato la soglia minima vitale per garantire ai pensionati una condizione di vita quantomeno dignitosa, i dati hanno dimostrato che nella pratica tale trattamento è assolutamente insufficiente ad evitare che molti percettori vivano al di sotto della soglia di povertà;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a porre in essere con urgenza appositi provvedimenti di carattere normativo volti a garantire innalzamento dell'importo delle pensioni minime ad una cifra non inferiore a 750 euro mensili.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
