@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2960/67/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@.akn"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/G/2960/67/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUITU40L5TWNSH5XGQDPDSQWUTN5ULTFVH32QEXJBRDUMQRNZWGZE" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDSY0KSSDPQKSYOXTPBVOK5WBZGDIERJUKXXYRZED1JV0RUJZPLZYF" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDD1RMPQUSC1M3NMEKW4V3TFZQEE0MSDJ0DEU2VQIGB4EY4KAMKBB" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDWXF1HWP4WWUUONKALH23032I2DUHXERWLMP5G4IA1HTVO0UQKAH" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2960/67/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUITU40L5TWNSH5XGQDPDSQWUTN5ULTFVH32QEXJBRDUMQRNZWGZE" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSY0KSSDPQKSYOXTPBVOK5WBZGDIERJUKXXYRZED1JV0RUJZPLZYF" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD1RMPQUSC1M3NMEKW4V3TFZQEE0MSDJ0DEU2VQIGB4EY4KAMKBB" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWXF1HWP4WWUUONKALH23032I2DUHXERWLMP5G4IA1HTVO0UQKAH" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge «Bilancio di previsione dello Stato per l'anno finanziario 2018 e bilancio pluriennale per il triennio 2018-2020»;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'effetto agevolativo della deduzione integrale dall'IRAP del costo del lavoro a tempo indeterminato non ha comportato benefici per le imprese che, nella propria attività, non impiegano dipendenti o collaboratori (più di 3 milioni di imprese senza dipendenti, vale a dire il 70 per cento del totale delle 4.425.000 aziende italiane);</an:p>
+				<an:p>            è, quindi, necessario un incremento della franchigia (dagli attuali euro 13.000 ad euro 15.000) a favore di imprese individuali, società di persone e professionisti con una base imponibile che non supera euro 180.759,91 (a scalare, fino ad euro 180.999.91);</an:p>
+				<an:p>            tale misura persegue, altresì, l'obiettivo, di esentare di fatto da IRAP i contribuenti privi di organizzazione secondo i canoni individuati dalla consolidata giurisprudenza della Corte di Cassazione (imprese o professionisti che svolgono l'attività in forma individuale, senza dipendenti e con utilizzo di mezzi che non eccedono il minimo indispensabile per lo svolgimento dell'attività);</an:p>
+				<an:p>        impegna il Governo a:</an:p>
+				<an:p>            valutare la possibilità di innalzare, ulteriormente, la franchigia IRAP a favore delle imprese di ridotte dimensioni, al fine di bilanciare l'intervento introdotto con la legge di stabilità 2015 che ha comportato l'integrale deduzione dalla base imponibile IRAP del costo del lavoro a tempo indeterminato.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
