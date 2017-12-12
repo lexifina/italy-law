@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 1961/2017
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SESTA
+- Numero provvedimento: 201701961
+- Numero di ricorso (NRG): 201704696
+- Data di pubblicazione: 2017-12-12
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2017-11-24
+- Oggetto del ricorso: DELLA NOTA PROT. N. 333.D/60331 DEL 30.06.2017, NOTIFICATA AL RICORRENTE IN DATA 04.09.2017, AVENTE AD OGGETTO IL DINIEGO DELL'ISTANZA DI TRASFERIMENTO PRESENTATA PER GRAVI MOTIVI FAMILIARI, AI SENSI DELL'ART. 55, COMMA 4, DEL D.P.R. 335/82
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
