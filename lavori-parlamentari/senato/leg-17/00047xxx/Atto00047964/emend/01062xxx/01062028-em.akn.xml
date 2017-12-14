@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.263/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.263"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.263/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.263"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@.akn"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2801/A/4.263/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2801" showAs="DDL 2801"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCEMTG3SJSPQ1P05WRFN50LBOHMPVWGN3XBJU2ZO3SLYYJV0K4CIP" href="http://dati.senato.it/17552" showAs="BIANCONI"/>
+				<an:TLCPerson id="IDMLXEASVLVXDDQ5WYS5FBVGYGPFGVTUDS0WSS3KSOX0PYU11JFRI" href="http://dati.senato.it/29033" showAs="AIELLO"/>
+				<an:TLCPerson id="IDJQQRU32RYA3FCKE04K2IGZKPSJWWGYQLIAOJ2AGGCVLYCLCM0J1M" href="http://dati.senato.it/1027" showAs="FORMIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2801</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.263</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCEMTG3SJSPQ1P05WRFN50LBOHMPVWGN3XBJU2ZO3SLYYJV0K4CIP" as="#tipoSenatore">BIANCONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMLXEASVLVXDDQ5WYS5FBVGYGPFGVTUDS0WSS3KSOX0PYU11JFRI" as="#tipoSenatore">AIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJQQRU32RYA3FCKE04K2IGZKPSJWWGYQLIAOJ2AGGCVLYCLCM0J1M" as="#tipoSenatore">FORMIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Le DAT assumono rilievo nel momento in cui è accertato che il paziente non è più in grado di comprendere le informazioni circa il trattamento sanitario e le sue conseguenze e pertanto non può assumere decisioni che lo riguardano. Tale accertamento è certificato da un collegio medico formato da un anestesista-rianimatore, da un neurologo, dal medico curante e dal medico specialista nella patologia da cui è affetto il paziente. Tali medici, eccetto il medico curante, sono designati dalla direzione sanitaria della struttura di ricovero o, ove necessario, dall'azienda sanitaria locale di competenza».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
