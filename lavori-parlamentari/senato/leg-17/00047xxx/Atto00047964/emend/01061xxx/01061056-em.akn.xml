@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/1.1386/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/1.1386"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/1.1386/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1386"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@.akn"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2801/A/1.1386/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2801" showAs="DDL 2801"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZK54FSEI034AOIHUHQPRATMK2JDMKYF3G0WULMK5D1IW1A1WPJHC" href="http://dati.senato.it/29067" showAs="CENTINAIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2801</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1386</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZK54FSEI034AOIHUHQPRATMK2JDMKYF3G0WULMK5D1IW1A1WPJHC" as="#tipoSenatore">CENTINAIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, dopo il secondo periodo aggiungere il seguente:</an:i>
+					 «Il complesso delle informazioni fornite al paziente e le prescrizioni e limitazioni da questo richieste sono riportate in uno specifico documento sottoscritto dal medico e dal paziente stesso o da persona da questo delegata in forma scritta; tale documento è allegato alla cartella clinica o al fascicolo elettronico».
+				</an:p>
+				<an:p>
+					<an:i>Al comma 3, dopo il secondo periodo, aggiungere il seguente:</an:i>
+					 «l'obbligo, per il personale medico, di informare la persona interessata non sussiste nel caso in cui la medesima dichiari espressamente di non volere essere informata».
+				</an:p>
+				<an:p>        Conseguentemente, sostituire lo rubrica con lo seguente: «Informazione e consenso».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
