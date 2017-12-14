@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/1.1450/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/1.1450"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/1.1450/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1450"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@.akn"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2801/A/1.1450/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2801" showAs="DDL 2801"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUERNCLEJOLPYL0HCTLJZ1K44IJVCKKTIOIEL5PE0OTBIMLPPPPML" href="http://dati.senato.it/17552" showAs="BIANCONI"/>
+				<an:TLCPerson id="IDBC3BFRBIO5DUMOMV5CYSMOOFSNHIVZF2XHRAGKLOFEIO42WX4GWN" href="http://dati.senato.it/29033" showAs="AIELLO"/>
+				<an:TLCPerson id="IDOEH1HL4CTROCM4UEFA2XVQUE5FGAB5Q5DSEQVLKGU2SVMY0VSWWJ" href="http://dati.senato.it/1027" showAs="FORMIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2801</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1450</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUERNCLEJOLPYL0HCTLJZ1K44IJVCKKTIOIEL5PE0OTBIMLPPPPML" as="#tipoSenatore">BIANCONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBC3BFRBIO5DUMOMV5CYSMOOFSNHIVZF2XHRAGKLOFEIO42WX4GWN" as="#tipoSenatore">AIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOEH1HL4CTROCM4UEFA2XVQUE5FGAB5Q5DSEQVLKGU2SVMY0VSWWJ" as="#tipoSenatore">FORMIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 4, con il seguente:</an:i>
+				</an:p>
+				<an:p>        «4. Si intende per consenso informato il colloquio informativo fra medico e paziente, contenente le informazioni di cui al comma 3; il contenuto del colloquio è trascritto in modo dettagliato in un documento firmato da entrambi. Nel caso in cui le condizioni fisiche del paziente non lo consentano, il consenso informato è espresso mediante videoregistrazione o dispositivi che consentano alla persona con disabilità di comunicare. Il consenso informato, in qualunque forma espresso, è inserito nella cartella clinica o nel fascicolo sanitario elettronico».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
