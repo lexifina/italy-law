@@ -1,0 +1,65 @@
+# Corte costituzionale, ordinanza 273/2017
+
+- ECLI: ECLI:IT:COST:2017:273
+- Tipo: ordinanza
+- Presidente: GROSSI
+- Relatore: Nicolò Zanon
+- Redattore: Nicolò Zanon
+- Data della decisione: 06/12/2017
+- Data del deposito: 18/12/2017
+- Giudizio: GIUDIZIO SULL'AMMISSIBILITÀ DI RICORSO PER CONFLITTO DI ATTRIBUZIONE TRA POTERI DELLO STATO
+- Massime: 39718
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2017:273
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Paolo GROSSI; Giudici : Giorgio LATTANZI, Aldo CAROSI, Marta CARTABIA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Augusto Antonio BARBERA, Giovanni AMOROSO,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio per conflitto di attribuzione tra poteri dello Stato sorto a seguito dell'art. 18 comma 5, del decreto legislativo 19 agosto 2016, n. 177, recante «Disposizioni in materia di razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche», promosso dal Procuratore della Repubblica presso il Tribunale ordinario di Bari con ricorso depositato in cancelleria il 25 luglio 2017 ed iscritto al n. 3 del registro conflitti tra poteri dello Stato 2017, fase di ammissibilità.
+ Udito nella camera di consiglio del 6 dicembre 2017 il Giudice relatore Nicolò Zanon.
+ Ritenuto che con ricorso depositato il 25 luglio 2017 ed iscritto al n. 3 del registro conflitti tra poteri dello Stato 2017, il Procuratore della Repubblica presso il Tribunale ordinario di Bari ha sollevato conflitto di attribuzione tra poteri dello Stato nei confronti del Presidente del Consiglio dei ministri, in relazione all'art. 18, comma 5, del decreto legislativo 19 agosto 2016, n. 177, recante «Disposizioni in materia di razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche»;
+ che - premette il ricorrente - la disposizione asseritamente lesiva delle proprie attribuzioni costituzionali testualmente prevede: «[...] al fine di rafforzare gli interventi di razionalizzazione volti ad evitare duplicazioni e sovrapposizioni, anche mediante un efficace e omogeneo coordinamento informativo, il capo della polizia-direttore generale della pubblica sicurezza e i vertici delle altre Forze di polizia adottano apposite istruzioni attraverso cui i responsabili di ciascun presidio di polizia interessato, trasmettono alla propria scala gerarchica le notizie relative all'inoltro delle informative di reato all'autorità giudiziaria, indipendentemente dagli obblighi prescritti dalle norme del codice di procedura penale»;
+ che tale disposizione avrebbe - a suo giudizio - «parzialmente abrogato, in parte qua, il segreto investigativo disposto dall'art. 329 cod. proc. pen.», la cui violazione è sanzionata dall'art. 326 del codice penale;
+ che, pertanto, l'intervento normativo avrebbe «leso prerogative di rango costituzionale pertinenti all'Autorità Giudiziaria requirente», con riferimento al principio di obbligatorietà dell'azione penale, di cui all'art. 112 della Costituzione, cui il segreto investigativo sarebbe strettamente inerente, nonché in relazione alla previsione della diretta dipendenza della polizia giudiziaria dall'autorità giudiziaria, ai sensi dell'art. 109 Cost.;
+ che l'interesse a sollevare il conflitto di attribuzione tra poteri dello Stato emergerebbe dall'«ambito applicativo di estesa diffusione» della norma, «destinata a trovare indiscriminata applicazione nella totalità dei casi di inoltro di notizie di reato» da parte della polizia giudiziaria;
+ che il ricorso sarebbe ammissibile dal punto di vista soggettivo, pacifica essendo la legittimazione del procuratore della Repubblica a sollevare conflitto tra poteri;
+ che il conflitto sarebbe ammissibile anche sotto il profilo oggettivo, pur riguardando una disposizione legislativa, trattandosi, a giudizio del ricorrente, dell'unico rimedio esperibile a tutela delle sue attribuzioni;
+ che non risulterebbe, infatti, la possibilità d'instaurare un giudizio, nell'ambito del quale sollevare questione incidentale di legittimità costituzionale della norma impugnata;
+ che il ricorrente lamenta, in primo luogo, che la disposizione oggetto del conflitto sarebbe viziata da eccesso di delega e risulterebbe dunque lesiva dell'art. 76 Cost., in quanto la legge 7 agosto 2015, n. 124 (Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche), non conterrebbe alcun principio o criterio fondante l'introduzione dell'obbligo informativo in questione;
+ che il ricorrente lamenta, in secondo luogo, la violazione del principio di obbligatorietà dell'azione penale di cui all'art. 112 Cost.;
+ che tale disposizione costituzionale, garanzia d'indipendenza funzionale del pubblico ministero da ogni altro potere, e in particolare dal potere esecutivo, finirebbe per essere lesa ad opera di una disposizione che prevede la trasmissione per via gerarchica delle «notizie relative all'inoltro delle informative di reato all'autorità giudiziaria, indipendentemente dagli obblighi prescritti dalle norme del codice di procedura penale»;
+ che, infatti, data la stretta correlazione tra azione penale obbligatoria e segretezza delle indagini, la deroga a quest'ultima, «peraltro a beneficio di organi dell'Amministrazione neppure dotati della connotazione di appartenenti alla polizia giudiziaria», potrebbe porre a rischio l'esito positivo delle investigazioni e, per ciò stesso, l'effettività ed efficacia dell'esercizio dell'azione penale;
+ che, ancora a giudizio del ricorrente, sussisterebbe un «nesso strumentale» tra il principio di obbligatorietà dell'azione penale e la diretta disponibilità della polizia giudiziaria da parte dell'autorità giudiziaria, sicché l'ufficio del pubblico ministero vedrebbe lese anche le prerogative costituzionali che gli sono riconosciute dall'art. 109 Cost., funzionali a garantire la più sicura e autonoma disponibilità dei mezzi investigativi, escludendo interferenze di altri poteri nella conduzione delle indagini;
+ che, infatti, la comunicazione in via gerarchica delle informazioni, senza alcun filtro o controllo del pubblico ministero procedente, a beneficio di soggetti che non rivestono la qualifica di ufficiale di polizia giudiziaria e che, per la loro posizione apicale, vedrebbero «particolarmente stretto il rapporto di dipendenza organica dalle articolazioni del potere esecutivo», violerebbe le prerogative riconosciute dall'art. 109 Cost., con il rischio di possibili interferenze nell'esercizio dell'azione penale;
+ che, in definitiva, il Procuratore della Repubblica presso il Tribunale ordinario di Bari chiede che la Corte costituzionale, riconosciuto ammissibile il conflitto, dichiari che non spettava al Presidente del Consiglio dei ministri adottare, in violazione degli artt. 76, 109 e 112 Cost., le disposizioni dell'art. 18, comma 5, del d.lgs. n. 177 del 2016;
+ che, in prossimità della camera di consiglio fissata per il giudizio di ammissibilità del conflitto, il ricorrente ha depositato memoria ove ha ulteriormente illustrato le ragioni a sostegno di tale ammissibilità, specificando, in particolare, che il conflitto tra poteri, nel caso di specie, costituirebbe l'unico strumento disponibile a garanzia delle proprie attribuzioni costituzionali.
+ Considerato che il Procuratore della Repubblica presso il Tribunale ordinario di Bari ha sollevato conflitto di attribuzione tra poteri dello Stato nei confronti del Presidente del Consiglio dei ministri, in relazione all'art. 18, comma 5, del decreto legislativo 19 agosto 2016, n. 177, recante «Disposizioni in materia di razionalizzazione delle funzioni di polizia e assorbimento del Corpo forestale dello Stato, ai sensi dell'articolo 8, comma 1, lettera a), della legge 7 agosto 2015, n. 124, in materia di riorganizzazione delle amministrazioni pubbliche», che impone agli ufficiali di polizia giudiziaria, a seguito di apposite istruzioni, la trasmissione per via gerarchica delle «notizie relative all'inoltro delle informative di reato all'autorità giudiziaria, indipendentemente dagli obblighi prescritti dalle norme del codice di procedura penale»;
+ che il ricorrente lamenta che la citata norma del decreto legislativo - approvata a suo dire in violazione dell'art. 76 della Costituzione - avrebbe determinato la lesione delle proprie sfere di attribuzioni costituzionali, garantite dagli artt. 109 e 112 Cost.;
+ che, a norma dell'art. 37, terzo e quarto comma, della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), questa Corte è chiamata a deliberare in camera di consiglio e senza contraddittorio sull'ammissibilità del ricorso, valutando se sussistano i requisiti, sul piano soggettivo ed oggettivo, di un conflitto di attribuzione tra poteri dello Stato, rimanendo tuttavia impregiudicata ogni ulteriore questione anche in ordine alla stessa ammissibilità;
+ che, in conformità alla costante giurisprudenza di questa Corte (sentenze n. 1 del 2013, n. 88 e n. 87 del 2012, e n. 420 del 1995; ordinanza n. 521 del 2000), deve essere riconosciuta la natura di potere dello Stato al pubblico ministero, e in particolare al Procuratore della Repubblica (art. 1, comma 1, del decreto legislativo 20 febbraio 2006, n. 106, recante «Disposizioni in materia di riorganizzazione dell'ufficio del pubblico ministero, a norma dell'articolo 1, comma 1, lettera d), della legge 25 luglio 2005, n. 150»), in quanto titolare delle attività d'indagine (art. 109 Cost.) finalizzate all'esercizio obbligatorio dell'azione penale (art. 112 Cost.);
+ che nessun dubbio sussiste in ordine alla legittimazione del Governo, rappresentato dal Presidente del Consiglio dei ministri, posto che l'atto asseritamente lesivo è imputabile a quest'ultimo nella sua interezza (ordinanze n. 16 del 2013, n. 23 del 2000 e n. 323 del 1999);
+ che, circa l'idoneità di un atto avente natura legislativa - quale quello in questione - a determinare conflitto, la giurisprudenza di questa Corte ritiene che tale idoneità sussista tutte le volte in cui dalla norma primaria derivino in via diretta lesioni dell'ordine costituzionale delle competenze (ordinanze n. 17 e n. 16 del 2013, e n. 343 del 2003), salvo che sia configurabile un giudizio nel quale la norma primaria risulti applicabile e quindi possa essere su di essa sollevata, in via incidentale, questione di legittimità costituzionale (sentenze n. 284 del 2005 e n. 221 del 2002);
+ che, nel caso di specie, l'effettiva configurabilità di un tale giudizio non emerge prima facie, restando impregiudicata, anche su tale aspetto, ogni diversa valutazione in seguito al pieno dispiegarsi del contraddittorio tra le parti;
+ che, dunque, deve essere dichiarato ammissibile il ricorso con il quale il Procuratore della Repubblica presso il Tribunale ordinario di Bari lamenta, oltre alla violazione dell'art. 76 Cost., la lesione, da parte del Governo, delle proprie attribuzioni costituzionali di cui agli artt. 109 e 112 Cost., a causa dell'approvazione dell'art. 18, comma 5, del d.lgs. n. 177 del 2016.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), il ricorso per conflitto di attribuzione tra poteri dello Stato, proposto dal Procuratore della Repubblica presso il Tribunale ordinario di Bari, nei confronti del Presidente del Consiglio dei ministri;
+ 2) dispone:
+ a) che la cancelleria di questa Corte dia immediata comunicazione della presente ordinanza al ricorrente Procuratore della Repubblica presso il Tribunale ordinario di Bari;
+ b) che, a cura del ricorrente, il ricorso e la presente ordinanza siano notificati al Governo della Repubblica, in persona del Presidente del Consiglio dei ministri, entro il termine di sessanta giorni dalla comunicazione di cui al punto a), per essere successivamente depositati, con la prova dell'avvenuta notifica, nella cancelleria di questa Corte entro il termine di trenta giorni previsto dall'art. 24, comma 3, delle Norme integrative per i giudizi davanti alla Corte costituzionale.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 6 dicembre 2017.
+ F.to:
+ Paolo GROSSI, Presidente
+ Nicolò ZANON, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 18 dicembre 2017.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
