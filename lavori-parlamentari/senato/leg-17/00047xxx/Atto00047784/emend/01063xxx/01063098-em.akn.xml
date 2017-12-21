@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2719/A/G1.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2719/A/G1.2"/>
+					<an:FRBRdate date="2017-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2719/A/G1.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@"/>
+					<an:FRBRdate date="2017-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@.akn"/>
+					<an:FRBRdate date="2017-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2719/A/G1.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2719" showAs="DDL 2719"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDF1C2EK3SCYVLPALQUHB3VPD45E4UD2O0YZRREHEWEMSRAY3UEQYM" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDUQL0KGTM43HVIUBQYIOS4N21VBDQ0IWB3L2ZFMGAIFOGCB4IPO0H" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2719</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF1C2EK3SCYVLPALQUHB3VPD45E4UD2O0YZRREHEWEMSRAY3UEQYM" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUQL0KGTM43HVIUBQYIOS4N21VBDQ0IWB3L2ZFMGAIFOGCB4IPO0H" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge recante modifiche al codice civile, al codice di procedura penale e altre disposizioni in favore degli orfani di crimini domestici;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il monitoraggio dei fenomeni che investono la quotidianità dei cittadini è uno strumento efficace e di aiuto alla prevenzione,</an:p>
+				<an:p>        impegna il Governo a prevedere la possibilità di implementare le valutazioni di tipo statistico con lo scopo di orientare l'azione di prevenzione per la riduzione dei casi di figli minori o di figli maggiorenni non economicamente autosufficienti rimasti orfani di un genitore o di entrambi i genitori a seguito di omicidio volontario.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
