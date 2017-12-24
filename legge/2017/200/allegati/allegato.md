@@ -1,0 +1,9 @@
+Allegato
+
+Parte di provvedimento in formato grafico
+
+Traduzione di cortesia.
+
+Emendamento all'art. 124 dello statuto di Roma.
+
+L'articolo 124 dello statuto di Roma e' eliminato.
