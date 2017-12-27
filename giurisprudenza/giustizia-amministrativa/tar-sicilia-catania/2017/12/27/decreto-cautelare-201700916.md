@@ -1,0 +1,19 @@
+# TAR SICILIA - CATANIA, decreto cautelare n. 916/2017
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR SICILIA - CATANIA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 201700916
+- Numero di ricorso (NRG): 201701673
+- Data di pubblicazione: 2017-12-27
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2017-10-06
+- Oggetto del ricorso: PROCEDURA APERTA PER L'AFFIDAMENTO DELLA FORNITURA IN NOLEGGIO OPERATIVO, PER LA DURATA DI CINQUE ANNI, DI LETTI, ARREDI ED ATTREZZATURE PER LE VARIE UU.OO. DELL'ASP DI MESSINA - RIS. DANNI
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sicilia-catania-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/4f587eb1-3813-4dee-89e2-3373a37e0120/resource/2b50f3ab-6c52-4b4a-9c58-e9fbfe6f0c7a/download/tar-sicilia-catania-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
