@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 73/2018
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201800073
+- Numero di ricorso (NRG): 201702817
+- Data di pubblicazione: 2018-01-04
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2017-07-07
+- Oggetto del ricorso: DELLA DETERMINAZIONE DEL DIRETTORE GENERALE N. 112 DEL 31 MAGGIO 2017 PUBBLICATA NEL SITO DELLA SOCIETÀ SO.RE.SA. S.P.A, CON LA QUALE SI È DISPOSTO L’AGGIUDICAZIONE DEFINITIVA DELLA PROCEDURA RISTRETTA PER L’ACCORDO QUADRO PER LA FORNITURA DI PROTESI ORTOPEDICHE E CEMENTO DESTINATI ALLE ASL ED AZIENDE OSPEDALIERE E SOCIETÀ PARTECIPATE IN MISURA TOTALITARIA DELLA REGIONE CAMPANIA, CON RIGUARDO ALLA AGGIUDICAZIONE DEFINITIVA DEL LOTTO N. 3
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
