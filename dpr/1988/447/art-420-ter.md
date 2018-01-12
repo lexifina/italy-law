@@ -1,8 +1,6 @@
 Art. 420-ter.
 
-(( (Impedimento a comparire dell'imputato o del difensore) ))
-
-((
+(Impedimento a comparire dell'imputato o del difensore)
 
 1.
 
@@ -24,4 +22,4 @@ In ogni caso la lettura dell'ordinanza che fissa la nuova udienza sostituisce la
 
 Il giudice provvede a norma del comma 1 nel caso di assenza del difensore, quando risulta che l'assenza stessa e' dovuta ad assoluta impossibilita' di comparire per legittimo impedimento, purche' prontamente comunicato. Tale disposizione non si applica se l'imputato e' assistito da due difensori e l'impedimento riguarda uno dei medesimi ovvero quando il difensore impedito ha designato un sostituto o quando l'imputato chiede che si proceda in assenza del difensore impedito.
 
-))
+((5-bis. Agli effetti di cui al comma 5 il difensore che abbia comunicato prontamente lo stato di gravidanza si ritiene legittimamente impedito a comparire nei due mesi precedenti la data presunta del parto e nei tre mesi successivi ad esso))
