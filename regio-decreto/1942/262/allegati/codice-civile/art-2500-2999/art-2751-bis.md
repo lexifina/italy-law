@@ -6,13 +6,13 @@ Hanno privilegio generale sui mobili i crediti riguardanti:
 
 1) le retribuzioni dovute, sotto qualsiasi forma, ai prestatori di lavoro subordinato e tutte le indennita' dovute per effetto della cessazione del rapporto di lavoro, nonche' il credito del lavoratore per i danni conseguenti alla mancata corresponsione, da parte del datore di lavoro, dei contributi previdenziali ed assicurativi obbligatori ed il credito per il risarcimento del danno subito per effetto di un licenziamento inefficace, nullo o annullabile; (59) (139) (149)
 
-2) le retribuzioni dei professionisti e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110)
+2) le retribuzioni dei professionisti ((, compresi il contributo integrativo da versare alla rispettiva cassa di previdenza ed assistenza e il credito di rivalsa per l'imposta sul valore aggiunto, )). e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110) ((320))
 
 3) le provvigioni derivanti dal rapporto di agenzia dovute per l'ultimo anno di prestazione e le indennita' dovute per la cessazione del rapporto medesimo;
 
 4) i crediti del coltivatore diretto, sia proprietario che affittuario, mezzadro, colono, soccidario o comunque compartecipante, per i corrispettivi della vendita dei prodotti, nonche' i crediti del mezzadro o del colono indicati dall'articolo 2765;
 
-5) i crediti dell'impresa artigiana, definita ai sensi delle disposizioni legislative vigenti, nonche' delle societa' ed enti cooperativi di produzione e lavoro per i corrispettivi dei servizi prestati e della vendita dei manufatti;((220))
+5) i crediti dell'impresa artigiana, definita ai sensi delle disposizioni legislative vigenti, nonche' delle societa' ed enti cooperativi di produzione e lavoro per i corrispettivi dei servizi prestati e della vendita dei manufatti; (220)
 
 5-bis) i crediti delle societa' cooperative agricole e dei loro consorzi per i corrispettivi della vendita dei prodotti.
 
@@ -53,3 +53,9 @@ La Corte Costituzionale con sentenza 25 marzo-6 aprile 2004, n. 113, (in G.U. 1a
 AGGIORNAMENTO (220)
 
 Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 2013, n. 98 ha disposto (con l'art. 82, comma 3-bis) che "Al fine di garantire i crediti spettanti alle cooperative di lavoro, in relazione alla loro finalita' mutualistica, il privilegio di cui all'articolo 2751-bis, numero 5), del codice civile, spettante per corrispettivi dei servizi prestati e dei manufatti prodotti, e' riconosciuto qualora le medesime cooperative abbiano superato positivamente o abbiano comunque richiesto la revisione di cui al decreto legislativo 2 agosto 2002, n. 220".
+
+---------------
+
+AGGIORNAMENTO (320)
+
+Successivamente la Corte Costituzionale, con sentenza 9 giugno - 1 luglio 2022, n. 167 (in G.U. 1ª s.s. 06/07/2022, n. 27), ha dichiarato l'illegittimita' costituzionale dell'art. 1, comma 474 della L. 27 dicembre 2017, n. 205 (che ha modificato il comma 1, numero 2) del presenete articolo)"nella parte in cui non prevedono, in favore dell'agente che svolga una prestazione di opera continuativa e coordinata, prevalentemente personale, il privilegio generale sui mobili esteso al credito di rivalsa per l'imposta sul valore aggiunto (IVA) sulle provvigioni dovute per l'ultimo anno di prestazione".
