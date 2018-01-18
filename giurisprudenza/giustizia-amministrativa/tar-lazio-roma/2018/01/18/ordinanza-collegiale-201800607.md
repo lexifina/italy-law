@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza collegiale n. 607/2018
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE PRIMA TER
+- Numero provvedimento: 201800607
+- Numero di ricorso (NRG): 201712687
+- Data di pubblicazione: 2018-01-18
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2017-12-17
+- Oggetto del ricorso: ANNULLAMENTO DELIBERA DELLA COMMISSIONE CENTRALE EX ART. 10 L. N. 82/1991 CONTENUTA NELLO STRALCIO DEL VERBALE DI RIUNIONE DEL 26.09.17, CON LA QUALE VENIVA “DELIBERATA LA REVOCA DEL PIANO PROVVISORIO DI PROTEZIONE" E STABILITO CHE “IL SERVIZIO CENTRALE È INCARICATO DI SEGNALARE LA POSIZIONE DELLA PREDETTA ALLE COMPETENTI AUTORITÀ DI PUBBLICA SICUREZZA, AI FINI DELL’ADOZIONE DELLE ORDINARIE MISURE DI PROTEZIONE”
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
