@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/2.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/2.9"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/2.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/2.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDE00WQN45JXWFGLV3V1I5GGY1WPWBUPQQZPAP2UKSBJEZ2201OY1O" href="http://dati.senato.it/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="IDTWF1PDOUV2A0BXSKBS4LKS1HBPKH33E3AKMZEPCUT25Q3PBQKSZL" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="ID5UEBRIKFZX5UHBCA54LEGZ12KCFA25SIMQLUEQCUYL0CXOTNZNZH" href="http://dati.senato.it/29154" showAs="PAGLINI"/>
+				<an:TLCPerson id="ID2PPT3LUSA3CKK5BYI5ZE3LR3KGU24Z01QTGUIXLKNSAZVN4L0B0J" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE00WQN45JXWFGLV3V1I5GGY1WPWBUPQQZPAP2UKSBJEZ2201OY1O" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTWF1PDOUV2A0BXSKBS4LKS1HBPKH33E3AKMZEPCUT25Q3PBQKSZL" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5UEBRIKFZX5UHBCA54LEGZ12KCFA25SIMQLUEQCUYL0CXOTNZNZH" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2PPT3LUSA3CKK5BYI5ZE3LR3KGU24Z01QTGUIXLKNSAZVN4L0B0J" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 b), 
+					<an:i>al capoverso</an:i>
+					 «Art.2», 
+					<an:i>è aggiunto, infine, il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        «3. Esclusivamente ai soggetti di cui all'articolo 3, lettera 
+					<an:i>b),</an:i>
+					 è concedibile, in aggiunta a quanto previsto dal comma 1, un mutuo agevolato per gli investimenti, a un tasso pari a zero, della durata massima di 8 anni e di importo non superiore al 25 per cento della spesa ammissibile, a valere sulle disponibilità del Fondo Centrale di Garanzia per le Piccole e Medie Imprese di cui legge all'articolo 2, comma 100, lettera 
+					<an:i>a)</an:i>
+					 della legge 23 dicembre 1996 n. 662».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
