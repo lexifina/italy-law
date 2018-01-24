@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/9.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/9.5"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/9.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/9.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID24NLKQBSG2WWD2PNWVRCJ3DNNOJID2GF15MFA4MRFDXJY5IR23" href="http://dati.senato.it/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDEZARD5J2N40J2IWAVGAELOULD2EBUBEUHBNK2MTHKHSXAOYCPVM" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDQOS23XYOEDQEHQRKCVXHZGZUIKH0Z00EV3ALOREODQOHXIWYZYRP" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="ID3OEQBXW22HFZHJE4OOGZJGM4OMSFH3YN3MTTP0DDIZBIQVVFUGOM" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID24NLKQBSG2WWD2PNWVRCJ3DNNOJID2GF15MFA4MRFDXJY5IR23" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEZARD5J2N40J2IWAVGAELOULD2EBUBEUHBNK2MTHKHSXAOYCPVM" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQOS23XYOEDQEHQRKCVXHZGZUIKH0Z00EV3ALOREODQOHXIWYZYRP" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3OEQBXW22HFZHJE4OOGZJGM4OMSFH3YN3MTTP0DDIZBIQVVFUGOM" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo le parole:</an:i>
+					 «anche in formato digitale,», 
+					<an:i>aggiungere le seguenti:</an:i>
+					 «e/o venduti 
+					<an:i>on-line</an:i>
+					, comunque».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
