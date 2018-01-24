@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.10"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/13.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLA2OXDHNKGNEEWQNQD20DRCRLIBVW15QXPO0NWK0JMLFGFQBNVSC" href="http://dati.senato.it/25359" showAs="CROSIO"/>
+				<an:TLCPerson id="IDXVWDJGH0KJYHF4S1RDYWC5FTQEV3W0MQJCXLBWOS0GGGB43VZOLI" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDJLYW12XOGHTEKLYRBQ3B3X0CXLVQRQDNSH4PU5NLK5WNKKPOBBS" href="http://dati.senato.it/25528" showAs="CONSIGLIO"/>
+				<an:TLCPerson id="ID1WBH1XOUGVHIL55CAFXEBJAKUMZXZW4WOQZ2YZIVNZGLHHVJQVH" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLA2OXDHNKGNEEWQNQD20DRCRLIBVW15QXPO0NWK0JMLFGFQBNVSC" as="#tipoSenatore">CROSIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXVWDJGH0KJYHF4S1RDYWC5FTQEV3W0MQJCXLBWOS0GGGB43VZOLI" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJLYW12XOGHTEKLYRBQ3B3X0CXLVQRQDNSH4PU5NLK5WNKKPOBBS" as="#tipoSenatore">CONSIGLIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1WBH1XOUGVHIL55CAFXEBJAKUMZXZW4WOQZ2YZIVNZGLHHVJQVH" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1
+					<an:i>-bis</an:i>
+					. Ai fini del finanziamento del progetto approvato con la delibera CIPE n. 33 del 13 maggio 2010, è autorizzato un contributo venticinquennale di 20 milioni di euro annui a decorrere dall'anno 2014. Agli oneri derivanti dall'attuazione del presente comma, pari a 20 milioni di euro annui a decorrere dall'anno 2014, si provvede mediante corrispondente riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
