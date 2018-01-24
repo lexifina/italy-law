@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/1.89/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/1.89"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/1.89/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.89"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/1.89/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJLYW12XOGHTEKLYRBQ3B3X0CXLVQRQDNSH4PU5NLK5WNKKPOBBS" href="http://dati.senato.it/29161" showAs="PETROCELLI"/>
+				<an:TLCPerson id="IDTUMSBEITXEUJHO2ZIMQCCTH4HLJUZAMVHOSG4OS4HLP2D2STC5F" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDJGU4CM4ZNRQYCCSUPH55YHX4LEOFKT3EPZUF0SHXGHXWFG5RLWOL" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDI2WSI2ONWC2SPDTNSVVFB5GH1GVZJYX5Q4JBIWCQCEBCMBSNMJDB" href="http://dati.senato.it/29174" showAs="SANTANGELO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.89</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJLYW12XOGHTEKLYRBQ3B3X0CXLVQRQDNSH4PU5NLK5WNKKPOBBS" as="#tipoSenatore">PETROCELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTUMSBEITXEUJHO2ZIMQCCTH4HLJUZAMVHOSG4OS4HLP2D2STC5F" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJGU4CM4ZNRQYCCSUPH55YHX4LEOFKT3EPZUF0SHXGHXWFG5RLWOL" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI2WSI2ONWC2SPDTNSVVFB5GH1GVZJYX5Q4JBIWCQCEBCMBSNMJDB" as="#tipoSenatore">SANTANGELO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 16 inserire il seguente :</an:i>
+				</an:p>
+				<an:p>
+					        «16-
+					<an:i>bis</an:i>
+					. Le somme di cui all'articolo 8 comma 4 e conseguentemente all'articolo 13 comma 1 lettera 
+					<an:i>d)</an:i>
+					, del regolamento di cui al decreto del Ministro dello Sviluppo Economico n. 226 del 12 novembre 2011, spettanti ai Comuni a seguito della gara, sono incrementate del 10 per cento».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
