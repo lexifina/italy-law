@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/12.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/12.11"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/12.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/12.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPYBH0BLM4SUJOWUVY3VF3JHTKNOYSDCP1HH03INPS0BN21HJ0BV" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID1W5NKWDB1DKDOBQYPSUJ1AUFWI4W0SGQXOFZP2LDEJSCUKO51V2I" href="http://dati.senato.it/29104" showAs="GAMBARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPYBH0BLM4SUJOWUVY3VF3JHTKNOYSDCP1HH03INPS0BN21HJ0BV" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1W5NKWDB1DKDOBQYPSUJ1AUFWI4W0SGQXOFZP2LDEJSCUKO51V2I" as="#tipoSenatore">GAMBARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis.</an:i>
+					 All'articolo 4 del decreto ministeriale n. 703 del 21 novembre 1996, dopo il comma 1, aggiungere il seguente:
+				</an:p>
+				<an:p>
+					        ''1-
+					<an:i>bis.</an:i>
+					 I fondi pensione di cui all'articolo 4 del decreto legislativo n. 124 del 21 aprile 1993, fermi restando i divieti ed i limiti di cui all'articolo 6 dello stesso, e quelli di cui al successivo comma 2 del presente regolamento, devono destinare, fatte salve le disponibilità di mercato, almeno il 2% del valore del proprio patrimonio alla sottoscrizione di titoli di debito, anche non negoziati, emessi da piccole o medie imprese, anche attraverso operazioni di cartolarizzazioni delle medesime di cui alla legge n. 130 del 1999, o da organismi d'investimento collettivo in valori mobiliari (OICVM) che gestiscano titoli emessi dalle stesse''».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente all'articolo 6, comma 1, del decreto legislativo, n. 124 del 21 aprile 1993, dopo la lettera</an:i>
+					 e) 
+					<an:i>aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>f</an:i>
+					) sottoscrizione o acquisizione di titoli emessi nell'ambito di operazioni di cartolarizzazione di cui alla legge 30 aprile 1999, n. no, in misura non inferiore al 2% del proprio patrimonio;».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
