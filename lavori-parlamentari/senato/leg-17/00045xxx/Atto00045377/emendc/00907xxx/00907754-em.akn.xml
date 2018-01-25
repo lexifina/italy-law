@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/C/4.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/C/4.19"/>
+					<an:FRBRdate date="2018-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1813/C/4.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@"/>
+					<an:FRBRdate date="2018-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@.akn"/>
+					<an:FRBRdate date="2018-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1813/C/4.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1813" showAs="DDL 1813"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDILFJSNDHLLIM23CRGWIXKTY5NFOAJ02DMNOUTGFKCBOAGZQVCGP" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDK3JUR10GNWTD2N4Z2MZIUCICIJLLOVQN0540KMVP3NNEAXUICMD" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="ID0LW5HXIEFNSMFKXK43VFZHUT2M2I5ZSLNDE5IGMQFIRGLW3VZOGL" href="http://dati.senato.it/29161" showAs="PETROCELLI"/>
+				<an:TLCPerson id="ID2A544MX3O0SPEUMPLULZPV5S5POYGUCGEOHOVDGLHE0KOFWC24SO" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1813</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDILFJSNDHLLIM23CRGWIXKTY5NFOAJ02DMNOUTGFKCBOAGZQVCGP" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK3JUR10GNWTD2N4Z2MZIUCICIJLLOVQN0540KMVP3NNEAXUICMD" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0LW5HXIEFNSMFKXK43VFZHUT2M2I5ZSLNDE5IGMQFIRGLW3VZOGL" as="#tipoSenatore">PETROCELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2A544MX3O0SPEUMPLULZPV5S5POYGUCGEOHOVDGLHE0KOFWC24SO" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 10, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «10.1. Ai soci di 
+					<an:i>start-up</an:i>
+					 innovative non si applica il contributo minimale di cui all'articolo 1, comma 3, della legge 2 agosto 1990, n. 233, e all'articolo 6, comma 7, della legge 31 dicembre 1991, n. 415».
+				</an:p>
+				<an:p>
+					        10.2. Entro trenta giorni dalla data della pubblicazione della legge di conversione del presente decreto nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					, con provvedimenti del direttore generale dell'Agenzia delle dogane e dei monopoli, è modificata la misura del prelievo erariale unico attualmente applicato sui giochi ed eventuali addizionali, nonché la percentuale del compenso per le attività di gestione ovvero per quella dei punti vendita al fine di conseguire un maggior gettito, a decorrere dall'anno 2015, non inferiore a 800 milioni di euro».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
