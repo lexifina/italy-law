@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/C/4.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/C/4.25"/>
+					<an:FRBRdate date="2018-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1813/C/4.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.25"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@"/>
+					<an:FRBRdate date="2018-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@.akn"/>
+					<an:FRBRdate date="2018-01-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1813/C/4.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1813" showAs="DDL 1813"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1CYAABMF2HC3PGUEM3MCFFOIUJMLOHZ0J0Y3F5KG3G4MUPXGG53P" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDPYMNSG50TUAMMVFTJ22K02LMKNY3EFBARLNMQIIVCBUAPAPMSDSP" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDJYUA1UY12HV2GMR0K3YCTNYTEIRQYSIXRBN3XNDBZXAVUF5GQS3P" href="http://dati.senato.it/29161" showAs="PETROCELLI"/>
+				<an:TLCPerson id="IDEQB5E5QLOQRZPNXJA3KD0TZI1INZKJAEHPXIT3KTOEN3DA33OL1G" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1813</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.25</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1CYAABMF2HC3PGUEM3MCFFOIUJMLOHZ0J0Y3F5KG3G4MUPXGG53P" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPYMNSG50TUAMMVFTJ22K02LMKNY3EFBARLNMQIIVCBUAPAPMSDSP" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJYUA1UY12HV2GMR0K3YCTNYTEIRQYSIXRBN3XNDBZXAVUF5GQS3P" as="#tipoSenatore">PETROCELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEQB5E5QLOQRZPNXJA3KD0TZI1INZKJAEHPXIT3KTOEN3DA33OL1G" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 12-</an:i>
+					ter
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «12-
+					<an:i>quater.</an:i>
+					 Le 
+					<an:i>start-up</an:i>
+					 innovative di cui all'articolo 25 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, per il primo anno d'inizio attività sono esentate dalla tassa di concessione governativa di cui al decreto del Presidente della Repubblica del 26 ottobre 1972, n. 641. All'onere derivante dalla presente disposizione pari a 1 milione di euro a decorrere dall'anno 2015 si provvede mediante riduzione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito con modificazioni dalla legge 27 dicembre 2004, n. 307. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
