@@ -1,0 +1,7 @@
+Allegato B
+
+Denominazioni,stemmi,emblemi
+
+e altri distintivi dei Vigili del Fuoco
+
+Parte di provvedimento in formato grafico
