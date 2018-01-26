@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.50/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.50"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.50/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.50"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/13.50/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCVHNEGJAKJKVL4GEWHIUZ13OHTOJVZRTJLICLEXKPSFEVZKY1EH" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDQ0TGJBYD5GKSNRO0PYWE0QIPLH2O2OW5DZRQ0I1NPLHBKC4E11P" href="http://dati.senato.it/29192" showAs="VACCARI"/>
+				<an:TLCPerson id="IDZBTGMXGH0FIXCYEHNQE00IS2LBPPJQFM4JNZXUHKPQR0BKKYSTZI" href="http://dati.senato.it/29057" showAs="CALEO"/>
+				<an:TLCPerson id="IDXGFYVPSNAXLBPNDMFF4CWFQINLUXS5FRZXNKYXF3DJBXSALYHQNC" href="http://dati.senato.it/23080" showAs="TOMASELLI"/>
+				<an:TLCPerson id="IDDJ1FVSD4VHMPKMXIUAWVBXBCRJKG21H0KFFRIML42GIVJZNDW03P" href="http://dati.senato.it/29166" showAs="PUPPATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.50</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCVHNEGJAKJKVL4GEWHIUZ13OHTOJVZRTJLICLEXKPSFEVZKY1EH" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ0TGJBYD5GKSNRO0PYWE0QIPLH2O2OW5DZRQ0I1NPLHBKC4E11P" as="#tipoSenatore">VACCARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZBTGMXGH0FIXCYEHNQE00IS2LBPPJQFM4JNZXUHKPQR0BKKYSTZI" as="#tipoSenatore">CALEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXGFYVPSNAXLBPNDMFF4CWFQINLUXS5FRZXNKYXF3DJBXSALYHQNC" as="#tipoSenatore">TOMASELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDJ1FVSD4VHMPKMXIUAWVBXBCRJKG21H0KFFRIML42GIVJZNDW03P" as="#tipoSenatore">PUPPATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «Art. 242-
+					<an:i>bis</an:i>
+					»
+					<an:i>, al comma 6, sopprimere le parole da:</an:i>
+					 «salva la valutazione» 
+					<an:i>fino alla fine del comma».</an:i>
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
