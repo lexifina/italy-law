@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.44/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.44"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.44/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.44"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/13.44/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOWQCNPW3AVNQBNBQWDJC5CMTEIIS5IG5KUSGI3KJFCA1WZVFF1RN" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="ID1HA0G05M4ML0ECMICO3V4AAHXDP3OESER41PZDPBTPABZEA411HB" href="http://dati.senato.it/29192" showAs="VACCARI"/>
+				<an:TLCPerson id="IDKRJ4GL2JNIOKPJ5VKEKEMHGMQCGHKNAQDZCZXJNGIK0Y4PX0EBUG" href="http://dati.senato.it/29057" showAs="CALEO"/>
+				<an:TLCPerson id="IDX0KUVSJ2GLXYNNO2FQBFZCQKSDAO0VIEV1YXBRJLVF4QG2NPIP0K" href="http://dati.senato.it/23080" showAs="TOMASELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.44</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOWQCNPW3AVNQBNBQWDJC5CMTEIIS5IG5KUSGI3KJFCA1WZVFF1RN" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1HA0G05M4ML0ECMICO3V4AAHXDP3OESER41PZDPBTPABZEA411HB" as="#tipoSenatore">VACCARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKRJ4GL2JNIOKPJ5VKEKEMHGMQCGHKNAQDZCZXJNGIK0Y4PX0EBUG" as="#tipoSenatore">CALEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX0KUVSJ2GLXYNNO2FQBFZCQKSDAO0VIEV1YXBRJLVF4QG2NPIP0K" as="#tipoSenatore">TOMASELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «Art. 242-
+					<an:i>bis</an:i>
+					», 
+					<an:i>sostituire il comma 4 con il seguente:</an:i>
+					 «4. La validazione dei risultati del piano di campionamento di collaudo finale da parte dell'Agenzia regionale per la protezione dell'ambiente territorialmente competente, che conferma il conseguimento dei valori di concentrazione soglia di contaminazione nei suoli, costituisce certificazione dell'avvenuta bonifica del suolo. I costi dei controlli sul piano di campionamento finale e della relativa validazione sono a carico del soggetto di cui al comma 1. Ove i risultati del campionamento di collaudo finale dimostrino che non sono stati conseguiti i valori di concentrazione soglia di contaminazione nella matrice suolo, l'Agenzia regionale per la protezione dell'ambiente territori al mente competente comunica le difformità riscontrate all'autorità titolare del procedimento di bonifica e al soggetto di cui al comma 1, il quale deve presentare, entro i successivi quarantacinque giorni, le necessarie integrazioni al progetto di bonifica che è istruito nel rispetto delle procedure ordinarie ai sensi degli articoli 242 o 252 del presente decreto».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
