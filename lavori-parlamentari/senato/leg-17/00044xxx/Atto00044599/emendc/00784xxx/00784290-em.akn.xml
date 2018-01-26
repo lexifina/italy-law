@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/3.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/3.16"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/3.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/3.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTUZSPBQNIEXJNWBPPEM0YTJMJLCMDCDUKKT2UCPRMCATEXWIOCSL" href="http://dati.senato.it/29048" showAs="BIGNAMI"/>
+				<an:TLCPerson id="ID3KGI0ET4FLAZBZW0F32MUOVY2BUCGHXO1IRDNYDLW35GBKOAZOWH" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDKQB2KHWQIQBSFCTXDKJBAJST1C2K55DOI2XIMEEGF1VLEFH50KR" href="http://dati.senato.it/29146" showAs="MUSSINI"/>
+				<an:TLCPerson id="IDGAKSTC5P3POZBW1LY22QPIGQ3BKLHYBOMF4UBLJV5YHQMDQH2ZB" href="http://dati.senato.it/29168" showAs="Maurizio ROMANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTUZSPBQNIEXJNWBPPEM0YTJMJLCMDCDUKKT2UCPRMCATEXWIOCSL" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3KGI0ET4FLAZBZW0F32MUOVY2BUCGHXO1IRDNYDLW35GBKOAZOWH" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKQB2KHWQIQBSFCTXDKJBAJST1C2K55DOI2XIMEEGF1VLEFH50KR" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGAKSTC5P3POZBW1LY22QPIGQ3BKLHYBOMF4UBLJV5YHQMDQH2ZB" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, sostituire il periodo:</an:i>
+					 «Al fine di incentivare la creazione di nuove reti di imprese ovvero lo svolgimento di nuove attività da parte delle reti di imprese già esistenti, alle imprese che producono prodotti agricoli di cui all'Allegato I del Trattato sul funzionamento dell'Unione europea» 
+					<an:i>con il seguente:</an:i>
+					 «Al fine di incentivare l'aggregazione in agricoltura attraverso la costituzione di reti di imprese, di cooperative agricole o loro consorzi, nonché al fine incentivare lo svolgimento di nuove attività da parte delle reti di imprese già esistenti e nell'ambito del rapporto mutualistico cooperativo, alle imprese che producono prodotti agricoli di cui all'Allegato I del Trattato sul funzionamento dell'Unione europea, alle loro cooperative e consorzi,».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
