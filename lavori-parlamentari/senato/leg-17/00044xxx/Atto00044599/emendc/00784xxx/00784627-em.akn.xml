@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/10.51/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/10.51"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/10.51/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.51"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/10.51/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID01CALQHS14JXL24S0HU3I5K3EJMMQ3M43TDIFVFBHIGQSZAO4LLN" href="http://dati.senato.it/29101" showAs="FUCKSIA"/>
+				<an:TLCPerson id="IDERYUNY3NUZRUMBPXM5SVA5CJVNYSMESNZ2QXSMNHSGSXMROI21UP" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.51</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID01CALQHS14JXL24S0HU3I5K3EJMMQ3M43TDIFVFBHIGQSZAO4LLN" as="#tipoSenatore">FUCKSIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDERYUNY3NUZRUMBPXM5SVA5CJVNYSMESNZ2QXSMNHSGSXMROI21UP" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 9, sostituire le parole:</an:i>
+					 «ad aggiornare i dati relativi allo stato di avanzamento degli interventi secondo le modalità di inserimento in un sistema 
+					<an:i>on line</an:i>
+					 specificate dal Ministero dell'ambiente e della tutela del territorio e del mare.» 
+					<an:i>con le seguenti:</an:i>
+					 «ad inserire i dati relativi allo stato di avanzamento degli interventi nel sistema informativo 
+					<an:i>on line</an:i>
+					 relativo al Repertorio Nazionale degli interventi per la Difesa del Suolo (ReNDis), gestito dall'ISPRA, altresì assicurandone l'aggiornamento almeno trimestrale dei contenuti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
