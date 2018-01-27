@@ -1,15 +1,11 @@
 Art. 8-bis.
 
-(( (Connettivita' alla rete Internet negli uffici e luoghi pubblici). ))
-
-((
+(Connettivita' alla rete Internet negli uffici e luoghi pubblici)
 
 1.
 
-I soggetti di cui all'articolo 2, comma 2, favoriscono, in linea con gli obiettivi dell'Agenda digitale europea, la disponibilita' di connettivita' alla rete Internet presso gli uffici pubblici e altri luoghi pubblici, in particolare nei settori scolastico, sanitario e di interesse turistico, anche prevedendo che la porzione di banda non utilizzata dagli stessi uffici sia messa a disposizione degli utenti attraverso un sistema di autenticazione tramite SPID, carta d'identita' elettronica o carta nazionale dei servizi, ovvero che rispetti gli standard di sicurezza fissati dall'Agid.
+I soggetti di cui all'articolo 2, comma 2, favoriscono, in linea con gli obiettivi dell'Agenda digitale europea, la disponibilita' di connettivita' alla rete Internet presso gli uffici pubblici e altri luoghi pubblici, in particolare nei settori scolastico, sanitario e di interesse turistico, anche prevedendo che la porzione di banda non utilizzata dagli stessi uffici sia messa a disposizione degli utenti ((nel rispetto degli)) standard di sicurezza fissati dall'Agid.
 
 2.
 
 I soggetti di cui all'articolo 2, comma 2, mettono a disposizione degli utenti connettivita' a banda larga per l'accesso alla rete Internet nei limiti della banda disponibile e con le modalita' determinate dall'AgID.
-
-))

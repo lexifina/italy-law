@@ -1,17 +1,11 @@
 Art. 44-bis.
 
-(Conservatori accreditati)
+((ARTICOLO ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217))
 
-1.
+((29))
 
-I soggetti pubblici e privati che svolgono attivita' di conservazione dei documenti informatici e di certificazione dei relativi processi anche per conto di terzi ed intendono conseguire il riconoscimento del possesso dei requisiti del livello piu' elevato, in termini di qualita' e di sicurezza, chiedono l'accreditamento presso ((AgID))
+---------------
 
-((secondo le regole tecniche di cui all'articolo 71)).
+AGGIORNAMENTO (29)
 
-2.
-
-Si applicano, in quanto compatibili, gli articoli 26, 27, 29, ad eccezione del comma 3, lettera a) e 31.
-
-3.
-
-I soggetti privati di cui al comma 1 sono costituiti in societa' di capitali con capitale sociale non inferiore a euro 200.000.
+Il D.Lgs. 13 dicembre 2017, n. 217 ha disposto (con l'art. 65, comma 8) che "Il decreto del Presidente del Consiglio dei ministri di cui all'articolo 29, comma 2, del decreto legislativo n. 82 del 2005, come modificato dal presente decreto, e' adottato entro centottanta giorni dalla data di entrata in vigore del presente decreto. Fino all'adozione del predetto decreto, restano efficaci le disposizioni dell'articolo 29, comma 3, dello stesso decreto nella formulazione previgente all'entrata in vigore del decreto legislativo 26 agosto 2016, n. 179 e dell'articolo 44-bis, commi 2 e 3, del decreto legislativo n. 82 del 2005 nella formulazione previgente all'entrata in vigore del presente decreto".

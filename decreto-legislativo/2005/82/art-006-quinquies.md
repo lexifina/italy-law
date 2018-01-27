@@ -1,0 +1,23 @@
+Art. 6-quinquies.
+
+(( (Consultazione e accesso). ))
+
+((
+
+1.
+
+La consultazione on-line degli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater e' consentita a chiunque senza necessita' di autenticazione. Gli elenchi sono realizzati in formato aperto.
+
+2.
+
+L'estrazione dei domicili digitali dagli elenchi, di cui agli articoli 6-bis, 6-ter e 6-quater, e' effettuata secondo le modalita' fissate da AgID nelle Linee guida.
+
+3.
+
+In assenza di preventiva autorizzazione del titolare dell'indirizzo, e' vietato l'utilizzo dei domicili digitali di cui al presente articolo per finalita' diverse dall'invio di comunicazioni aventi valore legale o comunque connesse al conseguimento di finalita' istituzionali dei soggetti di cui all'articolo 2, comma 2.
+
+4.
+
+Gli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater contengono le informazioni relative alla elezione, modifica o cessazione del domicilio digitale.
+
+))

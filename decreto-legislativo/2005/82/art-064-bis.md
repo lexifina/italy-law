@@ -1,11 +1,15 @@
 Art. 64-bis.
 
-(( (Accesso telematico ai servizi della Pubblica Amministrazione). ))
-
-((
+(Accesso telematico ai servizi della Pubblica Amministrazione)
 
 1.
 
-I soggetti di cui all'articolo 2, comma 2, rendono fruibili i propri servizi in rete, in conformita' alle regole tecniche di cui all'articolo 71, tramite il punto unico di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica.
+I soggetti di cui all'articolo 2, comma 2, rendono fruibili i propri servizi in rete, in conformita' alle ((Linee guida)), tramite il punto ((...)) di accesso telematico attivato presso la Presidenza del Consiglio dei ministri, senza nuovi o maggiori oneri per la finanza pubblica.
+
+((
+
+1-bis.
+
+Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i soggetti di cui all'articolo 2, comma 2, i fornitori di identita' digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilita' tra i diversi sistemi e servizi e con il servizio di cui al comma 1, espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualita' di cui all'articolo 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida.
 
 ))

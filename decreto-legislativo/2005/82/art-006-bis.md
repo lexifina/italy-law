@@ -1,26 +1,22 @@
 Art. 6-bis.
 
-(Indice nazionale degli indirizzi PEC delle imprese e dei professionisti)
+(Indice nazionale ((dei domicili digitali)) delle imprese e dei professionisti).
 
 1.
 
-Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' lo scambio di informazioni e documenti tra la pubblica amministrazione e le imprese e i professionisti in modalita' telematica, e' istituito, entro sei mesi dalla data di entrata in vigore della presente disposizione e con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente, il pubblico elenco denominato Indice nazionale degli indirizzi di posta elettronica certificata (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
+Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' lo scambio di informazioni e documenti tra ((i soggetti di cui all'articolo 2, comma 2)) e le imprese e i professionisti in modalita' telematica, e' istituito ((...)) il pubblico elenco denominato Indice nazionale ((dei domicili digitali)) (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
 
 2.
 
-L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. ((Gli indirizzi PEC inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.))
-
-((
+L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. ((I domicili digitali)) inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.
 
 2-bis.
 
 L'INI-PEC acquisisce dagli ordini e dai collegi professionali gli attributi qualificati dell'identita' digitale ai fini di quanto previsto dal decreto di cui all'articolo 64, comma 2-sexies.
 
-))
-
 3.
 
-L'accesso all'INI-PEC e' consentito alle pubbliche amministrazioni, ai professionisti, alle imprese, ai gestori o esercenti di pubblici servizi ed a tutti i cittadini tramite sito web e senza necessita' di autenticazione. L'indice e' realizzato in formato aperto, secondo la definizione di cui all'articolo 68, comma 3.
+((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
 
 4.
 

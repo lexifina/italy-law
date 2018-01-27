@@ -1,12 +1,10 @@
 Art. 6-ter.
 
-(( (Indice degli indirizzi delle pubbliche amministrazioni e dei gestori di pubblici servizi). ))
-
-((
+(Indice ((dei domicili digitali)) delle pubbliche amministrazioni e dei gestori di pubblici servizi).
 
 1.
 
-Al fine di assicurare la pubblicita' dei riferimenti telematici delle pubbliche amministrazioni e dei gestori dei pubblici servizi e' istituito il pubblico elenco di fiducia denominato "Indice degli indirizzi della pubblica amministrazione e dei gestori di pubblici servizi", nel quale sono indicati gli indirizzi di posta elettronica certificata da utilizzare per le comunicazioni e per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi e i privati.
+Al fine di assicurare la pubblicita' dei riferimenti telematici delle pubbliche amministrazioni e dei gestori dei pubblici servizi e' istituito il pubblico elenco di fiducia denominato "Indice ((dei domicili digitali)) della pubblica amministrazione e dei gestori di pubblici servizi", nel quale sono indicati ((i domicili digitali)) da utilizzare per le comunicazioni e per lo scambio di informazioni e per l'invio di documenti a tutti gli effetti di legge tra le pubbliche amministrazioni, i gestori di pubblici servizi e i privati.
 
 2.
 
@@ -14,6 +12,4 @@ La realizzazione e la gestione dell'Indice sono affidate all'AgID, che puo' util
 
 3.
 
-Le amministrazioni di cui al comma 1 aggiornano gli indirizzi e i contenuti dell'Indice tempestivamente e comunque con cadenza almeno semestrale, secondo le indicazioni dell'AgID. La mancata comunicazione degli elementi necessari al completamento dell'Indice e del loro aggiornamento e' valutata ai fini della responsabilita' dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili.
-
-))
+Le amministrazioni di cui al comma 1 ((e i gestori di pubblici servizi)) aggiornano gli indirizzi e i contenuti dell'Indice tempestivamente e comunque con cadenza almeno semestrale, secondo le indicazioni dell'AgID. La mancata comunicazione degli elementi necessari al completamento dell'Indice e del loro aggiornamento e' valutata ai fini della responsabilita' dirigenziale e dell'attribuzione della retribuzione di risultato ai dirigenti responsabili.
