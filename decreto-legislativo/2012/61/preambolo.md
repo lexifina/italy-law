@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76, 87, quinto comma, 117, 118 e 119 della Costituzione;
+
+Vista la legge 5 maggio 2009, n. 42, recante delega al Governo in materia di federalismo fiscale, in attuazione dell'articolo 119 della Costituzione, e in particolare l'articolo 24, relativo all'ordinamento transitorio di Roma capitale ai sensi dell'articolo 114, terzo comma, della Costituzione;
+
+Visto il decreto legislativo 17 settembre 2010, n. 156, recante disposizioni recanti attuazione dell'articolo 24 della legge 5 maggio 2009, n. 42, e successive modificazioni, in materia di ordinamento transitorio di Roma Capitale;
+
+Visto il decreto legislativo 22 gennaio 2004, n. 42, e successive modificazioni, recante codice dei beni culturali e del paesaggio;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 novembre 2011;
+
+Sentiti la Regione Lazio, la Provincia di Roma e Roma Capitale;
+
+Vista l'intesa sancita in sede di Conferenza unificata ai sensi dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, nella riunione del 19 gennaio 2012;
+
+Visti i pareri della Commissione parlamentare per l'attuazione del federalismo fiscale, di cui all'articolo 3 della legge 5 maggio 2009, n. 42, reso nella seduta del 29 marzo 2012, e delle Commissioni parlamentari competenti per le conseguenze di carattere finanziario della Camera dei deputati, reso il 29 marzo 2012, e del Senato della Repubblica, reso il 29 marzo 2012;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 aprile 2012;
+
+Sulla proposta del Ministro dell'economia e delle finanze, del Ministro per la pubblica amministrazione e la semplificazione, del Ministro per gli affari regionali, il turismo e lo sport e del Ministro per gli affari europei, di concerto con i Ministri dell'interno, per i beni e le attivita' culturali, dello sviluppo economico, delle politiche agricole alimentari e forestali e dell'ambiente e della tutela del territorio e del mare;
+
+Emana il seguente decreto legislativo:
