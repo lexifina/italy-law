@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Visto l'articolo 2, commi 17 e 18, della legge 25 luglio 2005, n. 150, recante delega al Governo per la riforma dell'ordinamento giudiziario di cui al regio decreto 30 gennaio 1941, n. 12, per il decentramento del Ministero della giustizia, per la modifica della disciplina concernente il Consiglio di presidenza della Corte dei conti e il Consiglio di presidenza della giustizia amministrativa, nonche' per l'emanazione di un testo unico;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 ottobre 2005;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati, espressi in data 14 dicembre 2005 ed in data 22 dicembre 2005, e del Senato della Repubblica, espressi in data 30 novembre 2005 ed in data 7 dicembre 2005, a norma dell'articolo 1, comma 4, della citata legge n. 150 del 2005;
+
+Ritenuto di non recepire le condizioni formulate dalla Commissione giustizia della Camera dei deputati, in quanto espressione di considerazioni eccessivamente restrittive dei compiti di coordinamento normativo che, nell'ambito dei principi e criteri direttivi stabiliti dal legislatore delegante, sono concessi a quello delegato. In particolare, si osserva, infatti, quanto alla richiesta di soppressione della lettera a) del comma 1 dell'articolo 1, avanzata dalla Commissione giustizia della Camera dei deputati, che la novella recata da tale lettera risulta rispondere ad una esigenza di coordinamento, addirittura imposto dalla stessa legge di delegazione, agli articoli 2, comma 18, e 1, comma 3; quanto alla richiesta di soppressione degli ultimi periodi del comma 2 dell'articolo 1, che il richiamo, come norma applicabile, del comma 2-bis dell'articolo 10 della legge 13 aprile 1988, n. 117, e' conseguenza di un'esigenza di coerenza interna con i contenuti del comma 1 dello stesso intervento normativo; mentre la previsione di elezioni suppletive, contemplata dall'altro periodo del comma 2 dell'articolo 1 del quale la Commissione giustizia della Camera dei deputati ha sollecitato la soppressione, e', secondo la valutazione operata dal legislatore delegato nell'ambito dei richiamati poteri di coordinamento e di adattamento, un opportuno corollario dell'introduzione della preferenza unica, tenuto anche conto della specificita' del contesto in cui essa viene introdotta. Invero, la nomina dei primi dei non eletti, che era coessenziale al previgente assetto di preferenza multipla, in cui ciascun elettore poteva esprimere tante preferenze quanti erano i componenti da eleggere meno uno, sarebbe incongrua, ora che il legislatore delegante ha optato per il modello sostanzialmente "uninominale" della preferenza unica, perche' darebbe luogo al subentro nell'organo di autogoverno, i cui membri elettivi cessano frequentemente dall'incarico anche in conseguenza dei passaggi che si verificano, nel corso della carriera, dai tribunali amministrativi regionali al Consiglio di Stato e viceversa, di componenti sforniti di adeguata rappresentativita' del corpo elettorale;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 gennaio 2006;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze;
+
+Emana il seguente decreto legislativo:
