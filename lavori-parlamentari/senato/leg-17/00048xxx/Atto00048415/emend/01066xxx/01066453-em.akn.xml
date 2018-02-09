@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="101-TER.99"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/101-TER.99/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYUQI3KYSG32PNJKTSQ1SPVICAEYTIAYFTYMM42C0BMQO1NKZGBCC" href="http://dati.senato.it/29181" showAs="SIMEONI"/>
+				<an:TLCPerson id="ID3MQYYZPOMDSSPIO4H5QD0FJ1SMTW330KA1FF15HX2WXOARGAAW2K" href="http://dati.senato.it/29193" showAs="VACCIANO"/>
+				<an:TLCPerson id="IDEH2UBW1VLFGLMLALPYTVNFDSRI5O4LG2NN0221N0ES32YIMOQWKD" href="http://dati.senato.it/29191" showAs="URAS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 101-TER.99</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYUQI3KYSG32PNJKTSQ1SPVICAEYTIAYFTYMM42C0BMQO1NKZGBCC" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3MQYYZPOMDSSPIO4H5QD0FJ1SMTW330KA1FF15HX2WXOARGAAW2K" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEH2UBW1VLFGLMLALPYTVNFDSRI5O4LG2NN0221N0ES32YIMOQWKD" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 7, dopo la lettera</an:i>
+					 b), 
+					<an:i>inserire la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>b-bis)</an:i>
+					 All'articolo 5, comma 1, del decreto-legge 4 luglio 2006, n.223, convertito con modificazioni dalla legge 4 agosto 2006, n. 248, dopo il primo periodo è aggiunto il seguente: "Gli esercizi commerciali di cui al primo periodo possono altresì effettuare attività di vendita al pubblico dei farmaci di cui all'articolo 8, comma 10, lettera 
+					<an:i>c)</an:i>
+					, della legge 24 dicembre 1993, n. 537, e sue successive modificazioni"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
