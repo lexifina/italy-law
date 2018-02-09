@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/72.0.25"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="72.0.25"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLHNCGTZ1GQLBJZTT4KN4VF4VXPBCZCVGRHKF5PGPEFYZRMUWKA5J" href="http://dati.senato.it/29099" showAs="FORNARO"/>
+				<an:TLCPerson id="ID2QZGMY1IA2JTEKD45DN1WVJXENXPJFDGQUT0QVGTC0I5HOLEIH3H" href="http://dati.senato.it/29167" showAs="RICCHIUTI"/>
+				<an:TLCPerson id="IDEB0NFLS1U2RJMNL3ZVPT5WTZ4LFT0IKCT5XVFPICLHKBLFXKU0E" href="http://dati.senato.it/22767" showAs="PEGORER"/>
+				<an:TLCPerson id="IDSTPGSVZANLTTKJHR4FO4H53QCYIJQWAVKDVW5GF0UPVVHIE3JCF" href="http://dati.senato.it/28580" showAs="GUERRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 72.0.25</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLHNCGTZ1GQLBJZTT4KN4VF4VXPBCZCVGRHKF5PGPEFYZRMUWKA5J" as="#tipoSenatore">FORNARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2QZGMY1IA2JTEKD45DN1WVJXENXPJFDGQUT0QVGTC0I5HOLEIH3H" as="#tipoSenatore">RICCHIUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEB0NFLS1U2RJMNL3ZVPT5WTZ4LFT0IKCT5XVFPICLHKBLFXKU0E" as="#tipoSenatore">PEGORER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSTPGSVZANLTTKJHR4FO4H53QCYIJQWAVKDVW5GF0UPVVHIE3JCF" as="#tipoSenatore">GUERRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 72-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Fondo crediti di dubbia esigibilità (FeDE). Quote accantonamento in bilancio di previsione)</an:i>
+				</an:p>
+				<an:p>        1. Al comma 509 dell'articolo 1 della legge 23 dicembre 2014, n.190 le parole: ", nel 2018 è pari almeno 85 per cento e dal 2019 l'accantonamento al fondo è effettuato per l'intero importo" sono sostituite dalle seguenti: ", nel 2018 è pari ad almeno il 70 per cento, nel 2019 è pari ad almeno 1'80 per cento, nel 2020 è pari ad almeno il 90 per cento e dal 2021 l'accantonamento al fondo è effettuato per l'intero importo. Per gli enti locali che hanno presentato il piano di riequilibrio finanziarie pluriennale o ne hanno conseguito l'approvazione, lo stanziamento di bilancio riguardante il fondo crediti di dubbia esigibilità è pari almeno al 70 per cento per il 2018 e la percentuale è progressivamente incrementata in quote annuali uniformi, comunque non superiori al 5 per cento ciascuna, fino al raggiungimento del 100 per cento a decorrere dall'ultimo anno del piano di riequilibrio"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
