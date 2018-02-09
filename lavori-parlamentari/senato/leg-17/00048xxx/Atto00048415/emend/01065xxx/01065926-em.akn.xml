@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/71.87/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/71.87"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/71.87/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="71.87"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/71.87/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4O4IB1J0A3X1DPC13RP3IQ4FUETP02K3HBIVMFKBX1SDZ3ZT1PWF" href="http://dati.senato.it/29149" showAs="ORELLANA"/>
+				<an:TLCPerson id="IDCPCK3UJMG1J3P3WLNX4KUSJ3UPH1X1NGFCPQCTHMK0ZRFQOSKSKN" href="http://dati.senato.it/29156" showAs="PANIZZA"/>
+				<an:TLCPerson id="IDZYJ4R52BKV5JJATVI10QORRXKE01CHHHDXUVWAO4PAJCR4LR5EAG" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDKWSQGZ20TJJ1MWC1ZF33TNSRVMBTXEFJJHUKPMMLIS035GEUCKYD" href="http://dati.senato.it/29196" showAs="ZIN"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 71.87</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4O4IB1J0A3X1DPC13RP3IQ4FUETP02K3HBIVMFKBX1SDZ3ZT1PWF" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCPCK3UJMG1J3P3WLNX4KUSJ3UPH1X1NGFCPQCTHMK0ZRFQOSKSKN" as="#tipoSenatore">PANIZZA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZYJ4R52BKV5JJATVI10QORRXKE01CHHHDXUVWAO4PAJCR4LR5EAG" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKWSQGZ20TJJ1MWC1ZF33TNSRVMBTXEFJJHUKPMMLIS035GEUCKYD" as="#tipoSenatore">ZIN</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 16, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «16-
+					<an:i>bis</an:i>
+					. All'artico 1074, comma 1, del decreto del Presidente della Repubblica 22 dicembre 1986 n. 917, e successive modificazioni e integrazioni, dopo le parole: "i comuni", aggiungere le seguenti parole: "le unioni di comuni,"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
