@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/49.0.11"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="49.0.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/49.0.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCD3EFNBZBK1UOGMHBXUDOMV10N2MUQDQ0V0PIPDESC5F40LMYHHK" href="http://dati.senato.it/29173" showAs="SAGGESE"/>
+				<an:TLCPerson id="IDUSCB5RBV5ODZEZWD54EYX5YCKBGC3J2WQM5PCNLFA0UXITM2IWYD" href="http://dati.senato.it/32307" showAs="Lucia ESPOSITO"/>
+				<an:TLCPerson id="IDSLSIH3X43LZYI1QFM1NFKHW42C0IAY4EEEJ1DFEPIDQCLLAZUJSM" href="http://dati.senato.it/29182" showAs="SOLLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 49.0.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCD3EFNBZBK1UOGMHBXUDOMV10N2MUQDQ0V0PIPDESC5F40LMYHHK" as="#tipoSenatore">SAGGESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUSCB5RBV5ODZEZWD54EYX5YCKBGC3J2WQM5PCNLFA0UXITM2IWYD" as="#tipoSenatore">Lucia ESPOSITO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSLSIH3X43LZYI1QFM1NFKHW42C0IAY4EEEJ1DFEPIDQCLLAZUJSM" as="#tipoSenatore">SOLLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 49-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni in materia di termovalorizzatori presso il comune di Acerra)</an:i>
+				</an:p>
+				<an:p>
+					        1. Una quota degli incentivi di cui alla deliberazione del Comitato interministeriale prezzi n. 6 del 29 aprile 1992, già destinati All'articolo 8-
+					<an:i>bis</an:i>
+					 della legge 14 luglio 2008, n. 123, per i termovalorizzatori previsti nella Regione Campania ed allo stato non realizzati, è utilizzata per elevare a dodici anni la durata degli incentivi previsti in favore dell'impianto localizzato nel comune di Acerra, di cui all'articolo 33, comma 1-
+					<an:i>octies</an:i>
+					, del decreto-legge 31 dicembre 2007, n. 248, convertito con modificazioni dalla legge 28 febbraio 2008, n. 31. Le risorse di competenza della Regione Campania, rivenienti dall'applicazione delle presenti disposizioni, devono essere finalizzate all'attuazione delle azioni previste dal Piano Regionale di Gestione dei Rifiuti Urbani, per conformarsi alla sentenza del 16 luglio 2015 della Corte di Giustizia dell'Unione europea».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
