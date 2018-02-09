@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/50.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/50.2"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/50.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="50.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/50.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPMFCKVCVS4IWHRGVBIFIJZGSJMGNBQISUXTANQN2CL0UP5WKA0KJ" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="ID3YK4ZYMURP3JDLTXAFOGE5VQ2C4OTMVK4BXNLEB3SWNXOYEXSAUE" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDUY5PF04IM1FXFY3Q22UPQJKZTJH3ATRM5XYZGCPRF2SMFLQ0BBTL" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDNJVVCCG1UQJLDEE5ZD3QJ2QG4CMYPNYCU33RKSIUMHTJVKLP01ZN" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="ID2KP2OGOONAHAMG1MA1MI3SG1FWR2UE2404AUUM1KGC5HQSPVJPG" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 50.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPMFCKVCVS4IWHRGVBIFIJZGSJMGNBQISUXTANQN2CL0UP5WKA0KJ" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3YK4ZYMURP3JDLTXAFOGE5VQ2C4OTMVK4BXNLEB3SWNXOYEXSAUE" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUY5PF04IM1FXFY3Q22UPQJKZTJH3ATRM5XYZGCPRF2SMFLQ0BBTL" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNJVVCCG1UQJLDEE5ZD3QJ2QG4CMYPNYCU33RKSIUMHTJVKLP01ZN" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2KP2OGOONAHAMG1MA1MI3SG1FWR2UE2404AUUM1KGC5HQSPVJPG" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Il Ministro dell'ambiente e della tutela del territorio e del mare definisce, con proprio decreto da adottare entro 30 giorni dalla data di entrata in vigore della presente legge, i criteri di priorità per la selezione dei siti con rifiuti radioattivi da ammettere all'erogazione delle risorse del fondo di cui al comma 1, tenendo conto della gravità della situazione e garantendo un'equa distribuzione territoriale. Sul sito istituzionale del Ministero dell'ambiente, entro trenta giorni dall'istituzione del fondo di cui al comma 1, viene istituita, senza nuovi o maggiori oneri a carico della finanza pubblica, apposita sezione dedicata al fondo di cui al comma 1, all'interno della quale sono pubblicati, con cadenza periodica, i dati-relativi ai siti ammessi al finanziamento ed il relativo importo erogato».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
