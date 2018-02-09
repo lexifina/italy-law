@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/65.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/65.11"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/65.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="65.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/65.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNIICIKCYLXUXFSJV2O1NF3TZALVGU3SRVQQ5IPGXOFN3AJT5USHJ" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDVIYDS4OSGXSWDKTJF1BXIAMEVIUE3JTIY04DTQCKVOEUENUJLQVO" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDRCTNR2K1KWPEJERPMDDKI2YR0CVKX4G5CV413IENRBLKB2JPHD1G" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDUR01NVBR1KQXLQZNQ4BTYSCLQDPPAMTGWT5HINIQ3MC3BLCP2UXO" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDLRX2K52OC41OP1W1SQS30QOQMLUADZVO3ZYGJFOSVPOAP02YWLBN" href="http://dati.senato.it/29046" showAs="BERTOROTTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 65.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNIICIKCYLXUXFSJV2O1NF3TZALVGU3SRVQQ5IPGXOFN3AJT5USHJ" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVIYDS4OSGXSWDKTJF1BXIAMEVIUE3JTIY04DTQCKVOEUENUJLQVO" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRCTNR2K1KWPEJERPMDDKI2YR0CVKX4G5CV413IENRBLKB2JPHD1G" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUR01NVBR1KQXLQZNQ4BTYSCLQDPPAMTGWT5HINIQ3MC3BLCP2UXO" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLRX2K52OC41OP1W1SQS30QOQMLUADZVO3ZYGJFOSVPOAP02YWLBN" as="#tipoSenatore">BERTOROTTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. All'articolo 44, comma 3, del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, al primo periodo, le parole: "per il periodo di dodici mesi", sono sostituite dalle seguenti: "per il periodo di 48 mesi"».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 92, comma 1, sostituire le parole:</an:i>
+					 «250 milioni di euro per l'anno 2018 e di 330 milioni di euro annui a decorrere dall'anno 2019», 
+					<an:i>con le seguenti:</an:i>
+					 «150 milioni di euro per l'anno 2018 e di 230 milioni di euro annui a decorrere dall'anno 2019».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
