@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 1075/2018
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201801075
+- Numero di ricorso (NRG): 201800263
+- Data di pubblicazione: 2018-02-19
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2018-01-20
+- Oggetto del ricorso: PREVIA SOSPENSIONE DELL’EFFICACIA ANCHE EX ART.56 DEL CPA, DEI SEGUENTI ATTI: A – DELLA NOTA PROT. N. 30063/2017 DEL 22.12.2017, COMUNICATA A MEZZO PEC IN DATA 3.1.2018 CON CUI IL COMUNE DI CAPRI HA DISPOSTO L’ESCLUSIONE DELLA RICORRENTE DALLA PROCEDURA APERTA PER L’AFFIDAMENTO DEI LAVORI DI SISTEMAZIONE DEL CAMPO DI CALCIO SAN COSTANZO – REALIZZAZIONE TERRENO DI GIOCO IN ERBA SINTETICA;
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
