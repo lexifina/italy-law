@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, sentenza breve n. 2923/2018
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA TER
+- Numero provvedimento: 201802923
+- Numero di ricorso (NRG): 201800504
+- Data di pubblicazione: 2018-03-14
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2018-01-15
+- Oggetto del ricorso: ANNULLAMENTO DEL PROVVEDIMENTO PROT. N. CA/199622 DEL 16 NOVEMBRE 2017 NELLA PARTE IN CUI, IN RISCONTRO ALLA ISTANZA DEI RICORRENTI PER L'OCCUPAZIONE TEMPORANEA DI SUOLO PUBBLICO E CONTESTUALE RIESAME DELLA SCHEDA DI PMO NON ANCORA APPROVATA N. 92 VIA SAN GIOVANNI IN LATERANO(PROT. N. CA/181292), PRESENTATA IN DATA 17 OTTOBRE 2017, SE NE DICHIARA L'IMPROCEDIBILITÀ
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/0929c42a-d6d6-4a08-a565-06065fd5a231/resource/50bb7c95-4dc9-4c07-a08a-d5ecea4ac7e0/download/tar-lazio-roma-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
