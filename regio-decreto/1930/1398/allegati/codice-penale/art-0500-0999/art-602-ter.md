@@ -2,7 +2,7 @@ Art. 602-ter.
 
 (Circostanze aggravanti).
 
-La pena per i reati previsti dagli articoli 600, 601 e 602 e' aumentata da un terzo alla meta':
+La pena per i reati previsti dagli articoli 600, 601 ((primo e secondo comma)) e 602 e' aumentata da un terzo alla meta':
 
 a) se la persona offesa e' minore degli anni diciotto;
 
@@ -22,7 +22,7 @@ Nei casi previsti dagli articoli 600-bis, primo comma, e 600-ter, nonche', se il
 
 Nei casi previsti dagli articoli 600-bis, primo comma, e 600-ter, nonche' dagli articoli 600, 601 e 602, la pena e' aumentata dalla meta' ai due terzi se il fatto e' commesso mediante somministrazione di sostanze alcoliche, narcotiche, stupefacenti o comunque pregiudizievoli per la salute fisica o psichica del minore, ovvero se e' commesso nei confronti di tre o piu' persone.
 
-((Nei casi previsti dagli articoli 600-bis, 600-ter, 600-quater, 600-quater.1. e 600-quinquies, la pena e' aumentata.
+Nei casi previsti dagli articoli 600-bis, 600-ter, 600-quater, 600-quater.1. e 600-quinquies, la pena e' aumentata.
 
 a) se il reato e' commesso da piu' persone riunite;
 
@@ -30,6 +30,6 @@ b) se il reato e' commesso da persona che fa parte di un'associazione per delinq
 
 c) se il reato e' commesso con violenze gravi o se dal fatto deriva al minore, a causa della reiterazione delle condotte, un pregiudizio grave.
 
-Le pene previste per i reati di cui al comma precedente sono aumentate in misura non eccedente i due terzi nei casi in cui gli stessi siano compiuti con l'utilizzo di mezzi atti ad impedire l'identificazione dei dati di accesso alle reti telematiche.))
+Le pene previste per i reati di cui al comma precedente sono aumentate in misura non eccedente i due terzi nei casi in cui gli stessi siano compiuti con l'utilizzo di mezzi atti ad impedire l'identificazione dei dati di accesso alle reti telematiche.
 
 Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con le circostanze aggravanti di cui alla presente sezione, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' della stessa risultante dall'aumento conseguente alle predette aggravanti.
