@@ -16,7 +16,7 @@ delitti previsti dal capo I dei titolo II del libro II del codice penale, esclus
 
 c)
 
-delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, ((433-bis, secondo comma,)) 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600-sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater e 644 del codice penale;
+delitti previsti dagli articoli 416, 416-bis, 416-ter, 420, terzo comma, 429, secondo comma, 431, secondo comma, 432, terzo comma, 433, terzo comma, 433-bis, secondo comma, 440, 449, secondo comma, 452, primo comma, numero 2, 513- bis, 564, da 600-bis a 600-sexies puniti con reclusione non inferiore nel massimo a cinque anni, 609-bis, 609-quater e 644 del codice penale;
 
 d)
 
@@ -48,7 +48,7 @@ delitti previsti dall'articolo 291-quater del testo unico approvato con decreto 
 
 l)
 
-delitto previsto dall'articolo 18 della legge 22 maggio 1978, n. 194, in materia di interruzione volontaria della gravidanza;
+delitto previsto dall'articolo 593-ter del codice penale;
 
 m)
 
@@ -60,7 +60,7 @@ delitto previsto dall'articolo 29 secondo comma, della legge 13 settembre 1982, 
 
 o)
 
-delitto previsto dall'articolo 12-quinquies, comma 1, del decreto- legge 8 giugno 1992, n. 306, convertito, con modificazioni, dalla legge 7 agosto 1992, n. 356, in materia di trasferimento fraudolento di valori;
+delitto previsto dall'articolo 512-bis del codice penale;
 
 p)
 
