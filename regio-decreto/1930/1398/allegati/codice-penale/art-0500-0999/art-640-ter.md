@@ -6,6 +6,6 @@ Chiunque, alterando in qualsiasi modo il funzionamento di un sistema informatico
 
 La pena e' della reclusione da uno a cinque anni e della multa da lire seicentomila a tre milioni se ricorre una delle circostanze previste dal numero 1) del secondo comma dell'articolo 640, ovvero se il fatto e' commesso con abuso della qualita' di operatore del sistema.
 
-((La pena e' della reclusione da due a sei anni e della multa da euro 600 a euro 3.000 se il fatto e' commesso con furto o indebito utilizzo dell'identita' digitale in danno di uno o piu' soggetti.))
+La pena e' della reclusione da due a sei anni e della multa da euro 600 a euro 3.000 se il fatto e' commesso con furto o indebito utilizzo dell'identita' digitale in danno di uno o piu' soggetti.
 
-Il delitto e' punibile a querela della persona offesa, salvo che ricorra taluna delle circostanze di cui al secondo ((e terzo)) comma o un'altra circostanza aggravante.
+Il delitto e' punibile a querela della persona offesa, salvo che ricorra taluna delle circostanze di cui al secondo e terzo comma o ((taluna delle circostanze previste dall'articolo 61, primo comma, numero 5, limitatamente all'aver approfittato di circostanze di persona, anche in riferimento all'eta', e numero 7)).
