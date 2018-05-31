@@ -1,0 +1,13 @@
+# Massima n. 41257
+
+- Pronuncia: Corte costituzionale, sentenza 115/2018 (ECLI:IT:COST:2018:115)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2018:115
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Principio di legalità in materia penale - Riconducibilità ad esso degli istituti che incidono sulla punibilità della persona in connessione al decorso del tempo - Necessità per l'individuo di conoscere in anticipo le conseguenze della sua condotta.
+
+## Testo
+
+Un istituto che incide sulla punibilità della persona, riconnettendo al decorso del tempo l'effetto di impedire l'applicazione della pena, nel nostro ordinamento giuridico rientra nell'alveo costituzionale del principio di legalità penale sostanziale enunciato dall'art. 25, secondo comma, Cost. con formula di particolare ampiezza. La necessità che le scelte di diritto penale sostanziale permettano all'individuo di conoscere in anticipo le conseguenze della sua condotta, in base al testo della disposizione rilevante, e, se del caso, con l'aiuto dell'interpretazione che ne sia stata fatta dai giudici, avvalora, perlomeno nei paesi di tradizione continentale e certamente in Italia, l'imprescindibile imperativo che simili scelte si incarnino in testi legislativi offerti alla conoscenza dei consociati, rispetto a cui l'ausilio interpretativo del giudice penale non è che un posterius incaricato di scrutare nelle eventuali zone d'ombra, individuando il significato corretto della disposizione nell'arco delle sole opzioni che il testo autorizza e che la persona può raffigurarsi leggendolo. ( Precedente citato: sentenza n. 327 del 2008 ). Se è vero che anche la più certa delle leggi ha bisogno di "letture" ed interpretazioni sistematiche, resta fermo che esse non possono surrogarsi integralmente alla praevia lex scripta, con cui si intende garantire alle persone la sicurezza giuridica delle consentite libere scelte d'azione. ( Precedente citato: sentenza n. 364 del 1988 ). Il principio di determinatezza ha una duplice direzione, perché non si limita a garantire, nei riguardi del giudice, la conformità alla legge dell'attività giurisdizionale mediante la produzione di regole adeguatamente definite per essere applicate, ma assicura a chiunque una percezione sufficientemente chiara ed immediata dei possibili profili di illiceità penale della propria condotta. ( Precedenti citati: sentenze n. 327 del 2008, n. 5 del 2004 e n. 185 del 1992 ).
