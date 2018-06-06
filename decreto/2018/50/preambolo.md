@@ -1,0 +1,29 @@
+IL MINISTRO DELLA SALUTE
+
+Vista la direttiva 2011/24/UE del Parlamento europeo e del Consiglio del 9 marzo 2011 concernente l'applicazione dei diritti dei pazienti relativi all'assistenza sanitaria transfrontaliera che all'articolo 8 stabilisce la possibilita' di prevedere, da parte dello Stato membro di affiliazione, un sistema di autorizzazione preventiva per alcune prestazioni di assistenza sanitaria, comprendendo fra queste le prestazioni che richiedono il ricovero del paziente per almeno una notte o l'utilizzo di un'infrastruttura sanitaria o di apparecchiature mediche altamente specializzate e costose;
+
+Visto il decreto legislativo 4 marzo 2014, n. 38, recante «Attuazione della direttiva 2011/24/UE concernente l'applicazione dei diritti dei pazienti relativi all'assistenza sanitaria transfrontaliera, nonche' della direttiva 2012/52/UE, comportante misure destinate ad agevolare il riconoscimento delle ricette mediche emesse in un altro stato membro», e, in particolare, all'articolo 9, comma 2, lettera a), che individua i casi in cui l'assistenza sanitaria transfrontaliera e' sottoposta ad autorizzazione preventiva per esigenze di pianificazione riguardanti l'obiettivo di assicurare, nel territorio nazionale, la possibilita' di un accesso sufficiente e permanente ad una gamma equilibrata di cure di elevata qualita' o la volonta' di garantire il controllo dei costi e di evitare, per quanto possibile, ogni spreco di risorse finanziarie, tecniche e umane e comporta il ricovero del paziente in questione per almeno una notte o richiede l'utilizzo di un'infrastruttura sanitaria o di apparecchiature mediche altamente specializzate e costose, comprese quelle utilizzate nella diagnostica strumentale;
+
+Visto in particolare l'articolo 9, comma 8, del citato decreto legislativo 4 marzo 2014, n. 38, il quale prevede che con decreto del Ministro della salute, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, sono individuate le prestazioni sottoposte ad autorizzazione preventiva, con i criteri indicati dal medesimo articolo 9, comma 2, lettera a), e le modalita' per l'aggiornamento delle stesse;
+
+Visto il decreto del Ministro della salute 22 aprile 2014, recante «Istituzione del flusso informativo per il monitoraggio delle grandi apparecchiature sanitarie in uso presso le strutture sanitarie pubbliche, private accreditate e private non accreditate», che consente al Ministero della salute, di censire tali apparecchiature e di identificarle con lo specifico codice della Classificazione Nazionale dei Dispositivi medici (CND), pubblicato nella Gazzetta Ufficiale 14 maggio 2014, n. 110;
+
+Visto il decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, recante «Definizione e aggiornamento dei livelli essenziali di assistenza, di cui all'articolo 1, comma 7, del decreto legislativo 30 dicembre 1992, n. 502», che include tra le prestazioni erogabili a carico del Servizio sanitario nazionale, tra le altre, le prestazioni ospedaliere e le prestazioni di assistenza specialistica ambulatoriale, pubblicato nella Gazzetta Ufficiale 18 marzo 2017, n. 65;
+
+Ritenuto che gli interventi di day surgery debbano essere sottoposti ad autorizzazione preventiva, considerando la sala operatoria una infrastruttura sanitaria altamente specializzata e costosa di cui all'articolo 9, comma 2, lettera a), punto 2, del decreto legislativo 4 marzo 2014, n. 38, e tenendo conto delle prestazioni di day surgery individuate all'interno dell'allegato 6A del decreto del Presidente del Consiglio dei ministri 12 gennaio 2017, e che, per lo stesso motivo, debbano essere sottoposte ad autorizzazione preventiva anche le prestazioni di chirurgia ambulatoriale da erogare in ambulatorio H o HR, ossia in ambito ospedaliero anche con regolamentazione regionale, come individuate all'interno dell'allegato 4 e dell'allegato 6B del citato decreto del Presidente del Consiglio dei ministri 12 gennaio 2017;
+
+Ritenuto di sottoporre ad autorizzazione preventiva anche le prestazioni ambulatoriali terapeutiche o di diagnostica strumentale che richiedono l'utilizzo di infrastrutture sanitarie o di apparecchiature mediche altamente specializzate e costose, quali quelle impiegate per la risonanza magnetica nucleare (RM), la tomografia computerizzata (TC), la radioterapia e la medicina nucleare, individuate all'interno dell'elenco delle prestazioni di cui all'allegato 4 e dell'allegato 6B del citato decreto del Presidente del Consiglio dei ministri 12 gennaio 2017 di aggiornamento dei livelli essenziali di assistenza;
+
+Considerato che ai sensi dell'articolo 9, comma 8, del citato decreto legislativo 4 marzo 2014, n. 38, le regioni e le Province autonome di Trento e di Bolzano hanno la facolta' di sottoporre ad autorizzazione preventiva ulteriori prestazioni nel rispetto delle condizioni di cui al comma 2, lettera a), del medesimo articolo;
+
+Visto l'articolo 7 del citato decreto legislativo 4 marzo 2014, n. 38, che istituisce presso il Ministero della salute il Punto di contatto nazionale per l'assistenza sanitaria transfrontaliera;
+
+Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+Acquisita l'intesa, sancita dalla Conferenza permanente tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano nella seduta del 14 dicembre 2017 (Rep. Atti n. 228/CSR);
+
+Udito il parere del Consiglio di Stato espresso dalla Sezione consultiva per gli atti normativi nell'adunanza del 18 gennaio 2018;
+
+Vista la comunicazione al Presidente del Consiglio dei ministri ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e successive modificazioni, effettuata con nota dell'Ufficio legislativo prot. n. 686 del 12 febbraio 2018;
+
+Adotta il seguente regolamento:
