@@ -1,0 +1,23 @@
+# Massima n. 40506
+
+- Pronuncia: Corte costituzionale, sentenza 120/2018 (ECLI:IT:COST:2018:120)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2018:120
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Militari - Divieto di costituire associazioni professionali a carattere sindacale o di aderire ad altre associazioni sindacali - Incompatibilità del primo divieto e non del secondo con la libertà di associazione garantita dalla CEDU e dalla Carta sociale europea - Conseguente riconoscimento ai militari del diritto di costituire tra di loro associazioni sindacali - Necessaria previsione di condizioni e limiti all'esercizio di tale diritto e all'azione sindacale - Applicabilità a tal fine di disposizioni già presenti (tra cui il divieto di sciopero per i militari) - Illegittimità costituzionale parziale.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo - per violazione dell'art. 117, primo comma, Cost., in relazione all'art. 11 della CEDU e all'art. 5 della Carta sociale europea - l'art. 1475, comma 2, del d.lgs. n. 66 del 2010, in quanto prevede che "I militari non possono costituire associazioni professionali a carattere sindacale o aderire ad altre associazioni sindacali" invece di prevedere che "I militari possono costituire associazioni professionali a carattere sindacale alle condizioni e con i limiti fissati dalla legge; non possono aderire ad altre associazioni sindacali". La disposizione censurata dal Consiglio di Stato e dal TAR Veneto, nella parte in cui vieta la costituzione di associazioni professionali a carattere sindacale da parte dei militari, non è compatibile con gli evocati parametri interposti, poiché essi riconoscono agli Stati contraenti la facoltà di introdurre restrizioni all'esercizio dei diritti sindacali dei militari, ma non di negare in radice il diritto di costituire associazioni a carattere sindacale. Al contrario, il divieto, dalla stessa disposizione previsto, di aderire ad "altre associazioni sindacali" - dal quale consegue la necessità che le associazioni in questione siano composte solo da militari e non possano aderire ad associazioni diverse - è compatibile sia con le menzionate norme internazionali, in quanto non comporta il venir meno di un elemento essenziale della libertà di associazione, sia con i principi costituzionali, atteso che le specificità dell'ordinamento militare giustificano l'esclusione di forme associative ritenute non rispondenti alle esigenze di compattezza ed unità degli organismi che tale ordinamento compongono. La corretta attuazione della disciplina costituzionale della materia esige peraltro che il riconoscimento ai militari del diritto di associazione sindacale sia accompagnato dalla previsione di condizioni e limiti al suo esercizio, al qual fine possono già trovare applicazione, quanto alla costituzione delle associazioni sindacali, l'art. 1475, comma 1, del d.lgs. n. 66 del 2010, alla cui stregua gli statuti delle associazioni vanno sottoposti agli organi competenti e vagliati verificandone la conformità ai principi di democraticità dell'ordinamento delle Forze armate (art. 52 Cost.) e di neutralità dei Corpi deputati alla difesa della Patria (artt. 97 e 98 Cost.); e, quanto ai limiti dell'azione sindacale, il divieto per i militari di esercizio del diritto di sciopero (art. 40 Cost.). Con riguardo agli ulteriori limiti, è invece indispensabile una specifica disciplina legislativa, in attesa della quale il vuoto normativo può essere colmato con la disciplina dettata per i diversi organismi della rappresentanza militare e in particolare con le disposizioni (art. 1478, comma 7, cod. ord. militare) che escludono dalla loro competenza "le materie concernenti l'ordinamento, l'addestramento, le operazioni, il settore logistico-operativo, il rapporto gerarchico-funzionale e l'impiego del personale", e che costituiscono, allo stato, adeguata garanzia dei valori e degli interessi richiamati. ( Precedenti citati: sentenze n. 449 del 1999, n. 278 del 1987 e n. 126 del 1985, sulla assoluta specialità della funzione militare e sulla limitazione dei diritti dei militari; sentenza n. 31 del 1969, sull'ammissibilità di limiti soggettivi al diritto di sciopero ).
+
+## Norme
+
+- decreto legislativo, 15/03/2010 n. 66, art. 1475, comma 2
+
+## Parametri
+
+- Costituzione, art. 117, comma 1
+- Carta sociale europea, art. 5
+- Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, art. 11
