@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/435/C/01.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/435/C/01.19"/>
+					<an:FRBRdate date="2018-06-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/435/C/01.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="01.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@"/>
+					<an:FRBRdate date="2018-06-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@.akn"/>
+					<an:FRBRdate date="2018-06-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-06-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-06-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/435/C/01.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/435" showAs="DDL 435"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissione speciale per l'esame degli atti urgenti presentati dal Governo" href="/dati.senato.it/osr/Commissione/74"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3AIZ5GSOVMT5KOU1DJ3M4I20BIGBYEA0V4Z3UKL1WWXHL4ZAGIFG" href="http://dati.senato.it/32704" showAs="ROMAGNOLI"/>
+				<an:TLCPerson id="IDEWGGRWZTT5PQGLAKNJK2SFHFEEMJGSCGRJNYYBK0SNQYP14OETIB" href="http://dati.senato.it/29123" showAs="LUCIDI"/>
+				<an:TLCPerson id="ID13RAPZX14VHOODBHRNWUY3FIO4DEN3MLPHQGPBOY2A0DCYCIUXK" href="http://dati.senato.it/32619" showAs="DI GIROLAMO"/>
+				<an:TLCPerson id="IDZ1TANWXUDRBMLPLZXSPGBRTDUIDY2230XRJKU3JE5RAOJQO14HVH" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 435</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 01.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3AIZ5GSOVMT5KOU1DJ3M4I20BIGBYEA0V4Z3UKL1WWXHL4ZAGIFG" as="#tipoSenatore">ROMAGNOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEWGGRWZTT5PQGLAKNJK2SFHFEEMJGSCGRJNYYBK0SNQYP14OETIB" as="#tipoSenatore">LUCIDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID13RAPZX14VHOODBHRNWUY3FIO4DEN3MLPHQGPBOY2A0DCYCIUXK" as="#tipoSenatore">DI GIROLAMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ1TANWXUDRBMLPLZXSPGBRTDUIDY2230XRJKU3JE5RAOJQO14HVH" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'articolo, premettere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 01.</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Indennità, di occupazione di suolo pubblico)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 6 del decreto-legge 17 ottobre 2016, n. 189, convertito con modificazioni dalla legge 15 dicembre 2016, n. 229, dopo il comma 8, è inserito il seguente:</an:p>
+				<an:p>
+					        "8-
+					<an:i>bis</an:i>
+					. Le spese sostenute per tributi o canoni di qualsiasi tipo, dovuti per l'occupazione di suolo pubblico determinata dagli interventi di ricostruzione, sono inserite nel quadro economico relativo alla richiesta di contributo".
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
