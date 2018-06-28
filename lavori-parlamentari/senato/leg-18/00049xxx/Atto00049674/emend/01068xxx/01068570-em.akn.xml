@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/435/A/G1.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/435/A/G1.4"/>
+					<an:FRBRdate date="2018-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/435/A/G1.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@"/>
+					<an:FRBRdate date="2018-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@.akn"/>
+					<an:FRBRdate date="2018-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-06-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-06-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/435/A/G1.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/435" showAs="DDL 435"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDD44A4QJJFIAWB3MLNKENNGLQ5JQII1VB15EGK5LT0420SDWF5H3O" href="http://dati.senato.it/32704" showAs="ROMAGNOLI"/>
+				<an:TLCPerson id="ID0QZY3MJEBKBVJYT5EE1AWCT1RDOU3NGT11DRKMIVPGLASWRPFXKI" href="http://dati.senato.it/32629" showAs="FEDE"/>
+				<an:TLCPerson id="IDEFMYL3NFPIQZF22MQVXVMKGSMP0LNO4SISVDD3LFRHAXTMD1RWUC" href="http://dati.senato.it/32604" showAs="COLTORTI"/>
+				<an:TLCPerson id="ID0HGUPE35KENFHUXZCFJC2P3DPJF5NLJYSRNS1NN4VPMADHC1U04C" href="http://dati.senato.it/32619" showAs="DI GIROLAMO"/>
+				<an:TLCPerson id="ID1BLWW5APOS4QPRDWEYWKRAFXMJTXY5VXZKT1GHKXOSYCVSVXO0KL" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 435</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD44A4QJJFIAWB3MLNKENNGLQ5JQII1VB15EGK5LT0420SDWF5H3O" as="#tipoSenatore">ROMAGNOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0QZY3MJEBKBVJYT5EE1AWCT1RDOU3NGT11DRKMIVPGLASWRPFXKI" as="#tipoSenatore">FEDE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEFMYL3NFPIQZF22MQVXVMKGSMP0LNO4SISVDD3LFRHAXTMD1RWUC" as="#tipoSenatore">COLTORTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0HGUPE35KENFHUXZCFJC2P3DPJF5NLJYSRNS1NN4VPMADHC1U04C" as="#tipoSenatore">DI GIROLAMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1BLWW5APOS4QPRDWEYWKRAFXMJTXY5VXZKT1GHKXOSYCVSVXO0KL" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge AS 435 Conversione in legge del decreto-legge 29 maggio 2018, n. 55, recante Ulteriori misure urgenti a favore delle popolazioni dei territori delle Regioni Abruzzo, Lazio, Marche ed Umbria, interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il provvedimento in esame intende ampliare la natura e la portata degli interventi in favore delle popolazioni residenti nelle Regioni del centro Italia colpite dagli eventi sismici verificatisi a partire dal 24 agosto 2016;</an:p>
+				<an:p>            con il decreto della Presidenza del Consiglio dei ministri del 13 febbraio 2001 sono stati adottati i criteri di massima per l'organizzazione dei soccorsi sanitari nelle catastrofi, criteri che sanciscono la necessità di offrire supporto psicologico sia a poche ore dall'evento che nei mesi successivi;</an:p>
+				<an:p>            la psicologia di emergenza ha conquistato sempre più spazio all'interno degli enti e delle organizzazioni che operano nell'ambito del soccorso fino a diventare un principio stabile nella programmazione degli interventi;</an:p>
+				<an:p>            con la direttiva del Presidente del Consiglio dei ministri del 13 giugno 2006 recante «Criteri di massima sugli interventi psico-sociali da attuare nelle catastrofi» è stata confermata la necessità di prestare la massima attenzione ai problemi di ordine psichiatrico e psicologico che possono manifestarsi sulle popolazioni colpite e sui loro soccorritori. Questi infatti possono palesarsi in fase acuta o evolversi in modo subdolo con ripercussioni anche nel lungo periodo;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            le tematiche sanitarie che devono essere affrontate nella pianificazione e nella gestione dell'emergenza e della post emergenza sono molteplici, anche se comunemente ci si limita a considerare solo la medicina d'emergenza. L'intervento sanitario a seguito di un evento calamitoso, quale quello che ha interessato per diversi mesi le Regioni del centro Italia, deve invece far fronte ad una complessa rete di problemi per i quali è necessaria la programmazione ed il coordinamento di molteplici attività all'interno della quale non può essere trascurata quella fondamentale dell'assistenza psicologica,</an:p>
+				<an:p>        impegna il Governo a porre in essere tutte le iniziative necessarie a potenziare e sostenere i percorsi di assistenza psicologica in favore delle popolazioni residenti nelle Regioni del centro Italia colpite dagli eventi sismici verificatisi a partire dal 24 agosto 2016, favorendo sia interventi di tipo collettivo, volti a coinvolgere le comunità locali, che mantenendo e rafforzando i servizi di sostegno psicologico clinico individuale e familiare.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
