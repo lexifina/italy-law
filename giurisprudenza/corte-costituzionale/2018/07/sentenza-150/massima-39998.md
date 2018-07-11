@@ -1,0 +1,21 @@
+# Massima n. 39998
+
+- Pronuncia: Corte costituzionale, sentenza 150/2018 (ECLI:IT:COST:2018:150)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2018:150
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione Calabria - Misura di salvaguardia in pendenza dell'approvazione del nuovo piano regionale di gestione dei rifiuti - Sospensione, per il periodo di un anno, del rilascio di autorizzazioni di deposito di rifiuti e dei procedimenti di valutazione ambientale e di autorizzazione relativi al deposito degli stessi - Denunciata violazione della competenza esclusiva statale in materia di tutela dell'ambiente - Insussistenza - Non fondatezza della questione.
+
+## Testo
+
+È dichiarata non fondata la questione di legittimità costituzionale - sollevata dal TAR Calabria in riferimento all'art. 117, secondo comma, lett. s), Cost. - dell'art. 1 della legge reg. Calabria n. 8 del 2016, che prevede la sospensione, per il termine massimo di un anno, dei procedimenti autorizzativi (e dei sub-procedimenti) riferiti alla VIA e all'AIA relativi a nuovi impianti di smaltimento o trattamento dei rifiuti, nelle more dell'approvazione del nuovo piano regionale di gestione. La disposizione censurata - che presenta il contenuto tipico di una "misura di salvaguardia", introducendo una misura di carattere eccezionale e temporaneo, coessenziale alla propria natura cautelare - è esercizio del potere attribuito alle Regioni dal codice dell'ambiente (artt. 199 e 200 del d.lgs. n. 152 del 2006), e si collega alla distribuzione nel territorio degli impianti di trattamento dei rifiuti, nella prospettiva dell'imminente approvazione del nuovo piano, e pertanto nella sospensione non è ravvisabile una deroga in pejus dei termini massimi stabiliti per la durata dei procedimenti autorizzativi. Perseguendo finalità di cura del territorio in relazione alle esigenze di contrasto all'emergenza dei rifiuti, la norma impugnata risponde ad interessi funzionalmente collegati con la tutela ambientale, essendo la sospensione - dalla durata ragionevole - unicamente finalizzata a mantenere la situazione esistente, impedendo che prima dell'adozione del nuovo piano, necessariamente ispirato a criteri che preservano l'integrità dell'ambiente, siano adottati provvedimenti che possano invece nuocervi. La tutela dell'ambiente così perseguita non solo è immune da effetti peggiorativi, ma appare al contrario rafforzata. Per costante giurisprudenza costituzionale, la disciplina dei rifiuti attiene alla materia "tutela dell'ambiente e dell'ecosistema", riservata, in base all'art. 117, secondo comma, lett.  s ), Cost., alla competenza esclusiva dello Stato; tuttavia, non è possibile identificare una "materia" in senso tecnico qualificabile come "tutela dell'ambiente", dal momento che non sembra configurabile come sfera di competenza statale rigorosamente circoscritta e delimitata, investendo e intrecciandosi inestricabilmente con altri interessi e competenze, le quali ben possono essere regionali o concorrenti, spettando alla competenza esclusiva dello Stato le determinazioni che rispondono ad esigenze meritevoli di disciplina uniforme sull'intero territorio nazionale, che costituisce un limite per gli interventi normativi delle Regioni e delle Province autonome. ( Precedenti citati: sentenze n. 77 del 2017, n. 244   del 2016, n. 154   del 2016, n. 101 del 2016, n. 180 del 2015, n. 58 del 2015, n. 67 del 2014, n. 54 del 2012 n. 314 del 2009, n. 244 del 2011, n. 249 del 2009 e n. 407 del 2002).  La localizzazione degli impianti di smaltimento dei rifiuti, quantunque adottata in conformità ai criteri tecnici fondamentali stabiliti dagli organi statali, costituisce esercizio, da parte delle Regioni, di una competenza legislativa loro propria, sia pure concorrente con quella statale, attenendo al "governo del territorio". ( Precedente citato: sentenza n. 314 del 2009 ).
+
+## Norme
+
+- legge della Regione Calabria, 19/02/2016 n. 8, art. 1
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
