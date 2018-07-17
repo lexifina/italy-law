@@ -1,0 +1,27 @@
+Allegato XIII
+
+(art. 9, commi 2 e 5)
+
+Valori obiettivo per arsenico, cadmio, nichel e benzo(a)pirene.
+
+Inquinante
+
+Valore obiettivo (1)
+
+Arsenico
+
+6,0 ng/m3
+
+Cadmio
+
+5,0 ng/m3
+
+Nichel
+
+20,0 ng/m3
+
+Benzo(a)pirene
+
+1,0 ng/m3
+
+(1) Il valore obiettivo e' riferito al tenore totale di ciascun inquinante presente nella frazione PM10 del materiale particolato, calcolato come media su un anno civile.
