@@ -1,0 +1,22 @@
+# Massima n. 40102
+
+- Pronuncia: Corte costituzionale, sentenza 166/2018 (ECLI:IT:COST:2018:166)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2018:166
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Assistenza e solidarietà sociale - Fondo nazionale per il sostegno all'accesso alle abitazioni in locazione - Requisiti minimi necessari per beneficiare dei contributi integrativi previsti - Previsione, per i soli stranieri immigrati, del possesso del certificato storico di residenza da almeno dieci anni nel territorio nazionale ovvero da almeno cinque anni nella medesima Regione - Irragionevole discriminazione tra stranieri immigrati e cittadini italiani e comunitari - Irragionevole correlazione tra accesso al beneficio e permanenza territoriale - Illegittimità costituzionale.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo - per violazione dell'art. 3 Cost. - l'art. 11, comma 13, del d.l. n. 112 del 2008, conv., con modif., nella legge n. 133 del 2008. La norma censurata dalla Corte d'appello di Milano, richiedendo - per l'erogazione del contributo integrativo per il sostegno all'accesso alle abitazioni in locazione - i requisiti ulteriori del possesso del certificato storico di residenza da almeno dieci anni nel territorio nazionale ovvero da almeno cinque anni nella medesima Regione ai soli immigrati (cioè ai soli cittadini di Stati non appartenenti all'UE e agli apolidi), introduce una irragionevole discriminazione a loro danno, sia perché i termini indicati costituiscono una durata palesemente irragionevole e arbitraria, oltre che non rispettosa dei vincoli europei, sia per l'irrazionalità intrinseca del termine di dieci anni di residenza sul territorio nazionale, che coincide con quello necessario e sufficiente a richiedere la cittadinanza italiana. Anche il termine di cinque anni nel territorio regionale risulta palesemente irragionevole e sproporzionato, considerato che i fondi sono stati istituiti anche per favorire la mobilità nel settore della locazione. Infine, non si può ravvisare alcuna ragionevole correlazione tra il soddisfacimento dei bisogni abitativi primari della persona che versi in condizioni di povertà e sia insediata nel territorio regionale, e la lunga protrazione nel tempo di tale radicamento territoriale. Resta ferma la possibilità che il legislatore individui altri indici di radicamento territoriale e sociale a cui subordinare l'erogazione in esame, nei limiti imposti dal principio di non discriminazione e di ragionevolezza, come sopra enunciati. ( Precedenti citati: sentenze n. 106 del 2018, n. 222 del 2013, n. 329 del 2011 ,  n. 40 del 2011 e n. 187 del 2010 ). Secondo la giurisprudenza costituzionale, il legislatore può legittimamente circoscrivere la platea dei beneficiari delle prestazioni sociali in ragione della limitatezza delle risorse destinate al loro finanziamento, purché rispetti gli obblighi europei, che esigono la parità di trattamento tra i cittadini italiani ed europei e i soggiornanti di lungo periodo; il principio di ragionevolezza; e purché la distinzione non si traduca mai nell'esclusione del non cittadino dal godimento dei diritti fondamentali che attengono ai «bisogni primari» della persona, indifferenziabili e indilazionabili, riconosciuti invece ai cittadini. ( Precedenti citati: sentenze n. 107 del 2018, n. 230 del 2015, n. 22 del 2015, n. 172 del 2013, n. 133 del 2013, n. 40 del 2013, n. 2 del 2013, n. 187 del 2010, n. 306 del 2008 e n. 432 del 2005 ). Ogni norma che imponga distinzioni di varie categorie di persone in ragione della cittadinanza e delle residenza per regolare l'accesso alle prestazioni sociali deve pur sempre rispondere al principio di ragionevolezza, che può ritenersi rispettato solo qualora esista una causa normativa della differenziazione - quale, in astratto, un titolo che dimostri il carattere non episodico o di breve durata della permanenza sul territorio dello Stato - che sia giustificata da una ragionevole correlazione tra la condizione cui è subordinata l'attribuzione del beneficio e gli altri peculiari requisiti che ne condizionano il riconoscimento e ne definiscono la ratio .  ( Precedenti citati: sentenze n. 107 del 2018 e n. 133 del 2013 ).
+
+## Norme
+
+- decreto-legge, 25/06/2008 n. 112, art. 11, comma 13
+- legge, 06/08/2008 n. 133
+
+## Parametri
+
+- Costituzione, art. 3
