@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717/C/1.38/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717/C/1.38"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/717/C/1.38/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.38"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@.akn"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-08-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-08-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/717/C/1.38/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/717" showAs="DDL 717"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGPK4A01OMC01J2UUYSJGBZCNEDRYXYVFMIV1QUHZAJLT45XTHCXI" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID1AJQHAA5M5C4EAEU4X3PKIMRXNA513EE2D3LFPJOHUZ3FNYWDIYM" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDMHLTVY2SXBJONA3XX5YU4DX3BCUZZOAE4NGRZPJMHXKG4WNBWUYD" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDKE1IDA4LZIPHDGYX0NHGOO0L1PVAKVYJLRLNXNMQUC1KSTPSUCAI" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 717</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.38</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGPK4A01OMC01J2UUYSJGBZCNEDRYXYVFMIV1QUHZAJLT45XTHCXI" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1AJQHAA5M5C4EAEU4X3PKIMRXNA513EE2D3LFPJOHUZ3FNYWDIYM" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMHLTVY2SXBJONA3XX5YU4DX3BCUZZOAE4NGRZPJMHXKG4WNBWUYD" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKE1IDA4LZIPHDGYX0NHGOO0L1PVAKVYJLRLNXNMQUC1KSTPSUCAI" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2
+					<an:i>-bis</an:i>
+					. Il termine del 30 settembre di cui al punto 1, ultimo periodo, dell'allegato 4/4 al decreto legislativo 23 giugno 2011, n. 118, e successive modificazioni, relativo alla deliberazione del bilancio consolidato di un'amministrazione pubblica, non si applica per l'anno 2018, con riferimento al bilancio consolidato dell'esercizio 2017, ai comuni con popolazione inferiore a 5 mila abitanti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
