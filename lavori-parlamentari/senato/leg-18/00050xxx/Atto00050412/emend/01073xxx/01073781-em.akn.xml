@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/4.0.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/4.0.6"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/741/A/4.0.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.0.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@.akn"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-08-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-08-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/741/A/4.0.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/741" showAs="DDL 741"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPVYIKMSCQUGTH1FVSKUJSPJNQFMENJEKYE02GWJ3G33ZMEO1XVIP" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDB5T1G3GG2IAGLLB3JHYCQJILOBTQKXGZNG00Q4NPNH4GRF11QTHM" href="http://dati.senato.it/31009" showAs="BERTACCO"/>
+				<an:TLCPerson id="IDYCJIWYBWMZYZIJX13CQVFLH1UJT2EBSIJKGSBZPDGBJM30JIQNK" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+				<an:TLCPerson id="IDD2MEKYCD5YFGMY1KV4BLPVUA1JXMSJFVRJAROFIJQYLGZUYB22O" href="http://dati.senato.it/32645" showAs="IANNONE"/>
+				<an:TLCPerson id="ID4RSY3G35UC5QCQRVZDFTOLAUZMV4YEHKPV3ZLAOZAYFUKIR4LENG" href="http://dati.senato.it/32650" showAs="LA PIETRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 741</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.0.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPVYIKMSCQUGTH1FVSKUJSPJNQFMENJEKYE02GWJ3G33ZMEO1XVIP" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB5T1G3GG2IAGLLB3JHYCQJILOBTQKXGZNG00Q4NPNH4GRF11QTHM" as="#tipoSenatore">BERTACCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYCJIWYBWMZYZIJX13CQVFLH1UJT2EBSIJKGSBZPDGBJM30JIQNK" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD2MEKYCD5YFGMY1KV4BLPVUA1JXMSJFVRJAROFIJQYLGZUYB22O" as="#tipoSenatore">IANNONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4RSY3G35UC5QCQRVZDFTOLAUZMV4YEHKPV3ZLAOZAYFUKIR4LENG" as="#tipoSenatore">LA PIETRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">«Art. 4.1.</an:p>
+				<an:p>        1. Il Governo è delegato ad adottare, entro sessanta giorni dalla data di entrata in vigore del presente decreto, su proposta del Ministro delle infrastrutture e dei trasporti, uno o più decreti legislativi contenenti disposizioni di modifica del codice dei contratti pubblici di cui al decreto legislativo 18 aprile 2016, n. 50, al fine di abrogare il "minor prezzo" tra i criteri di aggiudicazione degli appalti».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
