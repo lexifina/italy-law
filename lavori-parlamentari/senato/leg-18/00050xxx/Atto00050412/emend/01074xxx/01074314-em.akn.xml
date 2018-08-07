@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/G11.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/G11.8"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/741/A/G11.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G11.8"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@.akn"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-08-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-08-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/741/A/G11.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/741" showAs="DDL 741"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKMALQXLM4RUANXDGV1ZY3VMH0PAHVC2RKWGN1IN1C5UNAN2DRNYL" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="ID1ISEHBOAL5Z4RHOPZBEVHGZ5IOCF5ILLYD0RHMXG4HKFQMO2URN" href="http://dati.senato.it/31009" showAs="BERTACCO"/>
+				<an:TLCPerson id="IDZA1OBDWXCV0IPLI1GUHIMIBNBBVDCIAPZDHYW2PFEEY354HYA5SH" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 741</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G11.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKMALQXLM4RUANXDGV1ZY3VMH0PAHVC2RKWGN1IN1C5UNAN2DRNYL" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1ISEHBOAL5Z4RHOPZBEVHGZ5IOCF5ILLYD0RHMXG4HKFQMO2URN" as="#tipoSenatore">BERTACCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZA1OBDWXCV0IPLI1GUHIMIBNBBVDCIAPZDHYW2PFEEY354HYA5SH" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del disegno di legge n. 741 di conversione in legge del decreto-legge 12 luglio 2018, n.87, recante disposizioni urgenti per la dignità dei lavoratori e delle imprese,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            con il provvedimento in esame si introducono una serie di misure volte a favorire la semplificazione fiscale;</an:p>
+				<an:p>            l'articolo 11, in particolare, reca disposizioni sulla trasmissione dei dati delle fatture emesse e ricevute da parte dei soggetti passivi IVA, fissando - al comma 2 - termini specifici per l'invio relativo al 1° e al 2° semestre (rispettivamente al 30 settembre e al 28 febbraio dell'anno successivo);</an:p>
+				<an:p>
+					            al successivo comma 2-
+					<an:i>bis</an:i>
+					 introduce l'esonero da specifici obblighi di annotazione per i soggetti tenuti alla fatturazione elettronica;
+				</an:p>
+				<an:p>            il sistema di fatturazione elettronica è un'innovazione importante ma non può diventare un modo per vessare ulteriormente le aziende - in particolare le PMI - con stringenti adempimenti economici e burocratici;</an:p>
+				<an:p>
+					            è necessaria una maggiore semplificazione degli adempimenti richiesti, anche prevedendo un 
+					<an:i>iter</an:i>
+					 meno rigido e maggiormente concordato con i rappresentanti delle categorie per l'introduzione di fatturazione elettronica,
+				</an:p>
+				<an:p>        impegna il Governo a valutare ropportunità - già a partire dai prossimi provvedimenti utili in materia - di modificare la disciplina vigente, prevedendo sia la facoltà di optare per un regime di trasmissione dei dati delle fatture con cadenza annuale e non più semestrale, sia termini differiti per l'adeguamento all'obbligo di fatturazione elettronica differenziati sulla base del parametro dimensionale delle imprese.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
