@@ -1,0 +1,19 @@
+# TAR SARDEGNA - CAGLIARI, ordinanza cautelare n. 269/2018
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR SARDEGNA - CAGLIARI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201800269
+- Numero di ricorso (NRG): 201800630
+- Data di pubblicazione: 2018-09-13
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-07-31
+- Oggetto del ricorso: CAVE E MINIERE - CONCESSIONE - MESSA IN SICUREZZA -DELLA NOTA PROT.N.18871 DEL 23.5.2018 DEL DIRETTORE DEL SERVIZIO ATTIVITÀ ESTRATTIVE RECUPERO AMBIENTALE DELL’ASSESSORATO DELL’INDUSTRIA DELLA R.A.S. CON CUI SI INVITA LA SOCIETÀ SVI.MI.SA. SPA ALLA PRESENTAZIONE DI “PIANI DI INTERVENTI DI MESSA IN SICUREZZA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sardegna-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/6ed0f4ef-2f11-4275-9bb0-0d828b0789b6/resource/3787301c-4408-4f36-aee4-db511bd35a3a/download/tar-sardegna-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
