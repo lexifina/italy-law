@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717-B/A/G5.63"/>
+					<an:FRBRdate date="2018-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.63"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@"/>
+					<an:FRBRdate date="2018-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@.akn"/>
+					<an:FRBRdate date="2018-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-09-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-09-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.63/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/717-B" showAs="DDL 717-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1H0FPMBNY5ARLYH43RJTUAALS2U34QY4JOFM2FZH40K1SY1YY3O" href="http://dati.senato.it/29157" showAs="PARENTE"/>
+				<an:TLCPerson id="ID0K0UTXOIH5ZRHGDVZG3JXBR0EBTRTRP2FWIOJRO1PADGGC5JC2SE" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="IDAFI52UJ2JIUUJ0TZCVFL1BWYVLWCYBWOT0EFR0N5Z1XC5PUYIMVC" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDQZJ3XRQOGQDLM3OKPSSOLPY4WJNO4T42EXPJ3GOYI530UCNXAH4O" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDKAQG2SMUA30LK1ZK3LXKNHQ3GD3H1TNMMTEQGMMDDSIOPDYGH4C" href="http://dati.senato.it/29521" showAs="PARRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 717-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.63</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1H0FPMBNY5ARLYH43RJTUAALS2U34QY4JOFM2FZH40K1SY1YY3O" as="#tipoSenatore">PARENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0K0UTXOIH5ZRHGDVZG3JXBR0EBTRTRP2FWIOJRO1PADGGC5JC2SE" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFI52UJ2JIUUJ0TZCVFL1BWYVLWCYBWOT0EFR0N5Z1XC5PUYIMVC" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQZJ3XRQOGQDLM3OKPSSOLPY4WJNO4T42EXPJ3GOYI530UCNXAH4O" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKAQG2SMUA30LK1ZK3LXKNHQ3GD3H1TNMMTEQGMMDDSIOPDYGH4C" as="#tipoSenatore">PARRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che,</an:p>
+				<an:p>            il provvedimento in esame è finalizzato a prorogare termini previsti da disposizioni legislative riguardanti numerosi ambiti materiali;</an:p>
+				<an:p>            nel testo finale del provvedimento, tuttavia, non sono incluse alcune importanti interventi legislativi che hanno rappresentato un notevole miglioramento in materia di conciliazione della vita professionale e privata delle persone e di promozione di una cultura di maggiore condivisione dei compiti di cura dei figli all'interno della coppia;</an:p>
+				<an:p>            tra queste, le disposizioni introdotte in via sperimentale dall'articolo 25 del decreto legislativo 15 giugno 2015, n. 80, finalizzate all'incentivazione della contrattazione di secondo livello destinata alla promozione della conciliazione tra vita professionale e vita privata, hanno contribuito ad ampliare il perimetro di riferimento della legislazione in materia e costituiscono un modello virtuoso;</an:p>
+				<an:p>            stante l'avvicinarsi del termine di efficacia della predetta norma appare necessario operare al fine di disporne la proroga anche per il futuro,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad adoperarsi, sin dal primo provvedimento legislativo utile, al fine di prorogare l'efficacia delle disposizioni finalizzate all'incentivazione della contrattazione di secondo livello destinata alla promozione della conciliazione tra vita professionale e vita privata.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
