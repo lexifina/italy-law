@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/497/C/12.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/497/C/12.3"/>
+					<an:FRBRdate date="2018-09-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/497/C/12.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@"/>
+					<an:FRBRdate date="2018-09-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@.akn"/>
+					<an:FRBRdate date="2018-09-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-09-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-09-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/497/C/12.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/497" showAs="DDL 497"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="13ª Commissione permanente" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRATSIPY1ZBPDNKFHO0WIOEPAPQP0PGWFHFPTFDCUOO2AA5BH5FL" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDKVS2T5JWTYPYNGT2HQXVOWZHLOGQ04QRRJKDXEJRCPYIPAQCQKSF" href="http://dati.senato.it/32632" showAs="FERRAZZI"/>
+				<an:TLCPerson id="IDHZJEF3OGY1MABVCURA2RS32RSJDFH21S01SN1OMJ1CTBERY2TWSJ" href="http://dati.senato.it/32669" showAs="Assuntela MESSINA"/>
+				<an:TLCPerson id="ID0B2SCBIXCRQCDDLU0V50G23HVFYG4DMUHNPHMXF05EXVRYVKJ2XH" href="http://dati.senato.it/32719" showAs="SUDANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 497</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRATSIPY1ZBPDNKFHO0WIOEPAPQP0PGWFHFPTFDCUOO2AA5BH5FL" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKVS2T5JWTYPYNGT2HQXVOWZHLOGQ04QRRJKDXEJRCPYIPAQCQKSF" as="#tipoSenatore">FERRAZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHZJEF3OGY1MABVCURA2RS32RSJDFH21S01SN1OMJ1CTBERY2TWSJ" as="#tipoSenatore">Assuntela MESSINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0B2SCBIXCRQCDDLU0V50G23HVFYG4DMUHNPHMXF05EXVRYVKJ2XH" as="#tipoSenatore">SUDANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1 inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Al fine di potenziare i servizi di trasporto da e per le isole minori e di garantire la continuità territoriale con la terraferma, le risorse del fondo per il trasporto pubblico locale istituito dall'articolo l, comma 1031, della legge 27 dicembre 2006, n. 296, e successive modificazioni, da destinare all'acquisto di elicotteri per garantire il collegamento con le isole minori ai sensi della lettera 
+					<an:i>e-bis)</an:i>
+					 del citato articolo 1, comma 1031, sono erogate direttamente ai comuni di cui all'allegato A della presente legge, per essere destinate alla acquisizione e alla gestione di una dotazione di elicotteri da utilizzare per il servizio di trasporto, con particolare riferimento al trasporto in caso di emergenze - urgenze.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>ter</an:i>
+					. Il servizio di trasporto con elicotteri, di cui al comma 1-
+					<an:i>bis</an:i>
+					, è affidato in gestione dai comuni mediante apposito bando di gara per l'aggiudicazione. Nel bando deve essere previsto un titolo preferenziale per le cooperative giovanili costituite nel rispetto della normativa vigente».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
