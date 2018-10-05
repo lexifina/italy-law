@@ -1,8 +1,6 @@
 Art. 268-ter.
 
-(( (Acquisizione al fascicolo delle indagini). ))
-
-((
+(Acquisizione al fascicolo delle indagini)
 
 1.
 
@@ -24,12 +22,20 @@ La richiesta, unitamente agli atti allegati, e' depositata nella segreteria del 
 
 Il pubblico ministero e i difensori, sino alla decisione del giudice, possono integrare le richieste e presentare memorie.
 
-6. Il pubblico ministero, in relazione alle comunicazioni o conversazioni di cui al comma 1, puo' chiedere al giudice, con le modalita' e nei termini indicati dai commi precedenti, l'eliminazione dal fascicolo dei verbali e delle registrazioni di cui ritiene, per elementi sopravvenuti, l'irrilevanza.))
+6.
 
-((253))
+Il pubblico ministero, in relazione alle comunicazioni o conversazioni di cui al comma 1, puo' chiedere al giudice, con le modalita' e nei termini indicati dai commi precedenti, l'eliminazione dal fascicolo dei verbali e delle registrazioni di cui ritiene, per elementi sopravvenuti, l'irrilevanza.
+
+(253) ((260))
 
 ---------------
 
 AGGIORNAMENTO (253)
 
 Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'art. 9, comma 1) che la presente modifica si applica alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il centottantesimo giorno successivo alla data di entrata in vigore del decreto medesimo.
+
+--------------
+
+AGGIORNAMENTO (260)
+
+Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui agli articoli 2, 3 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 marzo 2019".

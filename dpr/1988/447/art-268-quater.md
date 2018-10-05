@@ -1,8 +1,6 @@
 Art. 268-quater.
 
-(( (Termini e modalita' della decisione del giudice). ))
-
-((
+(Termini e modalita' della decisione del giudice)
 
 1.
 
@@ -24,12 +22,20 @@ I difensori possono fare eseguire la trasposizione delle registrazioni acquisite
 
 Gli atti e i verbali relativi a comunicazioni e conversazioni non acquisite sono immediatamente restituiti al pubblico ministero per la conservazione nell'archivio riservato di cui all'articolo 269, comma 1.
 
-6. Alle operazioni di acquisizione provvede il giudice per le indagini preliminari che ha autorizzato, convalidato o prorogato le intercettazioni.))
+6.
 
-((253))
+Alle operazioni di acquisizione provvede il giudice per le indagini preliminari che ha autorizzato, convalidato o prorogato le intercettazioni.
+
+(253) ((260))
 
 ---------------
 
 AGGIORNAMENTO (253)
 
 Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'art. 9, comma 1) che la presente modifica si applica alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il centottantesimo giorno successivo alla data di entrata in vigore del decreto medesimo.
+
+--------------
+
+AGGIORNAMENTO (260)
+
+Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui agli articoli 2, 3 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 marzo 2019".
