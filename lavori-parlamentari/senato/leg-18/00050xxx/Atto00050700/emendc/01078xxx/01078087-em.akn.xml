@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/C/1.108/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/C/1.108"/>
+					<an:FRBRdate date="2018-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/840/C/1.108/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.108"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@"/>
+					<an:FRBRdate date="2018-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@.akn"/>
+					<an:FRBRdate date="2018-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/840/C/1.108/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/840" showAs="DDL 840"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDI4Y1BIZPU0GNIWP0UBC0LGOQHJ2NR2H0HPMEVECJUZIP2WDDEMP" href="http://dati.senato.it/32615" showAs="DE FALCO"/>
+				<an:TLCPerson id="IDT15E13RRZR5BHV4KWJ5HCLZMDDTJ2RTCWYOWOWK1YBD5GOAZV21F" href="http://dati.senato.it/29055" showAs="BUCCARELLA"/>
+				<an:TLCPerson id="IDPFHILFQOS2XSKUW0WCMCNTJCZNRKXZWAZLONF3FWZWY5C2C5VNS" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDPE0C0RWIMNYHBKICCUCLXPYZHG4HS3YUSM2JDDCOFVUEMHC0KP1B" href="http://dati.senato.it/29093" showAs="FATTORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 840</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.108</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI4Y1BIZPU0GNIWP0UBC0LGOQHJ2NR2H0HPMEVECJUZIP2WDDEMP" as="#tipoSenatore">DE FALCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT15E13RRZR5BHV4KWJ5HCLZMDDTJ2RTCWYOWOWK1YBD5GOAZV21F" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPFHILFQOS2XSKUW0WCMCNTJCZNRKXZWAZLONF3FWZWY5C2C5VNS" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPE0C0RWIMNYHBKICCUCLXPYZHG4HS3YUSM2JDDCOFVUEMHC0KP1B" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 9 sostituire le parole:</an:i>
+					 «per i quali la Commissione territoriale non ha accolto la domanda di protezione internazionale e ha ritenuto» 
+					<an:i>con le seguenti:</an:i>
+					 «ove la Commissione territoriale non accolga la domanda di protezione internazionale ma ritenga».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
