@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/12.600/2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/12.600/2"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/840/A/12.600/2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.600/2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@.akn"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/840/A/12.600/2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/840" showAs="DDL 840"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRQ04G2FGXZNRJRGO3EQVCBKIDOU4O1YEMUAWXUMDGDZO3IHPWSI" href="http://dati.senato.it/1103" showAs="GASPARRI"/>
+				<an:TLCPerson id="IDMSEK5QMFXYW3FOV3HOBCEIVINNMERMJQ2IWBWKN01V4Z23N1LPNI" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+				<an:TLCPerson id="IDZ0TP1NZ1QLV0IEQPCPYVIFINGJBD5OR2ZJNQKEB1ALR5JQCSJYMK" href="http://dati.senato.it/32585" showAs="BERARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 840</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.600/2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRQ04G2FGXZNRJRGO3EQVCBKIDOU4O1YEMUAWXUMDGDZO3IHPWSI" as="#tipoSenatore">GASPARRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMSEK5QMFXYW3FOV3HOBCEIVINNMERMJQ2IWBWKN01V4Z23N1LPNI" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ0TP1NZ1QLV0IEQPCPYVIFINGJBD5OR2ZJNQKEB1ALR5JQCSJYMK" as="#tipoSenatore">BERARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 12.600, apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>al primo periodo, dopo le parole:</an:i>
+					 «Con decreto del Ministro dell'interno» 
+					<an:i>sostituire le parole:</an:i>
+					 «sentita la Conferenza Unificata.» 
+					<an:i>con le seguenti:</an:i>
+					 «previo accordo in Conferenza Stato città ed autonomie locali»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>al primo periodo sostituire le parole:</an:i>
+					 «sono fissati i criteri» 
+					<an:i>con le seguenti:</an:i>
+					 « sono fissate le linee guida»;
+				</an:p>
+				<an:p>
+					            c) 
+					<an:i>al primo periodo sostituire le parole:</an:i>
+					 «delle domande di contributo» 
+					<an:i>con le seguenti:</an:i>
+					 «delle domande di finanziamento» 
+					<an:i>e dopo le parole:</an:i>
+					 «la prosecuzione dei progetti» 
+					<an:i>aggiungere la parola territoriali»;</an:i>
+				</an:p>
+				<an:p>
+					            d) 
+					<an:i>al primo periodo dopo la parola: «finalizzati» aggiungere le seguenti:</an:i>
+					 «all'attuazione e alla gestione di servizi destinati alla presa in carico è»;
+				</an:p>
+				<an:p>
+					            e) 
+					<an:i>al secondo periodo dopo la parola:</an:i>
+					 «provvede» 
+					<an:i>sostituire le parole:</an:i>
+					 «all'ammissione al finanziamento dei progetti presentati dagli enti locali» 
+					<an:i>con le seguenti:</an:i>
+					 «annualmente al sostegno finanziario dei servizi di accoglienza di cui al comma 1, in misura non inferiore all'80 per cento del costo complessivo di ogni singolo progetto territoriale».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
