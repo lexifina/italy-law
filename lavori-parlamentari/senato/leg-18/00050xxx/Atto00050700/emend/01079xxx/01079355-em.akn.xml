@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/12.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/12.9"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/840/A/12.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@.akn"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/840/A/12.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/840" showAs="DDL 840"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJ0224RZ1Z54EKV44VLEAOBDVLJI3Q4I1MTFY1PSIU0C5WGTE2WE" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDYHUKOLQLTB2XFQEHURJYYYZPJZ0C23NYXNRA1PHPPBBGZYHT23" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDVUQAUJD1XOIAGI5TVNLJOSFSKFD424FWY04U4KMRTEQEE2PJFICJ" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="ID3OE2EVITWBYEOSCJRCH5MWN2DJABCUYR1A52APONBBQERP5AVCCG" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="ID1F32VMUPORNSIAL0Q4F34YYCJDSJWPDYWJ45ZKB5US1ADEEFUX2D" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 840</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ0224RZ1Z54EKV44VLEAOBDVLJI3Q4I1MTFY1PSIU0C5WGTE2WE" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYHUKOLQLTB2XFQEHURJYYYZPJZ0C23NYXNRA1PHPPBBGZYHT23" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVUQAUJD1XOIAGI5TVNLJOSFSKFD424FWY04U4KMRTEQEE2PJFICJ" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3OE2EVITWBYEOSCJRCH5MWN2DJABCUYR1A52APONBBQERP5AVCCG" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1F32VMUPORNSIAL0Q4F34YYCJDSJWPDYWJ45ZKB5US1ADEEFUX2D" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire la lettera</an:i>
+					 a) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>a)</an:i>
+					 il comma 1, è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					        ''1. Ai servizi di accoglienza per i titolari di protezione internazionale e per i minori stranieri non accompagnati prestati dagli enti locali, in forma singola o associata, che beneficiario del sostegno finanziario di cui al comma 2, accedono anche i titolari del permesso di soggiorno di cui all'articolo 32, comma 3, del decreto legislativo 28 gennaio 2008, n. 25, i richiedenti di cui all'articolo 17, comma 1, del decreto legislativo 18 agosto 2015, n. 142, i nuclei familiari di richiedenti protezione con minori, e i titolari dei permessi di soggiorno di cui agli articoli 19, comma 2, lettera 
+					<an:i>d-bis)</an:i>
+					, 18, 18-
+					<an:i>bis</an:i>
+					, 20-
+					<an:i>bis</an:i>
+					, 22, comma 12-
+					<an:i>quater</an:i>
+					, e 42-
+					<an:i>bis</an:i>
+					 del decreto legislativo 25 luglio 1998, n. 286, qualora non accedano a sistemi di protezione specificamente dedicati, e i cittadini stranieri già accolti come minori non accompagnati quando non è ancora terminata la procedura per il riconoscimento della protezione internazionale al raggiungimento della maggiore età nonché i minori stranieri non accompagnati affidati ai servizi sociali, al compimento della maggiore età, con provvedimento del Tribunale per i minorenni ai sensi dell'articolo 13 comma 2 legge 7 aprile 2017, n. 47. In via eccezionale, su segnalazione dei singoli progetti territoriali o di enti terzi, gli Enti Locali possono accogliere nell'ambito dei medesimi servizi anche i richiedenti asilo portatori di specifiche vulnerabilità''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
