@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza collegiale n. 10764/2018
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA BIS
+- Numero provvedimento: 201810764
+- Numero di ricorso (NRG): 201811012
+- Data di pubblicazione: 2018-11-08
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-10-03
+- Oggetto del ricorso: ANNULLAMENTO DELLA DELIBERA DEL CONSIGLIO DI PRESIDENZA DELLA GIUSTIZIA TRIBUTARIA N. 1049/2018 DEL 22 MAGGIO 2018 PUBBLICATA IL 5.6.2018, DI APPROVAZIONE DELLA GRADUATORIA DI CUI AL BANDO N.06/2016, PUBBLICATO SULLA G.U. N.62 DEL 05/08/2016, PER LA COPERTURA DI N.202 POSTI VACANTI DI GIUDICE TRIBUTARIO PRESSO LE SEDI DELLA COMMISSIONI PROVINCIALI E REGIONALI TRIBUTARIE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
