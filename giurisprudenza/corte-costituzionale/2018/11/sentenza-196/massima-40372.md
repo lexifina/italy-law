@@ -1,0 +1,22 @@
+# Massima n. 40372
+
+- Pronuncia: Corte costituzionale, sentenza 196/2018 (ECLI:IT:COST:2018:196)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2018:196
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudice rimettente - Corte dei conti, sezione regionale di controllo, in sede di giudizio di parificazione dei rendiconti regionali - Legittimazione a sollevare questioni di costituzionalità in riferimento a parametri attributivi di competenza legislativa esclusiva dello Stato - Giudizio circoscritto all'an della spesa censurata - Ammissibilità delle questioni - Rigetto di eccezione preliminare.
+
+## Testo
+
+La legittimazione della Corte dei conti, in sede di giudizio di parificazione, a sollevare questioni di legittimità costituzionale - già ritenuta sussistente in riferimento a parametri posti a tutela degli equilibri economico-finanziari - può essere riconosciuta, alla luce delle peculiarità del giudizio a quo, anche in riferimento ai parametri attributivi di competenza legislativa esclusiva allo Stato, quale l'art. 117, secondo comma, lett. l), Cost. In tali casi la Regione manca per definizione della prerogativa di allocare risorse, per cui, entro tali materie, non vi è intervento regionale produttivo di spesa che non si traduca immediatamente nell'alterazione dei criteri dettati dall'ordinamento ai fini della sana gestione della finanza pubblica allargata. (Nella specie, non è accolta l'eccezione di inammissibilità, per difetto di legittimazione della rimettente Corte dei conti, sez. regionale di controllo in sede di parificazione dei rendiconti regionali, nel giudizio di legittimità costituzionale degli artt. 10 della reg. Liguria n. 10 del 2008 e 2 della legge reg. Liguria n. 42 del 2008, rispetto ai quali deve inoltre riconoscersi la rilevanza delle questioni sollevate, in quanto, applicando le norme censurate, il rimettente si sarebbe trovato nella condizione di validare un risultato di amministrazione non corretto). ( Precedenti citati: sentenze n. 213 del 2008, n. 244 del 1995, n. 226 del 1976, n. 121 del 1966, n. 165 del 1963, sulla legittimazione della Corte dei conti in sede di giudizio di parificazione ). L'esigenza di fugare zone d'ombra nel controllo di costituzionalità, tratto costitutivo del sistema di giustizia costituzionale, è tale da riflettersi sui criteri di valutazione dei requisiti di ammissibilità delle questioni. Le condizioni che legittimano le sezioni regionali di controllo della Corte dei conti, in sede di giudizio di parificazione dei rendiconti regionali, a sollevare questioni di legittimità costituzionale sono: a) l'applicazione di parametri normativi; b) la giustiziabilità del provvedimento in relazione a situazioni soggettive dell'ente territoriale eventualmente coinvolte, in considerazione della circostanza che l'interesse alla legalità finanziaria, perseguito dall'ente controllante, connesso a quello dei contribuenti, è distinto e divergente dall'interesse degli enti controllati, e potrebbe essere illegittimamente sacrificato, senza poter essere fatto valere, se il magistrato non potesse sollevare la questione sulle norme che si trova ad applicare e della cui conformità alla Costituzione dubita; c) il pieno contraddittorio, sia nell'ambito del giudizio di parifica, sia nell'eventuale giudizio ad istanza di parte, garantito anche dal coinvolgimento del pubblico ministero, a tutela dell'interesse generale oggettivo alla regolarità della gestione finanziaria e patrimoniale dell'ente territoriale. ( Precedente citato: sentenza n. 89 del 2017 ). Nell'esercizio della funzione giurisdizionale di parificazione dei rendiconti regionali, le sezioni regionali di controllo della Corte dei conti sono legittimate a sollevare questione di legittimità costituzionale avverso tutte le disposizioni di legge che determinano, nell'articolazione e nella gestione del bilancio stesso, effetti non consentiti dai principi posti a tutela degli equilibri economico-finanziari e da tutti gli altri precetti costituzionali, che custodiscono la sana gestione finanziaria. ( Precedenti citati: sentenze n. 181 del 2015, n. 213 del 2008 e n. 244 del 1995 ).
+
+## Norme
+
+- legge della Regione Liguria, 28/04/2008 n. 10, art. 10
+- legge della Regione Liguria, 24/11/2008 n. 42, art. 2
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. l)
