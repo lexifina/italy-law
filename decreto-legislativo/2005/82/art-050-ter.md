@@ -1,8 +1,6 @@
 Art. 50-ter.
 
-(( (Piattaforma Digitale Nazionale Dati). ))
-
-((
+(Piattaforma Digitale Nazionale Dati)
 
 1.
 
@@ -10,7 +8,7 @@ La Presidenza del Consiglio dei ministri promuove la progettazione, lo sviluppo 
 
 2.
 
-In sede di prima applicazione, la sperimentazione della Piattaforma Digitale Nazionale Dati e' affidata al Commissario straordinario per l'attuazione dell'Agenda digitale non oltre il 31 dicembre 2018.
+In sede di prima applicazione, la sperimentazione della Piattaforma Digitale Nazionale Dati e' affidata al Commissario straordinario per l'attuazione dell'Agenda digitale non oltre il ((15 settembre 2019)).
 
 3.
 
@@ -25,5 +23,3 @@ Con il medesimo decreto sono stabiliti i limiti e le modalita' di acquisizione, 
 5.
 
 Il trasferimento dei dati nella Piattaforma Digitale Nazionale Dati non modifica la titolarita' del dato.
-
-))
