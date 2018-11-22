@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/909/C/1.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/909/C/1.1"/>
+					<an:FRBRdate date="2018-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/909/C/1.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@"/>
+					<an:FRBRdate date="2018-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@.akn"/>
+					<an:FRBRdate date="2018-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/909/C/1.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/909" showAs="DDL 909"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 8° e 13° riunite" href="/dati.senato.it/osr/Commissione/124"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEKECNVQCLGSGLL3VSGAUDP0DJFEJUQSYPSZHMOKX4FEASJ4NXVAI" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDRTJIKSULQ0H0CAFCZOP14ZWGIIRSGML4QJH3TAMZBZV0N4MW3DBO" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDSUWAK4RGEQ4MD0F30FJCDFJNCK4A4EL55O1EULCGIQLP3CSYVCEH" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDEQNV0WBXVMLBPFLNFQND0TTYIBMZNBAFDPU4EKNV2JUOCW0FNRXN" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDF13OJN01MSAAHVJ0BUCYLCAOCELM2SSQM3QD5KNG4SAV1DZSOEKP" href="http://dati.senato.it/29130" showAs="MARTELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 909</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEKECNVQCLGSGLL3VSGAUDP0DJFEJUQSYPSZHMOKX4FEASJ4NXVAI" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRTJIKSULQ0H0CAFCZOP14ZWGIIRSGML4QJH3TAMZBZV0N4MW3DBO" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSUWAK4RGEQ4MD0F30FJCDFJNCK4A4EL55O1EULCGIQLP3CSYVCEH" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEQNV0WBXVMLBPFLNFQND0TTYIBMZNBAFDPU4EKNV2JUOCW0FNRXN" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF13OJN01MSAAHVJ0BUCYLCAOCELM2SSQM3QD5KNG4SAV1DZSOEKP" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1 sostituire le parole:</an:i>
+					 «, al fine di garantire, in via d'urgenza, le attività per la demolizione, la rimozione, lo smaltimento e il conferimento in discarica dei materiali di risulta,» 
+					<an:i>con le seguenti:</an:i>
+					 «, al fine di garantire, in via d'urgenza, le attività per la demolizione, la rimozione, lo smaltimento dei materiali di risulta, previa definizione di un piano per la gestione dei materiali pericolosi, di quelli da recuperare in maniera selettiva e per la loro lavorazione orientata al riciclo con impianti mobili,».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 5, primo periodo, sopprimere le parole:</an:i>
+					 «e il conferimento in discarica».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
