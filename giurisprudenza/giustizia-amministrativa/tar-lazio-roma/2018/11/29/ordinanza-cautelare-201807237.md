@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 7237/2018
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 201807237
+- Numero di ricorso (NRG): 201811851
+- Data di pubblicazione: 2018-11-29
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-10-23
+- Oggetto del ricorso: ANNULLAMENTO DEL PROVVEDIMENTO DEL MINISTERO DELLE INFRASTRUTTURE E DEI TRASPORTI, M INF. VPTM. REGISTRO UFFICIALE U. 0019683 DEL 23/07/2018 DI APPLICAZIONE DI PENALITÀ PER UN IMPORTO COMPLESSIVO DI € 25.000,00 PER VIOLAZIONI CONTRATTUALI RELATIVAMENTE ALL'UTILIZZO DELL'UNITÀ NAVALE MOBY CORSE SULLA LINEA CIVITAVECCHIA –CAGLIARI - ARBATAX, NEL PERIODO DAL 23 AL 31 GENNAIO 2018
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
