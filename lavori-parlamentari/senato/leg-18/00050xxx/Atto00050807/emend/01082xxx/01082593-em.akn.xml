@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/A/22.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/A/22.3"/>
+					<an:FRBRdate date="2018-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/886/A/22.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@"/>
+					<an:FRBRdate date="2018-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@.akn"/>
+					<an:FRBRdate date="2018-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/886/A/22.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/886" showAs="DDL 886"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDI3V5J21HPZAEN35PZXBXNW4HWLMUQZYC55MVOSJG0RKHA4K3LQTN" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="ID00BEEOCKKBNLD1J2DX1ZPO2F0DMMIW3Z4DLFTLCEE5VZWKKHX5TC" href="http://dati.senato.it/32707" showAs="RONZULLI"/>
+				<an:TLCPerson id="IDROOXAJJKEB0AMCAA3DYOEPJJTNO2QKSQG1CCFNNREHMGJPMYNRBC" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 886</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI3V5J21HPZAEN35PZXBXNW4HWLMUQZYC55MVOSJG0RKHA4K3LQTN" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID00BEEOCKKBNLD1J2DX1ZPO2F0DMMIW3Z4DLFTLCEE5VZWKKHX5TC" as="#tipoSenatore">RONZULLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDROOXAJJKEB0AMCAA3DYOEPJJTNO2QKSQG1CCFNNREHMGJPMYNRBC" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. All'articolo 39, comma 3, del decreto-legge 6 dicembre 2011, n. 201, convertito con modificazioni dalla legge 22 dicembre 2011, n. 214, le parole: ''2 milioni e cinquecentomila'' sono sostituite dalle seguenti: ''5 milioni''. Tale misura si applica a fronte sia di singole operazioni, sia di portafogli di operazioni, fermi restando i limiti previsti dall'articolo 5, comma 1, del decreto del Ministero dell'economia e delle finanze, di concerto con il Ministero dello sviluppo economico, del 14 novembre 2017''.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>ter</an:i>
+					. All'articolo 12 del decreto-legge 23 dicembre 2013 n. 145, al comma 6-
+					<an:i>bis</an:i>
+					, dopo il secondo periodo, è aggiunto il seguente: ''l'importo massimo garantibile, per singolo soggetto beneficiario finale relativamente alle operazioni finanziarie di cui al precedente periodo, non può essere superiore a euro 5 .000.000,00''.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>quater</an:i>
+					. All'articolo 14 del decreto del Ministero dello sviluppo economico, di concerto con il Ministero dell'economia e delle finanze del 5 giugno 2014, il comma 2 è abrogato.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>quinquies</an:i>
+					. All'articolo 2410 codice civile, dopo il secondo comma, è aggiunto il seguente:
+				</an:p>
+				<an:p>        ''Le disposizioni di cui al comma secondo non trovano applicazione in relazione alle emissioni di obbligazioni che non eccedano l'importo complessivo di euro 5 milioni in linea capitale''.</an:p>
+				<an:p>
+					        1-
+					<an:i>sexies</an:i>
+					. Gli accantonamenti derivanti dalla concessione di garanzie su singole operazioni che eccedano l'importo massimo garantito di 2,5 milioni di euro sono effettuati a valere sulle attuali disponibilità del Fondo di cui all'articolo 2, comma 100, lettera 
+					<an:i>a)</an:i>
+					, della legge 23 dicembre 1996 n. 662 e successive modificazioni ed integrazioni, fino a un massimo di 50 milioni di euro annui».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
