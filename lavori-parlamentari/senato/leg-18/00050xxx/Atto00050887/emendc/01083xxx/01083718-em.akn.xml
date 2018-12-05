@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/920/C/2.18/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/920/C/2.18"/>
+					<an:FRBRdate date="2018-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/920/C/2.18/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.18"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@"/>
+					<an:FRBRdate date="2018-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@.akn"/>
+					<an:FRBRdate date="2018-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/920/C/2.18/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/920" showAs="DDL 920"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMFOFBJA0VW5AKTEKNEYUA0BGCE24IVJYGW144VIPGAEMPE1RBKIB" href="http://dati.senato.it/29157" showAs="PARENTE"/>
+				<an:TLCPerson id="IDSW2XXZDIZBJTB0ATWGP3N0DUHFUWDGIVCKCZZQLAMEDDHDWQUIKC" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDABWWCHFCMYSEWQZXW3QPAZZDILHIP0CRHKK3ZBGYPWVRC0R5OTE" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="ID0UHAHD5TYRMZGJSUG24FSUIICHG43ISKTU0EV1JNFBDWVD4RYGJ" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 920</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.18</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMFOFBJA0VW5AKTEKNEYUA0BGCE24IVJYGW144VIPGAEMPE1RBKIB" as="#tipoSenatore">PARENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSW2XXZDIZBJTB0ATWGP3N0DUHFUWDGIVCKCZZQLAMEDDHDWQUIKC" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABWWCHFCMYSEWQZXW3QPAZZDILHIP0CRHKK3ZBGYPWVRC0R5OTE" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0UHAHD5TYRMZGJSUG24FSUIICHG43ISKTU0EV1JNFBDWVD4RYGJ" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, secondo periodo, sostituire le parole:</an:i>
+					 «Con decreto del Presidente del Consiglio dei ministri, su proposta del Ministro per la pubblica amministrazione, da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, previa intesa in sede di Conferenza unificata di cui all'articolo 8, del decreto legislativo 28 agosto 1997, n. 281, »
+					<an:i>, con le seguenti:</an:i>
+					 «con fonti di tipo contrattuale da adottare ai sensi dell'articolo 4 della legge 20 maggio 1970, n. 300 e successive modificazioni».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
