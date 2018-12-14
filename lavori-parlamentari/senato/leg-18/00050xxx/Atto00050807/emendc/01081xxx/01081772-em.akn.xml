@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/22.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/22.0.2"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/886/C/22.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@.akn"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/886/C/22.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/886" showAs="DDL 886"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIV5XZIHRWYSRBPSGTADWEMVLAEJORMFMT4CGSXL3LDGEAJOXR4OK" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDEQ5L0XZJLZYKMHDB02B1WAN2TJMHYSWMRULAKLBGPYJRJN5RI40D" href="http://dati.senato.it/25206" showAs="SCIASCIA"/>
+				<an:TLCPerson id="IDIMDRN1RWOXW1K13C44N543KYTBDP02TSF1RVSK0XK4GKI4AV3OI" href="http://dati.senato.it/32688" showAs="PEROSINO"/>
+				<an:TLCPerson id="IDEYBQQI3V4OERD3Z0NU1SRZM5WPOD41FE1RGRXODWOM43JMGACLP" href="http://dati.senato.it/25412" showAs="ROSSI"/>
+				<an:TLCPerson id="IDETYDD5I3TK1KLNTJCHPJKUP32JAQVBZSGEE30TL3QFQIUAS30TOK" href="http://dati.senato.it/32585" showAs="BERARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 886</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIV5XZIHRWYSRBPSGTADWEMVLAEJORMFMT4CGSXL3LDGEAJOXR4OK" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEQ5L0XZJLZYKMHDB02B1WAN2TJMHYSWMRULAKLBGPYJRJN5RI40D" as="#tipoSenatore">SCIASCIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIMDRN1RWOXW1K13C44N543KYTBDP02TSF1RVSK0XK4GKI4AV3OI" as="#tipoSenatore">PEROSINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEYBQQI3V4OERD3Z0NU1SRZM5WPOD41FE1RGRXODWOM43JMGACLP" as="#tipoSenatore">ROSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDETYDD5I3TK1KLNTJCHPJKUP32JAQVBZSGEE30TL3QFQIUAS30TOK" as="#tipoSenatore">BERARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 22-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">(Nuove disposizioni in materia di buoni pasto)</an:p>
+				<an:p>        1. All'articolo 5 del ''Regolamento recante disposizioni in materia di servizi sostitutivi di mensa, in attuazione dell'articolo 144, comma 5, del decreto legislativo 18 aprile 2016, n. 50'' di cui al decreto 7 giugno 2017, n.122 del Ministero dello sviluppo economico sono apportate le seguenti modifiche:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 1, lettera 
+					<an:i>d)</an:i>
+					 aggiungere in fine le seguenti parole: ''le società emittenti sono comunque tenute a consegnare all'esercizio convenzionato garanzia fideiussoria rilasciata da imprese bancarie o assicurative che rispondano ai requisiti di solvibilità previsti dalle leggi'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al comma 9 aggiungere in fine le seguenti parole: ''o di recedere dalle stesse in qualsiasi momento con preavviso di 30 giorni; il recesso dalle condizioni aggiuntive non comporta la risoluzione dell'accordo per quanto riguarda l'offerta di base senza servizi aggiuntivi di cui al comma 2''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
