@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/6.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/6.9"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/886/C/6.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@.akn"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/886/C/6.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/886" showAs="DDL 886"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWF4DJ0ENSOZFGXBDPELQCNPS3DNRW3VRJTULPLICFTMSOJPWQJAI" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="IDBTZI2MCDMQT4KENCMI5BOMHLHJ4D1XLJUZ0VSOMY1VR3BM4MG3QI" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="ID3SACPTYFERJCJ41QMC0AQV05JGIV4YVC1ONGMDBKEG50VSRS0QRJ" href="http://dati.senato.it/32706" showAs="ROMEO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 886</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.9 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWF4DJ0ENSOZFGXBDPELQCNPS3DNRW3VRJTULPLICFTMSOJPWQJAI" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBTZI2MCDMQT4KENCMI5BOMHLHJ4D1XLJUZ0VSOMY1VR3BM4MG3QI" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3SACPTYFERJCJ41QMC0AQV05JGIV4YVC1ONGMDBKEG50VSRS0QRJ" as="#tipoSenatore">ROMEO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>dopo il comma 1 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. In caso di ricorso pendente iscritto nel primo grado, la controversia può essere definita con il pagamento del 90 per cento della controversia.»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>al comma 2 apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            1) 
+					<an:i>alla lettera</an:i>
+					 a) 
+					<an:i>sostituire le parole:</an:i>
+					 «della metà» 
+					<an:i>con le seguenti:</an:i>
+					 «del 40 per cento»;
+				</an:p>
+				<an:p>
+					            2) 
+					<an:i>alla lettera</an:i>
+					 b) 
+					<an:i>sostituire le parole:</an:i>
+					 «di un quinto» 
+					<an:i>con le seguenti:</an:i>
+					 «del 15 per cento»;
+				</an:p>
+				<an:p>
+					            c) 
+					<an:i>dopo il comma 2, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Le controversie tributarie pendenti innanzi alla Commissione tributaria centrale e le controversie tributarie pendenti innanzi alla Corte di cassazione, alla data di entrata in vigore della legge di conversione del presente decreto, per le quali risulti soccombente l'Agenzia delle entrate nei primi due gradi di giudizio, possono essere definite con il pagamento di un importo pari al 5 per cento del valore della controversia determinato ai sensi dell'articolo 16, comma 3, della legge 27 dicembre 2002, n. 289. A tal fine, il contribuente può presentare apposita istanza alla competente segreteria o cancelleria entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con attestazione del relativo pagamento. I procedimenti di cui al presente comma restano sospesi fino alla scadenza del termine di cui al secondo periodo e sono definiti con compensazione integrale delle spese del processo. In ogni caso non si fa luogo a rimborso. L'avvenuto pagamento estingue il giudizio a seguito di attestazione degli uffici dell'amministrazione finanziaria comprovanti la regolarità della istanza ed il pagamento integrale di quanto dovuto ai sensi del presente decreto, e successive modificazioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
