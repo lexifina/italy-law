@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.35/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.35"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.35/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.35"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@.akn"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.35/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5EQOBQSF3I14JL310QBPDGQXWDQYVCEWGJRR1HFHYCTUSK523NWB" href="http://dati.senato.it/22865" showAs="BELLANOVA"/>
+				<an:TLCPerson id="IDIN5S0PVOASX5LZHXZLXHR1AJZMJCCSIHMIPWNNK4QHWTZGSKWRC" href="http://dati.senato.it/29398" showAs="FERRARI"/>
+				<an:TLCPerson id="IDXIQ3JORXWENNCM2PJVRGFPLB0EBVZ4IAFKNEMAILQXW25LJARPCM" href="http://dati.senato.it/29555" showAs="RICHETTI"/>
+				<an:TLCPerson id="IDB4U1CGLXG2NQHO3GAZC5HTTH1HZPWU3VUKIBLKLV21GU2C10FS5C" href="http://dati.senato.it/25411" showAs="ROSSOMANDO"/>
+				<an:TLCPerson id="IDYVLTX4X3PBDHDEUYG5UOAFQDZEXR0X4PU13WFVNWKOKHEGR2DXDL" href="http://dati.senato.it/32660" showAs="MANCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.35</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5EQOBQSF3I14JL310QBPDGQXWDQYVCEWGJRR1HFHYCTUSK523NWB" as="#tipoSenatore">BELLANOVA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIN5S0PVOASX5LZHXZLXHR1AJZMJCCSIHMIPWNNK4QHWTZGSKWRC" as="#tipoSenatore">FERRARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXIQ3JORXWENNCM2PJVRGFPLB0EBVZ4IAFKNEMAILQXW25LJARPCM" as="#tipoSenatore">RICHETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB4U1CGLXG2NQHO3GAZC5HTTH1HZPWU3VUKIBLKLV21GU2C10FS5C" as="#tipoSenatore">ROSSOMANDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYVLTX4X3PBDHDEUYG5UOAFQDZEXR0X4PU13WFVNWKOKHEGR2DXDL" as="#tipoSenatore">MANCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Al comma 5, lettera a)
+					<an:i>, capoverso «55», sostituire la lettera d), con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>d)</an:i>
+					 gli esercenti attività d'impresa, arti o professioni che partecipano, contemporaneamente all'esercizio dell'attività, a società di persone, ad associazioni di cui all'articolo 5 del testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, ovvero a società a responsabilità limitata di cui all'articolo 116 del medesimo testo unico di cui al decreto del Presidente della Repubblica n. 917 del 1986, e successive modificazioni, o ad associazioni in partecipazioni con apporto esclusivo di lavoro;».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
