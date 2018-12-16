@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1173/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1173"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1173/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1173"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@.akn"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.1173/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMNICCFAUJ1A1EBR4AEH2KDKYSCLQ2JZ5SY0ZPJGB52OTTMQ2NO1O" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDOC04KERPQIPSE51ECSYK1JC5SDRJTHAEKEQQZWBMK3FI55ZPKAKL" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+				<an:TLCPerson id="IDEFTR2W3PIZ1ALIAKRZKSR1KDJD4BJU4LVTUNRRJRYWXSHEAHGXEJ" href="http://dati.senato.it/25468" showAs="MARSILIO"/>
+				<an:TLCPerson id="IDUJ2Z5QGZZCOGG0DQFIO5KO4RWQCVL3TZRRCSJFTAXBF54VGY5" href="http://dati.senato.it/2444" showAs="URSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1173</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMNICCFAUJ1A1EBR4AEH2KDKYSCLQ2JZ5SY0ZPJGB52OTTMQ2NO1O" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOC04KERPQIPSE51ECSYK1JC5SDRJTHAEKEQQZWBMK3FI55ZPKAKL" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEFTR2W3PIZ1ALIAKRZKSR1KDJD4BJU4LVTUNRRJRYWXSHEAHGXEJ" as="#tipoSenatore">MARSILIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUJ2Z5QGZZCOGG0DQFIO5KO4RWQCVL3TZRRCSJFTAXBF54VGY5" as="#tipoSenatore">URSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 150 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «150-
+					<an:i>bis</an:i>
+					. Le risorse necessarie alla copertura degli oneri derivanti dall'attività di accoglienza, inclusione e integrazione in materia di trattenimento e di accoglienza per stranieri irregolari, sono interamente destinate a valere sui programmi operativi cofinanziati dai fondi strutturali e di investimento europei 2014/2020».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, allo stato di previsione del Ministero dell'interno, missione immigrazione, accoglienza e garanzia dei diritti, il programma flussi migratori, interventi per la coesione sociale, garanzia dei diritti, rapporti con le confessioni religiose è definanziato per i corrispondenti importi.</an:i>
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
