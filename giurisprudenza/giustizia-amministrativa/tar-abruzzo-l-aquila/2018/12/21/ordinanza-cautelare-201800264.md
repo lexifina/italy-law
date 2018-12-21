@@ -1,0 +1,19 @@
+# TAR ABRUZZO - L'AQUILA, ordinanza cautelare n. 264/2018
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR ABRUZZO - L'AQUILA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201800264
+- Numero di ricorso (NRG): 201800494
+- Data di pubblicazione: 2018-12-21
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-12-06
+- Oggetto del ricorso: ANNULLAMENTO ORDINANZA INGIUNZIONE N. 13/2018 EMESSA DAL COMUNE DI L'AQUILA IL 16 AGOSTO 2018 E NOTIFICATA L'11 SETTEMBRE 2018 AVENTE AD OGGETTO IL PAGAMENTO DI SANZIONE AMMINISTRATIVA PECUNIARIA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-abruzzo-l-aquila-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/39dae7b6-2b8f-4f51-a926-e1f266bfb8f1/resource/5b24137c-7308-4b97-8b04-b2bce6b566bd/download/tar-abruzzo-laquila-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
