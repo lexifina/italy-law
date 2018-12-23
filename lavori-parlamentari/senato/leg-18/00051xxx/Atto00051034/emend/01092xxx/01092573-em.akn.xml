@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2302/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2302"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2302/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2302"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.2302/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPPZ0F1AHKUZXBNZM2AIKPSOGTCDPC2CQT5ZR3JK4AD0X0WMOBUFN" href="http://dati.senato.it/32659" showAs="MALLEGNI"/>
+				<an:TLCPerson id="IDTRVS2M35L2VCHCSMGAY0ZSN0ILXWKMDIWD5E1BEYA1FQEWYAX5DL" href="http://dati.senato.it/32671" showAs="MODENA"/>
+				<an:TLCPerson id="IDIE3BMQO1YVXIENXFH3LOEOLZBCRYU4LOHWVVL5JB2YZY24S4SFRP" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2302</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPPZ0F1AHKUZXBNZM2AIKPSOGTCDPC2CQT5ZR3JK4AD0X0WMOBUFN" as="#tipoSenatore">MALLEGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTRVS2M35L2VCHCSMGAY0ZSN0ILXWKMDIWD5E1BEYA1FQEWYAX5DL" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIE3BMQO1YVXIENXFH3LOEOLZBCRYU4LOHWVVL5JB2YZY24S4SFRP" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 428, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «428-
+					<an:i>bis</an:i>
+					. Fermo restando quanto previsto dall'articolo 2082 del codice civile e dalla disciplina sui redditi di impresa di cui al testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, la fornitura di alloggio a titolo oneroso per periodi inferiori a 8 giorni, anche mediante contratti di locazione o sublocazione di immobili, si presume in ogni caso svolta nell'ambito dell'attività di impresa.
+				</an:p>
+				<an:p>
+					        428-
+					<an:i>ter</an:i>
+					. La somministrazione di alimenti e bevande e la prestazione di servizi, inclusi la pulizia dei locali, il cambio di biancheria e la fornitura di alimenti e bevande, se associati alla fornitura di un alloggio, determinano semore l'insorgere di un rapporto di prestazione alberghiera».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
