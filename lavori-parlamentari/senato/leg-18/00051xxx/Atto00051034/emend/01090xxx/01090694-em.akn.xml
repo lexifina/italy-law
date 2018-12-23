@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.421/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.421"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.421/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.421"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.421/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJ5DL2MPHCOCSDDZ2AUBAI2DB1BGVPZ4USWO30XOIOMOHTD0WFCEM" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDDC4OF1KCAJKEBXMNTFLB3WDAJPZXPIRJZSOMY0HCCUMOHQSXEUAE" href="http://dati.senato.it/32717" showAs="STABILE"/>
+				<an:TLCPerson id="ID0WPDZMFWEU2NLJQ4NNZVZLR4ZFPDG43SQSDIJUDSHWVASG4TT0BM" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.421</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ5DL2MPHCOCSDDZ2AUBAI2DB1BGVPZ4USWO30XOIOMOHTD0WFCEM" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDC4OF1KCAJKEBXMNTFLB3WDAJPZXPIRJZSOMY0HCCUMOHQSXEUAE" as="#tipoSenatore">STABILE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0WPDZMFWEU2NLJQ4NNZVZLR4ZFPDG43SQSDIJUDSHWVASG4TT0BM" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 41, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «41-
+					<an:i>bis</an:i>
+					. Alla Tabella A - Parte II-
+					<an:i>bis</an:i>
+					<an:i>(Beni e servizi soggetti all'aliquota del 5 per cento)</an:i>
+					 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, aggiungere, infine, il seguente numero:
+				</an:p>
+				<an:p>
+					        "1-
+					<an:i>quater.</an:i>
+					 Alimenti specifici per l'infanzia, latte formulato per l'infanzia per bambini da 0 a 36 mesi."».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 138 sostituire le parole:</an:i>
+					 «9.000 milioni di euro» 
+					<an:i>con le seguenti:</an:i>
+					 «8.950 milioni di euro».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
