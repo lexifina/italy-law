@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1660/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1660"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1660/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1660"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1660/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKO4UYVYFVH4CMHLDED1QCHELWDA2SLK4MQ4CTVCR0OW501ZBU5AD" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+				<an:TLCPerson id="IDZSYCAVFOMR54DFUPZ03JZ21B3IEXMLP4DSP5I5HNDWLSD1HAHFJP" href="http://dati.senato.it/29395" showAs="FARAONE"/>
+				<an:TLCPerson id="IDCUO2NNYLIDTMC5OXBAYHYMGYMG4XF3A5Z1OBOJKKBP1ICSM3IAYP" href="http://dati.senato.it/29282" showAs="BINI"/>
+				<an:TLCPerson id="IDQW3STUYHO3QLPRMAR4ISTSOQLGPEERSQJ1FAM0ITTWG4Y5HVIRXD" href="http://dati.senato.it/32660" showAs="MANCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1660</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKO4UYVYFVH4CMHLDED1QCHELWDA2SLK4MQ4CTVCR0OW501ZBU5AD" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZSYCAVFOMR54DFUPZ03JZ21B3IEXMLP4DSP5I5HNDWLSD1HAHFJP" as="#tipoSenatore">FARAONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCUO2NNYLIDTMC5OXBAYHYMGYMG4XF3A5Z1OBOJKKBP1ICSM3IAYP" as="#tipoSenatore">BINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQW3STUYHO3QLPRMAR4ISTSOQLGPEERSQJ1FAM0ITTWG4Y5HVIRXD" as="#tipoSenatore">MANCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 276 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «276
+					<an:i>-bis.</an:i>
+					 Nell'ambito delle risorse destinate al finanziamento del Servizio Sanitario Nazionale, per la revisione delle tariffe massime delle prestazioni di assistenza termale, ai sensi di quanto previsto all'articolo 1, comma 170, della legge 30 dicembre 2004, n. 311, e successive modifiche e integrazioni, è autorizzata la spesa di 5 milioni di euro per ciascuno degli anni 2019, 2020 e 2021».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla Tabella A, voce:</an:i>
+					 Ministero dell'economia e delle finanze 
+					<an:i>apportare le seguenti variazioni in diminuzione:</an:i>
+				</an:p>
+				<an:p>        «2019: -5.000.000;</an:p>
+				<an:p>        2020: -5.000.000;</an:p>
+				<an:p>        2021: -5.000.000».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
