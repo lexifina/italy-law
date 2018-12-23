@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/G1.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/G1.7"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/G1.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.7"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/G1.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID02ZX4C0RJCDXNKDHN5N2SGPI2JZ31V5BJM3FXBLOHGYTCBKYSC2J" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDIX0PNZW1OKFPGZGQAXKF5M20DPJG1F3FKTMNGXOPCZGAQMOCJ0BL" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDAMSGNFLSQLQPEPCJUO1DJ1Y4GJJM3BBM3P45X2LTBUDGFNG5R1GK" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDEYWWL0ZCOZXVOHUW2TTPYQDEEXRJJUQX5MJCXC0112JG512TAJD" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID02ZX4C0RJCDXNKDHN5N2SGPI2JZ31V5BJM3FXBLOHGYTCBKYSC2J" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIX0PNZW1OKFPGZGQAXKF5M20DPJG1F3FKTMNGXOPCZGAQMOCJ0BL" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMSGNFLSQLQPEPCJUO1DJ1Y4GJJM3BBM3P45X2LTBUDGFNG5R1GK" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEYWWL0ZCOZXVOHUW2TTPYQDEEXRJJUQX5MJCXC0112JG512TAJD" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il Bilancio di previsione dello Stato per l'anno finanziario 2019 e bilancio pluriennale per il triennale 2019-2021 al comma 164 (Assunzioni nella pubblica amministrazione) prevede, al fine di potenziare il funzionamento degli uffici giudiziari e di garantirne la piena funzionalità, e di prevenire, nel contesto carcerario, fenomeni derivanti dalla condizione di marginalità sociale dei detenuti, nonché di realizzare una rete territoriale di istituti a custodia attenuata per detenute madri e di far fronte alle esigenze di funzionamento degli istituti penali per i minorenni, di autorizzare il Ministero della giustizia ad assumere, nell'ambito dell'attuale dotazione organica, per il triennio 2019-2021, con contratto di lavoro a tempo indeterminato, un contingente massimo di 3.000 unità di personale amministrativo non dirigenziale,</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            a oggi oltre duemila candidati risultati idonei al concorso per Assistenti Giudiziari, del novembre 2016, non hanno ancora trovato collocazione nell'organico dei tribunali;</an:p>
+				<an:p>            che continuano a persistere gravi carenze di personale nell'organico degli uffici giudiziari che incidono negativamente sullo svolgersi dell'attività giudiziaria, arrecando grave danno ai cittadini,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            nel rispetto dei vincoli di finanza pubblica, a considerare con attenzione, nelle more delle normative vigenti, per le prossime assunzioni negli uffici giudiziari, coloro che sono risultati idonei all'ultimo concorso per assistente giudiziario.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
