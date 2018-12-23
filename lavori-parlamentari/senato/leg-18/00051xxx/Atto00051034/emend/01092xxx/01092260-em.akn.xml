@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1988/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1988"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1988/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1988"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1988/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOHC5PX5ZFMPZPWDH310RZXL3LP0RIDWXFAPRV4DODFLWDLHHET5N" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="ID4ZUBT1RWCDSBEXAPETXPGAAVACDP3GOHTXKYZDITOMJZUYM4EDQH" href="http://dati.senato.it/32588" showAs="BITI"/>
+				<an:TLCPerson id="IDLOJBIMYPXCC2JDR4AMLF4MSYK3MI1AJRFDJFKPWOI4PFMOYVORK" href="http://dati.senato.it/29464" showAs="MAGORNO"/>
+				<an:TLCPerson id="IDR11NJKSEC41ZGJLQ55P01O3WCOCHS0PO3S04CIE5CI0D1DSFLSMP" href="http://dati.senato.it/25402" showAs="SBROLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1988</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOHC5PX5ZFMPZPWDH310RZXL3LP0RIDWXFAPRV4DODFLWDLHHET5N" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4ZUBT1RWCDSBEXAPETXPGAAVACDP3GOHTXKYZDITOMJZUYM4EDQH" as="#tipoSenatore">BITI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLOJBIMYPXCC2JDR4AMLF4MSYK3MI1AJRFDJFKPWOI4PFMOYVORK" as="#tipoSenatore">MAGORNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR11NJKSEC41ZGJLQ55P01O3WCOCHS0PO3S04CIE5CI0D1DSFLSMP" as="#tipoSenatore">SBROLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 381, dopo le parole:</an:i>
+					 «ad assumere» 
+					<an:i>inserire le seguenti</an:i>
+					: «mediante procedure di selezione ad evidenza pubblica» 
+					<an:i>e dopo le parole</an:i>
+					: «57 unità di personale» 
+					<an:i>inserire le seguenti</an:i>
+					: «tecnico per il potenziamento delle attività ispettive, sanzionatorie e di controllo».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, sopprimere il comma 382.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
