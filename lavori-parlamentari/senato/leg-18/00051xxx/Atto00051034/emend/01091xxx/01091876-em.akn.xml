@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1605/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1605"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1605/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1605"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1605/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOCO4UVSXVZRDEBEWO0CXAEU4RK5NAZLQPKPZERHEPY3UJXXK3EMH" href="http://dati.senato.it/25558" showAs="BERNINI"/>
+				<an:TLCPerson id="IDBK33PCF4FF10LHI3R03KBZLIDJM5OQ0ALW35BYGPJON3LHFZBZHP" href="http://dati.senato.it/32707" showAs="RONZULLI"/>
+				<an:TLCPerson id="IDDSBAYZS31Y5TDBUX3SIC0FVNCHH3SVHMJNYAHGNF3MX3A2WBDYZC" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDLOW3TABLF42GI1L25551U4S2VKNIYY3VOQQ0KXG0HXKIZCPDDQEH" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="ID5X4R5R2KUFUNEM50Q2S3Z0SVDH23JQ3ZXLVKATEGRNK0CJTWIEZK" href="http://dati.senato.it/4584" showAs="VITALI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1605</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOCO4UVSXVZRDEBEWO0CXAEU4RK5NAZLQPKPZERHEPY3UJXXK3EMH" as="#tipoSenatore">BERNINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBK33PCF4FF10LHI3R03KBZLIDJM5OQ0ALW35BYGPJON3LHFZBZHP" as="#tipoSenatore">RONZULLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDSBAYZS31Y5TDBUX3SIC0FVNCHH3SVHMJNYAHGNF3MX3A2WBDYZC" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLOW3TABLF42GI1L25551U4S2VKNIYY3VOQQ0KXG0HXKIZCPDDQEH" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5X4R5R2KUFUNEM50Q2S3Z0SVDH23JQ3ZXLVKATEGRNK0CJTWIEZK" as="#tipoSenatore">VITALI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 255 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «255-
+					<an:i>bis</an:i>
+					. Il Fondo di garanzia per la prima casa, di cui all'articolo 1, comma 48, lettera 
+					<an:i>c)</an:i>
+					 della legge 27 dicembre 2013, n. 147, istituito con priorità per l'accesso al credito da parte delle giovani coppie o dei nuclei familiari monogenitoriali con figli minori, è rifinanziato per l'anno 2019 di 50 milioni di euro. Agli oneri derivanti dal presente comma si provvede per l'anno 2019 mediante corrispondente riduzione della dotazione del fondo di cui al comma 421».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
