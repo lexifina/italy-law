@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1662/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1662"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1662/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1662"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1662/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDDGT5KYMQ0KOPSVEAW0ZFKY1GP4C5UPIFQPCE3P12E0JVSE2CXCJ" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDFQWXG1J2LGODFWWMCH0CZCF3VENUJ2UJQMOBVDLFRVTG0244JB4N" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDMRAXXQ20UTMVHQNCIG5G4XVNFEIO1V1LZIDYTMECPX3GM1C001DI" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDZVKBLBI3X5BJHP4ZQM2XZS4V2EVZXV30N1PKZHBD2VR4P2LXRP" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1662</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDDGT5KYMQ0KOPSVEAW0ZFKY1GP4C5UPIFQPCE3P12E0JVSE2CXCJ" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFQWXG1J2LGODFWWMCH0CZCF3VENUJ2UJQMOBVDLFRVTG0244JB4N" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMRAXXQ20UTMVHQNCIG5G4XVNFEIO1V1LZIDYTMECPX3GM1C001DI" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZVKBLBI3X5BJHP4ZQM2XZS4V2EVZXV30N1PKZHBD2VR4P2LXRP" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 276 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «276
+					<an:i>-bis.</an:i>
+					 A decorrere dall'anno 2019, fermo restando il livello di finanziamento del Servizio Sanitario Nazionale cui concorre ordinariamente lo Stato, i seguenti importi di quote vincolate:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 importo destinato all'assegnazione delle borse di studio ai medici di medicina generale che partecipano ai corsi di formazione specifica, di cui all'articolo 3 del decreto-legge 30 maggio 1994, n. 325, convertito, con modificazioni, dalla legge 19 luglio 1994, n. 467, pari a 38,735 milioni di euro;
+				</an:p>
+				<an:p>        b) importo destinato all'assistenza sanitaria per gli stranieri non iscritti al Servizio Sanitario Nazionale, di cui all'articolo 35, comma 6, del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, pari a 30.990 milioni di euro;</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 importo destinato alla riqualificazione dell'assistenza sanitaria e dell'attività libero-professionale, di cui all'articolo 28, comma 8, della legge 23 dicembre 1999, n. 488, per un valore massimo di 41,317 milioni di euro confluiscono nella quota indistinta dei fabbisogno sanitario 
+					<an:i>standard</an:i>
+					 nazionale, di cui all'articolo 26 del decreto legislativo 6 maggio 2011, n. 68, e sono ripartiti tra le regioni e le province autonome di Trento e di Bolzano secondo i criteri e le modalità previsti dalla legislazione vigente in materia di costi 
+					<an:i>standard</an:i>
+					.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
