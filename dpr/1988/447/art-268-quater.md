@@ -26,7 +26,7 @@ Gli atti e i verbali relativi a comunicazioni e conversazioni non acquisite sono
 
 Alle operazioni di acquisizione provvede il giudice per le indagini preliminari che ha autorizzato, convalidato o prorogato le intercettazioni.
 
-(253) ((260))
+(253) (260) ((263))
 
 ---------------
 
@@ -39,3 +39,9 @@ Il D.Lgs. 29 dicembre 2017, n. 216 ha disposto (con l'art. 9, comma 1) che la pr
 AGGIORNAMENTO (260)
 
 Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dal D.L. 25 luglio 2018, n. 91, convertito con modificazioni dalla L. 21 settembre 2018, n. 108, ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui agli articoli 2, 3 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 marzo 2019".
+
+--------------
+
+AGGIORNAMENTO (263)
+
+Il D.Lgs. 29 dicembre 2017, n. 216, come modificato dalla L. 30 dicembre 2018, n. 145, ha disposto (con l'art. 9, comma 1) che "Le disposizioni di cui agli articoli 2, 3 4, 5 e 7 si applicano alle operazioni di intercettazione relative a provvedimenti autorizzativi emessi dopo il 31 luglio 2019".
