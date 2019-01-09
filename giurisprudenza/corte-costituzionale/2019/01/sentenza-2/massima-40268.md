@@ -1,0 +1,22 @@
+# Massima n. 40268
+
+- Pronuncia: Corte costituzionale, sentenza 2/2019 (ECLI:IT:COST:2019:2)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:2
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - Norme della Regione Lazio - Accertamento di conformità degli interventi edilizi realizzati in assenza del titolo abilitativo o in difformità da esso - Oblazione per il rilascio del permesso in sanatoria - Fissazione in misura pari al valore dell'intervento - Denunciata alterazione del meccanismo di estinzione del reato edilizio e conseguente invasione della competenza statale esclusiva in materia penale - Insussistenza - Non fondatezza della questione.
+
+## Testo
+
+È ritenuta non fondata la questione di legittimità costituzionale dell'art. 22, comma 2, della legge reg. Lazio n. 15 del 2008, censurato dal TAR Lazio, in riferimento agli artt. 25 e 117, secondo comma, lett. l), Cost., in quanto - nella procedura di accertamento di conformità alla normativa urbanistico-edilizia vigente e pregressa degli interventi edilizi eseguiti in assenza di titolo abilitativo o in difformità da esso - condiziona il rilascio della sanatoria al pagamento, a titolo di oblazione, di una somma (pari al valore di mercato dell'intervento) più elevata di quella (pari al doppio degli oneri concessori) stabilita dall'art. 36 del TUE. Posto che nel meccanismo di estinzione dei reati edilizi delineato dagli artt. 36, comma 2, e 45, comma 3, del TUE l'effetto estintivo del reato è determinato dal rilascio del permesso in sanatoria previo accertamento della c.d. "doppia conformità" dell'abuso, e che il pagamento dell'oblazione - lungi dall'essere riconducibile al modello di cui agli artt. 162 e 162-bis cod. pen. - si configura quale adempimento (con funzione in parte ripristinatoria e in parte sanzionatoria) del procedimento amministrativo che conduce all'adozione del permesso, la scelta del legislatore regionale di quantificare autonomamente l'oblazione interviene su un elemento del procedimento di formazione dell'atto amministrativo senza alterare il meccanismo di estinzione del reato, e dunque non invade la competenza legislativa esclusiva dello Stato in materia penale, risultando bensì espressiva della funzione di "governo del territorio" tipica della disciplina urbanistica ed edilizia, rimessa alla potestà legislativa delle Regioni nel rispetto dei principi fondamentali stabiliti dalla legislazione statale e, in particolare, di quelli desumibili dal TUE, tra i quali rientra la previsione del pagamento di una somma, ma non necessariamente la relativa misura, che può essere determinata autonomamente dalle leggi regionali. La riserva di legge statale di cui all'art. 25, secondo comma, Cost. si estende a tutte le vicende modificative ed estintive della punibilità, rendendo così illegittimi anche gli interventi normativi delle Regioni sulle cause di estinzione del reato. Nondimeno, nelle materie di loro competenza le Regioni possono concorrere a precisare secundum legem i presupposti applicativi di norme penali, come può verificarsi nei casi in cui la legge statale subordina effetti incriminatori o decriminalizzanti ad atti amministrativi (o legislativi) regionali. ( Precedenti citati: sentenze n. 46 del 2014, n. 63 del 2012, 183 del 2006, n. 70 del 2005 e n. 196 del 2004 ). Con riguardo alla sanatoria degli interventi edilizi realizzati in assenza o in difformità dal titolo abilitativo, la verifica della c.d. "doppia conformità" costituisce principio fondamentale della "materia governo del territorio", in quanto adempimento finalizzato a garantire l'assoluto rispetto della disciplina urbanistica ed edilizia durante tutto l'arco temporale compreso tra la realizzazione dell'opera e la presentazione dell'istanza volta ad ottenere l'accertamento di conformità. Costituisce altresì, principio fondamentale la previsione del pagamento di una somma, ma non necessariamente la relativa misura, che può essere autonomamente determinata dal legislatore regionale. ( Precedenti citati: sentenze n. 232 del 2017, n. 107 del 2017 e n. 101 del 2013 ).
+
+## Norme
+
+- legge della Regione Lazio, 11/08/2008 n. 15, art. 22, comma 2
+
+## Parametri
+
+- Costituzione, art. 25
+- Costituzione, art. 117, comma 2 lett. l)
