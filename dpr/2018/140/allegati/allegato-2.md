@@ -1,0 +1,9 @@
+Allegato 2
+
+(articolo 6, comma 1)
+
+COLLEGAMENTI TRA BILANCIO DELLO STATO E PIANO FINANZIARIO
+
+DEL PIANO DEI CONTI (TITOLI DI SPESA V/PDC I LIVELLO)
+
+Parte di provvedimento in formato grafico
