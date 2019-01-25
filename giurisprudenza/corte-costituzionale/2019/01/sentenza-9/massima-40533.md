@@ -1,0 +1,22 @@
+# Massima n. 40533
+
+- Pronuncia: Corte costituzionale, sentenza 9/2019 (ECLI:IT:COST:2019:9)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:9
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Procedimento amministrativo - Norme della Regione Lombardia - Conferenza di servizi - Assunzione di determinazione che presupponga o implichi anche l'adozione di un provvedimento di competenza di un organo di indirizzo politico - Scorporo dell'acquisizione di tale provvedimento dal modulo procedimentale della conferenza ed eventuale sospensione dell'efficacia della determinazione conclusiva di essa - Contrasto con il modello procedimentale configurato dalla normativa statale e violazione della competenza legislativa esclusiva dello Stato in materia di determinazione dei livelli essenziali delle prestazioni - Illegittimità costituzionale in parte qua.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo - per violazione dell'art. 117, secondo comma, lett.  m ), Cost. - l'art. 2, comma 1, lett.  b ), della legge reg. Lombardia n. 36 del 2017, nella parte in cui introduce il comma 1- quater  nell'art. 13 della legge reg. Lombardia n. 1 del 2012, a norma del quale, qualora la determinazione da assumere in conferenza di servizi presupponga o implichi anche l'adozione di un provvedimento di competenza di un organo di indirizzo politico, tale provvedimento è scorporato dal modulo procedimentale della conferenza di servizi ed è acquisito prima o dopo la determinazione motivata di conclusione della stessa conferenza, con sospensione, nel primo caso, dell'efficacia della determinazione fino alla formalizzazione del suddetto provvedimento. La norma regionale impugnata dal Governo, discostandosi dagli artt. 14- ter  e 14- quater  della legge n. 241 del 1990 nella parte in cui definiscono le modalità di formazione e l'efficacia della determinazione di conclusione della conferenza, interferisce negativamente con profili della conferenza di servizi riconducibili alla competenza statale esclusiva in materia di livelli essenziali delle prestazioni, poiché non assicura (come consentito alle Regioni dall'art. 29, comma 2- quater , della legge n. 241 del 1990) "livelli ulteriori di tutela" rispetto a quelli essenziali stabiliti dalla disciplina statale, bensì sacrifica le finalità di semplificazione e velocità alla cui protezione è orientata quest'ultima, finendo con il vanificare il senso stesso della conferenza e l'efficacia della sua determinazione conclusiva. Il modello di conferenza di servizi configurato dal legislatore lombardo è inoltre del tutto squilibrato e contraddittorio, in quanto (senza precisare cosa avvenga in caso di coinvolgimento di più organi politici) assegna una netta prevalenza alla valutazione dell'organo di indirizzo politico - che può arrivare a stravolgere, dall'esterno, l'esito della conferenza - e mantiene tale valutazione separata da quella degli altri soggetti interessati, sebbene la decisione da assumere in conferenza presupponga o implichi un provvedimento dell'organo politico. Secondo la giurisprudenza costituzionale, la conferenza di servizi costituisce un modulo procedimentale-organizzativo suscettibile di produrre un'accelerazione dei tempi procedurali e, nel contempo, un esame congiunto degli interessi pubblici coinvolti. Tenuto conto della varietà dei settori coinvolti, molti dei quali relativi anche a competenze regionali, deve escludersi che l'intera disciplina dell'istituto - e dunque quella del superamento del dissenso all'interno della conferenza - sia riconducibile ad una materia di competenza statale esclusiva; non può invece escludersi che singoli profili della disciplina siano riconducibili alla competenza legislativa statale in materia di determinazione dei livelli essenziali delle prestazioni (art. 117, secondo comma, lett. m, Cost.), coerentemente con quanto disposto dal citato art. 29, comma 2-quater, della legge n. 241 del 1990. ( Precedenti citati: sentenze n. 246 del 2018, n. 235 del 2018 e n. 179 del 2012 ).
+
+## Norme
+
+- legge della Regione Lombardia, 12/12/2017 n. 36, art. 2, comma 1 lett. b)
+- legge della Regione Lombardia, 01/02/2012 n. 1, art. 13, comma 1 quater
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. m)
