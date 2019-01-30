@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/3.33/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/3.33"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/A/3.33/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.33"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@.akn"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-01-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-01-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/A/3.33/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1KNYH2C20SGOC3C0NQEIEVWTNCHY3N3HPGXQ5DMXBI0B0B0V3F0J" href="http://dati.senato.it/32659" showAs="MALLEGNI"/>
+				<an:TLCPerson id="IDKER0FGXVCZVRN5LFHYYTCHEB2PYROLLM23RVHEKCFD1DW41GSORC" href="http://dati.senato.it/4584" showAs="VITALI"/>
+				<an:TLCPerson id="IDTD10T4QVPKSFHGPKZYUF0H534MBX0Q2UZLXZSHD3KLYC3XADPP5O" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.33</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1KNYH2C20SGOC3C0NQEIEVWTNCHY3N3HPGXQ5DMXBI0B0B0V3F0J" as="#tipoSenatore">MALLEGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKER0FGXVCZVRN5LFHYYTCHEB2PYROLLM23RVHEKCFD1DW41GSORC" as="#tipoSenatore">VITALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTD10T4QVPKSFHGPKZYUF0H534MBX0Q2UZLXZSHD3KLYC3XADPP5O" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Al decreto legislativo 25 maggio 2017, n. 92, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 all'articolo 3, comma 6, è aggiunto in fine il seguente periodo: "Gli obblighi del presente articolo non si applicano per le imprese che svolgono attività di compro oro in via secondaria rispetto all'attività prevalente, ai sensi dell'articolo 67, comma 1, lettera 
+					<an:i>i)</an:i>
+					, del testo unico delle imposte sui redditi di cui al decreto dei Presidente della Repubblica 22 dicembre 1986, n. 917 nonché per quelle iscritte all'albo delle imprese artigiane.";
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 all'articolo 5, comma 1, è aggiunto in fine il seguente periodo: "Le disposizioni di cui al presente comma non si applicano per le imprese che svolgono attività di compro oro in via secondaria rispetto all'attività prevalente ai sensi dell'articolo 67, comma 1, lettera 
+					<an:i>i)</an:i>
+					, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917 nonché per quelle iscritte all'albo delle imprese artigiane"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
