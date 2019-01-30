@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.500 testo 2/10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@.akn"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-01-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-01-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/A/10.500 testo 2/10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWEY3C4YOWYIGFI2XRVJKMGHPSF5LIH0NON3KOKPPKH43QRLCYXHF" href="http://dati.senato.it/32585" showAs="BERARDI"/>
+				<an:TLCPerson id="IDYFSSIU3LRZDZIQK3SGYBZW1ATCG3SQWO1V32B4MVHIRYPDDM1FCF" href="http://dati.senato.it/32666" showAs="MASINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.500 testo 2/10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWEY3C4YOWYIGFI2XRVJKMGHPSF5LIH0NON3KOKPPKH43QRLCYXHF" as="#tipoSenatore">BERARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYFSSIU3LRZDZIQK3SGYBZW1ATCG3SQWO1V32B4MVHIRYPDDM1FCF" as="#tipoSenatore">MASINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 10.500 (testo 2), aggiungere, in fine, il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        «2
+					<an:i>-undecies</an:i>
+					. Al fine di rendere possibile una maggiore mobilità professionale all'interno del comparto della scuola, in relazione a fenomeni di diminuzione della popolazione scolastica e quindi di emergenza di situazioni di soprannumerarietà del personale docente, ovvero in relazione a cambiamenti negli ordinamenti degli studi e nei programmi di insegnamento, sono effettuati corsi di riconversione professionale, aventi, ove necessario, anche valore abilitante. I corsi, a costo zero per lo Stato, sono organizzati dalle Università anche telematiche in convenzione con gli Uffici scolastici regionali, nonché da enti ed organizzazioni esterni ed organismi aventi strutture e tecnologie avanzate. Nei corsi con valore abilitante è comunque garantita nella Commissione la presenza di personale docente universitario e di personale direttivo e docente della scuola ai fini della valutazione finale, nominato dallo stesso Ufficio scolastico regionale. I corsi medesimi si svolgono secondo modalità che ne rendono compatibile la frequenza con la normale prestazione del servizio da parte dei partecipanti, nonché del coordinatore e dei docenti qualora questi ultimi siano stati scelti tra il personale della scuola. Requisito di ammissione ai corsi, di cui al presente articolo, è il possesso del titolo di studio previsto per l'insegnamento cui si riferiscono i corsi stessi».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
