@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.0.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.0.6"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.0.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@.akn"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-01-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-01-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/A/10.0.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFFFPZ0C01LWNM0FPX45RJ2BZ3ECOXBRCWMSUY5N4O3GQTMWBXQLG" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDAKBT5JWWIRBEJV2F1YIMK1D0VJBR4OCEN3DI2REV5GCFNU5DRUFF" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDHFSBTEX4QAXVGWTHPSPETJZ3YH20XU0HS1OXC0L2FQ4UJ0G1TPFL" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDULTQGRAGICBDHBTS2VRXFXOGCHCGN3OAOYSC4RJA4AAPOZXT52AF" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFFFPZ0C01LWNM0FPX45RJ2BZ3ECOXBRCWMSUY5N4O3GQTMWBXQLG" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKBT5JWWIRBEJV2F1YIMK1D0VJBR4OCEN3DI2REV5GCFNU5DRUFF" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHFSBTEX4QAXVGWTHPSPETJZ3YH20XU0HS1OXC0L2FQ4UJ0G1TPFL" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDULTQGRAGICBDHBTS2VRXFXOGCHCGN3OAOYSC4RJA4AAPOZXT52AF" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 10-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">(Proroga indagini vulnerabilità sismica)</an:p>
+				<an:p>
+					        1. All'articolo 6 comma 3-
+					<an:i>quinquies</an:i>
+					 del d.l. 91 decreto-legge 25 luglio 2018, n. 91 convertito dalla legge 21 settembre 2018, n. 108 le parole: "Entro il 31 dicembre 2018" sono sostituite dalle seguenti: "Entro il 31 dicembre 2019",
+				</an:p>
+				<an:p>            2. All'articolo 20, comma 5, del decreto-legge 31 dicembre 2007, n. 248, convertito, con modificazioni, dall'articolo 1, comma 1, legge 28 febbraio 2008, n. 31, le parole: "Entro il 31 agosto 2010" sono sostituite dalle seguenti: "Entro il 31 dicembre 2019"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
