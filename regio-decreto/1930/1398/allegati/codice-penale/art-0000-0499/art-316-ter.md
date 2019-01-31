@@ -2,11 +2,11 @@ Art. 316-ter.
 
 (Indebita percezione di erogazioni a danno dello Stato).
 
-Salvo che il fatto costituisca il reato previsto dall'articolo 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per se' o per altri, contributi, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati dallo Stato, da altri enti pubblici o dalle Comunita' europee e' punito con la reclusione da sei mesi a tre anni.
+Salvo che il fatto costituisca il reato previsto dall'articolo 640-bis, chiunque mediante l'utilizzo o la presentazione di dichiarazioni o di documenti falsi o attestanti cose non vere, ovvero mediante l'omissione di informazioni dovute, consegue indebitamente, per se' o per altri, contributi, finanziamenti, mutui agevolati o altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati dallo Stato, da altri enti pubblici o dalle Comunita' europee e' punito con la reclusione da sei mesi a tre anni. ((La pena e' della reclusione da uno a quattro anni se il fatto e' commesso da un pubblico ufficiale o da un incaricato di un pubblico servizio con abuso della sua qualita' o dei suoi poteri)).
 
 Quando la somma indebitamente percepita e' pari o inferiore a lire sette milioni settecentoquarantacinquemila si applica soltanto la sanzione amministrativa del pagamento di una somma di denaro da dieci a cinquanta milioni di lire. Tale sanzione non puo' comunque superare il triplo del beneficio conseguito.
 
-((281))
+(281)
 
 -------------
 

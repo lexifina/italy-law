@@ -1,8 +1,10 @@
 Art. 322-quater
 
-(( (Riparazione pecuniaria). )).
+(Riparazione pecuniaria).
 
-((Con la sentenza di condanna per i reati previsti dagli articoli 314, 317, 318, 319, 319-ter, 319-quater, 320 e 322-bis, e' sempre ordinato il pagamento di una somma pari all'ammontare di quanto indebitamente ricevuto dal pubblico ufficiale o dall'incaricato di un pubblico servizio a titolo di riparazione pecuniaria in favore dell'amministrazione cui il pubblico ufficiale o l'incaricato di un pubblico servizio appartiene, ovvero, nel caso di cui all'articolo 319-ter, in favore dell'amministrazione della giustizia, restando impregiudicato il diritto al risarcimento del danno)). ((399))
+Con la sentenza di condanna per i reati previsti dagli articoli 314, 317, 318, 319, 319-ter, 319-quater, 320 ((, 321)) e 322-bis, e' sempre ordinato il pagamento ((di una somma equivalente al prezzo o al profitto del reato a titolo di riparazione pecuniaria in favore dell'amministrazione lesa dalla condotta del pubblico ufficiale o dell'incaricato di un pubblico servizio,)) restando impregiudicato il diritto al risarcimento del danno.
+
+((399))
 
 ------------
 
