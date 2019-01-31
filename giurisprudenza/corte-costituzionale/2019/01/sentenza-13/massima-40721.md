@@ -1,0 +1,13 @@
+# Massima n. 40721
+
+- Pronuncia: Corte costituzionale, sentenza 13/2019 (ECLI:IT:COST:2019:13)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:13
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudice rimettente - Autorità garante della concorrenza e del mercato - Legittimazione a sollevare questioni incidentali di costituzionalità - Insussistenza, per difetto dell'essenziale requisito della terzietà.
+
+## Testo
+
+L'Autorità garante della concorrenza e del mercato non è legittimata a sollevare questioni incidentali di legittimità costituzionale, poiché - a differenza di altri organi ritenuti legittimati dalla giurisprudenza costituzionale pur se non incardinati in un ordine giudiziario - è priva dell'essenziale requisito della terzietà. Infatti, né la veste processuale che l'AGCM assume davanti al giudice amministrativo - di parte resistente all'impugnazione dei suoi provvedimenti (artt. 133, comma 1, lett.  l , e 134, comma 1, lett.  c , cod. proc. amm.) e di parte processuale ricorrente per l'impugnazione degli atti di qualsiasi amministrazione pubblica che violino le norme antitrust (art. 21- bis  della legge n. 287 del 1990, introdotto dall'art. 35, comma 1, del d.l. n. 201 del 2011) - né la legittimazione a stare in giudizio, spettante ad essa e non ai suoi uffici inquirenti, sono compatibili con la posizione di giudice, la quale postula l'estraneità alla situazione sostanziale ed esclude qualsiasi, anche indiretto, interesse alla causa da decidere. Deve altresì escludersi l'esigenza di configurare l'AGCM come giudice "ai limitati fini" di garantire il rispetto del principio di costituzionalità, costituendo il giudizio davanti al TAR una sede giurisdizionale agevolmente accessibile in cui può essere promossa la questione di legittimità costituzionale, pur se su iniziativa, del tutto discrezionale, del soggetto privato segnalante, parte non necessaria del procedimento. La veste processuale di parte riflette, del resto, la funzione amministrativa discrezionale attribuita all'Autorità, il cui esercizio - lungi dall'essere neutrale - comporta la ponderazione dell'interesse pubblico specifico alla tutela della concorrenza e del mercato, di cui l'ACGM è portatrice, con gli altri interessi pubblici e privati in gioco, nell'ambito di un contraddittorio che resta di natura verticale, perché il privato si confronta con un soggetto che, nell'irrogazione della sanzione, non è in posizione di parità.
