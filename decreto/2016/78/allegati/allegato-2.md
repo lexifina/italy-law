@@ -1,0 +1,5 @@
+Allegato 2
+
+(Articoli 16, 17 e 22)
+
+Parte di provvedimento in formato grafico

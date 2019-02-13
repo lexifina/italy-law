@@ -1,0 +1,5 @@
+Allegato 1
+
+(Articoli 2 e 7)
+
+Parte di provvedimento in formato grafico
