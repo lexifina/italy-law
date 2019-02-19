@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/C/5.61/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/C/5.61"/>
+					<an:FRBRdate date="2019-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/C/5.61/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.61"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@"/>
+					<an:FRBRdate date="2019-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@.akn"/>
+					<an:FRBRdate date="2019-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/C/5.61/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 8° riunite" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIW2PGTC22YMYLYENXMWOZ3ROCFGUJBRFHJRO4HN0SD32ZON1PQ" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDKDF2Q2OGR132DCS2HMDG1GYY4BJ4H2BUK14SXIJRS124VR1Z33AP" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDLSUQJ2H3ZZ4MHYJCITBH4PQYME3AMPRK2P4SUAEIWIEVDOSBYSUI" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDI3ZCHSFI5XXKKPDEA3D5A5MWKCQLWLH5C0CFBDHQZZGLKX4EWVGG" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.61</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIW2PGTC22YMYLYENXMWOZ3ROCFGUJBRFHJRO4HN0SD32ZON1PQ" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKDF2Q2OGR132DCS2HMDG1GYY4BJ4H2BUK14SXIJRS124VR1Z33AP" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLSUQJ2H3ZZ4MHYJCITBH4PQYME3AMPRK2P4SUAEIWIEVDOSBYSUI" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI3ZCHSFI5XXKKPDEA3D5A5MWKCQLWLH5C0CFBDHQZZGLKX4EWVGG" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis.</an:i>
+					 All'articolo 177, comma 2, del decreto legislativo 18 aprile 2016, n. 50, le parole: "ventiquattro mesi dalla data di entrata in vigore del presente codice" sono sostituite dalle seguenti: "il 31 dicembre 2019"».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
