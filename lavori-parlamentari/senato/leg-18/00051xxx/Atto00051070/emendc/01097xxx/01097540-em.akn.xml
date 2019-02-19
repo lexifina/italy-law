@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/C/10.500/12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/C/10.500/12"/>
+					<an:FRBRdate date="2019-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/C/10.500/12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.500/12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@"/>
+					<an:FRBRdate date="2019-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@.akn"/>
+					<an:FRBRdate date="2019-02-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/C/10.500/12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 8° riunite" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMEEZ2KTD4GCWDAIBMQT1L2I2ZLHP01E52PIBVSHNECO2OQX1WWKK" href="http://dati.senato.it/32585" showAs="BERARDI"/>
+				<an:TLCPerson id="IDQZYB3PGSWKHDKP1TNEULFBGFJCFS3M1XXW1RY1C120W3T2HXHIWP" href="http://dati.senato.it/32666" showAs="MASINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.500/12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMEEZ2KTD4GCWDAIBMQT1L2I2ZLHP01E52PIBVSHNECO2OQX1WWKK" as="#tipoSenatore">BERARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQZYB3PGSWKHDKP1TNEULFBGFJCFS3M1XXW1RY1C120W3T2HXHIWP" as="#tipoSenatore">MASINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 10.500, alla lettera</an:i>
+					 b)
+					<an:i>, aggiungere, in fine, il seguente comma:</an:i>
+				</an:p>
+				<an:p/>
+				<an:p>
+					«2-
+					<an:i>undecies.</an:i>
+					 In ordine all'incidenza sul trattamento accessorio delle risorse derivanti dalla contrattazione collettiva nazionale e delle assunzioni in deroga, il limite di cui all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 7 5, non opera con riferimento alle risorse da destinare per la corresponsione della retribuzione professionale docenti e del compenso individuale accessorio come determinati nel CCNL 2016/2018 Comparto Istruzione e Ricerca del 9 febbraio 2018, anche al personale con supplenza breve, a partire dall'a. s. 2019/2020, da utilizzate dall'apposita sezione del fondo per il miglioramento dell'offerta formativa di cui all'articolo 1, comma 592 della legge n. 205 del 27 dicembre 2017».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
