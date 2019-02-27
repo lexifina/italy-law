@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/15.0.2"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@.akn"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/A/15.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1IAJSG3FKHKKFL0UHJKP5GRFAHCX1J0YSBREMEPOR0JNDCATPIAP" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDNHJR5YILW5Q2O0M2H5EITHTYVBN4GGZNC22P1BECLTECYKJVPZZE" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDN05PYY0WUAGNFPTTG4V2IGEBTJ0CLMGBWF15ZRCPQRM20XSJE25G" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDXM3BLHYMKZG3PKNZH1CIUGXUTF0GUT4FSYVXCOHGWOROSMKK2BPK" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1IAJSG3FKHKKFL0UHJKP5GRFAHCX1J0YSBREMEPOR0JNDCATPIAP" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNHJR5YILW5Q2O0M2H5EITHTYVBN4GGZNC22P1BECLTECYKJVPZZE" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN05PYY0WUAGNFPTTG4V2IGEBTJ0CLMGBWF15ZRCPQRM20XSJE25G" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXM3BLHYMKZG3PKNZH1CIUGXUTF0GUT4FSYVXCOHGWOROSMKK2BPK" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 15-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Requisiti per l'accesso al trattamento pensionistico per i dipendenti di imprese del settore editoriale e stampatrici di periodici)</an:i>
+				</an:p>
+				<an:p>        1. Ai fini dei requisiti per l'accesso al trattamento pensionistico previsto per i dipendenti di imprese del settore editoriale e stampatrici di periodici, di cui all'articolo 1, comma 154, della legge 27 dicembre 2017, n. 205, ferme restando le condizioni previste dal predetto comma, sono computati anche i periodi di fruizione del trattamento di mobilità. I trattamenti pensionistici di cui al presente comma sono erogati nell'ambito del limite di spesa di 1 milione di euro annui a decorrere dal 2019. L'INPS provvede al monitoraggio delle domande di pensionamento presentate dai soggetti di cui al presente comma secondo l'ordine di sottoscrizione del relativo accordo di procedura presso l'ente competente. Qualora dall'esame delle domande presentate risulti il raggiungimento, anche in termini prospettici, dei limiti di spesa previsti per l'attuazione del presente comma, l'INPS non prende in esame ulteriori domande di pensionamento.</an:p>
+				<an:p>        2. Agli oneri derivanti dall'attuazione del presente articolo, pari a 1 milione di euro annui a decorrere dal 2019, si provvede mediante corrispondente riduzione della dotazione del fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
