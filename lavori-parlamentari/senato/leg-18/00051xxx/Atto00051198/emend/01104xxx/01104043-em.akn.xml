@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/1.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/1.25"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/1.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.25"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@.akn"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/A/1.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTPFX4SCA0M0QCPHXPG2HNKLY2O2IGCS0FDCM4FID1NPIVP0AAMEH" href="http://dati.senato.it/32706" showAs="ROMEO"/>
+				<an:TLCPerson id="IDXOBLJCV5KBHINBHHTBTQMKGJWK4YN3234NJB1KLV0DGXVJRVXZFO" href="http://dati.senato.it/32748" showAs="DE VECCHIS"/>
+				<an:TLCPerson id="IDTE14LVSAKSIOKIRX3OF0RIJYPK3IULRJBTJGK3EYA3LB5NJ40DVI" href="http://dati.senato.it/32695" showAs="PIZZOL"/>
+				<an:TLCPerson id="IDJZ02OPZDZJ3AB5AE3G5PS0X0ZMLTKIIFZQWQFBMUFRY312OI2PAL" href="http://dati.senato.it/32591" showAs="Simone BOSSI"/>
+				<an:TLCPerson id="IDPL1OZYUCQJZQFBR01V1P4NY2KBOD0YY4KF0VMDLJUF0JDIJKKTRP" href="http://dati.senato.it/19244" showAs="AUGUSSORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.25 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTPFX4SCA0M0QCPHXPG2HNKLY2O2IGCS0FDCM4FID1NPIVP0AAMEH" as="#tipoSenatore">ROMEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXOBLJCV5KBHINBHHTBTQMKGJWK4YN3234NJB1KLV0DGXVJRVXZFO" as="#tipoSenatore">DE VECCHIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTE14LVSAKSIOKIRX3OF0RIJYPK3IULRJBTJGK3EYA3LB5NJ40DVI" as="#tipoSenatore">PIZZOL</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJZ02OPZDZJ3AB5AE3G5PS0X0ZMLTKIIFZQWQFBMUFRY312OI2PAL" as="#tipoSenatore">Simone BOSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPL1OZYUCQJZQFBR01V1P4NY2KBOD0YY4KF0VMDLJUF0JDIJKKTRP" as="#tipoSenatore">AUGUSSORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al</an:i>
+					<an:i>comma 2, aggiungere, in fine, il seguente periodo:</an:i>
+					 «La Pensione di cittadinanza può essere concessa anche nei casi in cui il componente o i componenti del nucleo familiare di età pari o superiore ai 67 anni convivano con una o più persone in condizione di disabilità grave o non autosufficienza, come definita dall'allegato 3 del decreto del Presidente del Consiglio dei Ministri n. 159 del 2013, di età inferiore a 67 anni.»;
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente,</an:i>
+					<an:i>all'articolo 2, sostituire il comma 4 con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4. Il parametro di scala di equivalenza, di cui al comma 1, lettera 
+					<an:i>b),</an:i>
+					 numero 4, è pari ad 1 per il primo componente del nucleo familiare ed è incrementato di 0,4 per ogni ulteriore componente di età maggiore di anni 18 e di 0,2 per ogni ulteriore componente di minore età, fino un massimo di 2,1, ovvero sino ad un massimo di 2,5 nel caso di nuclei familiari con cinque o più componenti. Nel caso in cui nel nucleo familiare siano presenti componenti in condizioni di disabilità grave o non autosufficienza, come definita a fini ISEE, il parametro della scala di equivalenza è in ogni caso ulteriormente incrementato per ciascuno di tali componenti di un valore pari a 0,1 e, a decorrere dall'anno 2021, di un valore pari a 0,2, anche in deroga ai preditti limiti massimi.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
