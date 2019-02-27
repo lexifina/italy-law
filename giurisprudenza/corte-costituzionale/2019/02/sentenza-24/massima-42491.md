@@ -1,0 +1,13 @@
+# Massima n. 42491
+
+- Pronuncia: Corte costituzionale, sentenza 24/2019 (ECLI:IT:COST:2019:24)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:24
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Misure di prevenzione - Misure di prevenzione personali - Finalità preventiva anziché punitiva - Effetto restrittivo sulla libertà personale - Necessità di rispettare i principi a sua tutela (in particolare: riserva assoluta di legge e di giurisdizione).
+
+## Testo
+
+La circostanza che, ai fini dell'applicazione di una misura di prevenzione personale, siano comunque necessari elementi che facciano ritenere pregresse attività criminose da parte del soggetto, non comporta che tali misure abbiano nella sostanza carattere sanzionatorio-punitivo, sì da chiamare in causa necessariamente le garanzie che la CEDU, e la stessa Costituzione, sanciscono per la materia penale. Esse, imperniate su un giudizio di persistente pericolosità del soggetto, hanno una chiara finalità preventiva anziché punitiva, mirando a limitare la libertà di movimento del loro destinatario per impedirgli di commettere ulteriori reati, o quanto meno per rendergli più difficoltosa la loro realizzazione, consentendo al tempo stesso all'autorità di pubblica sicurezza di esercitare un più efficace controllo sulle possibili iniziative criminose del soggetto. Poiché l'esecuzione delle misure di prevenzione comporta una restrizione della libertà personale, conseguentemente in tanto possono considerarsi legittime, in quanto rispettino i requisiti cui l'art. 13 Cost. subordina la liceità di ogni restrizione alla libertà personale, tra i quali in particolare la riserva assoluta di legge (rinforzata) e la riserva di giurisdizione. In tal modo, gli esiti cui è approdata la giurisprudenza costituzionale italiana in tema di misure personali di prevenzione finiscono per attribuire un livello di tutela ai diritti fondamentali dei destinatari della misura della sorveglianza speciale, con o senza obbligo o divieto di soggiorno, superiore a quello assicurato in sede europea. Infatti, alle garanzie (richieste anche nel quadro convenzionale) di: a) di una idonea base legale delle misure in questione e b) della necessaria proporzionalità della misura rispetto ai legittimi obiettivi di prevenzione dei reati, si affianca quella ulteriore c) della riserva di giurisdizione. ( Precedenti citati: sentenze n. 335 del 1996, n. 177 del 1980, n. 46 del 1964, n. 29 del 1961, n. 11 del 1956 e n. 2 del 1956 ).
