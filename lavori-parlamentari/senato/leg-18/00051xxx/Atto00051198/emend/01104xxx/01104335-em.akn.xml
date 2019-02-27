@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/5.0.2"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@.akn"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/A/5.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID14HI3A5QXHKLEFPTXSYG0OSBLWE02QMUWUSRTPIEZKK2LEXBNEJ" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDWTU5R03JE0LKE2QHHPLNQ3LW3KSFOYAUHZ0U5PJL2ZENC4HWXFRO" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDAVR1HECBKJU1HUGVPII4MJXCCCPECB0YXKXVQTKHEKPOFCLV5EWJ" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="IDPW3ZAY2TNMZRP23YA2T3A4WW1NPGMBV4BIRL4XI0305DEVPHUPIL" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="IDQFFE5FQBL02AESAN5YVSPR4DXFPEFVW4CYPV5OF2K1BLFEUGNYHB" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID14HI3A5QXHKLEFPTXSYG0OSBLWE02QMUWUSRTPIEZKK2LEXBNEJ" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWTU5R03JE0LKE2QHHPLNQ3LW3KSFOYAUHZ0U5PJL2ZENC4HWXFRO" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVR1HECBKJU1HUGVPII4MJXCCCPECB0YXKXVQTKHEKPOFCLV5EWJ" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPW3ZAY2TNMZRP23YA2T3A4WW1NPGMBV4BIRL4XI0305DEVPHUPIL" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQFFE5FQBL02AESAN5YVSPR4DXFPEFVW4CYPV5OF2K1BLFEUGNYHB" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo,</an:b>
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 5-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni in materia di strutturazione dei servizi sociali territoriali)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 1, comma 200, della legge n. 205 del 2017 le parole: ''a valere e nei limiti di un terzo'' sono sostituite da: ''a valere nel limite della metà''.</an:p>
+				<an:p>        2. Le Regioni, con proprio atto, individuano le modalità organizzative opportune per garantire ai richiedenti il Rdc le valutazioni integrate di carattere lavorativo e sociale anche mediante protocolli o unità valutative specificamente dedicate».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
