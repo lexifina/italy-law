@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/12.850/103"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.850/103"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@.akn"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/A/12.850/103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4VC2NXONIZGXFSYYGJDRDQ2CFJJDYTNQ05IA40B3DQX3XEHRBXAO" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDOMXRGH5WKPBLIYWYUUOALA5VJLIPZXML4FQTVLLIHE2CYVDXPVMG" href="http://dati.senato.it/29395" showAs="FARAONE"/>
+				<an:TLCPerson id="IDA5IACRH432YWN4KS5BPBZS3NOIP2LLEEUIXKETKWCCNW4QMGJR1I" href="http://dati.senato.it/32719" showAs="SUDANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.850/103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4VC2NXONIZGXFSYYGJDRDQ2CFJJDYTNQ05IA40B3DQX3XEHRBXAO" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOMXRGH5WKPBLIYWYUUOALA5VJLIPZXML4FQTVLLIHE2CYVDXPVMG" as="#tipoSenatore">FARAONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5IACRH432YWN4KS5BPBZS3NOIP2LLEEUIXKETKWCCNW4QMGJR1I" as="#tipoSenatore">SUDANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 12.850, dopo le parole</an:i>
+					 "comma 3" inserire le seguenti "dopo le parole: «procedura selettiva pubblica,» inserire le seguenti: «con priorità per i soggetti già impiegati per l'espletamento di servizi di cui all'articolo 11 del decreto legislativo 14 settembre 2015, n. 150, presso enti, aziende ed organismi in 
+					<an:i>house providing</an:i>
+					 delle Regioni e delle Province Autonome, purché inseriti alla data di entrata in vigore della legge di conversione del presente decreto, in appositi elenchi nominativi istituiti ed aggiornati dalle Regioni e Province Autonome stesse,» e".
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
