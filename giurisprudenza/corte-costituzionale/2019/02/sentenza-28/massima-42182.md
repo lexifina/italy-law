@@ -1,0 +1,22 @@
+# Massima n. 42182
+
+- Pronuncia: Corte costituzionale, sentenza 28/2019 (ECLI:IT:COST:2019:28)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:28
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione Abruzzo - Adeguamento del piano regionale di gestione integrata dei rifiuti (PRGR) - Adozione del piano con legge regionale, anziché con atto amministrativo - Omessa applicazione della procedura in materia di valutazione ambientale strategica (VAS) - Violazione della competenza esclusiva statale in materia di tutela dell'ambiente e dell'ecosistema - Illegittimità costituzionale.
+
+## Testo
+
+Sono dichiarati costituzionalmente illegittimi - per violazione dell'art. 117, secondo comma, lett.  s ), Cost. - l'art. 2 della legge Reg. Abruzzo n. 5 del 2018 e il piano regionale di gestione integrata dei rifiuti (PRGR) adeguato, composto dagli allegati a tale legge, che stabiliscono la forma dell'atto legislativo per ogni adeguamento del piano, anziché quella dell'atto amministrativo. Stante la riconducibilità della disciplina dei rifiuti alla materia "tutela dell'ambiente e dell'ecosistema", di competenza esclusiva dello Stato, il legislatore nazionale ha titolo per imporre alle Regioni di provvedere nella forma dell'atto amministrativo, anziché in quella della legge; al contrario, il legislatore abruzzese ha omesso di applicare la procedura, in materia di VAS, prevista dall'art. 199 cod. ambiente per le ipotesi di approvazione e adeguamento dei PRGR. ( Precedenti citati: sentenze n. 150 del 2018 e n. 244 del 2016 ). Quando il legislatore statale prescrive l'adozione di una "procedura", comprendendovi la partecipazione degli interessati e l'acquisizione di pareri tecnici, deve intendersi che esso abbia inteso realizzare un procedimento amministrativo, al termine del quale la Regione è tenuta a provvedere nella forma che naturalmente ne consegue. ( Precedente citato: sentenza n. 310 del 2012 ). Secondo la giurisprudenza costituzionale, la legge dello Stato, nell'esercizio di una competenza esclusiva, può vietare che la funzione amministrativa regionale venga esercitata in via legislativa. Il passaggio dal provvedere in via amministrativa alla forma di legge è più consono alle ipotesi in cui la funzione amministrativa impatta su assetti della vita associata, per i quali viene avvertita una particolare esigenza di protezione di interessi primari a fini di maggior tutela e garanzia dei diritti; viceversa, nei casi in cui la legislazione statale, nelle materie di competenza esclusiva, conformi l'attività amministrativa all'osservanza di criteri tecnico-scientifici, lo slittamento della fattispecie verso una fonte primaria regionale fa emergere un sospetto di illegittimità. ( Precedenti citati: sentenze n. 20 del 2012, n. 44 del 2010, n. 271 del 2008 e n. 250 del 2008 ). Secondo la giurisprudenza costituzionale, le norme statali che, in materia di tutela dell'ambiente e dell'ecosistema, rimettono la definizione degli interventi regionali ad atti di pianificazione, devono intendersi prescrittive della forma dell'atto amministrativo, perché solo così è possibile assicurare le garanzie procedimentali per un giusto equilibrio tra i vari interessi in gioco, da soddisfare anche attraverso l'acquisizione di pareri tecnici, con conseguente divieto per la Regione di ricorrere ad una legge-provvedimento, dal momento che l'atto amministrativo costituisce il punto di approdo di un'adeguata attività istruttoria svolta in sede procedimentale, aperta al coinvolgimento degli enti territoriali e dei soggetti privati interessati, preordinata all'apprezzamento e alla sintesi delle plurime istanze coinvolte (siano esse statali, locali o private), che possono adeguatamente emergere ed essere valutate in modo trasparente, non solo a garanzia dell'imparzialità della scelta, ma anche e soprattutto per il perseguimento, nel modo più adeguato ed efficace, dell'interesse primario coinvolto, che consiste nell'inveramento della tutela ambientale. ( Precedenti citati: sentenze n. 69 del 2018, n. 66 del 2018, n. 174 del 2017, n. 173 del 2017, n. 139 del 2017, n. 90 del 2013, n. 85 del 2013, n. 20 del 2012 e n. 143 del 1989 ).
+
+## Norme
+
+- legge della Regione Abruzzo, 23/01/2018 n. 5, art. 2
+- legge della Regione Abruzzo, 23/01/2018 n. 5
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
