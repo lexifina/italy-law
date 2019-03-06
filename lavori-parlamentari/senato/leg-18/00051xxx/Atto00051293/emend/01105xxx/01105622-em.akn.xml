@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1063/A/G9.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1063/A/G9.100"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1063/A/G9.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G9.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@.akn"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-03-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-03-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1063/A/G9.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1063" showAs="DDL 1063"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDT41AQE4XT4GZM2KFJGI2PDATWB5VAJQKCG30BROS3KCLVY4YGS1N" href="http://dati.senato.it/25206" showAs="SCIASCIA"/>
+				<an:TLCPerson id="IDFNCKBTSRJKL3HHS455BNTLGNKBKSAO5KYTN2EFBBQ353USBTZ1P" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDEZ0D1GY1SPDUFKTCYND4JGVTAMZTK2DKSOGX3CHUXNPC5OJ2NJGJ" href="http://dati.senato.it/32688" showAs="PEROSINO"/>
+				<an:TLCPerson id="IDPJIFPJYQYRBXIBQAJD2BHNGRSMQH5NU5HU05PUF2WNJCCOYJKSYO" href="http://dati.senato.it/25412" showAs="ROSSI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1063</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G9.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT41AQE4XT4GZM2KFJGI2PDATWB5VAJQKCG30BROS3KCLVY4YGS1N" as="#tipoSenatore">SCIASCIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFNCKBTSRJKL3HHS455BNTLGNKBKSAO5KYTN2EFBBQ353USBTZ1P" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEZ0D1GY1SPDUFKTCYND4JGVTAMZTK2DKSOGX3CHUXNPC5OJ2NJGJ" as="#tipoSenatore">PEROSINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPJIFPJYQYRBXIBQAJD2BHNGRSMQH5NU5HU05PUF2WNJCCOYJKSYO" as="#tipoSenatore">ROSSI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge recante "Conversione in legge, con modificazioni, del decreto-legge 8 gennaio 2019, n. 1, recante misure urgenti a sostegno della Banca Carige S.p.a. - Cassa di risparmio di Genova e Imperia";</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            all'articolo 9, concernente "Erogazione di liquidità di emergenza", il comma 1 dispone che il Ministro dell'economia e delle finanze può rilasciare, entro il 30 giugno 2019, la garanzia statale per integrare il valore realizzato del collaterale stanziato da Banca Carige a garanzia di finanziamenti erogati dalla Banca d'Italia per fronteggiare gravi crisi di liquidità (ELA), in conformità con gli schemi previsti dalla Banca centrale europea;</an:p>
+				<an:p>            il Ministro dell'economia e delle finanze dovrebbe tenere conto del fatto che esiste un credito di imposta iscritto nelle voci di bilancio di Banca Carige pari a 1,5 miliardi di euro e che la stessa Banca possiede quote di partecipazione al capitale della Banca d'Italia, in conformità con gli schemi previsti dalla Bce. Tale circostanza appare rilevante anche ai fini del riconoscimento da parte della Commissione Europea all'Istituto il requisito di banca sistemica,</an:p>
+				<an:p>        impegna il Governo a valutare la possibilità di tenere conto dei crediti di imposta iscritti nelle voci di bilancio di Banca Carige, nonché della titolarità da parte della suddetta Banca di quote di partecipazione in Banca d'Italia.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
