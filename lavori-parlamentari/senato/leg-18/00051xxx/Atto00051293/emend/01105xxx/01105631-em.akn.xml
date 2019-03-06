@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1063/A/G14.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1063/A/G14.100"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1063/A/G14.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G14.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@.akn"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-03-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-03-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1063/A/G14.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1063" showAs="DDL 1063"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPC2QLUW1DZIQEYFI21CZCO0ATKIHGXW3LORJ31EWIQONB1X1DNXG" href="http://dati.senato.it/32610" showAs="D'ALFONSO"/>
+				<an:TLCPerson id="ID3CRGA2MDHZC1IKZ3VZGJKFPN1LA1H3MN2GZOT3OP22BQNZ4KJ3XK" href="http://dati.senato.it/29288" showAs="BONIFAZI"/>
+				<an:TLCPerson id="IDH0ECLF33SJSAP5142RB1MV4YHP4VSXTPHDLBA0FZ0GCXUD1RAKRM" href="http://dati.senato.it/32746" showAs="COMINCINI"/>
+				<an:TLCPerson id="IDZ1ARWQMNMFFXDSJ4POVKH4BLZMMDDAQSHCSDNSPHBOR0LI3VZ0JF" href="http://dati.senato.it/32643" showAs="GRIMANI"/>
+				<an:TLCPerson id="IDT0Q4UNFCITOHD1O4XAFJV1NBJGYLIQDMPKZLDYM5KHQ5JYESYX4I" href="http://dati.senato.it/17750" showAs="PINOTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1063</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G14.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPC2QLUW1DZIQEYFI21CZCO0ATKIHGXW3LORJ31EWIQONB1X1DNXG" as="#tipoSenatore">D'ALFONSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3CRGA2MDHZC1IKZ3VZGJKFPN1LA1H3MN2GZOT3OP22BQNZ4KJ3XK" as="#tipoSenatore">BONIFAZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH0ECLF33SJSAP5142RB1MV4YHP4VSXTPHDLBA0FZ0GCXUD1RAKRM" as="#tipoSenatore">COMINCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ1ARWQMNMFFXDSJ4POVKH4BLZMMDDAQSHCSDNSPHBOR0LI3VZ0JF" as="#tipoSenatore">GRIMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT0Q4UNFCITOHD1O4XAFJV1NBJGYLIQDMPKZLDYM5KHQ5JYESYX4I" as="#tipoSenatore">PINOTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge di "Conversione in legge, con modificazioni, del decreto legge 8 gennaio 2019, n. 1, recante misure urgenti a sostegno della Banca Carige S.p.a.- Cassa di risparmio di Genova e Imperia (A.S. 1063);</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 14 del presente decreto-legge disciplina la presentazione della richiesta di erogazione del sostegno pubblico, specificando la documentazione e le informazioni di cui la richiesta deve essere corredata;</an:p>
+				<an:p>            entro due mesi dalla concessione della garanzia, nel caso in cui le passività non siano già state rimborsate, la banca è tenuta a presentare un piano di ristrutturazione per confermare la redditività e la capacità di raccolta a lungo termine senza ricorso al sostegno pubblico, da sottoporre alla Commissione europea;</an:p>
+				<an:p>            le regole europee in tema di aiuti di Stato prevedono che le ricapitalizzazioni precauzionali siano effettuate minimizzando la distorsione delle condizioni concorrenziali. Per questo motivo, la Commissione europea può chiedere alla banca un dettagliato e credibile piano di ristrutturazione in grado di assicurare il suo pieno risanamento e un adeguato livello di redditività, efficacia e trasparenza al fine di ridurre la rischiosità dell'intervento pubblico;</an:p>
+				<an:p>            le eventuali e successive variazioni del piano di ristrutturazione sono notificati alla Commissione europea, ai fini di una decisione sulla compatibilità delle misure con le norme in tema di aiuti di Stato,</an:p>
+				<an:p>        impegna il Governo a prevedere, attraverso atti di propria competenza, che il piano di ristrutturazione, vincolato alla concessione della garanzia, sia pubblicato sul sito del Ministero dell'economia e delle finanze e della Banca d'Italia all'atto della trasmissione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
