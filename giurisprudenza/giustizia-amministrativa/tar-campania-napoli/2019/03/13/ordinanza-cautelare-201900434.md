@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 434/2019
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SETTIMA
+- Numero provvedimento: 201900434
+- Numero di ricorso (NRG): 201800721
+- Data di pubblicazione: 2019-03-13
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-02-20
+- Oggetto del ricorso: DEL PROVVEDIMENTO DI DINIEGO DI CONCESSIONE EDILIZIA IN SANATORIA PROTOCOLLO N. 29659 DEL 03/11/2017, NOTIFICATO IN DATA 22/11/2017, CON CUI IL COMUNE DI S.ANTONIO ABATE – SETTORE TECNICO-SERVIZIO URBANISTICA – HA ESPRESSO IL DINIEGO, NEI CONFRONTI DEGLI ODIERNI RICORRENTI, DELL'ISTANZA DI ACCERTAMENTO DI CONFORMITÀ URBANISTICA ART. 36 DEL D.P.R. N° 380/2001 ED ACCERTAMENTO DI COMPATIBILITÀ PAESAGGISTICA ART. 167 D.LGV 42/2004, PRESENTATA IN DATA 29/09/2017 PROT. 25962
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
