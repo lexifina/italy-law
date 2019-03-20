@@ -1,0 +1,22 @@
+# Massima n. 41865
+
+- Pronuncia: Corte costituzionale, sentenza 54/2019 (ECLI:IT:COST:2019:54)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:54
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Trasporto pubblico - Ferrovie concesse e in ex gestione commissariale governativa - Regolazioni debitorie dei disavanzi di gestione, comprensivi degli oneri di trattamento di fine rapporto - Definizione nei termini delle istruttorie effettuate a seguito di comunicazioni e istanze formulate entro il 31 agosto 2005 - Violazione dei principi di tutela dell'affidamento e ragionevolezza - Illegittimità costituzionale.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo - per violazione dell'art. 3, primo comma, Cost. - l'art. 31 del d.l. n. 4 del 2006, conv., con modif., nella legge n. 80 del 2006, che introduce un termine - il 31 agosto 2005 - per la presentazione delle istanze per la definizione dei disavanzi delle ferrovie concesse e in ex gestione commissariale. L'introduzione di un termine, peraltro già decorso al momento dell'entrata in vigore della disposizione, di decadenza per la presentazione delle istanze - che ha innovato il meccanismo mediante il quale lo Stato provvedeva al ripianamento dei disavanzi maturati alla data del conferimento di funzioni, cosicché le aziende interessate avevano la ragionevole fiducia nella possibilità di esercitare il diritto al rimborso sino al suo termine ordinario di prescrizione - e l'incidenza, con riferimento agli oneri per il trattamento di fine rapporto, su fattispecie sorte nella vigenza della precedente disciplina e non ancora esaurite, violano i principi del legittimo affidamento e di ragionevolezza. Né l'intervento legislativo può trovare adeguata giustificazione nell'interesse dello Stato alla riduzione della spesa pubblica, in quanto non è stato adeguatamente bilanciato rispetto al sacrificio imposto alle imprese che, anche dopo il 31 agosto 2005, continuavano a vantare crediti, determinando l'estinzione di tali obbligazioni, senza alcun margine temporale per esercitare il credito. Infine, il tenore letterale della disposizione censurata non consente di riferirla all'accertamento di eventuali sopravvenienze attive, cui lo Stato avrebbe rinunciato, mancando qualsiasi riferimento ad esse e alla relativa rinuncia. Il valore del legittimo affidamento, che trova copertura costituzionale nell'art. 3 Cost., non esclude che il legislatore possa adottare disposizioni che modificano in senso sfavorevole agli interessati la disciplina di rapporti giuridici, anche se l'oggetto di questi sia costituito da diritti soggettivi perfetti, ma a condizione che tali disposizioni non trasmodino in un regolamento irrazionale, frustrando, con riguardo a situazioni sostanziali fondate sulle leggi precedenti, l'affidamento dei cittadini nella sicurezza giuridica, da intendersi quale elemento fondamentale dello Stato di diritto. ( Precedenti citati: sentenze n. 216 del 2015, n. 56 del 2015, n. 219 del 2014, n. 154 del 2014, n. 310 e n. 83 del 2013, n. 166 del 2012 e n. 302 del 2010; ordinanza n. 31 del 2011 ). Il legislatore gode di ampia discrezionalità con riguardo alla fissazione di termini per l'esercizio di singoli diritti, con l'unico limite dell'eventuale irragionevolezza, qualora il termine venga determinato in modo da non rendere effettiva la possibilità di esercizio del diritto cui si riferisce. ( Precedenti citati: sentenze n. 216 del 2015, n. 234 del 2008, n. 192 del 2005, n. 197 del 1987 e n. 10 del 1970; ordinanza n. 153 del 2000 ). Se l'obiettivo di ridurre il debito può giustificare sia scelte assai onerose che, sempre nei limiti della ragionevolezza e della proporzionalità, la compressione di situazioni giuridiche rispetto alle quali opera un legittimo affidamento, esso non può essere perseguito senza una equilibrata valutazione comparativa degli interessi in gioco e, in particolare, non può essere raggiunto trascurando completamente gli interessi dei privati, con i quali va invece ragionevolmente contemperato. ( Precedente citato: sentenza n. 216 del 2015 ).
+
+## Norme
+
+- decreto-legge, 10/01/2006 n. 4, art. 31
+- legge, 09/03/2006 n. 80
+
+## Parametri
+
+- Costituzione, art. 3
