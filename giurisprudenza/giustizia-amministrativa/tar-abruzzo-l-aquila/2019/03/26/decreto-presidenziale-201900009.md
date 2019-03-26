@@ -1,0 +1,19 @@
+# TAR ABRUZZO - L'AQUILA, decreto presidenziale n. 9/2019
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR ABRUZZO - L'AQUILA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201900009
+- Numero di ricorso (NRG): 201900138
+- Data di pubblicazione: 2019-03-26
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2019-03-25
+- Oggetto del ricorso: ANNULLAMENTO PARZIALE DELLE OPERAZIONI ELETTORALI, DEI RISULTATI DELLE ELEZIONI E DELL'ATTO DI PROCLAMAZIONE DEGLI ELETTI, POSTO IN ESSERE IN DATA 23 FEBBRAIO 2019, CONTENUTO NEL VERBALE DELLE OPERAZIONI DELL'UFFICIO CENTRALE REGIONALE NONCHÉ DI QUALSIASI ATTO PRESUPPOSTO O CONSEGUENZA DEGLI ATTI COME SOPRA IMPUGNATI E CON GLI STESSI COMUNQUE POSTO IN RAPPORTO DI CORRELAZIONE O DI DIPENDENZA
+- Tipo di ricorso: ELETTORALE (ex art.130 c.p.a)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-abruzzo-l-aquila-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/d380615d-4010-41f5-b969-20380f011265/resource/01e0b1d7-8cbb-443b-bcd9-0eaf9082ae7f/download/tar-abruzzo-laquila-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
