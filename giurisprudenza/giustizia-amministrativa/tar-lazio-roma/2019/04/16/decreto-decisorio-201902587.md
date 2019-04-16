@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 2587/2019
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 201902587
+- Numero di ricorso (NRG): 201200997
+- Data di pubblicazione: 2019-04-16
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2012-02-14
+- Oggetto del ricorso: ANNULLAMENTO DELIBERA N. 423/11/CONS DEL 22.07.11 RECANTE IL PIANO DI ASSEGNAZIONE DELLE FREQUENZE PER IL SERVIZIO TELEVISIVO DIGITALE TERRESTRE DELLE REGIONI LIGURIA, TOSCANA, UMBRIA E MARCHE NONCHE' DELLA PROVINCIA DI VITERBO (AREE TECNICHE NN. 8, 9 10) - ATTO DI COSTITUZIONE EX ART. 10 D.P.R. 1199/71 -(ART. 119 C.P.A.)
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
