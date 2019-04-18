@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1165/A/19.0.1"/>
+					<an:FRBRdate date="2019-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@"/>
+					<an:FRBRdate date="2019-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@.akn"/>
+					<an:FRBRdate date="2019-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-04-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-04-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1165/A/19.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1165" showAs="DDL 1165"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3JNMGC3L10RZIATRV52KFGAH254RVNSTCBARVPHUBTQD2LNAXZJ" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+				<an:TLCPerson id="ID2OUPLF44ESQPJNNNKRMLM2I4BK1JTAI4QDRLIOPQQ0ABLD3ZEMTG" href="http://dati.senato.it/17211" showAs="LANNUTTI"/>
+				<an:TLCPerson id="IDPPTA3KNUVPSNHZZ5FDR4XVMEYPE3U4OICJHY5MHPGLPIDITVKLTI" href="http://dati.senato.it/32652" showAs="LEONE"/>
+				<an:TLCPerson id="IDLIIMWZR1N2WEOX4NTPLRG3KXYGG5MEVZ0SUF1BJ3AAWESWEPC5RJ" href="http://dati.senato.it/32623" showAs="DRAGO"/>
+				<an:TLCPerson id="IDT452GRM2BQOFIVFAZCP4VJN3VJVCEUJ4LWCXDKK3GISUDWV0F5FE" href="http://dati.senato.it/32630" showAs="FENU"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1165</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3JNMGC3L10RZIATRV52KFGAH254RVNSTCBARVPHUBTQD2LNAXZJ" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2OUPLF44ESQPJNNNKRMLM2I4BK1JTAI4QDRLIOPQQ0ABLD3ZEMTG" as="#tipoSenatore">LANNUTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPPTA3KNUVPSNHZZ5FDR4XVMEYPE3U4OICJHY5MHPGLPIDITVKLTI" as="#tipoSenatore">LEONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLIIMWZR1N2WEOX4NTPLRG3KXYGG5MEVZ0SUF1BJ3AAWESWEPC5RJ" as="#tipoSenatore">DRAGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT452GRM2BQOFIVFAZCP4VJN3VJVCEUJ4LWCXDKK3GISUDWV0F5FE" as="#tipoSenatore">FENU</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 19-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Partecipazione italiana all'aumento di capitale della Banca Internazionale per la Ricostruzione e lo Sviluppo e della Società Finanziaria Internazionale (Gruppo Banca Mondiale))</an:i>
+				</an:p>
+				<an:p>        1. È autorizzata la partecipazione italiana all'aumento generale e all'aumento selettivo di capitale della Banca Internazionale per la Ricostruzione e lo Sviluppo (IBRD), e all'aumento generale di capitale della Società Finanziaria Internazionale (IFC).</an:p>
+				<an:p>        2. La sottoscrizione degli aumenti di capitale di cui al comma 1 è pari a complessivi 1.716.688.220 dollari statunitensi, di cui 375.205.305,70 da versare.</an:p>
+				<an:p>        3. È altresì autorizzata l'approvazione dell'emendamento all'Accordo Istitutivo della Società Finanziaria Internazionale (IFC), proposto dal Consiglio d'Amministrazione della Società medesima contestualmente all'aumento di capitale, con il quale è aumentato all'ottantacinque per cento il potere di voto necessario per autorizzare aumenti di capitale diversi da quelli relativi all'ammissione di nuovi membri.</an:p>
+				<an:p>        4. Agli oneri di cui al comma 2, valutati in euro 65.000.000 per ciascuno degli anni dal 2019 al 2023, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione della spesa del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
