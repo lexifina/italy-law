@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1165/A/G14.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1165/A/G14.102"/>
+					<an:FRBRdate date="2019-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1165/A/G14.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G14.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@"/>
+					<an:FRBRdate date="2019-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@.akn"/>
+					<an:FRBRdate date="2019-04-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-04-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-04-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1165/A/G14.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1165" showAs="DDL 1165"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMYKOUFMMATLRMBX50AA1HH0CIPEDUM4ETHYF50GL3D21MJH4B1" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+				<an:TLCPerson id="IDPEC43WDHS3XIK1FKDH0CKA4OCHPBIU2PAFC4UROHR4C3TJO3AYKN" href="http://dati.senato.it/32652" showAs="LEONE"/>
+				<an:TLCPerson id="IDKKUT5FHN1DC1NK2OZHORGV0VHDSMPQNIRZWA24CLVYBHF4BMVOAL" href="http://dati.senato.it/17211" showAs="LANNUTTI"/>
+				<an:TLCPerson id="IDEC1LBO0WRRMQEBEUEC2DCJFEHPMHABVODECIUZCO2QK5DTREYQGK" href="http://dati.senato.it/32623" showAs="DRAGO"/>
+				<an:TLCPerson id="IDIOUYFEYCFEFDKEQ1NTX41PFKBDSZKYKJIYURT1CHSBFRDINJNMBI" href="http://dati.senato.it/32630" showAs="FENU"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1165</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G14.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMYKOUFMMATLRMBX50AA1HH0CIPEDUM4ETHYF50GL3D21MJH4B1" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPEC43WDHS3XIK1FKDH0CKA4OCHPBIU2PAFC4UROHR4C3TJO3AYKN" as="#tipoSenatore">LEONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKKUT5FHN1DC1NK2OZHORGV0VHDSMPQNIRZWA24CLVYBHF4BMVOAL" as="#tipoSenatore">LANNUTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEC1LBO0WRRMQEBEUEC2DCJFEHPMHABVODECIUZCO2QK5DTREYQGK" as="#tipoSenatore">DRAGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIOUYFEYCFEFDKEQ1NTX41PFKBDSZKYKJIYURT1CHSBFRDINJNMBI" as="#tipoSenatore">FENU</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame dell'A.S. 1165, recante Conversione in legge del decreto-legge 25 marzo 2019, n. 22, recante misure urgenti per assicurare sicurezza, stabilità finanziaria e integrità dei mercati, nonché tutela della salute e della libertà di soggiorno dei cittadini italiani e di quelli del Regno Unito, in caso di recesso di quest'ultimo dall'Unione europea,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 14 reca disposizioni in materia di soggiorno dei cittadini del Regno Unito e dei loro familiari anche non aventi la cittadinanza di uno Stato membro dell'Unione europea presenti sul territorio nazionale alla data di recesso del Regno Unito dall'Unione europea;</an:p>
+				<an:p>            scopo generale del provvedimento è quello di garantire, in caso di recesso del Regno Unito dall'Unione europea senza l'accordo previsto dall'articolo 50 del TUE, disposizioni volte a preservare i diritti sino ad ora acquisiti sia dai cittadini britannici nel corso della loro pregressa e continuativa residenza in Italia da almeno un quinquennio alla data di Recesso del Regno Unito dall'Unione europea, sia nel caso in cui medesimi non abbiano ancora maturato i requisiti necessari ad ottenere il permesso di soggiorno UE per soggiornanti di lungo periodo,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di prevedere, qualora se ne ravvisi la necessità, l'estensione della disciplina di maggior favore anche oltre il periodo previsto all'articolo 14 comma 5, al fine di consentire la maturazione dei requisiti necessari a proporre domanda per il rilascio del permesso di soggiorno UE per soggiornanti di lungo periodo, per i cittadini del Regno Unito, che abbiano ottenuto il permesso di soggiorno per residenza, ma che siano sprovvisti dei requisiti alla data di recesso.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
