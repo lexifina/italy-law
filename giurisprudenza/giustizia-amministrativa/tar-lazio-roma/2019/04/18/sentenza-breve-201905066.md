@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, sentenza breve n. 5066/2019
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA BIS
+- Numero provvedimento: 201905066
+- Numero di ricorso (NRG): 201815456
+- Data di pubblicazione: 2019-04-18
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA IMPROCEDIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2018-12-28
+- Oggetto del ricorso: CONSULENZA TECNICA D'UFFICIO DEL COMMISSARIO AD ACTA (RELAZIONE) DEPOSITATA IN DATA 6.11.2018 - ORDINANZA DEL T.A.R. LAZIO , ROMA, SEZ. III BIS, N. 10926 DEL 13.11.2018 - RICORSO EX ART. 114, COMMA 4
+- Tipo di ricorso: IN OTTEMPERANZA
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/0929c42a-d6d6-4a08-a565-06065fd5a231/resource/50bb7c95-4dc9-4c07-a08a-d5ecea4ac7e0/download/tar-lazio-roma-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
