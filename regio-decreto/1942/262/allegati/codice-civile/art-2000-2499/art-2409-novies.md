@@ -1,8 +1,8 @@
 Art. 2409-novies.
 
-(( (Consiglio di gestione). ))
+(Consiglio di gestione).
 
-((La gestione dell'impresa spetta esclusivamente al consiglio di gestione, il quale compie le operazioni necessarie per l'attuazione dell'oggetto sociale. Puo' delegare proprie attribuzioni ad uno o piu' dei suoi componenti; si applicano in tal caso il terzo, quarto e quinto comma dell'articolo 2381.
+((La gestione dell'impresa si svolge nel rispetto della disposizione di cui all'articolo 2086, secondo comma, e spetta esclusivamente al consiglio di gestione, il quale compie le operazioni necessarie per l'attuazione dell'oggetto sociale.)) Puo' delegare proprie attribuzioni ad uno o piu' dei suoi componenti; si applicano in tal caso il terzo, quarto e quinto comma dell'articolo 2381.
 
 E' costituito da un numero di componenti, anche non soci, non inferiore a due.
 
@@ -12,4 +12,4 @@ I componenti del consiglio di gestione non possono essere nominati consiglieri d
 
 I componenti del consiglio di gestione sono rieleggibili, salvo diversa disposizione dello statuto, e sono revocabili dal consiglio di sorveglianza in qualunque tempo, anche se nominati nell'atto costitutivo, salvo il diritto al risarcimento dei danni se la revoca avviene senza giusta causa.
 
-Se nel corso dell'esercizio vengono a mancare uno o piu' componenti del consiglio di gestione, il consiglio di sorveglianza provvede senza indugio alla loro sostituzione. ))
+Se nel corso dell'esercizio vengono a mancare uno o piu' componenti del consiglio di gestione, il consiglio di sorveglianza provvede senza indugio alla loro sostituzione.
