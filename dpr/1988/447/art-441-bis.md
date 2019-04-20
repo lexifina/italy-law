@@ -6,6 +6,8 @@ Art. 441-bis.
 
 Se, nei casi disciplinati dagli articoli 438, comma 5, e 441, comma 5, il pubblico ministero procede alle contestazioni previste dall'articolo 423, comma 1, l'imputato puo' chiedere che il procedimento prosegua nelle forme ordinarie.
 
+((1-bis. Se, a seguito delle contestazioni, si procede per delitti puniti con la pena dell'ergastolo, il giudice revoca, anche d'ufficio, l'ordinanza con cui era stato disposto il giudizio abbreviato e fissa l'udienza preliminare o la sua eventuale prosecuzione. Si applica il comma 4))
+
 2.
 
 La volonta' dell'imputato e' espressa nelle forme previste dall'articolo 438, comma 3.
@@ -16,7 +18,7 @@ Il giudice, su istanza dell'imputato o del difensore, assegna un termine non sup
 
 4.
 
-Se l'imputato chiede che il procedimento prosegua nelle forme ordinarie, il giudice revoca l'ordinanza con cui era stato disposto il giudizio abbreviato e fissa l'udienza preliminare o la sua eventuale prosecuzione. Gli atti compiuti ai sensi degli articoli 438, comma 5, e 441, comma 5, hanno la stessa efficacia degli atti compiuti ai sensi dell'articolo 422. La richiesta di giudizio abbreviato non puo' essere riproposta. (( Si applicano le disposizioni dell'articolo 303, comma 2 )).
+Se l'imputato chiede che il procedimento prosegua nelle forme ordinarie, il giudice revoca l'ordinanza con cui era stato disposto il giudizio abbreviato e fissa l'udienza preliminare o la sua eventuale prosecuzione. Gli atti compiuti ai sensi degli articoli 438, comma 5, e 441, comma 5, hanno la stessa efficacia degli atti compiuti ai sensi dell'articolo 422. La richiesta di giudizio abbreviato non puo' essere riproposta. Si applicano le disposizioni dell'articolo 303, comma 2.
 
 5.
 
