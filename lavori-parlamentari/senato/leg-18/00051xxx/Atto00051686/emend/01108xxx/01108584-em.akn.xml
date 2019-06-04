@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8-ter.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@.akn"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1249/A/8-ter.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1249" showAs="DDL 1249"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1E1DKKI2SNNSOAOMBSHVOKHHOLNT4MKUKQO3C4HZU5CFOS0P0WYJ" href="http://dati.senato.it/29186" showAs="STEFANO"/>
+				<an:TLCPerson id="IDA0D5ELJMCAA5CFTEEJMU5DV31PZSYMDN1F3520GP0VRS4FJKC1DL" href="http://dati.senato.it/32669" showAs="Assuntela MESSINA"/>
+				<an:TLCPerson id="IDV4TXJK1ZRO0JCQ4YVWTLHIFGMN0O30PJNTFYDHEBV0UTHQY3U2NH" href="http://dati.senato.it/22865" showAs="BELLANOVA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1249</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8-ter.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1E1DKKI2SNNSOAOMBSHVOKHHOLNT4MKUKQO3C4HZU5CFOS0P0WYJ" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0D5ELJMCAA5CFTEEJMU5DV31PZSYMDN1F3520GP0VRS4FJKC1DL" as="#tipoSenatore">Assuntela MESSINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV4TXJK1ZRO0JCQ4YVWTLHIFGMN0O30PJNTFYDHEBV0UTHQY3U2NH" as="#tipoSenatore">BELLANOVA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Aggiungere, in fine, il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis</an:i>
+					. Al fine di proteggere e rigenerare l'agricoltura, il territorio, le foreste, il paesaggio e i beni culturali, colpiti dalla 
+					<an:i>Xylella</an:i>
+					 fastidiosa, all'interno della zona infetta, con esclusione della zona in cui si applicano le misure di contenimento di cui alla decisione di esecuzione (UE) 2015/789, la Regione può stabilire dì rendere obbligatori gli interventi di cui al comma 7, i quali sono attuati» in deroga a ogni disposizione vigente anche in materia vincolistica e in esenzione dai procedimenti VIA, VAS e VINCA di cui al decreto legislativo n. 152 del 2006. Gli olivi ricadenti all'interno della zona infetta da 
+					<an:i>Xylella</an:i>
+					 sono da considerarsi compromessi non potendo nel medio periodo svolgere le proprie funzioni fisiologiche e vegetative e pertanto, fermo restando quanto stabilito ai comma 7, al proprietario, conduttore o detentore a qualsiasi titolo, che voglia espiantare non sono richieste le analisi di laboratorio per l'accertamento del batterio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
