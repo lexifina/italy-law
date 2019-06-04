@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4-bis.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@.akn"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1249/A/G4-bis.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1249" showAs="DDL 1249"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1LNIYXR5BOEBFSOAWYSYO4LKBMXM2ELSJ04TLAHPWESFOFDBYOTP" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="IDAVX5HP2JXDCMGQCSAMVDXU10WSHVFELHEXYKPANLJH5LGE05GH" href="http://dati.senato.it/32588" showAs="BITI"/>
+				<an:TLCPerson id="IDH4SUI13T4EVDI0T3MFMUXL5ZJHUFDWKANTISGCB455KWMVWHGGSM" href="http://dati.senato.it/29464" showAs="MAGORNO"/>
+				<an:TLCPerson id="IDYVOIYD0AYMZNPQXZ11YRMR2RCPBEZJKFHZQ22VHQEFVEW5MJJRYG" href="http://dati.senato.it/25402" showAs="SBROLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1249</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4-bis.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1LNIYXR5BOEBFSOAWYSYO4LKBMXM2ELSJ04TLAHPWESFOFDBYOTP" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVX5HP2JXDCMGQCSAMVDXU10WSHVFELHEXYKPANLJH5LGE05GH" as="#tipoSenatore">BITI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH4SUI13T4EVDI0T3MFMUXL5ZJHUFDWKANTISGCB455KWMVWHGGSM" as="#tipoSenatore">MAGORNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYVOIYD0AYMZNPQXZ11YRMR2RCPBEZJKFHZQ22VHQEFVEW5MJJRYG" as="#tipoSenatore">SBROLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>  in sede di esame del disegno di conversione in legge, con modificazioni, del decreto-legge 29 marzo 2019, n. 27, recante disposizioni urgenti in materia di rilancio dei settori agricoli in crisi e di sostegno alle imprese agroalimentari colpite da eventi atmosferici avversi di carattere eccezionale e per l'emergenza nello stabilimento Stoppani, sito nel Comune di Cogoleto,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il lavoro di prevenzione e sorveglianza sanitaria portato avanti negli anni dal Ministero della Salute, anche attraverso il Sistema Nazionale delle Reti di Sorveglianza Epidemiologica, relativamente nello specifico in merito alla febbre catarrale degli ovini («Lingua blu» o «
+					<an:i>Blue Tongue</an:i>
+					»), ha creato le premesse per un notevole miglioramento delle condizioni di contesto nel nostro paese e ridotto in modo importante i rischi connessi a questa malattia infettiva;
+				</an:p>
+				<an:p>
+					            la febbre catarrale degli ovini, più comunemente nota come «
+					<an:i>blue tongue</an:i>
+					», è una malattia infettiva non contagiosa dei ruminanti, trasmessa da insetti vettori ematofagi (culicoidi) e non è una zoonosi e pertanto non infetta l'uomo e non esiste alcun pericolo di infezione né per contatto né attraverso il consumo del latte e della carne;
+				</an:p>
+				<an:p>            la creazione di una unica area omogenea, non soggetta a restrizioni per quanto riguarda la movimentazione degli animali della specie bovina, riduce in modo significativo le criticità connesse alla movimentazione che erano connesse alle restrizioni precedentemente in essere;</an:p>
+				<an:p>            i bovini giocano un ruolo rilevante nell'epidemiologia di questa infezione infatti questi se infettati dal vettore, presentano una fase viremica molto lunga, fino a 60 giorni post infezione, costituendo, pertanto, un potenziale serbatoio del virus in grado di garantire all'infezione il superamento dei periodi di freddo invernale nelle zone temperate;</an:p>
+				<an:p>            risulta quindi necessario accompagnare l'avvio di questa nuova fase di gestione delle movimentazioni con una intensificazione del lavoro di prevenzione e di sorveglianza per prevenire qualunque situazione di emergenza,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad intensificare l'attività di sorveglianza, soprattutto per le movimentazioni dalle aree maggiormente a rischio, e l'attività di prevenzione generale, in particolare attraverso il controllo sierologico su animali e allevamenti sentinella, che attraverso la sorveglianza clinica sulle specie sensibili alla malattia, e la sorveglianza entomologica di monitoraggio delle popolazioni di insetti vettori, può permettere di prevenire eventuali nuove situazioni di emergenza.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
