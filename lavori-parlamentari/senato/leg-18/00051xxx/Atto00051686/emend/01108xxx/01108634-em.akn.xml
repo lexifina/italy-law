@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11-ter.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@.akn"/>
+					<an:FRBRdate date="2019-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1249/A/11-ter.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1249" showAs="DDL 1249"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCBJIOXAYQ1MWEDFVLMTD4Y0Z2GPTN0LZF0LNS2DUFULXKQWNGYTD" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="IDOGYB0GXNRVRJOPKYT5DMJS30CCP5E0AODPCHRC2NCFIJU2V1PYP" href="http://dati.senato.it/32588" showAs="BITI"/>
+				<an:TLCPerson id="IDCJ54M22KLJ0YB1R4134FRM4BVKPVSDCDD00TVALGISAR0KENZHDN" href="http://dati.senato.it/29464" showAs="MAGORNO"/>
+				<an:TLCPerson id="IDJ313P133IMUME3VEDOTJSQCSYKH0WKLDQ0GHQPWJHEKT5HHHLM" href="http://dati.senato.it/25402" showAs="SBROLLINI"/>
+				<an:TLCPerson id="ID2N2LVAQY4JBQG10MSYEA0QFU3J0KEFTU0PK53HD4SEPK5UUYUP1J" href="http://dati.senato.it/23135" showAs="MARGIOTTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1249</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11-ter.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCBJIOXAYQ1MWEDFVLMTD4Y0Z2GPTN0LZF0LNS2DUFULXKQWNGYTD" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOGYB0GXNRVRJOPKYT5DMJS30CCP5E0AODPCHRC2NCFIJU2V1PYP" as="#tipoSenatore">BITI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCJ54M22KLJ0YB1R4134FRM4BVKPVSDCDD00TVALGISAR0KENZHDN" as="#tipoSenatore">MAGORNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ313P133IMUME3VEDOTJSQCSYKH0WKLDQ0GHQPWJHEKT5HHHLM" as="#tipoSenatore">SBROLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2N2LVAQY4JBQG10MSYEA0QFU3J0KEFTU0PK53HD4SEPK5UUYUP1J" as="#tipoSenatore">MARGIOTTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>        «1-bis. All'articolo 40, comma 6, della legge 28 luglio 2016, n. 154, dopo la parola: ''nonché'' aggiunte le seguenti: '', nel caso la violazione sia compiuta da soggetti privi della titolarità di licenza di pesca professionale''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
