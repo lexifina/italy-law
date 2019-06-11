@@ -1,12 +1,14 @@
 Art. 416-ter.
 
-(Scambio elettorale politico-mafioso).
+(( (Scambio elettorale politico-mafioso). ))
 
-Chiunque accetta la promessa di procurare voti mediante le modalita' di cui al terzo comma dell'articolo 416-bis in cambio dell'erogazione o della promessa di erogazione di denaro o di altra utilita' e' punito con la reclusione da sei a dodici anni.
+((Chiunque accetta, direttamente o a mezzo di intermediari, la promessa di procurare voti da parte di soggetti appartenenti alle associazioni di cui all'articolo 416-bis o mediante le modalita' di cui al terzo comma dell'articolo 416-bis in cambio dell'erogazione o della promessa di erogazione di denaro o di qualunque altra utilita' o in cambio della disponibilita' a soddisfare gli interessi o le esigenze dell'associazione mafiosa e' punito con la pena stabilita nel primo comma dell'articolo 416-bis.
 
-La stessa pena si applica a chi promette di procurare voti con le modalita' di cui al primo comma.
+La stessa pena si applica a chi promette, direttamente o a mezzo di intermediari, di procurare voti nei casi di cui al primo comma.
 
-((281))
+Se colui che ha accettato la promessa di voti, a seguito dell'accordo di cui al primo comma, e' risultato eletto nella relativa consultazione elettorale, si applica la pena prevista dal primo comma dell'articolo 416-bis aumentata della meta'.
+
+In caso di condanna per i reati di cui al presente articolo, consegue sempre l'interdizione perpetua dai pubblici uffici)).
 
 -------------
 
