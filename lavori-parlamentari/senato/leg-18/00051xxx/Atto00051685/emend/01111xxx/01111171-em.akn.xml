@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1248/A/G1.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1248/A/G1.4"/>
+					<an:FRBRdate date="2019-06-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1248/A/G1.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@"/>
+					<an:FRBRdate date="2019-06-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@.akn"/>
+					<an:FRBRdate date="2019-06-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1248/A/G1.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1248" showAs="DDL 1248"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2BRRCUIKZX3FEKIDJOSVFY3YMKPXCVFXK0AH5YHW31RA3JXK1QGL" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDHIPWIOG20OHZOEB1GLTZKBQJHDG5WBDQGY4WNMLBUSIHZW5Z13L" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1248</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2BRRCUIKZX3FEKIDJOSVFY3YMKPXCVFXK0AH5YHW31RA3JXK1QGL" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHIPWIOG20OHZOEB1GLTZKBQJHDG5WBDQGY4WNMLBUSIHZW5Z13L" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede d'esame del disegno di legge n. 1248 recante: «Conversione in legge del decreto-legge 18 aprile 2019, n. 32, recante disposizioni urgenti per il rilancio del settore dei contratti pubblici, per l'accelerazione degli interventi infrastrutturali, di rigenerazione urbana e di ricostruzione a seguito di eventi sismici»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il Capo I del provvedimento in esame reca norme in materia di contratti pubblici, di accelerazione degli interventi infrastrutturali, e di rigenerazione urbana;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            il 17 ottobre 2014 Matera è stata designata Capitale europea della cultura per il 2019;</an:p>
+				<an:p>            con l'articolo 1, comma 574, della legge 27 dicembre 2017, n. 205, è stata autorizzata una spesa di pari a 20 milioni di euro per l'anno 2018 e a 10 milioni di euro per l'anno 2019 finalizzata a migliorare l'accoglienza, l'accessibilità dei visitatori e dei turisti, la mobilità e il decoro urbano, nonché per l'attuazione del programma culturale da parte della Fondazione Matera-Basilicata 2019;</an:p>
+				<an:p>            l'elevato numero di turisti confluiti già in occasione delle festività pasquali ha evidenziato la necessità di potenziare i servizi di trasporto pubblico al fine di facilitare la mobilità dei turisti e l'accesso alla Città di Matera,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di incrementare gli stanziamenti già previsti a legislazione vigente, destinando, in particolare, una quota alla Provincia di Matera per rafforzare i servizi di trasporto pubblico con l'aeroporto di Bari e con la stazione di Ferrandina scalo, e alla Regione Basilicata per i servizi aggiuntivi di trasporto passeggeri per ferrovia svolti dalla società Ferrovie Apulo Lucane s.r.l., interamente partecipata dal Ministero delle infrastrutture e dei trasporti.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
