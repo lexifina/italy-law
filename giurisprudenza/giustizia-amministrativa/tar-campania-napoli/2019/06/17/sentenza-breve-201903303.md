@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 3303/2019
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SETTIMA
+- Numero provvedimento: 201903303
+- Numero di ricorso (NRG): 201801662
+- Data di pubblicazione: 2019-06-17
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: IMPROCEDIBILE PER SOPRAVVENUTA CARENZA DI INTERESSE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2018-04-27
+- Oggetto del ricorso: DELL’ORDINANZA N. 100 DEL 31.01.2018, NOTIFICATA IN DATA 01.02.2018, CON LA QUALE IL COMUNE DI CASAMICCIOLA TERME HA INGIUNTO, AI SENSI DELL’ART. 31 DEL DPR N. 380/2001, ALLA RICORRENTE: I) DI SMONTARE LA STRUTTURA IN FERRO PRESENTE SULLA SCOGLIERA IN AREA DEMANIALE ED I LOCALI BAR CON ACCESSORI PRE-SENTI SULL’ARENILE E DI RIPRISTINARE IL PRECEDENTE STATO DEI LUOGHI, II) IL PAGA-MENTO “DI UNA SANZIONE AMMINISTRATIVA PECUNIARIA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
