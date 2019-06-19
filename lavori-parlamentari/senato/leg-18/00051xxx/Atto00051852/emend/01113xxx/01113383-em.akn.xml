@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/11.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/11.7"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/11.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@.akn"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1315/A/11.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1315" showAs="DDL 1315"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSTCOR1TTEQGSHP1QIBMLAHPYMELNURD3XOCLTKFALE41X0IBDZI" href="http://dati.senato.it/29282" showAs="BINI"/>
+				<an:TLCPerson id="IDZXZGULZCGRIJBLN3DR3JZ5CJPECAW0IADHQ4HCCBXD2DXFRM022N" href="http://dati.senato.it/29072" showAs="COLLINA"/>
+				<an:TLCPerson id="IDBKAFVY1JLY3YBQ5SQGQ3ZWPSQD02X0R4OTPAOZBLBFWXJYLZOW0B" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+				<an:TLCPerson id="IDN3CXBQIQXIDRMTW50URAJUJHIDK2IFVRHRLTIPCJN1ZERVRZ5WDJ" href="http://dati.senato.it/29186" showAs="STEFANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1315</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSTCOR1TTEQGSHP1QIBMLAHPYMELNURD3XOCLTKFALE41X0IBDZI" as="#tipoSenatore">BINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZXZGULZCGRIJBLN3DR3JZ5CJPECAW0IADHQ4HCCBXD2DXFRM022N" as="#tipoSenatore">COLLINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBKAFVY1JLY3YBQ5SQGQ3ZWPSQD02X0R4OTPAOZBLBFWXJYLZOW0B" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN3CXBQIQXIDRMTW50URAJUJHIDK2IFVRHRLTIPCJN1ZERVRZ5WDJ" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>1-bis.</an:i>
+					 È istituito un fondo perequativo, con una dotazione di 500 milioni di euro per l'anno 2019, al fine di garantire l'assunzione di nuovo personale degli enti del Servizio sanitario nazionale delle regioni che hanno sottoscritto un accordo con il Ministero della salute e il Ministero dell'economia e delle finanze ai sensi dell'articolo 1, comma 180, della legge 30 dicembre 2004, n. 311, per il perseguimento dell'equilibrio economico nel rispetto dei livelli essenziali di assistenza. Il fondo è ripartito tra le regioni di cui al periodo precedente in proporzione al fabbisogno di personale pro capite di ciascuna di esse.
+				</an:p>
+				<an:p>
+					<an:i>1-ter.</an:i>
+					 Agli oneri derivanti dal comma 1
+					<an:i>-bis</an:i>
+					, pari a 500 milioni di euro per l'anno 2019 si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 255, della legge 30 dicembre 2018, n. 145».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
