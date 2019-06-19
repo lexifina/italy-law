@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/3.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/3.15"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/3.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@.akn"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1315/A/3.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1315" showAs="DDL 1315"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDP3KTPAUJFCRXCH3ZFKR1BBV5OMQH0GAVSRSP3L2X01CH4KTPXPG" href="http://dati.senato.it/32714" showAs="SICLARI"/>
+				<an:TLCPerson id="IDBVHOEEUNT3KVQKDNQJQZJMY1GXWUOKD33ZSBXEHA5JAXOS3JG2F" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+				<an:TLCPerson id="IDBJWJFFVWYOEBNNCZ4TSJVS3PLKTRHOB0UCQ15BLUON1APXDHQA0F" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDR0UBNUNZRDGGBQK00U0RFNHGEMHORUPVJSUL3ZK0HOSPLXQKXPJC" href="http://dati.senato.it/32717" showAs="STABILE"/>
+				<an:TLCPerson id="IDJYJ1KMXFRNQIDQ3WTUHHGVTR3ODSPY3P20TCB1GQZSEYAEECR4DE" href="http://dati.senato.it/32661" showAs="MANGIALAVORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1315</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP3KTPAUJFCRXCH3ZFKR1BBV5OMQH0GAVSRSP3L2X01CH4KTPXPG" as="#tipoSenatore">SICLARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBVHOEEUNT3KVQKDNQJQZJMY1GXWUOKD33ZSBXEHA5JAXOS3JG2F" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBJWJFFVWYOEBNNCZ4TSJVS3PLKTRHOB0UCQ15BLUON1APXDHQA0F" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR0UBNUNZRDGGBQK00U0RFNHGEMHORUPVJSUL3ZK0HOSPLXQKXPJC" as="#tipoSenatore">STABILE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJYJ1KMXFRNQIDQ3WTUHHGVTR3ODSPY3P20TCB1GQZSEYAEECR4DE" as="#tipoSenatore">MANGIALAVORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sopprimere il comma 4.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
