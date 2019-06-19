@@ -1,0 +1,22 @@
+# Massima n. 42507
+
+- Pronuncia: Corte costituzionale, sentenza 147/2019 (ECLI:IT:COST:2019:147)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:147
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione autonoma Valle d'Aosta - Provvedimento di valutazione di impatto ambientale (VIA) regionale - Configurazione autonoma rispetto all'atto autorizzativo rilasciato da altre strutture regionali competenti - Violazione della competenza legislativa esclusiva statale nella materia della tutela dell'ambiente e dell'ecosistema - Illegittimità costituzionale.
+
+## Testo
+
+Sono dichiarati costituzionalmente illegittimi, per violazione degli artt. 117, secondo comma, lett.  s ), Cost., gli artt. 12 e 13 della legge reg. Valle d'Aosta n. 3 del 2018. Il combinato disposto della normativa regionale impugnata al Governo, che configura il provvedimento di valutazione di impatto ambientale (VIA) regionale quale atto autonomo da integrare nell'atto autorizzativo rilasciato da altre strutture regionali competenti, contrasta con la disciplina statale, perché fraziona il contenuto del provvedimento di VIA, rendendolo autonomo rispetto agli altri atti autorizzatori connessi alla realizzazione dell'opera, in evidente deroga all'assetto unitario e onnicomprensivo del provvedimento unico previsto dall'art. 27- bis  cod. ambiente, che vincola anche gli enti ad autonomia differenziata, perché strumentale all'inveramento del valore ambientale. ( Precedenti citati: sentenze n. 198 del 2018, n. 229 del 2017 e n. 212 del 2017 ). Lo statuto speciale della Regione autonoma Valle d'Aosta annovera, tra i limiti alle proprie attribuzioni, le norme fondamentali statali di riforma economico-sociale e gli obblighi internazionali, clausole in grado di legittimare un intervento statale finalizzato a garantire una uniforme tutela dell'ambiente. In particolare, il legislatore statale conserva il potere di vincolare la potestà legislativa primaria della Regione speciale attraverso leggi qualificabili come "riforme economico-sociali", e ciò anche sulla base del titolo di competenza legislativa nella materia della tutela dell'ambiente, dell'ecosistema e dei beni culturali, comprensiva tanto della tutela del paesaggio quanto della tutela dei beni ambientali o culturali; con la conseguenza che le norme fondamentali contenute negli atti legislativi statali emanati in tale materia potranno continuare ad imporsi al necessario rispetto degli enti ad autonomia differenziata nell'esercizio delle proprie competenze; inoltre, in forza della sua diretta derivazione europea, la disciplina in materia di VIA integra anche il limite degli obblighi internazionali previsto da alcuni statuti speciali. ( Precedenti citati: sentenze n. 198 del 2018 e n. 229 del 2017 ). Il provvedimento unico regionale, introdotto nel cod. ambiente dal d.lgs. n. 104 del 2017, è finalizzato a semplificare, razionalizzare e velocizzare la VIA regionale, nella prospettiva di migliorare l'efficacia dell'azione delle amministrazioni a diverso titolo coinvolte nella realizzazione del progetto. Detto istituto non sostituisce i diversi provvedimenti emessi all'esito dei procedimenti amministrativi, di competenza eventualmente anche regionale, che possono interessare la realizzazione del progetto, ma li ricomprende nella determinazione che conclude la conferenza di servizi. Il provvedimento unico ha, dunque, una natura per così dire unitaria, includendo in un unico atto i singoli titoli abilitativi emessi a seguito della conferenza di servizi che, come noto, riunisce in unica sede decisoria le diverse amministrazioni competenti, e non è quindi un atto sostitutivo, bensì comprensivo delle altre autorizzazioni necessarie alla realizzazione del progetto. Esso rappresenta il nucleo centrale di un complessivo intervento di riforma che vincola l'odierna resistente in quanto norma fondamentale di riforma economico sociale, riproduttiva - in aggiunta - di specifici obblighi internazionali in virtù della sua derivazione comunitaria. ( Precedenti citati: sentenze n. 246 del 2018 e n. 198 del 2018 ).
+
+## Norme
+
+- legge della Regione autonoma Valle d'Aosta, 20/03/2018 n. 3, art. 12
+- legge della Regione autonoma Valle d'Aosta, 20/03/2018 n. 3, art. 13
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
