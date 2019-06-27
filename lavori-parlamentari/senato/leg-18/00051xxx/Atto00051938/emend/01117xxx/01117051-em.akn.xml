@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1354/A/35.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1354/A/35.10"/>
+					<an:FRBRdate date="2019-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1354/A/35.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="35.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@"/>
+					<an:FRBRdate date="2019-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@.akn"/>
+					<an:FRBRdate date="2019-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1354/A/35.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1354" showAs="DDL 1354"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDXDY1TRJUR3GGPPANFEQWEHSBCJ0TKRJPKJKORGJ3ZZUACP5R1EE" href="http://dati.senato.it/32660" showAs="MANCA"/>
+				<an:TLCPerson id="IDW1ZZQCZGR1OZGZWVZ1ZZVRLFKIGXT0F5YX4ZJZCTE33EAWN5ZVVE" href="http://dati.senato.it/32610" showAs="D'ALFONSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1354</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 35.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDXDY1TRJUR3GGPPANFEQWEHSBCJ0TKRJPKJKORGJ3ZZUACP5R1EE" as="#tipoSenatore">MANCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDW1ZZQCZGR1OZGZWVZ1ZZVRLFKIGXT0F5YX4ZJZCTE33EAWN5ZVVE" as="#tipoSenatore">D'ALFONSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «125», 
+					<an:i>secondo periodo, lettera</an:i>
+					 c)
+					<an:i>, aggiungere, in fine, le seguenti parole</an:i>
+					: «che intrattengono rapporti economici con società controllate di diritto o di fatto direttamente o indirettamente da pubbliche amministrazioni, ivi comprese quelle che emettono azioni quotate in mercati regolamentati e le società da loro partecipate, e con società in partecipazione pubblica, ivi comprese quelle che emettono azioni quotate in mercati regolamentati e le società da loro partecipate,».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
