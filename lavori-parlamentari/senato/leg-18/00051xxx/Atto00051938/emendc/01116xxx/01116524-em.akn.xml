@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1354/C/43.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1354/C/43.19"/>
+					<an:FRBRdate date="2019-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1354/C/43.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="43.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@"/>
+					<an:FRBRdate date="2019-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@.akn"/>
+					<an:FRBRdate date="2019-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1354/C/43.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1354" showAs="Ddl 1354"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E4" href="http://dati.senato.it/17578" showAs="Loredana De Petris"/>
+				<an:TLCPerson id="ID0EKB" href="http://dati.senato.it/32625" showAs="Vasco Errani"/>
+				<an:TLCPerson id="ID0EUB" href="http://dati.senato.it/29110" showAs="Pietro Grasso"/>
+				<an:TLCPerson id="ID0E5B" href="http://dati.senato.it/29450" showAs="Francesco Laforgia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1354</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 43.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E4" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">De</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Petris</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EKB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Errani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EUB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Grasso</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Laforgia</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, sostituire la lettera</an:i>
+					 a-bis) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					            «
+					<an:i>a-bis)</an:i>
+					 il comma 14 è sostituito dal seguente:
+				</an:p>
+				
+
+				<an:p>
+					        ''14. Entro il quattordicesimo giorno antecedente la data delle competizioni elettorali di qualunque genere, escluse quelle relative a comuni con meno di 15.000 abitanti, i partiti e i movimenti politici, primo hanno l'obbligo di pubblicare nel proprio sito 
+					<an:i>internet</an:i>
+					, ovvero per le liste di cui al comma 11, nel sito internet del partito o del movimento politico sotto il cui contrassegno si sono presentate nella competizione elettorale, il 
+					<an:i>curriculum</an:i>
+					 vitae fornito dai loro candidati e il relativo certificato penale rilasciato dal casellario giudiziale non oltre novanta giorni prima della data fissata per la consultazione elettorale. Ai fini dell'ottemperanza agli obblighi di pubblicazione nel sito internet di cui al presente comma il consenso degli interessati si considera implicitamente accolto con l'accettazione della candidatura.
+				</an:p>
+				
+
+				<an:p>        Il casellario giudiziale dovrà produrre il certificato penale, su richiesta degli interessati, ovvero dai delegati della lista, che tali risultino dal verbale di deposito della stessa, nel termine di 24 ore; i certificati in questione, cui va apposta la dicitura per uso elettorale', dovranno essere prodotti in esenzione totale di spese bolli, oneri e diritti, e potranno essere utilizzati al solo scopo di rendere pubblici i dati ivi contenuti in occasione delle candidature''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
