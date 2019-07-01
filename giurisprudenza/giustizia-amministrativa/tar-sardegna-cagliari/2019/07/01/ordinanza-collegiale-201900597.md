@@ -1,0 +1,19 @@
+# TAR SARDEGNA - CAGLIARI, ordinanza collegiale n. 597/2019
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR SARDEGNA - CAGLIARI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 201900597
+- Numero di ricorso (NRG): 201900336
+- Data di pubblicazione: 2019-07-01
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AD ALTRA DATA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2019-05-06
+- Oggetto del ricorso: ENTI PUBBLICI (ESPROPRIAZIONI) SILENZIO INADEMPIMENTO RELATIVO A PROCEDIMENTO PER L’ACQUISIZIONE DEI BENI UTILIZZATI PER SCOPI DI INTERESSE PUBBLICO IN ASSENZA DI PROVVEDIMENTO ABLATIVO, DI CUI ALL’ART. 42 BIS DEL DPR N°327/2001
+- Tipo di ricorso: SILENZIO P.A. (ex art. 117 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sardegna-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/6ed0f4ef-2f11-4275-9bb0-0d828b0789b6/resource/3787301c-4408-4f36-aee4-db511bd35a3a/download/tar-sardegna-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
