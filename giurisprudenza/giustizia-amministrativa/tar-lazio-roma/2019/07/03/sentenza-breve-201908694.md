@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, sentenza breve n. 8694/2019
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA TER
+- Numero provvedimento: 201908694
+- Numero di ricorso (NRG): 201905009
+- Data di pubblicazione: 2019-07-03
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA DIFETTO DI GIURISDIZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2019-04-26
+- Oggetto del ricorso: DELIBERA DEL CONSIGLIO DI GESTIONE DEL FONDO DI GARANZIA PER LE PICCOLE E MEDIE IMPRESE EX L. 662/96 ADOTTATA NELLA RIUNIONE DEL 30.1.2019 DI DECLARATORIA DI “INEFFICACIA” DELLA CONTROGARANZIA RILASCIATA A FAVORE DI ITALIA COM-FIDI PER LA POSIZIONE DEBITORIA DI BIOGREEN S.R.L. COMUNICATA CON NOTA 4.02.2019 DEL MEDIO CREDITO CENTRALE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/0929c42a-d6d6-4a08-a565-06065fd5a231/resource/50bb7c95-4dc9-4c07-a08a-d5ecea4ac7e0/download/tar-lazio-roma-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
