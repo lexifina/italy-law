@@ -1,0 +1,65 @@
+# Corte costituzionale, sentenza 163/2019
+
+- ECLI: ECLI:IT:COST:2019:163
+- Tipo: sentenza
+- Presidente: LATTANZI
+- Relatore: Aldo Carosi
+- Redattore: Aldo Carosi
+- Data della decisione: 08/05/2019
+- Data del deposito: 04/07/2019
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 42435
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:163
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Giorgio LATTANZI; Giudici : Aldo CAROSI, Marta CARTABIA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI, Giovanni AMOROSO, Francesco VIGANÒ, Luca ANTONINI,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 14, comma 1, primo periodo, del decreto legislativo 14 marzo 2011, n. 23 (Disposizioni in materia di federalismo Fiscale Municipale), come sostituito dall'art. 1, comma 715, della legge 27 dicembre 2013, n. 147, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2014)», promosso dalla Commissione tributaria provinciale di Parma, nel procedimento vertente tra la Società Italiana Costruzioni Tecnologiche srl e l'Agenzia delle Entrate - Direzione Provinciale di Parma, con ordinanza del 5 luglio 2018, iscritta al n. 182 del registro ordinanze 2018 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 51, prima serie speciale, dell'anno 2018.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio dell'8 maggio 2019 il Giudice relatore Aldo Carosi.
+
+## Testo
+
+Ritenuto in fatto1.- Con l'ordinanza indicata in epigrafe la Commissione tributaria provinciale di Parma ha sollevato questione di legittimità costituzionale dell'art. 14 del decreto legislativo 14 marzo 2011, n. 23 (Disposizioni in materia di federalismo Fiscale Municipale), in riferimento all'art. 53 della Costituzione.
+ Secondo il rimettente, la deducibilità parziale (al venti per cento) di quanto versato a titolo di imposta municipale propria (IMU) dal reddito imponibile ai fini delle imposte erariali sui redditi violerebbe il principio di capacità contributiva, atteso che detti tributi finirebbero per gravare non sul reddito netto, indice di ricchezza del contribuente, bensì su quello lordo, fittiziamente attribuitogli.
+ Tale vulnus al principio di capacità contributiva non sarebbe ovviato dalla prevista forfetizzazione del quantum deducibile, essendo questa sganciata da un'esigenza di correttezza e facilità nell'accertamento dei costi e da ogni collegamento con la realtà, esigenza che potrebbe essere soddisfatta solo da una deducibilità analitica, con conseguente arbitrarietà della censurata previsione.
+ Il giudice a quo sostiene che la questione di legittimità costituzionale dell'art. 14 del d.lgs. n. 23 del 2011 sarebbe rilevante, risultando evidente che la decisione della controversia non potrebbe prescindere dalla sua applicazione.
+ 2.- È intervenuto in giudizio il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, deducendo la manifesta inammissibilità della questione sollevata o, comunque, la sua infondatezza nel merito.
+ Sotto il primo profilo, il Presidente del Consiglio dei ministri sottolinea come il rimettente abbia completamente omesso di descrivere la fattispecie al suo esame, motivando apoditticamente in ordine al requisito della rilevanza. Inoltre, non sarebbe identificata la norma oggetto di censura nell'ambito di quelle espresse dall'art. 14 del d.lgs. n. 23 del 2011 e, ove essa fosse individuata nel suo comma 1, il vizio di omessa motivazione sulla rilevanza troverebbe conforto nella mancata specificazione del fatto che, nel giudizio principale, si controverta dell'IMU su immobili strumentali, cui la norma si riferisce, e non di altra tipologia di beni societari.
+ Nel merito, la questione sollevata sarebbe infondata.
+ La duplicazione di imposizione che, ad avviso del Presidente del Consiglio dei ministri, sarebbe stata denunciata dal rimettente andrebbe esclusa in ragione del diverso presupposto impositivo dell'IMU, imposta patrimoniale, rispetto all'imposta sul reddito delle società (IRES) e all'imposta sul reddito delle persone fisiche (IRPEF), imposte personali incidenti sui flussi di reddito del contribuente. Onde, la legittima coesistenza di detti tributi.
+ Peraltro, ai sensi dell'art. 1, comma 21, della legge 28 dicembre 2015, n. 208, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2016)», gli immobili strumentali rientranti nelle categorie catastali D ed E sarebbero stati assoggettati a un nuovo sistema di determinazione della rendita catastale (cosiddetta stima diretta), che scorporerebbe da essa la considerazione delle componenti funzionali allo specifico processo produttivo, così che l'IMU, calcolata sul valore catastale, non le colpisca. Per gli immobili strumentali non rientranti nelle citate categorie catastali, in quanto suscettibili di "uso promiscuo", strumentale o meno, il valore andrebbe calcolato in modo onnicomprensivo ma temperato dalla deducibilità forfetaria del venti per cento per tener conto dell'eventuale valenza dell'immobile come costo di produzione deducibile.
+ Secondo il Presidente del Consiglio dei ministri, il sistema così delineato bilancerebbe razionalmente le esigenze di aderenza delle basi imponibili alla capacità contributiva e di certezza del gettito fiscale, sottraendosi alle censure di violazione dell'art. 53 Cost.Considerato in diritto1.- Con l'ordinanza indicata in epigrafe la Commissione tributaria provinciale di Parma ha sollevato questione di legittimità costituzionale dell'art. 14 del decreto legislativo 14 marzo 2011, n. 23 (Disposizioni in materia di federalismo Fiscale Municipale), in riferimento all'art. 53 della Costituzione.
+ Secondo il rimettente, la deducibilità al venti per cento di quanto versato a titolo di imposta municipale propria (IMU) dal reddito imponibile ai fini delle imposte erariali sui redditi violerebbe il principio di capacità contributiva, atteso che questi ultimi tributi finirebbero per gravare non sul reddito netto, quale indice di ricchezza effettivo, bensì su quello lordo, fittiziamente attribuito. Tale vulnus al principio di capacità contributiva non sarebbe ovviato dalla forfetizzazione del quantum deducibile, ingiustificata e arbitraria.
+ 2.- Dall'atto di rimessione si evince che una società di capitali ha proposto ricorso al giudice a quo avverso il diniego da parte dell'Agenzia delle entrate del rimborso dell'imposta sul reddito delle società (IRES) relativa agli anni «2012, 2013 e 2014». Dal suo tenore si comprende che, del censurato art. 14 del d.lgs. n. 23 del 2011, la parte rilevante deve essere circoscritta al comma 1, primo periodo, il quale, appunto, disciplina il regime di deducibilità dell'IMU ai fini della determinazione del reddito d'impresa e del reddito derivante dall'esercizio di arti e professioni.
+ Prima di esaminare i profili di ammissibilità della questione sollevata occorre effettuare una puntuale ricognizione dei mutamenti che hanno interessato il predetto comma 1, tenendo presente che la questione è sollevata esclusivamente in relazione alla norma che consente la deducibilità del venti per cento dell'IMU pagata sugli immobili strumentali e, quindi, riguarda solo l'anno d'imposta 2014.
+ Nella versione originaria, applicabile al periodo di imposta 2012, la disposizione statuiva che «[l]'imposta municipale propria è indeducibile dalle imposte erariali sui redditi e dall'imposta regionale sulle attività produttive».
+ Successivamente, l'art. 1 della legge 27 dicembre 2013, n. 147, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2014)», ha sostituito il comma in considerazione, stabilendo che, a decorrere dal 1° gennaio 2014 (comma 749), «[l]'imposta municipale propria relativa agli immobili strumentali è deducibile ai fini della determinazione del reddito di impresa e del reddito derivante dall'esercizio di arti e professioni nella misura del 20 per cento [...]» (comma 715) e precisando altresì che «[l]a disposizione in materia di deducibilità dell'imposta municipale propria ai fini dell'imposta sui redditi, di cui al comma 715, ha effetto a decorrere dal periodo d'imposta in corso al 31 dicembre 2013. Per il periodo d'imposta in corso al 31 dicembre 2013, l'aliquota di cui al comma 715 è elevata al 30 per cento [...]» (comma 716).
+ Peraltro, dopo il deposito dell'ordinanza di rimessione, l'art. 1, comma 12, della legge 30 dicembre 2018, n. 145 (Bilancio di previsione dello Stato per l'anno finanziario 2019 e bilancio pluriennale per il triennio 2019-2021), ha innalzato - a decorrere dal 1° gennaio 2019 (art. 19) - al quaranta per cento la quota di deducibilità dell'IMU dalle imposte sui redditi, successivamente elevata al cinquanta per cento dall'art. 3 del decreto-legge 30 aprile 2019, n. 34 (Misure urgenti di crescita economica e per la risoluzione di specifiche situazioni di crisi), il quale ha anche stabilito che essa aumenti al sessanta per cento per il periodo d'imposta successivo a quello in corso al 31 dicembre 2019 e al 31 dicembre 2020 e al settanta per cento a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2021.
+ Le modifiche all'art. 14 del d.lgs. n. 23 del 2011 intervenute successivamente alla legge n. 147 del 2013 sono inapplicabili ratione temporis nel giudizio a quo. Di qui l'impraticabilità della restituzione degli atti al rimettente.
+ 3.- Tanto premesso, la questione di legittimità costituzionale dell'art. 14, comma 1, del d.lgs. n. 23 del 2011, in riferimento all'art. 53 Cost., è inammissibile.
+ 3.1.- Anzitutto, come eccepito dall'Avvocatura generale dello Stato, l'ordinanza di rimessione omette di precisare se la richiesta di rimborso oggetto del giudizio principale afferisca, ai fini della determinazione del reddito d'impresa, alla deduzione percentuale dell'IMU «relativa agli immobili strumentali». Tale carenza descrittiva si traduce, secondo la costante giurisprudenza di questa Corte (ex plurimis, sentenza n. 224 del 2018), in un difetto di motivazione sulla rilevanza della questione, poiché l'art. 14, comma 1, primo periodo, del d.lgs. n. 23 del 2011 consente la deducibilità, ai fini della determinazione del reddito d'impresa, solo per tale tipologia di beni.
+ 3.2.- Inoltre, come già evidenziato, l'oggetto del giudizio a quo riguarda il triennio fiscale 2012-2014, contrassegnato da un triplice diverso regime della deducibilità dell'IMU: quello del 2012 caratterizzato dalla assoluta indeducibilità; quello del 2013 connotato da una deducibilità nella misura del trenta per cento; quello del 2014 in cui detta misura è stata ridotta al venti per cento.
+ Denunciando l'illegittimità costituzionale solo di quest'ultimo regime, il rimettente non spiega perché analoghi dubbi non riguarderebbero quello, ancor meno vantaggioso, dell'anno 2012 e quello del 2013, in cui la deducibilità è stata fissata al trenta per cento.
+ Omettendo di confrontarsi con i regimi normativi relativi ai precedenti periodi d'imposta altrettanto rilevanti nella fattispecie al suo esame, risulta incomprensibile la ragione per la quale egli ritenga incompatibile con il principio di capacità contributiva solo una percentuale di deduzione dell'IMU dall'IRES pari al venti per cento, con ciò indirettamente validando il contenuto dei regimi di deducibilità inerenti agli anni 2012 e 2013.
+ 4.- Alla stregua delle considerazioni che precedono, la questione di legittimità costituzionale dell'art. 14, comma 1, primo periodo, del d.lgs. n. 23 del 2011, come sostituito dall'art. 1, comma 715, della legge n. 147 del 2013, deve essere dichiarata inammissibile.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara inammissibile la questione di legittimità costituzionale dell'art. 14, comma 1, primo periodo, del decreto legislativo 14 marzo 2011, n. 23 (Disposizioni in materia di federalismo Fiscale Municipale), come sostituito dall'art. 1, comma 715, della legge 27 dicembre 2013, n. 147, recante «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge di stabilità 2014)», sollevata, in riferimento all'art. 53 della Costituzione, dalla Commissione tributaria di Parma, con l'ordinanza indicata in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, l'8 maggio 2019.
+ F.to:
+ Giorgio LATTANZI, Presidente
+ Aldo CAROSI, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 4 luglio 2019.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
