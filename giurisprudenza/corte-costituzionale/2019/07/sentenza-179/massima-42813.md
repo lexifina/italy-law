@@ -1,0 +1,23 @@
+# Massima n. 42813
+
+- Pronuncia: Corte costituzionale, sentenza 179/2019 (ECLI:IT:COST:2019:179)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:179
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - Norme della Regione Lombardia - Disposizioni per la riduzione del consumo del suolo e per la riqualificazione del suolo degradato - Adeguamento degli strumenti di pianificazione, quali il piano territoriale regionale (PTR), i piani territoriali di coordinamento provinciale (PTCP) e i piani di governo del territorio (PGT) - Preclusione, nelle more dell'adeguamento, dello ius variandi comunale - Violazione della competenza esclusiva statale nella determinazione delle funzioni fondamentali di Comuni, Province e Città metropolitane, del principio di sussidiarietà e compressione delle potestà urbanistiche comunali - Illegittimità costituzionale in parte qua.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione del combinato disposto dell'art. 117, secondo comma, lett.  p ), Cost., relativamente alla competenza esclusiva statale sulle funzioni fondamentali, e degli artt. 5 e 118, primo e secondo comma, Cost., con riguardo al principio di sussidiarietà verticale, l'ultimo periodo dell'art. 5, comma 4, della legge reg. Lombardia n. 31 del 2014, nel testo precedente alle modifiche apportate dalla legge reg. Lombardia n. 16 del 2017, nella parte in cui non consente ai Comuni di apportare varianti che riducono le previsioni e i programmi edificatori nel documento di piano vigente. La sospensione - nel periodo occorrente alla integrazione dei contenuti del piano territoriale regionale (PTR) e al successivo adeguamento dei piani territoriali di coordinamento provinciale (PTCP) e dei piani di governo del territorio (PGT) - della potestà comunale di apportare modifiche ai contenuti edificatori del documento di piano assume sul piano giuridico un carattere temporalmente limitato, ma indefinito nella sua ampiezza, risultando collegata al concretizzarsi del processo di adeguamento, per il quale i termini previsti dalla sequenza procedimentale individuata dalla legge regionale indicata hanno carattere meramente ordinatorio. In questo modo la norma censurata dal Consiglio di Stato, senza prevedere alcuna possibilità di interlocuzione con il livello di governo superiore, impedisce al Comune di esercitare la  potestas variandi  anche quando questo intenda svolgerla nella stessa direzione dei principi di coordinamento fissati dal legislatore regionale, ma "in anticipo" rispetto alla prevista applicazione a regime. Essa, pertanto, non supera il test di proporzionalità con riguardo all'adeguatezza e necessarietà della limitazione imposta all'autonomia comunale in merito a una funzione amministrativa - la potestà pianificatoria - che il legislatore statale ha individuato come suo connotato fondamentale. ( Precedenti citati: sentenza n. 126 del 2018 ). Secondo la giurisprudenza costituzionale, anche se la funzione di pianificazione comunale rientra in quel nucleo di funzioni amministrative intimamente connesso al riconoscimento del principio dell'autonomia comunale, ciò non comporta, tuttavia, che la legge regionale non possa intervenire a disciplinarla, anche in relazione agli ambiti territoriali di riferimento, e financo a conformarla in nome della verifica e della protezione di concorrenti interessi generali collegati a una valutazione più ampia delle esigenze diffuse sul territorio. Anche dopo l'approvazione della riforma del Titolo V della Costituzione, infatti, l'autonomia dei Comuni non implica una riserva intangibile di funzioni, né esclude che il legislatore competente possa modulare gli spazi dell'autonomia municipale a fronte di esigenze generali che giustifichino ragionevolmente la limitazione di funzioni già assegnate agli enti locali. È anche espressamente escluso che il "sistema della pianificazione" assurga a principio così assoluto e stringente da impedire alla legge regionale - che è fonte normativa primaria sovraordinata rispetto agli strumenti urbanistici locali - di prevedere interventi in deroga a tali strumenti. ( Precedenti citati: sentenze n. 245 del 2018, n. 160 del 2016, n. 46 del 2014, n. 378 del 2000, n. 286 del 1997 e n. 83 del 1997 ).
+
+## Norme
+
+- legge della Regione Lombardia, 28/11/2014 n. 31, art. 5, comma 4 ultimo periodo
+
+## Parametri
+
+- Costituzione, art. 5
+- Costituzione, art. 117, comma 2 lett. p)
+- Costituzione, art. 118
