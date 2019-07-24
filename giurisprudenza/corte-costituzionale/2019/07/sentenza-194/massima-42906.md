@@ -1,0 +1,34 @@
+# Massima n. 42906
+
+- Pronuncia: Corte costituzionale, sentenza 194/2019 (ECLI:IT:COST:2019:194)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:194
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Straniero - Decreto "sicurezza" - Sostituzione del permesso di soggiorno per motivi umanitari con permessi di soggiorno temporanei speciali per esigenze di carattere umanitario - Ricorso delle Regioni Umbria, Emilia-Romagna, Marche, Toscana e Calabria - Lamentata violazione dei principi di tutela dei diritti inviolabili dell'uomo, di ragionevolezza, del diritto d'asilo, di tutela della salute, con conseguente lesione dell'autonomia finanziaria regionale e delle competenze legislative e amministrative regionali in materia di assistenza sociale e sanitaria, formazione e politiche attive del lavoro, istruzione ed edilizia residenziale pubblica, oltre che sulle funzioni degli enti locali - Difetto di motivazione sulla ridondanza - Inammissibilità della questione.
+
+## Testo
+
+È dichiarata inammissibile, per difetto di motivazione sulla ridondanza del vizio sulle proprie attribuzioni, la questione di legittimità costituzionale - promossa dalle Regioni Umbria, Emilia-Romagna, Marche, Toscana e Calabria in riferimento agli artt. 2, 3, 10, 11, 31, 32, 34, 35 e 117, primo comma, Cost., e conseguente violazione degli artt. 117, terzo e quarto comma, 118 e 119 Cost. - dell'art. 1 del d.l. n. 133 del 2018, conv. con modif. in legge n. 132 del 2018, che ha espunto dall'ordinamento ogni riferimento al permesso di soggiorno "per motivi umanitari", contestualmente delineando una serie di casi speciali di permessi di soggiorno temporanei per esigenze di carattere umanitario. Il legislatore nazionale è intervenuto nell'esercizio di competenze esclusive, in particolare nella materia dell'immigrazione e in quella del diritto di asilo, di cui all'art. 117, secondo comma, lett.  b ) e  a ), Cost., senza comportare di per sé una restrizione della protezione umanitaria contraria a Costituzione, perché l'effettiva portata dei nuovi permessi speciali potrà essere valutata solo in fase applicativa, nell'ambito della prassi amministrativa e giurisprudenziale - entrambe tenute al rigoroso rispetto della Costituzione e dei vincoli internazionali - che andrà formandosi. Diversamente, la Corte costituzionale potrà essere adita in via incidentale, restando impregiudicata ogni ulteriore valutazione di legittimità costituzionale della disposizione in esame. Infine, anche qualora le norme statali impugnate producessero l'effetto di escludere una parte delle persone che in precedenza avrebbe avuto diritto al permesso umanitario dal godimento dei nuovi permessi speciali, non sarebbe comunque impedito alle Regioni di continuare a offrire loro le prestazioni in precedenza loro assicurate nell'esercizio delle proprie competenze legislative concorrenti o residuali. Secondo la costante giurisprudenza costituzionale, lo scrutinio delle censure prospettate impone l'individuazione dell'ambito materiale al quale vanno ascritte le disposizioni impugnate, tenendo conto della loro ratio, della finalità, del contenuto e dell'oggetto della disciplina. ( Precedenti citati: sentenze n. 116 del 2019, n. 100 del 2019, n. 246 del 2018 e n. 148 del 2018 ). Lo status di rifugiato e la protezione sussidiaria, specificazione della medesima voce «protezione internazionale», sono accordati in osservanza di obblighi europei e internazionali: il primo per proteggere la persona da atti di persecuzione; la seconda per evitare che questa possa subire un grave danno. Viceversa, la protezione umanitaria è rimessa in larga misura alla discrezionalità dei singoli Stati, per rispondere a esigenze umanitarie, caritatevoli o di altra natura. La materia dell'immigrazione, di cui all'art. 117, secondo comma, lett. b), comprende non solo gli aspetti che attengono alle politiche di programmazione dei flussi di ingresso e di soggiorno nel territorio nazionale, ma le condizioni per il rilascio del permesso di soggiorno. Nella sua disciplina, il legislatore statale gode di ampia discrezionalità, dato che essa è collegata al bilanciamento di molteplici interessi pubblici e che comunque resta sempre tenuto al rispetto degli obblighi internazionali, sulla base dell'art. 117, primo comma, Cost., e costituzionali, compreso il criterio di ragionevolezza intrinseca. ( Precedenti citati: sentenze n. 277 del 2014, n. 202 del 2013, n. 2 del 2013, n. 172 del 2012, n. 245 del 2011, n. 61 del 2011, n. 299 del 2010, n. 250 del 2010, n. 134 del 2010 e n. 156 del 2006 ). La circostanza che lo Stato adotti disposizioni nell'esercizio di proprie competenze legislative esclusive fa sì che non siano configurabili violazioni dirette del riparto di competenze disegnato dal Titolo V, Parte II, della Costituzione; tuttavia ciò non implica che le Regioni non possano denunciare la violazione di parametri costituzionali diversi da quelli relativi al riparto, assumendo la lesione indiretta di proprie attribuzioni costituzionalmente garantite. In tali casi, le questioni sono ammissibili quando la disposizione statale, pur conforme al riparto costituzionale delle competenze, obbligherebbe le Regioni - nell'esercizio di altre loro attribuzioni normative, amministrative o finanziarie - a conformarsi a una disciplina legislativa asseritamente incostituzionale, per contrasto con parametri, appunto, estranei a tale riparto. Tuttavia, in presenza di un intervento normativo ascrivibile all'esercizio di potestà legislativa esclusiva spettante allo Stato, affinché una censura basata sulla violazione indiretta delle competenze regionali sia ammissibile, occorre che essa sia adeguatamente argomentata. ( Precedenti citati: sentenze n. 139 del 2018, n. 73 del 2018, n. 17 del 2018, n. 5 del 2018, n. 287 del 2016, n. 244 del 2016 e n. 412 del 2001 ). Secondo la giurisprudenza costituzionale, le Regioni possono erogare prestazioni anche agli stranieri in posizione di irregolarità e possono farlo senza che ciò interferisca in alcun modo con le regole per il rilascio del permesso di soggiorno, che restano riservate alla legge statale sulla base della competenza esclusiva in materia di immigrazione e di diritto di asilo. ( Precedenti citati: sentenze n. 79 del 2018, n. 61 e del 2011 e n. 269 del 2010 ).
+
+## Norme
+
+- decreto-legge, 04/10/2018 n. 113, art. 1
+- legge, 01/12/2018 n. 132
+
+## Parametri
+
+- Costituzione, art. 2
+- Costituzione, art. 3
+- Costituzione, art. 10
+- Costituzione, art. 11
+- Costituzione, art. 31
+- Costituzione, art. 32
+- Costituzione, art. 34
+- Costituzione, art. 35
+- Costituzione, art. 117, comma 1
+- Costituzione, art. 117, comma 3
+- Costituzione, art. 117, comma 4
+- Costituzione, art. 118
+- Costituzione, art. 119
