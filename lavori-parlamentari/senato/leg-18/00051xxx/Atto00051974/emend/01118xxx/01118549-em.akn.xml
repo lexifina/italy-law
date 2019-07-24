@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1374/A/5.0.5"/>
+					<an:FRBRdate date="2019-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@"/>
+					<an:FRBRdate date="2019-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@.akn"/>
+					<an:FRBRdate date="2019-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-07-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-07-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1374/A/5.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1374" showAs="DDL 1374"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDS5JCEKOF3PXRISG1ZCML4KLT3PLJMH2UK2FEDRGN5HRUCMZ0J3GE" href="http://dati.senato.it/32659" showAs="MALLEGNI"/>
+				<an:TLCPerson id="IDTGLR23MSKKEXBB32MYAQJGXRDMRW5BYB5VZIVCMFHERJFKMPHRFO" href="http://dati.senato.it/22970" showAs="GIRO"/>
+				<an:TLCPerson id="IDBKPUC0IQXG1HOBT5ML4CEYYRVKIWHHAQY2M53BOXZNGJOR5QCCIK" href="http://dati.senato.it/18740" showAs="MOLES"/>
+				<an:TLCPerson id="ID5F2IBIMNW04YN0LMVXKWUFCLPDCTGAJ2YTYWAUFJX3W3G4TKT5XK" href="http://dati.senato.it/30396" showAs="PAPATHEU"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1374</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS5JCEKOF3PXRISG1ZCML4KLT3PLJMH2UK2FEDRGN5HRUCMZ0J3GE" as="#tipoSenatore">MALLEGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTGLR23MSKKEXBB32MYAQJGXRDMRW5BYB5VZIVCMFHERJFKMPHRFO" as="#tipoSenatore">GIRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBKPUC0IQXG1HOBT5ML4CEYYRVKIWHHAQY2M53BOXZNGJOR5QCCIK" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5F2IBIMNW04YN0LMVXKWUFCLPDCTGAJ2YTYWAUFJX3W3G4TKT5XK" as="#tipoSenatore">PAPATHEU</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Istituzione dei centri studi residenziali)</an:i>
+				</an:p>
+				<an:p>        1. Presso il Ministero dell'istruzione, dell'università e della ricerca è istituito un Fondo per l'istituzione, presso gli Istituti d'arte, di nuovi Centri studi anche residenziali, con dotazione di 10 milioni di euro annui a decorrere dall'anno 2020.</an:p>
+				<an:p>        2. I centri studi residenziali di cui al comma 1, sono complessi educativi scolastici ed hanno come fine la formazione della professionalità e l'istruzione dei giovani artisti e artigiani non residenti che vi saranno accolti nel quadro di una educazione completa e armonica.</an:p>
+				<an:p>        3. I centri studi residenziali concorrono alla piena e reale attuazione del diritto allo studio, come sancito dall'articolo 34 della Costituzione della Repubblica, accogliendo studenti capaci e meritevoli, di ambo i sessi, anche se privi di mezzi, con spesa, per questi ultimi, a carico dello Stato o delle regioni o di altri enti.</an:p>
+				<an:p>        4. Il Governo, entro sei mesi dalla data di entrata in vigore della presente legge, predispone un programma quinquennale straordinario, anche a carattere sperimentale, relativo alla costruzione, alla ristrutturazione ed alla manutenzione straordinaria dei centri studi residenziali.</an:p>
+				<an:p>        5. All'onere derivante dal presente articolo, quantificati in euro 8 milioni di euro a decorrere dall'anno 2020, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
