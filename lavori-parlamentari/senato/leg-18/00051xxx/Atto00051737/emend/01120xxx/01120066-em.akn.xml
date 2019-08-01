@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/G3.201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/G3.201"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/G3.201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.201"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@.akn"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1264/A/G3.201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1264" showAs="DDL 1264"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJVQ4NUPATQY1CAYCGSGCFURM5HNJKKGPPNCLDYKBU1LMPRTOMC3K" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDUACVLFJCHEM1IDJDK45KTRYFIMUFHC3LGVVGPQG2CYAN2TGYQDBE" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDQNFXZ0Z2QQUGN14QNKSZFWBYSBIXWDAMQ5CTOFH2OLPW1BAJ0XX" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDIXTTVE5OJCA2F5SQDSFKHEGJOCBBS4LLKXCWAG31Z0ZEAO4HDZF" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1264</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJVQ4NUPATQY1CAYCGSGCFURM5HNJKKGPPNCLDYKBU1LMPRTOMC3K" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUACVLFJCHEM1IDJDK45KTRYFIMUFHC3LGVVGPQG2CYAN2TGYQDBE" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQNFXZ0Z2QQUGN14QNKSZFWBYSBIXWDAMQ5CTOFH2OLPW1BAJ0XX" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIXTTVE5OJCA2F5SQDSFKHEGJOCBBS4LLKXCWAG31Z0ZEAO4HDZF" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame dell'Atto Senato 1264 «Introduzione dell'insegnamento scolastico dell'educazione civica», trasmesso dalla Camera dei deputati il 3 maggio 2019,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            la ratifica da parte dell'Italia della Convenzione di Istanbul sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica, ai sensi della legge 27 giugno 2013, n.77, ha riaperto nelle sedi istituzionali il dibattito sul fenomeno della violenza sulle donne;</an:p>
+				<an:p>        è sicuramente un grande passo in avanti sia sul piano simbolico che materiale, ma la sua piena attuazione ha bisogno di conseguenti interventi di integrazione e modificazione della legislazione e della regolamentazione nazionali che consentano la realizzazione degli obiettivi e delle misure da essa recati;</an:p>
+				<an:p>        tra questi un ruolo fondamentale potranno svolgerlo progetti di formazione culturale che accompagnino i percorsi scolastici dei ragazzi, a partire dal ciclo della scuola secondaria di primo grado, fornendo adeguati strumenti di comprensione e di decostruzione critica dei modelli dominanti tuttora alla base delle relazioni trai sessi. Il capitolo III della Convenzione si esprime sufficientemente nel merito delle politiche di prevenzione da adottare. L'articolo 12, paragrafo 1, obbliga le parti ad adottare le misure necessarie per promuovere i cambiamenti di comportamenti socio-culturali delle donne e degli uomini al fine di eliminare pregiudizi, costumi, tradizioni e pratiche basati sull'idea dell'inferiorità della donna;</an:p>
+				<an:p>        all'articolo 13, paragrafo 2, la Convenzione invita i Paesi sottoscrittori a garantire massima diffusione alle informazioni relative alle misure disponibili per la prevenzione della violenza di genere;</an:p>
+				<an:p>        l'articolo 14, paragrafi 1 e 2, si occupa di definire sul piano dell'istruzione le attività dei Governi rispetto agli atti di violenza che rientrano nel campo della Convenzione: «1. Le Parti intraprendono, se del caso, le azioni necessarie per includere nei programmi scolastici di ogni ordine e grado dei materiali didattici su temi quali la parità tra i sessi, i ruoli di genere non stereotipati, il reciproco rispetto, la soluzione non violenta dei conflitti nei rapporti interpersonali, la violenza contro le donne basata sul genere e il diritto all'integrità personale, appropriati al livello cognitivo degli allievi. 2. Le Parti intraprendono le azioni necessarie per promuovere i principi enunciati al precedente paragrafo 1 nelle strutture di istruzione non formale, nonché nei centri sportivi, culturali e di svago e nei mass media»;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            secondo quest'interpretazione, accanto alla formazione culturale, che si avvalga di un ampio spettro di riferimenti ai saperi (storico-sociali, antropologici, religiosi e altri), si ponga anche la necessità di promuovere percorsi tesi a stimolare nei ragazzi e nelle ragazze la capacità di riflettere e ragionare sull'emotività, sui sentimenti, sull'affettività, attraverso una formazione che si misuri criticamente con la complessa sfera dei sentimenti e con l'obiettivo di fornire ai giovani delle nuove generazioni gli strumenti necessari a gestire i conflitti di domani, i fallimenti, i rifiuti e le complesse fasi dell'adolescenza,</an:p>
+				<an:p>        impegna il Governo</an:p>
+				<an:p>            ad introdurre nei piani di studio l'educazione sentimentale, al fine di promuovere il cambiamento nei modelli di comportamento socio-culturali delle donne e degli uomini con l'obiettivo  di rimuovere i pregiudizi, i costumi, le tradizioni e le altre pratiche basate sull'idea di una distinzione delle persone in ragione del genere di appartenenza o su ruoli stereotipati per le donne e per gli uomini, in grado di alimentare, giustificare o motivare la discriminazione o la violenza di un genere sull'altro.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
