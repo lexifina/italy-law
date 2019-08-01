@@ -1,0 +1,20 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/016 presentata da PASTORINO LUCA (LIBERI E UGUALI) in data 01/08/2019
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/016
+- Data: 20190801
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/016 presentata da PASTORINO LUCA (LIBERI E UGUALI) in data 01/08/2019
+- Presentatore: PASTORINO LUCA (LIBERI E UGUALI)
+- Cofirmatario: FRATOIANNI NICOLA (LIBERI E UGUALI)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/557
+- Argomento: http://eurovoc.europa.eu/6365
+- Argomento: http://eurovoc.europa.eu/6366
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=18&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/016
+- Legislatura: repubblica_18
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_016_18
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 4/016 presentato da PASTORINO Luca testo di Giovedì 1 agosto 2019, seduta n. 220 La Camera, premesso che: i lavoratori e le lavoratrici dipendenti della Cedat85, società appaltatrice della Camera dei deputati, che operano attualmente presso questo ramo del Parlamento nell'ambito di un appalto di servizi di supporto esecutivo alle attività di gestione operativa, lavorano presso la Camera da oltre 17 anni; è dal 2002, infatti, che suddetti lavoratori operano all'interno della Camera dei deputati, attraversando nel corso di questi anni un'infinità di cambi di appalto che hanno determinato anche consistenti riduzioni dei loro emolumenti, con diretta ripercussione sia sul potere di acquisto sia sulla qualità di vita e sul calcolo pensionistico; la loro situazione è rapportabile alla situazione di precarietà ed esternalizzazione del personale ausiliario della scuola per cui, con legge di Bilancio 2019, si è scelto di intervenire mediante un'assunzione di detto personale attraverso l'espletamento di un concorso riservato per titoli e colloquio; per quanto concerne i lavoratori Cedat85 che operano nell'ambito dell'appalto in essere alla Camera dei deputati, durante questi anni, essi, pur a fronte, come detto sopra, di una perdita di potere di acquisto dei loro emolumenti, hanno acquisito una consolidata esperienza professionale, formatasi anche a ridosso delle funzioni svolte dal personale di ruolo; per lo svolgimento in appalto di tale servizio, attualmente la Camera dei deputati spende annualmente 1 milione e 835 mila euro per 46 lavoratori, invita, per le rispettive competenze, l'Ufficio di Presidenza e il Collegio dei Questori a valutare l'opportunità di proseguire nell'indirizzo di contemplare nei capitolati di gara e nei contratti di appalto di servizi ad alta intensità di manodopera tutti gli strumenti previsti dalla normativa vigente che consentono alla Camera dei deputati, in qualità di stazione appaltante, di: a) promuovere la stabilità occupazionale dei lavoratori dipendenti dalle imprese appaltatrici, in particolare attraverso la previsione della cosiddetta «clausola sociale»; b) assicurare l'inquadramento dei lavoratori medesimi ai livelli rigorosamente corrispondenti alle mansioni svolte, sulla base delle declaratorie indicate nei contratti e negli accordi collettivi di riferimento; c) garantire ai lavoratori medesimi &#8211; anche attraverso la previsione di meccanismi premiali nell'ambito del capitolato &#8211; livelli retributivi adeguati alle mansioni svolte e rispondenti ai contratti e agli accordi collettivi vigenti, tali da garantire una retribuzione proporzionata alla qualità e alla quantità del lavoro; d) verificare sistematicamente il puntuale rispetto, da parte dei soggetti appaltatori, degli obblighi contrattuali e di legge in materia di tutela dei lavoratori. 9/Doc. VIII, n.4/ 16 . (Testo modificato nel corso della seduta)   Pastorino , Fratoianni .
