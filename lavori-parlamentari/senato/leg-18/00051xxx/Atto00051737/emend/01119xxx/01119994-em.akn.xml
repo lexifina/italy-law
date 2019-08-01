@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/1.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/1.10"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/1.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@.akn"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1264/A/1.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1264" showAs="DDL 1264"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQDARJTMKBXOOEYSFQGT4MKLBKJ0FR1FXW2WQSZPIDIOAE0QSHYVJ" href="http://dati.senato.it/32707" showAs="RONZULLI"/>
+				<an:TLCPerson id="IDUEW4QWG1OUYJBD3LIVWH4IZIPJHNHPCFFZLDHYMG53DYKURM5QCP" href="http://dati.senato.it/32597" showAs="CANGINI"/>
+				<an:TLCPerson id="IDGQRVBBUGYZUJFLSNZEUL3R1MHCAA4OBSEFD1COGOKBWBRLIZ1AHB" href="http://dati.senato.it/22970" showAs="GIRO"/>
+				<an:TLCPerson id="IDMT5QJOP5JMUDGY3WFXQHAVXSBCVMVL5ROR4RLPCSATVCEZHGY4PC" href="http://dati.senato.it/32742" showAs="ALDERISI"/>
+				<an:TLCPerson id="IDSVHNZXYP5FO5BNQJN3JXN3CACBP4BN3LSAV3MUDIIUBU0YCY5VZI" href="http://dati.senato.it/18740" showAs="MOLES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1264</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQDARJTMKBXOOEYSFQGT4MKLBKJ0FR1FXW2WQSZPIDIOAE0QSHYVJ" as="#tipoSenatore">RONZULLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUEW4QWG1OUYJBD3LIVWH4IZIPJHNHPCFFZLDHYMG53DYKURM5QCP" as="#tipoSenatore">CANGINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGQRVBBUGYZUJFLSNZEUL3R1MHCAA4OBSEFD1COGOKBWBRLIZ1AHB" as="#tipoSenatore">GIRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMT5QJOP5JMUDGY3WFXQHAVXSBCVMVL5ROR4RLPCSATVCEZHGY4PC" as="#tipoSenatore">ALDERISI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSVHNZXYP5FO5BNQJN3JXN3CACBP4BN3LSAV3MUDIIUBU0YCY5VZI" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, sostituire le parole da:</an:i>
+					 «la condivisione» 
+					<an:i>fino alla fine con le seguenti</an:i>
+					: «la conoscenza, il rispetto, la condivisione e la promozione dei princìpi di legalità, di solidarietà, di cittadinanza attiva e digitale, di sostenibilità ambientale, di diritto alla salute e al benessere della persona, al fine di accrescere la partecipazione nella tutela e nella valorizzazione della cosa pubblica.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
