@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G8.401/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G8.401"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G8.401/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.401"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@.akn"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1437/A/G8.401/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1437" showAs="DDL 1437"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQRKAAXOX13J1OQJXJVQTQC5LEFBFQDEJW2H3MCMYSWTA1YKVXYG" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDDZESWDU22CYTCMDQN0GCOMMSQMEANWX4OGGO01ELU0ZLXLTBU05I" href="http://dati.senato.it/17542" showAs="BALBONI"/>
+				<an:TLCPerson id="IDFGVKBHWBOVXKODUQYJNY0T1JJHAY400IT5WWB0BNQ50TEBQR22I" href="http://dati.senato.it/32650" showAs="LA PIETRA"/>
+				<an:TLCPerson id="IDFXER3ULGH1GABK54WM2AXI2CWPQEDPBECCQPSWFX34N5A00R55S" href="http://dati.senato.it/1275" showAs="LA RUSSA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1437</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.401</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQRKAAXOX13J1OQJXJVQTQC5LEFBFQDEJW2H3MCMYSWTA1YKVXYG" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDZESWDU22CYTCMDQN0GCOMMSQMEANWX4OGGO01ELU0ZLXLTBU05I" as="#tipoSenatore">BALBONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFGVKBHWBOVXKODUQYJNY0T1JJHAY400IT5WWB0BNQ50TEBQR22I" as="#tipoSenatore">LA PIETRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFXER3ULGH1GABK54WM2AXI2CWPQEDPBECCQPSWFX34N5A00R55S" as="#tipoSenatore">LA RUSSA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il provvedimento in esame reca disposizioni urgenti in materia di ordine e sicurezza pubblica;</an:p>
+				<an:p>            negli ultimi anni sul territorio nazionale si è diffusa la cosiddetta mafia nigeriana, nota per la sua particolare violenza e ormai ramificata dal sud al nord, come anche organizzazioni della malavita cinese;</an:p>
+				<an:p>            nei mesi scorsi, nella zona di Castelvolturno, una delle roccaforti della mafia nigeriana, la stessa è stata al centro di un'indagine congiunta tra il Servizio centrale operativo della Polizia italiana, l'FBI statunitense e la polizia canadese;</an:p>
+				<an:p>            occorre garantire una maggiore celerità ed efficacia alle attività di prevenzione e contrasto delle nuove forme di criminalità organizzata, anche in relazione alle straordinarie esigenze connesse al fenomeno crescente dell'immigrazione illegale e dell'infiltrazione, nel territorio italiano, di gruppi criminali nigeriani e cinesi,</an:p>
+				<an:p>        impegna il Governo,</an:p>
+				<an:p>            a valutare l'istituzione, presso i tribunali ordinari del luogo nel quale hanno sede le Corti d'appello, di sezioni specializzate in materia di mafie e altre associazioni criminali straniere.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
