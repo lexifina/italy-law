@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/C/1.98/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/C/1.98"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1437/C/1.98/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.98"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@.akn"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1437/C/1.98/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1437" showAs="Ddl 1437"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/29521" showAs="Dario Parrini"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/29138" showAs="Franco Mirabelli"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32602" showAs="Tommaso Cerno"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/29395" showAs="Davide Faraone"/>
+				<an:TLCPerson id="ID0EGC" href="http://dati.senato.it/20658" showAs="Luigi Zanda"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1437</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.98</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Parrini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Mirabelli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Cerno</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Faraone</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Zanda</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire il capoverso</an:i>
+					 «1-
+					<an:i>ter</an:i>
+					.» 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «1
+					<an:i>-ter</an:i>
+					. Ove ricorra una attendibile minaccia per la sicurezza pubblica, il Presidente del Consiglio dei ministri può limitare la sosta di navi nel mare territoriale, nel rispetto della Convenzione delle Nazioni Unite sul diritto del mare, con allegati e atto finale, fatta a Montego Bay il 10 dicembre 1982, resa esecutiva dalla legge 2 dicembre 1994, n. 689, nonché dei vincoli derivanti dall'appartenenza dell'Italia all'Unione europea. Il provvedimento è adottato di concerto con i Ministri dell'interno, della difesa e per le politiche europee, sentito il parere delle competenti commissioni parlamentari. Il provvedimento di cui ai periodi precedenti non può essere adottato ove la sosta riguardi navi coinvolte in operazioni Sar».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
