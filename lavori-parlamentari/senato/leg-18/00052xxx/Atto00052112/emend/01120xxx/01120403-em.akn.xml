@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/1.233/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/1.233"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/1.233/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.233"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@.akn"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1437/A/1.233/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1437" showAs="DDL 1437"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYZBVG5SFMTIGCOVC5WAZQLGF4GSYXA0JLKIUOPDOOS5N4VWFBKH" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDAEQ4434QZ4IJHHYGED4PQR4YSO5IUDSVZBFPLECPY5POHGBDVZHG" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDDM0LMFE2TJD4GLDT2O0CUMXZKPKMXYCCSXKTXDDNBXOKPLX3RJ1M" href="http://dati.senato.it/32615" showAs="DE FALCO"/>
+				<an:TLCPerson id="IDZJD31MEMAQKZFCGJA03B2LVZEJ1VL3IAHNQZNGKFRTEACJ3SQL3H" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDI2RJJS0ETYBTO3D3YYHWSWACX4GNQEL2LWTOADVTHFHPZJVRTDO" href="http://dati.senato.it/29093" showAs="FATTORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1437</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.233</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYZBVG5SFMTIGCOVC5WAZQLGF4GSYXA0JLKIUOPDOOS5N4VWFBKH" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEQ4434QZ4IJHHYGED4PQR4YSO5IUDSVZBFPLECPY5POHGBDVZHG" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDM0LMFE2TJD4GLDT2O0CUMXZKPKMXYCCSXKTXDDNBXOKPLX3RJ1M" as="#tipoSenatore">DE FALCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZJD31MEMAQKZFCGJA03B2LVZEJ1VL3IAHNQZNGKFRTEACJ3SQL3H" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI2RJJS0ETYBTO3D3YYHWSWACX4GNQEL2LWTOADVTHFHPZJVRTDO" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «1-
+					<an:i>ter</an:i>
+					.», sostituire le parole da: «ovvero» 
+					<an:i>fino alle seguenti:</an:i>
+					 «il Presidente del Consiglio dei ministri» 
+					<an:i>con le parole:</an:i>
+					 «e quando si concretizzano le condizioni di cui all'articolo 19, comma 2, lettera 
+					<an:i>g)</an:i>
+					 limitatamente alle violazioni delle leggi di immigrazione vigenti , della Convenzione delle Nazioni Unite sul diritto del mare, con allegati e atto finale, fatta a Montego Bay il 10 dicembre 1982, ratificata dalla legge2 dicembre 1994, n. 689. Il provvedimento è adottato di concerto con il Ministro della difesa e con il Ministro delle infrastrutture e dei trasporti, secondo le rispettive competenze, previa autorizzazione del Presidente del Consiglio dei ministri». Il provvedimento deve essere immediatamente comunicato all'autorità giudiziaria competente la quale provvede entro il termine perentorio di 48 ore a convalidarlo o rigettarlo con motivazione».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
