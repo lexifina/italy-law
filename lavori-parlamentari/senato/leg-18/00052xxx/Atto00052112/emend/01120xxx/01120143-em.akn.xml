@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G8.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G8.2"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G8.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@.akn"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1437/A/G8.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1437" showAs="DDL 1437"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA1MQ1GPHITGNEHWVP3SDUF4ZAGYGIC2GUDZUBBPFJOKZLODB4NVG" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDXZL53TSN3ERFN0TM1KPHEWNF3H3B450S1RGKTPG4P205H2CNRWYI" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="ID2QWE1NSRA0SYKTFYD1L1SVGEXJWU1HIAQND1T0NP5PGOJ1EMSHNN" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="ID21AWCSWVGXLQNYJNB1XOBCTP4FWHFIYYJSKUXCG1GQ2HFX1HAN" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1437</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1MQ1GPHITGNEHWVP3SDUF4ZAGYGIC2GUDZUBBPFJOKZLODB4NVG" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXZL53TSN3ERFN0TM1KPHEWNF3H3B450S1RGKTPG4P205H2CNRWYI" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2QWE1NSRA0SYKTFYD1L1SVGEXJWU1HIAQND1T0NP5PGOJ1EMSHNN" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID21AWCSWVGXLQNYJNB1XOBCTP4FWHFIYYJSKUXCG1GQ2HFX1HAN" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 1 Commissione,</an:p>
+				<an:p>        in sede d'esame del disegno di legge di conversione in legge, con modificazioni, del decreto-legge 14 giugno 2019, n. 53, recante disposizioni urgenti in materia di ordine e sicurezza pubblica,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 29-bis del decreto-legge 4 ottobre 2018, n. 113 (c.d. «Decreto Sicurezza»), inserito in sede di conversione dalla legge 1º dicembre 2018, n. 132, ha introdotto alcune novità di rilievo al codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in materia di circolazione di veicoli immatricolati all'estero;</an:p>
+				<an:p>
+					            in particolare, il nuovo comma 1-
+					<an:i>bis</an:i>
+					 dell'articolo 93 del codice vieta, a chi ha stabilito la residenza in Italia da oltre 60 giorni, di circolare con un veicolo immatricolato all'estero, salvo limitate eccezioni relative esclusivamente a veicoli concessi in 
+					<an:i>leasing</an:i>
+					, in locazione senza conducente, con contratto stipulato con un operatore di uno Stato membro della UE o dello spazio economico europeo e veicoli concessi in comodato, da imprese UE o SEE, a residenti in Italia che siano legati loro da un rapporto di lavoro o di collaborazione;
+				</an:p>
+				<an:p>
+					            le norme introdotte hanno comportato, in generale, innumerevoli difficoltà operative e un intervento da parte del legislatore si rende del tutto necessario, al fine di restringere l'ambito di applicazione delle disposizioni di cui al comma 1-
+					<an:i>bis</an:i>
+					 ai soli comportamenti ritenuti effettivamente illegittimi, con riferimento al fenomeno della cosiddetta «esterovestizione» dei veicoli, che nulla hanno però a che fare con l'attuale generalizzato divieto di guidare un qualsiasi veicolo di proprietà di un amico o di un parente; sebbene immatricolato all'estero;
+				</an:p>
+				<an:p>        considerato altresì che:</an:p>
+				<an:p>            per forza di cose, il divieto interessa, in particolare, le Regioni situate nelle zone di confine, dove il rischio di incorrere in sanzioni amministrative è più diffuso e dove il divieto introdotto è maggiormente avvertito dai cittadini;</an:p>
+				<an:p>        impegna il governo:</an:p>
+				<an:p>
+					            a predisporre, all'interno del primo provvedimento utile, un intervento legislativo «
+					<an:i>ad hoc</an:i>
+					» finalizzato ad estendere le eccezioni di cui all'articolo 93, comma 1-
+					<an:i>ter</an:i>
+					 del codice, altresì: ai residenti in Italia che conducono veicoli immatricolati all'estero intestati ad un familiare entro il quarto grado, esercente la sua attività di studio o di lavoro all'estero; ai dipendenti di associazioni territoriali di soccorso per il rimpatrio dei veicoli immatricolati all'estero; al personale dipendente di imprese aventi sede in Italia che, per brevi spostamenti strettamente legati allo svolgimento di prestazioni lavorative, conduce veicoli immatricolati all'estero appartenenti o nella disponibilità di clienti delle medesime imprese; agli imprenditori individuali residenti in Italia che conducono veicoli immatricolati all'estero intestati alle imprese aventi sede all'estero, di cui sono unici titolari.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
