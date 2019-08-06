@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1372/A/G5.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1372/A/G5.2"/>
+					<an:FRBRdate date="2019-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1372/A/G5.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@"/>
+					<an:FRBRdate date="2019-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@.akn"/>
+					<an:FRBRdate date="2019-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1372/A/G5.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1372" showAs="DDL 1372"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYKB0EPAJRHHIMKL3KEA4CBUVOTK1D44QAEE45FWBA3JEAEETZPC" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="IDZ0V1XEBFTVIDLUJHOXLNTVR5LJGTR1MKVZYV1AEY21H20YMUTBWC" href="http://dati.senato.it/29443" showAs="IORI"/>
+				<an:TLCPerson id="IDAETCFEXTBK1XBZ043TZATM3KGJYKIV0OMXT45OD1F12W2BFXIBEP" href="http://dati.senato.it/25402" showAs="SBROLLINI"/>
+				<an:TLCPerson id="IDDFRSVCTASILCEU5H4RRZTVZRZXCYZLMU0PA5MSWBMWGVZMMJDL" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+				<an:TLCPerson id="IDA3HDDCMP5KF0JIOWH5WPK1XX5HTD53FHBBOI5AN1BUCABC0LDMXN" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1372</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYKB0EPAJRHHIMKL3KEA4CBUVOTK1D44QAEE45FWBA3JEAEETZPC" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ0V1XEBFTVIDLUJHOXLNTVR5LJGTR1MKVZYV1AEY21H20YMUTBWC" as="#tipoSenatore">IORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAETCFEXTBK1XBZ043TZATM3KGJYKIV0OMXT45OD1F12W2BFXIBEP" as="#tipoSenatore">SBROLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDFRSVCTASILCEU5H4RRZTVZRZXCYZLMU0PA5MSWBMWGVZMMJDL" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3HDDCMP5KF0JIOWH5WPK1XX5HTD53FHBBOI5AN1BUCABC0LDMXN" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge «Deleghe al Governo e altre disposizioni in materia di ordinamento sportivo, di professioni sportive nonché di semplificazione»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 5, del provvedimento in esame, reca una delega al Governo per l'adozione di uno o più decreti legislativi per il riordino e la riforma delle disposizioni in materia di enti sportivi professionistici e dilettantistici, nonché per la disciplina del rapporto di lavoro sportivo, La delega è finalizzata a garantire l'osservanza dei princìpi di parità di trattamento e di non discriminazione nel lavoro sportivo, sia nel settore dilettantistico che in quello professionistico;</an:p>
+				<an:p>            gli atleti spesso devono affrontare la sfida di conciliare la loro carriera sportiva con il lavoro. Voler riuscire al più alto livello in uno sport richiede un allenamento intensivo e competizioni che possono essere difficili da conciliare con le sfide e le restrizioni del mercato del lavoro;</an:p>
+				<an:p>            finita la carriera sportiva, molti si trovano disoccupati. La sfida principale per molti atleti è quella di gestire la transizione delle loro caratteristiche personali e delle loro competenze dal mondo sportivo ad una carriera professionale di successo,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            in fase di attuazione della delega di cui all'articolo 5 a prevedere interventi volti ad avviare percorsi formativi post carriera, finalizzati a sostenere l'inserimento di un atleta nel mondo del lavoro ordinario.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
