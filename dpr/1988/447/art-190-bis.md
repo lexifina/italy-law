@@ -8,4 +8,4 @@ Nei procedimenti per taluno dei delitti indicati nell' articolo 51, comma 3-bis,
 
 1-bis.
 
-La stessa disposizione si applica quando si procede per uno dei reati previsti dagli articoli 600-bis, primo comma, 600-ter, 600- quater, 600-quinquies, 609-bis, 609-ter, 609-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 609-quinquies e 609-octies del codice penale, se l'esame richiesto riguarda una testimone minore degli anni sedici ((e, in ogni caso, quando l'esame testimoniale richiesto riguarda una persona offesa in condizione di particolare vulnerabilita')).
+La stessa disposizione si applica quando si procede per uno dei reati previsti dagli articoli 600-bis, primo comma, 600-ter, 600- quater, 600-quinquies, 609-bis, 609-ter, 609-quater, anche se relativi al materiale pornografico di cui all'articolo 600-quater.1, 609-quinquies e 609-octies del codice penale, se l'esame richiesto riguarda una testimone minore degli ((anni diciotto)) e, in ogni caso, quando l'esame testimoniale richiesto riguarda una persona offesa in condizione di particolare vulnerabilita'.

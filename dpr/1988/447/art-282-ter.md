@@ -1,12 +1,10 @@
 Art. 282-ter.
 
-(( (Divieto di avvicinamento ai luoghi frequentati dalla persona offesa).))
-
-((
+(Divieto di avvicinamento ai luoghi frequentati dalla persona offesa).
 
 1.
 
-Con il provvedimento che dispone il divieto di avvicinamento il giudice prescrive all'imputato di non avvicinarsi a luoghi determinati abitualmente frequentati dalla persona offesa ovvero di mantenere una determinata distanza da tali luoghi o dalla persona offesa.
+Con il provvedimento che dispone il divieto di avvicinamento il giudice prescrive all'imputato di non avvicinarsi a luoghi determinati abitualmente frequentati dalla persona offesa ovvero di mantenere una determinata distanza da tali luoghi o dalla persona offesa ((, anche disponendo l'applicazione delle particolari modalita' di controllo previste dall'articolo 275-bis)).
 
 2.
 

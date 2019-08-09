@@ -10,6 +10,10 @@ a)
 
 alle modalita' di presentazione degli atti di denuncia o querela, al ruolo che assume nel corso delle indagini e del processo, al diritto ad avere conoscenza della data, del luogo del processo e della imputazione e, ove costituita parte civile, al diritto a ricevere notifica della sentenza, anche per estratto;
 
+b)
+
+alla facolta' di ricevere comunicazione del procedimento e delle iscrizioni di cui all'articolo 335, commi 1, 2 e 3-ter;
+
 c)
 
 alla facolta' di essere avvisata della richiesta di archiviazione;
@@ -56,4 +60,4 @@ alle facolta' ad essa spettanti nei procedimenti in cui l'imputato formula richi
 
 p)
 
-alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza e alle case rifugio.
+alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza ((, alle case rifugio e ai servizi di assistenza alle vittime di reato)).
