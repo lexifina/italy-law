@@ -1,0 +1,19 @@
+# TAR LIGURIA - GENOVA, ordinanza cautelare n. 206/2019
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LIGURIA - GENOVA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201900206
+- Numero di ricorso (NRG): 201900114
+- Data di pubblicazione: 2019-09-09
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2019-02-19
+- Oggetto del ricorso: ANNULLAMENTO INGIUNZIONE DI DEMOLIZIONE PROT. N. 391819 DEL 13/11/2017 E CON I MOTIVI AGGIUNTI: PROVVEDIMENTO PROT. N. 222461 DEL 20/06/2019, CON IL QUALE IL COMUNE DI GENOVA HA ACCERTATO L'INOTTEMPERANZA ALL'INGIUNZIONE A DEMOLIRE PROT. N. 391819 DEL 13/11/2018 ED HA DISPOSTO L'ACQUISIZIONE GRATUITA AL PATRIMONIO COMUNALE DEI BENI DI PROPRIETÀ DELLA RICORRENTE, DELLE MISURE SANZIONATORIE AMMINISTRATIVE PECUNIARIE CHE SARANNO APPLICATE DAL COMUNE DI GENOVA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-liguria-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/d233f4a6-72fd-4477-9d8e-3a98ac1c5df2/resource/d5283821-ec8a-4eb8-baa7-5067a692ce0b/download/tar-liguria-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
