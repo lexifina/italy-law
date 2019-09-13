@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 4583/2019
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VI
+- Numero provvedimento: 201904583
+- Numero di ricorso (NRG): 201906057
+- Data di pubblicazione: 2019-09-13
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: PRENDE ATTO RINUNZIA ALLA ISTANZA CAUTELARE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2019-07-16
+- Oggetto del ricorso: PROSECUZIONE DELL'EROGAZIONE DEL SERVIZIO DI PULIZIA NELLE ISTITUZIONI SCOLASTICHE - ESCLUSIONE DEL LOTTO 5 DALL'APPLICAZIONE DEL SISTEMA DI PROROGA - AGGIUDICAZIONE IN VIA D'URGENZA DEL SERVIZIO PER LE ISTITUZIONI SCOLASTICHE NELLA PROVINCIA DI FROSINONE E LATINA - RISARCIMENTO DANNI
+- Tipo di ricorso: APP. AVV. SENT. NEL RITO APPALTI ex art.120 co.2 bis c.p.a.
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
