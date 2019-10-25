@@ -1,0 +1,19 @@
+# TAR ABRUZZO - L'AQUILA, ordinanza cautelare n. 217/2019
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR ABRUZZO - L'AQUILA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 201900217
+- Numero di ricorso (NRG): 201900325
+- Data di pubblicazione: 2019-10-25
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2019-07-29
+- Oggetto del ricorso: ANNULLAMENTO DEL PROVVEDIMENTO PROT. N. 0003535/2019 DEL 30 MAGGIO 2019 AVENTE AD OGGETTO: “ESECUZIONE ORDINANZA DI RIDUZIONE IN PRISTINO N. 4/2007 DEL 1° DICEMBRE 2017”; DELLA DETERMINAZIONE N. 571 DELL'11 LUGLIO 2019 AVENTE AD OGGETTO: “AFFIDAMENTO LAVORI DI DEMOLIZIONE OPERE ABUSIVE E RIPRISTINO DEI LUOGHI IN COMUNE DI PESCASSEROLI”; DI OGNI ALTRO ATTO PRESUPPOSTO, CONSEGUENTE, CONNESSO, CONSEQUENZIALE.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-abruzzo-l-aquila-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/39dae7b6-2b8f-4f51-a926-e1f266bfb8f1/resource/5b24137c-7308-4b97-8b04-b2bce6b566bd/download/tar-abruzzo-laquila-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
