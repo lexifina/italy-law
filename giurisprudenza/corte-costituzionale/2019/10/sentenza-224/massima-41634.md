@@ -1,0 +1,21 @@
+# Massima n. 41634
+
+- Pronuncia: Corte costituzionale, sentenza 224/2019 (ECLI:IT:COST:2019:224)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:224
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Energia - Ricerca e coltivazione di idrocarburi liquidi e gassosi - Intesa per il conferimento di un permesso di ricerca in area denominata "Masseria La Rocca" - Diniego da parte della Regione Basilicata con delibera di Giunta regionale successivamente annullata dal TAR Basilicata - Conferma dell'annullamento con sentenza del Consiglio di Stato - Conflitto di attribuzione tra enti promosso dalla Regione Basilicata - Denunciata carenza assoluta di giurisdizione del giudice ammnistrativo in ordine agli atti d'intesa o di diniego di intesa e conseguente lesione delle competenze costituzionalmente attribuite alle Regioni nonché del principio di leale collaborazione - Censure prive di "tono costituzionale" - Inammissibilità del conflitto.
+
+## Testo
+
+È dichiarato inammissibile il conflitto di attribuzione tra enti - promosso dalla Regione Basilicata nei confronti dello Stato, in riferimento agli artt. 117, terzo comma, e 118, primo comma, Cost., al principio di leale collaborazione  ex  art. 120 Cost., nonché agli artt. 103, primo comma, e 134 Cost. - in relazione alla sentenza del Consiglio di Stato del 20 settembre 2018, n. 5471, che ha confermato la sentenza del TAR per la Basilicata, del 26 maggio 2017, n. 387, che ha annullato la deliberazione della Giunta regionale 29 dicembre 2016, n. 1528, con la quale la Regione Basilicata ha negato l'intesa - di cui all'art. 1, comma 7, lett.  n ), della legge n. 239 del 2004, e all'art. 29, comma 2, lettera  l ), del d.lgs. n. 112 del 1998 - per il rilascio di un permesso di ricerca di idrocarburi liquidi e gassosi in un'area sita nei Comuni di Potenza e Brindisi di Montagna, convenzionalmente denominata "Masseria La Rocca". Pur non essendovi dubbio che gli atti d'intesa relativi ai permessi di prospezione e ricerca degli idrocarburi ricadano nella sfera applicativa del principio di leale collaborazione in materie di competenza concorrente Stato-Regione, quali la «produzione trasporto e distribuzione nazionale dell'energia», nonché il «governo del territorio», ciò non basta, di per sé, a riconoscere un "tono costituzionale" alle censure. La ricorrente, lamentando l'erroneo esercizio della funzione giurisdizionale, utilizza il conflitto come un improprio mezzo di gravame avverso le sentenze del giudice amministrativo. ( Precedenti citati: sentenze n. 117 del 2018, n. 170 del 2017 n. 114 del 2017, n. 142 del 2016, n. 131 del 2016, n. 52 del 2016, n. 117 del 2013 e n. 103 del 1993 ). La natura costituzionale delle competenze, così come il potere discrezionale che ne connota i relativi atti di esercizio, non esclude la sindacabilità nelle ordinarie sedi giurisdizionali degli stessi atti, quando essi trovano un limite nei principi di natura giuridica posti dall'ordinamento, tanto a livello costituzionale quanto a livello legislativo. ( Precedente citato: sentenza n. 81 del 2012 ). Gli atti giurisdizionali possono essere posti alla base di un conflitto di attribuzione tra enti, purché, però, il conflitto non si risolva in un mezzo improprio di censura del modo di esercizio della funzione giurisdizionale, valendo contro gli errori in iudicando i consueti rimedi previsti dagli ordinamenti processuali delle diverse giurisdizioni e non potendo il conflitto surrettiziamente trasformarsi in un ulteriore grado di giudizio avente portata generale. ( Precedenti citati: sentenze n. 107 del 2015, n. 252 del 2013, n. 81 del 2012, n. 72 del 2012, n. 130 del 2009, n. 195 del 2007, n. 150 del 2007, n. 2 del 2007, n. 326 del 2003, n. 276 del 2003, n. 27 del 1999, n. 175 del 1991, n. 99 del 1991, n. 285 del 1990, n. 70 del 1985, n. 183 del 1981, n. 289 del 1974 e n. 110 del 1970 ).
+
+## Parametri
+
+- Costituzione, art. 103, comma 1
+- Costituzione, art. 117, comma 3
+- Costituzione, art. 118, comma 1
+- Costituzione, art. 120
+- Costituzione, art. 134
