@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1570/A/1.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1570/A/1.19"/>
+					<an:FRBRdate date="2019-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1570/A/1.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@"/>
+					<an:FRBRdate date="2019-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@.akn"/>
+					<an:FRBRdate date="2019-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-11-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-11-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1570/A/1.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1570" showAs="DDL 1570"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDI1U4SVEPA0ACMEVLRLDQ0WIHN3DA0E2PR1ICIKNX4PDBMCFK4M" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDRNT1R4NZ0LPALMYCFNTNO5QWVIJYJHJPZFDVQBB4YRIR4CXWH2YM" href="http://dati.senato.it/19244" showAs="AUGUSSORI"/>
+				<an:TLCPerson id="IDULXEVOIYJ3W3MJJJZNDDSSVM5HTFPK4MRLI2WAIORGON2BLQYOEG" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDV5LBYVNF4CKU2YFVET0QCPAKDJNY0AYBOHXLLIBNCIY1OXQOEOF" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1570</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI1U4SVEPA0ACMEVLRLDQ0WIHN3DA0E2PR1ICIKNX4PDBMCFK4M" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRNT1R4NZ0LPALMYCFNTNO5QWVIJYJHJPZFDVQBB4YRIR4CXWH2YM" as="#tipoSenatore">AUGUSSORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDULXEVOIYJ3W3MJJJZNDDSSVM5HTFPK4MRLI2WAIORGON2BLQYOEG" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV5LBYVNF4CKU2YFVET0QCPAKDJNY0AYBOHXLLIBNCIY1OXQOEOF" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 10, dopo le parole:</an:i>
+					 «persone giuridiche e nelle imprese» 
+					<an:i>inserire le seguenti:</an:i>
+					 «, nonché della decadenza dagli incarichi ricoperti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
