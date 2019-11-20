@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/1.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/1.15"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1547/A/1.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@.akn"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1547/A/1.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1547" showAs="DDL 1547"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDO4U1I3M2BXAPKNDXLR0U5KJ3ZOGRRXQYC2AWT2BDGOXHR3LSHO2L" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDWO1XOVRTVDN5CLNPSTE5TMEHYO24EBGS0BU302J3NQHOUDYQZWMD" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDDGUXNCNUXWDHCOAJFSRPOP2T1EXJ44CRIHTTHFLQHZGGLHKIF3GF" href="http://dati.senato.it/32614" showAs="DE BONIS"/>
+				<an:TLCPerson id="IDHI0N1HOUVJX5DOJQHH5UO3043HZBOXJZFFGH0YE53QIPLC5PIZB" href="http://dati.senato.it/32615" showAs="DE FALCO"/>
+				<an:TLCPerson id="IDN1EVRLBHKUGWH13DV0DYLDNHJJMNUY0GWDKGCAOHJQRIV0VXYKHP" href="http://dati.senato.it/29093" showAs="FATTORI"/>
+				<an:TLCPerson id="IDCBXEPE5I4V1SJ3G3J125PHXJ1LJXBR5NFEEGV2NSKLSBV0BHZOFE" href="http://dati.senato.it/29130" showAs="MARTELLI"/>
+				<an:TLCPerson id="IDXNRFIQU2BDSTEGNUZQU0XE01EHYCZOLHQZGV4LNZV3KN1IUPVAOC" href="http://dati.senato.it/32648" showAs="LA MURA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1547</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO4U1I3M2BXAPKNDXLR0U5KJ3ZOGRRXQYC2AWT2BDGOXHR3LSHO2L" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWO1XOVRTVDN5CLNPSTE5TMEHYO24EBGS0BU302J3NQHOUDYQZWMD" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDGUXNCNUXWDHCOAJFSRPOP2T1EXJ44CRIHTTHFLQHZGGLHKIF3GF" as="#tipoSenatore">DE BONIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHI0N1HOUVJX5DOJQHH5UO3043HZBOXJZFFGH0YE53QIPLC5PIZB" as="#tipoSenatore">DE FALCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN1EVRLBHKUGWH13DV0DYLDNHJJMNUY0GWDKGCAOHJQRIV0VXYKHP" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCBXEPE5I4V1SJ3G3J125PHXJ1LJXBR5NFEEGV2NSKLSBV0BHZOFE" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXNRFIQU2BDSTEGNUZQU0XE01EHYCZOLHQZGV4LNZV3KN1IUPVAOC" as="#tipoSenatore">LA MURA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis.</an:i>
+					 Entro 60 giorni dall'approvazione del Programma strategico nazionale per il contrasto ai cambiamenti climatici e il miglioramento della qualità dell'aria, di cui al comma 1, le Regioni approvano il Piano strategico regionale per il contrasto ai cambiamenti climatici e il miglioramento della qualità dell'aria e ciascuna amministrazione pubblica, di cui all'art. 1, comma 2, del decreto legislativo 30 marzo 2001 n. 165, conforma le attività di propria competenza al raggiungimento degli obiettivi di cui al Piano regionale».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
