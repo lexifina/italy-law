@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/1.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/1.17"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1547/A/1.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@.akn"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1547/A/1.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1547" showAs="DDL 1547"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLOGO04HMYVAOOUCCM4TNZPSQMGBVXDEKWNOQLHPDOE1PZXJC12IF" href="http://dati.senato.it/32590" showAs="BORGONZONI"/>
+				<an:TLCPerson id="IDACTPDUZHUQCVNAF0B3BHRGBEKP3QUO2JUYS3QJMMX5VVGAY1BJWB" href="http://dati.senato.it/34675" showAs="CORTI"/>
+				<an:TLCPerson id="IDYXGWESYFNC50KIHQDHLANN4YSGMZI3ZC3FI0WWOTM5D05HYNS3RP" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDABXXBZFZ5YVMCR24HWSJVXZ12OR0Q1RDCZCSJVDWCMINDIKUO3CP" href="http://dati.senato.it/32593" showAs="BRIZIARELLI"/>
+				<an:TLCPerson id="IDCW42DMFOMH3XBTOPFJQZLILBWO5QERGQ0ZPPG3M3SZJ24SNPFWXH" href="http://dati.senato.it/32743" showAs="BRUZZONE"/>
+				<an:TLCPerson id="IDHNTOTAXHBR5IRWGAWAOI5TIPKM2BZHV2EK1W0IKDNFRSXPX331" href="http://dati.senato.it/32682" showAs="PAZZAGLINI"/>
+				<an:TLCPerson id="IDECIIAS0LLB3VICM33YLYLKI15NKPGRGWVTP04QFRVPZVPIF1CPYL" href="http://dati.senato.it/32702" showAs="RIPAMONTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1547</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLOGO04HMYVAOOUCCM4TNZPSQMGBVXDEKWNOQLHPDOE1PZXJC12IF" as="#tipoSenatore">BORGONZONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACTPDUZHUQCVNAF0B3BHRGBEKP3QUO2JUYS3QJMMX5VVGAY1BJWB" as="#tipoSenatore">CORTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYXGWESYFNC50KIHQDHLANN4YSGMZI3ZC3FI0WWOTM5D05HYNS3RP" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABXXBZFZ5YVMCR24HWSJVXZ12OR0Q1RDCZCSJVDWCMINDIKUO3CP" as="#tipoSenatore">BRIZIARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCW42DMFOMH3XBTOPFJQZLILBWO5QERGQ0ZPPG3M3SZJ24SNPFWXH" as="#tipoSenatore">BRUZZONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHNTOTAXHBR5IRWGAWAOI5TIPKM2BZHV2EK1W0IKDNFRSXPX331" as="#tipoSenatore">PAZZAGLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDECIIAS0LLB3VICM33YLYLKI15NKPGRGWVTP04QFRVPZVPIF1CPYL" as="#tipoSenatore">RIPAMONTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Per le finalità di cui al comma 2, la realizzazione di nuovi impianti di gestione dei rifiuti è subordinata e commisurata al fabbisogno regionale, anche al fine di garantire la piena attuazione del principio comunitario dell'autosufficienza».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
