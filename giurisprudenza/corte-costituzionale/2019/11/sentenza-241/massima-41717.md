@@ -1,0 +1,23 @@
+# Massima n. 41717
+
+- Pronuncia: Corte costituzionale, sentenza 241/2019 (ECLI:IT:COST:2019:241)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:241
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Amministrazione pubblica - Unificazione delle scuole di formazione - Docenti ordinari e ricercatori dei ruoli a esaurimento della Scuola superiore dell'economia e delle finanze (SSEF) - Trasferimento alla Scuola nazionale dell'amministrazione (SNA) - Estensione ad essi dello stato giuridico e del trattamento economico dei professori o dei ricercatori universitari - Denunciata omessa considerazione dei trattamenti economici in godimento e livellamento verso il basso di quelli da corrispondersi in futuro, con violazione dei principi del legittimo affidamento nella sicurezza giuridica e di irriducibilità della retribuzione - Insussistenza - Ragionevolezza della scelta legislativa - Non fondatezza delle questioni.
+
+## Testo
+
+Sono dichiarate non fondate le questioni di legittimità costituzionale - sollevate dal Consiglio di Stato in riferimento agli artt. 3 e 36 Cost. - dell'art. 21, comma 4, del d.l. n. 90 del 2014, conv., con modif., nella legge n. 114 del 2014, che, nel disporre il trasferimento dei docenti ordinari e dei ricercatori dei ruoli a esaurimento della soppressa Scuola superiore dell'economia e delle finanze (SSEF) alla Scuola nazionale dell'amministrazione (SNA), con applicazione dello stato giuridico e del trattamento economico dei professori o dei ricercatori universitari, non considera i trattamenti economici in godimento e determina un livellamento verso il basso di quelli da corrispondersi in futuro. In primo luogo, del tutto inconferente è l'evocazione di una lesione dell'art. 36 Cost., motivata con la circostanza che ai docenti ex SSEF è attribuito il trattamento economico dei docenti universitari di prima fascia a tempo pieno, a meno di non voler proiettare un dubbio di legittimità costituzionale sulla stessa congruità della retribuzione di tutti i docenti universitari. In secondo luogo, la norma censurata mira non irragionevolmente a realizzare l'"omogeneità" di trattamento interna ai docenti della SNA, attribuendo loro, al più alto livello possibile, il medesimo trattamento economico. In terzo luogo, deve considerarsi che, in mancanza di copertura costituzionale del principio di irriducibilità della retribuzione, il divieto della reformatio in peius della retribuzione è stato espunto dalla disciplina generale sul pubblico impiego dall'art. 1, comma 458, della legge n. 147 del 2013. Infine, la disposizione censurata non si pone in contrasto con il principio del legittimo affidamento nella sicurezza giuridica, poiché, nell'ambito del normale bilanciamento proprio di tutti i principi e diritti costituzionali, essa provvede in modo ragionevole al contemperamento tra due esigenze potenzialmente contrapposte: la considerazione del pregresso trattamento economico dei docenti ex SSEF, e la necessità di non determinare intollerabili disparità retributive tra tutti i docenti della rinnovata SNA. ( Precedenti citati: sentenze n. 330 del 1999 e n. 219 del 1998 ). Secondo la giurisprudenza costituzionale, il valore del legittimo affidamento riposto nella sicurezza giuridica e la fiducia nella permanenza nel tempo di un determinato assetto regolatorio, pur trovando copertura costituzionale nell'art. 3 Cost., è soggetto al normale bilanciamento proprio di tutti i principi e diritti costituzionali. In tale ottica, non è interdetto al legislatore di emanare disposizioni che modifichino in senso sfavorevole per i destinatari la disciplina di rapporti di durata, a condizione che tali disposizioni non trasmodino in un regolamento irrazionale, frustrando del tutto, con riguardo alle situazioni sostanziali fondate su discipline precedenti, l'affidamento nella sicurezza giuridica. ( Precedenti citati: sentenze n. 108 del 2019, n. 149 del 2017, n. 16 del 2017 e n. 203 del 2016 ). Secondo la giurisprudenza costituzionale, nei casi in cui la disciplina complessiva è il risultato della integrazione della fonte primaria ad opera di quella regolamentare, il sindacato di costituzionalità sulla fonte primaria è possibile quando questa diventa in concreto applicabile attraverso le specificazioni formulate in quella secondaria, che della prima costituisce il completamento ( Precedenti citati: sentenze n. 3 del 2019, n. 224 del 2018 e n. 200 del 2018 ).
+
+## Norme
+
+- decreto-legge, 24/06/2014 n. 90, art. 21, comma 4
+- legge, 11/08/2014 n. 114
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 36
