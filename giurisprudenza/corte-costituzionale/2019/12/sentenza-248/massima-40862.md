@@ -1,0 +1,22 @@
+# Massima n. 40862
+
+- Pronuncia: Corte costituzionale, sentenza 248/2019 (ECLI:IT:COST:2019:248)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:248
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Impresa e imprenditore - Norme della Regione Umbria - Finanziamenti alle imprese operanti nell'ambito dell'informazione locale - Esclusione nell'ipotesi in cui i titolari o editori siano stati condannati, anche in via non definitiva, per reati contro la pubblica amministrazione o contro il patrimonio mediante frode - Ricorso del Governo - Denunciata lesione della competenza esclusiva statale in materia di ordinamento penale, nonché del principio di non colpevolezza sino a condanna definitiva - Insussistenza - Non fondatezza delle questioni.
+
+## Testo
+
+Sono dichiarate non fondate le questioni di legittimità costituzionale - promosse dal Governo in riferimento agli artt. 117, secondo comma, lett.  l ), e 27, secondo comma, Cost. - dell'art. 6, comma 4, lett.  e ), della legge reg. Umbria n. 11 del 2018, in quanto, nel prevedere finanziamenti alle imprese che operano nell'ambito dell'informazione locale, esclude le imprese i cui titolari o editori abbiano riportato condanna, anche in via non definitiva, per i reati di cui al Libro II, Titolo II, Capo II (Dei delitti dei privati contro la pubblica amministrazione) ovvero al Titolo XIII, Capo II (Dei delitti contro il patrimonio mediante frode) del codice penale. La disposizione impugnata non incide sulla competenza esclusiva dello Stato in materia di ordinamento penale, poiché non introduce alcun effetto sanzionatorio ulteriore rispetto a quelli già previsti dalle norme penali richiamate, limitandosi a stabilire una condizione soggettiva che si atteggia come mero requisito di "onorabilità" per l'ottenimento di un beneficio economico erogato dalla Regione in materie di competenza legislativa concorrente (quali l'ordinamento della comunicazione e il sostegno all'innovazione per i settori produttivi), rispetto al quale l'interessato non potrebbe vantare alcun diritto in assenza della legge regionale impugnata. In quanto misura volta a prevenire il rischio di possibili abusi di denaro pubblico da parte di soggetti già condannati, ancorché in via non definitiva, per reati contro la pubblica amministrazione o il patrimonio, il requisito in esame non eccede inoltre le legittime finalità cautelari perseguite dal legislatore regionale, e si sottrae anche alla censura di incompatibilità con il principio di non colpevolezza. ( Precedenti citati: sentenze n. 36 del 2019, n. 276 del 2016, n. 236 del 2015, n. 454 del 2000, n. 206 del 1999 e n. 563 del 1989 ). Una norma regionale deve ritenersi invasiva della competenza statale esclusiva in materia di ordinamento penale non solo quando incida su fattispecie penali, modifichi i presupposti per la loro applicazione o introduca nuove cause di esenzione dalla responsabilità penale, ma anche allorché produca effetti sanzionatori ulteriori conseguenti alla commissione di un reato. ( Precedente citato: sentenza n. 172 del 2017 ). La competenza esclusiva dello Stato in materia di ordinamento penale non può essere intesa in senso tale da precludere alle Regioni di stabilire, negli ambiti riservati alla propria competenza concorrente o residuale, requisiti soggettivi connessi all'assenza di precedenti penali, per chi voglia fruire di benefici previsti dalla legislazione regionale. La presunzione di innocenza di cui all'art. 27, secondo comma, Cost., vincola in egual misura la legislazione statale e quella regionale. Rispetto a una misura ispirata ad una finalità cautelare, la presunzione di non colpevolezza potrebbe essere chiamata in causa solo indirettamente, in quanto la misura, per i suoi caratteri di irragionevolezza assoluta o di sproporzione o di eccesso rispetto alla funzione cautelare, dovesse in realtà apparire non come una cautela, ma come una sorta di sanzione anticipata, conseguente alla commissione del reato. ( Precedenti citati: sentenze n. 172 del 2012, n. 206 del 1999, n. 239 del 1996 e n. 141 del 1996 ).
+
+## Norme
+
+- legge della Regione Umbria, 04/12/2018 n. 11, art. 6, comma 4 lett. e)
+
+## Parametri
+
+- Costituzione, art. 27, comma 2
+- Costituzione, art. 117, comma 2 lett. l)
