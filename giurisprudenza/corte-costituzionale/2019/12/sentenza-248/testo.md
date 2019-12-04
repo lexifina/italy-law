@@ -1,0 +1,61 @@
+# Corte costituzionale, sentenza 248/2019
+
+- ECLI: ECLI:IT:COST:2019:248
+- Tipo: sentenza
+- Presidente: LATTANZI
+- Relatore: Francesco Viganò
+- Redattore: Francesco Viganò
+- Data della decisione: 09/10/2019
+- Data del deposito: 04/12/2019
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 40862
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:248
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Giorgio LATTANZI; Giudici : Aldo CAROSI, Marta CARTABIA, Mario Rosario MORELLI, Giancarlo CORAGGIO, Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI, Giovanni AMOROSO, Francesco VIGANÒ, Luca ANTONINI,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 6, comma 4, lettera e), della legge della Regione Umbria 4 dicembre 2018, n. 11 (Norme in materia di sostegno alle imprese che operano nell'ambito dell'informazione locale), promosso dal Presidente del Consiglio dei ministri con ricorso notificato l'11-14 febbraio 2019, depositato in cancelleria il 18 febbraio 2019, iscritto al n. 25 del registro ricorsi 2019 e pubblicato nella Gazzetta Ufficiale della Repubblica n. 15, prima serie speciale, dell'anno 2019.
+ Udito nell'udienza pubblica del 9 ottobre 2019 il Giudice relatore Francesco Viganò;
+ udito l'avvocato dello Stato Gianfranco Pignatone per il Presidente del Consiglio dei ministri.
+
+## Testo
+
+Ritenuto in fatto1.- Con ricorso notificato l'11-14 febbraio 2019 e depositato il 18 febbraio 2019, il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha impugnato l'art. 6, comma 4, lettera e), della legge della Regione Umbria 4 dicembre 2018, n. 11 (Norme in materia di sostegno alle imprese che operano nell'ambito dell'informazione locale), ritenendolo in contrasto con l'art. 117, secondo comma, lettera l), nonché con l'art. 27, secondo comma, della Costituzione.
+ 2.- Secondo il ricorrente, la disposizione impugnata - nell'escludere dai finanziamenti previsti dalla legge «le imprese i cui titolari o editori abbiano riportato condanna, anche in via non definitiva, per i reati di cui al libro II, titolo II, capo II (Dei delitti dei privati contro la pubblica amministrazione) ovvero al titolo XIII, capo II (Dei delitti contro il patrimonio mediante frode) del codice penale» - invaderebbe la competenza legislativa esclusiva dello Stato in materia di ordinamento penale. La disposizione in parola sancirebbe infatti un effetto extrapenale della condanna, collegando l'esclusione dai finanziamenti «ad un'asserzione di responsabilità non necessariamente coperta dal giudicato».
+ 3.- La disposizione impugnata, inoltre, sarebbe in contrasto con il principio di non colpevolezza sino alla condanna definitiva, sancito dall'art. 27, secondo comma, Cost., ricollegando per l'appunto tale esclusione a una condanna anche non definitiva.
+ 4.- La Regione Umbria non si è costituita in giudizio.Considerato in diritto1.- Il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha impugnato l'art. 6, comma 4, lettera e), della legge della Regione Umbria 4 dicembre 2018, n. 11 (Norme in materia di sostegno alle imprese che operano nell'ambito dell'informazione locale), ritenendolo in contrasto con l'art. 117, secondo comma, lettera l), nonché con l'art. 27, secondo comma, della Costituzione.
+ 2.- La legge reg. Umbria n. 11 del 2018 prevede, tra l'altro, finanziamenti alle imprese che operano nell'ambito dell'informazione locale. In forza della disposizione impugnata, tuttavia, da tali finanziamenti sono escluse «le imprese i cui titolari o editori abbiano riportato condanna, anche in via non definitiva, per i reati di cui al libro II, titolo II, capo II (Dei delitti dei privati contro la pubblica amministrazione) ovvero al titolo XIII, capo II (Dei delitti contro il patrimonio mediante frode) del codice penale».
+ Secondo il ricorrente, tale esclusione comporterebbe una invasione della competenza legislativa esclusiva dello Stato in materia di ordinamento penale di cui all'art. 117, secondo comma, lettera l), Cost., nonché la violazione del principio di non colpevolezza sino alla condanna definitiva di cui all'art. 27, secondo comma, Cost.
+ 3.- La prima censura non è fondata.
+ Vero è che una norma regionale deve ritenersi invasiva della competenza statale esclusiva in materia di ordinamento penale non solo quando incida su fattispecie penali, modifichi i presupposti per la loro applicazione o introduca nuove cause di esenzione dalla responsabilità penale, ma anche allorché produca «effetti sanzionatori ulteriori conseguenti alla commissione di un reato» (sentenza n. 172 del 2017).
+ La disposizione impugnata, tuttavia, non introduce alcun effetto sanzionatorio ulteriore rispetto a quelli già previsti dalle norme penali richiamate, limitandosi piuttosto a stabilire una condizione soggettiva per l'accesso ai finanziamenti previsti dalla legge regionale. Tale condizione non produce in capo all'interessato le conseguenze caratteristiche di ogni sanzione, e cioè la privazione o limitazione di un diritto del quale l'interessato già sia titolare, ovvero la perdita di uno status o di una capacità. Piuttosto, essa si atteggia come mero requisito di "onorabilità" (si vedano, analogamente, le sentenze n. 36 del 2019, n. 276 del 2016 e n. 236 del 2015, in tema di sospensione e decadenza dalle cariche elettive) per l'ottenimento di un beneficio economico erogato dalla Regione in materie di competenza legislativa concorrente (quali l'ordinamento della comunicazione e il sostegno all'innovazione per i settori produttivi), rispetto al quale l'interessato non potrebbe vantare alcun diritto in assenza della legge impugnata.
+ La disposizione non incide, pertanto, sulla competenza esclusiva dello Stato in materia di ordinamento penale, la quale non può essere intesa in senso tale da precludere alle Regioni di stabilire, negli ambiti riservati alla propria competenza concorrente o residuale, requisiti soggettivi connessi all'assenza di precedenti penali, per chi voglia fruire di benefici previsti dalla legislazione regionale.
+ Che poi la disposizione impugnata precluda l'accesso al finanziamento anche a chi abbia riportato condanne ancora non definitive, è questione che non attiene al parametro costituzionale relativo al riparto di competenze tra Stato e Regioni, bensì alla presunzione di innocenza di cui all'art. 27, secondo comma, Cost., che vincola in egual misura la legislazione statale e quella regionale.
+ 4.- Nemmeno la censura ex art. 27, secondo comma, Cost. è, peraltro, fondata.
+ Il principio di non colpevolezza sino alla condanna definitiva è violato allorché la legge preveda una misura che costituisca, nella sostanza, una sanzione anticipata in assenza di un accertamento definitivo di responsabilità (ex plurimis, sentenze n. 206 del 1999, n. 239 e n. 141 del 1996).
+ Tale però non può essere considerata, per i rilievi appena svolti, l'esclusione dai finanziamenti pubblici prevista dalla disposizione impugnata, che costituisce piuttosto un requisito per l'accesso a tali finanziamenti.
+ Il requisito in esame risponde a una logica in senso lato cautelare, come in altre occasioni ritenuto da questa Corte (sentenze n. 276 del 2016, in tema di sospensione dalle cariche elettive in caso di condanne non definitive per taluni reati; n. 454 del 2000, in tema di inabilitazione del notaio sottoposto a procedimento disciplinare; n. 206 del 1999, in tema di sospensione dall'ufficio dei dipendenti pubblici sottoposti a procedimento penale; n. 563 del 1989, in tema di sospensione provvisoria dell'iscrizione all'albo nazionale dei costruttori in caso di condanna non definitiva per determinati reati); in particolare, tale logica è qui identificabile nella prevenzione del pericolo di abuso di denaro pubblico da parte di soggetti già condannati, ancorché in via non definitiva, per reati contro la pubblica amministrazione o il patrimonio.
+ Una simile logica è, in quanto tale, certamente compatibile con la presunzione di non colpevolezza, come dimostra la stessa esistenza delle misure cautelari previste dal codice di procedura penale, della cui legittimità costituzionale in linea di principio nessuno dubita, e che pure limitano in misura assai intensa una vasta gamma di diritti fondamentali della persona che ne è colpita, tra cui la stessa libertà personale, in assenza di un accertamento definitivo di colpevolezza.
+ Rispetto allora a una misura ispirata ad una finalità cautelare, «[l]a presunzione di non colpevolezza potrebbe essere chiamata in causa solo indirettamente, in quanto la misura, per i suoi caratteri di irragionevolezza assoluta o di sproporzione o di eccesso rispetto alla funzione cautelare, dovesse in realtà apparire, non come una cautela ma come una sorta di sanzione anticipata, conseguente alla commissione del reato» (sentenza n. 206 del 1999; significative sotto questo profilo, peraltro, anche le sentenze n. 141 del 1996 e n. 172 del 2012, le quali - pur ritenendo assorbite le censure ex art. 27, secondo comma, Cost. - caducano, la prima, la radicale incandidabilità a cariche elettive di coloro per i quali fosse stato disposto il mero rinvio a giudizio per determinati reati, in ragione degli «effetti irreversibili» di tale misura, come tali giustificabili soltanto sulla base di una sentenza definitiva di condanna; nonché, la seconda, la previsione dell'impossibilità per il lavoratore extracomunitario di ottenere la regolarizzazione del proprio titolo di soggiorno in caso di condanna, definitiva o meno, per tutti i reati per i quali è previsto l'arresto obbligatorio in flagranza, anche in ragione delle «conseguenze molto gravi, spesso irreversibili» provocate dalla disciplina censurata, giudicata da questa Corte manifestamente irragionevole rispetto agli scopi perseguiti dal legislatore). In simili ipotesi, la misura contrasterebbe del resto non solo con l'art. 27, secondo comma, Cost., ma anche con le previsioni costituzionali che tutelano i singoli diritti incisi dalla misura medesima, nonché con gli stessi principi di ragionevolezza e proporzionalità di cui all'art. 3 Cost. (in quest'ultimo senso, sentenza n. 239 del 1996).
+ Non è però questo il caso della disposizione in questa sede impugnata, che non comporta alcuna restrizione di diritti dei quali gli interessati già godano, né comporta alcuna interdizione o sospensione dell'attività dell'impresa di cui essi sono titolari, ma semplicemente esclude tali soggetti dai finanziamenti annualmente previsti dalla legge regionale nell'ipotesi in cui siano stati condannati in primo o in secondo grado - sulla base di un compiuto, per quanto ancora non definitivo, accertamento giudiziale della loro responsabilità - per reati contro la pubblica amministrazione o il patrimonio, al legittimo scopo di prevenire il rischio di possibili abusi del denaro pubblico da parte di costoro.
+ La disposizione impugnata non eccede, dunque, le legittime finalità cautelari perseguite dal legislatore regionale, e si sottrae anche alla censura di incompatibilità con l'art. 27, secondo comma, Cost.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara non fondate le questioni di legittimità costituzionale dell'art. 6, comma 4, lettera e), della legge della Regione Umbria 4 dicembre 2018, n. 11 (Norme in materia di sostegno alle imprese che operano nell'ambito dell'informazione locale), promosse dal Presidente del Consiglio dei ministri, in riferimento agli artt. 117, secondo comma, lettera l), e 27, secondo comma, della Costituzione, con il ricorso indicato in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 9 ottobre 2019.
+ F.to:
+ Giorgio LATTANZI, Presidente
+ Francesco  VIGANÒ, Redattore
+ Roberto MILANA, Cancelliere
+ Depositata in Cancelleria il 4 dicembre 2019.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
