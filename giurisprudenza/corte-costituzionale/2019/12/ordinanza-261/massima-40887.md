@@ -1,0 +1,21 @@
+# Massima n. 40887
+
+- Pronuncia: Corte costituzionale, ordinanza 261/2019 (ECLI:IT:COST:2019:261)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2019:261
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Comuni, Province e Città metropolitane - Norme della Regione Calabria - Variazioni territoriali - Modifica delle circoscrizioni territoriali dei Comuni di Petronà e Belcastro, con trasferimento dal secondo al primo della zona denominata "contrada Acquavona" - Denunciata carenza di istruttoria nel relativo procedimento e immotivata restrizione del referendum consultivo ex art. 133 Cost. ai soli abitanti in detta contrada - Implausibilità dei presupposti concernenti la legittima instaurazione del giudizio a quo - Carenza di motivazione sulla non manifesta infondatezza - Manifesta inammissibilità della questione.
+
+## Testo
+
+È dichiarata manifestamente inammissibile, per tardiva instaurazione del giudizio  a quo  e carente motivazione sulla non manifesta infondatezza, la questione di legittimità costituzionale - sollevata dal TAR per la Calabria in riferimento all'art. 133, secondo comma, Cost. - della legge della Regione Calabria n. 39 del 2017, che ha disposto la rettifica dei confini territoriali tra i Comuni di Belcastro e di Petronà, trasferendo la zona denominata "contrada Acquavona" dal Comune di Belcastro a quello di Petronà. L'atto di indizione del referendum di cui all'art. 133, secondo comma, Cost., che individua le popolazioni chiamate al voto referendario, è infatti immediatamente lesivo degli interessi legittimi dei Comuni interessati e di quanti ritengono di avere titolo per partecipare alla consultazione referendaria, ma non sono stati inclusi tra le popolazioni interessate al referendum stesso; in quanto tale, esso doveva essere oggetto di tempestiva impugnazione davanti al giudice amministrativo. Inoltre, in un giudizio avente come parametro quello evocato, la mancata considerazione di un atto procedimentale che illustra le ragioni in base alle quali il Consiglio regionale ha individuato le «popolazioni interessate» pregiudica l'intero presupposto argomentativo sviluppato dal rimettente. La Corte costituzionale ha il potere di dichiarare inammissibili le questioni di legittimità costituzionale qualora riscontri l'implausibilità dei presupposti concernenti la legittima instaurazione del giudizio a quo. ( Precedenti citati: sentenza n. 52 del 2018, n. 276 del 2017, n. 269 del 2016, n. 245 del 2016 e n. 154 del 2015 ). Secondo costante giurisprudenza costituzionale, la corretta ricostruzione della fattispecie oggetto del giudizio a quo è richiesta non solo ai fini della valutazione della rilevanza, ma anche allo scopo di valutare la non manifesta infondatezza della questione sollevata. ( Precedenti citati: sentenze n. 56 del 2015 e n. 128 del 2014; ordinanza n. 209 del 2015 ). Secondo la giurisprudenza costituzionale, la delibera di indizione del  referendum  è sindacabile in quanto tale dal giudice amministrativo sino a quando la legge di variazione circoscrizionale non sia in vigore, essendo tale soluzione frutto del necessario bilanciamento tra due principi: da una parte, l'effettività e immediatezza della tutela giurisdizionale, da assicurare, ai sensi dell'art. 113 Cost., a coloro che ricorrono avverso una delibera di indizione del  referendum  ritenuta illegittima; dall'altra, la discrezionalità politica del legislatore regionale in tema di variazioni circoscrizionali, ai sensi degli artt. 117 e 133 Cost. ( Precedente citato: sentenza n. 2 del 2018 ).
+
+## Norme
+
+- legge della Regione Calabria, 07/11/2017 n. 39
+
+## Parametri
+
+- Costituzione, art. 133, comma 2
