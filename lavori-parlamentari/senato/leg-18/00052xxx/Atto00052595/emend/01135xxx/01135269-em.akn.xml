@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G12.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G12.100"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G12.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G12.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1638/A/G12.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1638" showAs="DDL 1638"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDQTB1IY5WHZOPTKYJIWNZNQPMKDNESX4T40UXNKATUSEPB1ERN1N" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDHIWBE2OI3LBNPZWVXX5DXW451O5DOKIDRIFSWCKF3SY15UOBPNI" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="IDORNIPDWUPFWZFVYLEAEXPBZ45FFKCOUCD4KBFNMZ3QMJJHZOAHTJ" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="IDWYG3BAR1PFEVPJMF4X0TLWUYEE0DSSBA3LTBNGAIIO3BAX2VG2L" href="http://dati.senato.it/32582" showAs="BAGNAI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1638</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G12.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDQTB1IY5WHZOPTKYJIWNZNQPMKDNESX4T40UXNKATUSEPB1ERN1N" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHIWBE2OI3LBNPZWVXX5DXW451O5DOKIDRIFSWCKF3SY15UOBPNI" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDORNIPDWUPFWZFVYLEAEXPBZ45FFKCOUCD4KBFNMZ3QMJJHZOAHTJ" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWYG3BAR1PFEVPJMF4X0TLWUYEE0DSSBA3LTBNGAIIO3BAX2VG2L" as="#tipoSenatore">BAGNAI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge recante «Conversione in legge, con modificazioni, del decreto-legge 26 ottobre 2019, n. 124, recante disposizioni urgenti in materia fiscale e per esigenze indifferibili», premesso che:</an:p>
+				<an:p>            il decreto-legge in esame, all'articolo 12 introduce l'obbligo, per le imprese distributrici di energia elettrica e gas naturale ai consumatori finali di presentare esclusivamente in forma telematica i dati relativi ai prodotti trasportati, secondo modalità fissate con un provvedimento del Direttore dell'Agenzia delle dogane e dei monopoli, con l'ulteriore obbligo, inoltre, di trasmettere i dati relativi ai quantitativi di gas naturale ed energia elettrica fatturati, suddivisi per destinazione d'uso,</an:p>
+				<an:p>            in materia di distribuzione del gas naturale, resta insoluto il problema dei molti comuni che sono ancora proprietari di reti e impianti per la distribuzione del gas naturale o di loro rilevanti porzioni;</an:p>
+				<an:p>            ad oggi esistono ingiuste penalizzazioni per tali comuni e per le società patrimoniali, che si trovano in una situazione di sostanziale stallo con riguardo all'avvio della gara d'ambito;</an:p>
+				<an:p>            al fine di sbloccare le gare di concessione del servizio di distribuzione del gas naturale con il riconoscimento della quota di ammortamento annuale agli enti locali e alle società patrimoniali proprietarie di tutto, o parte, degli impianti, sarebbe opportuno individuare una corretta metodologia di valutazione delle reti di proprietà comunale, attraverso l'equiparazione a quella prevista per i beni di proprietà dei gestori degli impianti, così da definire un congruo valore di cessione in coerenza con le previsioni normative dettate per la stima dei beni di proprietà dei gestori degli impianti, in relazione allo svolgimento delle prime gare d'ambito;</an:p>
+				<an:p>
+					            con riguardo alla valorizzazione dei propri 
+					<an:i>asset</an:i>
+					, infatti, numerosi comuni non sono in grado di produrre le evidenze contabili richieste dall'ARERA con riferimento a tutti i cespiti costituenti il rispettivo patrimonio, per cui ne consegue l'impossibilità materiale per l'ente locale di vedersi riconoscere la remunerazione prevista dal decreto ministeriale n. 226 del 2011 e successive modificazioni e integrazioni;
+				</an:p>
+				<an:p>            anche la procedura di valorizzazione su base parametrica proposta dalla stessa Autorità presenta molti limiti procedurali ed attuativi per le amministrazioni e non può essere ritenuta soddisfacente per la tutela del patrimonio pubblico dell'ente locale, soprattutto nei casi di va ori definiti d'ufficio, senza oggettivi riferimenti alla specifica realtà o nulli,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a prevedere una corretta metodologia di valutazione delle reti di proprietà comunale, al pari di quella prevista per i beni di proprietà dei gestori degli impianti, che definisca un congruo valore di cessione in coerenza con le previsioni normative dettate per la stima dei beni di proprietà dei gestori degli impianti, al fine di sbloccare le gare di concessione del servizio di distribuzione del gas naturale con il riconoscimento della quota di ammortamento annuale agli enti locali e alle società patrimoniali proprietarie di tutto, o parte, degli impianti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
