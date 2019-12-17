@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/45.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/45.6"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/45.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="45.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1638/A/45.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1638" showAs="DDL 1638"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZC4WYHCFX0FGMEOEVZLCTDBIPIZHL1FGX1P33EH5QMGQZAXTZGGO" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="ID3XBW3FW54D3RF0RQRHEE2PSYWPD15AH5PLNU0RBCVY5AHN2PS5LG" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDWRLWZGJPRJ35EKYIUS4GS131HJ1YZSJANGHJV3BQBSL1IVESXWIL" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1638</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 45.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZC4WYHCFX0FGMEOEVZLCTDBIPIZHL1FGX1P33EH5QMGQZAXTZGGO" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3XBW3FW54D3RF0RQRHEE2PSYWPD15AH5PLNU0RBCVY5AHN2PS5LG" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWRLWZGJPRJ35EKYIUS4GS131HJ1YZSJANGHJV3BQBSL1IVESXWIL" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1-</an:i>
+					quater
+					<an:i>, è aggiunto il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>quinquies</an:i>
+					. All'articolo 27 del decreto legislativo 6 maggio 2011, n. 68 è aggiunto il seguente comma 12-
+					<an:i>bis</an:i>
+					: ''12-
+					<an:i>bis</an:i>
+					. A decorrere dall'esercizio 2019, sono considerate regioni di riferimento tutte le regioni che soddisfano le condizioni previste dal comma 5 individuate entro il termine del 15 settembre dell'anno precedente al riparto dal Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sentito il Ministro per gli affari regionali e le autonomie. Pertanto, non si applicano le disposizioni dell'ultimo periodo del comma 5 e il comma 12.''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
