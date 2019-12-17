@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/11.0.17"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.0.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/11.0.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1K4C2ABZPA0PCDVL5XLE4WYSB505E25PBENCZLO2MSHH0K20OWK" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="ID24AHIQDSHCFBBBIZOH25LUDLJTU1JBM4L2HINMBUCUDL1V41FNC" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="IDA1SF3RG5HM34C4TMF02JHO44DOK1TBFYE1FUVCITHT3SQ0XXW2KD" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="ID0F4WQ1UX4H4XNVX0MUBXL3AX2KSCEAM1G0E4JWCZ4SDQ1XKWMM4K" href="http://dati.senato.it/32694" showAs="Pietro PISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.0.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1K4C2ABZPA0PCDVL5XLE4WYSB505E25PBENCZLO2MSHH0K20OWK" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID24AHIQDSHCFBBBIZOH25LUDLJTU1JBM4L2HINMBUCUDL1V41FNC" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1SF3RG5HM34C4TMF02JHO44DOK1TBFYE1FUVCITHT3SQ0XXW2KD" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0F4WQ1UX4H4XNVX0MUBXL3AX2KSCEAM1G0E4JWCZ4SDQ1XKWMM4K" as="#tipoSenatore">Pietro PISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 11-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Sostenibilità ambientale - rischio idrogeologico)</an:i>
+				</an:p>
+				<an:p>
+					        1. Per far fronte alle necessità connesse con la realizzazione degli interventi di cui all'articolo 1, comma 1028 della legge 30 dicembre 2018, n. 145, nonché dell'art 24 quater del decreto-legge 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla legge della legge 7 dicembre 2018, n. 136, le Regioni interessate e le Province autonome di Trento e di Bolzano ed i soggetti attuatori indicati nelle ordinanze del Capo del Dipartimento della protezione civile, sulla base della ricognizione e del relativo riparto di cui al comma 2 possono assumere, negli anni 2010-2021, con contratti di lavoro a tempo determinato di durata biennale e non rinnovabile, unità di personale tecnico ed amministrativo, al di fuori della dotazione organica dell'ente, da impiegare nelle proprie strutture di protezione civile, e di supporto all'emergenza entro il limite delle risorse finanziate di cui al comma 2, in deroga ai vincoli di contenimento della spesa di personale previsti dalla normativa vigente ed in particolare dall'articolo 9, comma 28, del decreto legge 31 maggio 2010, n 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, dall'articolo 1, commi 557, 557-
+					<an:i>quater</an:i>
+					 e 562, della legge 27 dicembre 2006, n. 269, nonché in deroga a quanto previsto dall'art. 23 del decreto legislativo 25 maggio 2017, n. 75.
+				</an:p>
+				<an:p>
+					        2. Per le finalità di cui al comma 1, i soggetti ivi indicati inviano i propri fabbisogni di personale al Commissario delegato territorialmente competente il quale provvede con propri atti al riparto, sentito il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri tra i medesimi soggetti, delle unità di personale e delle risorse finanziarie nel limite delle disponibilità delle risorse di cui di cui all'articolo 1, comma 1028 della legge 30 dicembre 2018, n. 145, nonché dell'art 24-
+					<an:i>quater</an:i>
+					 del decreto-legge 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla legge della legge 7 dicembre 2018, n. 136. Per le medesime finalità i soggetti di cui al comma 1 possono provvedere anche con risorse proprie eventualmente disponibili, d'intesa con il Commissario delegato territorialmente competente.
+				</an:p>
+				<an:p>        3. Le assunzioni sono effettuate con facoltà di attingere alle graduatorie vigenti anche di altre amministrazioni, formate anche per assunzioni a tempo indeterminato, in deroga a quanto previsto dall'articolo 7, comma 361 della legge 30 dicembre 2018, n. 145, per profili professionali compatibili con le esigenze. Il personale assunto ai sensi del comma 1 mediante attingimento da graduatorie per assunzioni a tempo indeterminato vigenti, in caso di chiamata derivante dallo scorrimento della rispettiva graduatoria, non perde il diritto all'assunzione à tempo indeterminato, che viene automaticamente posticipata alla data di scadenza del contratto a tempo determinato. Qualora nelle graduatorie suddette non risulti individuabile personale del profilo professionale richiesto, i soggetti di cui al comma 1 possono procedere all'assunzione previa selezione pubblica, anche per soli titoli, sulla base di criteri di pubblicità trasparenza e imparzialità».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
