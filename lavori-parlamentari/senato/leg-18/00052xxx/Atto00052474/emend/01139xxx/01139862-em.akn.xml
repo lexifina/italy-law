@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/69.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/69.1"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/69.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="69.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/69.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3ZQPO1C0JB3HEMP4GN5BEYS3BCRD3DM4BP052WKGUN1LH3RH3BBH" href="http://dati.senato.it/32706" showAs="ROMEO"/>
+				<an:TLCPerson id="IDKDIQ0VP02GH4NNUUODL41UAJ0F5H1NNXHMZ1QAM1RYCMEYCB2LNJ" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDC5P0JVDCG0NHJ222Z0KG32LU4NOQTP2MGYHS02DME2OMCHEJRXHF" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID2WQ5TFHDCSBUN3JETYPSWK5RIOZMPP5CWX0EZ2O0PHJLELQEFO3I" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDXM11XPV5L3PAOO00K10KXGGPEDIOWIIYXIAHVFKWB1X5G52AC4RP" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDZ0PFCGQBJF4WL2FLKZ4YY0MEUMLJKGASMCLDFWLX02D3ADTK3R2N" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDEVEAZNLTVODME11VXMKNNNZPFPRXOS3CQ1L1NTIZBTRYUJNBN2NO" href="http://dati.senato.it/32683" showAs="Emanuele PELLEGRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 69.1 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3ZQPO1C0JB3HEMP4GN5BEYS3BCRD3DM4BP052WKGUN1LH3RH3BBH" as="#tipoSenatore">ROMEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKDIQ0VP02GH4NNUUODL41UAJ0F5H1NNXHMZ1QAM1RYCMEYCB2LNJ" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC5P0JVDCG0NHJ222Z0KG32LU4NOQTP2MGYHS02DME2OMCHEJRXHF" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2WQ5TFHDCSBUN3JETYPSWK5RIOZMPP5CWX0EZ2O0PHJLELQEFO3I" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXM11XPV5L3PAOO00K10KXGGPEDIOWIIYXIAHVFKWB1X5G52AC4RP" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ0PFCGQBJF4WL2FLKZ4YY0MEUMLJKGASMCLDFWLX02D3ADTK3R2N" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEVEAZNLTVODME11VXMKNNNZPFPRXOS3CQ1L1NTIZBTRYUJNBN2NO" as="#tipoSenatore">Emanuele PELLEGRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo, con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 69-
+					<an:i>bis. - (Rinegoziazione e ristrutturazione dei debiti enti locali) -</an:i>
+					 1. Il Ministero dell'economia e delle finanze, nei limiti di spesa di cui al comma 2, è autorizzato ad effettuare la ristrutturazione o rinegoziazione dei mutui degli enti locali, anche mediante, accollo, estinzione o rifinanziamento con emissione di titoli di Stato. Con decreto del Ministero dell'economia e finanze, da emanare entro il 31 marzo 2020, d'intesa con la Conferenza Stato-Città ed autonomie locali, sono stabilite le procedure di rinegoziazione e ristrutturazione dei debiti finanziari degli enti locali e adottate le modalità attuative secondo i seguenti criteri e principi:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 prevedere la nomina di apposito Commissario Straordinario, a cui affidare la gestione delle operazioni di rinegoziazione/ristrutturazione del debito dei singoli enti locali, la rimodulazione del piano di rimborso del debito finanziario;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 prevedere l'attribuzione di una quota degli eventuali risparmi di spesa per interessi, conseguenti alla ristrutturazione dei debiti contratti, eccedenti la copertura dei costi delle operazioni di rinegoziazione a carico dei medesimi enti locali titolari del mutuo, come quota di contribuzione per eventuali oneri di estinzione anticipata del debito, ovvero come maggiori risorse per spesa di parte corrente.
+				</an:p>
+				<an:p>        2. Nello stato di previsione del Ministero dell'economia e delle finanze è istituto un fondo con una dotazione di 1.000 milioni di euro annui a decorrere dal 2020 finalizzato alla ristrutturazione o rinegoziazione dei mutui degli enti locali di cui al comma 1».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, agli oneri derivanti dal presente articolo, pari a 1.000 milioni di euro annui a decorrere dal 2020, si provvede mediante utilizzo delle risorse destinate all'attuazione alla misura nota come «reddito di cittadinanza» di cui al decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26, rimaste inutilizzate a seguito di monitoraggio e che sono versate all'entrata del bilancio dello Stato per essere riassegnate al Fondo per la riduzione della pressione fiscale di cui all'articolo 1, comma 431, della legge 27 dicembre 2013, n. 147. Qualora a seguito del suddetto monitoraggio sui risparmi di spesa derivanti dal minor numero dei nuclei familiari richiedenti e dei nuclei familiari percettori del Reddito di cittadinanza di cui all'articolo 10 del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26, entro il 30 giugno di ciascun anno, non si rilevino un ammontare di risorse pari alle previsioni, sono adottati appositi provvedimenti normativi entro il 31 luglio di ciascun anno, nei limiti delle risorse del suddetto Fondo, come rideterminate dalla presente disposizione, che costituiscono il relativo limite di spesa, al fine di provvedere alla rimodulazione della platea dei beneficiari e dell'importo del beneficio economico.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
