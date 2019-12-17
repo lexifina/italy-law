@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G39.106/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G39.106"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G39.106/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G39.106"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1638/A/G39.106/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1638" showAs="DDL 1638"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKNXWYH4HXCAWOQTN20ELTO3GNJQOGUB0XJQEVXGKZS1T55S5LGCM" href="http://dati.senato.it/32582" showAs="BAGNAI"/>
+				<an:TLCPerson id="ID2IDI4QJKVA1QKX3IOQBOKK04QGQO35EIVNCK4FJBRJ40NC2ECNQK" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="ID30LTIE2CZ51XGQPHQUC5PJ24KL2C41WZF3AFRNIQAOFZJZ24ZMP" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDT31O1MIEJZFMKR5ZGZ3SOVVIROIB1QSJAKGQNCNSIN0HMB0SP0L" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1638</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G39.106</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKNXWYH4HXCAWOQTN20ELTO3GNJQOGUB0XJQEVXGKZS1T55S5LGCM" as="#tipoSenatore">BAGNAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2IDI4QJKVA1QKX3IOQBOKK04QGQO35EIVNCK4FJBRJ40NC2ECNQK" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID30LTIE2CZ51XGQPHQUC5PJ24KL2C41WZF3AFRNIQAOFZJZ24ZMP" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT31O1MIEJZFMKR5ZGZ3SOVVIROIB1QSJAKGQNCNSIN0HMB0SP0L" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il legislatore interviene sulla conversione in legge del decreto-legge 26 ottobre 2019, n. 124, recante disposizioni urgenti in materia fiscale e per esigenze indifferibili;</an:p>
+				<an:p>            in particolare l'articolo 39 interviene sull'apparato sanzionatorio penale dei reati tributari, con un complessivo inasprimento delle pene principali e una riduzione delle soglie di punibilità delle violazioni fiscali;</an:p>
+				<an:p>
+					            il medesimo articolo estende per i più gravi delitti tributari misure e sanzioni di natura patrimoniale, introducendo l'articolo 12-
+					<an:i>ter</an:i>
+					 al decreto legislativo 10 marzo 2000, n. 74, che prevede, in caso di condanna (o patteggiamento della pena) per alcuni delitti in materia di imposte sui redditi e IVA, l'applicazione della cosiddetta confisca allargata di cui all'articolo 240-
+					<an:i>bis</an:i>
+					 del codice penale e quindi, cambiando rotta e quindi aprendo alla possibilità di confiscare denaro, beni o altre utilità di cui il condannato non può giustificare la provenienza e di cui, anche per interposta persona fisica o giuridica, risulta essere titolare o avere la disponibilità a qualsiasi titolo in valore sproporzionato al proprio reddito;
+				</an:p>
+				<an:p>            viene altresì modificata la disciplina della responsabilità amministrativa degli enti con specifiche sanzioni amministrative quando il reato di dichiarazione fraudolenta è commesso a vantaggio dell'ente,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di non applicazione delle sanzioni di cui all'articolo per le imprese e i professionisti che, per ragioni di difficoltà economiche, pur avendo regolarmente dichiarato le imposte dirette e indirette, abbiano richiesto o ottenuto una dilazione dall'Agenzia delle entrate a seguito del mancato pagamento.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
