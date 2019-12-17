@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G39.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G39.105"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G39.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G39.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1638/A/G39.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1638" showAs="DDL 1638"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIXNOX5XGZATYONPY5YRIFNB1BO221P54YXSUOTIVMFAM5XIO2ZTJ" href="http://dati.senato.it/32582" showAs="BAGNAI"/>
+				<an:TLCPerson id="IDAH5RC2JDEI0SH12AO1BJFKF1Z3LXXL4K50SOGCHHNELQE0XJBVC" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="IDQIMX5WM53P5CG3XZHSLOJVSKXGX2IY5ANSZRNFETIMRG3IXBETQ" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDUP2PWIAEYYGEJIXBA1PCWFHI2I2RXECSQDOV01K0WZX2NH2J0KUB" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1638</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G39.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIXNOX5XGZATYONPY5YRIFNB1BO221P54YXSUOTIVMFAM5XIO2ZTJ" as="#tipoSenatore">BAGNAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAH5RC2JDEI0SH12AO1BJFKF1Z3LXXL4K50SOGCHHNELQE0XJBVC" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQIMX5WM53P5CG3XZHSLOJVSKXGX2IY5ANSZRNFETIMRG3IXBETQ" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUP2PWIAEYYGEJIXBA1PCWFHI2I2RXECSQDOV01K0WZX2NH2J0KUB" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il provvedimento in esame di conversione in legge del decreto-legge 26 ottobre 2019, n. 124, recante disposizioni urgenti in materia fiscale e per esigenze indifferibili;</an:p>
+				<an:p>            l'articolo 39 inasprisce le pene per i reati tributari e abbassa alcune soglie di punibilità; introduce inoltre, in caso di condannarla confisca dei beni di cui il condannato abbia disponibilità per un valore sproporzionato al proprio reddito (cosiddetta confisca allargata);</an:p>
+				<an:p>
+					            in particolare, il comma 1 dell'articolo 39 introduce nel decreto legislativo n. 74 del 2000 il nuovo articolo 12-
+					<an:i>ter</an:i>
+					 che prevede l'applicazione dell'articolo 240-
+					<an:i>bis</an:i>
+					 del codice penale quando l'ammontare degli elementi passivi fittizi è superiore a euro duecentomila nel caso del delitto previsto dall'articolo 2,
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare gli effetti applicativi della norma in premessa al fine di adottare una normativa che sostituisca la soglia di punibilità anziché con una somma con una percentuale superiore dell'ammontare complessivo degli elementi attivi.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
