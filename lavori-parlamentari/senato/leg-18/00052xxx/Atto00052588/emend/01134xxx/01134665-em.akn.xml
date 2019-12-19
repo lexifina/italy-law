@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/7.0.3"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@.akn"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1633/A/7.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1633" showAs="DDL 1633"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTPREP4DSYTOKJPQTFYKXAWZ5LM35CIA51JW20PK54YUQFYMQMCNN" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDCC5SWFAZIB4TPHDW5ODRSJYOKIPWJHJVU5CK0JCVJWANI1Y5EPAD" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDTN5ESFKLBSCSEFEOVEJ1K2R3ROD3LC5Z5SD5EY4AK0KNDWHNQBH" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDCCZMGH1UP1A3C04KMKEJPZMEZJSZZUXELZ35DKIE0MDLGAWE1KM" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1633</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTPREP4DSYTOKJPQTFYKXAWZ5LM35CIA51JW20PK54YUQFYMQMCNN" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCC5SWFAZIB4TPHDW5ODRSJYOKIPWJHJVU5CK0JCVJWANI1Y5EPAD" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTN5ESFKLBSCSEFEOVEJ1K2R3ROD3LC5Z5SD5EY4AK0KNDWHNQBH" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCCZMGH1UP1A3C04KMKEJPZMEZJSZZUXELZ35DKIE0MDLGAWE1KM" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 7-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modificazione al decreto legislativo 13 marzo 2017, n. 62)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 24 del decreto legislativo 13 marzo 2017, n. 62, dopo il comma 2, è inserito il seguente:</an:p>
+				<an:p>
+					        ''2-
+					<an:i>bis</an:i>
+					. Nella provincia dì Bolzano, in considerazione della particolare situazione linguistica, sono costituite, presso le istituzioni scolastiche a carattere statale e paritarie in lingua tedesca e delle località ladine sede di esami di Stato conclusivi dei percorsi di istruzione secondaria di secondo grado e presso le istituzioni scolastiche in lingua tedesca e delle località ladine nelle quali sono realizzati i corsi annuali che si concludono con l'esame di Stato, di cui all'articolo 14 del decreto legislativo 13 marzo 2017, n. 61, commissioni d'esame, una ogni due classi, presiedute da un presidente esterno all'istituzione scolastica e composte per ciascuna delle due classi da sei membri interni. È in ogni caso assicurata la presenza dei commissari delle materie oggetto, di prima e seconda prova scritta nonché delle materie che con decreto del Ministro dell'istruzione, dell'università e della ricerca sono affidate ai commissari esterni. I presidenti sono nominati sulla base di criteri determinati a livello nazionale con decreto del Ministro dell'istruzione, dell'università e della ricerca. Ad ogni classe sono assegnati non più di trentacinque candidati''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
