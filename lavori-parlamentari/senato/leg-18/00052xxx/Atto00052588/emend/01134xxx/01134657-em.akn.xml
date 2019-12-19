@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/5.0.2"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@.akn"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1633/A/5.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1633" showAs="DDL 1633"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2S2DPGDGY4BFEFVTQQB20VHN2FVKLFF0QZWVGLJYW1MH5UI2PYFO" href="http://dati.senato.it/25295" showAs="PITTONI"/>
+				<an:TLCPerson id="IDE1F0RWFVBWQSDS4BNYQ3DOB5FBW5U3ZPBNC12NBZVFNRL05K2LLN" href="http://dati.senato.it/32711" showAs="SAPONARA"/>
+				<an:TLCPerson id="IDAA5B1BU1PLF4MWINZDYSLYPW3O15SLQRA52UZTH2ITGB3UUZAKAN" href="http://dati.senato.it/25565" showAs="BARBARO"/>
+				<an:TLCPerson id="IDSMUNUC10HTDKM4KQPYUXMPZMZDKETU1IY141CTNZHTKTGY5RJ0SG" href="http://dati.senato.it/32752" showAs="RUFA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1633</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2S2DPGDGY4BFEFVTQQB20VHN2FVKLFF0QZWVGLJYW1MH5UI2PYFO" as="#tipoSenatore">PITTONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE1F0RWFVBWQSDS4BNYQ3DOB5FBW5U3ZPBNC12NBZVFNRL05K2LLN" as="#tipoSenatore">SAPONARA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAA5B1BU1PLF4MWINZDYSLYPW3O15SLQRA52UZTH2ITGB3UUZAKAN" as="#tipoSenatore">BARBARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSMUNUC10HTDKM4KQPYUXMPZMZDKETU1IY141CTNZHTKTGY5RJ0SG" as="#tipoSenatore">RUFA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Norma di interpretazione autentica)</an:i>
+				</an:p>
+				<an:p>
+					        1. L'articolo 6, comma 10, della legge 30 dicembre 2010, n. 240, si interpreta nel senso che ai professori ed ai ricercatori a tempo pieno, nel rispetto degli obblighi istituzionali, è liberamente consentito, indipendentemente dalla retribuzione, lo svolgimento di attività di consulenza 
+					<an:i>extra</an:i>
+					 istituzionali realizzate in favore di privati, enti pubblici ovvero per fini di giustizia.
+				</an:p>
+				<an:p>        2. Dalla data di entrata in vigore della presente legge, lo svolgimento delle attività di cui al comma 1 deve essere preventivamente comunicato al direttore del dipartimento di afferenza del docente e al rettore. Tali attività possono essere svolte anche in regime di partita IVA, senza necessità di iscrizione ad albi professionali, fatta eccezione per le professioni sanitarie e, in ogni caso, in mancanza di un'organizzazione di mezzi e di persone preordinata allo svolgimento di attività libero-professionale.</an:p>
+				<an:p>
+					        3. Una quota pari al 10 per cento del compenso lordo percepito dai professori e ricercatori a tempo pieno per lo svolgimento delle attività di cui al comma 1 è destinato, senza oneri fiscali, all'attivazione di posti di ricercatore di cui all'articolo 24, comma 3, lettera 
+					<an:i>a)</an:i>
+					, della legge n. 240 del 2010, nonché di borse di dottorato, di assegni di ricerca e di borse di studio per studenti universitari. Il Senato accademico delibera la ripartizione del contributo alle diverse destinazioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
