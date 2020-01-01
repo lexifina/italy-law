@@ -1,8 +1,6 @@
 Art. 2-undecies.
 
-(( (Limitazioni ai diritti dell'interessato). ))
-
-((
+(Limitazioni ai diritti dell'interessato)
 
 1.
 
@@ -38,6 +36,4 @@ Nei casi di cui al comma 1, lettera c), si applica quanto previsto dai regolamen
 
 3.
 
-Nei casi di cui al comma 1, lettere a), b), d) e) ed f) i diritti di cui al medesimo comma sono esercitati conformemente alle disposizioni di legge o di regolamento che regolano il settore, che devono almeno recare misure dirette a disciplinare gli ambiti di cui all'articolo 23, paragrafo 2, del Regolamento. L'esercizio dei medesimi diritti puo', in ogni caso, essere ritardato, limitato o escluso con comunicazione motivata e resa senza ritardo all'interessato, a meno che la comunicazione possa compromettere la finalita' della limitazione, per il tempo e nei limiti in cui cio' costituisca una misura necessaria e proporzionata, tenuto conto dei diritti fondamentali e dei legittimi interessi dell'interessato, al fine di salvaguardare gli interessi di cui al comma 1, lettere a), b), d), e) ed f). In tali casi, i diritti dell'interessato possono essere esercitati anche tramite il Garante con le modalita' di cui all'articolo 160. In tale ipotesi, il Garante informa l'interessato di aver eseguito tutte le verifiche necessarie o di aver svolto un riesame, nonche' del diritto dell'interessato di proporre ricorso giurisdizionale. Il titolare del trattamento informa l'interessato delle facolta' di cui al presente comma.
-
-))
+Nei casi di cui al comma 1, lettere a), b), d) (( e), f) e f-bis) )) i diritti di cui al medesimo comma sono esercitati conformemente alle disposizioni di legge o di regolamento che regolano il settore, che devono almeno recare misure dirette a disciplinare gli ambiti di cui all'articolo 23, paragrafo 2, del Regolamento. L'esercizio dei medesimi diritti puo', in ogni caso, essere ritardato, limitato o escluso con comunicazione motivata e resa senza ritardo all'interessato, a meno che la comunicazione possa compromettere la finalita' della limitazione, per il tempo e nei limiti in cui cio' costituisca una misura necessaria e proporzionata, tenuto conto dei diritti fondamentali e dei legittimi interessi dell'interessato, al fine di salvaguardare gli interessi di cui al comma 1, lettere a), b), d), (( e), f) e f-bis) )). In tali casi, i diritti dell'interessato possono essere esercitati anche tramite il Garante con le modalita' di cui all'articolo 160. In tale ipotesi, il Garante informa l'interessato di aver eseguito tutte le verifiche necessarie o di aver svolto un riesame, nonche' del diritto dell'interessato di proporre ricorso giurisdizionale. Il titolare del trattamento informa l'interessato delle facolta' di cui al presente comma.

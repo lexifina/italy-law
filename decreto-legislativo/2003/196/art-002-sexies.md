@@ -1,8 +1,6 @@
 Art. 2-sexies.
 
-(( (Trattamento di categorie particolari di dati personali necessario per motivi di interesse pubblico rilevante). ))
-
-((
+(Trattamento di categorie particolari di dati personali necessario per motivi di interesse pubblico rilevante)
 
 1.
 
@@ -46,7 +44,7 @@ svolgimento delle funzioni di controllo, indirizzo politico, inchiesta parlament
 
 i)
 
-attivita' dei soggetti pubblici dirette all'applicazione, anche tramite i loro concessionari, delle disposizioni in materia tributaria e doganale;
+attivita' dei soggetti pubblici dirette all'applicazione, anche tramite i loro concessionari, delle disposizioni in materia tributaria e doganale ((, comprese quelle di prevenzione e contrasto all'evasione fiscale));
 
 l)
 
@@ -115,5 +113,3 @@ instaurazione, gestione ed estinzione, di rapporti di lavoro di qualunque tipo, 
 3.
 
 Per i dati genetici, biometrici e relativi alla salute il trattamento avviene comunque nel rispetto di quanto previsto dall'articolo 2-septies.
-
-))
