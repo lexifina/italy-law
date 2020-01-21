@@ -1,0 +1,19 @@
+# TAR SARDEGNA - CAGLIARI, ordinanza collegiale n. 37/2020
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR SARDEGNA - CAGLIARI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202000037
+- Numero di ricorso (NRG): 201900125
+- Data di pubblicazione: 2020-01-21
+- Udienza: UDIENZA PUBBLICA
+- Esito: SOSPENDE GIUDIZIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2019-02-13
+- Oggetto del ricorso: PUBBLICO IMPIEGO (UNIVERSITA'): RIGETTO ISTANZA DI ATTIVAZIONE DI UNA PROCEDURA DI CHIAMATA VOLTA ALL’ASSUNZIONE A TEMPO DETERMINATO SI SENSI DELL’ART. 20, COMMA 1, DEL D.LGS. 25 MAGGIO 2017, N.75.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sardegna-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/6ed0f4ef-2f11-4275-9bb0-0d828b0789b6/resource/3787301c-4408-4f36-aee4-db511bd35a3a/download/tar-sardegna-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
