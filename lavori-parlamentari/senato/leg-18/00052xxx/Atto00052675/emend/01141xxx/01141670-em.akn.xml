@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1665/A/1.0.2"/>
+					<an:FRBRdate date="2020-01-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@"/>
+					<an:FRBRdate date="2020-01-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@.akn"/>
+					<an:FRBRdate date="2020-01-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-01-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-01-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1665/A/1.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1665" showAs="DDL 1665"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJ0PXQ32EETZ0GWKXSKJNILMVRHZM22XWTLSPDYFR3XFWOA5PFC2I" href="http://dati.senato.it/32752" showAs="RUFA"/>
+				<an:TLCPerson id="IDVOAOK25N3TR5G5ELEDSGPQI2BIO3FKXWHCWQ4CNE02KHYJU4MGN" href="http://dati.senato.it/32686" showAs="PERGREFFI"/>
+				<an:TLCPerson id="IDKJ3M3NCBE2IVNAJAFF5VWU4MOOAXXAAGLZMPIC4ZOZ2BAT2PKSP" href="http://dati.senato.it/32593" showAs="BRIZIARELLI"/>
+				<an:TLCPerson id="IDQLDKO5SU1PM1GJH4B0UOKEZU1JJEUYYGXXZH0JM020VGGQASTSHO" href="http://dati.senato.it/32595" showAs="CAMPARI"/>
+				<an:TLCPerson id="IDKUDRWTENNFBHBYGEZIFZ3PR2RO3A323F0LDXZRWLGHF1D55IALP" href="http://dati.senato.it/34675" showAs="CORTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1665</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ0PXQ32EETZ0GWKXSKJNILMVRHZM22XWTLSPDYFR3XFWOA5PFC2I" as="#tipoSenatore">RUFA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVOAOK25N3TR5G5ELEDSGPQI2BIO3FKXWHCWQ4CNE02KHYJU4MGN" as="#tipoSenatore">PERGREFFI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKJ3M3NCBE2IVNAJAFF5VWU4MOOAXXAAGLZMPIC4ZOZ2BAT2PKSP" as="#tipoSenatore">BRIZIARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQLDKO5SU1PM1GJH4B0UOKEZU1JJEUYYGXXZH0JM020VGGQASTSHO" as="#tipoSenatore">CAMPARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKUDRWTENNFBHBYGEZIFZ3PR2RO3A323F0LDXZRWLGHF1D55IALP" as="#tipoSenatore">CORTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Trattamenti economici di equità nel settore del trasporto aereo)</an:i>
+				</an:p>
+				<an:p>        1. Al fine di contrastare forme di competizione salariale a ribasso in un settore caratterizzato da elevati standard di sicurezza, nonché di individuare un parametro esterno di commisurazione per definire la proporzionalità e la sufficienza del trattamento economico ai sensi dell'articolo 36 della Costituzione, i vettori e le imprese che operano e impiegano il personale sul territorio italiano che sono assoggettate alle autorizzazioni e alle certificazioni previste dalla normativa EASA e dalla normativa nazionale ed al monitoraggio di ENAC secondo le norme vigenti, applicano ai propri dipendenti i trattamenti economici complessivi non inferiori a quelli stabiliti dal contratto collettivo nazionale del trasporto aereo stipulato dalle organizzazioni datoriali e sindacali comparativamente più rappresentative a livello nazionale.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
