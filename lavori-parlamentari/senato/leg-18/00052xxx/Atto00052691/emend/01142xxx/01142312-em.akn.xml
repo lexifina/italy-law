@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1672/A/2.0.9"/>
+					<an:FRBRdate date="2020-02-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@"/>
+					<an:FRBRdate date="2020-02-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@.akn"/>
+					<an:FRBRdate date="2020-02-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-02-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-02-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1672/A/2.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1672" showAs="DDL 1672"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3OV3KMGWSLPYHWXILSHZIIWCPB00EITLP2WTOONTBIFY0YWFGAGH" href="http://dati.senato.it/32688" showAs="PEROSINO"/>
+				<an:TLCPerson id="IDICZRYKUH2CFBI5B1QSQTLQOFQPXNK4AHN3YAXWBQPU13S0F1H3RO" href="http://dati.senato.it/25206" showAs="SCIASCIA"/>
+				<an:TLCPerson id="IDWWKCZ5ZCFFMDCE3YS4DTNIL5ANVOUNFQKO2IEGGRY5J4CCU5O5C" href="http://dati.senato.it/25412" showAs="ROSSI"/>
+				<an:TLCPerson id="IDOACN4Z4IFMLAOCVTCVRET4NU1GNMRC4NTADRMZBP1MD4IEPDP10F" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1672</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3OV3KMGWSLPYHWXILSHZIIWCPB00EITLP2WTOONTBIFY0YWFGAGH" as="#tipoSenatore">PEROSINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDICZRYKUH2CFBI5B1QSQTLQOFQPXNK4AHN3YAXWBQPU13S0F1H3RO" as="#tipoSenatore">SCIASCIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWWKCZ5ZCFFMDCE3YS4DTNIL5ANVOUNFQKO2IEGGRY5J4CCU5O5C" as="#tipoSenatore">ROSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOACN4Z4IFMLAOCVTCVRET4NU1GNMRC4NTADRMZBP1MD4IEPDP10F" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:strong>
+						«Art. 2-
+						<an:i>bis</an:i>
+						.
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Cabina di regia per gli interventi nel settore delle crisi bancarie)</an:i>
+				</an:p>
+				<an:p>             1. Presso il Ministero dell'economia e delle finanze, avvalendosi delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente, senza nuovi o maggiori oneri per il bilancio dello Stato, è istituita la Cabina di regia per gli interventi nel settore delle crisi bancarie, di seguito denominata «Cabina di regia», con il compito di individuare strumenti e soluzioni adeguati ad affrontare la gestione delle crisi bancarie attraverso l'utilizzo di risorse dei sistemi di assicurazione dei depositi, fondi di risoluzione, risorse pubbliche nell'ambito di piani di risanamento preventivi o forme di uscita delle crisi attraverso il ricorso al mercato alternativi alla risoluzione come definita dalla Bank Recovery and Resolution Directive (Brrd) di cui alla direttiva 2014/59/UE, presieduta dal Ministro dell'economia e delle finanze.</an:p>
+				<an:p>             2. La Cabina di regia costituisce, per il settore delle crisi industriali, la sede di confronto tra il Governo, le regioni, gli enti locali, i membri del Parlamento, i rappresentanti dei sindacati, del sistema bancario e dell'amministrazione fiscale per garantire l'unitarietà e il coordinamento tra gli strumenti di programmazione e di attuazione di politica bancaria, nonché l'ottimale e coordinato utilizzo delle relative risorse finanziarie.</an:p>
+				<an:p>             3. Per la realizzazione dell'obiettivo di cui al comma 2, la Cabina di regia assicura il raccordo politico, strategico e funzionale per facilitare un'efficace integrazione tra gli interventi e gli strumenti di sostegno promossi, sostenerne l'accelerazione e garantire una più stretta correlazione con le istanze e con le dinamiche di sviluppo dei sistemi bancari.</an:p>
+				<an:p>             4. Con decreto del Ministro dell'economia e delle finanze, da emanare entro quarantacinque giorni dalla data di entrata in vigore della legge di conversione del presente decreto, è disciplinato il funzionamento della Cabina di regia.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
