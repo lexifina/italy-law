@@ -1,0 +1,19 @@
+# TAR SICILIA - CATANIA, decreto decisorio n. 701/2020
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR SICILIA - CATANIA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202000701
+- Numero di ricorso (NRG): 201202782
+- Data di pubblicazione: 2020-02-21
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2012-11-14
+- Oggetto del ricorso: IMPUGNAZIONE DELLA NOMINA DEL COMM. STRAORDINARIO DELLA CCIAA DI CATANIA E DEL PATTO PARASOCIALE TRA CCIAA DI RAGUSA, CCIAA DI CATANIA E IL CONSORZIO ASI DI CATANIA PER LA COSTITUZIONE DI UN "SINDACATO DI VOTO" DESTINATO AD INCIDERE SUI DIRITTI SOCIALI E SUGLI ASSETTI ORGANIZZATIVI DELLA SAC
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sicilia-catania-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/4f587eb1-3813-4dee-89e2-3373a37e0120/resource/2b50f3ab-6c52-4b4a-9c58-e9fbfe6f0c7a/download/tar-sicilia-catania-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
