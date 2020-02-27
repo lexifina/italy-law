@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1729/A/4.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1729/A/4.15"/>
+					<an:FRBRdate date="2020-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1729/A/4.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@"/>
+					<an:FRBRdate date="2020-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@.akn"/>
+					<an:FRBRdate date="2020-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1729/A/4.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1729" showAs="DDL 1729"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGE1ERXX4JDBXKDH2GKGAFVD2NDLJTU2F2AEPJENU5YZPDBDP2UTI" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+				<an:TLCPerson id="IDKTVBBIR3ICQXNFTLQBVZTSHMTIVS3OKXA2Y5BMF2LWUSBOQ2RU1E" href="http://dati.senato.it/32688" showAs="PEROSINO"/>
+				<an:TLCPerson id="IDXRCVUZUV23ERBIXPZYQ1IS5EHDQPKDW1KPCBLSM2CDRCN0BWAAUM" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1729</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGE1ERXX4JDBXKDH2GKGAFVD2NDLJTU2F2AEPJENU5YZPDBDP2UTI" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKTVBBIR3ICQXNFTLQBVZTSHMTIVS3OKXA2Y5BMF2LWUSBOQ2RU1E" as="#tipoSenatore">PEROSINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXRCVUZUV23ERBIXPZYQ1IS5EHDQPKDW1KPCBLSM2CDRCN0BWAAUM" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 3, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>        «3.1. Le disposizioni dell'articolo 1, commi da 115 a 120, della legge 28 dicembre 2015, n. 208, si applicano alle assegnazioni, trasformazioni e cessioni poste in essere entro il 30 settembre 2020 a condizione che tutti i soci risultino iscritti nel libro dei soci, ove prescritto, alla data del 31 dicembre 2019, ovvero che vengano iscritti entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, in forza di un titolo di trasferimento avente data certa anteriore al 1º gennaio 2020. I versamenti rateali dell'imposta sostitutiva di cui al comma 120 del citato articolo 1 della legge n. 208 del 2015 sono effettuati, rispettivamente, entro il 30 novembre 2020 ed entro il 16 giugno 2021. Le riserve in sospensione d'imposta annullate per effetto dell'assegnazione dei beni ai soci e quelle delle società che si trasformano sono assoggettate ad imposta sostitutiva delle imposte sui redditi e dell'imposta regionale sulle attività produttive nella misura del 7 per cento».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
