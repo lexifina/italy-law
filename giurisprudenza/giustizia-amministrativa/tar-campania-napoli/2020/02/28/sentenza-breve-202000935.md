@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 935/2020
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SESTA
+- Numero provvedimento: 202000935
+- Numero di ricorso (NRG): 201904182
+- Data di pubblicazione: 2020-02-28
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2019-10-23
+- Oggetto del ricorso: DEL DECRETO DI DINIEGO DELLA RICHIESTA DI CONVERSIONE DEL PERMESSO DI SOGGIORNO DA MOTIVI UMANITARI A LAVORO SUBORDINATO, EMESSO IN DATA 10 LUGLIO 2019 E NOTIFICATO IN DATA 9 SETTEMBRE 2019 CON N. CAT. A. 12/IMM/19 PROT. N.261.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
