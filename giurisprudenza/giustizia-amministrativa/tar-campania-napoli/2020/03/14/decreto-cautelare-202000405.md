@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto cautelare n. 405/2020
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202000405
+- Numero di ricorso (NRG): 202000617
+- Data di pubblicazione: 2020-03-14
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-02-18
+- Oggetto del ricorso: PER L’ANNULLAMENTO PREVIA SOSPENSIVA DEL PERMESSO DI COSTRUIRE N. 152 DEL 2019, RILASCIATO IL 10/12/2019 ALLA SOCIETÀ CLP COSTRUZIONI S.R.L. PER LA “RICOSTRUZIONE DI UN FABBRICATO PER CIVILE ABITAZIONE, AI SENSI DELLA L.R. PIANO CASA UBICATO IN VIA FIRENZE AI CIVICI 20, 22, 23, 24 E 30
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
