@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto cautelare n. 544/2020
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUINTA
+- Numero provvedimento: 202000544
+- Numero di ricorso (NRG): 202000877
+- Data di pubblicazione: 2020-03-25
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-03-06
+- Oggetto del ricorso: NON AMMISSIONE ALLA PROVA ORALE RESO ALL’ESITO DELLA PROVA PRATICA, SOSTENUTA IN DATA 16.12.2019, TRASMESSO E PUBBLICATO IN DATA 18.12.2019, DALLA COMMISSIONE ESAMINATRICE DEL CONCORSO PUBBLICO PER TITOLI ED ESAMI, INDETTO DALLA AZIENDA OSPEDALIERA DEI COLLI CON DELIBERAZIONE N. 168 DEL 21.03.2019 PER LA COPERTURA, CON RAPPORTO DI LAVORO A TEMPO INDETERMINATO, DI N. 6 POSTI DI DIRIGENTE SANITARIO FARMACISTI
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
