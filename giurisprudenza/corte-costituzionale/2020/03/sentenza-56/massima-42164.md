@@ -1,0 +1,22 @@
+# Massima n. 42164
+
+- Pronuncia: Corte costituzionale, sentenza 56/2020 (ECLI:IT:COST:2020:56)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:56
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Trasporto pubblico - Trasporto locale non di linea (in particolare, noleggio con conducente: NCC) - Materia oggetto di disciplina regionale - Prevalenza, su essa, della disciplina statale a tutela della concorrenza, volta a definire il punto di equilibrio con altri interessi costituzionali.
+
+## Testo
+
+Se il servizio di trasporto locale non di linea costituisce legittimo oggetto della potestà legislativa regionale, nondimeno anche su di esso lo Stato può esercitare la competenza esclusiva in materia di tutela della concorrenza, che, stante la sua natura trasversale e il suo carattere finalistico, assume carattere prevalente e funge da limite alla disciplina che le Regioni possono dettare nelle materie di loro competenza, concorrente o residuale, potendo influire su queste ultime fino a incidere sulla totalità degli ambiti materiali entro cui si estendono, sia pure nei limiti strettamente necessari per assicurare gli interessi alla cui garanzia la competenza statale esclusiva è diretta. (Nel caso di specie, avente ad oggetto l'art. 10- bis , comma 1, lett.  b ) del d.l. n. 135 del 2018, conv., con modif., nella legge n. 12 del 2019, la vocazione locale del servizio di NCC giustifica l'introduzione di limiti al libero esercizio dell'attività di trasporto, perché - pur potendo essere svolto senza vincoli territoriali di prelevamento e di arrivo a destinazione dell'utente - mira a soddisfare, in via complementare e integrativa, le esigenze di trasporto delle singole comunità, alla cui tutela è preposto il Comune che rilascia l'autorizzazione. In questa prospettiva, il legislatore statale, nell'esercizio della sua discrezionalità, ha individuato nel territorio provinciale la dimensione organizzativa ottimale del servizio, peraltro temperato attraverso la possibile localizzazione sul territorio provinciale di più rimesse che supera il vincolo di ubicazione di un'unica rimessa in ambito esclusivamente comunale). ( Precedenti citati: sentenze n. 83 del 2018, n. 287 del 2016, n. 165 del 2014, n. 2 del 2014, n. 38 del 2013, n. 299 del 2012, n. 291 del 2012, n. 18 del 2012, n. 150 del 2011, n. 288 del 2010, n. 52 del 2010, n. 452 del 2007, n. 431 del 2007, n. 430 del 2007, n. 401 del 2007 e n. 80 del 2006 ). Lo Stato, esercitando nell'ambito del trasporto pubblico locale la propria competenza esclusiva per la tutela della concorrenza, definisce il punto di equilibrio fra la libertà di iniziativa economica e gli altri interessi costituzionali. Il bilanciamento così operato, che definisce un assetto degli interessi che il legislatore regionale non è legittimato ad alterare, e nel cui ambito la valutazione degli interessi confliggenti deve essere intesa sempre in senso sistemico, complessivo e non frazionato, può condurre a un esito in forza del quale la tutela della concorrenza si attua anche attraverso la previsione e la correlata disciplina delle ipotesi in cui viene eccezionalmente consentito di apporre dei limiti all'esigenza di tendenziale massima liberalizzazione delle attività economiche. ( Precedenti citati: sentenze n. 30 del 2016, n. 49 del 2014 e n. 80 del 2006 ). La disciplina del servizio di NCC deve essere ricondotta alla materia della tutela della concorrenza, giacché in essa si individua, ad opera del legislatore statale a ciò competente, il punto di equilibrio tra il libero esercizio dell'attività di NCC, che si colloca a sua volta nel suo proprio mercato, e l'attività di trasporto esercitata dai titolari di licenze per taxi. Il trasporto pubblico locale, di linea e non di linea, continua a essere, anche successivamente alla riforma del Titolo V della Parte II della Costituzione, materia regionale, transitata nell'ambito della competenza regionale residuale di cui all'art. 117, quarto comma, Cost. ( Precedenti citati: sentenze n. 5 del 2019, n. 137 del 2018, n. 78 del 2018, n. 30 del 2016 e n. 452 del 2007 ).
+
+## Norme
+
+- decreto-legge, 14/12/2018 n. 135, art. 10 bis, comma 1 lett. b)
+- legge, 11/02/2019 n. 12
+
+## Parametri
+
+- Costituzione, art. 117, comma 4
