@@ -1,0 +1,5 @@
+Allegato 2
+
+Segnalazione di utilizzo del logo "No Slot" (art. 3 e 4 DM ...)
+
+Parte di provvedimento in formato grafico
