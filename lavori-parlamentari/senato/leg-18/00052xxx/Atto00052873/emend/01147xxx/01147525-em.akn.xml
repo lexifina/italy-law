@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/56.0.9"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="56.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPANOET0SXRIJHVLY1HKLC0X24PD5IJSV4CHTYGLYGWV530T22OXO" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDDLXBYGCNO35BLR3WUBZVGNZ3WK05M1ES0ZNUIKP2RSKYQ32ZQUMF" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDE1DE1WX4YKWMIL0NPEHSLHYKQC2MEK155T01KCBVI0HLQUQ0AM5F" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDMG0C1J1LQAVNEWJCGDHCACBUCNUZQYHXFQUQCCNHCVSKAXB4JH4B" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 56.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPANOET0SXRIJHVLY1HKLC0X24PD5IJSV4CHTYGLYGWV530T22OXO" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDLXBYGCNO35BLR3WUBZVGNZ3WK05M1ES0ZNUIKP2RSKYQ32ZQUMF" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE1DE1WX4YKWMIL0NPEHSLHYKQC2MEK155T01KCBVI0HLQUQ0AM5F" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMG0C1J1LQAVNEWJCGDHCACBUCNUZQYHXFQUQCCNHCVSKAXB4JH4B" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 56-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Rilascio di garanzie ad imprese)</an:i>
+				</an:p>
+				<an:p>        1. In considerazione dell'emergenza epidemiologica da COVID-19, le regioni e le province autonome di Trento e di Bolzano possono, per l'esercizio 2020, rilasciare garanzie anche a favore dei soggetti che non possono essere destinatari di contributi agli investimenti finanziati da debito».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
