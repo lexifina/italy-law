@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/56.0.8"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="56.0.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/56.0.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEOS5BQ3GDS2CFVZI45RZLQZPMOKVK3XLX2GARJKP14S0PTCEVWN" href="http://dati.senato.it/29186" showAs="STEFANO"/>
+				<an:TLCPerson id="IDTSB5HZSP5WPTL35PLLQPHKMMHJ53ZAINKGDRGKN444Q1P0OWS1P" href="http://dati.senato.it/32610" showAs="D'ALFONSO"/>
+				<an:TLCPerson id="ID3JZVYOD2ZCBKED5AKBDYOT4GNOUJQU4TE351BPJJHKE0IX4JZH" href="http://dati.senato.it/32660" showAs="MANCA"/>
+				<an:TLCPerson id="IDWIXMPYHYY1RZN5AD5HCR3O1QGJZEJP0GCKLGYHKCNPY4CLRU310E" href="http://dati.senato.it/29398" showAs="FERRARI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 56.0.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEOS5BQ3GDS2CFVZI45RZLQZPMOKVK3XLX2GARJKP14S0PTCEVWN" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTSB5HZSP5WPTL35PLLQPHKMMHJ53ZAINKGDRGKN444Q1P0OWS1P" as="#tipoSenatore">D'ALFONSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3JZVYOD2ZCBKED5AKBDYOT4GNOUJQU4TE351BPJJHKE0IX4JZH" as="#tipoSenatore">MANCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWIXMPYHYY1RZN5AD5HCR3O1QGJZEJP0GCKLGYHKCNPY4CLRU310E" as="#tipoSenatore">FERRARI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 56-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>        1. Presso il Ministero dell'economia e delle finanze è istituito un tavolo di confronto con l'associazione bancaria italiana ABI e i rappresentanti maggiormente rappresentativi della rete delle imprese e degli industriali affinché si raggiunga un accordo per il credito da realizzare entro 15 giorni dalla data di approvazione della presente disposizione al fine di predisporre linee di finanziamento da parte del sistema bancario destinate al ripristino del capitale circolante nelle piccole e medie imprese e per far fronte alle esigenze di liquidità dovute al pagamento delle fatture i cui termini di pagamento risultano scaduti durante il periodo di inattività dell'impresa collegata all'emergenza sanitaria, nonché la proroga, fino a 12 mesi, delle scadenze in essere sulle linee di credito a breve termine e sulle linee bancarie a sostegno del circolante. I finanziamenti concessi ai sensi del presente comma sono ammissibili alla garanzia del fondo di cui all'articolo 49».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
