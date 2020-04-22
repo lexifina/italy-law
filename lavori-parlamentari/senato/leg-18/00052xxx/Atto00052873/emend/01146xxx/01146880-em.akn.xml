@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G55.113/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G55.113"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G55.113/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G55.113"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/G55.113/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDBCV32VP34XWIKRGKSNUULBQWEWDB3RQ3TVO14HK5M1KE5OHXIMI" href="http://dati.senato.it/18499" showAs="CIRINNA'"/>
+				<an:TLCPerson id="IDR1ZW1JOQVPBRM55DJXJASEIEDD3Z5OXIEXBBT2GXWAZCR4B5DYNI" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDUB0LHEA2RWBBEKVT5I551FWVYFWYQZRCKYP542DRZHGME1H4AAVJ" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="ID5K5HEQL5SVU5PZOXJ31YJPLX3GBYS45VGW14MABGAYLUFECBTASC" href="http://dati.senato.it/32669" showAs="Assuntela MESSINA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G55.113</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDBCV32VP34XWIKRGKSNUULBQWEWDB3RQ3TVO14HK5M1KE5OHXIMI" as="#tipoSenatore">CIRINNA'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR1ZW1JOQVPBRM55DJXJASEIEDD3Z5OXIEXBBT2GXWAZCR4B5DYNI" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUB0LHEA2RWBBEKVT5I551FWVYFWYQZRCKYP542DRZHGME1H4AAVJ" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5K5HEQL5SVU5PZOXJ31YJPLX3GBYS45VGW14MABGAYLUFECBTASC" as="#tipoSenatore">Assuntela MESSINA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione in legge del decreto-legge 17 marzo 2020, n. 18, recante misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19 (A.S. 1766),</an:p>
+				<an:p>            considerate le gravi ricadute dell'emergenza sanitaria da COVID-19 sulle imprese turistico-ricettive, che hanno determinato in larga parte del territorio nazionale la sospensione delle attività,</an:p>
+				<an:p>            in aggiunta a quanto già previsto, a favore delle suddette imprese, dal decreto legge in esame,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a fare ulteriormente fronte alle specifiche esigenze del settore turistico, ponendo in essere ogni iniziativa volta ad assicurare:</an:p>
+				<an:p>            1) il riconoscimento di un credito d'imposta pari al cinquanta per cento della riduzione di fatturato subita in conseguenza dell'emergenza sanitaria, prevedendo altresì che la misura del credito d'imposta possa aumentata al settanta per cento ove la riduzione di attività sia superiore al cinquanta per cento;</an:p>
+				<an:p>
+					            2) aggiungere alle sospensioni dei termini di pagamento già previste dal comma 3 dell'articolo 61, a favore delle imprese turistico-ricettive, la sospensione dei termini per gli adempimenti e i versamenti previsti dagli articoli 36, 36-
+					<an:i>bis</an:i>
+					 e 36-
+					<an:i>ter</an:i>
+					 del decreto del Presidente della Repubblica 29 settembre 1973 n. 600 e dall'articolo 54-
+					<an:i>bis</an:i>
+					 del decreto del Presidente della Repubblica 26 ottobre 1972 n. 633, mettendo le rate sospese in coda alla rateizzazione prevista;
+				</an:p>
+				<an:p>            3) superare le vigenti ipotesi di versamento differito al 31 maggio 2020 dei pagamenti sospesi in conseguenza dell'emergenza sanitaria - ed in particolare quella di cui al comma 4 dell'articolo 61 del decreto legge in conversione - lasciando in essere la sola rateizzazione dei pagamenti dovuti;</an:p>
+				<an:p>            4) disporre che l'Autorità di regolazione per energia, reti e ambiente preveda la sospensione temporanea, dall'1 febbraio fino al 31 dicembre 2020, dei termini di pagamento delle fatture e degli avvisi di pagamento emessi o da emettere, per le imprese turistico ricettive.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
