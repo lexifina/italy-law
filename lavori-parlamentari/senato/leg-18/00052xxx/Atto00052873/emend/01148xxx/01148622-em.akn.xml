@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/103.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/103.13"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/103.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="103.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/103.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTJX0UYIGNSPUOLF2NN3QIPXC5KLIPAOG4B3IC2NK5H4IEEXJYF0D" href="http://dati.senato.it/32615" showAs="DE FALCO"/>
+				<an:TLCPerson id="IDLFLJS3LJUFLBNT50E1REKZU0AKSXCPB3UEFI25NP2TK2LHNWT1NG" href="http://dati.senato.it/29093" showAs="FATTORI"/>
+				<an:TLCPerson id="IDUUBSSUTRTZ2KMHCF2WQEEUBFFDTVUDMPC4QQJLC2141JAGN1OXRN" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="ID5WGIFW03LFZPLHATHRTDUIOZFBOZJTTFW3MV0WDHOXFSVH4KTFXB" href="http://dati.senato.it/32620" showAs="DI MARZIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 103.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTJX0UYIGNSPUOLF2NN3QIPXC5KLIPAOG4B3IC2NK5H4IEEXJYF0D" as="#tipoSenatore">DE FALCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLFLJS3LJUFLBNT50E1REKZU0AKSXCPB3UEFI25NP2TK2LHNWT1NG" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUUBSSUTRTZ2KMHCF2WQEEUBFFDTVUDMPC4QQJLC2141JAGN1OXRN" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5WGIFW03LFZPLHATHRTDUIOZFBOZJTTFW3MV0WDHOXFSVH4KTFXB" as="#tipoSenatore">DI MARZIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2 aggiungere i seguenti commi:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>2-bis</an:i>
+					: Ai permessi di soggiorno rilasciati a cittadini stranieri ai sensi delle disposizioni del decreto legislativo 25 luglio 1998, n. 286 e del decreto legislativo 18 agosto 2015, n. 142, si applicano le disposizioni dell'art. 104 del presente decreto.
+				</an:p>
+				<an:p>
+					<an:i>2-ter</an:i>
+					. All'articolo 5, comma 8, del decreto legislativo 25 luglio 1998, n. 286, dopo la parola: ''445'', è aggiunta la seguente frase: ''e pertanto costituiscono documento di riconoscimento ai sensi dell'articolo 1, comma 1, lettera 
+					<an:i>c)</an:i>
+					''.
+				</an:p>
+				<an:p>
+					<an:i>2-quater</an:i>
+					. I permessi di soggiorno di cui agli articoli 9, 22, 22 comma 11, 24, 26, 30, 39
+					<an:i>-bis</an:i>
+					 e 39-
+					<an:i>bis</an:i>
+					.1 del decreto legislativo 25 luglio 1998, n. 286, a cui si applicano le disposizioni del comma 2-
+					<an:i>bis</an:i>
+					, al momento della scadenza sono rinnovati secondo le disposizioni vigenti, salvo quando è richiesto il possesso di un reddito almeno pari all'importo dell'assegno sociale ovvero dei mezzi di sussistenza sufficienti ai sensi dell'articolo 9, comma 4, lettera 
+					<an:i>b)</an:i>
+					, del decreto del Presidente della Repubblica 31 agosto 1999, n. 394. In questi casi, non si tiene conto del periodo di inattività o di limitazione dell'attività lavorativa determinata dalle disposizioni del presente decreto ovvero da causa di forza maggiore connessa all'emergenza epidemiologica. La presente norma si applica anche alle richieste di conversione.
+				</an:p>
+				<an:p>
+					<an:i>2-quinquies.</an:i>
+					 Se non sono comunque soddisfatte le condizioni previste al comma precedente, i permessi di soggiorno sono convertiti su richiesta degli interessati nel permesso di soggiorno di cui all'articolo 22, comma 1, di durata annuale. Quest'ultimo se già posseduto è rinnovato secondo le disposizioni del presente comma».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
