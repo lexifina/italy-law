@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/62.26/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/62.26"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/62.26/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="62.26"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/62.26/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2N1N5VUPONDSNYI51QMVNAM0PGPCTRGG2PFCTKL43CVRPREIM0NM" href="http://dati.senato.it/18715" showAs="QUAGLIARIELLO"/>
+				<an:TLCPerson id="IDBV1Z4ZZLNER5GMHX4GOE40OYYGR2OJ0IYREO3J0TVGTYDSE05JP" href="http://dati.senato.it/32587" showAs="BERUTTI"/>
+				<an:TLCPerson id="ID31XCASF5U2RBITLBCXVCOA40HBE2SWTJ1MDYG4OPGDDLM45BK5AB" href="http://dati.senato.it/2064" showAs="ROMANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 62.26</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2N1N5VUPONDSNYI51QMVNAM0PGPCTRGG2PFCTKL43CVRPREIM0NM" as="#tipoSenatore">QUAGLIARIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBV1Z4ZZLNER5GMHX4GOE40OYYGR2OJ0IYREO3J0TVGTYDSE05JP" as="#tipoSenatore">BERUTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID31XCASF5U2RBITLBCXVCOA40HBE2SWTJ1MDYG4OPGDDLM45BK5AB" as="#tipoSenatore">ROMANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'articolo apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>al comma 2, sostituire le parole:</an:i>
+					 «tra l'8 marzo e il 31 marzo», 
+					<an:i>con le seguenti:</an:i>
+					 «tra l'8 marzo ed il 31 maggio»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>al comma 5, sostituire le parole:</an:i>
+					 «entro il 31 maggio 2020 o mediante rateizzazione fino ad un massimo di 5 rate mensili di pari importo a decorrere dal mese di maggio 2020.», 
+					<an:i>con le seguenti:</an:i>
+					 «entro i termini di versamento relativi al saldo delle imposte di cui alla dichiarazione dei redditi per l'anno di imposta 2020. Il versamento potrà avvenire con le stesse modalità previste per il saldo delle imposte di cui alla dichiarazione dei redditi.»;
+				</an:p>
+				<an:p>
+					            e) 
+					<an:i>al comma 6, sostituire le parole:</an:i>
+					 «entro il 30 giugno 2020», 
+					<an:i>con le parole:</an:i>
+					 «entro il 31 dicembre 2020»;
+				</an:p>
+				<an:p>
+					            d) 
+					<an:i>al comma 7, sostituire le parole:</an:i>
+					 «il 31 marzo 2020», 
+					<an:i>con le parole:</an:i>
+					 «il 31 dicembre 2020»;
+				</an:p>
+				<an:p>
+					            e) 
+					<an:i>al comma 7, abrogare le parole:</an:i>
+					 «e provvedono a versare l'ammontare delle ritenute d'acconto non operate dal sostituto in un'unica soluzione entro il 31 maggio o mediante rateizzazione fino ad un massimo di 5 rate mensili di pari importo a decorrere dal mese di maggio 2020, senza applicazione di sanzioni e interessi».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
