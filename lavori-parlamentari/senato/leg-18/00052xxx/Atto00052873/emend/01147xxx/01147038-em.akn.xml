@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/1.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/1.2"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/1.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/1.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYQCTHPW4AFFSEAY4RQU14NLKMO4A2B1EOBMVUODTOL4UENLP2KHJ" href="http://dati.senato.it/18715" showAs="QUAGLIARIELLO"/>
+				<an:TLCPerson id="IDUAYCDPF1I52UE01XZ111HKP0MF2EGPFU3HGMXVESYRWEVMXCDL5L" href="http://dati.senato.it/32587" showAs="BERUTTI"/>
+				<an:TLCPerson id="IDMJTWVWETLZBSHVM5ZT0DLCG0EHIJ25XOPQW2MEI2M2DAMDYD5V3E" href="http://dati.senato.it/2064" showAs="ROMANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYQCTHPW4AFFSEAY4RQU14NLKMO4A2B1EOBMVUODTOL4UENLP2KHJ" as="#tipoSenatore">QUAGLIARIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUAYCDPF1I52UE01XZ111HKP0MF2EGPFU3HGMXVESYRWEVMXCDL5L" as="#tipoSenatore">BERUTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMJTWVWETLZBSHVM5ZT0DLCG0EHIJ25XOPQW2MEI2M2DAMDYD5V3E" as="#tipoSenatore">ROMANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>a)  dopo il comma 1 inserire il seguente</an:i>
+					:
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Le regioni e le province autonome possono incrementare le risorse per le finalità di cui al comma 1 fino al doppio dell'ammontare indicato nella tabella A».
+				</an:p>
+				<an:p>
+					<an:i>b) dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>inserire il seguente</an:i>
+					:
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Responsabilità datori di lavoro operatori sanitari e sociosanitari)</an:i>
+				</an:p>
+				<an:p>        1. Le condotte dei datori di lavoro di operatori sanitari e sociosanitari operanti nell'ambito o a causa dell'emergenza COVID-19, nonché le condotte dei soggetti preposti alla gestione della crisi sanitaria derivante dal contagio non determinano, in caso di danni agli stessi operatori o a terzi, responsabilità personale di ordine penale, civile, contabile e da rivalsa, se giustificate dalla necessità di garantire, sia pure con mezzi e modalità non sempre conformi agli standard di sicurezza, la continuità dell'assistenza sanitaria indifferibile sia in regime ospedaliero che territoriale e domiciliare.</an:p>
+				<an:p>        2. Dei danni accertati in relazione alle condotte di cui al comma 1, compresi quelli derivanti dall'insufficienza o inadeguatezza dei dispositivi di protezione individuale, risponde civilmente il solo ente di appartenenza del soggetto operante ferme restando, in caso di dolo, le responsabilità individuali».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
