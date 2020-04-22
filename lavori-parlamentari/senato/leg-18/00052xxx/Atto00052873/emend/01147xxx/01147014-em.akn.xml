@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G120.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G120.104"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G120.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G120.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/G120.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCST3ZJYXQJJSKPN0RVYR2TVCHWPD0VJ0AXAOKPTTR45DYIFARZD" href="http://dati.senato.it/32709" showAs="RUSSO"/>
+				<an:TLCPerson id="ID4SGWC544PBS2JEMJZKVHGYKQCD0MRZWOYMWPXNOEGG2IJZMI5KB" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDWTFUXSQE4J2YB34DIDLXFXHCEC1RQQZGDYGPXHMNUHFKU242LPSL" href="http://dati.senato.it/32641" showAs="GRANATO"/>
+				<an:TLCPerson id="IDBKM3FOZV4ESUHAWD0MXLUZ3R2ML5EZB2FXPUBJPPPDGWAXOOBUYE" href="http://dati.senato.it/32617" showAs="DE LUCIA"/>
+				<an:TLCPerson id="IDYKLPVSLDVG2OHRZCHA3L5ZZTTPRBEPPS52TVRJCX3BCV3LUAEPXE" href="http://dati.senato.it/32580" showAs="ANGRISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G120.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCST3ZJYXQJJSKPN0RVYR2TVCHWPD0VJ0AXAOKPTTR45DYIFARZD" as="#tipoSenatore">RUSSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4SGWC544PBS2JEMJZKVHGYKQCD0MRZWOYMWPXNOEGG2IJZMI5KB" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWTFUXSQE4J2YB34DIDLXFXHCEC1RQQZGDYGPXHMNUHFKU242LPSL" as="#tipoSenatore">GRANATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBKM3FOZV4ESUHAWD0MXLUZ3R2ML5EZB2FXPUBJPPPDGWAXOOBUYE" as="#tipoSenatore">DE LUCIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYKLPVSLDVG2OHRZCHA3L5ZZTTPRBEPPS52TVRJCX3BCV3LUAEPXE" as="#tipoSenatore">ANGRISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame dell'A.S. 1766, recante Conversione in legge del decreto-legge 17 marzo 2020, n. 18, recante misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 120, comma 4, del provvedimento in titolo prevede che «Limitatamente all'anno scolastico 2019/2020, al fine di assicurare anche nelle scuole dell'infanzia, nelle scuole primarie e nelle scuole secondarie di primo grado la funzionalità della strumentazione informatica, nonché per il supporto all'utilizzo delle piattaforme di didattica a distanza, le predette istituzioni scolastiche sono autorizzate a sottoscrivere contratti sino al termine delle attività didattiche con assistenti tecnici, nel limite complessivo di 1.000 unità, anche in deroga ai limiti di cui all'articolo 19, comma 7, del decreto-legge 6 luglio 2011, n. 98, convertito con modificazioni dalla legge 15 luglio 2011, n. 111»;</an:p>
+				<an:p>            tale previsione si è resa necessaria in quanto, per ragioni storiche, nelle scuole del primo ciclo non erano disponibili assistenti tecnici informatici, in quanto in queste scuole, in passato, non erano presenti laboratori informatici;</an:p>
+				<an:p>            per assicurare anche nelle scuole dell'infanzia, nelle scuole primarie e nelle scuole secondarie di primo grado la funzionalità della strumentazione informatica, nonché per il supporto all'utilizzo delle piattaforme di didattica a distanza è stata prevista la temporanea assunzione di 1000 unità di personale tecnico amministrativo;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            l'evoluzione della società verso il digitale ha determinato la necessità di dotarsi di laboratori informatici, oramai da alcuni anni, anche per le scuole del primo ciclo e che l'assenza di assistenti tecnici è causa di particolare difficoltà non solo nella gestione contingente della didattica a distanza, ma anche in quella ordinaria dei laboratori informatici che ormai sono presenti in tutte le istituzioni scolastiche;</an:p>
+				<an:p>            appare necessario non interrompere il processo di digitalizzazione già avviato,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di prevedere stabilmente, nei limiti delle risorse disponibili, in pianta organica il numero di assistenti tecnici di cui all'art. 120 del provvedimento in esame, già dal prossimo anno scolastico 2020/2021.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
