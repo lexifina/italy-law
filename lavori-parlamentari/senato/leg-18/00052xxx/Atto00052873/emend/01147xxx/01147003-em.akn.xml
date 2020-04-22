@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G61.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G61.102"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G61.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G61.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/G61.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNDOM5HELT3HXPN5NEHO4UU3K5G4FBNEPPBM0YJBKLEYKRFFXW0ZO" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDEOWSALHA15YQE5K55KHWUYEPMCHO0PZ4RM5Y5BCL1TDC2MO3UYWK" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDEF3JZRFNS3MUOCOOQG3YRGQ1MFOTCCY2POUTGYKGWMN03F2NSXZO" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDEAUUQ1AWXINWI20E5DR5LBXTZNO0PSNZ5ILSTOE0ALKMZ3OHGTDL" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G61.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNDOM5HELT3HXPN5NEHO4UU3K5G4FBNEPPBM0YJBKLEYKRFFXW0ZO" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEOWSALHA15YQE5K55KHWUYEPMCHO0PZ4RM5Y5BCL1TDC2MO3UYWK" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEF3JZRFNS3MUOCOOQG3YRGQ1MFOTCCY2POUTGYKGWMN03F2NSXZO" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEAUUQ1AWXINWI20E5DR5LBXTZNO0PSNZ5ILSTOE0ALKMZ3OHGTDL" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del decreto-legge 17 marzo 2020, n. 18, recante misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 61 del decreto legge in esame al fine di sostenere ulteriormente settori maggiormente colpiti dall'emergenza sanitaria estende la sospensione di cui all'articolo 8 del decreto-legge 2 marzo 2020, n.9 citato ad ulteriori categorie di soggetti operanti in settori diversi così come elencati dal comma 2; considerato che l'elencazione dei soggetti interessati dalla disposizione non comprende gli operatori economici la cui attività è complementare e direttamente collegata ai soggetti di cui al predetto comma 2;</an:p>
+				<an:p>        impegna il Governo </an:p>
+				<an:p>
+					        a valutare la possibilità di inserire nel prossimo provvedimento utile tra i soggetti di cui al comma 2 dell'art. 61, nei cui confronti è estesa la sospensione di cui all'art. 8 citato, anche gli operatori che forniscono attrezzature sportive ai soggetti di cui alla lettera 
+					<an:i>a)</an:i>
+					, comma 2, dell'art. 61 e gli operatori che svolgono attività nel campo delle pubbliche relazioni di cui alla lettera 
+					<an:i>d)</an:i>
+					 comma 2, dell'art. 61.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
