@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/62.0.256"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="62.0.256"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/62.0.256/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQD4R5MSSSPXNE3ZJYCZOA1GEEH3QPVNDHSNFUBLYJ22TXGNTOR3" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDXTLOR1WMRTWHI514MXAAJC5KTG2AZYCHDX51B2OQMKDZUXOKMVTH" href="http://dati.senato.it/32628" showAs="FAZZOLARI"/>
+				<an:TLCPerson id="ID5WDZO5GYDWATM300GFWKWS5HBDSJHSGJPQH0GVP5J5XTAWAMWOED" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 62.0.256</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQD4R5MSSSPXNE3ZJYCZOA1GEEH3QPVNDHSNFUBLYJ22TXGNTOR3" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXTLOR1WMRTWHI514MXAAJC5KTG2AZYCHDX51B2OQMKDZUXOKMVTH" as="#tipoSenatore">FAZZOLARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5WDZO5GYDWATM300GFWKWS5HBDSJHSGJPQH0GVP5J5XTAWAMWOED" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 62-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Differimenti di termini a salvaguardia degli investimenti nel settore delle energie rinnovabili)</an:i>
+				</an:p>
+				<an:p>        1. In considerazione della situazione straordinaria di emergenza sanitaria derivante dalla diffusione dell'epidemia da COVID-19:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 il termine di cui all'articolo 7, comma 1, lettera a) del decreto ministeriale FER 4 luglio 2019 per l'entrata in esercizio impianti di produzione cui viene riconosciuta la tariffa incentivante di cui al decreto FER 23 giugno 2016 è prorogato di 240 giorni;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 i termini di cui all'articolo 11, comma 1, del decreto ministeriale FER 23 giugno 2016 per l'entrata in esercizio impianti di produzione sono prorogati di 240 giorni;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 le date delle procedure di asta e registro dal numero 3 al numero 7 della tabella n. 1 dell'articolo 4, comma 1, del decreto ministeriale FER 4 luglio 2019 sono prorogate di 240 giorni;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 le scadenze dei provvedimenti autorizzativi finali, dei pareri, nulla osta e ogni termine di scadenza e decadenza di titoli e sub procedimenti di ogni tipo già rilasciati o/e assentiti alla data dell'entrata in vigore del presente decreto, previsti dal D.P.R 6 giugno 2001, n. 380, dal decreto legislativo 3 aprile 2006 n. 152, dal decreto legislativo 29 dicembre 2003, n. 387 e dal decreto legislativo 3 marzo 2011 n. 28 per la realizzazione dei progetti in essi previsti, sono prorogate di 12 mesi.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
