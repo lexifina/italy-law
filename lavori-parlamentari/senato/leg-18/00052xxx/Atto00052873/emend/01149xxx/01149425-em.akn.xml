@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/102.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/102.1"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/102.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="102.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/102.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDR5WQVUNLJ3BPM1RZBCYPLCVUDMDXKHVU23VT31OIONGKFDOFJCYF" href="http://dati.senato.it/29395" showAs="FARAONE"/>
+				<an:TLCPerson id="IDASAL2MVT0NMEG12U5D1DVMP1VJQRGFIXATVIU0KO4U0FMKNW1INF" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDGCH1GX1TR2WMB3YMUPB5IVMMXGSJ5QBZ4X0MX2FQY2JNXLHSBXFK" href="http://dati.senato.it/1686" showAs="NENCINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 102.1 (testo 3)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR5WQVUNLJ3BPM1RZBCYPLCVUDMDXKHVU23VT31OIONGKFDOFJCYF" as="#tipoSenatore">FARAONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASAL2MVT0NMEG12U5D1DVMP1VJQRGFIXATVIU0KO4U0FMKNW1INF" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGCH1GX1TR2WMB3YMUPB5IVMMXGSJ5QBZ4X0MX2FQY2JNXLHSBXFK" as="#tipoSenatore">NENCINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, è aggiunto il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis</an:i>
+					) Fino al perdurare dello stato di emergenza deliberato dal Consiglio dei ministri in data 31 gennaio 2020, il periodo di tirocinio da svolgersi, ai sensi dell'articolo 3, comma 6, del decreto del Ministro dell'istruzione, dell'università e della ricerca n. 58 del 2018 ovvero dell'articolo 2, comma 1, del decreto del Ministro dell'istruzione dell'università e della ricerca 19 ottobre 2001, n. 445, presso l'ambulatorio di un medico di Medicina Generale avente i requisiti previsti dell'articolo 27, comma 3, del decreto legislativo 17 agosto 1999, n. 368 può essere effettuato, qualora non sia reperibile per l'Ateneo un numero adeguato di medici di medicina generale convenzionati, anche presso le strutture di cui alla lettera a), comma 2, dell'articolo 26, del citato decreto legislativo n. 368 del 1999.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
