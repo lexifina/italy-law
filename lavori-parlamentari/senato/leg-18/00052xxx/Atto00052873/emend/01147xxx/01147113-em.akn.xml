@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/16.0.1"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/16.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLB52RRXPVKERBLHOUD4OI4P3KKZQ01SF0OUR15PTMIMPNRWXT4J" href="http://dati.senato.it/32732" showAs="ZAFFINI"/>
+				<an:TLCPerson id="ID1LWBMEYBQYKOGE3J5BGZCV3E42FEB4HS0OO5IKUUJK3FJEI3R5C" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDDDXGVORQDNBKL4LJTVNZHTRFBM00ROVDNDZUS1BVZRHZDIVK1KJL" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLB52RRXPVKERBLHOUD4OI4P3KKZQ01SF0OUR15PTMIMPNRWXT4J" as="#tipoSenatore">ZAFFINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1LWBMEYBQYKOGE3J5BGZCV3E42FEB4HS0OO5IKUUJK3FJEI3R5C" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDDXGVORQDNBKL4LJTVNZHTRFBM00ROVDNDZUS1BVZRHZDIVK1KJL" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 16-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni per la tutela della salute e lo</an:i>
+					 screening 
+					<an:i>epidemiologico della popolazione e delle categorie di lavoratori più esposte al rischio di contagio)</an:i>
+				</an:p>
+				<an:p>
+					        1. In considerazione dell'acclarata esigenza, ai fini del contenimento dell'epidemia da COVID-19, di procedere al più ampio monitoraggio e 
+					<an:i>screening</an:i>
+					 epidemiologico della popolazione, a cominciare dalle categorie più esposte al rischio di contagio, quali operatori del Sistema sanitario nazionale, addetti alle attività commerciali e più in generale gli operatori e lavoratori esposti al pubblico, nonché addetti alla sicurezza e alla protezione civile, allo scopo di individuare e porre in isolamento i soggetti affetti da Covid-19, anche qualora esenti da sintomatologie, è autorizzata la spesa complessiva di euro 250 milioni, a valere sul livello del finanziamento del fabbisogno sanitario nazionale 
+					<an:i>standard</an:i>
+					 cui concorre lo Stato, di cui all'articolo 18, che è a tal fine incrementato pari importo.
+				</an:p>
+				<an:p>
+					        2. Le risorse di cui al comma precedente sono ripartite tra le regioni e assegnate per la realizzazione di interventi finalizzati all'acquisto ed alla somministrazione di 
+					<an:i>test</an:i>
+					 rapidi immunologici o sierologici, coerentemente a linee guida ministeriali emanate entro tre giorni dalla conversione del presente decreto dal Ministro della salute.
+				</an:p>
+				<an:p>        3. Alla copertura degli oneri previsti dal presente articolo si provvede si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente di cui alla allegata tabella A, rubrica del Ministero dell'economia e delle finanze, della legge 27 dicembre 2019, n. 160».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
