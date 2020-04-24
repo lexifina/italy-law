@@ -1,0 +1,17 @@
+# Massima n. 43340
+
+- Pronuncia: Corte costituzionale, ordinanza 84/2020 (ECLI:IT:COST:2020:84)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:84
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Procedimento civile - Esecuzione immobiliare - Pignoramento di beni immobili di ente privato disposto dal Tribunale della Spezia, in funzione di giudice dell'esecuzione - Sopravvenuta confisca, disposta in conseguenza dell'accertamento di responsabilità amministrativa dipendente da reato del medesimo ente privato - Successivo avviso di vendita dell'Agenzia del demanio-Direzione generale della Liguria, all'esito dell'incidente di esecuzione - Ricorso per conflitto di attribuzione tra poteri dello Stato sollevato dal Tribunale della Spezia, in funzione di giudice dell'esecuzione - Difetto di legittimazione passiva - Inammissibilità del conflitto.
+
+## Testo
+
+È dichiarato inammissibile, per difetto di legittimazione passiva, il ricorso per conflitto di attribuzione tra poteri dello Stato promosso dal Tribunale della Spezia, in funzione di giudice dell'esecuzione civile, nei confronti dell'Agenzia del demanio - Direzione regionale della Liguria, in relazione all'avviso da quest'ultima pubblicato per la vendita di alcuni immobili di proprietà dell'esecutato ente privato, beni già pignorati e poi attinti da confisca. Mentre non è dubitabile la legittimazione attiva del ricorrente ad essere parte del conflitto - in quanto organo giurisdizionale, in posizione di indipendenza costituzionalmente garantita, competente a dichiarare in via definitiva, nell'esercizio delle funzioni ad esso attribuite, la volontà del potere cui appartiene - deve invece escludersi che l'Agenzia del demanio possa essere qualificata, nel caso in esame, come potere dello Stato, agli effetti dell'art. 37 della legge n. 87 del 1953. Quest'ultima, pubblicando l'avviso di vendita di immobili confiscati dall'autorità giudiziaria, ha esercitato un potere ad essa assegnato dalla legge, ma non un'attribuzione direttamente riferibile a norme costituzionali; né il ricorrente ha prospettato l'esercizio di un potere radicalmente diverso da quello di legge sicché difetta, nella specie, il "tono costituzionale" del conflitto, in ragione dell'ontologica differenza tra atto meramente illegittimo e atto costituzionalmente invasivo, dovendosi, dunque, escludere che l'Agenzia del demanio, nell'adozione dell'atto oggetto del presente conflitto, possa essere qualificata come organo abilitato ad esprimere in via definitiva la volontà del potere cui appartiene. Inoltre, la prospettata questione di legittimità costituzionale delle disposizioni legislative "a monte" dell'atto impugnato non potrebbe essere veicolata da un conflitto di attribuzione, atteso il carattere residuale di questo strumento di legalità costituzionale, il cui impiego è inammissibile ove il soggetto interessato disponga di una sede giudiziale nella quale sollevare la medesima questione in via incidentale. ( Precedenti citati: sentenze n. 255 del 2019, n. 229 del 2018, n. 10 del 2017, n. 260 del 2016, n. 104 del 2016, n. 284 del 2005, n. 150 del 2003 e n. 334 del 2000; ordinanze n. 9 del 2020, n. 273 del 2017 e n. 343 del 2003 ).
+
+## Parametri
+
+- legge, 11/03/1953 n. 87, art. 37
