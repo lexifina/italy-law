@@ -12,7 +12,7 @@ L'avviso contiene la sommaria enunciazione del fatto per il quale si procede, de
 
 2-bis.
 
-Qualora non si sia proceduto ai sensi dell'articolo 268, commi 4, 5 e 6, l'avviso contiene inoltre l'avvertimento che l'indagato e il suo difensore hanno facolta' di esaminare per via telematica gli atti ((depositati)) relativi ad intercettazioni ed ascoltare le registrazioni ovvero di prendere cognizione dei flussi di comunicazioni informatiche o telematiche e che hanno la facolta' di estrarre copia delle registrazioni o dei flussi indicati come rilevanti dal pubblico ministero. Il difensore puo', entro il termine di venti giorni, depositare l'elenco delle ulteriori registrazioni ritenute rilevanti e di cui chiede copia. Sull'istanza provvede il pubblico ministero con decreto motivato. In caso di rigetto dell'istanza o di contestazioni sulle indicazioni relative alle registrazioni ritenute rilevanti il difensore puo' avanzare al giudice istanza affinche' si proceda nelle forme di cui all'articolo 268, comma 6. ((270))
+Qualora non si sia proceduto ai sensi dell'articolo 268, commi 4, 5 e 6, l'avviso contiene inoltre l'avvertimento che l'indagato e il suo difensore hanno facolta' di esaminare per via telematica gli atti depositati relativi ad intercettazioni ed ascoltare le registrazioni ovvero di prendere cognizione dei flussi di comunicazioni informatiche o telematiche e che hanno la facolta' di estrarre copia delle registrazioni o dei flussi indicati come rilevanti dal pubblico ministero. Il difensore puo', entro il termine di venti giorni, depositare l'elenco delle ulteriori registrazioni ritenute rilevanti e di cui chiede copia. Sull'istanza provvede il pubblico ministero con decreto motivato. In caso di rigetto dell'istanza o di contestazioni sulle indicazioni relative alle registrazioni ritenute rilevanti il difensore puo' avanzare al giudice istanza affinche' si proceda nelle forme di cui all'articolo 268, comma 6. (270) ((275))
 
 3.
 
@@ -33,3 +33,9 @@ Le dichiarazioni rilasciate dall'indagato, l'interrogatorio del medesimo ed i nu
 AGGIORNAMENTO (270)
 
 Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, ha disposto (con l'art. 2, comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 30 aprile 2020".
+
+--------------
+
+AGGIORNAMENTO (275)
+
+Il D.L. 30 dicembre 2019, n. 161, convertito con modificazioni dalla L. 28 febbraio 2020, n. 7, come modificato dal D.L. 30 aprile 2020, n. 28, ha disposto (con l'art. 2, comma 8) che "Le disposizioni del presente articolo si applicano ai procedimenti penali iscritti successivamente al 31 agosto 2020, ad eccezione delle disposizioni di cui al comma 6 che sono di immediata applicazione".
