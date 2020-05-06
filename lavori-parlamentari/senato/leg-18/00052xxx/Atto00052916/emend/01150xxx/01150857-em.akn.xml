@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1777/A/G3.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1777/A/G3.104"/>
+					<an:FRBRdate date="2020-05-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1777/A/G3.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@"/>
+					<an:FRBRdate date="2020-05-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@.akn"/>
+					<an:FRBRdate date="2020-05-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1777/A/G3.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1777" showAs="DDL 1777"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQQCU4NSOP1WTO1TTZTMBROGNLPPQF12M2V1GZYD3GZFB32RWZNO" href="http://dati.senato.it/29358" showAs="D'ARIENZO"/>
+				<an:TLCPerson id="IDQ11QPJX1IJJ5O2RA2WJ4OEZT4FNRZ3EZXTF0J2EZO5SMCGA4U4R" href="http://dati.senato.it/32632" showAs="FERRAZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1777</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQQCU4NSOP1WTO1TTZTMBROGNLPPQF12M2V1GZYD3GZFB32RWZNO" as="#tipoSenatore">D'ARIENZO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ11QPJX1IJJ5O2RA2WJ4OEZT4FNRZ3EZXTF0J2EZO5SMCGA4U4R" as="#tipoSenatore">FERRAZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante conversione in legge, con modificazioni, del decreto-legge 11 marzo 2020, n.16, recante disposizioni urgenti per l'organizzazione e lo svolgimento dei Giochi olimpici e paralimpici invernali Milano Cortina 2026 e delle finali ATP Torino 2021 - 2025, nonché in materia di divieto di pubblicizzazione parassitaria (A.S. 1777);</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 3 autorizza la costituzione di una società - partecipata da Ministero dell'economia e delle finanze, Ministero delle infrastrutture e dei trasporti, Regione Lombardia, Regione Veneto e Province autonome di Trento e di Bolzano - avente lo scopo di realizzare, quale centrale di committenza e stazione appaltante, le opere relative ai Giochi olimpici e paralimpici invernali Milano Cortina 2026 che verranno individuate con decreto da adottare ai sensi dell'articolo 1, comma 20, della legge di bilancio 2020,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di prevedere nel prossimo provvedimento utile, per le imprese affidatarie dei lavori di realizzazione degli interventi, ferme tutte le garanzie e le coperture assicurative previste dal decreto legislativo 18 aprile 2016, n. 50, ulteriori misure idonee a garantire l'ultimazione entro il termine fissato dal bando di gara e comunque non oltre il 31 dicembre 2025.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
