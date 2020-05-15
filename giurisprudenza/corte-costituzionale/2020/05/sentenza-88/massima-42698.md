@@ -1,0 +1,21 @@
+# Massima n. 42698
+
+- Pronuncia: Corte costituzionale, sentenza 88/2020 (ECLI:IT:COST:2020:88)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:88
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Norme della Regione Basilicata - Fanghi di depurazione delle acque reflue - Limiti all'impiego in agricoltura - Violazione della competenza esclusiva statale in materia di tutela dell'ambiente e dell'ecosistema - Illegittimità costituzionale.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione dell'art. 117, secondo comma, lett. s), Cost., l'art. 5 della legge reg. Basilicata n. 4 del 2019, che disciplina l'impiego in agricoltura dei fanghi di depurazione di acque reflue, richiamando - solo per la concentrazione di idrocarburi e fenoli - i limiti stabiliti nella Tabella I, all. 5 al titolo V, parte IV, cod. ambiente (d.lgs. n. 152 del 2006). La disposizione impugnata dal Governo viola la competenza statale esclusiva in materia di gestione dei rifiuti, perché pone valori limite più restrittivi di quelli stabiliti dall'art. 41 del d.l. n. 109 del 2018, come conv. Essa, nel richiamare i valori tabellari indicati, non appronta un più elevato livello di tutela ambientale, né rimane nel "nocciolo duro" della propria competenza in materia di agricoltura; al contrario, la competenza a stabilire i valori limite delle sostanze presenti nei fanghi di depurazione ai fini del loro utilizzo agronomico non può che spettare allo Stato, per insuperabili esigenze di uniformità sul territorio nazionale, che non discendono soltanto dalla necessità di applicare metodiche di valutazione e standard qualitativi che siano omogenei e comparabili su tutto il territorio nazionale, ma dal carattere integrato, anche a livello internazionale, del complessivo sistema di gestione e smaltimento dei rifiuti, al servizio di interessi di rilievo ultraregionale. Se è pur vero che l'utilizzo dei fanghi suddetti va calibrato per soddisfare i fabbisogni nutritivi delle colture agrarie, tuttavia la disposizione regionale impugnata concretizza una visione frammentaria del sistema integrato di loro gestione, poiché le restrizioni introdotte si traducono nell'incremento della quantità di rifiuti, destinato a ripercuotersi sul complessivo sistema di gestione, recupero e smaltimento.  (Precedenti citati: sentenze n. 250 del 2009, n. 116 del 2006, n. 282 del 2004 e n. 12 del 2004 ). La disciplina della gestione dei rifiuti deve essere ricondotta alla tutela dell'ambiente e dell'ecosistema, materia naturalmente trasversale, idonea perciò a incidere sulle competenze regionali. ( Precedenti citati: sentenze n. 289 del 2019, n. 142 del 2019, n. 215 del 2018, n. 151 del 2018, n. 150 del 2018, n. 101 del 2016, n. 180 del 2015, n. 149 del 2015, n. 58 del 2015, n. 67 del 2014, n. 285 del 2013, n. 54 del 2012, n. 244 del 2011, n. 33 del 2011, n. 314 del 2009, n. 61 del 2009 e n. 10 del 2009 ). In materia ambientale, il potere di fissare livelli di tutela uniforme sull'intero territorio nazionale è riservato allo Stato, ferma restando la competenza delle Regioni alla cura di interessi funzionalmente collegati con quelli propriamente ambientali. In tali casi, la collocazione della materia tutela dell'ambiente e dell'ecosistema tra quelle di esclusiva competenza statale non comporta che la disciplina statale vincoli in ogni caso l'autonomia delle Regioni, poiché il suo carattere trasversale, e quindi la sua potenzialità di estendersi anche nell'ambito delle competenze regionali, mantiene salva la facoltà delle Regioni di adottare norme di tutela più elevate. ( Precedenti citati: sentenze n. 129 del 2019, n. 7 del 2019, n. 215 del 2018, n. 151 del 2018, n. 150 del 2018, n. 85 del 2017, n. 77 del 2017, n. 180 del 2015, n. 149 del 2015, n. 58 del 2015, n. 67 del 2014, n. 278 del 2012, n. 314 del 2009, n. 249 del 2009, n. 225 del 2009, n. 164 del 2009, n. 437 del 2008, n. 104 del 2008, n. 62 del 2008, n. 378 del 2007, n. 246 del 2006, n. 536 del 2002 e n. 407 del 2002 ).
+
+## Norme
+
+- legge della Regione Basilicata, 13/03/2019 n. 4, art. 5
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
