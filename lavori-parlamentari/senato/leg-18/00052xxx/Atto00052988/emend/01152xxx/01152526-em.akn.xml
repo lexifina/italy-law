@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1811/A/4.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1811/A/4.6"/>
+					<an:FRBRdate date="2020-05-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1811/A/4.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@"/>
+					<an:FRBRdate date="2020-05-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@.akn"/>
+					<an:FRBRdate date="2020-05-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1811/A/4.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1811" showAs="DDL 1811"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWTMMJWFAMRRQHQP3KGEH4YTOEPP4TAZWYXE1PALJOBVPGV32QIMD" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+				<an:TLCPerson id="IDU0DVLELVETBNK4CCLEJMTIWKSLL5MTSJKNWN01NWSCUZM1C42EN" href="http://dati.senato.it/4584" showAs="VITALI"/>
+				<an:TLCPerson id="IDWH0CY4TB3E3RP5MH5CSGBJW1SGNHCGXYPB4F1ULU0M34K4AZ4X2J" href="http://dati.senato.it/3939" showAs="SCHIFANI"/>
+				<an:TLCPerson id="IDJNE5Y3HOMJNZMUSQ5BCNFDLFWEQSUQIBPK5MVGPTKC4NFRCR5IGK" href="http://dati.senato.it/4192" showAs="FAZZONE"/>
+				<an:TLCPerson id="ID3IRPXQC13O4BGNY3HZUM1T2C4GSJH5DVLWTXNTBB0DOOO4WLAPWJ" href="http://dati.senato.it/18715" showAs="QUAGLIARIELLO"/>
+				<an:TLCPerson id="IDKJMOLTMYCYEKJLRGQOOZ2KO4ACTJLL2BGZSTC2BHATIFFJAGNIFH" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDGMSMJ5UIXHTBGIFMZ0OGRKKN5DFXXQJOKYP0RBBDMNLWI5DVUJNK" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1811</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWTMMJWFAMRRQHQP3KGEH4YTOEPP4TAZWYXE1PALJOBVPGV32QIMD" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU0DVLELVETBNK4CCLEJMTIWKSLL5MTSJKNWN01NWSCUZM1C42EN" as="#tipoSenatore">VITALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWH0CY4TB3E3RP5MH5CSGBJW1SGNHCGXYPB4F1ULU0M34K4AZ4X2J" as="#tipoSenatore">SCHIFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJNE5Y3HOMJNZMUSQ5BCNFDLFWEQSUQIBPK5MVGPTKC4NFRCR5IGK" as="#tipoSenatore">FAZZONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3IRPXQC13O4BGNY3HZUM1T2C4GSJH5DVLWTXNTBB0DOOO4WLAPWJ" as="#tipoSenatore">QUAGLIARIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKJMOLTMYCYEKJLRGQOOZ2KO4ACTJLL2BGZSTC2BHATIFFJAGNIFH" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGMSMJ5UIXHTBGIFMZ0OGRKKN5DFXXQJOKYP0RBBDMNLWI5DVUJNK" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 9 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «9-
+					<an:i>bis</an:i>
+					. Per gli spostamenti individuali consentiti non vi è l'onere di dimostrare la sussistenza delle situazioni che consentono la possibilità di spostamento attraverso la dichiarazione sostitutiva di certificazione, ai sensi degli articoli 46 e 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
