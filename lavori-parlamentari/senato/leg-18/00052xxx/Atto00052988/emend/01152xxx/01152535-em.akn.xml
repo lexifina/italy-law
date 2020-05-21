@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1811/A/5.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1811/A/5.4"/>
+					<an:FRBRdate date="2020-05-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1811/A/5.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@"/>
+					<an:FRBRdate date="2020-05-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@.akn"/>
+					<an:FRBRdate date="2020-05-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1811/A/5.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1811" showAs="DDL 1811"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXHXHEIYEM4R0MWXBBBBJ2APVTJTGYG2TV5DDSDMRPUBU5GGKKLXP" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+				<an:TLCPerson id="IDAIBYHPLWRRZYBPKTLUR20GD5KIF5KBOS2XLFBVDPBK13ZLV1Y2KF" href="http://dati.senato.it/4584" showAs="VITALI"/>
+				<an:TLCPerson id="IDD34VRS3VMCTAIKMCQ5OCZYCCOG0PKIDX2FKIKAOSLKYPDKQ0K4SE" href="http://dati.senato.it/3939" showAs="SCHIFANI"/>
+				<an:TLCPerson id="IDPJ5OSESPI5CMJUD1PFPI23CHMN4S5I40A3COVVJWH0ASVA125H0L" href="http://dati.senato.it/4192" showAs="FAZZONE"/>
+				<an:TLCPerson id="IDJXCRMBBPZ5HIHAEPV324QUW3BISP1DFVIYC2JALIIEA030ZNHJJF" href="http://dati.senato.it/18715" showAs="QUAGLIARIELLO"/>
+				<an:TLCPerson id="IDUNKHKHBKWG3MNDZF1LNKC52G2WKGR3SDRAG0AGRXBPJSZC4EUJP" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDNRFWJLCF5A0ESXCXQKXJFUW0GULJJDUP1ONGFF0MJWBVMMCXGLI" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1811</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXHXHEIYEM4R0MWXBBBBJ2APVTJTGYG2TV5DDSDMRPUBU5GGKKLXP" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIBYHPLWRRZYBPKTLUR20GD5KIF5KBOS2XLFBVDPBK13ZLV1Y2KF" as="#tipoSenatore">VITALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD34VRS3VMCTAIKMCQ5OCZYCCOG0PKIDX2FKIKAOSLKYPDKQ0K4SE" as="#tipoSenatore">SCHIFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPJ5OSESPI5CMJUD1PFPI23CHMN4S5I40A3COVVJWH0ASVA125H0L" as="#tipoSenatore">FAZZONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJXCRMBBPZ5HIHAEPV324QUW3BISP1DFVIYC2JALIIEA030ZNHJJF" as="#tipoSenatore">QUAGLIARIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUNKHKHBKWG3MNDZF1LNKC52G2WKGR3SDRAG0AGRXBPJSZC4EUJP" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNRFWJLCF5A0ESXCXQKXJFUW0GULJJDUP1ONGFF0MJWBVMMCXGLI" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Le spese certificate effettuate nell'anno 2020 per l'acquisto di mascherine chirurgiche sono detraibili ed equiparate alle spese di cui all'articolo 15 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>ter</an:i>
+					. All'onere derivante dal comma 1-
+					<an:i>bis</an:i>
+					 si provvede mediante riduzione nei limiti di 20 milioni di euro per l'anno 2020 dello stanziamento del fondo speciale di parte corrente iscritto ai fini del bilancio triennale 2020-2022, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
