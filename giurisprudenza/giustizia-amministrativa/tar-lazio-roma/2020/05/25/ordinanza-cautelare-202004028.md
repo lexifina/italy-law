@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 4028/2020
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA TER
+- Numero provvedimento: 202004028
+- Numero di ricorso (NRG): 202002256
+- Data di pubblicazione: 2020-05-25
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-03-16
+- Oggetto del ricorso: ANNULLAMENTO DEL PROVVEDIMENTO DEL G.S.E. S.P.A. PROT. GSE/P20200005836 DELL’11.2.2020, RECANTE IN OGGETTO “PROCEDIMENTO DI VERIFICA, AI SENSI DELL’ART. 42 DEL D.LGS. 28/2011 E DEL D.M. 31 GENNAIO 2014, RELATIVO ALL’IMPIANTO FOTOVOLTAICO N. 810462, DI POTENZA PARI A 5883,60 KW, SITO NEL COMUNE DI CORIGLIANO CALABRO (CS).
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
