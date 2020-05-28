@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/1.0.12"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@.akn"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1774" showAs="DDL 1774"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4XEJWWMO50LTPTOEL2ROD1QIJHR50OD4S1E5CUPSGZQLVMXIDACL" href="http://dati.senato.it/26539" showAs="GALLONE"/>
+				<an:TLCPerson id="IDR4QUHNM3TSVYEBL45MGX2F4VQICDTOOWIPW333MVYRDVS2ZCOIVJ" href="http://dati.senato.it/32597" showAs="CANGINI"/>
+				<an:TLCPerson id="IDN41VPQMEW2GDMBQKYDMGL4PBCMCXYQACWNZQEGHH3O3XP4OLNWVP" href="http://dati.senato.it/18740" showAs="MOLES"/>
+				<an:TLCPerson id="IDJNKNEW2EGYLRBWIXFFDUYZTRFKJYBMR2E0TD41DFFPURJU2LABKK" href="http://dati.senato.it/4741" showAs="LONARDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1774</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4XEJWWMO50LTPTOEL2ROD1QIJHR50OD4S1E5CUPSGZQLVMXIDACL" as="#tipoSenatore">GALLONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR4QUHNM3TSVYEBL45MGX2F4VQICDTOOWIPW333MVYRDVS2ZCOIVJ" as="#tipoSenatore">CANGINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN41VPQMEW2GDMBQKYDMGL4PBCMCXYQACWNZQEGHH3O3XP4OLNWVP" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJNKNEW2EGYLRBWIXFFDUYZTRFKJYBMR2E0TD41DFFPURJU2LABKK" as="#tipoSenatore">LONARDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis</an:i>
+					.
+				</an:p>
+				<an:p>        1. I soggetti pubblici e privati, tra cui le scuole paritarie comunali o private, che svolgono in via continuativa i servizi educativi e scolastici di cui all'articolo 2 del decreto legislativo 13 aprile 2017, n. 65 beneficiano, a copertura del mancato versamento delle rette da parte dei fruitori determinato dalla sospensione del servizio, di un contributo forfettario mensile pari a euro 120 per ogni bambino con età da zero a tre anni e pari a euro 45 per ogni bambino di età superiore. Le rette eventualmente incassate sono restituite ai fruitori, limitatamente alla quota relativa al periodo di sospensione del servizio.</an:p>
+				<an:p>        2. Agli oneri derivanti dal presente articolo, valutato in 150 milioni di euro per il 2020, si provvede mediante corrispondente riduzione della dotazione finanziaria del Fondo di cui all'articolo 1, comma 255, della legge 30 dicembre 2018, n. 145. Con appositi provvedimenti normativi si provvede a rideterminare i limiti di spesa, gli importi dei trattamenti ed i requisiti di accesso alla misura del reddito di cittadinanza, al fine garantire il limite di spesa come modificato dal presente comma.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
