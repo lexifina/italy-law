@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/G2.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/G2.101"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/G2.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@.akn"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1774/A/G2.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1774" showAs="DDL 1774"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1IOJESWZG34DOC333AUZ4W0HDNCDSCUF04BU32H50HK5S0WPEQUE" href="http://dati.senato.it/29443" showAs="IORI"/>
+				<an:TLCPerson id="IDIZ0DTM0OYSCR0GXQMNDO44FMOHE23BDP3SUZ2CYBFMEQCBFAXGN" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+				<an:TLCPerson id="IDSYWVJ5HIPTJIL4T14EES1XEC4C5VTG5B2LK30DFOQEWKHPQS2E5D" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+				<an:TLCPerson id="ID3OZYEIF31HKXGZ5FHMFMUPS3KPWRNFTUDUXDTGIMSJETBRLM3XFJ" href="http://dati.senato.it/32669" showAs="Assuntela MESSINA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1774</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1IOJESWZG34DOC333AUZ4W0HDNCDSCUF04BU32H50HK5S0WPEQUE" as="#tipoSenatore">IORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIZ0DTM0OYSCR0GXQMNDO44FMOHE23BDP3SUZ2CYBFMEQCBFAXGN" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSYWVJ5HIPTJIL4T14EES1XEC4C5VTG5B2LK30DFOQEWKHPQS2E5D" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3OZYEIF31HKXGZ5FHMFMUPS3KPWRNFTUDUXDTGIMSJETBRLM3XFJ" as="#tipoSenatore">Assuntela MESSINA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge di conversione del decreto-legge 8 aprile 2020, n. 22, recante misure urgenti sulla regolare conclusione e l'ordinato avvio dell'anno scolastico e sullo svolgimento degli esami di Stato (A.S. 1774),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il D.P.C.M. 4 marzo 2020 e i vari D.P.C.M. che si sono succeduti hanno previsto l'attivazione, da parte dei dirigenti scolastici, per tutta la durata della sospensione delle attività didattiche nelle scuole, di modalità di didattica a distanza avuto anche riguardo alle specifiche esigenze degli studenti con disabilità;</an:p>
+				<an:p>            l'articolo 120 del c.d. decreto-legge "cura Italia" ha incrementato, di 85 milioni di euro per l'anno 2020, le risorse destinate all'innovazione digitale e la didattica laboratoriale finalizzate all'acquisto di piattaforme e strumenti digitali da parte delle scuole statali, alla messa a disposizione di dispositivi digitali individuali in comodato d'uso per gli studenti meno abbienti e alla formazione del personale;</an:p>
+				<an:p>
+					            altri 80 milioni di euro, di risorse PON, sono destinati all'acquisto di 
+					<an:i>personal computer, tablet</an:i>
+					 e dispostivi per la connessione 
+					<an:i>Internet</an:i>
+					;
+				</an:p>
+				<an:p>
+					            nonostante queste misure, ad oggi molti studenti non possono partecipare alla didattica a distanza per l'assenza nella propria abitazione della connessione 
+					<an:i>Internet</an:i>
+					 il cui costo mensile non tutte le famiglie sono in grado di sostenere;
+				</an:p>
+				<an:p>            nella situazione di emergenza epidemiologica che il Paese sta vivendo la didattica a distanza è una necessità, non è una scelta;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad adottare le iniziative necessarie a dare piena attuazione alla didattica a distanza al fine di garantire a tutti studenti il medesimo diritto di accesso allo studio.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
