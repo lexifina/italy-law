@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/1.0.15"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@.akn"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1774/A/1.0.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1774" showAs="DDL 1774"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEZOEHV20PLCXF1VKJ4BUSSEHFFTKXAN3A2BHSIHA5RWMQOCXE1L" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDHD1HL3G3HH25DRXATNK352HVQOWZWRYCPYE442OPY21CITRRD4Y" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDGLYDM0DPD5KCHTI5Y5HPYQCCRFB2OKXFYBKELNN4L3ANIWGGRYLD" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="ID2R41HQUAX3GONDHASLDWQOAMVBCABYL4JKP3RFGU3SPEWXP5V3AN" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1774</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEZOEHV20PLCXF1VKJ4BUSSEHFFTKXAN3A2BHSIHA5RWMQOCXE1L" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHD1HL3G3HH25DRXATNK352HVQOWZWRYCPYE442OPY21CITRRD4Y" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGLYDM0DPD5KCHTI5Y5HPYQCCRFB2OKXFYBKELNN4L3ANIWGGRYLD" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2R41HQUAX3GONDHASLDWQOAMVBCABYL4JKP3RFGU3SPEWXP5V3AN" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					        «Art. 1-
+					<an:i>bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i> (Disposizioni in materia di corsi per adulti di cui all'articolo 6 della legge della Provincia autonoma di Bolzano del 24 settembre 2010, n. 11)</an:i>
+				</an:p>
+				<an:p>        1. In deroga a quanto stabilito dall'articolo 1, comma 7, gli studenti frequentanti i corsi per adulti della scuola secondaria di secondo grado di cui all'articolo 6 della legge provinciale 24 settembre 2010, n. 11, che nell'anno scolastico 2019/2020 intendono sostenere l'esame di Stato conclusivo del secondo ciclo di istruzione, sostengono l'esame preliminare di cui all'articolo 14, comma 2, del decreto legislativo 13 aprile 2017, n. 62, con modalità, anche telematiche, definite con provvedimento dell'Intendenza scolastica. L'esame preliminare è sostenuto nel mese di giugno e, comunque, non oltre il termine delle lezioni, davanti al consiglio della classe dell'istituto collegata alla commissione alla quale il candidato è stato assegnato. In caso di esito positivo dell'esame preliminare, tali studenti sostengono le prove dell'esame di Stato conclusivo del secondo ciclo di istruzione dinnanzi alla commissione d'esame loro assegnata secondo le modalità definite dalle ordinanze di cui all'articolo 1, comma 1.</an:p>
+				<an:p>        2. Gli studenti frequentanti i corsi per adulti della scuola secondaria di secondo grado di cui all'articolo 6 della legge provinciale 24 settembre 2010, n. 11, limitatamente all'anno scolastico 2019/2020, sostengono gli esami di idoneità previsti al termine di ogni classe con modalità, anche telematiche, definite con provvedimento dell'Intendenza scolastica.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
