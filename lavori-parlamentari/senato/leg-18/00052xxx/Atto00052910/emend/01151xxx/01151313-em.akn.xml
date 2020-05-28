@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/4.0.16"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.0.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@.akn"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1774/A/4.0.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1774" showAs="DDL 1774"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDN41VPQMEW2GDMBQKYDMGL4PBCMCXYQACWNZQEGHH3O3XP4OLNWVP" href="http://dati.senato.it/4741" showAs="LONARDO"/>
+				<an:TLCPerson id="ID4XEJWWMO50LTPTOEL2ROD1QIJHR50OD4S1E5CUPSGZQLVMXIDACL" href="http://dati.senato.it/32597" showAs="CANGINI"/>
+				<an:TLCPerson id="ID1I2FU0XC2CLAPJJBI2PXE3HQTDFEU3IFPATHULD23A1WF34R25I" href="http://dati.senato.it/18740" showAs="MOLES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1774</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.0.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN41VPQMEW2GDMBQKYDMGL4PBCMCXYQACWNZQEGHH3O3XP4OLNWVP" as="#tipoSenatore">LONARDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4XEJWWMO50LTPTOEL2ROD1QIJHR50OD4S1E5CUPSGZQLVMXIDACL" as="#tipoSenatore">CANGINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1I2FU0XC2CLAPJJBI2PXE3HQTDFEU3IFPATHULD23A1WF34R25I" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 4-
+					<an:i>bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifica all'articolo 4, comma 1 del decreto-legge 12 luglio 2018, n. 87, convertito in legge 9 agosto 2018, n. 96)</an:i>
+				</an:p>
+				<an:p>        1. All' articolo 4, del decreto-legge 12 luglio 2018, n. 87, convertito in legge 9 agosto 2018, n. 96, sono aggiunti, in fine, i seguenti commi:</an:p>
+				<an:p>
+					             "1-
+					<an:i>duodecies</an:i>
+					. E' bandito un nuovo concorso straordinario per titoli e servizi riservato ai docenti che siano forniti del titolo di abilitazione all'insegnamento conseguito presso i corsi di laurea in scienze della formazione primaria o di analogo titolo conseguito all'estero e riconosciuto in Italia ai sensi della normativa vigente, oppure diploma magistrale con valore di abilitazione o analogo titolo conseguito all'estero e riconosciuto in Italia ai sensi della normativa vigente, conseguiti, comunque, entro l'anno scolastico 2001/2002, purché i docenti in possesso dei predetti titoli abbiano svolto, a decorrere dall'anno scolastico 2007/2008, almeno tre annualità di servizio, anche non continuativo, su posto comune o di sostegno, presso le istituzioni scolastiche statali, valutabili come tali ai sensi dell'art. 11, comma 14, della legge 3 maggio 1999, n. 124 oppure abbiano prestato servizio per almeno tre anni scolastici, a qualunque titolo, nelle sezioni sperimentali previste dall'art. 1, comma 630 della legge 27 dicembre 2006, n. 296, recante attivate presso istituzioni scolastiche statali. I suddetti sono inclusi in una graduatoria per titoli e servizio. Alla suddetta graduatoria sono attribuiti i posti residui allo scorrimento delle graduatorie relative al concorso previsto alla lettera b) del comma 1-
+					<an:i>quater</an:i>
+					.
+				</an:p>
+				<an:p>
+					             1-
+					<an:i>terdecies</an:i>
+					. Ai soggetti che hanno partecipato al concorso straordinario bandito ai sensi del comma 1 del presente articolo nonché a coloro che hanno titolo alla partecipazione al concorso di cui al precedente periodo spetta la precedenza assoluta nel conferimento delle supplenze dalle graduatorie di istituto di II^ fascia."»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
