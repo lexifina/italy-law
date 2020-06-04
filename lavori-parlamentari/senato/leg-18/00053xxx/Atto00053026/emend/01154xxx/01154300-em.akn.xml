@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/7.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/7.4"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/7.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@.akn"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1829/A/7.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1829" showAs="DDL 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOVCVNL321AZJFL2WA2BGIH4ZQPFDRSRIYX0BSNJDM4UAYB54YP3G" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+				<an:TLCPerson id="ID043AAIT5OCLAPWBBSRBGYEXI3DTEMOWDO5JVHZPM0A2ZCY133NBE" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOVCVNL321AZJFL2WA2BGIH4ZQPFDRSRIYX0BSNJDM4UAYB54YP3G" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID043AAIT5OCLAPWBBSRBGYEXI3DTEMOWDO5JVHZPM0A2ZCY133NBE" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2</an:i>
+					-bis
+					<an:i>, inserire i seguenti commi:</an:i>
+				</an:p>
+				<an:p>        «3. I soggetti che nell'esercizio in corso al 31 marzo 2020 hanno conseguito una riduzione dei ricavi caratteristici, di cui al primo comma, lettera A), n. 1 dell'articolo 2425 del codice civile, superiore al 20 per cento, rispetto alla media della corrispondente voce dei tre bilanci di esercizio precedenti, possono iscrivere la perdita dell'esercizio in corso al 31 marzo 2020, nel primo bilancio successivo, in un apposito conto dell'attivo, quale onere pluriennale da ammortizzare. Per le società di più recente costituzione, il calcolo della media è fatto avendo riguardo agli esercizi precedenti effettivi, ragguagliando ad anno il dato dei ricavi caratteristici con riguardo agli esercizi di durata inferiore o superiore a dodici mesi. Se l'esercizio in corso al 31 marzo 2020 è il primo, la condizione di cui al primo periodo si considera sempre realizzata.</an:p>
+				<an:p>        4. I soggetti che si avvalgono della facoltà di cui al comma 3:</an:p>
+				<an:p>        a) devono procedere all'ammortamento della perdita iscritta tra gli oneri pluriennali dell'attivo in venti rate annuali di pari importo;</an:p>
+				<an:p>            b) non possono dare luogo a distribuzioni di utili, se non in misura tale per cui, dopo la delibera di distribuzione, residuino riserve disponibili nel patrimonio netto della società in misura superiore all'ammontare non ancora ammortizzato che residua iscritto nell'attivo ai sensi del comma 3;</an:p>
+				<an:p>            c) fino a quando residuano nell'attivo perdite iscritte ai sensi del comma 3, devono evidenziare nella nota integrativa del bilancio di esercizio quale sarebbe l'ammontare del patrimonio netto, ove detti ammontari fossero posti a diretto decremento del medesimo.</an:p>
+				<an:p>        5. La decisione di avvalersi della facoltà di cui al comma 3 presuppone il consenso del collegio sindacale, ove presente, ed è di competenza dell'assemblea dei soci che delibera l'approvazione del bilancio di esercizio in corso al 31 marzo 2020.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
