@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/18.27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/18.27"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/18.27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.27"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@.akn"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1829/A/18.27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1829" showAs="DDL 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQLFR0311OZR3GIJB3RFRKDCCMB5DVOYJN2IBZUFAAKFATM2JCZ2K" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="IDOKDMROV5BIJXDUX5CKF0GFSWXHOQ3O421IGXYEPHUURNFM0HUJTF" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDTP3ZI51VYVN2KCRTXKTHAQGO1B2JH5FCLYMDXNL5WWAOO2XLK0DK" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQLFR0311OZR3GIJB3RFRKDCCMB5DVOYJN2IBZUFAAKFATM2JCZ2K" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOKDMROV5BIJXDUX5CKF0GFSWXHOQ3O421IGXYEPHUURNFM0HUJTF" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTP3ZI51VYVN2KCRTXKTHAQGO1B2JH5FCLYMDXNL5WWAOO2XLK0DK" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Aggiungere in fine i seguenti commi:</an:i>
+				</an:p>
+				<an:p>
+					        «9
+					<an:i>-bis</an:i>
+					. Relativamente ai piani di rateizzazione dei carichi previsti dalla normativa vigente, e relativamente alle procedure agevolate di cui all'articolo 3, commi 2, lettera b), e 23, e all'articolo 5, comma 1, lettera d), del decreto-legge 23 ottobre 2018, n. 119, convertito, con modificazioni, dalla legge 17 dicembre 2018, n. 136, nonché di cui all'articolo 16
+					<an:i>-bis</an:i>
+					, comma 1, lettera b), n. 2, del decreto-legge 30 aprile 2019, n. 34, convertito, con modificazioni, dalla legge 28 giugno 2019, n. 58, e di cui all'articolo 1, comma 190, della legge 30 dicembre 2018, n. 145, e di cui all'articolo 1, comma 796 della legge 27 dicembre 2019, n. 160, i termini di versamento delle rate che scadono durante il periodo di vigenza dello stato di emergenza deliberato dal Consiglio dei ministri il 31 gennaio 2020 sono differiti alla data di scadenza dell'ultima rata dei relativi piani. Ai maggiori oneri derivanti dal precedente periodo, pari 300 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per lo sviluppo e la coesione di cui all'articolo 4, comma1, del decreto legislativo 31 maggio 2011, n. 88.
+				</an:p>
+				<an:p>
+					        9
+					<an:i>-ter</an:i>
+					. 2. Il comma 3, dell'articolo 68, decreto legge 17 marzo 2020, n. 18, convertito, con modificazioni dalla legge 24 aprile 2020, n. 27 è abrogato.»
+				</an:p>
+				<an:p>        Conseguentemente, sostituire la rubrica con la seguente: "Sospensione di versamenti tributari e contributivi, nonché disposizioni in materia di accertamento e riscossione."</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
