@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/1.0.3"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@.akn"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1786/A/1.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1786" showAs="DDL 1786"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBFNVETA1EVNSIKKOIRHEB450EFAVLNTLNOXV4XBGLJUED2FJUIAL" href="http://dati.senato.it/32690" showAs="PILLON"/>
+				<an:TLCPerson id="IDJNYO0FTEKNQGC2NQ1SWBFSXZNPSCU3JONBC2C40T4PZTTCQC3JI" href="http://dati.senato.it/32683" showAs="Emanuele PELLEGRINI"/>
+				<an:TLCPerson id="IDKY0UFXWGAVUTEIM1GU42BM2ZHP35DRWM1CI2UHLWEM5F2PRWBWWI" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDWVFYZOL23L0BLKIXQSL3Y4IHDLJZSTT4HKLO5ZNJOY2JIARYGV2K" href="http://dati.senato.it/32728" showAs="URRARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1786</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBFNVETA1EVNSIKKOIRHEB450EFAVLNTLNOXV4XBGLJUED2FJUIAL" as="#tipoSenatore">PILLON</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJNYO0FTEKNQGC2NQ1SWBFSXZNPSCU3JONBC2C40T4PZTTCQC3JI" as="#tipoSenatore">Emanuele PELLEGRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKY0UFXWGAVUTEIM1GU42BM2ZHP35DRWM1CI2UHLWEM5F2PRWBWWI" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWVFYZOL23L0BLKIXQSL3Y4IHDLJZSTT4HKLO5ZNJOY2JIARYGV2K" as="#tipoSenatore">URRARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 1
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					(
+					<an:i>Disposizioni di contrasto alla pedopornografia</an:i>
+					)
+				</an:p>
+				<an:p>
+					            1. All'articolo 2 del decreto-legge 30 dicembre 2019, n. 161, convertito, con modificazioni, dalla legge 28 febbraio 2020 n. 7, al comma 1, lettera d), numero 2), le parole: "e per i delitti dei pubblici ufficiali o degli incaricati di pubblico servizio contro la pubblica amministrazione per i quali è prevista la pena della reclusione non inferiore nel massimo a cinque anni, determinata a norma dell'articolo 4" sono sostituite con le seguenti: ", per i delitti dei pubblici ufficiali o degli incaricati di pubblico servizio contro la pubblica amministrazione per i quali è prevista la pena della reclusione non inferiore nel massimo a cinque anni, determinata a norma dell'articolo 4, nonché per i delitti di cui all'articolo 600
+					<an:i>-quater</an:i>
+					 del codice penale".».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
