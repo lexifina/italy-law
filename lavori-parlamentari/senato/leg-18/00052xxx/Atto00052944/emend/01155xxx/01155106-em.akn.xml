@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.300/207"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.300/207"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@.akn"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1786/A/2.300/207/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1786" showAs="DDL 1786"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVDY2HUVMA5N1HW3REH2CNUKVBMLALBRRCELR1SCTXFIY3EEQR25E" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+				<an:TLCPerson id="IDZ51AD2YMJ5OXK0YCMCBSQA5GHHTAEG0DGSJMHPGSB5N3OWIH2SQG" href="http://dati.senato.it/32671" showAs="MODENA"/>
+				<an:TLCPerson id="IDPV2KRZLM4I1VMVKBKTYBYALKQJWL4YABBMM0R4JXET1IJ0VJUVUB" href="http://dati.senato.it/32611" showAs="DAL MAS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1786</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.300/207</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVDY2HUVMA5N1HW3REH2CNUKVBMLALBRRCELR1SCTXFIY3EEQR25E" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ51AD2YMJ5OXK0YCMCBSQA5GHHTAEG0DGSJMHPGSB5N3OWIH2SQG" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPV2KRZLM4I1VMVKBKTYBYALKQJWL4YABBMM0R4JXET1IJ0VJUVUB" as="#tipoSenatore">DAL MAS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 2.300, al capoverso</an:i>
+					 «Art.2
+					<an:i>-ter</an:i>
+					» 
+					<an:i>al comma 1, dopo il primo periodo, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>        «Il giudice prima di provvedere avvisa il difensore dell'imputato della richiesta del Pubblico Ministero e degli elementi acquisiti dall'autorità sanitaria regionale e del Dipartimento dell'amministrazione penitenziaria con possibilità di visionarli e di estrarne copia e di depositare entro tre giorni proprie deduzioni e osservazioni. Le informazioni dell'autorità sanitaria regionale e del Dipartimento dell'amministrazione penitenziaria sono rese nel termine di quattro giorni. Salvo che ricorrano esigenze di eccezionale urgenza, decorsi detti termini, il giudice procede comunque anche in assenza delle indicate informazioni.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
