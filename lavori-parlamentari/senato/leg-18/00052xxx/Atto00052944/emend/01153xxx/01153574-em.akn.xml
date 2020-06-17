@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.0.6"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@.akn"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1786/A/2.0.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1786" showAs="DDL 1786"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMI1TQ34ENCDWIXMDFN3U0320QKYO1IQBE55MYLNOSNHJZHQS2PJG" href="http://dati.senato.it/29527" showAs="PESCO"/>
+				<an:TLCPerson id="IDZEUWN2OFE5VEOQZ15BPD132NEG04IEIAXG2I1LJN3QK54FAYDDBN" href="http://dati.senato.it/32612" showAs="D'ANGELO"/>
+				<an:TLCPerson id="IDHIDLNKCY5K2OL00VK43QO3ACUI0TWVZ3RNLGSFL5B1PCT5K0KKJP" href="http://dati.senato.it/32654" showAs="LOMUTI"/>
+				<an:TLCPerson id="IDPHNMWMGR3HCTDFECSI5W5XCZIHDX22QGYRYMH0HUXTXRGMOVPBO" href="http://dati.senato.it/32626" showAs="EVANGELISTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1786</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMI1TQ34ENCDWIXMDFN3U0320QKYO1IQBE55MYLNOSNHJZHQS2PJG" as="#tipoSenatore">PESCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZEUWN2OFE5VEOQZ15BPD132NEG04IEIAXG2I1LJN3QK54FAYDDBN" as="#tipoSenatore">D'ANGELO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHIDLNKCY5K2OL00VK43QO3ACUI0TWVZ3RNLGSFL5B1PCT5K0KKJP" as="#tipoSenatore">LOMUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPHNMWMGR3HCTDFECSI5W5XCZIHDX22QGYRYMH0HUXTXRGMOVPBO" as="#tipoSenatore">EVANGELISTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente</an:i>
+					:
+				</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifiche dell'art. 316</an:i>
+					-bis 
+					<an:i>del codice penale)</an:i>
+				</an:p>
+				<an:p>
+					            1. All'art. 316-
+					<an:i>bis</an:i>
+					 del codice penale sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>            1) le parole: "o dalle Comunità europee" sono sostituite dalle seguenti: ", dalle Comunità europee o da soggetti da essi controllati";</an:p>
+				<an:p>            2) le parole: "sovvenzioni o finanziamenti destinati a favorire iniziative dirette alla realizzazione di opere od allo svolgimento di attività di pubblico interesse, non li destina alle predette finalità" sono sostituite dalle seguenti: "sovvenzioni o finanziamenti con una specifica destinazione, oppure una garanzia per la loro erogazione, non li destina alle finalità previste".».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
