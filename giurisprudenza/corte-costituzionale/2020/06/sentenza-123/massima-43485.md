@@ -1,0 +1,26 @@
+# Massima n. 43485
+
+- Pronuncia: Corte costituzionale, sentenza 123/2020 (ECLI:IT:COST:2020:123)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:123
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Impiego pubblico - Licenziamento disciplinare - Falsa attestazione della presenza in servizio mediante alterazione dei sistemi di rilevamento o con altre modalità fraudolente - Applicazione "comunque" della sanzione disciplinare del licenziamento - Denunciata irragionevolezza, violazione del diritto al lavoro, del diritto di difesa, nonché del principio, affermato in via convenzionale, alla tutela effettiva in caso di licenziamento - Possibile interpretazione costituzionalmente orientata in base al "diritto vivente" - Inammissibilità delle questioni.
+
+## Testo
+
+Sono dichiarate inammissibili le questioni di legittimità costituzionale - sollevate in riferimento agli artt. 3, primo comma, 4, primo comma, 24, primo comma, 35, primo comma, e 117, primo comma, Cost., quest'ultimo in relazione all'art. 24 della Carta sociale europea, dal Tribunale di Vibo Valentia, in funzione di giudice del lavoro - dell'art. 55- quater , comma 1, lett.  a ), del d.lgs. n. 165 del 2001, inserito dall'art. 69, comma 1, del d.lgs. n. 150 del 2009, nella parte in cui stabilisce che, in caso di falsa attestazione della presenza in servizio del pubblico dipendente, mediante alterazione dei sistemi di rilevamento o con altre modalità fraudolente, si applichi "comunque" la sanzione disciplinare del licenziamento. Il rimettente omette di confrontarsi con il "diritto vivente" secondo cui è possibile e doverosa un'interpretazione costituzionalmente orientata della norma censurata, in base alla quale - ferma la spettanza alle amministrazioni datoriali del potere di recesso nelle fattispecie disciplinari tipizzate dal legislatore, e fermo che questo potere spetta all'amministrazione "comunque", anche laddove non sia previsto o sia limitato dalla contrattazione collettiva - è lasciato tuttavia al giudice dell'impugnazione il potere di sindacare la concreta proporzionalità del licenziamento, verificandone - sebbene con inversione dell'onere della prova, essendo a carico del dipendente, autore materiale del fatto tipico, l'onere di provare la sussistenza di elementi fattuali di carattere attenuante o esimente, idonei a superare la presunzione legale di gravità dell'illecito - la qualità di "giusta sanzione", alla luce dell'art. 2106 cod. civ. Secondo la giurisprudenza costituzionale, il principio di eguaglianza e ragionevolezza di cui all'art. 3 Cost. esige che la sanzione disciplinare, soprattutto quella massima di carattere espulsivo, sia sempre suscettibile di un giudizio di proporzionalità in concreto, sicché la relativa applicazione non può essere di regola automatica, ma deve essere mediata dalle valutazioni di congruità cui è deputato il procedimento disciplinare e, in secondo luogo, il sindacato giurisdizionale; ciò a prescindere dal  nomen iuris  che il legislatore variamente adopera per identificare una sanzione espulsiva di carattere automatico. L'illegittimità di principio degli automatismi espulsivi non esclude tuttavia che il legislatore possa configurare eccezioni relative a casi soggettivamente e funzionalmente peculiari, nei quali il diritto del singolo alla gradualità sanzionatoria receda di fronte alla necessità di tutelare interessi pubblici essenziali. ( Precedenti citati: sentenze n. 133 del 2019, n. 197 del 2018, n. 268 del 2016, n. 112 del 2014, n. 2 del 1999, n. 363 del 1996, n. 197 del 1993, n. 158 del 1990, n. 40 del 1990, n. 971 del 1988 e n. 270 del 1986 ). Secondo la giurisprudenza costituzionale, l'effettiva sostenibilità dell'interpretazione adeguatrice che il giudice  a quo  abbia consapevolmente escluso sulla base del tenore letterale della disposizione censurata attiene al merito della questione di legittimità costituzionale e non alla sua ammissibilità. Tuttavia, per essere realmente consapevole, tale esclusione deve fondarsi su un esame accurato ed esaustivo delle alternative poste a disposizione dal dibattito giurisprudenziale, pena l'inammissibilità della questione di legittimità costituzionale. È inoltre improprio un utilizzo dell'incidente di costituzionalità finalizzato ad ottenere lo stesso risultato normativo prodotto dall'esegesi giurisprudenziale corrente, sebbene da questa il giudice  a quo  possa dissentire sulla base di un elemento letterale della disposizione, trattandosi pur sempre di un risultato normativo conseguibile, e già conseguito, in via interpretativa. ( Precedenti citati: sentenze n. 11 del 2020, n. 189 del 2019, n. 12 del 2019, n. 135 del 2018, n. 15 del 2018, n. 253 del 2017, n. 194 del 2017, n. 83 del 2017, n. 42 del 2017, n. 221 del 2015 e n. 21 del 2013; ordinanza n. 97 del 2017 ).
+
+## Norme
+
+- decreto legislativo, 30/03/2001 n. 165, art. 55 quater, comma 1 lett. a)
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 4, comma 1
+- Costituzione, art. 24, comma 1
+- Costituzione, art. 35, comma 1
+- Costituzione, art. 117, comma 1
+- Carta sociale europea, art. 24
