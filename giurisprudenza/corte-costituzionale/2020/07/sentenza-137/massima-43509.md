@@ -1,0 +1,23 @@
+# Massima n. 43509
+
+- Pronuncia: Corte costituzionale, sentenza 137/2020 (ECLI:IT:COST:2020:137)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:137
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Arresto facoltativo in flagranza per uno dei delitti di cui all'art. 381, comma 2, del codice di procedura penale - Adozione di misura cautelare personale in sede di convalida - Requisiti - Possibilità di disporre l'applicazione della misura coercitiva anche in deroga agli ordinari limiti edittali di pena - Denunciata disparità di trattamento, nonché violazione dei principi di proporzionalità e di inviolabilità della libertà personale - Insussistenza - Non fondatezza delle questioni - Auspicato intervento di coordinamento del legislatore.
+
+## Testo
+
+Sono dichiarate non fondate le questioni di legittimità costituzionale - sollevate dal Tribunale di Firenze in riferimento agli artt. 3 e 13 Cost. - dell'art. 391, comma 5, cod. proc. pen., nella parte in cui prevede che quando l'arresto è stato eseguito per uno dei delitti indicati nell'art. 381, comma 2, cod. proc. pen. l'applicazione della misura cautelare personale è disposta anche al di fuori dei limiti di pena previsti dagli artt. 274, comma 1, lett.  c ), e 280 cod. proc. pen., nonché dell'art. 280, comma 1, cod. proc. pen., nella parte in cui, nel prevedere i requisiti di applicazione delle misure coercitive, fa salvo il disposto dell'art. 391 cod. proc. pen. Mediante le norme censurate il legislatore ha ritenuto, non impropriamente, che possa essere esclusa la liberazione dell'arrestato ove specifiche esigenze cautelari impongano il mantenimento della restrizione della libertà personale, senza che, a tale esito, possano essere di impedimento soglie edittali più basse rispetto a quelle ordinarie, laddove i relativi delitti, come quelli tassativamente elencati dall'art. 381, comma 2, cod. proc. pen., siano dal legislatore apprezzati come di particolare allarme sociale. Né sussiste disparità di trattamento rispetto ai soggetti accusati di uno dei delitti di cui all'art. 381, comma 1, cod. proc. pen., poiché le fattispecie poste a raffronto sono inconferenti e inidonee a essere commisurate rispetto a quella  sub iudice . Nondimeno, la deroga censurata presenta profili problematici che, pur senza dare luogo ad una dichiarazione di illegittimità costituzionale, rende auspicabile un intervento del legislatore volto a ricondurre il rapporto tra misure precautelari e misure cautelari coercitive all'originario coordinamento quanto ai presupposti per la loro adozione. ( Precedenti citati: sentenze n. 31 del 2017, n. 20 del 2017, n. 216 del 2016, n. 45 del 2014, n. 223 del 2004, n. 188 del 1996, n. 4 del 1992 e n. 89 del 1970; ordinanze n. 187 del 2001, n. 412 del 1999 e n. 148 del 1998). La determinazione delle ipotesi tassative, di per sé eccezionali, nelle quali è consentito adottare misure custodiali spetta al legislatore, ai sensi dell'art. 13 Cost., nel rispetto degli altri principi costituzionali e nei limiti della non manifesta irragionevolezza . (Precedenti citati: ordinanze n. 137 del 2003 e n. 40 del 2002). La configurazione delle fattispecie criminose e la determinazione della pena per ciascuna di esse costituiscono materia affidata alla discrezionalità del legislatore, involvendo apprezzamenti tipicamente politici. Le scelte legislative sono pertanto censurabili, in sede di sindacato di legittimità costituzionale, solo ove trasmodino nella manifesta irragionevolezza o nell'arbitrio . (Precedenti citati: sentenze n. 35 del 2018, n. 179 del 2017, n. 236 del 2016 e n. 148 del 2016). Secondo la giurisprudenza costituzionale, anche in presenza di norme manifestamente arbitrarie o irragionevoli, solo l'indicazione di un  tertium comparationis  idoneo, o comunque di specifici cogenti punti di riferimento, può legittimare l'intervento della Corte costituzionale in materia penale, poiché non spetta ad essa assumere autonome determinazioni in sostituzione delle valutazioni riservate al legislatore. Se così non fosse, l'intervento, essendo creativo, interferirebbe indebitamente nella sfera delle scelte di politica sanzionatoria rimesse a quest'ultimo.  (Precedenti citati: sentenze n. 207 del 2017, n. 236 del 2016 e n. 148 del 2016).
+
+## Norme
+
+- codice di procedura penale, art. 391, comma 5
+- codice di procedura penale, art. 280, comma 1
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 13
