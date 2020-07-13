@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza collegiale n. 3050/2020
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202003050
+- Numero di ricorso (NRG): 201802381
+- Data di pubblicazione: 2020-07-13
+- Udienza: UDIENZA PUBBLICA
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-06-13
+- Oggetto del ricorso: ) DELL'ORDINANZA N. 32 DEL 4/4/2018, NOTIFICATA A MEZZO PEC IN DATA 6/4/2018 PROT. 21223 CON LA QUALE VIENE ORDINATO (SENZA INDICARE I SOGGETTI NEI CUI CONFRONTI VIENE RIVOLTO L'ORDINE): “ – L'ACQUISIZIONE AL PATRIMONIO DI QUESTO COMUNE DELLE OPERE REALIZZATE IN CASORIA ALLA VIA CUPA SAN MARCIANO SNC IN CATASTO AL FG. DI MAPPA 13_P.LLA 273 – 273 E FG. 14 PART. 692 – 693 – 694 – 695 – 696 – 697 – 698 – 699, CON RELATIVO DIRITTO DI ACCESSO ALLA STESSA STRUTTURA;
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
