@@ -1,0 +1,19 @@
+# TAR SARDEGNA - CAGLIARI, decreto cautelare n. 281/2020
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR SARDEGNA - CAGLIARI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202000281
+- Numero di ricorso (NRG): 202000319
+- Data di pubblicazione: 2020-07-14
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-07-01
+- Oggetto del ricorso: COMMERCIO-AMBIENTE (PROVINCIA DI SASSARI) LIMITAZIONI E DIVIETI ALL’ESERCIZIO DEL COMMERCIO ITINERANTE SU AREE DI PARTICOLARE VALORE ARCHEOLOGICO, STORICO, ARTISTICO E AMBIENTALE DEL COMUNE DI ARZACHENA NEL PERIODO COMPRESO TRA IL 15 GIUGNO 2020 ED IL 30 SETTEMBRE 2020
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sardegna-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/82d1bb35-fa91-46d0-adc5-03f15d6a0b90/resource/235396ee-9d43-48c2-a838-2a5370aeaaf1/download/tar-sardegna-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
