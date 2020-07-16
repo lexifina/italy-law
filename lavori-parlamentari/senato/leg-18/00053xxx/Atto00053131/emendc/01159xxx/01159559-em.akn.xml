@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5"/>
+					<an:FRBRdate date="2020-07-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1874/63/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@"/>
+					<an:FRBRdate date="2020-07-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@.akn"/>
+					<an:FRBRdate date="2020-07-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-07-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-07-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/C/G/1874/63/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1874" showAs="Ddl 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/25415" showAs="Erica Rivolta"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32633" showAs="Roberta Ferrero"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32627" showAs="Antonella Faggi"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/18562" showAs="Daisy Pirovano"/>
+				<an:TLCPerson id="ID0EGC" href="http://dati.senato.it/32733" showAs="Cristiano Zuliani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1874/63/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Rivolta</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ferrero</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Faggi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pirovano</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Zuliani</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				
+
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				
+
+				<an:p>        premesso che:</an:p>
+				
+
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/275;</an:p>
+				
+
+				<an:p>        l'articolo 44 del decreto in conversione reca misure di incentivo per l'acquisto di autoveicoli; considerato che:</an:p>
+				
+
+				<an:p>            il settore dell'automotive in Italia conta oltre un milione di occupati e incide sul PIL italiano per 10-11 punti percentuali;</an:p>
+				
+
+				<an:p>            il mercato dell'auto è uno di quelli più colpiti dalla crisi economica conseguente all'emergenza sanitaria per via dell'elevatissima stock rimasto invenduto, come dimostrato dai dati impietosi relativi alle nuove immatricolazioni: nel primo semestre del 2020 il mercato è quasi dimezzato, con appena 583.960 auto vendute, pari a una flessione del 46,09 per cento rispetto all'analogo periodo del 2019;</an:p>
+				
+
+				<an:p>            rilanciare la vendita delle auto è un mezzo fondamentale per stimolare i consumi, oggi quasi del tutto atrofizzati; e ciò va le ancor di più con riguardo alla vendita di auto disegnate e prodotte in ltalia; per la ripresa del settore sono state rifinanziate delle misure di incentivo all'acquisto previgenti e destinate alle sale persone fisiche;</an:p>
+				
+
+				<an:p>            un importante contributo al rilancio del settore dell'automotive può giungere dalle amministrazioni pubbliche, le quali, nel rinnovo del parco mezzi a loro disposizione, dovrebbero privilegiare l'acquisto di veicoli prodotti nel nostro Paese,</an:p>
+				
+
+				<an:p>        impegna il Governo:</an:p>
+				
+
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
