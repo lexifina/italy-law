@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/C/182.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/C/182.2"/>
+					<an:FRBRdate date="2020-07-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/C/182.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="182.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@"/>
+					<an:FRBRdate date="2020-07-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@.akn"/>
+					<an:FRBRdate date="2020-07-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-07-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-07-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/C/182.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1874" showAs="Ddl 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32659" showAs="Massimo Mallegni"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/25199" showAs="Gilberto Pichetto Fratin"/>
+				<an:TLCPerson id="ID0EVB" href="http://dati.senato.it/32747" showAs="Dario Damiani"/>
+				<an:TLCPerson id="ID0E6B" href="http://dati.senato.it/27476" showAs="Raffaele Fantetti"/>
+				<an:TLCPerson id="ID0EJC" href="http://dati.senato.it/17841" showAs="Massimo Ferro"/>
+				<an:TLCPerson id="ID0ETC" href="http://dati.senato.it/31157" showAs="Antonio Saccone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 182.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Mallegni</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pichetto</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Fratin</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EVB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Damiani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E6B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Fantetti</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EJC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ferro</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ETC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Saccone</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1 sostituire le parole</an:i>
+					 «agenzie di viaggio e i tour operator» 
+					<an:i>con</an:i>
+					 « agenzie di viaggio, tour operator nazionali e agenzie di eventi» 
+					<an:i>e sostituire le parole</an:i>
+					 «25 milioni di euro per l'anno 2020» 
+					<an:i>con</an:i>
+					 «750 milioni di euro per l'anno 2020
+					<an:i>» e dopo il comma 1 aggiungere il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Il Fondo di cui al comma 1 può essere incrementato, nella misura di 50 milioni di euro, per l'anno 2021.»
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>Conseguentemente, il Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come incrementato dall'articolo 265, comma 5, del presente decreto è ridotto di 725 milioni di euro per il 2020 e 50 milioni di euro per il 2021.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
