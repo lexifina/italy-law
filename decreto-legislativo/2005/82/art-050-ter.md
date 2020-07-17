@@ -1,25 +1,39 @@
 Art. 50-ter.
 
-(Piattaforma Digitale Nazionale Dati)
+(( (Piattaforma Digitale Nazionale Dati) ))
+
+((
 
 1.
 
-La Presidenza del Consiglio dei ministri promuove la progettazione, lo sviluppo e la sperimentazione di una Piattaforma Digitale Nazionale Dati finalizzata a favorire la conoscenza e l'utilizzo del patrimonio informativo detenuto, per finalita' istituzionali, dai soggetti di cui all'articolo 2, comma 2, ((...)), ad esclusione delle autorita' amministrative indipendenti di garanzia, vigilanza e regolazione, nonche' alla condivisione dei dati tra i soggetti che hanno diritto ad accedervi ai fini della semplificazione degli adempimenti amministrativi dei cittadini e delle imprese, in conformita' alla disciplina vigente.
+La Presidenza del Consiglio dei ministri promuove la progettazione, lo sviluppo e la realizzazione di una Piattaforma Digitale Nazionale Dati (PDND) finalizzata a favorire la conoscenza e l'utilizzo del patrimonio informativo detenuto, per finalita' istituzionali, dai soggetti di cui all'articolo 2, comma 2, nonche' la condivisione dei dati tra i soggetti che hanno diritto ad accedervi ai fini della semplificazione degli adempimenti amministrativi dei cittadini e delle imprese, in conformita' alla disciplina vigente e agli accordi quadro previsti dall'articolo 50.
 
 2.
 
-In sede di prima applicazione, la ((gestione)) della Piattaforma Digitale Nazionale Dati e' affidata ((alla Presidenza del Consiglio dei ministri)).
+La Piattaforma Digitale Nazionale Dati e' gestita dalla Presidenza del Consiglio dei ministri ed e' costituita da un'infrastruttura tecnologica che rende possibile l'interoperabilita' dei sistemi informativi e delle basi di dati delle pubbliche amministrazioni e dei gestori di servizi pubblici per le finalita' di cui al comma 1, mediante l'accreditamento, l'identificazione e la gestione dei livelli di autorizzazione dei soggetti abilitati ad operare sulla stessa, nonche' la raccolta e conservazione delle informazioni relative agli accessi e alle transazioni effettuate suo tramite. La condivisione di dati e informazioni avviene attraverso la messa a disposizione e l'utilizzo, da parte dei soggetti accreditati, di interfacce di programmazione delle applicazioni (API). Le interfacce, sviluppate dai soggetti abilitati con il supporto della Presidenza del Consiglio dei ministri e in conformita' alle Linee guida AgID in materia interoperabilita', sono raccolte nel "catalogo API" reso disponibile dalla Piattaforma ai soggetti accreditati. I soggetti di cui all'articolo 2, comma 2, sono tenuti ad accreditarsi alla piattaforma, a sviluppare le interfacce e a rendere disponibili le proprie basi dati senza nuovi o maggiori oneri per la finanza pubblica. In fase di prima applicazione, la Piattaforma assicura prioritariamente l'interoperabilita' con il sistema informativo dell'indicatore della situazione economica equivalente (ISEE) di cui all'articolo 5 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, con l'Anagrafe nazionale della popolazione residente di cui all'articolo 62 e con le banche dati dell'Agenzie delle entrate individuate dal Direttore della stessa Agenzia. L'AgID, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, adotta linee guida con cui definisce gli standard tecnologici e criteri di sicurezza, di accessibilita', di disponibilita' e di interoperabilita' per la gestione della piattaforma nonche' il processo di accreditamento e di fruizione del catalogo API.
 
 3.
 
-Ai fini dello svolgimento delle funzioni di cui al comma 2, ((la Presidenza del Consiglio dei ministri)) provvede, nel rispetto dei limiti, delle condizioni e delle modalita' stabilite dal Garante per la protezione dei dati personali e dal decreto di cui al comma 4, ad acquisire i dati detenuti dai soggetti di cui all'articolo 2, comma 2, ((...)), ad esclusione delle autorita' amministrative indipendenti di garanzia, vigilanza e regolazione, organizzarli e conservarli, nel rispetto delle norme tecniche e delle metodologie idonee a garantire la condivisione dei dati tra le pubbliche amministrazioni stabilite da AgID nelle Linee guida. I soggetti che detengono i dati identificati nel decreto di cui al comma 4, hanno l'obbligo di riscontrare la richiesta ((della Presidenza del Consiglio dei ministri)), rendendo disponibili i dati richiesti senza nuovi o maggiori oneri per la finanza pubblica.
+Nella Piattaforma Nazionale Digitale Dati non confluiscono i dati attinenti a ordine e sicurezza pubblica, difesa e sicurezza nazionale, polizia giudiziaria e polizia economico-finanziaria.
 
 4.
 
-Con decreto del Presidente del Consiglio dei ministri, di concerto con il Ministro dell'economia e delle finanze, sentito il Garante per la protezione dei dati personali e le Amministrazioni titolari dei dati, sono stabilite le modalita' di attuazione del presente articolo al fine di favorire la condivisione dei dati fra le pubbliche amministrazioni, di semplificare l'accesso ai dati stessi da parte dei soggetti che hanno diritto ad accedervi e di semplificare gli adempimenti e gli oneri amministrativi per i cittadini e le imprese, ed e' identificato l'elenco dei dati che i soggetti di cui all'articolo 2, comma 2, ((...)), ad esclusione delle autorita' amministrative indipendenti di garanzia, vigilanza e regolazione, sono tenuti a rendere disponibili per le finalita' di cui al comma 3; l'elenco e' aggiornato periodicamente con decreto del Presidente del Consiglio dei ministri, sentito il Garante per la protezione dei dati personali e le Amministrazioni titolari dei dati.
-
-Con il medesimo decreto sono stabiliti i limiti e le modalita' di acquisizione, organizzazione e conservazione dei dati.
+Con decreto adottato dal Presidente del Consiglio dei ministri, di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2.
 
 5.
 
-Il trasferimento dei dati nella Piattaforma Digitale Nazionale Dati non modifica la titolarita' del dato.
+L'inadempimento dell'obbligo di rendere disponibili e accessibili le proprie basi dati ovvero i dati aggregati e anonimizzati costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento, della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
+
+6.
+
+L'accesso ai dati attraverso la Piattaforma Digitale Nazionale Dati non modifica la disciplina relativa alla titolarita' del trattamento, ferme restando le specifiche responsabilita' ai sensi dell'articolo 28 del Regolamento (UE) 2016/679 del Parlamento Europeo e del Consiglio del 27 aprile 2016 in capo al soggetto gestore della Piattaforma nonche' le responsabilita' dei soggetti accreditati che trattano i dati in qualita' di titolari autonomi del trattamento.
+
+7.
+
+Resta fermo che i soggetti di cui all'articolo 2, comma 2, possono continuare a utilizzare anche i sistemi di interoperabilita' gia' previsti dalla legislazione vigente.
+
+8.
+
+Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
+
+))

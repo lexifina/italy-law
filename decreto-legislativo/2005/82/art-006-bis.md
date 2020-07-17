@@ -1,14 +1,14 @@
 Art. 6-bis.
 
-(Indice nazionale ((dei domicili digitali)) delle imprese e dei professionisti).
+(Indice nazionale dei domicili digitali delle imprese e dei professionisti)
 
 1.
 
-Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' lo scambio di informazioni e documenti tra ((i soggetti di cui all'articolo 2, comma 2)) e le imprese e i professionisti in modalita' telematica, e' istituito ((...)) il pubblico elenco denominato Indice nazionale ((dei domicili digitali)) (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
+Al fine di favorire la presentazione di istanze, dichiarazioni e dati, nonche' lo scambio di informazioni e documenti tra i soggetti di cui all'articolo 2, comma 2 e le imprese e i professionisti in modalita' telematica, e' istituito il pubblico elenco denominato Indice nazionale dei domicili digitali (INI-PEC) delle imprese e dei professionisti, presso il Ministero per lo sviluppo economico.
 
 2.
 
-L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. ((I domicili digitali)) inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.
+L'Indice nazionale di cui al comma 1 e' realizzato a partire dagli elenchi di indirizzi PEC costituiti presso il registro delle imprese e gli ordini o collegi professionali, in attuazione di quanto previsto dall'articolo 16 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2. ((Nell'Indice nazionale sono inseriti anche i domicili digitali dei professionisti diversi da quelli di cui al primo periodo, iscritti in elenchi o registri detenuti dalle pubbliche amministrazioni e istituiti con legge dello Stato.)) I domicili digitali inseriti in tale Indice costituiscono mezzo esclusivo di comunicazione e notifica con i soggetti di cui all'articolo 2, comma 2.
 
 2-bis.
 
@@ -16,7 +16,7 @@ L'INI-PEC acquisisce dagli ordini e dai collegi professionali gli attributi qual
 
 3.
 
-((COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217)).
+COMMA ABROGATO DAL D.LGS. 13 DICEMBRE 2017, N. 217.
 
 4.
 
@@ -24,7 +24,7 @@ Il Ministero per lo sviluppo economico, al fine del contenimento dei costi e del
 
 5.
 
-Nel decreto di cui al comma 4 sono anche definite le modalita' e le forme con cui gli ordini e i collegi professionali comunicano all'Indice nazionale di cui al comma 1 tutti gli indirizzi PEC relativi ai professionisti di propria competenza e sono previsti gli strumenti telematici resi disponibili dalle Camere di commercio per il tramite delle proprie strutture informatiche al fine di ottimizzare la raccolta e aggiornamento dei medesimi indirizzi.
+Nel decreto di cui al comma 4 sono anche definite le modalita' e le forme con cui gli ordini e i collegi professionali ((nonche' le pubbliche amministrazioni)) comunicano all'Indice nazionale di cui al comma 1 tutti gli indirizzi PEC relativi ai professionisti di propria competenza e sono previsti gli strumenti telematici resi disponibili dalle Camere di commercio per il tramite delle proprie strutture informatiche al fine di ottimizzare la raccolta e aggiornamento dei medesimi indirizzi.
 
 6.
 

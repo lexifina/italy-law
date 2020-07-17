@@ -4,19 +4,15 @@ Art. 32-bis.
 
 1.
 
-L'AgID puo' irrogare ai prestatori di servizi fiduciari qualificati, ai gestori di posta elettronica certificata, ai gestori dell'identita' digitale e ((ai conservatori accreditati)), che abbiano violato gli obblighi del ((Regolamento eIDAS o)) del presente Codice ((relative alla prestazione dei predetti servizi)), sanzioni amministrative in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza, per importi da un minimo di ((euro 40.000,00)) a un massimo di ((euro 400.000,00)), fermo restando il diritto al risarcimento del maggior danno. ((Le violazioni del presente Codice idonee a esporre a rischio i diritti e gli interessi di una pluralita' di utenti o relative a significative carenze infrastrutturali o di processo del fornitore di servizio si considerano gravi. AgID, laddove accerti tali gravi violazioni, dispone altresi' la cancellazione del fornitore del servizio dall'elenco dei soggetti qualificati e il divieto di accreditamento o qualificazione per un periodo fino ad un massimo di due anni.)) Le sanzioni vengono irrogate dal direttore generale dell'AgID, sentito il Comitato di indirizzo. Si applica, in quanto compatibile, la disciplina della legge 24 novembre 1981, n. 689.
+L'AgID puo' irrogare ai prestatori di servizi fiduciari qualificati, ai gestori di posta elettronica certificata, ai gestori dell'identita' digitale e ai (( soggetti di cui all'articolo 34, comma 1-bis, lettera b) )), che abbiano violato gli obblighi del Regolamento eIDAS o del presente Codice relative alla prestazione dei predetti servizi, sanzioni amministrative in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza, per importi da un minimo di euro 40.000,00 a un massimo di euro 400.000,00, fermo restando il diritto al risarcimento del maggior danno. ((Le sanzioni erogate per le violazioni commesse dai soggetti di cui all'articolo 34, comma 1-bis, lettera b), sono fissate nel minimo in euro 4.000,00 e nel massimo in euro 40.000,00.)) Le violazioni del presente Codice idonee a esporre a rischio i diritti e gli interessi di una pluralita' di utenti o relative a significative carenze infrastrutturali o di processo del fornitore di servizio si considerano gravi. AgID, laddove accerti tali gravi violazioni, dispone altresi' la cancellazione del fornitore del servizio dall'elenco dei soggetti qualificati e il divieto di accreditamento o qualificazione per un periodo fino ad un massimo di due anni. Le sanzioni vengono irrogate dal direttore generale dell'AgID, sentito il Comitato di indirizzo. Si applica, in quanto compatibile, la disciplina della legge 24 novembre 1981, n. 689.
 
 1-bis.
 
-L'AgID ((irroga)) la sanzione amministrativa di cui al comma 1 ((e diffida)) i soggetti a conformare la propria condotta agli obblighi previsti ((dalla disciplina vigente)).
-
-((
+L'AgID irroga la sanzione amministrativa di cui al comma 1 e diffida i soggetti a conformare la propria condotta agli obblighi previsti dalla disciplina vigente.
 
 2.
 
 Fatti salvi i casi di forza maggiore o di caso fortuito, qualora si verifichi un malfunzionamento nei servizi forniti dai soggetti di cui al comma 1 che determini l'interruzione del servizio, ovvero in caso di mancata o intempestiva comunicazione dello stesso disservizio a AgID o agli utenti, ai sensi dell'articolo 32, comma 3, lettera m-bis), AgID, ferma restando l'irrogazione delle sanzioni amministrative, diffida altresi' i soggetti di cui al comma 1 a ripristinare la regolarita' del servizio o ad effettuare le comunicazioni previste. Se l'interruzione del servizio ovvero la mancata o intempestiva comunicazione sono reiterati nel corso di un biennio, successivamente alla prima diffida si applica la sanzione della cancellazione dall'elenco pubblico.
-
-))
 
 3.
 

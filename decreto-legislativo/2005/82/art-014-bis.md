@@ -14,15 +14,15 @@ AgID svolge le funzioni di:
 
 a)
 
-emanazione di ((Linee guida contenenti)) regole, standard e guide tecniche, nonche' di ((indirizzo,)) vigilanza e controllo ((sull'attuazione e)) sul rispetto delle norme di cui al presente Codice, anche attraverso l'adozione di atti amministrativi generali, in materia di agenda digitale, digitalizzazione della pubblica amministrazione, sicurezza informatica, interoperabilita' e cooperazione applicativa tra sistemi informatici pubblici e quelli dell'Unione europea;
+emanazione di Linee guida contenenti regole, standard e guide tecniche, nonche' di indirizzo, vigilanza e controllo sull'attuazione e sul rispetto delle norme di cui al presente Codice, anche attraverso l'adozione di atti amministrativi generali, in materia di agenda digitale, digitalizzazione della pubblica amministrazione, sicurezza informatica, interoperabilita' e cooperazione applicativa tra sistemi informatici pubblici e quelli dell'Unione europea;
 
 b)
 
-programmazione e coordinamento delle attivita' delle amministrazioni per l'uso delle tecnologie dell'informazione e della comunicazione, mediante la redazione e la successiva verifica dell'attuazione del Piano triennale per l'informatica nella pubblica amministrazione contenente la fissazione degli obiettivi e l'individuazione dei principali interventi di sviluppo e gestione dei sistemi informativi delle amministrazioni pubbliche. Il predetto Piano e' elaborato dall'AgID, anche sulla base dei dati e delle informazioni acquisiti ((dai soggetti di cui all'articolo 2, comma 2)), ed e' approvato dal Presidente del Consiglio dei ministri o dal Ministro delegato entro il 30 settembre di ogni anno;
+programmazione e coordinamento delle attivita' delle amministrazioni per l'uso delle tecnologie dell'informazione e della comunicazione, mediante la redazione e la successiva verifica dell'attuazione del Piano triennale per l'informatica nella pubblica amministrazione contenente la fissazione degli obiettivi e l'individuazione dei principali interventi di sviluppo e gestione dei sistemi informativi delle amministrazioni pubbliche. Il predetto Piano e' elaborato dall'AgID, anche sulla base dei dati e delle informazioni acquisiti dai soggetti di cui all'articolo 2, comma 2, ed e' approvato dal Presidente del Consiglio dei ministri o dal Ministro delegato entro il 30 settembre di ogni anno;
 
 c)
 
-monitoraggio delle attivita' svolte dalle amministrazioni ((, ivi inclusi gli investimenti effettuati ai sensi dell'articolo 1, comma 492, lettera a-bis), della legge 11 dicembre 2016, n. 232,)) in relazione alla loro coerenza con il Piano triennale di cui alla lettera b) e verifica dei risultati conseguiti dalle singole amministrazioni con particolare riferimento ai costi e benefici dei sistemi informatici secondo le modalita' fissate dalla stessa Agenzia;
+monitoraggio delle attivita' svolte dalle amministrazioni, ivi inclusi gli investimenti effettuati ai sensi dell'articolo 1, comma 492, lettera a-bis), della legge 11 dicembre 2016, n. 232, in relazione alla loro coerenza con il Piano triennale di cui alla lettera b) e verifica dei risultati conseguiti dalle singole amministrazioni con particolare riferimento ai costi e benefici dei sistemi informatici secondo le modalita' fissate dalla stessa Agenzia;
 
 d)
 
@@ -38,15 +38,15 @@ rilascio di pareri tecnici, obbligatori e non vincolanti, sugli schemi di contra
 
 g)
 
-rilascio di pareri tecnici, obbligatori e ((...)) vincolanti, sugli elementi essenziali delle procedure di gara bandite, ai sensi dell'articolo 1, comma 512 della legge 28 dicembre 2015, n. 208, da Consip e dai soggetti aggregatori di cui all'articolo 9 del decreto-legge 24 aprile 2014, n. 66, concernenti l'acquisizione di beni e servizi relativi a sistemi informativi automatizzati e definiti di carattere strategico nel piano triennale. ((Il parere e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta e si applica l'articolo 17-bis della legge 7 agosto 1990, n. 241, e successive modificazioni.)) Ai fini della presente lettera per elementi essenziali si intendono l'oggetto della fornitura o del servizio, il valore economico del contratto, la tipologia di procedura che si intende adottare, il criterio di aggiudicazione e relativa ponderazione, le principali clausole che caratterizzano le prestazioni contrattuali. Si applica quanto previsto nei periodi da 2 a 5 della lettera f);
+rilascio di pareri tecnici, obbligatori e vincolanti, sugli elementi essenziali delle procedure di gara bandite, ai sensi dell'articolo 1, comma 512 della legge 28 dicembre 2015, n. 208, da Consip e dai soggetti aggregatori di cui all'articolo 9 del decreto-legge 24 aprile 2014, n. 66, concernenti l'acquisizione di beni e servizi relativi a sistemi informativi automatizzati e definiti di carattere strategico nel piano triennale. Il parere e' reso entro il termine di quarantacinque giorni dal ricevimento della relativa richiesta e si applica l'articolo 17-bis della legge 7 agosto 1990, n. 241, e successive modificazioni. Ai fini della presente lettera per elementi essenziali si intendono l'oggetto della fornitura o del servizio, il valore economico del contratto, la tipologia di procedura che si intende adottare, il criterio di aggiudicazione e relativa ponderazione, le principali clausole che caratterizzano le prestazioni contrattuali. Si applica quanto previsto nei periodi da 2 a 5 della lettera f);
 
 h)
 
-definizione di criteri e modalita' per il monitoraggio sull'esecuzione dei contratti da parte dell'amministrazione interessata ovvero, su sua richiesta, da parte della stessa AgID;
+definizione di criteri e modalita' per il monitoraggio sull'esecuzione dei contratti da parte dell'amministrazione interessata ((...));
 
 i)
 
-vigilanza sui servizi fiduciari ai sensi dell'articolo 17 del regolamento UE 910/2014 in qualita' di organismo a tal fine designato, sui gestori di posta elettronica certificata, ((sui conservatori di documenti informatici accreditati)), nonche' sui soggetti, pubblici e privati, che partecipano a SPID di cui all'articolo 64; nell'esercizio di tale funzione l'Agenzia puo' irrogare per le violazioni accertate a carico dei soggetti vigilati le sanzioni amministrative di cui all'articolo 32-bis in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza;
+vigilanza sui servizi fiduciari ai sensi dell'articolo 17 del regolamento UE 910/2014 in qualita' di organismo a tal fine designato, sui gestori di posta elettronica certificata, sui (( soggetti di cui all'articolo 34, comma 1-bis, lettera b) )), nonche' sui soggetti, pubblici e privati, che partecipano a SPID di cui all'articolo 64; nell'esercizio di tale funzione l'Agenzia puo' irrogare per le violazioni accertate a carico dei soggetti vigilati le sanzioni amministrative di cui all'articolo 32-bis in relazione alla gravita' della violazione accertata e all'entita' del danno provocato all'utenza;
 
 l)
 
@@ -54,4 +54,4 @@ ogni altra funzione attribuitale da specifiche disposizioni di legge e dallo Sta
 
 3.
 
-Fermo restando quanto previsto al comma 2, AgID svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita a DigitPA, all'Agenzia per la diffusione delle tecnologie per l'innovazione nonche' al Dipartimento per l'innovazione tecnologica della Presidenza del Consiglio dei ministri.
+Fermo restando quanto previsto al comma 2, AgID svolge ogni altra funzione prevista da leggi e regolamenti gia' attribuita a DigitPA, all'Agenzia per la diffusione delle tecnologie per l'innovazione ((...)).

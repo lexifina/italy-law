@@ -1,16 +1,16 @@
 Art. 17-bis.
 
-(( (Silenzio assenso tra amministrazioni pubbliche e tra amministrazioni pubbliche e gestori di beni o servizi pubblici).))
-
-((
+( ((Effetti del silenzio e dell'inerzia nei rapporti)) tra amministrazioni pubbliche e tra amministrazioni pubbliche e gestori di beni o servizi pubblici).
 
 1.
 
-Nei casi in cui e' prevista l'acquisizione di assensi, concerti o nulla osta comunque denominati di amministrazioni pubbliche e di gestori di beni o servizi pubblici, per l'adozione di provvedimenti normativi e amministrativi di competenza di altre amministrazioni pubbliche, le amministrazioni o i gestori competenti comunicano il proprio assenso, concerto o nulla osta entro trenta giorni dal ricevimento dello schema di provvedimento, corredato della relativa documentazione, da parte dell'amministrazione procedente. Il termine e' interrotto qualora l'amministrazione o il gestore che deve rendere il proprio assenso, concerto o nulla osta rappresenti esigenze istruttorie o richieste di modifica, motivate e formulate in modo puntuale nel termine stesso. In tal caso, l'assenso, il concerto o il nulla osta e' reso nei successivi trenta giorni dalla ricezione degli elementi istruttori o dello schema di provvedimento; non sono ammesse ulteriori interruzioni di termini.
+Nei casi in cui e' prevista l'acquisizione di assensi, concerti o nulla osta comunque denominati di amministrazioni pubbliche e di gestori di beni o servizi pubblici, per l'adozione di provvedimenti normativi e amministrativi di competenza di altre amministrazioni pubbliche, le amministrazioni o i gestori competenti comunicano il proprio assenso, concerto o nulla osta entro trenta giorni dal ricevimento dello schema di provvedimento, corredato della relativa documentazione, da parte dell'amministrazione procedente. ((Esclusi i casi di cui al comma 3, quando per l'adozione di provvedimenti normativi e amministrativi e' prevista la proposta di una o piu' amministrazioni pubbliche diverse da quella competente ad adottare l'atto, la proposta stessa e' trasmessa entro trenta giorni dal ricevimento della richiesta da parte di quest'ultima amministrazione.)) Il termine e' interrotto qualora l'amministrazione o il gestore che deve rendere il proprio assenso, concerto o nulla osta rappresenti esigenze istruttorie o richieste di modifica, motivate e formulate in modo puntuale nel termine stesso. In tal caso, l'assenso, il concerto o il nulla osta e' reso nei successivi trenta giorni dalla ricezione degli elementi istruttori o dello schema di provvedimento; ((lo stesso termine si applica qualora dette esigenze istruttorie siano rappresentate dall'amministrazione proponente nei casi di cui al secondo periodo.))
+
+((Non sono ammesse)) ulteriori interruzioni di termini.
 
 2.
 
-Decorsi i termini di cui al comma 1 senza che sia stato comunicato l'assenso, il concerto o il nulla osta, lo stesso si intende acquisito. In caso di mancato accordo tra le amministrazioni statali coinvolte nei procedimenti di cui al comma 1, il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, decide sulle modifiche da apportare allo schema di provvedimento.
+Decorsi i termini di cui al comma 1 senza che sia stato comunicato l'assenso, il concerto o il nulla osta, lo stesso si intende acquisito. ((Esclusi i casi di cui al comma 3, qualora la proposta non sia trasmessa nei termini di cui al comma 1, secondo periodo, l'amministrazione competente puo' comunque procedere. In tal caso, lo schema di provvedimento, corredato della relativa documentazione, e' trasmesso all'amministrazione che avrebbe dovuto formulare la proposta per acquisirne l'assenso ai sensi del presente articolo.)) In caso di mancato accordo tra le amministrazioni statali coinvolte nei procedimenti di cui al comma 1, il Presidente del Consiglio dei ministri, previa deliberazione del Consiglio dei ministri, decide sulle modifiche da apportare allo schema di provvedimento.
 
 3.
 
@@ -19,5 +19,3 @@ Le disposizioni dei commi 1 e 2 si applicano anche ai casi in cui e' prevista l'
 4.
 
 Le disposizioni del presente articolo non si applicano nei casi in cui disposizioni del diritto dell'Unione europea richiedano l'adozione di provvedimenti espressi.
-
-))

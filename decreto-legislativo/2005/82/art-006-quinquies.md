@@ -1,8 +1,6 @@
 Art. 6-quinquies.
 
-(( (Consultazione e accesso). ))
-
-((
+(Consultazione e accesso)
 
 1.
 
@@ -14,10 +12,8 @@ L'estrazione dei domicili digitali dagli elenchi, di cui agli articoli 6-bis, 6-
 
 3.
 
-In assenza di preventiva autorizzazione del titolare dell'indirizzo, e' vietato l'utilizzo dei domicili digitali di cui al presente articolo per finalita' diverse dall'invio di comunicazioni aventi valore legale o comunque connesse al conseguimento di finalita' istituzionali dei soggetti di cui all'articolo 2, comma 2.
+In assenza di preventiva autorizzazione del titolare dell'indirizzo, e' vietato l'utilizzo dei domicili digitali di cui al presente articolo ((per l'invio di comunicazioni commerciali, come definite dall'articolo 2, comma 1, lettera f), del decreto legislativo 9 aprile 2003, n. 70)).
 
 4.
 
 Gli elenchi di cui agli articoli 6-bis, 6-ter e 6-quater contengono le informazioni relative alla elezione, modifica o cessazione del domicilio digitale.
-
-))
