@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza collegiale n. 3303/2020
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUARTA
+- Numero provvedimento: 202003303
+- Numero di ricorso (NRG): 202002115
+- Data di pubblicazione: 2020-07-23
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AD ALTRA DATA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-07-01
+- Oggetto del ricorso: DEI DECRETI NN. 9476-9477-9478-9479-9480-9481-9482 DEL MIUR – USR PER LA CAMPANIA, TUTTI PUBBLICATI IL 02.05.2020, AVENTE AD OGGETTO L'INDIZIONE, IN APPLICAZIONE DELL'ART. 554 DEL D.LGS. 16.04.1994 N. 297, DEL CONCORSO PER TITOLI PER L'AGGIORNAMENTO E L'INTEGRAZIONE DELLE GRADUATORIE PERMANENTI PROVINCIALI PER I PROFILI PROFESSIONALI DELL'AREA “A” E “B” DEL PERSONALE ATA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
