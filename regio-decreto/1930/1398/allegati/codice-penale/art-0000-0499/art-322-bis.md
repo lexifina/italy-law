@@ -1,6 +1,6 @@
 Art. 322-bis.
 
-(( (Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri).))
+(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri).
 
 Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comma, si applicano anche:
 
@@ -16,15 +16,17 @@ Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comm
 
 5-bis) ai giudici, al procuratore, ai procuratori aggiunti, ai funzionari e agli agenti della Corte penale internazionale, alle persone comandate dagli Stati parte del Trattato istitutivo della Corte penale internazionale le quali esercitino funzioni corrispondenti a quelle dei funzionari o agenti della Corte stessa, ai membri ed agli addetti a enti costituiti sulla base del Trattato istitutivo della Corte penale internazionale.
 
-((5-ter) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di organizzazioni pubbliche internazionali;
+5-ter) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di organizzazioni pubbliche internazionali;
 
-5-quater) ai membri delle assemblee parlamentari internazionali o di un'organizzazione internazionale o sovranazionale e ai giudici e funzionari delle corti internazionali)).
+5-quater) ai membri delle assemblee parlamentari internazionali o di un'organizzazione internazionale o sovranazionale e ai giudici e funzionari delle corti internazionali.
+
+((5-quinquies) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di Stati non appartenenti all'Unione europea, quando il fatto offende gli interessi finanziari dell'Unione.))
 
 Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso:
 
 1) alle persone indicate nel primo comma del presente articolo;
 
-2) a persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di altri Stati esteri o organizzazioni pubbliche internazionali ((...)).
+2) a persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di altri Stati esteri o organizzazioni pubbliche internazionali.
 
 Le persone indicate nel primo comma sono assimilate ai pubblici ufficiali, qualora esercitino funzioni corrispondenti, e agli incaricati di un pubblico servizio negli altri casi.
 

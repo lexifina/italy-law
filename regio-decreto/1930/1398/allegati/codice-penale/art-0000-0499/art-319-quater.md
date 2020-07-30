@@ -4,9 +4,9 @@ Art. 319-quater.
 
 Salvo che il fatto costituisca piu' grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, abusando della sua qualita' o dei suoi poteri, induce taluno a dare o a promettere indebitamente, a lui o a un terzo, denaro o altra utilita' e' punito con la reclusione da sei anni a dieci anni e sei mesi.
 
-Nei casi previsti dal primo comma, chi da' o promette denaro o altra utilita' e' punito con la reclusione fino a tre anni.
+Nei casi previsti dal primo comma, chi da' o promette denaro o altra utilita' e' punito con la reclusione fino a tre anni ((ovvero con la reclusione fino a quattro anni quando il fatto offende gli interessi finanziari dell'Unione europea e il danno o il profitto sono superiori a euro 100.000)).
 
-((281))
+(281)
 
 -------------
 
