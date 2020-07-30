@@ -1,0 +1,16 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/012 presentata da BRESCIA GIUSEPPE (MOVIMENTO 5 STELLE) in data 30/07/2020
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.6/012
+- Data: 20200730
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/012 presentata da BRESCIA GIUSEPPE (MOVIMENTO 5 STELLE) in data 30/07/2020
+- Presentatore: BRESCIA GIUSEPPE (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=18&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.6/012
+- Legislatura: repubblica_18
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.6_012_18
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 6/012 presentato da BRESCIA Giuseppe testo di Giovedì 30 luglio 2020, seduta n. 383 La Camera, premesso che: l'emergenza epidemiologica ha messo alla prova le istituzioni parlamentari, chiamate alla sfida dell'innovazione per continuare a svolgere la loro essenziale funzione democratica; come disposto dalla Giunta del Regolamento dello scorso 31 marzo, è stata consentita la partecipazione da remoto, tramite sistemi di videoconferenza, ad alcune attività delle Commissioni svolte in sedi informali, come le riunioni degli Uffici di presidenza, sia in sede di programmazione dei lavori sia in sede di svolgimento di audizioni, e le audizioni informali svolte in sede plenaria; alla luce dell'esperienza concreta maturata in questi ultimi mesi, appare necessario potenziare le infrastrutture tecnologiche a disposizione della Camera &#8211; nello specifico i server &#8211; per garantire la fluidità delle sedute in videoconferenza; in questi ultimi mesi, è stato opportunamente sospeso lo svolgimento di convegni, seminari ed eventi di qualsiasi natura aperti a soggetti esterni presso tutte le sedi della Camera dei deputati, mentre è stato recentemente ripristinato lo svolgimento delle conferenze stampa; convegni, seminari ed eventi presso le sedi della Camera dei deputati hanno da sempre rappresentato un'occasione di ricchezza culturale e intellettuale e hanno affermato la centralità di Palazzo Montecitorio non solo come luogo dell'attività legislativa, ma come spazio di confronto tra cittadini e istituzioni; appare dunque opportuno individuare canali alternativi per lo svolgimento di eventi, seminari e convegni, adottando sistemi di videoconferenza che, sotto l'egida della Camera dei deputati, assicurino la continuità delle attività culturali svolte all'interno di Palazzo Montecitorio, invita l'Ufficio di Presidenza e il Collegio dei Questori a valutare l'opportunità di predisporre un piano pluriennale di potenziamento delle infrastrutture tecnologiche necessarie a realizzare lo svolgimento da remoto di eventi, seminari e convegni, che tenga conto delle peculiarità del contesto parlamentare e consenta di integrare efficacemente le piattaforme di videoconferenza con le tecnologie di diffusione degli eventi attraverso lo streaming parlamentare. 9/Doc. VIII, n.6/ 12 . (Testo modificato nel corso della seduta)   Brescia .
