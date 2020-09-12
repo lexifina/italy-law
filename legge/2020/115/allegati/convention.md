@@ -1,0 +1,5 @@
+CONVENTION ESTABLISHING THE
+
+SQUARE KILOMETRE ARRAY OBSERVATORY
+
+Parte di provvedimento in formato grafico
