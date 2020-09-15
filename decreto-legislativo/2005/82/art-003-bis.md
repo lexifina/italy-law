@@ -4,7 +4,7 @@ Identita' digitale e Domicilio digitale
 
 01.
 
-Chiunque ha il diritto di accedere ai servizi on-line offerti dai soggetti di cui all'articolo 2, comma 2 ((...)), tramite la propria identita' digitale ((e anche attraverso il punto di accesso telematico di cui all'articolo 64-bis)). (29)
+Chiunque ha il diritto di accedere ai servizi on-line offerti dai soggetti di cui all'articolo 2, comma 2, tramite la propria identita' digitale e anche attraverso il punto di accesso telematico di cui all'articolo 64-bis. (29)
 
 1.
 
@@ -12,7 +12,7 @@ I soggetti di cui all'articolo 2, comma 2, i professionisti tenuti all'iscrizion
 
 1-bis.
 
-Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. ((Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.))
+Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
 
 1-ter.
 
@@ -20,7 +20,7 @@ I domicili digitali di cui ai commi 1 e 1-bis sono eletti secondo le modalita' s
 
 1-quater.
 
-I soggetti di cui ai commi 1 e 1-bis hanno l'obbligo di fare un uso diligente del proprio domicilio digitale e di comunicare ogni modifica o variazione del medesimo secondo le modalita' fissate nelle Linee guida. ((Con le stesse Linee guida, fermo restando quanto previsto ai commi 3-bis e 4-bis, sono definite le modalita' di gestione e di aggiornamento dell'elenco di cui all'articolo 6-quater anche nei casi di decesso del titolare del domicilio digitale eletto o di impossibilita' sopravvenuta di avvalersi del domicilio)).
+I soggetti di cui ai commi 1 e 1-bis hanno l'obbligo di fare un uso diligente del proprio domicilio digitale e di comunicare ogni modifica o variazione del medesimo secondo le modalita' fissate nelle Linee guida. Con le stesse Linee guida, fermo restando quanto previsto ai commi 3-bis e 4-bis, sono definite le modalita' di gestione e di aggiornamento dell'elenco di cui all'articolo 6-quater anche nei casi di decesso del titolare del domicilio digitale eletto o di impossibilita' sopravvenuta di avvalersi del domicilio.
 
 2.
 
@@ -32,19 +32,15 @@ COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
 3-bis.
 
-Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per la semplificazione e la pubblica amministrazione, sentiti l'AgID e il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, e' stabilita la data a decorrere dalla quale le comunicazioni tra i soggetti di cui all'articolo 2, comma 2, e coloro che non hanno provveduto a eleggere un domicilio digitale ai sensi del comma 1-bis, avvengono esclusivamente in forma elettronica. ((Con lo stesso decreto sono determinate le modalita' con le quali ai predetti soggetti puo' essere reso disponibile un domicilio digitale ovvero altre modalita' con le quali, anche per superare il divario digitale, i documenti possono essere messi a disposizione e consegnati a coloro che non hanno accesso ad un domicilio digitale.))
+Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per la semplificazione e la pubblica amministrazione, sentiti l'AgID e il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, e' stabilita la data a decorrere dalla quale le comunicazioni tra i soggetti di cui all'articolo 2, comma 2, e coloro che non hanno provveduto a eleggere un domicilio digitale ai sensi del comma 1-bis, avvengono esclusivamente in forma elettronica. Con lo stesso decreto sono determinate le modalita' con le quali ai predetti soggetti puo' essere reso disponibile un domicilio digitale ovvero altre modalita' con le quali, anche per superare il divario digitale, i documenti possono essere messi a disposizione e consegnati a coloro che non hanno accesso ad un domicilio digitale.
 
 4.
 
 A decorrere dal 1° gennaio 2013, salvo i casi in cui e' prevista dalla normativa vigente una diversa modalita' di comunicazione o di pubblicazione in via telematica, le amministrazioni pubbliche e i gestori o esercenti di pubblici servizi comunicano con il cittadino esclusivamente tramite il domicilio digitale dallo stesso dichiarato, anche ai sensi dell'articolo 21-bis della legge 7 agosto 1990, n. 241, senza oneri di spedizione a suo carico. Ogni altra forma di comunicazione non puo' produrre effetti pregiudizievoli per il destinatario.L'utilizzo di differenti modalita' di comunicazione rientra tra i parametri di valutazione della performance dirigenziale ai sensi dell'articolo 11, comma 9, del decreto legislativo 27 ottobre 2009, n. 150. (28)
 
-((
-
 4-bis.
 
 Fino alla data fissata nel decreto di cui al comma 3-bis, i soggetti di cui all'articolo 2, comma 2, possono predisporre le comunicazioni ai soggetti che non hanno un domicilio digitale ovvero nei casi di domicilio digitale non attivo, non funzionante o non raggiungibile, come documenti informatici sottoscritti con firma digitale o altra firma elettronica qualificata, da conservare nei propri archivi, ed inviare agli stessi, per posta ordinaria o raccomandata con avviso di ricevimento, copia analogica di tali documenti sottoscritti con firma autografa sostituita a mezzo stampa predisposta secondo le disposizioni di cui all'articolo 3 del decreto legislativo 12 dicembre 1993, n. 39 ovvero un avviso con le indicazioni delle modalita' con le quali i suddetti documenti sono messi a disposizione e consegnati al destinatario.
-
-))
 
 4-ter.
 
@@ -56,7 +52,7 @@ Le modalita' di predisposizione della copia analogica di cui ai commi 4-bis e 4-
 
 4-quinquies.
 
-((Fino all'adozione delle Linee guida di cui all'articolo 3-bis, comma 1-ter, e alla realizzazione dell'indice di cui all'articolo 6-quater, e' possibile eleggere il domicilio speciale di cui all'articolo 47 del Codice civile anche presso un domicilio digitale diverso da quello di cui al comma 1-ter.)) In tal caso, ferma restando la validita' ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non puo' opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
+Fino all'adozione delle Linee guida di cui ((al comma 1-ter del presente articolo)) e alla realizzazione dell'indice di cui all'articolo 6-quater, e' possibile eleggere il domicilio speciale di cui all'articolo 47 del Codice civile anche presso un domicilio digitale diverso da quello di cui al comma 1-ter. In tal caso, ferma restando la validita' ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non puo' opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
 
 5.
 

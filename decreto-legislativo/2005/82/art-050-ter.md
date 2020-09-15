@@ -1,8 +1,6 @@
 Art. 50-ter.
 
-(( (Piattaforma Digitale Nazionale Dati) ))
-
-((
+(Piattaforma Digitale Nazionale Dati)
 
 1.
 
@@ -14,11 +12,11 @@ La Piattaforma Digitale Nazionale Dati e' gestita dalla Presidenza del Consiglio
 
 3.
 
-Nella Piattaforma Nazionale Digitale Dati non confluiscono i dati attinenti a ordine e sicurezza pubblica, difesa e sicurezza nazionale, polizia giudiziaria e polizia economico-finanziaria.
+Nella Piattaforma Nazionale Digitale Dati non confluiscono i dati attinenti a ((ordine e sicurezza pubblici)), difesa e sicurezza nazionale, polizia giudiziaria e polizia economico-finanziaria.
 
 4.
 
-Con decreto adottato dal Presidente del Consiglio dei ministri, di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2.
+Con decreto adottato dal Presidente del Consiglio dei ministri ((entro sessanta giorni dalla data di entrata in vigore della presente disposizione,)), di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2 ((, dando priorita' ai dati riguardanti gli studenti del sistema di istruzione e di istruzione e formazione professionale ai fini della realizzazione del diritto-dovere all'istruzione e alla formazione e del contrasto alla dispersione scolastica e formativa)).
 
 5.
 
@@ -35,5 +33,3 @@ Resta fermo che i soggetti di cui all'articolo 2, comma 2, possono continuare a 
 8.
 
 Le attivita' previste dal presente articolo si svolgono con le risorse umane, finanziarie e strumentali disponibili a legislazione vigente.
-
-))
