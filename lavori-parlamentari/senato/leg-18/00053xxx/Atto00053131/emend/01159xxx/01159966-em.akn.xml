@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/93.0.7"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="93.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/93.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZXRM3Y4OVXJNCNS3W1SCM5XRLI3SKCDG3GZAFGKVBBIUTA24CADB" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDKTFUUVVMHUAWK5E23HKNDCKTFDYTTJ1HX2WFQRO1OTAF3SSCA1AE" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDODFJFZP12T4VHB0VG2RKLPXJWGANFRCESOB2UHB4YODGZ0O3HM2I" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID4LQLOUT0NOOFN3U4P0D2DYQZTDAUIXVH3WS12JP5TVWZ4AN3F5PH" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID1I3C1BNUXCEJCOA3XQEUOIBHIGKF443O2DPWYUIGYXKWJDKTCIBF" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 93.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZXRM3Y4OVXJNCNS3W1SCM5XRLI3SKCDG3GZAFGKVBBIUTA24CADB" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKTFUUVVMHUAWK5E23HKNDCKTFDYTTJ1HX2WFQRO1OTAF3SSCA1AE" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDODFJFZP12T4VHB0VG2RKLPXJWGANFRCESOB2UHB4YODGZ0O3HM2I" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4LQLOUT0NOOFN3U4P0D2DYQZTDAUIXVH3WS12JP5TVWZ4AN3F5PH" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1I3C1BNUXCEJCOA3XQEUOIBHIGKF443O2DPWYUIGYXKWJDKTCIBF" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente</an:i>
+					:
+				</an:p>
+				<an:p align="center">
+					«Art. 93-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Cumulabilità dei redditi da prestazione di lavoro intermittente)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 17 del decreto legislativo 15 giugno 2015, n. 81, dopo il comma 2 è aggiunto il seguente:</an:p>
+				<an:p>
+					<an:i>2-bis</an:i>
+					. I redditi derivanti da prestazioni di lavoro intermittente sono cumulabili con le prestazioni integrative del salario o di sostegno a! reddito nel limite di 5.000 euro per anno. Per tali redditi non trovano applicazione le disposizioni degli articoli 9, secondo comma, e 10, primo comma, del decreto legislativo 4 marzo 2015, n. 22. L'INPS provvede a sottrarre dalla contribuzione figurativa relativa alle prestazioni integrative del salario o di sostegno al reddito gli accrediti contributivi derivanti dalle prestazioni di lavoro intermittente.''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
