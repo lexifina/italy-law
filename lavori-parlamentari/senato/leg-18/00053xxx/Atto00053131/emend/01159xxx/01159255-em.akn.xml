@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.24/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.24"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.24/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.24"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.24/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDANA5IM525DX0MB3GPTCTTQEAQCVGGR4YGURQSYBSIVEGL1NN4IQC" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDYMFZNBRBR0DGPXTX1N3QRFESOP03IS5Q3410NUOQI4XDVQFD4UYP" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDEQ4ZXVG1ZHLFLLATEQJDPKBHYFLUVFRBWYHHTVEOCNMMCSFDGVOK" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDSV1X3NEK0WT2JFKGZZCHFRJD4N412P1W35JVCSDOUL2COJJ4R5CO" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDILJGVN1NW2WQETLSRBDM53R5XBCW430PKNPNWQM2LJ20X1RWM4BO" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.24</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANA5IM525DX0MB3GPTCTTQEAQCVGGR4YGURQSYBSIVEGL1NN4IQC" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYMFZNBRBR0DGPXTX1N3QRFESOP03IS5Q3410NUOQI4XDVQFD4UYP" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEQ4ZXVG1ZHLFLLATEQJDPKBHYFLUVFRBWYHHTVEOCNMMCSFDGVOK" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSV1X3NEK0WT2JFKGZZCHFRJD4N412P1W35JVCSDOUL2COJJ4R5CO" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDILJGVN1NW2WQETLSRBDM53R5XBCW430PKNPNWQM2LJ20X1RWM4BO" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/292;</an:p>
+				<an:p>            il provvedimento in esame dispone al Titolo II, misure di sostegno alle imprese e all'economia ed in particolare all'articolo 35 stabilisce che SACE S.p.A. conceda in favore delle imprese di assicurazione dei crediti commerciali a breve termine autorizzate all'esercizio del ramo credito che abbiano aderito mediante apposita convenzione approvata con il decreto di cui al comma 31 una garanzia pari al 90 per cento degli indennizzi generati dalle esposizioni relative a crediti commerciali maturati dalla data di entrata in vigore del presente decreto e fino al 31 dicembre 2020 ed entro il limite massimo di 2000 milioni di euro;</an:p>
+				<an:p>            in particolare, con riferimento al settore della Difesa, il Ministro dell'economia e delle finanze, è stato autorizzato, da un precedente provvedimento per l'anno 2020 a rilasciare la garanzia dello Stato in favore di SACE S.p.A., su nuove operazioni deliberate nel corso del 2020, esclusivamente con controparte sovrana, nei limiti di cinque miliardi di euro in termini di flusso;</an:p>
+				<an:p>            le imprese italiane coinvolte nella produzione e nella fornitura a Paesi esteri sono a loro volta assistite sia dall'assicurazione, fornita dalla SACE, dei crediti che esse matura no nei confronti dello Stato estero acquirente, sia da prestiti per gli investimenti produttivi che devono sostenere (tali risorse sono avanzate dalla Cassa depositi e prestiti),</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
