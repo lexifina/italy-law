@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.9"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.9"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMEJ2LVXU1QS3LUDO5MLDCRCKVLFPVKF0GG1JFCLKOSBQN1EJ4SYF" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDSBIGXK4RRUR1EX0SGXVC3M3FRD2I5D3TYOSLBJTZNJNADSDDEEP" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDFQ0TA0SQQKVVGL5LTVJ4LVTGDKEZB01RRUWVQSJAZXFFEROK4NHE" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDMADR5G2DNCR3ETHLTDBSGYC3QI2CVE44QWUV3KP3ZO4AIX3LABFH" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDFLN5JENFSOBVNSKMXBZMW3GCLO4ZBSBJ050GNLKLAQFJTKYUXDGN" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMEJ2LVXU1QS3LUDO5MLDCRCKVLFPVKF0GG1JFCLKOSBQN1EJ4SYF" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSBIGXK4RRUR1EX0SGXVC3M3FRD2I5D3TYOSLBJTZNJNADSDDEEP" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFQ0TA0SQQKVVGL5LTVJ4LVTGDKEZB01RRUWVQSJAZXFFEROK4NHE" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMADR5G2DNCR3ETHLTDBSGYC3QI2CVE44QWUV3KP3ZO4AIX3LABFH" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFLN5JENFSOBVNSKMXBZMW3GCLO4ZBSBJ050GNLKLAQFJTKYUXDGN" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/240;</an:p>
+				<an:p>            il provvedimento in esame, nel fronteggiare una crisi epidemiologica senza precedenti, si ripropone di sostenere il sistema produttivo del Paese e il suo Titolo VIII, al Capo I, prevede specifiche misure per il settore turistico, oggi tra i più penalizzati dall'emergenza sanitaria da Covid-19. In particolare l'articolo 175 del Decreto Rilancio per incentivare le famiglie a trascorrere le vacanze in Italia introduce un credito, relativo al periodo d'imposta 2020 ed utilizzabile dal 1 º luglio al 31 dicembre 2020, per i pagamenti di servizi turistici sul territorio nazionale;</an:p>
+				<an:p>            nella citata norma sul «tax credit vacanze» non si fa tuttavia riferimento alla cittadinanza dei beneficiari, ma trattandosi di crediti utilizzabili solo in compensazione da parte del contribuente, se ne deduce che possono usufruirne solo i soggetti tenuti alla presentazione della dichiarazione dei redditi e titolari, pertanto, di capacità contributiva e residenza fiscale in Italia; l'iniziativa è quindi diretta a incentivare il settore turistico italiano escludendo tuttavia da tale agevolazione i cittadini italiani con residenza all'estero che anche per esigenze familiari potrebbero essere più interessati a trascorrere le vacanze nel nostro Paese;</an:p>
+				<an:p>            in un momento di crisi economica sempre più diffusa, in cui dopo mesi di isolamento e di misure restrittive molti nostri connazionali vorrebbero rientrare in Italia per trascorrere i periodi festivi con le loro famiglie, sarebbe utile prevedere anche per coloro che risiedono e lavorano all'estero un incentivo a trascorrere le vacanze in Italia riconoscendo eventualmente il credito d'imposta direttamente alla struttura recettiva che potrà così applicare lo sconto in fattura anche per l'ospite italiano residente all'estero che dimostri di possedere i requisiti prescritti dall'articolo 176 in termini di capacità reddituale,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, dì cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
