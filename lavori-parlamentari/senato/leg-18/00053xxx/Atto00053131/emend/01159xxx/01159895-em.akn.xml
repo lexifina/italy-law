@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/83.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/83.1"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/83.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="83.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/83.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOB4ILW10DYEKCQWUYCEYFSULGHX4L2GEC0WTYFMAQ3WZD5K24EZG" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDN0WRODL3X1QJNYQGTRO5JGZNFNU1BUOQ2HVCHSK0VOE3PSNWAN3H" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDHMC31WUBWRNFGL12BRQYM43SVM5LD3CUQC1TRIKC5TKSX2XLV2YM" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDRIHPO2YTGPYANKN1B0AICXQA0O2UFAT52G2IG3GCXK1S42NZUYBH" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDCLRO2IATBGZTCO3JJDX3F0KJHMFEVIZHUMRDY3FRFXCR3TLVO2WJ" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 83.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOB4ILW10DYEKCQWUYCEYFSULGHX4L2GEC0WTYFMAQ3WZD5K24EZG" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN0WRODL3X1QJNYQGTRO5JGZNFNU1BUOQ2HVCHSK0VOE3PSNWAN3H" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHMC31WUBWRNFGL12BRQYM43SVM5LD3CUQC1TRIKC5TKSX2XLV2YM" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRIHPO2YTGPYANKN1B0AICXQA0O2UFAT52G2IG3GCXK1S42NZUYBH" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCLRO2IATBGZTCO3JJDX3F0KJHMFEVIZHUMRDY3FRFXCR3TLVO2WJ" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Nella valutazione dell'idoneità alle mansioni dei lavoratori di cui al comma 1, il medico competente considera prioritariamente quale prescrizione finalizzata alla prosecuzione dello svolgimento delle mansioni stesse, l'adozione del lavoro agile di cui all'articolo 39 del decreto-legge 17 marzo, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>ter</an:i>
+					. L'attestazione dell'inidoneità temporanea alle mansioni rappresenta certificazione valida, sufficiente ed esaustiva per l'accesso, fino al termine dell'eventuale sospensione dell'attività lavorativa, ai benefici già previsti all'articolo 26, comma 2, del decreto-legge 17 marzo, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27. Detta astensione non è computabile ai fini del periodo di comporto né, in ogni caso, in diminuzione delle somme erogate dall'INPS, ai lavoratori dipendenti pubblici e privati in possesso del riconoscimento di disabilità con connotazione di gravità ai sensi dell'articolo 3, comma 3, della legge 5 febbraio 1992, n. 104, a titolo di indennità di accompagnamento per minorazione civile.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
