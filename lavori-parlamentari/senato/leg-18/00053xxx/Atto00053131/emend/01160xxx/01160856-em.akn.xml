@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/207.0.1"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="207.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/207.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQMC0BN5VZ0OVH3024BO2U21H5K5R1VCH0HFPQGEB203KAD3UELZG" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDKJRQGGG5WIR4GILT5J2VVV2MQDDFUPKZMI0BGZN52MGYUG0AHGBJ" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDBEGCJBXZXPBWKZ1M4YWYF2AJSMXHBJ42PUDWQQHR2K1YJHSQ42HC" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDLHVJE532DEFYPKPKSISSBX52RBS0QPBFBU2450DB1H325GZWVSCP" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDMGRBE4LG4DJLKZPWMHGAG5XHNK41HDBC2COSJOGPCWD4GPL1AFLD" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 207.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQMC0BN5VZ0OVH3024BO2U21H5K5R1VCH0HFPQGEB203KAD3UELZG" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKJRQGGG5WIR4GILT5J2VVV2MQDDFUPKZMI0BGZN52MGYUG0AHGBJ" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBEGCJBXZXPBWKZ1M4YWYF2AJSMXHBJ42PUDWQQHR2K1YJHSQ42HC" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLHVJE532DEFYPKPKSISSBX52RBS0QPBFBU2450DB1H325GZWVSCP" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMGRBE4LG4DJLKZPWMHGAG5XHNK41HDBC2COSJOGPCWD4GPL1AFLD" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, è inserito il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 207-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Accelerazione dell'attivazione degli accordi quadro e proroga della loro efficacia)</an:i>
+				</an:p>
+				<an:p>
+					        1. Le procedure di affidamento degli appalti specifici relativi ad accordi quadro, stipulati da una stazione appaltante in qualità di esclusiva beneficiaria degli stessi o per conto del gruppo di società al quale la stazione appaltante appartiene, come disciplinati dall'articolo 54 del decreto legislativo 18 aprile 2016, n. 50 sono indette con la massima celerità, immediatamente dopo la stipula dell'accordo quadro. Il contratto relativo al singolo appalto specifico è stipulato entro il termine di 30 giorni dall'avvio della relativa procedura di affidamento nelle ipotesi di cui ai commi 3 e 4, lettera 
+					<an:i>a)</an:i>
+					 del decreto legislativo 18 aprile 2016, n. 50. Ciascun accordo quadro deve prevedere l'affidamento di appalti specifici per un valore annuo non inferiore ad almeno il 20 per cento del valore complessivo stimato dell'accordo. Il valore complessivo stimato dell'accordo quadro deve essere necessariamente affidato ed eseguito nel corso della durata dell'accordo quadro attraverso gli appalti specifici per almeno il 75 per cento. La cauzione definitiva è resa esclusivamente in relazione ai singoli contratti attuativi e non sull'accordo quadro.
+				</an:p>
+				<an:p>        2. Le clausole sulla durata dei contratti di cui all'articolo 54 del decreto legislativo 18 aprile 2016, n. 50, sono modificate mediante l'integrazione automatica di una proroga per un periodo decorrente dal 23 febbraio 2020 fino alla dichiarazione della fine dell'emergenza sanitaria in corso.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
