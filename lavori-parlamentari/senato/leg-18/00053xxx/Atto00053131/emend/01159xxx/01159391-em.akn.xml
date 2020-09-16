@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.160/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.160"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.160/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.160"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.160/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDMQ4132LIKTJJEF0RNPVP1NWVMPW02H1XTAWMMMEFIBNPMSAEPPJ" href="http://dati.senato.it/29105" showAs="GIACOBBE"/>
+				<an:TLCPerson id="IDRE5PGQIZKZP1D4XLIGXWLDDJ4NQIFFH2KCLJQFLDNIKTZDYWSHF" href="http://dati.senato.it/4522" showAs="PITTELLA"/>
+				<an:TLCPerson id="IDFWILOOKO1ZMZNCB4D0IFGQT0PK4UAYMGR0KBFJNRVM3TADWXW2EL" href="http://dati.senato.it/25498" showAs="GARAVINI"/>
+				<an:TLCPerson id="IDS10LESBFTEKKIXMAT5U2BV5ROLWMPIVBF12DEDFI3MOOQH1GBJN" href="http://dati.senato.it/32742" showAs="ALDERISI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.160</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDMQ4132LIKTJJEF0RNPVP1NWVMPW02H1XTAWMMMEFIBNPMSAEPPJ" as="#tipoSenatore">GIACOBBE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRE5PGQIZKZP1D4XLIGXWLDDJ4NQIFFH2KCLJQFLDNIKTZDYWSHF" as="#tipoSenatore">PITTELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFWILOOKO1ZMZNCB4D0IFGQT0PK4UAYMGR0KBFJNRVM3TADWXW2EL" as="#tipoSenatore">GARAVINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS10LESBFTEKKIXMAT5U2BV5ROLWMPIVBF12DEDFI3MOOQH1GBJN" as="#tipoSenatore">ALDERISI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            le Camere di Commercio italiane all'estero (CCIE) riconosciute dallo Stato italiano sono 74, operanti in 53 Paesi del mondo; associano, su base volontaria, 20.000 imprese, sviluppando annualmente più di 3 00 mila contatti di affari;</an:p>
+				<an:p>            le CCIE sono connesse «a rete» in un sistema di promozione, radicato sui territori esteri, che costituisce un punto di riferimento per le comunità di affari italo-locali e un supporto di servizio alle piccole e medie imprese italiane;</an:p>
+				<an:p>            le CCIE, ai sensi dell'art. 1 della legge 580/93 fanno parte del Sistema camerale italiano con le cui unità operative è da tempo in atto un'intensa cooperazione nell'interesse delle PMI nazionali e con la finalità di sostenere i processi d'internazionalizzazione delle stesse;</an:p>
+				<an:p>            il Sistema Camerale italiano è tra i firmatari del «Patto per l'Export» firmato 1'8 giugno scorso, documento che evidenzia il ruolo delle CCIE come attivatrici delle comunità d'affari italo-estere nel mondo;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            in sede di esame del disegno di legge recante: «Conversione in legge del decreto-legge 17 marzo 2020, n. 18, recante misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19» il Governo ha accolto un ordine del giorno finalizzato ad estendere le disposizioni di cui all'art. 72, lettere a) e b) in materia di a) realizzazione di una campagna straordinaria di comunicazione volta a sostenere le esportazioni italiane e l'internazionalizzazione del sistema economico nazionale nel settore agroalimentare e negli altri settori colpiti dall'emergenza derivante dalla diffusione del Covid-19, e il potenziamento delle attività di promozione del sistema Paese anche per le Camere di commercio italiane all'estero (CCIE)«</an:p>
+				<an:p>            tutto ciò premesso e considerato,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valorizzare il contributo del sistema camerale italiano, ed in particolare delle CCIE, nelle azioni a favore dell'internazionalizzazione, come previsto già nel Patto per l'Export, anche attraverso l'affidamento da parte dell'Agenzia ICE e dell'ENIT di programmi e iniziative volte a coinvolgere e collegare imprese operanti in Italia e le business community all'estero aggregate dalle CCIE.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
