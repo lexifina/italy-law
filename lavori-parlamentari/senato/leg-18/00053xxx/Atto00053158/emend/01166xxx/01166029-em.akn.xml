@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/8.115/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/8.115"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/8.115/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8.115"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/8.115/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOU3QOYL0ILQGOIVD2GOTBZDA3C4T1DZ0BTUWDBJSHU0PSXPHDCGP" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDVFIJHU31ZY2PJJ24BWE0AGAKWIMGVMXRUVA03TFHNO04BKOIW5BI" href="http://dati.senato.it/29358" showAs="D'ARIENZO"/>
+				<an:TLCPerson id="ID3IGPLTKKLCWPDHEWKGEDPYHCENXOHV4O0PQ4LKNJB0VK5QDYU4EP" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+				<an:TLCPerson id="ID2YQ2RB3X0JEIHBQRJ0W3RMALLNAE3DP3XRR1UXPC444XVO2TSIRH" href="http://dati.senato.it/32632" showAs="FERRAZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8.115</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOU3QOYL0ILQGOIVD2GOTBZDA3C4T1DZ0BTUWDBJSHU0PSXPHDCGP" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVFIJHU31ZY2PJJ24BWE0AGAKWIMGVMXRUVA03TFHNO04BKOIW5BI" as="#tipoSenatore">D'ARIENZO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3IGPLTKKLCWPDHEWKGEDPYHCENXOHV4O0PQ4LKNJB0VK5QDYU4EP" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2YQ2RB3X0JEIHBQRJ0W3RMALLNAE3DP3XRR1UXPC444XVO2TSIRH" as="#tipoSenatore">FERRAZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 10, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «10-
+					<an:i>bis</an:i>
+					. Il documento unico di regolarità contributiva è comprensivo della verifica della congruità della incidenza della mano d'opera relativa allo specifico intervento, effettuata secondo le modalità indicate con decreto del Ministero del lavoro e delle politiche sociali, da adottarsi entro trenta giorni dalla sottoscrizione dell'accordo previsto dall'articolo 105, comma 16, del decreto legislativo 18 aprile 2016. Il possesso del documento di regolarità comprensivo della verifica della congruità è condizione anche per accedere ai benefici di cui all'articolo 119 del decreto-legge 19 maggio 2020, n. 34 e successive modifiche ed integrazioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
