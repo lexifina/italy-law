@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/G1.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/G1.5"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/G1.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/G1.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDXV2RKC550F5LBMODBHJL5SXOIS40N0WQ4TUFQMAPIXHRCMMLP3D" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDL5RMTZZB2ER5HNIDEVWDIRFI4DMATH1M3DCUFALLU0JOZBQ4LJIN" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDKBOH1EU5CVIGN0SKQLNWFXK0EB5QT2AGBIJ0FLEIP1AXQUM2QB4P" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDCYOI5HLH5Y2IGO1I3OXJAK3ACHUSM4GZSKC4VTBWGWJO2EAMY0JM" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDO2UKJSSXY3VBL0F2BZCGZWOJBE2SIJCGROLXLDGV1LTFFO0DWVQB" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDJLRAU0BUTYFUBLSQZN4O3Y4LSHSDTJAMO3IRVEHZ3AIQIIA5F4MP" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDXV2RKC550F5LBMODBHJL5SXOIS40N0WQ4TUFQMAPIXHRCMMLP3D" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDL5RMTZZB2ER5HNIDEVWDIRFI4DMATH1M3DCUFALLU0JOZBQ4LJIN" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKBOH1EU5CVIGN0SKQLNWFXK0EB5QT2AGBIJ0FLEIP1AXQUM2QB4P" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCYOI5HLH5Y2IGO1I3OXJAK3ACHUSM4GZSKC4VTBWGWJO2EAMY0JM" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO2UKJSSXY3VBL0F2BZCGZWOJBE2SIJCGROLXLDGV1LTFFO0DWVQB" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJLRAU0BUTYFUBLSQZN4O3Y4LSHSDTJAMO3IRVEHZ3AIQIIA5F4MP" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge n. 1874 di conversione, con modificazioni, del decreto-legge 16 luglio 2020, n. 76, recante misure urgenti per la semplificazione e l'innovazione digitale,</an:p>
+				<an:p>        premesso che,</an:p>
+				<an:p>            gli articoli 1 e 2 prevedono procedure semplificate per l'incentivazione degli investimenti pubblici in relazione all'aggiudicazione dei contratti pubblici sotto soglia e sopra soglia per far fronte alle ricadute economiche negative a seguito dell'emergenza sanitaria globale del COVID 19,</an:p>
+				<an:p>        impegna il Governo</an:p>
+				<an:p>            a stabilire che tali procedure semplificate e derogatorie non siano prorogabili oltre l'anno 2021.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
