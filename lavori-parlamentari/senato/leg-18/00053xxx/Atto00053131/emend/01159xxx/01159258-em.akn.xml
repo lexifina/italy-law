@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.27"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.27"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSRQIZFXOMQYBCMO2GVPVZIQ25BM2QGMIUOAXUPDJ0R1A1M2ORHL" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID3P2KGQO5AJ1ZI3SKMA3KWSPHCPDCYB4JRSOR0FIP2DK2D5P5NDIL" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDLRJONTUNTX35BVXCFQCDPV5JGMJER5OMNIVPOXGAFVVUL404GPEM" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID5RUCIN3AKK0JLHYCYRFQIT2HNHABXKGNUHIJZRM1SK4CJTOWTHNC" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDODFJFZP12T4VHB0VG2RKLPXJWGANFRCESOB2UHB4YODGZ0O3HM2I" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSRQIZFXOMQYBCMO2GVPVZIQ25BM2QGMIUOAXUPDJ0R1A1M2ORHL" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3P2KGQO5AJ1ZI3SKMA3KWSPHCPDCYB4JRSOR0FIP2DK2D5P5NDIL" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLRJONTUNTX35BVXCFQCDPV5JGMJER5OMNIVPOXGAFVVUL404GPEM" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5RUCIN3AKK0JLHYCYRFQIT2HNHABXKGNUHIJZRM1SK4CJTOWTHNC" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDODFJFZP12T4VHB0VG2RKLPXJWGANFRCESOB2UHB4YODGZ0O3HM2I" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/326;</an:p>
+				<an:p>            il provvedimento all'esame, di conversione in legge del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, all'articolo 23 reca ulteriori misure per la funzionalità del Ministero dell'interno, delle Forze di polizia e del Corpo nazionale dei Vigili del fuoco;</an:p>
+				<an:p>            costituisce un interesse pubblico quello fornire al personale delle forze dell'ordine equipaggiamenti difensivi e armi adeguate alle sfide sempre più complesse poste dalla società in cui opera e della cui sicurezza si occupa;</an:p>
+				<an:p>            recenti e dolorosi fatti di cronaca, verificatisi prima dell'arrivo in Italia del SARS-CoV-2, hanno dimostrato l'importanza per gli operatori delle forze dell'ordine di disporre di equipaggiamenti differenziati in ragione dei tipo di servizio svolto;</an:p>
+				<an:p>            in particolare, è emersa la necessità di differenziare le fondine destinate all'alloggiamento delle armi di servizio, dal momento che le circostanze di prevedibile ricorso alle armi sono diverse a seconda che l'episodio determinante colga l'operatore mentre è impegnato nel mantenimento dell'ordine pubblico, nel controllo del territorio o in attività di polizia giudiziaria;</an:p>
+				<an:p>            non è purtroppo da escludere che nei prossimi mesi l'aumento delle tensioni generato dalla crisi economicosociale indotta dal Covid-19 determini una vera e propria emergenza da gestire con la maggiore attenzione possibile,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
