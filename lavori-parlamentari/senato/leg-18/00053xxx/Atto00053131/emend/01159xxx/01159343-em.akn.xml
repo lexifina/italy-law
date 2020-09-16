@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.112/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.112"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.112/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.112"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.112/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRVT3XKINEWSDE23NOUK2FUQ03FX40NVZKA03O2FLWAIV4MVMSKVO" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDYRU55CU54RHTLLPEADMPMQVZGMDYVGMLYPTS0EH1JCAWLOC4MUZI" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDRVCSTJ4XIPTGH3AAXYNGE2BVFCR5VTC0TGHO51MVZADA4GY1YXYB" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDKL1I4T2IGAMOIZN3BDFJWW2JBGLMYV1NJCRVFLF0LQOHEQOSFIHF" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDQPTPNHKAGFGG3BROOJI0MBKQIEPUQ4PAI3WXSPYYQMGSBDCOIXN" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.112</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRVT3XKINEWSDE23NOUK2FUQ03FX40NVZKA03O2FLWAIV4MVMSKVO" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYRU55CU54RHTLLPEADMPMQVZGMDYVGMLYPTS0EH1JCAWLOC4MUZI" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRVCSTJ4XIPTGH3AAXYNGE2BVFCR5VTC0TGHO51MVZADA4GY1YXYB" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKL1I4T2IGAMOIZN3BDFJWW2JBGLMYV1NJCRVFLF0LQOHEQOSFIHF" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQPTPNHKAGFGG3BROOJI0MBKQIEPUQ4PAI3WXSPYYQMGSBDCOIXN" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il decreto-legge all'esame prevede diverse disposizioni relative a garantire la funzionalità delle Forze dell'ordine, comprese le procedure concorsuali, in corso o da indire, e formative per l'accesso ai ruoli e alle qualifiche delle Forze armate, delle Forze di polizia e del Corpo nazionale dei vigili del fuoco;</an:p>
+				<an:p>            l'emergenza sanitaria da COVID-19 ha visto accresciute le competenze delle Forze di Polizia le quali devono intervenire, in prima linea, con lavoro straordinario per garantire l'ordine e la sicurezza anche nel rispetto dei protocolli sanitari anti-contagio ma devono essere messe, a loro volta, in condizione di intervenire con adeguati livelli di sicurezza sia con riguardo alla disponibilità dei dpi sia con riguardo agli strumenti di lavoro sicuri come nuove fondine, guanti anti-taglio e anti-puntura, giubbotti anti-proiettile per la protezione contro palle rigate da arma lunga e sotto camicia, caschi u-bot, telecamere idonee alla registrazione dell'attività operativa e la dotazione del sistema di bordo «Mercurio» sulle autovetture della Polizia di Stato;</an:p>
+				<an:p>            avere videocamere di controllo del territorio, di vigilanza di siti considerati sensibili e negli ambienti in cui vengono trattenute persone sottoposte a misure di polizia o comunque restrittive della libertà personale, avere fondine ad estrazione rapida in polimero, che non si rompano all'uso, dotare il personale che espleta il servizio in abiti civili di nuovo vestiario, prevedere un percorso di aggiornamento e addestramento professionale, significa far lavorare la Polizia di Stato in condizioni dignitose e di sicurezza;</an:p>
+				<an:p>            a tal fine sarebbe utile un sistema di monitoraggio costante dell'efficienza e dell'adeguatezza degli strumenti in dotazione alle forze dell'ordine che potrebbe essere affidato ad un'apposita commissione;</an:p>
+				<an:p>            il presente decreto-legge, in deroga al decreto-legge n. 113 del 2018, cosiddetto sicurezza, peraltro, garantisce l'ospitalità presso i SIPROIMI ai richiedenti asilo fino a 6 mesi dopo la fine dell'emergenza sanitaria, fissata al 31 luglio, mentre i SIPROIMI sono riservati ai titolari di protezione e ai minori stranieri non accompagnati, mandando così nuovamente in prima linea le Forze dell'Ordine per il controllo dell'immigrazione di cittadini extra-comunitari che vengono recuperati nei centri di prima accoglienza e che risultano poi positivi al COVID-19,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a garantire, con ulteriori interventi normativi, le risorse finanziarie necessarie all'acquisto di nuovi equipaggiamenti protettivi, come illustrato in premessa, adeguati a consentire alla Polizia di Stato di intervenire in condizione di sicurezza sia dal punto di vista sanitario sia dal punto di vista dell'incolumità personale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
