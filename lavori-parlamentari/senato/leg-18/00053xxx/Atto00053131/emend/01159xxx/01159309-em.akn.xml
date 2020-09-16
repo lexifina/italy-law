@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.78/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.78"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.78/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.78"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.78/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJNMV2BVRTOY5NVHR1ZEADBSPTODC43B1MPBAGPJ2NH4WWSQGZPOF" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDVSCSVXFVO2HZLTNPRA1C4QC0NKZ3VUVCSDXCHUFSSTH3DAVGVLTC" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDF3MJSVSTR11FKH4WBJ5OWLY1YMOTSBPR4UA2XMDMYNA2WOU0XAN" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDBCEVS5WKT4CUI3HR4RTLDDQJ0DHMUUWIBEHQZJJLICTPZSIO4FHC" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID5VOZUMSB1P5VKZPX0BWQFUB0OEEUDEBNXQ5OLBP5J2OKBIMAAK5L" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.78</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJNMV2BVRTOY5NVHR1ZEADBSPTODC43B1MPBAGPJ2NH4WWSQGZPOF" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVSCSVXFVO2HZLTNPRA1C4QC0NKZ3VUVCSDXCHUFSSTH3DAVGVLTC" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF3MJSVSTR11FKH4WBJ5OWLY1YMOTSBPR4UA2XMDMYNA2WOU0XAN" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBCEVS5WKT4CUI3HR4RTLDDQJ0DHMUUWIBEHQZJJLICTPZSIO4FHC" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5VOZUMSB1P5VKZPX0BWQFUB0OEEUDEBNXQ5OLBP5J2OKBIMAAK5L" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/310;</an:p>
+				<an:p>            il provvedimento in esame, al Titolo Il, prevede specifiche disposizioni finalizzate ad incentivare, agevolare e sostenere le imprese in comprovata difficoltà a causa dell'emergenza epidemiologica da COVID-19;</an:p>
+				<an:p>            in particolare, il contributo a fondo perduto introdotto dall'articolo 25 è una delle misure più importanti e attese dagli operatori economici duramente colpiti dal fermo produttivo conseguente alle misure di contenimento;</an:p>
+				<an:p>            il comma 4 del predetto articolo definisce la condizione cui è subordinata la spettanza del contributo: l'ammontare del fatturato e dei corrispettivi del mese di aprile 2020 deve essere inferiore ai due terzi dell'ammontare del fatturato e dei corrispettivi del mese di aprile 2019;</an:p>
+				<an:p>            la condizione così come stabilita si calcola applicando una percentuale sullo scostamento tra i due fatturati. La percentuale da applicare è pari al 20 per cento se i ricavi e compensi 2019 non superano i 400 mila euro, del 15 per cento se superano i 400 mila ma non 1 milione, del 10 per cento se superano il milione ma non i 5 milioni di euro, soglia massima al superamento del quale ricordiamo non spetta più il contributo, aver previsto come parametro economico di riferimento l'ammontare del fatturato e dei corrispettivi del mese di aprile 2019 è fuorviante, iniquo e potenzialmente svantaggioso, soprattutto per le attività economiche che consolidano i loro fatturati su un andamento fluttuante delle loro entrate,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
