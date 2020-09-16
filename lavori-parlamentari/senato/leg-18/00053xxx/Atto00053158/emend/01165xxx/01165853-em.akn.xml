@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/2.0.8"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/2.0.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGQDO5XJGSBU1CK5B5MHVIXH0KGVDQEM3YK1MIKCALFHPDIJIJH3" href="http://dati.senato.it/32628" showAs="FAZZOLARI"/>
+				<an:TLCPerson id="IDS31MWFY4ISOQBAJBM2AD5CMKCBDOUVVTRRGXE2JJMA510EBYKKEL" href="http://dati.senato.it/32708" showAs="RUSPANDINI"/>
+				<an:TLCPerson id="IDFOCOKR4AME1YODKZ4HUO1Q333O54IZBVDF0NCYMVXZPJAHL34YV" href="http://dati.senato.it/22784" showAs="TOTARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGQDO5XJGSBU1CK5B5MHVIXH0KGVDQEM3YK1MIKCALFHPDIJIJH3" as="#tipoSenatore">FAZZOLARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS31MWFY4ISOQBAJBM2AD5CMKCBDOUVVTRRGXE2JJMA510EBYKKEL" as="#tipoSenatore">RUSPANDINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFOCOKR4AME1YODKZ4HUO1Q333O54IZBVDF0NCYMVXZPJAHL34YV" as="#tipoSenatore">TOTARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente</an:i>
+					:
+				</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Finanziamento virtuale per adempimenti fiscali delle imprese del settore turismo)</an:i>
+				</an:p>
+				<an:p>        1. Alle imprese del settore turismo, aventi sede in Italia, è riconosciuto a richiesta un finanziamento virtuale pari al 15 per cento del fatturato registrato nell'anno 2019, nel limite complessivo di spesa 500 milioni di euro per l'anno 2020. L'importo di cui al primo periodo è utilizzato in compensazione, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, con i versamenti di imposte, tasse e contributi da corrispondersi nell'anno 2020, a partire dalla data di entrata in vigore della legge di conversione del presente decreto.</an:p>
+				<an:p>        2. Il finanziamento virtuale di cui al comma 1 è riportato nel cassetto fiscale di ciascun soggetto avente diritto e il suo importo è decurtato ad ogni pagamento effettuato ai sensi del comma 1.</an:p>
+				<an:p>        3. Sulla base dell'importo residuo al 1 gennaio 2021 nel cassetto fiscale, si calcola il finanziamento di cui ha usufruito ciascun avente diritto, detraendo dall'importo del finanziamento virtuale iniziale l'importo residuo. L'importo risultante dalla sottrazione di cui al primo periodo, decurtato di un ulteriore venti per cento, che non concorre a formare base imponibile delle imposte sul reddito né dell'lrap, è restituito allo stato con pagamenti rateali senza interessi.</an:p>
+				<an:p>        4. Il ministro dell'economia e delle finanze, con proprio decreto da emanare, di concerto con il ministro dello sviluppo economico e con il ministro per i beni e le attività culturali e per il turismo, entro 30 giorni dall'entrata in vigore della legge di conversione del presente decreto, definisce le modalità attuative del presente articolo individuando le categorie di imprese che possono accedere ai finanziamenti e prevedendo che le restituzioni di cui al comma 3 siano effettuate con un numero minimo di rate non inferiore a cinque.</an:p>
+				<an:p>        5. All'onere di cui al presente articolo, pari ad euro 500 milioni per l'anno 2020, si provvede mediante corrispondente riduzione del fondo di cui all'articolo 1, comma 255, della legge 30 dicembre 2018, n. 145.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
