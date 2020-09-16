@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.19"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.19"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMVIKK11WSHTDLIJPIN2VZNR0UFCKNSNBMER01WJCNEJIJXQHM4OC" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDILZHMD3A3WHLOBGH5J1GD2VULLMTBIBKHONKPI3UMOEX5P5Z23J" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDHDDYK221X4EUO5NJM0TRWIU1OJAV2FIKCMITBHQC4NNETRLA1EP" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDIJLJTVWUJVQQMDMQQWKJUGG22GW4A0YFFVHRU4G1LDMIOKMOKXVI" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID0NXRXVDDHBDHGGJELJQ52HRXVD1J4G3TBIH43JINBHQ3EV453UNH" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMVIKK11WSHTDLIJPIN2VZNR0UFCKNSNBMER01WJCNEJIJXQHM4OC" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDILZHMD3A3WHLOBGH5J1GD2VULLMTBIBKHONKPI3UMOEX5P5Z23J" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHDDYK221X4EUO5NJM0TRWIU1OJAV2FIKCMITBHQC4NNETRLA1EP" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIJLJTVWUJVQQMDMQQWKJUGG22GW4A0YFFVHRU4G1LDMIOKMOKXVI" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0NXRXVDDHBDHGGJELJQ52HRXVD1J4G3TBIH43JINBHQ3EV453UNH" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/263;</an:p>
+				<an:p>            l'articolo 186 rafforza il regime straordinario di accesso al credito di imposta per gli investimenti pubblicitari introdotto per il 2020 dal decreto-legge n. 18 del 2020 che, in considerazione dell'attesa caduta dei volumi di investimento derivante dall'emergenza sanitaria, ha commisurato l'importo del medesimo credito al valore totale degli investimenti effettuati, anziché ai soli investimenti incrementali. In particolare, l'importo massimo dell'investimento ammesso al credito d'imposta è ora elevato dal 30) al 50 per cento ed è direttamente fissato in 60 milioni di euro il tetto di spesa;</an:p>
+				<an:p>            l'emergenza sanitaria ha messo in evidenza il ruolo dell'informazione locale e di quella digitale;</an:p>
+				<an:p>            le testimonianze provenienti dalle realtà locali hanno riferito alle comunità quanto avveniva in provincia e sullo scenario nazionale senza sosta. Ma la crisi economica, derivata dall'emergenza COVID, ha colpito anche il settore dell'informazione;</an:p>
+				<an:p>            nel primo semestre del 2020 si stima una perdita di circa 403 milioni di euro per il calo degli investimenti pubblicitari e dei ricavi da vendita, il provvedimento in discussione, avrebbe dovuto avere maggior attenzione al settore della stampa locale e quindi ipotizzare non solo un credito di imposta per gli investimenti pubblicitari, ma anche forse più dirette di contribuzione quali ad esempio un fondo tramite il quale evitare la chiusura di molte imprese editoriali, la perdita di posti di lavoro e il rischio concreto di una desertificazione del panorama dell'informazione e del pluralismo;</an:p>
+				<an:p>            in un momento come questo non si possono dimenticare neanche le false informazioni che durante i periodi più acuti della pandemia spesso si diffondevano tramite i social network;</an:p>
+				<an:p>            e proprio le fake news hanno imperversato in maniera massiccia fin dall'inizio dell'emergenza coronavirus, con i sociaI network come protagonisti e le chat a fare da cassa di risonanza alle «bufale» che in molti casi è toccato proprio all'editoria locale sconfessare riportando l'informazione sulla giusta rotta;</an:p>
+				<an:p>            il pluralismo è sinonimo di democrazia per questo le testate locali hanno garantito un'informazione puntuale e corretta al servizio del cittadino;</an:p>
+				<an:p>            con Ordine del Giorno 9/02461-AR/098, accolto nella seduta del 27 maggio 2020, il Governo si è già impegnato a valutare la possibilità di riconoscere un contributo a fondo perduto a beneficio di imprese editrici di quotidiani e di periodici locali che già non beneficino di altri contributi statali e a prescindere dalla forma giuridica o dall'appartenenza a gruppi,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
