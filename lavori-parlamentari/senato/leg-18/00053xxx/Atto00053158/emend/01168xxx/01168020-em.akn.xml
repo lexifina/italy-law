@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.50/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.50"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.50/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="50.50"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/50.50/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4ZI1QX4RT2DM53UYIGAZFHRLN1H415U4HYHFHHNE2XBJSYGC4C" href="http://dati.senato.it/32643" showAs="GRIMANI"/>
+				<an:TLCPerson id="IDDX3H31OGFWA4BA0U5KQ2BVPFQBZE2YD3JH4LJQHQ32RQBFNNNRGO" href="http://dati.senato.it/32731" showAs="VONO"/>
+				<an:TLCPerson id="IDB2BGFPMYTREGDLGJT02Z2QRXZPGFDVD3NJVPLB25V21MPAQURSB" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDCOFDCNR2N2LCVIU35NLTWZTTPKPJ5VDJIG3VSNP04HPBYSYJVOF" href="http://dati.senato.it/32678" showAs="PACIFICO"/>
+				<an:TLCPerson id="IDKQKHQE2XECWDLIJLCBSB3L0ZTIBL4NSR0INVZ0GIDCAFPACK0KL" href="http://dati.senato.it/32619" showAs="DI GIROLAMO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 50.50</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4ZI1QX4RT2DM53UYIGAZFHRLN1H415U4HYHFHHNE2XBJSYGC4C" as="#tipoSenatore">GRIMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDX3H31OGFWA4BA0U5KQ2BVPFQBZE2YD3JH4LJQHQ32RQBFNNNRGO" as="#tipoSenatore">VONO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB2BGFPMYTREGDLGJT02Z2QRXZPGFDVD3NJVPLB25V21MPAQURSB" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCOFDCNR2N2LCVIU35NLTWZTTPKPJ5VDJIG3VSNP04HPBYSYJVOF" as="#tipoSenatore">PACIFICO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKQKHQE2XECWDLIJLCBSB3L0ZTIBL4NSR0INVZ0GIDCAFPACK0KL" as="#tipoSenatore">DI GIROLAMO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 d)
+					<an:i>, numero 1), dopo il primo periodo è aggiunto il seguente:</an:i>
+					 «Alla commissione di cui al periodo precedente vengono sottoposte anche le procedure di valutazione di impatto ambientale dei progetti relativi agli interventi ricompresi nella sezione acquedotti del Piano nazionale di interventi nel settore idrico di cui all'articolo 1, comma 516, della legge 27 dicembre 2017, n. 205.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
