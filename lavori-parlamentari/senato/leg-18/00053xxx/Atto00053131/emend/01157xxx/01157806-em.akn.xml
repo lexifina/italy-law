@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/23.0.31"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.0.31"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/23.0.31/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDD5FH0UJILAJOJVHUL3LEJAETBI1JAORUTA51LRLYXIMUD5WO5OVP" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDLM3RJU1NWXNJK3EGGIJVCKEKGLUWQ4ZD25SR5BJ1EV15WQ0WZJUO" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="ID12CS3PD5KEJ3JY1DLZ5ZJK3QAJFV2LECVREBF4EMFN2LX5KD1JSC" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDWO2KMG3QRVDGI20CJ4FQGKQM1MP3P0S14HWKJSKOMOHYZ3STXGDD" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID32L0S1HGTO5PCHK153UNZTKNZL5S4F1XC2MDB4HYN4Z4MSJUZB1G" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.0.31</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD5FH0UJILAJOJVHUL3LEJAETBI1JAORUTA51LRLYXIMUD5WO5OVP" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLM3RJU1NWXNJK3EGGIJVCKEKGLUWQ4ZD25SR5BJ1EV15WQ0WZJUO" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID12CS3PD5KEJ3JY1DLZ5ZJK3QAJFV2LECVREBF4EMFN2LX5KD1JSC" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWO2KMG3QRVDGI20CJ4FQGKQM1MP3P0S14HWKJSKOMOHYZ3STXGDD" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID32L0S1HGTO5PCHK153UNZTKNZL5S4F1XC2MDB4HYN4Z4MSJUZB1G" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 23, è inserito il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 23-
+					<an:b>
+						<an:i>bis</an:i>
+						.
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Risorse per l'acquisizione di sistemi di videosorveglianza)</an:i>
+				</an:p>
+				<an:p>
+					        1. Per l'anno 2020 è riconosciuto ai Comuni un contributo, ne! limite complessivo di 100 milioni di euro, per l'installazione di sistemi di videosorveglianza, nell'ambito delle risorse del Fondo per la sicurezza urbana, istituito dall'articolo 35-
+					<an:i>quater</an:i>
+					 del decreto-legge 4 ottobre 2018, n. 113, convertito, con modificazioni, dalla legge 1º dicembre 2018, n. 132, all'uopo incrementato di 100 milioni di euro per l'anno 2020.
+				</an:p>
+				<an:p>        2. Con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, da adottarsi entro il 15 agosto 2020, è determinata la misura del contributo spettante a ciascun Comune ai sensi del presente articolo.</an:p>
+				<an:p>        3. All'onere derivante dal presente articolo, pari a euro 100 milioni per l'anno 2020 si provvede mediante corrispondente riduzione del Fondo per far fronte ad esigenze indifferibili che si manifestano nel corso della gestione di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato dall'articolo 265, comma 5, del presente decreto-legge.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
