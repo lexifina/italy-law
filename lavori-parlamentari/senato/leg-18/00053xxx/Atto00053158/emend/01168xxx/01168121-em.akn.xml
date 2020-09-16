@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.0.7"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="50.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/50.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3DCVUDHQQMDAKYQK5RYACM5IRPHDB3SV3POKCLGWBG10JDMBTXUE" href="http://dati.senato.it/26539" showAs="GALLONE"/>
+				<an:TLCPerson id="IDQBAHJB5CXBLIJNFKN3LDH4X0MPHAYNFADXRBFYP1W1YIDAXNQ4GK" href="http://dati.senato.it/30396" showAs="PAPATHEU"/>
+				<an:TLCPerson id="IDZFGBNGCIKWATIMGS1DUJHMDDAEWYKSUD2GPPFNICMND2WIPOVV5I" href="http://dati.senato.it/25412" showAs="ROSSI"/>
+				<an:TLCPerson id="IDMUBTMFODX0PRP4P3SYOE44B31OQLT5LCJRASIQFRMM10HDIWSF1B" href="http://dati.senato.it/25205" showAs="Alfredo MESSINA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 50.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3DCVUDHQQMDAKYQK5RYACM5IRPHDB3SV3POKCLGWBG10JDMBTXUE" as="#tipoSenatore">GALLONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQBAHJB5CXBLIJNFKN3LDH4X0MPHAYNFADXRBFYP1W1YIDAXNQ4GK" as="#tipoSenatore">PAPATHEU</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZFGBNGCIKWATIMGS1DUJHMDDAEWYKSUD2GPPFNICMND2WIPOVV5I" as="#tipoSenatore">ROSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMUBTMFODX0PRP4P3SYOE44B31OQLT5LCJRASIQFRMM10HDIWSF1B" as="#tipoSenatore">Alfredo MESSINA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 50-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Analisi territoriale per il rispetto della vincolistica)</an:i>
+				</an:p>
+				<an:p>        All'articolo 1, comma 5 della legge 23 agosto 2004, n. 239, aggiungere in fine il seguente periodo: ''I soggetti proponenti, ai fini della progettazione, possono consultare le amministrazioni preposte alla tutela dell'ambiente, dei beni culturali e del paesaggio per ottenere informazioni circa i vincoli e le prescrizioni relative al territorio interessato dal tracciato, chiedere in merito pareri preventivi e conoscere le linee guida, le misure, i piani e programmi adottati o in via di adozione da parte delle amministrazioni ai fini della tutela e della valorizzazione dei beni ambientali, paesaggistici, culturali ed archeologici. Le amministrazioni rispondono entro trenta giorni dalla richiesta.''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
