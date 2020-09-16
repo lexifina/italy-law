@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/82.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/82.11"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/82.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="82.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/82.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0I3WHO4FLJBUCJYFHEOCXBZMMHSSXWCAITPADIM4KVQ1MZD1V0OI" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDHMC31WUBWRNFGL12BRQYM43SVM5LD3CUQC1TRIKC5TKSX2XLV2YM" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDPRKFUUX4ZJH1NRX5UIZR3YV03DW4BTNCVH3IITC5YJYQUAO1PG3J" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDPN1DFV34DBICH2TAWGU5YL5THPV52OKBHYISQ1KK2GYLD1KTDGAE" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDDVAFMDPHUTTVITHKTIIPJXWK0CWZ0EH5DMCTSFNN5TZ2KHXHGXJ" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 82.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0I3WHO4FLJBUCJYFHEOCXBZMMHSSXWCAITPADIM4KVQ1MZD1V0OI" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHMC31WUBWRNFGL12BRQYM43SVM5LD3CUQC1TRIKC5TKSX2XLV2YM" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPRKFUUX4ZJH1NRX5UIZR3YV03DW4BTNCVH3IITC5YJYQUAO1PG3J" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPN1DFV34DBICH2TAWGU5YL5THPV52OKBHYISQ1KK2GYLD1KTDGAE" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDVAFMDPHUTTVITHKTIIPJXWK0CWZ0EH5DMCTSFNN5TZ2KHXHGXJ" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 5 con il seguente</an:i>
+					:
+				</an:p>
+				<an:p>        «5. Ciascuna quota del Rem è determinata in un ammontare pari a 400 euro, moltiplicati peri il corrispondente parametro della scala di equivalenza di cui all'allegato 1 del decreto del Presidente del Consiglio dei ministri 5 dicembre 2013, n. 159 (ISEE).».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 11, sostituire le parole</an:i>
+					: «954,6 milioni di euro» 
+					<an:i>con le seguenti</an:i>
+					: «1.004,6 milioni di euro»;
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 265, comma 5, sostituire le parole</an:i>
+					: «475,3 milioni di euro» 
+					<an:i>con le seguenti</an:i>
+					: «425,3 milioni di euro».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
