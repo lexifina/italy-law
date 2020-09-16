@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/1.14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/1.14"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/1.14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.14"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/1.14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMP1ZB0DJ53DRGC4SIQOTJWV25F51YAYSDS4WYHJOFTYCC0XGCDIK" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDAL2X1NJF3RBECJLU1FLNQG1W2LIYLG5UQTJP05E1OSVHQUQZ2DEE" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDOGZW05QDGP3SEURYZBZKTHDOMMMC1SFXQAHAUFLM3OEDQE4SGDGO" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDRU4BTL5SSWHV3WLOVSWZ52O3EQEGAR0A1KPGEFAXEH3DXATJ2IF" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDOZJOFQJRRLHGLENTZRBH540KLPBU3N2HPM403BCEPGLDBDEMMEBL" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMP1ZB0DJ53DRGC4SIQOTJWV25F51YAYSDS4WYHJOFTYCC0XGCDIK" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAL2X1NJF3RBECJLU1FLNQG1W2LIYLG5UQTJP05E1OSVHQUQZ2DEE" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOGZW05QDGP3SEURYZBZKTHDOMMMC1SFXQAHAUFLM3OEDQE4SGDGO" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRU4BTL5SSWHV3WLOVSWZ52O3EQEGAR0A1KPGEFAXEH3DXATJ2IF" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOZJOFQJRRLHGLENTZRBH540KLPBU3N2HPM403BCEPGLDBDEMMEBL" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 10 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «10-
+					<an:i>bis</an:i>
+					. Le Regioni che hanno anticipato gli indennizzi da disporre, ai sensi del comma 586, articolo 1 della legge 28 dicembre 2015, n. 208, dovuti alle persone danneggiate da trasfusioni, somministrazioni di emoderivati o vaccinazioni, in base alia legge 25 febbraio 1992, n. 210, riconosciuti dopo il 19 maggio 2001, di cui al decreto del Presidente del Consiglio dei ministri 26 maggio 2000, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 238 dell'11 ottobre 2000, a partire dall'annualità 2012, in attesa del trasferimento dallo Stato delle somme dovute, fermo restando il pareggio di bilancio e il rispetto degli obiettivi di finanza pubblica previsti annualmente dalle leggi dello Stato nonché il rispetto dell'equilibrio economico e finanziario del Servizio sanitario regionale e l'erogazione dei livelli essenziali di assistenza, come certificati dal Tavolo tecnico per la verifica degli adempimenti di cui all'intesa 23 marzo 2005 sancita in sede di Conferenza permanente per i rapporti tra lo Stato, le Regioni e le Province autonome di Trento e di Bolzano, non devono stanziare nuovamente l'ammontare delle anticipazioni ove le stesse fossero state effettuate sulla base di risorse regolarmente iscritte a bilancio ai sensi del decreto legislativo n. 118 del 2011 e successive modificazioni. Nel momento in cui lo Stato procede al finanziamento degli specifici stanziamenti per tali indennizzi, le Regioni appostano le relative risorse a valere sugli stanziamenti originari ancorché non esistano obbligazioni sottostanti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
