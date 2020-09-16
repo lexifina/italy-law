@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/11.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/11.20"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/11.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/11.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFWJRQALPADFBONS0RLXITHIV2OIIUIKYJ02VD1AEDFOR2PMMPFI" href="http://dati.senato.it/32629" showAs="FEDE"/>
+				<an:TLCPerson id="IDG4UXR4WT30RBFRSNHHSA4HKACWPEGLE2AW0IC5RJCVMCFRPXTJ" href="http://dati.senato.it/34677" showAs="PAVANELLI"/>
+				<an:TLCPerson id="IDZRXIPKHJWCC1DL24LP1BYJH2VH5T30EX3SYH0WMPBGUSNGM2OIFJ" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDOXGYVKJPJGRSEH0ONZKRQGFYWOTQCHU0KSS2QBOJRJ2PPRCB43DP" href="http://dati.senato.it/32725" showAs="TRENTACOSTE"/>
+				<an:TLCPerson id="IDMYSK0MIMSWUGHWTTMQM5F3STYJLWXZ0BZZQHQ4KGT3IF4TX42LFP" href="http://dati.senato.it/32678" showAs="PACIFICO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFWJRQALPADFBONS0RLXITHIV2OIIUIKYJ02VD1AEDFOR2PMMPFI" as="#tipoSenatore">FEDE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG4UXR4WT30RBFRSNHHSA4HKACWPEGLE2AW0IC5RJCVMCFRPXTJ" as="#tipoSenatore">PAVANELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZRXIPKHJWCC1DL24LP1BYJH2VH5T30EX3SYH0WMPBGUSNGM2OIFJ" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOXGYVKJPJGRSEH0ONZKRQGFYWOTQCHU0KSS2QBOJRJ2PPRCB43DP" as="#tipoSenatore">TRENTACOSTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMYSK0MIMSWUGHWTTMQM5F3STYJLWXZ0BZZQHQ4KGT3IF4TX42LFP" as="#tipoSenatore">PACIFICO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 3, aggiungere, in fine, il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis</an:i>
+					. All'articolo 16, comma 5-
+					<an:i>bis</an:i>
+					, del decreto legislativo 14 settembre 2015, n. 147, dopo la parola: ''Sicilia'' sono inserite le seguenti: '', ovvero nei territori dei comuni colpiti dagli eventi sismici verificatisi a far data dal 24 agosto 2016, ricompresi nei Comuni indicati negli allegati 1, 2 e 2-
+					<an:i>bis</an:i>
+					 del decreto-legge 17 ottobre 2016, n. 189, convertito con modificazioni dalla legge 15 dicembre 2016, n. 229''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
