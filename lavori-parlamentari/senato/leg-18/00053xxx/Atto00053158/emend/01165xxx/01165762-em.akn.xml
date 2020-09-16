@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/1.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/1.16"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/1.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/1.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXWPDSA2YONYNL2KI1L05UOWBYBVJFPDVP5NAMINWS5BYQQZPABE" href="http://dati.senato.it/32731" showAs="VONO"/>
+				<an:TLCPerson id="IDS1XR1MWIRYCAJT5NRU1ABSLT0FONY3HCZ5DXC1N2IZTVDIH5SBE" href="http://dati.senato.it/32643" showAs="GRIMANI"/>
+				<an:TLCPerson id="IDQZH3VP00A1MRB0E2I5L5A3TXRKISTXWUIF5JYPEQKRNGKUFIXB3K" href="http://dati.senato.it/29464" showAs="MAGORNO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXWPDSA2YONYNL2KI1L05UOWBYBVJFPDVP5NAMINWS5BYQQZPABE" as="#tipoSenatore">VONO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS1XR1MWIRYCAJT5NRU1ABSLT0FONY3HCZ5DXC1N2IZTVDIH5SBE" as="#tipoSenatore">GRIMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQZH3VP00A1MRB0E2I5L5A3TXRKISTXWUIF5JYPEQKRNGKUFIXB3K" as="#tipoSenatore">MAGORNO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					        1. 
+					<an:i>Al comma 1, terzo periodo, sostituire le parole:</an:i>
+					 «possono essere» 
+					<an:i>con la seguente:</an:i>
+					 «sono».
+				</an:p>
+				<an:p>
+					        2. 
+					<an:i>Al comma 2, lettera</an:i>
+					 a)
+					<an:i>, sostituire le parole:</an:i>
+					 «150.000» 
+					<an:i>con le seguenti:</an:i>
+					 «80.000»
+					<an:i>, e le parole:</an:i>
+					 «per servizi e forniture nei limiti delle soglie di cui al citato art. 35» 
+					<an:i>con le seguenti:</an:i>
+					 «nel rispetto del principio di rotazione».
+				</an:p>
+				<an:p>
+					        3. 
+					<an:i>Al comma 2, lettera</an:i>
+					 b) 
+					<an:i>sostituire le parole:</an:i>
+					 «150.000» 
+					<an:i>ovunque ricorrano con le seguenti:</an:i>
+					 «80.000».
+				</an:p>
+				<an:p>
+					        4. 
+					<an:i>Al comma 3, secondo periodo, inserire in fine le seguenti parole:</an:i>
+					 «, fatte salve le ipotesi di cui all'articolo 95, comma 3, al ricorrere delle quali le stazioni appaltanti procedono obbligatoriamente sulla base del criterio dell'offerta economicamente più vantaggiosa».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
