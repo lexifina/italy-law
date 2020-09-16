@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.114/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.114"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.114/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.114"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.114/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJPLI01YFRHK0MQUGC5JHZ5OP2J1AG3XNB4LQW4OJKTNJJ5EVEY4N" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDPFV3O2AEVU4LOWKP0T3KZBIE2MNMWUSWHJNABJWN1GLIHILABZG" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDRE5PGQIZKZP1D4XLIGXWLDDJ4NQIFFH2KCLJQFLDNIKTZDYWSHF" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDAMZQHL03P53ICBSBMGG0RP1WNDSTTARKL31OO3PKEVFNUDL2RZZC" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID2GBTXMYYDB0RLVO0QFIERTEBQHLXH0RMCYGMI3MU32VPM2FCXTOH" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.114</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJPLI01YFRHK0MQUGC5JHZ5OP2J1AG3XNB4LQW4OJKTNJJ5EVEY4N" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPFV3O2AEVU4LOWKP0T3KZBIE2MNMWUSWHJNABJWN1GLIHILABZG" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRE5PGQIZKZP1D4XLIGXWLDDJ4NQIFFH2KCLJQFLDNIKTZDYWSHF" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMZQHL03P53ICBSBMGG0RP1WNDSTTARKL31OO3PKEVFNUDL2RZZC" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2GBTXMYYDB0RLVO0QFIERTEBQHLXH0RMCYGMI3MU32VPM2FCXTOH" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, all'articolo 16 dispone in materia di misure straordinarie di accoglienza;</an:p>
+				<an:p>            per effetto dell'articolo 12 del decreto-legge 113/2018, convertito con modificazioni dalla legge 132/2018, la rete SIPROIMI, precedentemente Sprar, di cui al decreto-legge 416/1989, convertito, con modificazioni, dalla legge 39/90 allora adibita all'accoglienza indistinta di richiedenti asilo e rifugiati, è stata invece riservata all'accoglienza e integrazione dei beneficiari di protezione internazionale o di altri permessi di protezione speciali, aventi titolo a rimanere nel nostro Paese, nonché ai minori stranieri non accompagnati;</an:p>
+				<an:p>            la novella si era resa necessaria in un'ottica di maggior efficienza e razionalizzazione del sistema di accoglienza anche alla luce delle raccomandazioni della Corte dei conti che, al termine di una indagine conoscitiva già nel marzo 2017, aveva bocciato l'allora vigente sistema di accoglienza, disciplinato dal decreto legislativo 142/2015, stigmatizzando il «diritto di permanenza indistinto» nei nostri centri, riconosciuto a chi non ha titolo, con «oneri finanziari gravosi» a carico del bilancio dello Stato;</an:p>
+				<an:p>            con l'articolo 15 del decreto in esame, che invece dispone l'accoglienza dei richiedenti asilo ancora all'interno dei centri del SIPROIMI, viene di fatto ripristinata la precedente situazione, con ciò peraltro sottraendo posti e disponibilità ai rifugiati e a chi ha diritto di permanere nel nostro Paese;</an:p>
+				<an:p>            secondo i dati forniti dalla Commissione Nazionale d'Asilo ad aprile solo 1'11 per cento dei richiedenti protezione internazionale è risultato un rifugiato, mentre il 78 per cento delle domande di protezione internazionale ha ricevuto un diniego, risultando infondate e prive dei requisiti per ottenere qualsivoglia protezione;</an:p>
+				<an:p>
+					            nonostante quanto disposto già dall'articolo 86
+					<an:i>-bis</an:i>
+					 del decreto-legge 18/2020 convertito con modificazioni dalla legge 24 aprile 2020, n. 27, secondo la Relazione, tale ulteriore modifica, che estende l'accoglienza a tutti i richiedenti asilo fino al 31 gennaio 2021 sarebbe stata adottata in quanto, vi sarebbe «urgente necessità di nuovi posti. . resa ancora più pressante dal consistente numero di arrivi», che, malgrado l'emergenza epidemiologica, sono difatti più che triplicati rispetto allo scorso anno, con un trend in continua ed esponenziale crescita, essendosi registrati nei soli tre primi giorni di luglio ben 364 sbarchi irregolari,
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            a valutare l'opportunità di adottare quanto prima il provvedimento ritenuto più idoneo per fermare i flussi migratori irregolari e tornare così a garantire l'accoglienza all'interno della rete SIPROlMI in linea con quanto disposto dall'articolo 1
+					<an:i>-sexies</an:i>
+					 del decreto-legge 30 dicembre 1989, n. 416, convertito, con modificazioni, dalla legge 23 febbraio 1990, n. 39.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
