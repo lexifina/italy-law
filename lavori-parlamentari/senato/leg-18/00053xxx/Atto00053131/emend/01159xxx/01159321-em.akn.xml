@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.90/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.90"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.90/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.90"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.90/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0PIMMNINTQDYEFAE53VDVZUYKIXUNQN3W05PMPMO2UB2QURNOQAH" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="ID41QYTIATST5IEI0SSRAPFXVS0PUQ50PULN2H0HINTVYPLFJMP0TN" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDD10C1ETFHEKHJKD5AHPW2GSZRNPEDV0QXMHVYCPN5SMO52NLU4FE" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDQHST4Q532XS0PJOC5STKNW41YIRZESWFIVY4CDEPFCOSFPXCZFD" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDNTLK0JH3LLRWEVYK3K01VEF2NCVIWSEJ0J3DENPWZKZ2WRX5L1VG" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.90</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0PIMMNINTQDYEFAE53VDVZUYKIXUNQN3W05PMPMO2UB2QURNOQAH" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID41QYTIATST5IEI0SSRAPFXVS0PUQ50PULN2H0HINTVYPLFJMP0TN" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD10C1ETFHEKHJKD5AHPW2GSZRNPEDV0QXMHVYCPN5SMO52NLU4FE" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQHST4Q532XS0PJOC5STKNW41YIRZESWFIVY4CDEPFCOSFPXCZFD" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNTLK0JH3LLRWEVYK3K01VEF2NCVIWSEJ0J3DENPWZKZ2WRX5L1VG" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/251;</an:p>
+				<an:p>            il provvedimento in esame reca misure di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19;</an:p>
+				<an:p>            la crisi economica derivante dalla forzata sospensione della maggior parte delle attività economiche e l'incombente recessione si stanno ripercuotendo anche sul settore editoriale;</an:p>
+				<an:p>            tra le misure opportune per sostenere gli investimenti innovativi, anche attraverso la trasformazione tecnologica e digitale dell'impresa mediante l'utilizzo delle tecnologie abilitanti afferenti il piano Impresa 4.0 e la transizione dell'impresa verso il paradigma dell'economia circolare, c'è sicuramente l'acquisto di macchinari, impianti e attrezzature strettamente funzionali alla realizzazione dei programmi di investimento, nonché programmi informatici e licenze correlati all'utilizzo dei predetti beni materiali;</an:p>
+				<an:p>            tra questi, il nuovo bando Macchinari innovativi del Ministero dello sviluppo economico sostiene la realizzazione, nei territori delle regioni Basilicata, Calabria, Campania, Puglia e Sicilia, di programmi di investimento diretti a consentire la trasformazione tecnologica e digitale dell'impresa ovvero a favorire la transizione del settore manifatturiero verso il paradigma dell'economia circolare;</an:p>
+				<an:p>            sarebbe necessaria un'attenzione specifica anche ad altre regioni, ugualmente in difficoltà ma non inserite nelle regioni beneficiarie del fondo Fesr 2014-2020, seppur duramente colpite dall'emergenza economica,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
