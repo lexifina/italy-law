@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/23.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/23.5"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/23.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/23.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVCPXEJUK5TUHBDYGWJSI0Q1VPPPWTWRLCWSVDOJ5HPXLOT51MVPE" href="http://dati.senato.it/29076" showAs="CUCCA"/>
+				<an:TLCPerson id="IDVPL114RNIOZLGAJM4VCA2SBYBJMMWZZOKCQWVUJQRPFYAJ2ZNXGM" href="http://dati.senato.it/32643" showAs="GRIMANI"/>
+				<an:TLCPerson id="IDV1RW2IRHGXDXGXYR4E4HKNBLTBKSBQJ3STAHSME1OEJTNEZBPLGK" href="http://dati.senato.it/32731" showAs="VONO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVCPXEJUK5TUHBDYGWJSI0Q1VPPPWTWRLCWSVDOJ5HPXLOT51MVPE" as="#tipoSenatore">CUCCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVPL114RNIOZLGAJM4VCA2SBYBJMMWZZOKCQWVUJQRPFYAJ2ZNXGM" as="#tipoSenatore">GRIMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV1RW2IRHGXDXGXYR4E4HKNBLTBKSBQJ3STAHSME1OEJTNEZBPLGK" as="#tipoSenatore">VONO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+					 «L'articolo 323 del codice penale è sostituito dal seguente:
+				</an:p>
+				<an:p align="center">''Art. 323.</an:p>
+				<an:p align="center">
+					<an:i>(Abuso d'ufficio)</an:i>
+				</an:p>
+				<an:p>        1. Salvo che il fatto non costituisca un più grave reato, il pubblico ufficiale o l'incaricato di pubblico servizio che, nello svolgimento delle funzioni o del servizio, in violazione di regolamenti o di norme di legge che non siano norme di principio o norme genericamente strumentali alla regolare attività amministrativa, e dalle quali non residuino margini di discrezionalità, fatta salva l'ipotesi di scelte discrezionali manifestamente irragionevoli, ovvero omettendo di astenersi in presenza di un interesse proprio o di un proprio congiunto ovvero negli altri casi prescritti, intenzionalmente procuri a sé o ad altri un ingiusto vantaggio patrimoniale ovvero arrechi ad altri un danno ingiusto è punito con la reclusione da uno a quattro anni.</an:p>
+				<an:p>        2. La pena è aumentata nei casi in cui il vantaggio o il danno hanno un carattere di rilevata gravità.</an:p>
+				<an:p>        3. La punibilità è esclusa nel caso di adozione di uno o più provvedimenti in violazione di norme sul procedimento o sulla forma degli atti qualora sia palese che il contenuto dispositivo del provvedimento o dei provvedimenti non avrebbe potuto essere diverso da quello in concreto adottato, nonché nei casi di particolare tenuità del fatto.</an:p>
+				<an:p>        4. La procedibilità è esclusa nel caso in cui il ricorso, proposto ai sensi dell'articolo 55 del decreto legislativo 2 luglio 2020, n. 104, avverso il provvedimento amministrativo per il quale residuino margini di discrezionalità, sia stato respinto.''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
