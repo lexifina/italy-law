@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/11.0.6"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.0.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/11.0.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAHHLAPXBMJXGP1E5FA4NYHTOUHOOPPBWONIQVWHQUMFCJDFR05E" href="http://dati.senato.it/32619" showAs="DI GIROLAMO"/>
+				<an:TLCPerson id="IDDWG1MN230YAEBAI1PHWGM3HEWHKVHTBIE0HEWGNY0PUU42BCA4WP" href="http://dati.senato.it/34677" showAs="PAVANELLI"/>
+				<an:TLCPerson id="IDBYA3UT32B2RNHHEAKUQXCEKM4KCCPIBFH0ZB4AOLM25QMQ5UYF" href="http://dati.senato.it/32678" showAs="PACIFICO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.0.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHHLAPXBMJXGP1E5FA4NYHTOUHOOPPBWONIQVWHQUMFCJDFR05E" as="#tipoSenatore">DI GIROLAMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDWG1MN230YAEBAI1PHWGM3HEWHKVHTBIE0HEWGNY0PUU42BCA4WP" as="#tipoSenatore">PAVANELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBYA3UT32B2RNHHEAKUQXCEKM4KCCPIBFH0ZB4AOLM25QMQ5UYF" as="#tipoSenatore">PACIFICO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art 11-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Semplificazioni in materia di concessione dei contributi nelle aree colpite da aventi sismici)</an:i>
+				</an:p>
+				<an:p>
+					        1. Qualora gli interventi di riparazione, ripristino e ricostruzione degli aggregati e condomini privati situati nei comuni del cratere del sisma del 2009 rientrino nel limite di 500.000 euro di importo richiesto, su espressa richiesta dei beneficiari, gli Uffici speciali istituiti ai sensi dell'articolo 67
+					<an:i>-ter</an:i>
+					 del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, previa verifica del diritto al contributo del beneficiario, adottano il provvedimento di ammissione del contributo in deroga alla disciplina prevista dal D.P.C.M. 4 febbraio 2013, articolo 4 e con le modalità successivamente stabilite con provvedimenti adottati dagli Uffici. La concessione avviene sulla base del progetto e della documentazione allegata alla domanda di contributo presentata dal professionista, che ne certifica la completezza e la regolarità amministrativa e tecnica, compresa la conformità edilizia e urbanistica, nonché sulla base dell'importo del contributo concedibile determinato dallo stesso professionista nei limiti del costo ammissibile, individuato con le modalità stabilite ai sensi del D.P.C.M. 4 febbraio 2013, articolo 4, decurtato del 10%.
+				</an:p>
+				<an:p>        2. Limitatamente alle domande di contributo riferite ad interventi da eseguire sul territorio dei comuni del cratere diversi dal Comune dell'Aquila, gli stati di avanzamento lavori riferiti ai progetti di cui al comma 1, vengono autorizzati direttamente dai comuni, previa verifica della completezza documentale corredata delle parcelle professionali vidimate ed effettuati i controlli sulla regolarità contributiva e sull'avvenuto effettivo pagamento dei subappaltatori e fornitori. Per gli interventi diversi da quelli disciplinati al comma 1, gli stati di avanzamento lavori vengono autorizzati dall'Ufficio Speciale per la Ricostruzione dei Comuni del Cratere previa istruttoria documentale, tecnica ed economica, secondo le modalità già disciplinate dall'articolo 11 del decreto-legge 19 giugno 2015, n. 78, convertito, con modificazioni, dalla legge 6 agosto 2015, n. 125, e dalle circolari applicative dello stesso Ufficio.</an:p>
+				<an:p>        3. L'erogazione del contributo per stato di avanzamento lavori è condizionata dalla corretta presentazione da parte del beneficiario del contributo dei contratti di cui all'articolo 11, comma 1, del decreto-legge 19 giugno 2015, n. 78, convertito, con modificazioni, dalla legge 6 agosto 2015, n. 125.</an:p>
+				<an:p>        4. Per le pratiche riferite a progetti da realizzare sul territorio del Comune dell'Aquila, la presente disposizione si applica alle domande di contributo - Scheda Progetto Parte Prima - depositate alla data di entrata in vigore della legge di conversione del presente decreto. Per gli interventi da eseguire sul territorio dei comuni del cratere diversi dall'Aquila, la presente disposizione trova applicazione alle domande presentate ai sensi del Decreto USRC n. 1 del 2014 e ss.mm. e ii. in data antecedente alla data di entrata in vigore della legge di conversione del presente decreto.</an:p>
+				<an:p>        5. I beneficiari potranno esercitare l'opzione per la procedura di cui al presente articolo, entro 30 giorni decorrenti dalla data di entrata in vigore della legge di conversione del presente decreto».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
