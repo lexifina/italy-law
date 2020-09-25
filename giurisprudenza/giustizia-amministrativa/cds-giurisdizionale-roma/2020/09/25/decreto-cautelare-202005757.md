@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, decreto cautelare n. 5757/2020
+
+- Tipo: DECRETO CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE V
+- Numero provvedimento: 202005757
+- Numero di ricorso (NRG): 202006184
+- Data di pubblicazione: 2020-09-25
+- Udienza: PROCESSO MONOCRATICO
+- Esito: REVOCA DECRETO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-07-29
+- Oggetto del ricorso: MODALITÀ DI PROSECUZIONE E DI CONCLUSIONE DEL CAMPIONATO DI LEGA PRO E DEFINIZIONE DEGLI ESITI DELLA STAGIONE SPORTIVA 2019/2020 - RETROCESSIONE DIRETTA DELLE SQUADRE ULTIME CLASSIFICATE E SOSPENSIONE DELLA DISPUTA DEI PLAY OUT
+- Tipo di ricorso: APPELLO AVV. SENTENZA NEL RITO ABBREVIATO ex art.119 c.p.a.
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/44db5793-aeac-429c-9d43-8fb8d27badfa/resource/4e60a4fa-92c2-462f-901d-3fa2e9804253/download/cds-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
