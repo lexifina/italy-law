@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/23.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/23.1"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/23.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/23.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQCPN40QUUEVRELWNVAIB4U1J0OJ0F5BPSNBTYZGAV05A3F4A45PB" href="http://dati.senato.it/31373" showAs="GIANNUZZI"/>
+				<an:TLCPerson id="IDWDWNBVNS21MIBQ2MPP3TSKZGCLGHJQ5POGIUGTJJQWBKCENPX1SJ" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDJZ4QRD3EYP5TLIZRAGY51EHJHINRAJUOETJMGUM0GEGUN4WYHSCF" href="http://dati.senato.it/32725" showAs="TRENTACOSTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQCPN40QUUEVRELWNVAIB4U1J0OJ0F5BPSNBTYZGAV05A3F4A45PB" as="#tipoSenatore">GIANNUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWDWNBVNS21MIBQ2MPP3TSKZGCLGHJQ5POGIUGTJJQWBKCENPX1SJ" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJZ4QRD3EYP5TLIZRAGY51EHJHINRAJUOETJMGUM0GEGUN4WYHSCF" as="#tipoSenatore">TRENTACOSTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modifiche:</an:i>
+				</an:p>
+				<an:p>
+					        a) 
+					<an:i>al comma 1, premettere il seguente:</an:i>
+				</an:p>
+				<an:p>        «01. All'articolo 82 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 3, la lettera 
+					<an:i>c)</an:i>
+					 è abrogata;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 dopo il comma 3, sono aggiunti i seguenti:
+				</an:p>
+				<an:p>
+					        ''3
+					<an:i>-bis</an:i>
+					. Nel caso di nuclei familiari percettori di reddito di cittadinanza, di cui al Capo I del decreto legge 28 gennaio 2019, n. 4, convertito con modificazioni dalla legge 28 marzo 2019, n. 26, per i quali l'ammontare del beneficio in godimento risulti inferiore a quello di cui al comma 5, il Rem può essere richiesto ad integrazione della somma goduta per un importo tale per cui il cumulo dei due benefici sia pari alla somma di cui al comma 5.
+				</an:p>
+				<an:p>
+					        3
+					<an:i>-ter</an:i>
+					. Gli aventi diritto all'integrazione di cui al comma 3
+					<an:i>-bis</an:i>
+					 percepiscono il beneficio corrente o a recupero dei mesi precedenti, per lo stesso numero di mensilità previsto per tutti gli altri beneficiari del Rem.''»;
+				</an:p>
+				<an:p>
+					        b) 
+					<an:i>sostituire il comma 2 con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>2</an:i>
+					. Le domande per la quota del Rem di cui al comma 1 del presente articolo e per le integrazioni di cui al comma 3
+					<an:i>-bis</an:i>
+					 dell'articolo 82 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, come introdotto dal comma 01, lettera 
+					<an:i>b)</an:i>
+					, del presente articolo, sono presentate all'Istituto nazionale della previdenza sociale (INPS) entro il 15 novembre 2020 tramite i modelli di domanda predisposti dal medesimo Istituto e presentati secondo le modalità stabilite dallo stesso.»;
+				</an:p>
+				<an:p>
+					        c) 
+					<an:i>al comma 3,dopo le parole:</an:i>
+					 «al comma 1»
+					<an:i>, aggiungere le seguenti:</an:i>
+					 «nonchè le integrazioni di cui al comma 3
+					<an:i>-bis</an:i>
+					 dell'articolo 82 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, come introdotto dal comma 01, lettera 
+					<an:i>b)</an:i>
+					,»;
+				</an:p>
+				<an:p>
+					        d) 
+					<an:i>al comma 4,dopo le parole:</an:i>
+					 «n. 34 del 2020,»
+					<an:i>, aggiungere le seguenti:</an:i>
+					 «come modificato dalle disposizioni di cui al comma 01 del presente articolo,».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, gli importi di cui all'articolo 114, comma 4, sono ridotti di 15 milioni per l'anno 2020.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
