@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/105.0.5"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="105.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDS50K25QMLWSDF4HGF0B1YFC4KGXL4PZPZORHXUFP2F4MX5DBF1CJ" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDIBCQIZE2H2ELIENEQMEABX0GYCDUC0CD5GCY2CLYC0AHYBS1YANK" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDO3YSPD4N4LKTGLCHGE3AKSTF1DRNSDCB3LWXQ4ODLSNUELOVROIO" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDUUY3JFUNXENECVWJLL2DN4FQWPLH4VJSM5QD3HK1DXGM2QL5F5ZG" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDELHFC4UFISAGDDKBELFXQTIBVI4YA30B2EXJ5PNPCRTTOPCILH1N" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 105.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS50K25QMLWSDF4HGF0B1YFC4KGXL4PZPZORHXUFP2F4MX5DBF1CJ" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIBCQIZE2H2ELIENEQMEABX0GYCDUC0CD5GCY2CLYC0AHYBS1YANK" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO3YSPD4N4LKTGLCHGE3AKSTF1DRNSDCB3LWXQ4ODLSNUELOVROIO" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUUY3JFUNXENECVWJLL2DN4FQWPLH4VJSM5QD3HK1DXGM2QL5F5ZG" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDELHFC4UFISAGDDKBELFXQTIBVI4YA30B2EXJ5PNPCRTTOPCILH1N" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 105-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Indennità di sospensione dell'esecuzione dei provvedimenti di rilascio degli immobili ai sensi dell'articolo 103, comma 6, del decreto legge 17 marzo 2020, a 18)</an:i>
+				</an:p>
+				<an:p>        1. Al fine di contenere gli effetti negativi derivanti dalle misure di prevenzione e contenimento connesse all'emergenza epidemiologica da COVID-19, ai locatori ai quali si applica la sospensione dell'esecuzione dei provvedimenti di rilascio degli immobili ai sensi dell'art. 103, comma 6, del decreto legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, ed appartenenti ad un nucleo familiare il cui indicatore della situazione economica equivalente (Isee) sia non superiore a 30.000 euro annui, è riconosciuta per l'anno 2020 un'indennità di 2.000 euro per ciascuna procedura sospesa. Ai fini del riconoscimento e dell'erogazione dell'indennità di cui al presente comma è autorizzata una spesa pari a 40 milioni di euro per l'anno 2020 a valere sul Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190 come rifinanziato dal successivo articolo 114, comma 4.</an:p>
+				<an:p>        2. Al fine di ottenere l'indennità di cui al comma precedente, i soggetti interessati presentano un'istanza all'Agenzia delle Entrate con l'indicazione della sussistenza dei requisiti definiti dal comma 1. Su tale istanza l'Agenzia provvede entro 30 giorni dal ricevimento della stessa.</an:p>
+				<an:p>        3. L'indennità di cui al comma 1 non concorre alla formazione del reddito ai fini delle imposte sui redditi e del valore della produzione ai fini dell'imposta regionale sulle attività produttive e non rileva ai fini del rapporto di cui agli articoli 61 e 109, comma 5, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.</an:p>
+				<an:p>        4. Con provvedimento del Direttore dell'Agenzia delle entrate sono stabilite le modalità attuative del presente articolo.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
