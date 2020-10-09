@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/99.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/99.3"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/99.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="99.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/99.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRRCX4KJKC5XKMI2AL4B3YI5RKH5UC1QSSD5OU1PRN4RXQRWRRXXI" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="ID4O3VMK4EJCWPMHDFJ11F3Y44BBMOY5GEER1X15DW42FABZFWKH4E" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDGYGZP231RMCEJAHNJU1SYZ51ZEJAWN3WPOGD4UDUZGPSGUQ10UXK" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDPZRXMZYQSMOXJRYKIZEVQK0N0G0PTUZXLD3XTLEQYMRTZWKL0GJF" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID44PXWDMEQV51JOCXMAYEZX2DYB3RX0V3UVV1XHKZ1OVMK4UANEAK" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 99.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRRCX4KJKC5XKMI2AL4B3YI5RKH5UC1QSSD5OU1PRN4RXQRWRRXXI" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4O3VMK4EJCWPMHDFJ11F3Y44BBMOY5GEER1X15DW42FABZFWKH4E" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGYGZP231RMCEJAHNJU1SYZ51ZEJAWN3WPOGD4UDUZGPSGUQ10UXK" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPZRXMZYQSMOXJRYKIZEVQK0N0G0PTUZXLD3XTLEQYMRTZWKL0GJF" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID44PXWDMEQV51JOCXMAYEZX2DYB3RX0V3UVV1XHKZ1OVMK4UANEAK" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2 è inserito il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. All'articolo 8
+					<an:i>-quinquies</an:i>
+					 del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 10-
+					<an:i>ter</an:i>
+					 le parole: ''15 luglio 2019, sono sospesi fino a tale data,'' sono sostituite dalle seguenti ''31 dicembre 2020, sono sospese fino a tale data le procedure di recupero per compensazione, nonché,'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 dopo il comma 10-
+					<an:i>sexies</an:i>
+					 è aggiunto il seguente:
+				</an:p>
+				<an:p>
+					        ''10-
+					<an:i>septies</an:i>
+					. Per consentire alle aziende debitrici in materia di quote latte di accedere agli aiuti previsti da atti legislativi o amministrativi adottati, a livello nazionale, regionale o territoriale, ai sensi e nella vigenza della comunicazione della Commissione europea del 19 marzo 2020, C (2020)1863, 'Quadro temporaneo per le misure di aiuto di Stato a sostegno dell'economia nell'attuale emergenza del COVID-19', e successive modificazioni:
+				</an:p>
+				<an:p>        a. sono compensati gli importi dovuti e non rimborsati in materia di quote latte, comprensivi degli interessi maturati, nel limite previsto dalla comunicazione della Commissione europea del 19 marzo 2020, C (2020)1863;</an:p>
+				<an:p>        b. sono revocati i pignoramenti in essere.''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
