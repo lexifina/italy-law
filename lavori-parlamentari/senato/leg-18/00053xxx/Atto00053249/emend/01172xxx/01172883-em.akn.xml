@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/49.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/49.3"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/49.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="49.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/49.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBU5IUJP0N3RHOD3BX2YNP42RYNWM3LPYQIBIVOMSS4BL2JINTJ0P" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDJE1FSBUEV2IYEWMRM4GCQVG35J2RN1I2ACVYRNMJGXPXC4NGNX1B" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDNB3ISB3XBPC0H53O3BJ4EMO4FNFCC1EXNKNNQPEQCWCYO3ZRPDOE" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDTGDXCCY3QJHRJ5H04RDRVQBO2GOQYFFPFB1LJEEP0GNN44FMIB1M" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDVVZ1U4SND1EIMWPF13WLXL2QNBIMPMNUMHI3YUBKUK32JTDEOR0E" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 49.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBU5IUJP0N3RHOD3BX2YNP42RYNWM3LPYQIBIVOMSS4BL2JINTJ0P" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJE1FSBUEV2IYEWMRM4GCQVG35J2RN1I2ACVYRNMJGXPXC4NGNX1B" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNB3ISB3XBPC0H53O3BJ4EMO4FNFCC1EXNKNNQPEQCWCYO3ZRPDOE" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTGDXCCY3QJHRJ5H04RDRVQBO2GOQYFFPFB1LJEEP0GNN44FMIB1M" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVVZ1U4SND1EIMWPF13WLXL2QNBIMPMNUMHI3YUBKUK32JTDEOR0E" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo le parole:</an:i>
+					 «a favore delle Città metropolitane e delle province territorialmente competenti,» 
+					<an:i>sono aggiunte le seguenti:</an:i>
+					 «ovvero a favore delle regioni che esercitano le medesime funzioni amministrative».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
