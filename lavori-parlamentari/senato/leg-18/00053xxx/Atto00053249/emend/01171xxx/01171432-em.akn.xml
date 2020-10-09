@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/10.0.7"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/10.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFVR41G51PYPOPZ3YZXIFIWHQLHVALUF15OVYB5FQVRZS0VXWCU1P" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDKU3CM5GXBRBENQFP2RRJM1LMUD0HSHN0RIP3ZBFAZWI1DEYJX30M" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="ID3NEPPSEK3ZK5DEGBMV0DSBWOTDCPN5NLMLBHT4NWX4EMFDDH0OQH" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDRC2SIY25FSGXKH23MA0RO13Y3ONPQQBLPIFWUPJS4NSYCKGKJ14K" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="ID5C00VDCBPHYIPVVQSB21RQEDLIJFJEGSOSQ2UHOOBFELJ033S01I" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFVR41G51PYPOPZ3YZXIFIWHQLHVALUF15OVYB5FQVRZS0VXWCU1P" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKU3CM5GXBRBENQFP2RRJM1LMUD0HSHN0RIP3ZBFAZWI1DEYJX30M" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3NEPPSEK3ZK5DEGBMV0DSBWOTDCPN5NLMLBHT4NWX4EMFDDH0OQH" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRC2SIY25FSGXKH23MA0RO13Y3ONPQQBLPIFWUPJS4NSYCKGKJ14K" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5C00VDCBPHYIPVVQSB21RQEDLIJFJEGSOSQ2UHOOBFELJ033S01I" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Sostegno al reddito dei pescatori professionali)</an:i>
+				</an:p>
+				<an:p>        1. A decorrere dal mese di gennaio 2021, al fine di garantire un sostegno al reddito per i lavoratori imbarcati su unità da pesca marittima e delle acque interne, compresi i soci lavoratori delle cooperative della piccola pesca di cui alla legge 13 marzo 1958, n. 250, nonché gli armatori e i proprietari-armatori imbarcati sulle navi dai medesimi gestite, nel periodo di sospensione dell'attività lavorativa derivante da misure di arresto temporaneo obbligatorio, è riconosciuta per ciascun lavoratore, nel limite di spesa di 15 milioni di euro per l'anno 2021 e per ciascuno degli anni successivi, un'indennità giornaliera onnicomprensiva pari a 30 euro che non concorre alla formazione del reddito. Con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro delle politiche agricole alimentari e forestali e con il Ministro dell'economia e delle finanze, sono disciplinate le modalità relative al pagamento dell'Indennità di cui al presente comma.</an:p>
+				<an:p>        All'onere derivante dal presente articolo, valutato in 15 milioni di euro a decorrere dal 2021, si provvede ai sensi dell'articolo 114, comma 4».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 114, comma 4, sostituire le parole:</an:i>
+					 «50 milioni di euro annui a decorrere dall'anno 2021» 
+					<an:i>con le seguenti:</an:i>
+					 «35 milioni di euro annui a decorrere dall'anno 2021».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
