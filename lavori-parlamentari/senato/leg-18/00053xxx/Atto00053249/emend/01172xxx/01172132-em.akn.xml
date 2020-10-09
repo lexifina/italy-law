@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/29.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/29.2"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/29.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="29.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/29.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSZMAE2PMZ35UO2BEQ35CARDVVB5S3SP4WHOC4HIOLYCRSTSRC0AM" href="http://dati.senato.it/32691" showAs="PIRRO"/>
+				<an:TLCPerson id="IDUIRAIFWNYTBXKUZ4NKNZNP451HTRJMFP5VJG5VF0N3WX5DBEETYN" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="ID5WOD5ZNSKFOXPGCNAZZIN03TWJUTXTFODK5FATFE5DYOAZ1BZGIP" href="http://dati.senato.it/32600" showAs="CASTELLONE"/>
+				<an:TLCPerson id="ID0HNK5TE0XFZ4ME3RZV4YZWWOTFOHLFBSBLWWYBGETXIGH4X4ZTDF" href="http://dati.senato.it/32638" showAs="GALLICCHIO"/>
+				<an:TLCPerson id="IDRONR3YE1GMZ4C1FJOZIWUXJSBBH5ZH4H5APSE0BMVR3QQTQZHYDI" href="http://dati.senato.it/32696" showAs="PRESUTTO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 29.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSZMAE2PMZ35UO2BEQ35CARDVVB5S3SP4WHOC4HIOLYCRSTSRC0AM" as="#tipoSenatore">PIRRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUIRAIFWNYTBXKUZ4NKNZNP451HTRJMFP5VJG5VF0N3WX5DBEETYN" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5WOD5ZNSKFOXPGCNAZZIN03TWJUTXTFODK5FATFE5DYOAZ1BZGIP" as="#tipoSenatore">CASTELLONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0HNK5TE0XFZ4ME3RZV4YZWWOTFOHLFBSBLWWYBGETXIGH4X4ZTDF" as="#tipoSenatore">GALLICCHIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRONR3YE1GMZ4C1FJOZIWUXJSBBH5ZH4H5APSE0BMVR3QQTQZHYDI" as="#tipoSenatore">PRESUTTO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo i comma 1, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1
+					<an:i>-bis</an:i>
+					. Al fine di ridurre il ricorso alla mobilità passiva, le Regioni provvedono all'accreditamento con il SSN di strutture sanitarie pubbliche e private dotate di autorizzazione specifica per coprire il fabbisogno di prestazioni nell'ambito delle tecniche di procreazione medicalmente assistita.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
