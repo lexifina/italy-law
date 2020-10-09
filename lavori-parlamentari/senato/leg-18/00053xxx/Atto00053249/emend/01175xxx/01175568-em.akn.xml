@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/94.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/94.6"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/94.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="94.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/94.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRZQ2ECKA3EJVGHZ1M0PZJR0YYL4Y0T5U2EJU0GD455MYQ0WZQCZB" href="http://dati.senato.it/32700" showAs="RICCARDI"/>
+				<an:TLCPerson id="IDGPLKISJXVV52PSUEBF33405QRMK2QSYE1QLQWZIW2LFKDQWEC2KO" href="http://dati.senato.it/32683" showAs="Emanuele PELLEGRINI"/>
+				<an:TLCPerson id="IDNO2NSERLQKXTEPO0HZKAXYX4RLMFUWRMTGRVI1MDPUBP3BN0RUW" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDVUF2RTHG4MDSOR2FWR2Z1FSAXKI2GMFEYDHQ11BLXBKWIW1A5BDI" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="ID5UD5DOJWU1KTDJJ51LE1RZN0CIEQBWAX1YGSUTLBTMKYGP2DUUOL" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDVADJMVODDZVEEUEAQIMKSGUWAPOK25AJO41YWNKEPQGCMFMAAUMM" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDWOVQJW3E13PRPKDXJG2WPWFRXOLGA5NEDPRRMUHU10XMYL5STYC" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 94.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRZQ2ECKA3EJVGHZ1M0PZJR0YYL4Y0T5U2EJU0GD455MYQ0WZQCZB" as="#tipoSenatore">RICCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGPLKISJXVV52PSUEBF33405QRMK2QSYE1QLQWZIW2LFKDQWEC2KO" as="#tipoSenatore">Emanuele PELLEGRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNO2NSERLQKXTEPO0HZKAXYX4RLMFUWRMTGRVI1MDPUBP3BN0RUW" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVUF2RTHG4MDSOR2FWR2Z1FSAXKI2GMFEYDHQ11BLXBKWIW1A5BDI" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5UD5DOJWU1KTDJJ51LE1RZN0CIEQBWAX1YGSUTLBTMKYGP2DUUOL" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVADJMVODDZVEEUEAQIMKSGUWAPOK25AJO41YWNKEPQGCMFMAAUMM" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWOVQJW3E13PRPKDXJG2WPWFRXOLGA5NEDPRRMUHU10XMYL5STYC" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Al fine di rilanciare gli interventi infrastrutturali nella fase successiva all'emergenza sanitaria e favorire la viabilità e la mobilità sostenibile nell'area della Città metropolitana di Milano e della provincia di Monza e Brianza, è autorizzata la spesa di 2 milioni di euro per l'anno 2020 per la realizzazione del tratto compreso tra San Donato e Paullo della linea M3 della metropolitana di Milano, ivi compresi le attività di progettazione e valutazione ex ante e altri oneri tecnici. Agli oneri recati dal presente comma si provvede si provvede mediante corrispondente riduzione del Fondo per far fronte ad esigenze indifferibili che si manifestano nel corso della gestione di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
