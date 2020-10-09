@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/79.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/79.5"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/79.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="79.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/79.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDP2GTSTKZ121QRUANJRFAZQN4F3IBU0554PS4YK2Q4G4SKVGPUXJ" href="http://dati.senato.it/29398" showAs="FERRARI"/>
+				<an:TLCPerson id="IDDPLFHGM0DULGCFRBDXBPLPW1NJAPISS0NJOKUANIEAQLTAAEXHKM" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="IDK202IMU1H2HBKNJFLT1JNADYROWX2YMJCR1F3MBJM1FLTSQZIFTD" href="http://dati.senato.it/29072" showAs="COLLINA"/>
+				<an:TLCPerson id="IDJ5DCSNMQWYRTEABMLMIV1Z42NGACYAHD5ZVRXWB2TDZ3UDRU3GNP" href="http://dati.senato.it/29105" showAs="GIACOBBE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 79.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP2GTSTKZ121QRUANJRFAZQN4F3IBU0554PS4YK2Q4G4SKVGPUXJ" as="#tipoSenatore">FERRARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDPLFHGM0DULGCFRBDXBPLPW1NJAPISS0NJOKUANIEAQLTAAEXHKM" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK202IMU1H2HBKNJFLT1JNADYROWX2YMJCR1F3MBJM1FLTSQZIFTD" as="#tipoSenatore">COLLINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ5DCSNMQWYRTEABMLMIV1Z42NGACYAHD5ZVRXWB2TDZ3UDRU3GNP" as="#tipoSenatore">GIACOBBE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>al comma 1 sostituire le parole:</an:i>
+					 «per i due periodi di imposta successivi a quello in corso alla data del 31 dicembre 2019» 
+					<an:i>con le parole:</an:i>
+					 «per i tre periodi di imposta successivi a quello in corso alla data del 31 dicembre 2018» 
+					<an:i>ed aggiungere in fine le seguenti parole:</an:i>
+					 «, realizzando un unico bando per gli investimenti effettuati nei periodi d'imposta 2019 e 2020 e destinando al bando successivo le eventuali risorse non impiegate in occasione del primo bando»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>dopo il comma 2 aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Al credito d'imposta di cui al presente articolo si applicano altresì le disposizioni di cui all'articolo 122 del decreto-legge 19 maggio 2020, n. 34, convertito in legge 17 luglio 2020, n. 77.
+				</an:p>
+				<an:p>
+					        2-
+					<an:i>ter.</an:i>
+					 Al comma 2 dell'articolo 10 del decreto-legge 31 maggio 2014, n. 83, le parole: ''e di incremento dell'efficienza energetica'' sono sostituite dalle parole: ''o di incremento dell'efficienza energetica.''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
