@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/15.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/15.2"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/15.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/15.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLNQPEIYEXIQTJSKHZKCE0USG0PFWSLCOA3YP5IBTCJCSQNVO4HCE" href="http://dati.senato.it/29395" showAs="FARAONE"/>
+				<an:TLCPerson id="IDG2T0QNBVGEDVB0FXL4BWA5PTSIBNJZNS2BNEDI0MAEJDUA3EHKD" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDJHGTLGJ105CUFJZTT35CPLSDCBISHMNMKJPWT3GI44MIDCF5EX4H" href="http://dati.senato.it/32746" showAs="COMINCINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLNQPEIYEXIQTJSKHZKCE0USG0PFWSLCOA3YP5IBTCJCSQNVO4HCE" as="#tipoSenatore">FARAONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG2T0QNBVGEDVB0FXL4BWA5PTSIBNJZNS2BNEDI0MAEJDUA3EHKD" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJHGTLGJ105CUFJZTT35CPLSDCBISHMNMKJPWT3GI44MIDCF5EX4H" as="#tipoSenatore">COMINCINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'articolo apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>prima del comma 1, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>        «01. Dopo il comma 1 dell'articolo 38 della legge 28 dicembre 2001, n. 448, è aggiunto il seguente comma:</an:p>
+				<an:p>
+					        ''1-
+					<an:i>bis</an:i>
+					. Al fine di incentivare l'ingresso nel mercato del lavoro delle persone con disabilità, per i soggetti di cui al comma 4, gli importi ricevuti come compensi da prestazione occasionale, nei limiti di euro 5.000 annui, non rilevano ai fini del computo della misura mensile dei benefici incrementativi di cui al comma 1.''»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>dopo il comma 1, inserire il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Nei confronti dei soggetti che soddisfano le condizioni di cui all'articolo 38, comma 4, della legge 28 dicembre 2001, n. 448, come modificato ai sensi del presente comma, e per i quali l'importo complessivo annuo dei trattamenti pensionistici risulta superiore al limite reddituale di cui all'articolo 38, comma 5, lettere 
+					<an:i>a)</an:i>
+					 e 
+					<an:i>b)</an:i>
+					 della legge 28 dicembre 2001, n. 448, ed inferiore al limite reddituale per le provvidenze assistenziali in favore degli invalidi civili, ciechi civili e parziali e sordi civili, di cui all'articolo 14-
+					<an:i>septies</an:i>
+					 del decreto-legge 30 dicembre 1979, n. 663, convertito con la legge 29 febbraio 1980, n. 33, i benefici aggiuntivi di cui al comma 1 dell'articolo 38 della legge 28 dicembre 2001, n. 448, sono corrisposti fino a concorrenza».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>al comma 3, dopo le parole:</an:i>
+					 «oneri derivanti dal comma 1» 
+					<an:i>aggiungere le seguenti:</an:i>
+					 «, primo periodo,»;
+				</an:p>
+				<an:p>
+					            b) 
+					<an:i>dopo il comma 3, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis</an:i>
+					. Agli oneri derivanti dall'applicazione dei commi 1, secondo periodo, e 1-
+					<an:i>bis</an:i>
+					, stimati in euro 85 milioni di euro per l'anno 2020 e 240 milioni di euro a decorrere dall'anno 2021, si provvede:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 quanto a 85 milioni di euro per l'anno 2020 e 50 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 quanto a 80 milioni di euro annui a decorrere dall'anno 2021, mediante corrispondente riduzione del Fonda per la compensazione degli effetti finanziari non previsti a legislazione vigente conseguenti all'attualizzazione di contributi pluriennali, di cui all'articolo 6, comma 2, del decreto-legge 7 ottobre 2008, n. 154, convertito, con modificazioni, dalla legge 4 dicembre 2008, n. 189;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 quanto a 50 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 199, della legge 23 dicembre 2014, n. 190;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 quanto a 60 milioni di euro a decorrere dall'anno 2021, mediante corrispondente riduzione del Fondo per gli interventi strutturali di politica economica di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
