@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/32.21/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/32.21"/>
+					<an:FRBRdate date="2020-10-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/C/32.21/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="32.21"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@"/>
+					<an:FRBRdate date="2020-10-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@.akn"/>
+					<an:FRBRdate date="2020-10-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/C/32.21/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1925" showAs="Ddl 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E6" href="http://dati.senato.it/32641" showAs="Bianca Laura Granato"/>
+				<an:TLCPerson id="ID0EJB" href="http://dati.senato.it/29164" showAs="Sergio Puglia"/>
+				<an:TLCPerson id="ID0ETB" href="http://dati.senato.it/34677" showAs="Emma Pavanelli"/>
+				<an:TLCPerson id="ID0E4B" href="http://dati.senato.it/32617" showAs="Danila De Lucia"/>
+				<an:TLCPerson id="ID0EKC" href="http://dati.senato.it/32607" showAs="Margherita Corrado"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 32.21 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E6" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Granato</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EJB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Puglia</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ETB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pavanelli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E4B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">De</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Lucia</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EKC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Corrado</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 7, aggiungere, in fine, i seguenti:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «7-
+					<an:i>bis</an:i>
+					. All'articolo 10, comma 1, primo periodo, del decreto-legge 12 settembre 2013, n. 104, convertito, con modificazioni, dalla legge 8 novembre 2013, n. 128, dopo le parole: ''nuovi edifici scolastici pubblici'', sono aggiunte le seguenti: '', Poli per l'infanzia statali di cui all'articolo 3, comma 3, del decreto legislativo 13 aprile 2017, n. 65,''.
+				</an:p>
+				
+
+				<an:p>
+					        7-
+					<an:i>ter</an:i>
+					. In via sperimentale, per gli anni 2020 e 2021, quota parte, pari a 20 milioni di euro per ciascun anno, del fondo nazionale per il Sistema integrato di istruzione e educazione di cui all'articolo 12 del decreto legislativo 13 aprile 2017, n. 65, nell'ambito degli interventi di cui al comma 2, lettera 
+					<an:i>a)</an:i>
+					, del medesimo decreto legislativo, è destinato a finanziare la costituzione di nuovi Poli per l'infanzia statali, per l'accoglienza di bambine e bambini da tre mesi a sei anni d'età, di cui al comma 7-
+					<an:i>bis</an:i>
+					.».
+				</an:p>
+				
+
+				<an:p>
+					        7-
+					<an:i>quater</an:i>
+					. Il fondo nazionale per il Sistema integrato di istruzione e educazione di cui all'articolo 12 del decreto legislativo 13 aprile 2017, n. 65, è incrementato di 20 milioni di euro per ciascuno degli anni 2020 e 2021.
+				</an:p>
+				
+
+				<an:p>
+					      7-
+					<an:i>quinquies</an:i>
+					. Agli oneri derivanti dal comma 7
+					<an:i>-quater</an:i>
+					, pari a 40 milioni di euro, si provvede ai sensi dell'articolo 114, comma 4.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
