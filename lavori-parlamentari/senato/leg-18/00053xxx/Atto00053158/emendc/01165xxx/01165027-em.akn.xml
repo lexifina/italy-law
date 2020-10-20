@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/49.0.52"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="49.0.52"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@.akn"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/C/49.0.52/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1883" showAs="Ddl 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32624" showAs="Meinhard Durnwalder"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32718" showAs="Dieter Steger"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32727" showAs="Julia Unterberger"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/29115" showAs="Albert Laniece"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 49.0.52</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Durnwalder</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Steger</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Unterberger</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Laniece</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					«Art. 49-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				
+
+				<an:p>
+					<an:i>(Modifiche all'articolo 60 del nuovo codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285)</an:i>
+				</an:p>
+				
+
+				<an:p>        1. All'articolo 60, del decreto legislativo 30 aprile 1992, n. 285 recante: ''Nuovo codice della strada'' sono apportate le seguenti modifiche:</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 al comma 1, le parole: ''i motoveicoli e gli autoveicoli'' sono sostituite, ovunque ricorrano, dalle seguenti: ''i motoveicoli, gli autoveicoli e le macchine agricole'';
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 al comma 2, le parole: ''i motoveicoli e gli autoveicoli'' sono sostituite dalle seguenti: ''i motoveicoli, gli autoveicoli e le macchine agricole'';
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 al comma 4, le parole: ''dei motoveicoli e autoveicoli'' sono sostituite dalle seguenti: ''dei motoveicoli, autoveicoli e delle macchine agricole'';
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 al comma 6, dopo le parole: ''di motoveicoli'' sono aggiunte le seguenti: ''o di macchine agricole.'';
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>e)</an:i>
+					 la rubrica è sostituita dalla seguente: ''Motoveicoli, ciclomotori, autoveicoli e macchine agricole d'epoca e di interesse storico e collezionistico iscritti negli appositi registri'';
+				</an:p>
+				
+
+				<an:p>        2. Entro sessanta giorni dalla data di entrata in vigore della presente legge, il Governo con regolamento da adottare ai sensi dell'articolo 17, comma 1, della legge 23 agosto 1988, n. 400, e successive modificazioni, adegua le disposizioni di cui all'articolo 215 del regolamento di esecuzione e di attuazione del nuovo codice della strada, di cui al decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, alle modifiche recate dal comma 1 della presente legge''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
