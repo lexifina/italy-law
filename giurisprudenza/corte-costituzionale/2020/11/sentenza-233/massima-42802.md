@@ -1,0 +1,22 @@
+# Massima n. 42802
+
+- Pronuncia: Corte costituzionale, sentenza 233/2020 (ECLI:IT:COST:2020:233)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:233
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Thema decidendum - Accoglimento della questione di legittimità costituzionale in riferimento a uno dei parametri evocati - Assorbimento delle ulteriori censure.
+
+## Testo
+
+Accolta, per violazione dell'art. 117, terzo comma, Cost., le questioni di legittimità costituzionale degli artt. 45 e 74, comma 2, della legge reg. Basilicata n. 11 del 2018, sono assorbite le censure prospettate in relazione all'art. 81, terzo comma, Cost.
+
+## Norme
+
+- legge della Regione Basilicata, 29/06/2018 n. 11, art. 45
+- legge della Regione Basilicata, 29/06/2018 n. 11, art. 74, comma 2
+
+## Parametri
+
+- Costituzione, art. 81, comma 3
