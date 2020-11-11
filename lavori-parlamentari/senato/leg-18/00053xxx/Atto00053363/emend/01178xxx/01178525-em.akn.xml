@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1970/A/1.34/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1970/A/1.34"/>
+					<an:FRBRdate date="2020-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1970/A/1.34/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.34"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@"/>
+					<an:FRBRdate date="2020-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@.akn"/>
+					<an:FRBRdate date="2020-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-11-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-11-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1970/A/1.34/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1970" showAs="DDL 1970"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4MDYRQ3SINRQMEX2OHXHKEBVXC1VA03KL2H0ZLJWSIARGDXS21UF" href="http://dati.senato.it/17211" showAs="LANNUTTI"/>
+				<an:TLCPerson id="IDETYDOKYUTLNNMAVCNPZGIDAP2CQSQCEEXIKIAMFHDWJQSS23TRJP" href="http://dati.senato.it/32579" showAs="ANASTASI"/>
+				<an:TLCPerson id="ID2MVEFNNGU0HVE3G3WVI0TIJHTNW2POXXZRCZZXP3CLU5ROTRI2NN" href="http://dati.senato.it/29527" showAs="PESCO"/>
+				<an:TLCPerson id="IDDJCNEUIKMJ2WFIOQVAJJZ4TAUFB0VVOLXEGPYCN0AXMJY24JQGTH" href="http://dati.senato.it/32649" showAs="LANZI"/>
+				<an:TLCPerson id="IDXT4H5KQFKGVLDDE4LHX53B4D2IE3KY2ECOBMA2PMAWZD32O1UGZG" href="http://dati.senato.it/32608" showAs="CROATTI"/>
+				<an:TLCPerson id="IDVJS0MJDG20GCHR1GUIFUZRGZSD5UNSR55FQFA5NRGW2OHMQTS55K" href="http://dati.senato.it/32729" showAs="VACCARO"/>
+				<an:TLCPerson id="ID2IOQF4DUMK4XGLEQ4EUQZOXRTMOAUINCH0QI5OJF1RQVG3V2Z31H" href="http://dati.senato.it/32638" showAs="GALLICCHIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1970</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.34</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4MDYRQ3SINRQMEX2OHXHKEBVXC1VA03KL2H0ZLJWSIARGDXS21UF" as="#tipoSenatore">LANNUTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDETYDOKYUTLNNMAVCNPZGIDAP2CQSQCEEXIKIAMFHDWJQSS23TRJP" as="#tipoSenatore">ANASTASI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2MVEFNNGU0HVE3G3WVI0TIJHTNW2POXXZRCZZXP3CLU5ROTRI2NN" as="#tipoSenatore">PESCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDJCNEUIKMJ2WFIOQVAJJZ4TAUFB0VVOLXEGPYCN0AXMJY24JQGTH" as="#tipoSenatore">LANZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXT4H5KQFKGVLDDE4LHX53B4D2IE3KY2ECOBMA2PMAWZD32O1UGZG" as="#tipoSenatore">CROATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVJS0MJDG20GCHR1GUIFUZRGZSD5UNSR55FQFA5NRGW2OHMQTS55K" as="#tipoSenatore">VACCARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2IOQF4DUMK4XGLEQ4EUQZOXRTMOAUINCH0QI5OJF1RQVG3V2Z31H" as="#tipoSenatore">GALLICCHIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, aggiungere, in fine, il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4
+					<an:i>-bis</an:i>
+					. All'articolo 1, comma 60, della legge 4 agosto 2017, n. 124, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>      a) le parole: "a decorrere dal 1° gennaio 2021" sono sostituite dalle seguenti: "a decorrere dal 1° luglio 2021";</an:p>
+				<an:p>      b) le parole: "a decorrere dal 1° gennaio 2022" sono sostituite dalle seguenti: "a decorrere dal 1° gennaio 2023".»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
