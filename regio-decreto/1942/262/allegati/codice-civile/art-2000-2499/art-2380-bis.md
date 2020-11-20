@@ -2,7 +2,7 @@ Art. 2380-bis.
 
 (Amministrazione della societa').
 
-((La gestione dell'impresa si svolge nel rispetto della disposizione di cui all'articolo 2086, secondo comma, e spetta esclusivamente agli amministratori, i quali compiono le operazioni necessarie per l'attuazione dell'oggetto sociale.))
+La gestione dell'impresa si svolge nel rispetto della disposizione di cui all'articolo 2086, secondo comma, e spetta esclusivamente agli amministratori, i quali compiono le operazioni necessarie per l'attuazione dell'oggetto sociale. ((L'istituzione degli assetti di cui all'articolo 2086, secondo comma, spetta esclusivamente agli amministratori.))
 
 L'amministrazione della societa' puo' essere affidata anche a non soci.
 

@@ -2,7 +2,7 @@ Art. 2409-novies.
 
 (Consiglio di gestione).
 
-((La gestione dell'impresa si svolge nel rispetto della disposizione di cui all'articolo 2086, secondo comma, e spetta esclusivamente al consiglio di gestione, il quale compie le operazioni necessarie per l'attuazione dell'oggetto sociale.)) Puo' delegare proprie attribuzioni ad uno o piu' dei suoi componenti; si applicano in tal caso il terzo, quarto e quinto comma dell'articolo 2381.
+La gestione dell'impresa si svolge nel rispetto della disposizione di cui all'articolo 2086, secondo comma, e spetta esclusivamente al consiglio di gestione, il quale compie le operazioni necessarie per l'attuazione dell'oggetto sociale. Puo' delegare proprie attribuzioni ad uno o piu' dei suoi componenti; si applicano in tal caso il terzo, quarto e quinto comma dell'articolo 2381. ((L'istituzione degli assetti di cui all'articolo 2086, secondo comma, spetta esclusivamente al consiglio di gestione.))
 
 E' costituito da un numero di componenti, anche non soci, non inferiore a due.
 
