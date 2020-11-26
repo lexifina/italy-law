@@ -1,0 +1,22 @@
+# Massima n. 42717
+
+- Pronuncia: Corte costituzionale, sentenza 252/2020 (ECLI:IT:COST:2020:252)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2020:252
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Operazioni di polizia per la prevenzione e la repressione del traffico illecito di stupefacenti e sostanze psicotrope - Perquisizioni personali e domiciliari autorizzate per telefono - Convalida successiva - Omessa previsione - Violazione della libertà personale e dell'inviolabilità del domicilio - Illegittimità costituzionale in parte qua.
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione degli artt. 13, secondo comma, e 14, secondo comma, Cost., l'art. 103, comma 3, del d.P.R. n. 309 del 1990, nella parte in cui non prevede che anche le perquisizioni personali e domiciliari autorizzate per telefono debbano essere convalidate. La disposizione censurata dal Tribunale di Lecce - la quale si colloca nel novero delle numerose norme speciali che attribuiscono alla polizia giudiziaria il potere di compiere perquisizioni e ispezioni d'iniziativa in casi diversi e ulteriori rispetto a quelli disciplinati dagli artt. 352 e 354 cod. proc. pen., onde realizzare una più efficace attività tanto di prevenzione quanto di repressione dei traffici illeciti di stupefacenti -, nel caso in cui consente al PM di autorizzare oralmente l'esecuzione di perquisizioni, senza necessità di una successiva documentazione formale delle ragioni per le quali l'autorizzazione è stata rilasciata, si rivela incompatibile con i parametri evocati, secondo cui le perquisizioni personali - al pari delle ispezioni personali e di ogni altra restrizione della libertà personale - e quelle domiciliari - oltre che alle ispezioni e ai sequestri - possono essere disposte solo per atto motivato dell'autorità giudiziaria. Un'autorizzazione telefonica - che, di per sé, non lascia alcuna traccia accessibile delle sue ragioni, né per l'interessato né per il giudice - non tutela infatti il diritto della persona che subisce la perquisizione a conoscere - così da poterle, all'occorrenza, anche contestare - le ragioni per quali è stata disposta una limitazione dei suoi diritti fondamentali alla libertà personale e domiciliare, perché i motivi per i quali essa è stata consentita restano nel chiuso di un colloquio telefonico tra pubblico ministero e polizia giudiziaria. Nella specie, la soluzione con il più immediato aggancio nella disciplina vigente - essendo questo offerto, in pratica, dalla stessa norma censurata - è quella di richiedere che anche la perquisizione autorizzata telefonicamente debba essere convalidata, entro il doppio termine delle quarantotto ore. Ovviamente, anche in questo caso rimane ferma la facoltà del legislatore di introdurre, nella sua discrezionalità, altra, e in ipotesi più congrua, disciplina della fattispecie, purché rispettosa dei principi costituzionali. L'intervento della Corte costituzionale non può trovare ostacolo nella circostanza che, in linea astratta, siano prospettabili plurime soluzioni alternative per evitare un vuoto normativo conseguenza di una pronuncia di accoglimento. A fronte della violazione di diritti costituzionali, infatti, l'ammissibilità delle questioni di legittimità costituzionale risulta condizionata non tanto dall'esistenza di un'unica soluzione costituzionalmente obbligata, quanto dalla presenza nell'ordinamento di una o più soluzioni costituzionalmente adeguate, che si inseriscano nel tessuto normativo coerentemente con la logica perseguita dal legislatore e idonee, quindi, a porre rimedio nell'immediato al vulnus riscontrato, ferma restando la facoltà del legislatore di intervenire con scelte diverse. Occorre, infatti, evitare che l'ordinamento presenti zone franche immuni dal sindacato di legittimità costituzionale, poiché posta di fronte a un vulnus costituzionale, non sanabile in via interpretativa - tanto più se attinente a diritti fondamentali - la Corte è tenuta comunque a porvi rimedio. ( Precedenti citati: sentenze n. 242 del 2019, n. 99 del 2019, n. 40 del 2019, n. 233 del 2018, n. 222 del 2018, n. 41 del 2018, n. 236 del 2016, n. 162 del 2014 e n. 113 del 2011 ).
+
+## Norme
+
+- decreto del Presidente della Repubblica, 09/10/1990 n. 309, art. 103, comma 3
+
+## Parametri
+
+- Costituzione, art. 13, comma 2
+- Costituzione, art. 14, comma 2
