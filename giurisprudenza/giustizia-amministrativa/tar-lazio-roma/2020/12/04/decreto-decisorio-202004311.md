@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 4311/2020
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA TER
+- Numero provvedimento: 202004311
+- Numero di ricorso (NRG): 201505214
+- Data di pubblicazione: 2020-12-04
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2015-04-23
+- Oggetto del ricorso: ANNULLAMENTO DELL'ART. 11 CO 1 LETT A) DEL DM 11930 DEL 23.02.2015 RELATIVO ALLE DISPOSIZIONI PER L'ISTITUZIONE E LA TENUTA DEL REGISTRO DEI FUNZIONARI DI GARA E DEI VETERINARI ADDETTI AL CONTROLLO E DISCIPLINA DELLE CORSE IPPICHE E DELLE MANIFESTAZIONI DEL CAVALLO DA SELLA ORGANIZZATE DAL MIPAAF
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
