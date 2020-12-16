@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/23.50/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/23.50"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/23.50/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.50"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/23.50/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDQVYGBE3MM3LCACB5LXMPCXJJHYW0KGRGTRCXPCUW4XTP5HKUC0F" href="http://dati.senato.it/32611" showAs="DAL MAS"/>
+				<an:TLCPerson id="IDQWWM2XHNQNVDOHDYPFTGA2YPHT2MSNHGZUT0YHEVD3VHTGLSVS" href="http://dati.senato.it/32671" showAs="MODENA"/>
+				<an:TLCPerson id="IDWWUBRUPZ225PNSDTVAR4DX4MMLPEANUJBPFROAN0PULPX5QFBHJB" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.50</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDQVYGBE3MM3LCACB5LXMPCXJJHYW0KGRGTRCXPCUW4XTP5HKUC0F" as="#tipoSenatore">DAL MAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQWWM2XHNQNVDOHDYPFTGA2YPHT2MSNHGZUT0YHEVD3VHTGLSVS" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWWUBRUPZ225PNSDTVAR4DX4MMLPEANUJBPFROAN0PULPX5QFBHJB" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 10, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «10-
+					<an:i>bis</an:i>
+					. Agli effetti di cui al comma 5 dell'articolo 420-
+					<an:i>ter</an:i>
+					 del codice di procedura penale, per eventi connessi al contagio da COVID-19, il difensore che produca documentazione sanitaria comprovante il proprio isolamento domiciliare o la propria sottoposizione a quarantena, si ritiene legittimamente impedito a comparire.
+				</an:p>
+				<an:p>
+					        10-
+					<an:i>ter</an:i>
+					. Ai sensi del comma 1 dell'articolo 175 del codice di procedura penale, si intende per forza maggiore anche l'isolamento domiciliare o la sottoposizione a quarantena, comprovati da documentazione sanitaria, per eventi connessi al contagio da COVID-19.
+				</an:p>
+				<an:p>
+					        10-
+					<an:i>quater</an:i>
+					. La parte che dimostra di essere incorsa in decadenza a causa di isolamento domiciliare o sottoposizione a quarantena, comprovati da documentazione sanitaria, per eventi connessi al contagio da COVID-19, può chiedere al giudice di essere rimessa in termini ai sensi del comma 2 dell'articolo 153 del codice di procedura civile».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
