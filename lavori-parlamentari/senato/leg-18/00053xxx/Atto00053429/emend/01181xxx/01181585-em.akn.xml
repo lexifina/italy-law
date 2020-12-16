@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/4.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/4.20"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/4.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/4.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMNBOA4RMCOS3EGLNEEI3J1RZHP2BDYVDGTZPKMBE1DVOEFHL5YDP" href="http://dati.senato.it/32659" showAs="MALLEGNI"/>
+				<an:TLCPerson id="IDSRCUJAGAYYJNJD340IBIPW35ZJAMB1M50THHG1J1F2BLHW4FGQZD" href="http://dati.senato.it/17841" showAs="FERRO"/>
+				<an:TLCPerson id="IDZNKF1ZUWRG3YCXYD3LNWWYELHGTPSH2WB1RYXXF3NV20XZPEEIGO" href="http://dati.senato.it/29329" showAs="CAUSIN"/>
+				<an:TLCPerson id="IDIGTGFMKXNWHTBK4L22RLYU1LBGX1PNHVNXU0SRM4DY0ZNWYINTB" href="http://dati.senato.it/22814" showAs="DE POLI"/>
+				<an:TLCPerson id="IDCZM2RYM0QUEBS3PYB2ERKJZIDWSZT2WPF1GBDNVO4HRYZAF50UE" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMNBOA4RMCOS3EGLNEEI3J1RZHP2BDYVDGTZPKMBE1DVOEFHL5YDP" as="#tipoSenatore">MALLEGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSRCUJAGAYYJNJD340IBIPW35ZJAMB1M50THHG1J1F2BLHW4FGQZD" as="#tipoSenatore">FERRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZNKF1ZUWRG3YCXYD3LNWWYELHGTPSH2WB1RYXXF3NV20XZPEEIGO" as="#tipoSenatore">CAUSIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIGTGFMKXNWHTBK4L22RLYU1LBGX1PNHVNXU0SRM4DY0ZNWYINTB" as="#tipoSenatore">DE POLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCZM2RYM0QUEBS3PYB2ERKJZIDWSZT2WPF1GBDNVO4HRYZAF50UE" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>        «2. In considerazione delle obiettive difficoltà determinate dall'emergenza epidemiologica, le indennità di cui all'articolo 34 della legge 27 luglio 1978 n. 392 sono dovute anche in caso di recesso per inadempimento del contratto di locazione di immobili destinati ad attività turistico ricettiva se il recesso è causato dal mancato pagamento del canone relativo ad uno o più dei mesi compresi tra il 1º marzo 2020 e il 30 giugno 2021. Il locatore ha facoltà di compensare autonomamente i crediti relativi al canone di locazione con i debiti relativi alle suddette indennità, dandone comunicazione al locatario.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
