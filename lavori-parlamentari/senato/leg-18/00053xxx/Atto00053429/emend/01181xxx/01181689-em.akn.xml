@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/5.64/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/5.64"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/5.64/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.64"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/5.64/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPCHDT2OKHSOSHYEXBMPMJUU4XPPMMWYT3TUF3EECRY51LGS0BWSB" href="http://dati.senato.it/2444" showAs="URSO"/>
+				<an:TLCPerson id="IDU4RBQFUXXA01FFKBG512CWMKZFSBZZAE01GOEWFERL02CUJ0AJHE" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDNZ0EJT0LR312BLQT1OHWVWBIRHBNTWSDTDQA4UJ1315OQUOC5RKH" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDOO2B10OPCVVHP3JLCBNABJIJAPGVFC4J024TCPIORKTFFGENEEMJ" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.64</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPCHDT2OKHSOSHYEXBMPMJUU4XPPMMWYT3TUF3EECRY51LGS0BWSB" as="#tipoSenatore">URSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU4RBQFUXXA01FFKBG512CWMKZFSBZZAE01GOEWFERL02CUJ0AJHE" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNZ0EJT0LR312BLQT1OHWVWBIRHBNTWSDTDQA4UJ1315OQUOC5RKH" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOO2B10OPCVVHP3JLCBNABJIJAPGVFC4J024TCPIORKTFFGENEEMJ" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sopprimere i commi 6 e 7, e dopo l'articolo inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					        «Art. 5
+					<an:b>
+						<an:i>-bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Restituzione acconti IRES e IRAP 2020 e compensazione di crediti tributari per le imprese del comparto turistico)</an:i>
+				</an:p>
+				<an:p>        1. In considerazione degli effetti connessi all'emergenza epidemiologica da COVID-19, per l'anno 2020, alle imprese del comparto turistico sono restituite le somme degli acconti IRES e IRAP versate per il periodo di imposta 2020 ed è, in ogni caso, concessa la facoltà di avvalersi del1 compensazione dei crediti IVA, IRPEF, IRES e IRAP, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241.</an:p>
+				<an:p>        2. Con provvedimento del Direttore dell'Agenzia delle entrate - da adottare entro venti giorni dalla data di entrata in vigore della legge di conversione del presente decreto - sono adottate le modalità tecniche necessarie per attuare il presente articolo.</an:p>
+				<an:p>        3. Agli oneri derivanti dall'attuazione della presente disposizione, valutati in euro 1.500 milioni per l'anno 2020, si provvede a valere sulle risorse stanziate ai fini del riconoscimento del credito di cui all'articolo 176 del decreto-legge 19 maggio 2020, n. 34, convertito con modificazioni dalla legge 17 luglio 2020, n. 77, non utilizzate alla data di entrata in vigore della legge di conversione del presente decreto. Con successivi provvedimenti normativi si provvede a rideterminare i limiti di spesa, gli importi e i requisiti per la fruizione del credito di cui al citato articolo 176, in linea con quanto disposto dal presente articolo.</an:p>
+				<an:p>        4. L'efficacia della presente disposizione è subordinata, all'autorizzazione della Commissione europea ai sensi dell'articolo 108, paragrafo 3, del Trattato sul funzionamento dell'Unione europea».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
