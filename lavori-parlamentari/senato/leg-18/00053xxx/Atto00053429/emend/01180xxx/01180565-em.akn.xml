@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/1.53/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/1.53"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/1.53/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.53"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/1.53/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEFNUMACTFUQHDHM1HOGSIWKUJEPH3XFH3KMGYRNQZ4JLS5CLEHRB" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDSRVNZFZ0XTNVGYN00RRO0BDQWBWOUMCRDNOJ0BH0DHE2VFRA2LMN" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDNOB0BE2FBAUWNSOCO0Y4WAUAYBLUMNCIQCJZGWFZ4MT1JQ2W4WYE" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.53</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEFNUMACTFUQHDHM1HOGSIWKUJEPH3XFH3KMGYRNQZ4JLS5CLEHRB" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSRVNZFZ0XTNVGYN00RRO0BDQWBWOUMCRDNOJ0BH0DHE2VFRA2LMN" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNOB0BE2FBAUWNSOCO0Y4WAUAYBLUMNCIQCJZGWFZ4MT1JQ2W4WYE" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'articolo 1, apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					        a) 
+					<an:i>Al comma 3, il primo periodo è sostituito dal seguente:</an:i>
+					 «Il contributo a fondo perduto spetta a condizione che nei mese di aprile 2020, ovvero nei trimestre marzo-maggio 2020, ovvero nel trimestre giugno-agosto 2020, l'ammontare del fatturato e dei corrispettivi sia inferiore ai due terzi dell'ammontare dei fatturato e dei corrispettivi degli analoghi periodi dell'anno 2019».
+				</an:p>
+				<an:p>
+					        b) 
+					<an:i>Dopo ii comma 6, inserire ii seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «6-
+					<an:i>bis</an:i>
+					. Al comma 5 dell'articolo 25 del decreto legge n. 34 del 2020, dopo le parole: ''aprile 2019'', aggiungere le seguenti: ''oppure, a richiesta dei beneficiario, applicando una percentuale alla differenza tra l'ammontare medio del fatturato e dei corrispettivi dei trimestre marzo-maggio 2020 o dei trimestre giugno-agosto 2020 e l'ammontare medio del fatturato e dei corrispettivi rispettivamente del trimestre marzo-maggio 2019 e del trimestre giugno-agosto 2019,''».
+				</an:p>
+				<an:p>
+					        c) 
+					<an:i>Ai comma 7, apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					        1. 
+					<an:i>Alla lettera</an:i>
+					 a), 
+					<an:i>aggiungere, in fine, le seguenti parole:</an:i>
+					 «, così come modificato dal presente decreto, ovvero, a richiesta del beneficiario, secondo i criteri stabiliti per i soggetti di cui ai comma 6»;
+				</an:p>
+				<an:p>
+					        2. 
+					<an:i>Alla lettera</an:i>
+					 b), 
+					<an:i>sopprimere la parola:</an:i>
+					 «4» 
+					<an:i>e aggiungere, in fine, le seguenti:</an:i>
+					 «, così come modificato dai presente decreto».
+				</an:p>
+				<an:p>        Agli oneri derivanti dall'attuazione della presente disposizione, valutati in euro 900 milioni per Panno 2020, si provvede a valere sulle risorse stanziate ai fini dei riconoscimento del credito di cui all'articolo 176 dei decreto-legge 19 maggio 2020, n. 34, convertito con modificazioni dalla legge 17 luglio 2020, n. 77, non utilizzate alla data di entrata in vigore della legge di conversione del presente decreto. Con successivi provvedimenti normativi si provvede a rideterminare i limiti di spesa, gli importi e i requisiti per la fruizione del credito di cui al citato articolo 176, in linea con quanto disposto dal presente articolo.</an:p>
+				<an:p>
+					<an:i>Conseguentemente, sono soppressi i commi 6 e 7 dell'articolo 5.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
