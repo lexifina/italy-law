@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/21.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/21.1"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/21.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="21.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/21.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQL2KLQVED1YBMJ01SD2G5ENI4LWCQ3ALTVMNJLN4OPKFVJCG0VMC" href="http://dati.senato.it/32645" showAs="IANNONE"/>
+				<an:TLCPerson id="IDNXSTELJZBANWBJZ0Z1QL5PG1OIF02TLYUVXMNGKE33QAL4IRL1BO" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDMHJC1PNULZMPGQB0P35WIIAYLO4LAIQT5D00L3OZOIPBRKXDNKDK" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDPHANAPL2LC23DYUBUNOW4GUCVFDTONMBVJBN3FO044FZV4ZDS2PD" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 21.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQL2KLQVED1YBMJ01SD2G5ENI4LWCQ3ALTVMNJLN4OPKFVJCG0VMC" as="#tipoSenatore">IANNONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNXSTELJZBANWBJZ0Z1QL5PG1OIF02TLYUVXMNGKE33QAL4IRL1BO" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMHJC1PNULZMPGQB0P35WIIAYLO4LAIQT5D00L3OZOIPBRKXDNKDK" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPHANAPL2LC23DYUBUNOW4GUCVFDTONMBVJBN3FO044FZV4ZDS2PD" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire le parole:</an:i>
+					 «85» 
+					<an:i>con le seguenti:</an:i>
+					 «200».
+				</an:p>
+				<an:p>
+					<an:i>All'onere derivante dall'attuazione del presente articolo, pari a 25 milioni a decorrere dall'anno 2020, si provvede mediante corrispondente riduzione del Fondo per le esigenze indifferibili di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190. Il restante pari a 690 milioni di euro mediante corrispondente riduzione proporzionale dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma</an:i>
+					 «Fondi di riserva e speciali» 
+					<an:i>della missione</an:i>
+					 «Fondi da ripartire» 
+					<an:i>dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo a tutte le rubriche, fatta eccezione per la rubrica del ministero degli affari esteri.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
