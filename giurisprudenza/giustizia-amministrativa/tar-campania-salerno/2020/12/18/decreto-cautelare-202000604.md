@@ -1,0 +1,19 @@
+# TAR CAMPANIA - SALERNO, decreto cautelare n. 604/2020
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR CAMPANIA - SALERNO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202000604
+- Numero di ricorso (NRG): 202001643
+- Data di pubblicazione: 2020-12-18
+- Udienza: PROCESSO MONOCRATICO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-12-14
+- Oggetto del ricorso: AVVISO - PRIVO DI PROTOCOLLO E NUMERO - CON CUI L’UNIVERSITÀ DEGLI STUDI DI SALERNO IN DATA 15.10.2020 HA PUBBLICATO LA GRADUATORIA DEGLI AMMESSI ALLA PROVA SCRITTA DELLA SELEZIONE PER L’ACCESSO AI CORSI DI FORMAZIONE PER IL CONSEGUIMENTO DELLA SPECIALIZZAZIONE PER LE ATTIVITÀ DI SOSTEGNO DIDATTICO AGLI ALUNNI CON DISABILITÀ PER L’ANNO ACCADEMICO 2019/ 2020 (SCUOLA SECONDARIA I GRADO)
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-salerno-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/54ef6297-0279-4d02-b6a7-70ae4d36e466/resource/30afcb55-fdb0-4137-bfdc-e027828e44fe/download/tar-campania-salerno-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
