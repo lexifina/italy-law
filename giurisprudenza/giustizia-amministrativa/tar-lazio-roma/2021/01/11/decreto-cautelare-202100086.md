@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 86/2021
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA QUATER
+- Numero provvedimento: 202100086
+- Numero di ricorso (NRG): 202100250
+- Data di pubblicazione: 2021-01-11
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-01-08
+- Oggetto del ricorso: D.G. N. 87 DEL 09.11.2020 - DISPOSIZIONI APPLICATIVE PER IL RIPARTO DELLE RISORSE DEL FONDO DI CUI ALL’ARTICOLO 182, COMMA 1, DEL DECRETO-LEGGE 19 MAGGIO 2020, N. 34, DESTINATE AL RISTORO DI AGENZIE DI VIAGGIO E TOUR OPERATOR A SEGUITO DELLE MISURE DI CONTENIMENTO DEL COVID-19 - ESCLUSIONE (COVID 19)
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
