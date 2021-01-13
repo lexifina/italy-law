@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2054/A/G1.179/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2054/A/G1.179"/>
+					<an:FRBRdate date="2021-01-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2054/A/G1.179/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.179"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@"/>
+					<an:FRBRdate date="2021-01-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@.akn"/>
+					<an:FRBRdate date="2021-01-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-01-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-01-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2054/A/G1.179/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2054" showAs="DDL 2054"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1QKXHSCTJP2QCIA40IQOOUSWWG0EHUUO0FY3M1FFQC1FZ24NM5CB" href="http://dati.senato.it/32590" showAs="BORGONZONI"/>
+				<an:TLCPerson id="IDAOBAPZRE35YHBLFTS1FK1FYZQJC0F3AHQS1EBHTCW5E2RXGXRRB" href="http://dati.senato.it/32711" showAs="SAPONARA"/>
+				<an:TLCPerson id="IDXEJ5GQDF4U4MK030YONBVZNRCM0XVZNV04MHK2F5KBFGXGMRYFUI" href="http://dati.senato.it/25295" showAs="PITTONI"/>
+				<an:TLCPerson id="IDCUZJBIOZR1JVG1MOEYFGPOODTALMONSN30QU0K2VQQWWUQ5ORVM" href="http://dati.senato.it/35119" showAs="ALESSANDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2054</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.179</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1QKXHSCTJP2QCIA40IQOOUSWWG0EHUUO0FY3M1FFQC1FZ24NM5CB" as="#tipoSenatore">BORGONZONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOBAPZRE35YHBLFTS1FK1FYZQJC0F3AHQS1EBHTCW5E2RXGXRRB" as="#tipoSenatore">SAPONARA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXEJ5GQDF4U4MK030YONBVZNRCM0XVZNV04MHK2F5KBFGXGMRYFUI" as="#tipoSenatore">PITTONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCUZJBIOZR1JVG1MOEYFGPOODTALMONSN30QU0K2VQQWWUQ5ORVM" as="#tipoSenatore">ALESSANDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					La 7
+					<an:sup>a</an:sup>
+					 Commissione,
+				</an:p>
+				<an:p>            in sede di esame del disegno di legge A.S.2054 recante «Bilancio di previsione dello Stato per l'anno finanziario 2021 e bilancio pluriennale per il triennio 2021-2023»</an:p>
+				<an:p>         premesso che:</an:p>
+				<an:p>        in questo momento è fondamentale trovare forme innovative per sostenere e retribuire il lavoro artistico, piuttosto che limitarsi solo ai pur giusti e doverosi  "ristori";</an:p>
+				<an:p>            è importante che il comparto dello spettacolo dal vivo non si fermi e che invece si possa continuare a progettare nuove produzioni;</an:p>
+				<an:p>            è necessario riservare particolare attenzione per questo settore in un momento cosÃ¬ difficile, in cui i teatri sono costretti alla forzata chiusura, non soltanto con misure di tipo assistenziale, ma anche prevedendo incentivi  per fare in modo che l'attività artistica, un lavoro a tutti gli effetti con la sua grande rilevanza produttiva ed economica, non si fermi, consentendo al tempo stesso di esplorare nuove e suggestive possibilità creative, per non dimenticare il valore della cultura e del suo effetto in termini di benessere sociale,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					       a valutare la possibilità di destinare le necessarie risorse per finanziare progetti presentati da soggetti privati e pubblici negli ambiti del teatro, danza, musica e circo contemporaneo, anche se svolti in teatri senza la partecipazione del pubblico per essere diffusi in 
+					<an:i>live streaming</an:i>
+					, attraverso piattaforme digitali.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
