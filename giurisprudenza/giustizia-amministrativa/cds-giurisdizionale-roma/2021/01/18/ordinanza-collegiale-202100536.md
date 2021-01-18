@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza collegiale n. 536/2021
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE III
+- Numero provvedimento: 202100536
+- Numero di ricorso (NRG): 202007033
+- Data di pubblicazione: 2021-01-18
+- Udienza: UDIENZA PUBBLICA
+- Esito: SOSPENDE GIUDIZIO CON RINVIO ALLA CORTE DI GIUSTIZIA DELL'UNIONE EUROPEA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-09-09
+- Oggetto del ricorso: AFFIDAMENTO IN CONVENZIONE DEL SERVIZIO SANITARIO 118 “AMBULANZE” PER IL TERRITORIO DI COMPETENZA DELLA ASL BT
+- Tipo di ricorso: APP. AVV. SENT. NEL RITO APPALTI ex art.120 co.2 bis c.p.a.
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
