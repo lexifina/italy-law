@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2070/A/2.0.5"/>
+					<an:FRBRdate date="2021-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@"/>
+					<an:FRBRdate date="2021-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@.akn"/>
+					<an:FRBRdate date="2021-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-01-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-01-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2070/A/2.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2070" showAs="DDL 2070"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHQWEW5YS1TROJQN3FA434KMXIBMKKPQBVUXIPTJO2OHWS4YHXMBF" href="http://dati.senato.it/4584" showAs="VITALI"/>
+				<an:TLCPerson id="IDGATRF03MIPORHVZGZ0RLXAF4QEH0AKSKB4NU5BNQQY3K4HQHB53E" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+				<an:TLCPerson id="IDOXI0E3TUE2WWDF1J51NBKKT2TJYIFRIIKNJGQNJSADA0A0W1ZO1J" href="http://dati.senato.it/4192" showAs="FAZZONE"/>
+				<an:TLCPerson id="IDJLQUXHG33IKJHCBYKZ34ZEIRRI41RAF5IQLYCUP3FGNDMUNGIJDB" href="http://dati.senato.it/3939" showAs="SCHIFANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2070</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHQWEW5YS1TROJQN3FA434KMXIBMKKPQBVUXIPTJO2OHWS4YHXMBF" as="#tipoSenatore">VITALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGATRF03MIPORHVZGZ0RLXAF4QEH0AKSKB4NU5BNQQY3K4HQHB53E" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOXI0E3TUE2WWDF1J51NBKKT2TJYIFRIIKNJGQNJSADA0A0W1ZO1J" as="#tipoSenatore">FAZZONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJLQUXHG33IKJHCBYKZ34ZEIRRI41RAF5IQLYCUP3FGNDMUNGIJDB" as="#tipoSenatore">SCHIFANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">«Art. 2.1.</an:p>
+				<an:p align="center">
+					<an:i>(Contributo a fondo perduto per le attività danneggiate dalle restrizioni sanitarie nel mese di dicembre 2020)</an:i>
+				</an:p>
+				<an:p>        1. Il contributo a fondo perduto di cui all'articolo 25 del decreto-legge 19 maggio 2020, n. 34, convertiti con modificazioni, dalla legge 17 luglio 2020, n. 77, spetta ai soggetti esercenti attività di impresa di vendita di beni o servizi al pubblico per il mese di dicembre 2020, a condizione che gli stessi abbiano subìto una diminuzione del fatturato o dei corrispettivi nel mese di riferimento di almeno il quaranta per cento rispetto allo stesso mese del periodo d'imposta precedente. La misura non si applica alle attività di cui all'articolo 2, nonché a quelle che hanno ricevuto ristori ai sensi dei decreti legge n. 137, 149, 154 e 157 del 2020.</an:p>
+				<an:p>        2. L'ammontare del contributo è calcolato secondo le modalità previste dai commi 5 e 6 del decreto-legge n. 34 del 2020. Si applicano, in quanto compatibili le disposizioni di cui all'articolo 25, commi da 7 a 14, del decreto-legge n. 34 del 2020.</an:p>
+				<an:p>        3. Le disposizioni del presente articolo si applicano nel rispetto dei limiti e delle condizioni previsti dalla Comunicazione della Commissione europea del 19 marzo 2020 C(2020) 1863-final "Quadro temporaneo per le misure di aiuto di Stato a sostegno dell'economia nell'attuale emergenza del COVID-19", e successive modifiche.</an:p>
+				<an:p>        4. Agli oneri derivanti dalla presente disposizione, nel limite di 1.500 milioni di euro per l'anno 2021 si provvede mediante corrispondente riduzione della dotazione del fondo di cui all'articolo 1, comma 290, della legge 27 dicembre 2019, n. 160, come, rideterminato dall'articolo 73, comma 2, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126. Il programma di cui al comma 288 e successivi dell'articolo 1 della legge 27 dicembre 2019, n. 160 è contestualmente sospeso per l'anno 2021, salvo i rimborsi spettanti, da eseguire nel limite delle risorse residue.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
