@@ -1,0 +1,19 @@
+# TAR ABRUZZO - L'AQUILA, ordinanza collegiale n. 35/2021
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR ABRUZZO - L'AQUILA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202100035
+- Numero di ricorso (NRG): 202000187
+- Data di pubblicazione: 2021-01-28
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-06-25
+- Oggetto del ricorso: ANNULLAMENTO DEGLI ATTI DELLA PROCEDURA SELETTIVA INDETTA PER LA COPERTURA DI N. 1 POSTI DI PROFESSORE/SSA DI I FASCIA MEDIANTE CHIAMATA PER IL S.C. 06/H1GINECOLOGIA E OSTETRICIA, S.S.D. MED/40 GINECOLOGIA E OSTETRICIA, PRESSO IL DIPARTIMENTO DI MEDICINA CLINICA, SANITÀ PUBBLICA, SCIENZE DELLA VITA E DELL’AMBIENTE DELL’UNIVERSITÀ DEGLI STUDI DI L’AQUILA; DI OGNI ALTRO ATTO PRESUPPOSTO, CONSEGUENTE O COMUNQUE CONNESSO.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-abruzzo-l-aquila-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/39dae7b6-2b8f-4f51-a926-e1f266bfb8f1/resource/5b24137c-7308-4b97-8b04-b2bce6b566bd/download/tar-abruzzo-laquila-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
