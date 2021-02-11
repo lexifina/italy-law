@@ -1,0 +1,22 @@
+# Massima n. 43462
+
+- Pronuncia: Corte costituzionale, sentenza 17/2021 (ECLI:IT:COST:2021:17)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:17
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ordinamento penitenziario - Liberazione anticipata - Casi di revoca - Applicazione di una misura di sicurezza a seguito di assoluzione del condannato ai sensi dell'art. 115 cod. pen. (c.d. quasi reato) - Omessa previsione - Denunciata violazione del principio di uguaglianza e della funzione rieducativa della pena - Impossibilità di intervento additivo in mala partem - Inammissibilità delle questioni.
+
+## Testo
+
+Sono dichiarate inammissibili, perché volte a ottenere un intervento additivo dal tipico effetto in malam partem, le questioni di legittimità costituzionale, sollevate dal Tribunale di sorveglianza di Bologna in riferimento agli artt. 3 e 27, terzo comma, Cost., dell'art. 54, comma 3, della legge n. 354 del 1975, nella parte in cui non prevede che la revoca della misura della liberazione anticipata possa essere disposta - oltre che per la sopravvenuta condanna per un delitto non colposo commesso nel corso dell'esecuzione successivamente alla concessione del beneficio - anche nei casi di sopravvenuta assoluzione e di contestuale applicazione di una misura di sicurezza per un fatto qualificato "quasi reato", commesso da soggetto pericoloso,  ex  art. 115 cod. pen. La disciplina della liberazione anticipata è istituto del diritto penitenziario riconducibile alla dimensione sostanziale del trattamento punitivo, poiché incide direttamente sulla durata della pena detentiva; la stessa conclusione vale con riferimento alla disciplina della revoca del beneficio, che può trasformare in un prolungamento dell'esecuzione carceraria la condizione di libertà conseguita, in precedenza, mediante la concessione del beneficio stesso. E sebbene sia concepibile un intervento legislativo volto ad ampliare il novero dei casi di revoca della liberazione anticipata - salvi i limiti imposti dal divieto di applicazione retroattiva di una disposizione con effetti deteriori sul trattamento punitivo - altrettanto non può dirsi per l'intervento additivo sollecitato. Ne consegue che, nel caso di specie, all'adozione di una pronuncia di accoglimento osta non già una ragione meramente processuale - l'irrilevanza della questione - ma una ragione sostanziale, strettamente connessa al principio della riserva di legge sancito dall'art. 25, secondo comma, Cost. ( Precedenti citati: sentenze n. 32 del 2020, n. 229 del 2019, n. 149 del 2018, n. 255 del 2006, n. 186 del 1995, n. 352 del 1991, n. 276 del 1990, n. 29 del 1984, n. 274 del 1983  e  n. 148 del 1983; ordinanze n. 443 del 2006, n. 326 del 2006n. 300 del 2002, n. 367 del 1995, n. 9 del 1994 e n. 167 del 1983 ). Sebbene, in passato, le disposizioni dell'ordinamento penitenziario, sulla base della natura processuale loro attribuita, siano state considerate soggette al principio  tempus regit actum , benché causa di effetti sfavorevoli sul trattamento dei destinatari, nondimeno - anche considerando la giurisprudenza EDU, che ha fatto ampio ricorso alla nozione di norma "sostanzialmente penale"- si è manifestata l'esigenza di distinguere tra interventi normativi di carattere procedurale in tema di esecuzione e variazioni relative invece ai profili sostanziali delle misure di ordinamento penitenziario. Pertanto, se l'applicazione dei primi risponde al principio  tempus regit actum  ed è talvolta addirittura necessaria, anche al fine di tutelare l'eguale trattamento dei detenuti e di mantenere la loro pacifica convivenza in carcere, devono essere invece valutate diversamente le disposizioni sopravvenute che implichino una trasformazione della natura della pena, e della sua concreta incidenza sulla libertà personale del condannato, per le quali sussiste il divieto della loro applicazione retroattiva,  ex  art. 25, secondo comma, Cost. ( Precedenti citati: sentenze n. 32 del 2020, n. 79 del 2007, n. 257 del 2006, n. 137 del 1999, n. 445 del 1997, n. 376 del 1997, n. 504 del 1995 e n. 306 del 1993; ordinanze n. 108 del 2004 e n. 10 del 1981. Contra: sentenza n. 273 del 2001; ordinanze n. 108 del 2004 e n. 280 del 2001 ).
+
+## Norme
+
+- legge, 26/07/1975 n. 354, art. 54, comma 3
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 27, comma 3
