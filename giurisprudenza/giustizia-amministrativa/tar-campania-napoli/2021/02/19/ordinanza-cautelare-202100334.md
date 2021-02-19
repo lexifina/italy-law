@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 334/2021
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUARTA
+- Numero provvedimento: 202100334
+- Numero di ricorso (NRG): 202005185
+- Data di pubblicazione: 2021-02-19
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AL MERITO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-12-27
+- Oggetto del ricorso: DELLA NOTA PROT. N. 39615 DEL 03.06.2020, COMUNICATA IL 03.06.2020, DELLA PREFETTURA DI BENEVENTO – UFFICIO TERRITORIALE DEL GOVERNO AVENTE AD OGGETTO “GARA EUROPEA PER LA CONCLUSIONE DI ACCORDO QUADRO PER L'AFFIDAMENTO DEI SERVIZI DI GESTIONE DI CENTRO COLLETTIVI CON CAPACITÀ RICETTIVA FINO A 50 POSTI – COMUNICAZIONE ESCLUSIONE – CIG N. 7861012850
+- Tipo di ricorso: TRASPOSIZIONE DA RICORSO STRAORDINARIO AL CAPO DELLO STATO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
