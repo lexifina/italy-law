@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2066/A/3.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2066/A/3.7"/>
+					<an:FRBRdate date="2021-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2066/A/3.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@"/>
+					<an:FRBRdate date="2021-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@.akn"/>
+					<an:FRBRdate date="2021-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-03-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-03-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2066/A/3.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2066" showAs="DDL 2066"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVW2ZMMCO1EGCG1NO02S2VVNM4MJFZ1ZL5GLMCMJEHWOP2RGRLSB" href="http://dati.senato.it/32600" showAs="CASTELLONE"/>
+				<an:TLCPerson id="IDMGJOI1IRYUOVHD4XWWOCNV2NDKOLQZLIT01DNOTXZX5K2R5MB0J" href="http://dati.senato.it/32691" showAs="PIRRO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2066</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVW2ZMMCO1EGCG1NO02S2VVNM4MJFZ1ZL5GLMCMJEHWOP2RGRLSB" as="#tipoSenatore">CASTELLONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMGJOI1IRYUOVHD4XWWOCNV2NDKOLQZLIT01DNOTXZX5K2R5MB0J" as="#tipoSenatore">PIRRO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1
+					<an:i>-bis.</an:i>
+					 Relativamente al Piano strategico dei vaccini per la prevenzione delle infezioni da SARS-CoV-2 di cui al comma 1, in riferimento  alle categorie da vaccinare in via prioritaria nelle fasi iniziali identificate al paragrafo 2 del Piano, tra gli operatori sanitari è disposto l'inserimento, attraverso successivo decreto da emanarsi a cura del Ministero della Salute, anche dei medici e sanitari liberi professionisti,  in quanto fortemente esposti al rischio di contrarre l'infezione da SARS-CoV-2 al pari delle altre categorie già comprese.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
