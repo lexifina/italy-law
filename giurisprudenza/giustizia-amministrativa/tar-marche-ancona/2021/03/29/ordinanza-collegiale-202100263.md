@@ -1,0 +1,19 @@
+# TAR MARCHE - ANCONA, ordinanza collegiale n. 263/2021
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR MARCHE - ANCONA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202100263
+- Numero di ricorso (NRG): 201900153
+- Data di pubblicazione: 2021-03-29
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA CESSATA MATERIA DEL CONTENDERE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2019-04-17
+- Oggetto del ricorso: OTTEMPERANZA AL GIUDICATO DECRETO DECISORIO DELLA CORTE D' APPELLO DI ANCONA 1771/2017 - EQUA RIPARAZIONE
+- Tipo di ricorso: IN OTTEMPERANZA
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-marche-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/9485b179-2cb1-4c03-893a-83c79aa87840/resource/2fae10b9-128f-4f38-bbcc-24bfcc42a6f2/download/tar-marche-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
