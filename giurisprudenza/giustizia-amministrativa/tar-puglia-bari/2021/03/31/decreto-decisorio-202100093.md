@@ -1,0 +1,19 @@
+# TAR PUGLIA - BARI, decreto decisorio n. 93/2021
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR PUGLIA - BARI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202100093
+- Numero di ricorso (NRG): 201800753
+- Data di pubblicazione: 2021-03-31
+- Udienza: PROCESSO MONOCRATICO
+- Esito: IMPROCEDIBILE PER SOPRAVVENUTA CARENZA DI INTERESSE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2018-06-14
+- Oggetto del ricorso: DIVIETO DI ACCESSO A MANIFESTAZIONE SPORTIVE ITALIANE E ESTERE PER UN PERIODO DI 3 ANNI
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-puglia-bari-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/1b92307b-0421-4a81-808e-fdb0c48f1530/resource/b469cb30-c23e-4ca6-b9a0-2066f1750012/download/tar-puglia-bari-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
