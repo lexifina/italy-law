@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza collegiale n. 2981/2021
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SESTA
+- Numero provvedimento: 202102981
+- Numero di ricorso (NRG): 202003259
+- Data di pubblicazione: 2021-05-05
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: NOMINA COMMISSARIO AD ACTA
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2020-09-28
+- Oggetto del ricorso: DINIEGO DI ACCESSO AGLI ATTI DELL'INERZIA SERBATA DALLA RESISTENTE IN ORDINE ALLA MANCATA OSTENSIONE NEI TERMINI DI LEGGE DEGLI ATTI OGGETTO DI ISTANZA DI ACCESSO AGLI ATTI AI SENSI DELL'ARTICOLO 25 LEGGE 241/1990 E DELL'ARTICOLO 116 C.P.A., OBBLIGANDO LA RESISTENTE ANCHE MEDIANTE LA NOMINA DI UN COMMISSARIO AD ACTA CHE AGISCA IN CASO DI PERDURARE DELL'INERZIA
+- Tipo di ricorso: ACCESSO AI DOCUMENTI (ex art. 116 c.p.a.)
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
