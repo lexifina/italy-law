@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.1 (testo 2)/2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@.akn"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1834 NT/C/2.1 (testo 2)/2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Emend/18/1834 NT" showAs="Emend 1834 NT"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32732" showAs="Francesco Zaffini"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/1275" showAs="Ignazio La Russa"/>
+				<an:TLCPerson id="ID0EVB" href="http://dati.senato.it/22784" showAs="Achille Totaro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Emend 1834 NT</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.1 (testo 2)/2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Zaffini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">La</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Russa</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EVB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Totaro</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento  2.1 (testo 2), al comma 1, lettera</an:i>
+					 d), 
+					<an:i>apportare le seguenti modifiche:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        - 
+					<an:i>sostituire le parole:</an:i>
+					 «il seguente comma» 
+					<an:i>con le seguenti</an:i>
+					: «i seguenti commi»;
+				</an:p>
+				
+
+				<an:p>
+					         - 
+					<an:i>aggiungere in fine, il seguente capoverso:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «10
+					<an:i>-ter</an:i>
+					. Nell'esercizio delle sue funzioni la Commissione opera come Commissione parlamentare di inchiesta ai sensi dell'articolo 82 della Costituzione;
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>Conseguentemente, all'articolo 1, sostituire il comma 1 con il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					<an:i>        </an:i>
+					«1. È istituita, ai sensi dell'articolo 82 della Costituzione, una Commissione parlamentare di inchiesta sull'operato del Governo e sulle misure da esso adottate per prevenire e affrontare l'emergenza epidemiologica da COVID-19, di seguito denominata "Commissione".»;
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
