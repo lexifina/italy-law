@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2191/A/G1.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2191/A/G1.1"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2191/A/G1.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@.akn"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2191/A/G1.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2191" showAs="DDL 2191"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNEHPCW5F14E2VGBPDFTZZLDGIZKBZ4M4ZNW5KCVQNTDYRJSCM4K" href="http://dati.senato.it/19244" showAs="AUGUSSORI"/>
+				<an:TLCPerson id="IDADDWDGFLPMTZKE4ZU1DUY5HEODH3TLWW4I1JP3DX0PYWQR5ZVA1E" href="http://dati.senato.it/32700" showAs="RICCARDI"/>
+				<an:TLCPerson id="IDUXN5GOQMKUDOKAEX4B0G4RNYRDWUFLE4WY2A1CM0JVVPHCS3I4RJ" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDRUH1UAHJUWKZPZELANAFLPXLFJGBJWRZQJ3YG0HEUX0CQMODAXBG" href="http://dati.senato.it/32642" showAs="GRASSI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2191</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNEHPCW5F14E2VGBPDFTZZLDGIZKBZ4M4ZNW5KCVQNTDYRJSCM4K" as="#tipoSenatore">AUGUSSORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADDWDGFLPMTZKE4ZU1DUY5HEODH3TLWW4I1JP3DX0PYWQR5ZVA1E" as="#tipoSenatore">RICCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUXN5GOQMKUDOKAEX4B0G4RNYRDWUFLE4WY2A1CM0JVVPHCS3I4RJ" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRUH1UAHJUWKZPZELANAFLPXLFJGBJWRZQJ3YG0HEUX0CQMODAXBG" as="#tipoSenatore">GRASSI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del provvedimento recante Misure urgenti per fronteggiare la diffusione del COVID-19 e interventi di sostegno per lavoratori con figli minori in didattica a distanza o in quarantena,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            all'articolo 1, viene confermato il limite orario agli spostamenti, fissato per le ore 22.00, come già previsto dal DPCM del 3 marzo 2021, la cui applicazione è confermata fino al 31 luglio 2021 dall'articolo 1 del decreto legge n. 52 del 2021;</an:p>
+				<an:p>            la scelta di mantenere il coprifuoco alle 22 è stato - ed è tuttora - oggetto di acceso confronto all'interno della maggioranza di Governo e le interpretazioni sulla recente circolare del Ministero dell'Interno del 24 aprile 2021, esplicativa dell'ultimo provvedimento in tema di riaperture, hanno creato confusione, lasciando intendere un'eventuale possibilità che si possa stare seduti nelle attività di ristorazione fino alle 22, per poi far rientro presso il proprio domicilio, abitazione o residenza;</an:p>
+				<an:p>            attualmente, al già adottato sistema delle fasce si è aggiunto il criterio della precedenza per le attività all'aperto, a partire dalla ristorazione con tavoli all'esterno a pranzo e a cena: una decisione che si fonda su un «rischio ragionato», basata sul parere del comitato tecnico-scientifico, che ritiene minore l'incidenza del rischio di contagio all'aria aperta,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            sulla base dell'andamento del quadro epidemiologico oltre che dell'avanzamento della campagna vaccinale, a valutare la possibilità di eliminare completamente il coprifuoco nelle regioni cosiddette gialle o bianche, a partire dalle prossime settimane.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
