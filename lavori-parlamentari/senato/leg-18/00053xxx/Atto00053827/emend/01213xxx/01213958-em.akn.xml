@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/14.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/14.20"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/14.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="14.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/14.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCAH4VSUKOARJJXCBX3E3LRIVSFPCJCJRO5YDSTE5HVSXPKKNEZ3M" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDF3XSBZP113FWL1YZKX1H0K442LRL0SELB1TIJMBNEI1V4WWCNSNN" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+				<an:TLCPerson id="IDYKJ0RUNQ5JYQLPINLOMDJ5PPNLIVELNCK4L4JEBFV3TLFXJBMHIO" href="http://dati.senato.it/29072" showAs="COLLINA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 14.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCAH4VSUKOARJJXCBX3E3LRIVSFPCJCJRO5YDSTE5HVSXPKKNEZ3M" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF3XSBZP113FWL1YZKX1H0K442LRL0SELB1TIJMBNEI1V4WWCNSNN" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYKJ0RUNQ5JYQLPINLOMDJ5PPNLIVELNCK4L4JEBFV3TLFXJBMHIO" as="#tipoSenatore">COLLINA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Per l'anno 2021, le organizzazioni non lucrative di utilità sociale di cui all'articolo 10, del decreto legislativo 4 dicembre 1997, n. 460 iscritte negli appositi registri, le organizzazioni di volontariato iscritte nei registri regionali e delle province autonome di cui alla legge 11 agosto 1991, n. 266, e le associazioni di promozione sociale iscritte nei registri nazionale, regionali e delle province autonome di Trento e Bolzano di cui all'articolo 7 della legge 7 dicembre 2000, n. 383, per le quali la scadenza del termine di approvazione dei bilanci ricade all'interno del periodo emergenziale, come stabilito dalla delibera del Consiglio dei ministri del 13 gennaio 2021, possono approvare i propri bilanci entro la data del 31 ottobre 2021, anche in deroga alle previsioni di legge, regolamento o statuto.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
