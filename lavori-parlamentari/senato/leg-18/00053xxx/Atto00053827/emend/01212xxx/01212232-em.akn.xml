@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/1.41/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/1.41"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/1.41/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.41"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/1.41/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0CTCZ0HUCIFYBU5CNLGYDGIW4HUIC4JIJWLA0PIGJ3DI5BZWYZXG" href="http://dati.senato.it/32630" showAs="FENU"/>
+				<an:TLCPerson id="IDBW55GBC0M2KHP2ZICAOORROHKE430OFZMACSYOP5TEILZ0HAHHZ" href="http://dati.senato.it/32616" showAs="DELL'OLIO"/>
+				<an:TLCPerson id="IDMR4JVT5IF2NIKOHDSKK2JGPJZLQNI2TKQM1JP5LDI3BLOEGQCEH" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDGY0S3PK3LKUNNU5XECKGZREVOG1H31OG51ELEHKWMOEVDJJQ0UYF" href="http://dati.senato.it/34677" showAs="PAVANELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.41</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0CTCZ0HUCIFYBU5CNLGYDGIW4HUIC4JIJWLA0PIGJ3DI5BZWYZXG" as="#tipoSenatore">FENU</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBW55GBC0M2KHP2ZICAOORROHKE430OFZMACSYOP5TEILZ0HAHHZ" as="#tipoSenatore">DELL'OLIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMR4JVT5IF2NIKOHDSKK2JGPJZLQNI2TKQM1JP5LDI3BLOEGQCEH" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGY0S3PK3LKUNNU5XECKGZREVOG1H31OG51ELEHKWMOEVDJJQ0UYF" as="#tipoSenatore">PAVANELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, aggiungere, in fine, le seguenti parole:</an:i>
+					 «ovvero le microimprese e le piccole e medie imprese, come definite dalla Raccomandazione della Commissione europea n. 2003/361/CE del 6 maggio 2003, aventi sede in Italia, che nel medesimo periodo di imposta hanno corrisposto retribuzioni per un ammontare non inferiore al 50 per cento dell'ammontare complessivo di tutti gli altri costi tranne quelli relativi alle materie prime e sussidiarie».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
