@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/G29.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/G29.4"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/G29.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G29.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/G29.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLVIXQLG5TI45DVBQQ2E33BL3PM3K51HCM5JOTHM45VDZAB40FPKN" href="http://dati.senato.it/25446" showAs="NASTRI"/>
+				<an:TLCPerson id="IDPX3FRTUSSNJYHZZ0VRFFVXIDILNW33I3FKX5DDJKENOTMHEAARKI" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDUB22TYEGH4AFJWM24JF3WZUOWCOVRUF30H1BHLVPBARJLOVPRBP" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDRPGC1OOZM5MPPF1NO3NMVKSPQDY0MPDP2WG0QVG5435SQOU0VKIE" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G29.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLVIXQLG5TI45DVBQQ2E33BL3PM3K51HCM5JOTHM45VDZAB40FPKN" as="#tipoSenatore">NASTRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPX3FRTUSSNJYHZZ0VRFFVXIDILNW33I3FKX5DDJKENOTMHEAARKI" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUB22TYEGH4AFJWM24JF3WZUOWCOVRUF30H1BHLVPBARJLOVPRBP" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRPGC1OOZM5MPPF1NO3NMVKSPQDY0MPDP2WG0QVG5435SQOU0VKIE" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato</an:p>
+				<an:p>            in sede di esame del disegno di legge di conversione in legge del decreto-legge 22 marzo 2021, n. 41, recante misure urgenti in materia di sostegno alle imprese e agli operatori economici, di lavoro, salute e servizi territoriali, connesse all'emergenza da COVID-19,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il disegno di legge di conversione in legge del decreto-legge 22 marzo 2021, n. 41 contiene una pluralità di disposizioni, che perseguono l'obiettivo, di sostenere l'economia nazionale gravemente colpita dagli effetti della pandemia diffusa sull'intero territorio, nonostante le misure previste risultano tuttavia insufficienti e non in grado di aiutare il tessuto socioeconomico nazionale, ad uscire definitivamente dalla crisi economica e finanziaria;</an:p>
+				<an:p>            l'articolo 29 del provvedimento in particolare, prevede misure per il trasporto pubblico locale, stanziando 800 milioni di euro, per sostenere il settore del trasporto pubblico locale e regionale di passeggeri sottoposto a obblighi di servizio pubblico, in considerazione del protrarsi della situazione emergenziale derivante dall'epidemia da Covid-19;</an:p>
+				<an:p>            al riguardo, lo sviluppo della filiera dell'idrogeno, all'interno del settore energetico finalizzato alla transizione verde, rappresenta un'esigenza imprescindibile, del sistema energetico integrato, nell'ambito dei trasporti, in finzione del processo di decarbonizzazione, che riguardi la mobilità pesante, non solo su gomma ma anche ferroviaria, marittima e la generale infrastrutturazione per un più moderno e sano territorio;</an:p>
+				<an:p>            a tal fine, i progetti relativi all'utilizzo d'idrogeno per la mobilità sono diventati 'eleggibili' per il sistema dei certificati bianchi, noti come 'Titoli di Efficienza Energetica' (TEE), elaborati dal Ministero dello sviluppo economico, ovvero titoli negoziabili che certificano il conseguimento di risparmi energetici negli usi finali di energia, attraverso interventi e progetti di incremento di efficienza energetica in una prospettiva di migliorare l'intero settore dei trasporti e della mobilità sostenibile;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di prevedere, affinché la nuova normativa sui titoli di efficienza energetica, coordinata dal Ministero della Transizione ecologica, sia monitorata attraverso l'unificazione sotto un'unica regia delle competenze in materia energetica ed ambientale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
