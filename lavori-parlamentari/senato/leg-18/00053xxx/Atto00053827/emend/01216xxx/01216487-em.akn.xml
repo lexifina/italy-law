@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/30.0.34"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="30.0.34"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/30.0.34/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQBEMOXOUZN0T5AKPOOA4IBBPMVWRDEMNKZWP2MQYFJWCUI5RSEG" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="ID5PUNH4LTIDSELQYZUZE5BTVY0HS2OAVPMEA4GDONH4LRKDQPNJBC" href="http://dati.senato.it/32588" showAs="BITI"/>
+				<an:TLCPerson id="IDUZORETZQCGPNO4FDL31MJLGQ3OO5SKVQFOPJO2OPNSWUUYANN10" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 30.0.34</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQBEMOXOUZN0T5AKPOOA4IBBPMVWRDEMNKZWP2MQYFJWCUI5RSEG" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5PUNH4LTIDSELQYZUZE5BTVY0HS2OAVPMEA4GDONH4LRKDQPNJBC" as="#tipoSenatore">BITI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUZORETZQCGPNO4FDL31MJLGQ3OO5SKVQFOPJO2OPNSWUUYANN10" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					«Art. 30
+					<an:i>
+						-
+						<an:strong>bis.</an:strong>
+					</an:i>
+				</an:p>
+				<an:p>
+					<an:i>(Riduzione TARI per le imprese della distribuzione di prodotti alimentari e di bevande)</an:i>
+				</an:p>
+				<an:p>        1. La tassa sui rifiuti (TARI.) di cui all'articolo 1, comma 639, della legge 27 dicembre 2013, n. 147 concernente gli immobili rientranti nella categoria catastale C2, è ridotta per l'anno 2021 del 50 per cento per le imprese della distribuzione di prodotti alimentari e bevande.</an:p>
+				<an:p>        2. I comuni deliberano, con regolamento di cui all'articolo 52 del decreto legislativo n. 446 del 1997, i criteri e le modalità attuative delle riduzioni di cui al comma 1.</an:p>
+				<an:p>        3. Per il ristoro ai comuni delle minori entrate derivani dall'attuazione del comma 1 è istituito, nello stato di previsione del Ministero dell'Interno, un fondo con una dotazione di 5 milioni di euro per l'anno 2021. Alla ripartizione del fondo si provvede con decreto del Ministero dell'Interno, di concerto con il Ministro dell'Economia e delle finanze, sentita la conferenza stato-città, ed autonomie locali da adottare entro sessanta giorni dalla data di entrata in vigore della presente legge.</an:p>
+				<an:p>        2. Le disposizioni del presente articolo si applicano nel rispetto dei limiti e delle condizioni previsti dalla Comunicazione della Commissione europea del 19 marzo 2020 C (2020) 1863 final ''quadro temporaneo per le misure di aiuto di stato a sostegno dell'economia nell'attuale emergenza del COVID-19'' e successive modifiche.»</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 41</an:i>
+					<an:i>sostituire le parole:</an:i>
+					 «550 milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «545 milioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
