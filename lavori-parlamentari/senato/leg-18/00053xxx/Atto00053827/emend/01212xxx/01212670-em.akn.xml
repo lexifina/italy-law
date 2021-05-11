@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/5.36/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/5.36"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/5.36/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.36"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/5.36/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHMLKG23YNZCJIG11VXDDGMM5OL4PSJLH0I4B33FJB3UYMKEPBKCE" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="ID2ZKUMM5IOABNO0JSXIBW5JBKALTA4B4B1WVAUEGWVNRK353A0MNL" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDDCIYUMANAQJMBPTQ2IOD2Z1MQLZ2HKWZ3CTHUQBL3IGUDMRWHI2C" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.36</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHMLKG23YNZCJIG11VXDDGMM5OL4PSJLH0I4B33FJB3UYMKEPBKCE" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2ZKUMM5IOABNO0JSXIBW5JBKALTA4B4B1WVAUEGWVNRK353A0MNL" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDCIYUMANAQJMBPTQ2IOD2Z1MQLZ2HKWZ3CTHUQBL3IGUDMRWHI2C" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 14, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «14-
+					<an:i>bis</an:i>
+					. Gli obblighi di cui all'articolo 14 del decreto legislativo 12 gennaio 2019, n. 14 e, per l'Istituto nazionale della previdenza sociale e per l'agente di riscossione, gli obblighi di cui all'art. 15 del medesimo decreto legislativo operano a decorrere dal 2 gennaio 2023».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
