@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2167/A/1.0.10"/>
+					<an:FRBRdate date="2021-05-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@"/>
+					<an:FRBRdate date="2021-05-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@.akn"/>
+					<an:FRBRdate date="2021-05-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2167/A/1.0.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2167" showAs="DDL 2167"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID31QRLSJB52U1CAQN4Q35AW2FPYUSZVROFOBARGGVDCWNK22IAJJ" href="http://dati.senato.it/32645" showAs="IANNONE"/>
+				<an:TLCPerson id="IDP52P5MSGWG0SHCN3SORUGZS5SG4A41J0TP2QTFEQUYBW2VR0G1MK" href="http://dati.senato.it/1275" showAs="LA RUSSA"/>
+				<an:TLCPerson id="ID5UYZ242HBRN4IKCAZMADBJAOWGWBI35VZVRDESFUR0W3XGFRWFDG" href="http://dati.senato.it/22784" showAs="TOTARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2167</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID31QRLSJB52U1CAQN4Q35AW2FPYUSZVROFOBARGGVDCWNK22IAJJ" as="#tipoSenatore">IANNONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP52P5MSGWG0SHCN3SORUGZS5SG4A41J0TP2QTFEQUYBW2VR0G1MK" as="#tipoSenatore">LA RUSSA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5UYZ242HBRN4IKCAZMADBJAOWGWBI35VZVRDESFUR0W3XGFRWFDG" as="#tipoSenatore">TOTARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					«Art. 1-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:i>(Mobilità dei dirigenti delle istituzioni scolastiche)</an:i>
+				</an:p>
+				<an:p>        1. Nel perdurare dell'emergenza epidemiologica da COVID-19, al fine di assicurare il regolare funzionamento delle istituzioni scolastiche e nelle more della definizione del CCNL relativo al personale dell'Area Istruzione e ricerca, è prevista per i dirigenti scolastici, una mobilità straordinaria per l'anno scolastico 2021/2022 sul cinquanta per cento dei posti vacanti e disponibili nelle regioni richieste.</an:p>
+				<an:p>        2. In deroga alle normative vigenti si dispone l'abolizione del vincolo di permanenza previsto dalla vigente normativa. Il movimento non è condizionato dalla concessione del nulla osta da parte degli USR di provenienza».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
