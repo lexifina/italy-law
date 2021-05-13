@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 183/2021
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202100183
+- Numero di ricorso (NRG): 202100308
+- Data di pubblicazione: 2021-05-13
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-04-16
+- Oggetto del ricorso: DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI, DI CONCERTO CON IL MINISTRO DELL'ECONOMIA E DELLE FINANZE DEL 21 GENNAIO 2021 DI APPROVAZIONE DELLA DELIBERA 22 DICEMBRE 2020, N. 225; DELIBERA 22 DICEMBRE 2020, N. 225 (DELIBERA N. 225/2020) DELL'AUTORITÀ DI REGOLAZIONE DEI TRASPORTI RECANTE “MISURA E MODALITÀ DI VERSAMENTO DEL CONTRIBUTO DOVUTO ALL'AUTORITÀ DI REGOLAZIONE DEI TRASPORTI PER L'ANNO 2021”, PUBBLICATA SUL SITO DELL'AUTORITÀ L'11 FEBBRAIO 2021 E IN G.U.R.I IL 27.02.2021
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/f2ec66a2-b21a-46e2-878f-a98d3e15c365/download/tar-piemonte-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
