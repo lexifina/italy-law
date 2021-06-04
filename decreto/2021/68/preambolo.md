@@ -1,0 +1,21 @@
+IL MINISTRO DELLE INFRASTRUTTURE
+
+E DELLA MOBILITA' SOSTENIBILI
+
+Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+Visto il regolamento (CEE) n. 95/93 del Consiglio del 18 gennaio 1993 relativo a norme comuni per l'assegnazione di bande orarie negli aeroporti della Comunita' e, in particolare, l'articolo 4 paragrafo 2, secondo cui, «lo Stato membro responsabile di un aeroporto ad orari facilitati o di un aeroporto coordinato garantisce: a) che in un aeroporto ad orari facilitati il facilitatore degli orari agisca ai sensi del presente regolamento in maniera indipendente, imparziale, non discriminatoria e trasparente; b) l'indipendenza del coordinatore in un aeroporto coordinato grazie alla separazione funzionale del coordinatore da qualsiasi singola parte interessata.
+
+Il sistema di finanziamento delle attivita' dei coordinatori e' tale da garantire lo status indipendente degli stessi; c) che il coordinatore agisca ai sensi del presente regolamento in maniera imparziale, non discriminatoria e trasparente»;
+
+Vista la comunicazione della Commissione COM (2008) 227 del 30 aprile 2008 «sull'applicazione del regolamento (CEE) n. 95/93 modificato relativo a norme comuni per l'assegnazione di bande orarie negli aeroporti della Comunita'» che al punto 1 prevede che «la Commissione considera l'indipendenza del coordinatore come una condizione essenziale alla buona esecuzione dei compiti affidati al coordinatore conformemente alle disposizioni dell'articolo 4, paragrafo 2, lettera c). La Commissione ritiene che la separazione funzionale implichi, tra l'altro, che il coordinatore debba agire in modo autonomo rispetto all'ente di gestione dell'aeroporto, a un prestatore di servizi o a un qualsiasi vettore aereo che opera dall'aeroporto in questione, non riceva consegne da parte loro, ne' sia obbligato a presentare loro relazioni. La Commissione ritiene inoltre che il sistema di finanziamento delle attivita' del coordinatore debba essere concepito in modo da permettere a quest'ultimo di essere indipendente, sul piano finanziario, da ogni parte direttamente interessata dalle sue attivita' o avente interessi nelle sue attivita'. Occorre pertanto che (...) il finanziamento delle sue attivita' non dipenda soltanto dall'ente di gestione dell'aeroporto, da un prestatore di servizi o da un unico vettore aereo»;
+
+Visto l'articolo 1, comma 689, della legge 27 dicembre 2019, n. 160, il quale prevede che «Al fine di potenziare la capacita' degli aeroporti nazionali evitando il congestionamento degli stessi, con regolamento del Ministro delle infrastrutture e dei trasporti, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, e' stabilita la nuova disciplina concernente le modalita' e i criteri di regolazione del sistema di finanziamento per lo svolgimento della funzione di coordinamento per l'assegnazione delle bande orarie negli aeroporti designati come coordinati o ad orari facilitati, in conformita' alle previsioni di cui al regolamento (CEE) n. 95/93 del Consiglio, del 18 gennaio 1993. Tale disciplina, al fine di assicurare lo svolgimento delle attivita' di coordinamento in maniera imparziale, non discriminatoria e trasparente, stabilisce altresi' la ripartizione dei relativi costi per il 50 per cento a carico dei gestori degli aeroporti interessati e per il restante 50 per cento a carico degli operatori di aeromobili che richiedono di utilizzare tali aeroporti, senza oneri a carico dello Stato»;
+
+Ritenuto necessario prevedere l'attribuzione dei costi connessi al servizio di assegnazione delle bande orarie nel caso degli aeroporti coordinati e al servizio di agevolazione dell'attivita' dei vettori nel caso degli aeroporti ad orari facilitati a tutti i vettori aerei che effettuano servizi di trasporto aereo negli aeroporti coordinati o facilitati e a tutti i gestori di tali aeroporti;
+
+Udito il parere del Consiglio di Stato espresso dalla sezione consultiva per gli atti normativi nell'adunanza del 1° dicembre 2020;
+
+Vista la comunicazione al Presidente del Consiglio dei ministri, effettuata con nota prot. n. 9182 dell'11 marzo 2021, ai sensi dell'articolo 17, comma 3, della legge n. 400 del 1988;
+
+Adotta il seguente regolamento:
