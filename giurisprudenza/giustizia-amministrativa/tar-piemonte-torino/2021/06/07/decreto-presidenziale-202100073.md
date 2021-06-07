@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, decreto presidenziale n. 73/2021
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202100073
+- Numero di ricorso (NRG): 202100445
+- Data di pubblicazione: 2021-06-07
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DISPONE DISCUSSIONE DA REMOTO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-05-25
+- Oggetto del ricorso: ANNULLAMENTO PREVIA SOSPENSIONE CAUTELARE- DELL'ELENCO DEI RISULTATI FINALI PUBBLICATO IN DATA 8 MARZO 2021 SUL SITO DELL'ORDINE DEI PERITI INDUSTRIALI E PERITI INDUSTRIALI LAUREATI DI BIELLA E VERCELLI, NELL'AMBITO DELL'ESAME DI STATO PER L'ABILITAZIONE ALL'ESERCIZIO DELLA LIBERA PROFESSIONE DI PERITO INDUSTRIALE E PERITO INDUSTRIALE LAUREATO, SESSIONE 2020, DALLA COMMISSIONE N. 17 – COLLEGI PROVINCE DI ALESSANDRIA, ASTI, AOSTA, TORINO, BIELLA E VERCELLI -
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/0d2dfd69-3ce9-42bb-9aec-e9ed46fdfa13/resource/b943bf86-4c26-4da3-ad6d-dc4c59fe2928/download/tar-piemonte-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
