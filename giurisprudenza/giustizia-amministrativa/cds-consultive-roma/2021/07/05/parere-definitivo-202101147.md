@@ -1,0 +1,19 @@
+# CdS CONSULTIVE - ROMA, parere definitivo n. 1147/2021
+
+- Tipo: PARERE DEFINITIVO
+- Sede: CdS CONSULTIVE - ROMA
+- Sezione: SEZIONE NORMATIVA
+- Numero provvedimento: 202101147
+- Numero di ricorso (NRG): 202001524
+- Data di pubblicazione: 2021-07-05
+- Udienza: ADUNANZA DI SEZIONE
+- Esito: LICENZIATO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2020-12-23
+- Oggetto del ricorso: D.M. RECANTE ATTUAZIONE DELL'ARTICOLO 111-BIS DEL D.LGS. 1° SETTEMBRE 1993, N. 385, SULLA DISCIPLINA DEGLI OPERATORI BANCARI DI FINANZA ETICA E SOSTENIBILE
+- Tipo di ricorso: REGOLAMENTO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-pareri
+- File: https://openga.giustizia-amministrativa.it/dataset/35a6906c-241f-485f-80ef-522bd5e3770d/resource/6183c6ec-104e-4c06-afdf-da9b1a311b3f/download/cds-pareri-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
