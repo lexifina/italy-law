@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2267/A/3.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2267/A/3.4"/>
+					<an:FRBRdate date="2021-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2267/A/3.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@"/>
+					<an:FRBRdate date="2021-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@.akn"/>
+					<an:FRBRdate date="2021-07-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-07-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-07-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2267/A/3.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2267" showAs="DDL 2267"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOQY24P45GJJPCPANWECBNL5HOFCRV0WTCJJMJPBCUIVVVPAB5VPI" href="http://dati.senato.it/32642" showAs="GRASSI"/>
+				<an:TLCPerson id="IDZJYLQNFBG10SCOE4MN2AUJ23SGZJSJEKHZBHUDKLQ4LTVN1EVNUN" href="http://dati.senato.it/32748" showAs="DE VECCHIS"/>
+				<an:TLCPerson id="IDVSBKFNEW2KYMCR0DVORU2KFS2FXU0WCBZ2OZPEONDDGA0AIJIMJO" href="http://dati.senato.it/35119" showAs="ALESSANDRINI"/>
+				<an:TLCPerson id="IDQ50ZEK0SKCZJMWWNN31HP0SP5M5MEMW2Q1DQEUCXF2NWUVP2Z3UE" href="http://dati.senato.it/32635" showAs="FREGOLENT"/>
+				<an:TLCPerson id="IDI4BUP0H2YU54NDPF5RJR5U0CBKEX1KM54ENV0OCWI2H44QMHS5VM" href="http://dati.senato.it/32695" showAs="PIZZOL"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2267</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOQY24P45GJJPCPANWECBNL5HOFCRV0WTCJJMJPBCUIVVVPAB5VPI" as="#tipoSenatore">GRASSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZJYLQNFBG10SCOE4MN2AUJ23SGZJSJEKHZBHUDKLQ4LTVN1EVNUN" as="#tipoSenatore">DE VECCHIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVSBKFNEW2KYMCR0DVORU2KFS2FXU0WCBZ2OZPEONDDGA0AIJIMJO" as="#tipoSenatore">ALESSANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ50ZEK0SKCZJMWWNN31HP0SP5M5MEMW2Q1DQEUCXF2NWUVP2Z3UE" as="#tipoSenatore">FREGOLENT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI4BUP0H2YU54NDPF5RJR5U0CBKEX1KM54ENV0OCWI2H44QMHS5VM" as="#tipoSenatore">PIZZOL</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, sostituire il secondo periodo con il seguente:</an:i>
+					 «In caso di affido condiviso dei minori, l'assegno può essere ripartito tra i due genitori in base all'indicatore della situazione economica equivalente (ISEE) di ciascuno di essi e accreditato sui rispettivi IBAN.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
