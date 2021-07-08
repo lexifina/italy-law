@@ -1,0 +1,19 @@
+# CGA GIURISDIZIONALE - PALERMO, ordinanza cautelare n. 440/2021
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CGA GIURISDIZIONALE - PALERMO
+- Sezione: SEZIONE I
+- Numero provvedimento: 202100440
+- Numero di ricorso (NRG): 202100641
+- Data di pubblicazione: 2021-07-08
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: PRENDE ATTO RINUNZIA ALLA ISTANZA CAUTELARE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-06-13
+- Oggetto del ricorso: AVVISO PUBBLICO STRAORDINARIO PER IL RECLUTAMENTO A TEMPO DETERMINATO DI OPERATORI SOCIO SANITARI (RS) PER FRONTEGGIARE L'EMERGENZA SANITARIA - APPROVAZIONE GRADUATORIA DEFINITIVA - ESCLUSIONE
+- Tipo di ricorso: APPELLO AVVERSO ORDINANZA CAUTELARE
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cga-sicilia-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/2b436919-12b2-4a91-86f4-e4d842a1bfb7/resource/86e161da-ab61-4802-ba40-efee610fac68/download/cga-sicilia-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
