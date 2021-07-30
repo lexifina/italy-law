@@ -1,0 +1,26 @@
+# Massima n. 44101
+
+- Pronuncia: Corte costituzionale, sentenza 182/2021 (ECLI:IT:COST:2021:182)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:182
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Condanna in primo grado, anche generica, alle restituzioni o al risarcimento dei danni cagionati dal reato a favore della parte civile - Successiva estinzione del reato per prescrizione - Previsione che il giudice di appello decida sull'impugnazione ai soli effetti delle disposizioni e dei capi della sentenza che concernono gli effetti civili - Denunciata lesione del diritto alla presunzione di innocenza, come declinato dalla giurisprudenza della Corte EDU e affermato dal diritto dell'Unione europea - Insussistenza - Non fondatezza delle questioni.
+
+## Testo
+
+Sono dichiarate non fondate le questioni di legittimità costituzionale - promosse dalla Corte d'appello di Lecce in riferimento all'art. 117, primo comma, Cost., in relazione all'art. 6, par. 2, CEDU, nonché in riferimento allo stesso art. 117, primo comma, e all'art. 11 Cost., in relazione agli artt. 3 e 4 della direttiva (UE) 2016/343, e all'art. 48 CDFUE - dell'art. 578 cod. proc. pen., nella parte in cui stabilisce che, quando nei confronti dell'imputato è stata pronunciata condanna, anche generica, alle restituzioni o al risarcimento dei danni cagionati dal reato, a favore della parte civile, il giudice di appello, nel dichiarare estinto il reato per prescrizione, decide sull'impugnazione ai soli effetti delle disposizioni e dei capi della sentenza che concernono gli interessi civili. La disposizione censurata - che mira a soddisfare un'esigenza di tutela della parte civile: quella che, quando il processo penale ha superato il primo grado ed è nella fase dell'impugnazione, una risposta di giustizia sia assicurata, in quella stessa sede, alle sue pretese risarcitorie o restitutorie, anche quando non possa più esserci un accertamento della responsabilità penale dell'imputato - non viola il diritto dell'imputato alla presunzione di innocenza come declinato nell'ordinamento convenzionale dalla giurisprudenza della Corte EDU e come riconosciuto nell'ordinamento dell'Unione europea, perché nella situazione processuale che vede il reato estinto per prescrizione e quindi l'imputato prosciolto dall'accusa, il giudice non è affatto chiamato a formulare, sia pure "incidenter tantum", un giudizio di colpevolezza penale quale presupposto della decisione, di conferma o di riforma, sui capi della sentenza impugnata che concernono gli interessi civili; giudizio che non è richiesto dal tenore testuale della disposizione censurata, né dal diritto vivente risultante dalla giurisprudenza di legittimità. Può pertanto accedersi all'interpretazione conforme agli indicati parametri interposti, per cui il giudice dell'impugnazione penale, nel decidere sulla domanda risarcitoria, anziché verificare se si sia integrata la fattispecie penale tipica contemplata dalla norma incriminatrice, deve accertare se sia integrata la fattispecie civilistica dell'illecito aquiliano (art. 2043 cod. civ.). La mancanza di un accertamento incidentale della responsabilità penale in ordine al reato estinto per prescrizione non preclude la possibilità per il danneggiato di ottenere l'accertamento giudiziale del suo diritto al risarcimento del danno, anche non patrimoniale, la cui tutela deve essere assicurata, nella valutazione sistemica e bilanciata dei valori di rilevanza costituzionale al pari di quella, per l'imputato, derivante dalla presunzione di innocenza. In tal modo - se, dichiarata la sopravvenuta causa estintiva del reato, l'imputato avrà diritto a che la sua responsabilità penale non sia più rimessa in discussione, mentre la parte civile avrà diritto al pieno accertamento dell'obbligazione risarcitoria - il legislatore ha operato un bilanciamento tra le esigenze sottese all'operatività del principio generale di accessorietà dell'azione civile rispetto all'azione penale (che esclude la decisione sul capo civile nell'ipotesi di proscioglimento) e le esigenze di tutela dell'interesse del danneggiato, costituito parte civile. ( Precedenti indicati: sentenze n. 140 del 2021, n. 278 del 2020, n. 176 del 2019 e n. 12 del 2016 ). Il codice di procedura penale in vigore dal 1989, a differenza del sistema delineato nel 1930 (ove l'assetto delle relazioni tra processo civile e processo penale era improntato ai principi di unitarietà della funzione giurisdizionale e di preminenza della giurisdizione penale), è, al contrario, informato ai diversi principi dell'autonomia e della separazione. ( Precedenti citati: sentenze n. 176 del 2019, n. 12 del 2016 e n. 217 del 2009 ).
+
+## Norme
+
+- codice di procedura penale, art. 578
+
+## Parametri
+
+- Costituzione, art. 11
+- Costituzione, art. 117, comma 1
+- Carta dei diritti fondamentali U.E., art. 48
+- direttiva UE, 09/03/2016 n. 343, art. 3
+- direttiva UE, 09/03/2016 n. 343, art. 4
+- Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, art. 6, comma 2
