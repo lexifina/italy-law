@@ -1,0 +1,69 @@
+Allegato III.1
+
+(di cui all'articolo 4, comma 1)
+
+METODI DI CALCOLO DEL LIVELLO
+
+DI SCORTE COMPLESSIVE DETENUTO
+
+Per calcolare il livello delle scorte devono essere utilizzati i metodi seguenti:
+
+Fatto salvo il caso di cui all'articolo 4, paragrafo 3, nessun quantitativo puo' essere contabilizzato piu' volte a titolo di scorte.
+
+Le scorte di petrolio greggio sono diminuite del 4 %, corrispondente a un tasso medio di resa di nafta.
+
+Non si tiene conto delle scorte di nafta e delle scorte di prodotti petroliferi per i bunkeraggi marittimi internazionali.
+
+Gli altri prodotti petroliferi sono contabilizzati nelle scorte utilizzando uno dei due metodi di seguito indicati. Il metodo scelto vale per l'intero anno di cui trattasi.
+
+E' possibile:
+
+((a) includere tutte le altre scorte di prodotti petroliferi identificati nell'allegato A, capitolo 3.4, del regolamento (CE) n. 1099/2008 e stabilirne l'equivalente in petrolio greggio moltiplicando i quantitativi per il fattore 1,065; oppure))
+
+b) includere unicamente le scorte dei seguenti prodotti: benzina per motori, benzina avio, jet fuel del tipo benzina (jet fuel del tipo nafta o JP4), jet fuel del tipo cherosene, altro cherosene, gasolio (olio combustibile distillato), olio combustibile (a basso e ad alto tenore di zolfo) e stabilirne l'equivalente in petrolio greggio moltiplicando i quantitativi per il fattore 1,2.
+
+Nel calcolo delle scorte, e' possibile tener conto dei quantitativi detenuti:
+
+- nei serbatoi delle raffinerie,
+
+- nei terminali di carico,
+
+- nei serbatoi di alimentazione degli oleodotti,
+
+- nelle chiatte,
+
+- nelle navi cisterna di cabotaggio per i prodotti petroliferi, - nelle navi cisterna che si trovano nei porti,
+
+- nei serbatoi delle navi della navigazione interna,
+
+- nei fondi delle cisterne,
+
+- sotto forma di scorte mercantili,
+
+- da importanti consumatori in virtu' di obblighi imposti dalla legge o di altre direttive dei poteri pubblici.
+
+Tuttavia, di questi quantitativi, tranne quelli detenuti nei serbatoi delle raffinerie, nei serbatoi di alimentazione degli oleodotti o nei terminali di carico, non puo' essere tenuto conto nel calcolo dei livelli delle scorte specifiche, quando questi livelli sono calcolati separatamente da quelli delle scorte di sicurezza.
+
+Nel calcolo delle scorte, non si puo' mai includere:
+
+a) il petrolio greggio non ancora prodotto;
+
+b) i quantitativi detenuti:
+
+- negli oleodotti,
+
+- nei vagoni cisterna,
+
+- nei serbatoi delle imbarcazioni d'alto mare,
+
+- nelle stazioni di servizio e nei punti di vendita al dettaglio,
+
+- da altri consumatori,
+
+- nelle petroliere in mare,
+
+- sotto forma di scorte militari.
+
+Ai fini del calcolo delle loro scorte, si riducono del 10 % i quantitativi delle scorte calcolate secondo il metodo in precedenza indicato. Tale riduzione si applica a tutti i quantitativi di cui si tiene conto per un determinato calcolo.
+
+Tuttavia, la riduzione del 10 % non si applica al calcolo del livello delle scorte specifiche e neppure al calcolo del livello delle diverse tipologie di scorte specifiche, se tali scorte specifiche o tipologie sono considerate separatamente dalle scorte di sicurezza, in particolare al fine di verificare il rispetto dei livelli minimi stabiliti dall'articolo 9.
