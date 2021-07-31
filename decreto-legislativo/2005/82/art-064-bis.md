@@ -8,13 +8,11 @@ I soggetti di cui all'articolo 2, comma 2, rendono fruibili i propri servizi in 
 
 1-bis.
 
-Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i soggetti di cui all'articolo 2, comma 2, i fornitori di identita' digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilita' tra i diversi sistemi e servizi e ((con i servizi di cui ai commi 1 e 1-ter)), espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualita' di cui all'articolo 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida.
-
-((
+Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i soggetti di cui all'articolo 2, comma 2, i fornitori di identita' digitali e i prestatori dei servizi fiduciari qualificati, in sede di evoluzione, progettano e sviluppano i propri sistemi e servizi in modo da garantire l'integrazione e l'interoperabilita' tra i diversi sistemi e servizi e con i servizi di cui ai commi 1 e 1-ter, espongono per ogni servizio le relative interfacce applicative e, al fine di consentire la verifica del rispetto degli standard e livelli di qualita' di cui all'articolo 7, comma 1, adottano gli strumenti di analisi individuati dall'AgID con le Linee guida.
 
 1-ter.
 
-I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12.
+I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete ((, nel rispetto del principio di neutralita' tecnologica,)) tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12.
 
 1-quater.
 
@@ -23,5 +21,3 @@ I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili tutti i 
 1-quinquies.
 
 La violazione dell'articolo 64, comma 3-bis e delle disposizioni di cui al presente articolo, costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
-
-))

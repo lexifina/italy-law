@@ -12,11 +12,11 @@ I soggetti di cui all'articolo 2, comma 2, i professionisti tenuti all'iscrizion
 
 1-bis.
 
-Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
+Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere ((o modificare)) il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
 
 1-ter.
 
-I domicili digitali di cui ai commi ((1, 1-bis e 4-quinquies)) sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis.
+I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis.
 
 1-quater.
 
@@ -32,7 +32,7 @@ COMMA ABROGATO DAL D.LGS. 26 AGOSTO 2016, N. 179.
 
 3-bis.
 
-Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per la semplificazione e la pubblica amministrazione, sentiti l'AgID e il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, e' stabilita la data a decorrere dalla quale le comunicazioni tra i soggetti di cui all'articolo 2, comma 2, e coloro che non hanno provveduto a eleggere un domicilio digitale ai sensi del comma 1-bis, avvengono esclusivamente in forma elettronica. Con lo stesso decreto sono determinate le modalita' con le quali ai predetti soggetti ((e' attribuito)) un domicilio digitale ovvero altre modalita' con le quali, anche per superare il divario digitale, i documenti possono essere messi a disposizione e consegnati a coloro che non hanno accesso ad un domicilio digitale.
+Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato per la semplificazione e la pubblica amministrazione, sentiti l'AgID e il Garante per la protezione dei dati personali e acquisito il parere della Conferenza unificata, e' stabilita la data a decorrere dalla quale le comunicazioni tra i soggetti di cui all'articolo 2, comma 2, e coloro che non hanno provveduto a eleggere un domicilio digitale ai sensi del comma 1-bis, avvengono esclusivamente in forma elettronica. Con lo stesso decreto sono determinate le modalita' con le quali ai predetti soggetti e' attribuito un domicilio digitale ovvero altre modalita' con le quali, anche per superare il divario digitale, i documenti possono essere messi a disposizione e consegnati a coloro che non hanno accesso ad un domicilio digitale.
 
 4.
 
@@ -40,19 +40,19 @@ A decorrere dal 1° gennaio 2013, salvo i casi in cui e' prevista dalla normativ
 
 4-bis.
 
-Fino alla data fissata nel decreto di cui al comma 3-bis, i soggetti di cui all'articolo 2, comma 2, possono predisporre le comunicazioni ai soggetti che non hanno un domicilio digitale ovvero nei casi di domicilio digitale non attivo, non funzionante o non raggiungibile, come documenti informatici sottoscritti con firma digitale o altra firma elettronica qualificata, da conservare nei propri archivi, ed inviare agli stessi, per posta ordinaria o raccomandata con avviso di ricevimento, copia analogica di tali documenti ((su cui e' apposto a stampa il contrassegno di cui all'articolo 23, comma 2-bis o l'indicazione a mezzo stampa del responsabile pro tempore in sostituzione della firma autografa ai sensi dell'articolo 3 del decreto legislativo 12 febbraio 1993, n. 39)) ovvero un avviso con le indicazioni delle modalita' con le quali i suddetti documenti sono messi a disposizione e consegnati al destinatario.
+Fino alla data fissata nel decreto di cui al comma 3-bis, i soggetti di cui all'articolo 2, comma 2, possono predisporre le comunicazioni ai soggetti che non hanno un domicilio digitale ovvero nei casi di domicilio digitale non attivo, non funzionante o non raggiungibile, come documenti informatici sottoscritti con firma digitale o altra firma elettronica qualificata, da conservare nei propri archivi, ed inviare agli stessi, per posta ordinaria o raccomandata con avviso di ricevimento, copia analogica di tali documenti su cui e' apposto a stampa il contrassegno di cui all'articolo 23, comma 2-bis o l'indicazione a mezzo stampa del responsabile pro tempore in sostituzione della firma autografa ai sensi dell'articolo 3 del decreto legislativo 12 febbraio 1993, n. 39 ovvero un avviso con le indicazioni delle modalita' con le quali i suddetti documenti sono messi a disposizione e consegnati al destinatario.
 
 4-ter.
 
-Le disposizioni di cui al comma 4-bis soddisfano a tutti gli effetti di legge gli obblighi di conservazione e di esibizione dei documenti previsti dalla legislazione vigente laddove la copia analogica inviata al cittadino contenga una dicitura che specifichi che il documento informatico, da cui la copia e' tratta, e' stato predisposto ((come documento nativo digitale)) ed e' disponibile presso l'amministrazione ((...)). (28)
+Le disposizioni di cui al comma 4-bis soddisfano a tutti gli effetti di legge gli obblighi di conservazione e di esibizione dei documenti previsti dalla legislazione vigente laddove la copia analogica inviata al cittadino contenga una dicitura che specifichi che il documento informatico, da cui la copia e' tratta, e' stato predisposto come documento nativo digitale ed e' disponibile presso l'amministrazione. (28)
 
 4-quater.
 
-((La copia analogica con l'indicazione a mezzo stampa del responsabile in sostituzione della firma autografa ai sensi dell'articolo 3 del decreto legislativo 12 febbraio 1993, n. 39, soddisfa)) le condizioni di cui all'articolo 23, comma 2-bis, salvo i casi in cui il documento rappresenti, per propria natura, una certificazione rilasciata dall'amministrazione da utilizzarsi nei rapporti tra privati.
+La copia analogica con l'indicazione a mezzo stampa del responsabile in sostituzione della firma autografa ai sensi dell'articolo 3 del decreto legislativo 12 febbraio 1993, n. 39, soddisfa le condizioni di cui all'articolo 23, comma 2-bis, salvo i casi in cui il documento rappresenti, per propria natura, una certificazione rilasciata dall'amministrazione da utilizzarsi nei rapporti tra privati.
 
 4-quinquies.
 
-((E' possibile eleggere anche un domicilio digitale speciale per determinati atti, procedimenti o affari.)) In tal caso, ferma restando la validita' ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non puo' opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
+E' possibile eleggere anche un domicilio digitale speciale per determinati atti, procedimenti o affari. In tal caso, ferma restando la validita' ai fini delle comunicazioni elettroniche aventi valore legale, colui che lo ha eletto non puo' opporre eccezioni relative alla forma e alla data della spedizione e del ricevimento delle comunicazioni o notificazioni ivi indirizzate.
 
 5.
 
