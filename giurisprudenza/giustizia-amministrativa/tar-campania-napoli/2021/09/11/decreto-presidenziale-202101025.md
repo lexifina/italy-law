@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto presidenziale n. 1025/2021
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202101025
+- Numero di ricorso (NRG): 202103640
+- Data di pubblicazione: 2021-09-11
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-09-10
+- Oggetto del ricorso: A) DEL VERBALE N° 55 DELL'8 SETTEMBRE 2021, NOTIFICATO IN PARI DATA, CON CUI LA SECONDA SOTTOCOMMISSIONE ELETTORALE CIRCONDARIALE DI NAPOLI HA RICUSATO LA LISTA “CATELLO MARESCA” CHE È STATA, PERTANTO, ESCLUSA DALLA CONSULTAZIONE ELETTORALE PER IL RINNOVO DEL CONSIGLIO DELLA SECONDA MUNICIPALITÀ DEL COMUNE DI NAPOLI PREVISTA PER I GIORNI 3 E 4 OTTOBRE 2021;
+- Tipo di ricorso: ELETTORALE (ex art.129 c.p.a)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
