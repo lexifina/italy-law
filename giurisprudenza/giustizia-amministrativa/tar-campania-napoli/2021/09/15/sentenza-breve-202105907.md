@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 5907/2021
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUARTA
+- Numero provvedimento: 202105907
+- Numero di ricorso (NRG): 202103520
+- Data di pubblicazione: 2021-09-15
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2021-08-30
+- Oggetto del ricorso: L'ANNULLAMENTO, PREVIA SOSPENSIONE: 1) DEL PROVVEDIMENTO PROT. N. 0007601 DEL 19.07.2021, NOTIFICATO IN PARI DATA A MEZZO PEC, EMESSO DALL'ISTITUTO ZOOPROFILATTICO SPERIMENTALE DEL MEZZOGIORNO, AVENTE AD OGGETTO: “PROCEDURA APERTA SOTTO SOGLIA, DI CUI ALL'ART. 60 DEL D.LGS. N. 50/2016, PER L'AFFIDAMENTO DEL SERVIZIO BIENNALE DI SORVEGLIANZA SANITARIA E DI MEDICO COMPETENTE, COME PREVISTO DAL D.LGS. 9.4.2008, N. 81 E S.M.I. (CIG 854524928E) – COMUNICAZIONE DI AGGIUDICAZIONE ALLA S.I.B. SOCIETA'
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
