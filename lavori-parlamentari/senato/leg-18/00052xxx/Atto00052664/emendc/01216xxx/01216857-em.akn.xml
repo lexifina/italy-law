@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1662/C/2.62/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1662/C/2.62"/>
+					<an:FRBRdate date="2021-09-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1662/C/2.62/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.62"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@"/>
+					<an:FRBRdate date="2021-09-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@.akn"/>
+					<an:FRBRdate date="2021-09-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-09-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-09-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1662/C/2.62/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1662" showAs="Ddl 1662"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32683" showAs="Emanuele Pellegrini"/>
+				<an:TLCPerson id="ID0EKB" href="http://dati.senato.it/32690" showAs="Simone Pillon"/>
+				<an:TLCPerson id="ID0EUB" href="http://dati.senato.it/32685" showAs="Pasquale Pepe"/>
+				<an:TLCPerson id="ID0E5B" href="http://dati.senato.it/32728" showAs="Francesco Urraro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1662</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.62</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:normal;">Emanuele </an:span>
+					<an:span style="font-variant:small-caps;">Pellegrini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EKB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pillon</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EUB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pepe</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Urraro</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo la lettera h), aggiungere la seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					       " h
+					<an:i>-bis</an:i>
+					) prevedere nell'ambito degli incentivi fiscali alla mediazione per i privati e per le imprese:
+				</an:p>
+				
+
+				<an:p>        1) il riconoscimento di un credito d'imposta sino a 2.500 euro in favore di ogni parte nel caso in cui la procedura di mediazione si concluda con un accordo, ridotto del 50% nel caso in cui la procedura si concluda con un verbale di mancato accordo, le cui spese dovranno essere effettivamente sostenute e documentate mediante bonifico bancario o postale ovvero mediante altri sistemi di pagamento previsti dall'articolo 23 del decreto legislativo 9 luglio 1997, n. 241;</an:p>
+				
+
+				<an:p>            2) il verbale di accordo raggiunto in mediazione sia esente dall'imposta di registro entro il limite di valore di 100.000 euro e l'imposta sia dovuta solo per la parte eccedente;</an:p>
+				
+
+				<an:p>            3) qualora la mediazione demandata dal Giudice porti a un accordo prima della decisione, all'avvocato che assiste la parte in mediazione sia riconosciuto un aumento del 25% del suo compenso per l'attività svolta;</an:p>
+				
+
+				<an:p>            4) la conciliazione della lite non dà luogo a responsabilità amministrativa e contabile quando il contenuto dell'accordo rientri nei limiti del potere decisionale dell'incaricato, salvo i casi di dolo o colpa grave."</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
