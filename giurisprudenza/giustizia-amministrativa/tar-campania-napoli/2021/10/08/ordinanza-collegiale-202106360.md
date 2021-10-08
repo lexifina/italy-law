@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza collegiale n. 6360/2021
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SESTA
+- Numero provvedimento: 202106360
+- Numero di ricorso (NRG): 201803736
+- Data di pubblicazione: 2021-10-08
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AD ALTRA DATA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-10-02
+- Oggetto del ricorso: D.I. N. 6361/2016 (RG21606/2016) EMESSO IN DATA 15.09.2016 ; B) D.I. N. 7275/2016 (RG21612/2016) EMESSO IN DATA 14/17.10.2016; C) D.I. N. 7809/2016 (RG31142/2016) EMESSO IN DATA 01/04.11.2016; D) D.I. N. 9455/2016 (RG26200/2016) EMESSO IN DATA 22/29.12.2016; E) D.I. N. 9353/2016 (RG35557/2016) EMESSO IN DATA 22.12.2016
+- Tipo di ricorso: IN OTTEMPERANZA
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
