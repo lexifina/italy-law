@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 5833/2021
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE III
+- Numero provvedimento: 202105833
+- Numero di ricorso (NRG): 202108473
+- Data di pubblicazione: 2021-10-22
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-10-06
+- Oggetto del ricorso: AFFIDAMENTO DEL “MULTISERVIZIO ENERGIA” PER L'EROGAZIONE DI SERVIZI ENERGETICI E DI COMFORT AMBIENTALE MEDIANTE LA GESTIONE E MANUTENZIONE DI STRUTTURE E IMPIANTI E CON LA REALIZZAZIONE DI INVESTIMENTI DI EFFICIENTAMENTO ENERGETICO TRAMITE LA RIQUALIFICAZIONE DEGLI INVOLUCRI, DEGLI IMPIANTI DI ILLUMINAZIONE INTERNA E TECNOLOGICI DEL PATRIMONIO IMMOBILIARE DELL'AZIENDA SANITARIA OSPEDALIERA DI ALESSANDRIA - MCP
+- Tipo di ricorso: APPELLO AVVERSO ORDINANZA CAUTELARE
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
