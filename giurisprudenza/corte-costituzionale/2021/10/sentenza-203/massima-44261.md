@@ -1,0 +1,13 @@
+# Massima n. 44261
+
+- Pronuncia: Corte costituzionale, sentenza 203/2021 (ECLI:IT:COST:2021:203)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:203
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Persona offesa - Soggetto eventuale del procedimento - Poteri e interessi di cui è titolare. (Classif. 199019).
+
+## Testo
+
+La persona offesa dal reato nel processo penale è soggetto portatore di un duplice interesse: quello al risarcimento del danno, che si esercita mediante la costituzione di parte civile, e quello all'affermazione della responsabilità penale dell'autore del reato, che si esercita mediante un'attività di supporto e di controllo dell'operato del pubblico ministero. ( Precedenti: S. 249/2020 - mass. 43062; S. 23/2015 - mass. 38250; S. 532/1995 - mass. 22046 ). L'assetto generale, posto a base del codice di procedura penale del 1988, è ispirato all'idea della separazione dei giudizi, penale e civile, e guarda, pertanto, alla persona offesa, quale soggetto eventuale del procedimento o del processo, e non quale parte principale e necessaria. ( Precedenti: S. 182/2021 - mass. 44101; S. 192/1991 - mass. 17160; O. 254/2011 - mass. 35832; O. 339/2008 - mass. 32852 ). Il titolare dell'azione per il risarcimento del danno o per le restituzioni da reato può chiedere tutela nel processo civile del tutto indipendentemente dal giudizio penale, previa valutazione comparativa dei vantaggi e degli svantaggi insiti nella opzione concessagli. ( Precedenti :  S. 94/1996 - mass. 22395; O. 424/1998 - mass. 24398 ). È legittima l'attribuzione alla persona offesa di poteri circoscritti rispetto a quelli riconosciuti al pubblico ministero o all'indagato, non rilevando l'esigenza di tutelare una eventuale esplicita manifestazione preventiva dell'intenzione del danneggiato di costituirsi parte civile anteriormente all'esercizio dell'azione penale. ( Precedenti: S. 192/1991 - mass. 17160; O. 124/1999 - mass. 24601 ). Il principio di "accessorietà" dell'azione civile rispetto a quella penale trova fondamento nelle esigenze, di interesse pubblico, connesse all'accertamento dei reati e alla rapida definizione dei processi, e ha quale naturale implicazione quella per cui l'azione civile, ove esercitata all'interno del processo penale, è destinata a subire tutte le conseguenze e gli adattamenti derivanti dalla funzione e dalla struttura di questo processo. ( Precedenti: S. 182/2021 - mass. 44101; S. 176/2019 - mass. 41425; S. 12/2016 - mass. 38706 ).
