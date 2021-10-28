@@ -1,0 +1,13 @@
+# Massima n. 44229
+
+- Pronuncia: Corte costituzionale, sentenza 201/2021 (ECLI:IT:COST:2021:201)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:201
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Paesaggio - Autorizzazione paesaggistica - Necessità di tutela uniforme sul territorio nazionale - Conseguente limite alla competenza concorrente delle Regioni in materia di governo del territorio e di valorizzazione dei beni culturali e ambientali, nonché a quelle residuali - Necessità che le limitazioni siano esplicite e specifiche. (Classif. 170003).
+
+## Testo
+
+L'autorizzazione paesaggistica deve essere annoverata tra gli istituti di protezione ambientale uniformi, validi in tutto il territorio nazionale. ( Precedenti: S. 238/201 3 - mass. 37381; S. 101/2010  - mass. 34469 ). La tutela ambientale e paesaggistica - gravando su un bene complesso ed unitario, considerato dalla giurisprudenza costituzionale un valore primario ed assoluto - costituisce un limite alla tutela degli altri interessi pubblici assegnati alla competenza concorrente delle Regioni in materia di governo del territorio e di valorizzazione dei beni culturali e ambientali, nonché a quelle residuali. In tali casi, infatti, vengono a trovarsi di fronte due tipi di interessi pubblici diversi: quello alla conservazione del paesaggio, affidato allo Stato, e quello alla fruizione del territorio, affidato anche alle Regioni. ( Precedenti: S. 164/2021 - mass. 44166; S. 66/2018 - mass. 40777; S. 11/2016 - mass. 38705 ). Sebbene il principio di prevalenza della tutela paesaggistica debba essere declinato nel senso che al legislatore regionale è impedito adottare normative che deroghino o contrastino con norme di tutela paesaggistica che pongono obblighi o divieti, ossia con previsioni di tutela in senso stretto, occorre, tuttavia, che tali deroghe, condizioni o limitazioni siano esplicite e specifiche. ( Precedenti: S. 101/2021 - mass. 43851; S. 141/202 - mass. 440161; S. 74/2021 - mass. 43834; S. 240/2020 - mass. 43211; S. 86/2019 - mass.  42376 - mass. 42648; S. 68/2018 - mass. 41436 - mass. 41437; S. 66/2018 - mass. 40777 - mass. 40778 ). Con riferimento all'attuazione della tutela del paesaggio, occorre una concertazione rigorosamente necessaria tra Stato e Regione, in particolare imponendo la partecipazione degli organi ministeriali al procedimento di conformazione e adeguamento degli strumenti urbanistici alle previsioni della pianificazione paesaggistica. ( Precedenti: S. 74/2021 - mass. 43836; S. 240/2020 - mass. 43216; S. 64/2015 - mass. 38322 ).
