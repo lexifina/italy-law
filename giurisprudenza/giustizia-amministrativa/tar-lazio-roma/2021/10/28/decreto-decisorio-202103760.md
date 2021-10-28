@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 3760/2021
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202103760
+- Numero di ricorso (NRG): 200908041
+- Data di pubblicazione: 2021-10-28
+- Udienza: PROCESSO MONOCRATICO
+- Esito: IMPROCEDIBILE PER SOPRAVVENUTA CARENZA DI INTERESSE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2009-10-13
+- Oggetto del ricorso: ANNULLAMENTO COMUNICAZIONE PROT. 18511/08 DEL COMUNE DI APRILIA CHE DICHIARA L'INCOMPATIBILITA' TERRITORIALE DEL PROGETTO PER LA REALIZZAZIONE DI UNA CENTRALE A CICLO COMBINATO ALIMENTATA A GAS NATURALE DI CIRCA 750 MW IN LOCALITA' CAMPO DI CARNE - (23 BIS) - RIASSUNZIONE AI SENSI DELLA L. 99/09 - (SEZIONE DI LATINA R.G. 584/08)
+- Tipo di ricorso: EX ART.4 L.205/2000
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
