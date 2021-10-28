@@ -1,0 +1,13 @@
+# Massima n. 44250
+
+- Pronuncia: Corte costituzionale, sentenza 202/2021 (ECLI:IT:COST:2021:202)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:202
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - In genere - Pianificazione urbanistica delle Regioni - Possibili deroghe agli strumenti urbanistici comunali - Limiti - Divieto di vanificare il potere dei Comuni di autodeterminarsi in ordine al proprio territorio. (Classif. 090001).
+
+## Testo
+
+La funzione attinente alla pianificazione urbanistica non può essere oltre misura compressa dal legislatore regionale, perché il potere dei Comuni di autodeterminarsi in ordine all'assetto e alla utilizzazione del proprio territorio non costituisce elargizione che le Regioni, attributarie di competenza in materia urbanistica, siano libere di compiere e la suddetta competenza regionale non può mai essere esercitata in modo che ne risulti vanificata l'autonomia dei Comuni. ( Precedenti: S. 378/2000 - mass. 25647; S. 83/1997 - mass. 23181 ). L'autonomia comunale non implica una riserva intangibile di funzioni, né esclude che il legislatore competente possa modulare gli spazi dell'autonomia municipale a fronte di esigenze generali che giustifichino ragionevolmente la limitazione di funzioni già assegnate agli enti locali. Più specificamente, va escluso che il "sistema della pianificazione" assurga a principio così assoluto e stringente da impedire alla legge regionale - che è fonte normativa primaria sovraordinata rispetto agli strumenti urbanistici locali - di prevedere interventi in deroga a tali strumenti. Laddove si assuma lesa la potestà pianificatoria comunale, lo scrutinio di legittimità costituzionale si concentrerà dapprima, in astratto sulla legittimità dello scopo perseguito dal legislatore regionale e quindi in concreto sulla necessità, sulla adeguatezza e sul corretto bilanciamento degli interessi coinvolti, così da verificare se la sottrazione di potere ai Comuni costituisca effettivamente il minimo mezzo utile per perseguire gli scopi del legislatore regionale. Tale giudizio di proporzionalità consente di appurare se, per effetto di una normativa regionale rientrante nella materia del governo del territorio, non venga menomato il nucleo delle funzioni fondamentali attribuite ai Comuni all'interno del "sistema della pianificazione", così da salvaguardarne la portata anche rispetto al principio autonomistico ricavabile dall'art. 5 Cost. ( Precedenti: S. 119/2020 - mass. 43479; S. 179/2019- mass. 42813 ).
