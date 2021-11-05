@@ -1,0 +1,13 @@
+# Massima n. 44269
+
+- Pronuncia: Corte costituzionale, sentenza 210/2021 (ECLI:IT:COST:2021:210)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:210
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Affidamento nella sicurezza giuridica - In genere - Elemento fondamentale dello Stato di diritto - Possibile intervento retroattivo del legislatore - Condizioni - Divieto di scelte irrazionali - Necessaria proporzionalità. (Classif. 007001).
+
+## Testo
+
+Il principio della tutela dell'affidamento costituisce ricaduta e declinazione soggettiva della certezza del diritto, la quale, a propria volta, integra un elemento fondamentale e indispensabile dello Stato di diritto, connaturato tanto all'ordinamento nazionale, quanto al sistema giuridico sovranazionale. Nondimeno, il legislatore può introdurre disposizioni che modifichino in senso peggiorativo per gli interessati la disciplina di rapporti giuridici, anche se l'oggetto di questi sia costituito da diritti soggettivi perfetti, alla condizione che tali disposizioni non trasmodino in un regolamento irrazionale, frustrando, con riguardo a situazioni sostanziali fondate sulle leggi precedenti, l'affidamento dei cittadini nella sicurezza giuridica. ( Precedenti: S. 108/ 2019 - mass. 42264; S. 154/2017 - mass. 41803; S. 16/2017 - mass. 39245; S. 216/2015 - mass. 38582; S. 56/2015 - mass.  38312 ; S. 302/2010 - mass. 34976; S. 236/2009 - mass. 33732; S. 206/2009 - mass. 33558 ). La legge può intervenire in senso sfavorevole su assetti regolatori precedentemente definiti solo in presenza di posizioni giuridiche non riconducibili a un legittimo affidamento. Assumono rilevanza, al riguardo, il tempo trascorso tra il momento della definizione del quadro normativo originario e quello in cui esso viene mutato con efficacia retroattiva - e, dunque, il grado di consolidamento della situazione soggettiva originariamente riconosciuta e poi travolta dall'intervento normativo retroattivo e peggiorativo - nonché la prevedibilità della stessa modifica retroattiva. Peraltro, anche in presenza di tali condizioni, interessi pubblici sopravvenuti possono comunque esigere interventi normativi che incidano su posizioni consolidate, purché nei limiti della proporzionalità dell'incisione rispetto agli obiettivi perseguiti. ( Precedenti: S. 108/2019 - mass. 42264; S. 89/2018 - mass. 40744; S. 250/2017 - mass. 42099; S. 108/2016 - mass. 38864; S. 16/2017 - mass.  39245; S. 203/2016 - mass. 39036; S. 216/2015 - mass. 38582; S. 56/2015 - mass. 38312; 34/2015 - mass. 38270 ).
