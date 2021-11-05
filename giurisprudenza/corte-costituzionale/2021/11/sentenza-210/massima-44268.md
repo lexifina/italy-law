@@ -1,0 +1,17 @@
+# Massima n. 44268
+
+- Pronuncia: Corte costituzionale, sentenza 210/2021 (ECLI:IT:COST:2021:210)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:210
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Legge - Leggi retroattive - Limiti, anche convenzionali - Divieto di risoluzione di controversie demandate al potere giurisdizionale - Divieto di contrasto con altri valori e interessi costituzionalmente protetti. (Classif. 141006).
+
+## Testo
+
+L'adozione di norme retroattive, siano esse innovative a carattere retrospettivo o di interpretazione autentica, ancorché non sia vietata al legislatore - fatta eccezione per la tutela privilegiata riservata alla materia penale dall'art. 25, secondo comma, Cost. - non è consentita per risolvere, con la forma della legge, specifiche controversie, in quanto violerebbe i principi relativi ai rapporti tra potere legislativo e potere giurisdizionale e concernenti la tutela dei diritti e degli interessi legittimi. È inoltre necessario, ai fini della conformità a Costituzione di norme retroattive, che la retroattività non contrasti con altri valori e interessi costituzionalmente protetti. ( Precedenti: S. 46/2021 - mass. 43714; S. 12/2018 - mass. 39752; S. 170/2013 - mass. 37189; S. 93/2011 - mass. 35501; S. 41/2011 - mass.  35330 ). Sussistono una serie di limiti generali all'efficacia retroattiva delle leggi attinenti alla salvaguardia di principi costituzionali e di altri valori di civiltà giuridica, tra i quali sono ricompresi il rispetto del principio generale di ragionevolezza, che si riflette nel divieto di introdurre ingiustificate disparità di trattamento; la tutela dell'affidamento legittimamente sorto nei soggetti quale principio connaturato allo Stato di diritto; la coerenza e la certezza dell'ordinamento giuridico; il rispetto delle funzioni costituzionalmente riservate al potere giudiziario. ( Precedenti: S. 170/2013 - mass. 37189; S. 78/2012 - mass. 36198; S. 209/2010 - mass. 34739 ). Il principio costituzionale della parità delle parti è violato quando il legislatore statale immette nell'ordinamento una fattispecie di  ius singulare  che determina lo sbilanciamento fra le due posizioni in gioco. ( Precedenti: S. 46/2021 - mass. 43714; S. 12/2018 - mass. 39752; S. 191/2014 - mass. 38062 ). La giurisprudenza della Corte EDU, nel riconoscere la possibilità che il legislatore adotti norme retroattive, sia pure potenzialmente incidenti sui processi in corso, ove ricorrano motivi imperativi di interesse generale, non può non lasciare ai singoli Stati contraenti quantomeno una parte del compito e dell'onere di identificarli, trattandosi, tra l'altro, degli interessi che sono alla base dell'esercizio del potere legislativo. Pertanto, il legislatore, nel rispetto del limite posto per la materia penale dall'art. 25 Cost., può emanare norme retroattive, anche di interpretazione autentica, purché la retroattività trovi adeguata giustificazione nell'esigenza di tutelare principi, diritti e beni di rilievo costituzionale, che costituiscono altrettanti motivi imperativi di interesse generale, ai sensi della CEDU. ( Precedenti: S. 46/2021 - mass. 43714; S. 156/2014 - mass. 37986; S. 78/2012 - mass. 36198; S. 311/2009 - mass. 35217 ).
+
+## Parametri
+
+- Costituzione, art. 25
