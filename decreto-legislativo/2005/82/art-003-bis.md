@@ -12,11 +12,11 @@ I soggetti di cui all'articolo 2, comma 2, i professionisti tenuti all'iscrizion
 
 1-bis.
 
-Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere ((o modificare)) il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
+Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere o modificare il proprio domicilio digitale da iscrivere nell'elenco di cui all'articolo 6-quater. Nel caso in cui il domicilio eletto risulti non piu' attivo si procede alla cancellazione d'ufficio dall'indice di cui all'articolo 6-quater secondo le modalita' fissate nelle Linee guida.
 
 1-ter.
 
-I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis.
+I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis ((, di quello reso disponibile on-line dall'ANPR di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza)).
 
 1-quater.
 
