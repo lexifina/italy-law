@@ -1,0 +1,57 @@
+ALLEGATO
+
+NORME DI PROCEDURA DI CUI ALL'ARTICOLO III - COMMA 6
+
+Le istanze di ammissione per la realizzazione delle coproduzioni cinematografiche devono essere depositate presso le Autorita' competenti almeno trenta (30) giorni prima dell'inizio delle riprese del film o dell'animazione principale.
+
+Le istanze devono essere corredate dai seguenti documenti, redatti nella lingua rispettiva di ciascun Paese:
+
+1. Il trattamento dettagliato dell'opera da realizzare.
+
+2. Un documento comprovante che la proprieta' dei diritti di autore per l'adattamento cinematografico sia stata legalmente acquisita in conformita' alle legislazioni di ogni Parte o, in mancanza, un'opzione valida in merito all'opera originale.
+
+3. Il Contratto di coproduzione cinematografica concluso (un esemplare firmato e siglato, in duplice copia) con riserva di approvazione da parte delle Autorita' competenti.
+
+Il Contratto di coproduzione cinematografica deve precisare:
+
+a) il titolo e la sinossi della coproduzione cinematografica;
+
+b) il nome dell'autore del soggetto o dell'adattatore, se si tratta di un soggetto tratto da un'opera letteraria;
+
+c) il nome del regista (e' ammessa una clausola di salvaguardia in caso di sostituzione);
+
+d) il budget della coproduzione;
+
+e) l'ammontare degli apporti finanziari dei coproduttori;
+
+f) la ripartizione dei proventi e dei mercati;
+
+g) l'impegno dei coproduttori a partecipare alle eventuali eccedenze di spese o a beneficiare delle economie sul costo della coproduzione cinematografica, in proporzione ai rispettivi apporti;
+
+h) una clausola che preveda che l'ammissione ad una coproduzione cinematografica non impegni le Autorita' competenti delle Parti a rilasciare l'assenso per la proiezione in pubblico;
+
+i) una clausola che regoli le condizioni finanziarie tra i contraenti nel caso in cui le Autorita' competenti dell'uno o dell'altra Parte dovessero negare l'ammissione ai benefici di cui all'Articolo III - comma 2 del presente Accordo, dopo aver esaminato la documentazione completa;
+
+j) una clausola che prescriva le misure da adottare qualora le Autorita' competenti delle Parti non autorizzino la proiezione in pubblico della coproduzione cinematografica nell'uno o nell'altro territorio dei due Paesi ;
+
+k) una clausola che impegni il coproduttore maggioritario a stipulare una polizza di assicurazione a copertura dei rischi di produzione e di tutti i rischi per il materiale originale di produzione;
+
+l) le modalita' da seguire ai fini della distribuzione di premi, riconoscimenti e vantaggi finanziari concessi alla coproduzione cinematografica;
+
+m) la data approssimativa dell'inizio delle riprese o dell'animazione.
+
+4. Il piano finanziario.
+
+5. L'elenco degli elementi tecnico-artistici, con l'indicazione delle nazionalita' del personale ed i ruoli che verranno svolti dagli attori.
+
+6. Il piano di lavorazione.
+
+Le Autorita' competenti delle Parti possono richiedere precisazioni e documenti complementari ritenuti necessari.
+
+La sceneggiatura ed i dialoghi delle coproduzioni cinematografiche vanno trasmessi alle Autorita' competenti delle Parti prima dell'inizio delle riprese o dell'animazione.
+
+Modifiche contrattuali possono essere apportate al Contratto di coproduzione cinematografica depositato presso le Autorita' competenti. Tali modifiche devono essere sottoposte all'approvazione delle Autorita' competenti delle Parti prima che venga terminata la coproduzione cinematografica.
+
+La sostituzione di un coproduttore non puo' essere ammessa che in casi eccezionali e per motivi riconosciuti validi dalle Autorita' competenti di entrambe le Parti.
+
+Le Autorita' competenti delle Parti si informano reciprocamente in merito alle decisioni assunte sui progetti presentati, allegando una copia della documentazione. L'Autorita' competente relativa al coproduttore maggioritario comunica per prima il proprio parere all'Autorita' competente del coproduttore minoritario.
