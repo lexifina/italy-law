@@ -1,0 +1,84 @@
+# Corte costituzionale, sentenza 221/2021
+
+- ECLI: ECLI:IT:COST:2021:221
+- Tipo: sentenza
+- Presidente: CORAGGIO
+- Relatore: Augusto Antonio Barbera
+- Redattore: Augusto Antonio Barbera
+- Data della decisione: 20/10/2021
+- Data del deposito: 26/11/2021
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 44347
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:221
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Giancarlo CORAGGIO; Giudici : Giuliano AMATO, Silvana SCIARRA, Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI, Giovanni AMOROSO, Francesco VIGANÒ, Luca ANTONINI, Stefano PETITTI, Angelo BUSCEMA, Emanuela NAVARRETTA, Maria Rosaria SAN GIORGIO,
+
+## Epigrafe
+
+ha pronunciato la seguenteSENTENZAnel giudizio di legittimità costituzionale dell'art. 77, commi 1, 2, lettere a), b), c), e) ed f), e 5, della legge della Regione Valle d'Aosta 13 luglio 2020, n. 8 (Assestamento al bilancio di previsione della Regione autonoma Valle d'Aosta/Vallée d'Aoste per l'anno 2020 e misure urgenti per contrastare gli effetti dell'emergenza epidemiologica da COVID-19), promosso dal Presidente del Consiglio dei ministri con ricorso notificato l'11-17 settembre 2020, depositato in cancelleria il 21 settembre 2020, iscritto al n. 85 del registro ricorsi 2020 e pubblicato nella Gazzetta Ufficiale della Repubblica n. 45, prima serie speciale, dell'anno 2020.
+ Visto l'atto di costituzione della Regione autonoma Valle d'Aosta/Vallée d'Aoste;
+ udito nell'udienza pubblica del 19 ottobre 2021 il Giudice relatore Augusto Antonio Barbera;
+ uditi l'avvocato dello Stato Fabrizio Fedeli per il Presidente del Consiglio dei ministri, in collegamento da remoto, ai sensi del punto 1) del decreto del Presidente della Corte del 18 maggio 2021 e l'avvocato Francesco Saverio Marini per la Regione autonoma Valle d'Aosta/Vallée d'Aoste;
+ deliberato nella camera di consiglio del 20 ottobre 2021.
+
+## Testo
+
+Ritenuto in fatto1.- Con ricorso notificato l'11-17 settembre 2020 e depositato il successivo 21 settembre (reg. ric. n. 85 del 2020), il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha promosso, tra le altre, questioni di legittimità costituzionale dell'art. 77, commi 1, 2, lettere a), b), c), e) ed f), e 5, della legge della Regione Valle d' Aosta 13 luglio 2020, n. 8 (Assestamento al bilancio di previsione della Regione autonoma Valle d'Aosta/Vallée d'Aoste per l'anno 2020 e misure urgenti per contrastare gli effetti dell'emergenza epidemiologica da COVID-19), in riferimento all'art. 117, secondo comma, lettera e), della Costituzione.
+ 2.- L'impugnato art. 77, comma 1, primo periodo, prevede che, «[a]l fine di fronteggiare la crisi economica e sociale connessa all'emergenza epidemiologica da COVID-19, la Regione, gli enti locali valdostani e le loro forme associative, gli enti pubblici dipendenti dalla Regione, le società da essa controllate, le associazioni e le fondazioni e i consorzi comunque denominati da essa costituiti, l'Azienda USL, nonché i Consorzi di miglioramento fondiario, ove tenuti all'applicazione della normativa vigente in materia di affidamento dei contratti pubblici, possono avvalersi delle misure di semplificazione di cui al presente articolo per le procedure avviate dalla data di entrata in vigore della presente legge e fino al 31 dicembre 2020».
+ Il ricorrente osserva che gli artt. 1 e 2 del decreto-legge 16 luglio 2020, n. 76 (Misure urgenti per la semplificazione e l'innovazione digitale), convertito, con modificazioni, nella legge 11 settembre 2020, n. 120, hanno introdotto una disciplina di accelerazione che si applica alle procedure di affidamento e alla fase di esecuzione dei contratti pubblici, che è diversa da quella regionale e che si applica purché la delibera a contrarre o comunque l'atto di avvio del procedimento sia stato adottato entro il 31 luglio 2021.
+ La norma impugnata avrebbe perciò travalicato «i limiti statutari» e invaso la competenza legislativa esclusiva dello Stato in tema di tutela della concorrenza, di cui all'art. 117, secondo comma, lettera e), Cost.
+ 3.- L'impugnato art. 77, comma 2, prevede che l'affidamento di contratti pubblici di lavori, servizi e forniture di importo pari o superiore a euro 40.000 e inferiore alle soglie di cui all'art. 35 del decreto legislativo 18 aprile 2016, n. 50 (Codice dei contratti pubblici) possa avvenire, limitatamente al periodo di cui al comma 1, nel rispetto del principio di rotazione e previa individuazione degli operatori economici da valutare prioritariamente tra quelli con sede legale o operativa nella Regione Valle d'Aosta, attingendo dagli elenchi di operatori economici già formati o a seguito di indagine di mercato.
+ Tale ultima modalità di selezione del contraente, in particolare, è declinata con marginali differenze nelle lettere a), b), c), e) ed f), anche esse impugnate.
+ Essa, secondo il ricorrente, «configura un trattamento di favore per gli operatori radicati nel territorio regionale, determinando un ostacolo alla concorrenza, in quanto, consentendo una riserva di partecipazione, altera la par condicio fra gli operatori economici interessati all'appalto».
+ Verrebbe così leso il principio di libera concorrenza e di non discriminazione recepito dall'art. 30 cod. contratti pubblici, nonché il successivo art. 36, secondo il quale l'individuazione degli operatori economici nell'ambito degli affidamenti a rotazione avviene senza alcuna indicazione di provenienza e senza alcuna limitazione territoriale.
+ Il privilegio attribuito dalla norma impugnata agli operatori economici della Regione, in una fattispecie che sarebbe analoga a quella già decisa da questa Corte con la sentenza n. 98 del 2020, comporterebbe l'invasione della competenza legislativa statale in materia di tutela della concorrenza, ovvero della competenza pertinente in tema di procedure di selezione dei contraenti e di aggiudicazione degli appalti pubblici.
+ Tale competenza sarebbe pienamente opponibile alla Regione autonoma, dal cui statuto «non si evince la possibilità di derogare alle disposizioni del Codice dei contratti pubblici».
+ Ciò trarrebbe conferma dalla stessa legge della Regione Valle d'Aosta/Vallée d'Aoste 2 agosto 2016, n. 16 (Disposizioni collegate alla legge regionale di variazione del bilancio di previsione per il triennio 2016/2018), il cui art. 10 ha abrogato ogni disposizione di legge regionale in materia di contratti pubblici di lavori, servizi e forniture incompatibile con la disciplina statale.
+ Infine, la norma impugnata sarebbe difforme anche dall'art. 1, comma 2, lettere a) e b), del d.l. n. 76 del 2020, come convertito.
+ 4.- L'art. 77, comma 5, impugnato, stabilisce che, «per i contratti pubblici in corso di esecuzione alla data di entrata in vigore della presente legge, è consentita ogni modifica necessaria ad adeguare le modalità di esecuzione alla sopravvenuta normativa, statale e regionale, di contrasto e contenimento dell'emergenza epidemiologica da COVID-19, anche ricorrendo a soluzioni tecniche e organizzative non previste dai documenti di gara e dal contratto, da ritenersi equivalenti, tenuto conto delle mutate condizioni, per la tutela della continuità del rapporto contrattuale e il perseguimento delle finalità di pubblico interesse della stazione appaltante. Nell'autorizzare le modifiche, il responsabile unico del procedimento indica, ove necessario, il nuovo termine contrattuale».
+ Il ricorrente osserva che gli artt. 106 e 107 cod. contratti pubblici recano un'apposita disciplina in ordine alla fase esecutiva dei contratti medesimi, anche con riguardo alla «modifica dei contratti durante il periodo di efficacia» e alle competenze del responsabile unico del procedimento.
+ Inoltre, l'art. 8, comma 4, del d.l. n. 76 del 2020 detta, nella medesima materia, una normativa derogatoria, imposta dall'emergenza da COVID-19.
+ La norma impugnata non sarebbe conforme né all'una, né all'altra disposizione statale, e invaderebbe la competenza esclusiva dello Stato afferente alla fase di esecuzione dei contratti in materia di tutela della concorrenza, oltre a consentire un trattamento di favore per gli operatori economici valdostani.
+ 5.- Si è costituita in giudizio la Regione autonoma Valle d'Aosta/Vallée d'Aoste, eccependo l'inammissibilità delle questioni, perché il ricorso avrebbe omesso di considerare i parametri statutari rilevanti, ovvero l'art. 2, comma 1, lettera f), della legge costituzionale 26 febbraio 1948, n. 4 (Statuto speciale per la Valle d'Aosta), che attribuisce alla Regione autonoma competenza legislativa primaria in materia di lavori pubblici di interesse regionale, nonché l'art. 2, comma 1, lettere a) e b), della medesima legge costituzionale, quanto alla competenza regionale in materia di organizzazione amministrativa (per la quale la Regione richiama anche l'art. 117, quarto comma, Cost., in base all'art. 10 della legge costituzionale 18 ottobre 2001, n. 3, recante «Modifiche al titolo V della parte seconda della Costituzione»).
+ Le questioni sarebbero inammissibili, inoltre, perché il ricorrente denuncia vizi relativi ad una porzione soltanto della norma, mentre ne chiede poi la dichiarazione di illegittimità costituzionale in toto.
+ 6.- Nel merito, la Regione resistente osserva che la normativa censurata è stata introdotta «nelle more di un intervento statale» e tenendo conto delle proposte avanzate in sede di Conferenza delle Regioni, al fine di semplificare l'affidamento dei contratti sotto soglia durante l'emergenza da COVID-19.
+ La legge regionale impugnata è infatti anteriore di pochi giorni al d.l. n. 76 del 2020, dal quale, peraltro, non si discosterebbe.
+ L'art. 1 del d.l. n. 76 del 2020 ha previsto che le procedure di affidamento dei contratti pubblici sotto soglia possano tenere in conto la «diversa dislocazione territoriale delle imprese invitate», così attribuendo rilievo alla dimensione territoriale dell'operatore economico.
+ L'art. 77 impugnato avrebbe, nella medesima prospettiva, inteso «monitorare e contenere, sempre limitatamente alla gestione dell'emergenza, la circolazione delle imprese tra diverse Regioni».
+ Esso, inoltre, conterrebbe un mero criterio di priorità a favore degli operatori economici locali, e non già una riserva di partecipazione alla procedura, come invece nella questione decisa con la sentenza n. 98 del 2020 di questa Corte.
+ Ne seguirebbe che l'operatore locale sarebbe favorito solo se munito dei requisiti richiesti dagli atti di indizione delle procedure.
+ Del resto, aggiunge la difesa regionale, per godere della priorità sarebbe stato sufficiente aprire una sede legale nella Regione, al fine di assicurare la prossimità necessaria a contenere il contagio.
+ 7.- Quanto all'art. 77, comma 5, impugnato, la questione sarebbe inammissibile, anche perché il ricorso non avrebbe esplicitato le ragioni di contrasto con gli artt. 106 e 107 cod. contratti pubblici e con l'art. 8, comma 4, lettera c), del menzionato d.l. n. 76 del 2020.
+ 8.- Nel merito, tra l'art. 77, comma 5, impugnato e l'art. 8, comma 4, del d.l. n. 76 del 2020 non vi sarebbe conflitto, ma complementarietà in un'ottica comune.
+ La norma statale prevede che l'osservanza delle misure di contenimento contro la pandemia costituisca causa di forza maggiore, quanto al mancato adempimento del contratto, non imputabile all'esecutore in riferimento alla proroga del termine che si rendesse necessaria per completare la prestazione.
+ La norma regionale impugnata, specularmente, permetterebbe di proseguire nell'esecuzione del contratto, ove possibile, adattandone il contenuto alle esigenze derivanti dall'emergenza, e permettendo al responsabile del procedimento di prorogare il termine di esecuzione.
+ 9.- In ogni caso - conclude la difesa regionale - non appena sopraggiunto il d.l. n. 76 del 2020, la Regione autonoma «ha dato indicazione alle stazioni appaltanti [...] di non applicare» l'art. 77, commi 1, 2 e 5, «dovendosi intendere direttamente applicabile la disciplina» recata dalla sopravvenuta fonte statale.
+ 10.- Nell'imminenza dell'udienza pubblica, sia il Presidente del Consiglio dei ministri, sia la Regione autonoma Valle d'Aosta/Vallée d'Aoste hanno depositato memorie.
+ Il Presidente del Consiglio dei ministri, con memoria depositata il 28 settembre 2021, dopo avere osservato che il ricorso, per la parte relativa all'art. 77, commi 1, 2, e 5, della legge reg. Valle d'Aosta n. 8 del 2020, si confronta con le disposizioni statutarie, ha ribadito che l'art. 77, comma 2, introduce un trattamento di favore per gli operatori radicati nel territorio regionale, palesemente contrario al criterio introdotto dall'art. 1, comma 2, lettera b), del d.l. n. 76 del 2020, che la difesa regionale aveva invece richiamato a proprio favore.
+ Anche l'art. 77, comma 5, impugnato, invaderebbe la competenza legislativa esclusiva statale in materia di tutela della concorrenza, come questa Corte avrebbe sempre ritenuto in caso di modifiche o proroghe dei contratti pubblici.
+ La Regione resistente, con memoria depositata il 28 settembre 2021, ha posto in luce che le disposizioni impugnate sono state abrogate dall'art. 10, comma 2, della legge della Regione Valle d'Aosta 21 dicembre 2020, n. 14 (Disposizioni collegate alla legge di stabilità regionale per il triennio 2021/2023. Modificazioni di leggi regionali e altre disposizioni), e ha quindi insistito perché sia dichiarata cessata la materia del contendere.Considerato in diritto1.- Il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha promosso, tra le altre, questioni di legittimità costituzionale dell'art. 77, commi 1, 2, lettere a), b), c), e), ed f), e 5, della legge della Regione Valle d' Aosta 13 luglio 2020, n. 8 (Assestamento al bilancio di previsione della Regione autonoma Valle d'Aosta/Vallée d'Aoste per l'anno 2020 e misure urgenti per contrastare gli effetti dell'emergenza epidemiologica da COVID-19), in riferimento all'art. 117, secondo comma, lettera e), della Costituzione.
+ 2.- La Regione autonoma Valle d'Aosta/Vallée d'Aoste si è costituita in giudizio, con atto depositato il 15 ottobre 2020, osservando che le disposizioni impugnate sono state abrogate dall'art. 10, comma 2, della legge regionale 21 dicembre 2020, n. 14 (Disposizioni collegate alla legge di stabilità regionale per il triennio 2021/2023. Modificazioni di leggi regionali e altre disposizioni), aggiungendo che le stesse non hanno mai trovato applicazione.
+ La Regione resistente ha perciò chiesto che sia dichiarata la cessazione della materia del contendere.
+ 3.- Nell'imminenza dell'udienza pubblica, con atto pervenuto il 15 ottobre 2021 a mezzo PEC, il Presidente del Consiglio dei ministri, previa delibera del Consiglio dei ministri del 29 settembre 2021, ha rinunciato al ricorso quanto all'art. 77, commi 1, 2, lettere a), b), c), e) ed f), e 5, della legge regionale impugnata.
+ Benché non sia pervenuta l'accettazione della rinuncia, è palese che la Regione autonoma Valle d'Aosta/Vallée d'Aoste non ha alcun interesse a coltivare il giudizio, anche alla luce delle conclusioni sopra esposte.
+ Secondo la giurisprudenza di questa Corte (di recente, sentenza n. 5 del 2020; e, fra le altre, sentenze n. 94 del 2018 e n. 19 del 2015, e ordinanza n. 62 del 2015), si deve, quindi, dichiarare cessata la materia del contendere.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ riservata a separata pronuncia la decisione delle ulteriori questioni di legittimità costituzionale promosse con il ricorso indicato in epigrafe;
+ dichiara cessata la materia del contendere delle questioni di legittimità costituzionale dell'art. 77, commi 1, 2, lettere a), b), c), e) ed f), e 5, della legge della Regione Valle d'Aosta 13 luglio 2020, n. 8 (Assestamento al bilancio di previsione della Regione autonoma Valle d'Aosta/Vallée d'Aoste per l'anno 2020 e misure urgenti per contrastare gli effetti dell'emergenza epidemiologica da COVID-19), promosse, in riferimento all'art. 117, secondo comma, lettera e), della Costituzione, dal Presidente del Consiglio dei ministri con il ricorso indicato in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 20 ottobre 2021.
+ F.to:
+ Giancarlo CORAGGIO, Presidente
+ Augusto Antonio BARBERA, Redattore
+ Roberto MILANA, Direttore della Cancelleria
+ Depositata in Cancelleria il 26 novembre 2021.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
