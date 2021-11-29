@@ -1,0 +1,19 @@
+# TAR CALABRIA - CATANZARO, decreto collegiale n. 2194/2021
+
+- Tipo: DECRETO COLLEGIALE
+- Sede: TAR CALABRIA - CATANZARO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202102194
+- Numero di ricorso (NRG): 202101341
+- Data di pubblicazione: 2021-11-29
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: LIQUIDA IL COMPENSO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2021-08-02
+- Oggetto del ricorso: DEL PROVVEDIMENTO DEL PREFETTO DELLA PROVINCIA DI CROTONE PROT. 21563 DEL 06.07.2021 CON CUI È STATA DISPOSTA LA REVOCA DELLA PATENTE DI GUIDA, RILASCIATA IN DATA 28.03.2018 E CON SCADENZA IL 26.11.2023.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-catanzaro-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/4a594d12-def6-459f-bc2d-92a79e3a16d1/resource/cb81f88b-36e2-4020-81cb-eb348af2bafc/download/tar-calabria-catanzaro-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
