@@ -1,0 +1,19 @@
+# TAR MOLISE - CAMPOBASSO, ordinanza cautelare n. 230/2021
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR MOLISE - CAMPOBASSO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202100230
+- Numero di ricorso (NRG): 202100330
+- Data di pubblicazione: 2021-12-03
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-10-29
+- Oggetto del ricorso: ANNULLAMENTO DECRETO N. 94/21 DEL COMMISSARIO AD ACTA PER L’ATTUAZIONE DEL PIANO DI RIENTRO DAI DISAVANZI DEL SETTORE SANITARIO DELLA REGIONE MOLISE AVENTE AD OGGETTO L’ADOZIONE DEL PROGRAMMA OPERATIVO SANITARIO 2019-2021 DELLA REGIONE MOLISE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-molise-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/af160744-c413-4ae0-b2c2-75254b1ada7b/resource/b00f680c-3ae6-45b3-a0e6-191a8f25771f/download/tar-molise-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
