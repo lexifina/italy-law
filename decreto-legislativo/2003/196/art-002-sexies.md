@@ -4,7 +4,9 @@ Art. 2-sexies.
 
 1.
 
-I trattamenti delle categorie particolari di dati personali di cui all'articolo 9, paragrafo 1, del Regolamento, necessari per motivi di interesse pubblico rilevante ai sensi del paragrafo 2, lettera g), del medesimo articolo, sono ammessi qualora siano previsti dal diritto dell'Unione europea ovvero, nell'ordinamento interno, da disposizioni di legge o, nei casi previsti dalla legge, di regolamento che specifichino i tipi di dati che possono essere trattati, le operazioni eseguibili e il motivo di interesse pubblico rilevante, nonche' le misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato.
+I trattamenti delle categorie particolari di dati personali di cui all'articolo 9, paragrafo 1, del Regolamento, necessari per motivi di interesse pubblico rilevante ai sensi del paragrafo 2, lettera g), del medesimo articolo, sono ammessi qualora siano previsti dal diritto dell'Unione europea ovvero, nell'ordinamento interno, da disposizioni di legge o ((...)) di regolamento ((o da atti amministrativi generali)) che specifichino i tipi di dati che possono essere trattati, le operazioni eseguibili e il motivo di interesse pubblico rilevante, nonche' le misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato. ((49))
+
+((1-bis. I dati personali relativi alla salute, privi di elementi identificativi diretti, sono trattati, nel rispetto delle finalita' istituzionali di ciascuno, dal Ministero della salute, dall'Istituto superiore di sanita', dall'Agenzia nazionale per i servizi sanitari regionali, dall'Agenzia italiana del farmaco, dall'Istituto nazionale per la promozione della salute delle popolazioni migranti e per il contrasto delle malattie della poverta' e, relativamente ai propri assistiti, dalle regioni anche mediante l'interconnessione a livello nazionale dei sistemi informativi su base individuale del Servizio sanitario nazionale, ivi incluso il Fascicolo sanitario elettronico (FSE), aventi finalita' compatibili con quelle sottese al trattamento, con le modalita' e per le finalita' fissate con decreto del Ministro della salute, ai sensi del comma 1, previo parere del Garante, nel rispetto di quanto previsto dal Regolamento, dal presente codice, dal codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e dalle linee guida dell'Agenzia per l'Italia digitale in materia di interoperabilita'))
 
 2.
 
@@ -44,7 +46,7 @@ svolgimento delle funzioni di controllo, indirizzo politico, inchiesta parlament
 
 i)
 
-attivita' dei soggetti pubblici dirette all'applicazione, anche tramite i loro concessionari, delle disposizioni in materia tributaria e doganale ((, comprese quelle di prevenzione e contrasto all'evasione fiscale));
+attivita' dei soggetti pubblici dirette all'applicazione, anche tramite i loro concessionari, delle disposizioni in materia tributaria e doganale, comprese quelle di prevenzione e contrasto all'evasione fiscale;
 
 l)
 
@@ -113,3 +115,9 @@ instaurazione, gestione ed estinzione, di rapporti di lavoro di qualunque tipo, 
 3.
 
 Per i dati genetici, biometrici e relativi alla salute il trattamento avviene comunque nel rispetto di quanto previsto dall'articolo 2-septies.
+
+----------------
+
+AGGIORNAMENTO (49)
+
+Il D.L. 8 ottobre 2021, n. 139, convertito con modificazioni dalla L. 3 dicembre 2021, n. 205, ha disposto (con l'art. 9, comma 5) che "Gli articoli 2-ter, comma 1, 2-sexies, comma 1, e 58, commi 1 e 2, del codice di cui al decreto legislativo n. 196 del 2003 [...], come modificati dal presente articolo, si applicano anche ai casi in cui disposizioni di legge gia' in vigore stabiliscono che i tipi di dati che possono essere trattati, le operazioni eseguibili, il motivo di interesse pubblico rilevante, la finalita' del trattamento nonche' le misure appropriate e specifiche per tutelare i diritti fondamentali dell'interessato e i suoi interessi sono previsti da uno o piu' regolamenti".
