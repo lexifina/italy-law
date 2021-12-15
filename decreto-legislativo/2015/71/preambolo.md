@@ -1,0 +1,45 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la legge 7 ottobre 2014, n. 154, recante delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013 - secondo semestre, ed in particolare l'articolo 1 e l'allegato B;
+
+Visto il codice della navigazione, approvato con regio decreto 30 marzo 1942, n. 327;
+
+Visto il regolamento per l'esecuzione del codice della navigazione (navigazione marittima), approvato con decreto del Presidente della Repubblica 15 febbraio 1952, n. 328;
+
+Visto l'articolo 14 della legge 23 agosto 1988, n. 400;
+
+Visto il decreto legislativo 1° agosto 2003, n. 259;
+
+Vista la legge 21 novembre 1985, n. 739, recante adesione alla Convenzione del 1978 sulle norme relative alla formazione della gente di mare, al rilascio dei brevetti ed alla guardia, adottata a Londra il 7 luglio 1978, e sua esecuzione;
+
+Visto il decreto legislativo 27 luglio 1999, n. 271, recante adeguamento della normativa sulla sicurezza e salute dei lavoratori marittimi a bordo delle navi mercantili e da pesca nazionali;
+
+Visto il decreto del Ministro delle infrastrutture e dei trasporti 13 ottobre 2003, n. 305;
+
+Visto il decreto legislativo 27 maggio 2005, n. 108, concernente l'attuazione della direttiva 1999/63/CE relativa all'accordo sull'organizzazione dell'orario di lavoro della gente di mare, concluso dall'Associazione armatori della Comunita' europea (ECSA) e dalla Federazione dei sindacati dei trasportatori dell'Unione europea (FST);
+
+Visto il decreto legislativo 27 maggio 2005, n. 119, concernente l'attuazione della direttiva 2002/84/CE in materia di sicurezza marittima e di prevenzione dell'inquinamento provocato da navi;
+
+Visto il decreto legislativo 7 luglio 2011, n. 136, recante attuazione della direttiva 2008/106/CE concernente i requisiti minimi di formazione per la gente di mare;
+
+Viste le Risoluzioni 1 e 2 adottate in Manila dalla Conferenza delle Parti alla Convenzione Internazionale sugli standards di addestramento e tenuta della Guardia (Convenzione STCW'78) dal 21 al 25 giugno 2010;
+
+Visto il decreto del Presidente del Consiglio dei ministri 11 febbraio 2014, n. 72, recante regolamento di organizzazione del Ministero delle infrastrutture e dei trasporti, ai sensi dell'articolo 2 del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135;
+
+Visto il decreto del Ministro delle infrastrutture e dei trasporti del 4 agosto 2014, pubblicato nella Gazzetta Ufficiale n. 297 del 23 dicembre 2014 concernente la rimodulazione, il numero ed i compiti degli uffici dirigenziali di livello non generale;
+
+Visto il decreto direttoriale del Ministero dei trasporti 8 marzo 2007, pubblicato nella Gazzetta Ufficiale n. 73 del 28 marzo 2007, recante procedura per il riconoscimento d'idoneita' allo svolgimento dei corsi di addestramento per il personale marittimo;
+
+Considerato che il Ministero delle infrastrutture e trasporti - Direzione generale per la vigilanza sulle autorita' portuali, le infrastrutture portuali ed il trasporto marittimo e per vie d'acqua interne e' Focal Point presso l'Organizzazione Internazionale Marittima (IMO) e presso l'Agenzia Marittima Europea (EMSA) in materia di formazione ed addestramento del personale marittimo;
+
+Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 20 gennaio 2015;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione dell'8 maggio 2015;
+
+Sulla proposta del Presidente del Consiglio dei ministri e dei Ministri delle infrastrutture e dei trasporti, dello sviluppo economico, del lavoro e delle politiche sociali e della salute, di concerto con i Ministri degli affari esteri e della cooperazione internazionale, della giustizia, dell'economia e delle finanze, dell'istruzione, dell'universita' e della ricerca e dell'ambiente e della tutela del territorio e del mare;
+
+Emana il seguente decreto legislativo:
