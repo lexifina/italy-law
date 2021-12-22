@@ -1,0 +1,19 @@
+# TAR CAMPANIA - SALERNO, ordinanza cautelare n. 384/2021
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - SALERNO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202100384
+- Numero di ricorso (NRG): 202101768
+- Data di pubblicazione: 2021-12-22
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-11-24
+- Oggetto del ricorso: ORDINANZA DEL SINDACO DI MINORI N. 58 DEL 10/09/2021 AVENTE AD OGGETTO "ORDINANZA CONTINGIBILE ED URGENTE DI MESSA IN SICUREZZA DEL COSTONE ROCCIOSO SITO SULLA SS 163 AL KM 34+050"
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-salerno-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/90e6d61e-2310-45d0-bebb-3dedc0fd6f57/resource/8dda2034-f84e-469e-af90-54df8f2f3208/download/tar-campania-salerno-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
