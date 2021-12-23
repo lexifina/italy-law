@@ -1,0 +1,42 @@
+# Massima n. 44436
+
+- Pronuncia: Corte costituzionale, ordinanza 254/2021 (ECLI:IT:COST:2021:254)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2021:254
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - In genere - Petizione alle Camere - Natura giuridica dell'istituto - Diritto individuale, sebbene esercitabile collettivamente - Tutela, mediante conflitto di attribuzione tra poteri dello Stato - Esclusione - Assenza di un obbligo, presso le Camere, di esaminare o deliberare sulla petizione - Conseguente inammissibilità del conflitto (nel caso di specie, è dichiarato inammissibile il conflitto di attribuzione tra poteri dello Stato relativo alla petizione popolare rivolta al procedimento di conversione di decreto-legge avente ad oggetto l'obbligo di certificazione verde COVID-19 [c.d. green pass], sollevato dall'avvocato Daniele Gradara, in proprio e come rappresentante dei firmatari della petizione, nei confronti di entrambe le Camere, del Presidente del Consiglio dei ministri, del Consiglio dei ministri e del Presidente della Repubblica, per lamentata violazione delle libertà fondamentali della persona, come riconosciute anche a livello europeo, delle prerogative parlamentari, della libertà di insegnamento, del diritto all'istruzione e della libertà di ricerca scientifica, con richiesta alla Corte costituzionale di sollevare dinanzi a sé la questione di legittimità costituzionale del decreto-legge suddetto e della relativa legge di conversione). (Classif. 172001).
+
+## Testo
+
+Il diritto di petizione, previsto dall'art. 50 Cost., si configura quale diritto individuale, sebbene esercitabile collettivamente, regolato nella Parte I della Costituzione tra i rapporti politici, e non quale attribuzione costituzionale; non ci si trova, infatti, innanzi a una funzione attribuita dalla Costituzione a un determinato numero di cittadini o elettori, ma a un diritto del singolo, che mai potrebbe trovare tutela, quand'anche impedito, in sede di conflitto di attribuzione tra poteri dello Stato. ( Precedente: O. 85/2009 - mass. 33258 ). Le attribuzioni suscettibili di generare un conflitto non possono che essere quelle previste nella Parte II della Costituzione, dedicata all'ordinamento della Repubblica. ( Precedenti: O. 39/2019 - mass. 42191; O. 164/2018 - mass. 40096; O. 277/2017 - mass. 39733; O. 256/2016 - mass. 39171; O. 121/2011 - mass. 35556 ). La natura, il contenuto e gli effetti giuridici del diritto di petizione lo differenziano dagli istituti dell'iniziativa legislativa e del  referendum  abrogativo dal momento che siffatti istituti, facenti parte dell'ordinamento della Repubblica, sono espressione della volontà popolare, esercitata da  quorum  di elettori predefiniti dalla stessa Costituzione, mentre la petizione, proprio perché mero diritto individuale, può essere presentata da qualsiasi cittadino e la sua natura non cambia ove sottoscritta da più cittadini. La presentazione di una petizione non determina un obbligo per le Camere di deliberare sulla stessa, né tantomeno di recepirne i contenuti, bensì un mero dovere di acquisirne il testo e assegnarlo alle commissioni competenti, come conferma la disciplina prevista nei regolamenti parlamentari. (Nel caso di specie, è dichiarato inammissibile, per carenza dei requisiti soggettivi ed oggettivi, il ricorso per conflitto di attribuzione tra poteri dello Stato sollevato dall'avvocato Daniele Gradara, in proprio e come rappresentante dei firmatari della petizione relativa al procedimento di conversione del d.l. n. 111 del 2021, avente ad oggetto l'obbligo di certificazione verde COVID-19, c.d. Green Pass, nei confronti di entrambe le Camere, del Presidente del Consiglio dei ministri, del Consiglio dei ministri e del Presidente della Repubblica, in seguito all'omesso esame da parte delle Camere della detta petizione. La mancanza dei requisiti di ammissibilità del conflitto preclude l'esame della richiesta di autorimessione della questione di legittimità costituzionale del d.l. n. 111 del 2021, come convertito, tra l'altro manifestamente irrilevante, per la carenza del necessario nesso di pregiudizialità tra la risoluzione della questione medesima e la definizione del giudizio. ( Precedenti: S. 313/2013 - mass. 37925; O. 101/2000 - mass. 25217 ).
+
+## Parametri
+
+- Costituzione, art. 1
+- Costituzione, art. 2
+- Costituzione, art. 3
+- Costituzione, art. 4
+- Costituzione, art. 7
+- Costituzione, art. 9
+- Costituzione, art. 10
+- Costituzione, art. 11
+- Costituzione, art. 13
+- Costituzione, art. 16
+- Costituzione, art. 17
+- Costituzione, art. 19
+- Costituzione, art. 21
+- Costituzione, art. 32
+- Costituzione, art. 33
+- Costituzione, art. 34
+- Costituzione, art. 35
+- Costituzione, art. 36
+- Costituzione, art. 50
+- Costituzione, art. 67
+- Costituzione, art. 70
+- Costituzione, art. 71
+- Costituzione, art. 117, comma 1
+- Carta dei diritti fondamentali U.E., art. 3
+- Carta dei diritti fondamentali U.E., art. 21
+- Regolamento UE, 14/06/2021 n. 953
