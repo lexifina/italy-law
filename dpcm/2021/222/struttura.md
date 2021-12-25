@@ -1,0 +1,15 @@
+- Titolo I DISPOSIZIONI GENERALI (Art. 1.)
+
+- Titolo II PIANIFICAZIONE, PROGRAMMAZIONE E BUDGETING Capo I Pianificazione e programmazione (Art. 8.)
+
+- Capo II Budgeting (Art. 9.)
+
+- Titolo III GESTIONE ECONOMICO-FINANZIARIA (Art. 15.)
+
+- Titolo IV GESTIONE PATRIMONIALE (Art. 20.)
+
+- Titolo V RENDICONTAZIONE (Art. 23.)
+
+- Titolo VI SISTEMA E ORGANI DI CONTROLLO (Art. 32.)
+
+- Titolo VII DISPOSIZIONI TRANSITORIE E FINALI (Art. 35.)
