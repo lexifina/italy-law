@@ -16,7 +16,7 @@ Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere o mo
 
 1-ter.
 
-I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis ((, di quello reso disponibile on-line dall'ANPR di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza)).
+I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis , di quello reso disponibile on-line (( dall'Anagrafe nazionale della popolazione residente (ANPR) )) di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.
 
 1-quater.
 
