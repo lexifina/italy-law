@@ -1,0 +1,19 @@
+# TAR CALABRIA - CATANZARO, decreto cautelare n. 38/2022
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR CALABRIA - CATANZARO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202200038
+- Numero di ricorso (NRG): 202101870
+- Data di pubblicazione: 2022-01-22
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-12-09
+- Oggetto del ricorso: DELLA DETERMINA DI AGGIUDICAZIONE N. 1046 DEL 9.11.2021, COMUNICATA IN DATA 16.11.2021, CON CUI È STATA DISPOSTA L’AGGIUDICAZIONE DELL’APPALTO PER L'ESECUZIONE DEL SERVIZIO PAC INFANZIA PNSCIA DECRETO N. 557 DEL 22/04/2015 II ATTO DI RIPARTO SERVIZI DI CURA ALL'INFANZIA COMUNE DI TREBISACCE IN QUALITÀ DI CAPOFILA DEL DISTRETTO DI TREBISACCE.
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-catanzaro-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/4a594d12-def6-459f-bc2d-92a79e3a16d1/resource/cb81f88b-36e2-4020-81cb-eb348af2bafc/download/tar-calabria-catanzaro-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
