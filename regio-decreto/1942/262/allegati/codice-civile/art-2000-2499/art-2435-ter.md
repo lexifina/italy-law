@@ -1,8 +1,8 @@
 Art. 2435-ter.
 
-(( (Bilancio delle micro-imprese). ))
+(Bilancio delle micro-imprese).
 
-((Sono considerate micro-imprese le societa' di cui all'articolo 2435-bis che nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
+Sono considerate micro-imprese le societa' di cui all'articolo 2435-bis che nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
 
 1) totale dell'attivo dello stato patrimoniale: 175.000 euro;
 
@@ -20,12 +20,20 @@ Fatte salve le norme del presente articolo, gli schemi di bilancio e i criteri d
 
 Non sono applicabili le disposizioni di cui al quinto comma dell'articolo 2423 e al numero 11-bis del primo comma dell'articolo 2426.
 
-Le societa' che si avvalgono delle esenzioni previste del presente articolo devono redigere il bilancio, a seconda dei casi, in forma abbreviata o in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma.))
+Le societa' che si avvalgono delle esenzioni previste del presente articolo devono redigere il bilancio, a seconda dei casi, in forma abbreviata o in forma ordinaria quando per il secondo esercizio consecutivo abbiano superato due dei limiti indicati nel primo comma.
 
-((246))
+((Agli enti di investimento e alle imprese di partecipazione finanziaria non si applicano le disposizioni previste dal presente articolo, dal sesto comma dell'articolo 2435-bis e dal secondo comma dell'articolo 2435-bis con riferimento alla facolta' di comprendere la voce D dell'attivo nella voce CII e la voce E del passivo nella voce D)). ((315))
+
+(246)
 
 ----------
 
 AGGIORNAMENTO (246)
 
 Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che la presente modifica si applica ai bilanci relativi agli esercizi finanziari aventi inizio a partire dal 1 gennaio 2016.
+
+---------------
+
+AGGIORNAMENTO (315)
+
+La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 24, comma 4) che la presente modifica si applica "per la prima volta al bilancio dell'impresa e al bilancio consolidato relativi al primo esercizio successivo a quello chiuso o in corso al 31 dicembre 2019".
