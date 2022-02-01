@@ -2,9 +2,9 @@ Art. 609-ter.
 
 (Circostanze aggravanti).
 
-((La pena stabilita dall'articolo 609-bis e' aumentata di un terzo se i fatti ivi previsti)) sono commessi:
+La pena stabilita dall'articolo 609-bis e' aumentata di un terzo se i fatti ivi previsti sono commessi:
 
-((1) nei confronti di persona della quale il colpevole sia l'ascendente, il genitore, anche adottivo, o il tutore));
+1) nei confronti di persona della quale il colpevole sia l'ascendente, il genitore, anche adottivo, o il tutore;
 
 2) con l'uso di armi o di sostanze alcoliche, narcotiche o stupefacenti o di altri strumenti o sostanze gravemente lesivi della salute della persona offesa;
 
@@ -12,7 +12,7 @@ Art. 609-ter.
 
 4) su persona comunque sottoposta a limitazioni della liberta' personale;
 
-((5) nei confronti di persona che non ha compiuto gli anni diciotto));
+5) nei confronti di persona che non ha compiuto gli anni diciotto;
 
 5-bis) all'interno o nelle immediate vicinanze di istituto d'istruzione o di formazione frequentato dalla persona offesa;
 
@@ -24,4 +24,6 @@ Art. 609-ter.
 
 5-sexies) se il reato e' commesso con violenze gravi o se dal fatto deriva al minore, a causa della reiterazione delle condotte, un pregiudizio grave.
 
-((La pena stabilita dall'articolo 609-bis e' aumentata della meta' se i fatti ivi previsti sono commessi nei confronti di persona che non ha compiuto gli anni quattordici. La pena e' raddoppiata se i fatti di cui all'articolo 609-bis sono commessi nei confronti di persona che non ha compiuto gli anni dieci)).
+((5-septies) se dal fatto deriva pericolo di vita per il minore)).
+
+La pena stabilita dall'articolo 609-bis e' aumentata della meta' se i fatti ivi previsti sono commessi nei confronti di persona che non ha compiuto gli anni quattordici. La pena e' raddoppiata se i fatti di cui all'articolo 609-bis sono commessi nei confronti di persona che non ha compiuto gli anni dieci.
