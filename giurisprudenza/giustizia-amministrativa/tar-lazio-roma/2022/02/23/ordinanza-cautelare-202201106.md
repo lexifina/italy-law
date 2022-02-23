@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 1106/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA BIS
+- Numero provvedimento: 202201106
+- Numero di ricorso (NRG): 202200790
+- Data di pubblicazione: 2022-02-23
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-01-28
+- Oggetto del ricorso: RICONOSCIMENTO DELLA FORMAZIONE PROFESSIONE DI DOCENTE IN ITALIA PER LE CLASSI DI CONCORSO A-60, A-37, A-01, A-17 NELLA SCUOLA SECONDARIA DI I E I IN OTTEMPERANZA DELLA SENTENZA DEL CONSIGLIO DI STATO NR. 7111/2021 ° - MISURA COMPENSATIVA AI SENSI DELL’ART. 22 DEL D.LGS 206/2007, DI TIROCINIO DI ADATTAMENTO DI 300 ORE DELLA DURATA DI UN ANNO SCOLASTICO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
