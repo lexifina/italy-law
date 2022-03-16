@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 1837/2022
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA QUATER
+- Numero provvedimento: 202201837
+- Numero di ricorso (NRG): 201607515
+- Data di pubblicazione: 2022-03-16
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2016-06-28
+- Oggetto del ricorso: ANNULLAMENTO DELLA DELIBERAZIONE N. 50/16 NELLA PARTE IN CUI RICHIEDE IL REQUISITO DELLA RESIDENZA PER L'ASSEGNAZIONE DEGLI IMMOBILI AI NUCLEI FAMILIARI CHE VIVONO IN IMMOBILI IMPROPRIAMENTE ADIBITI AD ABITAZIONE E LIMITA AL 15% LA RISERVA DI QUELLI DA ASSEGNARE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
