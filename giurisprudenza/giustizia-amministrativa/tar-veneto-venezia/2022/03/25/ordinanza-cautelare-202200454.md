@@ -1,0 +1,19 @@
+# TAR VENETO - VENEZIA, ordinanza cautelare n. 454/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR VENETO - VENEZIA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202200454
+- Numero di ricorso (NRG): 202200367
+- Data di pubblicazione: 2022-03-25
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-03-08
+- Oggetto del ricorso: EDILIZIA: RIGETTO ISTANZA DI AMPLIAMENTO FABBRICATO IN FASCIA DI RISPETTO STRADALE A MARGINE DELLA S.P. 17 IN COMUNE DI QUINTO DI TREVISO ANNULLAMENTO DEL PROVVEDIMENTO DI RIGETTO PROT. ISTANZA N. 71587/2021, PROT. RISPOSTA N. 73450/2021 DEL 17.12.2021
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-veneto-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/99572303-aa7e-4b3e-bc84-5ef632d6d9eb/resource/dc3ae512-d71d-4805-b78c-b5c9fb32a874/download/tar-veneto-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
