@@ -4,7 +4,7 @@ Art. 640-bis.
 
 La pena e' della reclusione da due a sette anni e si procede d'ufficio se il fatto di cui all'articolo 640 riguarda contributi, ((sovvenzioni,)) finanziamenti, mutui agevolati ovvero altre erogazioni dello stesso tipo, comunque denominate, concessi o erogati da parte dello Stato, di altri enti pubblici o delle Comunita' europee.
 
-(125) (233) ((319))
+(125) (233)
 
 -------------
 
@@ -21,9 +21,3 @@ Il D.Lgs. 6 settembre 2011, n. 159 ha disposto:
 - (con l'art. 71, comma 1) che la pena stabilita per il delitto previsto dal presente articolo e' aumentata da un terzo alla meta' se il fatto e' commesso da persona sottoposta con provvedimento definitivo ad una misura di prevenzione personale durante il periodo previsto di applicazione e sino a tre anni dal momento in cui ne e' cessata l'esecuzione;
 
 - (con l'art. 71, comma 3) che alla pena e' aggiunta una misura di sicurezza detentiva.
-
--------------
-
-AGGIORNAMENTO (319)
-
-- La modifica del comma 1 del presente articolo ha perso efficacia per effetto dell'abrogazione del D.L. 25 febbraio 2022, n. 13 ad opera della L. 28 marzo 2022, n. 25, la quale ne ha contestualmente fatti salvi gli effetti.
