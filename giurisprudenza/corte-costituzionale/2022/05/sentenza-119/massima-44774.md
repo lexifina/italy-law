@@ -1,0 +1,23 @@
+# Massima n. 44774
+
+- Pronuncia: Corte costituzionale, sentenza 119/2022 (ECLI:IT:COST:2022:119)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2022:119
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudizio costituzionale in via principale - Motivazione - Necessità di individuare le disposizioni impugnate e i parametri costituzionali asseritamente lesi - Inammissibilità di una motivazione meramente assertiva - Impossibilità di integrare eventuali lacune dell'atto introduttivo mediante memorie successive o durante la trattazione orale (nel caso di specie: inammissibilità delle questioni promosse dal governo contro le norme della Regione Emilia-Romagna che prorogano gli affidamenti delle concessioni del servizio idrico integrato in corso con scadenza antecedente alla data del 31 dicembre 2027 a detta data, per la necessità di garantire gli interventi previsti nel PNRR). (Class. 113003).
+
+## Testo
+
+L'esigenza di un'adeguata motivazione a fondamento dell'impugnazione si pone in termini ancora più rigorosi nei giudizi proposti in via principale rispetto a quelli instaurati in via incidentale. Il ricorrente, pertanto, ha non solo l'onere di individuare le disposizioni impugnate e i parametri costituzionali dei quali lamenta la violazione, ma anche quello di allegare una motivazione non meramente assertiva, indicando le ragioni per le quali vi sarebbe il contrasto con i parametri evocati e una, sia pur sintetica, argomentazione a supporto delle censure. ( Precedenti: S. 219/2021; S. 95/2021 - mass. 43878; S. 161/2020 - mass. 43312; S. 144/2020 - mass. 43239; S. 286/2019 - mass.  42857 ; S. 232/2019 - mass. 40824; S. 154/2017 - mass. 41790 ). Il ricorso in via principale non può limitarsi a indicare le norme costituzionali e ordinarie, la definizione del cui rapporto di compatibilità o incompatibilità costituisce l'oggetto della questione di costituzionalità, ma deve contenere anche una argomentazione di merito, sia pure sintetica, a sostegno della richiesta declaratoria di incostituzionalità, poiché altrimenti la censura si presenta meramente assertiva, in quanto non espone alcun argomento di merito che specifichi il contrasto ravvisabile con la disposizione regionale impugnata. Le lacune dell'atto introduttivo del giudizio in via principale non possono considerarsi sanate dagli argomenti spesi dal ricorrente nella memoria depositata in prossimità dell'udienza pubblica, oltre che nel corso della discussione orale. Con la detta memoria, infatti, è possibile soltanto prospettare argomenti a sostegno delle questioni così come sollevate nel ricorso, non anche svolgere deduzioni dirette ad ampliare il  thema decidendum  fissato con tale ultimo atto. ( Precedente: S. 261/2017 - mass. 42015 ). (Nel caso di specie, sono dichiarate inammissibili le questioni di legittimità costituzionale, promosse dal Governo in riferimento all'art. 117, secondo comma, lett.  e  ed  s , Cost., in relazione all'art. 149- bis  del d.lgs. n. 152 del 2006, dell'art. 16 della legge reg. Emilia-Romagna n. 14 del 2021, che proroga gli affidamenti delle concessioni del servizio idrico integrato in corso con scadenza antecedente alla data del 31 dicembre 2027 a detta data, per la necessità di garantire gli interventi previsti nel PNRR. Il ricorrente non ha assolto all'onere argomentativo di chiarire il meccanismo attraverso il quale la disciplina dettata dal legislatore regionale si pone in contrasto con le norme evocate a parametro, tra cui quella sulla tutela della concorrenza, cui va ricondotta la disciplina della tariffa del servizio idrico integrato, le forme di gestione e le modalità di affidamento al soggetto gestore. Inoltre, lamentando che la normativa regionale impugnata si porrebbe in contrasto con il parametro interposto indicato - perché le eventuali proroghe dovrebbero essere concesse dall'ente di governo dell'ambito territoriale ottimale, sussistendo in proposito una vera e propria riserva di amministrazione - è proposta, invero, una nuova e diversa questione, inammissibile sia perché tardiva, in quanto prospettata dopo l'esaurimento del termine perentorio per impugnare, sia perché si traduce in una sostanziale  mutatio  della censura originariamente proposta).
+
+## Norme
+
+- legge della Regione Emilia Romagna, 21/10/2021 n. 14, art. 16
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. e)
+- Costituzione, art. 117, comma 2 lett. s)
+- decreto legislativo, 03/04/2006 n. 152, art. 149 bis
