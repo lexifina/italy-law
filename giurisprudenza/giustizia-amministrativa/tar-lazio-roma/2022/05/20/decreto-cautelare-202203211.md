@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 3211/2022
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE QUINTA QUATER
+- Numero provvedimento: 202203211
+- Numero di ricorso (NRG): 202205411
+- Data di pubblicazione: 2022-05-20
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-05-18
+- Oggetto del ricorso: ANNULLAMENTO DELIBERA DI ESCLUSIONE DALLA GRADUATORIA DEL LOTTO 2 REALTIVA AL BANDO 2020 PER LA CONCESSIONE DI CONTRIBUTI A INIZIATIVE PROMOSSE DA ORGANIZZAZIONE DELLA SOCIETÀ CIVILE (OSC) E GLI ALTRI SOGGETTI SENZA FINALITÀ DI LUCRO ISCRITTI ALL’ELENCO DI CUI AL COMMA 3, DELL’ART.26 DELLA LEGGE N.125/2014
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
