@@ -1,0 +1,19 @@
+# TAR LIGURIA - GENOVA, decreto presidenziale n. 148/2022
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR LIGURIA - GENOVA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202200148
+- Numero di ricorso (NRG): 202200368
+- Data di pubblicazione: 2022-06-23
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-06-22
+- Oggetto del ricorso: ANNULLAMENTO NOTA PROT.13806/2022 AVENTE AD OGGETTO “INDIZIONE CONFERENZA DEI SERVIZI IN FORMA SEMPLIFICATA IN MODALITÀ ASINCRONA, AI SENSI DELL'ART. 14 BIS L. 241/90 E S.M.I. IN APPLICAZIONE DELL'ART. 158 BIS DLGS N. 152/2006 E S.M.I. AGGIORNAMENTO TECNOLOGICO DELL'IMPIANTO DI TELECOMUNICAZIONE DENOMINATO: 1OF01515 LERICI BORGO VODAFONE) LERICI (SP), PIAZZA BACIGALUPI”; NOTA PROT. PEC N. 18858/2022.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-liguria-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/24abf38c-9e66-4529-99ca-4b4313e99a98/resource/19929387-d9cb-474f-8759-3dcd272c6f75/download/tar-liguria-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
