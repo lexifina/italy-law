@@ -1,0 +1,7 @@
+Allegato A
+
+(di cui all'articolo 6, comma 1)
+
+Richiesta di informazioni estratte del casellario giudiziale
+
+Parte di provvedimento in formato grafico
