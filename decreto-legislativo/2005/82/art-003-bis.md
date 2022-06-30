@@ -16,7 +16,7 @@ Fermo restando quanto previsto al comma 1, chiunque ha facolta' di eleggere o mo
 
 1-ter.
 
-I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis , di quello reso disponibile on-line (( dall'Anagrafe nazionale della popolazione residente (ANPR) )) di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.
+I domicili digitali di cui ai commi 1, 1-bis e 4-quinquies sono eletti secondo le modalita' stabilite con le Linee guida. Le persone fisiche possono altresi' eleggere il domicilio digitale avvalendosi del servizio di cui all'articolo 64-bis , di quello reso disponibile on-line dall'Anagrafe nazionale della popolazione residente (ANPR) di cui all'articolo 62, ovvero recandosi presso l'ufficio anagrafe del proprio comune di residenza.
 
 1-quater.
 
@@ -36,7 +36,7 @@ Con decreto del Presidente del Consiglio dei ministri o del Ministro delegato pe
 
 4.
 
-A decorrere dal 1° gennaio 2013, salvo i casi in cui e' prevista dalla normativa vigente una diversa modalita' di comunicazione o di pubblicazione in via telematica, le amministrazioni pubbliche e i gestori o esercenti di pubblici servizi comunicano con il cittadino esclusivamente tramite il domicilio digitale dallo stesso dichiarato, anche ai sensi dell'articolo 21-bis della legge 7 agosto 1990, n. 241, senza oneri di spedizione a suo carico. Ogni altra forma di comunicazione non puo' produrre effetti pregiudizievoli per il destinatario.L'utilizzo di differenti modalita' di comunicazione rientra tra i parametri di valutazione della performance dirigenziale ai sensi dell'articolo 11, comma 9, del decreto legislativo 27 ottobre 2009, n. 150. (28)
+A decorrere dal 1° gennaio 2013, salvo i casi in cui e' prevista dalla normativa vigente una diversa modalita' di comunicazione o di pubblicazione in via telematica, le amministrazioni pubbliche e i gestori o esercenti di pubblici servizi comunicano con il cittadino esclusivamente tramite il domicilio digitale dallo stesso dichiarato ((. Per la violazione della presente disposizione si applica l'articolo 18-bis)). (28)
 
 4-bis.
 
