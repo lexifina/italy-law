@@ -1,0 +1,18 @@
+# Massima n. 44903
+
+- Pronuncia: Corte costituzionale, sentenza 166/2022 (ECLI:IT:COST:2022:166)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2022:166
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Patrocinio a spese dello Stato - In genere - Necessario equilibrio tra garanzia del diritto di difesa per i non abbienti e contenimento della spesa pubblica - Bilanciamento rimesso alla discrezionalità del legislatore - Limite - Divieto di scelte irragionevoli - Criterio applicabile al processo penale, civile e amministrativo, fatti salvi i caratteri peculiari del primo. (Classif. 175001).
+
+## Testo
+
+Nei procedimenti in cui vi sia ammissione al patrocinio a spese dello Stato, nei quali l'ordinamento tende a garantire a coloro che non sono in grado di sopportare il costo di un processo l'effettività del diritto ad agire e a difendersi in giudizio, che il secondo comma dell'art. 24 Cost. espressamente qualifica come diritto inviolabile, è cruciale l'individuazione di un punto di equilibrio tra garanzia del diritto di difesa per i non abbienti e necessità di contenimento della spesa pubblica in materia di giustizia. ( Precedenti: S. 157/2021 - mass.  44113 ; S. 47/2020 - mass.  42301 ). Il patrocinio a spese dello Stato è espressione di un bilanciamento rimesso alla discrezionalità del legislatore, il quale può conseguire il risultato della garanzia dell'accesso alla tutela giurisdizionale conformando gli istituti nel modo che reputa più opportuno, con il solo limite della manifesta irragionevolezza o arbitrarietà delle scelte adottate. ( Precedenti: S. 80/2020 - mass.  42556 ; S. 47/2020 - mass.  42301 ; O. 3/2020 - mass.  42222 ). La garanzia costituzionale del diritto di difesa non esclude, quanto alle sue modalità, la competenza del legislatore a darvi attuazione sulla base di scelte discrezionali non irragionevoli. ( Precedente: O. 350/2005 - mass.  29753 ). La necessità di garantire ai non abbienti i mezzi per agire e difendersi davanti a ogni giurisdizione, prevista dall'art. 24, terzo comma, Cost., non postula che gli appositi istituti siano modellati in termini sovrapponibili per tutti i tipi di azione e di giudizio. ( Precedenti: S. 35/2019 - mass.  41862 ; S. 237/2015 - mass.  38616 ). Il generale canone di proporzionalità e di adeguatezza nel bilanciamento tra giusta remunerazione del professionista ed esigenze della spesa pubblica trascende le particolarità dei singoli modelli processuali. La peculiarità del processo penale rispetto ai procedimenti civili o amministrativi si coglie soprattutto nella diversità dell'azione penale rispetto alle domande proposte davanti ai giudici dei diritti o degli interessi, per la quale è approntato, proprio in considerazione delle particolari esigenze di difesa del soggetto che la subisce, un sistema di garanzie che ne assicuri al meglio l'effettività. ( Precedenti: S. 157/2021 - mass. 44113; S. 237/2015 - mass. 38616 ). Se a diversi processi possono corrispondere, in base a scelte discrezionali del legislatore, discipline differenziate anche degli stessi istituti, per converso, nel caso in cui la legge delinei, in riferimento alla medesima fattispecie, normative per il processo civile e per quello penale sostanzialmente sovrapponibili, una differente modulazione dello scrutinio di ragionevolezza si rivelerebbe ingiustificata. ( Precedente: S. 78/2002 - mass.  26820 ).
+
+## Parametri
+
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 24, comma 3
