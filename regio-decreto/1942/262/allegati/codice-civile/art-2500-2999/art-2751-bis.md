@@ -6,9 +6,9 @@ Hanno privilegio generale sui mobili i crediti riguardanti:
 
 1) le retribuzioni dovute, sotto qualsiasi forma, ai prestatori di lavoro subordinato e tutte le indennita' dovute per effetto della cessazione del rapporto di lavoro, nonche' il credito del lavoratore per i danni conseguenti alla mancata corresponsione, da parte del datore di lavoro, dei contributi previdenziali ed assicurativi obbligatori ed il credito per il risarcimento del danno subito per effetto di un licenziamento inefficace, nullo o annullabile; (59) (139) (149)
 
-2) le retribuzioni dei professionisti ((, compresi il contributo integrativo da versare alla rispettiva cassa di previdenza ed assistenza e il credito di rivalsa per l'imposta sul valore aggiunto, )). e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110) ((320))
+2) le retribuzioni dei professionisti, compresi il contributo integrativo da versare alla rispettiva cassa di previdenza ed assistenza e il credito di rivalsa per l'imposta sul valore aggiunto, e di ogni altro prestatore d'opera intellettuale dovute per gli ultimi due anni di prestazione; (110) (320)
 
-3) le provvigioni derivanti dal rapporto di agenzia dovute per l'ultimo anno di prestazione e le indennita' dovute per la cessazione del rapporto medesimo;
+3) le provvigioni derivanti dal rapporto di agenzia dovute per l'ultimo anno di prestazione e le indennita' dovute per la cessazione del rapporto medesimo; ((320))
 
 4) i crediti del coltivatore diretto, sia proprietario che affittuario, mezzadro, colono, soccidario o comunque compartecipante, per i corrispettivi della vendita dei prodotti, nonche' i crediti del mezzadro o del colono indicati dall'articolo 2765;
 
@@ -58,4 +58,4 @@ Il D.L. 21 giugno 2013, n. 69, convertito con modificazioni dalla L. 9 agosto 20
 
 AGGIORNAMENTO (320)
 
-Successivamente la Corte Costituzionale, con sentenza 9 giugno - 1 luglio 2022, n. 167 (in G.U. 1ª s.s. 06/07/2022, n. 27), ha dichiarato l'illegittimita' costituzionale dell'art. 1, comma 474 della L. 27 dicembre 2017, n. 205 (che ha modificato il comma 1, numero 2) del presenete articolo)"nella parte in cui non prevedono, in favore dell'agente che svolga una prestazione di opera continuativa e coordinata, prevalentemente personale, il privilegio generale sui mobili esteso al credito di rivalsa per l'imposta sul valore aggiunto (IVA) sulle provvigioni dovute per l'ultimo anno di prestazione".
+La Corte Costituzionale, con sentenza 9 giugno - 1 luglio 2022, n. 167 (in G.U. 1ª s.s. 06/07/2022, n. 27), ha dichiarato l'illegittimita' costituzionale dell'art. 2751-bis, numero 3), e dell'art. 1, comma 474, della legge 27 dicembre 2017, n. 205 (che ha modificato il comma 1, numero 2) del presenete articolo) "nella parte in cui non prevedono, in favore dell'agente che svolga una prestazione di opera continuativa e coordinata, prevalentemente personale, il privilegio generale sui mobili esteso al credito di rivalsa per l'imposta sul valore aggiunto (IVA) sulle provvigioni dovute per l'ultimo anno di prestazione".
