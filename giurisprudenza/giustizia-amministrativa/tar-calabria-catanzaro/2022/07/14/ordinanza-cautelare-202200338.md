@@ -1,0 +1,19 @@
+# TAR CALABRIA - CATANZARO, ordinanza cautelare n. 338/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CALABRIA - CATANZARO
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202200338
+- Numero di ricorso (NRG): 202200855
+- Data di pubblicazione: 2022-07-14
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-06-23
+- Oggetto del ricorso: DELL’ATTO N. 3 DEL 31/3/2022 EMESSO DAL DIRIGENTE DEL SETTORE GOVERNO DEL TERRITORIO SERVIZIO EDILIZIA PRIVATA S.U.E. DEL COMUNE DI LAMEZIA TERME, CON IL QUALE È STATO DISPOSTO L'ANNULLAMENTO-DECADENZA DELLA C.I.L.A. DEL 2/12/2021 PROT. N. 524112 PRESENTATA DALLA SIGNORA MASI LINA PATRIZIA E ORDINATA ALLA STESSA LA RIMESSA IN PRISTINO DELLO STATO DEI LUOGHI ENTRO 30 GIORNI A DECORRERE DALLA DATA DI NOTIFICA DEL PROVVEDIMENTO.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-catanzaro-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/93c9326c-9103-4254-9a25-bd1641663be8/resource/f62030c6-6d89-4b65-9509-b32d89dc07bb/download/tar-calabria-catanzaro-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
