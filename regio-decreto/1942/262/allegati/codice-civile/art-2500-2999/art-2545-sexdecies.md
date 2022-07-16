@@ -2,11 +2,7 @@ Art. 2545-sexiesdecies.
 
 (Gestione commissariale).
 
-((Fuori dai casi di cui all'articolo 2545-septiesdecies, in caso di irregolare funzionamento della societa' cooperativa, l'autorita' di vigilanza puo' revocare gli amministratori e i sindaci, affidare la gestione della societa' a un commissario, determinando i poteri e la durata, al fine di sanare le irregolarita' riscontrate e, nel caso di crisi o insolvenza, autorizzarlo a domandare la nomina del collegio o del commissario per la composizione assistita della crisi stessa o l'accesso a una delle procedure regolatrici previste nel codice della crisi e dell'insolvenza.)) Ove l'importanza della societa' cooperativa lo richieda, l'autorita' di vigilanza puo' nominare un vice commissario che collabora con il commissario e lo sostituisce in caso di impedimento. ((303))
-
-((311))
-
-((316))
+Fuori dai casi di cui all'articolo 2545-septiesdecies, in caso di irregolare funzionamento della societa' cooperativa, l'autorita' di vigilanza puo' revocare gli amministratori e i sindaci, affidare la gestione della societa' a un commissario, determinando i poteri e la durata, al fine di sanare le irregolarita' riscontrate e, nel caso di crisi o insolvenza, autorizzarlo a domandare ((...)) l'accesso a una delle procedure regolatrici previste nel codice della crisi e dell'insolvenza. Ove l'importanza della societa' cooperativa lo richieda, l'autorita' di vigilanza puo' nominare un vice commissario che collabora con il commissario e lo sostituisce in caso di impedimento. (303) (311) (316)
 
 Al commissario possono essere conferiti per determinati atti anche i poteri dell'assemblea, ma le relative deliberazioni non sono valide senza l'approvazione dell'autorita' di vigilanza.
 
