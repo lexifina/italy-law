@@ -1,0 +1,21 @@
+# Massima n. 45069
+
+- Pronuncia: Corte costituzionale, sentenza 179/2022 (ECLI:IT:COST:2022:179)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2022:179
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Leale collaborazione - Forme di intesa e coordinamento a livello normativo -Attrazione in sussidiarietà da parte dello Stato, in deroga al normale riparto di competenze legislative - Condizioni - Proporzionalità, ragionevolezza e accordo con la Regione interessata - Ambito di applicazione - Estensione anche ai casi di determinazione dei criteri e delle modalità del riparto delle risorse relative al finanziamento statale con vincolo di destinazione che incide su materie di competenza regionale (nel caso di specie: commercio e agricoltura). (Classif. 139002).
+
+## Testo
+
+I principi di sussidiarietà e di adeguatezza convivono con il normale riparto di competenze legislative contenuto nel Titolo V della Costituzione e possono giustificarne una deroga soltanto se la valutazione dell'interesse pubblico sottostante all'assunzione di funzioni regionali da parte dello Stato sia proporzionata, non risulti affetta da irragionevolezza alla stregua di uno scrutinio stretto di costituzionalità, e sia oggetto di un accordo stipulato con la Regione interessata. ( Precedente: S. 303/2003 - mass. 28036 ). È necessario applicare il principio di leale collaborazione nei casi in cui lo Stato preveda un finanziamento, con vincolo di destinazione, incidente su materie di competenza regionale (residuale o concorrente). La legge statale deve pertanto prevedere strumenti di coinvolgimento delle Regioni nella fase di attuazione della normativa, nella forma dell'intesa o del parere, in particolare quanto alla determinazione dei criteri e delle modalità del riparto delle risorse destinate agli enti territoriali. Ciò avviene, principalmente, in due evenienze: in primo luogo, quando vi sia un intreccio (ovvero una interferenza o concorso) di competenze legislative, che non permetta di individuare un ambito materiale che possa considerarsi nettamente prevalente sugli altri; in secondo luogo, nei casi in cui la disciplina del finanziamento trovi giustificazione nella cosiddetta attrazione in sussidiarietà della stessa allo Stato, ai sensi dell'art. 118, primo comma, Cost. ( Precedenti: S. 123/2022 - mass.45047; S. 114/2022 - mass. 44891; S. 40/2022 - mass. 44669; S. 104/2021 - mass. 43903; S. 74/2019 - mass. 42119; S. 72/2019 - mass. 42117; S. 185/2018 - mass. 40288; S. 71/2018 - mass. 41240; S. 61/2018 - mass. 41304 ). (Nel caso di specie, è dichiarato costituzionalmente illegittimo, per violazione dell'art. 120 Cost., l'art. 1, comma 202, della legge n. 178 del 2020, nella parte in cui non prevede che il decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dello sviluppo economico, di determinazione dei criteri, degli importi e delle modalità di erogazione del fondo di cui al comma 201 del medesimo art. 1, sia adottato previa intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano. La norma impugnata dalla Regione Campania - omettendo di prevedere il coinvolgimento delle Regioni nella ripartizione delle somme stanziate per il fondo per la concessione di contributi alle imprese non industriali, con sede legale o unità produttiva nei Comuni in cui si sono verificati, nel corso dell'anno 2020, interruzioni della viabilità causati da crolli di infrastrutture stradali rilevanti per la mobilità territoriale - vìola il principio di leale collaborazione. Infatti, nonostante appaia non irragionevole né sproporzionata la valutazione dell'interesse pubblico che ha condotto all'assunzione da parte dello Stato delle attribuzioni esercitate, l'interferenza con ambiti materiali di sicura competenza regionale, come il commercio e l'agricoltura, avrebbe dovuto imporre un adeguato coinvolgimento delle Regioni interessate). ( Precedenti: S. 63/2008 - mass. 32204; S. 242/2005 - mass. 29473 ).
+
+## Norme
+
+- legge, 30/12/2020 n. 178, art. 1, comma 202
+
+## Parametri
+
+- Costituzione, art. 120
