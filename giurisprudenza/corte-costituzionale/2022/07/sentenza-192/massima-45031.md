@@ -1,0 +1,21 @@
+# Massima n. 45031
+
+- Pronuncia: Corte costituzionale, sentenza 192/2022 (ECLI:IT:COST:2022:192)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2022:192
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Paesaggio - Piano paesaggistico regionale - Prevalenza di quest'ultimo sugli atti di pianificazione ad incidenza territoriale - Necessità, altresì, che la normativa attuativa del Piano casa rispetti le prescrizioni statali in materia di tutela ambientale (nel caso di specie: illegittimità costituzionale in parte qua di norma della Regione Puglia che non prevede che gli interventi edilizi previsti - di ampliamento e di demolizione e ricostruzione, nell'ambito del Piano casa - debbano essere realizzati anche nel rispetto delle specifiche prescrizioni del PPTR). (Classif. 170009).
+
+## Testo
+
+I rapporti tra le prescrizioni del piano paesaggistico e le prescrizioni di carattere urbanistico ed edilizio sono definiti secondo un modello di prevalenza delle prime, non alterabile ad opera della legislazione regionale. ( Precedenti: S. 45/2022 - mass. 44647; S. 24/2022 - mass. 44559; S. 124/2021; S. 74/2021; S. 11/2016 - mass. 38705 ). Il principio di prevalenza delle disposizioni dei piani paesaggistici - espresso nell'art. 145, comma 3, cod. beni culturali - intende garantire l'impronta unitaria della pianificazione paesaggistica, valore imprescindibile e, pertanto, non derogabile dal legislatore regionale, in quanto espressione di un intervento teso a stabilire una metodologia uniforme di tutela, conservazione e trasformazione del territorio. A quest'ultimo è impedito adottare sia normative che deroghino o contrastino con norme di tutela paesaggistica che pongono obblighi o divieti - cioè con previsioni di tutela in senso stretto - sia normative che, pur non contrastando con (o derogando a) previsioni di tutela in senso stretto, pongano alla disciplina paesaggistica limiti o condizioni che, per mere esigenze urbanistiche, escludano o ostacolino il pieno esplicarsi della tutela paesaggistica. ( Precedenti: S. 45/2022 - mass. 44647; S. 261/2021 - mass. 44443; S. 141/2021 - mass. 44016; S. 74/2021 - mass. 43837; S. 240/2020; S. 86/2019 - mass. 42376 ). La normativa sul Piano casa, pur nella riconosciuta finalità di agevolazione dell'attività edilizia, non può far venir meno la natura cogente e inderogabile delle previsioni del codice dei beni culturali e del paesaggio, adottate dal legislatore statale nell'esercizio della propria competenza esclusiva in materia di "tutela dell'ambiente, dell'ecosistema e dei beni culturali". ( Precedenti: S. 261/2021; S. 86/2019 - mass. 42541 ). Il PPTR deve essere messo al riparo dalla pluralità e dalla parcellizzazione degli interventi delle amministrazioni locali, che possono metterne in discussione la complessiva ed unitaria efficacia. ( Precedenti: S. 261/2021; S. 74/2021 - mass. 43837; S. 11/2016 - mass. 38705 ). (Nel caso di specie, è dichiarato costituzionalmente illegittimo, per violazione dell'art. 117, secondo comma, lett.  s , Cost., l'art. 6, comma 2, lett. c- bis , della legge reg. Puglia n. 14 del 2009, nel testo in vigore anteriormente all'abrogazione disposta dall'art. 1 della legge reg. Puglia n. 3 del 2021, nella parte in cui non prevede che gli interventi edilizi straordinari di ampliamento e di demolizione e ricostruzione - previsti dagli artt. 3 e 4 della stessa legge regionale, nell'ambito del Piano casa - debbano essere realizzati anche nel rispetto delle specifiche prescrizioni del Piano paesaggistico territoriale regionale. La disposizione censurata dal Consiglio di stato, sez. quarta - nel prevedere che i citati interventi possano interessare ambiti e immobili sottoposti a vincolo paesaggistico senza fare menzione anche del rispetto delle dette prescrizioni specifiche del PPTR - contrasta con il principio di prevalenza di quest'ultimo su tutti gli altri strumenti di pianificazione territoriale e urbanistica.)
+
+## Norme
+
+- legge della Regione Puglia, 30/07/2009 n. 14, art. 6, comma 2 lett. c-bis)
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. s)
