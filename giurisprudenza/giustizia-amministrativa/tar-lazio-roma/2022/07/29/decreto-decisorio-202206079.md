@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 6079/2022
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA BIS
+- Numero provvedimento: 202206079
+- Numero di ricorso (NRG): 201615435
+- Data di pubblicazione: 2022-07-29
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2016-12-27
+- Oggetto del ricorso: ANNULLAMENTO VERBALE N.74 DEL 7 SETTEMBRE 2016 RELATIVO ALL'ESPLETAMENTO DELLA PROVA ORALE DELLA COMMISSIONE GIUDICATRICE DEL CONCORSO DI CUI AL DDG N.16 DEL 23 FEBBRAIO 2016 PER LA CLASSE DI CONCORSO AJ55-PIANOFORTE COMMISSIONE NOMINATA DAL DIRETTORE GENERALE DELL'UFFICIO SCOLASTICO REGIONALE LOMBARDIA. RIASSUNZIONE DA TAR LOMBARDIA MILANO NRG 275320/16 - ORD. 2355/2016 - RISARCIMENTO DANNI
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
