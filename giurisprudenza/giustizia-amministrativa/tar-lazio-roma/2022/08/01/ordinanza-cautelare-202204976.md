@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 4976/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE QUARTA
+- Numero provvedimento: 202204976
+- Numero di ricorso (NRG): 202202019
+- Data di pubblicazione: 2022-08-01
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA INAMMISSIBILE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-02-25
+- Oggetto del ricorso: CONCORSO PUBBLICO, PER TITOLI ED ESAMI, PER LA COPERTURA DI 2133 POSTI DI PERSONALE NON DIRIGENZIALE, A TEMPO PIENO ED INDETERMINATO, DA INQUADRARE NELL'AREA III/F1, O CATEGORIE O LIVELLI EQUIPARATI, NEL PROFILO DI FUNZIONARIO AMMINISTRATIVO NEI RUOLI DI DIVERSE AMMINISTRAZIONI - ANNULLAMENTO NUOVA GRADUATORIA E ASSEGNAZIONE SEDI
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
