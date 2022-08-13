@@ -1,0 +1,19 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la legge 17 maggio 1999, n. 144, ed in particolare l'articolo 45, comma 1, lettera a), numeri 1) e 2), che, al fine di realizzare il riordino del sistema degli incentivi all'occupazione e degli ammortizzatori sociali, prescrive di procedere alla revisione dei criteri per l'accertamento dei requisiti individuali di appartenenza dei soggetti alle diverse categorie, allo scopo di renderli piu' adeguati alla valutazione ed al controllo dell'effettiva situazione di disagio;
+
+Visto il decreto legislativo 23 dicembre 1997, n. 469, ed in particolare l'articolo 1, comma 1, che riserva allo Stato l'esercizio di un ruolo generale di indirizzo, promozione e coordinamento in materia di collocamento e politiche attive del lavoro;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 25 febbraio 2000;
+
+Visto il parere della Conferenza unificata istituita ai sensi del decreto legislativo 28 agosto 1997, n. 281;
+
+Acquisiti i pareri delle competenti Commissioni permanenti del Senato della Repubblica e della Camera dei deputati;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 aprile 2000;
+
+Sulla proposta del Ministro del lavoro e della previdenza sociale, di concerto con il Ministro del tesoro, del bilancio e della programmazione economica;
+
+Emana il seguente decreto legislativo:
