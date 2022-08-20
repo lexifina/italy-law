@@ -1,0 +1,35 @@
+Art. 38-bis.
+
+(( (Definizione di vendite a distanza). ))
+
+1.
+
+((Per vendite a distanza intracomunitarie di beni si intendono le cessioni di beni spediti o trasportati dal fornitore o per suo conto, anche quando il fornitore interviene indirettamente nel trasporto o nella spedizione dei beni, a partire da uno Stato membro diverso da quello di arrivo della spedizione o del trasporto a destinazione di persone fisiche non soggetti d'imposta o a destinazione dei soggetti nei cui confronti sono effettuate cessioni non imponibili ai sensi dell'articolo 72 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ovvero, con esclusione dei beni soggetti ad accisa, a destinazione di cessionari, soggetti passivi o non soggetti passivi, che non sono tenuti ad applicare l'imposta sugli acquisti intracomunitari e che non hanno optato per l'applicazione della stessa.))
+
+2.
+
+((Per vendite a distanza di beni importati da territori terzi o paesi terzi si intendono le cessioni di beni spediti o trasportati dal fornitore o per suo conto, anche quando il fornitore interviene indirettamente nel trasporto o nella spedizione dei beni, da un territorio terzo o paese terzo con arrivo della spedizione o del trasporto in uno Stato membro dell'Unione europea a destinazione di persone fisiche non soggetti d'imposta o a destinazione dei soggetti nei cui confronti sono effettuate cessioni non imponibili ai sensi dell'articolo 72 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ovvero, con esclusione dei beni soggetti ad accisa, a destinazione di cessionari, soggetti passivi o non soggetti passivi, che non sono tenuti ad applicare l'imposta sugli acquisti intracomunitari e che non hanno optato per l'applicazione della stessa.))
+
+3.
+
+((Le disposizioni dei commi 1 e 2 non si applicano:))
+
+a)
+
+((alle cessioni di mezzi di trasporto nuovi;))
+
+b)
+
+((alle cessioni di beni da installare, montare o assiemare a cura del fornitore o per suo conto nello Stato di arrivo della spedizione o del trasporto.))
+
+4.
+
+((Per le cessioni di cui all'articolo 2-bis del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, la spedizione o il trasporto dei beni sono imputati alle cessioni effettuate dal soggetto passivo che facilita le stesse tramite l'uso di un'interfaccia elettronica)).
+
+((51))
+
+-------------
+
+AGGIORNAMENTO (51)
+
+Il D.Lgs. 25 maggio 2021, n. 83 ha disposto (con l'art. 10, comma 1) che la presente modifica si applica "alle operazioni, disciplinate dal decreto stesso, effettuate a partire dal 1° luglio 2021".
