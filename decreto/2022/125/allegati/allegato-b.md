@@ -1,0 +1,7 @@
+Allegato B
+
+(art. 1, comma 4)
+
+SCHEDA TECNICA DEL MODELLO STANDARD DI GARANZIA FIDEIUSSORIA
+
+Parte di provvedimento in formato grafico
