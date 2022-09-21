@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza collegiale n. 8125/2022
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VII
+- Numero provvedimento: 202208125
+- Numero di ricorso (NRG): 202204956
+- Data di pubblicazione: 2022-09-21
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA IMPROCEDIBILE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-06-15
+- Oggetto del ricorso: MANCATA AMMISSIONE AL CORSO DI LAUREA IN MEDICINA E CHIRURGIA, ODONTOIATRIA E PROTESI DENTARIA, PER L’A.A. 2021/2022 - ISTANZA ACCESSO AI DOCUMENTI
+- Tipo di ricorso: APPELLO AVVERSO ORDINANZA CAUTELARE
+- Membri del collegio: 5
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
