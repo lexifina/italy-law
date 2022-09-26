@@ -1,0 +1,19 @@
+# TAR LAZIO - LATINA, decreto cautelare n. 307/2022
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - LATINA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202200307
+- Numero di ricorso (NRG): 202200529
+- Data di pubblicazione: 2022-09-26
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-09-22
+- Oggetto del ricorso: ANNULLA PROVVEDIMENTO DI AGGIUDICAZIONE IN FAVORE DELLA SOCIETÀ INNOVA S.P.A. DI CUI ALLA DETERMINAZIONE N. 1355 DELL'1.8.2022 (PROT. N. 0053553) - CIG: 916295018C (EX CIG 9010243FBA), COMUNICATO CON NOTA PROT. 0053758 IN DATA 2.8.2022, INERENTE L'AFFIDAMENTO DEL SERVIZIO DI RISTORAZIONE SCOLASTICA A RIDOTTO IMPATTO AMBIENTALE NELLE SCUOLE DELL'INFANZIA, PRIMARIE E SECONDARIE SITE NEL COMUNE DI TERRACINA.
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-latina-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/c5788dce-5064-4cb8-a911-32f666600891/resource/46cbcbb2-e7b5-4254-b319-195c70a82991/download/tar-lazio-latina-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
