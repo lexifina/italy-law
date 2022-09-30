@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 900/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202200900
+- Numero di ricorso (NRG): 202101121
+- Data di pubblicazione: 2022-09-30
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-12-06
+- Oggetto del ricorso: DELL'INTIMAZIONE DI PAGAMENTO 110 2021 90007024 71/000 DELL'IMPORTO DI € 971.540,47 CON RIFERIMENTO ALLE ANNATE LATTIERO CASEARIA 1999/2000, 2003/2004, 2004/2005, 2005/2006, 2007/2008, 2008/2009 E DELL'INTIMAZIONE DI PAGAMENTO 110 2021 90007054 08/000 DELL'IMPORTO DI € 348.764,29 CON RIFERIMENTO ALL'ANNATA LATTIERO CASEARIA 2007/2008, ENTRAMBE NOTIFICATE VIA PEC IN DATA SUCCESSIVA AL 14.10.2021
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/f2ec66a2-b21a-46e2-878f-a98d3e15c365/download/tar-piemonte-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
