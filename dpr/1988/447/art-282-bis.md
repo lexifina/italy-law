@@ -20,7 +20,7 @@ Puo' ordinare, se necessario, che l'assegno sia versato direttamente al benefici
 
 I provvedimenti di cui ai commi 2 e 3 possono essere assunti anche successivamente al provvedimento di cui al comma 1, sempre che questo non sia stato revocato o non abbia comunque perduto efficacia.
 
-Essi, anche se assunti successivamente, perdono efficacia se e' revocato o perde comunque efficacia il provvedimento di cui al comma 1. Il provvedimento di cui al comma 3, se a favore del coniuge o dei figli, perde efficacia, inoltre, qualora sopravvenga l'ordinanza prevista dall'articolo 708 del codice di procedura civile ovvero altro provvedimento del giudice civile in ordine ai rapporti economico-patrimoniali tra i coniugi ovvero al mantenimento dei figli.
+Essi, anche se assunti successivamente, perdono efficacia se e' revocato o perde comunque efficacia il provvedimento di cui al comma 1. Il provvedimento di cui al comma 3, se a favore del coniuge o dei figli, perde efficacia, inoltre, qualora sopravvenga ((un)) provvedimento del giudice civile in ordine ai rapporti economico-patrimoniali tra i coniugi ovvero al mantenimento dei figli. ((290))
 
 5.
 
@@ -28,4 +28,10 @@ Il provvedimento di cui al comma 3 puo' essere modificato se mutano le condizion
 
 6.
 
-Qualora si proceda per uno dei delitti previsti dagli articoli 570, 571, ((572,)) 582, limitatamente alle ipotesi procedibili d'ufficio o comunque aggravate, 600, 600-bis, 600-ter, 600-quater, 600-septies.1, 600-septies.2, 601, 602, 609-bis, 609-ter, 609-quater, 609-quinquies , 609-octies e 612, secondo comma, ((612-bis,)) del codice penale, commesso in danno dei prossimi congiunti o del convivente, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 280 , anche con le modalita' di controllo previste all'articolo 275-bis.
+Qualora si proceda per uno dei delitti previsti dagli articoli 570, 571, 572, 582, limitatamente alle ipotesi procedibili d'ufficio o comunque aggravate, 600, 600-bis, 600-ter, 600-quater, 600-septies.1, 600-septies.2, 601, 602, 609-bis, 609-ter, 609-quater, 609-quinquies , 609-octies e 612, secondo comma, 612-bis, del codice penale, commesso in danno dei prossimi congiunti o del convivente, la misura puo' essere disposta anche al di fuori dei limiti di pena previsti dall'articolo 280 , anche con le modalita' di controllo previste all'articolo 275-bis.
+
+---------------
+
+AGGIORNAMENTO (290)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 36, comma 1) che "Le disposizioni di cui all'articolo 5 si applicano a decorrere dal 30 giugno 2023".
