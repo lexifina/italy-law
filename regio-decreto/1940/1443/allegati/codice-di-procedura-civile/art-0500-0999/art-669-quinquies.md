@@ -2,11 +2,7 @@ Art. 669-quinquies.
 
 (Competenza in caso di clausola compromissoria, il compromesso e di dipendenza del giudizio arbitrale)
 
-Se la controversia e' oggetto di clausola compromissoria o e' compromessa in arbitri ((anche non rituali)) o se e' pendente il giudizio arbitrale, la domanda si propone al giudice che sarebbe stato competente a conoscere del merito. (67) (72) ((113a))
-
-((115))
-
-((116))
+Se la controversia e' oggetto di clausola compromissoria o e' compromessa in arbitri anche non rituali o se e' pendente il giudizio arbitrale, la domanda si propone al giudice che sarebbe stato competente a conoscere del merito ((, salvo quanto disposto dall'articolo 818, primo comma)). (67) (72) (113a) (115) (116) ((171))
 
 ---------------
 
@@ -41,3 +37,11 @@ Il D.L. 14 marzo 2005, n. 35 convertito con modificazioni dalla L. 14 maggio 200
 AGGIORNAMENTO (116)
 
 Il D.L. 14 marzo 2005, n. 35 convertito con modificazioni dalla L. 14 maggio 2005, n. 80 come modificato dal D.L. 30 dicembre 2005, n. 273 convertito con modificazioni dalla L. 23 febbraio 2006, n. 51 ha disposto (con l'art. 2, comma 3-quinquies) che "Le disposizioni di cui ai commi 3, lettere b-bis), b-ter), c-bis), c-ter), c-quater), c-quinquies), e-bis) ed e-ter), 3-bis, e 3-ter, lettera a), entrano in vigore il 1° marzo 2006 e si applicano ai procedimenti instaurati successivamente a tale data di entrata in vigore."
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".

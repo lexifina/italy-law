@@ -2,23 +2,11 @@ Art. 669-decies.
 
 (Revoca e modifica)
 
-((Salvo che sia stato proposto reclamo ai sensi dell'articolo 669-terdecies, nel corso dell'istruzione il giudice istruttore della causa di merito puo', su istanza di parte, modificare o revocare con ordinanza il provvedimento cautelare, anche se emesso anteriormente alla causa, se si verificano mutamenti nelle circostanze o se si allegano fatti anteriori di cui si e' acquisita conoscenza successivamente al provvedimento cautelare.In tale caso, l'istante deve fornire la prova del momento in cui ne e' venuto a conoscenza.))
+Salvo che sia stato proposto reclamo ai sensi dell'articolo 669-terdecies, nel corso dell'istruzione il giudice istruttore della causa di merito puo', su istanza di parte, modificare o revocare con ordinanza il provvedimento cautelare, anche se emesso anteriormente alla causa, se si verificano mutamenti nelle circostanze o se si allegano fatti anteriori di cui si e' acquisita conoscenza successivamente al provvedimento cautelare.In tale caso, l'istante deve fornire la prova del momento in cui ne e' venuto a conoscenza. (113a) (115) (116)
 
-((113a))
+Quando il giudizio di merito non sia iniziato o sia stato dichiarato estinto, la revoca e la modifica dell'ordinanza di accoglimento, esaurita l'eventuale fase del reclamo proposto ai sensi dell'articolo 669-terdecies, possono essere richieste al giudice che ha provveduto sull'istanza cautelare se si verificano mutamenti nelle circostanze o se si allegano fatti anteriori di cui si e' acquisita conoscenza successivamente al provvedimento cautelare. In tale caso l'istante deve fornire la prova del momento in cui ne e' venuto a conoscenza (113a) (115) (116)
 
-((115))
-
-((116))
-
-((Quando il giudizio di merito non sia iniziato o sia stato dichiarato estinto, la revoca e la modifica dell'ordinanza di accoglimento, esaurita l'eventuale fase del reclamo proposto ai sensi dell'articolo 669-terdecies, possono essere richieste al giudice che ha provveduto sull'istanza cautelare se si verificano mutamenti nelle circostanze o se si allegano fatti anteriori di cui si e' acquisita conoscenza successivamente al provvedimento cautelare. In tale caso l'istante deve fornire la prova del momento in cui ne e' venuto a conoscenza))
-
-((113a))
-
-((115))
-
-((116))
-
-Se la causa di merito e' devoluta alla giurisdizione di un giudice straniero o ad arbitrato, ovvero se l'azione civile e' stata esercitata o trasferita nel processo penale, i provvedimenti previsti dal presente articolo devono essere richiesti dal giudice che ha emanato il provvedimento cautelare. (67) (72)
+Se la causa di merito e' devoluta alla giurisdizione di un giudice straniero o ad arbitrato, ovvero se l'azione civile e' stata esercitata o trasferita nel processo penale, i provvedimenti previsti dal presente articolo devono essere richiesti dal giudice che ha emanato il provvedimento cautelare ((, salvo quanto disposto dall'articolo 818, primo comma)). (67) (72) ((171))
 
 ---------------
 
@@ -53,3 +41,11 @@ Il D.L. 14 marzo 2005, n. 35 convertito con modificazioni dalla L. 14 maggio 200
 AGGIORNAMENTO (116)
 
 Il D.L. 14 marzo 2005, n. 35 convertito con modificazioni dalla L. 14 maggio 2005, n. 80 come modificato dal D.L. 30 dicembre 2005, n. 273 convertito con modificazioni dalla L. 23 febbraio 2006, n. 51 ha disposto (con l'art. 2, comma 3-quinquies) che "Le disposizioni di cui ai commi 3, lettere b-bis), b-ter), c-bis), c-ter), c-quater), c-quinquies), e-bis) ed e-ter), 3-bis, e 3-ter, lettera a), entrano in vigore il 1° marzo 2006 e si applicano ai procedimenti instaurati successivamente a tale data di entrata in vigore."
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".

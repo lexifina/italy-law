@@ -1,14 +1,14 @@
 Art. 380-bis
 
-(( (Procedimento per la decisione in camera di consiglio sull'inammissibilita' o sulla manifesta fondatezza o infondatezza del ricorso). ))
+(( (Procedimento per la decisione accelerata dei ricorsi inammissibili, improcedibili o manifestamente infondati). ))
 
-((Nei casi previsti dall'articolo 375, primo comma, numeri 1) e 5), su proposta del relatore della sezione indicata nell'articolo 376, primo comma, il presidente fissa con decreto l'adunanza della Corte indicando se e' stata ravvisata un'ipotesi di inammissibilita', di manifesta infondatezza o di manifesta fondatezza del ricorso.
+((Se non e' stata ancora fissata la data della decisione, il presidente della sezione o un consigliere da questo delegato puo' formulare una sintetica proposta di definizione del giudizio, quando ravvisa la inammissibilita', improcedibilita' o manifesta infondatezza del ricorso principale e di quello incidentale eventualmente proposto. La proposta e' comunicata ai difensori delle parti.
 
-Almeno venti giorni prima della data stabilita per l'adunanza, il decreto e' notificato agli avvocati delle parti, i quali hanno facolta' di presentare memorie non oltre cinque giorni prima.
+Entro quaranta giorni dalla comunicazione la parte ricorrente, con istanza sottoscritta dal difensore munito di una nuova procura speciale, puo' chiedere la decisione. In mancanza, il ricorso si intende rinunciato e la Corte provvede ai sensi dell'articolo 391.
 
-Se ritiene che non ricorrano le ipotesi previste dall'articolo 375, primo comma, numeri 1) e 5), la Corte in camera di consiglio rimette la causa alla pubblica udienza della sezione semplice)).
+Se entro il termine indicato al secondo comma la parte chiede la decisione, la Corte procede ai sensi dell'articolo 380-bis.1 e quando definisce il giudizio in conformita' alla proposta applica il terzo e il quarto comma dell'articolo 96.))
 
-((152))
+((171))
 
 ------------
 
@@ -21,3 +21,13 @@ Il D.L. 21 giugno 2013, n. 69 convertito con modificazioni dalla L. 9 agosto 201
 AGGIORNAMENTO (152)
 
 Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, ha disposto (con l'art. 1-bis, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati successivamente alla data di entrata in vigore della legge di conversione del presente decreto, nonche' a quelli gia' depositati alla medesima data per i quali non e' stata fissata udienza o adunanza in camera di consiglio".
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+Ha inoltre disposto (con l'art. 35, comma 7) che "Gli articoli 372, 375, 376, 377, 378, 379, 380, 380-bis, 380-bis.1, 380-ter, 390 e 391-bis del codice di procedura civile, come modificati o abrogati dal presente decreto, si applicano anche ai giudizi introdotti con ricorso gia' notificato alla data del 1° gennaio 2023 per i quali non e' stata ancora fissata udienza o adunanza in camera di consiglio".

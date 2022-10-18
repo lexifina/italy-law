@@ -1,19 +1,25 @@
 Art. 348-bis
 
-(( Inammissibilita' dell'appello. ))
+(( (Inammissibilita' e manifesta infondatezza dell'appello). ))
 
-((Fuori dei casi in cui deve essere dichiarata con sentenza l'inammissibilita' o l'improcedibilita' dell'appello, l'impugnazione e' dichiarata inammissibile dal giudice competente quando non ha una ragionevole probabilita' di essere accolta.
+((Quando ravvisa che l'impugnazione e' inammissibile o manifestamente infondata, il giudice dispone la discussione orale della causa secondo quanto previsto dall'articolo 350-bis.
 
-Il primo comma non si applica quando:
+Se e' proposta impugnazione incidentale, si provvede ai sensi del primo comma solo quando i presupposti ivi indicati ricorrono sia per l'impugnazione principale che per quella incidentale. In mancanza, il giudice procede alla trattazione di tutte le impugnazioni comunque proposte contro la sentenza.))
 
-a) l'appello e' proposto relativamente a una delle cause di cui all'articolo 70, primo comma;
-
-b) l'appello e' proposto a norma dell'articolo 702-quater.))
-
-((136))
+((171))
 
 --------------
 
 AGGIORNAMENTO (136)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 54, comma 2) che l'introduzione del presente articolo si applica ai giudizi di appello introdotti con ricorso depositato o con citazione di cui sia stata richiesta la notificazione dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del decreto medesimo.
+
+-----------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+Ha inoltre disposto (con l'art. 35, comma 5) che "Le norme di cui ai capi I e II del titolo III del libro secondo del codice di procedura civile, come modificate dal presente decreto, si applicano alle impugnazioni proposte avverso le sentenze depositate successivamente al 30 giugno 2023".

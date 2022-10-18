@@ -1,0 +1,17 @@
+Art. 473-bis.65
+
+(( (Vendita di beni). ))
+
+((Se, nell'autorizzare la vendita di beni di minori, interdetti o inabilitati, il tribunale stabilisce che essa deve farsi ai pubblici incanti, designa per procedervi un ufficiale giudiziario del tribunale del luogo in cui si trovano i beni mobili, oppure un cancelliere della stessa pretura o un notaio del luogo in cui si trovano i beni immobili.
+
+L'ufficiale designato per la vendita procede all'incanto con l'osservanza delle norme degli articoli 534 e seguenti, in quanto applicabili, e premesse le forme di pubblicita' ordinate dal tribunale.))
+
+((171))
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".

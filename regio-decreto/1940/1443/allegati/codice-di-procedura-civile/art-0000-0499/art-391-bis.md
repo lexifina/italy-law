@@ -2,13 +2,13 @@ Art. 391-bis.
 
 (Correzione degli errori materiali e revocazione delle sentenze della Corte di Cassazione)
 
-((Se la sentenza o l'ordinanza pronunciata dalla Corte di cassazione e' affetta da errore materiale o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione puo' essere chiesta, e puo' essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione puo' essere chiesta entro il termine perentorio di sessanta giorni dalla notificazione ovvero di sei mesi dalla pubblicazione del provvedimento)). ((152))
+((Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale)) o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione puo' essere chiesta, e puo' essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione puo' essere chiesta entro il termine perentorio di sessanta giorni dalla notificazione ovvero di sei mesi dalla pubblicazione del provvedimento. (152)((171))
 
-((Sulla correzione la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma)). ((152))
+Sulla correzione la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma. (152)
 
 Sul ricorso per correzione dell'errore materiale pronuncia con ordinanza.
 
-((Sul ricorso per revocazione, anche per le ipotesi regolate dall'articolo 391-ter, la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma, se ritiene l'inammissibilita', altrimenti rinvia alla pubblica udienza della sezione semplice)). ((152))
+Sul ricorso per revocazione, anche per le ipotesi regolate dall'articolo 391-ter, la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma, se ritiene l'inammissibilita', altrimenti rinvia alla pubblica udienza della sezione semplice. (152)
 
 La pendenza del termine per la revocazione della sentenza della Corte di Cassazione non impedisce il passaggio il giudicato della sentenza impugnata con ricorso per cassazione respinto.
 
@@ -45,3 +45,13 @@ La Corte Costituzionale, con sentenza 8 - 9 luglio 2009, n. 207 (in G.U. 1a s.s.
 AGGIORNAMENTO (152)
 
 Il D.L. 31 agosto 2016, n. 168, convertito con modificazioni dalla L. 25 ottobre 2016, n. 197, ha disposto (con l'art. 1-bis, comma 2) che "Le disposizioni di cui al comma 1 si applicano ai ricorsi depositati successivamente alla data di entrata in vigore della legge di conversione del presente decreto, nonche' a quelli gia' depositati alla medesima data per i quali non e' stata fissata udienza o adunanza in camera di consiglio".
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+Ha inoltre disposto (con l'art. 35, comma 7) che "Gli articoli 372, 375, 376, 377, 378, 379, 380, 380-bis, 380-bis.1, 380-ter, 390 e 391-bis del codice di procedura civile, come modificati o abrogati dal presente decreto, si applicano anche ai giudizi introdotti con ricorso gia' notificato alla data del 1° gennaio 2023 per i quali non e' stata ancora fissata udienza o adunanza in camera di consiglio".

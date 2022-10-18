@@ -1,12 +1,14 @@
 Art. 534-ter.
 
-(Ricorso al giudice dell'esecuzione).
+(( (Ricorso al giudice dell'esecuzione). ))
 
-Quando, nel corso delle operazioni di vendita, insorgono difficolta' il professionista delegato ((o il commissionario possono)) rivolgersi al giudice dell'esecuzione, il quale provvede con decreto. Le parti e gli interessati possono proporre reclamo avverso il predetto decreto ed avverso gli atti del professionista ((o del commissionario)) con ricorso allo stesso giudice, il quale provvede con ordinanza; il ricorso non sospende le operazioni di vendita salvo che il giudice, concorrendo gravi motivi, disponga la sospensione.(115) (116) ((148))
+((Quando, nel corso delle operazioni di vendita, insorgono difficolta' il professionista delegato o il commissionario possono rivolgersi al giudice dell'esecuzione, il quale provvede con decreto.
 
-((Contro il provvedimento del giudice e' ammesso il reclamo ai sensi dell'articolo 669-terdecies.))
+Avverso gli atti del professionista delegato o del commissionario e' ammesso reclamo delle parti e degli interessati, da proporre con ricorso al giudice dell'esecuzione nel termine perentorio di venti giorni dal compimento dell'atto o dalla sua conoscenza. Il ricorso non sospende le operazioni di vendita, salvo che il giudice dell'esecuzione, concorrendo gravi motivi, disponga la sospensione.
 
-((148))
+Sul reclamo di cui al secondo comma, il giudice dell'esecuzione provvede con ordinanza, avverso la quale e' ammessa l'opposizione ai sensi dell'articolo 617.))
+
+((171))
 
 --------------
 
@@ -25,3 +27,11 @@ Il D.L.14 marzo 2005, n. 35,convertito con modificazioni dalla L. 14 maggio 2005
 AGGIORNAMENTO (148)
 
 Il D.L. 27 giugno 2015, n. 83, convertito con modificazioni dalla L. 6 agosto 2015, n. 132, ha disposto (con l'art. 23, comma 9) che "Le disposizioni di cui all'articolo 13, diverse da quelle indicate nel presente articolo, si applicano anche ai procedimenti pendenti alla data di entrata in vigore del presente decreto. Quando e' gia' stata disposta la vendita, la stessa ha comunque luogo con l'osservanza delle norme precedentemente in vigore e le disposizioni di cui al presente decreto si applicano quando il giudice o il professionista delegato dispone una nuova vendita".
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".

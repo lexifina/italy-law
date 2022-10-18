@@ -2,11 +2,13 @@ Art. 163-bis.
 
 (Termini per comparire).
 
-Tra il giorno della notificazione della citazione e quello dell'udienza di comparizione debbono intercorrere termini liberi non minori di ((novanta giorni)) se il luogo della notificazione si trova in Italia e di ((centocinquanta giorni)) se si trova all'estero.(67)(72)((116))
+Tra il giorno della notificazione della citazione e quello dell'udienza di comparizione debbono intercorrere termini liberi non minori di ((centoventi)) giorni se il luogo della notificazione si trova in Italia e di centocinquanta giorni se si trova all'estero.(67)(72)(116) ((171))
 
 Nelle cause che richiedono pronta spedizione il presidente puo', su istanza dell'attore e con decreto motivato in calce dell'atto originale e delle copie della citazione, abbreviare fino alla meta' i termini indicati dal primo comma.
 
-Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, almeno cinque giorni liberi prima dell'udienza fissata dal presidente.
+Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, almeno cinque giorni liberi prima dell'udienza fissata dal presidente. ((In questo caso i termini di cui all'articolo 171-ter decorrono dall'udienza cosi' fissata.))
+
+((171))
 
 ---------------
 
@@ -33,3 +35,11 @@ La L. 26 novembre 1990, n. 353, come modificata dal D.L. 7 ottobre 1994, n. 571,
 AGGIORNAMENTO (116)
 
 La L. 28 dicembre 2005, n. 263, come modificata dal D.L. 30 dicembre 2005, n. 273 convertito, con modificazioni, dalla L. 23 febbraio 2006, n. 51, ha disposto (con l'art. 2, comma 4) che "Le disposizioni dei commi 1, 2 e 3 entrano in vigore il 1° marzo 2006 e si applicano ai procedimenti instaurati successivamente a tale data di entrata in vigore.".
+
+-----------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".

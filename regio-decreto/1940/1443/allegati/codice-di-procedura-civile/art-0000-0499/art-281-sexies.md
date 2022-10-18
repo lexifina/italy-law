@@ -6,7 +6,11 @@ Se non dispone a norma dell'articolo 281-quinquies, il giudice, fatte precisare 
 
 In tal caso, la sentenza si intende pubblicata con la sottoscrizione da parte del giudice del verbale che la contiene ed e' immediatamente depositata in cancelleria.
 
-(88) ((90))
+((Al termine della discussione orale il giudice, se non provvede ai sensi del primo comma, deposita la sentenza nei successivi trenta giorni.))
+
+((171))
+
+(88) (90)
 
 ------------
 
@@ -19,3 +23,11 @@ Il D.Lgs. 19 febbraio 1998, n. 51 ha disposto (con l'art. 247, comma 1) che "Il 
 AGGIORNAMENTO (90)
 
 Il D.Lgs. 19 febbraio 1998, n. 51, come modificato dalla L. 16 giugno 1998, n. 188, ha disposto (con l'art. 247, comma 1) che "Il presente decreto legislativo entra in vigore il giorno successivo alla sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana e diventa efficace a decorrere dal 2 giugno 1999, fatta eccezione per le disposizioni previste dagli articoli 17, 33, comma 1, 38, comma 1 e 40, commi 1 e 3".
+
+-----------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".

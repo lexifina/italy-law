@@ -1,13 +1,21 @@
 Art. 436-bis
 
-(( (Inammissibilita' dell'appello e pronuncia). ))
+(( (Inammissibilita', improcedibilita', manifesta fondatezza o infondatezza dell'appello). ))
 
-((All'udienza di discussione si applicano gli articoli 348-bis e 348-ter)).
+((Nei casi previsti dagli articoli 348, 348-bis e 350, terzo comma, all'udienza di discussione il collegio, sentiti i difensori delle parti, pronuncia sentenza dando lettura del dispositivo e della motivazione redatta in forma sintetica, anche mediante esclusivo riferimento al punto di fatto o alla questione di diritto ritenuti risolutivi o mediante rinvio a precedenti conformi.))
 
-((136))
+((171))
 
 --------------
 
 AGGIORNAMENTO (136)
 
 Il D.L. 22 giugno 2012, n. 83, convertito con modificazioni dalla L. 7 agosto 2012, n. 134, ha disposto (con l'art. 54, comma 2) che l'introduzione del presente articolo si applica ai giudizi di appello introdotti con ricorso depositato o con citazione di cui sia stata richiesta la notificazione dal trentesimo giorno successivo a quello di entrata in vigore della legge di conversione del decreto medesimo.
+
+---------------
+
+AGGIORNAMENTO (171)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
