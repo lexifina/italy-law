@@ -1,10 +1,10 @@
 Art. 337-ter.
 
-((Provvedimenti riguardo ai figli))
+Provvedimenti riguardo ai figli
 
-((Il figlio minore ha il diritto di mantenere un rapporto equilibrato e continuativo con ciascuno dei genitori, di ricevere cura, educazione, istruzione e assistenza morale da entrambi e di conservare rapporti significativi con gli ascendenti e con i parenti di ciascun ramo genitoriale.
+Il figlio minore ha il diritto di mantenere un rapporto equilibrato e continuativo con ciascuno dei genitori, di ricevere cura, educazione, istruzione e assistenza morale da entrambi e di conservare rapporti significativi con gli ascendenti e con i parenti di ciascun ramo genitoriale.
 
-Per realizzare la finalita' indicata dal primo comma, nei procedimenti di cui all'articolo 337-bis, il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale di essa. Valuta prioritariamente la possibilita' che i figli minori restino affidati a entrambi i genitori oppure stabilisce a quale di essi i figli sono affidati, determina i tempi e le modalita' della loro presenza presso ciascun genitore, fissando altresi' la misura e il modo con cui ciascuno di essi deve contribuire al mantenimento, alla cura, all'istruzione e all'educazione dei figli. Prende atto, se non contrari all'interesse dei figli, degli accordi intervenuti tra i genitori. Adotta ogni altro provvedimento relativo alla prole, ivi compreso, in caso di temporanea impossibilita' di affidare il minore ad uno dei genitori, l'affidamento familiare. All'attuazione dei provvedimenti relativi all'affidamento della prole provvede il giudice del merito e, nel caso di affidamento familiare, anche d'ufficio. A tal fine copia del provvedimento di affidamento e' trasmessa, a cura del pubblico ministero, al giudice tutelare.
+Per realizzare la finalita' indicata dal primo comma, nei procedimenti di cui all'articolo 337-bis, il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale di essa. Valuta prioritariamente la possibilita' che i figli minori restino affidati a entrambi i genitori oppure stabilisce a quale di essi i figli sono affidati, determina i tempi e le modalita' della loro presenza presso ciascun genitore, fissando altresi' la misura e il modo con cui ciascuno di essi deve contribuire al mantenimento, alla cura, all'istruzione e all'educazione dei figli. Prende atto, se non contrari all'interesse dei figli, degli accordi intervenuti tra i genitori ((, in particolare qualora raggiunti all'esito di un percorso di mediazione familiare)). Adotta ogni altro provvedimento relativo alla prole, ivi compreso, in caso di temporanea impossibilita' di affidare il minore ad uno dei genitori, l'affidamento familiare. All'attuazione dei provvedimenti relativi all'affidamento della prole provvede il giudice del merito e, nel caso di affidamento familiare, anche d'ufficio ((o su richiesta del pubblico ministero)). A tal fine copia del provvedimento di affidamento e' trasmessa, a cura del pubblico ministero, al giudice tutelare. ((321))
 
 La responsabilita' genitoriale e' esercitata da entrambi i genitori. Le decisioni di maggiore interesse per i figli relative all'istruzione, all'educazione, alla salute e alla scelta della residenza abituale del minore sono assunte di comune accordo tenendo conto delle capacita', dell'inclinazione naturale e delle aspirazioni dei figli. In caso di disaccordo la decisione e' rimessa al giudice.
 
@@ -24,4 +24,12 @@ Salvo accordi diversi liberamente sottoscritti dalle parti, ciascuno dei genitor
 
 L'assegno e' automaticamente adeguato agli indici ISTAT in difetto di altro parametro indicato dalle parti o dal giudice.
 
-Ove le informazioni di carattere economico fornite dai genitori non risultino sufficientemente documentate, il giudice dispone un accertamento della polizia tributaria sui redditi e sui beni oggetto della contestazione, anche se intestati a soggetti diversi.))
+Ove le informazioni di carattere economico fornite dai genitori non risultino sufficientemente documentate, il giudice dispone un accertamento della polizia tributaria sui redditi e sui beni oggetto della contestazione, anche se intestati a soggetti diversi.
+
+--------------
+
+AGGIORNAMENTO (321)
+
+Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+
+Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
