@@ -1,0 +1,125 @@
+Allegato V
+
+Art. 3, comma 1, lett. e).
+
+Disposizioni relative ai procedimenti di competenza del Ministero della transizione ecologica
+
+1. Emissione acustica ambientale delle macchine e attrezzature destinate a funzionare all'aperto.
+
+- direttiva 2000/14/CE del Parlamento europeo e del Consiglio, dell'8 maggio 2000, sul ravvicinamento delle legislazioni degli Stati membri concernenti l'emissione acustica ambientale delle macchine e attrezzature destinate a funzionare all'aperto.
+
+- decreto legislativo 4 settembre 2002 n. 262.
+
+- Amministrazioni con competenza concorrente: Ministero della transizione ecologica, Ministero dello sviluppo economico e Ministero della Salute.
+
+2. Equipaggiamento marittimo.
+
+- direttiva 2014/90/UE del Parlamento europeo e del Consiglio, del 23 luglio 2014, sull'equipaggiamento marittimo e che abroga la direttiva 96/98/CE del Consiglio.
+
+- decreto del Presidente della Repubblica 20 dicembre 2017, n. 239.
+
+- Amministrazioni con competenza concorrente: Ministero delle infrastrutture e della mobilita' sostenibili, Ministero dello sviluppo economico e Ministero della transizione ecologica, Ministero dell'interno dell'interno - Corpo nazionale dei Vigili del fuoco per gli aspetti attinenti alla sicurezza antincendio.
+
+3. Sostanze chimiche.
+
+- regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l'autorizzazione e la restrizione delle sostanze chimiche (REACH), che istituisce un'Agenzia europea per le sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio e il regolamento (CE) n. 1488/94 della Commissione, nonche' la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE.
+
+- decreto-legge 15 febbraio 2007, n. 10, convertito, con modificazioni, dalla legge 6 aprile 2007, n. 46, e decreto legislativo 14 settembre 2009, n. 133.
+
+- Amministrazioni con competenza concorrente: Ministero della salute, Ministero transizione ecologica, Ministero dello sviluppo economico.
+
+4. Imballaggi e rifiuti di imballaggio.
+
+- Direttiva 94/62/CE del Parlamento europeo e del Consiglio, del 20 dicembre 1994, sugli imballaggi e i rifiuti di imballaggio, come modificata dalla direttiva (UE) 2018/852 del Parlamento europeo e del Consiglio, del 30 maggio 2018.
+
+- decreto legislativo 3 aprile 2006, n. 152.
+
+- decreto legislativo 3 settembre 2020, n. 116.
+
+5. Benzina e diesel.
+
+- Direttiva 98/70/CE del Parlamento europeo e del Consiglio, del 13 ottobre 1998, relativa alla qualita' della benzina e del combustibile diesel e recante modificazione della direttiva 93/12/CEE del Consiglio.
+
+- Decreto del Presidente del Consiglio di ministri 23 novembre 2000, n. 434 e decreto legislativo 21 marzo 2017, n. 51.
+
+6. Veicoli fuori uso.
+
+- direttiva 2000/53/CE del Parlamento europeo e del Consiglio, del 18 settembre 2000, relativa ai veicoli fuori uso, come modificata dalla direttiva (UE) 2018/849 e dalla direttiva (UE) 2017/2096.
+
+- decreto legislativo 24 giugno 2003, n. 209.
+
+7. Inquinanti organici persistenti.
+
+- regolamento (UE) 2019/1021 del Parlamento europeo e del Consiglio del 20 giugno 2019 relativo agli inquinanti organici persistenti.
+
+- legge 12 luglio 2022, n. 93.
+
+8. Solventi organici.
+
+- direttiva 2004/42/CE del Parlamento europeo e del Consiglio, del 21 aprile 2004, relativa alla limitazione delle emissioni di composti organici volatili dovute all'uso di solventi organici in talune pitture e vernici e in taluni prodotti per carrozzeria e recante modifica della direttiva 1999/13/CE.
+
+- decreto legislativo 27 marzo 2006, n. 161.
+
+9. Sostanze che riducono lo strato di ozono.
+
+- regolamento (CE) n. 1005/2009 del Parlamento europeo e del Consiglio, del 16 settembre 2009, sulle sostanze che riducono lo strato di ozono.
+
+- decreto legislativo 23 settembre 2013 n. 108
+
+10. Marchio di qualita' ecologica dell'Unione europea (Ecolabel UE).
+
+- regolamento (CE) n. 5/2010 del Parlamento europeo e del Consiglio, del 25 novembre 2009, relativo al marchio di qualita' ecologica dell'Unione europea (Ecolabel UE).
+
+- decreto del Ministero dell'ambiente 2 agosto 1995, n. 413.
+
+11. Rifiuti di apparecchiature elettriche ed elettroniche (RAEE).
+
+- direttiva 2012/19/UE del Parlamento europeo e del Consiglio, del 4 luglio 2012, sui rifiuti di apparecchiature elettriche ed elettroniche (RAEE).
+
+- decreto legislativo 14 marzo 2014, n. 49.
+
+12. Gas fluorurati a effetto serra.
+
+- regolamento (UE) n. 517/2014 del Parlamento europeo e del Consiglio, del 16 aprile 2014, sui gas fluorurati a effetto serra e che abroga il regolamento (CE) n. 842/2006.
+
+- Decreto legislativo 5 dicembre 2019, n. 163, e decreto del Presidente della Repubblica 16 novembre 2018, n. 146.
+
+13. Mercurio.
+
+- regolamento (UE) 2017/852 del Parlamento europeo e del Consiglio, del 17 maggio 2017, sul mercurio, che abroga il regolamento (CE) n. 1102/2008.
+
+- decreto legislativo 2 novembre 2021, n. 189.
+
+14. Vetro cristallo.
+
+- direttiva 69/493/CEE del Consiglio, del 15 dicembre 1969, sul ravvicinamento delle legislazioni degli Stati membri relative al vetro cristallo.
+
+- legge 26 novembre 1973, n. 827.
+
+15. Apparecchiature elettriche ed elettroniche Rohs.
+
+- direttiva 2011/65/UE del Parlamento europeo e del Consiglio, dell'8 giugno 2011, sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche.
+
+- decreto legislativo 4 marzo 2014, n. 27, e decreto del Ministero della transizione ecologica 28 dicembre 2021, pubblicato nella Gazzetta ufficiale n. 38 del 15 febbraio 2022.
+
+16. Prodotti connessi all'energia - progettazione ecocompatibile.
+
+- direttiva 2009/125/CE del Parlamento europeo e del Consiglio, del 21 ottobre 2009, relativa all'istituzione di un quadro per l'elaborazione di specifiche per la progettazione ecocompatibile dei prodotti connessi all'energia.
+
+- decreto legislativo 16 febbraio 2011, n. 15.
+
+17. Prodotti connessi all'energia - etichettatura energetica.
+
+- regolamento (UE) 2017/1369 del Parlamento europeo e del Consiglio, del 4 luglio 2017, che istituisce un quadro per l'etichettatura energetica e che abroga la direttiva 2010/30/UE.
+
+- decreto legislativo 28 giugno 2012, n. 104.
+
+18. Nuove caldaie ad acqua calda, alimentate con combustibili liquidi o gassosi.
+
+- direttiva 92/42/CEE del Consiglio, del 21 maggio 1992, concernente i requisiti di rendimento per le nuove caldaie ad acqua calda alimentate con combustibili liquidi o gassosi.
+
+- decreto del Presidente della Repubblica 15 novembre 1996, n. 660.
+
+19. ((Batterie e rifiuti di batterie.
+
+- regolamento (UE) 2023/1542 del Parlamento europeo e del Consiglio, del 12 luglio 2023, relativo alle batterie e ai rifiuti di batterie, che modifica la direttiva 2008/98/CE e il regolamento (UE) 2019/1020 e abroga la direttiva 2006/66/CE.))
