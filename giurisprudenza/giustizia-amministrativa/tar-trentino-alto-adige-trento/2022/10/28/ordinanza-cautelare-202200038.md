@@ -1,0 +1,19 @@
+# TAR TRENTINO ALTO ADIGE - TRENTO, ordinanza cautelare n. 38/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR TRENTINO ALTO ADIGE - TRENTO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202200038
+- Numero di ricorso (NRG): 202200142
+- Data di pubblicazione: 2022-10-28
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-10-04
+- Oggetto del ricorso: RETTIFICA DELLA DELIBERAZIONE DELLA GIUNTA COMUNALE DI ALBIANO N. 80 DI DATA 30.06.2022 AVENTE AD OGGETTO LA REVOCA CONCESSIONE LOTTO CAVA N. 21 LOC. MONTEGAGGIO C.C. ALBIANO, PER VIOLAZIONE DELL'ART. 16 - CESSIONE DELLA CONCESSIONE - DELIBERAZIONE DELLA GIUNTA DEL COMUNE DI ALBIANO N. 114 DI DATA 9 SETTEMBRE 2022
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/trga-trento-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/616948a8-7f01-467f-83c2-1dc0086fe055/resource/e7f6705c-6054-489d-b2c7-b07ea58013c8/download/trga-trento-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
