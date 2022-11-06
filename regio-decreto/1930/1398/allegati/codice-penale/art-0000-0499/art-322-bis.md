@@ -1,8 +1,8 @@
 Art. 322-bis.
 
-(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri).
+(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione ((, abuso d'ufficio)) di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri).
 
-Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comma, si applicano anche:
+Le disposizioni degli articoli 314, 316, da 317 a 320 ((, 322, terzo e quarto comma, e 323)) si applicano anche:
 
 1) ai membri della Commissione delle Comunita' europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei conti delle Comunita' europee;
 
@@ -20,7 +20,7 @@ Le disposizioni degli articoli 314, 316, da 317 a 320 e 322, terzo e quarto comm
 
 5-quater) ai membri delle assemblee parlamentari internazionali o di un'organizzazione internazionale o sovranazionale e ai giudici e funzionari delle corti internazionali.
 
-((5-quinquies) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di Stati non appartenenti all'Unione europea, quando il fatto offende gli interessi finanziari dell'Unione.))
+5-quinquies) alle persone che esercitano funzioni o attivita' corrispondenti a quelle dei pubblici ufficiali e degli incaricati di un pubblico servizio nell'ambito di Stati non appartenenti all'Unione europea, quando il fatto offende gli interessi finanziari dell'Unione.
 
 Le disposizioni degli articoli 319-quater, secondo comma, 321 e 322, primo e secondo comma, si applicano anche se il denaro o altra utilita' e' dato, offerto o promesso:
 
