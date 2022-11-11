@@ -1,0 +1,5 @@
+Art. 36-bis.
+
+1.
+
+Nella circoscrizione di Bolzano gli esami per l'abilitazione all'esercizio della professione forense hanno luogo presso la sezione distaccata in Bolzano della corte d'appello di Trento. Fermo restando quanto previsto ((dalla disciplina legislativa statale vigente)), la commissione esaminatrice e' composta di quattro membri titolari e quattro supplenti, che conoscano adeguatamente la lingua italiana e la lingua tedesca. Due membri devono appartenere al gruppo di lingua italiana e due al gruppo di lingua tedesca. ((Nell'ambito della commissione esaminatrice, il componente docente puo' essere nominato, come membro titolare o supplente, anche tra i docenti di materie giuridiche italiane presso universita' austriache che abbiano concluso un accordo con un'universita' italiana ai sensi dell'accordo tra la Repubblica italiana e la Repubblica d'Austria sulla collaborazione interuniversitaria, firmato a Vienna il 20 agosto 1982, al quale e' stata data esecuzione con il decreto del Presidente della Repubblica 5 febbraio 1983, n. 98.))
