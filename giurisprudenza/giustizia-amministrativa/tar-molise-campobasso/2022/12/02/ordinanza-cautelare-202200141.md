@@ -1,0 +1,19 @@
+# TAR MOLISE - CAMPOBASSO, ordinanza cautelare n. 141/2022
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR MOLISE - CAMPOBASSO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202200141
+- Numero di ricorso (NRG): 202200324
+- Data di pubblicazione: 2022-12-02
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-11-18
+- Oggetto del ricorso: “PROCEDURA APERTA EX REGOLAMENTO N. 1370/2007/CE, PER L'AFFIDAMENTO DEI SERVIZI DI TRASPORTO PUBBLICO LOCALE AUTOMOBILISTICO EXTRAURBANO DEL BACINO TERRITORIALE DELLA REGIONE MOLISE – LOTTO N. 1 CIG: 9340908920 - LOTTO N. 2 CIG: 9340925728”;
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-molise-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/af160744-c413-4ae0-b2c2-75254b1ada7b/resource/b00f680c-3ae6-45b3-a0e6-191a8f25771f/download/tar-molise-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
