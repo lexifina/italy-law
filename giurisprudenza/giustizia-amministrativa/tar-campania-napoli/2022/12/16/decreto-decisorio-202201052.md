@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto decisorio n. 1052/2022
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUINTA
+- Numero provvedimento: 202201052
+- Numero di ricorso (NRG): 202001511
+- Data di pubblicazione: 2022-12-16
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA IMPROCEDIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2020-05-19
+- Oggetto del ricorso: PER L’ANNULLAMENTO, PREVIA SOSPENSIVA: A) DEL DECRETO DIRIGENZIALE N. 95 DEL 15/4/2020, COMUNICATO DALLA REGIONE ALLA SI.RA.L SPA IN DATA 15/4/2020, DI REVOCA DELL’AUTORIZZAZIONE INTEGRATA AMBIENTALE, RILASCIATA CON D.D. N. 613 DEL 13/11/2017 PER L’IMPIANTO IPPC 5.1 SITO IN NOLA (NA) – LOCALITÀ BOSCOFAGONE, ZONA ASI;
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
