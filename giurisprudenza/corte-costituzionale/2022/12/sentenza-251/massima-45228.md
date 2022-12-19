@@ -1,0 +1,26 @@
+# Massima n. 45228
+
+- Pronuncia: Corte costituzionale, sentenza 251/2022 (ECLI:IT:COST:2022:251)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2022:251
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Paesaggio - Pianificazione - Elaborazione del piano paesaggistico - Prevalenza e inderogabilità del piano codeciso sulle previsioni del legislatore regionale - Fondamento - Necessità di assicurare una visione d'insieme del territorio - Necessaria cautela delle regioni a intervenire laddove il piano congiunto non sia stato ancora elaborato (nel caso di specie: illegittimità costituzionale di norma della Regione Lombardia che consente l'ampliamento, nella misura massima del dieci per cento, della superficie lorda dei fabbricati da destinare ad attività agrituristica senza prevedere un'espressa clausola di salvaguardia). (Classif. 170007).
+
+## Testo
+
+I principi di elaborazione congiunta, inderogabilità e prevalenza del piano paesaggistico si impongono al legislatore regionale, il quale non può né esplicitamente derogare ai vincoli della pianificazione paesaggistica, né aggirarli introducendo, in assenza del piano codeciso, previsioni atte a pregiudicare le scelte condivise di tutela che nel piano stesso troveranno necessaria espressione. Il tratto caratterizzante del modello di pianificazione prescritto dal cod. beni culturali è da rinvenirsi nell'elaborazione congiunta dello Stato e della regione, dalla quale deriva l'indiscussa prevalenza del piano paesaggistico così elaborato. ( Precedenti: S. 229/2022- mass. 45121; S. 221/2022 - mass. 45132; S. 192/2022 - mass. 45031; S. 187/2022 - mass. 44957; S. 45/2022 - mass. 44647; S. 24/2022 - mass. 44559; S. 261/2021 - mass. 44443; S. 257/2021 - mass. 44381; S. 251/2021 - mass. 44411; S. 201/2021 - mass.   44229; S. 164/2021; S. 141/2021 - mass. 44016; S. 74/2021 - mass. 43837; S. 54/2021 - mass.   43731; S. 29/2021; S. 276/2020; S. 240/2020 - mass. 43216 ). La prevalenza del piano paesaggistico codeciso tra lo Stato e la regione non costituisce una mera petizione di principio, ma sottende quel dovere di assicurare che tutto il territorio sia adeguatamente conosciuto, salvaguardato, pianificato e gestito in ragione dei differenti valori espressi dai diversi contesti, che rinviene il suo imprescindibile presupposto nella visione d'insieme delle aree da tutelare e dei contesti in cui le medesime sono inserite. ( Precedente: S. 187/2022 ). L'omessa indicazione, da parte di una norma regionale, della espressa necessità di rispettare il piano paesaggistico o il codice di settore non ne determina di per sé l'illegittimità costituzionale ove nella regione sia operante un piano paesaggistico codeciso. Laddove, invece, quest'ultimo non sia stato approvato occorre maggiore cautela nel valutare la portata precettiva delle norme che intersechino profili attinenti con la pianificazione paesaggistica, sicché i ritardi nella elaborazione del detto piano paesaggistico devono essere compensati con l'esplicitazione del necessario rispetto della normativa posta a tutela del paesaggio. ( Precedenti: S. 187/2022 - mass. 44961; S. 24/2022 - mass. 44566; S. 124/2021 - mass. 43936; S. 54/2021 ). (Nel caso di specie, è dichiarato costituzionalmente illegittimo - per violazione dell'art. 117, secondo comma, lett.  s , Cost., in relazione al principio della necessaria copianificazione paesaggistica di cui agli artt. 135, 143 e 145 cod. beni culturali, nonché del principio di leale collaborazione e dell'art. 9 Cost. - l'art. 6, comma 1, lett.  a , della legge reg. Lombardia n. 23 del 2021 che, modificando l'art. 154, comma 3, della legge reg. Lombardia n. 31 del 2008, consente l'ampliamento, nella misura massima del dieci per cento, della superficie lorda dei fabbricati da destinare ad attività agrituristica. La disposizione impugnata dal Governo introduce la possibilità di aumentare la volumetria degli edifici esistenti in zona agricola, senza prevedere una espressa e adeguata clausola di salvaguardia dei beni sottoposti a tutela paesaggistica. Né, nel caso in esame, l'omessa indicazione della espressa necessità di rispettare il piano paesaggistico o il codice di settore può ritenersi compensata dalla possibilità di un'interpretazione rispettosa dei vincoli suddetti, risultando dirimente la circostanza che la pianificazione paesaggistica nella Regione non è rimessa a un piano codeciso, ma al piano territoriale regionale approvato dal Consiglio regionale. La disposizione viola anche l'art. 9 Cost., in ragione dell'evidente abbassamento del livello di tutela paesaggistica derivante da una previsione che estende la possibilità di ampliamento dei fabbricati rurali, senza considerare gli effetti sul paesaggio). ( Precedente: S. 240/2022 - mass. 45215 ).
+
+## Norme
+
+- legge della Regione Lombardia, 16/12/2021 n. 23, art. 6, comma 1 lett. a)
+- legge della Regione Lombardia, 05/12/2008 n. 31, art. 154, comma 3
+
+## Parametri
+
+- Costituzione, art. 9
+- Costituzione, art. 117, comma 2 lett. s)
+- decreto legislativo, 22/01/2004 n. 42, art. 135
+- decreto legislativo, 22/01/2004 n. 42, art. 143
+- decreto legislativo, 22/01/2004 n. 42, art. 145
