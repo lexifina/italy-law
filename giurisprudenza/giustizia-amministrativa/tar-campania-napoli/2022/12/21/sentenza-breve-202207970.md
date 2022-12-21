@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 7970/2022
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUARTA
+- Numero provvedimento: 202207970
+- Numero di ricorso (NRG): 202204878
+- Data di pubblicazione: 2022-12-21
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: NOMINA COMMISSARIO AD ACTA
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2022-10-21
+- Oggetto del ricorso: EL PROVVEDIMENTO DI ASSEGNAZIONE DELLE ORE DI SOSTEGNO, PROT. 3688/IV DEL 18.10.2022, CON CUI IL DIRIGENTE SCOLASTICO DELL' ISTITUTO COMPRENSIVO “AMEDEO MAIURI” POMPEI, HA ASSEGNATO PER L'ANNO SCOLASTICO 2022/2023 UN INSEGNANTE DI SOSTEGNO PER UN NUMERO INSUFFICIENTE DI ORE (18 ORE SETTIMANALI)
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
