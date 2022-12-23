@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto presidenziale n. 10238/2022
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA QUATER
+- Numero provvedimento: 202210238
+- Numero di ricorso (NRG): 201709780
+- Data di pubblicazione: 2022-12-23
+- Udienza: PROCESSO MONOCRATICO
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2017-10-12
+- Oggetto del ricorso: DECRETO, N. 50 DEL 22 GIUGNO 2017, NELLA QUALITÀ DI COMMISSARIO AD ACTA, 8 GIUGNO 2017, N. U00218, AVENTE AD OGGETTO “MODIFICHE ED INTEGRAZIONI AL DECRETO DEL PRESIDENTE IN QUALITÀ DI COMMISSARIO AD ACTA DEL 26 MARZO 2012, N. 40”. "CRITERI E PROCEDURE IN MATERIA DI CONTROLLI DELL'ATTIVITÀ SANITARIA"
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
