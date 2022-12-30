@@ -1,8 +1,8 @@
 Art. 590-bis.
 
-(( (Lesioni personali stradali gravi o gravissime).))
+(Lesioni personali stradali gravi o gravissime).
 
-((Chiunque cagioni per colpa ad altri una lesione personale con violazione delle norme sulla disciplina della circolazione stradale e' punito con la reclusione da tre mesi a un anno per le lesioni gravi e da uno a tre anni per le lesioni gravissime.
+Chiunque cagioni per colpa ad altri una lesione personale con violazione delle norme sulla disciplina della circolazione stradale e' punito con la reclusione da tre mesi a un anno per le lesioni gravi e da uno a tre anni per le lesioni gravissime.
 
 Chiunque, ponendosi alla guida di un veicolo a motore in stato di ebbrezza alcolica o di alterazione psico-fisica conseguente all'assunzione di sostanze stupefacenti o psicotrope ai sensi rispettivamente degli articoli 186, comma 2, lettera c), e 187 del decreto legislativo 30 aprile 1992, n. 285, cagioni per colpa a taluno una lesione personale, e' punito con la reclusione da tre a cinque anni per le lesioni gravi e da quattro a sette anni per le lesioni gravissime.
 
@@ -22,4 +22,6 @@ Nelle ipotesi di cui ai commi precedenti la pena e' aumentata se il fatto e' com
 
 Nelle ipotesi di cui ai commi precedenti, qualora l'evento non sia esclusiva conseguenza dell'azione o dell'omissione del colpevole, la pena e' diminuita fino alla meta'.
 
-Nelle ipotesi di cui ai commi precedenti, qualora il conducente cagioni lesioni a piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni sette.))
+Nelle ipotesi di cui ai commi precedenti, qualora il conducente cagioni lesioni a piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni sette.
+
+((Il delitto e' punibile a querela della persona offesa se non ricorre alcuna delle circostanze aggravanti previste dal presente articolo.))
