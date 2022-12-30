@@ -1,0 +1,19 @@
+Art. 252-bis.
+
+(( (Opposizione al decreto di perquisizione emesso dal pubblico ministero). ))
+
+((
+
+1.
+
+Salvo che alla perquisizione sia seguito il sequestro, contro il decreto di perquisizione emesso dal pubblico ministero la persona nei cui confronti vengono svolte le indagini e la persona nei cui confronti la perquisizione e' stata disposta o eseguita possono proporre opposizione, sulla quale il giudice provvede a norma dell'articolo 127.
+
+2.
+
+L'opposizione e' proposta, a pena di decadenza, entro dieci giorni dalla data di esecuzione del provvedimento o dalla diversa data in cui l'interessato ha avuto conoscenza dell'avvenuta perquisizione.
+
+3.
+
+Il giudice accoglie l'opposizione quando accerta che la perquisizione e' stata disposta fuori dei casi previsti dalla legge.
+
+))

@@ -1,8 +1,6 @@
 Art. 464-septies.
 
-(( (Esito della messa alla prova). ))
-
-((
+(Esito della messa alla prova).
 
 1.
 
@@ -10,6 +8,4 @@ Decorso il periodo di sospensione del procedimento con messa alla prova, il giud
 
 2.
 
-In caso di esito negativo della prova, il giudice dispone con ordinanza che il processo riprenda il suo corso.
-
-))
+In caso di esito negativo della prova, il giudice dispone con ordinanza che il ((procedimento)) riprenda il suo corso.

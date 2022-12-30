@@ -1,20 +1,18 @@
 Art. 464-bis.
 
-(( (Sospensione del procedimento con messa alla prova). ))
-
-((
+(Sospensione del procedimento con messa alla prova).
 
 1.
 
-Nei casi previsti dall'articolo 168-bis del codice penale l'imputato puo' formulare richiesta di sospensione del procedimento con messa alla prova.
+Nei casi previsti dall'articolo 168-bis del codice penale l'imputato ((, anche su proposta del pubblico ministero,)) puo' formulare richiesta di sospensione del procedimento con messa alla prova. ((Se il pubblico ministero formula la proposta in udienza, l'imputato puo' chiedere un termine non superiore a venti giorni per presentare la richiesta di sospensione del procedimento con messa alla prova.))
 
 2.
 
-La richiesta puo' essere proposta, oralmente o per iscritto, fino a che non siano formulate le conclusioni a norma degli articoli 421 e 422 o fino alla dichiarazione di apertura del dibattimento di primo grado nel giudizio direttissimo e nel procedimento di citazione diretta a giudizio. Se e' stato notificato il decreto di giudizio immediato, la richiesta e' formulata entro il termine e con le forme stabiliti dall'articolo 458, comma 1. Nel procedimento per decreto, la richiesta e' presentata con l'atto di opposizione.
+La richiesta puo' essere proposta, oralmente o per iscritto, fino a che non siano formulate le conclusioni a norma degli articoli 421 e 422 o fino alla dichiarazione di apertura del dibattimento di primo grado nel giudizio direttissimo ((oppure, nel procedimento di citazione diretta a giudizio, fino alla conclusione dell'udienza predibattimentale prevista dall'articolo 554-bis)). Se e' stato notificato il decreto di giudizio immediato, la richiesta e' formulata entro il termine e con le forme stabiliti dall'articolo 458, comma 1. Nel procedimento per decreto, la richiesta e' presentata con l'atto di opposizione.
 
 3.
 
-La volonta' dell'imputato e' espressa personalmente o per mezzo di procuratore speciale e la sottoscrizione e' autenticata nelle forme previste dall'articolo 583, comma 3.
+La volonta' dell'imputato e' espressa personalmente o per mezzo di procuratore speciale e la sottoscrizione e' autenticata ((da un notaio, da altra persona autorizzata o dal difensore)).
 
 4.
 
@@ -30,10 +28,8 @@ le prescrizioni comportamentali e gli altri impegni specifici che l'imputato ass
 
 c)
 
-le condotte volte a promuovere, ove possibile, la mediazione con la persona offesa.
+le condotte volte a promuovere, ove possibile, la mediazione con la persona offesa ((e lo svolgimento di programmi di giustizia riparativa)).
 
 5.
 
 Al fine di decidere sulla concessione, nonche' ai fini della determinazione degli obblighi e delle prescrizioni cui eventualmente subordinarla, il giudice puo' acquisire, tramite la polizia giudiziaria, i servizi sociali o altri enti pubblici, tutte le ulteriori informazioni ritenute necessarie in relazione alle condizioni di vita personale, familiare, sociale ed economica dell'imputato. Tali informazioni devono essere portate tempestivamente a conoscenza del pubblico ministero e del difensore dell'imputato.
-
-))

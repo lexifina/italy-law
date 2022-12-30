@@ -1,19 +1,45 @@
 Art. 599-bis.
 
-(( (Concordato anche con rinuncia ai motivi di appello). ))
-
-((
+(Concordato anche con rinuncia ai motivi di appello)
 
 1.
 
-La corte provvede in camera di consiglio anche quando le parti, nelle forme previste dall'articolo 589, ne fanno richiesta dichiarando di concordare sull'accoglimento, in tutto o in parte, dei motivi di appello, con rinuncia agli altri eventuali motivi. Se i motivi dei quali viene chiesto l'accoglimento comportano una nuova determinazione della pena, il pubblico ministero, l'imputato e la persona civilmente obbligata per la pena pecuniaria indicano al giudice anche la pena sulla quale sono d'accordo.
+((Le parti possono dichiarare di)) concordare sull'accoglimento, in tutto o in parte, dei motivi di appello, con rinuncia agli altri eventuali motivi. Se i motivi dei quali viene chiesto l'accoglimento comportano una nuova determinazione della pena, il pubblico ministero, l'imputato e la persona civilmente obbligata per la pena pecuniaria indicano al giudice anche la pena sulla quale sono d'accordo. ((La dichiarazione e la rinuncia sono presentate nelle forme previste dall'articolo 589 e nel termine, previsto a pena di
+
+decadenza, di quindici giorni prima dell'udienza.))
+
+((290))
 
 2.
 
-Sono esclusi dall'applicazione del comma 1 i procedimenti per i delitti di cui all'articolo 51, commi 3-bis e 3-quater, i procedimenti per i delitti di cui agli articoli 600-bis, 600-ter, primo, secondo, terzo e quinto comma, 600-quater, secondo comma, 600-quater.1, relativamente alla condotta di produzione o commercio di materiale pornografico, 600-quinquies, 609-bis, 609-ter, 609-quater e 609-octies del codice penale, nonche' quelli contro coloro che siano stati dichiarati delinquenti abituali, professionali o per tendenza.
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 150)).
 
-3.
+((3. Quando procede nelle forme di cui all'articolo 598-bis, la corte, se ritiene di non poter accogliere la richiesta concordata tra le parti, dispone che l'udienza si svolga con la partecipazione di queste e indica se l'appello sara' deciso a seguito di udienza pubblica o in camera di consiglio, con le forme previste dall'articolo 127. Il provvedimento e' comunicato al procuratore generale e notificato alle altre parti. In questo caso la richiesta e la rinuncia perdono effetto, ma possono essere riproposte in
 
-Il giudice, se ritiene di non poter accogliere, allo stato, la richiesta, ordina la citazione a comparire al dibattimento. In questo caso la richiesta e la rinuncia perdono effetto, ma possono essere riproposte nel dibattimento.
+udienza.))
 
-4. Fermo restando quanto previsto dal comma 1 dell'articolo 53, il procuratore generale presso la corte di appello, sentiti i magistrati dell'ufficio e i procuratori della Repubblica del distretto, indica i criteri idonei a orientare la valutazione dei magistrati del pubblico ministero nell'udienza, tenuto conto della tipologia dei reati e della complessita' dei procedimenti))
+((290))
+
+((3-bis. Quando procede con udienza pubblica o in camera di consiglio con la partecipazione delle parti, la corte, se ritiene di non poter accogliere la richiesta concordata tra le parti, dispone la
+
+prosecuzione del giudizio.))
+
+((290))
+
+((3-ter. La richiesta e la rinuncia ai motivi non hanno effetto se la corte decide in modo difforme dall'accordo.))
+
+((290))
+
+4.
+
+Fermo restando quanto previsto dal comma 1 dell'articolo 53, il procuratore generale presso la corte di appello, sentiti i magistrati dell'ufficio e i procuratori della Repubblica del distretto, indica i criteri idonei a orientare la valutazione dei magistrati del pubblico ministero nell'udienza, tenuto conto della tipologia dei reati e
+
+della complessita' dei procedimenti.
+
+----------------
+
+AGGIORNAMENTO (290)
+
+Il D.Lgs. 10 ottobre 2022, n. 150 ha disposto (con l'art. 94, comma
+
+2) che "Le disposizioni degli articoli 34, comma 1, lettere c), e), f), g), numeri 2), 3), 4), e h), 35, comma 1, lettera a), e 41, comma 1, lettera ee), si applicano a decorrere dalla scadenza del termine fissato dall'articolo 16, comma 1, del decreto-legge 30 dicembre 2021, n. 228, convertito, con modificazioni, dalla legge 25 febbraio 2022, n. 15".

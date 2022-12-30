@@ -38,6 +38,8 @@
 
 - Titolo II ATTI E PROVVEDIMENTI DEL GIUDICE (Art. 125.)
 
+- ((Titolo IIbis Partecipazione a distanza)) (Art. 133-bis.)
+
 - Titolo III DOCUMENTAZIONE DEGLI ATTI (Art. 134.)
 
 - Titolo IV TRADUZIONE DEGLI ATTI (Articolo 143)
@@ -168,6 +170,9 @@ COMPOSIZIONE MONOCRATICA)) Titolo I ((DISPOSIZIONE GENERALE)) (Art. 549.)
 - Capo II PROCEDIMENTO (Art. 610.)
 
 - Capo III SENTENZA (Art. 615.)
+
+- ((Titolo IIIbis Rimedi per l'esecuzione delle decisioni della Corte europea dei
+diritti dell'uomo)) (Art. 628-bis.)
 
 - Titolo IV REVISIONE (Art. 629.)
 

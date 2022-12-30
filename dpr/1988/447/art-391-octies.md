@@ -1,8 +1,6 @@
 Art. 391-octies.
 
-(( (Fascicolo del difensore). ))
-
-((
+(Fascicolo del difensore).
 
 1.
 
@@ -14,7 +12,7 @@ Nel corso delle indagini preliminari il difensore che abbia conoscenza di un pro
 
 3.
 
-La documentazione di cui ai commi 1 e 2, in originale o, se il difensore ne richiede la restituzione, in copia, e' inserita nel fascicolo del difensore, che e' formato e conservato presso l'ufficio del giudice per le indagini preliminari. Della documentazione il pubblico ministero puo' prendere visione ed estrarre copia prima che venga adottata una decisione su richiesta delle altre parti o con il loro intervento. Dopo la chiusura delle indagini preliminari il fascicolo del difensore e' inserito nel fascicolo di cui all'articolo 433.
+((La documentazione di cui ai commi 1 e 2 e' inserita nella parte del fascicolo informatico riservata al difensore. I documenti redatti e depositati in forma di documento analogico sono conservati in originale o, se il difensore ne chiede la restituzione, in copia, presso l'ufficio del giudice per le indagini preliminari.)) Della documentazione il pubblico ministero puo' prendere visione ed estrarre copia prima che venga adottata una decisione su richiesta delle altre parti o con il loro intervento. Dopo la chiusura delle indagini preliminari il fascicolo del difensore e' inserito nel fascicolo di cui all'articolo 433.
 
 4.
 
