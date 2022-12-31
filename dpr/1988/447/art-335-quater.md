@@ -1,8 +1,6 @@
 Art. 335-quater.
 
-(( (Accertamento della tempestivita' dell'iscrizione nel registro delle notizie di reato). ))
-
-((
+(Accertamento della tempestivita' dell'iscrizione nel registro delle notizie di reato)
 
 1.
 
@@ -42,6 +40,10 @@ Fermo quanto disposto nel secondo periodo del comma 3, la parte la cui richiesta
 
 10.
 
-L'ordinanza del giudice dibattimentale puo' essere impugnata nei casi e nei modi previsti dai primi due commi dell'articolo 586.
+L'ordinanza del giudice dibattimentale puo' essere impugnata nei casi e nei modi previsti dai primi due commi dell'articolo 586. ((293))
 
-))
+---------------
+
+AGGIORNAMENTO (293)
+
+Il D.Lgs. 10 ottobre 2022, n. 150, come modificato dal D.L. 31 ottobre 2022, n. 162, convertito con modificazioni dalla L. 30 dicembre 2022, n. 199, ha disposto (con l'art. 88-bis, comma 1) che "Le disposizioni degli articoli 335-quater, 407-bis e 415-ter del codice di procedura penale, come introdotte dal presente decreto, non si applicano nei procedimenti pendenti alla data di entrata in vigore del presente decreto in relazione alle notizie di reato delle quali il pubblico ministero ha gia' disposto l'iscrizione nel registro di cui all'articolo 335 del codice di procedura penale, nonche' in relazione alle notizie di reato iscritte successivamente, quando ricorrono le condizioni previste dall'articolo 12 del codice di procedura penale e, se si procede per taluno dei delitti indicati nell'articolo 407, comma 2, del codice di procedura penale, anche quando ricorrono le condizioni previste dall'articolo 371, comma 2, lettere b) e c), del medesimo codice. Tuttavia, le disposizioni dell'articolo 335-quater del codice di procedura penale, come introdotte dal presente decreto, si applicano in ogni caso in relazione alle iscrizioni che hanno ad oggetto notizie di reati commessi dopo la data di entrata in vigore del presente decreto".

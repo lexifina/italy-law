@@ -1,8 +1,6 @@
 Art. 415-ter.
 
-(( (Diritti e facolta' dell'indagato e della persona offesa in caso di inosservanza dei termini per la conclusione delle indagini preliminari). ))
-
-((
+(Diritti e facolta' dell'indagato e della persona offesa in caso di inosservanza dei termini per la conclusione delle indagini preliminari)
 
 1.
 
@@ -26,4 +24,10 @@ Prima della scadenza dei termini previsti dall'articolo 407-bis, comma 2, quando
 
 Sulla richiesta il procuratore generale provvede ai sensi del comma 5-ter dell'articolo 415-bis. Le disposizioni del presente comma non si applicano quando il pubblico ministero ha gia' presentato la richiesta di differimento prevista dal comma 5-bis dell'articolo 415-bis.
 
-))
+((293))
+
+---------------
+
+AGGIORNAMENTO (293)
+
+Il D.Lgs. 10 ottobre 2022, n. 150, come modificato dal D.L. 31 ottobre 2022, n. 162, convertito con modificazioni dalla L. 30 dicembre 2022, n. 199, ha disposto (con l'art. 88-bis, comma 1) che "Le disposizioni degli articoli 335-quater, 407-bis e 415-ter del codice di procedura penale, come introdotte dal presente decreto, non si applicano nei procedimenti pendenti alla data di entrata in vigore del presente decreto in relazione alle notizie di reato delle quali il pubblico ministero ha gia' disposto l'iscrizione nel registro di cui all'articolo 335 del codice di procedura penale, nonche' in relazione alle notizie di reato iscritte successivamente, quando ricorrono le condizioni previste dall'articolo 12 del codice di procedura penale e, se si procede per taluno dei delitti indicati nell'articolo 407, comma 2, del codice di procedura penale, anche quando ricorrono le condizioni previste dall'articolo 371, comma 2, lettere b) e c), del medesimo codice".
