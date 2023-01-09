@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto decisorio n. 27/2023
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE QUINTA
+- Numero provvedimento: 202300027
+- Numero di ricorso (NRG): 202003187
+- Data di pubblicazione: 2023-01-09
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA IMPROCEDIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2020-09-23
+- Oggetto del ricorso: DELLA DELIBERA DELLA GIUNTA COMUNALE DI ZUNGOLI (AV) N. 30 DELL'11 GIUGNO 2020 AVENTE AD OGGETTO “PROGRAMMAZIONE TRIENNALE PERSONALE 2020-2022. REVOCA DELIBERE DI GIUNTA N. 69 DEL 9 NOVEMBRE 2018 E N. 30 DEL 23 MAGGIO 2019. REVOCA PARZIALE DELIBERA N. 11 DEL 7 MARZO 2019 E DI TUTTE LE SUCCESSIVE E CONSEGUENZIALI”
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
