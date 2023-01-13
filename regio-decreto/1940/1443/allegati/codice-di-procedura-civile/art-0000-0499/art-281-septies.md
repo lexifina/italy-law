@@ -1,10 +1,10 @@
 Art. 281-septies.
 
-(( (Rimessione della causa al giudice monocratico). ))
+(Rimessione della causa al giudice monocratico).
 
-((Il collegio, quando rileva che una causa, rimessa davanti a lui per la decisione, deve essere decisa dal tribunale in composizione monocratica, pronuncia ordinanza non impugnabile con cui rimette la causa davanti al giudice istruttore perche' decida la causa quale giudice monocratico. La sentenza e' depositata entro i successivi trenta giorni.))
+Il collegio, quando rileva che una causa, rimessa davanti a lui per la decisione, deve essere decisa dal tribunale in composizione monocratica, pronuncia ordinanza non impugnabile con cui rimette la causa davanti al giudice istruttore perche' decida la causa quale giudice monocratico. La sentenza e' depositata entro i successivi trenta giorni.
 
-((171))
+(171) ((173))
 
 ------------
 
@@ -25,3 +25,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

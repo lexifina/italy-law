@@ -2,11 +2,11 @@ Art. 168-bis.
 
 (Designazione del giudice istruttore).
 
-Formato un fascicolo d'ufficio a norma dell'articolo precedente, il cancelliere lo presenta senza indugio al presidente del tribunale, il quale ((...)) designa il giudice istruttore davanti al quale le parti debbono comparire, se non creda di procedere egli stesso all'istruzione. Nei tribunali divisi in piu' sezioni il presidente assegna la causa ad una di esse, e il presidente di questa provvede nelle stesse forme alla designazione del giudice istruttore. ((171))
+Formato un fascicolo d'ufficio a norma dell'articolo precedente, il cancelliere lo presenta senza indugio al presidente del tribunale, il quale designa il giudice istruttore davanti al quale le parti debbono comparire, se non creda di procedere egli stesso all'istruzione. Nei tribunali divisi in piu' sezioni il presidente assegna la causa ad una di esse, e il presidente di questa provvede nelle stesse forme alla designazione del giudice istruttore. (171) ((173))
 
 La designazione del giudice istruttore deve in ogni caso avvenire non oltre il secondo giorno successivo alla costituzione della parte piu' diligente.
 
-Subito dopo la designazione del giudice istruttore il cancelliere iscrive la causa sul ruolo della sezione ((e)) su quello del giudice istruttore ((...)). (67) (72) ((171))
+Subito dopo la designazione del giudice istruttore il cancelliere iscrive la causa sul ruolo della sezione e su quello del giudice istruttore. (67) (72) (171) ((173))
 
 Se nel giorno fissato per la comparizione il giudice istruttore designato non tiene udienza, la comparizione delle parti e' d'ufficio rimandata all'udienza immediatamente successiva tenuta dal giudice designato. (67) (72)
 
@@ -39,3 +39,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

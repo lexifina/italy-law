@@ -1,8 +1,8 @@
 Art. 473-bis.39
 
-(( (Provvedimenti in caso di inadempienze o violazioni). ))
+(Provvedimenti in caso di inadempienze o violazioni).
 
-((In caso di gravi inadempienze, anche di natura economica, o di atti che arrechino pregiudizio al minore od ostacolino il corretto svolgimento delle modalita' dell'affidamento e dell'esercizio della responsabilita' genitoriale, il giudice puo' d'ufficio modificare i provvedimenti in vigore e puo', anche congiuntamente:
+In caso di gravi inadempienze, anche di natura economica, o di atti che arrechino pregiudizio al minore od ostacolino il corretto svolgimento delle modalita' dell'affidamento e dell'esercizio della responsabilita' genitoriale, il giudice puo' d'ufficio modificare i provvedimenti in vigore e puo', anche congiuntamente:
 
 a) ammonire il genitore inadempiente;
 
@@ -12,9 +12,9 @@ c) condannare il genitore inadempiente al pagamento di una sanzione amministrati
 
 Nei casi di cui al primo comma, il giudice puo' inoltre condannare il genitore inadempiente al risarcimento dei danni a favore dell'altro genitore o, anche d'ufficio, del minore.
 
-I provvedimenti assunti dal giudice del procedimento sono impugnabili nei modi ordinari.))
+I provvedimenti assunti dal giudice del procedimento sono impugnabili nei modi ordinari.
 
-((171))
+(171) ((173))
 
 ---------------
 
@@ -23,3 +23,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

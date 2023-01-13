@@ -6,7 +6,7 @@ Salvo che sia stato proposto reclamo ai sensi dell'articolo 669-terdecies, nel c
 
 Quando il giudizio di merito non sia iniziato o sia stato dichiarato estinto, la revoca e la modifica dell'ordinanza di accoglimento, esaurita l'eventuale fase del reclamo proposto ai sensi dell'articolo 669-terdecies, possono essere richieste al giudice che ha provveduto sull'istanza cautelare se si verificano mutamenti nelle circostanze o se si allegano fatti anteriori di cui si e' acquisita conoscenza successivamente al provvedimento cautelare. In tale caso l'istante deve fornire la prova del momento in cui ne e' venuto a conoscenza (113a) (115) (116)
 
-Se la causa di merito e' devoluta alla giurisdizione di un giudice straniero o ad arbitrato, ovvero se l'azione civile e' stata esercitata o trasferita nel processo penale, i provvedimenti previsti dal presente articolo devono essere richiesti dal giudice che ha emanato il provvedimento cautelare ((, salvo quanto disposto dall'articolo 818, primo comma)). (67) (72) ((171))
+Se la causa di merito e' devoluta alla giurisdizione di un giudice straniero o ad arbitrato, ovvero se l'azione civile e' stata esercitata o trasferita nel processo penale, i provvedimenti previsti dal presente articolo devono essere richiesti dal giudice che ha emanato il provvedimento cautelare, salvo quanto disposto dall'articolo 818, primo comma. (67) (72) (171) ((173))
 
 ---------------
 
@@ -49,3 +49,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

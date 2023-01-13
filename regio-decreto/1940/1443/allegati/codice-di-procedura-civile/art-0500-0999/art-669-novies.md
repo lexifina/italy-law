@@ -4,7 +4,7 @@ Art. 669-novies.
 
 Se il procedimento di merito non e' iniziato nel termine perentorio di cui all'articolo 669 octies, ovvero se successivamente al suo inizio si estingue, il provvedimento cautelare perde la sua efficacia.
 
-In entrambi i casi, il giudice che ha emesso il provvedimento su ricorso della parte interessata, convocate le parti con decreto in calce al ricorso, dichiara ((...)) con ordinanza avente efficacia esecutiva, che il provvedimento e' divenuto inefficace e da le disposizioni necessarie per ripristinare la situazione precedente. In caso di contestazione l'ufficio giudiziario al quale appartiene il giudice che ha emesso il provvedimento cautelare decide con sentenza provvisoriamente esecutiva, salva la possibilita' di emanare in corso di causa i provvedimenti di cui all'articolo 669-decies. ((171))
+In entrambi i casi, il giudice che ha emesso il provvedimento su ricorso della parte interessata, convocate le parti con decreto in calce al ricorso, dichiara con ordinanza avente efficacia esecutiva, che il provvedimento e' divenuto inefficace e da le disposizioni necessarie per ripristinare la situazione precedente. In caso di contestazione l'ufficio giudiziario al quale appartiene il giudice che ha emesso il provvedimento cautelare decide con sentenza provvisoriamente esecutiva, salva la possibilita' di emanare in corso di causa i provvedimenti di cui all'articolo 669-decies. (171) ((173))
 
 Il provvedimento cautelare perde altrei' efficacia se non e' stata versata la cauzione di cui all'articolo 669-undecies, ovvero se con sentenza, anche non passata in giuidicato, e' dichiarato inesistente il diritto a cautela del quale era stato concesso. In tal caso i provvedimenti di cui al comma precedente sono pronunciati nella stessa sentenza o, in mancanza, con ordinanza a seguito del ricorso al giudice che ha emesso il provvedimento.
 
@@ -35,3 +35,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

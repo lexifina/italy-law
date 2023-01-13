@@ -2,7 +2,7 @@ Art. 391-bis.
 
 (Correzione degli errori materiali e revocazione delle sentenze della Corte di Cassazione)
 
-((Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale)) o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione puo' essere chiesta, e puo' essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione puo' essere chiesta entro il termine perentorio di sessanta giorni dalla notificazione ovvero di sei mesi dalla pubblicazione del provvedimento. (152)((171))
+Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione puo' essere chiesta, e puo' essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione puo' essere chiesta entro il termine perentorio di sessanta giorni dalla notificazione ovvero di sei mesi dalla pubblicazione del provvedimento. (152)(171)((173))
 
 Sulla correzione la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma. (152)
 
@@ -55,3 +55,13 @@ Il D.Lgs. 10 ottobre 2022, n. 149, ha disposto (con l'art. 35, comma 1) che "Le 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
 
 Ha inoltre disposto (con l'art. 35, comma 7) che "Gli articoli 372, 375, 376, 377, 378, 379, 380, 380-bis, 380-bis.1, 380-ter, 390 e 391-bis del codice di procedura civile, come modificati o abrogati dal presente decreto, si applicano anche ai giudizi introdotti con ricorso gia' notificato alla data del 1° gennaio 2023 per i quali non e' stata ancora fissata udienza o adunanza in camera di consiglio".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto:
+
+- (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti";
+
+- (con l'art. 35, comma 6) che "Gli articoli 372, 375, 376, 377, 378, 379, 380, 380-bis, 380-bis.1, 380-ter, 390 e 391-bis del codice di procedura civile, come modificati dal presente decreto, si applicano anche ai giudizi introdotti con ricorso gia' notificato alla data del 1° gennaio 2023 per i quali non e' stata ancora fissata udienza o adunanza in camera di consiglio".

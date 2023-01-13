@@ -1,8 +1,8 @@
 Art. 363-bis.
 
-(( (Rinvio pregiudiziale). ))
+(Rinvio pregiudiziale).
 
-((Il giudice di merito puo' disporre con ordinanza, sentite le parti costituite, il rinvio pregiudiziale degli atti alla Corte di cassazione per la risoluzione di una questione esclusivamente di diritto, quando concorrono le seguenti condizioni:
+Il giudice di merito puo' disporre con ordinanza, sentite le parti costituite, il rinvio pregiudiziale degli atti alla Corte di cassazione per la risoluzione di una questione esclusivamente di diritto, quando concorrono le seguenti condizioni:
 
 1) la questione e' necessaria alla definizione anche parziale del giudizio e non e' stata ancora risolta dalla Corte di cassazione;
 
@@ -18,9 +18,9 @@ La Corte, sia a sezioni unite che a sezione semplice, pronuncia in pubblica udie
 
 Con il provvedimento che definisce la questione e' disposta la restituzione degli atti al giudice.
 
-Il principio di diritto enunciato dalla Corte e' vincolante nel procedimento nell'ambito del quale e' stata rimessa la questione e, se questo si estingue, anche nel nuovo processo in cui e' proposta la medesima domanda tra le stesse parti.))
+Il principio di diritto enunciato dalla Corte e' vincolante nel procedimento nell'ambito del quale e' stata rimessa la questione e, se questo si estingue, anche nel nuovo processo in cui e' proposta la medesima domanda tra le stesse parti.
 
-((171))
+(171) ((173))
 
 -----------
 
@@ -33,3 +33,15 @@ Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto:
 - (con l'art. 35, comma 6) che "Salvo quanto disposto dal comma 7, le norme di cui al capo III del titolo III del libro secondo del codice di procedura civile e di cui al capo IV delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie, di cui al regio decreto 18 dicembre 1941, n. 1368, come modificate dal presente decreto, si applicano ai giudizi introdotti con ricorso notificato a decorrere dal 1° gennaio 2023";
 
 - (con l'art. 35, comma 8) che "Le disposizioni di cui all'articolo 363-bis del codice di procedura civile si applicano ai procedimenti di merito pendenti alla data del 30 giugno 2023".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto:
+
+- (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti";
+
+- (con l'art. 35, comma 5) che "Salvo quanto disposto dal comma 6, le norme del capo III del titolo III del libro secondo del codice di procedura civile e del capo IV delle disposizioni per l'attuazione del codice di procedura civile e disposizioni transitorie, di cui al regio decreto 18 dicembre 1941, n. 1368, come modificati dal presente decreto, hanno effetto a decorrere dal 1° gennaio 2023 e si applicano ai giudizi introdotti con ricorso notificato a decorrere da tale data";
+
+- (con l'art. 35, comma 7) che "Le disposizioni dell'articolo 363-bis del codice di procedura civile, introdotto dal presente decreto, si applicano anche ai procedimenti di merito pendenti alla data del 1° gennaio 2023".

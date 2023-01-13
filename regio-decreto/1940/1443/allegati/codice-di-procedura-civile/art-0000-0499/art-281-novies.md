@@ -4,9 +4,7 @@ Art. 281-nonies.
 
 In caso di connessione tra cause che debbono essere decise dal tribunale in composizione collegiale e cause che debbono essere decise dal tribunale in composizione monocratica, il giudice istruttore ne ordina la riunione e, all'esito dell'istruttoria, le rimette, a norma dell'articolo 189, al collegio, il quale pronuncia su tutte le domande, a meno che disponga la separazione a norma dell'articolo 279, secondo comma, numero 5).
 
-((Alle cause riunite si applica il rito previsto per la causa in cui il tribunale giudica in composizione collegiale e restano ferme le decadenze e le preclusioni gia' maturate in ciascun procedimento prima della riunione.))
-
-((171))
+Alle cause riunite si applica il rito previsto per la causa in cui il tribunale giudica in composizione collegiale e restano ferme le decadenze e le preclusioni gia' maturate in ciascun procedimento prima della riunione. (171) ((173))
 
 (88) (90)
 
@@ -29,3 +27,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

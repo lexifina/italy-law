@@ -1,10 +1,8 @@
 149-bis.
 
-(Notificazione a mezzo posta elettronica ((certificata eseguita dall'ufficiale giudiziario)) ). ((171))
+(Notificazione a mezzo posta elettronica certificata eseguita dall'ufficiale giudiziario). (171) ((173))
 
-((L'ufficiale giudiziario esegue la notificazione a mezzo posta elettronica certificata o servizio elettronico di recapito certificato qualificato, anche previa estrazione di copia informatica del documento cartaceo, quando il destinatario e' un soggetto per il quale la legge prevede l'obbligo di munirsi di un indirizzo di posta elettronica certificata o servizio elettronico di recapito certificato qualificato risultante dai pubblici elenchi oppure quando il destinatario ha eletto domicilio digitale ai sensi dell'articolo 3-bis, comma 1-bis, del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82.))
-
-((171))
+L'ufficiale giudiziario esegue la notificazione a mezzo posta elettronica certificata o servizio elettronico di recapito certificato qualificato, anche previa estrazione di copia informatica del documento cartaceo, quando il destinatario e' un soggetto per il quale la legge prevede l'obbligo di munirsi di un indirizzo di posta elettronica certificata o servizio elettronico di recapito certificato qualificato risultante dai pubblici elenchi oppure quando il destinatario ha eletto domicilio digitale ai sensi dell'articolo 3-bis, comma 1-bis, del codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82. (171) ((173))
 
 Se procede ai sensi del primo comma, l'ufficiale giudiziario trasmette copia informatica dell'atto sottoscritta con firma digitale all'indirizzo di posta elettronica certificata del destinatario risultante da pubblici elenchi o comunque accessibili alle pubbliche amministrazioni.
 
@@ -31,3 +29,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

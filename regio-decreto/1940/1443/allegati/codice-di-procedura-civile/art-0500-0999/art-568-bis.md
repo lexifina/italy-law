@@ -1,8 +1,8 @@
 Art. 568-bis.
 
-(( (Vendita diretta). ))
+(Vendita diretta).
 
-((Il debitore, con istanza depositata non oltre dieci giorni prima della udienza prevista dall'articolo 569, primo comma, puo' chiedere al giudice dell'esecuzione di disporre la vendita diretta dell'immobile pignorato o di uno degli immobili pignorati per un prezzo non inferiore al valore indicato nella relazione di stima di cui all'articolo 173-bis, terzo comma, delle disposizioni d'attuazione del presente codice.
+Il debitore, con istanza depositata non oltre dieci giorni prima della udienza prevista dall'articolo 569, primo comma, puo' chiedere al giudice dell'esecuzione di disporre la vendita diretta dell'immobile pignorato o di uno degli immobili pignorati per un prezzo non inferiore al valore indicato nella relazione di stima di cui all'articolo 173-bis, terzo comma, delle disposizioni d'attuazione del presente codice.
 
 A pena di inammissibilita', unitamente all'istanza di cui al primo comma deve essere depositata in cancelleria l'offerta di acquisto, nonche' una cauzione non inferiore al decimo del prezzo offerto.
 
@@ -10,9 +10,9 @@ L'istanza e l'offerta sono notificate a cura dell'offerente o del debitore almen
 
 L'offerta e' irrevocabile, salvo che siano decorsi centoventi giorni dalla data del provvedimento di cui al secondo comma dell'articolo 569-bis ed essa non sia stata accolta.
 
-A pena di inammissibilita', l'istanza di cui al primo comma non puo' essere formulata piu' di una volta.))
+A pena di inammissibilita', l'istanza di cui al primo comma non puo' essere formulata piu' di una volta.
 
-((171))
+(171) ((173))
 
 --------------
 
@@ -27,3 +27,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

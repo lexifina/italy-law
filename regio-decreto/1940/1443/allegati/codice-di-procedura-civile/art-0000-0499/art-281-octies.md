@@ -2,11 +2,9 @@ Art. 281-octies.
 
 (Rimessione della causa al tribunale in composizione collegiale).
 
-Il giudice, quando rileva che una causa, riservata per la decisione davanti a se' in funzione di giudice monocratico, deve essere decisa dal tribunale in composizione collegiale, ((rimette la causa al collegio per la decisione, con ordinanza comunicata alle parti)). ((171))
+Il giudice, quando rileva che una causa, riservata per la decisione davanti a se' in funzione di giudice monocratico, deve essere decisa dal tribunale in composizione collegiale, rimette la causa al collegio per la decisione, con ordinanza comunicata alle parti. (171) ((173))
 
-((Entro dieci giorni dalla comunicazione, ciascuna parte puo' chiedere la fissazione dell'udienza di discussione davanti al collegio, e in questo caso il giudice istruttore procede ai sensi dell'articolo 275-bis.))
-
-((171))
+Entro dieci giorni dalla comunicazione, ciascuna parte puo' chiedere la fissazione dell'udienza di discussione davanti al collegio, e in questo caso il giudice istruttore procede ai sensi dell'articolo 275-bis. (171) ((173))
 
 (88) (90)
 
@@ -29,3 +27,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

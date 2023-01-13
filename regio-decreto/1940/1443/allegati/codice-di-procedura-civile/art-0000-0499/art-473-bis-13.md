@@ -1,8 +1,8 @@
 Art. 473-bis.13
 
-(( (Ricorso del pubblico ministero). ))
+(Ricorso del pubblico ministero).
 
-((Il ricorso del pubblico ministero contiene:
+Il ricorso del pubblico ministero contiene:
 
 a) l'indicazione dell'ufficio giudiziario davanti al quale il ricorso e' presentato;
 
@@ -20,9 +20,9 @@ In presenza di richiesta di allontanamento del minore, il ricorso reca l'indicaz
 
 In caso di domande di contributo economico, al ricorso e' allegata la documentazione attestante la situazione economica e reddituale dei genitori e del minore.
 
-Le disposizioni che precedono si applicano, in quanto compatibili, anche al ricorso presentato dal parente, dal tutore, dal curatore e dal curatore speciale.))
+Le disposizioni che precedono si applicano, in quanto compatibili, anche al ricorso presentato dal parente, dal tutore, dal curatore e dal curatore speciale.
 
-((171))
+(171) ((173))
 
 ---------------
 
@@ -31,3 +31,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+-----------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

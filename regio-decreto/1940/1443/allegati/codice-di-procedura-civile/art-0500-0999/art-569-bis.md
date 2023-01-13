@@ -1,8 +1,8 @@
 Art. 569-bis.
 
-(( (Modalita' della vendita diretta). ))
+(Modalita' della vendita diretta).
 
-((Nel caso di deposito dell'istanza ai sensi dell'articolo 568-bis, il giudice dell'esecuzione, all'udienza di cui all'articolo 569, se il prezzo base determinato ai sensi dell'articolo 568 non e' maggiore del prezzo offerto, valutata l'ammissibilita' della medesima, provvede ai sensi del quarto e quinto comma.
+Nel caso di deposito dell'istanza ai sensi dell'articolo 568-bis, il giudice dell'esecuzione, all'udienza di cui all'articolo 569, se il prezzo base determinato ai sensi dell'articolo 568 non e' maggiore del prezzo offerto, valutata l'ammissibilita' della medesima, provvede ai sensi del quarto e quinto comma.
 
 Se il prezzo base determinato ai sensi dell'articolo 568 e' maggiore del prezzo offerto, il giudice fissa un termine di dieci giorni per integrare l'offerta e la cauzione, adeguandole al prezzo base. Se l'offerta e la cauzione sono integrate entro tale termine, il giudice entro i successivi cinque giorni, valutata l'ammissibilita' dell'offerta, provvede ai sensi del quarto e quinto comma.
 
@@ -28,9 +28,9 @@ Se il prezzo non e' depositato nel termine di cui al sesto comma, o in ogni altr
 
 Avvenuto il versamento del prezzo, il giudice dell'esecuzione pronuncia il decreto con il quale trasferisce il bene all'aggiudicatario.
 
-Su istanza dell'aggiudicatario, il giudice autorizza il trasferimento dell'immobile mediante atto negoziale e ordina, contestualmente alla trascrizione di quest'ultimo, la cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie ai sensi dell'articolo 586. Il notaio stipulante trasmette copia dell'atto al cancelliere o al professionista delegato, che provvedono al deposito nel fascicolo della procedura.))
+Su istanza dell'aggiudicatario, il giudice autorizza il trasferimento dell'immobile mediante atto negoziale e ordina, contestualmente alla trascrizione di quest'ultimo, la cancellazione delle trascrizioni dei pignoramenti e delle iscrizioni ipotecarie ai sensi dell'articolo 586. Il notaio stipulante trasmette copia dell'atto al cancelliere o al professionista delegato, che provvedono al deposito nel fascicolo della procedura.
 
-((171))
+(171) ((173))
 
 --------------
 
@@ -81,3 +81,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

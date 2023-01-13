@@ -1,8 +1,8 @@
 Art. 591-bis.
 
-(( (Delega delle operazioni di vendita). ))
+(Delega delle operazioni di vendita).
 
-((Il giudice dell'esecuzione, salvo quanto previsto dal secondo comma, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, delega ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice fissa il termine finale per il completamento delle operazioni delegate; dispone lo svolgimento, entro il termine di un anno dall'emissione dell'ordinanza, di un numero di esperimenti di vendita non inferiore a tre, secondo i criteri stabiliti dall'articolo 591, secondo comma; stabilisce le modalita' di effettuazione della pubblicita', il luogo di presentazione delle offerte d'acquisto e il luogo ove si procede all'esame delle stesse, alla gara tra gli offerenti ed alle operazioni dell'eventuale incanto. Si applica l'articolo 569, quarto comma.
+Il giudice dell'esecuzione, salvo quanto previsto dal secondo comma, con l'ordinanza con la quale provvede sull'istanza di vendita ai sensi dell'articolo 569, terzo comma, delega ad un notaio avente preferibilmente sede nel circondario o a un avvocato ovvero a un commercialista, iscritti nei relativi elenchi di cui all'articolo 179-ter delle disposizioni di attuazione del presente codice, il compimento delle operazioni di vendita secondo le modalita' indicate al terzo comma del medesimo articolo 569. Con la medesima ordinanza il giudice fissa il termine finale per il completamento delle operazioni delegate; dispone lo svolgimento, entro il termine di un anno dall'emissione dell'ordinanza, di un numero di esperimenti di vendita non inferiore a tre, secondo i criteri stabiliti dall'articolo 591, secondo comma; stabilisce le modalita' di effettuazione della pubblicita', il luogo di presentazione delle offerte d'acquisto e il luogo ove si procede all'esame delle stesse, alla gara tra gli offerenti ed alle operazioni dell'eventuale incanto. Si applica l'articolo 569, quarto comma.
 
 Il giudice non dispone la delega ove, sentiti i creditori, ravvisi l'esigenza di procedere direttamente alle operazioni di vendita a tutela degli interessi delle parti.
 
@@ -58,9 +58,9 @@ Quando il giudice dell'esecuzione provvede a norma dell'articolo 569-bis¸ quart
 
 Quando il giudice dell'esecuzione provvede a norma dell'articolo 569-bis, quinto comma, al professionista sono delegate le operazioni di cui alla medesima disposizione, nonche' la deliberazione sulle offerte e lo svolgimento della gara, la riscossione del prezzo e le operazioni di distribuzione del ricavato. Al professionista sono, altresi', delegate le operazioni indicate ai numeri 2), 5), 10), 11), 12) e 13) del terzo comma. Si applicano, in quanto compatibili, i commi dal quarto all'undicesimo.
 
-Entro trenta giorni dalla notifica dell'ordinanza di vendita il professionista delegato deposita un rapporto riepilogativo iniziale delle attivita' svolte. A decorrere dal deposito del rapporto riepilogativo iniziale, il professionista deposita, dopo ciascun esperimento di vendita, un rapporto riepilogativo periodico delle attivita' svolte. Entro dieci giorni dalla comunicazione dell'approvazione del progetto di distribuzione, il professionista delegato deposita un rapporto riepilogativo finale delle attivita' svolte successivamente al deposito dell'ultimo rapporto riepilogativo periodico. I rapporti riepilogativi sono redatti in conformita' a modelli predisposti dal giudice dell'esecuzione e contengono i dati identificativi dell'esperto che ha effettuato la stima.))
+Entro trenta giorni dalla notifica dell'ordinanza di vendita il professionista delegato deposita un rapporto riepilogativo iniziale delle attivita' svolte. A decorrere dal deposito del rapporto riepilogativo iniziale, il professionista deposita, dopo ciascun esperimento di vendita, un rapporto riepilogativo periodico delle attivita' svolte. Entro dieci giorni dalla comunicazione dell'approvazione del progetto di distribuzione, il professionista delegato deposita un rapporto riepilogativo finale delle attivita' svolte successivamente al deposito dell'ultimo rapporto riepilogativo periodico. I rapporti riepilogativi sono redatti in conformita' a modelli predisposti dal giudice dell'esecuzione e contengono i dati identificativi dell'esperto che ha effettuato la stima.
 
-((171))
+(171) ((173))
 
 ---------------
 
@@ -87,3 +87,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".

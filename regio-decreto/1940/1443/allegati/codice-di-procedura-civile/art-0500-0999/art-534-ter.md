@@ -1,14 +1,14 @@
 Art. 534-ter.
 
-(( (Ricorso al giudice dell'esecuzione). ))
+(Ricorso al giudice dell'esecuzione).
 
-((Quando, nel corso delle operazioni di vendita, insorgono difficolta' il professionista delegato o il commissionario possono rivolgersi al giudice dell'esecuzione, il quale provvede con decreto.
+Quando, nel corso delle operazioni di vendita, insorgono difficolta' il professionista delegato o il commissionario possono rivolgersi al giudice dell'esecuzione, il quale provvede con decreto.
 
 Avverso gli atti del professionista delegato o del commissionario e' ammesso reclamo delle parti e degli interessati, da proporre con ricorso al giudice dell'esecuzione nel termine perentorio di venti giorni dal compimento dell'atto o dalla sua conoscenza. Il ricorso non sospende le operazioni di vendita, salvo che il giudice dell'esecuzione, concorrendo gravi motivi, disponga la sospensione.
 
-Sul reclamo di cui al secondo comma, il giudice dell'esecuzione provvede con ordinanza, avverso la quale e' ammessa l'opposizione ai sensi dell'articolo 617.))
+Sul reclamo di cui al secondo comma, il giudice dell'esecuzione provvede con ordinanza, avverso la quale e' ammessa l'opposizione ai sensi dell'articolo 617.
 
-((171))
+(171) ((173))
 
 --------------
 
@@ -35,3 +35,9 @@ AGGIORNAMENTO (171)
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
 
 Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (173)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
