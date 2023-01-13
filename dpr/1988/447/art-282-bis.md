@@ -20,7 +20,7 @@ Puo' ordinare, se necessario, che l'assegno sia versato direttamente al benefici
 
 I provvedimenti di cui ai commi 2 e 3 possono essere assunti anche successivamente al provvedimento di cui al comma 1, sempre che questo non sia stato revocato o non abbia comunque perduto efficacia.
 
-Essi, anche se assunti successivamente, perdono efficacia se e' revocato o perde comunque efficacia il provvedimento di cui al comma 1. Il provvedimento di cui al comma 3, se a favore del coniuge o dei figli, perde efficacia, inoltre, qualora sopravvenga ((un)) provvedimento del giudice civile in ordine ai rapporti economico-patrimoniali tra i coniugi ovvero al mantenimento dei figli. ((290))
+Essi, anche se assunti successivamente, perdono efficacia se e' revocato o perde comunque efficacia il provvedimento di cui al comma 1. Il provvedimento di cui al comma 3, se a favore del coniuge o dei figli, perde efficacia, inoltre, qualora sopravvenga un provvedimento del giudice civile in ordine ai rapporti economico-patrimoniali tra i coniugi ovvero al mantenimento dei figli. (290) ((295))
 
 5.
 
@@ -35,3 +35,9 @@ Qualora si proceda per uno dei delitti previsti dagli articoli 570, 571, 572, 58
 AGGIORNAMENTO (290)
 
 Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 36, comma 1) che "Le disposizioni di cui all'articolo 5 si applicano a decorrere dal 30 giugno 2023".
+
+---------------
+
+AGGIORNAMENTO (295)
+
+Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 36, comma 1) che "Le disposizioni di cui all'articolo 5 si applicano a decorrere dal 28 febbraio 2023".
