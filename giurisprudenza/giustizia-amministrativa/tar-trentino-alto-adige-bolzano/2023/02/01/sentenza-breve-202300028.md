@@ -1,0 +1,19 @@
+# TAR TRENTINO ALTO ADIGE - BOLZANO, sentenza breve n. 28/2023
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR TRENTINO ALTO ADIGE - BOLZANO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300028
+- Numero di ricorso (NRG): 202200239
+- Data di pubblicazione: 2023-02-01
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA CESSATA MATERIA DEL CONTENDERE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2022-11-17
+- Oggetto del ricorso: ACCESSO AI DOCUMENTI: ACCERTAMENTO DIRITTO DI ACCESSO E ANNULLAMENTO DEL PROVVEDIMENTO PROT. N. 4152056/2022 DEL 26 LUGLIO 2022 DI DINIEGO ILLEGITTIMO AGLI ATTI, IN PARTICOLARE ALL'ORIGINALE O A COPIA CONFORME DELLE CARTELLE DI PAGAMENTO
+- Tipo di ricorso: RIASSUNZIONE PER INCOMPETENZA(ex artt.15 co4 e 16 co3 c.p.a)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/trga-bolzano-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/62538bca-0b0f-4f1e-9e68-35bd5a9b64e3/resource/32b4f2c6-da58-4956-a30e-2de9dea44359/download/trga-bolzano-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
