@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 737/2023
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE SECONDA BIS
+- Numero provvedimento: 202300737
+- Numero di ricorso (NRG): 202301740
+- Data di pubblicazione: 2023-02-03
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-02-02
+- Oggetto del ricorso: PROVVEDIMENTO DEL 5/12/22 -IRROGAZIONE SANZIONE PECUNIARIA PER LA PRESUNTA MANCATA VIGILANZA SUL RISPETTO DEGLI ORIENTAMENTI COVIP PER LE FORME PENSIONISTICHE COMPLEMENTARI E PER LA PRESUNTA MANCATA VIGILANZA SUL RISPETTO DELLA DELIBERAZIONE COVIP DEL 22/7/10
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
