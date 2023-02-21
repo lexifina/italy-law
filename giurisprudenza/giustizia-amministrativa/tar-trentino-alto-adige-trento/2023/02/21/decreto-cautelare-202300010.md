@@ -1,0 +1,19 @@
+# TAR TRENTINO ALTO ADIGE - TRENTO, decreto cautelare n. 10/2023
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR TRENTINO ALTO ADIGE - TRENTO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300010
+- Numero di ricorso (NRG): 202300022
+- Data di pubblicazione: 2023-02-21
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-02-20
+- Oggetto del ricorso: RIGETTO DELLE DICHIARAZIONI DI ESERCIZIO TEMPORANEO E OCCASIONALE DELLA PROFESSIONE DI MAESTRO DI SCI EX ART. 10, COMMA 1, D.LGS. 206/2007 PER LA STAGIONE INVERNALE 2022/2023 - NOTE DI DATA 07.02.2023 DELLA PROVINCIA AUTONOMA DI TRENTO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/trga-trento-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/0c887346-4d3c-4606-aa1b-a216c62d64bd/resource/6fbb7dc1-3758-4d90-beb5-628e6bd0d10e/download/trga-trento-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
