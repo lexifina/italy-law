@@ -1,0 +1,19 @@
+# Massima n. 45368
+
+- Pronuncia: Corte costituzionale, sentenza 35/2023 (ECLI:IT:COST:2023:35)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:35
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Diritti inviolabili o fondamentali - Tutela della salute - Necessario contemperamento del diritto del singolo con il coesistente interesse della collettività - Ammissibilità dei trattamenti sanitari obbligatori (ad es.: vaccinazioni) - Condizioni - Ragionevolezza e proporzionalità - Necessità di prevedere l'indennizzo al verificarsi dell'evento avverso. (Classif. 081002).
+
+## Testo
+
+Il corretto bilanciamento fra la dimensione individuale e collettiva della salute - in relazione alle ragioni di (reciproca) solidarietà fra individuo e collettività - implica il riconoscimento di un equo ristoro in favore di chi - obbligato a sottoporsi a un trattamento sanitario che importi un rischio specifico, o prestando la relativa assistenza - subisca, per l'avverarsi del rischio, un danno ulteriore rispetto alle conseguenze normalmente proprie (e tollerabili) di ogni intervento sanitario. ( Precedente: S. 307/1990 - mass. 15627 ). La mancata previsione del diritto all'indennizzo in caso di patologie irreversibili derivanti da determinate vaccinazioni raccomandate si risolve in una lesione degli artt. 2, 3 e 32 Cost., in quanto le esigenze di solidarietà sociale e di tutela della salute del singolo richiedono che sia la collettività ad accollarsi l'onere del pregiudizio individuale, mentre sarebbe ingiusto consentire che siano i singoli danneggiati a sopportare il costo del beneficio anche collettivo. In tali casi, l'estensione dell'indennizzo alle vaccinazioni raccomandate completa il "patto di solidarietà" tra individuo e collettività in tema di tutela della salute e rende più serio e affidabile ogni programma sanitario volto alla diffusione dei trattamenti vaccinali, al fine della più ampia copertura della popolazione. ( Precedenti: S. 268/2017 - mass. 40637; S. 107/2012 - mass. 36289 ). Uno degli elementi essenziali affinché un trattamento sanitario obbligatorio di tipo vaccinale sia conforme all'art. 32 Cost. consiste nella previsione di un'equa indennità in favore del soggetto danneggiato ( Precedenti: S. 15/2023 - mass. 45317; S. 14/2023 - mass. 45312; S. 5/2018 - mass. 39688; S. 258/1994 - mass. 20856 ). La determinazione del contenuto e delle modalità di realizzazione dell'indennizzo erogato ai sensi della legge n. 210 del 1992, è rimessa alla discrezionalità del legislatore, il quale, nel ragionevole bilanciamento dei diversi interessi costituzionalmente rilevanti coinvolti, può subordinare l'attribuzione delle provvidenze alla presentazione della relativa domanda entro un dato termine. Il vaglio di legittimità costituzionale implica, tuttavia, la verifica che le scelte legislative sul punto non siano affette da palese arbitrarietà o irrazionalità: vizi, questi, che non inficiano il termine di tre anni fissato con l'art. 1, comma 9, della legge n. 238 del 1997, decorrente dal momento dell'acquisita conoscenza dell'esito dannoso dell'intervento terapeutico, non apparendo esso talmente breve da frustrare la possibilità di esercizio del diritto alla prestazione e vanificare la previsione dell'indennizzo ( Precedenti: S. 342/2006 - mass. 30716; S. 226/2000 - mass. 25440; S. 27/1998 - mass. 23685 ). È la garanzia dei diritti incomprimibili ad incidere sul bilancio, e non l'equilibrio di questo a condizionarne la doverosa erogazione. ( Precedenti: S. 10/2022 - mass. 44484; S. 142/2021 - mass. 144011; S. 62/2020 - mass. 43127; S. 169/2017 - mass. 42051; S. 275/2016 - mass. 39358 ).
+
+## Parametri
+
+- Costituzione, art. 2
+- Costituzione, art. 3
+- Costituzione, art. 32
