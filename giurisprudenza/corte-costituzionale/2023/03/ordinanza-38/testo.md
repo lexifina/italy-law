@@ -1,0 +1,61 @@
+# Corte costituzionale, ordinanza 38/2023
+
+- ECLI: ECLI:IT:COST:2023:38
+- Tipo: ordinanza
+- Presidente: SCIARRA
+- Relatore: Emanuela Navarretta
+- Redattore: Emanuela Navarretta
+- Data della decisione: 06/02/2023
+- Data del deposito: 09/03/2023
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA PRINCIPALE
+- Massime: 45345
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:38
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Silvana SCIARRA; Giudici : Daria de PRETIS, Nicolò ZANON, Franco MODUGNO, Augusto Antonio BARBERA, Giulio PROSPERETTI, Giovanni AMOROSO, Luca ANTONINI, Stefano PETITTI, Angelo BUSCEMA, Emanuela NAVARRETTA, Filippo PATRONI GRIFFI, Marco D'ALBERTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale degli artt. 3, comma 2, lettere c) e d), 6, 7, comma 2, lettera d), 13 e 14, comma 3, lettera a), della legge della Regione Siciliana 29 luglio 2021, n. 20 (Legge regionale per l'accoglienza e l'inclusione. Modifiche di norme), promosso dal Presidente del Consiglio dei ministri con ricorso notificato il 5 ottobre 2021, depositato in cancelleria il 6 ottobre 2021, iscritto al n. 58 del registro ricorsi 2021 e pubblicato nella Gazzetta Ufficiale della Repubblica n. 44, prima serie speciale, dell'anno 2021.
+ Udita nella camera di consiglio del 25 gennaio 2023 la Giudice relatrice Emanuela Navarretta;
+ deliberato nella camera di consiglio del 6 febbraio 2023.
+ Ritenuto che, con ricorso notificato il 5 ottobre 2021, depositato il 6 ottobre 2021 (reg. ric. n. 58 del 2021), il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, ha promosso, in riferimento complessivamente all'art. 117, secondo comma, lettere a) e b), e terzo comma, della Costituzione, questioni di legittimità costituzionale degli artt. 3, comma 2, lettere c) e d), 6, 7, comma 2, lettera d), 13 e 14, comma 3, lettera a), della legge della Regione Siciliana 29 luglio 2021, n. 20 (Legge regionale per l'accoglienza e l'inclusione. Modifiche di norme);
+ che l'art. 3, comma 1, della suddetta legge regionale stabilisce che la Regione, nell'ambito delle proprie competenze, contribuisce alla programmazione e alla gestione delle politiche di accoglienza, al fine di favorire l'inclusione sociale, culturale e civile dei destinatari della stessa legge, mentre l'impugnato comma 2 dello stesso art. 3 prevede che, per dette finalità, la Regione: «c) valuta l'efficacia e l'efficienza degli interventi attuati sul territorio regionale, garantendo sul medesimo territorio regionale omogeneità e pari opportunità di accesso alle diverse prestazioni ed effettuando l'analisi ed il monitoraggio del fenomeno migratorio, al fine di evitare episodi e situazioni di discriminazione, anche avvalendosi del Centro regionale di coordinamento per la prevenzione ed il contrasto delle discriminazioni; d) promuove la formazione e l'aggiornamento degli operatori della pubblica amministrazione e delle associazioni ed enti che svolgono servizi specifici in materia di accoglienza ed inclusione»;
+ che, ad avviso del ricorrente, le valutazioni sull'efficacia e sull'efficienza degli interventi, nonché il loro monitoraggio interessano attività o interventi disposti dallo Stato per i profili di propria competenza legislativa esclusiva, ovvero le prestazioni e i servizi resi nei centri e strutture di accoglienza presenti nel territorio regionale;
+ che in particolare, per quanto riguarda i centri e le strutture di accoglienza dei richiedenti asilo, l'art. 20 del decreto legislativo 18 agosto 2015, n. 142 (Attuazione della direttiva 2013/33/UE recante norme relative all'accoglienza dei richiedenti protezione internazionale, nonché della direttiva 2013/32/UE, recante procedure comuni ai fini del riconoscimento e della revoca dello status di protezione internazionale), indicato quale norma interposta, rimette al Ministero dell'interno, Dipartimento per le libertà civili e l'immigrazione, che si avvale sul territorio anche delle prefetture, il monitoraggio e il controllo della gestione delle strutture di accoglienza previste dal medesimo decreto;
+ che, con riferimento alla promozione della formazione e dell'aggiornamento degli operatori della pubblica amministrazione e delle associazioni ed enti che svolgono servizi specifici in materia di accoglienza ed inclusione, l'art. 10, comma 5, del citato d.lgs. n. 142 del 2015, anch'esso indicato come norma interposta, dispone che «[i]l personale che opera nei centri è adeguatamente formato ed ha l'obbligo di riservatezza sui dati e sulle informazioni riguardanti i richiedenti presenti nel centro»;
+ che, secondo il ricorrente, per le citate ragioni, entrambe le disposizioni contenute nell'art. 3 della legge regionale impugnata sarebbero lesive della competenza legislativa esclusiva statale fissata dall'art. 117, secondo comma, lettere a) e b), Cost.;
+ che l'art. 6 della stessa legge reg. Siciliana n. 20 del 2021 prevede che «[l]a Regione si dota di un Piano per l'accoglienza e l'inclusione, con validità triennale, con il quale sono definiti gli indirizzi e le linee strategiche relativi agli interventi idonei a favorire l'accoglienza e l'inclusione dei destinatari della presente legge»;
+ che, secondo il ricorrente, anche questa disposizione determinerebbe una indebita invasione della sfera di competenza della normativa statale in materia di immigrazione e di diritto di asilo, in quanto l'art. 16 del d.lgs. n. 142 del 2015, da considerarsi norma interposta, riserva al tavolo di coordinamento nazionale, insediato presso il Ministero dell'interno, Dipartimento per le libertà civili e l'immigrazione, il compito di individuare le linee di indirizzo e predisporre la programmazione degli interventi diretti a ottimizzare il sistema di accoglienza, compresi i criteri di ripartizione regionale dei posti da destinare alle finalità di accoglienza (comma 1). In particolare, al comma 3 prevede che tali linee di indirizzo e gli interventi programmati, ai sensi del comma 1, siano attuati a livello territoriale attraverso tavoli di coordinamento regionale insediati presso le prefetture - uffici territoriali del Governo del capoluogo di regione;
+ che la disposizione regionale, nel prevedere una programmazione di «linee strategiche e indirizzi» avulsa dai cennati strumenti di coordinamento, sarebbe anch'essa suscettibile di incidere illegittimamente sulla competenza legislativa esclusiva statale di cui all'art. 117, secondo comma, lettere a) e b), Cost.;
+ che l'art. 7 della legge reg. Siciliana n. 20 del 2021 stabilisce che, sulla base degli indirizzi contenuti nel piano triennale di cui al precedente art. 6, la Giunta regionale approva il programma annuale (comma 1) e che la Regione, attraverso di esso, promuove l'azione dei comuni nella materia oggetto della legge, attivando, tra gli altri, «interventi di assistenza e di prima accoglienza per coloro che versano in condizioni di vulnerabilità» (comma 2, lettera d);
+ che il ricorrente reputa che anche quest'ultima disposizione si ponga in contrasto con norme adottate dallo Stato nell'ambito della propria competenza legislativa esclusiva, atteso che l'art. 8 del d.lgs. n. 142 del 2015, da intendersi come norma interposta, prevede che le funzioni di prima assistenza sono assicurate nei centri di cui agli artt. 9 e 11 dello stesso decreto, ossia nei centri governativi di prima accoglienza istituiti con decreto del Ministro dell'interno, mentre l'accoglienza dei richiedenti protezione internazionale è assicurata, nei limiti dei posti disponibili, nelle strutture del sistema di accoglienza e integrazione;
+ che per tale ragione la disposizione regionale sarebbe idonea a incidere sugli assetti organizzativi risultanti dalla disciplina statale, senza alcun riferimento agli strumenti di coordinamento con gli enti locali, pur previsti;
+ che l'art. 14, comma 3, lettera a), della legge reg. Siciliana n. 20 del 2021 dispone che: «[l]'Assessore regionale per la salute promuove: a) l'adozione di strumenti per il riconoscimento e la valutazione dei bisogni di salute specifici delle persone di cui al comma 1, per il monitoraggio della situazione sanitaria e degli interventi attuati dagli enti competenti, anche al fine di promuovere la diffusione delle migliori pratiche [...]»;
+ che, ad avviso del ricorrente, la formulazione generalizzata della norma rischia di determinare un monitoraggio omnicomprensivo sui centri e sulle strutture di accoglienza, con un evidente impatto sul riparto di competenze in materia di immigrazione, ancóra una volta delineato dall'art. 117, secondo comma, lettere a) e b), Cost.;
+ che l'art. 13 della medesima legge regionale ha istituito, presso l'Assessorato regionale della famiglia, delle politiche sociali e del lavoro, l'elenco regionale dei mediatori culturali, prevedendo, rispettivamente ai commi 2 e 3, che «[l]'iscrizione all'elenco e` subordinata al possesso di adeguata professionalità in materia di mediazione culturale attestata a seguito del conseguimento di una formazione specifica o di comprovate esperienze lavorative» e che «[l']Assessore regionale per la famiglia, le politiche sociali e il lavoro disciplina con decreto i requisiti e le modalità per l'inserimento nell'elenco»;
+ che il ricorrente ravvisa un contrasto di tale previsione con i principi fondamentali della legislazione statale nella materia «professioni», ai sensi dell'art. 117, terzo comma, Cost., avendo inserito il mediatore culturale nel repertorio delle qualificazioni professionali, in assenza di un'organica disciplina nazionale di tale figura;
+ che la Regione Siciliana non si è costituita in giudizio;
+ che in data 20 aprile 2022, in prossimità dell'udienza pubblica dell'11 maggio 2022, il Presidente del Consiglio dei ministri ha depositato istanza di rinvio della trattazione della questione, al fine di valutare, alla luce delle modifiche apportate alle disposizioni impugnate dall'art. 7 della legge della Regione Siciliana 22 marzo 2022, n. 4 (Norme in materia di riutilizzo delle acque reflue urbane. Modifiche alla legge regionale 29 luglio 2021, n. 20), l'esistenza dei presupposti per la rinuncia al ricorso;
+ che, dopo il rinvio a nuovo ruolo disposto con decreto presidenziale del 22 aprile 2022, il Presidente del Consiglio dei ministri, previa conforme deliberazione del Consiglio dei ministri del 7 luglio 2022, ha rinunciato al ricorso con atto depositato il 21 luglio 2022.
+ Considerato che il Presidente del Consiglio dei ministri, previa conforme deliberazione del Consiglio dei ministri del 7 luglio 2022, ha rinunciato al ricorso con atto depositato il 21 luglio 2022, sul presupposto che, in conseguenza dello ius superveniens, la Regione Siciliana ha modificato le disposizioni impugnate eliminando i profili di illegittimità costituzionale sollevati e ha comunicato la mancata applicazione delle disposizioni impugnate nel periodo di vigenza, con conseguente venir meno delle motivazioni che avevano condotto all'impugnazione;
+ che, pertanto, ai sensi dell'art. 23 delle Norme integrative per i giudizi davanti alla Corte costituzionale, vigente ratione temporis, la rinuncia al ricorso, in mancanza della costituzione della resistente, comporta l'estinzione del processo (ex plurimis, ordinanze n. 232, n. 142 e n. 44 del 2022, n. 51 del 2021, n. 226 del 2020, n. 244, n. 60 e n. 55 del 2018).
+ Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, 9, comma 2, e 23 delle Norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara estinto il processo.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 6 febbraio 2023.
+ F.to:
+ Silvana SCIARRA, Presidente
+ Emanuela NAVARRETTA, Redattrice
+ Roberto MILANA, Direttore della Cancelleria
+ Depositata in Cancelleria il 9 marzo 2023.
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
