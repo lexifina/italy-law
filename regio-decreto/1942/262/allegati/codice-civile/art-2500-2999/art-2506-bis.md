@@ -10,6 +10,6 @@ Degli elementi del passivo, la cui destinazione non e' desumibile dal progetto, 
 
 Dal progetto di scissione devono risultare i criteri di distribuzione delle azioni o quote delle societa' beneficiarie.
 
-Qualora il progetto preveda una attribuzione delle partecipazioni ai soci non proporzionale alla loro quota di partecipazione originaria, il progetto medesimo deve prevedere il diritto dei soci che non approvino la scissione di far acquistare le proprie partecipazioni per un corrispettivo determinato alla stregua dei criteri previsti per il recesso, indicando coloro a cui carico e' posto l'obbligo di acquisto.
+Qualora il progetto preveda una attribuzione delle partecipazioni ai soci non proporzionale alla loro quota di partecipazione originaria, il progetto medesimo deve prevedere il diritto dei soci che non approvino la scissione di far acquistare le proprie partecipazioni per un corrispettivo determinato alla stregua dei criteri previsti per il recesso, indicando coloro a cui carico e' posto l'obbligo di acquisto. ((Il progetto di scissione mediante scorporo non contiene i dati di cui ai numeri 3), 4), 5) e 7) dell'articolo 2501-ter, primo comma, ne' altro contenuto incompatibile con l'assegnazione delle azioni o quote delle societa' beneficiarie alla societa' stessa, anziche' ai suoi soci.))
 
-((Il progetto di scissione e' depositato per l'iscrizione nel registro delle imprese ovvero pubblicato sul sito Internet della societa' a norma dell'articolo 2501-ter, commi terzo e quarto.))
+Il progetto di scissione e' depositato per l'iscrizione nel registro delle imprese ovvero pubblicato sul sito Internet della societa' a norma dell'articolo 2501-ter, commi terzo e quarto.
