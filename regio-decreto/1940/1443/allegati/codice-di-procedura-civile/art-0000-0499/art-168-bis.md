@@ -2,15 +2,15 @@ Art. 168-bis.
 
 (Designazione del giudice istruttore).
 
-Formato un fascicolo d'ufficio a norma dell'articolo precedente, il cancelliere lo presenta senza indugio al presidente del tribunale, il quale designa il giudice istruttore davanti al quale le parti debbono comparire, se non creda di procedere egli stesso all'istruzione. Nei tribunali divisi in piu' sezioni il presidente assegna la causa ad una di esse, e il presidente di questa provvede nelle stesse forme alla designazione del giudice istruttore. (171) ((173))
+Formato un fascicolo d'ufficio a norma dell'articolo precedente, il cancelliere lo presenta senza indugio al presidente del tribunale, il quale designa il giudice istruttore davanti al quale le parti debbono comparire, se non creda di procedere egli stesso all'istruzione. Nei tribunali divisi in piu' sezioni il presidente assegna la causa ad una di esse, e il presidente di questa provvede nelle stesse forme alla designazione del giudice istruttore. (171) (173)
 
 La designazione del giudice istruttore deve in ogni caso avvenire non oltre il secondo giorno successivo alla costituzione della parte piu' diligente.
 
-Subito dopo la designazione del giudice istruttore il cancelliere iscrive la causa sul ruolo della sezione e su quello del giudice istruttore. (67) (72) (171) ((173))
+Subito dopo la designazione del giudice istruttore il cancelliere iscrive la causa sul ruolo della sezione e su quello del giudice istruttore. (67) (72) (171) (173)
 
 Se nel giorno fissato per la comparizione il giudice istruttore designato non tiene udienza, la comparizione delle parti e' d'ufficio rimandata all'udienza immediatamente successiva tenuta dal giudice designato. (67) (72)
 
-Il giudice istruttore puo' differire, con decreto da emettere entro cinque giorni dalla presentazione del fascicolo, la data della prima udienza fino ad un massimo di quarantacinque giorni. In tal caso il cancelliere comunica alle parti costituite la nuova data della prima udienza. PERIODO SOPPRESSO DAL D.L. 7 OTTOBRE 1994, N. 571, CONVERTITO CON MODIFICAZIONI DALLA L.6 DICEMBRE 1994, N. 673. (67) (72)
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149 COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
 ---------------
 

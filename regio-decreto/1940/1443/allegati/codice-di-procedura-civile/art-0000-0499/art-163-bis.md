@@ -2,11 +2,11 @@ Art. 163-bis.
 
 (Termini per comparire).
 
-Tra il giorno della notificazione della citazione e quello dell'udienza di comparizione debbono intercorrere termini liberi non minori di centoventi giorni se il luogo della notificazione si trova in Italia e di centocinquanta giorni se si trova all'estero.(67)(72)(116)(171)((173))
+Tra il giorno della notificazione della citazione e quello dell'udienza di comparizione debbono intercorrere termini liberi non minori di centoventi giorni se il luogo della notificazione si trova in Italia e di centocinquanta giorni se si trova all'estero.(67)(72)(116)(171)(173)
 
-Nelle cause che richiedono pronta spedizione il presidente puo', su istanza dell'attore e con decreto motivato in calce dell'atto originale e delle copie della citazione, abbreviare fino alla meta' i termini indicati dal primo comma.
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149 COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
-Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, almeno cinque giorni liberi prima dell'udienza fissata dal presidente. In questo caso i termini di cui all'articolo 171-ter decorrono dall'udienza cosi' fissata. (171)((173))
+Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, almeno cinque giorni liberi prima dell'udienza fissata dal presidente. In questo caso i termini di cui all'articolo 171-ter decorrono dall'udienza cosi' fissata. (171)(173)
 
 ---------------
 

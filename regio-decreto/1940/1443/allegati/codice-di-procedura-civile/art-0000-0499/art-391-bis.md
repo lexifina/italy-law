@@ -2,13 +2,13 @@ Art. 391-bis.
 
 (Correzione degli errori materiali e revocazione delle sentenze della Corte di Cassazione)
 
-Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione puo' essere chiesta, e puo' essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione puo' essere chiesta entro il termine perentorio di sessanta giorni dalla notificazione ovvero di sei mesi dalla pubblicazione del provvedimento. (152)(171)((173))
+Se la sentenza, l'ordinanza o il decreto di cui all'articolo 380-bis pronunciati dalla Corte di cassazione sono affetti da errore materiale o di calcolo ai sensi dell'articolo 287, ovvero da errore di fatto ai sensi dell'articolo 395, numero 4), la parte interessata puo' chiederne la correzione o la revocazione con ricorso ai sensi degli articoli 365 e seguenti. La correzione puo' essere chiesta, e puo' essere rilevata d'ufficio dalla Corte, in qualsiasi tempo. La revocazione puo' essere chiesta entro il termine perentorio di sessanta giorni dalla notificazione ovvero di sei mesi dalla pubblicazione del provvedimento. (152)(171)(173)
 
-Sulla correzione la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma. (152)
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
-Sul ricorso per correzione dell'errore materiale pronuncia con ordinanza.
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
-Sul ricorso per revocazione, anche per le ipotesi regolate dall'articolo 391-ter, la Corte pronuncia nell'osservanza delle disposizioni di cui all'articolo 380-bis, primo e secondo comma, se ritiene l'inammissibilita', altrimenti rinvia alla pubblica udienza della sezione semplice. (152)
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
 La pendenza del termine per la revocazione della sentenza della Corte di Cassazione non impedisce il passaggio il giudicato della sentenza impugnata con ricorso per cassazione respinto.
 

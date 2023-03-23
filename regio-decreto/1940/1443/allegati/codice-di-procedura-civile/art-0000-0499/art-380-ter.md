@@ -2,11 +2,11 @@ Art. 380-ter
 
 (Procedimento per la decisione sulle istanze di regolamento di giurisdizione e di competenza).
 
-Nei casi previsti dall'articolo 375, secondo comma, numero 4, si applica l'articolo 380-bis.1; il pubblico ministero deposita le sue conclusioni scritte nel termine ivi stabilito. (171) ((173))
+Nei casi previsti dall'articolo 375, secondo comma, numero 4, si applica l'articolo 380-bis.1; il pubblico ministero deposita le sue conclusioni scritte nel termine ivi stabilito. (171) (173)
 
-Le conclusioni e il decreto del presidente che fissa l'adunanza sono notificati, almeno venti giorni prima, agli avvocati delle parti, che hanno facolta' di presentare memorie non oltre cinque giorni prima della medesima adunanza. .
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
-In camera di consiglio la Corte giudica senza l'intervento del pubblico ministero e delle parti.
+((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
 
 (152)
 

@@ -1,13 +1,3 @@
 Art. 736-bis.
 
-(( (Provvedimenti di adozione degli ordini di protezione contro gli abusi familiari).))
-
-((Nei casi di cui all'articolo 342-bis del codice civile, l'istanza si propone, anche dalla parte personalmente, con ricorso al tribunale del luogo di residenza o di domicilio dell'istante, che provvede in camera di consiglio in composizione monocratica.
-
-Il presidente del tribunale designa il giudice a cui e' affidata la trattazione del ricorso. Il giudice, sentite le parti, procede nel modo che ritiene piu' opportuno agli atti di istruzione necessari, disponendo, ove occorra, anche per mezzo della polizia tributaria, indagini sui redditi, sul tenore di vita e sul patrimonio personale e comune delle parti, e provvede con decreto motivato immediatamente esecutivo.
-
-Nel caso di urgenza, il giudice, assunte ove occorra sommarie informazioni, puo' adottare immediatamente l'ordine di protezione fissando l'udienza di comparizione delle parti davanti a se' entro un termine non superiore a quindici giorni ed assegnando all'istante un termine non superiore a otto giorni per la notificazione del ricorso e del decreto. All'udienza il giudice conferma, modifica o revoca l'ordine di protezione.
-
-Contro il decreto con cui il giudice adotta l'ordine di protezione o rigetta il ricorso, ai sensi del secondo comma, ovvero conferma, modifica o revoca l'ordine di protezione precedentemente adottato nel caso di cui al terzo comma, e' ammesso reclamo al tribunale entro i termini previsti dal secondo comma dell'articolo 739. Il reclamo non sospende l'esecutivita' dell'ordine di protezione. Il tribunale provvede in camera di consiglio, in composizione collegiale, sentite le parti, con decreto motivato non impugnabile. Del collegio non fa parte il giudice che ha emesso il provvedimento impugnato.
-
-Per quanto non previsto dal presente articolo, si applicano al procedimento, in quanto compatibili, gli articoli 737 e seguenti)).
+((ARTICOLO ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149, COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197))
