@@ -1,0 +1,19 @@
+# TAR PUGLIA - BARI, ordinanza collegiale n. 538/2023
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR PUGLIA - BARI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300538
+- Numero di ricorso (NRG): 201600299
+- Data di pubblicazione: 2023-03-24
+- Udienza: UDIENZA PUBBLICA
+- Esito: DICHIARA INTERROTTO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2016-03-05
+- Oggetto del ricorso: OPPOSIZIONE DI TERZO (EX ARTT. 108 E 109 C.P.A.): SENT. N. 1600/2015 TAR PUGLIA BARI SEZ. I - PAGAMENTO CORRISPETTIVI PER LAVORI DI RISTRUTTURAZIONE PADIGLIONE OSPEDALIERO
+- Tipo di ricorso: IN OTTEMPERANZA
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-puglia-bari-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/406958c3-ae34-423f-9689-95a802beee96/resource/7f412b32-88a2-43d7-a31f-9b958c1ddec8/download/tar-puglia-bari-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
