@@ -1,0 +1,85 @@
+((Allegato XXXII
+
+(Titolo XIV)
+
+Indice
+
+L'indice contiene una serie di elementi non esaustivi che, qualora applicabili al caso di specie, fungono da guida per la redazione del piano di emergenza.
+
+1. Parte generale
+
+1.1. Premessa (cenni storici riguardanti il piano; esigenza di revisione e aggiornamento tenendo conto delle lezioni apprese nel corso delle esercitazioni o eventi; elenco delle Amministrazioni e degli enti coinvolti).
+
+1.2. Normativa di riferimento
+
+1.3. Descrizione del sito (realta' ambientale e socio-produttiva del territorio circostante l'impianto).
+
+1.3.1. Inquadramento territoriale
+
+1.3.2. Idrologia superficiale
+
+1.3.3. Geologia ed idrogeologia
+
+1.3.4. Climatologia locale
+
+1.3.5. Demografia
+
+1.3.6. Assetto urbanistico
+
+1.3.7. Attivita' antropiche
+
+1.3.8. Infrastrutture e servizi
+
+1.4. Descrizione dell'impianto (impianto ed edifici ed assetto autorizzativo, descrizione dei sistemi controllo degli scarichi radioattivi aeriformi e liquidi)
+
+1.5. Descrizione dello stato radiologico ambientale (dati della radioattivita' ambientale circostante l'impianto risultante dalle attivita' di monitoraggio radiologico condotte dall'esercente o da altri soggetti, pubblici o privati)
+
+1.6. Descrizione dei mezzi per il monitoraggio radiologico ambientale in emergenza.
+
+2. Presupposti tecnici della pianificazione (sintesi dei documenti che costituiscono la base tecnica del piano)
+
+2.1. Analisi dei possibili incidenti
+
+2.2. Incidenti di riferimento
+
+2.3. Conseguenze radiologiche degli incidenti di riferimento
+
+2.4. Conclusioni
+
+3. Strategia di protezione ottimizzta perindividui della popolazione potenzialmente esposti
+
+4. Obiettivi dellapianificazione
+
+Si ritiene essenziale definire almeno i seguenti obiettivi, illustrati mediante:
+
+Una definizione iniziale in cui viene spiegata in sintesi la motivazione per cui lo specifico obiettivo deve essere conseguito
+
+L'individuazione dei soggetti che partecipano alle attivita' necessarie al conseguimento dei suddetti obiettivi
+
+Le indicazioni di massima che individuano la strategia operativa per il raggiungimento degli obiettivi precedenti (esempio: misure protettive da adottarsi in caso di incidente)
+
+4.1. Attivazione del piano e scambio delle informazioni (modalita' e sistemi per l'attivazione del piano, informazioni trasmesse e relativi flussi, anche in forma grafica)
+
+4.2. Coordinamento operativo (autorita' responsabile del coordinamento dell'emergenza, della direzione unitaria dei soccorsi ed enti che concorrono a questo obiettivo, anche ai fini della valutazione radiologica)
+
+4.3. Rilevamenti radiometrici e controllo della contaminazione ambientale e delle matrici alimentari (enti che concorrono all'esecuzione dei rilievi radiometrici sulle matrici ambientali ed alimentari campionate nel territorio interessato).
+
+4.4. Provvedimenti a tutela della salute pubblica (misure a tutela della salute pubblica, sia dirette che indirette, da adottarsi ai fini della riduzione dell'esposizione alle radiazioni ionizzanti)
+
+4.5. Informazione alla popolazione (modalita' con le quali sara' garantita l'informazione alla popolazione, sia preventiva, sia in emergenza).
+
+5. Modello di intervento (responsabilita' e compiti per la gestione dell'emergenza ai fini del raggiungimento degli obiettivi della pianificazione)
+
+5.1. Classificazione degli stati dell'emergenza (per esempio stato di preallarme e stato di allarme)
+
+5.2. Disposizioni da adottare in caso di stato di preallarme (azioni compiute dalle autorita' e dagli enti coinvolti nello stato di preallarme)
+
+5.3. Disposizioni da adottare in caso di allarme (azioni compiute dalle autorita' e dagli enti coinvolti nello stato di allarme con la descrizione delle modalita' di passaggio tra lo stato di preallarme e quello di allarme)
+
+5.4. Transizione dalle situazioni di esposizione di emergenza alle situazioni di esposizione esistenti
+
+5.5 Transizione dalle situazioni di esposizione esistente alla situazione ordinaria, ove prevista.
+
+5.6 Cessazione dello stato di emergenza (modalita' con cui e' dichiarata la cessazione dell'emergenza).
+
+6. Esercitazioni (cadenza, modalita' e tipologia di esercitazioni previste per testare il piano, anche ai fini del suo aggiornamento) 7. Allegati: documenti tecnici di riferimento, quali ad esempio il documento dei presupposti tecnici, cartografia di inquadramento e dati territoriali dell'area interessata dall'applicazione del piano, livelli di riferimento per le situazioni di esposizione di emergenza, livelli di riferimento per l'esposizione accidentale o di emergenza dei lavoratori (all'articolo 124, commi 6 e 7), criteri generici predefiniti per particolari misure protettive, programma di monitoraggio radiometrico nelle varie fasi dell'emergenza, dati territoriali, demografici, patrimonio agricolo e zootecnico dell'area di riferimento, schema di diramazione degli stati dell'emergenza, schema del flusso delle informazioni, elenco telefonico di reperibilita', ogni altro documento ritenuto di utile supporto alla predisposizione e all'applicazione efficiente ed efficace del piano, caratteristiche idrodinamiche e regime dei venti nella rada portuale e carta nautica nel caso di piani di emergenza esterna per le aree portuali.))
