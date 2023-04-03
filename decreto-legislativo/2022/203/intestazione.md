@@ -1,0 +1,9 @@
+DECRETO LEGISLATIVO
+
+25 novembre 2022
+
+203
+
+Disposizioni integrative e correttive al decreto legislativo 31 luglio 2020, n. 101, di attuazione della direttiva 2013/59/Euratom, che stabilisce norme fondamentali di sicurezza relative alla protezione contro i pericoli derivanti dall'esposizione alle radiazioni ionizzanti, e che abroga le direttive 89/618/Euratom, 90/641/Euratom, 96/29/Euratom, 97/43/Euratom e 2003/122/Euratom e riordino della normativa di settore in attuazione dell'articolo 20, comma 1, lettera a), della legge 4 ottobre 2019, n. 117. (22G00207)
+
+Entrata in vigore del provvedimento: 18/01/2023
