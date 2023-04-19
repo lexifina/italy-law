@@ -1,0 +1,19 @@
+# TAR CALABRIA - REGGIO CALABRIA, decreto presidenziale n. 47/2023
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR CALABRIA - REGGIO CALABRIA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300047
+- Numero di ricorso (NRG): 201900196
+- Data di pubblicazione: 2023-04-19
+- Udienza: PROCESSO MONOCRATICO
+- Esito: LIQUIDA IL COMPENSO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2019-03-29
+- Oggetto del ricorso: GIUDIZIO DI OTTEMPERANZA - DECRETO INGIUNTIVO EMESSO DAL TRIBUNALE CIVILE DI LOCRI N. 50/2016 (N. 452/2016 R.G.), DEPOSITATO IL 6 MAGGIO 2016 E NOTIFICATO IL SUCCESSIVO 18 MAGGIO 2016 RICHIESTA CHIARIMENTI COMMISSARIO AD ACTA
+- Tipo di ricorso: IN OTTEMPERANZA
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-reggio-calabria-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/b6f426da-6837-4ba0-a561-451ee3ebb657/resource/d0be81ed-0297-46c0-88a6-8b77f88de09b/download/tar-calabria-reggio-calabria-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
