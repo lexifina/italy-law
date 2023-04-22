@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 21 aprile 2023
+
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Fitto, Ministro per gli affari europei, il Sud, le politiche di coesione e il PNRR Zangrillo, Ministro per la pubblica amministrazione Abodi, Ministro per lo sport e i giovani Alberti Casellati, Ministro per le riforme istituzionali e la semplificazione normativa Giorgetti, Ministro dell'economia e delle finanze Salvini, Ministro delle infrastrutture e dei trasporti Valditara, Ministro dell'istruzione e del merito Bernini, Ministro dell'universita' e della ricerca Crosetto, Ministro della difesa Piantedosi, Ministro dell'interno Nordio, Ministro della giustizia Garnero Santanche', Ministro del turismo Pichetto Fratin, Ministro dell'ambiente e della sicurezza energetica Musumeci, Ministro per la protezione civile e le politiche del mare Visto, il Guardasigilli: Nordio
