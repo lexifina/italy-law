@@ -1,0 +1,17 @@
+# Massima n. 45465
+
+- Pronuncia: Corte costituzionale, sentenza 84/2023 (ECLI:IT:COST:2023:84)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:84
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Bilancio e contabilità pubblica - Copertura finanziaria - Previsione legislativa che determina, anche in via ipotetica, nuove spese - Necessaria individuazione, da parte del legislatore regionale, delle pertinenti risorse, in modo non generico né privo della chiarezza finanziaria minima - Inscindibile connessione tra l'equilibrio economico-finanziario del complesso delle amministrazioni pubbliche e l'esigenza di garantire l'unità economica della Repubblica - Applicabilità alle autonomie speciali dei principi fondamentali in materia di coordinamento della finanza pubblica. (Classif. 036005).
+
+## Testo
+
+L'equilibrio finanziario presuppone che ogni intervento programmato sia sorretto dalla previa individuazione delle pertinenti risorse: nel sindacato di costituzionalità copertura finanziaria ed equilibrio integrano una clausola generale in grado di operare pure in assenza di norme interposte quando l'antinomia con le disposizioni impugnate coinvolga direttamente il precetto costituzionale. ( Precedenti: S. 155/2022 - mass. 45010; S. 274/2017 - mass. 41125). L'art. 81, terzo comma, Cost. impone che, ogniqualvolta si introduca una previsione legislativa che possa, anche solo in via ipotetica, determinare nuove spese, occorre sempre indicare i mezzi per farvi fronte. ( Precedenti: S. 155/2022 - mass. 45010; S. 163/2020 - mass. 43309; S. 307/2013 -mass. 37548 ). Copertura economica delle spese ed equilibrio del bilancio sono due facce della stessa medaglia, dal momento che l'equilibrio presuppone che ogni intervento programmato sia sorretto dalla previa individuazione delle pertinenti risorse. ( Precedente: S. 274/2017 - mass. 41125 ). L'equilibrio economico-finanziario del complesso delle amministrazioni pubbliche è inscindibilmente connesso all'esigenza di garantire l'unità economica della Repubblica, come richiesto dai principi costituzionali e dai vincoli derivanti dall'appartenenza dell'Italia all'Unione europea. ( Precedente: S. 82/2015 - mass. 38365 ). Devono essere dichiarate costituzionalmente illegittime le leggi in cui l'individuazione degli interventi e la relativa copertura finanziaria è stata effettuata dal legislatore regionale in modo generico, risultando priva di quella chiarezza finanziaria minima richiesta in riferimento all'art. 81 Cost. ( Precedente: S. 227/2019-mass. 40866 ). I principi di coordinamento della finanza pubblica recati dalla legislazione statale si applicano anche nei confronti delle autonomie speciali poiché funzionali a prevenire disavanzi di bilancio, a preservare l'equilibrio economico-finanziario del complesso delle amministrazioni pubbliche e a garantire l'unità economica della Repubblica, dato che la finanza delle Regioni a Statuto speciale è parte della finanza pubblica allargata. ( Precedenti: S. 231/2017 - mass. 41851; S. 80/2017 - mass. 41271; S. 82/2015 - mass. 38365; S. 54/2014 - mass. 37786; S. 229/2011 - mass. 35775; S. 169/2007 - mass. 31321; S. 82/2007 - mass. 31102; S. 417/2005 - mass. 29946; S. 353/2004 -mass. 28862 ).
+
+## Parametri
+
+- Costituzione, art. 81, comma 3
