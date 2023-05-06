@@ -1,0 +1,3 @@
+Art. 1-quinquies.
+
+(( ARTICOLO ABROGATO DAL D.LGS. 28 GENNAIO 2008, N.25 ))
