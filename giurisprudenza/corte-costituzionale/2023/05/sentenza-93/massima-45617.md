@@ -1,0 +1,22 @@
+# Massima n. 45617
+
+- Pronuncia: Corte costituzionale, sentenza 93/2023 (ECLI:IT:COST:2023:93)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:93
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Edilizia e urbanistica - Interventi in deroga agli strumenti urbanistici - Accertamento di conformità - Requisito - Necessità che le opere siano rispondenti alla disciplina urbanistico-edilizia vigente tanto al momento di realizzazione dell'opera, quanto al momento dell'istanza (c.d. doppia conformità) - Sanatorie regionali extra ordinem - Riconducibilità all'istituto del condono, di competenza esclusiva statale nella materia del governo del territorio (nel caso di specie: illegittimità costituzionale di disposizione della Regione Umbria che esonera le strutture sanabili in aree terremotate dalla conformità agli strumenti urbanistici vigenti al momento dell'edificazione). (Classif. 090005).
+
+## Testo
+
+L’art. 36 t.u. edilizia [nel disciplinare l’accertamento di conformità] prescrive il requisito della doppia conformità – principio fondamentale nella materia del governo del territorio e norma fondamentale di riforma economico-sociale – per cui, ai fini del rilascio del permesso in sanatoria, è richiesta la rispondenza delle opere alla disciplina urbanistico-edilizia vigente tanto al momento della loro realizzazione quanto al momento della presentazione della relativa istanza. Ai fini della “regolarizzazione” è, dunque, necessario l’assoluto rispetto delle relative prescrizioni durante tutto l’arco temporale compreso tra la realizzazione dell’opera e la presentazione dell’istanza con la conseguenza che risultano sanabili i soli abusi formali (opere realizzate in difetto di, o in difformità dal, titolo edilizio), che non arrecano danno urbanistico-edilizio. (Precedenti: S. 165/2022 – mass. 45175; S. 24/2022 – mass. 44558; S. 70/2020 – mass. 43257; S. 77/2021 – mass. 43785; S. 68/2018 – mass. 41447 e 41449; S. 232/2017 – mass.41706; S. 107/2017 – mass. 41204).Un intervento normativo dispone un condono edilizio straordinario quando consente la sanatoria di opere non solo prive del necessario titolo edilizio (abusi formali) ma anche contrarie alle previsioni urbanistico-edilizie (abusi sostanziali). (Precedenti: S. 68/2018 – mass. 41447; S. 232/2017 – mass. 41706; S. 50/2017 – mass. 39737).La previsione regionale di una sanatoria extra ordinem viola i criteri di riparto della potestà legislativa in tema di condono edilizio e si traduce nella lesione di un principio fondamentale nella materia di governo del territorio, con conseguente violazione dell’art. 117, terzo comma, Cost.; spettano, infatti, alla legislazione statale le scelte di principio e, in particolare, quelle relative all’an del condono, con la conseguenza che esula dalla potestà legislativa regionale il potere di disporre autonomamente una sanatoria straordinaria per il solo territorio regionale. (Precedenti: S. 70/2020 –mass. 43257; S. 68/2018 – mass. 41447; S. 73/2017 – mass. 39504; S. 233/2015 – mass. 38605).(Nel caso di specie, è dichiarato costituzionalmente illegittimo, per violazione dell’art. 117, terzo comma, Cost., in relazione all’art. 36 t.u. edilizia, l’art. 66 della legge reg. Umbria n. 11 del 2005 che esonera le strutture non conformi, in tutto o in parte, agli strumenti urbanistici – realizzate per sostituire edifici abitativi e produttivi sgomberati per effetto del terremoto del 1997 – dalla conformità agli strumenti urbanistici vigenti al momento della edificazione. Così facendo, la norma censurata dal TAR Umbria, sez. prima, è contraria al requisito della doppia conformità e si discosta dall’istituto dell’accertamento di conformità introducendo, invero, un condono edilizio straordinario, in quanto consente la sanatoria di opere non solo prive del necessario titolo edilizio ma anche contrarie alle previsioni urbanistico-edilizie. L’illegittimità costituzionale della disposizione che consente tale speciale sanatoria si ripercuote sulle norme che disciplinano la variante appositamente adottata e su quelle contenute nei restanti commi dell’art. 66, tutte censurate dal rimettente e a quella strettamente funzionali).
+
+## Norme
+
+- legge della Regione Umbria, 22/02/2005 n. 11, art. 66
+
+## Parametri
+
+- Costituzione, art. 117, comma 3
+- decreto del Presidente della Repubblica, 06/06/2001 n. 380, art. 36
