@@ -1,0 +1,19 @@
+# TAR BASILICATA - POTENZA, ordinanza collegiale n. 366/2023
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR BASILICATA - POTENZA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300366
+- Numero di ricorso (NRG): 202300174
+- Data di pubblicazione: 2023-06-09
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-04-03
+- Oggetto del ricorso: ANNULLAMENTO DELLA DETERMINA N. 12BG.2023/D.00166 DEL 28/2/2023 DI AGGIUDICAZIONE DELLA RICHIESTA DI OFFERTA N. 2942123 PER L'AFFIDAMENTO DEL SERVIZIO DI SORVEGLIANZA, SICUREZZA E GUARDIA ARMATA DEGLI UFFICI REGIONALI SITI IN MELFI (PZ)
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-basilicata-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/88b22b46-69c8-4299-89a6-e0e7f738c43d/resource/457c90f1-04f5-4523-a6f6-cead08ab8510/download/tar-basilicata-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
