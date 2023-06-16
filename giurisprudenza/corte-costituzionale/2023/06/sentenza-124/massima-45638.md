@@ -1,0 +1,22 @@
+# Massima n. 45638
+
+- Pronuncia: Corte costituzionale, sentenza 124/2023 (ECLI:IT:COST:2023:124)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:124
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Sanità pubblica - Personale sanitario - Rapporto di convenzionamento dei medici di medicina generale - Inquadramento - Lavoro parasubordinato - Necessità di disciplina uniforme, pari a quella prevista per il lavoro contrattualizzato - Riconducibilità alla materia di competenza esclusiva statale dell'ordinamento civile - Conseguente esclusione, per il legislatore regionale, di disciplinare il trattamento economico e giuridico del rapporto di convenzionamento - Distinzione tra competenze regionali e statali - Applicazione del criterio della prevalenza (nel caso di specie: non fondatezza della questione di legittimità costituzionale di disposizione della Regione autonoma Friuli-Venezia Giulia che, per fronteggiare la carenza di medici in regime di convenzione, assegna la priorità di scelta, nel trasferimento di personale medico, ai medici che accettano incarichi in zone rimaste carenti per almeno due anni consecutivi e che abbiano garantito una permanenza in tali zone di minimo quattro anni). (Classif. 231007).
+
+## Testo
+
+Il rapporto convenzionale dei medici di medicina generale, pur essendo inquadrabile nella categoria della parasubordinazione, condivide con il lavoro pubblico contrattualizzato l’esigenza di uniformità sottesa all’integrazione tra normativa statale e contrattazione collettiva nazionale, ai sensi dell’art. 8 del d.lgs. n. 502 del 1992, sicché la relativa disciplina appartiene all’ordinamento civile, di competenza esclusiva del legislatore statale, restando precluso al legislatore regionale di regolamentare in via autonoma il trattamento economico e giuridico del rapporto in convenzionamento. ( Precedenti: S. 190/2022  - mass.  45050; S. 106/2022  - mass.  44810; S. 157/2019   - mass. 41750 ). Il discrimine tra la materia dell’ordinamento civile e quella residuale dell’organizzazione amministrativa regionale sta nel fatto che quest’ultima si arresta “a monte”, cioè alla fase antecedente l’instaurazione del rapporto di lavoro, riguardando solo i profili pubblicistico-organizzativi dell’impiego pubblico regionale, mentre ogni intervento legislativo “a valle”, incidente cioè sui rapporti lavorativi in essere, va ascritto alla materia dell’ordinamento civile. ( Precedenti: S. 267/2022  - mass.  45254; S. 255/2022  - mass.  45237; S. 84/2022   - mass. 44761 ). Per individuare la materia cui ricondurre la norma impugnata occorre tenere conto della sua  ratio , della finalità che persegue e del suo contenuto, tralasciando gli aspetti marginali e gli effetti riflessi, in modo da identificare precisamente l’interesse tutelato, secondo il cosiddetto criterio di prevalenza. ( Precedenti: S. 6/2023; S. 267/2022 - mass. 45253; S. 193/2022 - mass. 44922; S. 70/2022- mass. 44854 ). (Nel caso di specie, sono  dichiarate non fondate le questioni di legittimità costituzionale, promosse dal Governo in riferimento agli artt. 117, secondo comma, lett  l , Cost. e 4, primo comma, n. 1, statuto speciale, dell’art. 126, comma 2, della legge reg. Friuli-Venezia Giulia n. 8 del 2022, il quale, prevede che per i medici che accettano incarichi in zone rimaste carenti per almeno due anni consecutivi e che abbiano garantito una permanenza in tali zone di minimo quattro anni, le Aziende sanitarie riconoscono la priorità di scelta in fase di trasferimento. Per quanto possa produrre effetti secondari sull’andamento dei rapporti convenzionali, la disposizione regionale ha anzitutto una  ratio  organizzativa, in funzione di tutela della salute, che persegue cercando di assicurare la medicina di prossimità anche agli abitanti delle zone carenti. In funzione dell’assolvimento di questa precisa responsabilità organizzativa dell’ente territoriale, la ricaduta della norma sull’evoluzione del singolo rapporto in convenzionamento ha carattere riflesso e strumentale).
+
+## Norme
+
+- legge della Regione autonoma Friuli-Venezia Giulia, 09/06/2022 n. 8, art. 126, comma 2
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. l)
+- statuto regione Friuli Venezia Giulia, art. 4, comma 1 numero 1)
