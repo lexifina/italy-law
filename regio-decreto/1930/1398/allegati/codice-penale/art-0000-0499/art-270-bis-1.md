@@ -1,8 +1,8 @@
 Art. 270-bis.1
 
-(( (Circostanze aggravanti e attenuanti).))
+(Circostanze aggravanti e attenuanti)
 
-((Per i reati commessi per finalita' di terrorismo o di eversione dell'ordine democratico, punibili con pena diversa dall'ergastolo, la pena e' aumentata della meta', salvo che la circostanza sia elemento costitutivo del reato.
+Per i reati commessi per finalita' di terrorismo o di eversione dell'ordine democratico, punibili con pena diversa dall'ergastolo, la pena e' aumentata della meta', salvo che la circostanza sia elemento costitutivo del reato.
 
 Quando concorrono altre circostanze aggravanti, si applica per primo l'aumento di pena previsto per la circostanza aggravante di cui al primo comma. Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 114, concorrenti con l'aggravante di cui al primo comma, non possono essere ritenute equivalenti o prevalenti rispetto a questa e alle circostanze aggravanti per le quali la legge stabilisce una pena di specie diversa o ne determina la misura in modo indipendente da quella ordinaria del reato, e le diminuzioni di pena si operano sulla quantita' di pena risultante dall'aumento conseguente alle predette aggravanti.
 
@@ -10,4 +10,6 @@ Per i delitti commessi per finalita' di terrorismo o di eversione dell'ordine de
 
 Quando ricorre la circostanza di cui al terzo comma non si applica l'aggravante di cui al primo comma.
 
-Fuori del caso previsto dal quarto comma dell'articolo 56, non e' punibile il colpevole di un delitto commesso per finalita' di terrorismo o di eversione dell'ordine democratico che volontariamente impedisce l'evento e fornisce elementi di prova determinanti per la esatta ricostruzione del fatto e per la individuazione degli eventuali concorrenti.))
+Fuori del caso previsto dal quarto comma dell'articolo 56, non e' punibile il colpevole di un delitto commesso per finalita' di terrorismo o di eversione dell'ordine democratico che volontariamente impedisce l'evento e fornisce elementi di prova determinanti per la esatta ricostruzione del fatto e per la individuazione degli eventuali concorrenti.
+
+((Per i delitti aggravati dalla circostanza di cui al primo comma si procede sempre d'ufficio)).
