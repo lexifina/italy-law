@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/747/A/18.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/747/A/18.4"/>
+					<an:FRBRdate date="2023-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/19/Emend/S/747/A/18.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@"/>
+					<an:FRBRdate date="2023-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@.akn"/>
+					<an:FRBRdate date="2023-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2023-06-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2023-06-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/19/Emend/S/747/A/18.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/19/747" showAs="DDL 747"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIMNWWGLU3Y2QFTUAPJV3GPBEKJ4MVPWIVVDFX2NEJOTDQM0UNJPC" href="http://dati.senato.it/36437" showAs="MAGNI"/>
+				<an:TLCPerson id="IDYDPKH4VUCCQ2H2XI0GRR0CNKUJHYTIH5UIL022H45OUM2M0XS0LM" href="http://dati.senato.it/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDTQZWNC0P3KXYIEHJL235FJEVZCMQSGLSVXM5MKPNEAVZVTQN5FMJ" href="http://dati.senato.it/36390" showAs="CUCCHI"/>
+				<an:TLCPerson id="IDYQ55SMPL212QZULJTJ2FDJ5HCVVTQKZS0IX1BFN4WJNY1RNAKAF" href="http://dati.senato.it/36399" showAs="Aurora FLORIDIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 747</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIMNWWGLU3Y2QFTUAPJV3GPBEKJ4MVPWIVVDFX2NEJOTDQM0UNJPC" as="#tipoSenatore">MAGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYDPKH4VUCCQ2H2XI0GRR0CNKUJHYTIH5UIL022H45OUM2M0XS0LM" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTQZWNC0P3KXYIEHJL235FJEVZCMQSGLSVXM5MKPNEAVZVTQN5FMJ" as="#tipoSenatore">CUCCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYQ55SMPL212QZULJTJ2FDJ5HCVVTQKZS0IX1BFN4WJNY1RNAKAF" as="#tipoSenatore">Aurora FLORIDIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4 aggiungere il seguente</an:i>
+					:
+				</an:p>
+				<an:p>        «4.1. Al fine di salvaguardare gli equilibri di bilancio, gli enti locali soggetti attuatori che hanno avviato le procedure di affidamento dei lavori nel periodo dal 18 maggio 2022 al 31 dicembre 2022 ed i cui interventi beneficiano della preassegnazione per l'anno 2022 del Fondo per l'avvio per le opere indifferibili, di cui al comma 7 dell'articolo 26 del decreto-legge 17 maggio 2022, n. 50, convertito con modificazioni dalla legge 15 luglio 2022, n. 91, e non sono ricompresi negli elenchi 1 e 3 del decreto RGS 2 marzo 2023, sono tenuti, ai fini dell'assegnazione definitiva, a trasmettere, entro non oltre quindici giorni successivi alla pubblicazione della presente legge, le verifiche dei dati di gara con le modalità stabilite dalla circolare della Ragioneria generale dello Stato 9 novembre 2022, n. 37. Entro i successivi dieci giorni le Amministrazioni statali finanziatrici procedono ad autorizzare sui sistemi informativi l'assegnazione definitiva e a darne comunicazione al Dipartimento della Ragioneria generale dello Stato ai fini dell'emanazione, entro i successivi dieci giorni, del decreto del Ragioniere generale dello Stato di assegnazione definitiva delle risorse.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
