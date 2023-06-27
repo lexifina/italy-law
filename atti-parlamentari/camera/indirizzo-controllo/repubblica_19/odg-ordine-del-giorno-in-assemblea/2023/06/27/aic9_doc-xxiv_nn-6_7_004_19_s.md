@@ -1,0 +1,21 @@
+# ODG IN ASSEMBLEA SU MOZIONI O ALTRI ATTI 9/DOC.XXIV,NN.6-7/004 presentata da DE ROSA RAFFAELE (MOVIMENTO 5 STELLE) in data 27/06/2023
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.XXIV,NN.6-7/004
+- Data: 20230627
+- Titolo: ODG IN ASSEMBLEA SU MOZIONI O ALTRI ATTI 9/DOC.XXIV,NN.6-7/004 presentata da DE ROSA RAFFAELE (MOVIMENTO 5 STELLE) in data 27/06/2023
+- Presentatore: DE ROSA RAFFAELE (MOVIMENTO 5 STELLE)
+- Cofirmatario: LICHERI ETTORE ANTONIO (MOVIMENTO 5 STELLE)
+- Cofirmatario: MARTON BRUNO (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/2500
+- Argomento: http://eurovoc.europa.eu/3206
+- Argomento: http://eurovoc.europa.eu/5744
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=senato&stile=9&idDocumento=9/DOC.XXIV,NN.6-7/004
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.XXIV_NN.6_7_004_19_S
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Senato Ordine del Giorno  9/DOC.XXIV,NN.6-7/4 presentato da RAFFAELE DE ROSA martedì 27 giugno 2023, seduta n. 081 Il Senato, in sede di esame della risoluzione approvata dalla 3a Commissione permanente, ai sensi dell'articolo 50 del Regolamento, a conclusione dell'esame dell'affare assegnato sulla relazione analitica sulle missioni internazionali in corso e sullo stato degli interventi di cooperazione allo sviluppo a sostegno dei processi di pace e di stabilizzazione, riferita all'anno 2022, anche al fine della relativa proroga per l'anno 2023, deliberata dal Consiglio dei ministri il 1° maggio 2023 (Doc. XXIV, n. 7); preso atto delle comunicazioni del Governo sulla partecipazione dell'Italia alle missioni internazionali, svolte il 18 maggio 2023, davanti alla Commissione affari esteri e difesa del Senato della Repubblica e alle Commissioni affari esteri e difesa riunite della Camera dei deputati, nonché gli ulteriori approfondimenti istruttori svolti dalle medesime Commissioni; premesso che: l'aggressione della Federazione russa nei confronti dell'Ucraina è ormai in atto da oltre un anno, in un contesto segnato da una perdurante escalation militare inasprita, peraltro, dallo spettro di una minaccia nucleare, paventata a più riprese; è doveroso profondere il massimo sforzo sul piano diplomatico, in sinergia con gli altri Paesi europei, per l'immediata cessazione delle operazioni belliche con iniziative multilaterali o bilaterali utili a una de-escalation militare, portando il nostro Paese a farsi capofila di un percorso di soluzione negoziale del conflitto al fine di raggiungere una soluzione diplomatica in linea con i principi del diritto internazionale; tenuto conto che: la partecipazione alle missioni internazionali rappresenta un elemento qualificante ed una componente essenziale della politica estera e di sicurezza del nostro Paese che, grazie anche alla professionalità del proprio personale impegnato, rafforza la posizione e il prestigio dell'Italia nella comunità internazionale, impegna il Governo a promuovere iniziative in cui farsi interprete e protagonista di una nuova fase di sforzi diplomatici affinché sia scongiurato il rischio di una ulteriore escalation militare, a tal fine intraprendendo le opportune iniziative nelle sedi europee e internazionali allo scopo di promuovere una decisa e forte azione diplomatica volta ad imporre un immediato cessate il fuoco: nella partecipazione al potenziamento del dispositivo NATO per la sorveglianza dello spazio aereo dell'Alleanza (personale militare) (scheda 35/2023) e la sorveglianza navale nell'area di responsabilità dell'Alleanza (personale militare) (scheda 36/2023); nella partecipazione al dispositivo NATO Air Policing e Air Shielding per la sorveglianza dello spazio aereo dell'Alleanza (personale militare) (scheda 37/2023); nel potenziamento della presenza NATO nell'area Sud-Est dell'Alleanza (enhanced Vigilance Activities) (scheda 38/2023); nel potenziamento della presenza NATO in Lettonia (enhanced Forward Presence) (scheda 39/2023). (9/Doc. XXIV, nn. 6-7/4) De Rosa, Ettore Antonio Licheri, Marton
