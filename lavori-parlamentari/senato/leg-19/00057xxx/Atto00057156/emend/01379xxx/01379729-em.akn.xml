@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/747/A/9.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/747/A/9.17"/>
+					<an:FRBRdate date="2023-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/19/Emend/S/747/A/9.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@"/>
+					<an:FRBRdate date="2023-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@.akn"/>
+					<an:FRBRdate date="2023-06-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2023-06-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2023-06-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/19/Emend/S/747/A/9.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/19/747" showAs="DDL 747"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVENUXP3TCV0QKACW30KIEMJA4OYIN3MBEMMA2XHOIECNCC2BAQTD" href="http://dati.senato.it/32658" showAs="MAIORINO"/>
+				<an:TLCPerson id="IDZSISIOSJQHECGPXFRSIBXCIMCPCVO0KHROW1SLLDTABTZ4QQ4TG" href="http://dati.senato.it/36406" showAs="MAZZELLA"/>
+				<an:TLCPerson id="IDNKTOXAQGDSTYKVIPF1WHPDY2DBG21KC1QBSLPSBIN0OHDBGNVMDC" href="http://dati.senato.it/33065" showAs="CATALDI"/>
+				<an:TLCPerson id="IDL0X3XLAJDCLEI42DNOGQHO4B1FHRC0GAK2KPXALRKDOT33E1BP1J" href="http://dati.senato.it/32644" showAs="GUIDOLIN"/>
+				<an:TLCPerson id="IDGB4RP3FLE1EFDIXWQOGMCFU0LG4FJG5GUF2ZTPH5O45TA34OONAC" href="http://dati.senato.it/32691" showAs="PIRRO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 747</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVENUXP3TCV0QKACW30KIEMJA4OYIN3MBEMMA2XHOIECNCC2BAQTD" as="#tipoSenatore">MAIORINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZSISIOSJQHECGPXFRSIBXCIMCPCVO0KHROW1SLLDTABTZ4QQ4TG" as="#tipoSenatore">MAZZELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNKTOXAQGDSTYKVIPF1WHPDY2DBG21KC1QBSLPSBIN0OHDBGNVMDC" as="#tipoSenatore">CATALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDL0X3XLAJDCLEI42DNOGQHO4B1FHRC0GAK2KPXALRKDOT33E1BP1J" as="#tipoSenatore">GUIDOLIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGB4RP3FLE1EFDIXWQOGMCFU0LG4FJG5GUF2ZTPH5O45TA34OONAC" as="#tipoSenatore">PIRRO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>        "4.1. Nelle istituzioni universitarie e negli enti pubblici di ricerca il limite al fondo del trattamento accessorio di cui all'articolo 23, comma 2, del decreto legislativo 25 maggio 2017, n. 75, è adeguato, in aumento o in diminuzione, per garantire l'invarianza del valore medio pro-capite, riferito all'anno 2021, del fondo per la contrattazione integrativa nonché delle risorse per remunerare gli incarichi di responsabilità e di posizione organizzativa, prendendo a riferimento come base di calcolo il personale in servizio alla data del 31 dicembre 2021."</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>
