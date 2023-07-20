@@ -1,0 +1,17 @@
+# Massima n. 45658
+
+- Pronuncia: Corte costituzionale, sentenza 157/2023 (ECLI:IT:COST:2023:157)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:157
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Parlamento - Immunità parlamentari - Intercettazioni di conversazioni di parlamentari - Deliberazione della Camera dei deputati di diniego, ai sensi dell'art. 68, terzo comma, Cost., dell'autorizzazione richiesta dalla Sezione disciplinare del CSM all'utilizzo di captazioni informatiche occasionali nei confronti del deputato Cosimo Maria Ferri, magistrato in aspettativa per mandato parlamentare - Ricorso per confitto di attribuzione tra poteri dello Stato sollevato dalla Sezione disciplinare del Consiglio superiore della magistratura - Non spettanza, nei sensi di cui in motivazione, del potere della Camera dei deputati di deliberare il diniego all'autorizzazione successiva all'utilizzo di captazioni informatiche indicate - Necessità di una nuova valutazione conforme al canone di leale collaborazione istituzionale - Conseguente annullamento della delibera che ha negato l'autorizzazione. (Classif. 172005).
+
+## Testo
+
+È dichiarato, nei sensi di cui in motivazione, che non spettava alla Camera dei deputati deliberare il diniego all’autorizzazione successiva all’utilizzo di captazioni informatiche nei confronti del deputato Cosimo Maria Ferri, richiesta dalla Sez. disciplinare del CSM, ai sensi dell’art. 6 della legge n. 140 del 2003, nell’ambito del procedimento disciplinare a suo carico, sul presupposto che le stesse fossero state acquisite in diverso procedimento penale in assenza dell’autorizzazione preventiva di cui all’art. 4 della medesima legge; ed è annullata, per l’effetto, la deliberazione adottata dalla Camera dei deputati nella seduta del 12 gennaio 2022. Le circostanze sulla base delle quali la Camera dei deputati ha negato l’autorizzazione richiesta dalla Sez. disciplinare del CSM – valutate in modo complessivo e non atomistico, tenuto conto dell’intento perseguito da parte dell’autorità procedente – non sono tali da evidenziare che l’attività di captazione fosse univocamente diretta a intercettare anche le comunicazioni dell’on. Ferri, sia perché quest’ultimo non è mai stato attinto da indizi di reità, sia perché non ricorrono i presupposti necessari a far ritenere che gli atti di indagine siano univocamente rivolti anche a captare le comunicazioni cui ha preso parte l’on. Ferri. Inoltre, per quanto le prerogative del parlamentare non possono risentire di un ascolto tardivo del materiale intercettato, si deve ritenere non univoca la dimostrazione dell’attuazione di una strategia elusiva in danno dell’on. Ferri da parte degli organi inquirenti. La richiesta di autorizzazione avanzata dalla ricorrente richiede pertanto una nuova valutazione, da parte della stessa Camera dei deputati, della sussistenza dei presupposti ai quali l’utilizzazione delle intercettazioni effettuate in un diverso procedimento è condizionata, ai sensi dell’art. 6, comma 2, della legge n. 140 del 2023. L’ulteriore esercizio del potere di autorizzazione dovrà conformarsi al canone di leale collaborazione istituzionale, che si svolge in base ai paradigmi e alle regole della correttezza nei rapporti reciproci e del rispetto dell’altrui autonomia. ( Precedente: S. 379/1992 - mass. 18809 ).
+
+## Parametri
+
+- Costituzione, art. 68, comma 3
