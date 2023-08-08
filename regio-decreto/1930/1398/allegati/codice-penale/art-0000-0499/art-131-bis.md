@@ -2,11 +2,11 @@ Art. 131-bis.
 
 (Esclusione della punibilita' per particolare tenuita' del fatto).
 
-Nei reati per i quali e' prevista la pena detentiva non superiore nel ((minimo a due anni)), ovvero la pena pecuniaria, sola o congiunta alla predetta pena, la punibilita' e' esclusa quando, per le modalita' della condotta e per l'esiguita' del danno o del pericolo, valutate ai sensi dell'articolo 133, primo comma, ((anche in considerazione della condotta susseguente al reato,)) l'offesa e' di particolare tenuita' e il comportamento risulta non abituale.
+Nei reati per i quali e' prevista la pena detentiva non superiore nel minimo a due anni, ovvero la pena pecuniaria, sola o congiunta alla predetta pena, la punibilita' e' esclusa quando, per le modalita' della condotta e per l'esiguita' del danno o del pericolo, valutate ai sensi dell'articolo 133, primo comma, anche in considerazione della condotta susseguente al reato, l'offesa e' di particolare tenuita' e il comportamento risulta non abituale.
 
-L'offesa non puo' essere ritenuta di particolare tenuita', ai sensi del primo comma, quando l'autore ha agito per motivi abietti o futili, o con crudelta', anche in danno di animali, o ha adoperato sevizie o, ancora, ha profittato delle condizioni di minorata difesa della vittima, anche in riferimento all'eta' della stessa ovvero quando la condotta ha cagionato o da essa sono derivate, quali conseguenze non volute, la morte o le lesioni gravissime di una persona. ((PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 150)).
+L'offesa non puo' essere ritenuta di particolare tenuita', ai sensi del primo comma, quando l'autore ha agito per motivi abietti o futili, o con crudelta', anche in danno di animali, o ha adoperato sevizie o, ancora, ha profittato delle condizioni di minorata difesa della vittima, anche in riferimento all'eta' della stessa ovvero quando la condotta ha cagionato o da essa sono derivate, quali conseguenze non volute, la morte o le lesioni gravissime di una persona. PERIODO SOPPRESSO DAL D.LGS. 10 OTTOBRE 2022, N. 150.
 
-((L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si procede:
+L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si procede:
 
 1) per delitti, puniti con una pena superiore nel massimo a due anni e sei mesi di reclusione, commessi in occasione o a causa di manifestazioni sportive;
 
@@ -14,7 +14,9 @@ L'offesa non puo' essere ritenuta di particolare tenuita', ai sensi del primo co
 
 3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter;
 
-4) per i delitti, consumati o tentati, previsti dall'articolo 19, quinto comma, della legge 22 maggio 1978, n. 194, dall'articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli articoli 184 e 185 del decreto legislativo 24 febbraio 1998, n. 58.))
+4) per i delitti, consumati o tentati, previsti dall'articolo 19, quinto comma, della legge 22 maggio 1978, n. 194, dall'articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli articoli 184 e 185 del decreto legislativo 24 febbraio 1998, n. 58;
+
+((4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della legge 22 aprile 1941 n. 633, salvo che per i delitti di cui all'articolo 171 della medesima legge)).
 
 Il comportamento e' abituale nel caso in cui l'autore sia stato dichiarato delinquente abituale, professionale o per tendenza ovvero abbia commesso piu' reati della stessa indole, anche se ciascun fatto, isolatamente considerato, sia di particolare tenuita', nonche' nel caso in cui si tratti di reati che abbiano ad oggetto condotte plurime, abituali e reiterate.
 
