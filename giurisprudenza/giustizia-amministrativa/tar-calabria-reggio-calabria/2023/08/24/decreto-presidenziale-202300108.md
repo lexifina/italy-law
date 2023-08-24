@@ -1,0 +1,19 @@
+# TAR CALABRIA - REGGIO CALABRIA, decreto presidenziale n. 108/2023
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR CALABRIA - REGGIO CALABRIA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300108
+- Numero di ricorso (NRG): 202200140
+- Data di pubblicazione: 2023-08-24
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA INAMMISSIBILE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-03-19
+- Oggetto del ricorso: ATTRIBUZIONE PUNTEGGIO GRADUATORIA CONCORSO - RICONOSCIMENTO DEL DIRITTO ATTRIBUZIONE PUNTEGGIO AGGIUNTIVO - GRADUATORIA DELLA SELEZIONE PER “ADDETTI ALL’UFFICIO PER IL PROCESSO” AVVISO DI SELEZIONE DEL 6 AGOSTO 2021 PUBBLICATA IL 14 GENNAIO 2022 - MINISTERO DELLA GIUSTIZIA E PRESIDENZA DEL CONSIGLIO DEI MINISTRI RICHIESTA GRATUITO PATROCINIO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-reggio-calabria-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/b6f426da-6837-4ba0-a561-451ee3ebb657/resource/d0be81ed-0297-46c0-88a6-8b77f88de09b/download/tar-calabria-reggio-calabria-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
