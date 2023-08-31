@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 3572/2023
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VII
+- Numero provvedimento: 202303572
+- Numero di ricorso (NRG): 202306420
+- Data di pubblicazione: 2023-08-31
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AL TAR PER LA FISSAZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2023-07-24
+- Oggetto del ricorso: SELEZIONE PER LA COPERTURA DI N. 1 POSTO DI RICERCATORE A TEMPO DETERMINATO PRESSO IL DIPARTIMENTO DI ARCHITETTURA, INGEGNERIA DELLE COSTRUZIONI E AMBIENTE COSTRUITO DEL POLITECNICO DI MILANO PER IL SETTORE CONCORSUALE 08/D1 - PROGETTAZIONE ARCHITETTONICA
+- Tipo di ricorso: APPELLO AVVERSO ORDINANZA CAUTELARE
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
