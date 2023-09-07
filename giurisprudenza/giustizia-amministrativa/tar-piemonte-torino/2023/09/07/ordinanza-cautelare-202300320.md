@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 320/2023
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202300320
+- Numero di ricorso (NRG): 202300536
+- Data di pubblicazione: 2023-09-07
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-07-01
+- Oggetto del ricorso: PROVVEDIMENTO MINISTERIALE DI RIGETTO N° 333/SAA/305156, PROT. 0029124 DEL 08-05-2023, NOTIFICATO IL 12-05-2023, EMESSO DAL MINISTERO DELL’INTERNO- DIPARTIMENTO DELLA PUBBLICA SICUREZZA DIREZIONE CENTRALE PER LE RISORSE UMANE - SERVIZIO SOVR.TI, ASSISTENTI ED AGENTI - DIVISIONE 2^ - SEZIONE ASSEGNAZIONI TEMPORANEE, CON IL QUALE HA RIGETTATO LA RICHIESTA DI AGGREGAZIONE EX ART. 42 BIS D.LGS 151/2001 E S.M. I. DEL RICORRENTE.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/f2ec66a2-b21a-46e2-878f-a98d3e15c365/download/tar-piemonte-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
