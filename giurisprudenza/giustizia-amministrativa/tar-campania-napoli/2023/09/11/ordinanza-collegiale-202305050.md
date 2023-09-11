@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza collegiale n. 5050/2023
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202305050
+- Numero di ricorso (NRG): 202206065
+- Data di pubblicazione: 2023-09-11
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2022-12-21
+- Oggetto del ricorso: AI FINI DELLA DECLARATORIA DELL'ILLEGITTIMITÀ, PREVIA SOSPENSIVA E QUINDI PER L'ANNULLAMENTO DI TUTTI GLI ATTI ALLEGATI COME SEGUE: DELIBERAZIONE DEL DIRETTORE GENERALE ARPAC AVENTE AD OGGETTO “SELEZIONE INTERNA PER LA PROGRESSIONE VERTICALE EX ART. 22, COMMA 15 DEL D.LGS N. 75/2017 IN COMBINATO DISPOSTO CON L'ART. 3 COMMA 1 DL. 80/2021
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
