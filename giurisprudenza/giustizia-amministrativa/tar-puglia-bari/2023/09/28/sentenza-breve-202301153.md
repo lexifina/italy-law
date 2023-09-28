@@ -1,0 +1,19 @@
+# TAR PUGLIA - BARI, sentenza breve n. 1153/2023
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR PUGLIA - BARI
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202301153
+- Numero di ricorso (NRG): 202300972
+- Data di pubblicazione: 2023-09-28
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2023-09-07
+- Oggetto del ricorso: RITO APPALTI (EX ART. 120 C.P.A.) RIGETTO RICHIESTA REVOCA AGGIUDICAZIONE ALLA CONTROINTERESSATA DELL'AFFIDAMENTO DEL SERVIZIO “CONFERIMENTO PER RECUPERO E/O SMALTIMENTO DEI FANGHI PRODOTTI PRESSO GLI IMPIANTI DI DEPURAZIONE GESTITI DA ACQUEDOTTO PUGLIESE S.P.A."
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-puglia-bari-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/af75b821-91f1-451a-b467-ec1ec47c15a1/resource/e398c21e-1c39-4878-9d5f-78851e936339/download/tar-puglia-bari-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
