@@ -4,7 +4,7 @@ Art. 54-ter.
 
 1.
 
-Quando il contrasto previsto dagli articoli 54 e 54-bis riguarda taluno dei reati indicati ((nell'articolo 51, commi 3-bis e 3-quater)), se la decisione spetta al procuratore generale presso la Corte di cassazione, questi provvede sentito il procuratore nazionale antimafia; se spetta al procuratore generale presso la corte di appello, questi informa il procuratore nazionale antimafia ((e antiterrorismo)) dei provvedimenti adottati. (28)
+Quando il contrasto previsto dagli articoli 54 e 54-bis riguarda taluno dei reati indicati ((negli articoli 51, commi 3-bis e 3-quater, e 371-bis, comma 4-bis,)) se la decisione spetta al procuratore generale presso la Corte di cassazione, questi provvede sentito il procuratore nazionale antimafia; se spetta al procuratore generale presso la corte di appello, questi informa il procuratore nazionale antimafia e antiterrorismo dei provvedimenti adottati. (28)
 
 -------------
 
