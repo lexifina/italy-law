@@ -2,15 +2,15 @@ Art. 423-bis.
 
 (Incendio boschivo).
 
-Chiunque, al di fuori dei casi di uso legittimo delle tecniche di controfuoco e di fuoco prescritto, cagiona un incendio su boschi, selve o foreste ovvero su vivai forestali destinati al rimboschimento, propri o altrui, e' punito con la reclusione ((da sei)) a dieci anni.
+Chiunque, al di fuori dei casi di uso legittimo delle tecniche di controfuoco e di fuoco prescritto, cagiona un incendio su boschi, selve ((, foreste o zone di interfaccia urbano-rurale)) ovvero su vivai forestali destinati al rimboschimento, propri o altrui, e' punito con la reclusione da sei a dieci anni.
 
-Se l'incendio di cui al primo comma e' cagionato per colpa, la pena e' della reclusione ((da due)) a cinque anni.
+Se l'incendio di cui al primo comma e' cagionato per colpa, la pena e' della reclusione da due a cinque anni.
 
 Le pene previste dal primo e dal secondo comma sono aumentate se dall'incendio deriva pericolo per edifici o danno su aree o specie animali o vegetali protette o su animali domestici o di allevamento.
 
 Le pene previste dal primo e dal secondo comma sono aumentate della meta', se dall'incendio deriva un danno grave, esteso e persistente all'ambiente.
 
-((La pena prevista dal primo comma e' aumentata da un terzo alla meta' quando il fatto e' commesso al fine di trarne profitto per se' o per altri o con abuso dei poteri o con violazione dei doveri inerenti all'esecuzione di incarichi o allo svolgimento di servizi nell'ambito della prevenzione e della lotta attiva contro gli incendi boschivi)).
+La pena prevista dal primo comma e' aumentata da un terzo alla meta' quando il fatto e' commesso al fine di trarne profitto per se' o per altri o con abuso dei poteri o con violazione dei doveri inerenti all'esecuzione di incarichi o allo svolgimento di servizi nell'ambito della prevenzione e della lotta attiva contro gli incendi boschivi.
 
 le pene previste dal presente articolo sono diminuite dalla meta' a due terzi nei confronti di colui che si adopera per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero, prima della dichiarazione di apertura del dibattimento di primo grado, provvede concretamente alla messa in sicurezza e, ove possibile, al ripristino dello stato dei luoghi.
 
