@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 385/2023
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300385
+- Numero di ricorso (NRG): 202300303
+- Data di pubblicazione: 2023-10-18
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-04-19
+- Oggetto del ricorso: PROVVEDIMENTO PROT. N. 363340/T8-3/AC DEL 13.03.2023, NOTIFICATO IN DATA 17.03.2023, A FIRMA DEL CAPO DEL I REPARTO UFFICIO PERSONALE APPUNTATI E CARABINIERI – DINIEGO DOMANDA DI ASSEGNAZIONE TEMPORANEA EX ART. 42 BIS DLGS N. 151/2001
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/f2ec66a2-b21a-46e2-878f-a98d3e15c365/download/tar-piemonte-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
