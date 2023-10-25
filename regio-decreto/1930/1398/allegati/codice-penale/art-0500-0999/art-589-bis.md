@@ -1,16 +1,16 @@
 Art. 589-bis.
 
-(( (Omicidio stradale). ))
+(( (Omicidio stradale o nautico). )).
 
-((Chiunque cagioni per colpa la morte di una persona con violazione delle norme sulla disciplina della circolazione stradale e' punito con la reclusione da due a sette anni.
+((Chiunque cagioni per colpa la morte di una persona con violazione delle norme sulla disciplina della circolazione stradale o della navigazione marittima o interna e' punito con la reclusione da due a sette anni.
 
-Chiunque, ponendosi alla guida di un veicolo a motore in stato di ebbrezza alcolica o di alterazione psico-fisica conseguente all'assunzione di sostanze stupefacenti o psicotrope ai sensi rispettivamente degli articoli 186, comma 2, lettera c), e 187 del decreto legislativo 30 aprile 1992, n. 285, cagioni per colpa la morte di una persona, e' punito con la reclusione da otto a dodici anni.
+Chiunque, ponendosi alla guida di un veicolo a motore o di una delle unita' da diporto di cui all'articolo 3 del codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n. 171, in stato di ebbrezza alcolica o di alterazione psicofisica conseguente all'assunzione di sostanze stupefacenti o psicotrope ai sensi rispettivamente degli articoli 186, comma 2, lettera c), e 187 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, nonche' degli articoli 53-bis, comma 2, lettera c), e 53-quater del codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n. 171, cagioni per colpa la morte di una persona, e' punito con la reclusione da otto a dodici anni.
 
-La stessa pena si applica al conducente di un veicolo a motore di cui all'articolo 186-bis, comma 1, lettere b), c) e d), del decreto legislativo 30 aprile 1992, n. 285, il quale, in stato di ebbrezza alcolica ai sensi dell'articolo 186, comma 2, lettera b), del medesimo decreto legislativo n. 285 del 1992, cagioni per colpa la morte di una persona.
+La stessa pena si applica al conducente di un veicolo a motore di cui all'articolo 186-bis, comma 1, lettere b), c) e d), del decreto legislativo 30 aprile 1992, n. 285, o di un'unita' da diporto di cui all'articolo 53-ter, comma 1, lettera b), del decreto legislativo 18 luglio 2005, n. 171, il quale, in stato di ebbrezza alcolica ai sensi rispettivamente degli articoli 186, comma 2, lettera b), del decreto legislativo 30 aprile 1992, n. 285, e 53-bis, comma 2, lettera b), del decreto legislativo 18 luglio 2005, n. 171, cagioni per colpa la morte di una persona.
 
-Salvo quanto previsto dal terzo comma, chiunque, ponendosi alla guida di un veicolo a motore in stato di ebbrezza alcolica ai sensi dell'articolo 186, comma 2, lettera b), del decreto legislativo 30 aprile 1992, n. 285, cagioni per colpa la morte di una persona, e' punito con la reclusione da cinque a dieci anni.
+Salvo quanto previsto dal terzo comma, chiunque, ponendosi alla guida di un veicolo a motore o di una delle unita' da diporto di cui all'articolo 3 del decreto legislativo 18 luglio 2005, n. 171, in stato di ebbrezza alcolica ai sensi rispettivamente degli articoli 186, comma 2, lettera b), del decreto legislativo 30 aprile 1992, n. 285, e 53-bis, comma 2, lettera b), del decreto legislativo 18 luglio 2005, n. 171, cagioni per colpa la morte di una persona, e' punito con la reclusione da cinque a dieci anni.
 
-La pena di cui al comma precedente si applica altresi':
+La pena di cui al quarto comma si applica altresi':
 
 1) al conducente di un veicolo a motore che, procedendo in un centro urbano ad una velocita' pari o superiore al doppio di quella consentita e comunque non inferiore a 70 km/h, ovvero su strade extraurbane ad una velocita' superiore di almeno 50 km/h rispetto a quella massima consentita, cagioni per colpa la morte di una persona;
 
@@ -18,8 +18,8 @@ La pena di cui al comma precedente si applica altresi':
 
 3) al conducente di un veicolo a motore che, a seguito di manovra di inversione del senso di marcia in prossimita' o in corrispondenza di intersezioni, curve o dossi o a seguito di sorpasso di un altro mezzo in corrispondenza di un attraversamento pedonale o di linea continua, cagioni per colpa la morte di una persona.
 
-Nelle ipotesi di cui ai commi precedenti la pena e' aumentata se il fatto e' commesso da persona non munita di patente di guida o con patente sospesa o revocata, ovvero nel caso in cui il veicolo a motore sia di proprieta' dell'autore del fatto e tale veicolo sia sprovvisto di assicurazione obbligatoria.
+Nelle ipotesi di cui ai commi precedenti la pena e' aumentata se il fatto e' commesso da persona non munita di patente di guida o, ad eccezione delle ipotesi di cui al quinto comma, di patente nautica, ove prescritta, o con patente sospesa o revocata, ovvero nel caso in cui il veicolo a motore o l'unita' da diporto sia di proprieta' dell'autore del fatto e tale veicolo o unita' da diporto sia sprovvisto di assicurazione obbligatoria.
 
 Nelle ipotesi di cui ai commi precedenti, qualora l'evento non sia esclusiva conseguenza dell'azione o dell'omissione del colpevole, la pena e' diminuita fino alla meta'.
 
-Nelle ipotesi di cui ai commi precedenti, qualora il conducente cagioni la morte di piu' persone, ovvero la morte di una o piu' persone e lesioni a una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni diciotto.))
+Nelle ipotesi di cui ai commi precedenti, qualora il conducente del veicolo o dell'unita' da diporto cagioni la morte di piu' persone, ovvero la morte di una o piu' persone e lesioni a una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni diciotto)).
