@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, decreto cautelare n. 406/2023
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202300406
+- Numero di ricorso (NRG): 202300893
+- Data di pubblicazione: 2023-11-02
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-10-30
+- Oggetto del ricorso: SCHEDA DI VALUTAZIONE DELLA RICORRENTE DEL 28.6.23 NELLA PARTE IN CUI SI LEGGE CHE LA STESSA “È STATA AMMESSA ALLA CLASSE SUCCESSIVA” RILASCIATA DALL'ISTITUTO COMPRENSIVO NICHELINO III; DEL VERBALE DELLO SCRUTINIO , DEL 9.6.23, RELATIVO ALL'A.S. 2022/2023 NELLA PARTE IN CUI SI È DELIBERATO LA AMMISSIONE DELLA RICORRENTE AL CICLO DI ISTRUZIONE SUCCESSIVA RILASCIATA DALL'ISTITUTO COMPRENSIVO NICHELINO III
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/0d2dfd69-3ce9-42bb-9aec-e9ed46fdfa13/resource/b943bf86-4c26-4da3-ad6d-dc4c59fe2928/download/tar-piemonte-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
