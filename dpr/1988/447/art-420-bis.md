@@ -1,8 +1,6 @@
 Art. 420-bis.
 
-(( (Assenza dell'imputato). ))
-
-((
+(Assenza dell'imputato).
 
 1.
 
@@ -22,7 +20,7 @@ Il giudice procede in assenza dell'imputato anche quando ritiene altrimenti prov
 
 3.
 
-Il giudice procede in assenza anche fuori dai casi di cui ai commi 1 e 2, quando l'imputato e' stato dichiarato latitante o si e' in altro modo volontariamente sottratto alla conoscenza della pendenza del processo.
+Il giudice procede in assenza anche fuori dai casi di cui ai commi 1 e 2, quando l'imputato e' stato dichiarato latitante o si e' in altro modo volontariamente sottratto alla conoscenza della pendenza del processo. ((307))
 
 4.
 
@@ -54,4 +52,8 @@ se comunque risulta che le condizioni per procedere in sua assenza non erano sod
 
 Fuori del caso previsto dal comma 6, se risulta che le condizioni per procedere in assenza non erano soddisfatte, il giudice revoca, anche d'ufficio, l'ordinanza che dichiara l'assenza dell'imputato e provvede ai sensi del comma 5.
 
-))
+---------------
+
+AGGIORNAMENTO (307)
+
+La Corte Costituzionale, con sentenza 27 settembre - 26 ottobre 2023, n. 192 (in G.U. 1ª s.s. 02/11/2023 n. 44), ha dichiarato "l'illegittimita' costituzionale dell'art. 420-bis, comma 3, del codice di procedura penale, nella parte in cui non prevede che il giudice procede in assenza per i delitti commessi mediante gli atti di tortura definiti dall'art. 1, comma 1, della Convenzione contro la tortura ed altre pene o trattamenti crudeli, inumani o degradanti, adottata a New York il 10 dicembre 1984, ratificata e resa esecutiva con legge 3 novembre 1988, n. 498, quando, a causa della mancata assistenza dello Stato di appartenenza dell'imputato, e' impossibile avere la prova che quest'ultimo, pur consapevole del procedimento, sia stato messo a conoscenza della pendenza del processo, fatto salvo il diritto dell'imputato stesso a un nuovo processo in presenza per il riesame del merito della causa".
