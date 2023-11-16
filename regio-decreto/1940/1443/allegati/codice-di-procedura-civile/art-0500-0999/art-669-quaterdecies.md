@@ -2,7 +2,7 @@ Art. 669-quaterdecies.
 
 (Ambito di applicazione)
 
-Le disposizioni della presente sezione si applicano ai provvedimenti previsti nelle sezioni II, III e V di questo capo, nonche', in quanto compatibili, agli altri provvedimenti cautelari previsti dal codice civile e dalla leggi speciali. L'articolo 669-septies si applica altresi' ai provvedimenti di istruzione preventiva previsti dalla sezione IV di questo capo (67) (72) (123) ((129))
+Le disposizioni della presente sezione si applicano ai provvedimenti previsti nelle sezioni II, III e V di questo capo, nonche', in quanto compatibili, agli altri provvedimenti cautelari previsti dal codice civile e dalla leggi speciali. L'articolo 669-septies si applica altresi' ai provvedimenti di istruzione preventiva previsti dalla sezione IV di questo capo (67) (72) (123) (129) ((175))
 
 ---------------
 
@@ -29,3 +29,9 @@ La Corte Costituzionale, con sentenza 7-16 maggio 2008, n. 144 (in G.U. 1a s.s. 
 AGGIORNAMENTO (129)
 
 La Corte Costituzionale, con sentenza 25-28 gennaio 2010, n. 26 (in G.U. 1a s.s. 3/2/2010, n. 5), ha dichiarato "l'illegittimita' costituzionale dell'articolo 669-quaterdecies del codice di procedura civile, nella parte in cui, escludendo l'applicazione dell'articolo 669-quinquies dello stesso codice ai provvedimenti di cui all'art. 696 cod. proc. civ., impedisce, in caso di clausola compromissoria, di compromesso o di pendenza di giudizio arbitrale, la proposizione della domanda di accertamento tecnico preventivo al giudice che sarebbe competente a conoscere del merito."
+
+---------------
+
+AGGIORNAMENTO (175)
+
+La Corte Costituzionale, con sentenza 24 ottobre - 10 novembre 2023 n. 202 (in G.U. 1a s.s. 15/11/2023, n. 46), ha dichiarato "l'illegittimita' costituzionale degli artt. 669-quaterdecies e 695 del codice di procedura civile, nella parte in cui non consentono di proporre il reclamo, previsto dall'art. 669-terdecies cod. proc. civ., avverso il provvedimento che rigetta il ricorso per la nomina del consulente tecnico preventivo ai fini della composizione della lite, di cui all'art. 696-bis del medesimo codice".
