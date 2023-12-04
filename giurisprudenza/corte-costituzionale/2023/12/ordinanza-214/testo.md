@@ -1,0 +1,58 @@
+# Corte costituzionale, ordinanza 214/2023
+
+- ECLI: ECLI:IT:COST:2023:214
+- Tipo: ordinanza
+- Presidente: BARBERA
+- Relatore: Giovanni Amoroso
+- Redattore: Giovanni Amoroso
+- Data della decisione: 08/11/2023
+- Data del deposito: 04/12/2023
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 45868
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2023:214
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta dai signori:
+ Presidente: Augusto Antonio BARBERA; Giudici : Giulio PROSPERETTI, Giovanni AMOROSO, Francesco VIGANÒ, Luca ANTONINI, Stefano PETITTI, Angelo BUSCEMA, Emanuela NAVARRETTA, Maria Rosaria SAN GIORGIO, Filippo PATRONI GRIFFI, Marco D'ALBERTI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 73 del decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonché nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), promosso dal Tribunale ordinario di Terni nel procedimento penale a carico di G. P., con ordinanza del 4 ottobre 2022, iscritta al n. 45 del registro ordinanze 2023 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 16, prima serie speciale, dell'anno 2023.
+ Visto l'atto di intervento del Presidente del Consiglio dei ministri;
+ udito nella camera di consiglio dell'8 novembre 2023 il Giudice relatore Giovanni Amoroso;
+ deliberato nella camera di consiglio dell'8 novembre 2023.
+ Ritenuto che con ordinanza del 4 ottobre 2022 il Tribunale ordinario di Terni ha sollevato questioni di legittimità costituzionale, in riferimento agli artt. 3, 25, secondo comma, e 27, terzo comma, della Costituzione, dell'art. 73 del decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonché nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), nella parte in cui prevede come reato - e non già come illecito amministrativo - la guida di un autoveicolo o motoveicolo, senza patente, o dopo che la patente sia stata negata, sospesa o revocata, commessa da persona già sottoposta, con provvedimento definitivo, ad una misura di prevenzione personale;
+ che il rimettente riferisce di procedere a carico di un soggetto, già sottoposto con provvedimento definitivo alla misura di prevenzione della sorveglianza speciale, sorpreso alla guida di un'autovettura dopo che la patente di guida gli era stata revocata dalla Prefettura di Terni;
+ che il giudice a quo, premesso, in punto di rilevanza, che la definizione del giudizio è condizionata dalla qualificazione giuridica del fatto contestato all'imputato, evidenzia che analoga questione è stata già sollevata dalla Corte di cassazione, sezione sesta penale, con ordinanza n. 33749 del 10 settembre 2021;
+ che, in punto di non manifesta infondatezza, il rimettente osserva che, a seguito della depenalizzazione attuata con l'art. 1 del decreto legislativo 15 gennaio 2016, n. 8 (Disposizioni in materia di depenalizzazione, a norma dell'articolo 2, comma 2, della legge 28 aprile 2014, n. 67), la conduzione di veicoli senza aver conseguito la corrispondente patente di guida e la guida senza patente perché revocata o non rinnovata per mancanza dei requisiti fisici e psichici, non è più prevista dalla legge come reato (salvo il caso di recidiva nel biennio), perché trasformata in illecito amministrativo, ed è attualmente punita dall'art. 116, comma 15, primo periodo, del decreto legislativo 30 aprile 1992, n. 285 (Nuovo codice della strada), con la sola sanzione amministrativa da 5.100 a 30.599 euro;
+ che la disposizione censurata violerebbe l'art. 3 Cost. in quanto, nell'attuale sistema normativo, l'essere stato sottoposto, con provvedimento definitivo, a una misura di prevenzione personale, pur essendo circostanza del tutto estranea al fatto-reato (guida con patente revocata), rende punibile una condotta che, se posta in essere da qualsiasi altro soggetto, non assume alcun disvalore sul piano penale, salvo il caso di recidiva nel biennio;
+ che l'art. 73 citato, rileva ancora il giudice a quo, violerebbe anche i principi costituzionali di legalità della pena e di orientamento della pena all'emenda del condannato ai quali, in base agli artt. 25, secondo comma, e 27, terzo comma, Cost., deve attenersi la legislazione penale in relazione ai criteri di selezione delle fattispecie, in quanto la norma incriminatrice finisce con il punire non tanto la guida con patente revocata in sé, quanto una qualità personale del soggetto che dovesse incorrervi, in aperta violazione del principio di offensività del reato che, nella sua accezione astratta, costituisce un limite alla discrezionalità legislativa in materia penale;
+ che, sotto altro profilo, la disposizione contrasterebbe con l'art. 27, terzo comma, Cost., nella misura in cui l'irrogazione di una sanzione penale, determinando un trattamento punitivo sproporzionato rispetto al fatto commesso (sanzionato come illecito amministrativo se commesso da altro soggetto), sarebbe percepito come ingiusto dal condannato, risultando, perciò, inidoneo a svolgere la sua funzione rieducativa;
+ che, con atto depositato il 9 maggio 2023, il Presidente del Consiglio dei ministri, rappresentato e difeso dall'Avvocatura generale dello Stato, è intervenuto nel presente giudizio di legittimità costituzionale, chiedendo che la questione sia dichiarata non fondata;
+ che la difesa statale evidenzia che: a) l'art. 116 cod. strada e l'art. 73 cod. antimafia hanno un ambito applicativo differente, sia sotto il profilo soggettivo che oggettivo; b) ciascuna delle due fattispecie presenta un elemento specializzante che l'altra non contempla, rispettivamente la guida con patente non rinnovata e la guida con patente sospesa, nonché una diversa  qualità del soggetto agente; c) l'art. 116 cod. strada sanziona la guida di qualunque tipologia di veicolo che richiede il possesso della patente, mentre l'art. 73 punisce esclusivamente la guida di autoveicoli e motoveicoli;
+ che, inoltre, l'autonomia delle due fattispecie giustificherebbe un differente regime sanzionatorio tra la condotta posta in essere da un soggetto qualsiasi e quella tenuta da una persona ritenuta socialmente pericolosa e sottoposta a misura di prevenzione personale, a tutela dell'ordine pubblico, e che la revoca del titolo abilitante alla conduzione dei veicoli, se già in possesso dell'interessato, non consegue automaticamente all'assoggettamento di questi a misure di prevenzione di carattere personale, ma richiede che il prefetto valuti dapprima la pericolosità specifica dell'individuo;
+ che in ogni caso, aggiunge l'Avvocatura, questa Corte si è già pronunciata su analoghe questioni nel senso della non fondatezza.
+ Considerato che, con la sentenza n. 211 del 2022, depositata il 17 ottobre 2022, pubblicata in Gazzetta Ufficiale il 19 ottobre 2022, data successiva al deposito dell'ordinanza di rimessione, questa Corte, pronunciando sulle stesse disposizioni, ha già dichiarato non fondate identiche questioni di legittimità costituzionale sollevate, in riferimento ai medesimi parametri e sostenute dalle stesse censure, dalla Corte di cassazione, sesta sezione penale, con ordinanza del 10 settembre 2021, e dal Tribunale ordinario di Ravenna, con ordinanza del 14 marzo 2022;
+ che, a sostegno della dichiarazione di non fondatezza, questa Corte ha considerato che la fattispecie censurata è finalizzata a tutelare l'ordine pubblico rispetto a situazioni di pericolo derivanti dalla violazione di una regola - quella posta dall'art. 120 cod. strada - collegata alla necessità di limitare gli spostamenti, di impedire o ostacolare la perpetrazione di attività illecite e di rendere meno agevole il sottrarsi ai controlli dell'autorità di soggetti pericolosi, e che l'essere sottoposto a misura di prevenzione personale non si pone come evenienza del tutto estranea al reato e non configura una «responsabilità penale d'autore», ma identifica una pericolosità specifica della condotta sanzionata, tenuto conto che la revoca della patente non consegue più automaticamente all'assoggettamento a misure di prevenzione personale, che devono essere comunque calibrate sulla pericolosità in concreto;
+ che la medesima sentenza ha, altresì, ritenuto che il presupposto della fattispecie penale in esame va rinvenuto nella mancanza del titolo abilitativo alla guida, quale conseguenza dell'applicazione della misura di prevenzione personale, che trova il suo specifico riferimento normativo nella disposizione di cui all'art. 120 cod. strada, e che la violazione della regola, che vieta di guidare autoveicoli e motoveicoli senza patente al soggetto sottoposto a misura di prevenzione personale, è espressione di una valutazione discrezionale del legislatore, il quale ha ritenuto sussistere un quid pluris di pericolosità per il fatto che colui che sia sottoposto con provvedimento definitivo ad una misura di prevenzione personale possa circolare alla guida di un veicolo;
+ che, quindi, in termini di offensività, le fattispecie poste a confronto, quella comune (art 116, comma 15, cod. strada) e quella speciale (art. 73 cod. antimafia), non sono sovrapponibili, in quanto l'elemento differenziale della pericolosità rappresenta la ragione giustificatrice della diversità di disciplina;
+ che la scelta legislativa di sanzionare l'ipotesi meno grave sul piano amministrativo, allo scopo di assicurare il bene della sicurezza della circolazione stradale e, al contempo, di punire più severamente la stessa condotta, se realizzata da soggetti dalla accertata pericolosità, è dunque coerente con un legittimo inasprimento della risposta punitiva in relazione al differente disvalore della condotta e alla diversa intensità dell'offesa ai beni protetti, ciò che esclude anche il carattere sproporzionato del relativo trattamento sotto il profilo della finalità rieducativa della pena;
+ che le questioni in esame, non apportando nuovi argomenti rispetto a quelli già vagliati in tale pronuncia, né aggiungendo profili nuovi rispetto a quelli già esaminati, vanno pertanto dichiarate manifestamente infondate (ex multis, ordinanze n. 220 del 2022, n. 165 e n. 111 del 2021, n. 204 e n. 93 del 2020, n. 110 e n. 21 del 2019).
+ Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 11, comma 1, delle Norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ dichiara manifestamente infondate le questioni di legittimità costituzionale dell'art. 73 del decreto legislativo 6 settembre 2011, n. 159 (Codice delle leggi antimafia e delle misure di prevenzione, nonché nuove disposizioni in materia di documentazione antimafia, a norma degli articoli 1 e 2 della legge 13 agosto 2010, n. 136), sollevate, in riferimento agli artt. 3, 25, secondo comma, e 27, terzo comma, della Costituzione dal Tribunale ordinario di Terni, con l'ordinanza indicata in epigrafe.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, l'8 novembre 2023.
+ F.to:
+ Augusto Antonio BARBERA, Presidente
+ Giovanni AMOROSO, Redattore
+ Roberto MILANA, Direttore della Cancelleria
+ Depositata in Cancelleria il 4 dicembre 2023
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
