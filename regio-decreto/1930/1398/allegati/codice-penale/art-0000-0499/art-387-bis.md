@@ -1,5 +1,7 @@
 Art. 387-bis.
 
-(( (Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa). ))
+(Violazione dei provvedimenti di allontanamento dalla casa familiare e del divieto di avvicinamento ai luoghi frequentati dalla persona offesa).
 
-((Chiunque, essendovi legalmente sottoposto, violi gli obblighi o i divieti derivanti dal provvedimento che applica le misure cautelari di cui agli articoli 282-bis e 282-ter del codice di procedura penale o dall'ordine di cui all'articolo 384-bis del medesimo codice e' punito con la reclusione da sei mesi a tre anni)).
+Chiunque, essendovi legalmente sottoposto, violi gli obblighi o i divieti derivanti dal provvedimento che applica le misure cautelari di cui agli articoli 282-bis e 282-ter del codice di procedura penale o dall'ordine di cui all'articolo 384-bis del medesimo codice e' punito con la reclusione da sei mesi a tre anni ((e sei mesi)).
+
+((La stessa pena si applica a chi elude l'ordine di protezione previsto dall'articolo 342-ter, primo comma, del codice civile, ovvero un provvedimento di eguale contenuto assunto nel procedimento di separazione personale dei coniugi o nel procedimento di scioglimento o di cessazione degli effetti civili del matrimonio)).
