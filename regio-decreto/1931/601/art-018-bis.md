@@ -1,0 +1,5 @@
+Art. 18-bis.
+
+Nei casi di cui all'articolo 165 del codice penale il giudice dispone che il condannato svolga attivita' non retribuita a favore della collettivita' osservando, in quanto compatibili, le disposizioni degli articoli 44, 54, commi 2, 3, 4 e 6, e 59 del decreto legislativo 28 agosto 2000, n. 274.
+
+((Nei casi di cui all'articolo 165, quinto comma, del codice penale, la cancelleria del giudice che ha emesso la sentenza la trasmette, al passaggio in giudicato, all'ufficio di esecuzione penale esterna, che accerta l'effettiva partecipazione del condannato al percorso di recupero e ne comunica l'esito al pubblico ministero presso il giudice che ha emesso la sentenza. Gli enti o le associazioni presso cui il condannato svolge il percorso di recupero danno immediata comunicazione di qualsiasi violazione ingiustificata degli obblighi connessi allo svolgimento del percorso di recupero all'ufficio di esecuzione penale esterna, che ne da' a sua volta immediata comunicazione al pubblico ministero, ai fini della revoca della sospensione ai sensi dell'articolo 168, primo comma, numero 1), del codice penale)).
