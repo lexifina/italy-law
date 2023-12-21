@@ -1,0 +1,19 @@
+# TAR BASILICATA - POTENZA, sentenza breve n. 738/2023
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR BASILICATA - POTENZA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202300738
+- Numero di ricorso (NRG): 202300533
+- Data di pubblicazione: 2023-12-21
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2023-12-04
+- Oggetto del ricorso: DETERMINAZIONE DSG N° 02657/2023 DEL 27/11/2023 ADOTTATA DAL DIRIGENTE SETTORE 4 AMBIENTE DELLA PROVINCIA DI POTENZA "SERVIZIO DI CONTROLLO DELL’EFFICIENZA ENERGETICA DEGLI IMPIANTI TERMICI, C.D. “CALDAIA SICURA”. DECISIONE A CONTRARRE EX ART. 17 D.LGS 36/2023. AFFIDAMENTO DIRETTO AI SENSI DELL’ART. 50, COMMA 1, LETT B) DEL DLGS 36/2023.
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-basilicata-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/81574f5f-d16d-41d1-9cc2-9633388b4cdb/resource/c28c63ad-092b-4049-80c3-54e5044dae06/download/tar-basilicata-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
