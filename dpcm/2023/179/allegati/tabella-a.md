@@ -1,0 +1,83 @@
+Tabella A
+
+Ministero dell'interno
+
+Dotazione organica complessiva del personale dell'Amministrazione civile
+
+Carriera prefettizia
+
+Dotazione organica
+
+Prefetti
+
+140
+
+Viceprefetti
+
+700
+
+Viceprefetti aggiunti
+
+572
+
+TOTALE
+
+1.412
+
+Qualifiche dirigenziali area delle funzioni centrali
+
+Dotazione organica
+
+Dirigenti prima fascia
+
+6
+
+Dirigenti seconda fascia
+
+194
+
+TOTALE
+
+200
+
+Aree funzionali
+
+Dotazione organica
+
+Area delle elevate professionalita'
+
+0
+
+Area dei funzionari
+
+8.924
+
+Area degli assistenti
+
+10.804
+
+Area degli operatori
+
+1.041
+
+TOTALE
+
+20.769
+
+Sezione ad esaurimento del personale proveniente dai ruoli delle soppresse Agenzia autonoma per la gestione dell'albo dei segretari comunali e provinciali e Scuola superiore per la formazione e la specializzazione dei dirigenti della pubblica amministrazione locale
+
+Dirigenti seconda fascia
+
+4
+
+Area dei funzionari
+
+53
+
+Area degli assistenti
+
+66
+
+TOTALE
+
+123
