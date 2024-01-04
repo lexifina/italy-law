@@ -1,0 +1,25 @@
+# Massima n. 45900
+
+- Pronuncia: Corte costituzionale, sentenza 2/2024 (ECLI:IT:COST:2024:2)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:2
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Ambiente - Rifiuti - Competenza esclusiva statale in materia di tutela dell'ambiente e dell'ecosistema - Spettanza esclusiva al legislatore nazionale della definizione dell'organizzazione delle corrispondenti funzioni amministrative anche attraverso l'allocazione di competenze presso enti diversi dai comuni - Impossibilità, per le regioni, di una diversa riallocazione infraregionale (nel caso di specie: illegittimità costituzionale, a far data dal 29 aprile 2006, anche parziale, della disposizione della Regione Lazio che delega alle province l'approvazione dei progetti degli impianti per la gestione dei rifiuti, ad eccezione di alcune tipologie; l'approvazione dei progetti di varianti sostanziali in corso di esercizio; l'autorizzazione relativa alla realizzazione dei relativi impianti e varianti; l'autorizzazione all'esercizio delle attività di smaltimento e di recupero dei rifiuti). (Classif. 010010).
+
+## Testo
+
+La disciplina della gestione dei rifiuti va ascritta alla materia di competenza esclusiva statale di tutela dell’ambiente e dell’ecosistema. Pertanto, solo il legislatore nazionale è competente a definire l’organizzazione delle corrispondenti funzioni amministrative anche attraverso l’allocazione di competenze presso enti diversi dai comuni – ai quali esse devono ritenersi generalmente attribuite secondo il criterio espresso dall’art. 118 Cost. – tutte le volte in cui l’esigenza di esercizio unitario della funzione trascenda il relativo ambito territoriale di governo. (Precedenti: S. 50/2023 - mass. 45429; S. 86/2021 - mass. 43800; S. 227/2020 - mass. 42658).Nel sistema delineato dalla riforma costituzionale del 2001, che ha riscritto il Titolo V della Parte II della Costituzione, le funzioni amministrative riconducibili alle materie di cui all’art. 117, secondo comma, Cost. – le quali, sulla base di una valutazione orientata dai principi di sussidiarietà, differenziazione e adeguatezza, siano state conferite dallo Stato alla regione – non possono essere da quest’ultima riallocate presso altro ente infraregionale. Si avrebbe, altrimenti, una modifica, mediante atto legislativo regionale, dell’assetto inderogabilmente stabilito, sulla base di una valutazione di congruità rispetto alla dimensione degli interessi implicati, dalla legge nazionale competente per materia, quale, nell’ambito di cui si tratta, il codice dell’ambiente. (Precedente: S. 189/2021 - mass. 44323).(Nel caso di specie, è dichiarato costituzionalmente illegittimo – per violazione dell’art. 117, secondo comma, lett. s, Cost. –, a far data dal 29 aprile 2006, l’art. 5, comma 2, lett. a, b e c, quest’ultima limitatamente alle parole «delle attività di smaltimento e di recupero dei rifiuti, fatto salvo quanto previsto dall’articolo 4, comma 1, lettere g ) ed h ), dall’articolo 6, comma 2, lettera c ) e dall’articolo 20, nonché», della legge reg. Lazio n. 27 del 1998. La disposizione censurata dal TAR Lazio, che delega alle province alcune funzioni amministrative in materia di gestione dei rifiuti – in particolare, tra le altre: l’approvazione dei progetti degli impianti per la gestione dei rifiuti, ad eccezione di alcune tipologie, nonché l’approvazione dei progetti di varianti sostanziali in corso di esercizio; l’autorizzazione relativa alla realizzazione degli impianti e delle varianti di cui alla lettera precedente; l’autorizzazione all’esercizio delle attività di smaltimento e di recupero dei rifiuti, fatte salve alcune eccezioni – reca una delega di funzioni amministrative che la legge statale, per il tramite delle previsioni del cod. ambiente, ex art. 196, comma 1, lett. d ed e, cod. ambiente, demanda alle regioni, nell’esercizio della propria competenza esclusiva in materia di tutela dell’ambiente e dell’ecosistema, a tutela di ineludibili esigenze di protezione di un bene unitario e di valore primario quale è l’ambiente, che risulterebbero vanificate ove si riconoscesse alla regione la facoltà di rimetterne indiscriminatamente la cura a un ente territoriale di dimensioni minori, in deroga alla valutazione di adeguatezza compiuta dal legislatore statale con l’individuazione del livello regionale). (Precedenti: S. 160/2023 - mass. 45697; S.189/2021 - mass. 44326; S. 246/2017 - mass. 41651; S. 641/1987).
+
+## Norme
+
+- legge della Regione Lazio, 09/07/1998 n. 27, art. 5, comma 2 lett. a)
+- legge della Regione Lazio, 09/07/1998 n. 27, art. 5, comma 2 lett. b)
+- legge della Regione Lazio, 09/07/1998 n. 27, art. 5, comma 2 lett. c)
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett s)
+- decreto legislativo, 03/04/2006 n. 152, art. 196, comma 1 lett. d)
+- decreto legislativo, 03/04/2006 n. 152, art. 196, comma 1 lett. e)
