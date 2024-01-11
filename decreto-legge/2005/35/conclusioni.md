@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 14 marzo 2005
+
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Siniscalco, Ministro dell'economia e delle finanze Fini, Vicepresidente del Consiglio dei Ministri Follini, Vicepresidente del Consiglio dei Ministri Pisanu, Ministro dell'interno Marzano, Ministro delle attivita' produttive Gasparri, Ministro delle comunicazioni Alemanno, Ministro delle politiche agricole e forestali Matteoli, Ministro dell'ambiente e della tutela del territorio Lunardi, Ministro delle in-frastrutture e dei trasporti Maroni, Ministro del lavoro e delle politiche sociali Moratti, Ministro dell'istruzione, dell'universita' e della ricerca Urbani, Ministro per i beni e le attivita' culturali Baccini, Ministro per la funzione pubblica La Loggia, Ministro per gli affari regionali Stanca, Ministro per l'innovazione e le tecnologie Visto, il Guardasigilli: Castelli
