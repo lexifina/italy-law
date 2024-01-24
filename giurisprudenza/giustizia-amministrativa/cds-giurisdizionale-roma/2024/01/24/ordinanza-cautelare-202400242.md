@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 242/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VII
+- Numero provvedimento: 202400242
+- Numero di ricorso (NRG): 202400118
+- Data di pubblicazione: 2024-01-24
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-01-05
+- Oggetto del ricorso: DINIEGO ACCESSO AGLI ATTI RELATIVI ALLE MODALITÀ DI SVOLGIMENTO DEL TEST “TOLC” E DELLA SUCCESSIVA FORMAZIONE DELLE GRADUATORIE DI MERITO PER L’AMMISSIONE AI CORSI DI LAUREA MAGISTRALE A CICLO UNICO IN MEDICINA E CHIRURGIA E ODONTOIATRIA E PROTESI DENTARIA E MEDICINA VETERINARIA A.A. 2023/2024
+- Tipo di ricorso: APPELLO AVV. SENT. NEL RITO ACCESSO DOCUM. ex art.116 c.p.a.
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
