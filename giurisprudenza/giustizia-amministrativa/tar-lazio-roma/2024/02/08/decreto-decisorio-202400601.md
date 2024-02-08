@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 601/2024
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA TER
+- Numero provvedimento: 202400601
+- Numero di ricorso (NRG): 201806214
+- Data di pubblicazione: 2024-02-08
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2018-05-22
+- Oggetto del ricorso: ANNULLAMENTO DEL PROVVEDIMENTO PROT. N. GSE/P20180015723 DEL 1.3.2018 CON IL QUALE, IN RIFERIMENTO ALL'IMPIANTO FOTOVOLTAICO N. 622327, DI POTENZA PARI A 270,48 KW, DI PROPRIETÀ DELLA C.G.F. SITUATO IN CAVRIGLIA (AR), LOCALITÀ MELETO, RAVVISANDO LA NECESSITÀ DI EFFETTUARE I RELATIVI CONGUAGLI, È STATA RICONOSCIUTA LA TARIFFA INCENTIVANTE PARI A 0,276 €/KWH, INFERIORE E DIVERSA RISPETTO A QUELLA EFFETTIVAMENTE SPETTANTE PARI A 0,315 €/KWH
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
