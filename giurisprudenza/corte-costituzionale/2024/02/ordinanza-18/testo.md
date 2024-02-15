@@ -1,0 +1,56 @@
+# Corte costituzionale, ordinanza 18/2024
+
+- ECLI: ECLI:IT:COST:2024:18
+- Tipo: ordinanza
+- Presidente: BARBERA
+- Relatore: Stefano Petitti
+- Redattore: Stefano Petitti
+- Data della decisione: 24/01/2024
+- Data del deposito: 15/02/2024
+- Giudizio: GIUDIZIO DI LEGITTIMITÀ COSTITUZIONALE IN VIA INCIDENTALE
+- Massime: 45995
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:18
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta da:
+ Presidente: Augusto Antonio BARBERA; Giudici : Franco MODUGNO, Giulio PROSPERETTI, Giovanni AMOROSO, Francesco VIGANÒ, Luca ANTONINI, Stefano PETITTI, Angelo BUSCEMA, Emanuela NAVARRETTA, Maria Rosaria SAN GIORGIO, Filippo PATRONI GRIFFI, Marco D'ALBERTI, Giovanni PITRUZZELLA, Antonella SCIARRONE ALIBRANDI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio di legittimità costituzionale dell'art. 4-bis, commi 1 e 1-bis, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della libertà), promosso dal Tribunale di sorveglianza di Firenze sull'istanza proposta da A. P., con ordinanza del 21 settembre 2022, iscritta al n. 46 del registro ordinanze 2023 e pubblicata nella Gazzetta Ufficiale della Repubblica n. 16, prima serie speciale, dell'anno 2023, la cui trattazione è stata fissata per l'adunanza in camera di consiglio del 23 gennaio 2024.
+ Udito nella camera di consiglio del 24 gennaio 2024 il Giudice relatore Stefano Petitti;
+ deliberato nella camera di consiglio del 24 gennaio 2024.
+ Ritenuto che, con ordinanza del 21 settembre 2022, iscritta al n. 46 del registro ordinanze 2023, il Tribunale di sorveglianza di Firenze ha sollevato, in riferimento agli artt. 3, 4 e 27, terzo comma, della Costituzione, questioni di legittimità costituzionale dell'art. 4-bis, commi 1 e 1-bis, della legge 26 luglio 1975, n. 354 (Norme sull'ordinamento penitenziario e sulla esecuzione delle misure privative e limitative della libertà), nella parte in cui non prevede che ai detenuti condannati per i delitti ivi contemplati possa essere concessa la semilibertà, nell'ipotesi di cui all'art. 50, comma 2, ordin. penit., anche in assenza di attività di collaborazione con la giustizia ai sensi del successivo art. 58-ter ordin. penit., allorché siano stati acquisiti elementi tali da escludere sia attuali collegamenti con la criminalità organizzata, terroristica o eversiva, sia il pericolo del loro ripristino, ed il programma di trattamento sia sufficientemente avanzato;
+ che il rimettente espone che, nel giudizio principale, A. P. è detenuto in forza di condanna alla pena di ventuno anni di reclusione, dei quali un anno estinto per indulto, in quanto dichiarato responsabile, tra l'altro, del reato di cui all'art. 74, comma 1, del d.P.R. 9 ottobre 1990, n. 309, recante «Testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza», rientrante tra i reati cosiddetti ostativi alla concessione di benefici penitenziari, salva la prova di avvenuta collaborazione con la giustizia ex art. 58-ter ordin. penit., o della ricorrenza delle ipotesi equipollenti di collaborazione impossibile, inesigibile o oggettivamente irrilevante;
+ che l'ordinanza di rimessione riferisce che A. P. non ha collaborato con la giustizia, né ha chiesto l'accertamento della impossibilità o inesigibilità di tale collaborazione, e tuttavia lo stesso, detenuto ininterrottamente da oltre quindici anni, si è impegnato nel percorso di recupero, studiando e lavorando in carcere, cosicché ha iniziato a fruire regolarmente di permessi premio, a seguito della sentenza di questa Corte n. 253 del 2019, e ha denotato una favorevole progressione trattamentale;
+ che il giudice a quo specifica che il detenuto ha quindi presentato domanda di applicazione della semilibertà, allegando a sostegno la possibilità di svolgere attività lavorativa presso un consorzio;
+ che il Tribunale di sorveglianza di Firenze, premessa una dettagliata ricostruzione della evoluzione positiva della personalità del condannato, anche alla luce delle informazioni acquisite, evidenzia che vi sarebbero le condizioni per l'ammissione al regime di semilibertà, impedita, però, dalla condanna riportata per un reato ostativo, con conseguente rilevanza delle sollevate questioni di legittimità costituzionale dell'art. 4-bis, commi 1 e 1-bis, della legge n. 354 del 1975;
+ che, in punto di non manifesta infondatezza delle questioni, il Tribunale di sorveglianza di Firenze richiama i principi della sentenza di questa Corte n. 253 del 2019, e ravvisa il contrasto con gli artt. 3 e 27, terzo comma, Cost. della presunzione assoluta di pericolosità che si annida nella mancata collaborazione, alla stregua delle norme censurate, dando luogo ad un trattamento penitenziario non individualizzato, tale, in particolare, da precludere l'ammissione alla semilibertà, e quindi da ostacolare il progressivo reinserimento sociale, mediante svolgimento di un'attività lavorativa, anche del detenuto che fruisca positivamente di permessi premio;
+ che la preclusione dello svolgimento di un'attività di lavoro in ambiente esterno, fuori delle mura del carcere, viene posta dal rimettente anche a base del richiamo all'art. 4 Cost.
+ Considerato che il Tribunale di sorveglianza di Firenze (reg. ord. n. 46 del 2023) dubita, in riferimento agli artt. 3, 4 e 27, terzo comma, Cost., della legittimità costituzionale dell'art. 4-bis, commi 1 e 1-bis, della legge n. 354 del 1975, nella parte in cui non prevede che ai detenuti condannati per i delitti ivi contemplati possa essere concessa la semilibertà, nell'ipotesi di cui all'art. 50, comma 2, ordin. penit., anche in assenza di attività di collaborazione con la giustizia ai sensi del successivo art. 58-ter ordin. penit., allorché siano stati acquisiti elementi tali da escludere sia attuali collegamenti con la criminalità organizzata, terroristica o eversiva, sia il pericolo del loro ripristino, ed il programma di trattamento sia sufficientemente avanzato;
+ che, nelle more del giudizio di legittimità costituzionale, è intervenuto il decreto-legge 31 ottobre 2022, n. 162 (Misure urgenti in materia di divieto di concessione dei benefici penitenziari nei confronti dei detenuti o internati che non collaborano con la giustizia, nonché in materia di termini di applicazione delle disposizioni del decreto legislativo 10 ottobre 2022, n. 150, e di disposizioni relative a controversie della giustizia sportiva, nonché di obblighi di vaccinazione anti SARS-CoV-2, di attuazione del Piano nazionale contro una pandemia influenzale e di prevenzione e contrasto dei raduni illegali), convertito, con modificazioni, nella legge 30 dicembre 2022, n. 199;
+ che il d.l. n. 162 del 2022, come convertito, ha previsto all'art. 1, comma 1, lettera a), numero 2), l'integrale sostituzione del comma 1-bis dell'art. 4-bis ordin. penit., e l'aggiunta di tre nuovi commi (1-bis.1, 1-bis.1.1 e 1-bis.2);
+ che questa Corte ha già affermato che la nuova disciplina trasforma da assoluta in relativa la presunzione di pericolosità ostativa alla concessione dei benefici e delle misure alternative in favore dei detenuti non collaboranti, che vengono ora ammessi alla possibilità di farne istanza, sebbene in presenza di stringenti e concomitanti condizioni, diversificate a seconda dei reati che vengono in rilievo (ordinanze n. 31 e n. 30 del 2023 e n. 227 del 2022);
+ che, quanto ai detenuti e agli internati per delitti di contesto mafioso e, in generale, di tipo associativo, i benefici possono essere loro concessi purché dimostrino l'adempimento delle obbligazioni civili e degli obblighi di riparazione pecuniaria conseguenti alla condanna o «l'assoluta impossibilità di tale adempimento», nonché alleghino elementi specifici - diversi e ulteriori rispetto alla regolare condotta carceraria, alla partecipazione del detenuto al percorso rieducativo e alla mera dichiarazione di dissociazione dall'organizzazione criminale di eventuale appartenenza - che consentano di escludere l'attualità di collegamenti con la criminalità organizzata, terroristica o eversiva e con il contesto nel quale il reato è stato commesso, nonché il pericolo di ripristino di tali collegamenti, anche indiretti o tramite terzi, tenuto conto delle circostanze personali e ambientali, delle ragioni eventualmente dedotte a sostegno della mancata collaborazione, della revisione critica della condotta criminosa e di ogni altra informazione disponibile, nonché, ancora, della sussistenza di iniziative dell'interessato a favore delle vittime, sia nelle forme risarcitorie, sia in quelle della giustizia riparativa;
+ che ai detenuti per i restanti reati indicati dal comma 1 dell'art. 4-bis ordin. penit. si richiede il rispetto delle medesime condizioni, depurate, tuttavia, da indicazioni non coerenti con la natura dei reati che vengono in rilievo, sicché la richiesta allegazione deve avere ad oggetto elementi idonei ad escludere l'attualità dei collegamenti, anche indiretti o tramite terzi, con il contesto nel quale il reato è stato commesso (non anche il pericolo di ripristino dei collegamenti con tale contesto);
+ che l'art. 1, comma 1, lettera a), numero 3), del d.l. n. 162 del 2022, come convertito, prevede l'ampliamento delle fonti di conoscenza a disposizione della magistratura di sorveglianza e la modifica del relativo procedimento, nonché l'onere in capo al detenuto di fornire idonei elementi di prova contraria in caso di indizi, emergenti dall'istruttoria, dell'attuale sussistenza di collegamenti con la criminalità organizzata, terroristica o eversiva o con il contesto nel quale il reato è stato commesso, ovvero del pericolo di loro ripristino;
+ che il d.l. n. 162 del 2022, come convertito, ha, dunque, dato luogo ad una modifica complessiva della disciplina interessata, modifica che incide immediatamente sul nucleo essenziale dalle questioni di legittimità costituzionale sollevate;
+ che si rende, pertanto, necessario restituire gli atti al giudice a quo, spettando a quest'ultimo sia verificare l'influenza della normativa sopravvenuta sulla rilevanza delle medesime questioni, sia procedere alla rivalutazione della loro non manifesta infondatezza (tra le tante, ordinanze n. 199, n. 72, n. 31 e n. 30 del 2023, n. 231, n. 227 e n. 97 del 2022).
+ Visti gli artt. 26, secondo comma, della legge 11 marzo 1953, n. 87, e 11, comma 1, delle Norme integrative per i giudizi davanti alla Corte costituzionale.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ ordina la restituzione degli atti al Tribunale di sorveglianza di Firenze.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 24 gennaio 2024.
+ F.to:
+ Augusto Antonio BARBERA, Presidente
+ Stefano PETITTI, Redattore
+ Roberto MILANA, Direttore della Cancelleria
+ Depositata in Cancelleria il 15 febbraio 2024
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
