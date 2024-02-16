@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 59/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202400059
+- Numero di ricorso (NRG): 202400012
+- Data di pubblicazione: 2024-02-16
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-01-05
+- Oggetto del ricorso: PROVVEDIMENTO PROT. N. M-D GMIL REG2020 0434995 12-11-2020 DEL 12/11/2020 EMESSO DAL “MINISTERO DELLA DIFESA – DIREZIONE GENERALE PER IL PERSONALE MILITARE – II REPARTO 6^ DIVISIONE” DI NON ACCOGLIMENTO DELLA DOMANDA DI PRIMA RAFFERMA BIENNALE, CON COLLOCAMENTO IN CONGEDO ILLIMITATO DEL RICORRENTE A DECORRERE DAL 30/12/2020, NOTIFICATO ALL'INTERESSATO IN DATA 16/11/2020
+- Tipo di ricorso: RIASSUNZIONE PER INCOMPETENZA(ex artt.15 co4 e 16 co3 c.p.a)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/f2ec66a2-b21a-46e2-878f-a98d3e15c365/download/tar-piemonte-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
