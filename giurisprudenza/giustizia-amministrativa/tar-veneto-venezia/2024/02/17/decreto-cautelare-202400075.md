@@ -1,0 +1,19 @@
+# TAR VENETO - VENEZIA, decreto cautelare n. 75/2024
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR VENETO - VENEZIA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202400075
+- Numero di ricorso (NRG): 202400189
+- Data di pubblicazione: 2024-02-17
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-02-16
+- Oggetto del ricorso: APPALTI PUBBLICI DI SERVIZI: ANNULLAMENTO DELLA DETERMINAZIONE N. 4/2024 DEL 16.01.2024, CON CUI VIVERACQUA S.C.A.R.L. HA AGGIUDICATO LA GARA DENOMINATA “PROCEDURA APERTA PER L'AFFIDAMENTO DEL SERVIZIO DI RACCOLTA, TRASPORTO, RECUPERO DI FANGHI DISIDRATATI - LOTTI 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11 E 12 - VAG23S4470” E, SEGNATAMENTE, DEL LOTTO N. 7; DI TUTTI GLI ATTI E VERBALI DI GARA NELLA PARTE IN CUI SONO STATE VALUTATE LE OFFERTE RELATIVE AL LOTTO N. 7 DELLE SOCIETÀ CONTROINTERESSATE.
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-veneto-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/6978709d-d83d-471d-8299-34d874b9dfcf/resource/c2880f44-16d5-484e-a01f-f80f0f9b6450/download/tar-veneto-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
