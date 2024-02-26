@@ -1,0 +1,19 @@
+# TAR MARCHE - ANCONA, sentenza breve n. 176/2024
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR MARCHE - ANCONA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202400176
+- Numero di ricorso (NRG): 202300129
+- Data di pubblicazione: 2024-02-26
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: IMPROCEDIBILE PER SOPRAVVENUTA CARENZA D'INTERESSE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2023-03-29
+- Oggetto del ricorso: DELIBERA DEL COMUNE DI JESI AVENTE AD OGGETTO "COSTITUZIONE DI SOCIETÀ CONSORTILE A PARTECIPAZIONE INDIRETTA PER LA GESTIONE DEL SERVIZIO DI IGIENE URBANA AFFIDATO DALL'ASSEMBLEA TERRITORIALE D'AMBITO N. 2 – ANCONA"
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-marche-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/958589a4-73e1-4c52-91d3-120bcf7ef619/resource/0707c0c4-4686-4552-bc6d-e95063d20d69/download/tar-marche-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
