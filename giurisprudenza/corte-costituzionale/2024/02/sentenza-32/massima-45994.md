@@ -1,0 +1,26 @@
+# Massima n. 45994
+
+- Pronuncia: Corte costituzionale, sentenza 32/2024 (ECLI:IT:COST:2024:32)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:32
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Prescrizione - In genere - Disciplina, rimessa alla discrezionalità del legislatore - Limite - Necessità di bilanciare le finalità pubblicistiche con gli interessi privatistici contrapposti - Necessità comunque di assicurare la tutela dei diritti (nel caso di specie: illegittimità costituzionale in parte qua dell'art. 2952, secondo comma, cod. civ. che prevede, nella formula vigente ratione temporis, che i diritti derivanti dal contratto di assicurazione sulla vita si prescrivano nel termine di due anni dal giorno in cui si è verificato il fatto su cui il diritto si fonda, anziché di dieci anni, secondo la regola generale). (Classif. 186001).
+
+## Testo
+
+Nella disciplina della prescrizione il legislatore gode di ampia discrezionalità che gli consente di perseguire finalità pubblicistiche e, al contempo, di bilanciare gli interessi privatistici delle parti che si contrappongono. Può, in particolare, stabilire lunghi termini di prescrizione, così come può, invece, prevedere termini brevi, magari associati a una flessibilità del termine di decorrenza ed eventualmente abbinati a un termine finale che non si può oltrepassare. Nondimeno, tale ampia discrezionalità incontra un limite: quello di non poter essere esercitata in modo da non rendere effettiva la possibilità di esercizio del diritto cui si riferisce, e di conseguenza inoperante la tutela voluta accordare al cittadino leso. (Precedente: S. 234/2008 - mass. 32634).(Nel caso di specie, è dichiarato costituzionalmente illegittimo, per violazione degli artt. 3 e 47 Cost., l’art. 2952, secondo comma, cod. civ., nel testo introdotto dall’art. 3, comma 2-ter, del d.l. n. 134 del 2008, come conv., e antecedente a quello sostituito con l’art. 22, comma 14, del d.l. n. 179 del 2012, come conv., nella parte in cui non prevede l’esclusione, dal termine di prescrizione biennale, dei diritti che derivano dai contratti di assicurazione sulla vita, per i quali opera la prescrizione decennale. La disposizione censurata dalla Corte d’appello di Firenze, prevedendo che gli «altri diritti», rispetto a quelli indicati al primo comma, derivanti dal contratto di assicurazione e dal contratto di riassicurazione si prescrivono in due anni dal giorno in cui si è verificato il fatto su cui il diritto si fonda, valica i limiti della discrezionalità legislativa. A tali «altri diritti», infatti, si ascrive in particolare quello che dà attuazione alla funzione del contratto: vale a dire il diritto al pagamento delle somme dovute dall’assicuratore al contraente o al terzo beneficiario. In tal caso, il dies a quo da cui decorre il termine di prescrizione biennale è costituito da un parametro che si identifica negli eventi – la morte o la sopravvivenza alla data di scadenza del contratto – dal carattere oggettivo, il cui abbinamento a un termine di prescrizione breve presenta, nel contesto delle polizze vita, profili di manifesta irragionevolezza. Da un lato, infatti, non si riscontra, rispetto ai diritti che derivano dall’assicurazione sulla vita, quella esigenza di un pronto accertamento del diritto che può giustificare una prescrizione breve. Da un altro lato, l’assicurazione sulla vita abbraccia fattispecie nelle quali il titolare del diritto al pagamento delle somme dovute dall’assicuratore è di frequente un terzo beneficiario, il quale ben potrebbe ignorare di essere titolare del diritto e, dunque, potrebbe risultare particolarmente pregiudicato da un termine di prescrizione breve. A fronte della prevalente funzione del contratto di assicurazione sulla vita, di risparmio previdenziale, non si giustifica la previsione di un sì breve termine di prescrizione per acquisire somme che derivano dal meccanismo di accumulo del risparmio e che spettano al verificarsi di eventi - la morte o la sopravvivenza alla data di scadenza dell’assicurazione - che non implicano, in genere, alcuna complessità di accertamento. Infine, l’estrema difficoltà, se non talora di impossibilità, a far valere i diritti regolati dalla norma censurata si ricava dal suo coordinamento sistematico con quella secondo cui gli importi non reclamati entro il termine di prescrizione debbano essere devoluti al fondo costituito con i rapporti “dormienti”, di cui all’art. 1, comma 343, della legge n. 266 del 2005. Evidenziata la manifesta irragionevolezza della norma censurata essa, al contempo, contrasta con l’art. 47 Cost., che «tutela il risparmio in tutte le sue forme», poiché sacrifica diritti che, in virtù del contratto di assicurazione sulla vita, derivano dal risparmio previdenziale).
+
+## Norme
+
+- codice civile, art. 2952, comma 2
+- decreto-legge, 18/10/2012 n. 179, art. 22, comma 14
+- legge, 17/12/2012 n. 221
+- decreto-legge, 28/08/2008 n. 134, art. 3, comma 2 ter
+- legge, 27/10/2008 n. 166
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 47
