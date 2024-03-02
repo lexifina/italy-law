@@ -14,17 +14,13 @@ La Piattaforma Digitale Nazionale Dati e' gestita dalla Presidenza del Consiglio
 
 Il Presidente del Consiglio dei Ministri o il Ministro delegato per l'innovazione tecnologica e la transizione digitale, ultimati i test e le prove tecniche di corretto funzionamento della piattaforma, fissa il termine entro il quale i soggetti di cui all'articolo 2, comma 2, sono tenuti ad accreditarsi alla stessa, a sviluppare le interfacce di cui al comma 2 e a rendere disponibili le proprie basi dati. (38)
 
-((
-
 3.
 
 Nella Piattaforma Digitale Nazionale Dati non sono conservati, ne' comunque trattati, oltre quanto strettamente necessario per le finalita' di cui al comma 1, i dati, che possono essere resi disponibili, attinenti a ordine e sicurezza pubblica, difesa e sicurezza nazionale, difesa civile e soccorso pubblico, indagini preliminari, polizia giudiziaria e polizia economico-finanziaria. Non possono comunque essere conferiti, conservati, ne' trattati i dati coperti da segreto o riservati nell'ambito delle materie indicate al periodo precedente.
 
-))
-
 4.
 
-Con decreto adottato dal Presidente del Consiglio dei ministri entro sessanta giorni dalla data di entrata in vigore della presente disposizione,, di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2, ((in apposita infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati finalizzata al supporto di politiche pubbliche basate sui dati, separata dall'infrastruttura tecnologica dedicata all'interoperabilita' dei sistemi informativi di cui al comma 2)). Il decreto di cui al presente comma e' comunicato alle Commissioni parlamentari competenti. (38)
+Con decreto adottato dal Presidente del Consiglio dei ministri entro sessanta giorni dalla data di entrata in vigore della presente disposizione,, di concerto con il Ministero dell'economia e delle finanze e il Ministero dell'interno, sentito il Garante per la protezione dei dati personali e acquisito il parere della Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e' stabilita la strategia nazionale dati. Con la strategia nazionale dati sono identificate le tipologie, i limiti, le finalita' e le modalita' di messa a disposizione, su richiesta della Presidenza del Consiglio dei ministri, dei dati aggregati e anonimizzati di cui sono titolari i soggetti di cui all'articolo 2, comma 2, in apposita infrastruttura tecnologica della Piattaforma Digitale Nazionale Dati finalizzata al supporto di politiche pubbliche basate sui dati, separata dall'infrastruttura tecnologica dedicata all'interoperabilita' dei sistemi informativi di cui al comma 2. Il decreto di cui al presente comma e' comunicato alle Commissioni parlamentari competenti. (38)
 
 5.
 
@@ -36,7 +32,7 @@ L'accesso ai dati attraverso la Piattaforma Digitale Nazionale Dati non modifica
 
 7.
 
-Resta fermo che i soggetti di cui all'articolo 2, comma 2, possono continuare a utilizzare anche i sistemi di interoperabilita' gia' previsti dalla legislazione vigente.
+Resta fermo che i soggetti di cui all'articolo 2, comma 2, possono continuare a utilizzare anche i sistemi di interoperabilita' gia' ((attivi)).
 
 8.
 

@@ -4,9 +4,23 @@ Art. 2-sexies.
 
 1.
 
-I trattamenti delle categorie particolari di dati personali di cui all'articolo 9, paragrafo 1, del Regolamento, necessari per motivi di interesse pubblico rilevante ai sensi del paragrafo 2, lettera g), del medesimo articolo, sono ammessi qualora siano previsti dal diritto dell'Unione europea ovvero, nell'ordinamento interno, da disposizioni di legge o ((...)) di regolamento ((o da atti amministrativi generali)) che specifichino i tipi di dati che possono essere trattati, le operazioni eseguibili e il motivo di interesse pubblico rilevante, nonche' le misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato. ((49))
+I trattamenti delle categorie particolari di dati personali di cui all'articolo 9, paragrafo 1, del Regolamento, necessari per motivi di interesse pubblico rilevante ai sensi del paragrafo 2, lettera g), del medesimo articolo, sono ammessi qualora siano previsti dal diritto dell'Unione europea ovvero, nell'ordinamento interno, da disposizioni di legge o di regolamento o da atti amministrativi generali che specifichino i tipi di dati che possono essere trattati, le operazioni eseguibili e il motivo di interesse pubblico rilevante, nonche' le misure appropriate e specifiche per tutelare i diritti fondamentali e gli interessi dell'interessato. (49)
 
-((1-bis. I dati personali relativi alla salute, privi di elementi identificativi diretti, sono trattati, nel rispetto delle finalita' istituzionali di ciascuno, dal Ministero della salute, dall'Istituto superiore di sanita', dall'Agenzia nazionale per i servizi sanitari regionali, dall'Agenzia italiana del farmaco, dall'Istituto nazionale per la promozione della salute delle popolazioni migranti e per il contrasto delle malattie della poverta' e, relativamente ai propri assistiti, dalle regioni anche mediante l'interconnessione a livello nazionale dei sistemi informativi su base individuale del Servizio sanitario nazionale, ivi incluso il Fascicolo sanitario elettronico (FSE), aventi finalita' compatibili con quelle sottese al trattamento, con le modalita' e per le finalita' fissate con decreto del Ministro della salute, ai sensi del comma 1, previo parere del Garante, nel rispetto di quanto previsto dal Regolamento, dal presente codice, dal codice dell'amministrazione digitale, di cui al decreto legislativo 7 marzo 2005, n. 82, e dalle linee guida dell'Agenzia per l'Italia digitale in materia di interoperabilita'))
+((
+
+1-bis.
+
+I dati personali relativi alla salute, pseudonomizzati, sono trattati, anche mediante interconnessione, dal Ministero della salute, dall'Istituto superiore di sanita' (ISS), dall'Agenzia nazionale per i servizi sanitari regionali (AGENAS), dall'Agenzia italiana del farmaco (AIFA), dall'Istituto nazionale per la promozione della salute delle popolazioni migranti e per il contrasto delle malattie della poverta' (INMP), nonche', relativamente ai propri assistiti, dalle regioni e dalle province autonome, nel rispetto delle finalita' istituzionali di ciascuno, secondo le modalita' individuate con decreto del Ministro della salute, adottato ai sensi del comma 1 previo parere del Garante per la protezione dei dati personali.
+
+))
+
+((
+
+1-ter.
+
+Il Ministero della salute disciplina, con uno o piu' decreti adottati ai sensi del comma 1, l'interconnessione a livello nazionale dei sistemi informativi su base individuale, pseudonomizzati, ivi incluso il fascicolo sanitario elettronico (FSE), compresi quelli gestiti dai soggetti di cui al comma 1-bis o da altre pubbliche amministrazioni che a tal fine adeguano i propri sistemi informativi. I decreti di cui al primo periodo adottati, previo parere del Garante per la protezione dei dati personali, nel rispetto del Regolamento, del presente codice, del Codice dell'amministrazione digitale di cui al decreto legislativo 7 marzo 2005, n. 82, e delle linee guida emanate dall'Agenzia per l'Italia digitale in materia di interoperabilita', definiscono le caratteristiche e disciplinano un ambiente di trattamento sicuro all'interno del quale vengono messi a disposizione dati anonimi o pseudonimizzati, per le finalita' istituzionali di ciascuno, secondo le modalita' individuate al comma 1.
+
+))
 
 2.
 
@@ -116,7 +130,7 @@ instaurazione, gestione ed estinzione, di rapporti di lavoro di qualunque tipo, 
 
 Per i dati genetici, biometrici e relativi alla salute il trattamento avviene comunque nel rispetto di quanto previsto dall'articolo 2-septies.
 
-----------------
+-------------
 
 AGGIORNAMENTO (49)
 
