@@ -1,0 +1,72 @@
+# Corte costituzionale, ordinanza 34/2024
+
+- ECLI: ECLI:IT:COST:2024:34
+- Tipo: ordinanza
+- Presidente: BARBERA
+- Relatore: Filippo Patroni Griffi
+- Redattore: Filippo Patroni Griffi
+- Data della decisione: 20/02/2024
+- Data del deposito: 04/03/2024
+- Giudizio: GIUDIZIO SULL'AMMISSIBILITÀ DI RICORSO PER CONFLITTO DI ATTRIBUZIONE TRA POTERI DELLO STATO
+- Massime: 46021
+- Scheda: scheda.md (in questa cartella)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:34
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Collegio
+
+LA CORTE COSTITUZIONALEcomposta da:
+ Presidente: Augusto Antonio BARBERA; Giudici : Franco MODUGNO, Giulio PROSPERETTI, Giovanni AMOROSO, Francesco VIGANÒ, Luca ANTONINI, Stefano PETITTI, Angelo BUSCEMA, Emanuela NAVARRETTA, Filippo PATRONI GRIFFI, Marco D'ALBERTI, Giovanni PITRUZZELLA, Antonella SCIARRONE ALIBRANDI,
+
+## Epigrafe
+
+ha pronunciato la seguenteORDINANZAnel giudizio per conflitto di attribuzione tra poteri dello Stato sorto a seguito della deliberazione del Senato della Repubblica del 28 giugno 2023, che approva la proposta della Giunta per le autorizzazioni (doc. IV-quater, n. 2) di ritenere insindacabili, ai sensi dell'art. 68, primo comma, della Costituzione, le dichiarazioni del senatore Mario Michele Giarrusso, promosso dal Giudice per le indagini preliminari presso il Tribunale ordinario di Catania con ricorso depositato in cancelleria il 14 settembre 2023 ed iscritto al n. 6 del registro conflitti tra poteri dello Stato 2023, fase di ammissibilità.
+ Udito nella camera di consiglio del 20 febbraio 2024 il Giudice relatore Filippo Patroni Griffi;
+ deliberato nella camera di consiglio del 20 febbraio 2024.
+ Ritenuto che, con ricorso depositato il 14 settembre 2023 (reg. confl. pot. n. 6 del 2023), il Giudice per le indagini preliminari presso il Tribunale ordinario di Catania ha promosso conflitto di attribuzione tra poteri dello Stato, in riferimento alla deliberazione del 28 giugno 2023 del Senato della Repubblica, con la quale, approvando la proposta della Giunta per le autorizzazioni (doc. IV-quater, n. 2), si è affermato che fossero state espresse nell'esercizio delle funzioni parlamentari, ai sensi dell'art. 68, primo comma, della Costituzione, le dichiarazioni per le quali Mario Michele Giarrusso, senatore all'epoca dei fatti, è indagato per il reato di diffamazione, previsto dall'art. 595 del codice penale, ai danni di F. B.;
+ che il ricorso è promosso nell'ambito di un procedimento penale a carico di Mario Michele Giarrusso, in relazione a quanto da questi affermato nell'intervista rilasciata il 27 maggio 2020 al programma televisivo "Voxitaliatv" e pubblicata online sul canale Youtube;
+ che il giudice ricorrente, riportate per esteso le dichiarazioni per le quali è indagato Giarrusso, riferisce che il pubblico ministero aveva formulato richiesta di archiviazione, ritenendo applicabile l'art. 68, primo comma, Cost.; richiesta che era condivisa dall'indagato e alla quale si era opposto F. B., chiedendo la formulazione dell'imputazione coatta o di sollevare conflitto di attribuzione tra poteri dello Stato dinanzi a questa Corte;
+ che, riferisce ancora il ricorrente, ritenendo insussistenti i presupposti per l'applicazione dell'art. 68, primo comma, Cost., egli aveva sospeso la decisione e trasmesso gli atti al Senato della Repubblica, ai sensi dell'art. 3 della legge 20 giugno 2003, n. 140 (Disposizioni per l'attuazione dell'articolo 68 della Costituzione nonché in materia di processi penali nei confronti delle alte cariche dello Stato), perché si pronunciasse sul punto;
+ che la Giunta per le immunità parlamentari di detto ramo del Parlamento ha ritenuto, invece, che le dichiarazioni di Giarrusso fossero state espresse nell'esercizio delle funzioni parlamentari e in tal senso ha deliberato anche il Senato della Repubblica il 28 giugno 2023;
+ che, precisa il ricorrente, la deliberazione è stata resa in riferimento tanto al procedimento penale quanto al procedimento pendente dinanzi all'organismo di mediazione civile Ex Aequo adr srl di Potenza: precisazione che si rende necessaria perché «il Presidente ha errato nell'indicare la votazione nominale con scrutinio simultaneo sulla sola vicenda di responsabilità civile [...], malgrado la proposta della Giunta si riferisse anche al presente procedimento penale»;
+ che, tutto ciò premesso, il giudice catanese rileva che la deliberazione del Senato della Repubblica inibisce l'esercizio della funzione giurisdizionale;
+ che, tuttavia, l'immunità è «strumento per assicurare l'autonomia e la libertà delle Camere» e non può, pertanto, «considerarsi espressione di un privilegio spettante alla persona del parlamentare» (sono richiamate le sentenze di questa Corte n. 379 del 1996 e n. 81 del 1975);
+ che la giurisprudenza di questa Corte - a partire dalle sentenze n. 10 e n. 11 del 2000 - avrebbe posto l'accento, perché si tratti di opinioni insindacabili, sulla necessità di connessione tra le attività svolte fuori dalle sedi delle Camere e la funzione di parlamentare (si richiamano le sentenze n. 59 del 2018 e n. 194 del 2011): e in tal senso deve essere interpretata la stessa legge n. 140 del 2003 (sentenza n. 120 del 2004);
+ che il ricorrente dà ampiamente conto del dibattito, nella giurisprudenza di legittimità, sulla natura dell'immunità in questione;
+ che l'insindacabilità ex art. 68, primo comma, Cost. potrebbe operare solo quando le dichiarazioni extra moenia presentino «una sostanziale coincidenza di contenuti con quelle rese in sede parlamentare e siano cronologicamente successive alle dichiarazioni cosiddette "interne"» (è richiamata la sentenza della Corte di cassazione, sezione quinta penale, 6-26 maggio 2014, n. 21320), non essendo invece sufficiente né la comunanza di argomenti, né un mero contesto politico cui possano riferirsi (è citata la sentenza della Corte di cassazione, sezione quinta penale, 4 maggio-14 giugno 2010, n. 22716);
+ che le dichiarazioni dell'allora senatore Giarrusso sono state rese extra moenia e la Giunta per le immunità parlamentari le ha ritenute coperte da insindacabilità in ragione dell'interrogazione a risposta scritta presentata il 28 maggio 2020, dunque il giorno successivo all'intervista, «con una sostanziale contestualità tra le dichiarazioni e l'adozione di un atto tipico dell'attività parlamentare»;
+ che il giudice ricorrente, al contrario, ritiene non vi sia «sostanziale corrispondenza» tra le opinioni espresse nell'intervista e quelle di cui all'interrogazione parlamentare;
+ che verrebbe a mancare, innanzitutto, il legame di ordine temporale e, dunque, la finalità divulgativa dell'attività esterna rispetto a quella parlamentare;
+ che, infatti, la presentazione dell'interrogazione il giorno successivo avrebbe il solo scopo di «far rinvenire ex post la copertura» alle dichiarazioni rese extra moenia;
+ che neppure vi sarebbe «sostanziale coincidenza/corrispondenza/assimilazione di significato tra le opinioni espresse e gli atti adottati (rectius: l'unico atto) nell'esercizio delle funzioni»;
+ che a tale riguardo non sarebbe sufficiente il mero «contesto politico» (sentenza n. 144 del 2015), ma sarebbe necessario che le dichiarazioni «costituiscano la sostanziale riproduzione delle specifiche e concrete opinioni manifestate dal parlamentare nell'esercizio delle proprie attribuzioni», altrimenti venendo in gioco la libertà di manifestazione del pensiero assicurata a tutti dall'art. 21 Cost. (sentenza n. 152 del 2007);
+ che, nel caso di specie, le affermazioni dell'indagato non sarebbero connesse «se non artificiosamente all'attività parlamentare» e non rappresenterebbero «il riflesso del peculiare contributo che ciascun parlamentare apporta alla vita democratica mediante le proprie opinioni e i propri voti - contributo coperto dalle guarentigie di cui all'art. 68 della Costituzione - ma [rientrerebbero] nell'esercizio della libera manifestazione del pensiero assicurato a tutti dall'art. 21 della Costituzione»;
+ che l'art. 21 Cost., tuttavia, non impedisce al giudice ordinario «l'esame delle affermazioni ritenute lesive dalla persona offesa»;
+ che l'immunità di cui all'art. 68 Cost., osserva il ricorrente, «segna certo una linea avanzata di libertà di manifestazione del pensiero, ma la stessa deve mantenersi collegata da un nesso intrinseco all'esercizio delle funzioni politiche e non può tracimare in attacco personale alla dignità di altri soggetti, sino a ledere il patrimonio personale di questi ultimi»: altrimenti, verrebbero lesi gli artt. 2 e 3 Cost.;
+ che, a tale riguardo, il giudice ricorrente osserva, anzi, che se l'insindacabilità ex art. 68, primo comma, Cost., è «una fattispecie di libertà maggiormente qualificata rispetto alla generale libertà di manifestazione del pensiero riconosciuta a tutti», allora «incontra l'obbligo del suo esercizio» secondo i canoni di disciplina e onore di cui all'art. 54 Cost., alla luce dei quali chi esercita funzioni pubbliche non può approfittarne per ledere altri beni di rilievo costituzionale quali quelli tutelati dagli artt. 2, 3, 27 e 32 Cost.;
+ che, in tale prospettiva, bisognerebbe distinguere tra le dichiarazioni aventi quali destinatari altri soggetti politici e dichiarazioni rivolte invece verso soggetti estranei alla competizione politica, i quali non hanno «mezzi di tutela della propria dignità analoghi a quelli nella disponibilità degli esponenti politici (se non altro per la facilità di accesso ai mezzi di comunicazione)»;
+ che, pertanto, le dichiarazioni di Mario Michele Giarrusso sarebbero «estranee all'ambito di operatività dell'art. 68 Cost. per il tempo in cui sono state fatte, per le modalità e per i contenuti, nonché per il destinatario delle medesime»;
+ che, conseguentemente, l'impugnata deliberazione del Senato della Repubblica sarebbe «in contrasto con l'ambito di tutela assegnato alla Camera di appartenenza del parlamentare dall'art. 68 Cost. e perciò idonea a ledere le attribuzioni giurisdizionali a tutela dei diritti dei soggetti privati garantiti dagli artt. 2, 3, 24, 101 della Costituzione e dall'art. 6 CEDU, la cui violazione ridonda in un'ipotesi di lesione dell'art. 117, I comma Cost.».
+ Considerato che, con ricorso depositato il 14 settembre 2023 (reg. confl. poteri n. 6 del 2023), il Giudice per le indagini preliminari presso il Tribunale ordinario di Catania ha promosso conflitto di attribuzione tra poteri dello Stato, in riferimento alla deliberazione del 28 giugno 2023 del Senato della Repubblica, con la quale, approvando la proposta della Giunta per le autorizzazioni (doc. IV-quater, n. 2), si è affermato che fossero state espresse nell'esercizio delle funzioni parlamentari, ai sensi dell'art. 68, primo comma, Cost., le dichiarazioni per le quali Mario Michele Giarrusso, senatore all'epoca dei fatti, è indagato per il reato di diffamazione, previsto dall'art. 595 cod. pen., ai danni di F. B.;
+ che, nella presente fase del giudizio, questa Corte è chiamata a deliberare, in camera di consiglio e senza contraddittorio, in ordine alla sussistenza dei requisiti soggettivo e oggettivo prescritti dall'art. 37, primo comma, della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), ossia a decidere se il conflitto sia insorto tra organi competenti a dichiarare definitivamente la volontà del potere cui appartengono e per la delimitazione della sfera di attribuzioni determinata per i predetti poteri da norme costituzionali, restando impregiudicata ogni ulteriore questione, anche in punto di ammissibilità;
+ che, sotto il profilo del requisito soggettivo, va riconosciuta la legittimazione attiva del ricorrente giudice per le indagini preliminari a promuovere conflitto di attribuzione tra poteri dello Stato, in quanto organo giurisdizionale, in posizione di indipendenza costituzionalmente garantita, competente a dichiarare definitivamente, nell'esercizio delle funzioni attribuitegli, la volontà del potere cui appartiene (da ultimo, ordinanza n. 204 del 2023);
+ che, parimenti, deve essere riconosciuta la legittimazione passiva del Senato della Repubblica a essere parte del presente conflitto, quale organo competente a dichiarare in modo definitivo la propria volontà in ordine all'applicazione dell'art. 68, primo comma, Cost. (da ultimo, ancora ordinanza n. 204 del 2023);
+ che, per quanto attiene al profilo oggettivo, il ricorrente lamenta la lesione della propria sfera di attribuzioni, costituzionalmente garantite, in conseguenza di un esercizio ritenuto illegittimo, per insussistenza dei relativi presupposti, del potere spettante al Senato della Repubblica di dichiarare l'insindacabilità delle opinioni espresse da un membro di quel ramo del Parlamento, ai sensi dell'art. 68, primo comma, Cost. (da ultimo, di nuovo ordinanza n. 204 del 2023);
+ che, dunque, esiste la materia di un conflitto, la cui risoluzione spetta alla competenza di questa Corte.
+
+## Dispositivo
+
+per questi motivi
+ LA CORTE COSTITUZIONALE
+ 1) dichiara ammissibile, ai sensi dell'art. 37 della legge 11 marzo 1953, n. 87 (Norme sulla costituzione e sul funzionamento della Corte costituzionale), il ricorso per conflitto di attribuzione tra poteri dello Stato indicato in epigrafe, promosso dal Giudice per le indagini preliminari presso il Tribunale ordinario di Catania nei confronti del Senato della Repubblica;
+ 2) dispone:
+ a) che la cancelleria di questa Corte dia immediata comunicazione della presente ordinanza al Giudice per le indagini preliminari presso il Tribunale ordinario di Catania;
+ b) che il ricorso e la presente ordinanza siano notificati, a cura del ricorrente, al Senato della Repubblica, in persona del suo Presidente, entro il termine di sessanta giorni dalla comunicazione di cui al punto a), per essere successivamente depositati, con la prova dell'avvenuta notifica, nella cancelleria di questa Corte entro il termine di trenta giorni previsto dall'art. 26, comma 3, delle Norme integrative per i giudizi davanti alla Corte costituzionale.
+ Così deciso in Roma, nella sede della Corte costituzionale, Palazzo della Consulta, il 20 febbraio 2024.
+ F.to:
+ Augusto Antonio BARBERA, Presidente
+ Filippo PATRONI GRIFFI, Redattore
+ Roberto MILANA, Direttore della Cancelleria
+ Depositata in Cancelleria il 4 marzo 2024
+ Il Direttore della Cancelleria
+ F.to: Roberto MILANA
