@@ -1,0 +1,21 @@
+# Massima n. 46052
+
+- Pronuncia: Corte costituzionale, sentenza 36/2024 (ECLI:IT:COST:2024:36)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:36
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Trasporto pubblico - Servizio di taxi - Norme della Regione Calabria - Possibilità, per i Comuni, su richiesta dei titolari di licenza del servizio di taxi che svolgano l'attività in forma individuale o in cooperative di produzione e lavoro o in cooperative di servizi o in consorzi tra imprese artigiane e in tutte le altre forme previste dalla legge, di prevedere, in via sperimentale, forme innovative di servizio, con obblighi di servizio e tariffe differenziati, rilasciando apposite autorizzazioni - Asserita estensione anche a coloro che esercitano il servizio di noleggio con conducente (NCC) - Ricorso del Governo - Lamentata violazione della competenza esclusiva statale in materia di tutela della concorrenza - Insussistenza - Non fondatezza della questione, nei sensi di cui in motivazione. (Classif. 253004).
+
+## Testo
+
+È dichiarata non fondata, nei sensi di cui in motivazione, la questione di legittimità costituzionale, promossa dal Governo in riferimento all’art. 117, secondo comma, lett. e), Cost. dell’art. 2, comma 4, della legge reg. Calabria n. 37 del 2023, che consente ai Comuni, su richiesta dei titolari di licenza del servizio di taxi o dei soggetti di cui all’art. 7, comma 1, lett. b) e c), della legge n. 21 del 1992, di prevedere, in via sperimentale, forme innovative di servizio all’utenza, con obblighi di servizio e tariffe differenziati, rilasciando a tal fine apposite autorizzazioni. La disposizione impugnata non annovera, tra i suoi destinatari, coloro che esercitano il servizio di NCC, in quanto il richiamato art. 7 si riferisce ai titolari di licenza per il servizio di taxi, che svolgano l’attività in forma individuale o associati in cooperative di produzione e lavoro o in cooperative di servizi (art. 7, comma 1, lett. b) o in consorzi tra imprese artigiane e in tutte le altre forme previste dalla legge (art. 7, comma 1, lett. c). Essa dunque, nelle sue linee essenziali, ricalca la normativa statale e ne specifica le indicazioni, collocandosi nell’alveo della competenza regionale residuale nella materia del trasporto pubblico locale. La premessa interpretativa che sorregge il ricorso non si rivela fondata neppure con riferimento al supposto divieto di svolgere i servizi innovativi nel settore di NCC: non solo tali divieti devono essere sanciti in termini espliciti, tanto più quando investono punti qualificanti dell’assetto normativo e limitano la libertà garantita dall’art. 41 Cost., ma la finalità di attuare il principio comunitario di libera concorrenza in un peculiare settore, contraddistinto da una marcata connotazione pubblicistica e perciò bisognoso di regole dettagliate, non può comportare alcun sacrificio della libertà dell’iniziativa economica privata in relazione all’attività di NCC. Si deve escludere, pertanto, che la diversa configurazione dei servizi pubblici non di linea si rifletta nell’erogazione dei servizi innovativi, tanto da precluderla nell’attività di NCC. I divieti e gli obblighi posti in capo alle imprese autorizzate al servizio di NCC, infatti, per essere legittimi devono essere funzionali alla tutela di uno specifico interesse pubblico, adeguati e proporzionati rispetto allo scopo da perseguire; mentre, nel caso di specie, non si ravvisa alcuna finalità di interesse generale che possa giustificare il divieto di erogare servizi innovativi. Al contrario, la possibilità per le imprese di NCC di erogare tali servizi, riconosciuta anche alle imprese autorizzate al servizio di taxi, amplia la libertà di scelta del consumatore e accresce il grado di effettività della libertà di circolazione (art. 16 Cost.), condizione per l’esercizio di altri diritti, concernenti le sfere più diverse, dal lavoro, allo studio, alla cultura, allo svago, al turismo.
+
+## Norme
+
+- legge della Regione Calabria, 07/08/2023 n. 37, art. 2, comma 4
+
+## Parametri
+
+- Costituzione, art. 117, comma 2 lett. e)
