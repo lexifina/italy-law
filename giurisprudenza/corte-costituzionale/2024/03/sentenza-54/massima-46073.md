@@ -1,0 +1,24 @@
+# Massima n. 46073
+
+- Pronuncia: Corte costituzionale, sentenza 54/2024 (ECLI:IT:COST:2024:54)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:54
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - In genere - Principi di legalità, tassatività e determinatezza - Ratio - Rispetto della divisione dei poteri e della riserva di legge, evitando un ruolo creativo del giudice - Garanzia dell'autodeterminazione individuale - Possibile uso di espressioni sommarie, vocaboli polisensi, clausole generali o concetti elastici - Condizioni - Corrispondenza della fattispecie concreta alla fattispecie astratta e correlativa percezione, per il destinatario, del valore precettivo della norma incriminatrice (nel caso di specie: non fondatezza della questione sollevata su disposizioni incriminatrici relative all'omessa dichiarazione di informazioni connesse al reddito di cittadinanza, Rdc). (Classif. 210001).
+
+## Testo
+
+In materia penale, è necessaria una particolare attenzione sul rispetto dei requisiti minimi di chiarezza e precisione che debbono possedere le disposizioni incriminatrici, in forza – in particolare – del principio di legalità e tassatività di cui all’art. 25, secondo comma, Cost., da cui deriva un imperativo costituzionale, rivolto al legislatore, di formulare norme concettualmente precise sotto il profilo semantico della chiarezza e dell’intellegibilità dei termini impiegati. Sottesi al principio di legalità e tassatività vi sono, infatti, due obiettivi fondamentali consistenti, per un verso, nell’evitare che, in contrasto con il principio della divisione dei poteri e con la riserva assoluta di legge in materia penale, il giudice assuma un ruolo creativo, individuando, in luogo del legislatore, i confini tra il lecito e l’illecito; e, per un altro verso, nel garantire la libera autodeterminazione individuale, permettendo al destinatario della norma penale di apprezzare a priori le conseguenze giuridico-penali della propria condotta. (Precedenti: S. 110/2023 - mass. 45588; S. 98/2021 - mass. 43904; S. 327/2008 - mass. 32824; S. 96/1981 - mass. 9496). Ai fini della verifica del rispetto del principio di tassatività di cui all’art. 25 Cost., la giurisprudenza costituzionale è costante nell’affermare che l’impiego, nella formula descrittiva dell’illecito, di espressioni sommarie, di vocaboli polisensi, ovvero di clausole generali o concetti “elastici”, non comporta un vulnus del suddetto parametro costituzionale, quando la descrizione complessiva del fatto incriminato consenta comunque al giudice di stabilire il significato di tale elemento mediante un’operazione interpretativa non esorbitante dall’ordinario compito a lui affidato: quando cioè quella descrizione consenta di esprimere un giudizio di corrispondenza della fattispecie concreta alla fattispecie astratta, sorretto da un fondamento ermeneutico controllabile; e, correlativamente, permetta al destinatario della norma di avere una percezione sufficientemente chiara ed immediata del relativo valore precettivo. (Precedenti: S. 141/2019 - mass. 41826; S. 25/2019 - mass. 41559; S. 172/2014 - mass. 38019; S. 282/2010 - mass. 34927; S. 21/2009 - mass. 33140; S. 5/2004 - mass. 28182). (Nel caso di specie, è dichiarata non fondata la questione di legittimità costituzionale sollevata, in riferimento all’art. 25 Cost., dal GUP del Tribunale di Foggia, degli artt. 3, comma 11, e 7, commi 1 e 2, del d.l. n. 4 del 2019, come conv., laddove si utilizza la locuzione «informazioni dovute» per punire mendacio e omissioni informative, commesse da chi chiede di accedere al beneficio del reddito di cittadinanza, Rdc, nonché l’omessa comunicazione delle variazioni reddituali e patrimoniali successive che determinano la perdita o la riduzione dell’importo erogato. Nonostante una complessa serie di rimandi normativi, l’ordinamento consente di individuare con precisione le informazioni dovute – escludendo, pertanto, la contraddizione con il principio di tassatività. In relazione, poi, alle modalità con cui le variazioni del reddito del beneficiario conseguenti alle vincite vanno comunicate, seppur queste ultime sono menzionate soltanto nel modello ministeriale, proprio a tale modalità fa espresso riferimento l’art. 5, comma 1, del d.l. n. 4 del 2019, come conv., motivo per cui il beneficiario del Rdc, destinatario della fattispecie incriminatrice, è in grado di conoscerle al fine di informare l’INPS).
+
+## Norme
+
+- decreto-legge, 28/01/2019 n. 4, art. 3, comma 11
+- decreto-legge, 28/01/2019 n. 4, art. 7, comma 1
+- decreto-legge, 28/01/2019 n. 4, art. 7, comma 2
+- legge, 28/03/2019 n. 26
+
+## Parametri
+
+- Costituzione, art. 25
