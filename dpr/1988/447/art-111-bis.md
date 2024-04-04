@@ -1,8 +1,6 @@
 Art. 111-bis.
 
-(( (Deposito telematico). ))
-
-((
+(Deposito telematico)
 
 1.
 
@@ -16,9 +14,11 @@ Il deposito telematico assicura la certezza, anche temporale, dell'avvenuta tras
 
 La disposizione di cui al comma 1 non si applica agli atti e ai documenti che, per loro natura o per specifiche esigenze processuali, non possono essere acquisiti in copia informatica.
 
-4. Gli atti che le parti compiono personalmente possono essere depositati anche con modalita' non telematiche.))
+4.
 
-((290))
+Gli atti che le parti ((e la persona offesa dal reato)) compiono personalmente possono essere depositati anche con modalita' non telematiche.
+
+(290)
 
 --------------
 

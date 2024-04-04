@@ -1,8 +1,6 @@
 Art. 420-quater.
 
-(( (Sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato). ))
-
-((
+(Sentenza di non doversi procedere per mancata conoscenza della pendenza del processo da parte dell'imputato).
 
 1.
 
@@ -56,9 +54,9 @@ b)
 
 quando la persona non e' destinataria di un provvedimento applicativo della misura cautelare degli arresti domiciliari o della custodia in carcere per i fatti per cui si procede, l'avviso che l'udienza per la prosecuzione del processo e' fissata:
 
-1) il primo giorno non festivo del successivo mese di settembre, se la persona e' stata rintracciata nel primo semestre dell'anno;
+1) il primo giorno non festivo del successivo mese di ((ottobre)), se la persona e' stata rintracciata nel primo semestre dell'anno;
 
-2) il primo giorno non festivo del mese di febbraio dell'anno successivo, se la persona e' stata rintracciata nel secondo semestre dell'anno;
+2) il primo giorno non festivo del mese di ((marzo)) dell'anno successivo, se la persona e' stata rintracciata nel secondo semestre dell'anno;
 
 c)
 

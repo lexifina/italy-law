@@ -1,12 +1,14 @@
 Art. 545-bis.
 
-(( (Condanna a pena sostitutiva). ))
+(Condanna a pena sostitutiva)
 
 ((
 
 1.
 
-Quando e' stata applicata una pena detentiva non superiore a quattro anni e non e' stata ordinata la sospensione condizionale, subito dopo la lettura del dispositivo, il giudice, se ricorrono le condizioni per sostituire la pena detentiva con una delle pene sostitutive di cui all'articolo 53 della legge 24 novembre 1981, n. 689, ne da' avviso alle parti. Se l'imputato, personalmente o a mezzo di procuratore speciale, acconsente alla sostituzione della pena detentiva con una pena diversa dalla pena pecuniaria, ovvero se puo' aver luogo la sostituzione con detta pena, il giudice, sentito il pubblico ministero, quando non e' possibile decidere immediatamente, fissa una apposita udienza non oltre sessanta giorni, dandone contestuale avviso alle parti e all'ufficio di esecuzione penale esterna competente; in tal caso il processo e' sospeso.
+Il giudice, se ritiene che ne ricorrano i presupposti, sostituisce la pena detentiva con una delle pene sostitutive di cui all'articolo 53 della legge 24 novembre 1981, n. 689. Quando non e' possibile decidere immediatamente, il giudice, subito dopo la lettura del dispositivo, sentite le parti, acquisito, ove necessario, il consenso dell'imputato, integra il dispositivo indicando la pena sostitutiva con gli obblighi e le prescrizioni corrispondenti e provvede ai sensi del comma 3, ultimo periodo. Se deve procedere agli ulteriori accertamenti indicati al comma 2, fissa una apposita udienza non oltre sessanta giorni, dandone contestuale avviso alle parti e all'ufficio di esecuzione penale esterna competente; in tal caso il processo e' sospeso.
+
+))
 
 2.
 
@@ -16,10 +18,8 @@ Agli stessi fini, il giudice puo' acquisire altresi', dai soggetti indicati dall
 
 3.
 
-Acquisiti gli atti, i documenti e le informazioni di cui ai commi precedenti, all'udienza fissata, sentite le parti presenti, il giudice, se sostituisce la pena detentiva, integra il dispositivo indicando la pena sostitutiva con gli obblighi e le prescrizioni corrispondenti; si applicano gli articoli 57 e 61 della legge 24 novembre 1981, n. 689. In caso contrario, il giudice conferma il dispositivo. Del dispositivo integrato o confermato e' data lettura in udienza ai sensi e per gli effetti dell'articolo 545.
+Acquisiti gli atti, i documenti e le informazioni di cui ai commi precedenti, all'udienza fissata, sentite le parti presenti, il giudice, se sostituisce la pena detentiva, integra il dispositivo indicando la pena sostitutiva con gli obblighi e le prescrizioni corrispondenti ((...)). In caso contrario, il giudice conferma il dispositivo. Del dispositivo integrato o confermato e' data lettura in udienza ai sensi e per gli effetti dell'articolo 545.
 
 4.
 
 Quando il processo e' sospeso ai sensi del comma 1, la lettura della motivazione redatta a norma dell'articolo 544, comma 1, segue quella del dispositivo integrato o confermato e puo' essere sostituita con un'esposizione riassuntiva. Fuori dai casi di cui all'articolo 544, comma 1, i termini per il deposito della motivazione decorrono, ad ogni effetto di legge, dalla lettura del dispositivo, confermato o integrato, di cui al comma 3.
-
-))

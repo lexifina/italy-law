@@ -1,12 +1,10 @@
 Art. 554-ter.
 
-(( (Provvedimenti del giudice). ))
-
-((
+(Provvedimenti del giudice)
 
 1.
 
-Se, sulla base degli atti trasmessi ai sensi dell'articolo 553, sussiste una causa che estingue il reato o per la quale l'azione penale non doveva essere iniziata o non deve essere proseguita, se risulta che il fatto non e' previsto dalla legge come reato ovvero che il fatto non sussiste o che l'imputato non lo ha commesso o che il fatto non costituisce reato o che l'imputato non e' punibile per qualsiasi causa, il giudice pronuncia sentenza di non luogo a procedere. Il giudice pronuncia sentenza di non luogo a procedere anche quando gli elementi acquisiti non consentono una ragionevole previsione di condanna. Si applicano, in quanto compatibili, le disposizioni di cui agli articoli 425, comma 2, 426 e 427. Il giudice non puo' pronunciare sentenza di non luogo a procedere se ritiene che dal proscioglimento dovrebbe conseguire l'applicazione di una misura di sicurezza diversa dalla confisca.
+Se, sulla base degli atti trasmessi ai sensi dell'articolo 553, sussiste una causa che estingue il reato o per la quale l'azione penale non doveva essere iniziata o non deve essere proseguita, se risulta che il fatto non e' previsto dalla legge come reato ovvero che il fatto non sussiste o che l'imputato non lo ha commesso o che il fatto non costituisce reato o che l'imputato non e' punibile per qualsiasi causa, il giudice pronuncia sentenza di non luogo a procedere. Il giudice pronuncia sentenza di non luogo a procedere anche quando gli elementi acquisiti non consentono una ragionevole previsione di condanna. Si applicano, in quanto compatibili, le disposizioni di cui agli articoli ((424, commi 2, 3 e 4,)) 425, comma 2, 426 e 427. Il giudice non puo' pronunciare sentenza di non luogo a procedere se ritiene che dal proscioglimento dovrebbe conseguire l'applicazione di una misura di sicurezza diversa dalla confisca.
 
 2.
 
@@ -21,5 +19,3 @@ Se non sussistono le condizioni per pronunciare sentenza di non luogo a proceder
 4.
 
 Tra la data del provvedimento e la data fissata per l'udienza dibattimentale deve intercorrere un termine non inferiore a venti giorni.
-
-))

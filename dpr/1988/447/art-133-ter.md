@@ -1,12 +1,10 @@
 Art. 133-ter.
 
-(( (Modalita' e garanzie della partecipazione a distanza))
-
-((
+(Modalita' e garanzie della partecipazione a distanza)
 
 1.
 
-L'autorita' giudiziaria, quando dispone che un atto sia compiuto a distanza o che una o piu' parti partecipino a distanza al compimento di un atto o alla celebrazione di un'udienza, provvede con decreto motivato. Quando non e' emesso in udienza, il decreto e' notificato o comunicato alle parti unitamente al provvedimento che fissa la data per il compimento dell'atto o la celebrazione dell'udienza e, in ogni caso, almeno tre giorni prima della data suddetta. Il decreto e' comunicato anche alle autorita' interessate.
+L'autorita' giudiziaria, quando dispone che un atto sia compiuto a distanza o che una o piu' parti partecipino a distanza al compimento di un atto o alla celebrazione di un'udienza, provvede con decreto motivato. Quando non e' emesso in udienza, il decreto e' notificato o comunicato alle parti unitamente al provvedimento che fissa la data per il compimento dell'atto o la celebrazione dell'udienza ((...)), almeno tre giorni prima della data suddetta ((, salvo i casi di urgenza, ferma restando l'esigenza di garantire al difensore l'esercizio delle facolta' di cui al comma 7)). Il decreto e' comunicato anche alle autorita' interessate.
 
 2.
 
@@ -37,5 +35,3 @@ I difensori si collegano dai rispettivi uffici o da altro luogo, purche' idoneo.
 8.
 
 Nei casi di cui ai commi 4 e 5 e, ove l'autorita' giudiziaria non disponga diversamente, nel caso di cui al comma 6, un ausiliario del giudice o del pubblico ministero, individuato anche tra gli ausiliari in servizio presso l'ufficio giudiziario di cui al citato comma 4, o un ufficiale di polizia giudiziaria, individuato in via prioritaria tra il personale in servizio presso le sezioni di polizia giudiziaria e designato tra coloro che non svolgono, ne' hanno svolto, attivita' di investigazione o di protezione nei confronti dell'imputato o in relazione ai fatti a lui riferiti, e' presente nel luogo ove si trovano le persone che compiono l'atto o che partecipano all'udienza a distanza, ne attesta l'identita' e redige verbale delle operazioni svolte a norma dell'articolo 136, in cui da' atto dell'osservanza delle disposizioni di cui al comma 3, primo periodo, e al comma 7, secondo e terzo periodo, delle cautele adottate per assicurare la regolarita' dell'esame con riferimento al luogo in cui la persona si trova, nonche' dell'assenza di impedimenti o limitazioni all'esercizio dei diritti e delle facolta' ad essa spettanti.
-
-))
