@@ -1,0 +1,17 @@
+# Massima n. 46061
+
+- Pronuncia: Corte costituzionale, sentenza 59/2024 (ECLI:IT:COST:2024:59)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:59
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giurisdizione contabile - In genere - Ricomprensione sia dei giudizi di responsabilità amministrativo-contabile che dei giudizi di conto - Ratio - Necessità di assicurare la sana gestione del denaro pubblico - Conseguente obbligo di rendere il conto per chi ha maneggiato denaro pubblico - Estensione anche ai casi di gestione di azioni e quote societarie. (Classif. 121001).
+
+## Testo
+
+L’art. 103, secondo comma, Cost. si riferisce all’ampio ambito della «tutela del pubblico danaro», su cui la Corte dei conti ha giurisdizione piena ed esclusiva, e comprende tanto i giudizi di responsabilità amministrativo-contabile, quanto i giudizi di conto. È infatti principio generale del nostro ordinamento che il pubblico denaro proveniente dalla generalità dei contribuenti e destinato al soddisfacimento dei pubblici bisogni debba esser assoggettato alla garanzia costituzionale della correttezza della sua gestione, garanzia che si attua con lo strumento del rendiconto giudiziale. Ne discende, in ossequio al principio di necessarietà del giudizio di conto, l’obbligatorietà della resa del conto giudiziale da parte di chi ha maneggio di denaro o valori pubblici; in applicazione di tale principio a nessun ente gestore di mezzi di provenienza pubblica e a nessun agente contabile che abbia comunque maneggio di denaro e valori di proprietà dell’ente è consentito sottrarsi a questo fondamentale dovere. (Precedenti: S. 89/2023 - mass. 45578; S. 18/2019 - mass. 42074; S. 196/2018 - mass. 40372; S. 371/1998 - mass. 24248; S. 378/1996 - mass. 22942; S. 1007/1988 - mass. 13268; S. 185/1982 - mass. 11472; S. 114/1975 - mass. 7813; S. 68/1971 - mass. 5515 - mass. 5516).Il giudizio avente ad oggetto azioni e quote societarie si configura come un procedimento giudiziale, a carattere necessario ed ineludibile, per la salvaguardia di interessi generali della collettività connessi alla gestione del denaro o di beni pubblici. (Precedente: S. 292/2001 - mass. 26492).La qualità di agente contabile è fondata sul presupposto essenziale che detto operatore è investito del maneggio di denaro (sia esso entrata di diritto pubblico o di diritto privato) d’indiscussa originaria pertinenza dell’ente pubblico che ha costituito a tale scopo la società di tipo privatistico, e ovviamente tale considerazione si estende anche alla gestione di materie di pertinenza pubblica.Il giudizio di conto si configura essenzialmente come una procedura giudiziale a carattere necessario, volta a verificare se chi ha avuto maneggio di denaro pubblico e ha avuto in carico risorse finanziarie provenienti da bilanci pubblici è in grado di rendere conto del modo legale in cui lo ha speso, e non risulta gravato da obbligazioni di restituzione. In quanto tale, il giudizio di conto ha come destinatari non già gli ordinatori della spesa, bensì gli agenti contabili che riscuotono le entrate ed eseguono le spese. La giurisdizione della Corte dei conti in questo giudizio risponde dunque all’esigenza del rispetto della legalità contabile delle risorse pubbliche. (Precedente: S. 129/1981 - mass. 9660).
+
+## Parametri
+
+- Costituzione, art. 103, comma 2
