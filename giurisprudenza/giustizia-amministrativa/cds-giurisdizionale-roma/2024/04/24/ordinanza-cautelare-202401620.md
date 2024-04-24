@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 1620/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VI
+- Numero provvedimento: 202401620
+- Numero di ricorso (NRG): 202402805
+- Data di pubblicazione: 2024-04-24
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DISPONE INTEGRAZIONE DEL CONTRADDITTORIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-04-05
+- Oggetto del ricorso: APPROVAZIONE DELLA GRADUATORIA DEFINITIVA DELLE DOMANDE AMMESSE AL CONTRIBUTO, PER L’ANNO 2018, DEL FONDO PER IL PLURALISMO E L’INNOVAZIONE DELL’INFORMAZIONE IN FAVORE DELLE EMITTENTI TELEVISIVE E RADIOFONICHE LOCALI - ASSEGNAZIONE DI UN CONTRIBUTO MINORE A QUELLO EFFETTIVAMENTE SPETTANTE (APPLICAZIONE DEL CD. “SCALINO PREFERENZIALE")
+- Tipo di ricorso: APPELLO AVVERSO SENTENZA
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
