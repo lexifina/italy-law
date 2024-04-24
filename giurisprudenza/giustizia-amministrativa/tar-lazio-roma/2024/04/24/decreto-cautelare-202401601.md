@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 1601/2024
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE QUARTA TER
+- Numero provvedimento: 202401601
+- Numero di ricorso (NRG): 202404454
+- Data di pubblicazione: 2024-04-24
+- Udienza: PROCESSO MONOCRATICO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-04-22
+- Oggetto del ricorso: REVOCA AGGIUDICAZIONE E AFFIDAMENTO DELLA PROGETTAZIONE ESECUTIVA E L’ESECUZIONE DEI LAVORI DI REALIZZAZIONE DI OPERE DI MITIGAZIONE ACUSTICA LUNGO LA LINEA FERROVIARIA ESISTENTE GENOVA-PISA DEL COMUNE DI LA SPEZIA IDENTIFICATI DAI CODICI DI INTERVENTO CI 011015027, 011015051 E 011015052 - RISARCIMENTO DANNI
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
