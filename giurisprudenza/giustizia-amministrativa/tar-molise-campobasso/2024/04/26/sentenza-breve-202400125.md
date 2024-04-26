@@ -1,0 +1,19 @@
+# TAR MOLISE - CAMPOBASSO, sentenza breve n. 125/2024
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR MOLISE - CAMPOBASSO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202400125
+- Numero di ricorso (NRG): 202300239
+- Data di pubblicazione: 2024-04-26
+- Udienza: UDIENZA PUBBLICA
+- Esito: DICHIARA INAMMISSIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2023-09-18
+- Oggetto del ricorso: DELIBERA C.C.10 DEL 11.05.2023 CON LA QUALE IL COMUNE DI FOSSALTO HA APPROVATO IL PIANO DELLE ALIENAZIONI E VALORIZZAZIONI IMMOBILIARI PER L'ANNO 2023
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-molise-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/9357249b-47b4-464e-a6fd-349bcbfa568f/resource/1c9710e1-ae9d-4c16-b79e-18b773d38c72/download/tar-molise-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
