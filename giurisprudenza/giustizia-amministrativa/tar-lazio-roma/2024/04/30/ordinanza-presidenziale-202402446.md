@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza presidenziale n. 2446/2024
+
+- Tipo: ORDINANZA PRESIDENZIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE PRIMA BIS
+- Numero provvedimento: 202402446
+- Numero di ricorso (NRG): 202010632
+- Data di pubblicazione: 2024-04-30
+- Udienza: PROCESSO MONOCRATICO
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2020-12-11
+- Oggetto del ricorso: ANNULLAMENTO DEL PROVVEDIMENTO PROVV. M D ARMO94 REG2020 0026875 01-09-2020 , CON CUI L'AMMINISTRAZIONE DELLA DIFESA HA DISPOSTO IL RECUPERO DI TUTTE LE SOMME PERCEPITE DAI RICORRENTI A TITOLO DI FONDO PER L'EFFICIENZA DEI SERVIZI ISTITUZIONALI DI CUI ALL'ART. 5 DEL D.P.R. 11/09/2007, N. 171 (FESI)
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
