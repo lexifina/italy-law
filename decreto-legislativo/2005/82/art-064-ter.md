@@ -1,26 +1,22 @@
 Art. 64-ter.
 
-(( (Piattaforma di gestione deleghe). ))
-
-((
+(Piattaforma di gestione deleghe)
 
 1.
 
-Il cittadino iscritto in ANPR puo' delegare l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono identificazione informatica, a non piu' di due soggetti iscritti in ANPR, titolari dell'identita' digitale di cui all'articolo 64, comma 2-quater, con livello di sicurezza almeno significativo.
+Il cittadino iscritto ((nell'ANPR)) puo' delegare l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni che richiedono ((l'identificazione informatica a)) non piu' di due soggetti iscritti ((nell'ANPR)), titolari dell'identita' digitale di cui all'articolo 64, comma 2-quater, con livello di sicurezza almeno significativo.
 
 2.
 
-La presentazione della delega avviene tramite la piattaforma di cui al comma 5, mediante una delle modalita' previste dall'articolo 65, comma 1, o recandosi presso gli uffici del comune di residenza.
-
-La delega e' revocabile in ogni momento. Il delegante viene puntualmente informato dalla piattaforma di cui al comma 5, dell'esercizio della delega da parte del delegato.
+((Il cittadino presenta la delega di cui al comma 1)) tramite la piattaforma di cui al comma 5, mediante una delle modalita' previste dall'articolo 65, comma 1, o recandosi presso gli uffici del comune di residenza. La delega e' revocabile in ogni momento. Il delegante viene puntualmente informato dalla piattaforma di cui ((al comma 5 dell'esercizio)) della delega da parte del delegato.
 
 3.
 
-Per i soggetti sottoposti alle forme di tutela previste dal codice civile nei casi di incapacita' totale o parziale a provvedere ai propri interessi, il Ministero della giustizia rende disponibile alla piattaforma di cui al comma 5, per il tramite della piattaforma di cui all'articolo 50-ter, le informazioni, ove disponibili in formato digitale idoneo, relative alla qualifica di tutore, di curatore o di amministratore di sostegno del soggetto che richiede l'accesso ai servizi in rete quale rappresentante del soggetto tutelato.
+Per i soggetti sottoposti alle forme di tutela previste dal codice civile nei casi di incapacita' totale o parziale a provvedere ai propri interessi, il Ministero della giustizia rende disponibile ((nella piattaforma)) di cui al comma 5, per il tramite della piattaforma di cui all'articolo 50-ter, le informazioni, ove disponibili in formato digitale idoneo, relative alla qualifica di tutore, di curatore o di amministratore di sostegno del soggetto che richiede l'accesso ai servizi in rete quale rappresentante del soggetto tutelato.
 
 4.
 
-I gestori di identita' digitale, tramite la piattaforma di cui al comma 5, verificano l'esistenza di eventuali deleghe in capo al cittadino che effettua l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni.
+I gestori di identita' digitale, tramite la piattaforma di cui al comma 5, verificano l'esistenza di eventuali deleghe ((conferite)) al cittadino che effettua l'accesso ai servizi in rete erogati dalle pubbliche amministrazioni.
 
 5.
 
@@ -32,6 +28,4 @@ Con decreto del Presidente del Consiglio dei ministri ovvero dell'Autorita' poli
 
 7.
 
-Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione della piattaforma di cui al comma 5, pari a 1.589.784 euro per l'anno 2024 ed a 3.070.216 euro per l'anno 2025, si provvede a valere sulle risorse assegnate, nell'ambito del Fondo complementare al PNRR, per l'Investimento 1.4 della Missione 1, Componente 1 di titolarita' della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale.
-
-))
+Agli oneri derivanti dalla progettazione, realizzazione e graduale messa a disposizione della piattaforma di cui al comma 5, pari a 1.589.784 euro per l'anno 2024 ed a 3.070.216 euro per l'anno 2025, si provvede a valere sulle risorse assegnate, nell'ambito del Fondo complementare al PNRR, per l'Investimento 1.4 della Missione 1, Componente 1 ((,)) di titolarita' della struttura della Presidenza del Consiglio dei ministri competente per l'innovazione tecnologica e la transizione digitale.
