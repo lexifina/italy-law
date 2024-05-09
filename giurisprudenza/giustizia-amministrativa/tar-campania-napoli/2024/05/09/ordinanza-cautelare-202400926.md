@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 926/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SESTA
+- Numero provvedimento: 202400926
+- Numero di ricorso (NRG): 202401655
+- Data di pubblicazione: 2024-05-09
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AD ALTRA DATA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-04-05
+- Oggetto del ricorso: DELLA DETERMINAZIONE DEL RESPONSABILE DEL I SETTORE - AFFARI GENERALI DEL COMUNE DI LACCO AMENO DEL 03.04.2024 RECANTE AD OGGETTO “SELEZIONE PER PROGRESSIONE ORDINARIA TRA LE AREE DEL PERSONALE DIPENDENTE ANNO 2024 NELL'AMBITO DEL V SETTORE POLIZIA MUNICIPALE IN ESECUZIONE DELLA DELIBERA DI GIUNTA MUNICIPALE N. 27 DELL'8.3.2024 - AMMISSIONE ED ESCLUSIONE CANDIDATURE” NELLA PARTE IN CUI HA DETERMINATO L’ESCLUSIONE DELLA RICORRENTE DALLA PROCEDURA SELETTIVA;
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/fda29dd4-e192-45bd-a301-7b8deadea07c/download/tar-campania-napoli-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
