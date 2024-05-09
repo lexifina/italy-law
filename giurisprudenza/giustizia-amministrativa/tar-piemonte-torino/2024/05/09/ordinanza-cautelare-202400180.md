@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 180/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202400180
+- Numero di ricorso (NRG): 202400475
+- Data di pubblicazione: 2024-05-09
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-05-02
+- Oggetto del ricorso: PROVVEDIMENTO CONCLUSIVO 27 FEBBRAIO 2024, N. 19, ADOTTATO DAL RESPONSABILE DEL SERVIZIO - SETTORE SUAP, COMMISSIONE ASSOCIATE E SERVIZIO INFORMATICO, DELL'UNIONE MONTANA DEI COMUNI DEL BIELLESE ORIENTALE, PER L'AUTORIZZAZIONE A INWIT S.P.A. E A TIM S.P.A. DI UNA NUOVA INFRASTRUTTURA DI TELECOMUNICAZIONI A SOSTEGNO
+- Tipo di ricorso: RITO ABBREVIATO (ex art. 119 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/f2ec66a2-b21a-46e2-878f-a98d3e15c365/download/tar-piemonte-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
