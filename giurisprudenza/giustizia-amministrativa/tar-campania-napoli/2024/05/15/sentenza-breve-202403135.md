@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, sentenza breve n. 3135/2024
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SETTIMA
+- Numero provvedimento: 202403135
+- Numero di ricorso (NRG): 202401888
+- Data di pubblicazione: 2024-05-15
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2024-04-17
+- Oggetto del ricorso: DELL'ORDINANZA DI RILASCIO N. 54 DEL 04/03/2024, NOTIFICATA EX ART. 140 C.P.C. IL 12.03.2024 E RICEVUTA IL 14/03/2024, CON CUI È STATO ORDINATO IL RILASCIO DELL'IMMOBILE SITO IN NAPOLI ALLA VIA GIACOMO PISCICELLI, INTIMANDO LA LIBERAZIONE DEL MEDESIMO IMMOBILE NEL TERMINE DI 30 GIORNI DALLA NOTIFICA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/27c811fe-f8c0-4e4a-84f1-2ad9619fbc1e/resource/3198abdc-4874-4b51-8e12-56c1fde6718a/download/tar-campania-napoli-sentenze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
