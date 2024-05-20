@@ -1,0 +1,23 @@
+# Massima n. 46143
+
+- Pronuncia: Corte costituzionale, sentenza 91/2024 (ECLI:IT:COST:2024:91)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:91
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Reati contro la libertà sessuale - Pornografia minorile - Trattamento sanzionatorio per produzioni di materiale pedopornografico - Condotte di minore gravità - Possibilità di attenuare la pena in misura non eccedente i due terzi - Omessa previsione - Violazione dei principî di ragionevolezza, personalità della responsabilità penale e finalità rieducativa della pena - Illegittimità costituzionale in parte qua. (Classif. 210038).
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione degli artt. 3 e 27, primo e terzo comma, Cost., l’art. 600-ter, primo comma, n. 1), cod. pen., nella parte in cui non prevede, per il reato di produzione di materiale pornografico mediante l’utilizzazione di minori di anni diciotto, che nei casi di minore gravità la pena da esso comminata è diminuita in misura non eccedente i due terzi. La disposizione censurata dal Tribunale di Bologna è stata oggetto di un’evoluzione normativa e giurisprudenziale che ne ha, in parte, ampliato l’ambito di applicazione, così facendo emergere la necessità di una “valvola di sicurezza” che, fermo il minimo edittale elevato che il legislatore nella sua discrezionalità ha voluto porre, consenta al giudice comune, attraverso la previsione di un’attenuante speciale, di graduare e “personalizzare” la pena, assicurandone la proporzionalità, in una con la individualizzazione e la finalità rieducativa, da irrogare in concreto con riferimento ai casi di minore gravità (quali la contenuta differenza di età tra l’imputato e le persone offese, l’oggetto delle immagini pedopornografiche scambiate e l’assenza di particolari tecniche di pressione, manipolazione psicologica o seduzione affettiva). Nella necessità di individuare una soluzione sanzionatoria costituzionalmente adeguata, non potendo assumere rilievo l’applicazione delle circostanze attenuanti, che non hanno la funzione di correggere la mancanza di proporzionalità della pena derivante da un minimo edittale particolarmente significativo e dalla mancata previsione di una diminuente, è ragionevole fare riferimento all’art. 609-quater cod. pen., che presenta significativi tratti in comune, e che, nel quadro della medesima cornice sanzionatoria, dispone che, nei casi di minore gravità, la pena sia diminuita in misura non eccedente i due terzi. Comunque, l’invocata diminuente potrà trovare ragionevole giustificazione limitatamente alle ipotesi di disvalore significativamente inferiore a quello normalmente associato alla realizzazione di un fatto conforme alla figura astratta del reato, trattandosi di condotta che incide comunque sull’equilibrato sviluppo e sul benessere psicofisico del minore, nonché sulla sua libertà sessuale e sulla sua dignità. Tutto ciò ovviamente non esclude una riconsiderazione sistematica da parte del legislatore della tematica in esame, sotto il profilo delle fattispecie criminose, delle norme incriminatrici e dei trattamenti sanzionatori, che dovrà ovviamente tener conto dei canoni costituzionali di proporzionalità e di individualizzazione della pena. (Precedenti: S. 46/2024 - mass. 46029; S. 6/2024 - mass. 45948; S. 120/2023 - mass. 45595 e 45597; S. 244/2022 - mass. 45209; S. 95/2022 - mass. 44715; S. 63/2022 - mass. 44730; S. 28/2022 - mass. 44620; S. 63/2021 - mass. 43782; S. 48/21 - mass. 43720; S. 106/2014 - mass. 37900; S. 68/2012 - mass. 36174; S. 325/2005).
+
+## Norme
+
+- codice penale, art. 600 ter, comma 1 n. 1
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 27, comma 1
+- Costituzione, art. 27, comma 3
