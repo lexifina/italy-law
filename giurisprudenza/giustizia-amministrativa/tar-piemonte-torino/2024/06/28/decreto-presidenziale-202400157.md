@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, decreto presidenziale n. 157/2024
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202400157
+- Numero di ricorso (NRG): 202400727
+- Data di pubblicazione: 2024-06-28
+- Udienza: PROCESSO MONOCRATICO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-06-24
+- Oggetto del ricorso: DELIBERAZIONE DELLA GIUNTA COMUNALE DI CLAVESANA N. 24 DEL 24.04.2024 AVENTE AD OGGETTO: “RELAZIONE ILLUSTRATIVA DESCRITTIVA AREA PRODUTTIVA “EX CASCINA S. GIOVANNI IN COMUNE DI CLAVESANA” - RISCONTRO OSSERVAZIONE DEL COMITATO “CLAVESANA DICE NO ALLO STOCCAGGIO DI RIFIUTI PERICOLOSI”; DELIBERAZIONE DEL CONSIGLIO COMUNALE DI CLAVESANA N. 7 DEL 24.04.2024, AVENTE AD OGGETTO: “LINEE DI INDIRIZZO URBANISTICHE DI P.R.G.C. – DETERMINAZIONI”
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/0d2dfd69-3ce9-42bb-9aec-e9ed46fdfa13/resource/b943bf86-4c26-4da3-ad6d-dc4c59fe2928/download/tar-piemonte-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
