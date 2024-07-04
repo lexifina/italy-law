@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto decisorio n. 3520/2024
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA TER
+- Numero provvedimento: 202403520
+- Numero di ricorso (NRG): 201901284
+- Data di pubblicazione: 2024-07-04
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA PERENZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2019-01-28
+- Oggetto del ricorso: DELIBERA N. 60/2018 DEL 4.07.2018 DELL’ISTITUTO NAZIONALE DI ASTROFISICA, RECANTE LE “PROCEDURE DI STABILIZZAZIONE DEL PERSONALE PRECARIO PREVISTE DALL’ART. 20, COMMI 1 E 2, DEL D.LGS N.75/2017, NELLA PARTE IN CUI DISPONE DI STABILIZZARE ESCLUSIVAMENTE I LAVORATORI IN POSSESSO DEI REQUISITI PREVISTI AL COMMA 1 CHE HANNO MATURATO UN’ANZIANITÀ DI TRE ANNI CON CONTRATTO A TEMPO DETERMINATO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/6deecace-4bb8-4148-99bd-b2fff689e430/download/tar-lazio-roma-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
