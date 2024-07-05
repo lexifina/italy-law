@@ -34,13 +34,15 @@ h) dispone con decreto motivato, reclamabile al procuratore generale presso la c
 
 1) perdurante e ingiustificata inerzia nella attivita' di indagine;
 
-2) ingiustificata e reiterata violazione dei doveri previsti dall'articolo 371 ai fini del coordinamento delle indagini;
+2) ingiustificata e ((grave)) violazione dei doveri previsti dall'articolo 371 ai fini del coordinamento delle indagini;
 
 4.
 
 Il procuratore nazionale antimafia e antiterrorismo provvede alla avocazione dopo aver assunto sul luogo le necessarie informazioni personalmente o tramite un magistrato della Direzione nazionale antimafia e antiterrorismo all'uopo designato. Salvi casi particolari, il procuratore nazionale antimafia o il magistrato da lui designato non puo' delegare per il compimento degli atti di indagine altri uffici del pubblico ministero. (28)
 
-((4-bis. Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo))
+4-bis.
+
+Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo.
 
 -------------
 
