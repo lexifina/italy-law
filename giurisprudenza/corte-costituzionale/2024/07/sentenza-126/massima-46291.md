@@ -1,0 +1,31 @@
+# Massima n. 46291
+
+- Pronuncia: Corte costituzionale, sentenza 126/2024 (ECLI:IT:COST:2024:126)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:126
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudizio costituzionale in via principale - Ricorso - Necessaria corrispondenza, a pena di inammissibilità, con la delibera a ricorrere - Ratio - Natura politica dell'atto di impugnazione (nel caso di specie: inammissibilità della questione sollevata dal Governo avente ad oggetto la disposizione della Provincia autonoma di Trento che assegna, in via temporanea, la certificazione dell'attendibilità dei costi dei contratti collettivi al collegio provinciale dei revisori dei conti). (Classif. 113002).
+
+## Testo
+
+La deliberazione del Consiglio dei ministri da adottare in previsione del ricorso di legittimità costituzionale nei confronti di leggi regionali o provinciali, collocandosi in un quadro connotato dal carattere tassativo delle competenze di ordine costituzionale, ha il suo fondamento in un’esigenza sostanziale, connessa all’importanza dell’atto di impugnativa della legge e alla gravità dei suoi possibili effetti di natura costituzionale. Trattandosi di una decisione dell’organo costituzionale investito della direzione della politica nazionale, al quale spetta, in rappresentanza dell’unità dell’ordinamento statale, il potere di sollecitare la reintegrazione dell’ordine costituzionale che si assume leso da una legge regionale o provinciale, la deliberazione del Consiglio dei ministri comporta una scelta di politica istituzionale diretta a prefigurare, quantomeno nelle sue linee essenziali, la violazione ipotizzata, al fine di delimitare con sufficiente chiarezza l’oggetto della questione che si intende promuovere e che verrà definita nei suoi termini di legge nel successivo ricorso del Presidente del Consiglio dei ministri, attraverso l’indicazione delle disposizioni legislative sospettate di illegittimità costituzionale e delle disposizioni costituzionali che si assumono violate. (Precedenti: S. 223/2023 - mass. 45923; S. 163/2023 - mass. 45691; S. 15/2015 - mass. 38232).Nei giudizi in via principale deve dunque sussistere una piena e necessaria corrispondenza tra la deliberazione con cui l’organo legittimato si determina all’impugnazione ed il contenuto del ricorso, attesa la natura politica dell’atto d’impugnazione, e pertanto l’omissione di qualsiasi accenno ad un parametro costituzionale nella delibera di autorizzazione all’impugnazione dell’organo politico, comporta l’esclusione della volontà del ricorrente di promuovere la questione al riguardo, con conseguente inammissibilità della questione che, sul medesimo parametro, sia stata proposta dalla difesa nel ricorso. (Precedenti: S. 128/2018 - mass. 41387; S. 239/2016 - mass. 39127).(Nel caso di specie, sono dichiarate inammissibili, per l’assenza di una motivata deliberazione del Consiglio dei ministri, le questioni di legittimità costituzionale, promosse dal Governo in riferimento agli artt. 81, 97, 100, 117, secondo comma, lettere e, f ed l, e 120 Cost. e agli artt. 4, 8 e 105 dello statuto speciale per il Trentino-Alto Adige, in relazione all’art. 47 del d.lgs. n. 165 del 2001, dell’art. 9 della legge prov. Trento n. 10 del 2022. La prima delibera del Consiglio dei ministri del 28 settembre 2022 non indica né l’articolo della legge provinciale oggetto di impugnativa, né i parametri costituzionali violati, né i motivi del ricorso. Neppure la successiva delibera integrativa del 5 ottobre 2022, indica i parametri costituzionali, né argomentazioni idonee a giustificare l’impugnazione dell’art. 9 della legge prov. Trento n. 10 del 2022. Entrambe le delibere si limitano difatti a rinviare, per relationem, rispettivamente, alle note del 16 settembre e del 5 ottobre 2022 del Presidente della sezione di controllo della Corte dei conti per il Trentino-Alto Adige).
+
+## Norme
+
+- legge della Provincia autonoma di Trento, 04/08/2022 n. 10, art. 9
+
+## Parametri
+
+- Costituzione, art. 81
+- Costituzione, art. 97
+- Costituzione, art. 100
+- Costituzione, art. 117, comma 2 lett. e)
+- Costituzione, art. 117, comma 2 lett. f)
+- Costituzione, art. 117, comma 2 lett. l)
+- Costituzione, art. 120
+- decreto legislativo, 30/03/2001 n. 165, art. 47
+- statuto regione Trentino Alto Adige, art. 4
+- statuto regione Trentino Alto Adige, art. 8
+- statuto regione Trentino Alto Adige, art. 105
