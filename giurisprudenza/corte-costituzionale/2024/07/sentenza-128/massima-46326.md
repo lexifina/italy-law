@@ -1,0 +1,23 @@
+# Massima n. 46326
+
+- Pronuncia: Corte costituzionale, sentenza 128/2024 (ECLI:IT:COST:2024:128)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:128
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Lavoro - Licenziamento individuale - Necessità costituzionale della sua giustificazione, a presidio del diritto al lavoro - Conseguente divieto di licenziamento acausale - Effetti - Discrezionalità del legislatore nello stabilire le conseguenze del licenziamento illegittimo, nei limiti della razionalità e dell'adeguatezza (nel caso di specie: illegittimità costituzionale della disposizione che disciplina il licenziamento individuale per giustificato motivo oggettivo, nella parte in cui non prevede che si applichino le forme di tutela in essa stabilite anche nelle ipotesi ove sia dimostrata in giudizio l'insussistenza del fatto materiale allegato dal datore di lavoro, rispetto alla quale resta estranea ogni valutazione circa il ricollocamento del lavoratore). (Classif. 138013).
+
+## Testo
+
+Il principio costituzionale della necessaria giustificazione del licenziamento rinviene la sua legittimazione nel «diritto al lavoro» di cui all’art. 4, primo comma, Cost. ed è rafforzato dalla «tutela» del lavoro riconosciuta art. 35, primo comma, Cost.L’assoggettamento del lavoratore al potere direttivo del datore di lavoro, in cui si esprime il vincolo di subordinazione e che connota il rapporto come subordinato, si accompagna alla specialità della disciplina del recesso datoriale, il quale, a differenza del recesso nel rapporto di lavoro autonomo e più in generale nei rapporti di durata, ingloba la ragione su cui si fonda, elevandola e conformandola come causa tipica dell’atto. Il licenziamento, salvo particolari e nominate ipotesi, non può essere acausale (ad nutum): per speciale prescrizione imperativa, esso deve fondarsi su una causa declinata come «giusta causa» (ex art. 2119 cod. civ.) oppure come «giustificato motivo» (ex art. 3 della legge n. 604 del 1966). Se mancano una giusta causa o un giustificato motivo, il licenziamento viola la regola legale della necessaria causalità del recesso, prima ancora che quella della sua necessaria giustificatezza. La disciplina delle conseguenze di tale radicale illegittimità rimane, comunque, nella discrezionalità del legislatore, sempre che essa appronti una tutela adeguata e sufficientemente dissuasiva del recesso acausale e, più in generale, del licenziamento privo di giusta causa o di giustificato motivo. (Nel caso di specie, è dichiarato costituzionalmente illegittimo, per violazione degli artt. 3, 4 e 35 Cost., l’art. 3, comma 2, del d.lgs. n. 23 del 2015, nella parte in cui non prevede che la disciplina del licenziamento per giustificato motivo oggettivo si applichi anche nelle ipotesi ove sia direttamente dimostrata in giudizio l’insussistenza del fatto materiale allegato dal datore di lavoro, rispetto alla quale resta estranea ogni valutazione circa il ricollocamento del lavoratore. La disposizione censurata dal Tribunale di Ravenna, nello stabilire la radicale irrilevanza dell’insussistenza del “fatto materiale” in caso di licenziamento per giustificato motivo oggettivo – quale che sia la qualificazione che il datore di lavoro dia al “fatto insussistente”, vuoi contestandolo al lavoratore come condotta inadempiente che in realtà non c’è stata, vuoi indicandolo come ragione di impresa che in realtà non sussiste – viola il principio della necessaria causalità del recesso datoriale e apre una falla nella disciplina complessiva di contrasto ai licenziamenti illegittimi. La tutela reintegratoria, prevista nei casi più gravi, risulta così fortemente indebolita, in quanto aggirabile ad libitum dal datore di lavoro, seppur a fronte del “costo” della compensazione indennitaria. Un simile recesso offende la dignità del lavoratore per la perdita del posto di lavoro, in quanto, nella sostanza, è un licenziamento pretestuoso – senza causa –, che si colloca a confine con un licenziamento discriminatorio. Tutto ciò determina un difetto di sistematicità, che ridonda in una irragionevolezza della differenziazione rispetto alla parallela ipotesi del licenziamento senza giusta causa o giustificato motivo soggettivo). (Precedenti: S. 125/2022 - mass. 44898-44899; S. 59/2021 - mass. 43754).
+
+## Norme
+
+- decreto legislativo, 04/03/2015 n. 23, art. 3, comma 2
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 4
+- Costituzione, art. 35
