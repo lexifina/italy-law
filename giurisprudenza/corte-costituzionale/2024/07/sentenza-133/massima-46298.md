@@ -1,0 +1,27 @@
+# Massima n. 46298
+
+- Pronuncia: Corte costituzionale, sentenza 133/2024 (ECLI:IT:COST:2024:133)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:133
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Comuni, province e città metropolitane - Funzioni fondamentali - Necessità di corrispondenza tra funzioni e risorse - Possibili riduzioni delle dotazioni, purché non si renda difficile, o addirittura impossibile, lo svolgimento delle funzioni attribuite (nel caso di specie: non fondatezza della questione promossa dalle Regioni Campania, Piemonte e Veneto avente ad oggetto i nuovi criteri di riparto del Fondo TPL. Auspicio per un intervento del legislatore). (Classif. 050004).
+
+## Testo
+
+L’autonomia finanziaria costituzionalmente garantita agli enti territoriali non comporta una rigida garanzia quantitativa, sicché le risorse disponibili possono subire modifiche, anche in diminuzione. Tuttavia, simili riduzioni non devono comunque rendere difficile, o addirittura impossibile, lo svolgimento delle funzioni attribuite. Ciò vale tanto più in presenza di un sistema di finanziamento che dovrebbe essere coordinato con il riparto delle funzioni, così da far corrispondere il più possibile esercizio di funzioni e relativi oneri finanziari da un lato, disponibilità di risorse dall’altro. (Precedenti: S. 73/2023 - mass. 45436; S. 155/2020 - mass. 43416; S. 138/1999 - mass. 24660; S. 10/2016 - mass. 38704; S. 188/2015 - mass. 38541; S. 241/2012 - mass. 36672).Grava sulla regione, che contesti le modalità con cui il legislatore statale ha stabilito una determinata riduzione di risorse, presuntivamente tale da impedire o rendere difficile l’esercizio delle sue funzioni, l’onere di fornire una adeguata prova di tale situazione, sempre che quest’ultima non si desuma in maniera autoevidente dalla stessa formulazione della disposizione statale oggetto di censure.(Nel caso di specie, è dichiarata non fondata la questione di legittimità costituzionale dell’art. 17, comma 1, del d.l. n. 104 del 2023, come conv., promossa dalle Regioni Veneto, Piemonte e Campania in riferimento agli artt. 3, 81, 97, 117, 118 e 119 Cost., che modifica la disciplina precedente in tema di criteri di riparto delle risorse del Fondo nazionale TPL, prevedendo che: [a] la quota del 50% del fondo deve essere ripartita tenendo conto dei costi standard totali; [b] limitatamente agli anni 2023-2024, al riparto del fondo TPL si provvede, per una quota predeterminata dallo stesso legislatore, secondo le percentuali utilizzate per l’anno 2020, mentre, a valere sulle risorse residue del fondo, si applica, in via generale, il criterio dell’assegnazione, per il 50%, sulla base dei costi standard totali e, per il restante 50%, sulla base dei livelli adeguati dei servizi – LAS; [c] nelle more dell’adozione del decreto di definizione dei LAS, le risorse residue del fondo sono ripartite con riferimento esclusivo ai costi standard totali. L’evoluzione della normativa di settore, ancora in attesa di andare a regime una volta emanato il decreto di definizione dei LAS, e la successione dei provvedimenti di riparto delle risorse del fondo TPL, quale si è avuta fino al 2023, non assegnano al mutamento dei criteri di ripartizione delle predette risorse stabilito dall’impugnato art. 17 del d.l. n. 104 del 2023, come conv., l’evidenza della pretesa lesione lamentata. Nel 2023, infatti, il nuovo criterio, dei costi standard totali, risulta utilizzato solo con riferimento alle risorse aggiuntive, rispetto a quelle individuate e ripartite in linea con quanto accaduto nell’anno 2020, mentre il precedente criterio dei costi standard puri non ha mai trovato applicazione, come risulta confermato dai decreti ministeriali di riparto adottati fino al 2023. Peraltro, la clausola di garanzia, in virtù della quale l’applicazione dei nuovi criteri non deve determinare, in ogni caso, per ciascuna regione, un’assegnazione di risorse inferiore a quella risultante dalla ripartizione del fondo per l’anno 2020. A fronte della mancanza di indizi che rivelino in maniera palese la violazione del principio di corrispondenza fra funzioni e risorse, le ricorrenti non hanno fornito documentazione di alcun genere a sostegno dell’evocata lesione e dunque non hanno adempiuto al preciso onere di fornire adeguata prova dell’impossibilità dello svolgimento delle funzioni per effetto della disposizione statale impugnata. Nel giungere a tale conclusione, la Corte costituzionale non può, tuttavia, esimersi dal formulare l’auspicio che, quanto al finanziamento dei servizi di trasporto pubblico locale, si porti al più presto a conclusione il complesso iter di transizione ai costi e fabbisogni standard, prefigurato già dalla legge n. 42 del 2009 e funzionale ad assicurare gli obiettivi di servizio pubblico e il sistema di perequazione. A tal fine, occorre che siano al più presto definiti i LAS e identificati in modo univoco i costi standard nella prospettiva di un riassetto organico del settore cui solo il legislatore potrà e dovrà provvedere).
+
+## Norme
+
+- decreto-legge, 10/08/2023 n. 104, art. 17, comma 1
+- legge, 09/10/2023 n. 136
+
+## Parametri
+
+- Costituzione, art. 117
+- Costituzione, art. 3
+- Costituzione, art. 81
+- Costituzione, art. 97
+- Costituzione, art. 118
+- Costituzione, art. 119
