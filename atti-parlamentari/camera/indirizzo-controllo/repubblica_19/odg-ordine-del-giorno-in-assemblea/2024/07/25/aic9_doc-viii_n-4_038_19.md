@@ -1,0 +1,33 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/038 presentata da ASCARI STEFANIA (MOVIMENTO 5 STELLE) in data 25/07/2024
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/038
+- Data: 20240725
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/038 presentata da ASCARI STEFANIA (MOVIMENTO 5 STELLE) in data 25/07/2024
+- Presentatore: ASCARI STEFANIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BICCHIELLI PINO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: BRAMBILLA MICHELA VITTORIA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: CAVO ILARIA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: COLUCCI ALESSANDRO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: LUPI MAURIZIO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: MORFINO DANIELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: PISANO CALOGERO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: ROMANO FRANCESCO SAVERIO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: SEMENZATO MARTINA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: TIRELLI FRANCO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1004
+- Argomento: http://eurovoc.europa.eu/3467
+- Argomento: http://eurovoc.europa.eu/3943
+- Argomento: http://eurovoc.europa.eu/4039
+- Argomento: http://eurovoc.europa.eu/4439
+- Argomento: http://eurovoc.europa.eu/4695
+- Argomento: http://eurovoc.europa.eu/4727
+- Argomento: http://eurovoc.europa.eu/4728
+- Argomento: http://eurovoc.europa.eu/573
+- Argomento: http://eurovoc.europa.eu/575
+- Argomento: http://eurovoc.europa.eu/6727
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/038
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_038_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
