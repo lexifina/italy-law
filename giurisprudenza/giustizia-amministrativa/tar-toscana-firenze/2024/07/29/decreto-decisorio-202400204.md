@@ -1,0 +1,19 @@
+# TAR TOSCANA - FIRENZE, decreto decisorio n. 204/2024
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR TOSCANA - FIRENZE
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202400204
+- Numero di ricorso (NRG): 202201283
+- Data di pubblicazione: 2024-07-29
+- Udienza: PROCESSO MONOCRATICO
+- Esito: IMPROCEDIBILE PER SOPRAVVENUTA CARENZA DI INTERESSE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2022-10-20
+- Oggetto del ricorso: ORDINANZA N. 425 DEL 14/06/2022 DEL COMUNE DI SCANDICCI SETTORE 4 GOVERNO DEL TERRITORIO SERVIZIO INFRAZIONI EDILIZIE E CONDONI RECANTE ORDINE DI DEMOLIZIONE E RIUZIONE IN PRISTINO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-toscana-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/7cf6c1b9-ed0b-4b4e-85c8-948d197fa82a/resource/e2d17d71-c9a5-4faf-80b7-b6c47f54e47b/download/tar-toscana-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
