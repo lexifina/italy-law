@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 2898/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VI
+- Numero provvedimento: 202402898
+- Numero di ricorso (NRG): 202405264
+- Data di pubblicazione: 2024-07-31
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RINVIA AL TAR PER LA FISSAZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2024-06-28
+- Oggetto del ricorso: COMUNICAZIONE DI INTERVENUTA ESTINZIONE DELLA AUTORIZZAZIONE ALLA FORNITURA IN AMBITO LOCALE DI SERVIZI DI MEDIA AUDIOVISIVI E DATI A MARCHIO RTI (AT – CALABRIA) - RIENTRO NELLA DISPONIBILITÀ DEL MINISTERO DELLA NUMERAZIONE IN USO AL MARCHIO DECADUTO (LCN 14) - MCP
+- Tipo di ricorso: APPELLO AVVERSO ORDINANZA CAUTELARE
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/17fe4c57-36ad-4f64-90ae-4f9e8a339874/download/cds-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
