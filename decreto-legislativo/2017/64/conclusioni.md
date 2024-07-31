@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 aprile 2017
+
+MATTARELLA Gentiloni Silveri, Presidente del Consiglio dei ministri Fedeli, Ministro dell'istruzione, dell'universita' e della ricerca Alfano, Ministro degli affari esteri e della cooperazione internazionale Padoan, Ministro dell'economia e delle finanze Madia, Ministro per la semplificazione e la pubblica amministrazione Visto, il Guardasigilli: Orlando
