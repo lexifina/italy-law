@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 3462/2024
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE QUARTA TER
+- Numero provvedimento: 202403462
+- Numero di ricorso (NRG): 202407359
+- Data di pubblicazione: 2024-08-01
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-07-08
+- Oggetto del ricorso: GRADUATORIA VINCITORI DEL CONCORSO PUBBLICO, PER TITOLI ED ESAMI, SU BASE DISTRETTUALE, AD ECCEZIONE DI TRENTO E BOLZANO, PER IL RECLUTAMENTO A TEMPO DETERMINATO DI 3.946 UNITÀ DI PERSONALE NON DIRIGENZIALE DELL’AREA FUNZIONARI, CON IL PROFILO DI ADDETTO ALL’UFFICIO PER IL PROCESSO, DA INQUADRARE TRA IL PERSONALE DEL MINISTERO DELLA GIUSTIZIA - DISTRETTO DELLA CORTE D’APPELLO DI BOLOGNA - RETTIFICA PUNTEGGIO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 4
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/52335e0c-6aae-4273-b73f-ac86fe7b7a33/download/tar-lazio-roma-ordinanze-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
