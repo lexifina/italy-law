@@ -1,8 +1,8 @@
 Art. 322-bis.
 
-(Peculato, concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione, abuso d'ufficio di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri).
+(Peculato ((, indebita destinazione di denaro o cose mobili)), concussione, induzione indebita a dare o promettere utilita', corruzione e istigazione alla corruzione, abuso d'ufficio di membri delle Corti internazionali o degli organi delle Comunita' europee o di assemblee parlamentari internazionali o di organizzazioni internazionali e di funzionari delle Comunita' europee e di Stati esteri).
 
-Le disposizioni degli articoli 314 ((, 314-bis)), 316, da 317 a 320 , 322, terzo e quarto comma, e 323 si applicano anche:
+Le disposizioni degli articoli 314, 314-bis, 316, da 317 a 320 , 322, terzo e quarto comma, e 323 si applicano anche:
 
 1) ai membri della Commissione delle Comunita' europee, del Parlamento europeo, della Corte di Giustizia e della Corte dei conti delle Comunita' europee;
 
