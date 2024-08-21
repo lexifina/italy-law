@@ -1,0 +1,59 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la legge 4 giugno 2010, n. 96, Legge comunitaria 2009, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alla Comunita' europea, ed in particolare l'articolo 16;
+
+Visto il decreto del Presidente della Repubblica 9 aprile 1959, n. 128, recante norme di polizia delle miniere e delle cave, nonche' le successive modificazioni;
+
+Vista la legge 26 aprile 1974, n. 170, recante disciplina dello stoccaggio di gas naturale in giacimenti di idrocarburi, come modificata dal decreto legislativo 23 maggio 2000, n. 164;
+
+Vista la legge 7 agosto 1990, n. 241, recante norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi, come modificata dalla legge 8 febbraio 2005, n. 15 e dal decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122;
+
+Visto il decreto legislativo 25 novembre 1996, n. 624, recante attuazione della direttiva 92/91/CEE relativa alla sicurezza e salute dei lavoratori nelle industrie estrattive per trivellazione e della direttiva 92/104/CEE relativa alla sicurezza e salute dei lavoratori nelle industrie estrattive a cielo aperto o sotterranee;
+
+Visto il decreto legislativo 16 marzo 1999, n. 79, recante attuazione della direttiva 96/92/CE concernente norme comuni per il mercato interno dell'energia elettrica;
+
+Visto il decreto legislativo 23 maggio 2000, n. 164, recante l'attuazione della direttiva n. 98/30/CE relativa a norme comuni per il mercato interno del gas naturale, a norma dell'articolo 41 della legge 17 maggio 1999, n. 144;
+
+Visto il decreto del Presidente della Repubblica 8 giugno 2001, n. 327, recante il testo unico delle disposizioni legislative e regolamentari in materia di espropriazione per pubblica utilita', come modificato dal decreto legislativo 27 dicembre 2004, n. 330;
+
+Visti la Convenzione quadro delle Nazioni Unite sui cambiamenti climatici, ratificata con legge 15 gennaio 1994, n. 65, e il Protocollo di Kyoto, ratificato con legge 1° giugno 2002, n. 120;
+
+Vista la direttiva n. 2003/87/CE del Parlamento europeo e del Consiglio, del 13 ottobre 2003, e successive modificazioni, che istituisce un sistema per lo scambio di quote di emissione dei gas a effetto serra nella Comunita' e che modifica la direttiva 96/61/CE del Consiglio;
+
+Vista la legge 23 agosto 2004, n. 239, sul riordino del settore energetico, nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia;
+
+Visto il decreto legislativo 18 febbraio 2005, n. 59, recante attuazione integrale della direttiva 96/61/CE relativa alla prevenzione e riduzione integrate dell'inquinamento;
+
+Visto il decreto del Ministero dello sviluppo economico del 21 gennaio 2011, recante modalita' di conferimento della concessione di stoccaggio di gas naturale in sotterraneo e relativo disciplinare tipo, pubblicato nella Gazzetta Ufficiale n. 26 del 2 febbraio 2011;
+
+Visto il decreto direttoriale del 4 febbraio 2011, recante procedure operative di attuazione del decreto ministeriale 21 gennaio 2011 e modalita' di svolgimento delle attivita' di stoccaggio e di controllo, ai sensi dell'articolo 13, comma 4, del decreto ministeriale 21 gennaio 2011, pubblicato nel supplemento ordinario n. 43 alla Gazzetta Ufficiale n. 40 del 18 febbraio 2011;
+
+Visto il decreto legislativo 4 aprile 2006, n. 216, e successive modificazioni, recante attuazione delle direttive 2003/87 e 2004/101/CE in materia di scambio di quote di emissione dei gas a effetto serra nella Comunita', con riferimento ai meccanismi di progetto del Protocollo di Kyoto;
+
+Visto il decreto legislativo 3 aprile 2006, n. 152, e successive modificazioni, recante norme in materia ambientale;
+
+Visto il regolamento (CE) n. 1013/2006 del Parlamento europeo e del Consiglio del 14 giugno 2006, e successive modificazioni, recante norme in materia di spedizioni di rifiuti;
+
+Vista la decisione della Commissione 2007/589/CE del 18 luglio 2007, che istituisce le linee guida per il monitoraggio e la comunicazione delle emissioni di gas a effetto serra ai sensi della direttiva 2003/87/CE e la relativa deliberazione n. 14 del 10 aprile 2009 del Comitato di gestione della direttiva 2003/87/CE e per il supporto nelle attivita' di progetto del Protocollo di Kyoto;
+
+Visto il decreto-legge 18 giugno 2007, n. 73, convertito, con modificazioni, dalla legge 3 agosto 2007, n. 125, recante misure urgenti per l'attuazione di disposizioni comunitarie in materia di liberalizzazione dei mercati dell'energia;
+
+Visto il decreto legislativo 9 aprile 2008, n. 81, di attuazione dell'articolo 1 della legge 3 agosto 2007, n. 123, recante norme in materia di tutela della salute e della sicurezza nei luoghi di lavoro e il decreto legislativo 3 agosto 2009, n. 106, recante disposizioni integrative e correttive;
+
+Visto il decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, recante disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitivita', la stabilizzazione della finanza pubblica e la perequazione tributaria, ed in particolare l'articolo 28 con il quale viene istituito l'Istituto superiore per la ricerca e per la protezione ambientale (ISPRA);
+
+Vista la legge 23 luglio 2009, n. 99, recante disposizioni per lo sviluppo e l'internazionalizzazione delle imprese, nonche' in materia di energia;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 marzo 2011;
+
+Acquisito il parere dalla Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano espresso in data 18 maggio 2011;
+
+Acquisiti i pareri dalle competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 luglio 2011;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro dello sviluppo economico e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri degli affari esteri, della giustizia e dell'economia e delle finanze;
+
+Emana il seguente decreto legislativo:
