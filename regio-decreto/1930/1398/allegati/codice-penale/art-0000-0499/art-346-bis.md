@@ -1,13 +1,13 @@
 Art. 346-bis.
 
-(Traffico di influenze illecite).
+(( (Traffico di influenze illecite).
 
-((Chiunque, fuori dei casi di concorso nei reati di cui agli articoli 318, 319, 319-ter e nei reati di corruzione di cui all'articolo 322-bis, sfruttando o vantando relazioni esistenti o asserite con un pubblico ufficiale o un incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis, indebitamente fa dare o promettere, a se' o ad altri, denaro o altra utilita', come prezzo della propria mediazione illecita verso un pubblico ufficiale o un incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis, ovvero per remunerarlo in relazione all'esercizio delle sue funzioni o dei suoi poteri, e' punito con la pena della reclusione da un anno a quattro anni e sei mesi)).
+((Chiunque, fuori dei casi di concorso nei reati di cui agli articoli 318, 319 e 319-ter e nei reati di corruzione di cui all'articolo 322-bis, utilizzando intenzionalmente allo scopo relazioni esistenti con un pubblico ufficiale o un incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis, indebitamente fa dare o promettere, a se' o ad altri, denaro o altra utilita' economica, per remunerare un pubblico ufficiale o un incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis, in relazione all'esercizio delle sue funzioni, ovvero per realizzare un'altra mediazione illecita, e' punito con la pena della reclusione da un anno e sei mesi a quattro anni e sei mesi.
 
-La stessa pena si applica a chi indebitamente da' o promette denaro o ((altra utilita')).
+Ai fini di cui al primo comma, per altra mediazione illecita si intende la mediazione per indurre il pubblico ufficiale o l'incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis a compiere un atto contrario ai doveri d'ufficio costituente reato dal quale possa derivare un vantaggio indebito.
 
-La pena e' aumentata se il soggetto che indebitamente fa dare o promettere, a se' o ad altri, denaro o ((altra utilita')) riveste la qualifica di pubblico ufficiale o di incaricato di un pubblico servizio.
+La stessa pena si applica a chi indebitamente da' o promette denaro o altra utilita' economica.
 
-Le pene sono altresi' aumentate se i fatti sono commessi in relazione all'esercizio di attivita' giudiziarie ((o per remunerare il pubblico ufficiale o l'incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis in relazione al compimento di un atto contrario ai doveri d'ufficio o all'omissione o al ritardo di un atto del suo ufficio)).
+La pena e' aumentata se il soggetto che indebitamente fa dare o promettere, a se' o ad altri, denaro o altra utilita' economica riveste la qualifica di pubblico ufficiale o di incaricato di un pubblico servizio o una delle qualifiche di cui all'articolo 322-bis.
 
-Se i fatti sono di particolare tenuita', la pena e' diminuita.
+La pena e' altresi' aumentata se i fatti sono commessi in relazione all'esercizio di attivita' giudiziarie o per remunerare il pubblico ufficiale o l'incaricato di un pubblico servizio o uno degli altri soggetti di cui all'articolo 322-bis in relazione al compimento di un atto contrario ai doveri d'ufficio o all'omissione o al ritardo di un atto del suo ufficio)).
