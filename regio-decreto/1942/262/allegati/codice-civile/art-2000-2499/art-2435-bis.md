@@ -4,7 +4,9 @@ Art. 2435-bis.
 
 Le societa', che non abbiano emesso titoli negoziati in mercati regolamentati, possono redigere il bilancio in forma abbreviata quando, nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
 
-1) totale dell'attivo dello stato patrimoniale: 4.400.000 euro; 2)ricavi delle vendite e delle prestazioni: 8.800.000 euro;
+1) totale dell'attivo dello stato patrimoniale: ((5.500.000)) euro; ((335))
+
+2)ricavi delle vendite e delle prestazioni: ((11.000.000)) euro; ((335))
 
 3) dipendenti occupati in media durante l'esercizio: 50 unita'.
 
@@ -26,7 +28,7 @@ voci D19(a), D19(b), D19(c), D19(d) (246)
 
 COMMA ABROGATO DAL D.LGS. 18 AGOSTO 2015, N. 139. (246)
 
-Fermo restando le indicazioni richieste dal terzo, quarto e quinto comma dell'articolo 2423, dal secondo ((, quinto e sesto comma dell'articolo 2423-ter,)) dal secondo comma dell'articolo 2424, dal primo comma, numeri 4) e 6), dell'articolo 2426, la nota integrativa fornisce le indicazioni richieste dal primo comma dell'articolo 2427, numeri 1), 2), 6), per quest'ultimo limitatamente ai soli debiti senza indicazione della ripartizione geografica, 8), 9), 13), 15), per quest'ultimo anche omettendo la ripartizione per categoria, 16), 22-bis), 22-ter), per quest'ultimo anche omettendo le indicazioni riguardanti gli effetti patrimoniali, finanziari ed economici, 22-quater), 22-sexies), per quest'ultimo anche omettendo l'indicazione del luogo in cui e' disponibile la copia del bilancio consolidato, nonche' dal primo comma dell'articolo 2427-bis, numero 1). (246) ((315))
+Fermo restando le indicazioni richieste dal terzo, quarto e quinto comma dell'articolo 2423, dal secondo, quinto e sesto comma dell'articolo 2423-ter, dal secondo comma dell'articolo 2424, dal primo comma, numeri 4) e 6), dell'articolo 2426, la nota integrativa fornisce le indicazioni richieste dal primo comma dell'articolo 2427, numeri 1), 2), 6), per quest'ultimo limitatamente ai soli debiti senza indicazione della ripartizione geografica, 8), 9), 13), 15), per quest'ultimo anche omettendo la ripartizione per categoria, 16), 22-bis), 22-ter), per quest'ultimo anche omettendo le indicazioni riguardanti gli effetti patrimoniali, finanziari ed economici, 22-quater), 22-sexies), per quest'ultimo anche omettendo l'indicazione del luogo in cui e' disponibile la copia del bilancio consolidato, nonche' dal primo comma dell'articolo 2427-bis, numero 1). (246) (315)
 
 Le societa' possono limitare l'informativa richiesta ai sensi dell'articolo 2427, primo comma, numero 22-bis, alle operazioni realizzate direttamente o indirettamente con i loro maggiori azionisti ed a quelle con i membri degli organi di amministrazione e controllo, nonche' con le imprese in cui la societa' stessa detiene una partecipazione. (246)
 
@@ -47,3 +49,29 @@ Il D.Lgs. 18 agosto 2015, n. 139, ha disposto (con l'art. 12, comma 1) che le pr
 AGGIORNAMENTO (315)
 
 La L. 23 dicembre 2021, n. 238 ha disposto (con l'art. 24, comma 4) che la presente modifica si applica "per la prima volta al bilancio dell'impresa e al bilancio consolidato relativi al primo esercizio successivo a quello chiuso o in corso al 31 dicembre 2019".
+
+-------------
+
+AGGIORNAMENTO (335)
+
+Il D.Lgs. 6 settembre 2024, n. 125, ha disposto (con l'art. 17, comma 1, lettere a), b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano:
+
+a) per gli esercizi aventi inizio il 1° gennaio 2024 o in data successiva:
+
+1) alle imprese di grandi dimensioni che costituiscono enti di interesse pubblico che, alla data di chiusura del bilancio, superano il numero medio di 500 dipendenti occupati durante l'esercizio;
+
+2) agli enti di interesse pubblico ai sensi dell'articolo 16, comma 1, del decreto legislativo 27 gennaio 2010, n. 39, che sono, altresi', societa' madri di un gruppo di grandi dimensioni e che, su base consolidata, alla data di chiusura del bilancio superano il criterio del numero medio di 500 dipendenti occupati durante l'esercizio;
+
+b) per gli esercizi aventi inizio il 1° gennaio 2025 o in data successiva:
+
+1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1);
+
+2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2);
+
+c) per gli esercizi aventi inizio il 1° gennaio 2026 o in data successiva:
+
+1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese, fermo restando quanto previsto dall'articolo 3, comma 10;
+
+2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese;
+
+3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
