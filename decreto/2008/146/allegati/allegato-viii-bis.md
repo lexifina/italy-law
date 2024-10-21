@@ -1,0 +1,5 @@
+((ALLEGATO VIII-BIS (articolo 88, comma 1)
+
+DOTAZIONI DI BORDO RACCOMANDATE PER LE IMBARCAZIONI E I NATANTI DA DIPORTO ADIBITI A NOLEGGIO))
+
+((Parte di provvedimento in formato grafico))
