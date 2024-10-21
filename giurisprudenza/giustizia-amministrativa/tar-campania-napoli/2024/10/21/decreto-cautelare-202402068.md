@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto cautelare n. 2068/2024
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202402068
+- Numero di ricorso (NRG): 202404985
+- Data di pubblicazione: 2024-10-21
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-10-15
+- Oggetto del ricorso: D.D. REGIONE CAMPANIA N. 775/2024 AVENTE AD OGGETTO “CENTRO UNICO DI PRENOTAZIONE REGIONALE ULTERIORI DISPOSIZIONI”, PER CUI “IL CORRETTO FUNZIONAMENTO DEL CALCOLO DELLA PRIMA DISPONIBILITÀ SUL SISTEMA CUP RICHIEDE COME PREREQUISITO ESSENZIALE CHE LE AGENDE SIANO RESE PRENOTABILI DA APP E PORTALE, DA OPERATORI ESTERNI ALLE STRUTTURE E DA ALTRI INTERMEDIARI (AD ES. FARMACIE)” – E DA DISPOSIZIONI “A PARTIRE DALLE PRESTAZIONI SANITARIE EROGATE DAL 1° OTTOBRE 2024
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/777c8c2f-1491-418e-9562-4e5df5d69ed2/download/tar-campania-napoli-decreti-2017-2024.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
