@@ -1,0 +1,25 @@
+# Massima n. 46422
+
+- Pronuncia: Corte costituzionale, sentenza 169/2024 (ECLI:IT:COST:2024:169)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:169
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudizio costituzionale in via principale - Motivazione - Individuazione delle disposizioni impugnate, dei parametri costituzionali e delle ragioni del contrasto, con una, sia pure sintetica, argomentazione di merito - Necessità (nel caso di specie: inammissibilità delle questioni di legittimità costituzionale di disposizioni della Regione Siciliana che prevedono il finanziamento a regime degli incrementi dell'indennità di amministrazione per il triennio 2019-2021 e l'integrazione delle risorse finanziarie, a decorrere dall'esercizio finanziario 2024, per il rinnovo dei contratti, per un importo pari a 4,3 milioni di euro). (Classif. 113003).
+
+## Testo
+
+L’esigenza di un’adeguata motivazione a fondamento dell’impugnazione si pone in termini rigorosi nei giudizi proposti in via principale, nei quali il ricorrente ha l’onere non soltanto di individuare le disposizioni impugnate e i parametri costituzionali dei quali denuncia la violazione, ma anche di suffragare le ragioni del dedotto contrasto con argomentazioni chiare, complete e sufficientemente articolate; il ricorrente, pertanto, ha l’onere di proporre una motivazione che non sia meramente assertiva e che contenga una specifica e congrua indicazione delle ragioni per le quali vi sarebbe il contrasto con i parametri evocati, dovendo contenere una sia pur sintetica argomentazione di merito a sostegno delle censure. (Precedenti: S. 125/2023 - mass. 45698; S. 265/2022 - mass. 45264; S. 259/2022 - mass. 45171; S. 217/2022 - mass. 45115; S. 135/2022 - mass. 44991; S. 170/2021 - mass. 44135; S. 279/2020 - mass. 43135).(Nel caso di specie, sono dichiarate inammissibili, per inadeguata motivazione, le questioni di legittimità costituzionale, promosse dal Governo in riferimento agli artt. 117, terzo comma – in relazione al principio di coordinamento della finanza pubblica espresso dall’art. 23, comma 2, del d.lgs. n. 75 del 2017 – e 97, primo e secondo comma, Cost., nonché all’art. 14, comma 1, statuto reg. Siciliana, dell’art. 8 della legge reg. Siciliana n. 1 del 2024 che stabilisce, al comma 1, che gli incrementi di cui all’art. 87 del CCRL del personale del comparto non dirigenziale della Regione Siciliana – relativi all’indennità di amministrazione – per il triennio normativo ed economico 2016-2018, previsti in sostituzione dell’elemento perequativo di cui all’art. 1, comma 440, lett. b, della legge n. 145 del 2018, sono finanziati a regime nell’ambito del rinnovo contrattuale contemplato per il triennio 2019-2021 e, al comma 2 che, per i rinnovi contrattuali, le risorse finanziarie per tali rinnovi sono integrate di 4,3 milioni di euro. Nonostante la disposizione impugnata si collochi in un articolato contesto normativo, il ricorso, pur denunciando il contrasto con una serie di parametri costituzionali e statutari, non argomenta in maniera sufficientemente adeguata le relative ragioni. Il ricorrente, infatti, non spiega perché le violazioni dipenderebbero dall’impugnato art. 8 – che non contiene una previsione di spesa, ma prescrizioni contabili e di finanziamento, le quali non toccano la competenza della Corte dei conti – e non dall’art. 87 del CCRL, che contempla l’incremento dell’indennità di amministrazione; lo stesso non chiarisce le ragioni per cui la misura di tale incremento determinerebbe un onere finanziario superiore rispetto alla contrattazione collettiva nazionale né si confronta con il d.l. n. 135 del 2018, come conv. e con il rapporto di certificazione della Corte dei conti relativa al rinnovo per il triennio 2019-2021. Risulta, inoltre, insufficiente, argomentare la violazione del rispetto dell’equilibrio di bilancio, in relazione all’accordo per il ripiano decennale del disavanzo del 2023, potendo il trattamento accessorio del personale riverberarsi negativamente su di esso solo se i relativi costi sono superiori a quelli dell’elemento perequativo che va a sostituire, mentre la Corte dei conti ha verificato la compatibilità economica e finanziaria degli incrementi previsti per il triennio contrattuale 2016-2018. Con riferimento, infine, alla dedotta violazione dei principi di imparzialità e buon andamento della p.a., il Governo non spiega perché assume che la misura prevista dalla contrattazione collettiva regionale andrebbe a favorire le fasce retributive più elevate, in contrasto con lo scopo dell’elemento perequativo contemplato dalla legislazione nazionale).
+
+## Norme
+
+- legge della Regione siciliana, 16/01/2024 n. 1, art. 8
+
+## Parametri
+
+- Costituzione, art. 97, comma 1
+- Costituzione, art. 97, comma 2
+- Costituzione, art. 117, comma 3
+- statuto regione Sicilia, art. 14, comma 1
+- decreto legislativo, 25/05/2017 n. 75, art. 23, comma 2
