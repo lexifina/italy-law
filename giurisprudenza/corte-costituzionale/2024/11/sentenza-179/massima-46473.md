@@ -1,0 +1,18 @@
+# Massima n. 46473
+
+- Pronuncia: Corte costituzionale, sentenza 179/2024 (ECLI:IT:COST:2024:179)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:179
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Incompatibilità del giudice - Fondamento costituzionale - Salvaguardia dei principi di terzietà e imparzialità della giurisdizione, collegati alla garanzia del giusto processo - Condizioni - Sussistenza di un "giudizio" - Differenze tra incompatibilità, astensione e ricusazione - Introduzione di nuove cause di incompatibilità - Necessità di una pronuncia di illegittimità costituzionale di tipo additivo. (Classif. 199028).
+
+## Testo
+
+La disciplina sull’incompatibilità del giudice trova la sua ratio nella salvaguardia dei valori della terzietà e imparzialità del giudice, presidiati dall’art. 111, secondo comma, Cost., mirando a escludere che questi possa pronunciarsi sull’accusa quando è condizionato dalla “forza della prevenzione”, cioè dalla tendenza a confermare una decisione o a mantenere un atteggiamento già assunto, derivante da valutazioni che sia stato precedentemente chiamato a svolgere in ordine alla medesima res iudicanda. (Precedenti: S. 93/24 - mass. 46187; S. 172/2023 - mass. 45789; S. 64/2022 - mass. 44655; S. 16/2022 - mass. 44520, 44521; S. 7/2022 - mass. 44517).Per ritenersi sussistente l’incompatibilità endoprocessuale del giudice, devono concorrere le seguenti condizioni, ovvero che: a) le preesistenti valutazioni cadano sulla medesima res iudicanda; b) il giudice sia stato chiamato a compiere una valutazione (e non abbia avuto semplice conoscenza) di atti anteriormente compiuti, strumentale all’assunzione di una decisione; c) quest’ultima abbia natura non “formale”, ma “di contenuto”, ovvero comporti valutazioni sul merito dell’ipotesi di accusa; d) la precedente valutazione si collochi in una diversa fase del procedimento. (Precedenti: S. 93/24 - mass. 46187; S. 172/2023 - mass. 45789; S. 91/2023 - mass. 45600; S. 64/2022 - mass. 44655).Ai fini dell’incompatibilità deve intendersi per “giudizio” ogni processo che, in base a un esame delle prove, pervenga a una decisione di merito: il giudizio dibattimentale, ma anche il giudizio abbreviato, l’applicazione della pena su richiesta delle parti, l’udienza preliminare e talora l’incidente di esecuzione, nonché il decreto penale di condanna. (Precedenti: S. 93/2024 - mass. 46187; S. 16/2022 - mass. 44520, 44521).La tutela dell’imparzialità è assicurata, mediante una razionale ed esaustiva utilizzazione degli istituti volti ad assicurare il principio del “giusto processo”, ricorrendo, a seconda dei casi, alle incompatibilità ovvero alle ipotesi di astensione e di ricusazione: riferite le prime a situazioni pregiudicanti in astratto, le seconde a situazioni, non tipizzate ex ante dal legislatore, in cui la terzietà e l’imparzialità del giudice risultino compromesse in concreto. (Precedenti: S. 113/2000 - mass. 25223; S. 308/1997 - mass. 23491).La necessità che sia assicurata la garanzia del giusto processo e la connessa tutela dei valori della terzietà e della imparzialità della giurisdizione, presidiati dagli artt. 24, secondo comma, e 111, secondo comma, Cost., postulano – anche per l'esigenza di certezza del diritto – che l’introduzione di una nuova situazione di incompatibilità avvenga con pronuncia di illegittimità costituzionale di tipo additivo. (Precedente: S. 45/2023 - mass. 45424).
+
+## Parametri
+
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 111, comma 2
