@@ -10,17 +10,11 @@ Al momento della consegna l'istituto vendite giudiziarie assume la custodia del 
 
 Decorso il termine di cui al primo comma, gli organi di polizia che accertano la circolazione dei beni pignorati o comunque li rinvengono procedono al ritiro della carta di circolazione nonche', ove possibile, dei titoli e dei documenti relativi alla proprieta' e all'uso dei beni pignorati e consegnano il bene pignorato all'istituto vendite giudiziarie piu' vicino al luogo in cui il bene pignorato e' stato rinvenuto. Si applica il terzo comma. (148)
 
-Eseguita l'ultima notificazione, l'ufficiale giudiziario consegna senza ritardo al creditore l'atto di pignoramento perche' proceda alla trascrizione nei pubblici registri. Entro trenta giorni dalla comunicazione di cui al terzo comma, il creditore deve depositare nella cancelleria del ((giudice di pace)) competente per l'esecuzione la nota di iscrizione a ruolo, con copie conformi del titolo esecutivo, del precetto, dell'atto di pignoramento e della nota di trascrizione. La conformita' di tali copie e' attestata dall'avvocato del creditore ai soli fini del presente articolo. ((155))
+Eseguita l'ultima notificazione, l'ufficiale giudiziario consegna senza ritardo al creditore l'atto di pignoramento perche' proceda alla trascrizione nei pubblici registri. ((Entro trenta giorni dalla comunicazione di cui al terzo comma, a pena di inefficacia del pignoramento, il creditore iscrive a ruolo il processo presso il tribunale competente per l'esecuzione depositando copie conformi del titolo esecutivo, del precetto, dell'atto di pignoramento e della nota di trascrizione.)) La conformita' di tali copie e' attestata dall'avvocato del creditore ai soli fini del presente articolo. (155) (160) (179) (179) (183) ((178))
 
-((160))
+Il cancelliere forma il fascicolo dell'esecuzione. ((PERIODO SOPPRESSO DAL D.LGS. 31 OTTOBRE 2024, N. 164)). (183) ((178))
 
-((179))
-
-((183))
-
-Il cancelliere forma il fascicolo dell'esecuzione. Il pignoramento perde efficacia quando la nota di iscrizione a ruolo e le copie dell'atto di pignoramento, del titolo esecutivo e del precetto sono depositate oltre il termine di cui al quinto comma.
-
-In deroga a quanto previsto dall'articolo 497, l'istanza di assegnazione o l'istanza di vendita deve essere depositata entro quarantacinque giorni dal deposito da parte del creditore della nota di iscrizione a norma del presente articolo ovvero dal deposito da parte di quest'ultimo delle copie conformi degli atti, a norma dell'articolo 159-ter delle disposizioni per l'attuazione del presente codice.(148)
+In deroga a quanto previsto dall'articolo 497, l'istanza di assegnazione o l'istanza di vendita deve essere depositata entro quarantacinque giorni ((dalla iscrizione a ruolo del processo esecutivo ad opera del creditore)) a norma del presente articolo ovvero dal deposito da parte di quest'ultimo delle copie conformi degli atti, a norma dell'articolo 159-ter delle disposizioni per l'attuazione del presente codice.(148) (183) ((178))
 
 Si applicano in quanto compatibili le disposizioni del presente capo.
 
@@ -61,3 +55,9 @@ Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 8 agosto 2025, n. 117
 AGGIORNAMENTO (183)
 
 Il D.Lgs. 13 luglio 2017, n. 116, come modificato dal D.L. 12 giugno 2026, n. 100, ha disposto (con l'art. 32, comma 3) che "Le disposizioni dell'articolo 27 entrano in vigore il 31 ottobre 2027".
+
+---------------
+
+AGGIORNAMENTO (178)
+
+Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

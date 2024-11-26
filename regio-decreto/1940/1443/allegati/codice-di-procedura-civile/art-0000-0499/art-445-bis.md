@@ -10,16 +10,22 @@ L'improcedibilita' deve essere eccepita dal convenuto a pena di decadenza o rile
 
 La richiesta di espletamento dell'accertamento tecnico interrompe la prescrizione.
 
-Il giudice, terminate le operazioni di consulenza, con decreto comunicato alle parti, fissa un termine perentorio non superiore a trenta giorni, entro il quale le medesime devono dichiarare, con atto scritto depositato in cancelleria, se intendono contestare le conclusioni del consulente tecnico dell'ufficio.
+Il giudice, terminate le operazioni di consulenza, con decreto comunicato alle parti, fissa un termine perentorio non superiore a trenta giorni, entro il quale le medesime ((...)), se intendono contestare le conclusioni del consulente tecnico dell'ufficio ((, devono depositare la relativa dichiarazione)). ((178))
 
 In assenza di contestazione, il giudice, se non procede ai sensi dell'articolo 196, con decreto pronunciato fuori udienza entro trenta giorni dalla scadenza del termine previsto dal comma precedente omologa l'accertamento del requisito sanitario secondo le risultanze probatorie indicate nella relazione del consulente tecnico dell'ufficio provvedendo sulle spese. Il decreto, non impugnabile ne' modificabile, e' notificato agli enti competenti, che provvedono, subordinatamente alla verifica di tutti gli ulteriori requisiti previsti dalla normativa vigente, al pagamento delle relative prestazioni, entro 120 giorni.
 
 Nei casi di mancato accordo la parte che abbia dichiarato di contestare le conclusioni del consulente tecnico dell'ufficio deve depositare, presso il giudice di cui al comma primo, entro il termine perentorio di trenta giorni dalla formulazione della dichiarazione di dissenso, il ricorso introduttivo del giudizio, specificando, a pena di inammissibilita', i motivi della contestazione.
 
-((La sentenza che definisce il giudizio previsto dal comma precedente e' inappellabile)). ((134))
+La sentenza che definisce il giudizio previsto dal comma precedente e' inappellabile. (134)
 
 ---------------
 
 AGGIORNAMENTO (134)
 
 La L. 12 novembre 2011, n. 183 ha disposto (con l'art. 27, comma 2) che la presente modifica si applica decorsi trenta giorni dalla data di entrata in vigore della legge medesima.
+
+--------------
+
+AGGIORNAMENTO (178)
+
+Il D.Lgs. 31 ottobre 2024, n. 164, ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

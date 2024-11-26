@@ -4,9 +4,9 @@ Art. 163-bis.
 
 Tra il giorno della notificazione della citazione e quello dell'udienza di comparizione debbono intercorrere termini liberi non minori di centoventi giorni se il luogo della notificazione si trova in Italia e di centocinquanta giorni se si trova all'estero.(67)(72)(116)(171)(173)
 
-((COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149 COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197)).
+COMMA ABROGATO DAL D.LGS. 10 OTTOBRE 2022, N. 149 COME MODIFICATO DALLA L. 29 DICEMBRE 2022, N. 197.
 
-Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, almeno cinque giorni liberi prima dell'udienza fissata dal presidente. In questo caso i termini di cui all'articolo 171-ter decorrono dall'udienza cosi' fissata. (171)(173)
+Se il termine assegnato dall'attore ecceda il minimo indicato dal primo comma, il convenuto, costituendosi prima della scadenza del termine minimo, puo' chiedere al presidente del tribunale che, sempre osservata la misura di quest'ultimo termine, l'udienza per la comparizione delle parti sia fissata con congruo anticipo su quella indicata dall'attore. Il presidente provvede con decreto, che deve essere comunicato dal cancelliere all'attore, ((almeno novanta giorni liberi)) prima dell'udienza fissata dal presidente. In questo caso i termini di cui all'articolo 171-ter ((decorrono rispetto all'udienza)) cosi' fissata. (171)(173) ((178))
 
 ---------------
 
@@ -47,3 +47,9 @@ Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizio
 AGGIORNAMENTO (173)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+
+--------------
+
+AGGIORNAMENTO (178)
+
+Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

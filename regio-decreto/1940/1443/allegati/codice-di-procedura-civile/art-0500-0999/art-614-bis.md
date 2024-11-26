@@ -4,11 +4,11 @@ Art. 614-bis.
 
 Con il provvedimento di condanna all'adempimento di obblighi diversi dal pagamento di somme di denaro il giudice, salvo che cio' sia manifestamente iniquo, fissa, su richiesta di parte, la somma di denaro dovuta dall'obbligato per ogni violazione o inosservanza successiva ovvero per ogni ritardo nell'esecuzione del provvedimento, determinandone la decorrenza. Il giudice puo' fissare un termine di durata della misura, tenendo conto della finalita' della stessa e di ogni circostanza utile.
 
-Se non e' stata richiesta nel processo di cognizione, ovvero il titolo esecutivo e' diverso da un provvedimento di condanna, la somma di denaro dovuta dall'obbligato per ogni violazione o inosservanza o ritardo nell'esecuzione del provvedimento e' determinata dal giudice dell'esecuzione, su ricorso dell'avente diritto, dopo la notificazione del precetto. Si applicano in quanto compatibili le disposizioni di cui all'articolo 612.
+Se non e' stata richiesta nel processo di cognizione, ovvero il titolo esecutivo e' diverso da un provvedimento di condanna, la somma di denaro dovuta dall'obbligato per ogni violazione o inosservanza o ritardo nell'esecuzione del provvedimento e' determinata dal giudice dell'esecuzione, su ricorso dell'avente diritto, dopo la notificazione del precetto. ((Il provvedimento perde efficacia in caso di estinzione del processo esecutivo.)) Si applicano in quanto compatibili le disposizioni di cui all'articolo 612. ((178))
 
 Il giudice determina l'ammontare della somma tenuto conto del valore della controversia, della natura della prestazione dovuta, del vantaggio per l'obbligato derivante dall'inadempimento, del danno quantificato o prevedibile e di ogni altra circostanza utile.
 
-Il provvedimento costituisce titolo esecutivo per il pagamento delle somme dovute per ogni violazione, inosservanza o ritardo. Le disposizioni di cui al presente articolo non si applicano alle controversie di lavoro subordinato pubblico o privato e ai rapporti di collaborazione coordinata e continuativa di cui all'articolo 409. (171) ((173))
+Il provvedimento costituisce titolo esecutivo per il pagamento delle somme dovute per ogni violazione, inosservanza o ritardo. Le disposizioni di cui al presente articolo non si applicano alle controversie di lavoro subordinato pubblico o privato e ai rapporti di collaborazione coordinata e continuativa di cui all'articolo 409. (171) (173)
 
 ---------------
 
@@ -29,3 +29,9 @@ Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizio
 AGGIORNAMENTO (173)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (178)
+
+Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

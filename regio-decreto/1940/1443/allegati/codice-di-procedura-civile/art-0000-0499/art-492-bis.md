@@ -22,9 +22,9 @@ Quando l'accesso ha consentito di individuare piu' crediti del debitore o piu' c
 
 Quando l'accesso ha consentito di individuare sia cose di cui al quinto comma che crediti o cose di cui al settimo comma, l'ufficiale giudiziario sottopone ad esecuzione i beni scelti dal creditore.
 
-Nel caso di sospensione del termine di cui al terzo comma, con la nota d'iscrizione a ruolo, al fine della verifica del rispetto dei termini di cui all'articolo 481, primo comma, a pena di inefficacia del pignoramento, il creditore deposita con le modalita' e nei termini previsti dagli articoli 518, sesto comma, 543, quarto comma, 557, secondo comma, l'istanza, l'autorizzazione del presidente del tribunale, quando e' prevista, nonche' la comunicazione del verbale di cui al quarto comma, ovvero la comunicazione dell'ufficiale giudiziario di cui al terzo comma o il provvedimento del presidente del tribunale di rigetto dell'istanza.
+Nel caso di sospensione del termine di cui al terzo comma, ((...)) al fine della verifica del rispetto dei termini di cui all'articolo 481, primo comma, a pena di inefficacia del pignoramento, ((il creditore iscrive a ruolo il processo esecutivo depositando,)) con le modalita' e nei termini previsti dagli articoli 518, sesto comma, 543, quarto comma, 557, secondo comma, l'istanza, l'autorizzazione del presidente del tribunale, quando e' prevista, nonche' la comunicazione del verbale di cui al quarto comma, ovvero la comunicazione dell'ufficiale giudiziario di cui al terzo comma o il provvedimento del presidente del tribunale di rigetto dell'istanza. ((178))
 
-(171) ((173))
+(171) (173)
 
 -------------
 
@@ -51,3 +51,9 @@ Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizio
 AGGIORNAMENTO (173)
 
 Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+
+---------------
+
+AGGIORNAMENTO (178)
+
+Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

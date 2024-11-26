@@ -4,11 +4,13 @@ Art. 380-bis
 
 Se non e' stata ancora fissata la data della decisione, il presidente della sezione o un consigliere da questo delegato puo' formulare una sintetica proposta di definizione del giudizio, quando ravvisa la inammissibilita', improcedibilita' o manifesta infondatezza del ricorso principale e di quello incidentale eventualmente proposto. La proposta e' comunicata ai difensori delle parti.
 
-Entro quaranta giorni dalla comunicazione la parte ricorrente, con istanza sottoscritta dal difensore munito di una nuova procura speciale, puo' chiedere la decisione. In mancanza, il ricorso si intende rinunciato e la Corte provvede ai sensi dell'articolo 391.
+Entro quaranta giorni dalla comunicazione la parte ricorrente, con istanza sottoscritta dal difensore ((...)), puo' chiedere la decisione. In mancanza, il ricorso si intende rinunciato e la Corte provvede ai sensi dell'articolo 391.
+
+((178))
 
 Se entro il termine indicato al secondo comma la parte chiede la decisione, la Corte procede ai sensi dell'articolo 380-bis.1 e quando definisce il giudizio in conformita' alla proposta applica il terzo e il quarto comma dell'articolo 96.
 
-(171) ((173))
+(171) (173)
 
 ------------
 
@@ -41,3 +43,9 @@ Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n.
 - (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti";
 
 - (con l'art. 35, comma 6) che "Gli articoli 372, 375, 376, 377, 378, 379, 380, 380-bis, 380-bis.1, 380-ter, 390 e 391-bis del codice di procedura civile, come modificati dal presente decreto, si applicano anche ai giudizi introdotti con ricorso gia' notificato alla data del 1° gennaio 2023 per i quali non e' stata ancora fissata udienza o adunanza in camera di consiglio".
+
+---------------
+
+AGGIORNAMENTO (178)
+
+Il D.Lgs. 31 ottobre 2024, n. 164, ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".

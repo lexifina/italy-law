@@ -1,27 +1,21 @@
 Art. 171-bis.
 
-(Verifiche preliminari).
+(( (Verifiche preliminari). )).
 
-Scaduto il termine di cui all'articolo 166, il giudice istruttore, entro i successivi quindici giorni, verificata d'ufficio la regolarita' del contraddittorio, pronuncia, quando occorre, i provvedimenti previsti dagli articoli 102, secondo comma, 107, 164, secondo, terzo, quinto e sesto comma, 167, secondo e terzo comma, 171, terzo comma, 182, 269, secondo comma, 291 e 292, e indica alle parti le questioni rilevabili d'ufficio di cui ritiene opportuna la trattazione, anche con riguardo alle condizioni di procedibilita' della domanda e alla sussistenza dei presupposti per procedere con rito semplificato. Tali questioni sono trattate dalle parti nelle memorie integrative di cui all'articolo 171-ter.
+((Scaduto il termine di cui all'articolo 166, entro i successivi quindici giorni il giudice istruttore verifica d'ufficio la regolarita' del contraddittorio.
 
-Quando pronuncia i provvedimenti di cui al primo comma, il giudice, se necessario, fissa la nuova udienza per la comparizione delle parti, rispetto alla quale decorrono i termini indicati dall'articolo 171-ter.
+Quando occorre, il giudice pronuncia i provvedimenti previsti dagli articoli 102, secondo comma, 107, 164, secondo, terzo, quinto e sesto comma, 167, secondo comma, 182, 269, secondo comma, 271, 291, primo comma, e 292, primo comma, e fissa nuova udienza per la comparizione delle parti. Almeno cinquantacinque giorni prima della nuova udienza di comparizione delle parti, il giudice procede nuovamente alle verifiche preliminari.
 
-Se non provvede ai sensi del secondo comma, conferma o differisce, fino ad un massimo di quarantacinque giorni, la data della prima udienza rispetto alla quale decorrono i termini indicati dall'articolo 171-ter.
+Quando non occorre pronunciare i provvedimenti previsti dal secondo comma, il giudice conferma o differisce, fino a un massimo di quarantacinque giorni, la data dell'udienza di comparizione delle parti e indica le questioni rilevabili d'ufficio di cui ritiene opportuna la trattazione nelle memorie integrative di cui all'articolo 171-ter, anche con riguardo alle condizioni di procedibilita' della domanda.
 
-Il decreto e' comunicato alle parti costituite a cura della cancelleria.
+Se ritiene che in relazione a tutte le domande proposte ricorrono i presupposti di cui al primo comma dell'articolo 281-decies, il giudice dispone la prosecuzione del processo nelle forme del rito semplificato di cognizione e fissa l'udienza di cui all'articolo 281-duodecies nonche' il termine perentorio entro il quale le parti possono integrare gli atti introduttivi mediante deposito di memorie e documenti.
 
-(171) ((173))
+Il giudice istruttore provvede con decreto, che e' comunicato alle parti costituite a cura della cancelleria. I termini di cui all'articolo 171-ter iniziano a decorrere quando e' pronunciato il decreto previsto dal terzo comma e si computano rispetto all'udienza fissata nell'atto di citazione o a quella fissata dal giudice istruttore a norma del presente articolo.))
 
------------
+((178))
 
-AGGIORNAMENTO (171)
+---------------
 
-Il D.Lgs. 10 ottobre 2022, n. 149 ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 30 giugno 2023 e si applicano ai procedimenti instaurati successivamente a tale data.
+AGGIORNAMENTO (178)
 
-Ai procedimenti pendenti alla data del 30 giugno 2023 si applicano le disposizioni anteriormente vigenti".
-
------------
-
-AGGIORNAMENTO (173)
-
-Il D.Lgs. 10 ottobre 2022, n. 149, come modificato dalla L. 29 dicembre 2022, n. 197, ha disposto (con l'art. 35, comma 1) che "Le disposizioni del presente decreto, salvo che non sia diversamente disposto, hanno effetto a decorrere dal 28 febbraio 2023 e si applicano ai procedimenti instaurati successivamente a tale data. Ai procedimenti pendenti alla data del 28 febbraio 2023 si applicano le disposizioni anteriormente vigenti".
+Il D.Lgs. 31 ottobre 2024, n. 164 ha disposto (con l'art. 7, comma 1) che "Ove non diversamente previsto, le disposizioni del presente decreto si applicano ai procedimenti introdotti successivamente al 28 febbraio 2023".
