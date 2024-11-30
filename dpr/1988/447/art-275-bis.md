@@ -4,7 +4,9 @@ Art. 275-bis.
 
 1.
 
-Nel disporre la misura degli arresti domiciliari anche in sostituzione della custodia cautelare in carcere, il giudice, salvo che le ritenga non necessarie in relazione alla natura e al grado delle esigenze cautelari da soddisfare nel caso concreto, prescrive procedure di controllo mediante mezzi elettronici o altri strumenti tecnici ((, previo accertamento della relativa fattibilita' tecnica da parte della polizia giudiziaria)). Con lo stesso provvedimento il giudice prevede l'applicazione della misura della custodia cautelare in carcere qualora l'imputato neghi il consenso all'adozione dei mezzi e strumenti anzidetti. (201)
+Nel disporre la misura degli arresti domiciliari anche in sostituzione della custodia cautelare in carcere, il giudice, salvo che le ritenga non necessarie in relazione alla natura e al grado delle esigenze cautelari da soddisfare nel caso concreto, prescrive procedure di controllo mediante mezzi elettronici o altri strumenti tecnici, previo accertamento della relativa fattibilita' tecnica ((, ivi inclusa quella operativa,)) da parte della polizia giudiziaria.
+
+Con lo stesso provvedimento il giudice prevede l'applicazione della misura della custodia cautelare in carcere qualora l'imputato neghi il consenso all'adozione dei mezzi e strumenti anzidetti. (201)
 
 2.
 
