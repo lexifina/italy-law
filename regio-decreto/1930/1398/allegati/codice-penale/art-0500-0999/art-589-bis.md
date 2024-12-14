@@ -1,10 +1,10 @@
 Art. 589-bis.
 
-(( (Omicidio stradale o nautico). )).
+(Omicidio stradale o nautico).
 
-((Chiunque cagioni per colpa la morte di una persona con violazione delle norme sulla disciplina della circolazione stradale o della navigazione marittima o interna e' punito con la reclusione da due a sette anni.
+Chiunque cagioni per colpa la morte di una persona con violazione delle norme sulla disciplina della circolazione stradale o della navigazione marittima o interna e' punito con la reclusione da due a sette anni. ((La stessa pena si applica a colui che abbandona animali domestici su strada o nelle relative pertinenze, quando dall'abbandono consegue un incidente stradale che cagiona la morte)).
 
-Chiunque, ponendosi alla guida di un veicolo a motore o di una delle unita' da diporto di cui all'articolo 3 del codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n. 171, in stato di ebbrezza alcolica o di alterazione psicofisica conseguente all'assunzione di sostanze stupefacenti o psicotrope ai sensi rispettivamente degli articoli 186, comma 2, lettera c), e 187 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, nonche' degli articoli 53-bis, comma 2, lettera c), e 53-quater del codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n. 171, cagioni per colpa la morte di una persona, e' punito con la reclusione da otto a dodici anni.
+((Chiunque, ponendosi alla guida di un veicolo a motore in stato di ebbrezza alcolica ai sensi dell'articolo 186, comma 2, lettera c), del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, o di alterazione psicofisica conseguente all'assunzione di sostanze stupefacenti o psicotrope, ovvero alla guida di una delle unita' da diporto indicate all'articolo 3 del codice della nautica da diporto, di cui al decreto legislativo 18 luglio 2005, n. 171, in stato di ebbrezza alcolica o di alterazione psicofisica conseguente all'assunzione di sostanze stupefacenti o psicotrope in presenza delle condizioni previste dagli articoli 53-bis, comma 2, lettera c), e 53-quater del medesimo codice della nautica da diporto, cagioni per colpa la morte di una persona e' punito con la reclusione da otto a dodici anni)).
 
 La stessa pena si applica al conducente di un veicolo a motore di cui all'articolo 186-bis, comma 1, lettere b), c) e d), del decreto legislativo 30 aprile 1992, n. 285, o di un'unita' da diporto di cui all'articolo 53-ter, comma 1, lettera b), del decreto legislativo 18 luglio 2005, n. 171, il quale, in stato di ebbrezza alcolica ai sensi rispettivamente degli articoli 186, comma 2, lettera b), del decreto legislativo 30 aprile 1992, n. 285, e 53-bis, comma 2, lettera b), del decreto legislativo 18 luglio 2005, n. 171, cagioni per colpa la morte di una persona.
 
@@ -22,4 +22,4 @@ Nelle ipotesi di cui ai commi precedenti la pena e' aumentata se il fatto e' com
 
 Nelle ipotesi di cui ai commi precedenti, qualora l'evento non sia esclusiva conseguenza dell'azione o dell'omissione del colpevole, la pena e' diminuita fino alla meta'.
 
-Nelle ipotesi di cui ai commi precedenti, qualora il conducente del veicolo o dell'unita' da diporto cagioni la morte di piu' persone, ovvero la morte di una o piu' persone e lesioni a una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni diciotto)).
+Nelle ipotesi di cui ai commi precedenti, qualora il conducente del veicolo o dell'unita' da diporto cagioni la morte di piu' persone, ovvero la morte di una o piu' persone e lesioni a una o piu' persone, si applica la pena che dovrebbe infliggersi per la piu' grave delle violazioni commesse aumentata fino al triplo, ma la pena non puo' superare gli anni diciotto.
