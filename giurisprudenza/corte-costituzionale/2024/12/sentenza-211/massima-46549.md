@@ -1,0 +1,21 @@
+# Massima n. 46549
+
+- Pronuncia: Corte costituzionale, sentenza 211/2024 (ECLI:IT:COST:2024:211)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2024:211
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Esecuzione forzata - In genere - Immobili destinati all'edilizia residenziale pubblica convenzionata, finanziati in tutto o in parte con risorse pubbliche - Procedure esecutive avviate su istanza dell'istituto di credito presso il quale è stato acceso il mutuo fondiario - Cause di improcedibilità - Assenza di uno dei requisiti di cui all'art. 44 della legge n. 457 del 1978 - Mancato inserimento della banca in un elenco tenuto presso il Ministero delle infrastrutture e dei trasporti - Irragionevolezza, violazione del principio di proporzionalità e del diritto fondamentale di difesa - Illegittimità costituzionale. (Classif. 097001).
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione dell’art. 24 Cost., l’art. 1, comma 378, della legge n. 178 del 2020 che, in materia di procedure esecutive e concorsuali aventi a oggetto immobili destinati all’edilizia residenziale pubblica convenzionata, dispone l’improcedibilità dell’esecuzione, avviata su istanza dell’istituto di credito presso cui è stato acceso il mutuo fondiario, ove non sia accertata la corrispondenza del mutuo ai criteri di cui all’art. 44 della legge n. 457 del 1978, ovvero se il creditore che può far valere la garanzia dello Stato non partecipi alla procedura, o non risulti inserito in un elenco delle banche convenzionate tenuto presso il Ministero delle infrastrutture e dei trasporti. Posto che il diritto di difesa comprende anche la fase dell’esecuzione forzata, necessaria a rendere effettiva l’attuazione del provvedimento giudiziale, la previsione censurata dal Tribunale di Ravenna denota, in primo luogo, una ratio sfuggente, riferendosi a un elenco che non risulta essere stato istituito e che non trova riscontro nell’art. 44 della legge n. 457 del 1978. In secondo luogo, in assenza dei requisiti stabiliti per la stipula del mutuo, la sanzione di improcedibilità è irragionevole e sproporzionata: qualora si ipotizzi che il creditore fondiario non possa usufruire della garanzia dello Stato, gli sarebbe inibita anche la tutela esecutiva, a differenza di qualunque altro creditore, e in contrasto con la finalità della normativa, volta a favorire l’apporto dei costruttori e dei finanziatori privati all’edilizia residenziale pubblica, per soddisfarne la domanda; qualora, invece, si ritenga che la garanzia possa ancora essere fatta valere, si indurrebbe il creditore fondiario a ricorrervi al di fuori della procedura, anziché al suo interno, dove opera in via sussidiaria. In terzo luogo, con riferimento alla mancata partecipazione del creditore fondiario alla procedura esecutiva – oltretutto riferita ai soli mutui convenzionati non agevolati, a dispetto della circostanza che anche quelli agevolati sono coperti dalla garanzia dello Stato – il legislatore finisce per legittimare la mera inerzia del creditore fondiario che, invece, ha l’onere di attivarsi, in quanto gode sia del diritto di ipoteca, sia della garanzia predetta, e si trova nelle condizioni di poter partecipare, dovendo essere necessariamente avvisato dell’avvio della procedura. Né, infine, tale meccanismo risulta in linea con quanto si evince dagli stessi commi 376 e 377, oltre che dalla precedente disciplina in materia: tali disposizioni confermano che gli immobili destinati all’edilizia convenzionata e agevolata non sono sottratti alle procedure esecutive, anche in ragione del fatto che la finalità abitativa è presidiata da vari strumenti, dagli oneri reali che si impongono all’assegnatario, al necessario avviso del comune e dell’ente finanziatore in merito alla pendenza della procedura. (Precedenti: S. 160/2024 - mass. 46387; S. 159/2023 - mass. 45663; S. 228/2022 - mass. 45143; S. 140/2022 - mass. 44836; S. 210/2021 - mass. 44270; S. 128/2021 - mass. 43960).
+
+## Norme
+
+- legge, 30/12/2020 n. 178, art. 1, comma 378
+
+## Parametri
+
+- Costituzione, art. 24
