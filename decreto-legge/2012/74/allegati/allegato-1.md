@@ -1,0 +1,109 @@
+Allegato 1
+
+(Art. 3, comma 7)
+
+COD_REG COD_PRO COD_ISTAT PRO_COM NOME
+
+3 20 3020023 20023 Felonica
+
+3 20 3020027 20027 Gonzaga
+
+3 20 3020029 20029 Magnacavallo
+
+3 20 3020035 20035 Moglia
+
+3 20 3020039 20039 Pegognaga
+
+3 20 3020042 20042 Poggio Rusco
+
+3 20 3020046 20046 Quingentole
+
+3 20 3020047 20047 Quistello
+
+3 20 3020055 20055 San Benedetto Po
+
+3 20 3020056 20056 San Giacomo delle Segnate
+
+3 20 3020058 20058 San Giovanni del Dosso
+
+3 20 3020060 20060 Schivenoglia
+
+3 20 3020061 20061 Sermide
+
+3 20 3020067 20067 Villa Poma
+
+5 29 5029021 29021 Ficarolo
+
+5 29 5029022 29022 Fiesso Umbertiano
+
+5 29 5029025 29025 Gaiba
+
+5 29 5029033 29033 Occhiobello
+
+5 29 5029045 29045 Stienta
+
+8 35 8035009 35009 Campagnola Emilia
+
+8 35 8035020 35020 Correggio
+
+8 35 8035021 35021 Fabbrico
+
+8 35 8035028 35028 Novellara
+
+8 35 8035032 35032 Reggiolo
+
+8 35 8035034 35034 Rio Saliceto
+
+8 35 8035035 35035 Rolo
+
+8 36 8036002 36002 Bomporto
+
+8 36 8036004 36004 Camposanto
+
+8 36 8036005 36005 Carpi
+
+8 36 8036009 36009 Cavezzo
+
+8 36 8036010 36010 Concordia sulla Secchia
+
+8 36 8036012 36012 Finale Emilia
+
+8 36 8036021 36021 Medolla
+
+8 36 8036022 36022 Mirandola
+
+8 36 8036028 36028 Novi di Modena
+
+8 36 8036034 36034 Ravarino
+
+8 36 8036037 36037 San Felice sul Panaro
+
+8 36 8036038 36038 San Possidonio
+
+8 36 8036039 36039 San Prospero
+
+8 36 8036044 36044 Soliera
+
+8 37 8037024 37024 Crevalcore
+
+8 37 8037028 37028 Galliera
+
+8 37 8037048 37048 Pieve di Cento
+
+8 37 8037053 37053 San Giovanni in Persiceto
+
+8 37 8037055 37055 San Pietro in Casale
+
+8 38 8038003 38003 Bondeno
+
+8 38 8038004 38004 Cento
+
+8 38 8038008 38008 Ferrara
+
+8 38 8038016 38016 Mirabello
+
+8 38 8038018 38018 Poggio Renatico
+
+8 38 8038021 38021 Sant'Agostino
+
+8 38 8038022 38022 Vigarano Mainarda
