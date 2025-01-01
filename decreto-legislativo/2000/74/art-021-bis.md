@@ -1,0 +1,15 @@
+Art. 21-bis.
+
+(( ((Efficacia delle sentenze penali nel processo tributario e nel processo di Cassazione). ))
+
+1.
+
+((La sentenza irrevocabile di assoluzione perche' il fatto non sussiste o l'imputato non lo ha commesso, pronunciata in seguito a dibattimento nei confronti del medesimo soggetto e sugli stessi fatti materiali oggetto di valutazione nel processo tributario, ha, in questo, efficacia di giudicato, in ogni stato e grado, quanto ai fatti medesimi.))
+
+2.
+
+((La sentenza penale irrevocabile di cui al comma 1 puo' essere depositata anche nel giudizio di Cassazione fino a quindici giorni prima dell'udienza o dell'adunanza in camera di consiglio.))
+
+3.
+
+((Le disposizioni dei commi 1 e 2 si applicano, limitatamente alle ipotesi di sentenza di assoluzione perche' il fatto non sussiste, anche nei confronti della persona fisica nell'interesse della quale ha agito il dipendente, il rappresentante legale o negoziale, ovvero nei confronti dell'ente e societa', con o senza personalita' giuridica, nell'interesse dei quali ha agito il rappresentante o l'amministratore anche di fatto, nonche' nei confronti dei loro soci o associati.))
