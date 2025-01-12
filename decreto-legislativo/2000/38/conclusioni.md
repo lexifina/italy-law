@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 febbraio 2000
+
+CIAMPI D'Alema, Presidente del Consiglio dei Ministri Salvi, Ministro del lavoro e della previdenza sociale Amato, Ministro del tesoro, del bilancio e della programmazione economica Bindi, Ministro della sanita' De Castro, Ministro delle politiche agricole e forestali Visto, il Guardasigilli: Diliberto Avvertenza: In supplemento ordinario alla Gazzetta Ufficiale - serie generale - del 20 marzo 2000 si procedera' alla ripubblicazione del testo del presente decreto legislativo corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217.
