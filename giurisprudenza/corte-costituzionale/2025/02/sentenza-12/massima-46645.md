@@ -1,0 +1,17 @@
+# Massima n. 46645
+
+- Pronuncia: Corte costituzionale, sentenza 12/2025 (ECLI:IT:COST:2025:12)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:12
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Referendum - Referendum abrogativo - Richiesta di abrogazione del d.lgs. n. 23 del 2015 che ha disciplinato i licenziamenti illegittimi per i lavoratori assunti dal 7 marzo 2015, affiancandosi alla normativa già esistente - Estraneità alle materie per cui l'art. 75 Cost. esclude l'istituto - Matrice razionalmente unitaria - Chiarezza, omogeneità e univocità del quesito - Ammissibilità della richiesta. (Classif. 214002).
+
+## Testo
+
+È dichiarata ammissibile la richiesta di referendum popolare per l’abrogazione del d.lgs. n. 23 del 2015, come modificato dal d.l. n. 87 del 2018, come conv.; dalla sentenza n. 194 del 2018; dalla legge n. 145 del 2018; dal d.lgs. n. 14 del 2019; dal d.l. n. 23 del 2020, come conv.; dalla sentenza n. 150 del 2020; dal d.l. n. 118 del 2021, come conv.; dal d.l. n. 36 del 2022, come conv.; dalle sentenze n. 22 e n. 128 del 2024. Tale atto, nell’esercizio della legge di delega n. 183 del 2014, ha dettato una disciplina organica dell’apparato sanzionatorio dei licenziamenti illegittimi intimati, dai datori “sopra-soglia” e “sotto-soglia”, ai lavoratori (operai, impiegati o quadri) assunti, a decorrere dal 7 marzo 2015, con contratto di lavoro subordinato a tempo indeterminato, affiancandosi alla disciplina già posta dagli artt. 18 statuto lavoratori e 8 della legge n. 604 del 1966, applicabile ai lavoratori assunti prima di tale data. Nessuna ragione di ordine costituzionale osta, infatti, all’ammissibilità della richiesta in quanto la disciplina è estranea alle materie per le quali l’art. 75, secondo comma, Cost. preclude il ricorso al referendum; la stessa non può essere ritenuta costituzionalmente necessaria o a contenuto costituzionalmente vincolato, in quanto l’eventuale esito positivo del referendum non determinerebbe una lacuna nella tutela del diritto fondamentale al lavoro ma l’applicabilità, anche ai lavoratori assunti dopo il 7 marzo 2015, della disciplina già citata applicabile ai lavoratori assunti prima del 7 marzo 2015. Per tale motivo l’eventuale rimozione dall’ordinamento dell’intero d.lgs. n. 23 del 2015 non farebbe nemmeno scaturire una, preclusa, reviviscenza del quadro normativo preesistente, dal momento che l’effetto innovativo sulla disciplina vigente consisterebbe nella fisiologica espansione della sfera di operatività di norme già presenti nell’ordinamento e tuttora vigenti, seppure con un ambito di efficacia limitato. Sussiste, infine, la matrice razionalmente unitaria che giustifica l’unicità della richiesta, funzionale alla reductio ad unum della disciplina sanzionatoria dei licenziamenti illegittimi. Né, infine, la circostanza che all’esito dell’approvazione del quesito abrogativo il risultato di un ampliamento delle garanzie per il lavoratore non si verificherebbe per tutte le ipotesi di invalidità – perché in alcuni casi particolari si avrebbe, invece, un arretramento di tutela – assume una dimensione tale da inficiare la chiarezza, l’omogeneità e la stessa univocità del quesito. (Precedenti: S. 44/2024 - mass. 46038; S. 50/2000 - mass. 25167).
+
+## Parametri
+
+- Costituzione, art. 75
