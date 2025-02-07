@@ -1,0 +1,19 @@
+# TAR LAZIO - LATINA, ordinanza cautelare n. 17/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - LATINA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202500017
+- Numero di ricorso (NRG): 202500070
+- Data di pubblicazione: 2025-02-07
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-01-24
+- Oggetto del ricorso: DETERMINA GA N. 178/2024/RA.RI. AVENTE AD OGGETTO “AFFIDAMENTO EX ART. 76, COMMA 2, LETT. B), N. 2 D.LGS. N. 36/2023 – SERVIZIO DI CONFERIMENTO PER TRATTAMENTO MECCANICO BIOLOGICO DEI RIFIUTI INDIFFERENZIATI .
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-latina-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b1c81529-7230-47b1-9989-16133a7e8b77/resource/64b1fbfa-27ea-4e94-b2f1-780bf551ed43/download/tar-lazio-latina-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
