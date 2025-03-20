@@ -1,0 +1,13 @@
+# Massima n. 46640
+
+- Pronuncia: Corte costituzionale, sentenza 31/2025 (ECLI:IT:COST:2025:31)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:31
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Assistenza e solidarietà sociale - In genere - Reddito di cittadinanza - Natura e funzione - Inserimento nel mondo del lavoro e più in generale strumento di inclusione sociale - Necessario coinvolgimento attivo del beneficiario - Possibili condizioni e limiti. (Classif. 022001).
+
+## Testo
+
+La peculiarità strutturale e funzionale del Reddito di cittadinanza, dove la componente di integrazione al reddito è strettamente condizionata al conseguimento di obiettivi di inserimento nel mondo del lavoro e comunque di inclusione sociale, che richiedono il coinvolgimento attivo del beneficiario, fa sì che la misura definisce un percorso di reinserimento nel mondo lavorativo che va al di là della pura assistenza economica: mentre le prestazioni di assistenza sociale vere e proprie si fondano essenzialmente sul solo stato di bisogno, il Rdc prevede un sistema di rigorosi obblighi e condizionalità, che strutturano un percorso formativo e d’inclusione, il cui mancato rispetto determina, in varie forme, l’espulsione dal percorso medesimo. (Precedenti: S. 126/2021 - mass. 44004; S. 122/2020 - mass. 43419).Il reddito di cittadinanza, pur presentando anche tratti propri di una misura di contrasto alla povertà, non si risolve in una provvidenza assistenziale diretta a soddisfare un bisogno primario dell’individuo, ma persegue diversi e più articolati obiettivi di politica attiva del lavoro e di integrazione sociale. A tale sua prevalente connotazione si collegano coerentemente la temporaneità della prestazione e il suo carattere condizionale, cioè la necessità che ad essa si accompagnino precisi impegni dei destinatari, definiti in Patti sottoscritti da tutti i componenti maggiorenni del nucleo familiare. All’interno di questa peculiare struttura della misura, si giustificano anche le ulteriori condizionalità e preclusioni che la connotano, anch’esse finalizzate al percorso di integrazione sociale. (Precedenti: S. 1/2025 - mass. 46621; S. 90/2024 - mass. 46100; S. 54/2024 - mass. 46072; S. 42/2024 - mass. 46040; S. 169/2023 - mass. 45776; S. 19/2022 - mass. 44526; S. 137/2021 - mass. 43970; S. 126/2021 - mass. 44004; S. 7/2021 - mass. 43549; S. 122/2020 - mass. 43419; S. 166/2018 - mass. 40102; O. 29/2024 - mass. 46043).
