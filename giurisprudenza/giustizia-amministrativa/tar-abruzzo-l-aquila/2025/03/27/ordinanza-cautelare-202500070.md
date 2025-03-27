@@ -1,0 +1,19 @@
+# TAR ABRUZZO - L'AQUILA, ordinanza cautelare n. 70/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR ABRUZZO - L'AQUILA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202500070
+- Numero di ricorso (NRG): 202500049
+- Data di pubblicazione: 2025-03-27
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-02-05
+- Oggetto del ricorso: BANDO (PI033670-24) PUBBLICATO IN BANCA DATI NAZIONALE DEI CONTRATTI PUBBLICI IN DATA 31 DICEMBRE 2024 INDETTO DA AREACOM RELATIVO ALLA “GARA COMUNITARIA CENTRALIZZATA A PROCEDURA APERTA PER L’ACQUISIZIONE E LA DISTRIBUZIONE DI AUSILI MONOUSO DA DESTINARE AI PAZIENTE DELLE AZIENDE SANITARIE DELLA REGIONE ABRUZZO
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-abruzzo-l-aquila-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/39dae7b6-2b8f-4f51-a926-e1f266bfb8f1/resource/6d75344f-70b1-460c-9224-671862dedb1b/download/tar-abruzzo-laquila-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
