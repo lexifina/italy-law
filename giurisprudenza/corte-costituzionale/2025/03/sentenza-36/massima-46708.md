@@ -1,0 +1,24 @@
+# Massima n. 46708
+
+- Pronuncia: Corte costituzionale, sentenza 36/2025 (ECLI:IT:COST:2025:36)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:36
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo tributario - In genere - Nuove prove in appello - Divieto assoluto, introdotto per mezzo di decreto legislativo, di deposito delle deleghe, delle procure e degli altri atti di conferimento di potere rilevanti ai fini della legittimità della sottoscrizione degli atti - Irragionevolezza e violazione del diritto di difesa - Illegittimità costituzionale parziale. (Classif. 201001).
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione degli artt. 3, primo comma, 24, secondo comma, e 111, secondo comma, Cost., l’art. 58, comma 3, del d.lgs. n. 546 del 1992, come introdotto dall’art. 1, comma 1, lett. bb), del d.lgs. n. 220 del 2023, limitatamente alle parole «delle deleghe, delle procure e degli altri atti di conferimento di potere rilevanti ai fini della legittimità della sottoscrizione degli atti,». La disposizione censurata dalla CGT Campania, introdotta allo scopo di porre limiti all’ingresso di nuovo materiale cognitivo nel giudizio di secondo grado, accorda priorità all’esigenza di arginare la dilatazione dei tempi di definizione del giudizio tributario. L’ampiezza semantica dei termini «deleghe» e «procure», confermata dalla clausola di chiusura concernente gli «altri atti di conferimento di potere», induce ad includere nel perimetro del divieto non solo le deleghe con cui viene attribuito il potere di firma degli atti impositivi e, più in generale, gli atti di conferimento della rappresentanza sul piano sostanziale, ma anche gli atti costituenti il presupposto della rappresentanza processuale e quelli di designazione del difensore abilitato all’assistenza tecnica in giudizio. Pur tuttavia, in tale accezione, gli atti in questione non costituiscono temi di prova soggetti alle ordinarie preclusioni istruttorie, in quanto non attengono al merito della causa, ma alla legittimazione processuale o alla rappresentanza tecnica e, quindi, alla regolare costituzione del rapporto processuale. Ciò precisato, la deroga alla regola della limitata acquisibilità di nova istruttori introdotta per le deleghe, le procure e gli altri atti di conferimento di potere in senso sostanziale risulta priva di una ragionevole ratio distinguendi. La sottrazione di tali documenti al regime generale, infatti, pur perseguendo la finalità deflattiva di limitare ulteriormente il materiale cognitivo acquisibile in appello, non trova appiglio nelle caratteristiche oggettive – strutturali, effettuali e funzionali – degli atti esclusi, non essendo rinvenibile in essi un elemento differenziale sul quale il legislatore, nell’esercizio della sua discrezionalità, possa costruire una disciplina diversificata. All’opposto, le deleghe, le procure e gli altri atti di conferimento di potere non solo appartengono al più ampio genus delle prove documentali, che l’art. 58, comma 1, sottopone alla regola generale della producibilità, ma non presentano tratti differenziali idonei ad incidere sul meccanismo di acquisizione di nova istruttori in appello. La manifesta irragionevolezza del frammento normativo in esame viene ancor più chiaramente in luce ove si consideri che il divieto assoluto di produzione dei documenti indicati altera la parità delle armi, in quanto sottrae una facoltà difensiva alla parte che, in base al thema decidendum, sia chiamata a fornirne dimostrazione in giudizio. Inoltre, la disposizione in scrutinio comporta un’ingiustificabile compressione del diritto alla prova, quale nucleo essenziale del diritto di difesa ex art. 24 Cost. e del contraddittorio, considerando che il processo di appello costituisce la prima e unica occasione per dedurre i mezzi di prova che non siano stati introdotti in primo grado per causa non imputabile alla parte. Né, in relazione alla specifica ipotesi in esame, le conseguenze sfavorevoli possono ritenersi adeguatamente bilanciate dall’interesse all’accelerazione dei tempi di definizione del giudizio. La finalità acceleratoria e deflattiva è, infatti, realizzata sopprimendo il diritto alla prova nei casi in cui il giudizio di appello rappresenta l’unica occasione per il suo esercizio, essendone stata la deduzione in prime cure impossibile a causa di un fatto ostativo esterno alla sfera volitiva e di controllo della parte. (Precedenti: S. 41/2024 - mass. 46056; S. 275/1990 - mass. 15861; S. 248/1974 - mass. 7457).
+
+## Norme
+
+- decreto legislativo, 31/12/1992 n. 546, art. 58, comma 3
+- decreto legislativo, 30/12/2023 n. 220, art. 1, comma 1 lett. bb)
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 111, comma 2
