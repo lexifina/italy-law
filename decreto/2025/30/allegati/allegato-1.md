@@ -1,0 +1,5 @@
+Allegato 1
+
+(articolo 5, comma 5 - monitoraggio delle risorse assegnate alle Regioni)
+
+Parte di provvedimento in formato grafico
