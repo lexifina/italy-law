@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 1399/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE IV
+- Numero provvedimento: 202501399
+- Numero di ricorso (NRG): 202502495
+- Data di pubblicazione: 2025-04-11
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-03-25
+- Oggetto del ricorso: AFFIDAMENTO, SECONDO LO SCHEMA GIURIDICO DELL’ACCORDO QUADRO, DA CONCLUDERSI CON PIÙ OPERATORI ECONOMICI, DEL SERVIZIO DI CONFERIMENTO PER IL RECUPERO E/O SMALTIMENTO DEI FANGHI (CODICE EER 19.08.05) PRODOTTI DAGLI IMPIANTI DI DEPURAZIONE DI ACQUE REFLUE URBANE - AGGIUDICAZIONE - MCP
+- Tipo di ricorso: APPELLO AVVERSO ORDINANZA CAUTELARE
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/e96a4b33-37d4-4293-b6ba-363878396163/download/cds-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
