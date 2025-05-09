@@ -1,0 +1,7 @@
+Allegato F
+
+(Articolo 1, comma 2)
+
+REGI DECRETI-LEGGE
+
+Parte di provvedimento in formato grafico
