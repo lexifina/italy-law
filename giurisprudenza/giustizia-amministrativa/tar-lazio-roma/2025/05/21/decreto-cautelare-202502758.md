@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 2758/2025
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA QUATER
+- Numero provvedimento: 202502758
+- Numero di ricorso (NRG): 202506130
+- Data di pubblicazione: 2025-05-21
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-05-20
+- Oggetto del ricorso: PROVVEDIMENTO DEL 28/3/2025 - PROGETTO PNRR- POC-2023-12377011 - PARERE NEGATIVO IN ORDINE ALLA PROSECUZIONE DELLE PROCEDURE DI AVVIO DEL PROGETTO, ALLA LUCE DEI DUE PARERI NEGATIVI ESPRESSI DAL COMITATO ETICO DELL’EMILIA ROMAGNA - RISARCIMENTO DANNO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/5612ba46-205a-4263-be1c-d30f0021da8a/download/tar-lazio-roma-decreti-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
