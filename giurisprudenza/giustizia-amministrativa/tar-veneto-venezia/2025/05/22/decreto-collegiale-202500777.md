@@ -1,0 +1,19 @@
+# TAR VENETO - VENEZIA, decreto collegiale n. 777/2025
+
+- Tipo: DECRETO COLLEGIALE
+- Sede: TAR VENETO - VENEZIA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202500777
+- Numero di ricorso (NRG): 202401242
+- Data di pubblicazione: 2025-05-22
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: CORREGGE ERRORE MATERIALE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-10-16
+- Oggetto del ricorso: SILENZIO (STRANIERI): RICHIESTA PERMESSO DI SOGGIORNO PRESENTATA IN DATA 20.11.2023 VOLTA AD OTTENERE IL PERMESSO DI SOGGIORNO PER LAVORO SUBORDINATO.
+- Tipo di ricorso: SILENZIO P.A. (ex art. 117 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-veneto-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/6978709d-d83d-471d-8299-34d874b9dfcf/resource/8129572d-93a1-4f0f-867f-f35e0c7d26bf/download/tar-veneto-decreti-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
