@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la legge 25 febbraio 2008, n. 34, recante disposizioni per l'adeguamento di obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - legge comunitaria 2007 - ed in particolare l'articolo 1, commi 1 e 3, e l'allegato B;
+
+Visto il decreto legislativo 30 aprile 1992, n. 285, recante nuovo codice della strada, e successive modificazioni;
+
+Visto il regolamento (CEE) n. 3821/85 del Consiglio, del 20 dicembre 1985, relativo all'apparecchio di controllo nel settore dei trasporti su strada;
+
+Visto il regolamento (CE) n. 561/2006 del Parlamento europeo e del Consiglio, del 15 marzo 2006, relativo all'armonizzazione di alcune disposizioni in materia sociale nel settore dei trasporti su strada e che modifica i regolamenti del Consiglio (CEE) n. 3821/85 e (CE) n. 2135/98 e abroga e sostituisce il regolamento (CEE) n. 3820/85 del Consiglio;
+
+Vista la direttiva 2006/22/CE del Parlamento europeo e del Consiglio del 15 marzo 2006, sulle norme minime per l'applicazione dei regolamenti (CEE) n. 3820/85 e (CEE) n. 3821/85 del Consiglio relativi a disposizioni in materia sociale nel settore dei trasporti su strada e che abroga e sostituisce la direttiva 88/599/CEE del Consiglio;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 giugno 2008;
+
+Acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano nella seduta del 10 luglio 2008;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 1° agosto 2008;
+
+Sulla proposta del Ministro per le politiche europee e del Ministro delle infrastrutture e dei trasporti, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, dell'interno, del lavoro, della salute e delle politiche sociali e per i rapporti con le regioni; Emana il seguente decreto legislativo:
