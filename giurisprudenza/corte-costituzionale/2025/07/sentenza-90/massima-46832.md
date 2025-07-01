@@ -1,0 +1,13 @@
+# Massima n. 46832
+
+- Pronuncia: Corte costituzionale, sentenza 90/2025 (ECLI:IT:COST:2025:90)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:90
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Sospensione del procedimento con messa alla prova - Ratio e differenze rispetto ad altri istituti. (Classif. 199033).
+
+## Testo
+
+A differenza di altri istituti (quali le misure alternative alla detenzione, nonché la sospensione condizionale della pena), la messa alla prova disegna un percorso rieducativo e riparativo, alternativo al processo oltre che alla pena, che conduce, in caso di esito positivo, all’estinzione del reato. (Precedenti: S. 146/2023 - mass. 45685; S. 146/2022 - mass. 44844).La messa alla prova coniuga la funzione premiale – collegata alla declaratoria di estinzione del reato – con una forte vocazione risocializzante, giacché la risocializzazione del soggetto si svolge in una fase anticipata rispetto alla stessa celebrazione del processo, con maggiori possibilità di esito positivo della prova e conseguente recupero dell’imputato, che viene “affidato”, senza ritardo, all’ente o al soggetto presso il quale svolgerà le sue prestazioni. (Precedenti: S. 146/2023 - mass. 45685; S. 163/2022 - mass. 45022; S. 91/2018 - mass. 40073, 40074).La messa alla prova non implica una mera prognosi circa l’astensione dal commettere reati, ma una valutazione sulla idoneità del programma di trattamento, che – pur funzionale alla risocializzazione del soggetto – assume una innegabile connotazione sanzionatoria rispetto al fatto di reato, evidenziata anche dalla prestazione del lavoro di pubblica utilità, che ne è una componente imprescindibile. (Precedenti: S. 23/2025 - mass. 46696; S. 163/2022 - mass. 45022; S. 75/2020 - mass. 42220; S. 68/2019 - mass. 42115).Le prescrizioni oggetto del programma trattamentale dell’istituto della messa alla prova, incidendo in maniera significativa sulla libertà personale del soggetto che vi è sottoposto, devono mantenersi entro un rapporto di proporzionalità rispetto alla gravità del fatto commesso. (Precedente: S. 68/2019- mass. 42115).In virtù delle finalità specialpreventiva e risocializzante che deve perseguire, nella messa alla prova il trattamento è ampiamente modulabile, tenendo conto della personalità dell’imputato e dei reati oggetto dell’imputazione. (Precedente: S. 91/2018 - mass. 40073, 40074).La messa alla prova persegue [anche] finalità generali di deflazione giudiziaria per reati di contenuta gravità. (Precedente: S. 139/2020).
