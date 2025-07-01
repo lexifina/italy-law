@@ -1,0 +1,3 @@
+Art. 47-quater.
+
+(( ARTICOLO ABROGATO DAL D. LGS. 29 OTTOBRE 1999, N. 490 ))

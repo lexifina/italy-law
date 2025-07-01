@@ -1,0 +1,3 @@
+Art. 47-bis.
+
+(( ARTICOLO ABROGATO DALLA L. 19 MARZO 2001, N. 92 ))
