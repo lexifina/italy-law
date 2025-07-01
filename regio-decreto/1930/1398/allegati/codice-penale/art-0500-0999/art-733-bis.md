@@ -1,10 +1,10 @@
 Art. 733-bis.
 
-(( (Distruzione o deterioramento di habitat all'interno di un sito protetto) ))
+(Distruzione o deterioramento di habitat all'interno di un sito protetto)
 
-((Chiunque, fuori dai casi consentiti, distrugge un habitat all'interno di un sito protetto o comunque lo deteriora compromettendone lo stato di conservazione, e' punito con l'arresto fino a diciotto mesi e con l'ammenda non inferiore a 3. 000 euro.))
+Chiunque, fuori dai casi consentiti, distrugge un habitat all'interno di un sito protetto o comunque lo deteriora compromettendone lo stato di conservazione, e' punito con l'arresto ((da tre mesi a due anni e con l'ammenda non inferiore a 6.000 euro)).
 
-((231))
+(231)
 
 -------------
 
