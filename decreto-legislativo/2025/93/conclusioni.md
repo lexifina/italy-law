@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 aprile 2025
+
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Schillaci, Ministro della salute Calderone, Ministro del lavoro e delle politiche sociali Piantedosi, Ministro dell'interno Salvini, Ministro delle infrastrutture e dei trasporti Alberti Casellati, Ministro per le riforme istituzionali e la semplificazione nomativa Locatelli, Ministro per le disabilita' Roccella, Ministro per la famiglia, la natalita' e le pari opportunita' Abodi, Ministro per lo sport e i giovani Foti, Ministro per gli affari europei, il PNRR e le politiche di coesione Calderoli, Ministro per gli affari regionali e le autonomie Bernini, Ministro dell'universita' e della ricerca Valditara, Ministro dell'istruzione e del merito Garnero Santanche', Ministro del turismo Giuli, Ministro della cultura Giorgetti, Ministro dell'economia e delle finanze Visto, il Guardasigilli: Nordio
