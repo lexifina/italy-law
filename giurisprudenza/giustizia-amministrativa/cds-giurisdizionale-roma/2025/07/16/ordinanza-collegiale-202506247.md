@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza collegiale n. 6247/2025
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE III
+- Numero provvedimento: 202506247
+- Numero di ricorso (NRG): 202407131
+- Data di pubblicazione: 2025-07-16
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: SOSPENDE GIUDIZIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-09-24
+- Oggetto del ricorso: ESECUZIONE DEL GIUDICATO SULL'ORDINANZA DEL TRIBUNALE ORDINARIO DI ROMA, ESECUZIONI MOBILIARI SEZ. IV BIS, N.R.G. 10068/2015 - PAGAMENTO SOMME - EQUA RIPARAZIONE (LEGGE PINTO)
+- Tipo di ricorso: APPELLO AVV. SENT. IN MATERIA DI MANCATA ESECUZIONE/INOTTEMP
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/e96a4b33-37d4-4293-b6ba-363878396163/download/cds-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
