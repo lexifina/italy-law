@@ -1,0 +1,23 @@
+# Massima n. 46949
+
+- Pronuncia: Corte costituzionale, sentenza 117/2025 (ECLI:IT:COST:2025:117)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:117
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - Concorso di circostanze - Divieto di prevalenza di circostanze attenuanti sulla circostanza aggravante della recidiva reiterata - Effetti - Possibile alterazione dell'equilibrio costituzionalmente imposto sulla strutturazione della responsabilità penale - Condizioni - Esclusione, in ragione del "diritto penale del fatto", della prevalenza di aspetti relativi alla maggiore colpevolezza o pericolosità dell'agente sul fatto oggettivo (nel caso di specie: illegittimità costituzionale in parte qua della disposizione che prevede il divieto di prevalenza dell'attenuante del fatto di lieve entità, introdotta con sentenza n. 86 del 2024, sull'aggravante della recidiva reiterata). (Classif. 210012).
+
+## Testo
+
+Il divieto di prevalenza di varie circostanze attenuanti specificamente individuate – quali quelle espressive di un minor disvalore del fatto dal punto di vista della sua dimensione offensiva ovvero inerenti alla persona del colpevole o attinenti alla collaborazione del reo post delictum – sulla recidiva reiterata è costituzionalmente illegittimo ove determini un’alterazione degli equilibri costituzionalmente imposti sulla strutturazione della responsabilità penale. (Precedenti: S. 56/2025 - mass. 47776; S. 201/2023 - mass. 45852; S. 188/2023 - mass. 45841; S. 141/2023 – mass. 45820; S. 94/2023 – mass. 45533; S. 143/2021 – mass. 44024; S. 55/2021 - mass. 43738; S. 73/2020 - mass. 43274; S. 205/2017 - mass. 39668; S. 74/2016 - mass. 38813; S. 106/2014 - mass. 37900; S. 105/2014 - mass. 37899; S. 251/2012 - mass. 36711).La centralità del fatto oggettivo rispetto alla qualità soggettiva del colpevole, nella prospettiva di un “diritto penale del fatto”, conduce a escludere che aspetti relativi alla maggiore colpevolezza o pericolosità dell’agente possano assumere, nel processo di individualizzazione della pena, una rilevanza tale da renderli nel giudizio di comparazione prevalenti rispetto al fatto oggettivo: pertanto, la recidiva reiterata, riflettendo i due citati aspetti della colpevolezza o pericolosità dell’agente e operando su un piano strettamente soggettivo, non può assumere un rilievo comparativamente prevalente rispetto al fatto oggettivo. (Precedenti: S. 56/2025; S. 141/2023 - mass. 45820; S. 143/2021 - mass. 44024; S. 205/2017 - mass. 39666; S. 251/2012 - mass. 36711).(Nel caso di specie, è dichiarato costituzionalmente illegittimo, per violazione degli artt. 3, primo comma, e 27, primo e terzo comma, Cost., l’art. 69, quarto comma, cod. pen., nella parte in cui prevede il divieto di prevalenza della circostanza attenuante del fatto di lieve entità, introdotta con sentenza n. 86 del 2024 in relazione al delitto di rapina, sulla circostanza aggravante della recidiva reiterata. La disposizione, censurata dai GUP dei Tribunali di Sassari e di Cagliari e della Corte di cassazione, prima sez. pen., vanifica irragionevolmente la funzione di “valvola di sicurezza” che è alla radice della citata addizione; inoltre, impedendo al giudice di applicare una sanzione diversa per situazioni diverse sul piano dell’offensività della condotta, viola anche il principio di eguaglianza. A fronte di una fattispecie astratta connotata da intrinseca variabilità nella manifestazione in concreto degli elementi costitutivi, l’impossibilità per il giudice di ritenere prevalente l’attenuante in parola contraddice anche i principi di individualizzazione della pena, che richiede di tenere conto dell’effettiva entità e delle specifiche esigenze dei singoli casi, e della finalità rieducativa della pena, che deve orientare sia le scelte del legislatore nell’individuazione del trattamento sanzionatorio, sia le decisioni dei giudici che determinano la pena da irrogare in concreto; né risulta compatibile, infine, con il principio di proporzionalità della pena, idonea a tendere alla rieducazione del condannato, implicando lo stesso un costante principio di proporzione tra qualità e quantità della sanzione e offesa). (Precedenti: S. 83/2025 - mass. 46778; S. 86/2024 - mass. 46164; S. 120/2023 - mass. 45597; S. 244/2022 - mass. 45210; S. 143/2021 - mass. 44024; S. 185/2015 - mass. 38529; S. 68/2012 - mass. 36174).
+
+## Norme
+
+- codice penale, art. 69, comma 4
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 27, comma 1
+- Costituzione, art. 27, comma 3
