@@ -1,0 +1,28 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/056 presentata da DORI DEVIS (ALLEANZA VERDI E SINISTRA) in data 23/07/2025
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.6/056
+- Data: 20250723
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/056 presentata da DORI DEVIS (ALLEANZA VERDI E SINISTRA) in data 23/07/2025
+- Presentatore: DORI DEVIS (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: BONELLI ANGELO (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: BORRELLI FRANCESCO EMILIO (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: FRATOIANNI NICOLA (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: GHIRRA FRANCESCA (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: GRIMALDI MARCO (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: MARI FRANCESCO (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: PICCOLOTTI ELISABETTA (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: ZANELLA LUANA (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: ZARATTI FILIBERTO (ALLEANZA VERDI E SINISTRA)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1251
+- Argomento: http://eurovoc.europa.eu/2598
+- Argomento: http://eurovoc.europa.eu/3580
+- Argomento: http://eurovoc.europa.eu/41
+- Argomento: http://eurovoc.europa.eu/701
+- Argomento: http://eurovoc.europa.eu/893
+- Argomento: http://eurovoc.europa.eu/971
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.6/056
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.6_056_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
