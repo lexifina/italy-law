@@ -1,0 +1,21 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/009 presentata da VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA) in data 23/07/2025
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.6/009
+- Data: 20250723
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/009 presentata da VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA) in data 23/07/2025
+- Presentatore: VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Cofirmatario: DE MARIA ANDREA (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1558
+- Argomento: http://eurovoc.europa.eu/2246
+- Argomento: http://eurovoc.europa.eu/2852
+- Argomento: http://eurovoc.europa.eu/3030
+- Argomento: http://eurovoc.europa.eu/3587
+- Argomento: http://eurovoc.europa.eu/4415
+- Argomento: http://eurovoc.europa.eu/494
+- Argomento: http://eurovoc.europa.eu/5139
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.6/009
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.6_009_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
