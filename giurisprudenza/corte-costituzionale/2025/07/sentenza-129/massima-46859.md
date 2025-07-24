@@ -1,0 +1,21 @@
+# Massima n. 46859
+
+- Pronuncia: Corte costituzionale, sentenza 129/2025 (ECLI:IT:COST:2025:129)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:129
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Straniero - In genere - Espulsione a titolo di sanzione alternativa alla detenzione - Straniero per cui sia pendente altro procedimento penale e verso cui non sia stato ancora emesso il provvedimento che dispone il giudizio - Conseguente sentenza di non luogo a procedere, quale conseguenza dell'intervenuto allontanamento dell'imputato dal territorio italiano, come previsto per l'espulsione amministrativa - Omessa previsione - Denunciata violazione dei principi di uguaglianza e di ragionevolezza - Insussistenza - Non fondatezza della questione. (Classif. 245001).
+
+## Testo
+
+È dichiarata non fondata la questione di legittimità costituzionale, sollevata dal GUP del Tribunale di Pesaro in riferimento all’art. 3 Cost., dell’art. 16, comma 7, del d.lgs. n. 286 del 1998, concernente le modalità di esecuzione dell’espulsione alternativa alla detenzione, nella parte in cui non prevede che, ove sia pendente altro procedimento penale a carico dello straniero espulso e non sia stato ancora emesso il provvedimento che dispone il giudizio, il giudice penale emetta sentenza di non luogo a procedere, quale conseguenza dell’intervenuto allontanamento dell’imputato dal territorio italiano. È, infatti, giustificata la scelta del legislatore che ha deciso di limitare l’ambito di applicazione della condizione atipica di improcedibilità, di cui all’art. 13, comma 3-quater, t.u. immigrazione, ai soli casi in cui lo straniero irregolare sia stato allontanato dal territorio italiano a seguito dell’espulsione amministrativa ordinaria disposta ai sensi dell’art. 13, comma 2, del medesimo t. u., senza estenderla all’ipotesi in cui egli sia stato allontanato a seguito dell’espulsione alternativa alla detenzione. Pur essendo accomunati dalla medesima natura amministrativa, i due istituti espulsivi non sono completamente sovrapponibili, presentando rilevanti aspetti di diversità, che riguardano in particolare tre profili: i) quanto agli effetti, perché l’espulsione alternativa alla detenzione comporta anche la sospensione dell’esecuzione della pena detentiva in carcere e, per questo motivo, deve essere adottata dal magistrato di sorveglianza e non dal prefetto; ii) quanto ai destinatari, perché l’espulsione alternativa alla detenzione opera solo per gli stranieri ristretti in carcere per l’espiazione di una pena, all’esito di una sentenza definitiva di condanna, anche residua, non superiore a due anni; iii) quanto al perimetro applicativo della condizione di improcedibilità prevista dall’art. 13, comma 3-quater, t.u. immigrazione, poiché la sentenza di non luogo a procedere, ivi disciplinata, si pone quale segmento conclusivo del procedimento penale eventualmente pendente per il medesimo fatto in relazione al quale sia stata disposta ed eseguita l’espulsione, ma tale sequenza procedimentale non può evidentemente verificarsi ove lo straniero sia destinatario della espulsione alternativa alla detenzione, che interviene quando il processo penale è già concluso in via definitiva e lo straniero si trova nella fase di espiazione della pena. Una pronuncia additiva, nei termini indicati dal giudice a quo, estenderebbe l’applicazione della suddetta condizione di improcedibilità a procedimenti penali per reati diversi da quelli per i quali il provvedimento espulsivo è stato disposto ed eseguito, con il rischio di giungere al risultato irragionevole di beneficiare lo straniero espulso per qualsiasi fatto di reato, anche particolarmente grave, precedentemente commesso, risultando al contrario non irragionevole che, ove l’espulsione sia intervenuta nei confronti di uno straniero già condannato in via definitiva alla pena della reclusione in carcere, il legislatore abbia ritenuto prevalente l’esigenza di punire gli ulteriori reati da questi commessi nel territorio dello Stato. (Precedenti: S. 73/2025 - mass. 46799; S. 270/2019 - mass. 41778).
+
+## Norme
+
+- decreto legislativo, 25/07/1998 n. 286, art. 16, comma 7
+
+## Parametri
+
+- Costituzione, art. 3
