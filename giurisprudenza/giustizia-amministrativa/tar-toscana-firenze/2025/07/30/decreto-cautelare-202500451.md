@@ -1,0 +1,19 @@
+# TAR TOSCANA - FIRENZE, decreto cautelare n. 451/2025
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR TOSCANA - FIRENZE
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202500451
+- Numero di ricorso (NRG): 202502148
+- Data di pubblicazione: 2025-07-30
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-07-24
+- Oggetto del ricorso: ORDINANZA N 42 DEL 20.06.2025 DEL COMUNE DI MONTIGNOSO RECANTE LA CHIUSURA DELLE ATTIVITA' UBICATE IN LOC. CINQUALE IN PIAZZA DE ANDRE' DAL 27/06/ 2025 AL 15/09/2025
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-toscana-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/7cf6c1b9-ed0b-4b4e-85c8-948d197fa82a/resource/503ce791-34ad-4626-800b-024420737888/download/tar-toscana-decreti-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
