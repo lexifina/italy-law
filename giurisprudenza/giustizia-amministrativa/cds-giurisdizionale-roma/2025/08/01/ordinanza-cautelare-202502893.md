@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 2893/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VII
+- Numero provvedimento: 202502893
+- Numero di ricorso (NRG): 202505893
+- Data di pubblicazione: 2025-08-01
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-07-16
+- Oggetto del ricorso: CONCORSO PER TITOLI ED ESAMI, SU BASE REGIONALE, PER L’ACCESSO AI RUOLI, SU POSTO COMUNE E DI SOSTEGNO, DEL PERSONALE DOCENTE DELLA SCUOLA SECONDARIA DI PRIMO E DI SECONDO GRADO, FINALIZZATO ALLA COPERTURA DEI POSTI VACANTI NELL’ANNO SCOLASTICO 2023/2024 - GRADUATORIA PER LA CLASSE DI CONCORSO “B021- LABORATORI DI SERVIZI ENOGASTRONOMICI, SETTORE SALA E VENDITA” - REGIONE TOSCANA - FONDI PNRR - MCP
+- Tipo di ricorso: APPELLO AVV. SENTENZA NEL RITO ABBREVIATO ex art.119 c.p.a.
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/e96a4b33-37d4-4293-b6ba-363878396163/download/cds-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
