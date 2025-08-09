@@ -1,0 +1,5 @@
+Allegato IV
+
+Tabella N del D.P.R. 30 agosto 1951, n. 757
+
+Parte di provvedimento in formato grafico
