@@ -16,7 +16,9 @@ L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si pro
 
 4) per i delitti, consumati o tentati, previsti dall'articolo 19, quinto comma, della legge 22 maggio 1978, n. 194, dall'articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli articoli 184 e 185 del decreto legislativo 24 febbraio 1998, n. 58;
 
-((4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della legge 22 aprile 1941 n. 633, salvo che per i delitti di cui all'articolo 171 della medesima legge)).
+4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della legge 22 aprile 1941 n. 633, salvo che per i delitti di cui all'articolo 171 della medesima legge.
+
+4-ter) ((per i delitti consumati o tentati previsti dagli articoli 255-ter, 256, commi 1-bis, 3 e 3-bis, 256-bis, e 259 del decreto legislativo 3 aprile 2006, n. 152.))
 
 Il comportamento e' abituale nel caso in cui l'autore sia stato dichiarato delinquente abituale, professionale o per tendenza ovvero abbia commesso piu' reati della stessa indole, anche se ciascun fatto, isolatamente considerato, sia di particolare tenuita', nonche' nel caso in cui si tratti di reati che abbiano ad oggetto condotte plurime, abituali e reiterate.
 
