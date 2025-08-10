@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 9 febbraio 2017
+
+MATTARELLA Gentiloni Silveri, Presidente del Consiglio dei ministri Padoan, Ministro dell'economia e delle finanze Minniti, Ministro dell'interno Calenda, Ministro dello sviluppo economico Delrio, Ministro delle infrastrutture e dei trasporti Poletti, Ministro del lavoro e delle politiche sociali Martina, Ministro delle politiche agricole alimentari e forestali Galletti, Ministro dell'ambiente e della tutela del territorio e del mare Orlando, Ministro della giustizia Franceschini, Ministro dei beni e delle attivita' culturali e del turismo Madia, Ministro per la semplificazione e la pubblica amministrazione Costa, Ministro per gli affari regionali Fedeli, Ministro dell'istruzione, dell'universita' e della ricerca Visto, il Guardasigilli: Orlando
