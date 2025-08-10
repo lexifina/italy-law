@@ -4,9 +4,9 @@ Art. 2435-ter.
 
 Sono considerate micro-imprese le societa' di cui all'articolo 2435-bis che nel primo esercizio o, successivamente, per due esercizi consecutivi, non abbiano superato due dei seguenti limiti:
 
-1) totale dell'attivo dello stato patrimoniale: ((220.000)) euro; ((335))
+1) totale dell'attivo dello stato patrimoniale: 220.000 euro; (335) ((340))
 
-2) ricavi delle vendite e delle prestazioni: ((440.000)) euro; ((335))
+2) ricavi delle vendite e delle prestazioni: 440.000 euro; (335) ((340))
 
 3) dipendenti occupati in media durante l'esercizio: 5 unita'.
 
@@ -59,6 +59,26 @@ b) per gli esercizi aventi inizio il 1° gennaio 2025 o in data successiva:
 c) per gli esercizi aventi inizio il 1° gennaio 2026 o in data successiva:
 
 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese, fermo restando quanto previsto dall'articolo 3, comma 10;
+
+2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese;
+
+3) alle imprese di assicurazione captive, definite all'articolo 13, punto 2), della direttiva 2009/138/CE del Parlamento europeo e del Consiglio, del 25 novembre 2009, e alle imprese di riassicurazione captive di cui all'articolo 13, punto 5), della citata direttiva, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese".
+
+-------------
+
+AGGIORNAMENTO (340)
+
+Il D.Lgs. 6 settembre 2024, n. 125, come modificato dal D.L. 30 giugno 2025, n. 95, convertito con modificazioni dalla L. 8 agosto 2025, n. 118, ha disposto (con l'art. 17, comma 1, lettere b) e c)) che "Salvo quanto previsto ai commi 2 e 3, le disposizioni del presente decreto si applicano:
+
+[...]
+
+b) per gli esercizi aventi inizio il 1° gennaio 2027 o in data successiva:
+
+1) alle imprese di grandi dimensioni diverse da quelle di cui al comma 1, lettera a), numero 1);
+
+2) alle societa' madri diverse da quelle di cui al comma 1, lettera a), numero 2);
+
+c) per gli esercizi aventi inizio il 1° gennaio 2028 o in data successiva: 1) alle piccole e medie imprese quotate, a eccezione delle micro-imprese;
 
 2) agli enti piccoli e non complessi, di cui all'articolo 4, paragrafo 1, punto 145), del regolamento (UE) n. 575/2013 del Parlamento europeo e del Consiglio, del 26 giugno 2013, purche' si tratti di imprese di grandi dimensioni o di piccole e medie imprese quotate e che non sono micro-imprese;
 
