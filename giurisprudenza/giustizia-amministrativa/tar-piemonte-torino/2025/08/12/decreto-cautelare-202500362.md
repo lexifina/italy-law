@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, decreto cautelare n. 362/2025
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202500362
+- Numero di ricorso (NRG): 202501961
+- Data di pubblicazione: 2025-08-12
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-08-11
+- Oggetto del ricorso: DEL DECRETO 8 LUGLIO 2025 PROT. 12353 DELL’UFFICIO SCOLASTICO REGIONALE PER IL PIEMONTE, CHE HA DISPOSTO CHE “IL RICONOSCIMENTO DELLA PARITÀ SCOLASTICA ALLA SCUOLA SECONDARIAI II GRADO...È REVOCATO, PER GRAVI IRREGOLARITÀ DI FUNZIONAMENTO ACCERTATE AI SENSI DELL’ART 5 DEL D.M. 83/2008, A DECORRERE DAL 01/09/2025, A.S. 2025/2026”
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/0d2dfd69-3ce9-42bb-9aec-e9ed46fdfa13/resource/747d550f-ee14-4fac-a813-091abfa19b5c/download/tar-piemonte-decreti-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
