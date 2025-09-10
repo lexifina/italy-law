@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 406/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202500406
+- Numero di ricorso (NRG): 202501643
+- Data di pubblicazione: 2025-09-10
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-07-17
+- Oggetto del ricorso: COMUNICAZIONI 22.5.2025 E 10.6.2025 (E GRADUATORIE IVI ALLEGATE) DELLA COMMISSIONE DI GARA PER L'AGGIUDICAZIONE DELL'APPALTO DEI LAVORI DI “RIPRISTINO CORRIDOIO ECOLOGICO TORRENTE ORCO”, PROGETTO 2023/731 - TO06 PNRR MISSIONE 2- COMPONENTE 4 - INVESTIMENTO 3.1 “TUTELA E VALORIZZAZIONE DEL VERDE URBANO ED EXTRAURBANO”, ANNUALITÀ 2023-2024 (C.I.G. B64F452A0A), ALL'ESITO DEI QUALI LA CONTROINTERESSATA È RISULTATA PRIMA IN GRADUATORIA;
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/8ed35f81-1f7a-4e28-a7d9-595a23690e55/download/tar-piemonte-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
