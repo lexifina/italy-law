@@ -1,0 +1,19 @@
+# TAR CAMPANIA - SALERNO, ordinanza cautelare n. 350/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - SALERNO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202500350
+- Numero di ricorso (NRG): 202501241
+- Data di pubblicazione: 2025-09-11
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-07-31
+- Oggetto del ricorso: VERBALE DI SCRUTINIO FINALE DEL CONSIGLIO DI CLASSE DEL 13 GIUGNO 2025 E RELATIVI ALLEGATI RIFERITO ALL'ANNO SCOLASTICO 2024/2025 ATTESTANTE LA NON AMMISSIONE DEL RICORRENTE ALLA FREQUENZA DELLA CLASSE SUCCESSIVA PRESSO L’ISTITUTO PROFESSIONALE SERVIZI PER L'AGRICOLTURA E LO SVILUPPO RURALEPROFAGRISALERNO - SA, SEDE DI FISCIANO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-salerno-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/90e6d61e-2310-45d0-bebb-3dedc0fd6f57/resource/cc7371e2-82be-468f-b555-daa7a5b5a10d/download/tar-campania-salerno-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
