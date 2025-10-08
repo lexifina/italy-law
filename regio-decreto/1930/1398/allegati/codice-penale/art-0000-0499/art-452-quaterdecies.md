@@ -6,7 +6,7 @@ Chiunque, al fine di conseguire un ingiusto profitto, con piu' operazioni e attr
 
 Se si tratta di rifiuti ad alta radioattivita' si applica la pena della reclusione da tre a otto anni.
 
-((Le pene previste dai commi che precedono sono aumentate fino alla meta', quando:
+Le pene previste dai commi che precedono sono aumentate fino alla meta' ((...)) quando:
 
 a) dal fatto deriva pericolo per la vita o per la incolumita' delle persone ovvero pericolo di compromissione o deterioramento:
 
@@ -14,7 +14,7 @@ a) dal fatto deriva pericolo per la vita o per la incolumita' delle persone ovve
 
 2) di un ecosistema, della biodiversita', anche agraria, della flora o della fauna;
 
-b) il fatto e' commesso in siti contaminati o potenzialmente contaminati ai sensi dell'articolo 240 o comunque sulle strade di accesso ai predetti siti e relative pertinenze.))
+b) il fatto e' commesso in siti contaminati o potenzialmente contaminati ai sensi dell'articolo 240 ((del decreto legislativo 3 aprile 2006, n. 152,)) o comunque sulle strade di accesso ai predetti siti e relative pertinenze.
 
 Alla condanna conseguono le pene accessorie di cui agli articoli 28, 30, 32-bis e 32-ter, con la limitazione di cui all'articolo 33.
 
