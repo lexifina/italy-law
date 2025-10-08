@@ -2,7 +2,7 @@ Art. 445-bis
 
 (Accertamento tecnico preventivo obbligatorio).
 
-Nelle controversie in materia di invalidita' civile, cecita' civile, sordita' civile, handicap e disabilita', nonche' di pensione di inabilita' e di assegno di invalidita', disciplinati dalla legge 12 giugno 1984, n. 222, chi intende proporre in giudizio domanda per il riconoscimento dei propri diritti presenta con ricorso al giudice competente ai sensi dell'articolo 442 ((...)), presso il Tribunale nel cui circondario risiede l'attore, istanza di accertamento tecnico per la verifica preventiva delle condizioni sanitarie legittimanti la pretesa fatta valere. Il giudice procede a norma dell'articolo 696 - bis ((...)), in quanto compatibile nonche' secondo le previsioni inerenti all'accertamento peritale di cui all'articolo 10, comma 6-bis, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, e all'articolo 195.
+Nelle controversie in materia di invalidita' civile, cecita' civile, sordita' civile, handicap e disabilita', nonche' di pensione di inabilita' e di assegno di invalidita', disciplinati dalla legge 12 giugno 1984, n. 222, chi intende proporre in giudizio domanda per il riconoscimento dei propri diritti presenta con ricorso al giudice competente ai sensi dell'articolo 442, presso il Tribunale nel cui circondario risiede l'attore, istanza di accertamento tecnico per la verifica preventiva delle condizioni sanitarie legittimanti la pretesa fatta valere. Il giudice procede a norma dell'articolo 696 - bis, in quanto compatibile nonche' secondo le previsioni inerenti all'accertamento peritale di cui all'articolo 10, comma 6-bis, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, e all'articolo 195.
 
 L'espletamento dell'accertamento tecnico preventivo costituisce condizione di procedibilita' della domanda di cui al primo comma.
 
@@ -10,9 +10,7 @@ L'improcedibilita' deve essere eccepita dal convenuto a pena di decadenza o rile
 
 La richiesta di espletamento dell'accertamento tecnico interrompe la prescrizione.
 
-((Il conferimento dell'incarico al consulente o, se successivo, il giuramento di quest'ultimo, determina la sospensione del procedimento fino alla scadenza del termine previsto dal quarto periodo. La sospensione non impedisce l'espletamento della consulenza. Il deposito della consulenza tecnica di ufficio e' comunicato dalla cancelleria alle parti. Queste ultime, entro il termine perentorio di trenta giorni dalla comunicazione, se intendono contestare le conclusioni del consulente tecnico dell'ufficio, devono depositare la relativa dichiarazione.))
-
-((179))
+Il conferimento dell'incarico al consulente o, se successivo, il giuramento di ((quest'ultimo determina)) la sospensione del procedimento fino alla scadenza del termine previsto dal quarto periodo. La sospensione non impedisce l'espletamento della consulenza. Il deposito della consulenza tecnica di ufficio e' comunicato dalla cancelleria alle parti. Queste ultime, entro il termine perentorio di trenta giorni dalla comunicazione, se intendono contestare le conclusioni del consulente tecnico dell'ufficio, devono depositare la relativa dichiarazione. ((179))
 
 In assenza di contestazione, il giudice, se non procede ai sensi dell'articolo 196, con decreto pronunciato fuori udienza entro trenta giorni dalla scadenza del termine previsto dal comma precedente omologa l'accertamento del requisito sanitario secondo le risultanze probatorie indicate nella relazione del consulente tecnico dell'ufficio provvedendo sulle spese. Il decreto, non impugnabile ne' modificabile, e' notificato agli enti competenti, che provvedono, subordinatamente alla verifica di tutti gli ulteriori requisiti previsti dalla normativa vigente, al pagamento delle relative prestazioni, entro 120 giorni.
 
@@ -30,4 +28,4 @@ La L. 12 novembre 2011, n. 183 ha disposto (con l'art. 27, comma 2) che la prese
 
 AGGIORNAMENTO (179)
 
-Il D.L. 8 agosto 2025, n. 117 ha disposto (con l'art. 7, comma 2) che "Le modifiche di cui al comma 1, lettera b), si applicano anche ai procedimenti pendenti nei quali, alla data di entrata in vigore della presente disposizione, non e' stato ancora conferito l'incarico al consulente tecnico di ufficio".
+Il D.L. 8 agosto 2025, n. 117, convertito con modificazioni dalla L. 3 ottobre 2025, n. 148, ha disposto (con l'art. 7, comma 2) che "Le modifiche di cui al comma 1, lettera b), si applicano anche ai procedimenti pendenti nei quali, alla data di entrata in vigore del presente decreto, non e' stato ancora conferito l'incarico al consulente tecnico di ufficio".
