@@ -1,0 +1,19 @@
+# TAR CALABRIA - CATANZARO, sentenza breve n. 1607/2025
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR CALABRIA - CATANZARO
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202501607
+- Numero di ricorso (NRG): 202501069
+- Data di pubblicazione: 2025-10-09
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA DIFETTO DI GIURISDIZIONE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2025-07-31
+- Oggetto del ricorso: DEL DECRETO DIRIGENZIALE N.8991 DEL 23/06/2025 NOTIFICATO IN DATA 23/06/2025 A MEZZO P.E.C., AVENTE AD OGGETTO ORDINE ED INGIUNZIONE DI PAGAMENTO POR CALABRIA FESRFSE 2014-2020. AVVISO PUBBLICO AZIONE 3.3.4" SOSTEGNO ALLA COMPETITIVITÀ DELLE IMPRESE NELLE DESTINAZIONI TURISTICHE" APPROVATO CON DDG N .9833 DEL 07/09/2017
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-calabria-catanzaro-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/38c6fc6a-3756-442b-b236-84ddeafac4df/resource/f4f540eb-8d44-44a6-ba51-0bff603df8f5/download/tar-calabria-catanzaro-sentenze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
