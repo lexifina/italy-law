@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, sentenza breve n. 1402/2025
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202501402
+- Numero di ricorso (NRG): 202502121
+- Data di pubblicazione: 2025-10-10
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2025-09-09
+- Oggetto del ricorso: DECRETO DEL QUESTORE DELLA PROVINCIA DI ALESSANDRIA PROT. N. 0021724 DEL 10.07.2025 NOTIFICATO AL RICORRENTE IN DATA 11.07.2025, AVENTE AD OGGETTO LA REVOCA DELLA LICENZA DI PORTO DI FUCILE USO CACCIA NR. 199841-Q RILASCIATA DALLA QUESTURA DI ALESSANDRIA IN DATA 24.08.2023.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/654e8b30-85ce-49a4-a15b-86efd960abf2/resource/ce605a63-6668-4cf5-b4f2-bd444a0db9d6/download/tar-piemonte-sentenze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
