@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza cautelare n. 5531/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202505531
+- Numero di ricorso (NRG): 202510068
+- Data di pubblicazione: 2025-10-10
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA IMPROCEDIBILE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-09-09
+- Oggetto del ricorso: ANNULLAMENTO DEL REGOLAMENTO ENAC PER LA “CERTIFICAZIONE DEI PRESTATORI DI SERVIZI AEROPORTUALI DI ASSISTENZA A TERRA”, EDIZIONE N. 8 – REVISIONE 2, ADOTTATO CON DELIBERA DEL CDA DEL 12.5.2025 - ACCESSO AI DOCUMENTI
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/de6cf1fe-992b-46bd-9f27-56d26a5f7da3/download/tar-lazio-roma-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
