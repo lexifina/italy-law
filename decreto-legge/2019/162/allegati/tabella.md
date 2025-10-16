@@ -1,0 +1,9 @@
+(( Allegato 1
+
+(articolo 39, comma 14-novies)
+
+"Tabella 1
+
+(articolo 1, comma 134) ))
+
+((Parte di provvedimento in formato grafico))
