@@ -1,0 +1,23 @@
+# Massima n. 46983
+
+- Pronuncia: Corte costituzionale, sentenza 154/2025 (ECLI:IT:COST:2025:154)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:154
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Reati e pene - In genere - Guida senza patente - Trattamento sanzionatorio residuale a seguito di depenalizzazione - Rilevanza penale della recidiva nel biennio della guida senza patente - Denunciata disparità di trattamento, violazione del principio di offensività del reato e del principio della funzione rieducativa della pena, nonché dei principi e criteri direttivi della legge di delega - Insussistenza - Non fondatezza delle questioni. (Classif. 210001).
+
+## Testo
+
+Il principio di offensività del reato, desumibile dall’art. 25, secondo comma, Cost., osta alla previsione di fattispecie penali che abbiano come presupposto una qualità della persona non connessa alla condotta, come pure a disposizioni che stabiliscano trattamenti penali più severi fondati su qualità personali derivanti dal precedente compimento di atti del tutto estranei al fatto-reato. (Precedenti: S. 116/2024 - mass. 46303; S. 249/2010 - mass. 34820).La ragione atta a giustificare gli aumenti di pena previsti dall’art. 99 cod. pen. per i vari casi di recidiva sta non solo nella più elevata pericolosità del reo attestata dai suoi trascorsi criminali, ma anche nel maggior grado di colpevolezza ravvisabile in capo a chi non rinuncia alla commissione di nuovi reati, pur essendo già stato destinatario di un ammonimento individualizzato sul proprio dovere di rispettare la legge penale, indirizzatogli con le precedenti condanne. Maggior grado di colpevolezza che a sua volta si traduce in una più elevata gravità (soggettiva) del reato. (Precedente: S. 73/2020 - mass. 43274).Il divieto di prevalenza delle circostanze attenuanti sulla recidiva reiterata stabilito dall’art. 69, quarto comma, cod. pen. pone l’accento sull’esigenza di mantenere un conveniente rapporto di equilibrio tra la gravità (oggettiva e soggettiva) del singolo fatto di reato e la severità della risposta sanzionatoria, evitando in particolare l’abnorme enfatizzazione delle componenti soggettive riconducibili alla recidiva reiterata, a detrimento delle componenti oggettive del reato. (Precedenti: S. 188/2023 - mass. 45841; S. 141/2023 - mass. 45820; S. 94/2023 - mass. 45533; S. 205/2017 - mass. 39668; S. 106/2014 - mass. 37900; S. 105/2014 - mass. 37899; S. 251/2012 - mass. 36711; S. 249/2010 - mass. 34820; S. 192/2007 - mass. 31375).(Nel caso di specie, sono dichiarate non fondate le questioni di legittimità costituzionale, sollevate dal Tribunale di Firenze, prima sez. penale, in composizione monocratica, in riferimento agli artt. 3, 25, secondo comma, e 27, terzo comma, Cost., dell’art. 116, comma 15, cod. strada, nella parte in cui, dopo la depenalizzazione della fattispecie base del reato ivi previsto per effetto del d.lgs. n. 8 del 2016, continua ad attribuire rilievo penale alla guida senza patente nel caso di recidiva nel biennio, precedentemente configurata come ipotesi aggravata del reato stesso. La recidiva, per assumere rilievo agli effetti dell’art. 116, comma 15, secondo periodo, cod. strada, deve manifestarsi entro un arco temporale assai circoscritto: non si può ritenere, dunque, che tale accertamento assuma le fattezze di un marchio, perché decorso il biennio senza che il soggetto abbia reiterato la violazione, egli torna a porsi nella medesima condizione della generalità dei consociati. Né appare riscontrabile il fenomeno di abnorme sopravvalutazione delle componenti soggettive dell’illecito. La guida senza patente, infatti, rappresenta comunque un illecito di significativo disvalore nel quadro di quelli contemplati dal codice della strada, né la conclusione appare inficiata dal rilievo che la recidiva prevista dall’art. 116, comma 15, cod. strada, diversamente da quella contemplata dall’art. 99 cod. pen., non abbia carattere facoltativo, considerato il fatto che i due principali elementi sui quali tale verifica deve basarsi – la natura e il tempo di commissione dei fatti precedenti – formano nella specie oggetto di tipizzazione normativa). (Precedenti: S. 211/2022 - mass. 45138; S. 185/2015 - mass. 38529; S. 225/2008 - mass. 32643; S. 354/2002; S. 370/1996; S. 14/1971; S. 110/1968).
+
+## Norme
+
+- codice della strada (d.lgs. 30.4.1992, n. 285), 30/04/1992 n. 285, art. 116, comma 15
+
+## Parametri
+
+- Costituzione, art. 3
+- Costituzione, art. 25, comma 2
+- Costituzione, art. 27, comma 3
