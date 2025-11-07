@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 6218/2025
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE PRIMA TER
+- Numero provvedimento: 202506218
+- Numero di ricorso (NRG): 202406161
+- Data di pubblicazione: 2025-11-07
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-06-05
+- Oggetto del ricorso: PROVVEDIMENTO PREFETTIZIO N. U1Z938628N-RESTITUZIONE PATENTE MA OBBLIGO DI ACCERTAMENTI SANITARI IN VIOLAZIONE DELL'ORDINANZA DEL TRIBUNALE DI ROMA R.G.N. 52406/2023
+- Tipo di ricorso: DOMANDA DI ACCERTAMENTO NULLITA' (ex art.31 co.4 c.p.a)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/5612ba46-205a-4263-be1c-d30f0021da8a/download/tar-lazio-roma-decreti-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
