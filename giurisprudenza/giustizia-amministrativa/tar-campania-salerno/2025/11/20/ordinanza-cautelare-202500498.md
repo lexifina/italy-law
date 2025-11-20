@@ -1,0 +1,19 @@
+# TAR CAMPANIA - SALERNO, ordinanza cautelare n. 498/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - SALERNO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202500498
+- Numero di ricorso (NRG): 202501758
+- Data di pubblicazione: 2025-11-20
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-11-03
+- Oggetto del ricorso: PROVVEDIMENTO PROT. N. 44312 DEL 30.7.2025, NOTIFICATO A MEZZO PEC IN PARI DATA, CON IL QUALE L’AGENZIA DELLE ENTRATE – DIREZIONE REGIONALE DELLA CAMPANIA – SETTORE SERVIZI – UFFICIO SERVIZI FISCALI HA DISPOSTO NEI CONFRONTI DEL RICORRENTE “LA SOSPENSIONE PER UN PERIODO DI DUE ANNI DALL’ISCRIZIONE NELL’ELENCO INFORMATIZZATO DEI SOGGETTI LEGITTIMATI AL RILASCIO DEL VISTO DI CONFORMITÀ E DELL’ASSEVERAZIONE DELLE DICHIARAZIONI FISCALI DI CUI ALL’ART 35 DEL D.LGS. 9 LUGLIO 1997, N. 241”
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-salerno-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/90e6d61e-2310-45d0-bebb-3dedc0fd6f57/resource/cc7371e2-82be-468f-b555-daa7a5b5a10d/download/tar-campania-salerno-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
