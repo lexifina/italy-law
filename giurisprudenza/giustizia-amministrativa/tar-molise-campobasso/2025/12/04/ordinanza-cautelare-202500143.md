@@ -1,0 +1,19 @@
+# TAR MOLISE - CAMPOBASSO, ordinanza cautelare n. 143/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR MOLISE - CAMPOBASSO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202500143
+- Numero di ricorso (NRG): 202500355
+- Data di pubblicazione: 2025-12-04
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-11-04
+- Oggetto del ricorso: DECRETO DEL PREFETTO DELLA PROVINCIA DI ISERNIA PROT. 32290 DEL 6.8.2025 CON CUI È STATO DISPOSTO IL DIVIETO, IN VIA DEFINITIVA, DI DETENERE ARMI, MUNIZIONI E MATERIE ESPLODENTI;
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-molise-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/af160744-c413-4ae0-b2c2-75254b1ada7b/resource/8cf518c3-7b9b-4280-b55b-4f8ef3248f06/download/tar-molise-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
