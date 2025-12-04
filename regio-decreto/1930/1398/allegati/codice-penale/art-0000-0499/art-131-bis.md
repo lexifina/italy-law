@@ -18,7 +18,7 @@ L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si pro
 
 4-bis) per i delitti previsti dalla sezione II del capo III del titolo III della legge 22 aprile 1941 n. 633, salvo che per i delitti di cui all'articolo 171 della medesima legge.
 
-4-ter) per i delitti consumati o tentati previsti dagli articoli 255-ter, 256, commi 1-bis, 3 e 3-bis, 256-bis ((...)) e 259 del decreto legislativo 3 aprile 2006, n. 152.
+4-ter) per i delitti consumati o tentati previsti dagli articoli 255-ter, 256, commi 1-bis, 3 e 3-bis, 256-bis e 259 del decreto legislativo 3 aprile 2006, n. 152. ((384))
 
 Il comportamento e' abituale nel caso in cui l'autore sia stato dichiarato delinquente abituale, professionale o per tendenza ovvero abbia commesso piu' reati della stessa indole, anche se ciascun fatto, isolatamente considerato, sia di particolare tenuita', nonche' nel caso in cui si tratti di reati che abbiano ad oggetto condotte plurime, abituali e reiterate.
 
@@ -33,3 +33,9 @@ La disposizione del primo comma si applica anche quando la legge prevede la part
 AGGIORNAMENTO (306)
 
 La Corte Costituzionale con sentenza 25 giugno - 21 luglio 2020, n. 156 (in G.U. 1ª s.s. 22/07/2020, n. 30), ha dichiarato "l'illegittimita' costituzionale dell'art. 131-bis del codice penale, inserito dall'art. 1, comma 2, del decreto legislativo 16 marzo 2015, n. 28, recante «Disposizioni in materia di non punibilita' per particolare tenuita' del fatto, a norma dell'articolo 1, comma 1, lettera m), della legge 28 aprile 2014, n. 67», nellaparte in cui non consente l'applicazione della causa di non punibilita' per particolare tenuita' del fatto ai reati per i quali non e' previsto un minimo edittale di pena detentiva".
+
+---------------
+
+AGGIORNAMENTO (384)
+
+La Corte Costituzionale con sentenza 20 ottobre - 27 novembre 2025, n. 172 (in G.U. 1ª s.s. 3/12/2025, n. 49), ha dichiarato "l'illegittimita' costituzionale dell'art. 131-bis, terzo comma, del codice penale, nella parte in cui si riferisce agli artt. 336 e 337 dello stesso codice".
