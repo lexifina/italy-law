@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza collegiale n. 9924/2025
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VI
+- Numero provvedimento: 202509924
+- Numero di ricorso (NRG): 202100981
+- Data di pubblicazione: 2025-12-16
+- Udienza: UDIENZA PUBBLICA
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2021-02-05
+- Oggetto del ricorso: DINIEGO NULLA OSTA PER OPERE IMPIANTISTICHE DI RIPARAZIONE E RIPRISTINO MACCHINARI DI IMPIANTO DI PRODUZIONE CEMENTI E ASFALTI SITUATO IN AREA SOTTOPOSTA A VINCOLO AMBIENTALE, PAESAGGISTICO E URBANISTICO E REALIZZATO SENZA TITOLI ABILITATIVI
+- Tipo di ricorso: APPELLO AVVERSO SENTENZA
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/e96a4b33-37d4-4293-b6ba-363878396163/download/cds-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
