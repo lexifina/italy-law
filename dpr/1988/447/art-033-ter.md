@@ -4,7 +4,11 @@ Art. 33-ter.
 
 1.
 
-Sono attribuiti al tribunale in composizione monocratica i delitti previsti dall'articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, sempre che non siano contestate le aggravanti di cui all'articolo 80, (( . . . )), del medesimo testo unico.
+Sono attribuiti al tribunale in composizione monocratica i delitti previsti dall'articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, sempre che non siano contestate le aggravanti di cui all'articolo 80, del medesimo testo unico.
+
+1-bis.
+
+((Sono altresi' attribuiti al tribunale in composizione monocratica i delitti previsti dagli articoli 572, secondo e quinto comma, e 612-ter del codice penale)).
 
 2.
 

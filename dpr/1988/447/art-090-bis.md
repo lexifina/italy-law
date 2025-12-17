@@ -38,6 +38,10 @@ d)
 
 alla facolta' di avvalersi della consulenza legale e del patrocinio a spese dello Stato;
 
+d-bis)
+
+((al diritto di essere avvisata, quando si procede per taluno dei delitti di cui all'articolo 444, comma 1-quater, della presentazione fuori udienza della richiesta di applicazione della pena di cui all'articolo 444 e della facolta' di presentare memorie e deduzioni in relazione alla richiesta medesima nonche' a quella formulata in udienza ai sensi degli articoli 446, comma 2, e 554-ter, comma 2));
+
 e)
 
 alle modalita' di esercizio del diritto all'interpretazione e alla traduzione di atti del procedimento;
@@ -68,7 +72,7 @@ alla possibilita' di chiedere il risarcimento dei danni derivanti da reato;
 
 n)
 
-alla possibilita' che il procedimento sia definito con remissione di querela di cui all'articolo 152 del codice penale, ove possibile ((...));
+alla possibilita' che il procedimento sia definito con remissione di querela di cui all'articolo 152 del codice penale, ove possibile;
 
 n-bis)
 
@@ -80,7 +84,7 @@ alle facolta' ad essa spettanti nei procedimenti in cui l'imputato formula richi
 
 p)
 
-alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza, alle case rifugio e ai servizi di assistenza alle vittime di reato((;))
+alle strutture sanitarie presenti sul territorio, alle case famiglia, ai centri antiviolenza, alle case rifugio e ai servizi di assistenza alle vittime di reato;
 
 p-bis)
 
