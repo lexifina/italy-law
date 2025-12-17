@@ -1,0 +1,61 @@
+Art. 5-bis.
+
+(Azioni per i centri antiviolenza e le case-rifugio).
+
+1.
+
+Al fine di dare attuazione a quanto previsto dall'articolo 5, comma 2, lettera d), del presente decreto, il Fondo per le politiche relative ai diritti e alle pari opportunita', di cui all'articolo 19, comma 3, del decreto-legge 4 luglio 2006, n. 223, convertito, con modificazioni, dalla legge 4 agosto 2006, n. 248, e' incrementato di 10 milioni di euro per l'anno 2013, di 7 milioni di euro per l'anno 2014 e di 10 milioni di euro annui a decorrere dall'anno 2015. Al relativo onere si provvede, quanto a 10 milioni di euro per l'anno 2013, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 61, comma 22, del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, e successive modificazioni, e, quanto a 7 milioni di euro per l'anno 2014 e a 10 milioni di euro annui a decorrere dall'anno 2015, mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, relativa al Fondo per interventi strutturali di politica economica.
+
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.
+
+2.
+
+Il Ministro delegato per le pari opportunita', previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, provvede annualmente a ripartire tra le regioni le risorse di cui al comma 1 tenendo conto:
+
+a)
+
+della programmazione regionale e degli interventi gia' operativi per contrastare la violenza nei confronti delle donne;
+
+b)
+
+del numero dei centri antiviolenza pubblici e privati gia' esistenti in ogni regione;
+
+c)
+
+del numero delle case-rifugio pubbliche e private gia' esistenti in ogni regione;
+
+d)
+
+della necessita' di riequilibrare la presenza dei centri antiviolenza e delle case-rifugio in ogni regione ((...)).
+
+3.
+
+I centri antiviolenza e le case-rifugio, alle quali e' garantito l'anonimato, sono promossi da:
+
+a)
+
+enti locali, in forma singola o associata;
+
+b)
+
+associazioni e organizzazioni operanti nel settore del sostegno e dell'aiuto alle donne vittime di violenza, che abbiano maturato esperienze e competenze specifiche in materia di violenza contro le donne, che utilizzino una metodologia di accoglienza basata sulla relazione tra donne, con personale specificamente formato;
+
+c)
+
+soggetti di cui alle lettere a) e b), di concerto, d'intesa o in forma consorziata.
+
+4.
+
+I centri antiviolenza e le case-rifugio operano in maniera integrata con la rete dei servizi socio-sanitari e assistenziali territoriali, tenendo conto delle necessita' fondamentali per la protezione delle persone che subiscono violenza, anche qualora svolgano funzioni di servizi specialistici.
+
+5.
+
+Indipendentemente dalle metodologie di intervento adottate e dagli specifici profili professionali degli operatori coinvolti, la formazione delle figure professionali dei centri antiviolenza e delle case-rifugio promuove un approccio integrato alle fenomenologie della violenza, al fine di garantire il riconoscimento delle diverse dimensioni della violenza subita dalle persone, a livello relazionale, fisico, psicologico, sociale, culturale ed economico. Fa altresi' parte della formazione degli operatori dei centri antiviolenza e delle case-rifugio il riconoscimento delle dimensioni della violenza riconducibili alle diseguaglianze di genere.
+
+6.
+
+Le regioni destinatarie delle risorse oggetto di riparto presentano al Ministro delegato per le pari opportunita', entro il 30 marzo di ogni anno, una relazione concernente le iniziative adottate nell'anno precedente a valere sulle risorse medesime.
+
+7.
+
+Sulla base delle informazioni fornite dalle regioni, il Ministro delegato per le pari opportunita' presenta alle Camere, entro il 30 giugno di ogni anno, una relazione sullo stato di utilizzo delle risorse stanziate ai sensi del presente articolo.
