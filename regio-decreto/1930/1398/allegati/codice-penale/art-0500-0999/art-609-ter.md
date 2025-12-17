@@ -18,12 +18,14 @@ La pena stabilita dall'articolo 609-bis e' aumentata di un terzo se i fatti ivi 
 
 5-ter) nei confronti di donna in stato di gravidanza;
 
+((5-ter.1) come atto di odio o di discriminazione o di prevaricazione o come atto di controllo o possesso o dominio in quanto donna, o in relazione al rifiuto della donna di instaurare o mantenere un rapporto affettivo o come atto di limitazione delle sue liberta' individuali));
+
 5-quater) nei confronti di persona della quale il colpevole sia il coniuge, anche separato o divorziato, ovvero colui che alla stessa persona e' o e' stato legato da relazione affettiva, anche senza convivenza;
 
 5-quinquies) se il reato e' commesso da persona che fa parte di un'associazione per delinquere e al fine di agevolarne l'attivita';
 
 5-sexies) se il reato e' commesso con violenze gravi o se dal fatto deriva al minore, a causa della reiterazione delle condotte, un pregiudizio grave.
 
-((5-septies) se dal fatto deriva pericolo di vita per il minore)).
+5-septies) se dal fatto deriva pericolo di vita per il minore.
 
 La pena stabilita dall'articolo 609-bis e' aumentata della meta' se i fatti ivi previsti sono commessi nei confronti di persona che non ha compiuto gli anni quattordici. La pena e' raddoppiata se i fatti di cui all'articolo 609-bis sono commessi nei confronti di persona che non ha compiuto gli anni dieci.
