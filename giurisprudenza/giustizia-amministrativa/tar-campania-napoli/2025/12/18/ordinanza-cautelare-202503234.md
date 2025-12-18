@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 3234/2025
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202503234
+- Numero di ricorso (NRG): 202501783
+- Data di pubblicazione: 2025-12-18
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-04-08
+- Oggetto del ricorso: DETERMINAZIONE DEL DIRETTORE GENERALE DI SO.RE.SA S.P.A. N. 86 DEL 14/03/2025, DI ESCLUSIONE E DI AGGIUDICAZIONE DEL LOTTO N. 1 DELLA “PROCEDURA APERTA PER L’AFFIDAMENTO DELLA FORNITURA DI "SISTEMI PER PRELIEVO EMATICO E RACCOLTA DELLE URINE DESTINATI ALLE AZIENDE DEL SSR DELLA REGIONE CAMPANIA”
+- Tipo di ricorso: RITO APPALTI (ex art. 120 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/a4d13e01-7e9e-42a2-92c0-05402eb3ab8f/download/tar-campania-napoli-ordinanze-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
