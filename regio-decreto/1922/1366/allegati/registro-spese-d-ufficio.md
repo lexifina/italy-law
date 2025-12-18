@@ -1,0 +1,3 @@
+Registro spese d'ufficio
+
+Parte di provvedimento in formato grafico
