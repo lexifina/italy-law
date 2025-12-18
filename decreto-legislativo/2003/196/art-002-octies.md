@@ -1,8 +1,6 @@
 Art. 2-octies.
 
-(( (Principi relativi al trattamento di dati relativi a condanne penali e reati). ))
-
-((
+(Principi relativi al trattamento di dati relativi a condanne penali e reati)
 
 1.
 
@@ -10,7 +8,7 @@ Fatto salvo quanto previsto dal decreto legislativo 18 maggio 2018, n. 51, il tr
 
 2.
 
-In mancanza delle predette disposizioni di legge o di regolamento, i trattamenti dei dati di cui al comma 1 nonche' le garanzie di cui al medesimo comma sono individuati con decreto del Ministro della giustizia, da adottarsi, ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, sentito il Garante.
+((COMMA ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182)).
 
 3.
 
@@ -62,7 +60,7 @@ l'adempimento degli obblighi previsti dalle normative vigenti in materia di prev
 
 4.
 
-Nei casi in cui le disposizioni di cui al comma 3 non individuano le garanzie appropriate per i diritti e le liberta' degli interessati, tali garanzie sono previste con il decreto di cui al comma 2.
+((COMMA ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182)).
 
 5.
 
@@ -70,6 +68,4 @@ Quando il trattamento dei dati di cui al presente articolo avviene sotto il cont
 
 6.
 
-Con il decreto di cui al comma 2 e' autorizzato il trattamento dei dati di cui all'articolo 10 del Regolamento, effettuato in attuazione di protocolli di intesa per la prevenzione e il contrasto dei fenomeni di criminalita' organizzata, stipulati con il Ministero dell'interno o con le prefetture-UTG. In relazione a tali protocolli, il decreto di cui al comma 2 individua, le tipologie dei dati trattati, gli interessati, le operazioni di trattamento eseguibili, anche in relazione all'aggiornamento e alla conservazione e prevede le garanzie appropriate per i diritti e le liberta' degli interessati. Il decreto e' adottato, limitatamente agli ambiti di cui al presente comma, di concerto con il Ministro dell'interno.
-
-))
+((COMMA ABROGATO DALLA L. 2 DICEMBRE 2025, N. 182)).
