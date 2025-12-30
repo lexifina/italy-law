@@ -1,0 +1,19 @@
+# TAR LAZIO - LATINA, decreto presidenziale n. 292/2025
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR LAZIO - LATINA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202500292
+- Numero di ricorso (NRG): 202500823
+- Data di pubblicazione: 2025-12-30
+- Udienza: PROCESSO MONOCRATICO
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-10-14
+- Oggetto del ricorso: SENTENZA N. 1280/2024 DEL TRIBUNALE DI LATINA SEZIONE LAVORO RECANTE CONDANNA AL MINISTERO DELL’ISTRUZIONE E DEL MERITO ALLA CORRESPONSIONE DELLA PARTE RICORRENTE, MEDIANTE ACCREDITO SULLA CARTA ELETTRONICA DEL DOCENTE, DELL’IMPORTO NOMINALE DI EURO 2.000,00 , QUALE CONTRIBUTO PER LA FORMAZIONE DEL DOCENTE.
+- Tipo di ricorso: IN OTTEMPERANZA
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-latina-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/c5788dce-5064-4cb8-a911-32f666600891/resource/6e840e83-93ee-477b-9892-fec276ccbd80/download/tar-lazio-latina-decreti-2025.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
