@@ -1,0 +1,21 @@
+# Massima n. 47202
+
+- Pronuncia: Corte costituzionale, sentenza 210/2025 (ECLI:IT:COST:2025:210)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2025:210
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Adozione e affidamento - In genere - Adozione di minori in casi particolari - Cognome dell'adottando - Possibilità, con la sentenza di adozione, di assumere il solo cognome dell'adottante, se i consensi e gli assensi richiesti dalla legge sono favorevoli a tale effetto e se esso risponde all'interesse del minore - Omessa previsione - Violazione dell'identità personale del minore - Illegittimità costituzionale in parte qua. (Classif. 006001).
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione dell’art. 2 Cost., l’art. 55 della legge n. 184 del 1983, nella parte in cui, nel regolare l’adozione di minori in casi particolari, facendo rinvio alla disciplina dell’adozione del maggiore di età di cui all’art. 299, primo comma, cod. civ., non consente all’adottando di assumere, con la sentenza di adozione, il solo cognome dell’adottante, se i consensi e gli assensi di cui agli artt. 45 e 46 della stessa legge n. 184 sono favorevoli a tale effetto e se esso risponde all’interesse del minore. La disposizione censurata dal Tribunale per i minorenni di Bari lede l’identità del minore in quanto impedisce al giudice di sostituire il cognome dell’adottando con quello dell’adottante anche qualora ciò corrisponda all’identità del minore e risponda al suo preminente interesse. Diversamente rispetto al caso dell’adozione di maggiorenni e rimeditata, in ragione dell’evoluzione dell’ordinamento e dell’accoglimento della prospettiva del best interest of the child, la sentenza n. 268 del 2002, nell’adozione di minori in casi particolari, il giudice, ove sollecitato da chi esprime i citati consensi, deve poter verificare se la sostituzione del cognome risponda al preminente interesse del minore e, in tal caso, deve poterla disporre, considerato anche che la sua personalità si svolgerà nell’ambito del nuovo nucleo familiare. Tale possibilità va consentita anche perché è la stessa minore età dell’adottando a rendere più flebile il rilievo identitario del cognome originariamente attribuitogli: il giudice dovrà, quindi, valutare se risulta preminente l’esigenza di attribuire rilievo alla nuova identità che sorge col vincolo adottivo ovvero il processo di consolidamento dell’identità personale intorno all’originario cognome. Permettere tale sostituzione nell’ambito della procedura in esame consente, infine, di avvalersi delle maggiori tutele che la stessa offre – in ragione del vaglio dei vari interessi coinvolti nella pienezza del contraddittorio e dinanzi a un’autorità giudiziaria specializzata nel garantire l’interesse del minore – rispetto al procedimento amministrativo previsto dall’art. 89 del d.P.R. n. 396 del 2000. La facoltà derogatoria in esame si aggiunge alla possibilità dell’adottato maggiore di età di aggiungere, anziché anteporre, il cognome dell’adottante al proprio: l’adattamento di tale norma all’adozione in casi particolari richiede, in ogni caso, che i consensi e gli assensi siano quelli degli artt. 45 e 46 e che tale aggiunta risponda all’interesse del minore. (Precedenti: S. 53/2025 - mass. 46707; S. 24/2025 - mass. 46688; S. 203/2024 - mass. 46476; S. 5/2024 - mass. 45935; S. 135/2023 - mass. 45621; S. 79/2022 - mass. 44634; S. 268/2002 - mass. 27097; S. 27/1991 - mass. 16876).
+
+## Norme
+
+- legge, 04/05/1983 n. 184, art. 55
+
+## Parametri
+
+- Costituzione, art. 2
