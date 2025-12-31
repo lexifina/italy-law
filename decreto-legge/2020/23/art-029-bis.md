@@ -1,0 +1,5 @@
+Art. 29-bis.
+
+(( (Obblighi dei datori di lavoro per la tutela contro il rischio di contagio da COVID-19). ))
+
+((1. Ai fini della tutela contro il rischio di contagio da COVID-19, i datori di lavoro pubblici e privati adempiono all'obbligo di cui all'articolo 2087 del codice civile mediante l'applicazione delle prescrizioni contenute nel protocollo condiviso di regolamentazione delle misure per il contrasto e il contenimento della diffusione del COVID-19 negli ambienti di lavoro, sottoscritto il 24 aprile 2020 tra il Governo e le parti sociali, e successive modificazioni e integrazioni, e negli altri protocolli e linee guida di cui all'articolo 1, comma 14, del decreto-legge 16 maggio 2020, n. 33, nonche' mediante l'adozione e il mantenimento delle misure ivi previste. Qualora non trovino applicazione le predette prescrizioni, rilevano le misure contenute nei protocolli o accordi di settore stipulati dalle organizzazioni sindacali e datoriali comparativamente piu' rappresentative sul piano nazionale))
