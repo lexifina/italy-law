@@ -1,0 +1,5 @@
+Allegato VI
+
+Schema per la presentazione di un progetto di ricerca ai sensi dell'articolo 31
+
+Parte di provvedimento in formato grafico
