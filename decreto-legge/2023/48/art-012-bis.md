@@ -1,0 +1,5 @@
+Art. 12-bis.
+
+(( (Disposizioni per le regioni a statuto speciale e per le province autonome di Trento e di Bolzano). ))
+
+((1. Le disposizioni del presente decreto si applicano nelle regioni a statuto speciale e nelle province autonome di Trento e di Bolzano compatibilmente con i rispettivi statuti e le relative norme di attuazione, anche con riferimento alla legge costituzionale 18 ottobre 2001, n. 3. Le province autonome di Trento e di Bolzano possono provvedere all'erogazione di servizi destinati ai beneficiari dell'Assegno di inclusione nell'ambito della propria competenza legislativa e della relativa potesta' amministrativa, nel perseguimento delle finalita' del presente decreto. Le province autonome di Trento e di Bolzano possono altresi' prevedere misure aventi finalita' analoghe a quelle dell'Assegno di inclusione, adottate e finanziate secondo i propri ordinamenti e comunicate al Ministero del lavoro e delle politiche sociali, affinche' le stesse non siano computate ai fini dell'accesso all'Assegno, della sua quantificazione e del suo mantenimento))
