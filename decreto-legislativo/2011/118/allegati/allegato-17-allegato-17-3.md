@@ -1,0 +1,7 @@
+Allegato n. 17/3
+
+al D.Lgs. 118/2011
+
+RENDICONTO DEL TESORIERE QUADRO RIASSUNTIVO DELLA GESTIONE DI CASSA
+
+((Parte di provvedimento in formato grafico))
