@@ -1,0 +1,7 @@
+Art. 9-vicies-quinquies.
+
+(( (Proroga dell'esenzione dall'IMU per i fabbricati dei comuni colpiti dal sisma del 20 e 29 maggio 2012) ))
+
+((1. Per i Comuni delle Regioni Lombardia e Veneto di cui all'articolo 1, comma 1, del decreto-legge 6 giugno 2012, n. 74, convertito, con modificazioni, dalla legge 1° agosto 2012, n. 122, e all'articolo 67-septies del decreto-legge 22 giugno 2012, n. 83, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 134, come eventualmente rideterminati dai Commissari delegati ai sensi dell'articolo 2-bis, comma 43, secondo periodo, del decreto-legge 16 ottobre 2017, n. 148, convertito, con modificazioni, dalla legge 4 dicembre 2017, n. 172, e per i Comuni della Regione Emilia-Romagna interessati dalla proroga dello stato d'emergenza di cui all'articolo 2-bis, comma 44, del decreto-legge n. 148 del 2017, convertito, con modificazioni, dalla legge n. 172 del 2017, l'esenzione dall'applicazione dell'imposta municipale propria prevista dal secondo periodo del comma 3 dell'articolo 8 del decreto-legge n. 74 del 2012, convertito, con modificazioni, dalla legge n. 122 del 2012, e' prorogata fino alla definitiva ricostruzione e agibilita' dei fabbricati interessati e comunque non oltre il 31 dicembre 2020.
+
+2. Agli oneri derivanti dal comma 1 del presente articolo, pari a 14,4 milioni di euro per l'anno 2020, si provvede mediante utilizzo delle risorse di cui all'articolo 2, comma 107, della legge 24 dicembre 2007, n. 244)).
