@@ -1,0 +1,153 @@
+Art. 11-quaterdecies.
+
+(Interventi infrastrutturali, per la ricerca e per l'occupazione)
+
+1.
+
+Per consentire l'organizzazione e l'adeguamento degli impianti e attrezzature necessari allo svolgimento dei Campionati mondiali di nuoto che si terranno a Roma nel 2009 e dei Giochi del Mediterraneo che si terranno a Pescara nel medesimo anno, il Dipartimento della protezione civile e' autorizzato a provvedere con contributi quindicennali nei confronti dei soggetti competenti. A tal fine e' autorizzata la spesa annua di 2 milioni di euro per quindici anni a decorrere dal 2007, nonche' quella annua di 2 milioni di euro per quindici anni a decorrere dall'anno 2008, da ripartire in eguale misura tra le manifestazioni di cui al primo periodo del presente comma.
+
+2.
+
+COMMA ABROGATO DALLA L. 23 DICEMBRE 2005, N. 266.
+
+3.
+
+Per la prosecuzione degli interventi previsti dall'articolo 1, comma 279, della legge 30 dicembre 2004, n. 311, e' autorizzata la spesa di ulteriori 3 milioni di euro a decorrere dall'anno 2006; e' altresi' autorizzata la spesa di ulteriori 1,5 milioni di euro per la prosecuzione degli interventi previsti dall'articolo 1, comma 278, della citata legge n. 311 del 2004 in favore della Facolta' ivi indicata della Seconda Universita' degli studi di Napoli. (36)
+
+4.
+
+Al comma 2 dell'articolo 2 del decreto-legge 24 dicembre 2002, n. 282, convertito, con modificazioni, dalla legge 21 febbraio 2003, n. 27, e successive modificazioni, sono apportate le seguenti modificazioni:
+
+a)
+
+al primo periodo, le parole: "1° luglio 2003" sono sostituite dalle seguenti: "1° gennaio 2005";
+
+b)
+
+al secondo periodo, le parole: "30 giugno 2005" sono sostituite dalle seguenti: "30 giugno 2006";
+
+c)
+
+al terzo periodo, le parole: "30 giugno 2005" sono sostituite dalle seguenti: "30 giugno 2006".
+
+5.
+
+Le regioni e le province autonome di Trento e di Bolzano, sentito il parere dell'Istituto nazionale per la fauna selvatica o, se istituti, degli istituti regionali, possono, sulla base di adeguati piani di abbattimento selettivi, distinti per sesso e classi di eta', regolamentare il prelievo di selezione degli ungulati appartenenti alle specie cacciabili anche al di fuori dei periodi e degli orari di cui alla legge 11 febbraio 1992, n. 157.
+
+6.
+
+Al comma 1 dell'articolo 70 del decreto legislativo 10 settembre 2003, n. 276, e' aggiunta la seguente lettera: "e-ter) dell'esecuzione di vendemmie di breve durata e a carattere saltuario, effettuata da studenti e pensionati". A tal fine e' autorizzata la spesa annua di 200.000 euro dal 2006.
+
+7.
+
+Al fine di garantire i livelli occupazionali nel parco nazionale d'Abruzzo, Lazio e Molise, e' erogata a favore dell'ente parco nazionale d'Abruzzo, Lazio e Molise la somma di euro 2.500.000, a decorrere dall'anno 2006, per consentire la stabilizzazione del personale fuori ruolo operante presso l'ente. Le relative stabilizzazioni sono effettuate nei limiti delle risorse assegnate con il presente comma e nel rispetto delle normative vigenti in materia di assunzioni, anche in soprannumero. I rapporti di lavoro in essere con il personale che presta attivita' professionale e collaborazione presso l'ente parco sono regolati, sulla base di nuovi contratti che verranno stipulati dall'ente, a decorrere dal 1° gennaio 2006, fino alla definitiva stabilizzazione del suddetto personale e, comunque, non oltre il 31 dicembre 2007 nei limiti delle risorse di cui al primo periodo. Al relativo onere si provvede attraverso la riduzione del fondo di cui al comma 96 dell' articolo 1 della legge 30 dicembre 2004, n. 311.
+
+8.
+
+Il comma 12 dell'articolo 9 della legge 6 dicembre 1991, n. 394, e' sostituito dal seguente:
+
+"12. Gli organi dell'Ente parco durano in carica cinque anni".
+
+9.
+
+All'articolo 17, commi 1, 2 e 6, lettera a), del decreto legislativo 13 gennaio 2003, n. 36, e successive modificazioni, le parole: "31 dicembre 2005" sono sostituite dalle seguenti: "31 dicembre 2006". La disposizione del presente comma non si applica alle discariche di II categoria, di tipo A, di tipo ex 2A e alle discariche per inerti, cui si conferiscono materiali di matrice cementizia contenenti amianto, per le quali il termine di conferimento e' fissato alla data di entrata in vigore della legge di conversione del presente decreto.
+
+10.
+
+Il contributo di cui alla legge 23 settembre 1993, n. 379, e' aumentato, a decorrere dall'anno 2006, ad euro 2.300.000. Per le attivita' e il conseguimento delle finalita' scientifiche del Polo nazionale di cui alla tabella A prevista dall'articolo 1 della legge 29 ottobre 2003, n. 291, viene riconosciuto alla Sezione italiana dell'Agenzia internazionale per la prevenzione della cecita' un contributo annuo di euro 750.000. E' concesso un contributo di 1 milione di euro per ciascuno degli anni 2006, 2007 e 2008 in favore dell'ente morale riconosciuto con decreto del Presidente della Repubblica 19 maggio 1967, n. 516. Il contributo di cui all'articolo 1, comma 113, della legge 30 dicembre 2004, n. 311, deve essere inteso come contributo statale annuo ordinario; a decorrere dall'anno 2006 esso e' pari a 400.000 euro. Per le finalita' di cui all'articolo 1, comma 187, della legge 30 dicembre 2004, n. 311, e' autorizzata per il 2006 la spesa di 15 milioni di euro e per ciascuno degli anni 2007 e 2008 la spesa di un milione di euro. In favore della Lega italiana tumori e' autorizzata la spesa di 1 milione di euro per ciascuno degli anni 2006, 2007 e 2008. ((46))
+
+11.
+
+In considerazione del rilievo nazionale e internazionale nella sperimentazione sanitaria di elevata specializzazione e nella cura delle patologie nel campo dell'oftalmologia, per l'anno 2006 e' autorizzata la concessione di un contributo di 1 milione di euro in favore della Fondazione "G.B. Bietti" per lo studio e la ricerca in oftalmologia, con sede in Roma. Allo scopo di promuovere il miglioramento della salute e di offrire ai cittadini alti livelli di assistenza ospedaliera, e' autorizzata la concessione di un contributo associativo nel limite di 50.000 euro annui per ciascuno degli anni 2006, 2007 e 2008 in favore del Comitato permanente degli Ospedali dell'Unione europea (Hope) con sede in Belgio. E' autorizzata la spesa di 219.000 euro per l'anno 2006, 500.000 euro per l'anno 2007 e 500.000 euro per l'anno 2008 per l'interconnessione e la formazione sanitaria tra centri sanitari all'estero e in Italia che il Ministro della salute, il Ministro per gli italiani nel mondo, il Ministro degli affari esteri, il Ministro dell'istruzione, dell'universita' e della ricerca e il Ministro per l'innovazione e le tecnologie attuano congiuntamente avvalendosi, in particolare, dell'Associazione denominata "Alleanza degli Ospedali italiani nel mondo", da essi congiuntamente costituita in data 2 febbraio 2004.
+
+12.
+
+Il prestito vitalizio ipotecario ha per oggetto la concessione da parte di banche nonche' di intermediari finanziari, di cui all'articolo 106 del testo unico di cui al decreto legislativo 1º settembre 1993, n. 385, e successive modificazioni, di finanziamenti a medio e lungo termine, con capitalizzazione annuale di interessi e di spese, riservati a persone fisiche con eta' superiore a sessanta anni compiuti, il cui rimborso integrale in un'unica soluzione puo' essere richiesto al momento della morte del soggetto finanziato ovvero qualora vengano trasferiti, in tutto o in parte, la proprieta' o altri diritti reali o di godimento sull'immobile dato in garanzia o si compiano atti che ne riducano significativamente il valore, inclusa la costituzione di diritti reali di garanzia in favore di terzi che vadano a gravare sull'immobile.
+
+12-bis.
+
+E' fatta salva la volonta' del finanziato di concordare, al momento della stipulazione del contratto, modalita' di rimborso graduale della quota di interessi e delle spese, prima del verificarsi degli eventi di cui al comma 12, sulla quale non si applica la capitalizzazione annuale degli interessi. In caso di inadempimento si applica l'articolo 40, comma 2, del testo unico di cui al decreto legislativo 1º settembre 1993, n. 385.
+
+12-ter.
+
+Ai fini dell'applicazione della disciplina prevista dagli articoli 15 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 601, e successive modificazioni, non rileva la data di rimborso del prestito vitalizio ipotecario.
+
+12-quater.
+
+I finanziamenti di cui al comma 12 del presente articolo sono garantiti da ipoteca di primo grado su immobili residenziali e agli stessi si applica l'articolo 39, commi 1, 2, 3, 4 e 7, del testo unico di cui al decreto legislativo 1º settembre 1993, n. 385.
+
+L'ipoteca di primo grado a garanzia del finanziamento di cui al comma 12 non puo' essere iscritta contemporaneamente su piu' immobili di proprieta' del finanziato. Qualora il finanziamento non sia integralmente rimborsato entro dodici mesi dal verificarsi degli eventi di cui al citato comma 12, il finanziatore vende l'immobile ad un valore pari a quello di mercato, determinato da un perito indipendente incaricato dal finanziatore, utilizzando le somme ricavate dalla vendita per estinguere il credito vantato in dipendenza del finanziamento stesso. Trascorsi ulteriori dodici mesi senza che sia stata perfezionata la vendita, tale valore viene decurtato del 15 per cento per ogni dodici mesi successivi fino al perfezionamento della vendita dell'immobile. In alternativa, l'erede puo' provvedere alla vendita dell'immobile, in accordo con il finanziatore, purche' la compravendita si perfezioni entro dodici mesi dal conferimento dello stesso. Le eventuali somme rimanenti, ricavate dalla vendita e non portate a estinzione del predetto credito, sono riconosciute al soggetto finanziato o ai suoi aventi causa. L'importo del debito residuo non puo' superare il ricavato della vendita dell'immobile, al netto delle spese sostenute. Nei confronti dell'acquirente dell'immobile non hanno effetto le domande giudiziali di cui all'articolo 2652, primo comma, numeri 7) e 8), del codice civile trascritte successivamente alla trascrizione dell'acquisto.
+
+12-quinquies.
+
+Il Ministro dello sviluppo economico, entro tre mesi dalla data di entrata in vigore della presente disposizione, sentite l'Associazione bancaria italiana e le associazioni dei consumatori, con proprio decreto, adotta un regolamento nel quale sono stabilite le regole per l'offerta dei prestiti vitalizi ipotecari e sono individuati i casi e le formalita' che comportino una riduzione significativa del valore di mercato dell'immobile, tale da giustificare la richiesta di rimborso integrale del finanziamento, e con il quale garantire trasparenza e certezza dell'importo oggetto del finanziamento, dei termini di pagamento, degli interessi e di ogni altra spesa dovuta.
+
+12-sexies.
+
+I finanziamenti stipulati prima della data di entrata in vigore della presente disposizione continuano a essere regolati dalle disposizioni vigenti a tale data.
+
+13.
+
+Entro ventiquattro mesi dalla data di entrata in vigore della legge di conversione del presente decreto, il Ministro delle attivita' produttive, di concerto con il Ministro dell'ambiente e della tutela del territorio, emana uno o piu' decreti, ai sensi dell'articolo 17 della legge 23 agosto 1988, n. 400, volti a disciplinare:
+
+a)
+
+il riordino delle disposizioni in materia di attivita' di installazione degli impianti all'interno degli edifici;
+
+b)
+
+la definizione di un reale sistema di verifiche degli impianti di cui alla lettera a) con l'obiettivo primario di tutelare gli utilizzatori degli impianti garantendo una effettiva sicurezza;
+
+c)
+
+la determinazione delle competenze dello Stato, delle regioni e degli enti locali secondo i principi di sussidiarieta' e di leale collaborazione, anche tramite lo strumento degli accordi in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281;
+
+d)
+
+la previsione di sanzioni in caso di violazione degli obblighi stabiliti dai provvedimenti previsti dalle lettere a) e b).
+
+14.
+
+Per la prosecuzione ed il completamento degli interventi di cui all'articolo 52, comma 21, della legge 27 dicembre 2002, n. 289, e' autorizzata la spesa di 10 milioni di euro a decorrere dall'anno 2006.
+
+15.
+
+Al comma 4 dell'articolo 1 della legge 9 dicembre 1998, n. 426, dopo la lettera p-terdecies), e' aggiunta la seguente:
+
+"p-quaterdecies) area del territorio di cui al decreto del Presidente del Consiglio dei ministri 19 maggio 2005, pubblicato nella Gazzetta Ufficiale n. 122 del 27 maggio 2005".
+
+16.
+
+Ai fini dell'applicazione del decreto legislativo 30 dicembre 1992, n. 504, la disposizione prevista dall'articolo 2, comma 1, lettera b), dello stesso decreto si interpreta nel senso che un'area e' da considerare comunque fabbricabile se e' utilizzabile a scopo edificatorio in base allo strumento urbanistico generale, indipendentemente dall'adozione di strumenti attuativi del medesimo.
+
+17.
+
+E' autorizzato un contributo quindicennale di 1 milione di euro a decorrere dall'anno 2006 in favore dell'ANAS Spa per la realizzazione di lavori di raccordo stradale tra le strade pugliesi SP 231 e SP 238.
+
+18.
+
+Con decreto del Ministro delle attivita' produttive e' determinata annualmente la quota di risorse del Fondo speciale rotativo per l' innovazione tecnologica di cui all'articolo 14 della legge 17 febbraio 1982, n. 46, da destinare, a valere sulla quota erogata a fondo perduto, agli interventi previsti dal comma 270 dell'articolo 1 della legge 30 dicembre 2004, n. 311.
+
+19.
+
+Il primo periodo del comma 1 dell'articolo 155 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e' sostituito dal seguente: "Il reddito imponibile dei soggetti di cui all'articolo 73, comma 1, lettera a), derivante dall'utilizzo in traffico internazionale delle navi indicate nell'articolo 8-bis, comma 1, lettera a), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, iscritte nel registro internazionale di cui al decreto-legge 30 dicembre 1997, n. 457, convertito, con modificazioni, dalla legge 27 febbraio 1998, n. 30, e dagli stessi armate, nonche' delle navi noleggiate il cui tonnellaggio non sia superiore al 50 per cento di quello complessivamente utilizzato, e' determinato ai sensi della presente sezione qualora il contribuente comunichi un'opzione in tal senso all'Agenzia delle entrate entro tre mesi dall'inizio del periodo d'imposta a partire dal quale intende fruirne con le modalita' di cui al decreto previsto dall'articolo 161".
+
+20.
+
+Per la prosecuzione degli interventi previsti dall'articolo 2 della legge 30 luglio 2002, n. 174, nonche' per la realizzazione di opere di natura sociale, culturale e sportiva, e' autorizzato un contributo quindicennale di 1 milione di euro a decorrere dall'anno 2006.
+
+21.
+
+All'articolo 1 del decreto legge 24 dicembre 2003, n. 353, convertito, con modificazioni, dalla legge 27 febbraio 2004, n. 46, al comma 3, dopo le parole: "dell'ambiente naturale" sono inserite le seguenti: ", le associazioni riconosciute a carattere nazionale aventi per oggetto statutario, da piu' di quaranta anni, lo svolgimento o la promozione di attivita' di ricerca oncologica".
+
+-------------
+
+AGGIORNAMENTO (36)
+
+La L. 23 dicembre 2014, n. 190, ha disposto (con l'art. 1, comma 338) che "il secondo periodo del comma 3 dell'articolo 11-quaterdecies del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, e' soppresso".
+
+-------------
+
+AGGIORNAMENTO (46)
+
+La L. 27 dicembre 2017, n. 205 ha disposto (con l'art. 1, comma 325) che "Per le attivita' e il conseguimento delle finalita' scientifiche del polo nazionale di servizi e ricerca per la prevenzione della cecita' e la riabilitazione visiva degli ipovedenti, di cui al n. 87 della tabella A allegata alla legge 16 ottobre 2003, n. 291, il contributo annuo riconosciuto alla sezione italiana dell'Agenzia internazionale per la prevenzione della cecita', di cui all'articolo 11-quaterdecies, comma 10, del decreto-legge 30 settembre 2005, n. 203, convertito, con modificazioni, dalla legge 2 dicembre 2005, n. 248, e' incrementato di 250.000 euro annui a decorrere dall'anno 2018".
