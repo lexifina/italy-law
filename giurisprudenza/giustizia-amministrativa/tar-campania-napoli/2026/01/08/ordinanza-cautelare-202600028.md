@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 28/2026
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SESTA
+- Numero provvedimento: 202600028
+- Numero di ricorso (NRG): 202507012
+- Data di pubblicazione: 2026-01-08
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-12-12
+- Oggetto del ricorso: AVVERSO E PER L'ANNULLAMENTO E/O LA REVOCA, PREVIA SOSPENSIVA, DEL PROVVEDIMENTO DI REVOCA DEL NULLA OSTA AL LAVORO SUBORDINATO AVENTE N. PROT. P-NA/L/Q/2024/107443 RILASCIATO IN DATA 20/05/2024 AL DATORE DI LAVORO NELL'INTERESSE DELL'ODIERNO RICORRENTE, NOTIFICATO A MEZZO PEC DEL DATORE DI LAVORO IL 22/09/2025
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/887344ab-0775-4621-bacf-7f6df27bacff/download/tar-campania-napoli-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
