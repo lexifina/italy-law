@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza cautelare n. 40/2026
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600040
+- Numero di ricorso (NRG): 202503508
+- Data di pubblicazione: 2026-01-15
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: INTEGRAZIONE DEL CONTRADDITTORIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-12-17
+- Oggetto del ricorso: DETERMINAZIONE DEL DIRIGENTE DELL’AREA AMMINISTRATIVA E DEI SERVIZI ALLA PERSONA DEL COMUNE DI BEINASCO 11 NOVEMBRE 2025 N. 518, COMUNICATO IN PARI DATA MEDIANTE PUBBLICAZIONE SULLA PIATTAFORMA TRASPARE, CHE HA ESCLUSO L’OFFERTA DELLA VIARENGO SRL DALLA PROCEDURA APERTA PER L’AFFIDAMENTO DELLA CONCESSIONE DEL SERVIZIO DI ILLUMINAZIONE VOTIVA DEI CIMITERI DI BEINASCO E BORGARETTO E HA AGGIUDICATO LA CONCESSIONE STESSA ALLA SOCIETÀ BERLOR GENERAL CONTRACTOR SRL;
+- Tipo di ricorso: RITO APPALTI (ex art. 120 ss c.p.a.)
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/0508bd86-f85a-4d53-87e3-d4b79eb1b75c/download/tar-piemonte-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
