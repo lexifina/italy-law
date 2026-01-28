@@ -1,0 +1,19 @@
+# TAR LAZIO - LATINA, ordinanza cautelare n. 24/2026
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR LAZIO - LATINA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600024
+- Numero di ricorso (NRG): 202501005
+- Data di pubblicazione: 2026-01-28
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-11-28
+- Oggetto del ricorso: PROVVEDIMENTO DELLA PREFETTURA DI FROSINONE DEL 02.09.2025, RIFERIMENTO PRATICA P-FR/L/Q/2025/100614, AVENTE AD OGGETTO LA REVOCA DEL NULLA OSTA RILASCIATO IN DATA 06.04.2025
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-latina-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b1c81529-7230-47b1-9989-16133a7e8b77/resource/8883406b-2e1b-484b-bff5-ce03acfca67c/download/tar-lazio-latina-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
