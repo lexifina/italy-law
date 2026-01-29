@@ -1,0 +1,17 @@
+# Massima n. 47192
+
+- Pronuncia: Corte costituzionale, sentenza 10/2026 (ECLI:IT:COST:2026:10)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:10
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Legge - Legge penale - Principio di legalità - Ratio - Necessità di salvaguardare la libertà dell'individuo e il principio della separazione tra poteri - Possibilità di attribuire al giudice il compito di valutare in concreto il pericolo arrecato dalla condotta al bene giuridico tutelato - Tecnica ermeneutica applicata anche dalla Corte costituzionale - Possibile subordinazione della rilevanza penale della condotta al riscontro di requisiti ulteriori rispetto a quelli espressamente indicati dalla disposizione incriminatrice, ma conformi alla sua ratio. (Classif. 141009).
+
+## Testo
+
+Il principio di precisione (o “tassatività”) della legge penale, implicito nel principio di legalità di cui all’art. 25, secondo comma, Cost., mira ad assicurare, in primo luogo, che al consociato venga fornito un chiaro avvertimento circa le possibili conseguenze penali della sua condotta, in chiave di tutela della sua libertà di azione; e, in secondo luogo, che le scelte fondamentali sul confine tra condotte lecite e penalmente rilevanti siano compiute dal legislatore e non siano affidate in sostanza al giudice, a tutela del principio ordinamentale della separazione dei poteri. Tuttavia, il principio di precisione non osta a che il legislatore possa demandare al giudice il compito di circoscrivere l’area della punibilità descritta in astratto dalla fattispecie normativa, richiedendogli di accertare nel caso concreto un pericolo per il bene giuridico tutelato dalla norma: tecnica utilizzata espressamente dal legislatore in una quantità di norme incriminatrici, ma alla quale talvolta anche la Corte costituzionale ha fatto ricorso, allorché ha indicato la via di interpretazioni restrittive costituzionalmente orientate di leggi penali sottoposte al suo esame, ovvero ha integrato la norma incriminatrice richiedendo l’accertamento di un pericolo per il bene giuridico protetto. (Precedenti: S. 185/2025 - mass. 47100; S. 54/2024 - mass. 46073; S. 98/2021 - mass. 43904; S. 134/2019 - mass. 42640; S. 121/2018 - mass. 40806; S. 519/2000 - mass. 25907; S. 96/1981 - mass. 9496; S. 108/1974 - mass. 7190; S. 65/1970 - mass. 4989; O. 24/2017 - mass. 39721).In via generale, una interpretazione restrittiva di una disposizione incriminatrice, con la quale si subordini la rilevanza penale della condotta al riscontro di requisiti ulteriori rispetto a quelli espressamente indicati dal legislatore, ma in conformità alla stessa ratio della disposizione, non può ritenersi preclusa dal principio di legalità in materia penale. Tale principio, infatti, osta soltanto a che la legge penale sia applicata a casi ulteriori rispetto a quelli coperti dal significato letterale delle espressioni da essa utilizzate, ma non si oppone a soluzioni ermeneutiche che, all’opposto, riducano l’area del penalmente rilevante rispetto ai possibili significati letterali del testo della norma incriminatrice, sempre che il risultato così raggiunto risulti compatibile con tali significati. (Precedenti: S. 113/2025 - mass. 46918; S. 107/2025 - mass. 46877; S. 98/2021 - mass. 43904).
+
+## Parametri
+
+- Costituzione, art. 25, comma 2
