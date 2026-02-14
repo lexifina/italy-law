@@ -1,0 +1,19 @@
+# TAR MARCHE - ANCONA, sentenza breve n. 195/2026
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR MARCHE - ANCONA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600195
+- Numero di ricorso (NRG): 202500508
+- Data di pubblicazione: 2026-02-14
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA CESSATA MATERIA DEL CONTENDERE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2025-07-17
+- Oggetto del ricorso: DINIEGO DI COMMERCIALIZZARE PRODOTTI CONTRASSEGNATI IN RECIPIENTI DI VOLUME NON CORRISPONDENTE AI TAGLI PREVISTI DAL D.M. 10 OTTOBRE 2003, N. 3221
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-marche-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/958589a4-73e1-4c52-91d3-120bcf7ef619/resource/d6896f42-a819-42b5-9427-f8f98e9ea97e/download/tar-marche-sentenze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
