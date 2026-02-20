@@ -1,8 +1,6 @@
 Art. 14-ter.
 
-(( (Conferenza simultanea).))
-
-((
+(Conferenza simultanea)
 
 1.
 
@@ -10,7 +8,7 @@ La prima riunione della conferenza di servizi in forma simultanea e in modalita'
 
 2.
 
-I lavori della conferenza si concludono non oltre quarantacinque giorni decorrenti dalla data della riunione di cui al comma 1. Nei casi di cui all'articolo 14-bis, comma 7, qualora siano coinvolte amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute dei cittadini, il termine e' fissato in novanta giorni. Resta fermo l'obbligo di rispettare il termine finale di conclusione del procedimento.
+I lavori della conferenza si concludono non oltre ((trenta giorni)) decorrenti dalla data della riunione di cui al comma 1. Nei casi di cui all'articolo 14-bis, comma 7, qualora siano coinvolte amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute dei cittadini, il termine e' fissato in ((sessanta giorni)). Resta fermo l'obbligo di rispettare il termine finale di conclusione del procedimento.
 
 3.
 
@@ -30,7 +28,9 @@ Ciascuna regione e ciascun ente locale definisce autonomamente le modalita' di d
 
 Alle riunioni della conferenza possono essere invitati gli interessati, inclusi i soggetti proponenti il progetto eventualmente dedotto in conferenza.
 
-7. All'esito dell'ultima riunione, e comunque non oltre il termine di cui al comma 2, l'amministrazione procedente adotta la determinazione motivata di conclusione della conferenza, con gli effetti di cui all'articolo 14-quater, sulla base delle posizioni prevalenti espresse dalle amministrazioni partecipanti alla conferenza tramite i rispettivi rappresentanti. Si considera acquisito l'assenso senza condizioni delle amministrazioni il cui rappresentante non abbia partecipato alle riunioni ovvero, pur partecipandovi, non abbia espresso ai sensi del comma 3 la propria posizione, ovvero abbia espresso un dissenso non motivato o riferito a questioni che non costituiscono oggetto della conferenza.))
+7.
+
+All'esito dell'ultima riunione, e comunque non oltre il termine di cui al comma 2, l'amministrazione procedente adotta la determinazione motivata di conclusione della conferenza, con gli effetti di cui all'articolo 14-quater, sulla base delle posizioni prevalenti espresse dalle amministrazioni partecipanti alla conferenza tramite i rispettivi rappresentanti. Si considera acquisito l'assenso senza condizioni delle amministrazioni il cui rappresentante non abbia partecipato alle riunioni ovvero, pur partecipandovi, non abbia espresso ai sensi del comma 3 la propria posizione, ovvero abbia espresso un dissenso non motivato o riferito a questioni che non costituiscono oggetto della conferenza.
 
 ---------------
 

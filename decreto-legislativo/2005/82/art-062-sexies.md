@@ -1,0 +1,31 @@
+Art. 62-sexies.
+
+(( (Anagrafe nazionale digitale della gente di mare - ANGEMAR). ))
+
+1.
+
+((E' istituita, presso il Ministero delle infrastrutture e dei trasporti, l'Anagrafe nazionale digitale della gente di mare (ANGEMAR), finalizzata alla gestione unitaria, digitale e interoperabile dei dati relativi alla carriera professionale, ai titoli, agli imbarchi e alle abilitazioni e certificazioni della gente di mare, anche ai fini del collocamento e del monitoraggio del mercato del lavoro marittimo. L'ANGEMAR, al raggiungimento della piena operativita', sostituisce le anagrafi, registri e archivi previsti a legislazione vigente, ivi inclusi quelli del codice della navigazione, di cui al regio decreto 30 marzo 1942, n. 327, al decreto del Presidente della Repubblica 15 febbraio 1952, n. 328, e al decreto del Presidente della Repubblica 18 aprile 2006, n. 231.))
+
+2.
+
+((L'ANGEMAR e' integrata con i servizi della piattaforma digitale nazionale dati di cui all'articolo 50-ter e consente l'alimentazione, l'aggiornamento e la consultazione dei dati da parte degli Uffici d'iscrizione della gente di mare, del personale appartenente alla gente di mare, degli armatori e dei centri di formazione autorizzati nonche' dei soggetti internazionali convenzionati per le parti di rispettiva competenza. L'ANGEMAR, per il tramite dei servizi resi disponibili dalla piattaforma di cui all'articolo 50-ter, e' costantemente aggiornata al fine di assicurare la coerenza dei dati ivi contenuti con l'anagrafe di cui all'articolo 62 (ANPR), con le anagrafi di cui all'articolo 62-quater (ANIST) e all'articolo 62-quinquies (ANIS), con i servizi di assistenza sanitaria al personale navigante (SASN) nonche', per le informazioni di competenza, con le anagrafi e le basi dati detenute da altre amministrazioni.))
+
+3.
+
+((Entro centottanta giorni dalla piena operativita' dell'ANGEMAR, il libretto di navigazione di cui all'articolo 122 del codice della navigazione di cui al regio decreto n. 327 del 1942, e' rilasciato sulla base delle informazioni contenute nell'ANGEMAR ed e' reso disponibile anche tramite il Sistema di portafoglio digitale italiano - Sistema IT-Wallet, ai sensi dell'articolo 64-quater. Il libretto di navigazione, dotato di microprocessore per la memorizzazione delle informazioni necessarie alla verifica dell'identita' del titolare e di quelle definite dai decreti di cui al comma 4, e' carta valore ai sensi dell'articolo 2, comma 10-bis, della legge 13 luglio 1966, n. 559, e la sua produzione e fornitura sono affidate dal Ministero delle infrastrutture e dei trasporti alla societa' di cui all'articolo 1 della medesima legge n. 559 del 1966.))
+
+4.
+
+((Con uno o piu' decreti del Ministro delle infrastrutture e dei trasporti, di concerto con l'Autorita' politica delegata in materia di innovazione tecnologica e transizione digitale, ove nominata, sono definiti:))
+
+a)
+
+((i dati contenuti nell'ANGEMAR, nonche' le modalita' di alimentazione, aggiornamento e conservazione degli stessi, con particolare riguardo alle misure di sicurezza informatica e alle specifiche tecniche e organizzative per la gestione e il trattamento dei dati personali, in conformita' al regolamento (UE) 2016/679 del Parlamento europeo e del Consiglio, del 27 aprile 2016;))
+
+b)
+
+((le caratteristiche del libretto di navigazione di cui all'articolo 122 del codice della navigazione di cui al regio decreto n. 327 del 1942, rilasciato ai sensi del comma 3, nonche' le modalita' di verifica e consultazione dello stesso.))
+
+5.
+
+((Nelle more della piena operativita', ANGEMAR mette a disposizione un servizio informatico provvisorio per l'inserimento da parte del personale appartenente alla gente di mare e dei centri di formazione autorizzati dei dati e delle informazioni essenziali, secondo le modalita' definite con decreto direttoriale del Ministero delle infrastrutture e dei trasporti. I dati e le informazioni di cui al primo periodo confluiscono nell'ANGEMAR e sono oggetto di successiva validazione secondo le modalita' stabilite dai decreti di cui al comma 4.))
