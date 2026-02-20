@@ -1,0 +1,13 @@
+Art. 13-bis.
+
+(( (Partecipazione al procedimento). ))
+
+((1. Nei casi in cui, ai sensi degli articoli 10, 11, 12 e 13, e' disposta la cancellazione dall'albo di cui all'articolo 4, comma 1, o la revoca dei titoli di cui al comma 3 del medesimo articolo, l'autorita' competente di cui all'articolo 3, comma 1, assegna all'impresa interessata, per l'esercizio dei diritti di cui all'articolo 10 della legge 7 agosto 1990, n. 241, un termine di trenta giorni. Entro tale termine, su richiesta dell'impresa interessata, procede anche all'audizione personale.))
+
+((2))
+
+---------------
+
+AGGIORNAMENTO (2)
+
+Il D.Lgs. 28 dicembre 2001, n. 478 ha disposto (con l'art. 22, comma 1) che la presente modifia ha efficacia dal giorno della pubblicazione del suddetto decreto.
