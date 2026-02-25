@@ -1,0 +1,3 @@
+Art. 31-quinquies.
+
+(( ARTICOLO ABROGATO DAL D.LGS 30 MAGGIO 2003, N. 193 ))

@@ -1,0 +1,21 @@
+- TITOLO I ISTITUZIONE DEI RUOLI DEL PERSONALE DELLA POLIZIA DI STATO CHE ESPLETA FUNZIONI DI POLIZIA. Capo I (Art. 1.)
+
+- (Art. 4.)
+
+- (Art. 16.)
+
+- (Art. 25.)
+
+- (Art. 32.)
+
+- (Art. 38.)
+
+- TITOLO II NORME PARTICOLARI DI STATO Capo I (Art. 47.)
+
+- (Art. 61.)
+
+- (Art. 71.)
+
+- (Art. 76.)
+
+- TITOLO III CLAUSOLA FINANZIARIA (Art. 82.)
