@@ -1,14 +1,14 @@
 Art. 624-bis.
 
-(Furto in abitazione e furto con strappo).
+(Furto in abitazione ((,)) furto con strappo ((e furto con destrezza in casi particolari)) ).
 
 Chiunque si impossessa della cosa mobile altrui, sottraendola a chi la detiene, al fine di trarne profitto per se' o per altri, mediante introduzione in un edificio o in altro luogo destinato in tutto o in parte a privata dimora o nelle pertinenze di essa, e' punito con la reclusione da quattro a sette anni e con la multa da euro 927 a euro 1.500.
 
-Alla stessa pena di cui al primo comma soggiace chi si impossessa della cosa mobile altrui, sottraendola a chi la detiene, al fine di trarne profitto per se' o per altri, strappandola di mano o di dosso alla persona.
+Alla stessa pena di cui al primo comma soggiace chi si impossessa della cosa mobile altrui, sottraendola a chi la detiene, al fine di trarne profitto per se' o per altri, strappandola di mano o di dosso alla persona ((ovvero agendo con destrezza su mezzi di pagamento anche elettronici, documenti di identita', strumenti informatici o telematici o telefoni cellulari o su denaro o beni di valore tale da determinare un danno patrimoniale di rilevante gravita')).
 
 La pena e' della reclusione da cinque a dieci anni e della multa da euro 1.000 a euro 2.500 se il reato e' aggravato da una o piu' delle circostanze previste nel primo comma dell'articolo 625 ovvero se ricorre una o piu' delle circostanze indicate all'articolo 61.
 
-Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 625-bis, concorrenti con una o piu' delle circostanze aggravanti di cui all'articolo 625, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' della stessa risultante dall'aumento conseguente alle predette circostanze aggravanti. ((385))
+Le circostanze attenuanti, diverse da quelle previste dagli articoli 98 e 625-bis, concorrenti con una o piu' delle circostanze aggravanti di cui all'articolo 625, non possono essere ritenute equivalenti o prevalenti rispetto a queste e le diminuzioni di pena si operano sulla quantita' della stessa risultante dall'aumento conseguente alle predette circostanze aggravanti. (385)
 
 ---------------
 
