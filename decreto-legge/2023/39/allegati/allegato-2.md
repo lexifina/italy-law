@@ -1,0 +1,15 @@
+((Allegato 2))
+
+(di cui all'articolo 1, comma 5)
+
+Regione
+
+Intervento
+
+Lombardia-Trentino-Alto Adige
+
+Realizzazione nuove opere di regolazione del lago d'Idro
+
+Veneto
+
+Lavori di adeguamento dello sbarramento antisale alla foce dell'Adige con bacinizzazione dal fiume per il contenimento dell'acqua dolce a monte dello stesso
