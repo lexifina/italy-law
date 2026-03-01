@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 luglio 2020
+
+MATTARELLA Conte, Presidente del Consiglio dei ministri Dadone, Ministro per la pubblica amministrazione Lamorgese, Ministro dell'interno Bonafede, Ministro della giustizia Gualtieri, Ministro dell'economia e delle finanze Patuanelli, Ministro dello sviluppo economico Bellanova, Ministro delle politiche agricole alimentari e forestali Costa, Ministro dell'ambiente e della tutela del territorio e del mare De Micheli, Ministro delle infrastrutture e dei trasporti Franceschini, Ministro per i beni e le attivita' culturali e per il turismo Speranza, Ministro della salute Pisano, Ministro per l'innovazione tecnologica e la digitalizzazione Boccia, Ministro per gli affari regionali e le autonomie Amendola, Ministro per gli affari europei Visto, il Guardasigilli: Bonafede

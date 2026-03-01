@@ -1,0 +1,3 @@
+Art. 2-bis.
+
+((ARTICOLO ABROGATO DAL D.LGS. 31 MARZO 2023, N. 36))
