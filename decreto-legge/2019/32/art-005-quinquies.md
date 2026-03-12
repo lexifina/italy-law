@@ -1,0 +1,3 @@
+Art. 5-quinquies.
+
+((ARTICOLO ABROGATO DAL D.L. 16 GIUGNO 2022, N. 68))
