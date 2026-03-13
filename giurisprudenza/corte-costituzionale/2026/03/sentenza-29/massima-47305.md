@@ -1,0 +1,23 @@
+# Massima n. 47305
+
+- Pronuncia: Corte costituzionale, sentenza 29/2026 (ECLI:IT:COST:2026:29)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:29
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Bilancio e contabilità pubblica – Contenimento della spesa pubblica – Cassa italiana di previdenza e assistenza dei geometri liberi professionisti (CIPAG) – Partecipazione al contenimento della spesa pubblica – Mezzo alternativo di adempimento – Riversamento forfettario annuale, a decorrere dal 2014, al bilancio dello Stato, ferme restando le disposizioni vigenti che recano vincoli in materia di spese di personale – Irragionevolezza, lesione delle posizioni previdenziali degli iscritti e del principio di buon andamento dell’ente nella gestione amministrativa – Illegittimità costituzionale in parte qua. (Classif. 036004).
+
+## Testo
+
+È dichiarato costituzionalmente illegittimo, per violazione degli artt. 3, primo comma, 38, secondo comma, e 97 Cost., l’art. 1, comma 417, della legge n. 147 del 2013, nella parte in cui prevede, a decorrere dall’anno 2014, un riversamento forfettario annuale a favore del bilancio dello Stato (pari al 15% della spesa sostenuta per consumi intermedi nel 2010) da parte della Cassa italiana di previdenza e assistenza dei geometri liberi professionisti (CIPAG), quale mezzo alternativo di adempimento alla normativa in materia di contenimento della spesa pubblica, ferme restando le disposizioni che recano vincoli in materia di spese di personale. Il trasferimento allo Stato degli importi frutto dei risparmi della CIPAG, ente previdenziale di diritto privato, previsto dal primo periodo del citato comma 417, e censurato dalla Corte d’appello di Roma, prima sez. civ., è irragionevole e lesivo delle posizioni previdenziali degli iscritti e del principio del buon andamento dell’ente nella gestione amministrativa. Lungi, infatti, dal configurarsi come contributo straordinario che faccia fronte a una contingente crisi economica, tale riversamento è un’imposizione introdotta in via stabile e rimasta in vigore fino al 2020. Né la facoltatività di provvedere alla corresponsione forfettaria, che pure preserva l’autonomia gestionale, organizzativa e contabile della CIPAG quanto alle modalità con le quali contenere le proprie uscite, allevia la criticità della previsione rispetto, invece, alla sua autonomia finanziaria: tale trasferimento risulta, infatti, incoerente con i principi dell’autofinanziamento, dell’equilibrio finanziario dell’ente e della stabilità della gestione previdenziale nel lungo periodo. Il meccanismo censurato determina, pertanto, un incongruo sacrificio dell’interesse della Cassa a trattenere i risparmi conseguiti dalla riduzione dei propri consumi e destinarli all’impiego nell’attività previdenziale, a vantaggio di un generico interesse dello Stato a incrementare le sue entrate in modo marginale, che non trova giustificazione nel finanziamento di altri interessi costituzionalmente tutelati né nei principi del concorso all’equilibrio di bilancio e alla sostenibilità del debito pubblico; così facendo la norma opera un irragionevole bilanciamento degli interessi in gioco. Il riversamento censurato lede, poi, gli interessi degli iscritti in quanto decurta i proventi dell’ente, che costituiscono la provvista per le prestazioni previdenziali e assistenziali; è leso, infine, anche l’interesse della stessa Cassa a svolgere i propri compiti in un sistema improntato al buon andamento, principio cui la stessa è soggetta in quanto, seppur dotata di personalità giuridica di diritto privato, svolge attività di carattere pubblicistico. L’illegittimità costituzionale del primo periodo dell’art. 1, comma 417, comporta che, per la CIPAG, è privo di autonoma portata normativa anche il successivo secondo periodo, che ribadisce l’effetto sostitutivo del riversamento forfettario rispetto alla normativa sul contenimento della spesa pubblica, ferme le disposizioni sulle spese per il personale. (Precedenti: S. 210/2022 - mass. 45080; S. 67/2018 - mass. 40512; S. 7/2017 - mass. 39434; S. 262/2020; S. 125/2018; S. 248/1997 - mass. 23460; S. 404/2000 - mass. 25673: S. 390/1995 - mass. 22465; S. 88/1995 - mass. 22005; S. 78/1995; O. 340/2000 - mass. 25570; O. 214/1999 - mass. 24728).
+
+## Norme
+
+- legge, 27/12/2013 n. 147, art. 1, comma 417
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 38, comma 2
+- Costituzione, art. 97
