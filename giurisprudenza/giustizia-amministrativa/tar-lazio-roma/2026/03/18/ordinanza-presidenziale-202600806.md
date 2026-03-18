@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza presidenziale n. 806/2026
+
+- Tipo: ORDINANZA PRESIDENZIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE PRIMA BIS
+- Numero provvedimento: 202600806
+- Numero di ricorso (NRG): 202313778
+- Data di pubblicazione: 2026-03-18
+- Udienza: PROCESSO MONOCRATICO
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2023-10-19
+- Oggetto del ricorso: ACCERTAMENTO DEL DIRITTO DEI RICORRENTI ALLA CORRESPONSIONE DELL’INDENNITÀ DI SERVIZIO AEREO IN RELAZIONE ALL’INTERO TURNO OPERATIVO DI CUI ALL’ARTICOLO 16 DEL D.P.R. N. 56 DEL 20 APRILE 2022 - RECEPIMENTO DEL PROVVEDIMENTO DI CONCERTAZIONE PER IL PERSONALE NON DIRIGENTE DELLE FORZE ARMATE «TRIENNIO 2019-2021»
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/a5f3f4b8-1d3f-4057-9576-da813e689363/download/tar-lazio-roma-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
