@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, ordinanza collegiale n. 662/2026
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202600662
+- Numero di ricorso (NRG): 202400029
+- Data di pubblicazione: 2026-03-25
+- Udienza: UDIENZA PUBBLICA
+- Esito: RINVIA AD ALTRA DATA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2024-01-18
+- Oggetto del ricorso: PROVVEDIMENTO DI DINIEGO IN DATA 31 OTTOBRE U.S., PROT. N. 31134/2022-35002/2023 IN RELAZIONE ALLA RICHIESTA DI ACCERTAMENTO DI CONFORMITÀ EX ART. 36 T.U.E. N. 380/2001 PER OPERE ESEGUITE IN DIFFORMITÀ DALLA CONCESSIONE EDILIZIA C.E. N. 469/C/90, A FIRMA CONGIUNTA DEL RESPONSABILE DEL PROCEDIMENTO E DEL DIRIGENTE III SETTORE URBANISTICA, CULTURA, SERVIZI AI CITTADINI ED ALLE IMPRESE DELLA CITTÀ DI ORBASSANO, NOTIFICATO A MEZZO POSTA ELETTRONICA CERTIFICATA IN DATA 31 OTTOBRE U.S.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/023e7b8d-5fa0-4d2f-8033-3622311cd558/resource/0508bd86-f85a-4d53-87e3-d4b79eb1b75c/download/tar-piemonte-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
