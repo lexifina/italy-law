@@ -12,7 +12,7 @@ L'offesa non puo' altresi' essere ritenuta di particolare tenuita' quando si pro
 
 2) per i delitti previsti dagli articoli 336, 337 e 341-bis, quando il fatto e' commesso nei confronti di un ufficiale o agente di pubblica sicurezza o di un ufficiale o agente di polizia giudiziaria nell'esercizio delle proprie funzioni, nonche' per il delitto previsto dall'articolo 343;
 
-3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter; ((388))
+3) per i delitti, consumati o tentati, previsti dagli articoli 314, primo comma, 317, 318, 319, 319-bis, 319-ter, 319-quater, primo comma, 320, 321, 322, 322-bis, 391-bis, 423, 423-bis, 558-bis, 582, nelle ipotesi aggravate ai sensi degli articoli 576, primo comma, numeri 2, 5 e 5.1, e 577, primo comma, numero 1, e secondo comma, 583, secondo comma, 583-bis, 593-ter, 600-bis, 600-ter, primo comma, 609-bis, 609-quater, 609-quinquies, 609-undecies, 612- bis, 612-ter, 613-bis, 628, terzo comma, 629, 644, 648-bis, 648-ter; (388) ((393)).
 
 4) per i delitti, consumati o tentati, previsti dall'articolo 19, quinto comma, della legge 22 maggio 1978, n. 194, dall'articolo 73 del decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, salvo che per i delitti di cui al comma 5 del medesimo articolo, e dagli articoli 184 e 185 del decreto legislativo 24 febbraio 1998, n. 58;
 
@@ -45,3 +45,11 @@ La Corte Costituzionale con sentenza 20 ottobre - 27 novembre 2025, n. 172 (in G
 AGGIORNAMENTO (388)
 
 La Corte Costituzionale con sentenza 20 novembre 2025 - 22 gennaio 2026, n. 5 (in G.U. 1ª s.s. 28/1/2026, n. 4), ha dichiarato "l'illegittimita' costituzionale dell'art. 131-bis, terzo comma, numero 3), del codice penale, nella parte in cui prevede che l'offesa non puo' essere ritenuta di particolare tenuita' quando si procede per il delitto previsto dall'art. 423-bis, secondo comma, cod. pen.".
+
+---------------
+
+AGGIORNAMENTO (393)
+
+La Corte Costituzionale con sentenza 23 febbraio - 31 marzo 2026, n. 44 (in G.U. 1ª s.s. 01/04/2026, n. 13), ha dichiarato "l'illegittimita' costituzionale dell'art. 131-bis, terzo comma, numero 3), del codice penale, nella parte in cui prevede che l'offesa non puo' essere ritenuta di particolare tenuita' quando si procede per il delitto tentato previsto dall'art. 629, primo comma, cod.
+
+pen.".
