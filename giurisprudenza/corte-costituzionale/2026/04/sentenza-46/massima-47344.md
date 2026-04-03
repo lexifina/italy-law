@@ -1,0 +1,13 @@
+# Massima n. 47344
+
+- Pronuncia: Corte costituzionale, sentenza 46/2026 (ECLI:IT:COST:2026:46)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:46
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Capacità contributiva - In genere - Espressione del principio di uguaglianza sul piano tributario - Definizione - Idoneità del soggetto all'obbligazione d'imposta, sulla base di indici rivelatori di ricchezza individuati discrezionalmente dal legislatore - Conseguente divieto di scelte arbitrarie e irrazionali. (Classif. 044001).
+
+## Testo
+
+Per capacità contributiva si deve intendere l’idoneità del soggetto all’obbligazione d’imposta, desumibile dal presupposto economico cui l’imposizione è collegata, presupposto che consiste in qualsiasi indice rivelatore di ricchezza, secondo valutazioni riservate al legislatore, salvo il controllo di legittimità costituzionale sotto il profilo della loro arbitrarietà o irrazionalità. Pertanto, in un contesto complesso come quello contemporaneo, dove si sviluppano nuove e multiformi creazioni di valore, il concetto di capacità contributiva non necessariamente deve rimanere legato solo a indici tradizionali come il patrimonio e il reddito, potendo rilevare anche altre e più evolute forme di capacità, che ben possono denotare una forza o una potenzialità economica. Un elevato fatturato ben può considerarsi dunque un valido indice rivelatore di ricchezza e quindi di capacità contributiva in quanto denota la conclusione di un numero considerevole di contratti e un notevole volume d’affari e, pertanto, una rilevante presenza sul mercato, indicativa della detenzione di una quota significativa di tale mercato. (Precedenti: S. 34/2025 - mass. 46745; S. 108/2023 - mass. 45555; S. 201/2014).Al legislatore spetta un’ampia discrezionalità in relazione alle varie finalità alle quali s’ispira l’attività di imposizione fiscale, con il solo il limite della non arbitrarietà e della non manifesta irragionevolezza e sproporzione. (Precedenti: S. 269/2017 - mass. 41950; S. 240/2017 - mass. 40616).Il legislatore gode di un’ampia discrezionalità nell’individuazione della soglia che garantisce i mezzi adeguati alle esigenze di vita, essendo chiamato a operare un complesso bilanciamento di interessi, che risente del tipo di interessi coinvolti. Tale discrezionalità incontra il solo limite della manifesta irragionevolezza e sproporzione. (Precedente: S. 216/2025 - mass. 47224).
