@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, ordinanza collegiale n. 6557/2026
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE QUARTA BIS
+- Numero provvedimento: 202606557
+- Numero di ricorso (NRG): 202508255
+- Data di pubblicazione: 2026-04-13
+- Udienza: UDIENZA PUBBLICA
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-07-17
+- Oggetto del ricorso: D.M. 77/2025 - PERCORSI DI SPECIALIZZAZIONE PER LE ATTIVITÀ DI SOSTEGNO DIDATTICO AGLI ALUNNI CON DISABILITÀ ATTIVATI AI SENSI DELL’ART. 7 DEL D.L , N. 71/2024 CONVERTITO, CON MODIFICAZIONI, DALLA L. N. 106/2024 - TEMPISTICHE PER L’ESPRESSIONE DELLA RINUNCIA AL RICONOSCIMENTO DEL TITOLO CONSEGUITO ALL'ESTERO - RIGETTO ISTANZA DI RINUNCIA IN QUANTO LA DOMANDA DI RICONOSCIMENTO DEL TITOLO ESTERO SUL SOSTEGNO È STATA CHIUSA CON PROVVEDIMENTO DI RIGETTO IN DATA ANTECEDENTE AL 1° GIUGNO 2024
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/33b66783-77b0-4d42-af9e-13f122f2f78c/resource/a5f3f4b8-1d3f-4057-9576-da813e689363/download/tar-lazio-roma-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
