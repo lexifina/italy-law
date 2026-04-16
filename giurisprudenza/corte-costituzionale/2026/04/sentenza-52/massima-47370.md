@@ -1,0 +1,24 @@
+# Massima n. 47370
+
+- Pronuncia: Corte costituzionale, sentenza 52/2026 (ECLI:IT:COST:2026:52)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:52
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Previdenza - In genere - Perequazione automatica degli importi - Possibile introduzione di meccanismi di raffreddamento - Ammissibilità, stante il necessario bilanciamento tra l'adeguatezza pensionistica e la proporzionalità e sufficienza della retribuzione con le esigenze della finanza pubblica - Conseguente esclusione che sussista un obbligo costituzionale di rivalutazione annuale automatica di tutti i trattamenti pensionistici e che la rivalutazione debba essere garantita, nella medesima misura, a tutti i percettori (nel caso di specie: non fondatezza delle questioni aventi ad oggetto le disposizioni che, per gli anni 2023-2024, introducono un meccanismo di perequazione mediante l'adozione del sistema di calcolo c.d. "a blocchi", in alternativa al sistema c.d. "per fasce"). (Classif. 190001).
+
+## Testo
+
+La copertura costituzionale dell’istituto della perequazione automatica non consente di concludere che la rivalutazione debba necessariamente, anno per anno, essere riconosciuta a tutti i trattamenti di quiescenza e, ancor meno, che essa debba essere garantita nella medesima misura per tutti i titolari di pensione. Al contrario, il nesso tra l’adeguatezza pensionistica presidiata dall’art. 38, secondo comma, Cost., e la proporzionalità e sufficienza della retribuzione percepita durante la vita attiva, presidiata dall’art. 36, primo comma, Cost., deve considerarsi solo tendenziale e non si presta ad essere declinato in senso rigido, dovendosi riconoscere al legislatore un significativo margine di discrezionalità nella determinazione del quantum alla luce di un necessario bilanciamento con le esigenze della finanza pubblica.(Nel caso di specie, sono dichiarate non fondate le questioni di legittimità costituzionale, sollevate dal Tribunale di Trento, sez. per le controversie di lavoro, in composizione monocratica, in riferimento agli artt. 3, primo comma, 36, primo comma, e 38, secondo comma, Cost., dell’art. 1, comma 309, della legge n. 197 del 2022, e dell’art. 1, comma 135, della legge n. 213 del 2023, i quali stabiliscono, per le annualità 2023 e 2024, le aliquote di rivalutazione automatica dei trattamenti pensionistici secondo percentuali calcolate con riferimento all’importo complessivo dei trattamenti medesimi – c.d. sistema “a blocchi” –, anziché sulle distinte fasce di importo degli stessi – c.d. sistema “a scaglioni”. Il meccanismo censurato – introdotto in origine nel 2013 e poi riproposto fino al 2021 come “deroga” rispetto al calcolo “per fasce” per fronteggiare situazioni di difficoltà per le finanze pubbliche – “raffredda” la dinamica perequativa, comportando conseguenze in peius per il titolare del beneficio, fino al rischio di vedere l’importo della pensione “appiattito” su quello di trattamenti originariamente più modesti. Tale “allineamento” tra classi reddituali diverse non è però lesivo dei parametri evocati, perché i contestati effetti di “allineamento” e di “appiattimento” si assestano su valori esigui, cui non può riconoscersi un ruolo determinante in chiave di sindacato di proporzionalità riguardante i trattamenti pensionistici coinvolti. In tale quadro, non è poi irrilevante considerare che l’aumento perequativo delle pensioni, anche di quelle di più alto importo, rimane comunque garantito, ancorché in misura minore, pure a seguito dell’adozione del sistema di calcolo “a blocchi”. Seppure, rispetto agli altri strumenti di raffreddamento, quello in esame comporta, come conseguenza contabile, la produzione di un limitato effetto di sorpasso, esso è connaturato a questo sistema, previsto e ponderato dal legislatore il quale, per entrambe le disposizioni censurate, è intervenuto al fine di neutralizzarlo, mediante la previsione di clausole di salvaguardia. Una volta chiarito che il principio di proporzionalità non può ritenersi intaccato in considerazione delle marginali variazioni che sussistono tra le pensioni “allineate” per effetto del calcolo della rivalutazione “a blocchi”, ciò esclude anche la manifesta irragionevolezza del sistema). (Precedenti: S. 167/2025 - mass. 47094; S. 19/2025 - mass. 46652; S. 234/2020 - mass. 43231; S. 259/2017 - mass. 40562; S. 70/2015 - mass. 38332; S. 226/1993 - mass. 19625).
+
+## Norme
+
+- legge, 29/12/2022 n. 197, art. 1, comma 309
+- legge, 30/12/2023 n. 213, art. 1, comma 135
+
+## Parametri
+
+- Costituzione, art. 3, comma 1
+- Costituzione, art. 36, comma 1
+- Costituzione, art. 38, comma 2
