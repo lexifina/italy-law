@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 19 settembre 2023
+
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Fitto, Ministro per gli affari europei, il Sud, le politiche di coesione e il PNRR Zangrillo, Ministro per la pubblica amministrazione Calderoli, Ministro per gli affari regionali e le autonomie Abodi, Ministro per lo sport e i giovani Giorgetti, Ministro dell'economia e delle finanze Piantedosi, Ministro dell'interno Salvini, Ministro delle infrastrutture e dei trasporti Urso, Ministro delle imprese e del made in Italy Tajani, Ministro degli affari esteri e della cooperazione internazionale Pichetto Fratin, Ministro dell'ambiente e della sicurezza energetica Sangiuliano, Ministro della cultura Musumeci, Ministro per la protezione civile e le politiche del mare Crosetto, Ministro della difesa Visto, il Guardasigilli: Nordio
