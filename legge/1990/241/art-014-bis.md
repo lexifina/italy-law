@@ -20,17 +20,17 @@ il termine perentorio, non superiore a quindici giorni, entro il quale le ammini
 
 c)
 
-((il termine perentorio, comunque non superiore a trenta giorni, entro il quale le amministrazioni coinvolte devono rendere le proprie determinazioni relative alla decisione oggetto della conferenza, fermo restando l'obbligo di rispettare il termine finale di conclusione del procedimento. Se tra le suddette amministrazioni vi sono amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali, della salute dei cittadini o dell'incolumita' pubblica, il suddetto termine e' fissato in sessanta giorni, fatti salvi i maggiori termini previsti dalle disposizioni del diritto dell'Unione europea.))
+il termine perentorio, comunque non superiore a trenta giorni, entro il quale le amministrazioni coinvolte devono rendere le proprie determinazioni relative alla decisione oggetto della conferenza, fermo restando l'obbligo di rispettare il termine finale di conclusione del procedimento. Se tra le suddette amministrazioni vi sono amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali, della salute dei cittadini o dell'incolumita' pubblica, il suddetto termine e' fissato in sessanta giorni, fatti salvi i maggiori termini previsti dalle disposizioni del diritto dell'Unione ((europea;))
 
 d)
 
-la data della eventuale riunione in modalita' sincrona di cui all'articolo 14-ter, da tenersi entro dieci giorni dalla scadenza del termine di cui alla lettera c), fermo restando l'obbligo di rispettare il termine finale di conclusione del procedimento.
+la data della eventuale riunione in ((modalita' telematica di cui al comma 6)), da tenersi entro dieci giorni dalla scadenza del termine di cui alla lettera c), fermo restando l'obbligo di rispettare il termine finale di conclusione del procedimento.
 
 3.
 
-Entro il termine di cui al comma 2, lettera c), le amministrazioni coinvolte rendono le proprie determinazioni, relative alla decisione oggetto della conferenza. ((Tali determinazioni, congruamente motivate, sono formulate in termini di assenso o dissenso e indicano le prescrizioni e le misure mitigatrici che rendano possibile l'assenso, quantificando altresi', ove possibile, i relativi costi. Tali prescrizioni sono determinate conformemente ai principi di proporzionalita', efficacia e sostenibilita' finanziaria dell'intervento risultante dal progetto originariamente presentato.
+Entro il termine di cui al comma 2, lettera c), le amministrazioni coinvolte rendono le proprie determinazioni, relative alla decisione oggetto della conferenza. Tali determinazioni, congruamente motivate, sono formulate in termini di assenso o dissenso e indicano le prescrizioni e le misure mitigatrici che rendano possibile l'assenso, quantificando altresi', ove possibile, i relativi costi. Tali prescrizioni sono determinate conformemente ai principi di proporzionalita', efficacia e sostenibilita' finanziaria dell'intervento risultante dal progetto originariamente presentato.
 
-Le disposizioni di cui al presente comma si applicano, senza deroghe, a tutte le amministrazioni comunque partecipanti alla conferenza di servizi, comprese quelle competenti in materia urbanistica, paesaggistica, archeologica e di tutela del patrimonio culturale.))
+Le disposizioni di cui al presente comma si applicano, senza deroghe, a tutte le amministrazioni comunque partecipanti alla conferenza di servizi, comprese quelle competenti in materia urbanistica, paesaggistica, archeologica ((e di tutela del patrimonio culturale e ambientale, della salute dei cittadini e dell'incolumita' pubblica))
 
 4.
 
@@ -44,13 +44,13 @@ L'amministrazione procedente trasmette alle altre amministrazioni coinvolte le e
 
 6.
 
-((Fuori dei casi di cui al comma 5, l'amministrazione procedente, ai fini dell'esame contestuale degli interessi coinvolti, svolge nella data fissata ai sensi del comma 2, lettera d), e con le modalita' di cui all'articolo 14-ter, comma 4, una riunione telematica di tutte le amministrazioni coinvolte, nella quale prende atto delle rispettive posizioni e procede senza ritardo alla stesura della determinazione motivata conclusiva della conferenza di servizi, avverso la quale puo' essere proposta opposizione dalle amministrazioni di cui all'articolo 14-quinquies, ai sensi e nei termini ivi indicati. Si considera in ogni caso acquisito l'assenso senza condizioni delle amministrazioni che non abbiano partecipato alla riunione ovvero, pur partecipandovi, non abbiano espresso la propria posizione, ovvero abbiano espresso un dissenso non motivato ai sensi del comma 3 o riferito a questioni che non costituiscono oggetto della conferenza.))
+Fuori dei casi di cui al comma 5, l'amministrazione procedente, ai fini dell'esame contestuale degli interessi coinvolti, svolge nella data fissata ai sensi del comma 2, lettera d), e con le modalita' di cui all'articolo 14-ter, comma 4, una riunione telematica di tutte le amministrazioni coinvolte, nella quale prende atto delle rispettive posizioni e procede senza ritardo alla stesura della determinazione motivata conclusiva della conferenza di servizi ((sulla base delle posizioni prevalenti espresse dalle amministrazioni partecipanti tramite i rispettivi rappresentanti)), avverso la quale puo' essere proposta opposizione dalle amministrazioni di cui all'articolo 14-quinquies, ai sensi e nei termini ivi indicati. Si considera in ogni caso acquisito l'assenso senza condizioni delle amministrazioni che non abbiano partecipato alla riunione ovvero, pur partecipandovi, non abbiano espresso la propria posizione, ovvero abbiano espresso un dissenso non motivato ai sensi del comma 3 o riferito a questioni che non costituiscono oggetto della conferenza.
 
 7.
 
-Ove necessario, in relazione alla particolare complessita' della determinazione da assumere, l'amministrazione procedente puo' comunque procedere direttamente in forma simultanea e in modalita' sincrona, ai sensi dell'articolo 14-ter. In tal caso indice la conferenza comunicando alle altre amministrazioni le informazioni di cui alle lettere a) e b) del comma 2 e convocando la riunione entro i successivi ((trenta giorni)). L'amministrazione procedente puo' altresi' procedere in forma simultanea e in modalita' sincrona su richiesta motivata delle altre amministrazioni o del privato interessato avanzata entro il termine perentorio di cui al comma 2, lettera b). In tal caso la riunione e' convocata nei successivi ((trenta giorni)) 2.
+Ove necessario, in relazione alla particolare complessita' della determinazione da assumere, l'amministrazione procedente puo' comunque procedere direttamente in forma simultanea e in modalita' sincrona, ai sensi dell'articolo 14-ter. In tal caso indice la conferenza comunicando alle altre amministrazioni le informazioni di cui alle lettere a) e b) del comma 2 e convocando la riunione entro i successivi trenta giorni. L'amministrazione procedente puo' altresi' procedere in forma simultanea e in modalita' sincrona su richiesta motivata delle altre amministrazioni o del privato interessato avanzata entro il termine perentorio di cui al comma 2, lettera b).
 
-(38)
+In tal caso la riunione e' convocata nei successivi trenta giorni 2. (38)
 
 ----------
 

@@ -12,7 +12,7 @@ Al fine di rendere effettivo il diritto di cui all'articolo 7, comma 01, i sogge
 
 1-ter.
 
-I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete ((, nel rispetto del principio di neutralita' tecnologica,)) tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12.
+I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili i propri servizi in rete, nel rispetto del principio di neutralita' tecnologica, tramite applicazione su dispositivi mobili anche attraverso il punto di accesso telematico di cui al presente articolo, salvo impedimenti di natura tecnologica attestati dalla societa' di cui all'articolo 8, comma 2 del decreto-legge 14 dicembre 2018, n. 135, convertito, con modificazioni, dalla legge 11 febbraio 2019, n. 12.
 
 1-quater.
 
@@ -21,3 +21,7 @@ I soggetti di cui all'articolo 2, comma 2, lettera a), rendono fruibili tutti i 
 1-quinquies.
 
 La violazione dell'articolo 64, comma 3-bis e delle disposizioni di cui al presente articolo, costituisce mancato raggiungimento di uno specifico risultato e di un rilevante obiettivo da parte dei dirigenti responsabili delle strutture competenti e comporta la riduzione, non inferiore al 30 per cento della retribuzione di risultato e del trattamento accessorio collegato alla performance individuale dei dirigenti competenti, oltre al divieto di attribuire premi o incentivi nell'ambito delle medesime strutture.
+
+1-sexies.
+
+((Ai minori che abbiano compiuto il quattordicesimo anno di eta' sono consentiti l'accesso e l'utilizzo del punto di accesso telematico di cui al presente articolo, anche per l'ottenimento e l'esibizione di attestazioni, titoli o abilitazioni aventi effetti giuridici, compresi quelli resi disponibili mediante il Sistema di portafoglio digitale italiano (Sistema IT-Wallet) di cui all'articolo 64-quater, senza che sia necessario l'assenso dell'esercente la responsabilita' genitoriale, fatti salvi i casi in cui la legge richieda espressamente l'intervento o l'autorizzazione dell'esercente la responsabilita' genitoriale per l'ottenimento di specifiche attestazioni, titoli o abilitazioni ovvero per la fruizione di specifici servizi)).

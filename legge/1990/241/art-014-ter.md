@@ -4,11 +4,11 @@ Art. 14-ter.
 
 1.
 
-La prima riunione della conferenza di servizi in forma simultanea e in modalita' sincrona si svolge nella data previamente comunicata ai sensi dell'articolo 14-bis, comma 2, lettera d), ovvero nella data fissata ai sensi dell'articolo 14-bis, comma 7, con la partecipazione contestuale, ove possibile anche in via telematica, dei rappresentanti delle amministrazioni competenti.
+La prima riunione della conferenza di servizi in forma simultanea e in modalita' sincrona si svolge ((...)) nella data fissata ai sensi dell'articolo 14-bis, comma 7, con la partecipazione contestuale, ove possibile anche in via telematica, dei rappresentanti delle amministrazioni competenti.
 
 2.
 
-I lavori della conferenza si concludono non oltre ((trenta giorni)) decorrenti dalla data della riunione di cui al comma 1. Nei casi di cui all'articolo 14-bis, comma 7, qualora siano coinvolte amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute dei cittadini, il termine e' fissato in ((sessanta giorni)). Resta fermo l'obbligo di rispettare il termine finale di conclusione del procedimento.
+I lavori della conferenza si concludono non oltre trenta giorni decorrenti dalla data della riunione di cui al comma 1. Nei casi di cui all'articolo 14-bis, comma 7, qualora siano coinvolte amministrazioni preposte alla tutela ambientale, paesaggistico-territoriale, dei beni culturali e della salute dei cittadini, il termine e' fissato in sessanta giorni. Resta fermo l'obbligo di rispettare il termine finale di conclusione del procedimento.
 
 3.
 
