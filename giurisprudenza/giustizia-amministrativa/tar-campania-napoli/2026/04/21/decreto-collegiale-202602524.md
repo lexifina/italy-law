@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, decreto collegiale n. 2524/2026
+
+- Tipo: DECRETO COLLEGIALE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SETTIMA
+- Numero provvedimento: 202602524
+- Numero di ricorso (NRG): 202403743
+- Data di pubblicazione: 2026-04-21
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: LIQUIDA IL COMPENSO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2024-07-31
+- Oggetto del ricorso: DEL SILENZIO SERBATO DALL’AMMINISTRAZIONE A FRONTE DELL’ISTANZA/DIFFIDA, TRASMESSA A MEZZO PEC IN DATA 31.05.2024, CON LA QUALE LA RICORRENTE HA CHIESTO DI CONOSCERE SE È O MENO INTERVENUTA ATTIVITÀ PROVVEDIMENTALE CON LA QUALE SI È PROCEDUTO ALLA MODIFICA DELLA TOPONOMASTICA COMUNALE, OVVERO – SEGNATAMENTE – ALLA MODIFICA DEL CIVICO “VIA AMERIGO VESPUCCI N. 3” NEL CIVICO “VIA AMERIGO VESPUCCI N. 25”
+- Tipo di ricorso: SILENZIO P.A. (ex art. 117 c.p.a.)
+- Membri del collegio: 2
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/fdcad8db-82d3-4c60-b5e5-b0cc18c7b85e/resource/f80bfaf2-9962-44f4-a0ec-21fda96571d1/download/tar-campania-napoli-decreti-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
