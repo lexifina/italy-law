@@ -1,5 +1,5 @@
 Art. 2409-quinquiesdecies.
 
-(( (Revisione legale).))
+(Revisione legale ((dei conti)) ).
 
-((La revisione legale dei conti e' svolta a norma dell'articolo 2409-bis, primo comma.))
+((Il consiglio di sorveglianza e i soggetti incaricati della revisione legale dei conti si scambiano tempestivamente le informazioni rilevanti per l'espletamento dei rispettivi compiti.))

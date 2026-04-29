@@ -4,9 +4,9 @@ Art. 2393-bis.
 
 L'azione sociale di responsabilita' puo' essere esercitata anche dai soci che rappresentino almeno un quinto del capitale sociale o la diversa misura prevista nello statuto, comunque non superiore al terzo.
 
-Nelle societa' che fanno ricorso al mercato del capitale di rischio, l'azione di cui al comma precedente puo' essere esercitata dai soci che rappresentino ((un quarantesimo)) del capitale sociale o la minore misura prevista nello statuto.
+Nelle societa' che fanno ricorso al mercato del capitale di rischio, l'azione di cui al comma precedente puo' essere esercitata dai soci che rappresentino un quarantesimo del capitale sociale o la minore misura prevista nello statuto.
 
-La societa' deve essere chiamata in giudizio e l'atto di citazione e' ad essa notificato anche in persona del presidente del collegio sindacale.
+La societa' deve essere chiamata in giudizio e l'atto di citazione e' ad essa notificato anche in persona del presidente ((dell'organo di controllo)).
 
 I soci che intendono promuovere l'azione nominano, a maggioranza del capitale posseduto, uno o piu' rappresentanti comuni per l'esercizio dell'azione e per il compimento degli atti conseguenti.
 
