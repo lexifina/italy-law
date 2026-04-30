@@ -1,0 +1,25 @@
+# Massima n. 47453
+
+- Pronuncia: Corte costituzionale, sentenza 64/2026 (ECLI:IT:COST:2026:64)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:64
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Processo penale - Incompatibilità del giudice - Pregiudizio alla sua imparzialità - Configurabilità in caso, rispettivamente, di concorso di persone nel reato e di reati a concorso necessario - Insussistenza, quando il giudice si trova di fronte, a seguito della separazione, a diversi procedimenti - Possibile motivo di incompatibilità nel successivo processo quando la posizione di uno dei concorrenti è essenziale per la configurabilità del reato contestato agli altri - Requisito - Condizionamento, in concreto, della possibilità di pervenire successivamente a diversa decisione per il singolo imputato sottoposto a giudizio - Sufficienza della mera constatazione, in astratto, della natura di reato a concorso necessario - Esclusione (nel caso di specie: non fondatezza delle questioni relative alla disposizione che non prevede l'incompatibilità del giudice che, all'udienza di comparizione predibattimentale, ha emesso, nei confronti di altra persona imputata del medesimo fatto, il provvedimento di prosecuzione del giudizio davanti al diverso giudice del dibattimento, ex art. 554-ter, comma 3, cod. proc. pen., alla partecipazione al successivo giudizio abbreviato, nei confronti di una persona imputata del reato di rissa). (Classif. 199028).
+
+## Testo
+
+Non si realizza una situazione di pregiudizio per l’imparzialità del giudice nell’ambito dello stesso procedimento quando un procedimento inizialmente unico abbia dato origine a diversi procedimenti, destinati, dopo la separazione, alcuni alla successiva definizione dibattimentale e altri alla trattazione nelle forme del giudizio abbreviato; in tali casi, infatti, alla comunanza dell’imputazione fa riscontro una pluralità di condotte distintamente ascrivibili a ciascuno dei concorrenti, tali da formare oggetto di autonome valutazioni, scindibili l’una dall’altra, sotto il profilo tanto materiale che psicologico. (Precedenti: S. 439/1993; S. 186/1992 - mass. 18202; O. 86/2013 - mass. 37054, 37055).Nelle ipotesi di reato a concorso necessario – in cui per il perfezionamento della fattispecie criminosa è richiesta la partecipazione di un numero minimo di persone – quando la posizione di uno dei concorrenti costituisce elemento essenziale per la configurabilità del reato contestato agli altri concorrenti, la valutazione di tale posizione, dalla quale non si sia potuto prescindere ai fini dell’accertamento della responsabilità degli imputati, può costituire motivo di incompatibilità nel successivo processo a carico del medesimo concorrente. Non è, tuttavia, sufficiente per affermare una situazione di incompatibilità la mera constatazione, in astratto, della natura di reato a concorso necessario del fatto per cui si procede, occorrendo, invece, che il giudizio già reso condizioni, in concreto, la possibilità di pervenire successivamente a diversa decisione per il singolo imputato sottoposto a giudizio. (Precedente: S. 371/1996 - mass. 22903; O. 86/2013 - mass. 37054, 37055; O. 105/1999 - mass. 24572).(Nel caso di specie, sono dichiarate non fondate le questioni di legittimità costituzionale, sollevate dal Tribunale di Siena, sez. pen., in composizione monocratica, in riferimento agli artt. 24, secondo comma, 111, secondo comma, e 117, primo comma, Cost., quest’ultimo in relazione all'art. 6, par. 1, CEDU e all’art. 14, par. 1 PIDCP, dell’art. 34, comma 2, cod. proc. pen., nella parte in cui non prevede che non possa partecipare al successivo giudizio abbreviato, nei confronti di una persona imputata del reato di rissa, di cui all’art. 588 cod. pen., il giudice che ha emesso, nei confronti di altra persona imputata del medesimo fatto, il provvedimento di cui all’art. 554-ter, comma 3, cod. proc. pen., con cui all’esito dell’udienza predibattimentale, è stata disposta la prosecuzione del giudizio innanzi al diverso giudice del dibattimento. Nel caso in esame non si è verificata una situazione di pregiudizio per l’imparzialità nell’ambito dello stesso procedimento; né si versa nell’ipotesi in cui il reato non possa dirsi perfezionato senza il concorso della persona nei cui confronti si procede separatamente; né, infine, la valutazione della sua condotta costituisce elemento essenziale per la stessa configurabilità della fattispecie criminosa contestata agli altri concorrenti). (Precedente: S. 179/2024 - mass. 46474).
+
+## Norme
+
+- codice di procedura penale, art. 34, comma 2
+
+## Parametri
+
+- patto internazionale dei diritti civili e politici, art. 14 par.1
+- Convenzione per la salvaguardia dei diritti dell'uomo e delle libertà fondamentali, art. 6 par.1
+- Costituzione, art. 24, comma 2
+- Costituzione, art. 111, comma 2
+- Costituzione, art. 117, comma 1
