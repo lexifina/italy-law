@@ -1,0 +1,13 @@
+# Massima n. 47480
+
+- Pronuncia: Corte costituzionale, sentenza 62/2026 (ECLI:IT:COST:2026:62)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:62
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Legge - Leggi interpretative - Disposizione di interpretazione autentica - Necessaria riconducibilità a uno dei significati desumibili dalla disposizione interpretata, anche in mancanza di contrasti giurisprudenziali - Ratio - Chiarificazione del senso di norme preesistenti, anche per favorirne l'applicazione - Necessità che la disposizione interpretativa rientri nell'ambito delle possibili varianti di senso del testo originario - Retroattività delle norme interpretative a quella delle norme interpretate - Limiti - Rispetto del principio di ragionevolezza, della tutela dell'affidamento, della coerenza e della certezza dell'ordinamento giuridico, del rispetto delle funzioni costituzionalmente riservate al potere giudiziario. (Classif. 141004).
+
+## Testo
+
+Requisito essenziale affinché una disposizione possa essere considerata di interpretazione autentica è che essa esprima uno dei significati già desumibili dalla previsione interpretata, e che il suo fine sia quello di chiarire il senso di norme preesistenti ovvero di escludere o di enucleare uno dei sensi fra quelli ritenuti ragionevolmente riconducibili alla norma interpretata, allo scopo di imporre a chi è tenuto ad applicare la disposizione considerata un determinato significato normativo. Quando ciò si verifica, la norma risultante dalla saldatura tra le due disposizioni assume tale significato sin dall’origine, dando luogo ad una retroattività che, nella logica del sintagma unitario, è solo apparente; in ogni caso, la medesima decorrenza temporale delle norme interpretative con quelle interpretate fa sì che anche esse devono rispettare alcuni limiti generali connessi alla loro natura, tra i quali sono ricompresi il rispetto del principio generale di ragionevolezza, che si riflette nel divieto di introdurre ingiustificate disparità di trattamento; la tutela dell’affidamento legittimamente sorto; la coerenza e la certezza dell’ordinamento giuridico; il rispetto delle funzioni costituzionalmente riservate al potere giudiziario. Infine, la verifica della natura genuinamente interpretativa della norma non è indifferente nella valutazione del rispetto dei suddetti principi. (Precedenti: S. 72/2025 - mass. 46802; S. 44/2025- mass. 46701; S. 184/2024; S. 77/2024; S. 73/2017 - mass. 39503).
