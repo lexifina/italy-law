@@ -1,0 +1,19 @@
+# TAR LOMBARDIA - BRESCIA, decreto decisorio n. 35/2026
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR LOMBARDIA - BRESCIA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202600035
+- Numero di ricorso (NRG): 202300297
+- Data di pubblicazione: 2026-05-04
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA ESTINTO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2023-04-12
+- Oggetto del ricorso: ACCESSO AI DOCUMENTI - ATTIVITÀ EDILIZIA DEL CONFINANTE - DINIEGO PARZIALE - PERMESSO DI COSTRUIRE - ANNULLAMENTO
+- Tipo di ricorso: ACCESSO AI DOCUMENTI (ex art. 116 c.p.a.)
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lombardia-brescia-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/dad3bba4-1789-4ca3-bc6b-bc1b8cbdf6be/resource/3c71ba1a-a12e-43dd-9a2c-c923ededed45/download/tar-lombardia-brescia-decreti-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
