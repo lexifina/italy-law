@@ -1,0 +1,19 @@
+# TAR MARCHE - ANCONA, decreto presidenziale n. 169/2026
+
+- Tipo: DECRETO PRESIDENZIALE
+- Sede: TAR MARCHE - ANCONA
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600169
+- Numero di ricorso (NRG): 201800155
+- Data di pubblicazione: 2026-05-09
+- Udienza: PROCESSO MONOCRATICO
+- Esito: RESPINGE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2018-03-27
+- Oggetto del ricorso: APPROVAZIONE DELLA VARIANTE PARZIALE AL PRG DEL COMUNE DI FOSSOMBRONE PER RIQUALIFICAZIONE FUNZIONALE DELLA STRADA COMUNALE S.C. 36 DEL MORGONE CON LA STRADA PROVINCIALE S.P. N. 3 FLAMINIA
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-marche-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/70b125d0-c51c-448f-b690-792eab4a0d62/resource/2e865f65-169b-42a8-bfce-02eaf7512ab6/download/tar-marche-decreti-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
