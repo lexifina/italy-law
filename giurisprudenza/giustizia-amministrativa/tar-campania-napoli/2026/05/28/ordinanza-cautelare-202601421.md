@@ -1,0 +1,19 @@
+# TAR CAMPANIA - NAPOLI, ordinanza cautelare n. 1421/2026
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: TAR CAMPANIA - NAPOLI
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202601421
+- Numero di ricorso (NRG): 202503039
+- Data di pubblicazione: 2026-05-28
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-06-17
+- Oggetto del ricorso: DELL’ORDINANZA DIRIGENZIALE N. 112/2025 AVENTE AD OGGETTO SANZIONE AMMINISTRATIVA PECUNIARIA ART. 31 COMMA 3 E 4 D.P.R. 380/2001, NUMERO INTERNO SANZIONE N.028/S/2023, NOTIFICATA IN DATA 03.04.2025, CON LA QUALE IL COMUNE DI AFRAGOLA INGIUNGEVA IL PAGAMENTO DELLA SANZIONE PECUNIARIA A CARICO DEI RESPONSABILI DELL’ABUSO
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-campania-napoli-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/b5223d77-d1c1-4caa-a191-4f2ddb2d0fd9/resource/887344ab-0775-4621-bacf-7f6df27bacff/download/tar-campania-napoli-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
