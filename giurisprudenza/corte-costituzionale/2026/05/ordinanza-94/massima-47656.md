@@ -1,0 +1,18 @@
+# Massima n. 47656
+
+- Pronuncia: Corte costituzionale, ordinanza 94/2026 (ECLI:IT:COST:2026:94)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:94
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudizio costituzionale per conflitto di attribuzione tra poteri dello Stato - Soggetti legittimati - Legittimazione attiva del Senato della Repubblica - Legittimazione passiva del Procuratore della Repubblica - Sussistenza (nel caso di specie: ammissibilità del ricorso per conflitto di attribuzione tra poteri dello Stato promosso dal Senato della Repubblica nei confronti della Procura della Repubblica presso il Tribunale di Milano sorto a seguito dell'omessa richiesta dell'autorizzazione al Senato della Repubblica di utilizzare materiale probatorio, quali i messaggi di posta elettronica e le audio-registrazioni, nel procedimento penale a carico della senatrice Daniela Garnero Santanchè). (Classif. 114003).
+
+## Testo
+
+Il Senato della Repubblica è legittimato ad essere parte del conflitto di attribuzione, essendo competente a dichiarare definitivamente la volontà del potere che esso impersona, in relazione all’applicabilità delle prerogative di cui all’art. 68, terzo comma, Cost. (Precedenti: O. 168/2025 - mass. 47145; O. 133/2025 - mass. 47129; O. 191/2023 - mass. 45795; O. 62/2023 - mass. 45460; O. 261/2022 - mass. 45197).Deve essere riconosciuta la natura di potere dello Stato al pubblico ministero in quanto investito dell’attribuzione, costituzionalmente garantita, inerente all’esercizio obbligatorio dell’azione penale (art. 112 Cost.), cui si connette la titolarità diretta ed esclusiva delle indagini ad esso finalizzate: funzione con riferimento alla quale il pubblico ministero, organo non giurisdizionale, deve ritenersi competente a dichiarare definitivamente, in posizione di piena indipendenza, la volontà del potere giudiziario cui appartiene (Precedenti: O. 133/2025 - mass. 47129; O. 62/2023 - mass. 45460).(Nel caso di specie, è dichiarato ammissibile, ai sensi dell’art. 37 della legge n. 87 del 1953, il ricorso per conflitto di attribuzione tra poteri dello Stato promosso dal Senato della Repubblica, per violazione dell’art. 68, terzo comma, Cost., nei confronti della Procura della Repubblica presso il Tribunale di Milano in relazione all’acquisizione, nell’ambito del procedimento penale n. 32727/2023 R.G.N.R. - 6582/2024 R.G.G.I.P., di «contenuti di posta elettronica» scambiata dalla senatrice Santanchè e di «audio-registrazioni occulte», effettuate da un soggetto privato, di colloqui cui aveva partecipato la medesima senatrice, coindagata nel citato procedimento, oltre che in relazione alla loro utilizzazione ai fini della successiva richiesta di rinvio a giudizio. Sotto il profilo soggettivo, va riconosciuta la legittimazione del Senato della Repubblica a promuovere conflitto e quella della Procura della Repubblica presso il Tribunale di Milano ad esserne parte. Quanto al requisito oggettivo, sussiste la materia del conflitto, dal momento che il ricorrente lamenta la lesione della propria sfera di attribuzioni, garantita dall’art. 68, terzo comma, Cost., il quale richiede l’autorizzazione della Camera di appartenenza per sottoporre i membri del Parlamento a intercettazioni, in qualsiasi forma, di conversazioni o comunicazioni, e a sequestro di corrispondenza). (Precedente: O. 80/2026 - mass. 47415).
+
+## Parametri
+
+- Costituzione, art. 68, comma 3
+- legge, 11/03/1953 n. 87, art. 37
