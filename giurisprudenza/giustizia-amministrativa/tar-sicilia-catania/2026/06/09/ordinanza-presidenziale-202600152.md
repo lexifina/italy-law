@@ -1,0 +1,19 @@
+# TAR SICILIA - CATANIA, ordinanza presidenziale n. 152/2026
+
+- Tipo: ORDINANZA PRESIDENZIALE
+- Sede: TAR SICILIA - CATANIA
+- Sezione: SEZIONE SECONDA
+- Numero provvedimento: 202600152
+- Numero di ricorso (NRG): 202600658
+- Data di pubblicazione: 2026-06-09
+- Udienza: PROCESSO MONOCRATICO
+- Esito: INTERLOCUTORIO/A
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2026-03-26
+- Oggetto del ricorso: OCCUPAZIONE DELLE AREE DI PROPRIETÀ DEL RICORRENTE POSTA IN ESSERE DALLA PROVINCIA REGIONALE DI MESSINA, ADESSO CITTÀ METROPOLITANA DI MESSINA, SENZA CHE SIA MAI STATO ADOTTATO FORMALE DECRETO D’ESPROPRIO O ALTRO ATTO EQUIPOLLENTE (CESSIONE BONARIA/DECRETO DI ACQUISIZIONE SANANTE)
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-sicilia-catania-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/d4e70426-3bb7-4e19-85f9-78579b11835b/resource/eab679bb-14fb-42cb-ab3b-1779ec1d39f8/download/tar-sicilia-catania-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
