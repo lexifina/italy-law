@@ -1,0 +1,17 @@
+# Massima n. 47622
+
+- Pronuncia: Corte costituzionale, ordinanza 113/2026 (ECLI:IT:COST:2026:113)
+- Scheda ufficiale: https://www.cortecostituzionale.it/actionSchedaPronuncia.do?param_ecli=ECLI:IT:COST:2026:113
+- Fonte: Corte costituzionale, open data (dati.cortecostituzionale.it), licenza Creative Commons Attribuzione - Condividi allo stesso modo 3.0 (CC BY-SA 3.0).
+
+## Titolo
+
+Giudizio costituzionale - Contraddittorio - Legittimati all'intervento nel giudizio incidentale - Intervenienti titolari di interessi analoghi a quelli dedotti, o parti di giudizio analogo, ma diverso da quello a quo - Intervenienti privi di un interesse qualificato suscettibile di incisione immediata dall'esito del giudizio a quo - Inammissibilità dell'intervento (nel caso di specie: inammissibilità dell'intervento, nel giudizio promosso dalla Corte di Cassazione, inerente alla impossibilità di impugnare il provvedimento di diniego di un sequestro di prevenzione). (Classif. 111002).
+
+## Testo
+
+Nel giudizio di legittimità costituzionale in via incidentale possono intervenire, anche dopo l’entrata in vigore della novella delle Norme integrative per i giudizi davanti alla Corte costituzionale del 12 marzo 2026, solo i titolari di un interesse qualificato, inerente in modo diretto e immediato al rapporto dedotto in giudizio, dovendosi intendere per rapporto dedotto in giudizio quello oggetto del giudizio a quo, sì che gli intervenienti possono vantare un interesse qualificato, inerente in modo diretto e immediato a tale rapporto. (Precedenti: S. 159/2019 - mass. 41045; S. 98/2019 - mass. 42560; O.102/2026; O. 69/2026 - mass. 47482; O. 8/2026 - mass. 47188; O. 111/2020 - mass. 43311 ).(Nel caso di specie, è dichiarato inammissibile, ai sensi del vigente art. 5 delle Norme integrative, l’intervento, in qualità di eredi legittimi, da parte di T. S., I. S. e G. S., nel giudizio avente ad oggetto il procedimento pendente innanzi alla Cassazione avverso il provvedimento della Corte d’appello di Roma che ha dichiarato inammissibile l’istanza di revoca del sequestro presentata da F. R. limitatamente ai beni dei quali quest’ultimo assume di essere proprietario o rispetto ai quali egli invoca un diritto personale di godimento. I soggetti indicati non sono parti del giudizio a quo, né possono essere qualificati come intervenienti nel giudizio costituzionale, in quanto privi di un interesse qualificato, inerente in modo diretto e immediato al rapporto dedotto in giudizio; pertanto, un’eventuale pronuncia di accoglimento delle questioni di legittimità costituzionale promosse d’ufficio dalle sezioni unite penali della Cassazione, non produce un’immediata incidenza sulla posizione soggettiva degli stessi, vantando, invece, gli stessi diritti su beni distinti, sui quali il giudizio a quo non potrebbe incidere, e che costituiscono oggetto di un diverso procedimento, attualmente pendente innanzi alla Cassazione. Né risulta sufficiente, ai fini dell’ammissibilità di un intervento ai sensi dell’art. 4, comma 3, delle Norme integrative, la circostanza che il soggetto sia titolare di interessi analoghi a quelli dedotti nel giudizio principale, o che sia parte in un giudizio analogo, ma diverso dal giudizio a quo, sul quale la decisione della Corte costituzionale possa comunque influire. (Precedenti: S. 63/2026 - mass. 47467; O.102/2026; O. 85/2025 - mass. 46800).
+
+## Parametri
+
+- norme integrative per i giudizi davanti alla Corte costituzionale (7/10/2008), art. 5
