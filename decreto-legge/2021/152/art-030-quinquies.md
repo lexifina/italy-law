@@ -1,0 +1,3 @@
+Art. 30-quinquies.
+
+((ARTICOLO ABROGATO DAL D.LGS. 17 GIUGNO 2022, N. 83))
