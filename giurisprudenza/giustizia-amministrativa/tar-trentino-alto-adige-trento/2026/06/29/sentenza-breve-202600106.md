@@ -1,0 +1,19 @@
+# TAR TRENTINO ALTO ADIGE - TRENTO, sentenza breve n. 106/2026
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR TRENTINO ALTO ADIGE - TRENTO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600106
+- Numero di ricorso (NRG): 202600083
+- Data di pubblicazione: 2026-06-29
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA INAMMISSIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2026-05-12
+- Oggetto del ricorso: AGGIORNAMENTO ANNUALE DELL'ELENCO DEI CONTRATTI COLLETTIVI INDIVIDUATI DALL'INTESA SOTTOSCRITTA AI SENSI DELLA LEGGE PROVINCIALE 6 LUGLIO 2023, N. 6 "INTERVENTI DI SOSTEGNO DEL SISTEMA ECONOMICO TRENTINO" - DELIBERAZIONE DELLA GIUNTA PROVINCIALE DELLA PROVINCIA AUTONOMA DI TRENTO N. 326 DEL 6.3.2026
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/trga-trento-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/33110939-6d5b-44ad-b3c3-85edca45772c/resource/fccd757c-8054-48da-8d8c-22be1965ae88/download/trga-trento-sentenze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
