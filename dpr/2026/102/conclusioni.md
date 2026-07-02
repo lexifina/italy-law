@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 13 aprile 2026
+
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Crosetto, Ministro della difesa Zangrillo, Ministro per la pubblica amministrazione Giorgetti, Ministro dell'economia e delle finanze Visto, il Guardasigilli: Nordio Registrato alla Corte dei conti il 3 giugno 2026 Ufficio di controllo sugli atti del Ministero dell'interno e del Ministero della difesa, n. 2401
