@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza cautelare n. 2654/2026
+
+- Tipo: ORDINANZA CAUTELARE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE IV
+- Numero provvedimento: 202602654
+- Numero di ricorso (NRG): 202605062
+- Data di pubblicazione: 2026-07-03
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: ACCOGLIE
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2026-06-15
+- Oggetto del ricorso: ANNULLAMENTO DELLA GRADUATORIA FINALE DEI VINCITORI DEL “CONCORSO PUBBLICO SU BASE TERRITORIALE PER ESAMI, PER IL RECLUTAMENTO A TEMPO INDETERMINATO DI 2.200 UNITÀ DI PERSONALE NON DIRIGENZIALE, DI CUI N. 615 UNITÀ DA DESTINARE ALLE REGIONI BASILICATA, CALABRIA, CAMPANIA, MOLISE, PUGLIA, SARDEGNA E SICILIA E ALLE CITTÀ METROPOLITANE
+- Tipo di ricorso: APPELLO AVVERSO SENTENZA
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/d9c4b479-4bbb-4861-9bfc-2033fe8d2632/download/cds-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
