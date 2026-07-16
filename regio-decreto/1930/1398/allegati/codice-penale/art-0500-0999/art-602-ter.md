@@ -8,7 +8,9 @@ a) se la persona offesa e' minore degli anni diciotto;
 
 b) se i fatti sono diretti allo sfrutta-mento della prostituzione o al fine di sottoporre la persona offesa al prelievo di organi;
 
-c) se dal fatto deriva un grave pericolo per la vita o l'integrita' fisica o psichica della persona offesa.
+c) se dal fatto deriva un grave pericolo per la vita o l'integrita' fisica o psichica della persona offesa;
+
+c-bis) ((se l'autore del reato ha diffuso o ha agevolato la diffusione, mediante l'utilizzo della rete internet o di altre reti o mezzi di comunicazione, di immagini, video o analogo materiale di natura sessuale relativo alla vittima.))
 
 Se i fatti previsti dal titolo VII, capo III, del presente libro sono commessi al fine di realizzare od agevolare i delitti di cui agli articoli 600, 601 e 602, le pene ivi previste sono aumentate da un terzo alla meta'.
 
@@ -30,7 +32,7 @@ b) se il reato e' commesso da persona che fa parte di un'associazione per delinq
 
 c) se il reato e' commesso con violenze gravi o se dal fatto deriva al minore, a causa della reiterazione delle condotte, un pregiudizio grave.
 
-((c-bis) se dal fatto deriva pericolo di vita per il minore)).
+c-bis) se dal fatto deriva pericolo di vita per il minore.
 
 Le pene previste per i reati di cui al comma precedente sono aumentate in misura non eccedente i due terzi nei casi in cui gli stessi siano compiuti con l'utilizzo di mezzi atti ad impedire l'identificazione dei dati di accesso alle reti telematiche.
 

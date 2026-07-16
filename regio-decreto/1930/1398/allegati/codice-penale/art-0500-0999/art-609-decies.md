@@ -2,7 +2,7 @@ Art. 609-decies.
 
 (Comunicazione al tribunale per i minorenni).
 
-Quando si procede per taluno dei delitti previsti dagli articoli 600, 600-bis, 600-ter, 600-quinquies, 601, 602, 609-bis, 609-ter, 609-quinquies, 609-octies e 609-undecies commessi in danno di minorenni, ovvero per il delitto previsto dall'articolo 609-quater ( per i delitti previsti dagli articoli 572 e 612-bis, se commessi in danno di un minorenne o da uno dei genitori di un minorenne in danno dell'altro genitore, il procuratore della Repubblica ne da' notizia al ((procuratore della Repubblica presso il)) tribunale per i minorenni.
+Quando si procede per taluno dei delitti previsti dagli articoli 600, 600-bis, 600-ter, 600-quinquies, 601, ((601.1,)) 602, 609-bis, 609-ter, 609-quinquies, 609-octies e 609-undecies commessi in danno di minorenni, ovvero per il delitto previsto dall'articolo 609-quater per i delitti previsti dagli articoli 572 e 612-bis, se commessi in danno di un minorenne o da uno dei genitori di un minorenne in danno dell'altro genitore, il procuratore della Repubblica ne da' notizia al procuratore della Repubblica presso il tribunale per i minorenni.
 
 Qualora riguardi taluno dei delitti previsti dagli articoli 572, 609-ter e 612-bis, commessi in danno di un minorenne o da uno dei genitori di un minorenne in danno dell'altro genitore, la comunicazione di cui al primo comma si considera effettuata anche ai fini dell'adozione dei provvedimenti di cui agli articoli 155 e seguenti, nonche' 330 e 333 del codice civile.
 
