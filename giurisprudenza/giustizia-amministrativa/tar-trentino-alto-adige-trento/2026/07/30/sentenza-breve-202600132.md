@@ -1,0 +1,19 @@
+# TAR TRENTINO ALTO ADIGE - TRENTO, sentenza breve n. 132/2026
+
+- Tipo: SENTENZA BREVE
+- Sede: TAR TRENTINO ALTO ADIGE - TRENTO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600132
+- Numero di ricorso (NRG): 202600082
+- Data di pubblicazione: 2026-07-30
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: DICHIARA INAMMISSIBILE
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2026-05-10
+- Oggetto del ricorso: CORSO‑CONCORSO PUBBLICO PER IL RECLUTAMENTO DI 20 DIRIGENTI DELLE ISTITUZIONI SCOLASTICHE E FORMATIVE PROVINCIALI
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 1
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/trga-trento-sentenze
+- File: https://openga.giustizia-amministrativa.it/dataset/33110939-6d5b-44ad-b3c3-85edca45772c/resource/fccd757c-8054-48da-8d8c-22be1965ae88/download/trga-trento-sentenze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
