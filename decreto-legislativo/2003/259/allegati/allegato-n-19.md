@@ -1,0 +1,77 @@
+Allegato n. 19 (art. 107)
+
+Al Ministero delle
+
+comunicazioni
+
+Dichiarazione per l'impianto e l'esercizio di dispositivi o di apparecchiature terminali di comunicazioni elettroniche di cui
+
+all'articolo 107, comma 10
+
+Il sottoscritto ...
+
+luogo e data di nascita ......................................
+
+residenza e domicilio .......................................
+
+cittadinanza ....
+
+societa/ditta ....
+
+sede .............
+
+codice fiscale e partita IVA ..............................
+
+nazionalita' ......
+
+dati del rappresentante legale
+
+cognome e nome ...........................................
+
+luogo e data di nascita .....................................
+
+residenza e domicilio .......................................
+
+codice fiscale ...
+
+Ai sensi dell'articolo 107, comma 10, del Codice delle
+
+comunicazioni elettroniche
+
+dichiara
+
+- di voler utilizzare il seguente sistema radioelettrico .
+
+(specificare la tipologia)
+
+- di voler espletare l'attivita' di comunicazione elettronica di cui sopra fino al 31 dicembre ....................... (massimo 10 anni)
+
+- di possedere i prescritti requisiti;
+
+- di essere iscritto alla Camera di commercio, industria, artigianato ed agricoltura (se il soggetto si configuri come impresa);
+
+- che il sistema radioelettrico e' ubicato .................
+
+e presenta le seguenti caratteristiche ..................
+
+(tipo, numero di apparati, dati di omologazione, approvazione, compatibilita' elettromagnetica, ecc.)
+
+e si impegna:
+
+- a comunicare tempestivamente ogni modifica al contenuto della presente dichiarazione;
+
+- a rispettare ogni norma in materia di sicurezza, di protezione ambientale, di salute pubblica ed urbanistiche;
+
+- a versare il contributo annuo per l'attivita' di vigilanza e controllo da parte del Ministero delle comunicazioni;
+
+- ad osservare, in ogni caso, le disposizioni previste dalla normativa in vigore ...............
+
+Allega alla presente dichiarazione i seguenti documenti:
+
+a) la dichiarazione concernente la normativa antimafia;
+
+b) gli attestati di versamento del contributo per verifiche e controlli relativo al primo anno dal quale decorre l'autorizzazione generale
+
+(data) ...........................
+
+(firma)
