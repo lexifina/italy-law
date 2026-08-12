@@ -1,0 +1,15 @@
+Art. 57-quater.
+
+(( (Salvaguardia della produzione di energia da impianti fotovoltaici ed eolici).))
+
+((1. All'articolo 42 del decreto legislativo 3 marzo 2011, n. 28, dopo il comma 4 sono inseriti i seguenti:
+
+"4-bis. Al fine di salvaguardare la produzione di energia elettrica derivante da impianti fotovoltaici, agli impianti di potenza superiore a 3 kW nei quali, a seguito di verifiche o controlli, risultano installati moduli non certificati o con certificazioni non rispondenti alla normativa di riferimento e per i quali il soggetto beneficiario della tariffa incentivante abbia intrapreso le azioni consentite dalla legge nei confronti dei soggetti responsabili della non conformita' dei moduli, si applica, su istanza del medesimo soggetto beneficiario, una decurtazione del 20 per cento della tariffa incentivante base per l'energia prodotta dalla data di decorrenza della convenzione con il GSE. Non si applicano comunque le maggiorazioni di cui all'articolo 14, comma 1, lettera d), del decreto del Ministro dello sviluppo economico 5 maggio 2011, pubblicato nella Gazzetta Ufficiale n. 109 del 12 maggio 2011, e all'articolo 5, comma 2, lettera a), del decreto del Ministro dello sviluppo economico 5 luglio 2012, pubblicato nel supplemento ordinario n. 143 alla Gazzetta Ufficiale n. 159 del 10 luglio 2012.
+
+4-ter. La misura della decurtazione di cui al comma 4-bis e' dimezzata qualora la mancanza di certificazione o la mancata rispondenza della certificazione alla normativa di riferimento sia dichiarata dal soggetto beneficiario, al di fuori di un procedimento di verifica o controllo.
+
+4-quater. Ai fini dell'applicazione dei commi 4-bis e 4-ter, il GSE accerta, sulla base di idonea documentazione prodotta dagli istanti secondo modalita' proporzionate indicate dallo stesso GSE, la sostanziale ed effettiva rispondenza dei moduli installati ai requisiti tecnici e la loro perfetta funzionalita' e sicurezza.
+
+4-quinquies. E' fatto salvo il diritto di rivalsa del beneficiario nei confronti dei soggetti responsabili della non conformita' dei moduli. Restano ferme eventuali altre responsabilita' civili e penali del soggetto beneficiario e le conseguenze di eventuali altre violazioni ai fini del diritto all'accesso e al mantenimento degli incentivi.
+
+4-sexies. Al fine di salvaguardare la produzione di energia elettrica derivante da impianti eolici, tutti gli impianti eolici gia' iscritti in posizione utile nel registro EOLN-RG2012, ai quali e' stato negato l'accesso agli incentivi di cui al decreto del Ministro dello sviluppo economico 6 luglio 2012, pubblicato nel supplemento ordinario n. 143 alla Gazzetta Ufficiale n. 159 del 10 luglio 2012, a causa della errata indicazione della data del titolo autorizzativo in sede di registrazione dell'impianto al registro EOLN-RG2012, sono riammessi agli incentivi previsti dalla normativa per tale registro. La riammissione avviene a condizione che l'errata indicazione della data del titolo autorizzativo non abbia effettivamente portato all'impianto un vantaggio in relazione alla sua posizione in graduatoria"))

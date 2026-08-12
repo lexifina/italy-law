@@ -1,0 +1,7 @@
+Art. 52-quater.
+
+(Organizzazione dell'ANAC)
+
+1.
+
+L'Autorita' nazionale anticorruzione definisce, con propri regolamenti, la propria organizzazione, il proprio funzionamento e l'ordinamento giuridico ((ed economico)) del proprio personale secondo i principi contenuti nella legge 14 novembre 1995, n. 481. ((In sede di prima applicazione, e comunque per un periodo di un anno dalla data di entrata in vigore del regolamento che disciplina l'ordinamento giuridico ed economico del personale,)) Il trattamento economico del personale dell'Autorita' non puo' eccedere quello gia' definito in attuazione del decreto del Presidente del Consiglio dei ministri 1° febbraio 2016, adottato ai sensi dell'articolo 19, comma 4, del decreto-legge 24 giugno 2014, n. 90, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 114. Fino alla data di entrata in vigore dei predetti regolamenti continua ad applicarsi il citato decreto del Presidente del Consiglio dei ministri 1° febbraio 2016. ((A decorrere dal secondo anno successivo alla data di entrata in vigore dei predetti regolamenti l'Autorita' nazionale anticorruzione, tenuto conto delle proprie specifiche esigenze funzionali e organizzative, puo' adeguare il trattamento economico del personale, nei limiti delle risorse disponibili per tale finalita', sulla base dei criteri fissati dal contratto collettivo di lavoro in vigore per l'Autorita' garante della concorrenza e del mercato)). Dall'attuazione del presente articolo non devono comunque derivare maggiori oneri a carico della finanza pubblica.
