@@ -1,0 +1,15 @@
+Art. 46-quater.
+
+(Procedura di abilitazione)
+
+1.
+
+Fatta salva la ripartizione della competenza tra l'Unione europea e gli Stati membri, gli accordi esistenti relativi all'esercizio di un interconnettore o di una rete di gasdotti di coltivazione conclusi tra l'Italia e un paese terzo sono mantenuti in vigore fino all'entrata in vigore di un accordo tra l'Unione e lo stesso paese terzo o fino all'applicazione della procedura di cui ai commi successivi.
+
+2.
+
+Fatta salva la ripartizione della competenza tra l'Unione europea e gli Stati membri, qualora l'Italia intenda avviare un negoziato con un paese terzo per modificare, prorogare, adattare, rinnovare o concludere un accordo relativo all'esercizio di un interconnettore con un paese terzo su questioni che rientrano, in tutto o in parte, nell'ambito di applicazione della ((direttiva (UE) 2024/1788)), il Ministero dello sviluppo economico notifica tale intendimento alla Commissione, allegando la documentazione pertinente e indicando le disposizioni che saranno oggetto dei negoziati o da rinegoziare, gli obiettivi dei negoziati, nonche' qualsiasi altra informazione pertinente, almeno cinque mesi prima dell'avvio dei negoziati, ai fini della valutazione ((di cui all'articolo 89, paragrafi da 3 a 15, della direttiva (UE) 2024/1788)).
+
+3.
+
+Una volta ricevuta l'autorizzazione ad avviare i negoziati da parte della Commissione europea a seguito della notifica di cui al comma 2, il Ministero dello sviluppo economico avvia i negoziati per modificare, prorogare, adattare, rinnovare o concludere un accordo con un paese terzo e tiene conto di eventuali orientamenti forniti dalla Commissione e di eventuali richieste di inserimento di clausole nell'accordo. Il Ministero dello sviluppo economico notifica alla Commissione europea i risultati del negoziato e trasmette il testo dell'accordo ai fini della autorizzazione alla firma e, qualora acquisita tale autorizzazione nei termini ((di cui all'articolo 89 della direttiva (UE) 2024/1788,)) notifica alla Commissione la conclusione e l'entrata in vigore dell'accordo, nonche' ogni successiva modifica allo status di tale accordo.
