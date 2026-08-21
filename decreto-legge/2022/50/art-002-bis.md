@@ -1,0 +1,21 @@
+Art. 2-bis.
+
+(Indennita' per i lavoratori a tempo parziale ciclico verticale)
+
+1.
+
+Per l'anno 2022, ai lavoratori dipendenti di aziende private titolari di un contratto di lavoro a tempo parziale ciclico verticale nell'anno 2021 che preveda periodi non interamente lavorati di almeno un mese in via continuativa e complessivamente non inferiori a sette settimane e non superiori a venti settimane e che, alla data della domanda, non siano titolari di altro rapporto di lavoro dipendente ovvero percettori della Nuova prestazione di Assicurazione Sociale per l'Impiego (NASpI) o di un trattamento pensionistico, e' attribuita un'indennita' una tantum pari a 550 euro. L'indennita' puo' essere riconosciuta solo una volta in corrispondenza del medesimo lavoratore. ((29))
+
+2.
+
+L'indennita' di cui al presente articolo non concorre alla formazione del reddito ai sensi del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917. L'indennita' e' erogata dall'Istituto nazionale della previdenza sociale (INPS), nel limite di spesa complessivo di 30 milioni di euro per l'anno 2022. L'INPS provvede al monitoraggio del rispetto del limite di spesa e comunica i risultati di tale attivita' al Ministero del lavoro e delle politiche sociali e al Ministero dell'economia e delle finanze. Qualora dal predetto monitoraggio emerga il verificarsi di scostamenti, anche in via prospettica, rispetto al predetto limite di spesa, non sono adottati altri provvedimenti di concessione dell'indennita'.
+
+3.
+
+Agli oneri derivanti dal presente articolo, pari a 30 milioni di euro per l'anno 2022, si provvede a valere sulle risorse del Fondo di cui all'articolo 1, comma 971, della legge 30 dicembre 2021, n. 234.
+
+---------------
+
+Aggiornamento (29)
+
+Il D.L. 18 ottobre 2023, n. 145 ha disposto (con l'art. 18, comma 1) che "La disposizione di cui all'articolo 2-bis, comma 1, del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, nella parte in cui prevede il riconoscimento, per l'anno 2022, di un'indennita' una tantum a favore dei lavoratori dipendenti di aziende private titolari di un contratto di lavoro a tempo parziale ciclico verticale nell'anno 2021, si intende riferita ai lavoratori dipendenti di aziende private titolari di un rapporto di lavoro a tempo parziale che prevede periodi non interamente lavorati di almeno un mese in via continuativa, e complessivamente non inferiori a sette settimane e non superiori a venti settimane, dovuti a sospensione ciclica della prestazione lavorativa".
