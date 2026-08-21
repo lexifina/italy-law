@@ -1,0 +1,5 @@
+((Allegato n. 02))
+
+(( (Articolo 3-quater, comma 1) ))
+
+((Parte di provvedimento in formato grafico))
