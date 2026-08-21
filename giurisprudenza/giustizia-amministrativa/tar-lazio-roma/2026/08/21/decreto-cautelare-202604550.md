@@ -1,0 +1,19 @@
+# TAR LAZIO - ROMA, decreto cautelare n. 4550/2026
+
+- Tipo: DECRETO CAUTELARE
+- Sede: TAR LAZIO - ROMA
+- Sezione: SEZIONE TERZA
+- Numero provvedimento: 202604550
+- Numero di ricorso (NRG): 202608802
+- Data di pubblicazione: 2026-08-21
+- Udienza: PROCESSO MONOCRATICO
+- Esito: FISSA CAMERA DI CONSIGLIO
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2026-08-13
+- Oggetto del ricorso: CIRCOLARE DEL 24/07/2026 - PROCEDURE PER L'ISCRIZIONE DEGLI STUDENTI DI NAZIONALITÀ CINESE ADERENTI AL PROGETTO MARCO POLO VALIDE PER GLI ANNI ACCADEMICI 2027-2028 E 2028-2029 - RICHIESTA DEL CONSEGUIMENTO DEL LIVELLO MINIMO A2 DI LINGUA ITALIANA PRIMA DELL'ARRIVO IN ITALIA, ATTRAVERSO PERCORSI FORMATIVI CERTIFICATI DELLA DURATA NON INFERIORE A 180 ORE
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-lazio-roma-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/2e48b768-bd5a-4a71-a381-125e52fc9a1e/resource/da626029-ec28-41a9-bcde-96f8c38df480/download/tar-lazio-roma-decreti-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
