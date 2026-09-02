@@ -1,0 +1,19 @@
+# TAR PIEMONTE - TORINO, decreto decisorio n. 217/2026
+
+- Tipo: DECRETO DECISORIO
+- Sede: TAR PIEMONTE - TORINO
+- Sezione: SEZIONE PRIMA
+- Numero provvedimento: 202600217
+- Numero di ricorso (NRG): 202500203
+- Data di pubblicazione: 2026-09-02
+- Udienza: PROCESSO MONOCRATICO
+- Esito: DICHIARA ESTINTO
+- Definisce il giudizio (D = sì): D
+- Deposito del ricorso: 2025-02-03
+- Oggetto del ricorso: LICENZA CAT. 11E/24 RILASCIATA DAL QUESTORE DELLA PROVINCIA DI TORINO E VOLTA AL RILASCIO DELL’AUTORIZZAZIONE PER L’ESERCIZIO DEL GIOCO LECITO MEDIANTE APPARECCHI VIDEOTERMINALI DI CUI ALL’ART. 110 T.U.L.P.S., COMMA 6 LETT. B E LICENZA CAT. 11E/24 RILASCIATA DAL QUESTORE DELLA PROVINCIA DI TORINO VOLTA AL RILASCIO DELL’AUTORIZZAZIONE PER L’ESERCIZIO DELL’ATTIVITÀ DI RACCOLTA SCOMMESSE PREVISTE DALL’ART. 10, COMMA 9 – OCTIES DEL D.L. 2 MARZO 2012 NR.16.
+- Tipo di ricorso: ORDINARIO
+- Membri del collegio: 0
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/tar-piemonte-decreti
+- File: https://openga.giustizia-amministrativa.it/dataset/0d2dfd69-3ce9-42bb-9aec-e9ed46fdfa13/resource/d030e6e1-c1f3-4d7d-abbc-5a5e7f6e7f3a/download/tar-piemonte-decreti-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
