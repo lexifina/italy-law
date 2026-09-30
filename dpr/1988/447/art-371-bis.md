@@ -42,7 +42,11 @@ Il procuratore nazionale antimafia e antiterrorismo provvede alla avocazione dop
 
 4-bis.
 
-Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo. ((Le disposizioni di cui al presente comma si applicano altresi' in relazione ai procedimenti per i reati di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286.))
+Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impulso di cui al comma 2 anche in relazione ai procedimenti per i delitti di cui agli articoli 615-ter, terzo comma, 635-ter e 635-quinquies del codice penale nonche', quando i fatti sono commessi in danno di un sistema informatico o telematico utilizzato dallo Stato o da altro ente pubblico o da impresa esercente servizi pubblici o di pubblica necessita', in relazione ai procedimenti per i delitti di cui agli articoli 617-quater, 617-quinquies e 617-sexies del codice penale. Si applicano altresi' le disposizioni dei commi 3 e 4 del presente articolo. Le disposizioni di cui al presente comma si applicano altresi' in relazione ai procedimenti per i reati di cui agli articoli 275-bis, 275-ter, 275-quater e 275-quinquies del codice penale e di cui all'articolo 12, comma 1, aggravato ai sensi del comma 1-bis, del decreto legislativo 25 luglio 1998, n. 286.
+
+4-ter.
+
+((Le disposizioni di cui al presente articolo si applicano anche ai procedimenti a carico di minorenni. In questo caso le funzioni del procuratore nazionale antimafia e antiterrorismo sono esercitate nei confronti del procuratore della Repubblica presso il Tribunale per i minorenni.))
 
 -------------
 
