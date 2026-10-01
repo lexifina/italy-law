@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 30 aprile 2022
+
+MATTARELLA Draghi, Presidente del Consiglio dei ministri Franco, Ministro dell'economia e delle finanze Bianchi, Ministro dell'istruzione Brunetta, Ministro per la pubblica amministrazione Colao, Ministro per l'innovazione tecnologica e la transizione digitale Carfagna, Ministro per il Sud e la coesione territoriale Cingolani, Ministro della transizione ecologica Cartabia, Ministro della giustizia Messa, Ministro dell'universita' e della ricerca Garavaglia, Ministro del turismo Orlando, Ministro del lavoro e delle politiche sociali Giorgetti, Ministro dello sviluppo economico Bonetti, Ministro per le pari opportunita' e la famiglia Speranza, Ministro della salute Giovannini, Ministro delle infrastrutture e della mobilita' sostenibili Gelmini, Ministro per gli affari regionali e le autonomie Visto, il Guardasigilli: Cartabia
