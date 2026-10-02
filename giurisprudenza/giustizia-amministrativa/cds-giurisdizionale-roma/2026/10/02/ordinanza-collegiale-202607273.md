@@ -1,0 +1,19 @@
+# CdS GIURISDIZIONALE - ROMA, ordinanza collegiale n. 7273/2026
+
+- Tipo: ORDINANZA COLLEGIALE
+- Sede: CdS GIURISDIZIONALE - ROMA
+- Sezione: SEZIONE VI
+- Numero provvedimento: 202607273
+- Numero di ricorso (NRG): 202506977
+- Data di pubblicazione: 2026-10-02
+- Udienza: CAMERA DI CONSIGLIO
+- Esito: FISSA UDIENZA PUBBLICA
+- Definisce il giudizio (D = sì): N
+- Deposito del ricorso: 2025-09-11
+- Oggetto del ricorso: RISARCIMENTO DEI DANNI SUBITI A SEGUITO DEI PROVVEDIMENTI ASSUNTI DALLE AMMINISTRAZIONI IN SEDE DI DEFINIZIONE DEL PIANO DI NUMERAZIONE AUTOMATICA DEI CANALI DELLA TV DIGITALE TERRESTRE E DELL'ASSEGNAZIONE DEGLI LCN (ACRONIMO DI LOGICAL CHANNEL NUMBERING) AI FORNITORI DI SERVIZI DI MEDIA AUDIOVISIVI
+- Tipo di ricorso: APPELLO AVVERSO SENTENZA
+- Membri del collegio: 3
+- Dataset: https://openga.giustizia-amministrativa.it/dataset/cds-ordinanze
+- File: https://openga.giustizia-amministrativa.it/dataset/5bc2801d-bb7b-4b53-918c-6ffa0ba95057/resource/d9c4b479-4bbb-4861-9bfc-2033fe8d2632/download/cds-ordinanze-2026.csv
+
+Fonte: Giustizia amministrativa, OpenGA (openga.giustizia-amministrativa.it), dati aperti. Il dataset non contiene il testo del provvedimento; il testo è consultabile sul sito della Giustizia amministrativa (ricerca per numero di provvedimento o NRG).
