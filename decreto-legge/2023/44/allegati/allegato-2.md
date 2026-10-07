@@ -1,0 +1,7 @@
+Allegato 2
+
+(articolo 1, comma 3)
+
+TABELLA B
+
+((Parte di provvedimento in formato grafico))
