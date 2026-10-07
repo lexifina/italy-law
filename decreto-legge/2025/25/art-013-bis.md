@@ -1,0 +1,19 @@
+Art. 13-bis.
+
+(Disposizioni urgenti per il reclutamento e la funzionalita' delle camere di commercio, industria, artigianato e agricoltura nonche' deroghe al divieto di conferimento di incarichi a soggetti in quiescenza).
+
+1. La designazione dei componenti dei consigli delle camere di commercio, industria, artigianato e agricoltura e' effettuata dalle organizzazioni di cui all'articolo 12, comma 1, della legge 29 dicembre 1993, n. 580, che, oltre a possedere i requisiti individuati con le modalita' di cui al comma 4 dello stesso articolo 12, sono costituite a livello provinciale e sovraprovinciale ovvero, in mancanza, a livello regionale, ove presenti, o a livello nazionale, con riferimento esclusivo, in ogni caso, alla rappresentativita' delle medesime organizzazioni nell'ambito della circoscrizione territoriale di competenza della camera di commercio, industria, artigianato e agricoltura interessata.
+
+2. Ai componenti degli organi degli enti di cui all'articolo 1 della legge 29 dicembre 1993, n. 580, non si applica ((, a decorrere dal 1° marzo 2022,)) il divieto di cui all'articolo 5, comma 9, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135.
+
+3. All'articolo 79, comma 5, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, dopo le parole: "decreto legislativo 19 agosto 2016, n. 175," sono inserite le seguenti: "dall'articolo 5, comma 9, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135,".
+
+4. Restano in ogni caso ferme, con riferimento a quanto stabilito dai commi 2 e 3 del presente articolo, le disposizioni degli articoli 14, comma 3, e 14.1, comma 3, del decreto-legge 28 gennaio 2019, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2019, n. 26.
+
+5. Il quarto periodo del comma 5-ter dell'articolo 35 del decreto legislativo 30 marzo 2001, n. 165, non si applica alle procedure concorsuali indette dalle camere di commercio, industria, artigianato e agricoltura e dall'Unione italiana delle camere di commercio, industria, artigianato e agricoltura successivamente alla data di entrata in vigore della legge 10 agosto 2023, n. 112, le quali prevedono un numero di posti messi a concorso non superiore a venti unita'.
+
+6. All'articolo 3-ter, comma 4-bis, primo periodo, del decreto-legge 22 aprile 2023, n. 44, convertito, con modificazioni, dalla legge 21 giugno 2023, n. 74, le parole: "e le citta' metropolitane" sono sostituite dalle seguenti: ", le citta' metropolitane e le camere di commercio, industria, artigianato e agricoltura". Al fine di ridurre i tempi di accesso all'impiego con riferimento alle assunzioni di cui al primo periodo, l'Unione italiana delle camere di commercio, industria, artigianato e agricoltura e' autorizzata a indire procedure per il reclutamento, con contratto di apprendistato, di personale in numero non superiore a sessanta unita' in nome e per conto delle camere di commercio, industria, artigianato e agricoltura che ne abbiano fatto preventiva richiesta, nel rispetto delle procedure previste dal decreto del Presidente del Consiglio dei ministri 23 dicembre 2023. L'Unione italiana delle camere di commercio, industria, artigianato e agricoltura fornisce altresi' alle camere di commercio, industria, artigianato e agricoltura la necessaria assistenza tecnica per l'intera durata dei contratti di apprendistato dalle medesime stipulati.
+
+7. Per le camere di commercio, industria, artigianato e agricoltura il trattenimento in servizio di cui all'articolo 1, comma 165, della legge 30 dicembre 2024, n. 207, puo' avere luogo, comunque, per non meno di un'unita', a valere sulle facolta' assunzionali previste.
+
+Analoga possibilita' e' ammessa per l'Unione italiana delle camere di commercio, industria, artigianato e agricoltura.
