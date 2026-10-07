@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 5 ottobre 2026
+
+MATTARELLA Meloni, Presidente del Consiglio dei ministri Zangrillo, Ministro per la pubblica amministrazione Piantedosi, Ministro dell'interno Musumeci, Ministro per la protezione civile e le politiche del mare Visto, il Guardasigilli: Nordio __________ Avvertenza: Il decreto-legge 7 agosto 2026, n. 144, e' stato pubblicato nella Gazzetta Ufficiale - Serie generale - n. 182 del 7 agosto 2026. A norma dell'art. 15, comma 5, della legge 23 agosto 1988, n. 400 (Disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei ministri), le modifiche apportate dalla presente legge di conversione hanno efficacia dal giorno successivo a quello della sua pubblicazione. Il testo del decreto-legge coordinato con la legge di conversione e' pubblicato in questa stessa Gazzetta Ufficiale alla pag. 44.
