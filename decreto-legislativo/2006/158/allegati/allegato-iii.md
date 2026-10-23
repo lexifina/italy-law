@@ -1,0 +1,5 @@
+Allegato III
+
+(previsto dall'art. 20, comma 1)
+
+((ALLEGATO ABROGATO DAL D.LGS. 25 SETTEMBRE 2026, N. 178))

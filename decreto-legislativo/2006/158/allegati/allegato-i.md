@@ -1,0 +1,5 @@
+Allegato I
+
+(previsto dall'art. 1, comma 3, lettera n)
+
+((ALLEGATO ABROGATO DAL D.LGS. 25 SETTEMBRE 2026, N. 178))
