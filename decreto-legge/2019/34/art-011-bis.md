@@ -1,0 +1,9 @@
+Art. 11-bis.
+
+(( (Modifica all'articolo 177 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, in materia di scambio di partecipazioni) ))
+
+((1. All'articolo 177 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo il comma 2 e' inserito il seguente:
+
+"2-bis. Quando la societa' conferitaria non acquisisce il controllo di una societa', ai sensi dell'articolo 2359, primo comma, numero 1), del codice civile, ne' incrementa, in virtu' di un obbligo legale o di un vincolo statutario, la percentuale di controllo, la disposizione di cui al comma 2 del presente articolo trova comunque applicazione ove ricorrano, congiuntamente, le seguenti condizioni:
+
+a) le partecipazioni conferite rappresentano, complessivamente, una percentuale di diritti di voto esercitabili nell'assemblea ordinaria superiore al 2 o al 20 per cento ovvero una partecipazione al capitale o al patrimonio superiore al 5 o al 25 per cento, secondo che si tratti di titoli negoziati in mercati regolamentati o di altre partecipazioni; b) le partecipazioni sono conferite in societa', esistenti o di nuova costituzione, interamente partecipate dal conferente. Per i conferimenti di partecipazioni detenute in societa' la cui attivita' consiste in via esclusiva o prevalente nell'assunzione di partecipazioni, le percentuali di cui alla lettera a) del precedente periodo si riferiscono a tutte le societa' indirettamente partecipate che esercitano un'impresa commerciale, secondo la definizione di cui all'articolo 55, e si determinano, relativamente al conferente, tenendo conto della eventuale demoltiplicazione prodotta dalla catena partecipativa. Il termine di cui all'articolo 87, comma 1, lettera a), e' esteso fino al sessantesimo mese precedente quello dell'avvenuta cessione delle partecipazioni conferite con le modalita' di cui al presente comma"))
