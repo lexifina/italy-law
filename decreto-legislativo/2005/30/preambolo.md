@@ -1,0 +1,65 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la legge 12 dicembre 2002, n. 273, recante misure per favorire l'iniziativa privata e lo sviluppo della concorrenza, come modificata dall'articolo 2, comma 8, della legge 27 luglio 2004, n. 186, di conversione in legge, con modificazioni, del decreto-legge 28 maggio 2004, n. 136, e come ulteriormente modificata dall'articolo 2 della legge 27 dicembre 2004, n. 306, di conversione in legge, con modificazioni, del decreto-legge 9 novembre 2004, n. 266, ed in particolare l'articolo 15, recante delega al Governo per il riassetto delle disposizioni in materia di proprieta' industriale;
+
+Visto l'articolo 14 della legge 23 agosto 1988, n. 400, recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+
+Visto il regio decreto 29 giugno 1939, n. 1127;
+
+Visto il regio decreto 5 febbraio 1940, n. 244;
+
+Visto il regio decreto 25 agosto 1940, n. 1411;
+
+Visto il regio decreto 31 ottobre 1941, n. 1354;
+
+Visto il regio decreto 21 giugno 1942, n. 929;
+
+Visto il decreto del Presidente della Repubblica 8 giugno 1948, n. 795;
+
+Visto il decreto del Presidente della Repubblica 30 giugno 1972, n. 540;
+
+Visto il decreto del Presidente della Repubblica 12 agosto 1975, n. 974;
+
+Visto il decreto del Presidente della Repubblica 8 gennaio 1979, n. 32;
+
+Visto il decreto del Presidente della Repubblica 22 giugno 1979, n. 338;
+
+Vista la legge 3 maggio 1985, n. 194;
+
+Vista la legge 14 ottobre 1985, n. 620;
+
+Vista la legge 14 febbraio 1987, n. 60;
+
+Vista la legge 21 febbraio 1989, n. 70;
+
+Vista la legge 19 ottobre 1991, n. 349;
+
+Visto il decreto del Presidente della Repubblica 1° dicembre 1993, n. 595;
+
+Visto il decreto del Presidente della Repubblica 18 aprile 1994, n. 360;
+
+Visto il decreto del Presidente della Repubblica 18 aprile 1994, n. 391;
+
+Vista la legge 21 dicembre 1984, n. 890;
+
+Visto il decreto legislativo 12 aprile 2001, n. 164;
+
+Visti i commi 8, 8-bis, 8-ter e 8-quater dell'articolo 3 del decreto-legge 15 aprile 2002, n. 63, convertito, con modificazioni, dalla legge 15 giugno 2002, n. 112;
+
+Visto il decreto del Ministro delle attivita' produttive in data 17 ottobre 2002, pubblicato nella Gazzetta Ufficiale n. 253 del 28 ottobre 2002;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 settembre 2004;
+
+Udito il parere del Consiglio di Stato, espresso nell'adunanza generale del 25 ottobre 2004;
+
+Acquisito il parere della Conferenza unificata, di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, espresso nella seduta del 28 ottobre 2004;
+
+Acquisiti i pareri delle competenti commissioni della Camera dei deputati, espresso in data 22 dicembre 2004 e del Senato della Repubblica, espresso in data 21 dicembre 2004;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 23 dicembre 2004;
+
+Sulla proposta del Ministro delle attivita' produttive, di concerto con i Ministri della giustizia, dell'economia e delle finanze, degli affari esteri e per la funzione pubblica;
+
+Emana il seguente decreto legislativo:
