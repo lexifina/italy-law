@@ -1,0 +1,31 @@
+ALLEGATO V
+
+(articolo 11)
+
+Controllo interno di fabbricazione
+
+1. Questo allegato descrive la procedura con cui il fabbricante, o il suo mandatario stabilito nella Comunita', che soddisfa gli obblighi di cui al punto 2, accerta e dichiara che le macchine o attrezzature sono conformi alle prescrizioni del presente decreto. Il fabbricante, o il suo mandatario stabilito nella Comunita', appone su ciascuna macchina o attrezzatura la marcatura CE di conformita' e l'indicazione del livello di potenza sonora garantito prescritti all'articolo 9 e redige per iscritto la dichiarazione di conformita' CE prescritta all'articolo 8.
+
+2. Il fabbricante, o il suo mandatario stabilito nella Comunita', predispone la documentazione tecnica descritta al punto 3 e la tiene a disposizione delle autorita' nazionali competenti, a fini ispettivi, per almeno dieci anni dalla data di fabbricazione dell'ultimo esemplare prodotto. Il fabbricante, o il suo mandatario stabilito nella Comunita', puo' incaricare un'altra persona della custodia della documentazione tecnica. In tal caso, deve includere il nome e l'indirizzo di detta persona nella dichiarazione di conformita' CE.
+
+3. La documentazione tecnica deve consentire di valutare la conformita' delle macchine o attrezzature alle prescrizioni del presente decreto. Essa deve contenere almeno i seguenti elementi:
+
+- nome ed indirizzo del fabbricante o del suo mandatario stabilito nella Comunita';
+
+- descrizione della macchina o attrezzatura;
+
+- marca;
+
+- denominazione commerciale;
+
+- tipo, serie e numeri di identificazione;
+
+- dati tecnici necessari ai fini dell'identificazione della macchina o attrezzatura e della definizione dell'emissione sonora, inclusi, se del caso, disegni schematici e altre descrizioni o spiegazioni necessarie alla loro comprensione;
+
+- rinvio al presente decreto;
+
+- la relazione tecnica sulle misurazioni del rumore effettuate ai sensi del presente decreto;
+
+- strumenti tecnici applicati e risultati della valutazione delle incertezze dovute alla variabilita' in produzione e loro relazione con il livello di potenza sonora garantito.
+
+4. Il fabbricante prende tutte le misure necessarie affinche', nel processo di fabbricazione, sia garantita la conformita' delle macchine o attrezzature alla documentazione tecnica di cui ai punti 2 e 3 e alle prescrizioni del presente decreto.
