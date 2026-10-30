@@ -1,0 +1,15 @@
+Art. 6-bis.
+
+(( (Trasparenza degli investitori istituzionali). ))
+
+((
+
+1.
+
+I fondi pensione con almeno cento aderenti, che risultino iscritti all'albo di cui all'articolo 19, comma 1, e che rientrino tra quelli di cui agli articoli 4, comma 1, e 12, ovvero tra quelli di cui all'articolo 20 aventi soggettivita' giuridica, osservano le disposizioni della Parte IV, Titolo III, Capo II, Sezione I-ter, del decreto legislativo 24 febbraio 1998, n. 58, in tema di trasparenza degli investitori istituzionali.
+
+2.
+
+La COVIP detta disposizioni di attuazione del comma 1, in conformita' a quanto previsto dall'articolo 124-novies, comma 3, del decreto legislativo 24 febbraio 1998, n. 58.
+
+))
