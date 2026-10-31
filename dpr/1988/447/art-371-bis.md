@@ -4,7 +4,7 @@ Attivita' di coordinamento del procuratore nazionale antimafia e antiterrorismo)
 
 1.
 
-Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi.
+Il procuratore nazionale antimafia e antiterrorismo esercita le sue funzioni in relazione ai procedimenti per i delitti indicati nell'articolo 51 comma 3-bis e comma 3-quater e in relazione ai procedimenti di prevenzione antimafia e antiterrorismo. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-bis dispone della direzione investigativa antimafia e dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. In relazione ai procedimenti per i delitti di cui all'articolo 51, comma 3-quater, si avvale altresi' dei servizi centrali e interprovinciali delle forze di polizia e impartisce direttive intese a regolarne l'impiego a fini investigativi. ((In ogni caso il procuratore nazionale antimafia e antiterrorismo esercita le attivita' di cui al secondo e al terzo periodo anche al fine di individuare i beni di cui e' consentita la confisca)).
 
 2.
 
@@ -46,7 +46,7 @@ Il procuratore nazionale antimafia e antiterrorismo esercita le funzioni di impu
 
 4-ter.
 
-((Le disposizioni di cui al presente articolo si applicano anche ai procedimenti a carico di minorenni. In questo caso le funzioni del procuratore nazionale antimafia e antiterrorismo sono esercitate nei confronti del procuratore della Repubblica presso il Tribunale per i minorenni.))
+Le disposizioni di cui al presente articolo si applicano anche ai procedimenti a carico di minorenni. In questo caso le funzioni del procuratore nazionale antimafia e antiterrorismo sono esercitate nei confronti del procuratore della Repubblica presso il Tribunale per i minorenni.
 
 -------------
 
