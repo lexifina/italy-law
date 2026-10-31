@@ -1,0 +1,5 @@
+Art. 2635-quater.
+
+(( (Disposizioni patrimoniali). )).
+
+((In deroga a quanto previsto dall'articolo 2641, terzo comma, nel caso di condanna per i delitti previsti dagli articoli 2635 e 2635-bis, e' comunque ordinata la confisca anche nelle ipotesi previste dall'articolo 240, primo comma, del codice penale.))
