@@ -1,5 +1,7 @@
 # Italian law, change by change
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Italy's national law, which global-law reads at `italy/national/acts/`.
+
 The Constitution of the Italian Republic, every constitutional law (leggi costituzionali), and four much-amended
 statutes as a git repository: the Statuto dei lavoratori (Legge 300/1970), the law on administrative procedure (Legge
 241/1990), the personal data protection code (D.Lgs. 196/2003) and the digital administration code (D.Lgs. 82/2005).
