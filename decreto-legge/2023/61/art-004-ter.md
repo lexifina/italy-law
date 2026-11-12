@@ -1,0 +1,5 @@
+Art. 4-ter.
+
+(( (Sospensione delle prescrizioni delle autorizzazioni ambientali che disciplinano la gestione degli impianti e delle infrastrutture colpiti dagli eventi alluvionali). ))
+
+((1. Al fine di consentire il risanamento e il successivo ripristino degli impianti e delle infrastrutture gravemente danneggiati a seguito degli eventi alluvionali e franosi verificatisi nei territori dei comuni di cui all'allegato 1 annesso al presente decreto, per il periodo dal 1° maggio 2023 al 1° maggio 2024 e' sospesa l'applicazione delle prescrizioni incompatibili con lo stato dei luoghi, o inapplicabili per cause di forza maggiore connesse ai medesimi eventi, contenute nei provvedimenti ambientali rilasciati ai sensi degli articoli da 29-bis a 29-quattuordecies, 208, 214 e 216 del decreto legislativo 3 aprile 2006, n. 152, nei provvedimenti rilasciati ai sensi del decreto legislativo 13 gennaio 2003, n. 36, o delle norme previgenti in materia di realizzazione e gestione delle discariche nonche' nei provvedimenti autorizzati vi rilasciati ai sensi del regolamento di cui al decreto del Presidente della Repubblica 13 marzo 2013, n. 59))
