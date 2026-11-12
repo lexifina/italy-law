@@ -1,0 +1,15 @@
+Art. 9-octies.
+
+(( (Programmazione degli interventi di riqualificazione sismica del patrimonio edilizio ad uso residenziale nell'area dei Campi Flegrei). ))
+
+((
+
+1.
+
+Al fine di assicurare un'efficiente programmazione degli interventi di riqualificazione sismica del patrimonio edilizio privato con destinazione d'uso residenziale, non oggetto dei contributi di cui all'articolo 9-novies, ubicato nella zona di intervento di cui all'articolo 9-bis, comma 1, lettera a), e della quantificazione dei relativi oneri economici, i comuni di Bacoli, Napoli e Pozzuoli provvedono a comunicare, entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, alla regione Campania e al Dipartimento della protezione civile della Presidenza del Consiglio dei ministri l'elenco degli immobili, ubicati nel predetto territorio interessato dall'analisi di vulnerabilita' sismica dell'edilizia privata di cui all'articolo 2, comma 1, lettera b), e comma 3, lettera b), del decreto-legge 12 ottobre 2023, n. 140, convertito, con modificazioni, dalla legge 7 dicembre 2023, n. 183, con la specificazione degli esiti di detta analisi ove gia' disponibili, in relazione ai quali risultino rilasciati titoli edilizi abilitativi, anche in sanatoria, efficaci. Sono esclusi dagli elenchi di cui al primo periodo gli immobili in relazione ai quali risultano presentate istanze di condono ai sensi della legge 28 febbraio 1985, n. 47, della legge 23 dicembre 1994, n. 724, e del decreto-legge 30 settembre 2003, n. 269, convertito, con modificazioni, dalla legge 24 novembre 2003, n. 326, e non ancora definite alla data del 3 luglio 2024.
+
+2.
+
+Entro sessanta giorni dalla conclusione dell'analisi di vulnerabilita' sismica dell'edilizia privata di cui all'articolo 2, comma 1, lettera b), e comma 3, lettera b), del citato decreto-legge n. 140 del 2023, la regione Campania trasmette al Dipartimento della protezione civile della Presidenza del Consiglio dei ministri una proposta di programma di interventi di riqualificazione sismica degli immobili individuati all'esito della predetta analisi come a piu' elevata vulnerabilita' sismica ed inseriti negli elenchi comunali trasmessi ai sensi del comma 1 ovvero in relazione ai quali il comune abbia comunicato alla regione il sopravvenuto rilascio del provvedimento di concessione o di autorizzazione in sanatoria. La proposta contiene, in particolare, una ricognizione delle risorse eventualmente gia' finalizzate a legislazione vigente per interventi di riqualificazione sismica, l'indicazione del cronoprogramma degli interventi di riqualificazione sismica e la stima del relativo fabbisogno economico complessivo, anche connesso alla necessita' di individuare eventuali soluzioni temporanee per esigenze abitative o produttive, da utilizzare nelle more dell'effettuazione dei predetti interventi. In caso di inosservanza del termine di cui al primo periodo, il Ministro per la protezione civile e le politiche del mare propone al Presidente del Consiglio dei ministri l'esercizio dei poteri sostitutivi ai sensi dell'articolo 8 della legge 5 giugno 2003, n. 131.
+
+))
