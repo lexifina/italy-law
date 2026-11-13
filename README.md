@@ -111,7 +111,7 @@ parola è modificata.
 - Quale di due atti abbia apportato una modifica quando il dato di Normattiva non permette di stabilirlo (sopra).
 - Parole invariate non significano diritto invariato: una sentenza, una norma transitoria altrove o l'interpretazione
   data da un atto successivo possono cambiare il significato di una disposizione senza cambiarne le parole. Le note di
-  Normattiva ne registrano alcuni.
+  Normattiva registrano alcuni di questi casi.
 - Qualsiasi atto oltre a questi. La stessa procedura di costruzione funziona per qualsiasi atto esportato da
   Normattiva Open Data: basta aggiungerlo a `SOURCES` in `tools/build.py`.
 
