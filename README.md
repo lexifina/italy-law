@@ -1,140 +1,83 @@
-# Il diritto italiano, modifica per modifica
+# Italia: storia del diritto in git
 
-**Italiano** · [English](README.en.md)
+**Italiano** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/it/effort-dark.svg">
 <img alt="Il diritto italiano in questo repository: che cosa contiene, le modifiche per anno di entrata in vigore, la completezza rispetto alle fonti ufficiali e la correttezza dei contenuti" src="data/it/effort-light.svg" width="880">
 </picture>
 
+Il diritto italiano come storia git: un file per articolo, un commit per ogni modifica nel giorno in cui è entrata in vigore, e come autore del commit l'atto che ha apportato la modifica. `git blame` indica l'atto che sta dietro a ogni comma; `git log` elenca ogni modifica di un articolo; scegliendo una data si ottiene il testo vigente in quel giorno.
+
 Fa parte di [lexifina/global-law](https://github.com/lexifina/global-law), un'unica storia git per il diritto di ogni Paese: questo è il diritto nazionale italiano, che global-law legge in `italy/national/acts/`.
 
-La Costituzione della Repubblica Italiana, tutte le leggi costituzionali e quattro testi più volte modificati, come
-repository git: lo Statuto dei lavoratori (Legge 300/1970), la legge sul procedimento amministrativo (Legge
-241/1990), il Codice in materia di protezione dei dati personali (D.Lgs. 196/2003) e il Codice dell'amministrazione
-digitale (D.Lgs. 82/2005). Ogni atto modificativo è un commit, attribuito a quell'atto e datato al giorno in cui la
-modifica è entrata in vigore, a mezzogiorno ora di Roma. Il testo è quello consolidato di Normattiva "in multivigenza"
-(tutte le versioni nel tempo), tratto da Normattiva Open Data.
+**Che cosa contiene ora:** 55 atti con 340 versioni, tutte le versioni che Normattiva pubblica: la Costituzione (28 versioni dal 1948); le 50 leggi costituzionali dal 1947 al 2026; e quattro testi più volte modificati, lo Statuto dei lavoratori (Legge 300/1970), la legge sul procedimento amministrativo (Legge 241/1990), il Codice in materia di protezione dei dati personali (D.Lgs. 196/2003) e il Codice dell'amministrazione digitale (D.Lgs. 82/2005). [`REPRODUCE.md`](REPRODUCE.md) elenca ogni atto con la sua cartella e le sue versioni; [`atti.csv`](atti.csv) elenca gli atti modificativi con tutte le loro date.
 
-## Le domande, come comandi git
+Ogni atto è in `<tipo>/<anno>/<numero>/`, un file per articolo (`legge/1970/300/art-018.md` è l'art. 18 dello Statuto dei lavoratori, Legge 20 maggio 1970, n. 300); la Costituzione è in [`costituzione/`](costituzione/), con le disposizioni transitorie e finali in `costituzione/allegati/`.
+
+Il testo è in italiano, come lo pubblica Normattiva, con i segni `(( ))` attorno alle parole modificate e le sue note di aggiornamento. Una traduzione inglese non fa parte di questo archivio.
+
+## Domande come comandi git
 
 | Domanda | Comando |
 | --- | --- |
-| Che cosa diceva l'art. 117 della Costituzione il 1º gennaio 2000? | `python tools/vigente.py 2000-01-01 costituzione 117` |
-| L'intera Costituzione com'era in vigore il 1º gennaio 2023 | `python tools/vigente.py 2023-01-01 costituzione` |
-| L'art. 13 del codice della privacy al 1º giugno 2015 | `python tools/vigente.py 2015-06-01 decreto-legislativo/2003/196 13` |
-| Quale atto ha scritto ciascuna riga dell'art. 117? | `git blame costituzione/art-117.md` |
-| Tutte le modifiche all'art. 9 della Costituzione, con l'atto e il giorno | `git log --follow costituzione/art-009.md` |
-| Tutto ciò che un atto ha modificato | `git show --stat atto/legge-costituzionale-2001-3` |
-| La Costituzione nel giorno in cui una revisione è entrata in vigore | `git show --stat costituzione/2022-03-09` |
-| Tutti gli atti che hanno modificato la Legge 241/1990 nel 2005 | `git log --format="%ad %an" --date=short --since=2005-01-01 --until=2005-12-31 -- legge/1990/241` |
-| Le sentenze della Corte costituzionale che hanno modificato il testo | `git log --format="%ad %an | %s" --date=short --author=sentenza` |
-| Le modifiche che nessun atto spiega, o che due atti potrebbero aver apportato | `git log --format="%ad %s" --date=short --author=Normattiva` |
-| Le modifiche attribuite solo in base alla data | `git log --format="%h %an | %s" --grep="Evidence: .*by date only"` |
-| Gli atti modificativi con tutte le loro date | [`atti.csv`](atti.csv) |
+| Tutte le modifiche all'art. 18 dello Statuto dei lavoratori | `git log -p --word-diff -- legge/1970/300/art-018.md` |
+| Quale atto ha scritto ciascuna riga dell'art. 18? | `git blame legge/1970/300/art-018.md` |
+| Tutte le versioni dello Statuto dei lavoratori, con il giorno in cui ciascuna è entrata in vigore | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- legge/1970/300` |
+| L'art. 18 nel testo vigente al 1º gennaio 2012 | `python tools/vigente.py 2012-01-01 legge/1970/300 18` |
 
-## Le date, e quale usiamo
+**Fuori da git** mettiamo questo archivio anche a disposizione di tutti, gratuitamente:
 
-Un atto italiano ha il giorno in cui è stato emanato (`Enacted:`), il giorno in cui è stato pubblicato nella Gazzetta
-Ufficiale (`Published:`) e il giorno in cui la modifica è entrata in vigore (`In-force:`). **I commit sono datati al
-giorno in cui la modifica è entrata in vigore**, a mezzogiorno ora di Roma: è il giorno che Normattiva indica come
-inizio della versione ("vigenza dal"). Tutte le date sono riportate in ogni messaggio di commit. Git non può registrare
-una data anteriore al 1970: i commit in vigore prima di allora (la Costituzione dal 1948, le sue revisioni fino al
-1967, i primi statuti regionali) sono datati 1º gennaio 1970, a un secondo di distanza l'uno dall'altro nell'ordine in
-cui sono entrati in vigore, e il giorno effettivo è in `In-force:`. Gli strumenti devono leggere `In-force:`, come fa
-`tools/vigente.py`.
+- **[Chiedi a Claude del diritto italiano](https://global-law.lexifina.com/v1/try_claude?country=italy)**: apre Claude con una prima domanda già pronta.
+- **[Chiedi a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=italy)**: la stessa domanda in ChatGPT.
+- **[Chiama l'API nel browser](https://global-law.lexifina.com/v1/search_law?query=ferie+annuali&jurisdictions=italy)**: una ricerca di "ferie annuali" nel diritto italiano, con risposta in JSON. La documentazione è [qui](https://lexifina.com/api/global-law).
 
-Le date semplici passate a `--since`, `--until` e `--before` di git sono interpretate nel fuso orario locale; i commit
-sono a mezzogiorno ora di Roma, quindi la modifica di un giorno ricade in quel giorno ovunque, ma per un taglio esatto
-si indichi un orario completo, `--before="2022-03-09T23:59:59+01:00"`. In PowerShell, `$(...)` dentro
-`git show $(...):path` viene diviso in due argomenti; si usi `$r = git rev-list -1 ...; git show "$($r):path"`.
+Entrambi gli assistenti leggono l'archivio tramite il connettore gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la prima volta la chat ti dà il link per aggiungerlo. Chiedi in italiano o in inglese.
 
-Un tag indica lo stato di ciascun atto in ogni giorno in cui è cambiato (`costituzione/2022-03-09`,
-`legge/1990/241/2005-03-08`) e il primo commit di ciascun atto modificativo (`atto/legge-costituzionale-2022-1`,
-`atto/sentenza-2025-156`). Dopo una ricostruzione di questo repository, eseguire il fetch con
-`git fetch --force --tags`: un fetch semplice mantiene i tag vecchi.
+**Ospitalo tu stesso, facilmente.** Bastano git e Python, e gli strumenti girano sul tuo computer:
 
-## Che cosa significa "autore"
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add italy/national/acts
+python3 tools/law.py show 2026-01-01 italy/national/acts/legge/1970/300/art-018.md
+```
 
-L'autore di un commit è l'atto che ha apportato la modifica: `Legge costituzionale 1/2022`, `D.L. 207/2008`,
-`D.Lgs. 101/2018`, con un indirizzo che termina in `@normattiva.invalid`, che non può esistere, così `git blame`
-indica l'atto. Sono autori anche le sentenze della Corte costituzionale che hanno eliminato parole del testo
-(`Corte costituzionale, sentenza 231/2013`, `@cortecostituzionale.invalid`), così come le correzioni pubblicate nella
-Gazzetta Ufficiale (errata corrige, avvisi di rettifica), che sono indicate come correzioni, non come modifiche. Un
-decreto-legge è attribuito con il proprio numero anche quando la sua legge di conversione lo ha modificato; Normattiva
-registra la coppia sotto il decreto-legge.
+Aperto in Claude Code, Cursor, VS Code o Codex, il clone avvia anche un server MCP locale con gli stessi strumenti ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
-Come viene attribuita una modifica, ciascun caso indicato nel trailer `Evidence:` del commit:
-- **Il dato di Normattiva per articolo.** Per ogni articolo di ogni versione, l'export JSON di Normattiva elenca le
-  disposizioni di altri atti che hanno prodotto la formulazione vigente dell'articolo ("articoliAggiornanti"), con il
-  giorno da cui quella formulazione si applica. Quando l'articolo è cambiato in questa versione, quella formulazione
-  decorre da questo giorno ed è indicato un solo atto, la modifica è di quell'atto. Se sono indicati due atti della
-  stessa Gazzetta, il loro codice redazionale li distingue.
-- **Solo in base alla data.** Un articolo non coperto dal dato di Normattiva (una disposizione inserita, abrogata o
-  rinumerata, un allegato), in una versione la cui cronologia degli aggiornamenti aggiunge esattamente un atto:
-  quell'atto.
-- Le unità senza dato per articolo (il titolo, il preambolo, le intestazioni della struttura) in una versione le cui
-  modifiche registrate provengono tutte da un solo atto: quell'atto.
+## Date
 
-Una modifica che nessun dato spiega è registrata nel commit da `Normattiva (IPZS)`, indicata come "modifica senza atto"
-e non attribuita ad alcun atto. Se sono possibili due o più atti è indicata come "atto non determinato" e li nomina nei
-trailer `Candidate:`. Se è cambiata solo la presentazione di Normattiva (i segni `(( ))` che pone intorno alle parole
-modificate, la spaziatura, le maiuscole e minuscole) il commit è indicato come "redazionale" (`Editorial: yes`). Il
-committer è sempre `Lexifina`.
+Ogni commit è datato a mezzogiorno, ora di Roma (Europe/Rome), nel giorno in cui la modifica è entrata in vigore, e riporta quel giorno nel trailer `In-force:` (con `Enacted:` e `Published:`):
+
+- il giorno è quello che Normattiva indica come inizio della versione ("vigenza dal"); se due versioni iniziano lo stesso giorno, il testo di quel giorno è la più recente;
+- git non può registrare date anteriori al 1970, perciò i 23 commit entrati in vigore prima (la Costituzione del 1948, le sue revisioni fino al 1967, i primi statuti delle regioni speciali) sono datati 1º gennaio 1970, a un secondo di distanza nell'ordine in cui sono entrati in vigore, con il giorno reale in `In-force:`. Per una data usa `tools/vigente.py`, non `git log --before`.
+
+Ogni modifica è attribuita all'atto indicato dal registro per articolo di Normattiva (`Legge 92/2012`, `D.L. 248/2007`), con un indirizzo che non può esistere (`legge-2012-92@normattiva.invalid`); sono autori anche le sentenze della Corte costituzionale che hanno eliminato parole (`Corte costituzionale, sentenza 59/2021`), e un decreto-legge è indicato con il proprio numero anche quando la modifica è stata fatta dalla sua legge di conversione. Le modifiche che nessun registro spiega (6 commit), o che due atti avrebbero potuto apportare (4, che li indicano nei trailer `Candidate:`), sono registrate da `Normattiva (IPZS)` e non attribuite ad alcun atto.
 
 ## Come viene verificato
 
-`tools/check_repo.py` rilegge da git ogni versione di ogni atto nel giorno in cui è entrata in vigore e la confronta
-con i dati ufficiali: file per file, byte per byte, con il testo che si ottiene dal file Akoma Ntoso della versione, e
-parola per parola con ogni parola di quell'XML, letto indipendentemente dal renderer. Come ulteriore verifica confronta
-le parole con l'export JSON di Normattiva della stessa versione. `tools/test_repo.py` verifica che i comandi sopra
-funzionino. I risultati sono in [`REPRODUCE.md`](REPRODUCE.md).
-
-## File
-
-Ogni atto è una cartella denominata con il tipo, l'anno e il numero (`legge/1990/241/`,
-`decreto-legislativo/2003/196/`, `legge-costituzionale/2001/3/`); la Costituzione è `costituzione/`. Ogni articolo è
-un file denominato secondo l'identificativo di Normattiva: `art-117.md` è `art_117`, `art-002-quater.md` è
-`art_2-quater`. La prima riga è il numero dell'articolo, poi la rubrica, poi una riga per ogni comma, lettera e numero.
-Le note di Normattiva sull'articolo ("AGGIORNAMENTO (5)", i richiami `((5))`) restano dove Normattiva le stampa, alla
-fine dell'articolo, e i segni `(( ))` intorno alle parole modificate sono mantenuti come li stampa Normattiva.
-`intestazione.md` contiene il titolo e la nota di Normattiva sull'entrata in vigore, `preambolo.md` la formula di
-promulgazione, `conclusioni.md` le sottoscrizioni, `allegati/` gli allegati (le disposizioni transitorie e finali
-della Costituzione sono da `allegati/allegato-i.md` a `allegato-xviii.md`), e `struttura.md` le intestazioni di
-parti, titoli, capi e sezioni, con il primo articolo di ciascuna. La spaziatura è ridotta a spazi singoli; nessuna
-parola è modificata.
+- `tools/check_repo.py` rilegge da git ogni versione di ogni atto nel giorno in cui è entrata in vigore e la confronta con il file Akoma Ntoso di Normattiva per quella versione, byte per byte con il testo che ne deriva e parola per parola con ogni parola dell'XML: 340 versioni, 0 differenze.
+- Una seconda costruzione dagli stessi dati in una cartella vuota ha dato lo stesso hash per ogni commit e ogni tag.
+- `tools/test_repo.py` verifica che blame, lo strumento per le date, i tag e i trailer `In-force:` funzionino. I risultati sono in [`REPRODUCE.md`](REPRODUCE.md).
 
 ## Che cosa non mostra
 
-- Le versioni che Normattiva non pubblica. La storia di ogni atto parte dal testo come pubblicato (l'"originale"), in
-  vigore dal giorno indicato da Normattiva.
-- Quale di due atti abbia apportato una modifica quando il dato di Normattiva non permette di stabilirlo (sopra).
-- Parole invariate non significano diritto invariato: una sentenza, una norma transitoria altrove o l'interpretazione
-  data da un atto successivo possono cambiare il significato di una disposizione senza cambiarne le parole. Le note di
-  Normattiva registrano alcuni di questi casi.
-- Qualsiasi atto oltre a questi. La stessa procedura di costruzione funziona per qualsiasi atto esportato da
-  Normattiva Open Data: basta aggiungerlo a `SOURCES` in `tools/build.py`.
+- **La maggior parte del diritto italiano.** Ci sono solo questi 55 atti: non i codici (civile, penale, di procedura) né altre leggi. La stessa costruzione funziona per qualsiasi atto esportato da Normattiva Open Data.
+- **Le modifiche successive al 28 ottobre 2026**, il giorno in cui i dati sono stati scaricati.
+- **Le versioni che Normattiva non pubblica.** Ogni atto parte dal testo come pubblicato (l'"originale").
+- **I cambiamenti di significato senza cambiamento delle parole**: una sentenza, una norma transitoria altrove o un'interpretazione successiva possono cambiare il significato di una disposizione; le note di Normattiva ne registrano alcuni.
+- **Il diritto regionale e la giurisprudenza.** Le leggi delle regioni sono nei loro repository in global-law (`italy/<region>/acts/`); le sentenze della Corte costituzionale compaiono solo dove hanno cambiato il testo.
 
-Il testo di Normattiva non è il testo ufficiale: "L'unico testo ufficiale e definitivo è quello pubblicato sulla
-Gazzetta Ufficiale Italiana a mezzo stampa, che prevale in casi di discordanza."
+## Fonti
 
-## Come viene costruito
-
-`tools/build.py` scarica gli export tramite l'API di Normattiva Open Data e scrive questo repository da zero; gli
-stessi dati danno gli stessi hash. Ogni passaggio, il software, le decisioni prese a mano e ciò che ha fatto un
-modello di IA sono in [`REPRODUCE.md`](REPRODUCE.md). La cartella di ogni atto ha un `README.md` che ne elenca le
-disposizioni con il numero di volte in cui ciascuna è cambiata. [`corpus.json`](corpus.json) descrive il corpus per
-gli strumenti che leggono più repository giuridici di Lexifina.
+| Fonte | Tipo | Versioni precedenti | Note |
+| --- | --- | --- | --- |
+| [Normattiva Open Data](https://dati.normattiva.it) (Istituto Poligrafico e Zecca dello Stato) | Testo consolidato "in multivigenza", Akoma Ntoso e JSON | sì, ogni versione a partire dall'originale | Il JSON fornisce il registro per articolo degli atti modificativi; non è il testo ufficiale, che è quello della Gazzetta Ufficiale a mezzo stampa |
 
 ## Licenza
 
-I dati provengono da Normattiva Open Data e sono utilizzati in base alla licenza Creative Commons Attribuzione 4.0
-Internazionale (CC BY 4.0), che dal 1º gennaio 2026 copre tutti gli atti presenti su Normattiva nelle versioni
-originale, vigente a una data e multivigente. Attribuzione: **Fonte: Normattiva (www.normattiva.it) - Istituto
-Poligrafico e Zecca dello Stato S.p.A., dati.normattiva.it, licenza CC BY 4.0. Testo non ufficiale e a titolo
-gratuito.** Modifiche apportate: il testo consolidato di ogni versione è suddiviso in un file per disposizione con la
-spaziatura normalizzata, e le versioni sono registrate come commit git attribuiti agli atti che le hanno prodotte.
-L'intero repository è rilasciato con licenza [CC BY 4.0](LICENSE) con la stessa attribuzione.
+Vedi [`LICENSE`](LICENSE). I dati provengono da Normattiva Open Data con licenza CC BY 4.0, che dal 1º gennaio 2026 copre ogni atto su Normattiva in tutte le sue versioni; attribuzione: **Fonte: Normattiva (www.normattiva.it) - Istituto Poligrafico e Zecca dello Stato S.p.A., dati.normattiva.it, licenza CC BY 4.0. Testo non ufficiale e a titolo gratuito.** L'intero repository è rilasciato con licenza CC BY 4.0 con la stessa attribuzione.
+
+Nessun modello di IA ha scritto o modificato testo normativo; gli script sono stati scritti da un modello di IA (vedi [`REPRODUCE.md`](REPRODUCE.md)).
 
 Questa è una traduzione della versione inglese ([README.en.md](README.en.md)); in caso di differenze, prevale la versione inglese.
 
