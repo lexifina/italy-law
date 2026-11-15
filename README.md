@@ -30,7 +30,8 @@ Il testo è in italiano, come lo pubblica Normattiva, con i segni `(( ))` attorn
 
 - **[Chiedi a Claude del diritto italiano](https://global-law.lexifina.com/v1/try_claude?country=italy)**: apre Claude con una prima domanda già pronta.
 - **[Chiedi a ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=italy)**: la stessa domanda in ChatGPT.
-- **[Chiama l'API nel browser](https://global-law.lexifina.com/v1/search_law?query=ferie+annuali&jurisdictions=italy)**: una ricerca di "ferie annuali" nel diritto italiano, con risposta in JSON. La documentazione è [qui](https://lexifina.com/api/global-law).
+- **[Cerca nel diritto italiano sul nostro sito](https://lexifina.com/law?country=italy&q=ferie+annuali)**: una ricerca di "ferie annuali", con il testo di ogni disposizione e le sue versioni, senza account.
+- **[API REST per sviluppatori](https://global-law.lexifina.com/v1/search_law?query=ferie+annuali&jurisdiction=italy)**: la stessa ricerca in JSON, senza chiave. La documentazione è [qui](https://lexifina.com/api/global-law).
 
 Entrambi gli assistenti leggono l'archivio tramite il connettore gratuito Global law (MCP, `https://global-law.lexifina.com/mcp`); la prima volta la chat ti dà il link per aggiungerlo. Chiedi in italiano o in inglese.
 
