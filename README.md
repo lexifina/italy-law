@@ -59,6 +59,7 @@ Ogni modifica è attribuita all'atto indicato dal registro per articolo di Norma
 - `tools/check_repo.py` rilegge da git ogni versione di ogni atto nel giorno in cui è entrata in vigore e la confronta con il file Akoma Ntoso di Normattiva per quella versione, byte per byte con il testo che ne deriva e parola per parola con ogni parola dell'XML: 340 versioni, 0 differenze.
 - Una seconda costruzione dagli stessi dati in una cartella vuota ha dato lo stesso hash per ogni commit e ogni tag.
 - `tools/test_repo.py` verifica che blame, lo strumento per le date, i tag e i trailer `In-force:` funzionino. I risultati sono in [`REPRODUCE.md`](REPRODUCE.md).
+- [vulnerabilities/](vulnerabilities/): possibili errori di redazione in questo diritto, trovati dai rilevatori di global-law e controllati a mano. Non ancora eseguito.
 
 ## Che cosa non mostra
 
@@ -81,6 +82,10 @@ Vedi [`LICENSE`](LICENSE). I dati provengono da Normattiva Open Data con licenza
 Nessun modello di IA ha scritto o modificato testo normativo; gli script sono stati scritti da un modello di IA (vedi [`REPRODUCE.md`](REPRODUCE.md)).
 
 Questa è una traduzione della versione inglese ([README.en.md](README.en.md)); in caso di differenze, prevale la versione inglese.
+
+## Visualizzazioni
+
+- [visualisations/](visualisations/): grafici tratti da questo repository. Non ancora disegnati.
 
 ## Per saperne di più
 
