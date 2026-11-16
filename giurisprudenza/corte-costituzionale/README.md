@@ -1,10 +1,11 @@
 # Corte costituzionale
 
-Le pronunce (sentenze e ordinanze) della Corte costituzionale dal 1956 (estremi e link al testo ufficiale) e le
-massime ufficiali di ciascuna pronuncia, con il testo come pubblicato dalla Corte.
+Le pronunce (sentenze e ordinanze) della Corte costituzionale dal 1956 e le massime ufficiali di ciascuna
+pronuncia, con il testo come pubblicato dalla Corte.
 
 - `<anno>/<mese del deposito>/<sentenza|ordinanza>-<numero>/scheda.md`: gli estremi della pronuncia e il link al testo
   ufficiale sul sito della Corte.
+- `.../testo.md`: il testo integrale della pronuncia (collegio, epigrafe, testo, dispositivo), come pubblicato.
 - `.../massima-<numero>.md`: ogni massima della pronuncia, con le norme e i parametri indicati dalla Corte.
 
 Ogni pronuncia e ogni massima è un commit. La data (In-force) è la data del deposito in cancelleria indicata dalla
@@ -15,5 +16,5 @@ Dati: https://dati.cortecostituzionale.it/Scarica_i_dati/Scarica_i_dati
 
 # Constitutional Court (English)
 
-Every judgment (sentenza) and order (ordinanza) of the Constitutional Court since 1956 (details and a link to the
-official text), and the Court's official headnotes (massime) as published. Dated by the day of deposit. Source: the Court's open data, CC BY-SA 3.0.
+Every judgment (sentenza) and order (ordinanza) of the Constitutional Court since 1956 in full (testo.md, with its
+details in scheda.md), and the Court's official headnotes (massime) as published. Dated by the day of deposit. Source: the Court's open data, CC BY-SA 3.0.
