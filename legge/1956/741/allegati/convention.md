@@ -1,3 +1,0 @@
-Convention n. 100 concernant l'egalite' de remuneration entre la main-d'oeuvre masculine et la main-d'oeuvre feminine pour un travail de valeur egale.
-
-Parte di provvedimento in formato grafico

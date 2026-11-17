@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717/A/5.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717/A/5.0.2"/>
+					<an:FRBRdate date="2018-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/717/A/5.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@"/>
+					<an:FRBRdate date="2018-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@.akn"/>
+					<an:FRBRdate date="2018-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-08-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-08-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/717/A/5.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/717" showAs="DDL 717"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDI5LTYPUZKLMVEP5LHSQW1KPRGHFCMZE1BMTWILCQASI00YL0ZD3C" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+				<an:TLCPerson id="IDW31TDVJQZRJKHLDSEPNX1WZW5P5CY0BGJQE2AHC2SMCQJMCDXW5E" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="IDI4PSL40XODRWHAVOW4PFK1V4XPGE32ITHF5U44KOPJYLJLE2EJUH" href="http://dati.senato.it/29443" showAs="IORI"/>
+				<an:TLCPerson id="IDF4Q1YRIGZDVNMVGZQUNMG5NMBJLDUZTHH0URDKL0IHQQ1EXPEPMK" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 717</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI5LTYPUZKLMVEP5LHSQW1KPRGHFCMZE1BMTWILCQASI00YL0ZD3C" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDW31TDVJQZRJKHLDSEPNX1WZW5P5CY0BGJQE2AHC2SMCQJMCDXW5E" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI4PSL40XODRWHAVOW4PFK1V4XPGE32ITHF5U44KOPJYLJLE2EJUH" as="#tipoSenatore">IORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF4Q1YRIGZDVNMVGZQUNMG5NMBJLDUZTHH0URDKL0IHQQ1EXPEPMK" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:i>
+						<an:b>bis</an:b>
+					</an:i>
+					.
+				</an:p>
+				<an:p>        All'articolo 16, comma 3, secondo periodo, del decreto legislativo 14 settembre 2015 n. 147, e successive modificazioni, le parole: ''e per quello successivo'' sono sostituite dalle seguenti: ''e per i tre periodi d'imposta successivi».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

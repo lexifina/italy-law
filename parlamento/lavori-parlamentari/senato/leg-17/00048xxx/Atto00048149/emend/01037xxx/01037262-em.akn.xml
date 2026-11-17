@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/5.0.1"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/5.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVKHSXE4IYJMDEKZYD2Z5BH22RJWZ1C5R5SZAR1M0L4H5VDEIERRE" href="http://dati.senato.it/29175" showAs="SANTINI"/>
+				<an:TLCPerson id="ID3G3DNWTCPU3HHB2P3NKKA0K31I35QECJX03RZLE23IUCO1VYULZI" href="http://dati.senato.it/29054" showAs="BROGLIA"/>
+				<an:TLCPerson id="IDA0RT1I3RPEJGGQHXSCRA2DXLLH3RPMAGSSBRDOBOUCP2OXES2VWI" href="http://dati.senato.it/29113" showAs="LAI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVKHSXE4IYJMDEKZYD2Z5BH22RJWZ1C5R5SZAR1M0L4H5VDEIERRE" as="#tipoSenatore">SANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3G3DNWTCPU3HHB2P3NKKA0K31I35QECJX03RZLE23IUCO1VYULZI" as="#tipoSenatore">BROGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0RT1I3RPEJGGQHXSCRA2DXLLH3RPMAGSSBRDOBOUCP2OXES2VWI" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo 5, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>
+					        1. Per il triennio 2018-2020, con riferimento al programmi di spesa in conto capitale delle amministrazioni centrali individuati ai sensi dell'articolo 7-
+					<an:i>bis</an:i>
+					, comma 2, del decreto-legge 29 dicembre 2016, n. 243, convertito, con modificazioni, dalla legge 27 febbraio 2011, n. 18, e in applicazione dei criteri di riequilibrio stabiliti nella direttiva del Presidente del Consiglio dei ministri, adottata ai sensi del citato comma 2, le somme non impegnate, già a partire dalla chiusura dell'esercizio 2017, sono iscritte nella competenza dell'esercizio successivo su un apposito fondo di riequilibrio territoriale della spesa ordinaria in conto capitale.
+				</an:p>
+				<an:p>        2. Entro il mese di maggio di ciascun anno, il Ministro dell'economia e delle finanze, di concerto con il Ministro per la coesione territoriale ed il mezzogiorno, assegna le risorse affluite sul fondo di cui al comma 1 ai programmi di spesa maggiormente idonei a realizzare i criteri di riequilibrio stabiliti nella direttiva del Presidente del Consiglio dei Ministri, sulla base dei risultati del monitoraggio relativo al conseguimento del principio di assegnazione differenziale di risorse. Nelle note integrative allo stato di previsione del Ministero dell'economia e delle finanze è data evidenza ai risultati conseguiti attraverso l'applicazione del presente comma.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

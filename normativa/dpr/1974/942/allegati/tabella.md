@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO TECNICO PER GEOMETRI DI GROSSETO
+
+Parte di provvedimento in formato grafico

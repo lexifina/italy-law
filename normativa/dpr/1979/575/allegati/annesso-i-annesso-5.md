@@ -1,0 +1,5 @@
+ANNESSO 5
+
+CERTIFICATO SANITARIO PER SUINI DA ALLEVAMENTO O DA PRODUZIONE
+
+Parte di provvedimento in formato grafico

@@ -1,7 +1,0 @@
-Allegato
-
-KYOTO PROTOCOL TO THE
-
-UNITED NATIONS FRAMEWORK CONVENTION ON CLIMATE CHANGE
-
-Parte di provvedimento in formato grafico

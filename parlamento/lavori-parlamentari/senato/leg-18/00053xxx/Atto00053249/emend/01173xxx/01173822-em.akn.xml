@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/59.0.13"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="59.0.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/59.0.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2QF1HBXEA3TCCZRE5XEAQXBHBMBCIIV43TCOUCI0XFYC3OIH4RVB" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDQNVVO1MF4TICNFOQQYMRZMUPOKOJ2TVBMHOJZ1JAOVPRI3DGZOAP" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDGGDAKWKGKNGHMWXAMEYXJK4P4D0LSMCULAULWMUIZ2URMKCRWBJ" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDSDXGPXDTOEKWEX1SALEKJOD2SIA223MYWQTITSND4FQ3S0Y2GU5O" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 59.0.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2QF1HBXEA3TCCZRE5XEAQXBHBMBCIIV43TCOUCI0XFYC3OIH4RVB" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQNVVO1MF4TICNFOQQYMRZMUPOKOJ2TVBMHOJZ1JAOVPRI3DGZOAP" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGGDAKWKGKNGHMWXAMEYXJK4P4D0LSMCULAULWMUIZ2URMKCRWBJ" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSDXGPXDTOEKWEX1SALEKJOD2SIA223MYWQTITSND4FQ3S0Y2GU5O" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 59-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Contributo a fondo perduto a favore dei soggetti esercenti attività d'impresa, di lavoro autonomo, di reddito agrario nonché titolari di partita IVA)</an:i>
+				</an:p>
+				<an:p>        1. I soggetti che non hanno presentato domanda ai sensi dell'articolo 25, comma 4, terzo periodo, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, che, a far data dall'insorgenza dell'evento calamitoso, hanno il domicilio fiscale o la sede operativa nel territorio di comuni colpiti dai predetti eventi i cui stati di emergenza erano ancora in atto alla data di dichiarazione dello stato di emergenza COVID-19, classificati totalmente montani di cui all'elenco dei comuni italiani predisposto dall'Istituto nazionale di statistica (ISTAT) ovvero ricompresi nella circolare del Ministro delle finanze n. 9 del 14 giugno 1993, e non inseriti nella lista indicativa dei Comuni colpiti da eventi calamitosi di cui alle istruzioni per la compilazione dell'istanza per il riconoscimento del contributo a fondo perduto, pubblicate dall'Agenzia delle entrate in data 30 giugno 2020, possono presentare la domanda entro trenta giorni dalla data di riavvio della procedura telematica per la presentazione della stessa, come definita con provvedimento del direttore dell'Agenzia delle entrate. A tal fine l'Agenzia delle entrate, entro 15 giorni dalla data di entrata in vigore della presente disposizione, riavvia la procedura telematica e disciplina le modalità attuative ai sensi dell'articolo 25.</an:p>
+				<an:p>        2. Agli oneri derivanti dall'attuazione del comma 1, valutati in 20 milioni di euro per ciascuno degli anni 2020 e 2021, si provvede mediante corrispondente riduzione dell'importo di cui all'articolo 114, comma 4.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

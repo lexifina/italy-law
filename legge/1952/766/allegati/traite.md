@@ -1,7 +1,0 @@
-TRAITE' INSTITUANT LA COMMUNAUTE'
-
-EUROPEENNE DU CHARBON ET DE L'ACIER
-
-TRAITE
-
-Parte di provvedimento in formato grafico

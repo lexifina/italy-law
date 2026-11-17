@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.13"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@.akn"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1993/A/1.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1993" showAs="DDL 1993"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAWA0QC" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDALC0QC" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDACA0QC" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDA4B0QC" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDABC0QC" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAOC0QC" href="http://dati.senato.it/senatore/29186" showAs="STEFANO"/>
+				<an:TLCPerson id="IDA5A0QC" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1993</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWA0QC" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALC0QC" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACA0QC" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4B0QC" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABC0QC" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOC0QC" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5A0QC" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, alinea, sostituire le parole da: «nel rispetto», fino alla fine del comma, con le seguenti: «il primo e il secondo periodo del comma 25 dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, sono soppressi».</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, sostituire il comma 2 con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">        «2. Le disposizioni di cui al presente articolo si riferiscono ad ogni singolo beneficiario in funzione della somma dell'importo complessivo di tutti i trattamenti pensionistici in godimento e degli assegni vitalizi derivanti da uffici elettivi».</an:p>
+				<an:p align="justify">        Al comma 3, aggiungere, infine, le parole: «in sei rate annuali».</an:p>
+				<an:p align="justify">        Sostituire i commi 4 e 5 con i seguenti:</an:p>
+				<an:p align="justify">        «4. Il meccanismo di rivalutazione previsto per il triennio 2014-2016 dall'articolo 1, comma 483, della legge 27 dicembre 2013, n. 147, opera sull'importo previdenziale derivante dalla rivalutazione per il biennio 2012-2013 in conseguenza della soppressione di cui al comma 1.</an:p>
+				<an:p align="justify">        5. Il provvedimento di assestamento per l'anno 2015 e le previsioni di bilancio per gli anni successivi tengono conto degli effetti della richiamata sentenza della Corte costituzionale e del presente articolo».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

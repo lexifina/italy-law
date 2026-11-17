@@ -1,9 +1,0 @@
-VITTORIO EMANUELE III
-
-per grazia di Dio e per volonta' della Nazione
-
-RE D'ITALIA
-
-Vista la legge consolare 28 gennaio 1866, n. 2804, ed il relativo regolamento approvato con R. decreto 7 giugno 1866, n. 2996;
-
-Sulla proposta del Nostro ministro, segretario di Stato per gli affari esteri; Abbiamo decretato e decretiamo:

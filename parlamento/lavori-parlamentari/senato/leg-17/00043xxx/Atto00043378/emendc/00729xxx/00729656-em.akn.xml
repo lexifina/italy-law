@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1190/19/3 e 4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@.akn"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1190/C/G/1190/19/3 e 4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1190" showAs="DDL 1190"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 3° e 4° riunite" href="/dati.senato.it/osr/Commissione/35"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1190</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1190/19/3 e 4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            ai sensi delle disposizioni di cui al decreto-legge 10 ottobre 2013 n. 114, si prevede lo stanziamento di ulteriori cinque milioni di euro per finanziare, fino a dicembre 2013, la missione Active Endeavour, per cui l'Italia ha già speso duecentotrenta milioni di euro;</an:p>
+				<an:p>            tale missione doveva originariamente essere incentrata sull'intercettazione di eventuali movimenti navali di cellule fondamentaliste islamiche, con un occhio di riguardo per i trasferimenti di armi chimiche o nucleari;</an:p>
+				<an:p>
+					            successivamente il mandato dell'operazione è stato allargato fino a ricomprendere anche tutti i 
+					<an:i>business</an:i>
+					 che arricchiscono i miliziani qaedisti, come il commercio di droga e lo sfruttamento dei migranti;
+				</an:p>
+				<an:p>
+					            dal 2008 sono stati anche potenziati la condivisione delle informazioni ed il 
+					<an:i>network</an:i>
+					 elettronico della sorveglianza, fino ad arrivare alla capacità di monitorare oltre diecimila imbarcazioni al giorno, comprese quelle che attraversano la zona calda dei viaggi disperati verso la Sicilia;
+				</an:p>
+				<an:p>
+					            nonostante tali interventi, incrociatori, portaelicotteri, sottomarini e velivoli 
+					<an:i>radar</an:i>
+					 coinvolti nell'operazione non hanno mai bloccato un solo peschereccio trasportante profughi;
+				</an:p>
+				<an:p>
+					            uno dei quadranti di attività delle cannoniere Nato marca proprio il tragitto tra Libia e Sicilia, dove si sono verificate le stragi più gravi, e un settore di pattugliamento aereo dell'Alleanza militare vigila sulle acque tra Tunisia e Italia, ma né i 
+					<an:i>radar</an:i>
+					 dei più moderni cacciatorpedinieri, né quelli dei ricognitori volanti più sofisticati hanno mai segnalato un barcone in difficoltà o uno scafo di migranti in viaggio,
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            a constatare l'evidente inefficacia della missione 
+					<an:i>Active Endeavour</an:i>
+					 e ad uscirne a partire dal 1º gennaio 2014;
+				</an:p>
+				<an:p>            a ricercare soluzioni diverse e più rispettose dei diritti umani.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

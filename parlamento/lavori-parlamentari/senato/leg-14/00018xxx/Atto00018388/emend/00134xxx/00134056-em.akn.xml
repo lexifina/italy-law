@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753/A/G9.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753/A/G9.100"/>
+					<an:FRBRdate date="2005-04-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1753/A/G9.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G9.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@"/>
+					<an:FRBRdate date="2005-04-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@.akn"/>
+					<an:FRBRdate date="2005-04-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-04-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-04-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1753/A/G9.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1753" showAs="DDL 1753"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17572" showAs="Grillotti"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17542" showAs="Balboni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1650" showAs="Morselli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/775" showAs="Danieli"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/786" showAs="De Corato"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3847" showAs="Caruso"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17656" showAs="Valditara"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3854" showAs="Pellicini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1753</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G9.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Grillotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Balboni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Morselli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Danieli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Corato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Caruso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Valditara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Pellicini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame di esame del disegno di legge Atto Senato 1753, recante «Delega al Governo per il riordino, il coordinamento e l'integrazione della legislazione in materia ambientale e misure di diretta applicazione»,</an:p>
+				<an:p align="justify">        premesso:</an:p>
+				<an:p align="justify">            che la Commissione Europea ha ritenuto già compatibile il contributo di Stato deliberato dal Governo austriaco per il trasporto fluviale di merci sul Danubio;</an:p>
+				<an:p align="justify">        considerato:</an:p>
+				<an:p align="justify">            che in Italia, il tratta navigabile del fiume Po offre un collegamento utilizzabile e, di fatto, già utilizzato, tra il Mare Adriatico ed il centro del Nord Italia,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            onde incrementare questa forma di trasporto che offre notevoli vantaggi dal punto di vista della sicurezza e della tutela dell'ambiente, come per esempio nel trasporto di merci pericolose, e al fine di incoraggiare una forma di trasporto alternativa a quella stradale e ferroviaria, ad attivare procedure atte a concedere un contributo sui costi di trasporto fluvio-idroviario.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

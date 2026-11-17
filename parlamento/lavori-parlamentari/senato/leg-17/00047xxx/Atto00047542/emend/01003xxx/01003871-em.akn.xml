@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/G7.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/G7.102"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/A/G7.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@.akn"/>
+					<an:FRBRdate date="2017-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/A/G7.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZIHPZIFOGXDUFVBRSAVKXZDLQHSUOKUCN5TJCQLR2ZSBN1VUVYQC" href="http://dati.senato.it/22863" showAs="BARANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZIHPZIFOGXDUFVBRSAVKXZDLQHSUOKUCN5TJCQLR2ZSBN1VUVYQC" as="#tipoSenatore">BARANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>II Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            Sembra improrogabile lo sviluppo della sanità territoriale; uno degli obiettivi di questa nuova organizzazione mira all'integrazione tra il medico di medicina generale e lo specialista ambulatoriale;</an:p>
+				<an:p>            emerge l'esigenza di trovare un equilibrio tra l'ospedale e il territorio e lo specialista ambulatoriale si pone al centro tra due livelli d'integrazione;</an:p>
+				<an:p>            in questo scenario vanno assottigliandosi le differenze rispetto ad alcuni trattamenti differenziati oggi vigenti fra i medici specialisti del servizio ambulatoriale e i medici del SSN.</an:p>
+				<an:p>            Accade infatti che Medici specialisti ambulatoriali SUMAI convenzionati con il SSN con contratto di lavoro a tempo indeterminato e con rapporto previdenziale soggetto all'EMP AM, allorché si trovino in aspettativa non retribuita per mandato istituzionale (membri del governo, parlamentari o consiglieri regionali) non possano utilizzare il metodo di pagamento per il riscatto degli anni in aspettativa, ripartito per quota parte annuale, come invece consentito ai medici del SSN, che ad oggi possono provvedere al pagamento del riscatto annualmente pagando la quota parte,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità nell'ambito del decreto, di equiparare il trattamento per il riscatto degli anni di aspettativa per mandato istituzionale dei medici specialisti ambulatoriali SUMAI a quello previsto per i medici dipendenti del SSN con rapporto previdenziale INPS/EX INPDAP.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

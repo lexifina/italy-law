@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/5.86/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/5.86"/>
+					<an:FRBRdate date="2019-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/C/5.86/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.86"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@"/>
+					<an:FRBRdate date="2019-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@.akn"/>
+					<an:FRBRdate date="2019-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/C/5.86/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDY2EJCY3T0AXXMXKDQOR0SQWEDBVMKT0Z2TC0U2PH0O3VNI4BRZ1I" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="ID51SBZLD4IC0S323WSCICZQZTJZI1Y0FDJUKWCKO5MPN5W1EFCRO" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="IDAW4N2TVG5CXXMH0ZKJ53HTNS3EL4CUNRKFK1O4OZLVLZUAG20T3J" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDJZFWALQV1ANAGIYGBI5JC03HUPQBKOYDXZ0QW3N24JVBFDZD3JXP" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.86</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDY2EJCY3T0AXXMXKDQOR0SQWEDBVMKT0Z2TC0U2PH0O3VNI4BRZ1I" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID51SBZLD4IC0S323WSCICZQZTJZI1Y0FDJUKWCKO5MPN5W1EFCRO" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAW4N2TVG5CXXMH0ZKJ53HTNS3EL4CUNRKFK1O4OZLVLZUAG20T3J" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJZFWALQV1ANAGIYGBI5JC03HUPQBKOYDXZ0QW3N24JVBFDZD3JXP" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 6, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «6-
+					<an:i>bis.</an:i>
+					 All'articolo 81, comma 32, della legge n. 112 del 2008, convertito, con modificazioni, dalla legge n. 133 del 2008, al primo periodo, dopo le parole: ''generi alimentari'', sono aggiunte le seguenti: ''e delle apparecchiature domestiche atte alla loro conservazione e trattamento''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

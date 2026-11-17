@@ -1,0 +1,9 @@
+LEGGE
+
+23 marzo 1998
+
+110
+
+Ratifica ed esecuzione della convenzione internazionale per la protezione dei ritrovati vegetali, adottata a Parigi il 2 dicembre 1961 e riveduta a Ginevra il 10 novembre 1972, il 23 ottobre 1978 ed il 19 marzo 1991.
+
+Entrata in vigore della legge: 5/5/1998

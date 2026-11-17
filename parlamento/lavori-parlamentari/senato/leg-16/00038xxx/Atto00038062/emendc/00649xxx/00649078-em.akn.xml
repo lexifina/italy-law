@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3184/C/4.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3184/C/4.3"/>
+					<an:FRBRdate date="2012-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3184/C/4.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@"/>
+					<an:FRBRdate date="2012-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@.akn"/>
+					<an:FRBRdate date="2012-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-04-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-04-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3184/C/4.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3184" showAs="DDL 3184"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 5° e 6° riunite" href="/dati.senato.it/osr/Commissione/69"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17777" showAs="Saro"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17921" showAs="Lenna"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/23037" showAs="Pertoldi"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25220" showAs="Blazina"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3184</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Saro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Lenna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Pertoldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Blazina</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Le province possono stabilire di disapplicare le misure dell'imposta provinciale di trascrizione che risultano dalle disposizioni del decreto del Ministro delle finanze 27 novembre 1998, n. 435, e dall'articolo 1, comma 11, del decreto-legge 13 agosto 2011, n. 138, convertito, con modificazioni, dalla legge 14 settembre 2011, n. 148, e di applicare agli atti soggetti ad IVA ed agli atti relativi ai veicoli specificati al numero 1, alle lettere da 
+					<an:i>a)</an:i>
+					 a 
+					<an:i>g)</an:i>
+					 della tabella allegata al decreto del Ministro delle finanze 27 novembre 1998, n. 435, la misura fissa di cui al numero 2 del decreto medesimo.
+				</an:p>
+				<an:p>
+					        2-
+					<an:i>ter</an:i>
+					. Le province non possono effettuare ulteriori diversificazioni delle misure di tariffa rispetto a quelle indicate nel comma precedente.
+				</an:p>
+				<an:p>
+					        2-
+					<an:i>quater</an:i>
+					. Agli oneri derivanti dalla presente disposizione, valutati in 40 milioni di euro a decorrere dall'anno 2012, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa prevista all'articolo 7-
+					<an:i>quinquies</an:i>
+					, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, relativa al Fondo per interventi urgenti ed indifferibili, come integrata, da ultimo, dall'articolo 33, comma 1, della legge 12 novembre 2011, n. 183. Il Ministro dell'economia e delle finanze e'autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

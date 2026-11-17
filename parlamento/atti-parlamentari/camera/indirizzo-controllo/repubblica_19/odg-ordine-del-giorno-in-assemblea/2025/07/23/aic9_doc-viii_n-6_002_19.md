@@ -1,0 +1,32 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/002 presentata da ASCANI ANNA (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA) in data 23/07/2025
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.6/002
+- Data: 20250723
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/002 presentata da ASCANI ANNA (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA) in data 23/07/2025
+- Presentatore: ASCANI ANNA (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Cofirmatario: AMORESE ALESSANDRO (FRATELLI D'ITALIA)
+- Cofirmatario: CARFAGNA MARIA ROSARIA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE)
+- Cofirmatario: CAVO ILARIA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE)
+- Cofirmatario: CECCHETTI FABRIZIO (LEGA - SALVINI PREMIER)
+- Cofirmatario: GIACHETTI ROBERTO (ITALIA VIVA-IL CENTRO-RENEW EUROPE)
+- Cofirmatario: PICCOLOTTI ELISABETTA (ALLEANZA VERDI E SINISTRA)
+- Cofirmatario: SPORTIELLO GILDA (MOVIMENTO 5 STELLE)
+- Cofirmatario: TASSINARI ROSARIA (FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE)
+- Cofirmatario: VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/127
+- Argomento: http://eurovoc.europa.eu/1451
+- Argomento: http://eurovoc.europa.eu/2265
+- Argomento: http://eurovoc.europa.eu/3900
+- Argomento: http://eurovoc.europa.eu/4704
+- Argomento: http://eurovoc.europa.eu/494
+- Argomento: http://eurovoc.europa.eu/548
+- Argomento: http://eurovoc.europa.eu/585
+- Argomento: http://eurovoc.europa.eu/687
+- Argomento: http://eurovoc.europa.eu/701
+- Argomento: http://eurovoc.europa.eu/717
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.6/002
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.6_002_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

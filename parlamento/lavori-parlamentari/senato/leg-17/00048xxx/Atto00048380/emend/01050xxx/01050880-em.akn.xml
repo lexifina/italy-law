@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/G3.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/G3.10"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/G3.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.10"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@.akn"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2942/A/G3.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2942" showAs="DDL 2942"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDP0ZASKAZHHFMBUZKNHM43E1DIMET2NVCP2UQXBHOYIWKUMBBXO0I" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDCZCJTG4LS5Y4PC0J00DFI0FFRL4T2Z4I4J1IKEPKYPTLJMLBFDXJ" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="ID4HWMJQ0M1KTSFP1Y5KI0PKNKGGNSJT44QLGFSMEKYNRRWI2RRWI" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDQJGKZZGCWSRDJGGRAPWCXE1VVMFESA33RJ1MFML4D52AR5J1UQYD" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2942</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP0ZASKAZHHFMBUZKNHM43E1DIMET2NVCP2UQXBHOYIWKUMBBXO0I" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCZCJTG4LS5Y4PC0J00DFI0FFRL4T2Z4I4J1IKEPKYPTLJMLBFDXJ" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4HWMJQ0M1KTSFP1Y5KI0PKNKGGNSJT44QLGFSMEKYNRRWI2RRWI" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQJGKZZGCWSRDJGGRAPWCXE1VVMFESA33RJ1MFML4D52AR5J1UQYD" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge A.S. 2942 - «Conversione del decreto-legge 16 ottobre 2017, n. 148, recante disposizioni urgenti in materia finanziaria e per esigenze indifferibili»,</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>
+					            in considerazione della 
+					<an:i>ratio</an:i>
+					 che ha spinto all'introduzione della disposizione in esame, si ritiene che il controllo dei versamenti periodici IVA prima della presentazione della dichiarazione IVA e la conseguente emanazione dei provvedimenti ai sensi dell'articolo 54
+					<an:i>-bis</an:i>
+					, comma 2, del decreto del Presidente della Repubblica n. 633 del 1972 debba essere limitata ai soli soggetti che presentano un elevato rischio fiscale;
+				</an:p>
+				<an:p>            per la selezione di tali soggetti viene demandato ad un Provvedimento del Direttore dell'Agenzia delle entrate l'individuazione delle condizioni che potranno tener conto dei comportanti pregressi dei contribuenti;</an:p>
+				<an:p>        impegna il Governo a:</an:p>
+				<an:p>            valutare la possibilità di evitare che l'applicazione automatica della norma in merito ai controlli dei versamenti IVA introdotta con il decreto-legge n. 193 del 2016 vanifichi, anche in relazione a soggetti che presentano un ridotto rischio fiscale, la possibilità di effettuare il ravvedimento operoso.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,9 +1,0 @@
-[Art. 2, comma 1, lett. a)]
-
-TABELLA 4
-
-(art. 1125-bis, comma 1, lett. a), n. 1)
-
-DOTAZIONI ORGANICHE DEGLI UFFICIALI DELL'ESERCITO ITALIANO, DELLA MARINA MILITARE E DELL'AERONAUTICA MILITARE, SUDDIVISE PER RUOLI E GRADI, PER L'ANNO 2013
-
-Parte di provvedimento in formato grafico

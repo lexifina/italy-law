@@ -1,0 +1,7 @@
+CONVENTION sur l'entraide judiciaire en matiere civile
+
+entre
+
+la Republique Italienne et la Republique Populaire Hongroise
+
+Parte di provvedimento in formato grafico

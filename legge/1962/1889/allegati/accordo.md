@@ -1,7 +1,0 @@
-Secondo Accordo internazionale sullo stagno
-
-(Londra, 1 settembre 1960)
-
-DEUXIEME ACCORD INTERNATIONAL SUR L'ETAIN
-
-Parte di provvedimento in formato grafico

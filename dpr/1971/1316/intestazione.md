@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-04 gennaio 1971
-
-1316
-
-Istituzione in Grenoble (Francia) di un vice consolato di 1ª categoria e soppressione del consolato di 1° categoria nella stessa localita'.

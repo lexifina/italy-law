@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/A/17.0.9"/>
+					<an:FRBRdate date="2011-09-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="17.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@"/>
+					<an:FRBRdate date="2011-09-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@.akn"/>
+					<an:FRBRdate date="2011-09-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-09-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-09-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2887/A/17.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2887" showAs="DDL 2887"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17656" showAs="Valditara"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22762" showAs="Molinari"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/21978" showAs="Germontani"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17710" showAs="Milana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25257" showAs="Contini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2887</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 17.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Valditara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Germontani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Milana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Contini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 17,</an:b>
+					 inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 17-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        1. Le funzioni di segretario generale e di direttore generale della Consob sono incompatibili con l'esercizio di qualsiasi altro incarico pubblico.</an:p>
+				<an:p align="justify">        2. All'atto della nomina, i soggetti di cui al comma 1 decadono automaticamente da tutti gli incarichi pubblici e se dipendenti pubblici sono posti in aspettativa non retribuita dalle loro amministrazioni di appartenenza.</an:p>
+				<an:p align="justify">        3. Entro 30 giorni dalla legge di conversione del presente decreto, i soggetti di cui al comma 1 optano per il mantenimento degli incarichi presso la Consob o per il mantenimento degli altri incarichi pubblici in godimento. In caso di mancata opzione, da rendere per iscritto al Consiglio della Consob, i soggetti di cui al comma l decadono dalla carica di segretario generale e di direttore generale della Consob».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

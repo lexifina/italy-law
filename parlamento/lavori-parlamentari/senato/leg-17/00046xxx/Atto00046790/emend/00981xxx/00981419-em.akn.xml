@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/19.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/19.4"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/19.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@.akn"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2345/A/19.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2345" showAs="DDL 2345"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDENXNC1FCIC1KNKOBCTKQF1HLMNXQ4E5LL4QZXT2K1HLVBXOHOOH" href="http://dati.senato.it/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="IDYPBJO3U34LKYEXVRG0X0HFBVNJ13VKCBRM25B1P54PTPWBKRPH4K" href="http://dati.senato.it/29193" showAs="VACCIANO"/>
+				<an:TLCPerson id="IDEUBQ2HE1PXJYEBD2VWDUCG2ALBZ3Q5RAZW1IRTEH2YPB40BGNHHE" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDWWGKYT5SFL2AH10JBJOMZAJTEHTMVR1QMIJAYEIDOIS2VHKO200O" href="http://dati.senato.it/29168" showAs="Maurizio ROMANI"/>
+				<an:TLCPerson id="IDXCWPU01L1T4KBXE3RQUPQDSEFEHZAVCILP3TO0IOGABWEEN31YOI" href="http://dati.senato.it/29149" showAs="ORELLANA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2345</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDENXNC1FCIC1KNKOBCTKQF1HLMNXQ4E5LL4QZXT2K1HLVBXOHOOH" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYPBJO3U34LKYEXVRG0X0HFBVNJ13VKCBRM25B1P54PTPWBKRPH4K" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEUBQ2HE1PXJYEBD2VWDUCG2ALBZ3Q5RAZW1IRTEH2YPB40BGNHHE" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWWGKYT5SFL2AH10JBJOMZAJTEHTMVR1QMIJAYEIDOIS2VHKO200O" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXCWPU01L1T4KBXE3RQUPQDSEFEHZAVCILP3TO0IOGABWEEN31YOI" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, lettera d), sostituire le parole: «sei mesi e non superiore nel massimo a tre anni» con le seguenti:«tre anni e non superiore nel massimo a sei anni».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

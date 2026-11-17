@@ -1,0 +1,12 @@
+# Legge 9 marzo 1955, n. 471
+
+- Tipo: Ordinaria
+- Numero: 471
+- Data: 1955-03-09
+- Titolo: Ratifica  ed  esecuzione  della  Convenzione  internazionale  per  la protezione delle piante, firmata a Roma il 6 dicembre 1951.
+- Pubblicazione: (Pubblicata nella G.U. del 13 giugno 1955)
+- Legislatura: II legislatura della Repubblica (repubblica_02)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1955-03-09;471
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;2.legislatura;988
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1955_471
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

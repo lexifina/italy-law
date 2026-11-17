@@ -1,0 +1,5 @@
+Allegato VI (di cui all'art. 5, comma 1, lettera e)
+
+Allegato
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1880/A/1.0.8"/>
+					<an:FRBRdate date="2010-01-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@"/>
+					<an:FRBRdate date="2010-01-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@.akn"/>
+					<an:FRBRdate date="2010-01-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1880" showAs="DDL 1880"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/5126" showAs="Latorre"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1880</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Latorre</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 1,</an:b>
+					aggiungere il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifiche all'articolo 148 del codice di procedura penale in materia di forme delle notificazioni)</an:i>
+				</an:p>
+				<an:p align="justify">
+					        1. All'articolo 148 del codice di procedura penale, il comma 2-
+					<an:i>bis</an:i>
+					 è sostituito dal seguente:
+				</an:p>
+				<an:p align="justify">
+					        "2-
+					<an:i>bis</an:i>
+					. Le notificazioni e gli avvisi ai difensori sono eseguiti mediante posta elettronica certificata. A tal fine il difensore indica, all'atto del deposito della nomina ovvero, qualora non vi abbia già provveduto, nel primo scritto difensivo, l'indirizzo di posta elettronica certificata presso il quale dichiara di voler ricevere notificazioni o avvisi. Analoga indicazione è contenuta nell'albo redatto dal consiglio dell'ordine degli avvocati in cui il difensore è iscritto. In caso di impossibilità di eseguire la notificazione secondo le modalità di cui al primo Periodo, le notificazioni e gli avvisi ai difensori possono essere eseguiti con altri mezzi tecnici idonei. In tale ultimo caso, l'ufficio che invia l'atto attesta in calce ad esso di averi o trasmesso in conformità all'originale.".
+				</an:p>
+				<an:p align="justify">        2. All'articolo 157 del codice di procedura penale è aggiunto, in fine, il seguente comma:</an:p>
+				<an:p align="justify">
+					        "8-
+					<an:i>ter</an:i>
+					. Nei casi in cui la notificazione alla persona sottoposta alle indagini deve essere eseguita presso il difensore di fiducia, può essere effettuata mediante posta elettronica certificata, ai sensi çlell'articolo 148, comma 2-
+					<an:i>bis</an:i>
+					."».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

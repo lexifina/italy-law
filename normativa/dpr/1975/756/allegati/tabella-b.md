@@ -1,0 +1,5 @@
+TABELLA B
+
+MAGISTRATI GIUDICANTI ADDETTI ALLE CORTI DI APPELLO
+
+Parte di provvedimento in formato grafico

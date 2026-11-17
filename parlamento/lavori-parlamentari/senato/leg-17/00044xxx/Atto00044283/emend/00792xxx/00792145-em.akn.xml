@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1429/A/10.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1429/A/10.9"/>
+					<an:FRBRdate date="2014-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1429/A/10.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@"/>
+					<an:FRBRdate date="2014-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@.akn"/>
+					<an:FRBRdate date="2014-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-08-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-08-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1429/A/10.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1429" showAs="DDL 1429"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29205" showAs="Minzolini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/27647" showAs="D'Anna"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29073" showAs="Compagnone"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29120" showAs="Longo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29207" showAs="Bruni"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25458" showAs="Milo"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29188" showAs="Tarquinio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1429</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Minzolini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">D'Anna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Compagnone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Bruni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Milo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Tarquinio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo con il seguente:</an:p>
+				<an:p align="justify">
+					        «Art. 10. - 
+					<an:i>1</an:i>
+					. L'articolo 70 della Costituzione è sostituito dal seguente:
+				</an:p>
+				<an:p align="justify">        "Art. 70. - La funzione legislativa è esercitata dalle due Camere.</an:p>
+				<an:p align="justify">        Le due Camere hanno pari competenze e facoltà d'esame e deliberazione su tutti i disegni di legge in materia:</an:p>
+				<an:p align="justify">            - costituzionale ed elettorale;</an:p>
+				<an:p align="justify">            - di delegazione legislativa;</an:p>
+				<an:p align="justify">            - di concessione di amnistia e indulto;</an:p>
+				<an:p align="justify">            - di conversione di decreti-legge;</an:p>
+				<an:p align="justify">            - di difesa, Forze armate, sicurezza dello Stato;</an:p>
+				<an:p align="justify">            - di giurisdizione e norme processuali, ordinamento civile e penale, giustizia amministrativa;</an:p>
+				<an:p align="justify">            - di autorizzazione a ratificare trattati internazionali;</an:p>
+				<an:p align="justify">            - di attuazione dell'articolo 81, sesto comma;</an:p>
+				<an:p align="justify">            - di adempimento agli obblighi derivanti dall'appartenenza all'Unione europea.</an:p>
+				<an:p align="justify">        Compete al Senato della Repubblica il primo esame dei disegni di legge riguardanti le materie di cui al terzo comma dell'articolo 117. Compete alla Camera dei Deputati il primo esame degli altri disegni di legge".».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

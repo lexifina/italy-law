@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1812/A/5.0.102"/>
+					<an:FRBRdate date="2002-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.102"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@"/>
+					<an:FRBRdate date="2002-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@.akn"/>
+					<an:FRBRdate date="2002-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2002-12-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2002-12-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1812/A/5.0.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1812" showAs="DDL 1812"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17559" showAs="Gasbarri"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1149" showAs="Giovanelli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17659" showAs="Vicini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17587" showAs="Iovene"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17612" showAs="Montino"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17634" showAs="Rotondo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1812</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Gasbarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Giovanelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Vicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Iovene</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Montino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Rotondo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 5, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 5-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Potenziamento degli organici del Corpo nazionale dei vigili del fuoco)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Per fronteggiare le più urgenti esigenze del servizio in relazione ai molteplici compiti istituzionali del Corpo nazionale, con particolare riferimento all'adeguamento alle norme ICAO del servizio antincendi negli aeroporti ed alla riclassificazione dei Comandi provinciali - ovvero, all'apertura di nuovi Distaccamenti territoriali dei vigili del fuoco, in quelle zone del Paese in cui, il complesso sistema orografico, piuttosto che la carenza di infrastrutture, rende difficoltosa la risposta tempestiva ed efficace alle richieste di soccorso tecnico - è necessario, nel corso del triennio 2003-2005, incrementare di 4.500 unità la dotazione organica del Corpo nazionale dei vigili del fuoco, nei profili di vigile, caposquadra e caporeparto.
+				</an:p>
+				<an:p align="justify">        2. Per l'aumento del personale del Corpo nazionale dei vigili del fuoco di cui al comma 1 si provvede nella misura del 75 per cento mediante l'assunzione dei candidati risultati idonei nella graduatoria del concorso pubblico indetto con decreto del Ministero dell'interno in data 26 marzo 1998 per 184 posti.</an:p>
+				<an:p align="justify">        3. La restante parte verrà assunta mediante il ricorso alle graduatorie del concorso per titoli a 173 posti di vigile del fuoco riservato ai vigili iscritti negli elenchi del personale volontari indetto con decreto del Ministero dell'interno 5 novembre 2001.</an:p>
+				<an:p align="justify">        4. All'onere derivante dal presente articolo, valutato in 100 milioni di euro per ciascuno degli anni 2003, 2004 e 2005, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unità previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'econonia e delle finanze per l'anno 2003 parzialmente utilizzando l'accantonamento relativo al medesimo Ministero».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

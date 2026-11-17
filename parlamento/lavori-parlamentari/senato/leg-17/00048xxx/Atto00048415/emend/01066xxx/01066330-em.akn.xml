@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/95.0.50"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="95.0.50"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/95.0.50/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWMNLPQU55D3HGOMPRLL0N5KPUFGKV5BAT5UTBRCK5N1WC0SIIP5K" href="http://dati.senato.it/29079" showAs="DALLA TOR"/>
+				<an:TLCPerson id="IDXW22PQB4JQZLCGA4GUS5USK2CLIQRXVQPR4QZNGTNUYJUBR413LD" href="http://dati.senato.it/29206" showAs="CONTE"/>
+				<an:TLCPerson id="IDOGX0RMQHXLTAPAUVDUTWDPZ2RFW04DMI30CWFUNGD13FH2O2TDLG" href="http://dati.senato.it/17805" showAs="VICECONTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 95.0.50</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWMNLPQU55D3HGOMPRLL0N5KPUFGKV5BAT5UTBRCK5N1WC0SIIP5K" as="#tipoSenatore">DALLA TOR</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXW22PQB4JQZLCGA4GUS5USK2CLIQRXVQPR4QZNGTNUYJUBR413LD" as="#tipoSenatore">CONTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOGX0RMQHXLTAPAUVDUTWDPZ2RFW04DMI30CWFUNGD13FH2O2TDLG" as="#tipoSenatore">VICECONTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>«</an:i>
+					Art. 95-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Istituzione di Zes)</an:i>
+				</an:p>
+				<an:p>        1. Al fine di favorire la creazione di condizioni favorevoli in termini economici, finanziari e amministrativi, che consentano lo sviluppo, in alcune aree del Paese, delle imprese già operanti, nonché l'insediamento di nuove imprese in dette aree, sono disciplinate le procedure, le condizioni e le modalità per l'istituzione di Zone economiche speciali, di seguito denominate "ZES", nelle Regioni che non sono beneficiarie delle disposizioni di cui agli articolo 4 e 5 del decreto legge 20 giugno 2017, n. 91, convertito con legge 3 agosto 2017, n. 123.</an:p>
+				<an:p>        2. Le Zes sono costituite in ciascuna Regione di cui al comma 1 con le modalità, i limiti e le caratteristiche di cui all'articolo 4 del citato decreto legge,</an:p>
+				<an:p>        3. Alle Zes di cui al comma 1 sono riconosciute a decorrere dal 2018 le tipologie di agevolazioni previste all'articolo 5 del citato decreto-legge, alle medesime condizioni, nel limite di spesa annuo di 25 milioni di euro ne 2018; 31,25 milioni di euro nel 2019 e 150,2 milioni di euro a decorrere dal 2020.</an:p>
+				<an:p>        4. Agli oneri derivanti dalle disposizioni del presente articolo, pari a 25 milioni di euro nel 2018; 31,25 milioni di euro nel 2019 e 150,2 milioni di euro a decorrere dal 2020 si provvede mediante corrispondente riduzione della dotazione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come incrementato dall'articolo 92 della presente legge».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

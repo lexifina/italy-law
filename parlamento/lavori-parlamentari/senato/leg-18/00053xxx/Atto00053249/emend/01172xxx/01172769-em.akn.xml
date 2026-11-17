@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/37.0.9"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="37.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/37.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDP5OYDJYARLVABOWP3BNF4ERW0DTJ3YCO13DORQNDODAR0B30J5RG" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+				<an:TLCPerson id="IDS3OTGWBXJ0J0LLKETL4GWBAURI2PYF2BRZ3AH4GRK4JU1EN13WM" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDGV0JT1RVA41BIUDSJPMZ2ZB0RDFBPUX3XBGMGLBUMPXND0YVMAXI" href="http://dati.senato.it/4351" showAs="BRESSA"/>
+				<an:TLCPerson id="IDZ2W3M23BYNCD1JYSNQNEWUEPD3IA2YSXZF4XWECVNECVE2MEY1G" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDBLRQ2J03OKVLC4GR42QJU1ASPLL53QIRTZAK1KONJL3VDYT3KT2M" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 37.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP5OYDJYARLVABOWP3BNF4ERW0DTJ3YCO13DORQNDODAR0B30J5RG" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS3OTGWBXJ0J0LLKETL4GWBAURI2PYF2BRZ3AH4GRK4JU1EN13WM" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGV0JT1RVA41BIUDSJPMZ2ZB0RDFBPUX3XBGMGLBUMPXND0YVMAXI" as="#tipoSenatore">BRESSA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ2W3M23BYNCD1JYSNQNEWUEPD3IA2YSXZF4XWECVNECVE2MEY1G" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBLRQ2J03OKVLC4GR42QJU1ASPLL53QIRTZAK1KONJL3VDYT3KT2M" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 37-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Esenzione pedaggio autostradale veicoli del Corpo valdostano dei Vigili del fuoco e della Protezione civile della Regione Valle d'Aosta)</an:i>
+				</an:p>
+				<an:p>
+					        1. Le disposizioni di cui al decreto del Presidente della Repubblica n. 495 del 1992, articolo 3 73, comma 2, lettera 
+					<an:i>d)</an:i>
+					, sono estese anche ai veicoli del Corpo valdostano dei Vigili del Fuoco e della Protezione civile della Regione Valle d'Aosta.».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'onere derivante dall'attuazione del presente articolo, valutato in 50.000 euro a decorrere dall'anno 2020, si provvede mediante corrispondente riduzione dell'importo di cui all'articolo 114, comma 4.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-TREATY OF EXTRADITION BETWEEN THE REPUBLIC OF ITALY AND AUSTRALIA
-
-Parte di provvedimento in formato grafico

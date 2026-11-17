@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 20 aprile 1994
+
+SCALFARO CIAMPI, Presidente del Consiglio dei ministri CASSESE, Ministro per la funzione pubblica BARUCCI, Ministro del tesoro Visto, il Guardasigilli CONSO Registrato alla Corte dei conti il 31 maggio 1994 Atti di Governo, registro n. 92, foglio n. 15 ----------------- AGGIORNAMENTO (1) Il D.L. 28 agosto 1995, convertito con modificazioni dalla L. 27 ottobre 1995, n. 436 ha disposto (con l'art. 2, comma 2) che "L'entrata in vigore del regolamento emanato con decreto del Presidente della Repubblica 20 aprile 1994, n. 367, prevista dall'articolo 24, comma 1, del medesimo regolamento, e' differita al 1 gennaio 1996, relativamente alle disposizioni di cui gli articoli 3, 8, 10 e 11, ed al 1 gennaio 1997, relativamente alle disposizioni di cui agli articoli 4, 5, 6, 13, 16, 17, 18 e 21. Le rimanenti disposizioni del regolamento entrano in vigore il 1 novembre 1995"

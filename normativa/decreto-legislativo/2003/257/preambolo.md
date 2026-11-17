@@ -1,0 +1,31 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la legge costituzionale 18 ottobre 2001, n. 3, recante modifiche al Titolo V della Parte seconda della Costituzione;
+
+Vista la legge 6 luglio 2002, n. 137, recante delega per la riforma dell'organizzazione del Governo e della Presidenza del Consiglio dei Ministri, ed in particolare l'articolo 1, commi 1, 2 e 3;
+
+Vista la legge 15 marzo 1997, n. 59, recante delega al Governo per il conferimento di funzioni e compiti alle regioni ed enti locali, per la riforma della pubblica amministrazione e per la semplificazione amministrativa, ed in particolare gli articoli 11, comma 1, lettere a), b), c) e d), 12, 14, 17 e 18;
+
+Visto l'articolo 14 della legge 23 agosto 1988, n. 400, recante disciplina dell'attivita' di Governo e ordinamento della Presidenza del Consiglio dei Ministri;
+
+Visto il decreto legislativo 30 luglio 1999, n. 300, recante riforma dell'organizzazione del Governo, a norma dell'articolo 11 della legge 15 marzo 1997, n. 59, e successive modificazioni;
+
+Visto il decreto legislativo 30 marzo 2001, n. 165, recante norme generali sull'ordinamento del lavoro alle dipendenze delle amministrazioni pubbliche, e successive modificazioni;
+
+Visto il decreto legislativo 5 giugno 1998, n. 204, recante disposizioni per il coordinamento, la programmazione e la valutazione della politica nazionale relativa alla ricerca scientifica e tecnologica, a norma dell'articolo 11, comma 1, lettera d), della legge 15 marzo 1997, n. 59;
+
+Visto il decreto legislativo 30 gennaio 1999, n. 36, recante riordino dell'Ente per le nuove tecnologie, l'energia e l'ambiente - ENEA;
+
+Viste le linee guida per la politica scientifica e tecnologica del Governo, emanate il 13 marzo 2002;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 aprile 2003;
+
+Acquisito il parere della Commissione parlamentare di cui all'articolo 5 della citata legge n. 59 del 1997;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 31 luglio 2003;
+
+Sulla proposta del Ministro delle attivita' produttive, di concerto con il Ministro dell'istruzione, dell'universita' e della ricerca, con il Ministro dell'ambiente e della tutela del territorio, con il Ministro per la funzione pubblica e con il Ministro dell'economia e delle finanze;
+
+Emana il seguente decreto legislativo:

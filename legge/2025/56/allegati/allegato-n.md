@@ -1,9 +1,0 @@
-Allegato N
-
-(Articolo 1, comma 2)
-
-DECRETI DEL DUCE DEL FASCISMO,
-
-CAPO DEL GOVERNO
-
-Parte di provvedimento in formato grafico

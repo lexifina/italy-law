@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+08 luglio 1957
+
+913
+
+Esecuzione del Memorandum d'intesa fra il Governo italiano ed il Governo degli Stati Uniti d'America riguardante i reclami per danni di guerra, concluso in Roma il 29 marzo 1957.

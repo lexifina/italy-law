@@ -1,9 +1,0 @@
-Allegato G
-
-Allegato n. 10-rendiconto della gestione
-
-al D.Lgs. 118/2011
-
-CONTO DEL BILANCIO-GESTIONE DELLE ENTRATE
-
-Parte di provvedimento in formato grafico

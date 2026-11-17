@@ -1,0 +1,5 @@
+ALLEGATO
+
+Novara: tribunali di Novara, Aosta, Verbania.
+
+Vercelli: tribunali di Vercelli, Biella, Casale Monferrato, Ivrea.

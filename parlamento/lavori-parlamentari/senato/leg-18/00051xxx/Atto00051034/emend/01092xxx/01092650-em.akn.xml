@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2379/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2379"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2379/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2379"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.2379/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNEOMIRWVYAA0GZPL1Z54G0SJ4O322QMEELPVCBHLQNPBBMMEDRMC" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDMAMBGVYEHRBZLMM500VKLZQN1IR2FAQQAEOWDMHBFU5RK3OTAP0N" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="ID15EHJGKCYWLL0IGCS1XRNFYWKCSAFXR55MMYWGSAWP4L1QY4TFF" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDF4I5I5LV1HWQPON1212HE3GHSCGX301ZILZKFZM3JTIS1WTYV0TN" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2379</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNEOMIRWVYAA0GZPL1Z54G0SJ4O322QMEELPVCBHLQNPBBMMEDRMC" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMAMBGVYEHRBZLMM500VKLZQN1IR2FAQQAEOWDMHBFU5RK3OTAP0N" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID15EHJGKCYWLL0IGCS1XRNFYWKCSAFXR55MMYWGSAWP4L1QY4TFF" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF4I5I5LV1HWQPON1212HE3GHSCGX301ZILZKFZM3JTIS1WTYV0TN" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 451, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «451-
+					<an:i>bis</an:i>
+					. Il Ministero dell'istruzione, dell'università e della ricerca, in deroga alle ordinarie procedure autorizzatorie, che rimangono ferme per le successive procedure, è autorizzato a riservare una quota pari al 30 per cento dei posti messi a concorso per il profilo di Direttore Amministrativo in tutte le scuole di ogni ordine e grado, da destinare agli Assistenti amministrativi facenti funzione nel ruolo di direttore dei servizi generali e amministrativi che hanno espletato l'incarico di sostituzione almeno due anni negli ultimi otto.
+				</an:p>
+				<an:p>
+					        451-
+					<an:i>ter</an:i>
+					. Viene autorizzata una procedura riservata, accanto a quella del concorso ordinario, che prevede una prova concorsuale tramite colloquio orale di natura non selettiva nei riguardi del personale Assistente amministrativo in possesso dei requisiti di cui al comma precedente.
+				</an:p>
+				<an:p>
+					        451-
+					<an:i>quater</an:i>
+					. Il contenuto del bando, i termini e le modalità di presentazione delle domande, i titoli valutabili, le modalità di svolgimento della prova orale, i criteri di valutazione dei titoli e della prova, nonché la composizione delle commissioni di valutazione e l'idonea misura del contributo di cui al secondo periodo sono disciplinati con decreto del Ministro dell'istruzione, dell'università e della ricerca, da adottare entro sessanta giorni dalla data di approvazione della presente legge. L'entità del contributo è determinata in misura tale da consentire, unitamente alle risorse a tal fine iscritte nello stato di previsione del Ministero, la copertura integrale degli oneri per lo svolgimento delle procedure concorsuali».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1811/A/G101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1811/A/G101"/>
+					<an:FRBRdate date="2010-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1811/A/G101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@"/>
+					<an:FRBRdate date="2010-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@.akn"/>
+					<an:FRBRdate date="2010-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1811/A/G101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1811" showAs="DDL 1811"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1811</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 1811 relativo all'adesione della Repubblica italiana alla Convenzione sulla responsabilità civili per i danni dovuti all'inquinamento da combustibile delle navi, con allegato, fatta a Londra il 23 marzo 2001, nonché norme di adeguamento dell'ordinamento interno,</an:p>
+				<an:p align="justify">            ricordando il preambolo della Convenzione stessa, e in particolare il riconoscimento dell'importanza di definire una responsabilità precisa per tutte le forme di inquinamento da idrocarburi e di prevedere nel contempo un'adeguata limitazione di tale livello di responsabilità, nonché la necessità di adottare misure complementari per garantire il pagamento di un indennizzo adeguato, rapido ed effettivo dei danni causati dall'inquinamento derivante da fughe o scarichi combustibili delle navi;</an:p>
+				<an:p align="justify">            considerato che l'articolo 4 della Convenzione elenca le esclusioni dalla responsabilità civile per i danni e che al paragrafo 2 le disposizioni della Convenzione non si applicano alle navi da guerra, alle navi ausiliarie e alle altre navi appartenenti ad uno Stato o gestite da esso e adibite, nel periodo considerato, esclusivamente a un servizio pubblico commerciale;</an:p>
+				<an:p align="justify">            considerato il ruolo fondamentale svolto dal naviglio militare nel sostegno a emergenze umanitarie e cataclismi naturali,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a stipulare comunque contratti assicurativi volti a coprire eventuali danni dovuti all'inquinamento da combustibile delle navi anche per dette situazioni particolari.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

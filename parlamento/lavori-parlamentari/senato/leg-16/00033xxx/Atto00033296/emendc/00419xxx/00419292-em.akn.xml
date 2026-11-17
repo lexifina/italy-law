@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1397/C/11.0.3"/>
+					<an:FRBRdate date="2009-05-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@"/>
+					<an:FRBRdate date="2009-05-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@.akn"/>
+					<an:FRBRdate date="2009-05-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1397/C/11.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1397" showAs="DDL 1397"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/1641" showAs="Morando"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1397</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Morando</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo 11, aggiungere il seguente:</an:p>
+				<an:p> </an:p>
+				<an:p>
+					Art. 11-
+					<an:i>bis</an:i>
+				</an:p>
+				<an:p>
+					<an:i>(Istituzione del Servizio del bilancio del Parlamento)</an:i>
+				</an:p>
+				<an:p> </an:p>
+				<an:p>1. Per fornire gli elementi tecnici di supporto al controllo parlamentare sulla finanza pubblica, è istituito, con intesa tra i Presidenti della Camera dei deputati e del Senato della Repubblica, il Servizio del bilancio del Parlamento.Con la stessa intesa vengono definite la dotazione organica e il funzionamento amministrativo del servizio, nonché le modalità e le caratteristiche di specializzazione dell'attività svolta.</an:p>
+				<an:p>2. Per l'attuazione delle disposizioni contenute nel presente articolo è autorizzata, a decorrere dal 2009, la spesa di 2,5 milioni di euro.</an:p>
+				<an:p> </an:p>
+				<an:p>
+					<an:i>Conseguentemente, dopo l'articolo 44, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p> </an:p>
+				<an:p>
+					Art. 44-
+					<an:i>bis</an:i>
+				</an:p>
+				<an:p>
+					<an:i>(Copertura finanziaria)</an:i>
+				</an:p>
+				<an:p> </an:p>
+				<an:p>1. Ai maggiori oneri di cui all'articolo 11-bis, pari a 2,5 milioni di euro a decorrere dall'anno 2009, si provvede con le maggiori entrate di cui al comma 2.</an:p>
+				<an:p>2. A decorrere dalla data di entrata in vigore della presente legge, le aliquote di base dell'imposta di consumo tabacchi lavorati prevista dal comma 1 dell'articolo 28 del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427 sono uniformemente incrementate al fine di assicurare maggiori entrate in misura non inferiore a 2,5 milioni di euro a decorrere dall'anno 2009.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

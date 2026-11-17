@@ -1,3 +1,0 @@
-Art. 12-bis.
-
-((ARTICOLO ABROGATO DALLA L. 2 MARZO 1989, N. 65))

@@ -1,5 +1,0 @@
-Allegato
-
-AGREMEENT
-
-Parte di provvedimento in formato grafico

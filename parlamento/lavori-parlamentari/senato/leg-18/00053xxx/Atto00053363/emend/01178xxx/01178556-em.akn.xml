@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1970/A/3.0.2"/>
+					<an:FRBRdate date="2020-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@"/>
+					<an:FRBRdate date="2020-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@.akn"/>
+					<an:FRBRdate date="2020-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-11-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-11-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1970/A/3.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1970" showAs="DDL 1970"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLEQ4EWFCNKF4BTWZ5QFSVVIHBIUEIK4HNDX3T2MAKGOD4SO3WBW" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDIOYETIHXAXV0J3ODWPZOJ53YRJOYEQV22LIFMUPLQQYWXIHOKOGE" href="http://dati.senato.it/19244" showAs="AUGUSSORI"/>
+				<an:TLCPerson id="IDEGYP4RJH5NYZIXAYJDVMD5BNMBZ5Y3RFRD2OQLC2HXLBKTRM2GJH" href="http://dati.senato.it/32642" showAs="GRASSI"/>
+				<an:TLCPerson id="IDXAA4YAXTWXS3IVFOYGVLCPFATL2EFTBKRPLWSWDMU1KESBWMNOUC" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDCLK2CPKGUXXFEFGVFHQFDWHQKKIBLPFE21FTKGGIEBKWL0JXM4QK" href="http://dati.senato.it/32700" showAs="RICCARDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1970</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLEQ4EWFCNKF4BTWZ5QFSVVIHBIUEIK4HNDX3T2MAKGOD4SO3WBW" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIOYETIHXAXV0J3ODWPZOJ53YRJOYEQV22LIFMUPLQQYWXIHOKOGE" as="#tipoSenatore">AUGUSSORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEGYP4RJH5NYZIXAYJDVMD5BNMBZ5Y3RFRD2OQLC2HXLBKTRM2GJH" as="#tipoSenatore">GRASSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXAA4YAXTWXS3IVFOYGVLCPFATL2EFTBKRPLWSWDMU1KESBWMNOUC" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCLK2CPKGUXXFEFGVFHQFDWHQKKIBLPFE21FTKGGIEBKWL0JXM4QK" as="#tipoSenatore">RICCARDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni in materia di concessioni ad uso geotermico)</an:i>
+				</an:p>
+				<an:p>       1. La durata delle concessioni ad uso geotermico rilasciate ai sensi del decreto legislativo 11 febbraio 2010, n. 22 è da considerarsi al netto di eventuali interruzioni delle attività propedeutiche alla realizzazione dell'impianto e delle opere connesse o fermi dei lavori di realizzazione dell'impianto e delle opere connesse, nonché di eventuali fermate di esercizio disposte dalle competenti autorità, secondo la normativa vigente in ragione dell'emergenza epidemiologica da COVID-19.</an:p>
+				<an:p>        2. A tal fine, il periodo nominale di concessione è esteso, su richiesta del proponente, per un periodo di tempo pari alla durata complessiva delle interruzioni, fermi lavori o fermate di esercizio disposte dalle competenti autorità, di cui al presente comma, fino ad un massimo di sei mesi.</an:p>
+				<an:p>        3. Durante il suddetto periodo di tempo non sono dovuti i canoni di cui all'articolo16 del decreto legislativo 11 febbraio 2010, n. 22.</an:p>
+				<an:p>        4. Per l'attuazione della presente disposizione è autorizzata una spesa massima di 50 milioni di euro per l'anno 2021, cui si provvede mediante corrispondente riduzione del Fondo per le esigenze indifferibili di cui all'articolo 1, comma 199, della legge 23 dicembre 2014, n. 190.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/5.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/5.7"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/5.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@.akn"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1437/A/5.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1437" showAs="DDL 1437"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBCUQBOJXBSSKHVEOAHOE5WZ2QEEUHLVUFXK2VCMHNYOVMDRE3FJG" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDJOX3A0ZIOG5GPGBSGCZPG22BMLOSPIBK5SZE55OWBSBQRSNEE0I" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDGH1ZOBIYW5XXKW045DWOMAJQVOPCS1CD10UK0UGKXXUGS13P3LXF" href="http://dati.senato.it/32615" showAs="DE FALCO"/>
+				<an:TLCPerson id="IDCPAEEVIEI5QCOH3JEIDBNOU4TE2VNFESU1HZKWEO5W5N2MQBABWM" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="ID153C3ZYLOIMEESXCLHIRCDAEEEHMDHILBKV2LF2JHH1E44CPDKL" href="http://dati.senato.it/29093" showAs="FATTORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1437</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBCUQBOJXBSSKHVEOAHOE5WZ2QEEUHLVUFXK2VCMHNYOVMDRE3FJG" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJOX3A0ZIOG5GPGBSGCZPG22BMLOSPIBK5SZE55OWBSBQRSNEE0I" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGH1ZOBIYW5XXKW045DWOMAJQVOPCS1CD10UK0UGKXXUGS13P3LXF" as="#tipoSenatore">DE FALCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCPAEEVIEI5QCOH3JEIDBNOU4TE2VNFESU1HZKWEO5W5N2MQBABWM" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID153C3ZYLOIMEESXCLHIRCDAEEEHMDHILBKV2LF2JHH1E44CPDKL" as="#tipoSenatore">FATTORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 1, con il seguente:</an:i>
+				</an:p>
+				<an:p>        «1. Al testo unico delle leggi di pubblica sicurezza, approvato con regio decreto 18 giugno 1931, n. 773, all'articolo 109, comma 3, dopo le parole: ''successive all'arrivo,'' sono inserite le seguenti: ''ed entro 6 ore nel caso di soggiorni non superiori alle ventiquattro ore mediante collegamento tra sistemi informatici''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

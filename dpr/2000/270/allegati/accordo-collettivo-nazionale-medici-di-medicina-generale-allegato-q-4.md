@@ -1,7 +1,0 @@
-Allegato Q/4.
-
-DOMANDA DI PARTECIPAZIONE ALLA ASSEGNAZIONE DEGLI INCARICHI VACANTI DI CONTINUITA' ASSISTENZIALE.
-
-(per trasferimento)
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/909/A/5.14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/909/A/5.14"/>
+					<an:FRBRdate date="2018-11-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/909/A/5.14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.14"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@"/>
+					<an:FRBRdate date="2018-11-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@.akn"/>
+					<an:FRBRdate date="2018-11-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/909/A/5.14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/909" showAs="DDL 909"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIFUEEYEBDDJZF2ART25USFZKNMXGAA1BO35HSIIWWNDFL3GPQKNJ" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDV23OEZTGKRITCCTR22XJCMUYBFCGOLBLRCVCK3EGREKVBGO3HKNI" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDN0GNQJN3AIYOETGHZZOZGSBS5KVAEQHVWYBG25CGVK1QNVGHCFUN" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDZHM3CAAJZPWINABQ2KJL2ELHPBZ0BR004LO3I3B0EGAM5AJ10EE" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDSCIGY33MR4SZLPJWM1IVLCFM1PKXFVFVYZGKSYKNHFXVUP1YYBAI" href="http://dati.senato.it/29130" showAs="MARTELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 909</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIFUEEYEBDDJZF2ART25USFZKNMXGAA1BO35HSIIWWNDFL3GPQKNJ" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV23OEZTGKRITCCTR22XJCMUYBFCGOLBLRCVCK3EGREKVBGO3HKNI" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN0GNQJN3AIYOETGHZZOZGSBS5KVAEQHVWYBG25CGVK1QNVGHCFUN" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZHM3CAAJZPWINABQ2KJL2ELHPBZ0BR004LO3I3B0EGAM5AJ10EE" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSCIGY33MR4SZLPJWM1IVLCFM1PKXFVFVYZGKSYKNHFXVUP1YYBAI" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, dopo il secondo periodo, inserire il seguente:</an:i>
+					 «In base a quanto disposto dall'articolo 11 le risorse erogate alle attività economiche danneggiate dall'evento ai sensi del presente articolo non costituiscono aiuti di Stato».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

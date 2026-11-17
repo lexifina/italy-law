@@ -1,7 +1,0 @@
-Allegato I
-
-(art. 1, comma 3)
-
-PRODOTTI OTTENUTI MEDIANTE FERMENTAZIONE BATTERICA
-
-((Parte di provvedimento in formato grafico))

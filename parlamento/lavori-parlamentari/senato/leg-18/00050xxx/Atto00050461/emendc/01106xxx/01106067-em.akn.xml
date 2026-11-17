@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/770/C/5.26/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/770/C/5.26"/>
+					<an:FRBRdate date="2019-04-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/770/C/5.26/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.26"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@"/>
+					<an:FRBRdate date="2019-04-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@.akn"/>
+					<an:FRBRdate date="2019-04-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-04-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-04-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/770/C/5.26/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/770" showAs="DDL 770"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMOTTQRE4DH0EBAHN3LDBMEQHXPYW5LTF4KMV3GC4ZJA1MTAZGU2E" href="http://dati.senato.it/4741" showAs="LONARDO"/>
+				<an:TLCPerson id="ID2ORCEBTWLLBTQOXH2CIN0RWAIHB00CXNRHW3OFAEEDEJFYS23BI" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+				<an:TLCPerson id="ID13CBARKYZGC1KPQ40XNBOEXTVKOBJ1BKZFMGN4FPZFH3ZU3H133" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDCZZPLHTD11WMHM5ZU24HSUXDDCQ4NZYUYCXS1VM4OXURMWLUQVHE" href="http://dati.senato.it/32714" showAs="SICLARI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 770</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.26</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMOTTQRE4DH0EBAHN3LDBMEQHXPYW5LTF4KMV3GC4ZJA1MTAZGU2E" as="#tipoSenatore">LONARDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2ORCEBTWLLBTQOXH2CIN0RWAIHB00CXNRHW3OFAEEDEJFYS23BI" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID13CBARKYZGC1KPQ40XNBOEXTVKOBJ1BKZFMGN4FPZFH3ZU3H133" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCZZPLHTD11WMHM5ZU24HSUXDDCQ4NZYUYCXS1VM4OXURMWLUQVHE" as="#tipoSenatore">SICLARI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. L'avvenuta immunizzazione a seguito di malattia naturale, comprovata dalla notifica effettuata dal medico curante, ai sensi dell'articolo 1 del decreto del Ministro della sanità 15 dicembre 1990, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 6 dell'8 gennaio 1991, ovvero dagli esiti dell'analisi sierologica, esonera dall'obbligo della relativa vaccinazione. Conseguentemente il soggetto immunizzato adempie all'obbligo vaccinale di cui al presente articolo, di norma e comunque nei limiti delle disponibilità del Servizio sanitario nazionale, con vaccini in formulazione monocomponente o combinata in cui sia assente l'antigene per la malattia infettiva per la quale sussiste immunizzazione».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

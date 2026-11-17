@@ -1,5 +1,0 @@
-Allegato III - (articolo 13, comma 5)
-
-Verbale degli esami svolti dalla commissione esaminatrice per il rilascio dell'abilitazione all'esercizio dell'attivita' di assistente bagnanti
-
-Parte di provvedimento in formato grafico

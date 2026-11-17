@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/33.0.2"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="33.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@.akn"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/C/33.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1883" showAs="Ddl 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32600" showAs="Maria Domenica Castellone"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32594" showAs="Antonella Campagna"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32701" showAs="Sabrina Ricciardi"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/34677" showAs="Emma Pavanelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 33.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Castellone</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Campagna</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ricciardi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pavanelli</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					«Art. 33-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				
+
+				<an:p>
+					<an:i>
+						(Disposizioni per favorire la semplificazione, l'implementazione e lo sviluppo del fascicolo sanitario elettronico, della telemedicina
+						<an:eol/>
+						
+e dei flussi informativi sanitari elettronici)
+					</an:i>
+				</an:p>
+				
+
+				<an:p>        1. Al fine di sostenere la digitalizzazione della sanità e nell'ottica della semplificazione, il contributo a valere sull'importo fissato dall'articolo 20 della legge 11 marzo 1988, n. 67, come rifinanziato dall'articolo 1, comma 555, della legge 30 dicembre 2018, n. 145, nell'ambito delle risorse non ancora ripartite alle regioni, di cui all'articolo 1 comma 449, della legge 27 dicembre 2019, n. 160, viene ridestinato all'acquisto di apparecchiature e dispositivi necessari a implementare l'informatizzazione del Servizio sanitario nazionale, all'istituzione di flussi informativi sanitari istituzionali e alla costruzione di reti di telemedicina ai fini del monitoraggio a distanza dei soggetti affetti da malattie infettive e diffusive posti in isolamento, ovvero da patologia cronica, dei soggetti fragili, nonché dei residenti in zone disagiate. Sono parte attiva della generazione dei flussi informativi sanitari tutti gli attori coinvolti nella gestione e nell'erogazione di prestazioni socio-assistenzali, sia dell'ambito ospedaliero che nell'ambito dell'assistenza territoriale, i dipartimenti di prevenzione e i distretti delle Aziende sanitarie, i centri COVID19 e le unità speciali di continuità assistenziale, nonché i medici convenzionati, segnatamente i medici di medicina generale, i pediatri di libera scelta e i medici specialisti ambulatoriali, singolarmente intesi o in aggregazioni funzionali. I soggetti di cui al precedente periodo conferiscono i dati amministrativi e sanitari alle Regioni e, tramite queste ultime, al Ministero della salute.</an:p>
+				
+
+				<an:p>
+					        2. Per alimentare i flussi informativi sanitari di cui al precedente comma, le Regioni, previa intesa col Ministero della salute, definiscono ed adottano a livello nazionale degli specifici tracciati 
+					<an:i>record</an:i>
+					 nonché i requisiti dei 
+					<an:i>software</an:i>
+					 gestionali clinici. A tal fine, viene destinata una somma sino a 5 milioni di euro a valere sul contributo di cui al precedente comma 1, senza arrecare maggior oneri per le finanze pubbliche.
+				</an:p>
+				
+
+				<an:p>
+					        3. In considerazione della situazione straordinaria di emergenza sanitaria derivante dalla diffusione dell'epidemia da COVID-19, sull'intero territorio nazionale la trasmissione dei dati personali dei pazienti tra i professionisti sanitari, ai sensi di quanto previsto dal paragrafo 2 lettera 
+					<an:i>i)</an:i>
+					 dell'articolo 9 del Regolamento UE 2016/679 recepito con decreto legislativo 10 agosto 2018, n. 101, è consentito, in deroga all'articolo 3-
+					<an:i>bis</an:i>
+					 del decreto-legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla legge 17 dicembre 2012, n. 221, anche senza il consenso scritto dell'interessato».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

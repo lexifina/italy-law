@@ -1,0 +1,14 @@
+# Disegno di legge C.843 (13a legislatura)
+
+- Fase: C.843
+- Id DDL: 858
+- Id fase: 922
+- Natura: ordinaria
+- Data di presentazione: 1996-05-14
+- Titolo: Modifica dell' articolo 150 del codice penale, concernente la morte dell' imputato prima della condanna
+- Stato: assegnato (non ancora iniziato l'esame)
+- Data dello stato: 1996-08-08
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;843
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/922
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).

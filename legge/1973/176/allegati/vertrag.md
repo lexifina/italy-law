@@ -1,3 +1,0 @@
-Vertrag zwischen der italienischen Republik und der Bundesrepublik deutschland iieber den verzicht auf die lagalisation von urkunden.
-
-Parte di provvedimento in formato grafico

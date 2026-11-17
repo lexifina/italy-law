@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/36.500/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/36.500/1"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/840/A/36.500/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="36.500/1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@.akn"/>
+					<an:FRBRdate date="2018-11-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/840/A/36.500/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/840" showAs="DDL 840"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCDGJH0G5PWVVMV0AQ55LCCEUOKD31EEQQD1S0SGVJFFHXXGR3WPD" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDRYOOMWKAREIYJE5W1S5P14ZPVGFWS0YZY00TMAB0COFWBAU0PP1N" href="http://dati.senato.it/29521" showAs="PARRINI"/>
+				<an:TLCPerson id="IDLPO1JOL4GHOJO2JJXCAEOFIQSVXDAMLT3SHY4JVV0N5DDCRIHVE" href="http://dati.senato.it/29072" showAs="COLLINA"/>
+				<an:TLCPerson id="IDXZ4325P34WHRKEBTJ142AXGAGGPSM014VD34YSMTRTDGHXFUEJFK" href="http://dati.senato.it/32602" showAs="CERNO"/>
+				<an:TLCPerson id="IDHXYAZ1SQH052PWLWTDT3RB5TWEKXIXMJGO55N1FJ1VE1M5LWUJ" href="http://dati.senato.it/20658" showAs="ZANDA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 840</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 36.500/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCDGJH0G5PWVVMV0AQ55LCCEUOKD31EEQQD1S0SGVJFFHXXGR3WPD" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRYOOMWKAREIYJE5W1S5P14ZPVGFWS0YZY00TMAB0COFWBAU0PP1N" as="#tipoSenatore">PARRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLPO1JOL4GHOJO2JJXCAEOFIQSVXDAMLT3SHY4JVV0N5DDCRIHVE" as="#tipoSenatore">COLLINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXZ4325P34WHRKEBTJ142AXGAGGPSM014VD34YSMTRTDGHXFUEJFK" as="#tipoSenatore">CERNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHXYAZ1SQH052PWLWTDT3RB5TWEKXIXMJGO55N1FJ1VE1M5LWUJ" as="#tipoSenatore">ZANDA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 36.500, al comma 1-</an:i>
+					bis
+					<an:i>, capoverso</an:i>
+					 «3»
+					<an:i>, dopo le parole:</an:i>
+					 «Al fine di consentire la prosecuzione dell'attività dell'impresa sequestrata o confiscata»
+					<an:i>, inserire le seguenti:</an:i>
+					 «, nonché al fine di consentire alla medesima impresa la possibilità di partecipare a gare per appalti pubblici» 
+					<an:i>e dopo le parole:</an:i>
+					 «procedure pendenti»
+					<an:i>, inserire le seguenti:</an:i>
+					 «sull'impresa sequestrata o confiscata».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

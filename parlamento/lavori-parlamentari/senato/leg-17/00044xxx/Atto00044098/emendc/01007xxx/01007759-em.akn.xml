@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1367/C/2.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1367/C/2.1"/>
+					<an:FRBRdate date="2017-03-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1367/C/2.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@"/>
+					<an:FRBRdate date="2017-03-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@.akn"/>
+					<an:FRBRdate date="2017-03-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-03-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-03-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1367/C/2.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1367" showAs="DDL 1367"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="10ª Commissione permanente" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWQQMGBXOHKAXHHRVRGZQD4OEI40431COMH2FZCWKQLNRGM3WYDH" href="http://dati.senato.it/29045" showAs="BERGER"/>
+				<an:TLCPerson id="IDYTFOI1F5BCJKKMMUJ40RFOICUJQ55NLIUP3CYOP4HCOU0YDKKPSE" href="http://dati.senato.it/2553" showAs="ZELLER"/>
+				<an:TLCPerson id="IDCNP2O51F3RFLJVB4U4MEE01KCCHCO101ZTLADUDUT4ZC02THFSFN" href="http://dati.senato.it/29155" showAs="PALERMO"/>
+				<an:TLCPerson id="IDFT0JBWLCDXOSECRWO1DKE33MQMALQ555EOQ04IIBR54NKXDAAJZF" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+				<an:TLCPerson id="ID4B2F12SZVFKFEXYVAI2STJP2PBBO2AWOVSKWNAKI1T1MPUIRMB3O" href="http://dati.senato.it/29156" showAs="PANIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1367</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWQQMGBXOHKAXHHRVRGZQD4OEI40431COMH2FZCWKQLNRGM3WYDH" as="#tipoSenatore">BERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYTFOI1F5BCJKKMMUJ40RFOICUJQ55NLIUP3CYOP4HCOU0YDKKPSE" as="#tipoSenatore">ZELLER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCNP2O51F3RFLJVB4U4MEE01KCCHCO101ZTLADUDUT4ZC02THFSFN" as="#tipoSenatore">PALERMO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFT0JBWLCDXOSECRWO1DKE33MQMALQ555EOQ04IIBR54NKXDAAJZF" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4B2F12SZVFKFEXYVAI2STJP2PBBO2AWOVSKWNAKI1T1MPUIRMB3O" as="#tipoSenatore">PANIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Al comma 1, sostituire la lettera a) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>        «a) il comma 1 è sostituito dal seguente:</an:p>
+				<an:p>            ''1. I gestori delle aree sciabili attrezzate assicurano agli utenti la pratica delle attività sportive e ricreative in condizioni di sicurezza, provvedendovi sulla base dei criteri, requisiti e prescrizioni adottati dalle regioni nella definizione dei parametri di sicurezza e di corretto utilizzo delle aree stesse. I gestori hanno l'obbligo di proteggere gli utenti da ostacoli, non agevolmente individuabili, presenti lungo le piste con apprestamenti segnaletici e protettivi adeguati alla predetta normativa regionale e coerenti con le norme di buona prassi tecnica'';».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

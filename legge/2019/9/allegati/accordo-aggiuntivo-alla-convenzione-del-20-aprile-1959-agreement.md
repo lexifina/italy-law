@@ -1,3 +1,0 @@
-Additional Bilateral Agreement to the European Convention on Mutual Assistance in Criminal Matters of 20th April 1959 aimed at facilitating its application
-
-Parte di provvedimento in formato grafico

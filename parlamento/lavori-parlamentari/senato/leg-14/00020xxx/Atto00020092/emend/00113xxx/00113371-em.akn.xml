@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2421/A/9.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2421/A/9.102"/>
+					<an:FRBRdate date="2006-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2421/A/9.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.102"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@"/>
+					<an:FRBRdate date="2006-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@.akn"/>
+					<an:FRBRdate date="2006-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-04-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-04-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2421/A/9.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2421" showAs="DDL 2421"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2421</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Sostituire l'articolo con il seguente:</an:p>
+				<an:p align="justify">
+					        «Art. 9. - 
+					<an:i>(Rapporti con l'autorità per l'energia elettrica ed il gas). - 1.</an:i>
+					 Nel rispetto delle disposizioni di cui alla legge 14 novembre 1995, n. 481, l'Autorità per l'energia elettrica ed il gas, opera in piena autonomia e con indipendenza di giudizio nel quadro degli indirizzi di politica generale formulati dal Governo e dal Parlamento e tenuto conto delle normative dell'Unione europea in materia. Il Governo indica all'Autorità, nel Documento di programmazione economico-finanziaria, le esigenze di sviluppo dei servizi di pubblica utilità che corrispondono agli interessi generali del Paese. L'Autorità formula osservazioni e proposte da trasmettere al Governo e al Parlamento, presenta annualmente al Parlamento e al Presidente del Consiglio dei ministri una relazione sullo stato dei servizi e sull'attività svolta.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>2.</an:i>
+					 L'Autorità disciplina autonomamente i procedimenti volti all'adozione dei propri provvedimenti di interesse generale e gode di autonomia organizzativa definendo i propri regolamenti per quanto riguarda l'organizzazione interna, il funzionamento e la contabilità.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>3.</an:i>
+					 Il Governo garantisce all'Autorità gli strumenti necessari allo svolgimento del compito istituzionale di assicurare adeguati livelli di qualità dei servizi, la fruibilità e la diffusione dei servizi in modo omogeneo sull'intero territorio nazionale, definendo un sistema tariffario certo, trasparente e basato su criteri predefiniti, promuovendo la tutela degli interessi di utenti e consumatori.
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>4.</an:i>
+					 Ferme restando le disposizioni di cui alla citata legge n.481 del 1995 e alla legge 31 luglio 1997, n. 249, in quanto compatibili, il Governo assicura all'Autorità gli strumenti adeguati al perseguimento delle finalità istituzionali di armonizzare gli obiettivi economico-finanziari dei soggetti esercenti il servizio con gli obiettivi generali di carattere sociale, di tutela ambientale e di uso efficiente delle risorse. Le pubbliche amministrazioni e le imprese sono tenute a fornire all'Autorità, oltre a notizie e informazioni, la collaborazione per l'adempimento delle sue funzioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

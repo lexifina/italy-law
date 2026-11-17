@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1628/C/1.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1628/C/1.4"/>
+					<an:FRBRdate date="2017-05-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1628/C/1.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@"/>
+					<an:FRBRdate date="2017-05-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@.akn"/>
+					<an:FRBRdate date="2017-05-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-05-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-05-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1628/C/1.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1628" showAs="DDL 1628"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWPINJQFGOUIJMWE3UDNBHWD4XNIPPDVZVNNQJUMH433R4SFASBKP" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+				<an:TLCPerson id="IDPQTYD3VTOF4JBDODQASJGAEKHOLXXQ2A1LB5SFMU4C4VRDH3GFRC" href="http://dati.senato.it/17739" showAs="PALMA"/>
+				<an:TLCPerson id="IDE35JFWGNT2UXQJ321OBUCEVWB3KO0VGNQD24WI2WTM5CTFO4B1D" href="http://dati.senato.it/476" showAs="CARDIELLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1628</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWPINJQFGOUIJMWE3UDNBHWD4XNIPPDVZVNNQJUMH433R4SFASBKP" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPQTYD3VTOF4JBDODQASJGAEKHOLXXQ2A1LB5SFMU4C4VRDH3GFRC" as="#tipoSenatore">PALMA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE35JFWGNT2UXQJ321OBUCEVWB3KO0VGNQD24WI2WTM5CTFO4B1D" as="#tipoSenatore">CARDIELLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>"Art. 1</an:p>
+				<an:p>Dopo la Sezione III del capo III del titolo VI del libro I del codice civile è inserita la sezione III bis - Del cognome coniugale.</an:p>
+				<an:p>Dopo l'articolo 105 del codice civile sono inseriti i seguenti:</an:p>
+				<an:p>
+					«Art. 105-
+					<an:i>bis</an:i>
+					 (Scelta del cognome coniugale).
+				</an:p>
+				<an:p>I coniugi, all'atto della celebrazione delle nozze, possono dichiarare all'ufficiale di stato civile il cognome coniugale composto, nell'ordine fra di loro concordato, dai loro cognomi ovvero dai loro primi cognomi in caso di doppio cognome ovvero dal solo cognome del marito ovvero dal solo cognome della moglie.</an:p>
+				<an:p>In caso di mancata scelta il cognome coniugale è costituito in ordine alfabetico dai cognomi di entrambi i coniugi ovvero dai loro primi cognomi in caso di doppio cognome.</an:p>
+				<an:p/>
+				<an:p>
+					Art. 105-
+					<an:i>ter</an:i>
+					 (Sorte del cognome coniugale)
+				</an:p>
+				<an:p>I coniugi mantengono il cognome coniugale per tutta la durata del matrimonio.</an:p>
+				<an:p>La moglie conserva il cognome coniugale durante lo stato vedovile.</an:p>
+				<an:p/>
+				<an:p>
+					Art. 105-
+					<an:i>quater</an:i>
+					 (Trasmissione del cognome coniugale ai figli)
+				</an:p>
+				<an:p>Il cognome coniugale si trasmette ai figli nati in costanza di matrimonio.</an:p>
+				<an:p>Nel caso in cui i genitori abbiano deciso come cognome coniugale il solo cognome del marito o il solo cognome della moglie, i figli maggiorenni possono richiedere l'aggiunta del cognome dell'altro genitore, nelle forme e nei modi previsti dalla legge.»</an:p>
+				<an:p>3. L'articolo 143-bis del codice civile è abrogato."  </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

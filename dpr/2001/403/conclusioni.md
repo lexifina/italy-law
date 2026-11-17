@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato Roma, addi' 21 settembre 2001
-
-CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 30 ottobre 2001 Ministeri istituzionali, registro n. 13, foglio n. 39

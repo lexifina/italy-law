@@ -1,7 +1,0 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE
-
-27 luglio 1944
-
-159
-
-Sanzioni contro il fascismo. (044U0159)

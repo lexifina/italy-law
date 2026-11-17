@@ -1,3 +1,0 @@
-CONVENTION 142
-
-Parte di provvedimento in formato grafico

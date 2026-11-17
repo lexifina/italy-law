@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/76.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/76.2"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/76.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="76.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/76.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLUBNQEOVUAS1EMJJK54NB5SBFF0ABSZ5J4EGWXHSQY3UJ1EXUIEB" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDNRP0JC1L4OB4D2VU0GSS1S5TIO4VTOYG0AKJJ2FJY12J5TF0MR5N" href="http://dati.senato.it/32671" showAs="MODENA"/>
+				<an:TLCPerson id="ID3CQPE3EISAPOJYZBI0VM4TE4RN43RM1OREVHY3FEJXDX2FDO0JRC" href="http://dati.senato.it/32723" showAs="TOFFANIN"/>
+				<an:TLCPerson id="ID1LIDJICLO5GICAQZ34LHQARGPOWXQSV4RODXIFNJ0WCGAPBVX0JB" href="http://dati.senato.it/32722" showAs="TIRABOSCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 76.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLUBNQEOVUAS1EMJJK54NB5SBFF0ABSZ5J4EGWXHSQY3UJ1EXUIEB" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNRP0JC1L4OB4D2VU0GSS1S5TIO4VTOYG0AKJJ2FJY12J5TF0MR5N" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3CQPE3EISAPOJYZBI0VM4TE4RN43RM1OREVHY3FEJXDX2FDO0JRC" as="#tipoSenatore">TOFFANIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1LIDJICLO5GICAQZ34LHQARGPOWXQSV4RODXIFNJ0WCGAPBVX0JB" as="#tipoSenatore">TIRABOSCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sopprimere l'articolo.</an:i>
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente all'articolo 99, comma 1, sostituire le parole:</an:i>
+					 «è incrementato di 214 milioni di euro per l'anno 2020, di 305 milioni di euro per ciascuno degli anni 2021 e 2022, di 375 milioni di euro per ciascuno degli anni 2023 e 2024, di 340 milioni di euro per l'anno 2025 e di 421 milioni di euro annui a decorrere dall'anno 2026.»
+					<an:i>, con le seguenti:</an:i>
+					 « è incrementato di 134 milioni di euro per l'anno 2020, di 188 milioni di euro per ciascuno degli anni 2021 e 2022, di 258 milioni di euro per ciascuno degli anni 2023 e 2024, di 223 milioni di euro per l'anno 2025 e di 304 milioni di euro annui a decorrere dall'anno 2026».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

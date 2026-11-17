@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 8 marzo 1999
+
+SCALFARO D'ALEMA, Presidente del Consiglio dei Ministri BERLINGUER, Ministro della pubblica istruzione CIAMPI, Ministro del tesoro, del bilancio e della programmazione economica PIAZZA, Ministro perla funzione pubblica BELLILLO, Ministro per gli affari regionali BASSOLINO Ministro del lavoro e della previdenza sociale Visto, il Guardasigilli: DILIBERTO Registrato alla Corte dei conti il 29 luglio 1999 Atti di Governo, registro n. 117. foglio 11 Le Sezioni Riunite della Corte dei conti, con delibera n.31/E/99 adottata nell'adunanza del 19 luglio 1999, hanno apposto il visto con riserva ed ordinato la conseguente registrazione relativamente all'articolo 12, comma 1 e all'articolo 16, comma 6. Hanno ammesso al visto e alla conseguente registrazione le rimanenti disposizioni.

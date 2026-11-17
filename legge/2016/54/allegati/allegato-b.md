@@ -1,7 +1,0 @@
-Allegato B
-
-Parte di provvedimento in formato grafico
-
-TRADUZIONE NON UFFUCIALE - ALL. B
-
-Parte di provvedimento in formato grafico

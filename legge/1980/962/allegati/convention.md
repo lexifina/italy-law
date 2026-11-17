@@ -1,5 +1,0 @@
-CONVENTION
-
-sur l'interdiction d'utiliser des techniques de modification de l'environnement a des fins militaires ou toutes autres fins hostiles
-
-Parte di provvedimento in formato grafico

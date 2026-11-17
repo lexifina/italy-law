@@ -1,5 +1,0 @@
-Allegato 3
-
-(previsto dall'articolo 12, comma 1, secondo periodo)
-
-Parte di provvedimento in formato grafico

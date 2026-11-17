@@ -1,3 +1,0 @@
-Agreement between Italy and Japan for Air services
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,11 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Ritenuta la straordinaria necessita' ed urgenza di adottare particolari misure a favore del comparto agricolo danneggiato dalle eccezionali avversita' atmosferiche verificatesi nei mesi di luglio ed agosto 2002, al fine di favorirne la ripresa economica e produttiva, il ripristino delle strutture, delle infrastrutture, l'effettuazione degli interventi di bonifica ed irrigazione, nonche' di garantire una piu' efficace difesa dei redditi agricoli pesantemente colpiti dagli avversi eventi climatici;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 6 settembre 2002;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle politiche agricole e forestali, di concerto con il Ministro dell'economia e delle finanze, con il Ministro delle attivita' produttive, con il Ministro per gli affari regionali e con il Ministro per le politiche comunitarie;
+
+Emana il seguente decreto-legge:

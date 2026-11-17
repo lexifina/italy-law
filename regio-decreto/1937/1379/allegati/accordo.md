@@ -1,5 +1,0 @@
-Accordo internazionale concernente il trasporto delle Salme.
-
-(Berlino, 10 febbraio 1937).
-
-Parte di provvedimento in formato grafico

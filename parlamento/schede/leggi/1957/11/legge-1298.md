@@ -1,0 +1,12 @@
+# Legge 26 novembre 1957, n. 1298
+
+- Tipo: Ordinaria
+- Numero: 1298
+- Data: 1957-11-26
+- Titolo: Approvazione  ed  esecuzione  degli  Accordi tra l'Italia e gli Stati Uniti  d'America  in  materia  di  eccedenze agricole, conclusi il 27 febbraio, il 5 luglio ed il 30 ottobre 1956.
+- Pubblicazione: (Pubblicata nella G.U. del 15 gennaio 1958)
+- Legislatura: II legislatura della Repubblica (repubblica_02)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1957-11-26;1298
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;2.legislatura;3114
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1957_1298
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

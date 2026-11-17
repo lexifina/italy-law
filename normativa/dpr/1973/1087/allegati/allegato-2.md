@@ -1,0 +1,25 @@
+ALLEGATO
+
+Parte di provvedimento in formato grafico
+
+TRADUZIONE NON UFFICIALE
+
+IL MINISTRO FEDERALE
+
+PER GLI AFFARI ESTERI
+
+Vienna, 24 luglio 1972
+
+Eccellenza,
+
+ho l'onore di accusare ricevuta della Sua nota del 24 luglio 1972, che in traduzione tedesca ha il seguente tenore:
+
+(Omissis).
+
+(Il testo in tedesco della nota italiana ed il testo bilingue dell'allegato)
+
+Ho l'onore di comunicarLe che il mio Governo accetta le proposte contenute nella Sua nota e che, pertanto, la Sua nota e la presente nota di risposta costituiscono un accordo tra la Repubblica d'Austria e la Repubblica italiana, il quale entra in vigore il sessantesimo giorno successivo a quello in cui i due Stati si notificano che sono stati soddisfatti i rispettivi adempimenti costituzionali.
+
+Voglia gradire, Eccellenza, l'espressione della mia piu' alta considerazione.
+
+Rudolf KIRCHSCHLAEGER

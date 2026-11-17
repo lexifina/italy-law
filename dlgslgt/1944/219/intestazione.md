@@ -1,7 +1,0 @@
-DECRETO LEGISLATIVO LUOGOTENENZIALE
-
-14 settembre 1944
-
-219
-
-Ripristino dell'ora normale. (044U0219)

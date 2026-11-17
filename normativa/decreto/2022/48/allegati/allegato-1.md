@@ -1,0 +1,7 @@
+Allegato 1
+
+(articolo 1, comma 3)
+
+AMBITI PROFESSIONALI E MATERIE DELLE PROVE D'ESAME
+
+Parte di provvedimento in formato grafico

@@ -1,3 +1,0 @@
-Convenzione sull'immatricolazione degli oggetti lanciati nello spazio extra-atmosferico
-
-Parte di provvedimento in formato grafico

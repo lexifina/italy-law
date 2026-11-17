@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/19.0.5"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/19.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1794" showAs="Pasinato"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17652" showAs="Tredese"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17598" showAs="Mainardi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17607" showAs="Favaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/929" showAs="Falcier"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17579" showAs="De Rigo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/97" showAs="Archiutti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pasinato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Tredese</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Mainardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Favaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Falcier</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Rigo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Archiutti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 19,</an:b>
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 19-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Trasferimento di beni demaniali)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Le disposizioni di cui alla legge 5 febbraio 1992, n. 177, concernente il trasferimento di beni demaniali al patrimonio disponibile dei comuni, si applicano con esclusione del demanio marittimo, lacuale e di quello relativo a parchi e riserve naturali, per l'intero territorio nazionale alle aree demaniali, non destinate all'esercizio della funzione pubblica, su cui siano state eseguite opere di urbanizzazione e di costruzione, da parte di enti o privati cittadini, in epoca anteriore al 31 dicembre 1990. Tali trasferimenti si applicano anche nei casi di manufatti insistenti sui corsi delle acque gestite dai consorzi di bonifica e di irrigazione.
+				</an:p>
+				<an:p align="justify">Le disposizioni della legge 5 febbraio 1992, n. 177 si applicano altresì per quelle aree demaniali per le quali venga acclarata la mancanza di funzione idraulica, e che risultino in possesso pacifico di privati, ancorché le stesse aree non risultino edificate.</an:p>
+				<an:p align="justify">        2. Il prezzo di cessione delle aree è determinato dall'ufficio tecnico erariale di ciascuna provincia con riguardo alla valutazione del solo terreno, non tenendo conto di quanto eventualmente edificato.</an:p>
+				<an:p align="justify">        3. Il trasferimento delle aree dal patrimonio disponibile dei comuni ai privati possessori che abbiano inoltrato domanda, avverrà con le modalità di cui alla legge 5 febbraio 1992, n. 177. Il relativo prezzo di cessione dovrà comprendere la spesa di acquisto e quella di urbanizzazione per le aree su cui siano state eseguite opere di pubblica utilità riconosciute dal comune, ovvero sulla base dei prezzi di mercato per le aree su cui siano state eseguite opere di interesse privato.</an:p>
+				<an:p align="justify">
+					<an:b>Compensazione del Gruppo Forza Italia nn. 1, 2, 3, 4 (v. emend. 2.36).</an:b>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

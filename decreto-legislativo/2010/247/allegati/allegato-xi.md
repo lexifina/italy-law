@@ -1,3 +1,0 @@
-Allegato XI
-
-Parte di provvedimento in formato grafico

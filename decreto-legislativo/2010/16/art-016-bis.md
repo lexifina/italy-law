@@ -1,9 +1,0 @@
-Art. 16-bis.
-
-(( (Sospensione o revoca dell'autorizzazione e dell'accreditamento degli Istituti dei tessuti).))
-
------------
-
-AGGIORNAMENTO (2)
-
-Il D.Lgs. 16 dicembre 2016, n. 256 ha disposto (con l'art. 8, comma 1) che la presente modifica si applica a decorrere dal 29 aprile 2017.

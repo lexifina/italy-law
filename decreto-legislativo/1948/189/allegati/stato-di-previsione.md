@@ -1,3 +1,0 @@
-Stato di previsione delle spese del Ministero della Difesa per l'esercizio finanziario dal 1 luglio 1947 al 30 giungo 1948
-
-Parte di provvedimento in formato grafico

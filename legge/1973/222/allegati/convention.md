@@ -1,5 +1,0 @@
-ALLEGATO
-
-Convention europeenne sur la protection des animaux en transport international
-
-Parte di provvedimento in formato grafico

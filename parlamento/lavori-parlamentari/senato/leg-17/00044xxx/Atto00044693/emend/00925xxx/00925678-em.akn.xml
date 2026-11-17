@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1568/A/G2.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1568/A/G2.2"/>
+					<an:FRBRdate date="2015-07-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1568/A/G2.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@"/>
+					<an:FRBRdate date="2015-07-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@.akn"/>
+					<an:FRBRdate date="2015-07-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1568/A/G2.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1568" showAs="DDL 1568"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29090" showAs="Donno"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29102" showAs="Gaetti"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29093" showAs="Fattori"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29065" showAs="Castaldi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29108" showAs="Girotto"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1568</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Donno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Gaetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fattori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Castaldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Girotto</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 1568, recante «Disposizioni in materia di agricoltura sociale»;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 2 del disegno di legge in esame reca la definizione delle attività che costituiscono agricoltura sociale;</an:p>
+				<an:p align="justify">
+					        in particolare, le lettere 
+					<an:i>b)</an:i>
+					, 
+					<an:i>c)</an:i>
+					 e 
+					<an:i>d)</an:i>
+					 del comma 1 stabiliscono che sono tali, tra le altre, le attività svolte, singole ed associate, dall'imprenditore agricolo volte a realizzare:
+				</an:p>
+				<an:p align="justify">            servizi sociali per le comunità locali, tra i quali gli agri-asili e servizi di accoglienza di persone in difficoltà fisica e psichica;</an:p>
+				<an:p align="justify">            prestazioni e servizi terapeutici anche attraverso l'ausilio di animali e la coltivazione delle piante;</an:p>
+				<an:p align="justify">            iniziative di educazione ambientale ed alimentare, di salvaguardia della biodiversità animale, anche attraverso l'organizzazione di fattorie sociali e didattiche;</an:p>
+				<an:p align="justify">
+					            il comma 3 del medesimo articolo qualifica le attività di agricoltura sociale di cui alle lettere 
+					<an:i>b)</an:i>
+					, 
+					<an:i>c)</an:i>
+					 e 
+					<an:i>d) del comma 1 come attività connesse all'attività agricola ai sensi dell'articolo 2135 del codice civile;</an:i>
+				</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            come già segnalato nel corso del dibattito alla Camera, a proposito di quanto disposto dal comma 3, non appare chiaro se per effetto di tale qualificazione debbano estendersi alle attività in questione le agevolazioni tributarie attualmente previste con riferimento al reddito agrario ne, ove dovesse essere accolta tale interpretazione, se la predetta qualificazione sia suscettibile di determinare effetti di gettito anche in considerazione delle agevolazioni eventualmente già previste per le attività in questione, tenuto conto che le stesse presentano caratteri di rilevanza sociale,</an:p>
+				<an:p align="justify">        impegna il Governo a chiarire in modo completo ed esaustivo, mediante apposita relazione tecnica, gli aspetti sopra esposti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

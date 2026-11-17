@@ -1,0 +1,5 @@
+(( Allegato B -
+
+(Articolo 1, comma 10) ))
+
+Parte di provvedimento in formato grafico

@@ -1,5 +1,0 @@
-Allegato B
-
-(articolo 14, comma 1)
-
-Parte di provvedimento in formato grafico

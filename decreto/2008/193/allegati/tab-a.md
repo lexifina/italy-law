@@ -1,3 +1,0 @@
-Tab. A
-
-Parte di provvedimento in formato grafico

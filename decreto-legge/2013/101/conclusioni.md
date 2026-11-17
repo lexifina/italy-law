@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 31 agosto 2013
-
-NAPOLITANO Letta, Presidente del Consiglio dei ministri D'Alia, Ministro per la pubblica amministrazione e la semplificazione Cancellieri, Ministro della giustizia Carrozza, Ministro dell'istruzione, dell'universita' e della ricerca Bray, Ministro dei beni e delle attivita' culturali e del turismo Trigilia, Ministro per la coesione territoriale Bonino, Ministro degli affari esteri Saccomanni, Ministro dell'economia e delle finanze Orlando, Ministro dell'ambiente e della tutela del territorio e del mare Alfano, Ministro dell'interno Zanonato, Ministro dello sviluppo economico Lupi, Ministro delle infrastrutture e dei trasporti De Girolamo, Ministro delle politiche agricole alimentari e forestali Lorenzin, Ministro della salute Visto, il Guardasigilli: Cancellieri

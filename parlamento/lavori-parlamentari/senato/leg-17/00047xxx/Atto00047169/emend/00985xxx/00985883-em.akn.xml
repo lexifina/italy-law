@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2495/A/21.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2495/A/21.22"/>
+					<an:FRBRdate date="2016-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2495/A/21.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="21.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@"/>
+					<an:FRBRdate date="2016-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@.akn"/>
+					<an:FRBRdate date="2016-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2495/A/21.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2495" showAs="DDL 2495"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDK1LJ0KPPPOKCKISY2VO0YLM30EM03F5I4DL4PECGNA4TICAFFQEE" href="http://dati.senato.it/29102" showAs="GAETTI"/>
+				<an:TLCPerson id="IDCUXXWTNXSP5YBAPVCLFVEQAVQEGTCYZLTANOEOLVDNENCL3R13HI" href="http://dati.senato.it/29189" showAs="TAVERNA"/>
+				<an:TLCPerson id="ID3DIISW2LLT4ACZUCSENE3IRPMOJR5QFGQB35W2JWZSUDW4OWU5AF" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDD2HTGHVB32YOMCH0GQIQ2CENJOPT3O55AVPXGZMTIFJZDJ2DW4QE" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDLMUFJ4R4TX5VIJEJ4NOUX3R3QFWVUKAWLPSLBEIGCCSUCKGVUCZD" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2495</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 21.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK1LJ0KPPPOKCKISY2VO0YLM30EM03F5I4DL4PECGNA4TICAFFQEE" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCUXXWTNXSP5YBAPVCLFVEQAVQEGTCYZLTANOEOLVDNENCL3R13HI" as="#tipoSenatore">TAVERNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3DIISW2LLT4ACZUCSENE3IRPMOJR5QFGQB35W2JWZSUDW4OWU5AF" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD2HTGHVB32YOMCH0GQIQ2CENJOPT3O55AVPXGZMTIFJZDJ2DW4QE" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLMUFJ4R4TX5VIJEJ4NOUX3R3QFWVUKAWLPSLBEIGCCSUCKGVUCZD" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 22, aggiungere, in fine, le seguenti parole:«e indica, entro 30 giorni dall'entrata in vigore della legge di conversione del presente decreto, i criteri da utilizzare ai fini dell'identificazione dei farmaci valutabili secondo il metodo dell'equivalenza terapeutica sulla base dell'assimilabilità dei principi attivi.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

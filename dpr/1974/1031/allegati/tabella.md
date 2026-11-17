@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO D'ARTE DI LOCRI E DELL'ANNESSA SCUOLA MEDIA
-
-Parte di provvedimento in formato grafico

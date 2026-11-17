@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/156/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@.akn"/>
+					<an:FRBRdate date="2015-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/156/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAIN1N" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAHM1N" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDAUO1N" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDAQO1N" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDA3N1N" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDARM1N" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="IDARO1N" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDA5O1N" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/156/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIN1N" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHM1N" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUO1N" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQO1N" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3N1N" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARM1N" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARO1N" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5O1N" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>in sede di esame dell'A.S. 2111 recante: "Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2016)",</an:p>
+				<an:p>Premesso che:</an:p>
+				<an:p>le Fondazioni lirico-sinfoniche in sofferenza hanno intrapreso un difficile e impervio percorso di riequilibrio gestionale al fine della salvaguardia e del rilancio dell'attività musicale e coreutica italiana;</an:p>
+				<an:p>per molteplici motivi tra i quali i ritardi nell'emanazione di provvedimenti attuativi del disposto legislativo e successive modifiche normative e regolamentari intervenute, tale riequilibrio non si potrà attuare nel lasso temporale inizialmente previsto, ovvero entro l'esercizio 2016;</an:p>
+				<an:p>la mancata proroga, almeno all'esercizio 2018, determinerebbe la liquidazione coatta amministrativa di diversi teatri che porterebbe con sé l'annullamento irreversibile della produzione culturale musico-coreutica italiana;</an:p>
+				<an:p>tutti i Sovrintendenti sia delle diverse Fondazioni che quelli del Mibact concordano sulla necessità dell'indispensabile spostamento dei termini previsti per il conseguimento dell'equilibrio gestionale al fine di evitare la messa in stato di liquidazione coatta amministrativa delle fondazioni lirico-sinfoniche con la conseguente perdita di un patrimonio culturale musicale unico al mondo e irripetibile.</an:p>
+				<an:p>Impegna il governo</an:p>
+				<an:p>A valutare la possibilità, nel provvedimento cosiddetto "proroga termini" di fine anno di prevedere una modifica all'articolo 11, comma 14 dell' art 11 del decreto-legge 8 agosto 2013, n. 91 convertito con modificazioni dalla legge 7 ottobre 2013, n. 112, che differisca i termini, ivi indicati, almeno all'esercizio 2018.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

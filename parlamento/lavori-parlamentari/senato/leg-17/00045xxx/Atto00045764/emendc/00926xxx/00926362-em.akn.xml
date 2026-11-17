@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9"/>
+					<an:FRBRdate date="2015-06-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1971/8/9"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@"/>
+					<an:FRBRdate date="2015-06-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@.akn"/>
+					<an:FRBRdate date="2015-06-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-06-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-06-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1971/C/G/1971/8/9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1971" showAs="DDL 1971"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Agricoltura e produzione agroalimentare" href="/dati.senato.it/osr/Commissione/9"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29090" showAs="Donno"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29102" showAs="Gaetti"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29093" showAs="Fattori"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1971</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1971/8/9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Donno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Gaetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Fattori</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede d'esame del disegno di legge, Conversione in legge, con modificazioni, del decreto-legge 5 maggio 2015, n. 51, recante disposizioni urgenti in materia di rilancio dei settori agricoli in crisi, di sostegno alle imprese agricole colpite da eventi di carattere eccezionale e di razionalizzazione delle strutture ministeriali;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            l'Italia è leader nel mondo per la produzione di prodotti tutelati da DOP e IGP;</an:p>
+				<an:p>        nelle produzioni DOP e IGP le aziende devono rispettare un disciplinare predisposto dalle normative comunitarie al fine di preservare le caratteristiche qualitative e sanitarie di tali prodotti nonché di salvaguardarne l'immagine da un punto di vista commerciale;</an:p>
+				<an:p>            al fine di conseguire gli obiettivi di cui sopra sarebbe opportuno che nelle aree di produzione di prodotti DOP e IGP si effettuino appositi interventi per ridurre gli impatti antropici sul suolo, sull'acqua e sull'atmosfera causati da impianti o da altre installazioni che svolgono le attività previste dalla direttiva 20l0/75/UE;</an:p>
+				<an:p>            nelle stesse aree, andrebbero altresì predisposti appositi interventi preventivi in caso di presenza di impianti o di altre installazioni le cui attività pur non rientranti tra quelle qui identificate costituiscono comunque una fonte di rischio elevato per le colture e per le produzioni;</an:p>
+				<an:p>            negli, impianti e nelle installazioni già realizzati alla data di entrata in vigore della presente legge dovrebbe essere vietata ogni modifica sostanziale, ivi compreso l'ampliamento e il potenziamento dell'impianto, che comporti effetti negativi e significativi;</an:p>
+				<an:p>            le concessioni per gli impianti o per le altre installazioni situati nelle aree di cui in parola non dovrebbero essere prorogate o rinnovate;</an:p>
+				<an:p>            nelle aree di cui in parola, la realizzazione di impianti o di altre installazioni che utilizzano come combustibile biomasse dovrebbe essere ammessa esclusivamente per il teleriscaldamento di complessi di abitazioni private, di edifici pubblici e di edifici ad uso pubblico che rispettino determinati requisiti;</an:p>
+				<an:p>        impegna il Governo</an:p>
+				<an:p>            ad intraprendere ogni utile azione, anche normativa, al fine di tutelare le zone di produzione di prodotti DOP e IGP da qualsiasi forma di inquinamento ed in particolare a valutare la possibilità di vietare la realizzazione di nuovi impianti o altre installazioni nelle aree in parola e per una ulteriore fascia di rispetto perimetrale di 15,5 chilometri.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

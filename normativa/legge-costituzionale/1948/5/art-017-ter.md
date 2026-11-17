@@ -1,0 +1,7 @@
+Art. 17-ter.
+
+((E' obbligatorio il parere della provincia per le concessioni in materia di comunicazioni e trasporti, riguardanti linee che attraversano il territorio provinciale.
+
+E' altresi' obbligatorio il parere della provincia per le opere idrauliche della prima e seconda categoria. Lo Stato e la provincia predispongono d'intesa un piano annuale di coordinamento delle opere idrauliche di rispettiva competenza.
+
+L'utilizzazione delle acque pubbliche da parte dello Stato e della provincia, nell'ambito della rispettiva competenza, ha luogo in base a un piano generale stabilito d'intesa tra i rappresentanti dello Stato e della provincia in seno a un apposito comitato.))

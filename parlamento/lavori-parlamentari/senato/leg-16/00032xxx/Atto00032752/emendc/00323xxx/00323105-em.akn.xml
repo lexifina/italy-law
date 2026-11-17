@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8"/>
+					<an:FRBRdate date="2008-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1209/9/8"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@"/>
+					<an:FRBRdate date="2008-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@.akn"/>
+					<an:FRBRdate date="2008-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-11-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-11-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/9/8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22740" showAs="Filippi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25235" showAs="Ranucci"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17849" showAs="Fistarol"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17597" showAs="Magistrelli"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/12613" showAs="Morri"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22167" showAs="Papania"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/23259" showAs="Vimercati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1209/9/8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Ranucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Fistarol</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Magistrelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Morri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Papania</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Vimercati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 8a Commissione permanente,</an:p>
+				<an:p>        in sede di esame del disegno di legge AS 1209 recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (Legge finanziaria 2009),</an:p>
+				<an:p>        premesso che,</an:p>
+				<an:p>            il disegno di legge finanziaria prevede una riduzione delle risorse destinate a nuove infrastrutture nel 2009 del 14 per cento in termini reali rispetto all'anno precedente;</an:p>
+				<an:p>            tale risultato negativo per il 2009 è attribuito per la parte più rilevante alle forti riduzioni ai trasferimenti per i principali soggetti attuatori;</an:p>
+				<an:p>            appare preoccupante, oltre alla contrazione rispetto al 2008, la pesante riduzione che emerge dal confronto con le dotazioni finanziarie previste originariamente per il 2009 dalla manovra finanziaria dello scorso anno. Per l'ANAS è prevista una riduzione del 23 per cento delle risorse previste per il 2009 mentre per le Ferrovie dello Stato addirittura del 33 per cento;</an:p>
+				<an:p>            lo stesso disegno di legge finanziaria 2009 disattende completamente le richieste avanzate dal Ministero delle infrastrutture e dei trasporti per il programma (4 miliardi di euro nel 2009 e 5 miliardi per ciascuno degli anni 2010 e 2011 per un totale di 14 miliardi nel triennio 2009-2011) non prevedendo nessuno stanziamento aggiuntivo per il Fondo opere strategiche; con questi tagli nei finanziamenti viene a mancare quella continuità di stanziamenti necessaria per dare piena attuazione a molti grandi progetti che richiedono un'adeguata provvista finanziaria;</an:p>
+				<an:p>            il Governo da settimane propone soluzioni alternative per compensare l'assenza di stanziamenti pubblici per il Programma: dall'intesa finalizzata ad una più tempestiva valutazione dei progetti firmata l'8 ottobre 2008 tra la Banca europea degli investimenti e il Ministero delle infrastrutture e dei trasporti, al riassetto delle risorse del Fondo aree sottoutilizzate, disposto dalla manovra d'estate, per passare infine alle disponibilità della Cassa depositi e prestiti;</an:p>
+				<an:p>            le ulteriori riduzioni previste sul finanziamento al trasporto pubblico locale mettono in grave allarme le regioni, le quali saranno chiamate a gestire numerose deleghe senza le corrispondenti risorse;</an:p>
+				<an:p>            si impone una verifica rapida e puntuale per dare certezze sull'individuazione delle opere prioritarie, sui tempi di realizzazione di completamento delle stesse e sulle risorse effettivamente disponibili,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad avviare con tempestività, previo approfondimento con il Parlamento e con le regioni, tutte le misure economiche necessarie per consentire la realizzazione ed il completamento delle opere strategiche inserite nella «legge obiettivo», selezionando quelle opere già finanziariamente coperte e in attesa dell'approvazione CIPE e di completamento dei corridoi TEN.</an:p>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

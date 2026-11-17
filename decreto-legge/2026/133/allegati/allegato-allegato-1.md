@@ -1,5 +1,0 @@
-((Allegato 1)).
-
-(( (articolo 3, comma 2, lettera b) )).
-
-((Parte di provvedimento in formato grafico))

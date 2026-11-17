@@ -1,0 +1,7 @@
+ALLEGATO N. 2
+
+COMUNE DI MOTTOLA (Taranto)
+
+Elenco dei terreni costituenti il terzo residuo ed esclusi dalla espropriazione immediata a norma degli articoli 8 e 9 della legge 21 ottobre 1950, n. 841, nei confronti di Romanazzi Guglielmo di Giovanni.
+
+Parte di provvedimento in formato grafico

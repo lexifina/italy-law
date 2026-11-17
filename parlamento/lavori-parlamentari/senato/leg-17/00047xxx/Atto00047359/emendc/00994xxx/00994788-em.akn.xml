@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/34.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/34.16"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/34.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="34.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@.akn"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/34.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSCUSTJBHKYIHE4IKWTEWZSAQDCJ3NASPL3DLBL11VUHEBK0B55B" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDHTCG14SJU5NHHXZNO1KCQBAPMMBI35GEAIM4KCNUBHJPHIZJZXTM" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDSFZTCHX4Z2L4J4JFNSVFAR4XWMHUFMVR5V0X3QPGJNBYUC4BIKTM" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDNLIVFBPHNOJ1MB3YJXYASIVI3FGRBFNY4LODZQNRQBQCX1DQHCZM" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+				<an:TLCPerson id="IDVCPUOZOWGZ23D32EHIL0SRMRDJXKEFGMLZLCD1OPXSSM4CIJD1VP" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 34.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSCUSTJBHKYIHE4IKWTEWZSAQDCJ3NASPL3DLBL11VUHEBK0B55B" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHTCG14SJU5NHHXZNO1KCQBAPMMBI35GEAIM4KCNUBHJPHIZJZXTM" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSFZTCHX4Z2L4J4JFNSVFAR4XWMHUFMVR5V0X3QPGJNBYUC4BIKTM" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNLIVFBPHNOJ1MB3YJXYASIVI3FGRBFNY4LODZQNRQBQCX1DQHCZM" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVCPUOZOWGZ23D32EHIL0SRMRDJXKEFGMLZLCD1OPXSSM4CIJD1VP" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 5, secondo periodo, sostituire le parole:</an:i>
+					 «2 per cento» 
+					<an:i>con le seguenti:</an:i>
+					 «4 per cento».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

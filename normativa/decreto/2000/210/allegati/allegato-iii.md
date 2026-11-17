@@ -1,0 +1,5 @@
+Allegato III
+
+(art. 1, comma 5)
+
+((Parte di provvedimento in formato grafico))

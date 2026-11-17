@@ -1,0 +1,3 @@
+Accord sur l'etablissement d'une Union europeenne de paiements
+
+Parte di provvedimento in formato grafico

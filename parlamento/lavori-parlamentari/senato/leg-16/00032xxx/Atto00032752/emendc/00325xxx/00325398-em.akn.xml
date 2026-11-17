@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1209/65/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@.akn"/>
+					<an:FRBRdate date="2008-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/C/G/1209/65/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/26176" showAs="Cintola"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1209/65/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Cintola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 5 Commissione permanente,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            con la riforma del Titolo V del 2001 sono stati sospesi i contributi esterni ai comuni e, pertanto, le loro difficoltà economiche non vengano più ripianate attraverso l'accensione di un mutuo finanziato dallo Stato, anche se i recenti casi di Roma e Catania sono stati risolti solo e grazie all'intervento diretto, per decretazione, del Governo;</an:p>
+				<an:p>            attraverso un decreto-legge, infatti, furono elargiti i 130 milioni per Taranto, così come i 140 milioni di Catania e i 500 milioni di Roma;</an:p>
+				<an:p>            nel caso specifico di Roma e Catania, il Governo, assegnando un contributo a fondo perduto di 140 milioni di euro per il capoluogo etneo e 500 milioni per la Capitale, ha distolto preziose risorse dal Fas, il fondo statale per le aree svantaggiate, già ridotto dal decreto-legge n. 112 del 2008 da 64 a 57 miliardi, di cui l'85 per cento al Sud;</an:p>
+				<an:p>            non sembra, peraltro, corrispondere a criteri di federalismo questo tipo di intervento del Governo centrale, voluto e ottenuto più che altro per valutazioni e volontà politiche ed esigenze tutte interne alla maggioranza che sostiene il Governo;</an:p>
+				<an:p>            l'eliminazione dell'imposta comunale sugli immobili ha creato notevoli difficoltà alle amministrazioni comunali, in quanto l'ICI garantiva buona parte dell'autonomia finanziaria degli enti stessi;</an:p>
+				<an:p>            spesso le difficoltà finanziarie in cui si battono i comuni sono dovute all'elevato e rischioso uso, anzi abuso, dei cosiddetti «derivati», di quei contratti fmanziari, cioè, cui hanno fatto largamente ricorso i comuni per ottenere liquidità immediata o per spostare in avanti scadenze debitorie trascurando, però, l'effetto di lungo periodo sull'indebitamento;</an:p>
+				<an:p>            molti comuni, tuttavia, registrano una momentanea difficoltà «virtuosa» nel senso che le loro problematiche e ristrettezze economiche, oltre che dall'attuale crisi economico-finanziaria, derivano dall'aver effettuato cospicui investimenti per promuovere lo sviluppo dei propri territori,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di istituire un fondo straordinario, alimentato con risorse che saranno successivamente individuate, destinato a far fronte, nel rispetto di determinati requisiti e secondo precise modalità oggettive, alle difficoltà di quelle amministrazioni comunali che pur adottando una corretta contabilità dovessero trovarsi in una momentanea ristrettezza per motivi contingenti o per investimenti realizzati a favore della loro comunità;</an:p>
+				<an:p>            ad evitare nel futuro ogni intervento di ripiano finanziario urgente, senza criteri di carattere generale.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

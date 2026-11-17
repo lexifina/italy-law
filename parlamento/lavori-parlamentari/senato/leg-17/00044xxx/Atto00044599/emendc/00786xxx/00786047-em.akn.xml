@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.99/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.99"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.99/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.99"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/13.99/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKMSH0SEXQJDLEJDOPVEURYOK4DTXQAIHZUCR34H1QURTXFVPWJ4I" href="http://dati.senato.it/29130" showAs="MARTELLI"/>
+				<an:TLCPerson id="IDLQBXV1T0AOJQGSJIVYES43LXJHZE3MUDKRK5Q4KDWCIQZNI0PAGN" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDZQKHWASKLF4MJW5FY2YUBWFFHM3QPPDJXJEZH1NUW11NPNZ3QNCN" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.99</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKMSH0SEXQJDLEJDOPVEURYOK4DTXQAIHZUCR34H1QURTXFVPWJ4I" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLQBXV1T0AOJQGSJIVYES43LXJHZE3MUDKRK5Q4KDWCIQZNI0PAGN" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZQKHWASKLF4MJW5FY2YUBWFFHM3QPPDJXJEZH1NUW11NPNZ3QNCN" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 5, lettera</an:i>
+					 b)
+					<an:i>, capoverso,</an:i>
+					 «art. 241-
+					<an:i>bis</an:i>
+					» 
+					<an:i>sostituire i commi da 1 a 3 con i seguenti:</an:i>
+				</an:p>
+				<an:p>        "1. Ai fini della restituzione ai territori delle aree di demanio pubblico concesse ad uso esclusivo e temporaneo alla difesa militare e alla sicurezza nazionale; al fine dell'individuazione delle misure di prevenzione, messa in sicurezza e bonifica, e dell'istruttoria dei relativi progetti, da realizzare nelle aree del demanio si applicano le concentrazioni di soglia di contaminazione di cui alla Tabella 1, colonna a, dell'allegato 5, alla Parte IV, Titolo V, del presente decreto.</an:p>
+				<an:p>        2. Gli obiettivi di intervento nelle aree di cui al comma 'l sono determinanti mediante applicazione di idonea analisi di rischio sito specifica che deve tenere conto dell'effettivo livello di contaminazione e delle caratteristiche ambientali di dette aree o di porzioni di esse e delle aree limitrofe, al fine di prevenire, ridurre o eliminare i rischi per la salute dovuti alla potenziale esposizione a sostanze inquinanti e la diffusione della contaminazione nelle matrici ambientali."».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-Additional Protocol to the European Charter of Local Self-Government on the right to participate in the affairs of a local authority
-
-Parte di provvedimento in formato grafico

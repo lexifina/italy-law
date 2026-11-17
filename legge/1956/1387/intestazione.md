@@ -1,7 +1,0 @@
-LEGGE
-
-20 dicembre 1956
-
-1387
-
-Conversione in legge del decreto-legge 27 ottobre 1956, n. 1176, concernente l'istituzione di un coefficiente di compensazione alla importazione dalla Francia di grasso di maiale fuso (strutto), qualunque sia la sua consistenza, compreso lo strutto liquido (olio di strutto).

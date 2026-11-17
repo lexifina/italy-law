@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/10.0.134"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.134"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/10.0.134/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKJ5CRILIZTOPNAOC1KEAW2RQJJHCZ5QWBTOVWLCMNOZIY1EUQKOI" href="http://dati.senato.it/29053" showAs="BOTTICI"/>
+				<an:TLCPerson id="IDXR5QNU3E2O3CERHK3CHTTQMN3DH0402RQJF4AVG2JAX3OQ5CMZID" href="http://dati.senato.it/32689" showAs="PIARULLI"/>
+				<an:TLCPerson id="IDUBCUKZI5EPQTP3UU3E0Q4O2KMJD4PCJHGN33YYN2EJTBRIYR1I3I" href="http://dati.senato.it/32580" showAs="ANGRISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.134</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKJ5CRILIZTOPNAOC1KEAW2RQJJHCZ5QWBTOVWLCMNOZIY1EUQKOI" as="#tipoSenatore">BOTTICI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXR5QNU3E2O3CERHK3CHTTQMN3DH0402RQJF4AVG2JAX3OQ5CMZID" as="#tipoSenatore">PIARULLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUBCUKZI5EPQTP3UU3E0Q4O2KMJD4PCJHGN33YYN2EJTBRIYR1I3I" as="#tipoSenatore">ANGRISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Sospensione dei termini di scadenza dei titoli di credito)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo n del decreto-legge 8 aprile 2020, n. 23, convertito, con modificazioni, dalla legge 5 giugno 2020, n. 40, le parole: ''31 agosto 2020'', ovunque ricorrono, sono sostituite dalle seguenti: ''31 dicembre 2020''.</an:p>
+				<an:p>
+					        2. Con riferimento ai vaglia cambiari, cambiali e altri titoli di credito e ogni altro atto avente efficacia esecutiva, di cui all'articolo 11 del decreto-legge 8 aprile 2020, n. 23, convertito, con modificazioni, dalla legge 5 giugno 2020, n. 40, il cui termine per l'adempimento indicato nel titolo sia compreso fra il 31 agosto 2020 e la data di conversione del presente decreto e la cui prestazione non sia stata ancora adempiuta entro detto termine dai debitori ovvero dagli obbligati anche in via di regresso o di garanzia, la Banca d'Italia provvede alla cancellazione dei relativi dati registrati presso l'Archivio degli assegni bancari e postali e delle carte di pagamento irregolari di cui all'articolo 10-
+					<an:i>bis</an:i>
+					 della legge 15 dicembre 1990, n. 386».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

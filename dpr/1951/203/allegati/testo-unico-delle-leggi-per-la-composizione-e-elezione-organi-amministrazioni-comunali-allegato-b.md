@@ -1,5 +1,0 @@
-ALLEGATO B
-
-(( (Retro della scheda di cui all'allegato A)
-
-Parte di provvedimento in formato grafico))

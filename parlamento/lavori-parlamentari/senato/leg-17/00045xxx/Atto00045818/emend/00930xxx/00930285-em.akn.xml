@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.8"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@.akn"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1993/A/1.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1993" showAs="DDL 1993"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDARS1QC" href="http://dati.senato.it/senatore/25449" showAs="MUNERATO"/>
+				<an:TLCPerson id="IDAET1QC" href="http://dati.senato.it/senatore/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDAZT1QC" href="http://dati.senato.it/senatore/22551" showAs="BISINELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1993</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARS1QC" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAET1QC" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZT1QC" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo con il seguente:</an:p>
+				<an:p align="justify">
+					        «Art. 1. - 
+					<an:i>(Misure in materia di rivalutazione automatica delle pensioni) -</an:i>
+					 1. AI fine di dare attuazione ai principi enunciati nella sentenza della Corte Costituzionale n. 70 del 2015 e nel rispetto degli articoli 3, 36, primo comma e 38, secondo comma, della Costituzione, il primo ed il secondo periodo del comma 25 dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, sono soppressi.
+				</an:p>
+				<an:p align="justify">        2. La rivalutazione automatica dei trattamenti pensionistici relativa agli anni 2012 e 2013 è riconosciuta:</an:p>
+				<an:p align="justify">
+					<an:i>a)</an:i>
+					 nella misura del 100 per cento per i trattamenti pensionistici di importo complessivo fino a tre volte il trattamento minimo INPS. Per le pensioni di importo superiore a tre volte il trattamento minimo INPS e inferiore a tale limite incrementato della quota di rivalutazione automatica spettante sulla base di quanto previsto dalla presente lettera, l'aumento di rivalutazione è comunque attribuito fino a concorrenza del predetto limite maggiorato;
+				</an:p>
+				<an:p align="justify">
+					<an:i>b)</an:i>
+					 nella misura del 75 per cento per i trattamenti pensionistici complessivamente superiori a tre volte il trattamento minimo INPS e pari o inferiori a cinque volte il trattamento minimo INPS con riferimento all'importo complessivo dei trattamenti medesimi. Per le pensioni di importo superiore a cinque volte il predetto trattamento minimo e inferiore a tale limite incrementato della quota di rivalutazione automatica spettante sulla base di quanto previsto dalla presente lettera, l'aumento di rivalutazione è comunque attribuito fino a concorrenza del predetto limite maggiorato;
+				</an:p>
+				<an:p align="justify">
+					<an:i>c)</an:i>
+					 nella misura del 35 per cento per i trattamenti pensionistici complessivamente superiori a cinque volte il trattamento minimo INPS e pari o inferiori a otto volte il trattamento minimo INPS con riferimento all'importo complessivo dei trattamenti medesimi. Per le pensioni di importo superiore a otto volte il predetto trattamento minimo e inferiore a tale limite incrementato della quota di rivalutazione automatica spettante sulla base di quanto previsto dalla presente lettera, l'aumento di rivalutazione è comunque attribuito fino a concorrenza del predetto limite maggiorato;
+				</an:p>
+				<an:p align="justify">
+					<an:i>d)</an:i>
+					 non è riconosciuta per i trattamenti pensionistici complessivamente superiori a otto volte il trattamento minimo INPS con riferimento all'importo complessivo dei trattamenti medesimi.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

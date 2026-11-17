@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO D'ARTE DI PESCARA E DELL'ANNESSA SCUOLA MEDIA
-
-Parte di provvedimento in formato grafico

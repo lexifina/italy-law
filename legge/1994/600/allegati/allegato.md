@@ -1,7 +1,0 @@
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 29 AGOSTO 1994, n. 522.
-
-ALLEGATO
-
-All'articolo 4, e' aggiunto, in fine, il seguente comma:
-
-"5-bis. L'Istituto nazionale per il commercio estero si avvale del patrocinio dell'Avvocatura dello Stato ai sensi dell'articolo 43 del testo unico approvato con regio decreto 30 ottobre 1933, n. 1611, e successive modificazioni. Il patrocinio per le cause pendenti alla data di entrata in vigore della legge di conversione del presente decreto potra' restare affidato, per il solo grado in corso, all'avvocato gia' incaricato".

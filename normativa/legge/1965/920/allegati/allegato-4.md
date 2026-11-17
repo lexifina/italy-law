@@ -1,0 +1,5 @@
+ALLEGATO 4.
+
+TESSERA PER IL TRANSITO AGRICOLO
+
+Parte di provvedimento in formato grafico

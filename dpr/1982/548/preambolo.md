@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativi all'ordinamento dell'Amministrazione degli affari esteri;
-
-Visto il decreto del Presidente della Repubblica 22 giugno 1978, n. 857, pubblicato nella Gazzetta Ufficiale della Repubblica italiana dell'8 gennaio 1979, n. 7, con il quale veniva istituita un'agenzia consolare di prima categoria in Valparaiso (Cile);
-
-Sentito il parere del consiglio di amministrazione del Ministero degli affari esteri;
-
-Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del tesoro; Decreta:

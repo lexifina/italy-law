@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/G8.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/G8.100"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/G8.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@.akn"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1955/A/G8.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1955" showAs="DDL 1955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25200" showAs="Della Seta"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22803" showAs="Ferrante"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1685" showAs="Negri"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Della Seta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ferrante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Negri</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato della Repubblica, in sede di conversione in legge del decreto-legge 30 dicembre 2009, n. 194,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 28 del decreto-legge n. 112 del 2008, convertito, con modificazioni, dalla legge n. 133 del 2008, recante «Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione tributaria», ha istituito l'Istituto superiore per la protezione e la ricerca ambientale (Ispra), che svolge le funzioni precedentemente attribuite all'Agenzia per la protezione dell'ambiente e per i servizi tecnici (Apat), dell'Istituto nazionale per la fauna selvatica (Infs) e dell'Istituto centrale per la ricerca scientifica e tecnologica applicata al mare (Icram), con le inerenti risorse finanziarie, strumentali e di personale;</an:p>
+				<an:p align="justify">            l'Ispra è vigilato dal Ministero dell'ambiente e della tutela del territorio e del mare; con il decreto n. 214 del 23 luglio 2008, il Ministro ha nominato Commissario dell'Ispra il prefetto Vincenzo Grimaldi, affiancato da due subcommissari;</an:p>
+				<an:p align="justify">            l'Ispra è il principale ente pubblico di ricerca che si occupa di ambiente, con funzioni fondamentali anche in ambito di controllo ambientale; le tematiche trattate dall'istituto sono molteplici, e spazi ano dall'a, alle aree protette, alle emergenze ambientaIi, alla prevenzione e riduzione integrate dell'inquinamento; svolge altresì compiti diversi, quali le ricerche ed i rilievi recentemente effettuati sulla «nave dei veleni» individuata allargo di Cetraro (Cosenza) nelle acque calabresi, la stesura dell'annuale rapporto rifiuti, il registro delle emissioni in atmosfera, gli interventi e lo studio sulle emergenze idrogeologiche e l'annuario dei dati ambientali;</an:p>
+				<an:p align="justify">            in particolar modo, l'Ispra ha ereditato dall'Icram il compito di fornire supporto alle politiche delle amministrazioni centrali e agli enti territoriali nella risoluzione delle problematiche ambientali marine, e supporta il Ministero nei controlli sulla qualità dell'ambiente marino nell'ambito dell'unità di crisi per le emergenze in mare;</an:p>
+				<an:p align="justify">            per assolvere a tale pluralità di compiti, appare necessario che l'Ispra non perda personale né fondi; in questo senso, l'accorpamento dei tre enti che hanno dato vita all'Ispra avrebbe dovuto corrispondere a una migliore utilizzazione delle competenze tecnico-scientifiche sia del personale di ruolo sia di quello a tempo determinato e precario; tuttavia, alcune sigle sindacali avevano, sin dal luglio 2009, paventato il pericolo che le modalità con cui si era addivenuti alla creazione del nuovo ente avrebbero potuto creare problematiche rilevanti, relative in particolare alla gestione del personale, con il rischio di metterne in discussione le professionalità;</an:p>
+				<an:p align="justify">            nel giugno 2009, in effetti, non sono stati riconfermati ben 200 contratti di collaborazione di lavoratori precari; in dicembre 2010 scadranno i contratti di altri 250 lavoratori; in tale maniera oltre il 40 per cento del personale dell'istituto, e la quasi totalità dei lavoratori giovani dell'ente, prevalentemente impegnati in attività di ricerca sul mare, non verrebbero riconfermati, con la conseguenza di vedere praticamente azzerate tali attività di ricerca. Ciò ha determinato una dura protesta dei precari dell'Ispra, tuttora in corso di svolgimento;</an:p>
+				<an:p align="justify">            i tagli all'attività, la mancanza di programmazione e di un piano organico per la valorizzazione delle competenze scientifiche presenti nell'Ispra, la perdita di ricercatori di alto pregio, rischiano, tra l'altro, di limitare l'attività dell'Istituto e i progetti nelle attività di ricerca, protezione, controllo e monitoraggio ambientale, che pure sono essenziali al fine di corrispondere con la dovuta attenzione alle necessità della politica ambientale in Italia;</an:p>
+				<an:p align="justify">            i tagli ai contratti non sono giustificati con la necessità di risparmi di spesa, dal momento che l'attività dell'Ispra è finanziata con fondi pubblici e privati, italiani ed internazionali, dell'Unione europea: dunque anche dal mercato, da cui si possono attrarre risorse esclusivamente attraverso progetti, servizi e professionalità adeguate alle richieste che dal mercato provengono; riconoscendo dunque la funzione, divenuta essenziale per l'istituto, dei lavoratori precari e della loro approfondita conoscenza delle tematiche d'interesse,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad assumere, nell'ambito delle proprie competenze, adeguate iniziative finalizzate al rilancio delle attività di ricerca dell'istituto, assieme alla valorizzazione delle professionalità e delle competenze scientifiche dei suoi ricercatori;</an:p>
+				<an:p align="justify">            a garantire che nel triennio 2010-2012, nel rispetto delle normative vigenti per gli Enti Pubblici di Ricerca, l'Ispra, bandisca concorsi pubblici per titoli ed esami con una riserva di posti non superiore al 50 per cento per il personale che abbia prestato servizio in ISPRA con contratti a tempo determinato, assegni di ricerca e collaborazioni coordinate e continuative.</an:p>
+				<an:p align="center"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-AGREEMENT ESTABLISHING THE AFRICAN DEVELOPMENT FUND
-
-Parte di provvedimento in formato grafico

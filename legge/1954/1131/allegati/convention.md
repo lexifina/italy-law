@@ -1,3 +1,0 @@
-Convention internationale potur faciliter le franchissement des frontieres aux marchandises transportees par voie ferree.
-
-Parte di provvedimento in formato grafico

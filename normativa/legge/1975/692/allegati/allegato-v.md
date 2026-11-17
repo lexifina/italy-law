@@ -1,0 +1,7 @@
+ALLEGATO V
+
+(Articolo 60, par. 2)
+
+REGOLAMENTO INTERNAZIONALE PER IL TRASPORTO DELLE CASSE MOBILI (CONTAINERS) (RICO)
+
+(Testo sottoposto a procedura di revisione speciale e pubblicato in edizione a parte)

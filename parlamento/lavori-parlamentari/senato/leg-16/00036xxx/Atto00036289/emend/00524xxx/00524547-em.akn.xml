@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/2.825/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/2.825"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2518/A/2.825/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.825"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@.akn"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-02-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-02-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2518/A/2.825/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25257" showAs="Contini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17941" showAs="Baldassarri"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17771" showAs="Saia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17806" showAs="Viespoli"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25238" showAs="De Angelis"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25264" showAs="Digilio"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/21978" showAs="Germontani"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17606" showAs="Menardi"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/1932" showAs="Pontone"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/17656" showAs="Valditara"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.825</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Contini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Baldassarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Saia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Viespoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Angelis</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Digilio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Germontani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Menardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Pontone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Valditara</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 6, inserire il seguente:</an:p>
+				<an:p align="justify">
+					        «6-
+					<an:i>bis</an:i>
+					. All'articolo 16 del decreto legislativo 30 dicembre 1992 n. 503, dopo il comma 1-
+					<an:i>bis</an:i>
+					 aggiungere i seguenti commi:
+				</an:p>
+				<an:p align="justify">
+					        "1-
+					<an:i>te</an:i>
+					r. Le disposizioni del comma 1 non si applicano al personale della carriera diplomatica. Tale personale, qualora ne faccia richiesta, ha diritto a permanere in servizio per un periodo massimo di un biennio oltre i limiti di età previsti per il collocamento a riposo.
+				</an:p>
+				<an:p align="justify">
+					        1-
+					<an:i>quater</an:i>
+					. Gli ambasciatori di ruolo sono collocati a riposo al compimento del settantesimo anno di età"».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente al relativo onere, pari a 15 milioni di euro per il 2011 e 20 milioni di euro per ciascuno degli anni 2012 e 2013, si provvede mediante corrispondente riduzione proporzionale in maniera lineare a decorrere dall'anno 2011 di tutte le dotazioni di parte corrente relative alle autorizzazioni di spesa di cui alla Tabella C della legge 13 dicembre 2010 n. 220 i cui stanziamenti sono iscritti in bilancio come spese rimodulabili.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

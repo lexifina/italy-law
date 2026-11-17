@@ -1,7 +1,0 @@
-ARTICOLO IX
-
-TRASMISSIONE Dl ATTI E OGGETTI
-
-1. Quando le domande di assistenza hanno ad oggetto la consegna di atti e documenti, la Parte richiesta puo' consegnarne copie o fotocopie autenticate, salvo che la Parte richiedente domandi espressamente gli originali.
-
-2. Gli atti, i documenti originali e gli oggetti inviati in espletamento di una richiesta di assistenza giudiziaria devono essere restituiti non appena possibile dalla Parte richiedente, salvo che la Parte richiesta manifesti il proprio disinteresse alla restituzione.

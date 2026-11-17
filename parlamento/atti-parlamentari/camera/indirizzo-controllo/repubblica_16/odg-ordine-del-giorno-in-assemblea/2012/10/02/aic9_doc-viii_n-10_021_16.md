@@ -1,0 +1,21 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.10/021 presentata da BERNARDINI RITA (PARTITO DEMOCRATICO) in data 20121002
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.10/021
+- Data: 20121002-20121002
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.10/021 presentata da BERNARDINI RITA (PARTITO DEMOCRATICO) in data 20121002
+- Presentatore: BERNARDINI RITA (PARTITO DEMOCRATICO)
+- Cofirmatario: BELTRANDI MARCO (PARTITO DEMOCRATICO)
+- Cofirmatario: FARINA COSCIONI MARIA ANTONIETTA (PARTITO DEMOCRATICO)
+- Cofirmatario: MECACCI MATTEO (PARTITO DEMOCRATICO)
+- Cofirmatario: TURCO MAURIZIO (PARTITO DEMOCRATICO)
+- Cofirmatario: ZAMPARUTTI ELISABETTA (PARTITO DEMOCRATICO)
+- Concluso: 1
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=16&ramo=CAMERA&stile=9&idDocumento=9-DOC.VIII,N.10-021
+- Legislatura: repubblica_16
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.10_021_16
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 10/021 presentato da BERNARDINI Rita testo di Martedi' 2 ottobre 2012, seduta n. 695 &#8195;&#8197;&#8197;La Camera, &#8195;&#8195;&#8194;premesso che: &#8195;&#8195;&#8195;&#8194;l'articolo 27 del R.A.C. prevede l'istituzione di alcuni fondi per esigenze di ufficio e minute spese; &#8195;&#8195;&#8195;&#8194;in particolare i Vice Segretari generali, i Capi Servizio, i Capi ufficio della Segreteria generale e i titolari di incarico individuale hanno a disposizione, per le predette finalita', un fondo, non modesto, pari a 10.000 euro l'anno; &#8195;&#8195;&#8195;&#8194;per le medesime finalita' il Segretario generale ha a disposizione un esorbitante fondo di ben 100.000 euro l'anno, cosi' ridotto dalla precedente astronomica somma di 258.000 euro annui; &#8195;&#8195;&#8195;&#8194;pare che le esigenze per cui i citati fondi sono istituiti trovino adeguata capienza negli ordinari stanziamenti di bilancio, atteso che, negli ultimi anni, gli stessi fondi sono pochissimo utilizzati; &#8195;&#8195;&#8195;&#8194;tale scarso uso e' poi, grazie all'iniziativa della Componente radicale del Gruppo del PD, attestato per quanto riguarda l'attuale Segretario Generale; &#8195;&#8195;&#8195;&#8194;i fondi di cui all'articolo 27 sono inoltre gestiti in modo particolarmente opaco, posto che l'unica forma di controllo prevista per i loro utilizzi e' quella, solo formale, effettuata ex post dal Servizio Tesoreria sulla documentazione delle spese; &#8195;&#8195;&#8195;&#8194;conseguentemente nulla si sa delle spese effettuate a valere sugli stessi, ed altrettanto ignota risulta la destinazione degli ingenti avanzi di gestione, salvo la burocratica formula della loro riassegnazione ai «pertinenti» capitoli all'inizio del successivo esercizio, impegna, per le rispettive competenze, l'Ufficio di Presidenza e il Collegio dei Questori: &#8195;&#8195;&#8194;1) a sopprimere i fondi previsti dall'articolo 27 del R.A.C.; &#8195;&#8195;&#8194;2) a fornire all'opinione pubblica, mediante un apposito allegato da istituire nel Rendiconto 2011, o eventualmente nel Rendiconto 2012, un dettagliato ragguaglio delle destinazioni assunte dall'enorme avanzo di gestione a valere sui predetti fondi a partire dall'esercizio 2000, pari, per il solo Segretario Generale, a 3.131.000 euro; &#8195;&#8195;&#8194;3) a fornire all'opinione pubblica un dettagliato ragguaglio delle spese effettuate a valere sui predetti fondi; &#8195;&#8195;&#8194;4) a richiedere al Segretario Generale di fornire adeguata motivazione del ricorso al predetto «fondo esigenze d'ufficio» per sopperire, per l'importo di 225.000 euro, a spese legali e a spese per consulenze, tutte spese che avrebbero dovuto trovare copertura negli appositi capitoli sempre presenti nei bilanci di previsione relativi agli esercizi a partire dal 2000. 9/Doc. VIII, n.&#8194;10/ 21 .  (L'ordine del giorno e' stato ritenuto ammissibile in quanto riformulato come invito a valutare anziche' come impegno) « Bernardini , Beltrandi , Farina Coscioni , Mecacci , Maurizio Turco , Zamparutti ».

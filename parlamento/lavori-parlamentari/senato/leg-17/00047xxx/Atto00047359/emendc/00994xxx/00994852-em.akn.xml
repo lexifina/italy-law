@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/44.42/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/44.42"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/44.42/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="44.42"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@.akn"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/44.42/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOH0WCWQGZVBIHZHVLFQKH3CBSIH541Q20MTVYDPPBQKLJDHY40LL" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDXVCGFUVTFEOYBE2DOD4LSN33NDSPU0GRAH42WJFUWZP250EOU52J" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDMP5HSW4EY1FPEEN0QYI4QHF3WM1MBT4JBOMAIVBDYFPKMJ3VGRCP" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDSJJ5Y2OW0QTTH2YGNMYVHK2MJIXOR2Z0AQE0TIICJ4WYA5W3WXQP" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 44.42</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOH0WCWQGZVBIHZHVLFQKH3CBSIH541Q20MTVYDPPBQKLJDHY40LL" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXVCGFUVTFEOYBE2DOD4LSN33NDSPU0GRAH42WJFUWZP250EOU52J" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMP5HSW4EY1FPEEN0QYI4QHF3WM1MBT4JBOMAIVBDYFPKMJ3VGRCP" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSJJ5Y2OW0QTTH2YGNMYVHK2MJIXOR2Z0AQE0TIICJ4WYA5W3WXQP" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 6, è aggiunto il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «6-
+					<an:i>bis</an:i>
+					. Le sanzioni di cui al comma 26, dell'articolo 31 della legge 12 novembre 2011, n. 183, e successive modificazioni, non trovano applicazione nei confronti dei Comuni di cui all'Allegato l che non hanno rispettato il patto di stabilità interno nell'anno 2015».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'attuazione della integrazione di cui al comma 6-</an:i>
+					bis
+					<an:i>, si provvede nei limiti di una spesa complessiva di 2 milioni di euro per il 2016 e di 15 milioni di euro per ciascuno degli anni 2017, 2018 e 2019, mediante corrispondente riduzione degli stanziamenti annui iscritti nel bilancio triennale 2016-2018, in corrispondenza al fondo speciale di parte corrente, nell'ambito del programma</an:i>
+					 «Fondi di riserva e speciali» 
+					<an:i>della missione</an:i>
+					 «Fondi da ripartire» 
+					<an:i>dello stato di previsione</an:i>
+					 del Ministero dell'economia e delle finanze (cap. 6856).
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

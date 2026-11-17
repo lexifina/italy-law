@@ -1,0 +1,15 @@
+ALLEGATO N. 1
+
+Elenco dei terreni intestati alla ditta De Matthaeis Maria fu Giambattista, in comune di Rotello (provincia di Campobasso), trasferiti in proprieta' dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria, a norma delle leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e decreto Presidenziale 7 febbraio 1951, n. 67.
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 14 - 22 dicembre 1965, n. 89 (in G.U. 1a s.s. 31/12/1965, n. 326) ha dichiarato "la illegittimita' costituzionale del decreto del Presidente della Repubblica 27 dicembre 1952, n. 3455, in quanto sono stati posti alla base della formazione del piano di espropriazione dati non relativi alle
+
+risultanze catastali dei fondi al 15 novembre 1949".

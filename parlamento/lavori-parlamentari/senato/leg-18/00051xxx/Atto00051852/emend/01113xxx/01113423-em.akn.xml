@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/12.29/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/12.29"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/12.29/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.29"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@.akn"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1315/A/12.29/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1315" showAs="DDL 1315"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5GZUNXDMPJPVBV31BPHPICX1PPYMZXVIOF5M42ERSYZTCJF5BE2I" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+				<an:TLCPerson id="IDB4MMATLJQT5XHOP4SY2DBBHX1O03XOBGJDVP3VM0R2L2JTEZXJKC" href="http://dati.senato.it/29282" showAs="BINI"/>
+				<an:TLCPerson id="IDMJL0FAWYIMGFVEAI45EBKBG5BSILVJLNISIGJ1GWQSYAV3F5UD" href="http://dati.senato.it/29072" showAs="COLLINA"/>
+				<an:TLCPerson id="IDMJYEONZYU4AQBP4AWJUAIKOW4DBTLXXFO12RRSFV4EBRGH2TMVG" href="http://dati.senato.it/29186" showAs="STEFANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1315</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.29</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5GZUNXDMPJPVBV31BPHPICX1PPYMZXVIOF5M42ERSYZTCJF5BE2I" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB4MMATLJQT5XHOP4SY2DBBHX1O03XOBGJDVP3VM0R2L2JTEZXJKC" as="#tipoSenatore">BINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMJL0FAWYIMGFVEAI45EBKBG5BSILVJLNISIGJ1GWQSYAV3F5UD" as="#tipoSenatore">COLLINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMJYEONZYU4AQBP4AWJUAIKOW4DBTLXXFO12RRSFV4EBRGH2TMVG" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 6, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>6-bis</an:i>
+					. All'articolo 37 del decreto legislativo 17 agosto 1999, n. 368, è aggiunto il seguente comma:
+				</an:p>
+				<an:p>
+					        ''
+					<an:i>1-bis</an:i>
+					. I medici in formazione nel corso dell'ultimo anno di formazione, fermo restando l'obbligo formativo, possono svolgere attività assistenziale presso strutture del Servizio sanitario nazionale con oneri a carico della medesima struttura. Le risorse originariamente destinate alla copertura dei contratti di formazione specialistica vengono liberate e destinate con vincolo al finanziamento di ulteriori contratti.''.
+				</an:p>
+				<an:p>
+					<an:i>6-ter</an:i>
+					. All'articolo 1 della legge 30 dicembre 2018, n. 145, il comma 521 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''521. Al fine di aumentare il numero dei contratti di formazione specialistica dei medici, di cui all'articolo 37 del decreto legislativo 17 agosto 1999, n. 368, l'autorizzazione di spesa di cui all'articolo 1, comma 424, della legge 27 dicembre 2013, n. 147, e all'articolo 1, comma 252, della legge 28 dicembre 2015, n. 208, è ulteriormente incrementata di 45 milioni di euro per l'anno 2019, di 68.40 milioni di euro per l'anno 2020, di 91.80 milioni di euro per l'anno 2021, di 120 milioni di euro annui a decorrere dall'anno 2022.''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

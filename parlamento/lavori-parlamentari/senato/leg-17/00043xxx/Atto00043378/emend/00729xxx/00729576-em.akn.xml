@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/A/G1.111/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/A/G1.111"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1190/A/G1.111/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.111"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@.akn"/>
+					<an:FRBRdate date="2013-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1190/A/G1.111/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1190" showAs="DDL 1190"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1190</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.111</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            le disposizioni di cui al decreto-legge 10 ottobre 2013 n. 114 sulla missione 
+					<an:i>Active Endeavour</an:i>
+					, concernenti la proroga di ulteriori tre mesi della stessa con una spesa superiore ai cinque milioni di euro, mostrano uno scenario quanto mai sconfortante;
+				</an:p>
+				<an:p align="justify">            non risulta essere ancora stato creato un protocollo per trasmettere le informazioni raccolte dalla NATO;</an:p>
+				<an:p align="justify">
+					            il dossier realizzato nel giugno del 2010 dall'
+					<an:i>Institute for foreign policy analysis</an:i>
+					 di Ginevra, in collaborazione con la stessa Alleanza Atlantica e con il Governo statunitense, inoltre, evidenzia quanto sia carente il coordinamento nella lotta ai traffici nel Mediterraneo;
+				</an:p>
+				<an:p align="justify">            vi sono problemi giuridici, dato che molti Paesi non hanno mai previsto lo sfruttamento dei migranti come reato, e la tutela approntata dai Paesi che invece hanno compiuto questa scelta è spesso lacunosa ed insufficiente;</an:p>
+				<an:p align="justify">            nonostante i proclami dell'Alleanza Atlantica, l'operazione nel Mediterraneo resta a vocazione chiaramente militare: ciò è ampiamente dimostrato dal fatto che, più che ai barconi di migranti e qaedisti, si pensi a mercantili e sommergibili, tanto che una parte dei finanziamenti è stata spesa proprio per esercitazioni nella caccia ai sottomarini, un mezzo che non fa certo parte dell'arsenale terroristico;</an:p>
+				<an:p align="justify">            anche la nostra Marina ha impiegato parte dei fondi stanziati per questa missione per lunghe crociere dei nostri mezzi di profondità, inclusi gli U-212, costati, ciascuno, trecentocinquanta milioni di euro,</an:p>
+				<an:p align="justify">
+					        impegna il Governo sulla scia di quanto esposto in premessa, e considerando, dunque, che non vi sono i margini per approvare un ulteriore impegno relativamente alla missione 
+					<an:i>Active Endeavour</an:i>
+					, ad interrompere il rifinanziamento della stessa a partire dal 1º gennaio 2014.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

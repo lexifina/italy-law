@@ -1,7 +1,0 @@
-Tabella 9
-
-STATO DI PREVISIONE DEL MINISTERO DELL'AMBIENTE E
-
-DELLA TUTELA DEL TERRITORIO E DEL MARE
-
-Parte di provvedimento in formato grafico

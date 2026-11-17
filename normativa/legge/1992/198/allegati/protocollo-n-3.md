@@ -1,0 +1,13 @@
+PROTOCOLLO N. 3
+
+RELATIVO ALL'APPLICAZIONE DELL'ARTICOLO 57
+
+LE ALTE PARTI CONTRAENTI HANNO CONVENUTO QUANTO SEGUE:
+
+1. Ai fini della convenzione le disposizioni che in materie
+
+particolari disciplinano la competenza giurisdizionale, il riconoscimento o l'esecuzione delle decisioni e che sono o saranno contenute in atti delle istituzioni delle Comunita' europee saranno trattate alla stessa stregua delle convenzioni contemplate all'articolo 57, paragrafo 1.
+
+2. Se uno Stato contraente ritiene che una disposizione contenuta in un atto delle istituzioni delle Comunita' europee sia incompatibile con la convenzione, gli Stati contraenti prenderanno senza indugio in considerazione emendamenti di detta convenzione in conformita' dell'articolo 66, salva restando l'applicazione della procedura prevista dal protocollo n. 2.
+
+Fatto a Lugano, addi' sedici settembre millenovecentottantotto.

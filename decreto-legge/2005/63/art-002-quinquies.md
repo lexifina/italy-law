@@ -1,3 +1,0 @@
-Art. 2-quinquies.
-
-(( ARTICOLO ABROGATO DAL D.LGS. 12 APRILE 2006, N. 163 ))

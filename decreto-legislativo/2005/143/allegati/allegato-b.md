@@ -1,5 +1,0 @@
-Allegato B
-
-(art. 26-quater, comma 4, lettera a)
-
-Parte di provvedimento in formato grafico

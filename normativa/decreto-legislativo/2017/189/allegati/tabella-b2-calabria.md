@@ -1,0 +1,47 @@
+Regione: Calabria
+
+Denominazione del collegio plurinominale
+
+Codice del collegio plurinominale
+
+Denominazione dei collegi uninominali appartenenti
+
+Codice dei collegi uninominali appartenenti
+
+Nome del Comune o dell'area sub-comunale con la maggiore ampiezza demografica del collegio uninominale
+
+Calabria - 01
+
+SP181_01
+
+Calabria - 01
+
+SU181_01
+
+Crotone
+
+Calabria - 02
+
+SU181_02
+
+Cosenza
+
+Calabria - 03
+
+SU181_03
+
+Catanzaro
+
+Calabria - 04
+
+SU181_04
+
+Reggio di Calabria
+
+((4))
+
+-------------
+
+AGGIORNAMENTO (4)
+
+Il D.Lgs. 23 dicembre 2020, n. 177 ha disposto (con l'art. 4, comma 1) che "A decorrere dal primo scioglimento o dalla prima cessazione di ciascuna Camera successivo al 4 gennaio 2021 si applicano le relative disposizioni del presente decreto e cessano di avere applicazione le corrispondenti disposizioni del decreto legislativo 12 dicembre 2017, n. 189".

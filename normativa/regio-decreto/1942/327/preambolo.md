@@ -1,0 +1,15 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA E DI ALBANIA
+
+IMPERATORE D'ETIOPIA
+
+Visto il R. decreto 27 gennaio 1941-XIX, n. 9, che approva il testo del Codice della navigazione;
+
+Ritenuto che il nuovo testo del Codice civile, approvato con R. decreto 16 marzo 1942-XX, n. 262, ha reso necessario di modificare, a scopo di coordinamento, il Codice della navigazione e di pubblicare il testo definitivo del Codice medesimo;
+
+Udito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia; Abbiamo decretato e decretiamo:

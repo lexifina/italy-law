@@ -1,0 +1,7 @@
+ALLEGATO 3
+
+(Articolo 6)
+
+SCHEDA RILEVAMENTO DATI
+
+Parte di provvedimento in formato grafico

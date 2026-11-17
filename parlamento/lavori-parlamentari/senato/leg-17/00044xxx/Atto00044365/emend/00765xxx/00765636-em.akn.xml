@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1470/A/1.0.3"/>
+					<an:FRBRdate date="2014-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@"/>
+					<an:FRBRdate date="2014-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@.akn"/>
+					<an:FRBRdate date="2014-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1470/A/1.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1470" showAs="DDL 1470"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29034" showAs="Airola"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29055" showAs="Buccarella"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29061" showAs="Cappelletti"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29106" showAs="Giarrusso"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29189" showAs="Taverna"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29181" showAs="Simeoni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29101" showAs="Fucksia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1470</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Airola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Buccarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Cappelletti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Giarrusso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Taverna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Simeoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Fucksia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo , inserire il seguente:</an:p>
+				<an:p align="justify">
+					        «Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        (Modifiche al codice di procedura penale)</an:p>
+				<an:p align="justify">
+					        1. All'articolo 380, comma 2, la lettera 
+					<an:i>h)</an:i>
+					, è sostituita dalla seguente: "
+					<an:i>h)</an:i>
+					 delitti concernenti sostanze-stupefacenti o psicotrope puniti a norma dell'articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, limitatamente ai fatti inerenti alle sostanze indicate nelle tabelle I e III di cui all'articolo 14 del medesimo decreto, salvo che ricorra la circostanza prevista dal comma 5 del medesimo decreto"'.
+				</an:p>
+				<an:p align="justify">
+					        2. All'articolo 381 comma 2del codice di procedura penale è aggiunta la seguente lettera: "d-
+					<an:i>bis)</an:i>
+					 delitti concernenti sostanze stupefacenti o psicotrope puniti a norma dell'articolo 73 del testo unico approvato con decreto del Presidente della Repubblica 9 ottobre 1990, n. 309, limitatamente ai fatti inerenti alle sostanze indicate nelle tabelle II e IV di cui all'articolo 14 del medesimo decreto, salvo che ricorra la circostanza prevista dal comma 5 del medesimo decreto"'».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

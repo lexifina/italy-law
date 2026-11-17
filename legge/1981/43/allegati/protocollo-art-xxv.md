@@ -1,3 +1,0 @@
-Articolo XXV.
-
-Tra le Parti del presente Protocollo che siano anche Parti della Convenzione complementare alla Convenzione di Varsavia per l'unificazione di alcune norme relative al trasporto aereo internazionale effettuato da una persona diversa dal trasportatore contrattuale, firmata a Guadalajara il 18 settembre 1961 (qui appresso indicata come Convenzione di Guadalajara), ogni riferimento alla "Convenzione di Varsavia" contenuta nella Convenzione di Guadalajara si applica alla Convenzione di Varsavia emendata all'Aja nel 1955 e a Guatemala nel 1971, nel caso in cui il trasporto effettuato in virtu' del contratto di cui al paragrafo b) dell'articolo primo della Convenzione di Guadalajara sia regolato dal presente Protocollo.

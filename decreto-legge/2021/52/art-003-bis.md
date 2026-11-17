@@ -1,3 +1,0 @@
-Art. 3-bis.
-
-((ARTICOLO ABROGATO DAL D.L. 24 MARZO 2022, N. 24))

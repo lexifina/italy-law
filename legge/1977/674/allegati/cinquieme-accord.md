@@ -1,3 +1,0 @@
-CINQUIEME ACCORD INTERNATIONAL SUR L'ETAIN
-
-Parte di provvedimento in formato grafico

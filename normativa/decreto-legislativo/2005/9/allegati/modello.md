@@ -1,0 +1,3 @@
+Modello
+
+Parte di provvedimento in formato grafico

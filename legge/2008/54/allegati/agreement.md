@@ -1,3 +1,0 @@
-COOPERATION AGREEMENT
-
-Parte di provvedimento in formato grafico

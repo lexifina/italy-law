@@ -1,0 +1,17 @@
+VITTORIO EMANUELE III
+
+por grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+In forza dei poteri conferiti al Governo del Re con la legge 3 dicembre 1922, n. 1601;
+
+Visto il Regio decreto 8 giugno 1893, n. 377;
+
+Visto il decreto Luogotenenziale 7 gennaio 1917, numero 749;
+
+Visto il Regio decreto 18 gennaio 1923, n. 94;
+
+Udito il Consiglio dei ministri;
+
+Sulla proposta del Ministro della giustizia e degli affari di culto, di concerto col Ministro dell'interno e col Ministro delle finanze; Abbiamo decretato e decretiamo:

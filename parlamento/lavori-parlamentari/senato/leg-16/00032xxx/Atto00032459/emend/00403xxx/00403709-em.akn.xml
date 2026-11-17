@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1078/A/10.201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1078/A/10.201"/>
+					<an:FRBRdate date="2009-03-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1078/A/10.201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.201"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@"/>
+					<an:FRBRdate date="2009-03-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@.akn"/>
+					<an:FRBRdate date="2009-03-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-03-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-03-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1078/A/10.201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1078" showAs="DDL 1078"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1078</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 2, dopo la lettera f)aggiungere le seguenti:</an:p>
+				<an:p align="justify">
+					            «
+					<an:i>f-</an:i>
+					bis) la revisione delle informazioni da riportare nella dichiarazione di conformità relativa ai dispositivi su misura, prevedendo /'indicazione del luogo o dei luoghi di fabbricazione del dispositivo, ivi compresi i dispositivi medici impiegati, ad esclusione di quelli già prowisti di marca tura CE;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>f-</an:i>
+					ter) la garanzia di reali condizioni di tutela del paziente mediante la previsione di specifiche modalità di consegna allo stesso della dichiarazione di conformità relativa al dispositivo medico su misura, da parte del medico che ne esegue la prescrizione;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>f-</an:i>
+					quater) la razionalizzazione e la graduazione dell'apparato sanzionatorio relativo ai dispositivi medici su misura, in conformità ai criteri indicati all'articolo 2, comma 1, lettera 
+					<an:i>c)</an:i>
+					, perseguendo le infrazioni compiute da tutti gli operatori coinvolti nel processo, dalla fase di fabbricazione a quella di immissione in commercio o di messa in servizio dei dispositivi medici, e determinando l'entità delle sanzioni a carico del fabbricante dei dispositivi stessi tenendo conto delle dimensioni e della struttura del laboratorio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

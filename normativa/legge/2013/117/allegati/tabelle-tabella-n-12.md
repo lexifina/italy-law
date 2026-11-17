@@ -1,0 +1,11 @@
+TABELLA N. 12
+
+MINISTERO DELLE POLITICHE AGRICOLE ALIMENTARI E FORESTALI
+
+Parte di provvedimento in formato grafico
+
+RIEPILOGO
+
+MINISTERO DELLE POLITICHE AGRICOLE ALIMENTARI E FORESTALI
+
+Parte di provvedimento in formato grafico

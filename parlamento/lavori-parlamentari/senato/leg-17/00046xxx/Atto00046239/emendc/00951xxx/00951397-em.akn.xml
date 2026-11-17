@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2145/11/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@.akn"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2145/C/G/2145/11/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2145" showAs="DDL 2145"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAWKZO" href="http://dati.senato.it/senatore/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDAKPZO" href="http://dati.senato.it/senatore/29130" showAs="MARTELLI"/>
+				<an:TLCPerson id="IDAQLZO" href="http://dati.senato.it/senatore/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDAJNZO" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDAVOZO" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDAPOZO" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2145</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2145/11/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWKZO" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKPZO" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQLZO" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJNZO" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVOZO" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPOZO" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        esaminato il disegno di legge recante Conversione in legge del decreto-legge 25 novembre 2015, n. 185, recante misure urgenti per interventi nel territorio;</an:p>
+				<an:p>        premesso che;</an:p>
+				<an:p>            l'articolo 2 prevede interventi straordinari per la Regione Campania al fine di dare esecuzione alle sentenze della Corte di Giustizia dell'Unione europea del 4 marzo 2010 (causa C-297/2008) e del 16 luglio 2015 (causa C-653/13);</an:p>
+				<an:p>            al comma 7 viene previsto che i rifiuti stoccati nei diversi siti della Regione Campania possano essere smaltiti mediante incenerimento e recupero energetico;</an:p>
+				<an:p>            la gerarchia europea dei rifiuti stabilisce un «ordine di priorità» di ciò che costituisce «la migliore opzione ambientale nella normativa e nella politica dei rifiuti». In testa alla gerarchia figura la prevenzione, ossia misure - prese prima che una sostanza, un materiale o un prodotto sia diventato un rifiuto - che riducono la quantità di rifiuti, anche attraverso il riutilizzo dei prodotti o l'estensione del loro ciclo di vita, gli impatti negativi dei rifiuti prodotti sull'ambiente e la salute umana oppure il contenuto di sostanze pericolose in materiali e prodotti. Segue poi la preparazione per il riutilizzo e il riciclaggio e in ultimo il recupero energetico e lo smaltimento;</an:p>
+				<an:p>            gli Stati membri devono pendere le misure necessarie per garantire che la gestione dei rifiuti sia effettuata senza danneggiare la salute umana, senza recare pregiudizio all'ambiente e, in particolare, «senza creare rischi per l'acqua, l'aria, il-suolo, la flora o la fauna, senza causare inconvenienti da rumori od odori e senza danneggiare il paesaggio o i siti di particolare interesse»;</an:p>
+				<an:p>            è necessario attuare un sistema integrato, moderno e virtuoso di gestione di rifiuti urbani e assimilati, che consenta di superare e prevenire ulteriori procedure di infrazione per mancata attuazione delle norme europee di settore e limiti il conferimento di rifiuti in discarica favorendo la raccolta differenziata e il riciclo dei materiali;</an:p>
+				<an:p>        impegna, quindi, il Governo a:</an:p>
+				<an:p>            assumere ogni iniziativa, anche a carattere normativo, volta a sancire il divieto di realizzare impianti di trattamento termico dei rifiuti nella provincia di Napoli.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

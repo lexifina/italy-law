@@ -1,5 +1,0 @@
-Art. 39-ter.
-
-(( (Modifiche alla disciplina del Fondo di cui all'articolo 1, comma 226, della legge 30 dicembre 2018, n. 145) ))
-
-((1. All'articolo 1, comma 226, della legge 30 dicembre 2018, n. 145, il terzo periodo e' sostituito dai seguenti: "Con decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'economia e delle finanze, sono stabiliti criteri e modalita' di utilizzo delle risorse del Fondo al fine di favorire il collegamento tra i diversi settori di ricerca interessati dagli obiettivi di politica economica e industriale, la collaborazione con gli organismi di ricerca internazionale, l'integrazione con i finanziamenti della ricerca europei e nazionali, le relazioni con il sistema del capitale di rischio (venture capital) italiano ed estero. Per l'attuazione dell'intervento il Ministero dello sviluppo economico si avvale della societa' Infratel Italia S.p.a. mediante apposita convenzione. Ai relativi oneri si provvede nel limite massimo dell'1 per cento delle risorse del Fondo di cui al presente comma" e al sesto priodo, le parole: "dal regolamento" sono sostituite dalle seguenti: "dal decreto"))

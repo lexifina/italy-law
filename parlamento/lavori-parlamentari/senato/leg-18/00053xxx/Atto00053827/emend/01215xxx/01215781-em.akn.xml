@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/36.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/36.10"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/36.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="36.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/36.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDU5UVTERQVP1MOEASHSQS40B55COPBO5QH4DOWKFQZIXN1QKWYNB" href="http://dati.senato.it/32597" showAs="CANGINI"/>
+				<an:TLCPerson id="IDR00C4OIQ500CDEDIVWCQ3LTLZHVCUS35MTESYNGFKK0J1ZDBHPJE" href="http://dati.senato.it/31157" showAs="SACCONE"/>
+				<an:TLCPerson id="IDWNCVLA3GKE3ED1044NGRK45UNKGL43UJJJJV4E0NMFR3C55LDLF" href="http://dati.senato.it/26539" showAs="GALLONE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 36.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU5UVTERQVP1MOEASHSQS40B55COPBO5QH4DOWKFQZIXN1QKWYNB" as="#tipoSenatore">CANGINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR00C4OIQ500CDEDIVWCQ3LTLZHVCUS35MTESYNGFKK0J1ZDBHPJE" as="#tipoSenatore">SACCONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWNCVLA3GKE3ED1044NGRK45UNKGL43UJJJJV4E0NMFR3C55LDLF" as="#tipoSenatore">GALLONE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis</an:i>
+					. Per l'anno 2021, agli organismi finanziati a valere sul Fondo unico per lo spettacolo per il triennio 2018-2020, diversi dalle fondazioni lirico-sinfoniche, è erogato un anticipo del contributo fino all'80 per cento dell'importo riconosciuto per l'anno 2019. La restante quota del contributo, superiore del 5,24 per cento rispetto a quello riconosciuto per l'anno 2019, è erogata entro il 28 febbraio 2022. Con uno o più decreti del Ministro della Cultura, adottati ai sensi dell'articolo 9, comma 1, del decreto-legge 8 agosto 2013, n. 91, convertito, con modificazioni, dalla legge 7 ottobre 2013, n. 112, sono stabilite, tenendo conto dell'attività svolta a fronte dell'emergenza sanitaria da COVID-19 e della tutela dell'occupazione, in deroga alla durata triennale della programmazione, le modalità per l'erogazione dei contributi per l'anno 2022.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

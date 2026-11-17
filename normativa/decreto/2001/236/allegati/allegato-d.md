@@ -1,0 +1,201 @@
+ALLEGATO D)
+
+(Articolo 36, comma 1)
+
+CORSO DI FORMAZIONE PER COMMISSARI PENITENZIARI
+
+DEL RUOLO DIRETTIVO SPECIALE
+
+Articolo 28 comma 4 del decreto legislativo 21 maggio 2000, n. 146
+
+Il corso si articola in moduli di contenuto teorico e pratico. Gli insegnamenti impartiti sono suddivisi per aree a seconda che le materie attengano al settore giuridico-amministrativo; professionale ovvero al settore dell'organizzazione.
+
+Programmi del Corso
+
+Materie di insegnamento
+
+Materie Giuridico-amministrative
+
+DIRITTO AMMINISTRATIVO
+
+Programma
+
+- le fonti del diritto amministrativo;
+
+- l'attivita' amministrativa: il procedimento e le sue fasi, atti e provvedimenti amministrativi;
+
+- la giustizia amministrativa;
+
+- la riforma della Pubblica Amministrazione e il sistema dell'Amministrazione Penitenziaria: la riorganizzazione dell'Amministrazione Penitenziaria centrale e periferica.
+
+DIRITTO PENALE
+
+Programma
+
+Parte generale:
+
+- il principio di legalita', il reato, il reo, le conseguenze
+
+giuridiche del reato; le pene sostitutive, le misure di sicurezza
+
+Parte speciale:
+
+- delitti contro la pubblica amministrazione; i delitti contro l'amministrazione della giustizia; delitti contro l'ordine pubblico; delitti contro la fede pubblica: falsita' in atti e personale; delitti contro la persona e delitti contro il patrimonio; le contravvenzioni di polizia e le contravvenzioni concernenti la tutela della riservatezza.
+
+PROCEDURA PENALE
+
+Programma
+
+- i principi fondamentali;
+
+- i soggetti;
+
+- gli atti;
+
+- le prove con particolare riferimento ai mezzi di ricerca;
+
+- i riti;
+
+- le misure cautelari;
+
+- il giudizio e le impugnazioni;
+
+- l'esecuzione.
+
+DIRITTO DI POLIZIA
+
+Programma
+
+- elementi di legislazione di pubblica sicurezza;
+
+- la disciplina degli stupefacenti;
+
+- la disciplina sugli stranieri.
+
+NOZIONI DI DIRITTO COMUNITARIO
+
+Programma
+
+- le fonti del diritto comunitario;
+
+- le istituzioni dell'Unione Europea;
+
+- diritti dell'uomo e tutela delle minoranze.
+
+Materie professionali
+
+ORDINAMENTO PENITENZIARIO
+
+Programma
+
+- principi fondamentali;
+
+- il trattamento penitenziario: gli strumenti;
+
+- i circuiti penitenziari;
+
+- le misure alternative alla detenzione;
+
+- la magistratura di sorveglianza e il relativo procedimento.
+
+ORDINAMENTO E REGOLAMENTI DELL'AMMINISTRAZIONE PENITENZIARIA
+
+Programma
+
+- il quadro Costituzionale
+
+- ordinamento del Corpo di polizia penitenziaria;
+
+- regolamento di servizio;
+
+- il contratto delle forze di polizia;
+
+- il procedimento disciplinare;
+
+- la disciplina del personale del CCNL;
+
+- la disciplina del personale sanitario.
+
+NOZIONI DI CONTABILITA' GENERALE DELLO STATO E PENITENZIARIA
+
+Programma
+
+- fonti;
+
+- la gestione patrimoniale e finanziaria;
+
+- i rendiconti;
+
+- l'organizzazione contabile dell'A.P. gli organi contabili e la responsabilita' le gestioni contabili dell'A.P.
+
+MEDICINA LEGALE E DELLE ASSICURAZIONI
+
+Programma
+
+- principi generali;
+
+- la lesivita' medico-legale
+
+- l'identificazione personale.
+
+CRIMINOLOGIA
+
+Programma
+
+- le principali teorie criminologiche;
+
+- la personalita' del delinquente;
+
+- nozioni di vittimologia;
+
+- la prevenzione, il trattamento e il controllo della criminalita'.
+
+SICUREZZA SUL LAVORO
+
+Programma
+
+- D.lvo n. 626/94 e successive modifiche ed integrazioni
+
+ELEMENTI DI SOCIOLOGIA
+
+ARMI
+
+Programma
+
+- Armamento individuale;
+
+- Armamento di reparto: ordinario e speciale;
+
+- Tiro.
+
+TRADUZIONI E PIANTONAMENTI TECNICA PENITENZIARIA
+
+CERIMONIALE
+
+NOZIONI DI PRONTO SOCCORSO
+
+EDUCAZIONE FISICA E DIFESA PERSONALE LINGUA STRANIERA
+
+INFORMATICA..
+
+Materie di Organizzazione
+
+COMUNICAZIONE, ORGANIZZAZIONE E GESTIONE DELLE RISORSE UMANE.
+
+Programma
+
+- comunicazione e coltura organizzativa;
+
+- caratteristiche e tipologia della comunicazione interna ed esterna;
+
+- tecniche di colloquio
+
+- direzione per obiettivi;
+
+- qualita' dei servizi;
+
+- pianificazione;
+
+- la negoziazione;
+
+- i processi di interazione.

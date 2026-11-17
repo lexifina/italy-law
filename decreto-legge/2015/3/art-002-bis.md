@@ -1,3 +1,0 @@
-Art. 2-bis.
-
-((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2017, N. 37))

@@ -1,0 +1,11 @@
+Art. 46-bis.
+
+(Ammortamento mutui).
+
+1.
+
+Le amministrazioni provinciali, i comuni e le comunita' montane possono impiegare ((sino ad esaurimento)) le quote, non ancora utilizzate, dei contributi statali assegnati sulle rate di ammortamento dei mutui ordinari da contrarre negli esercizi 1988, 1989, 1990, 1991 e 1992, di cui ai commi 1 e 2 dell'articolo 12 dal decreto-legge 28 dicembre 1989, n.415, convertito, con modificazioni dalla legge 28 febbraio 1990, n. 38, al comma 2-bis dell'articolo 5 del decreto-legge 31 ottobre 1990, n. 310, convertito, con modificazioni, dalla legge 22 dicembre 1990, n. 403, e ai commi 1 e 2 dell'articolo 5 del decreto-legge 12 gennaio 1991, n. 6, convertito, con modificazioni dalla legge 15 marzo 1991, n. 80, nonche' ai commi 1 e 2 dell'articolo 4 del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68.
+
+2.
+
+I contributi sono corrisposti per il solo periodo di ammortamento di ciascun mutuo e sono attivabili, con la presentazione, entro il termine perentorio, a pena di decadenza, ((del 31 marzo di ogni anno)), di apposita certificazione firmata del segretario e dal ragioniere, ove esista, secondo le modalita' stabilite entro il ((30 novembre dell'anno precedente)), con decreto del Ministro dell'interno di concerto con il Ministro del tesoro. Si applicano le disposizioni vigenti per l'anno 1992, di cui al comma 4 dell'articolo 4 del decreto-legge 18 gennaio 1993, n. 8, convertito, con modificazioni, dalla legge 19 marzo 1993, n. 68. Per gli enti locali che hanno deliberato lo stato di dissesto finanziario di cui all'articolo 21, del citato decreto-legge n. 8 del 1993, e successive modificazioni, le quote dei contributi statali previste al comma 1, sono obbligatorie destinate in via prioritaria alla contrazione dei mutui da assumere per la procedura del risanamento finanziario, con oneri a totale carico dello stato nell'ambito delle quote stesse la quota capitaria residua puo' essere utilizzata per la contrazione di nuovi mutui a totale carico dello Stato.

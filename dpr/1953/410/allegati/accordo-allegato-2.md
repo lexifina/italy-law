@@ -1,9 +1,0 @@
-ALLEGATO 2
-
-Lista B
-
-IMPORTAZIONE IN PORTOGALLO DI PRODOTTI ITALIANI
-
-NON LIBERATI NEL QUADRO DELL'O.E.C.E.
-
-Parte di provvedimento in formato grafico

@@ -1,9 +1,0 @@
-Allegato
-
-Second Additional Protocol
-
-to the European Convention
-
-on Mutual Assistance in Criminal Matters
-
-Parte di provvedimento in formato grafico

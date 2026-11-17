@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13"/>
+					<an:FRBRdate date="2012-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/3627/2/10 e 13"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@"/>
+					<an:FRBRdate date="2012-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@.akn"/>
+					<an:FRBRdate date="2012-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-12-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-12-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3627/C/G/3627/2/10 e 13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3627" showAs="DDL 3627"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25197" showAs="Bugnano"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25294" showAs="De Toni"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22864" showAs="Belisario"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22750" showAs="Giambrone"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22722" showAs="Caforio"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/4414" showAs="Di Nardo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3627</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/3627/2/10 e 13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bugnano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Toni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Belisario</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Giambrone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Caforio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Di Nardo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Le Commissioni 10ª e 13ª riunite,</an:p>
+				<an:p>        in sede di esame del decreto-legge 3 dicembre 2012, n. 207, recante «Disposizioni urgenti a tutela della salute, dell'ambiente e dei livelli di occupazione, in caso di crisi di stabilimenti industriali di interesse strategico nazionale»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il comma 1 dell'articolo l-bis prevede l'obbligo di redazione, con aggiornamento almeno annuale, in tutte le aree interessate dagli stabilimenti industriali di interesse strategico nazionale, di un rapporto di valutazione del danno sanitario (VDS), anche sulla base del registro tumori regionale e delle mappe epidemiologiche sulle principali malattie a carattere ambientale;</an:p>
+				<an:p>            la Commissione parlamentare di inchiesta sulle attività illecite connesse al ciclo dei rifiuti, nella seduta del 17 ottobre 2012, ha approvato la relazione territoriale sulle attività illecite connesse al ciclo dei rifiuti nella regione Puglia, che contiene l'approfondimento effettuato dalla Commissione sulle recenti vicende riguardanti l'impianto Ilva di Taranto;</an:p>
+				<an:p>            la Commissione si è soffermata in modo approfondito sulla situazione che si registra a Taranto dove significativi problemi di inquinamento ambientale derivano dalla presenza dello stabilimento Ilva. Alla luce degli sviluppi recenti sul caso Ilva, la Commissione ha ritenuto opportuno procedere alla presentazione di un aggiornamento alla relazione territoriale riferita alla regione Puglia (doc. XXIII, n. 10);</an:p>
+				<an:p>            il 18 settembre 2012, la Commissione ha audito il procuratore della Repubblica presso il tribunale di Taranto, Franco Sebastio. Il procuratore ha riferito che: «Nel prossimo mese di ottobre, a Taranto, si aprono due distinti procedimenti penali che saranno poi riuniti in uno solo, a dibattimento. Per ognuno di questi procedimenti, si procede per il reato di omicidio colposo per il decesso di 15 più 15 operai per esposizione a fibre di amianto. Quindi, quando si è potuto accertare il nesso di causalità, quanto meno in fase di prospettazione, stiamo andando avanti anche in quell'ottica. Abbiamo, però, preferito separare la questione inquinamento, quindi i reati di pericolo, dai possibili accertati danni a persone. Peraltro, se parliamo, per esempio, di mesotelioma pleurico, cioè di malattie connesse all'esposizione all'amianto, già esiste un punto di partenza indiscutibile per rintracciare il nesso di causalità. Il mesotelioma pleurico è, infatti, determinato solo ed esclusivamente da inalazione di fibre di amianto. Il problema è che, purtroppo, i tempi di latenza sono anche maggiori di trent'anni, quindi diventa difficile individuare la persona fisica da far sedere sul banco degli imputati»;</an:p>
+				<an:p>            i dati del Rapporto Sentieri (Studio Epidemiologico Nazionale dei Territori e degli Insediamenti Esposti a Rischio da Inquinamento), presentato il 18 settembre 2012 presso il Ministero della Salute, registrano per il SIN di Taranto un eccesso, per gli uomini, rispetto al resto della provincia, del 30 per cento per tutti i tumori e, in dettaglio, del 50 per cento per il tumore maligno del polmone, superiore al 100 per cento per il mesotelioma;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a sviluppare l'attività di ricerca per la prevenzione del mesotelioma e per la sua diagnosi precoce e a diffondere la cultura di prevenzione e cura negli ambienti lavorativi a rischio di esposizione e nelle zone limitrofe con la fonte di esposizione, con particolare attenzione al quartiere Tamburi di Taranto;</an:p>
+				<an:p>            a promuovere linee di trattamento facilitate per i pazienti affetti da mesotelioma, che non possono sostenere gli eccessivi tempi di attesa previsti per gli approfondimenti diagnostici erogati dal Servizio sanitario nazionale e meno ancora per ottenere trattamenti di radioterapia efficaci.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

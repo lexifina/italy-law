@@ -1,7 +1,0 @@
-ALLEGATO VIII
-
-Politica di concorrenza
-
-La Comunita' europea procede alla valutazione di qualsiasi pratica contraria dell'articolo 35 del presente accordo secondo i criteri derivanti dall'applicazione delle norme stabilite dagli articoli 81 e 82 del trattato che istituisce la Comunita' europea, ivi compreso il diritto derivato.
-
-Il Sudafrica procede alla valutazione di qualsiasi pratica contraria all'artico 35 del presente accodo secondo i criteri derivanti dall'applicazione delle norme della normativa sudafricana in materia di concorrenza.

@@ -1,7 +1,0 @@
-Allegato 2
-
-Risultanze del conto generale del patrimonio
-
-La situazione patrimoniale dell'Amministrazione dello Stato, al 31 dicembre 2010, resta stabilita come segue:
-
-Parte di provvedimento in formato grafico

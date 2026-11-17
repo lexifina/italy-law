@@ -1,3 +1,0 @@
-Allegato.
-
-((ALLEGATO ABROGATO DAL D.P.R. 10 GENNAIO 1957, N. 3))

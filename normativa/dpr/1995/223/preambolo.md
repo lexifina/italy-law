@@ -1,0 +1,29 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+VISTO il decreto del Presidente della Repubblica 20 ottobre 1962, n. 1842, con il quale e' stato approvato lo statuto della Societa' italiana degli autori ed editori (S.I.A.E.), e le successive modifiche disposte con i decreti del Presidente della Repubblica 14 novembre 1974, n. 859, e 2 agosto 1986, n. 726;
+
+VISTA la sentenza del Consiglio di Stato, Sezione VI, n. 97/1992 con la quale il predetto organo in sede giurisdizionale annullava le disposizioni che sulla base della distinzione tra iscritti e soci limitavano lo stato e l'elettorato, attivo e passivo, dei primi;
+
+VISTA la sentenza del Consiglio di Stato, Sezione VI, n. 77/1994 con la quale il predetto organo assegnava all'Amministrazione, per provvedere, il termine di giorni centottanta;
+
+VISTO il decreto del Presidente della Repubblica 7 novembre 1994, n. 671, contenente le modifiche che si ritenevano necessarie per adeguare lo statuto dell'ente ai principi ed alle prescrizioni enunciate nel giudicato da ottemperare;
+
+VISTA la sentenza del Consiglio di Stato, Sezione VI, n. 41/1995 emessa pure in sede di ottemperanza, con la quale il suddetto organo, constatata l'emanazione del citato decreto del Presidente della Repubblica n. 671/1994 oltre il termine assegnato per l'esecuzione, ha ritenuto di spettanza del giudice dell'ottemperanza di procedere all'esecuzione del giudicato, sostituendo o modificando gli articoli 1, 6, 7, 8, 9, 11 e 15 del citato decreto del Presidente della Repubblica n. 671/1994 facendo proprie e confermando le altre disposizioni del citato decreto presidenziale;
+
+VISTA la decisione n. 383/1995 del Consiglio di Stato, Sezione VI, con la quale vengono apportate alcune correzioni materiali al dispositivo della precitata sentenza n. 41/1995 del medesimo organo giurisdizionale;
+
+RITENUTA l'opportunita' di ripubblicare con valore ricognitivo il testo integrale dello statuto della S.I.A.E. cosi' come modificato dalle sentenze del Consiglio di Stato, Sezione VI, n. 41/1995 e n. 383/1995;
+
+VISTO l'art. 2, comma 3, lettera q), della legge 23 agosto 1988, n. 400;
+
+VISTA la deliberazione del Consiglio dei Ministri, adottata nella riunione del 12 maggio 1995;
+
+SULLA PROPOSTA del Presidente del Consiglio dei Ministri;
+
+EMANA
+
+il seguente decreto:
+
+ARTICOLO UNICO
+
+1. Lo statuto della Societa' italiana degli autori ed editori (S.I.A.E.), e' stabilito nel seguente testo: "TITOLO I - SEDE ED OGGETTO

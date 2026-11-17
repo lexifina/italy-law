@@ -1,0 +1,77 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' degli studi di Bari, approvato con regio decreto 14 ottobre 1926, n. 2134 e modificato con regi decreti 13 ottobre 1927, n. 2169; 31 ottobre 1929, n. 2481; 30 ottobre 1930, n. 1858; 22 ottobre 1931, n. 1422; 27 ottobre 1932, n. 2082; 13 dicembre 1934, n. 2404; 1 ottobre 1936, n. 2020; 13 luglio 1939, n. 1168; 26 ottobre 1940, n. 2029; 24 ottobre 1942, n. 1785; con decreti del Presidente della Repubblica 21 aprile 1949, n. 451; 31 ottobre 1950, numero 1293; 11 maggio 1951, n. 633; 23 gennaio 1952, n. 66; 25 giugno 1953, n. 753; 30 luglio 1953, n. 758; 25 agosto 1953, n. 857 e 25 agosto 1953, n. 992;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Vedute le proposte di modifiche dello statuto formulate dalle autorita' accademiche dell'Universita' anzidetta;
+
+Riconosciuta la particolare necessita' di approvare le nuove modifiche proposte;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro per la pubblica istruzione;
+
+Decreta:
+
+Lo statuto dell'Universita' degli studi di Bari, approvato e modificato con i decreti sopraindicati, e' ulteriormente modificato come appresso:
+
+Art. 89. - All'elenco delle scuole di perfezionamento annesse alla Facolta' di medicina e chirurgia e' aggiunto la "scuola di perfezionamento in oncologia".
+
+Dopo l'art. 115, e' aggiunto il seguente nuovo articolo, relativo alla istituzione della scuola di perfezionamento in oncologia.
+
+Scuola di perfezionamento in oncologia.
+
+Art. 116.
+
+a) La scuola di perfezionamento in oncologia e' annessa all'Istituto di patologia generale. La Facolta' si riserva di annettere eventualmente la scuola all'Istituto di anatomia patologica della Universita' di Bari nel caso che particolari condizioni lo richiedessero.
+
+Gli anni di studio per il conseguimento del diploma sono tre.
+
+b) Gli iscritti alla scuola preferibilmente scelti tra laureati gia' in possesso di un titolo di specializzazione hanno i seguenti obblighi di frequenza e di internato negli Istituti universitari e nelle cliniche.
+
+Al primo anno: internato trimestrale in ciascuno dei seguenti Istituti: patologia generale, anatomia patologica, patologia speciale medica, patologia speciale chirurgica.
+
+Al secondo anno: internato trimestrale in ciascuno dei seguenti Istituti e cliniche: patologia generale, anatomia patologica, clinica medica, clinica chirurgica.
+
+Al terzo anno: internato trimestrale nella clinica ostetrico ginecologica: negli altri trimestri seguiranno corsi di aggiornamento nelle cliniche specialistiche (neurologica, pediatrica, dermatologica, oculistica, otorinolaringologica ed ortopedica) ed in radiologia.
+
+c) Gli insegnamenti impartiti nella scuola sono i seguenti:
+
+Primo anno: istituzioni di patologia generale dei tumori.
+
+Biochimica del tessuto neoplastico e dell'organismo portatore di tumore maligno. Anatomia ed istologia patologica generale dei tumori.
+
+Secondo anno: patologia sperimentale ed umana generale dei tumori maligni. Istologia patologica speciale dei tumori maligni dell'uomo.
+
+Diagnostica e terapia radiologica dei tumori maligni dell'uomo.
+
+Semeiotica e clinica generale dei tumori maligni.
+
+Terzo anno: clinica dei tumori maligni dell'apparato genitale femminile. Clinica speciale dei tumori maligni della cute, dell'occhio, dello scheletro, del sistema nervoso, degli apparati respiratorio-digerente ed urogenitale. Clinica delle neoplasie infantili, degli organi a secrezione interna, degli organi emopoietici. Terapia chirurgica dei tumori maligni dell'uomo.
+
+Tecnonologie diagnostiche speciali nei portatori di tumori maligni.
+
+d) La spesa relativa al funzionamento della predetta scuola e' a carico del bilancio ordinario della Universita' di Bari. Eventuali contributi straordinari di altri enti verranno assegnati con apposita deliberazione del Consiglio di amministrazione, all'istituto di patologia generale ed anche a quello di anatomia-patologica.
+
+e) Gli iscritti alla scuola sono tenuti al pagamento delle tasse e sopratasse nella misura indicata dall'articolo 92 dello statuto. Il provento delle tasse e' ripartito dal Consiglio di amministrazione secondo i criteri indicati nello stesso art. 92, mentre il provento delle sopratasse di esami viene ripartito secondo le disposizioni di cui al decreto del Presidente della Repubblica 1 dicembre 1952, n. 4512.
+
+Gli iscritti sono, inoltre, tenuti al pagamento a favore degli Istituti e delle cliniche nelle quali essi hanno l'obbligo d'internato di contributi speciali nella misura che il Consiglio di amministrazione Su proposta del Senato accademico udita la Facolta' di medicina e chirurgia, stabilisce per gli studenti di detta Facolta'.
+
+La tassa di diploma e' fissata in L. 6000, ai sensi dell'art. 7 della legge 18 dicembre 1951, n. 1551.
+
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Dogliani, addi' 14 settembre 1954
+
+EINAUDI
+
+MARTINO
+
+Visto, il Guardasigilli: DE PIETRO
+
+Registrato alla Corte dei conti, addi' 29 dicembre 1954 Atti del Governo, registro n. 87, foglio n. 102. - CARLOMAGNO

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/20.26/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/20.26"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/20.26/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.26"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@.akn"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2942/A/20.26/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2942" showAs="DDL 2942"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSSWHSRVIS113KCXPPSUOPHRENJC1RH05SHQHNBLJHL2CPGPS4CSC" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="ID4BRYKJAHPUGOOA51WAQWXQSQEDIXZSYYDUHSD2MCIDAXTC2SPIPF" href="http://dati.senato.it/22551" showAs="BISINELLA"/>
+				<an:TLCPerson id="IDO5EL1PA4S0C4CBZJVJLGHXIUPW4FMZJ2USXY2HQPSEVM4TV0BCF" href="http://dati.senato.it/25449" showAs="MUNERATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2942</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.26</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSSWHSRVIS113KCXPPSUOPHRENJC1RH05SHQHNBLJHL2CPGPS4CSC" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4BRYKJAHPUGOOA51WAQWXQSQEDIXZSYYDUHSD2MCIDAXTC2SPIPF" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO5EL1PA4S0C4CBZJVJLGHXIUPW4FMZJ2USXY2HQPSEVM4TV0BCF" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 7, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «7-
+					<an:i>bis</an:i>
+					. All'articolo 1, comma 128 della legge 24 dicembre 2012, n. 228, terzo periodo la parola: "massimo" è soppressa e alla fine del comma sono aggiunti i seguenti periodi: "La durata massima della rateizzazione di cui ai periodi precedenti è estesa a quindici anni a decorrere dal 1º gennaio 2018. A tal fine, non si fa luogo al ricalcolo sulle somme già recuperate. Con le stesse modalità di cui al terzo periodo, il Ministero dell'interno può concedere rateizzazioni non superiori a cinque anni per le somme a debito dovute dagli enti locali per motivi diversi da assegnazioni o contributi riguardanti la mobilità del personale"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

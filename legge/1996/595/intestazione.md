@@ -1,7 +1,0 @@
-LEGGE
-
-05 novembre 1996
-
-595
-
-Ratifica ed esecuzione dell'accordo tra il Governo della Repubblica italiana e la Lega degli Stati arabi, fatto a Roma il 9 agosto 1995, con scambio di note interpretative, effettuato il 21 dicembre 1995 ed il 10 gennaio 1996.

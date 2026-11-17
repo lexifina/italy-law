@@ -1,3 +1,0 @@
-CONVENTION DE PARIS POUR LA PROTECTION DE LA PROPRIETE' INDUSTRIELLE
-
-Parte di provvedimento in formato grafico

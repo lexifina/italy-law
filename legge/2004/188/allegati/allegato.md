@@ -1,7 +1,0 @@
-Allegato
-
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 24 giugno 2004, n. 158
-
-All'articolo 1, dopo il comma 1, e' aggiunto il seguente:
-
-«1-bis. Il regolamento previsto dall'articolo 4, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 5 giugno 2001, n. 328, e' emanato entro il 31 dicembre 2004. Entro la medesima data devono essere indette, ove il mandato non abbia piu' lunga durata, le elezioni per il rinnovo dei consigli degli ordini e collegi interessati».

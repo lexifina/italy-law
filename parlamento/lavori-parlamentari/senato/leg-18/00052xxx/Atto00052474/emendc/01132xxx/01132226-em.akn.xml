@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/C/101.0.11"/>
+					<an:FRBRdate date="2019-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="101.0.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@"/>
+					<an:FRBRdate date="2019-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@.akn"/>
+					<an:FRBRdate date="2019-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-11-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-11-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/C/101.0.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1586" showAs="Ddl 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32645" showAs="Antonio Iannone"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/34485" showAs="Nicola Calandrini"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32613" showAs="Andrea de Bertoldi"/>
+				<an:TLCPerson id="ID0E6B" href="http://dati.senato.it/32650" showAs="Patrizio Giacomo La Pietra"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 101.0.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Iannone</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Calandrini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">de</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Bertoldi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E6B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">La</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Pietra</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 70, articolo 1 della legge 27 dicembre 2017, n. 205 aggiungere il comma:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «70-
+					<an:i>bis.</an:i>
+					 A partire dall'anno 2020 è attribuito direttamente ai Comuni per le scuole dell'infanzia e primo ciclo il contributo pari a 280 milioni di euro annui per lo svolgimento delle funzioni relative all'assistenza per l'autonomia e la comunicazione personale degli alunni con disabilità fisiche o sensoriali, di cui all'articolo 13, comma 3, della legge 5 febbraio 1992, n. 104, e relative alle esigenze di cui all'articolo 139, comma 1, lettera 
+					<an:i>c)</an:i>
+					, del decreto legislativo 31 marzo 1998, n. 112. Con decreti del Presidente del Consiglio dei ministri, su proposta del Ministro delegato per gli affari regionali e le autonomie locali, di concerto con il Ministro dell'economia e delle finanze e con il Ministro dell'interno, previa intesa in sede di Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, si provvede al riparto annuale del contributo di cui al periodo precedente tra gli enti territoriali interessati».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

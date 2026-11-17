@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 23 maggio 1988
+
+COSSIGA DE MITA, Presidente del Consiglio dei Ministri AMATO, Ministro del tesoro Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti, addi' 4 giugno 1988 Atti di Governo, registro n. 74 Tesoro, foglio n. 14

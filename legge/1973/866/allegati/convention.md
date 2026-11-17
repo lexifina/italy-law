@@ -1,5 +1,0 @@
-ALLEGATO
-
-Convention internationale sur la protection des artistes interpretes ou executants, des producteurs de phonogrammes et des organismes de radiodiffusion.
-
-Parte di provvedimento in formato grafico

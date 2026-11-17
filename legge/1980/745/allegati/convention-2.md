@@ -1,3 +1,0 @@
-CONVENTION SUR L'ADMINISTRATOR INTERNATIONALE DES SUCCESSION
-
-Parte di provvedimento in formato grafico

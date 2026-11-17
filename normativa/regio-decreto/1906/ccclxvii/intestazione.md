@@ -1,0 +1,7 @@
+REGIO DECRETO
+
+10 settembre 1906
+
+CCCLXVII
+
+Erezione in ente morale ed approvazione di statuto. (0600367R)

@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.((4))
+
+Dato a Roma, addi' 29 settembre 1973
+
+LEONE RUMOR - COLOMBO - TAVIANI - LA MALFA - GIOLITTI Visto, il Guardasigilli: ZAGARI Registrato alla Corte dei conti, addi' 15 ottobre 1973 Atti di Governo, registro n. 261, foglio n. 35. - VALENTINI --------------- AGGIORNAMENTO (4) Il D.P.R. 28 gennaio 1988, n. 43 ha disposto (con l'art. 130, comma 1) che "Sono abrogate, dalla data di entrata in funzione del servizio, le disposizioni di cui all'articolo 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 639, e all'articolo 17 della legge 10 maggio 1976, n. 319, come sostituito nell'articolo 17-ter, secondo comma, dal decreto-legge 28 febbraio 1981, n. 38, convertito, con modificazioni, dalla legge 23 aprile 1981, n. 153, nonche', fatto salvo quanto stabilito negli articoli 116, 118 e 199, le disposizioni dei decreti del Presidente della Repubblica 15 maggio 1963, n. 858, e 29 settembre 1973, n. 603."

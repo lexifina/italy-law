@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.40/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.40"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.40/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.40"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@.akn"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2801/A/4.40/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2801" showAs="DDL 2801"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWIQ2D0PBNHAKKOINBK0242YOZBQFGDYCFR2DUL0351W0R3TIXRH" href="http://dati.senato.it/17552" showAs="BIANCONI"/>
+				<an:TLCPerson id="IDMM4DUHJZ1LL2CAQJVVELVQHC5HVCWNJ1FFGCQWNX30JKZSHUGUS" href="http://dati.senato.it/29033" showAs="AIELLO"/>
+				<an:TLCPerson id="IDJZXJ0RSLCR00BEV2JYF0BGND5O3TF3N30Z1RBACF35ZCRQ4GLV0B" href="http://dati.senato.it/1027" showAs="FORMIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2801</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.40</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWIQ2D0PBNHAKKOINBK0242YOZBQFGDYCFR2DUL0351W0R3TIXRH" as="#tipoSenatore">BIANCONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMM4DUHJZ1LL2CAQJVVELVQHC5HVCWNJ1FFGCQWNX30JKZSHUGUS" as="#tipoSenatore">AIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJZXJ0RSLCR00BEV2JYF0BGND5O3TF3N30Z1RBACF35ZCRQ4GLV0B" as="#tipoSenatore">FORMIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        Art. 4. - 
+					<an:i>1</an:i>
+					. Nella relazione di cura l'operatore sanitario valuta i mezzi di cui dispone applicando il principio della proporzionalità delle cure.
+				</an:p>
+				<an:p>
+					<an:i>2</an:i>
+					. Nel rispetto del principio di cui al comma'l, ogni persona maggiorenne capace di intendere e di volere, in previsione di una incapacità di auto determinarsi nell'imminenza di una morte inevitabile nonostante i mezzi usati, può assumere, con dichiarazioni anticipate di trattamento (DAT), la volontà di rinunciare a trattamenti che procurerebbero soltanto un prolungamento precario della vita, senza che tale dichiarazione possa comportare l'interruzione delle cure, comunque escluso ogni atto di natura eutanasica.
+				</an:p>
+				<an:p>
+					<an:i>3</an:i>
+					. Qualora le DAT esprimano volontà riguardanti trattamenti non sussumibili nei casi rappresentati al comma 2, ai quali trattamenti il dichiarante desideri o meno essere sottoposto nel caso in cui, nel decorso della sua malattia o a causa di traumi improvvisi, non fosse più in grado di esprimere il proprio consenso o dissenso, il medico, ferma restando la propria autonomia professionale e deontologica, nonché soppesando la competenza e la capacità del paziente, procede considerando, nella misura ritenuta possibile, la ragionevole volontà e gli interessi legittimi del beneficiario.
+				</an:p>
+				<an:p>
+					<an:i>4</an:i>
+					. Il paziente nelle DAT indica obbligatoriamente una persona di sua fiducia ("fiduciario") che ne faccia le veci e lo rappresenti nelle relazioni con il medico e con le strutture sanitarie».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

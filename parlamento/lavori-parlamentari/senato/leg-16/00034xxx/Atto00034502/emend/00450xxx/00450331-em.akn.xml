@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1880/A/1.0.22"/>
+					<an:FRBRdate date="2010-01-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@"/>
+					<an:FRBRdate date="2010-01-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@.akn"/>
+					<an:FRBRdate date="2010-01-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-01-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-01-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1880/A/1.0.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1880" showAs="DDL 1880"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/5126" showAs="Latorre"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1880</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Latorre</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo,</an:b>
+					 inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Norme sui depositi giudiziari)</an:i>
+				</an:p>
+				<an:p align="justify">        1. Le somme depositate presso le banche e la società Poste italiane Spa, di cui è stata disposta la restituzione con provvedimento definitivo o di archivi azione, non riscosse o non reclamate dagli aventi diritto entro cinque anni, sono acquisite dallo Stato e sono versate, a cura delle medesime banche e della società Poste italiane Spa, in conto entrate del bilancio dello Stato per essere riassegnate, con decreti del Ministro dell'economia e delle finanze, alle pertinenti unità previsionali di base dello stato di previsione del Ministero della giustizia.</an:p>
+				<an:p align="justify">        2. Le somme depositate presso le banche e la società Poste italiane Spa in relazione a procedure esecutive, non riscosse o non reclamate dagli aventi diritto entro cinque anni dal giorno in cui è divenuta definitiva l'ordinanza di distribuzione o di approvazione del progetto di distribuzione ovvero, in caso di opposizione, dal passaggio in giudicato della sentenza che definisce la controversia, sono acquisite allo Stato e sono versate, a cura delle medesime banche e della società Poste italiane Spa, in conto entrate del bilancio dello Stato per essere rassegnate, con decreti del Ministro dell'economia e delle finanze, alle pertinenti unità previsionali di base dello stato di previsione del Ministero della giustizia.</an:p>
+				<an:p align="justify">        3. All'articolo 67, del decreto legislativo 8 luglio 1999, n. 270, il comma 2 è sostituito dal seguente:</an:p>
+				<an:p align="justify">
+					        "2. Le ripartizioni hanno luogo secondo le disposizioni degli articoli 110, secondo, terzo e quarto comma, 111, 111-
+					<an:i>bis</an:i>
+					, 111-
+					<an:i>ter</an:i>
+					, 111-
+					<an:i>quater</an:i>
+					, 112, 113, 113-
+					<an:i>bis,</an:i>
+					 114, 115 e 117, secondo, terzo, quarto e quinto comma, della legge fallimentare".
+				</an:p>
+				<an:p align="justify">        4. Con regolamento del Ministro della giustizia, di concerto con il Ministro dell'economia e delle finanze, adottato ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, entro sei mesi dalla data di entrata in vigore della presente legge, sono disciplinate:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 le modalità di comunicazione dello stato del procedimento e dei provvedimenti adottati, che garantiscano la prova dell'avvenuta ricezione;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 le modalità con cui le banche e la società Poste italiane Spa versano le somme di cui ai commi 1 e 2 e gli interessi maturati.
+				</an:p>
+				<an:p align="justify">        5. Una somma pari al 20 per cento di quanto riscosso annualmente ai sensi delle disposizioni di cui al presente articolo è destinata al fondo unico di amministrazione costituito presso il Ministero della giustizia, anche per finanziare progetti relativi al recupero di crediti dell'amministrazione e delle somme di cui ai commi 1, 2 e 3.</an:p>
+				<an:p align="justify">        6. È istituito un fondo per l'incentivazione della permanenza dei magistrati in sedi non richieste di cui all'articolo 3 della legge 16 ottobre 1991, n. 321, e successive modificazioni, e in sedi disagiate di cui all'articolo 1 della legge 4 maggio 1998, n. 133, alimentato con una somma pari al 4 per cento di quanto riscosso annualmente ai sensi delle disposizioni di cui al presente articolo. L'impiego del fondo è disciplinato con regolamento del Ministro della giustizia, da adottare, d'intesa con il Consiglio superiore della magistratura, entro sei mesi dalla data di entrata in vigore della presente legge.</an:p>
+				<an:p align="justify">        7. Gli uffici giudiziari verificano l'esistenza di depositi per i quali ricorrono le condizioni di cui ai commi 1 e 2, alla data di entrata in vigore della presente legge e fino all'emanazione del regolamento di cui al comma 4, richiedendo alla banca o alla società Poste italiane Spa, presso cui è aperto il deposito, di provvedere al versamento delle rispettive somme all'entrata del bilancio dello Stato, ai fini della loro riassegnazione secondo quanto disposto dai medesimi commi 1 e 2».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

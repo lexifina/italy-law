@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 20 della legge 18 giugno 1955, n. 517, che autorizza il Governo ad emanare le norme di attuazione e transitorie e di coordinamento della legge stessa con il codice di procedura penale e con le altre leggi;
-
-Visto l'art. 87, comma quinto, della Costituzione;
-
-Sentito il Consiglio dei Ministri;
-
-Sulla proposta del Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia; Decreta:

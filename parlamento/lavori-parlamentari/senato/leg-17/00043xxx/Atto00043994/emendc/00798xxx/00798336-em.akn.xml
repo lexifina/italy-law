@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1324/C/1.0.1"/>
+					<an:FRBRdate date="2016-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@"/>
+					<an:FRBRdate date="2016-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@.akn"/>
+					<an:FRBRdate date="2016-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1324/C/1.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1324" showAs="DDL 1324"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGF5YZZXHIXR0PHKSVT02DH2BXEF0RW0D4UOKKUJYOXEY1KLE5NCH" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDBZO455YKZKEBE04FPM5G1XJ0XDR1Z4ZQPQLCUKOMG5C5TFFM5DSL" href="http://dati.senato.it/senatore/29168" showAs="Maurizio ROMANI"/>
+				<an:TLCPerson id="IDXTJWXAR2RMIJH23O0LFZCEZCIP5L041Z1GNDY4EET1YUQAIHI2NP" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDMKH20TBSMJEMJPG4AB4VPIFI0LQWQGSFFWKGREI3W4PFCXWHKDJ" href="http://dati.senato.it/senatore/29186" showAs="STEFANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1324</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGF5YZZXHIXR0PHKSVT02DH2BXEF0RW0D4UOKKUJYOXEY1KLE5NCH" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBZO455YKZKEBE04FPM5G1XJ0XDR1Z4ZQPQLCUKOMG5C5TFFM5DSL" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXTJWXAR2RMIJH23O0LFZCEZCIP5L041Z1GNDY4EET1YUQAIHI2NP" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMKH20TBSMJEMJPG4AB4VPIFI0LQWQGSFFWKGREI3W4PFCXWHKDJ" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					articolo
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">(Delega al Governo per il riassetto del servizio fitosanitario nazionale)</an:p>
+				<an:p>        1. Al fine di procedere al riassetto organizzativo del servizio fitosanitario nazionale e fare fronte più tempestivamente alle frequenti emergenze settoriali che condizionano l'economia agro-forestale, entro sei mesi dalla data di entrata in vigore della presente legge, il Governo è delegato ad introdurre, acquisito il parere della Conferenza permanente per i rapporti tra lo stato, le regioni e le province autonome di Trento e di Bolzano, apposite modifiche al decreto legislativo 19 agosto 2005, n. 214, in attuazione dei seguenti principi e criteri direttivi:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 potenziare le attività di ricerca sul campo;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 disporre una più efficace sinergia con i servizi regionali preposti;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 consentire la deroga alle disposizioni di cui all'articolo 5, comma 2, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, per quanto attiene ai mezzi impiegati nei servizi fitosanitari, nonché l'impiego senza limitazioni, nelle situazioni di emergenza, delle risorse finanziarie resesi disponibili su fondi comunitari, nazionali e regionali.
+				</an:p>
+				<an:p>        2. Dall'attuazione del presente articolo non devono derivare nuovi o maggiori oneri, né minori entrate, a carico della finanza pubblica. Le amministrazioni interessate provvedono all'adempimento dei compiti derivanti dalle disposizioni introdotte in attuazione della delega di cui al presente articolo con le risorse umane, strumentali e finanziarie disponibili a legislazione vigente».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

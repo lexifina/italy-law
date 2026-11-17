@@ -1,0 +1,3 @@
+Art. 1-ter.
+
+(( ARTICOLO ABROGATO DAL D. LGS. 30 LUGLIO 1999, N. 300 ))

@@ -1,5 +1,0 @@
-((Allegato 1
-
-AREE TEMATICHE
-
-Parte di provvedimento in formato grafico))

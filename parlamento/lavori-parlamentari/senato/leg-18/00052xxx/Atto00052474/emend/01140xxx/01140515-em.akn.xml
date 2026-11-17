@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/94.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/94.12"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/94.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="94.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/94.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHI0Q0FF11BYZG1JLPD3QXK4OXK0YOGPVDEJPJSQ5T2UY35M2R3P" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDZB2IPS3VV4A4CJSW1Z5JSLGFFDIMSSL3OGAWRPOK3Q2GVO34Z5QJ" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDTMQBEAWU2MOSGU4KTTTQJV0GTPHFJ4JVQTZ1RRIJPPHUAFMDQ43F" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDP4JKPVWIQV5TFGT0RJ4QBHKTVN15ITOFJWBM2FMLD1XM24EZAV2H" href="http://dati.senato.it/32694" showAs="Pietro PISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 94.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHI0Q0FF11BYZG1JLPD3QXK4OXK0YOGPVDEJPJSQ5T2UY35M2R3P" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZB2IPS3VV4A4CJSW1Z5JSLGFFDIMSSL3OGAWRPOK3Q2GVO34Z5QJ" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTMQBEAWU2MOSGU4KTTTQJV0GTPHFJ4JVQTZ1RRIJPPHUAFMDQ43F" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP4JKPVWIQV5TFGT0RJ4QBHKTVN15ITOFJWBM2FMLD1XM24EZAV2H" as="#tipoSenatore">Pietro PISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo il capoverso 7-</an:i>
+					bis
+					<an:i>, inserire il seguente</an:i>
+					:
+				</an:p>
+				<an:p>
+					        «7-
+					<an:i>ter</an:i>
+					. Le disposizioni di cui al comma 7-
+					<an:i>bis</an:i>
+					 non si applicano alle concessioni di coltivazione con una produzione annua inferiore o pari a 10 milioni di Smc di gas e 20.000 tonnellate di olio in terraferma e con una produzione inferiore o pari a 30 milioni di Smc gas e 20.000 
+					<an:i>tons</an:i>
+					 di olio in mare».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente all'articolo 99, comma 2, sostituire le parole</an:i>
+					: «214 milioni di euro per l'anno 2020, di 305 milioni di euro per ciascuno degli anni 2021 e 2022» 
+					<an:i>con le seguenti</an:i>
+					: «206 milioni di euro per l'anno 2020, di 297 milioni di euro per ciascuno degli anni 2021 e 2022».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

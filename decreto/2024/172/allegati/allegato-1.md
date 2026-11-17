@@ -1,5 +1,0 @@
-Allegato 1
-
-(previsto dall'articolo 3, comma 8)
-
-Parte di provvedimento in formato grafico

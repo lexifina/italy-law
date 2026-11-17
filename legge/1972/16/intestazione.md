@@ -1,7 +1,0 @@
-LEGGE
-
-25 febbraio 1972
-
-16
-
-Conversione in legge del decreto-legge 28 dicembre 1971, n. 1122, concernente proroga del termine di validita' del decreto-legge 12 maggio 1971, n. 249, convertito nella legge 4 luglio 1971, n. 427, recante modificazioni al regime fiscale di alcuni prodotti petroliferi.

@@ -1,7 +1,0 @@
-Convenzione europea di estradizione
-
-(Parigi, 13 dicembre 1957)
-
-CONVENTION EUROPEENNE D'EXTRADITION
-
-Parte di provvedimento in formato grafico

@@ -1,3 +1,0 @@
-Convention portant creation d'une Organisation europeenne de recherches spatiales
-
-Parte di provvedimento in formato grafico

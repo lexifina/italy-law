@@ -1,5 +1,0 @@
-Allegato 1
-
-(previsto dall'articolo 2, comma 13, lettera a))
-
-Parte di provvedimento in formato grafico

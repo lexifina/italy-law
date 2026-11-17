@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1026/A/G5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1026/A/G5"/>
+					<an:FRBRdate date="2006-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1026/A/G5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@"/>
+					<an:FRBRdate date="2006-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@.akn"/>
+					<an:FRBRdate date="2006-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-10-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-10-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1026/A/G5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1026" showAs="DDL 1026"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/12836" showAs="Stiffoni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/532" showAs="Castelli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22730" showAs="Davico"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/22746" showAs="Gabana"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/5920" showAs="Galli"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4519" showAs="Pirovano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1026</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Stiffoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Castelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Davico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Gabana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Galli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Pirovano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        ricordando come</an:p>
+				<an:p align="justify">            la decisione del Governo italiano di partecipare alla campagna contro il terrorismo internazionale venne presa all'indomani degli attacchi jihadisti dell'11 settembre 2001 con il consenso della Presidenza della Repubblica, istituzione cui è conferito il compito di garantire la conformità costituzionale delle scelte del Governo in materia di politica estera e di sicurezza;</an:p>
+				<an:p align="justify">
+					            allo stesso modo, il 19 marzo 2003 il Consiglio supremo di difesa, presieduto dal Presidente della Repubblica 
+					<an:i>pro-tempore</an:i>
+					, avesse escluso la possibilità per I'Italia di partecipare attivamente e non attivamente alle operazioni intraprese da una coalizione guidata dagli Stati Uniti d'America contro l'Iraq di Saddam Hussein, dichiarandone nell'occasione la non belligeranza;
+				</an:p>
+				<an:p align="justify">
+					            altresi, il Governo italiano del tempo si fosse attenuto alle indicazioni del Consiglio supremo di difesa e della Presidenza della Repubblica, negando ai Paesi parte della predetta coalizione 
+					<an:i>facilities</an:i>
+					 invece loro accordate senza problemi da Stati come la Repubblica federale tedesca, che contestavano più dell'Italia l'opportunità di attaccare l'Iraq e deporre Saddam Hussein;
+				</an:p>
+				<an:p align="justify">        sottolineando come</an:p>
+				<an:p align="justify">            il successivo invio di un contingente militare nella provincia di Dhi Qar sia maturato dopo la cessazione delle ostilità e deliberato allo scopo di facilitare la ricostruzione politica, istituzionale ed economica dell'Iraq, con il pieno consenso della Presidenza della Repubblica, di cui venne acquisito il parere anche relativamente alle regole d'ingaggio cui i nostri soldati si sarebbero attenuti;</an:p>
+				<an:p align="justify">            Antica Babilonia non può conseguentemente essere considerata come una missione di guerra tesa all'occupazione militare ed allo sfruttamento economico dell'Iraq, al contrario di quanto sostenuto allora ed adesso da parte del sistema politico italiano;</an:p>
+				<an:p align="justify">            il carattere pacifico e non offensivo della missione italiana in Iraq è stato confermato dai fatti degli ultimi giorni ed in particolare dall'armonioso passaggio dei poteri tra il nostro contingente in ripiego e le forze di sicurezza subentranti del nuovo Iraq, avvenuto a Nassyriah;</an:p>
+				<an:p align="justify">        rilevando come</an:p>
+				<an:p align="justify">            il conflitto esploso nel luglio scorso tra Israele e l'Hezbollah libanese abbia preso le origini da un agguato teso dai miliziani del cosiddetto «Partito di Dio» ai danni dell'Esercito israeliano, che ha patito, oltre all'uccisione di diversi militari, la presa in ostaggio di due uomini la cui sorte è tuttora indeterminata;</an:p>
+				<an:p align="justify">            non sembri quindi particolarmente opportuno attribuire alle parti in causa le medesime responsabilità, al contrario di quanto implicitamente si sostiene all'interno della cosiddetta linea della «equivicinanza» proclamata dal Ministro degli esteri italiano in carica;</an:p>
+				<an:p align="justify">
+					            l'Hezbollah sia tristemente nota come l'organizzazione che ha inventato il terrorismo suicida, risulti potentemente armata ed abbia in Nasrallah un 
+					<an:i>leader</an:i>
+					 assolutamente indisponibile al disarmo;
+				</an:p>
+				<an:p align="justify">            sia piuttosto improbabile ipotizzare una rinuncia dell'Hezbollah al controllo di fatto acquisito sulle province meridionali del Libano, specialmente in considerazione della debolezza delle forze armate libanesi e del Governo centrale di Beirut;</an:p>
+				<an:p align="justify">        esprimendo preoccupazione</an:p>
+				<an:p align="justify">            per come potrà evolversi la situazione sul terreno ed in merito alle effettive possibilità dell'Unifil Plus di trasformare in una pace durevole il cessate il fuoco dello scorso agosto;</an:p>
+				<an:p align="justify">
+					            altresì, per le recenti fiammate di intolleranza osservate nel mondo islamico in reazione alla 
+					<an:i>lectio magistralis</an:i>
+					 tenuta da Benedetto XVI all'Università di Ratisbona,
+				</an:p>
+				<an:p align="justify">        invita il Governo</an:p>
+				<an:p align="justify">            a non abbandonare la lotta al terrorismo jihadista, che è stata il paradigma fondamentale dell'azione internazionale dell'Italia nei trascorsi cinque anni e che esige fermezza tanto in Afghanistan, dove i nostalgici del regime talebano sono all'offensiva quanto nel Libano meridionale;</an:p>
+				<an:p align="justify">            a rivendicare come un successo nazionale il completamento della missione di pace in Iraq;</an:p>
+				<an:p align="justify">            a mantenere salda la distinzione che deve esistere tra Stati la cui esistenza è stata legittimata dalle Nazioni Unite ed organizzazioni politiche locali che praticano il terrorismo e perseguono l'instaurazione di regimi politici islamici radicali, ancorché con la prudenza imposta dalla necessità di non far correre rischi inutili al nostro contingente inviato in Libano meridionale;</an:p>
+				<an:p align="justify">            a chiarire in modo inequivocabile fin d'ora l'atteggiamento che terranno le forze armate italiane qualora gli Hezbollah, Israele od entrambi riprendessero le ostilità in particolare escludendo l'ipotesi che militari italiani possano ingaggiare combattimenti contro quelli dello Stato ebraico;</an:p>
+				<an:p align="justify">            a predisporre in ogni caso l'immediato ritiro delle truppe italiane conferite all'Unifil Plus nel caso in cui la crisi tra Israele ed Hezbollah fosse chiaramente sul punto di precipitare nuovamente in uno stato di aperto conflitto.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/29.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/29.5"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/29.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="29.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/29.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDB1M4FPNZIEPSNOBHDFNPQ2NDXICKSHHYD0E3Z1M33THYXN0MP2EE" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+				<an:TLCPerson id="IDJXGJOLX4XR21OHYUSTGREQZBEJ22CYXRWRV4YLHBOEE4MP0ACQ0I" href="http://dati.senato.it/32717" showAs="STABILE"/>
+				<an:TLCPerson id="IDXOU3EUJH2NIPEHUPYHLDXCTAXOXVL30ZZGZDLTBDLQGZITO2MKWN" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 29.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB1M4FPNZIEPSNOBHDFNPQ2NDXICKSHHYD0E3Z1M33THYXN0MP2EE" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJXGJOLX4XR21OHYUSTGREQZBEJ22CYXRWRV4YLHBOEE4MP0ACQ0I" as="#tipoSenatore">STABILE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXOU3EUJH2NIPEHUPYHLDXCTAXOXVL30ZZGZDLTBDLQGZITO2MKWN" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Ai commi 2 e 3, alla lettera</an:i>
+					 a)
+					<an:i>:</an:i>
+				</an:p>
+				<an:p>
+					        a) 
+					<an:i>sostituire le parole:</an:i>
+					 «a 80 euro» 
+					<an:i>con le seguenti:</an:i>
+					 «rispettivamente a 100 euro, per l'attività ordinaria, lasciando alla contrattazione aziendale la determinazione per gli altri casi»;
+				</an:p>
+				<an:p>
+					        b) 
+					<an:i>aggiungere, in fine, il seguente periodo:</an:i>
+					 «L'intensificarsi del lavoro per garantire la riduzione delle liste d'attesa deve, in ogni caso, avvenire nel rispetto dei tempi di riposo al fine di non determinare condizioni di rischio per i pazienti.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

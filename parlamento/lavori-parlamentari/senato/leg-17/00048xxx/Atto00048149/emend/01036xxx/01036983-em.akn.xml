@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G1.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G1.104"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G1.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/G1.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTBGGO1WBPLCRN4KNL5KMAJJ4UBA0RPGYR5IXZGBT5YRSNLM3HV2G" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDVTKS4GE4N53AOGVQXJ33VSOKZJXPMIQD552GMJBQ4NE34LUGJKSM" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDTWCN1WTNPERYFBSCGAD1OJBCELYNZIPERBRR5UHPGI4U0O5RLTQG" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="ID0HU5C15VXRWQHDBOU40QGZ102NVHA2AID1MQRPPG2KFUEVSQ5H3" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTBGGO1WBPLCRN4KNL5KMAJJ4UBA0RPGYR5IXZGBT5YRSNLM3HV2G" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVTKS4GE4N53AOGVQXJ33VSOKZJXPMIQD552GMJBQ4NE34LUGJKSM" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTWCN1WTNPERYFBSCGAD1OJBCELYNZIPERBRR5UHPGI4U0O5RLTQG" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0HU5C15VXRWQHDBOU40QGZ102NVHA2AID1MQRPPG2KFUEVSQ5H3" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge di Conversione del decreto-legge 20 giugno 2017, n. 91, recante disposizioni urgenti per la crescita economica nel Mezzogiorno,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            la disciplina dell'attività dell'autoriparazione stabilita con la legge n. 122 del 1992 e aggiornata, anche in funzione del progresso tecnologico, dalla legge n. 224 del 1912, che ha unificato nella nuova sezione della «meccatronica» due sezioni (meccanica e motori sta» ed «elettrauto») delle quattro precedentemente previste (meccanica e motorista», «elettrauto», «carrozzeria» e «gommista»), presenta alcune criticità che, oggettivamente; ostacolano l'adeguamento dei requisiti professionali e l'acquisizione dell'abilitazione per l'esercizio dell'attività da parte degli operatori, con gravi conseguenze per la sopravvivenza ed il futuro delle imprese del settore;</an:p>
+				<an:p>        impegna il Governo a valutare la possibilità di:</an:p>
+				<an:p>            introdurre criteri di maggiore flessibilità e superare le problematiche che si verificano sia per quanto concerne gli autoriparatori già operanti sia in relazione ai soggetti che intendono acquisire i requisiti di meccatronica, partendo dall'esperienza di elettrauto o di meccanico motoristico; estendere l'arco temporale entro il quale le imprese possono dimostrare il possesso dei requisiti per il riconoscimento della qualifica professionale sulla base dell'esperienza professionale maturata in azienda.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

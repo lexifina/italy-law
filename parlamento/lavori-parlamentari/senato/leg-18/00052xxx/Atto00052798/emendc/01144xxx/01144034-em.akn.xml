@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1729/C/1.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1729/C/1.12"/>
+					<an:FRBRdate date="2020-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1729/C/1.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@"/>
+					<an:FRBRdate date="2020-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@.akn"/>
+					<an:FRBRdate date="2020-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1729/C/1.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1729" showAs="Ddl 1729"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32679" showAs="Nazario Pagano"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32688" showAs="Marco Perosino"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/26539" showAs="Maria Alessandra Gallone"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/25198" showAs="Maria Rizzotti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1729</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pagano</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Perosino</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Gallone</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Rizzotti</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 6, aggiungere i seguenti:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «6-
+					<an:i>bis</an:i>
+					. A seguito dell'entrata in vigore del CCNL Area dirigenziale Istruzione e Ricerca 2016-2018 dell'8 luglio 2019, il personale titolare di incarichi conferiti presso altre amministrazioni ai sensi dell'articolo 19, comma 5-
+					<an:i>bis</an:i>
+					, del decreto legislativo del 30 marzo 2001 n. 165, ha facoltà di transitare definitivamente nei ruoli delle medesime nei limiti delle rispettive dotazioni organiche. Analogamente i titolari di contratti ai sensi dell'articolo 19, comma 6, del decreto legislativo 30 marzo 2001 n. 165 con incarichi su posti vacanti e disponibili della dotazione organica del Ministero dell'istruzione, dell'università e della ricerca per un periodo superiore ai trentasei mesi transitano definitivamente nei ruoli dei dirigenti tecnici del medesimo Ministero nei limiti dell'ampliamento delle facoltà assunzionali previsto dall'articolo 2, comma 3, del decreto-legge 29 ottobre 2019 n. 126, convertito, con modificazioni, dalla legge 20 dicembre 2019 n. 159.
+				</an:p>
+				
+
+				<an:p>
+					        6-
+					<an:i>ter</an:i>
+					. Ai fini della effettiva immissione in ruolo, coloro i quali siano in possesso dei requisiti previsti al comma 6-
+					<an:i>bis</an:i>
+					 accedono ad una selezione attraverso una sessione speciale di esame consistente nell'espletamento di una prova orale sull'esperienza maturata, anche in ordine alla valutazione sostenuta, nel corso del servizio prestato. A seguito del superamento di tale prova con esito positivo, sono confermati i rapporti di lavoro instaurati con i predetti dirigenti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

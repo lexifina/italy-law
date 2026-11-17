@@ -1,0 +1,97 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/087 presentata da DI SALVO TITTI (PARTITO DEMOCRATICO) in data 05/08/2015
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.6/087
+- Data: 20150805
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/087 presentata da DI SALVO TITTI (PARTITO DEMOCRATICO) in data 05/08/2015
+- Presentatore: DI SALVO TITTI (PARTITO DEMOCRATICO)
+- Cofirmatario: AGOSTINI ROBERTA (PARTITO DEMOCRATICO)
+- Cofirmatario: ARLOTTI TIZIANO (PARTITO DEMOCRATICO)
+- Cofirmatario: ASCANI ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: BARBANTI SEBASTIANO (MISTO-ALTERNATIVA LIBERA)
+- Cofirmatario: BENI PAOLO (PARTITO DEMOCRATICO)
+- Cofirmatario: BIANCHI STELLA (PARTITO DEMOCRATICO)
+- Cofirmatario: BINETTI PAOLA (AREA POPOLARE (NCD-UDC))
+- Cofirmatario: BINI CATERINA (PARTITO DEMOCRATICO)
+- Cofirmatario: BONOMO FRANCESCA (PARTITO DEMOCRATICO)
+- Cofirmatario: BORGHESE MARIO (MISTO-MAIE-MOVIMENTO ASSOCIATIVO ITALIANI ALL'ESTERO - ALLEANZA PER L'ITALIA (API))
+- Cofirmatario: CAPOZZOLO SABRINA (PARTITO DEMOCRATICO)
+- Cofirmatario: CARNEVALI ELENA (PARTITO DEMOCRATICO)
+- Cofirmatario: CARUSO MARIO (PER L'ITALIA - CENTRO DEMOCRATICO)
+- Cofirmatario: CASSANO FRANCO (PARTITO DEMOCRATICO)
+- Cofirmatario: CATALANO IVAN (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: CAUSIN ANDREA (AREA POPOLARE (NCD-UDC))
+- Cofirmatario: CENNI SUSANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: CHAOUKI KHALID (PARTITO DEMOCRATICO)
+- Cofirmatario: CIMBRO ELEONORA (PARTITO DEMOCRATICO)
+- Cofirmatario: COCCIA LAURA (PARTITO DEMOCRATICO)
+- Cofirmatario: COPPOLA PAOLO (PARTITO DEMOCRATICO)
+- Cofirmatario: D'AGOSTINO ANGELO ANTONIO (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: D'INCECCO VITTORIA (PARTITO DEMOCRATICO)
+- Cofirmatario: DAMIANO CESARE (PARTITO DEMOCRATICO)
+- Cofirmatario: DISTASO ANTONIO (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: FABBRI MARILENA (PARTITO DEMOCRATICO)
+- Cofirmatario: FEDI MARCO (PARTITO DEMOCRATICO)
+- Cofirmatario: FITZGERALD NISSOLI FUCSIA (PER L'ITALIA - CENTRO DEMOCRATICO)
+- Cofirmatario: GALLI GIAMPAOLO (PARTITO DEMOCRATICO)
+- Cofirmatario: GARAVINI LAURA (PARTITO DEMOCRATICO)
+- Cofirmatario: GASPARINI DANIELA MATILDE MARIA (PARTITO DEMOCRATICO)
+- Cofirmatario: GIACOBBE ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: GIGLI GIAN LUIGI (PER L'ITALIA - CENTRO DEMOCRATICO)
+- Cofirmatario: GIULIANI FABRIZIA (PARTITO DEMOCRATICO)
+- Cofirmatario: GIULIETTI GIAMPIERO (PARTITO DEMOCRATICO)
+- Cofirmatario: GNECCHI MARIALUISA (PARTITO DEMOCRATICO)
+- Cofirmatario: GRIBAUDO CHIARA (PARTITO DEMOCRATICO)
+- Cofirmatario: IANNUZZI TINO (PARTITO DEMOCRATICO)
+- Cofirmatario: LA MARCA FRANCESCA (PARTITO DEMOCRATICO)
+- Cofirmatario: LAVAGNO FABIO (PARTITO DEMOCRATICO)
+- Cofirmatario: MAESTRI ANDREA (MISTO-ALTRE COMPONENTI DEL GRUPPO)
+- Cofirmatario: MAESTRI PATRIZIA (PARTITO DEMOCRATICO)
+- Cofirmatario: MANFREDI MASSIMILIANO (PARTITO DEMOCRATICO)
+- Cofirmatario: MANZI IRENE (PARTITO DEMOCRATICO)
+- Cofirmatario: MATTIELLO DAVIDE (PARTITO DEMOCRATICO)
+- Cofirmatario: MELILLA GIANNI (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: MELILLI FABIO (PARTITO DEMOCRATICO)
+- Cofirmatario: MIGLIORE GENNARO (PARTITO DEMOCRATICO)
+- Cofirmatario: MINNUCCI EMILIANO (PARTITO DEMOCRATICO)
+- Cofirmatario: MOGNATO MICHELE (PARTITO DEMOCRATICO)
+- Cofirmatario: MORANI ALESSIA (PARTITO DEMOCRATICO)
+- Cofirmatario: MORETTO SARA (PARTITO DEMOCRATICO)
+- Cofirmatario: MOSCATT ANTONINO (PARTITO DEMOCRATICO)
+- Cofirmatario: MURA ROMINA (PARTITO DEMOCRATICO)
+- Cofirmatario: NARDI MARTINA (PARTITO DEMOCRATICO)
+- Cofirmatario: NARDUOLO GIULIA (PARTITO DEMOCRATICO)
+- Cofirmatario: ORFINI MATTEO (PARTITO DEMOCRATICO)
+- Cofirmatario: PIAZZONI ILEANA CATHIA (PARTITO DEMOCRATICO)
+- Cofirmatario: PINNA PAOLA (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: PORTA FABIO (PARTITO DEMOCRATICO)
+- Cofirmatario: QUARTAPELLE PROCOPIO LIA (PARTITO DEMOCRATICO)
+- Cofirmatario: REALACCI ERMETE (PARTITO DEMOCRATICO)
+- Cofirmatario: RIZZETTO WALTER (MISTO-ALTERNATIVA LIBERA)
+- Cofirmatario: ROCCELLA EUGENIA (AREA POPOLARE (NCD-UDC))
+- Cofirmatario: ROSSOMANDO ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: ROSTELLATO GESSICA (PARTITO DEMOCRATICO)
+- Cofirmatario: RUBINATO SIMONETTA (PARTITO DEMOCRATICO)
+- Cofirmatario: SBROLLINI DANIELA (PARTITO DEMOCRATICO)
+- Cofirmatario: SCHIRO' GEA (PARTITO DEMOCRATICO)
+- Cofirmatario: SEGONI SAMUELE (MISTO-ALTERNATIVA LIBERA)
+- Cofirmatario: TARICCO MINO (PARTITO DEMOCRATICO)
+- Cofirmatario: TENTORI VERONICA (PARTITO DEMOCRATICO)
+- Cofirmatario: TERROSI ALESSANDRA (PARTITO DEMOCRATICO)
+- Cofirmatario: TIDEI MARIETTA (PARTITO DEMOCRATICO)
+- Cofirmatario: VENITTELLI LAURA (PARTITO DEMOCRATICO)
+- Cofirmatario: VENTRICELLI LILIANA (PARTITO DEMOCRATICO)
+- Cofirmatario: VEZZALI MARIA VALENTINA (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: VILLECCO CALIPARI ROSA MARIA (PARTITO DEMOCRATICO)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1373
+- Argomento: http://eurovoc.europa.eu/166
+- Argomento: http://eurovoc.europa.eu/3555
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.6/087
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.6_087_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 6/087 presentato da DI SALVO Titti testo di Mercoledì 5 agosto 2015, seduta n. 476 La Camera, premesso che: nelle passate legislature gli organi competenti di Camera e Senato hanno provveduto a dettare alcune disposizioni relative a rapporti che intercorrono tra parlamentari e i loro collaboratori; tali misure, sebbene importanti, non sono risultate in grado di colmare l'enorme vuoto regolamentare nei confronti della figura professionale del collaboratore parlamentare; ad oggi, infatti, non esiste una voce di bilancio specifica e vincolata riferita ai collaboratori; non vi è alcun tipo di modello contrattuale al quale il parlamentare possa fare riferimento, non vi è alcuna relazione fra l'incarico ricoperto, il numero di ore lavorate e la retribuzione, non vi è alcuna chiarezza sul dovere di versamento di tasse, contributi fiscali e previdenziali, così come mancano completamente garanzie di trasparenza ed efficienza nella gestione dell'attività di assistenza al lavoro parlamentare; la mancata regolamentazione, in particolare sotto un profilo qualitativo, della figura professionale del collaboratore parlamentare; lascia quindi il rapporto di lavoro alla sola ed unica contrattazione fra le parti, con il rischio, ampiamente rilevato dai media e, da ultimo, dal rapporto 2014 dell'Istituto di ricerche sulla pubblica amministrazione (IRPA), titolato «I collaboratori dai parlamentari. Il personale addetto alla politica», di produrre distorsioni e irregolarità nel rapporto di lavoro; peraltro, sebbene vi sia l'obbligo da parte del parlamentare di depositare presso gli uffici competenti il contratto del proprio collaboratore, permane ad oggi il ricorso diffuso a contratti di lavoro atipici, in particolare partite IVA e collaborazioni a progetto, nonostante il rapporto di lavoro abbia di sovente le caratteristiche del rapporto di lavoro subordinato e nonostante l'approvazione della legge 10 dicembre 2014, n.183 e relativi decreti attuativi consenta l'adozione di tipologie contrattuali più appropriate all'effettiva prestazione di lavoro resa dai collaboratori; in molti Paesi europei, la figura del collaboratore parlamentare è stata riconosciuta attraverso una chiara definizione e una puntuale e trasparente disciplina dalla materia, nella quale sono esplicitate le diverse configurazioni del rapporto di lavoro (natura autonoma o subordinata), i vari tipi contrattuali, i tetti finanziari e il numero massimo di collaboratori e tirocinanti per parlamentare, il responsabile dell'erogazione della retribuzione, nonché dei contributi fiscali e previdenziali, eventuali requisiti e incompatibilità, nonché le modalità di svolgimento e di risoluzione del rapporto di lavoro; il Parlamento europeo il 25 settembre 2005 ha adottato lo «Statuto dei parlamentari del Parlamento europeo» (2005/684/CE, Euratom), che all'articolo 21 reca le seguenti disposizioni in materia di assistenti dei parlamentari: i deputati hanno diritto ad essere assistiti da collaboratori personali da loro liberamente scelti; il Parlamento copre le spese effettivamente sostenute per l'impiego degli assistenti; il Parlamento fissa le condizioni per l'esercizio di questo diritto; inoltre, con una decisione dell'Ufficio di Presidenza del Parlamento europeo del 19 maggio 2008 (GUCE C 159 del 13 luglio 2008) sono state adottate le Misure di attuazione dello Statuto, il cui Capitolo 5 è dedicato ai collaboratori personali dei deputati; nella seduta del 6 novembre 2013 n.112 nella quale si è discusso e approvato il Documento di Bilancio interno dalla Camera dei deputati, Doc. VIII, n.2, sono stati accolti cinque ordini del giorno (n.38. Boccadutri; n.54. Chaouki; n.69. Cozzolino; n.83. Mannino; n.89. Speranza, Brunetta, Dellai) che con diverse declinazioni, impegnavano l'Ufficio di Presidenza a definire la figura del collaboratore Parlamentare; ad oggi non risulta ancora che l'Ufficio di Presidenza sia intervenuto, come richiesto, sulla questione del collaboratori parlamentari, i quali si sono nel frattempo costituiti nell'Associazione italiana Collaboratori Parlamentari (AICP), che conta oggi più di cento iscritti tra i collaboratori di deputati appartenenti ai diversi gruppi parlamentari, e rappresenta un interlocutore credibile e affidabile per raccogliere indirizzi e suggerimenti orientati al miglioramento delle loro condizioni di lavoro e a un più corretto ed efficace funzionamento della macchina istituzionale; negli ultimi otto mesi, la condizione di lavoro dei collaboratori parlamentari si è ulteriormente deteriorata, in particolare in ragione della loro esclusione dal servizio di ristorazione della Camera, che comporta di fatto una consistente riduzione del loro stipendio per fare fronte alle spese quotidiane per i pasti, invita l'Ufficio di Presidenza a valutare l'opportunità di: dare mandato al Collegio dei Questori affinché approfondisca, riferendo quanto prima all'Ufficio di Presidenza, i termini giuridici, economici, organizzativi e contabili di una disciplina del rapporto di lavoro tra deputato e collaboratore ispirata ai principi di cui alle premesse; ferma restando la massima tutela del diritto di privacy, assumere le opportune iniziative affinché, con riferimento ai contratti di collaborazione parlamentare depositati presso i competenti uffici della Camera dei deputati, sia dato sapere il numero complessivo di tali contratti, la percentuale diversificata delle relative tipologie contrattuali e la media degli emolumenti corrisposti; riattivare un servizio di ristorazione al quale possano accedere anche i collaboratori parlamentari. 9/Doc.VIII, n.6/ 87 . (Testo modificato nel corso della seduta)   Di Salvo , Gigli , Arlotti , Lavagno , Catalano , Narduolo , Carnevali , Giacobbe , Roberta Agostini , Ascani , Beni , Stella Bianchi , Bini , Bonomo , Capozzolo , Cassano , Cenni , Chaouki , Cimbro , Coccia , Coppola , D'Incecco , Damiano , Fabbri , Fedi , Giampaolo Galli , Gasparini , Giuliani , Giulietti , Gnecchi , Gribaudo , Tino Iannuzzi , La Marca , Patrizia Maestri , Manfredi , Manzi , Mattiello , Melilli , Migliore , Minnucci , Mognato , Morani , Moretto , Moscatt , Mura , Nardi , Orfini , Piazzoni , Porta , Quartapelle Procopio , Realacci , Rossomando , Rostellato , Rubinato , Sbrollini , Schirò , Taricco , Tentori , Terrosi , Tidei , Venittelli , Ventricelli , Villecco Calipari , D'Agostino , Pinna , Vezzali , Barbanti , Borghese , Andrea Maestri , Rizzetto , Segoni , Binetti , Causin , Roccella , Caruso , Fitzgerald Nissoli , Distaso , Melilla , Garavini .

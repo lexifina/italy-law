@@ -1,3 +1,0 @@
-Agreement between the Republic of Italy and the Kingdom of Greece for the aviodance of double taxation and the prevention of fiscal evasion with respect to taxes on income.
-
-Parte di provvedimento in formato grafico

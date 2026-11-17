@@ -1,7 +1,0 @@
-DICHIARAZIONE A VERBALE N. 1
-
-Le parti riconoscono l'utilita' che eventuali questioni applicative aventi rilevanza generale nonche' problemi scaturenti da provvedimenti legislativi, pronunce della magistratura, ecc., che incidano direttamente sulla disciplina dei rapporti convenzionali, quale risulta dal presente accordo o dall'accordo collettivo nazionale, reso esecutivo in data 23 marzo 2005, formino oggetto di esame tra le parti nel corso di apposite riunioni convocate dal Ministero del Lavoro, della Salute e delle Politiche Sociali, anche su richiesta di parte sindacale.
-
-DICHIARAZIONE CONGIUNTA
-
-Le parti prendono atto della dichiarazione congiunta resa in occasione dell'accordo collettivo nazionale per la disciplina dei rapporti convenzionali con il personale sanitario non medico operante negli ambulatori direttamente gestiti dal Ministero del Lavoro, della Salute e delle Politiche Sociali, approvato con decreto ministeriale del 30/12/2005 n. 302 e riconoscono l'impossibilita' a procedere alla trattativa congiunta del personale sanitario medico e non medico (altre professionalita') per le diverse scadenze contrattuali. ( Il contratto dei medici ambulatoriali sasn, di cui al presente accordo, scade il 31/12/2005; il contratto delle altre professionalita' scade il 31/12/2006). Si impegnano a procedere alla trattativa congiunta per gli aspetti giuridici ed economici in occasione del prossimo rinnovo contrattuale dei medici ambulatoriali che operano negli uffici SASN.

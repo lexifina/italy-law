@@ -1,3 +1,0 @@
-Art. 1-quinquies.
-
-((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2012, N. 92))

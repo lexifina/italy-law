@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/C/13.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/C/13.16"/>
+					<an:FRBRdate date="2020-06-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1829/C/13.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@"/>
+					<an:FRBRdate date="2020-06-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@.akn"/>
+					<an:FRBRdate date="2020-06-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1829/C/13.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1829" showAs="Ddl 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/23015" showAs="Enrico Montani"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32715" showAs="Armando Siri"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32712" showAs="Paolo Saviane"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Montani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Siri</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Saviane</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo la lettera p), è inserita la seguente:</an:i>
+					 « p
+					<an:i>-bis</an:i>
+					.1) la garanzia di cui alla lettera c) è concessa in favore di piccole e medie imprese e di persone fisiche esercenti attività di impresa nel settore tessile, alimentare e della ristorazione la cui attività d'impresa è stata danneggiata dall'emergenza COVID-19 come da dichiarazione autocertificata ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 2000, n. 445 e che abbiano stimato rimanenze finali ai sensi dell'articolo 2426 del codice civile e dell'articolo 92, comma 1 e seguenti, del testo unico delle imposte sui redditi di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, purché tali finanziamenti prevedano l'inizio del rimborso del capitale non prima di 24 mesi dall'erogazione e abbiano una durata fino a 72 mesi e un importo non superiore al 50 per cento dell'ammontare dei ricavi del soggetto beneficiario, come risultante dall'ultimo bilancio depositato o dall'ultima dichiarazione fiscale presentata alla data della domanda di garanzia, ovvero, per i soggetti beneficiari costituiti dopo il 1° gennaio 2019, da altra idonea documentazione, anche mediante autocertificazione ai sensi dell'articolo 47 del decreto del Presidente della Repubblica 28 dicembre 200, n. 445, e comunque, non superiore a 50.000,00 euro »
+					<an:i>;</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>Al comma 13, la parola</an:i>
+					: «249 » 
+					<an:i>è sostituita dalla seguente</an:i>
+					: « 349 »
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

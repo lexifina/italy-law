@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2755/C/1.0.2"/>
+					<an:FRBRdate date="2017-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@"/>
+					<an:FRBRdate date="2017-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@.akn"/>
+					<an:FRBRdate date="2017-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2755/C/1.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2755" showAs="DDL 2755"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFFAE20YQP5NIMA1EOOVCVPZ2XJVVLXFAOFILL0IKJSHCG1DRKOKO" href="http://dati.senato.it/29106" showAs="GIARRUSSO"/>
+				<an:TLCPerson id="IDY30MFZB1JIFVKQMPFIOZ550E3NDU1PKVTM1QIXNGXRBQC30BBBDF" href="http://dati.senato.it/29055" showAs="BUCCARELLA"/>
+				<an:TLCPerson id="IDRSOCPBDRZF4GBN2NACRCUSBCYG3SILGFVZ0WKIERFI0PPXIVK5ZL" href="http://dati.senato.it/29061" showAs="CAPPELLETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2755</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFFAE20YQP5NIMA1EOOVCVPZ2XJVVLXFAOFILL0IKJSHCG1DRKOKO" as="#tipoSenatore">GIARRUSSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDY30MFZB1JIFVKQMPFIOZ550E3NDU1PKVTM1QIXNGXRBQC30BBBDF" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRSOCPBDRZF4GBN2NACRCUSBCYG3SILGFVZ0WKIERFI0PPXIVK5ZL" as="#tipoSenatore">CAPPELLETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 1-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">(Determinazione del danno non patrimoniale da perdita</an:p>
+				<an:p align="center">del rapporto parentale)</an:p>
+				<an:p>        1. Il danno non patrimoniale da perdita del rapporto parentale derivante dalla lesione all'intangibilità e all'inviolabilità della libera e piena esplicazione delle attività realizzatrici della persona umana nell'ambito della sfera degli affetti e della reciproca solidarietà familiari è determinato in base alla tabella di cui all'allegato 2 annesso alla presente legge.</an:p>
+				<an:p>        2. Con equo e motivato apprezzamento, può essere risarcito anche il danno a rapporti parentali o di convivenza non compresi nell'allegato 2 di cui al comma 1.</an:p>
+				<an:p>        3. Al fine di favorire l'uniformità nella valutazione dei danni non patrimoniali di cui al presente articolo, il Ministero della giustizia provvede, nel mese di gennaio di ogni anno, alla pubblicazione di una raccolta di sentenze emesse nell'anno precedente concernenti la determinazione dei danni non patrimoniali.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

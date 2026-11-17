@@ -1,0 +1,5 @@
+Art. 1677-bis.
+
+(( (Prestazione di piu' servizi riguardanti il trasferimento di cose). )).
+
+((Se l'appalto ha per oggetto la prestazione di servizi di logistica relativi alle attivita' di ricezione, trasformazione, deposito, custodia, spedizione, trasferimento e distribuzione di beni di un altro soggetto, alle attivita' di trasferimento di cose da un luogo a un altro si applicano in ogni caso le norme relative al contratto di trasporto)).

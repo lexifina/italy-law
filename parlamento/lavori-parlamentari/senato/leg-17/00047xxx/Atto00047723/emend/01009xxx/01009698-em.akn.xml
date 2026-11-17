@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/6.140/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/6.140"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/6.140/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.140"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/6.140/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJF31VNJ1MLDIKAXRVFLR1L4NGDDKDL0IUB3J2HBH0MM4OMTZMHLI" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDKLVTAWG15L0QCVMSF1USYF23IGAH4I0CXLK4OLKJYFKV2NMK5XYO" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDQYTCWQIQ1T45KMFQ1G0R2EAHHCWMTZ12VFE0K3BDUDGJHLC0X4CN" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.140</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJF31VNJ1MLDIKAXRVFLR1L4NGDDKDL0IUB3J2HBH0MM4OMTZMHLI" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKLVTAWG15L0QCVMSF1USYF23IGAH4I0CXLK4OLKJYFKV2NMK5XYO" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQYTCWQIQ1T45KMFQ1G0R2EAHHCWMTZ12VFE0K3BDUDGJHLC0X4CN" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo la lettera g), aggiungere la seguente:</an:p>
+				<an:p>
+					        «g-
+					<an:i>bis</an:i>
+					) all'articolo 23-
+					<an:i>bis</an:i>
+					, sostituire la parola: "sospende l'esame della" con: "rigetta la" e, aggiungere dopo la parola: "domanda", le seguenti: ",dandone immediata comunicazione alle competenti autorità per gli adempimenti di cui agli articoli 10, 13 e 14 del decreto legislativo 25 luglio 1998, n. 286" e il comma 2 è soppresso».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

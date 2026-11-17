@@ -1,0 +1,3 @@
+Tratado general de arbitraje entre la Republica de Costa Rica y Italia.
+
+Parte di provvedimento in formato grafico

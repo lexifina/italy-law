@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI BORGO VAL DI TARO
-
-Parte di provvedimento in formato grafico

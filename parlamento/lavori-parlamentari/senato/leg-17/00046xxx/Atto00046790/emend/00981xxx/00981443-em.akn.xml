@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/20.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/20.22"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/20.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@.akn"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2345/A/20.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2345" showAs="DDL 2345"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5YRA4HSDWQH4DCBYLRFUCQ51XBKIH42PPAIZJNCV3XGSESCAWMIK" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDXYP3DQK22JION5ZXJFUTT333PL2GU1QOYBZMNBGYLPH0WYNG35QP" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="ID3DGHDYDWIIZJFO5EKQF10HUPFKFAUQSV0GXF2FFADBTEWJF2RDIC" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDWXB2VLB2P2F4PJNPQ4BUIHXZKFPIJYBVFCBUY4JJ0TW0ZGT0TVJI" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2345</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5YRA4HSDWQH4DCBYLRFUCQ51XBKIH42PPAIZJNCV3XGSESCAWMIK" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXYP3DQK22JION5ZXJFUTT333PL2GU1QOYBZMNBGYLPH0WYNG35QP" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3DGHDYDWIIZJFO5EKQF10HUPFKFAUQSV0GXF2FFADBTEWJF2RDIC" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWXB2VLB2P2F4PJNPQ4BUIHXZKFPIJYBVFCBUY4JJ0TW0ZGT0TVJI" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, dopo la lettera f), inserire le seguenti:</an:p>
+				<an:p>
+					            «
+					<an:i>f-bis)</an:i>
+					 stabilire che solo gli importi dovuti ai titolari dei diritti siano considerati non distribuibili solo nel caso in cui siano trascorsi tre anni a decorrere dalla fine dell'esercizio finanziario nel corso del quale sono stati riscossi i proventi dei diritti, e a condizione che gli organismi di gestione collettiva abbiano adottato tutte le misure necessarie per identificare e localizzare i titolari dei diritti;
+				</an:p>
+				<an:p>
+					<an:i>f-ter)</an:i>
+					 per le finalità di cui al comma precedente, prevedere che gli organismi di gestione collettiva adottino tutte le misure necessarie per identificare e localizzare i titolari dei diritti, assicurando che gli organismi di gestione collettiva mettano a disposizione le informazioni sulle opere o altri materiali protetti per i quali uno o più titolari dei diritti non sono stati identificati o localizzati:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 ai titolari dei diritti che rappresentano o alle entità che rappresentano titolari dei diritti, qualora tali entità siano membri di un organismo di gestione collettiva;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 a tutti gli organismi di gestione collettiva con cui hanno concluso accordi di rappresentanza;
+				</an:p>
+				<an:p>
+					<an:i>f-quater)</an:i>
+					 sancire che le informazioni di cui al comma precedente includano, qualora disponibili, almeno:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 il titolo dell'opera o altro materiale protetto;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 il nome del titolare dei diritti;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 il nome dell'editore o produttore pertinente;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 qualsiasi altra informazione rilevante disponibile che potrebbe contribuire all'identificazione del titolare dei diritti.
+				</an:p>
+				<an:p>
+					<an:i>f-quinquies)</an:i>
+					 stabilire che ove le misure di cui al comma precedente non producano i risultati attesi, gli organismi di gestione collettiva mettano tali informazioni a disposizione del pubblico al più tardi un anno dalla fine dell'esercizio finanziario nel corso del quale sono stati riscossi i proventi dei diritti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

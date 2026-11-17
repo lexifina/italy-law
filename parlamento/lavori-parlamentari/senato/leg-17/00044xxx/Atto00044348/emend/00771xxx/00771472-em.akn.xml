@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1465/A/17.0.4"/>
+					<an:FRBRdate date="2014-06-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="17.0.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@"/>
+					<an:FRBRdate date="2014-06-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@.akn"/>
+					<an:FRBRdate date="2014-06-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-06-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-06-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1465/A/17.0.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1465" showAs="DDL 1465"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29046" showAs="Bertorotta"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29106" showAs="Giarrusso"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29101" showAs="Fucksia"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29050" showAs="Blundo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29177" showAs="Scibona"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1465</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 17.0.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bertorotta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Giarrusso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fucksia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Blundo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Scibona</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 17</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 17-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifica all'articolo 2, comma 1, del decreto-legge 10 ottobre 2012, n.  174, convertito, con modificazioni, dalla legge 7 dicembre 2012, n.  213, in materia di esclusione dall'erogazione del vitalizio dei condannati per reati di particolare gravità sociale)</an:i>
+				</an:p>
+				<an:p align="justify">
+					        1. All'articolo 2, comma 1, lettera 
+					<an:i>n)</an:i>
+					, del decreto-Iegge 10 ottobre 2012, n. 174, convertito, con modificazioni, dalla legge 7 dicembre 2012, n. 213, aggiungere in fine le seguenti parole: «, nonché in favore di chi sia condannato in via definitiva per delitti contro l'amministrazione della giustizia, per delitti di cui agli articoli 416-
+					<an:i>bis</an:i>
+					 e 416-
+					<an:i>ter</an:i>
+					 del codice penale, ovvero per delitti aggravati ai sensi dell'articolo 7, del decreto-legge 13 maggio 1991, n. 152, convertito con modificazioni dalla legge 12 luglio 1991, n. 203».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

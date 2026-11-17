@@ -1,0 +1,45 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la direttiva 2011/16/UE del Consiglio, del 15 febbraio 2011, relativa alla cooperazione amministrativa nel settore fiscale e che abroga la direttiva 77/799/CEE;
+
+Vista la direttiva 95/46/CE del Parlamento europeo e del Consiglio, del 24 ottobre 1995, relativa alla tutela delle persone fisiche con riguardo al trattamento dei dati personali, nonche' alla libera circolazione di tali dati;
+
+Visto il regolamento (CE) n. 45/2001 del Parlamento europeo e del Consiglio, del 18 dicembre 2000, concernente la tutela delle persone fisiche in relazione al trattamento dei dati personali da parte delle istituzioni e degli organismi comunitari, nonche' la libera circolazione di tali dati;
+
+Visto l'articolo 23 del decreto legislativo 30 luglio 1999, n. 300;
+
+Visto il decreto del Presidente della Repubblica 30 gennaio 2008, n. 43, recante regolamento di riorganizzazione del Ministero dell'economia e delle finanze, a norma dell'articolo 1, comma 404, della legge 27 dicembre 2006, n. 296;
+
+Visto il decreto del Presidente della Repubblica 18 luglio 2011, n. 173, concernente regolamento recante modifiche al decreto del Presidente della Repubblica 30 gennaio 2008, n. 43, concernente la riorganizzazione del Ministero dell'economia e delle finanze;
+
+Visto l'articolo 23-quater del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, recante disposizioni urgenti per la revisione della spesa pubblica con invarianza dei servizi ai cittadini nonche' misure di rafforzamento patrimoniale delle imprese del settore bancario, che dispone l'incorporazione dell'Amministrazione autonoma dei Monopoli di Stato e dell'Agenzia del territorio, rispettivamente, nell'Agenzia delle dogane e nell'Agenzia delle entrate;
+
+Visto il decreto del Presidente della Repubblica 29 settembre 1973, n. 600;
+
+Vista la legge 29 ottobre 1961, n. 1216, recante nuove disposizioni tributarie in materia di assicurazioni private e di contratti vitalizi e, in particolare l'articolo 28-bis in materia di assistenza per lo scambio di informazioni tra le autorita' competenti degli Stati membri dell'Unione europea;
+
+Visto l'articolo 53-bis del decreto del Presidente della Repubblica 26 aprile 1986, n. 131, che dispone che le attribuzioni e i poteri di cui agli articoli 31 e seguenti del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, possono essere esercitati anche ai fini dell'imposta di registro, nonche' delle imposte ipotecaria e catastale previste dal testo unico di cui al decreto legislativo 31 ottobre 1990, n. 347;
+
+Visto l'articolo 13 del decreto legislativo 31 ottobre 1990, n. 347, che per l'accertamento e la liquidazione delle imposte ipotecaria e catastale, per la irrogazione delle relative sanzioni, per le modalita' e i termini della riscossione e per la prescrizione, rinvia alle disposizioni relative all'imposta di registro e all'imposta sulle successioni e donazioni;
+
+Visto il decreto legislativo 30 giugno 2003, n. 196, Codice in materia di protezione dei dati personali;
+
+Vista la legge 27 luglio 2000, n. 212, recante disposizioni in materia di statuto dei diritti del contribuente ed in particolare l'articolo 12, che detta principi in merito a «Diritti e garanzie del contribuente sottoposto a verifiche fiscali»;
+
+Vista la legge 24 dicembre 2012, n. 234, recante norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea;
+
+Vista la legge 6 agosto 2013, n. 96, recante la delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 21 novembre 2013;
+
+Acquisito il parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, espresso nella seduta del 6 febbraio 2014;
+
+Acquisito il parere delle competenti Commissioni parlamentari della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 28 febbraio 2014;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'economia e delle finanze, di concerto con i Ministri degli affari esteri e della giustizia;
+
+Emana il seguente decreto legislativo:

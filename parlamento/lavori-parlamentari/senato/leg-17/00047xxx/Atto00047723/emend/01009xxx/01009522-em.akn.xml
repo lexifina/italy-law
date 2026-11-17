@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/1.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/1.6"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/1.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/1.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID13UC31WICPGMGKOLNWXJRTSWKCOAQUAQGV5CXFHDTYNEAFV40PIN" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDUQ45MEHA44WHNCAHJUE0QP0QJCK4PDFWOFMF10NYSEG3RDKRDTQF" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDX3TO2WICTMHXBVX5RH0V4XHDYG4DV1TDS2P4NEPDEDMVDQDYGIYH" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDNKF1YR5OHLLUPJQ0LNGCMEVO2D31DNIJULG0VDBTMHBM3SGTMI4N" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDJYLBF5TQY5ZVKLTDV4PXD4F5DJMQ2D2YQZDIVPPSLRGRZAHIIHWN" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID13UC31WICPGMGKOLNWXJRTSWKCOAQUAQGV5CXFHDTYNEAFV40PIN" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUQ45MEHA44WHNCAHJUE0QP0QJCK4PDFWOFMF10NYSEG3RDKRDTQF" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX3TO2WICTMHXBVX5RH0V4XHDYG4DV1TDS2P4NEPDEDMVDQDYGIYH" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNKF1YR5OHLLUPJQ0LNGCMEVO2D31DNIJULG0VDBTMHBM3SGTMI4N" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJYLBF5TQY5ZVKLTDV4PXD4F5DJMQ2D2YQZDIVPPSLRGRZAHIIHWN" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo con il seguente:</an:p>
+				<an:p>
+					        «Art. 1. - 
+					<an:i>(Istituzione di sezioni specializzate presso i tribunali ordinari dei capoluoghi dei distretti di Corte d'appello in materia di immigrazione, protezione internazionale e libera circolazione dei cittadini dell'Unione europea). - 1</an:i>
+					. Sono istituite presso le sedi dei tribunali ordinari dei capoluoghi dei distretti di Corte d'Appello sezioni specializzate in materia di immigrazione, protezione internazionale e libera circolazione dei cittadini dei paesi dell'Unione europea senza oneri aggiuntivi per la finanza pubblica né incrementi di dotazioni organiche».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 4 sostituire il comma 1 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «1. Le controversie e i procedimenti di cui all'articolo 3, comma 1, sono assegnate alle sezioni specializzate con sede nei tribunali ordinari dei capoluoghi dei distretti di Corte d'Appello nel cui territorio il richiedente ha la residenza o il domicilio o la dimora».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,9 +1,0 @@
-Art. 493-ter.
-
-((Indebito utilizzo e falsificazione di strumenti di pagamento diversi dai contanti)).
-
-Chiunque al fine di trarne profitto per se' o per altri, indebitamente utilizza, non essendone titolare, carte di credito o di pagamento, ovvero qualsiasi altro documento analogo che abiliti al prelievo di denaro contante o all'acquisto di beni o alla prestazione di servizi, ((o comunque ogni altro strumento di pagamento diverso dai contanti)) e' punito con la reclusione da uno a cinque anni e con la multa da 310 euro a 1.550 euro. Alla stessa pena soggiace chi, al fine di trarne profitto per se' o per altri, falsifica o altera ((gli strumenti o i documenti di cui al primo periodo)), ovvero possiede, cede o acquisisce ((tali strumenti)) o documenti di provenienza illecita o comunque falsificati o alterati, nonche' ordini di pagamento prodotti con essi.
-
-In caso di condanna o di applicazione della pena su richiesta delle parti a norma dell'articolo 444 del codice di procedura penale per il delitto di cui al primo comma e' ordinata la confisca delle cose che servirono o furono destinate a commettere il reato, nonche' del profitto o del prodotto, salvo che appartengano a persona estranea al reato, ovvero quando essa non e' possibile, la confisca di beni, somme di denaro e altre utilita' di cui il reo ha la disponibilita' per un valore corrispondente a tale profitto o prodotto.
-
-Gli strumenti sequestrati ai fini della confisca di cui al secondo comma, nel corso delle operazioni di polizia giudiziaria, sono affidati dall'autorita' giudiziaria agli organi di polizia che ne facciano richiesta.

@@ -1,7 +1,0 @@
-Allegato 1
-
-(articolo 6, comma 5)
-
-Modulo di annotazione degli articoli pirotecnici e dei rifiuti da pirotecnici raggruppati presso il deposito preliminare
-
-Parte di provvedimento in formato grafico

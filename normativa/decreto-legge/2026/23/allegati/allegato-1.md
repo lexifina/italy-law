@@ -1,0 +1,15 @@
+((ALLEGATO 1
+
+(Articolo 20, comma 1, lettera q)) ))
+
+(("Tabella 4)) - Quadro I (specchio C - anno 2027) (( (art. 1226-bis, comma 1) ))
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+--------------
+
+AGGIORNAMENTO (1)
+
+La L. 24 aprile 2026, n. 54 ha disposto (con l'art. 1, comma 1) che "le parole: «del decreto legislativo n. 66 del 2010» e la parola: «COM» sono soppresse".

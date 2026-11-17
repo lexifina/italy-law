@@ -1,5 +1,0 @@
-Allegato 5
-
-(previsto dall'articolo 12, comma 2)
-
-Parte di provvedimento in formato grafico

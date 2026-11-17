@@ -1,5 +1,0 @@
-Convenzione doganale per facilitare l'importazione di merci destinate a esposizioni, fiere, congressi o manifestazioni similari (Bruxelles, 8 giugno 1961)
-
-CONVENTION DOUANIERE
-
-Parte di provvedimento in formato grafico

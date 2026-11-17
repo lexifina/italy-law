@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 5 della legge 2 aprile 1953, n. 212, relativa alla ulteriore proroga della legge 8 marzo 1949, n. 75, recante provvedimenti a favore della industria delle costruzioni navali e dell'armamento;
-
-Visti gli articoli 76 e 87 della Costituzione;
-
-Sentito il Consiglio dei Ministri;
-
-Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri per il tesoro, finanze, giustizia, difesa, industria e commercio e commercio estero; Decreta:

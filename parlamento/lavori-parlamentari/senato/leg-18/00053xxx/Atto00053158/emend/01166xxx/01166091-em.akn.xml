@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/9.21/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/9.21"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/9.21/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.21"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/9.21/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3TDQXIBCXS5IMHR4QR4ZMJGV2O1TH2JJB0TN3VLMAZXQCA0E41YP" href="http://dati.senato.it/32607" showAs="CORRADO"/>
+				<an:TLCPerson id="IDB31RW5IBLJT3LZVOSTUBU3HHBDVFISYPLBG3UCR3JH551ZW5CFD" href="http://dati.senato.it/32648" showAs="LA MURA"/>
+				<an:TLCPerson id="IDZF55LGUD254GHGKAOSM4SR05SMWPNNPHEXR2AYNJOWAEKNHR2CWH" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.21</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3TDQXIBCXS5IMHR4QR4ZMJGV2O1TH2JJB0TN3VLMAZXQCA0E41YP" as="#tipoSenatore">CORRADO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB31RW5IBLJT3LZVOSTUBU3HHBDVFISYPLBG3UCR3JH551ZW5CFD" as="#tipoSenatore">LA MURA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZF55LGUD254GHGKAOSM4SR05SMWPNNPHEXR2AYNJOWAEKNHR2CWH" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 3, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis</an:i>
+					. All'articolo 4-
+					<an:i>ter</an:i>
+					, comma 1, del decreto-legge 23 dicembre 2013, n. 145, convertito, con modificazioni, dalla legge 21 febbraio 2014, n. 9, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 le parole: ''ai sensi dell'articolo 20 del decreto-legge 29 novembre 2008, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2, e successive modificazioni'' sono aggiunte le seguenti: ''ad eccezione del comma 5, primo, secondo e terzo periodo, del citato articolo 20'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 dopo le parole: ''nonché il compenso del commissario stesso, determinato ai sensi dell'articolo 15, comma 3, del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111'' sono soppresse;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 sono aggiunte, in fine, le seguenti parole: ''Al Commissario di cui al presente comma non spetta alcun compenso per l'attività commissariale svolta, fatto salvo il rimborso delle spese sostenute.'';
+				</an:p>
+				<an:p>
+					        3-
+					<an:i>ter</an:i>
+					. All'articolo 5 del decreto-legge 14 ottobre 2019, convertito, con modificazioni, dalla legge 12 dicembre 2019, n. 141, il comma 5 è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					        ''5. Con il provvedimento di nomina del Commissario ai sensi dell'articolo 41, comma 2-
+					<an:i>bis</an:i>
+					, della legge 24 dicembre 2012, n. 234, è stabilita la percentuale del quadro economico degli interventi da realizzare da destinare alle spese per le esigenze operative e per il funzionamento della struttura, ivi compresi gli eventuali oneri per le convenzioni di cui al comma 1''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

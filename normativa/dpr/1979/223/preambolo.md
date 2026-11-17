@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Visto l'art. 9 della legge 22 luglio 1975, n. 382;
+
+Visto il decreto-legge 29 maggio 1979, n. 163;
+
+Visti gli accordi per il triennio contrattuale 1976-78 intervenuti il 20 dicembre 1978 tra il Governo ed i rappresentanti della Federazione unitaria Cgil-Cisl-Uil, dell'intesa dei sindacati autonomi e della Cisnal, con i quali si e' convenuto di corrispondere al personale statale dal 1 gennaio 1978 l'importo di L. 800 annue per ogni mese o frazione di mese superiore a quindici giorni di servizio di ruolo e non di ruolo comunque prestato alle dipendenze dello Stato; importo che costituisce maturato economico ai fini dell'inquadramento del personale nei nuovi livelli funzionali-retributivi;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con i Ministri del bilancio e della programmazione economica e del tesoro; Decreta:

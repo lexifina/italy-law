@@ -1,0 +1,21 @@
+UMBERTO DI SAVOIA
+
+Principe di Piemonte
+
+Luogotenente Generale del Regno
+
+In virtu' dell'autorita' a Noi delegata;
+
+Visto il R. decreto 15 marzo 1927, n. 436, sulla disciplina dei contratti di compravendita degli autoveicoli e sulla istituzione del Pubblico Registro Automobilistico presso la sede dell'Automobile Club d'Italia;
+
+Visto il decreto 29 luglio 1927, n. 1814, recante disposizioni di attuazione e transitorie del citato R. decreto-legge 15 marzo 1927, n. 436;
+
+Vista 1a legge 14 luglio 1941, n. 700, che approva le nuove tariffe delle tasse e degli emolumenti dovuti sugli atti da prodursi al Pubblico Registro Automobilistico;
+
+Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151;
+
+Visto il decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58;
+
+Vista la deliberazione del Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze; Abbiamo sanzionato e promulghiamo quanto segue:

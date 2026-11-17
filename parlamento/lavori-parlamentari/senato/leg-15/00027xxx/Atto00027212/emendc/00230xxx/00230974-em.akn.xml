@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5"/>
+					<an:FRBRdate date="2006-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1183/64/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@"/>
+					<an:FRBRdate date="2006-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@.akn"/>
+					<an:FRBRdate date="2006-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-12-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-12-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1183/C/G/1183/64/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1183" showAs="DDL 1183"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/991" showAs="Finocchiaro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/2129" showAs="Russo Spena"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/12608" showAs="Palermi"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17630" showAs="Formisano"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22802" showAs="Barbato"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1183</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1183/64/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Finocchiaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Russo Spena</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Palermi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Formisano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Barbato</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Il Senato,</an:i>
+				</an:p>
+				<an:p>            in sede di esame del disegno di legge finanziaria per il 2007;</an:p>
+				<an:p>            considerato l'ampio dibattito politico che, da anni, impegna il Parlamento e l'opinione pubblica sulla disciplina delle unioni di fatto e sui diritti e doveri che ne derivano,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a presentare, entro il 31 gennaio 2007, un disegno di legge sulle unioni di fatto che:</an:p>
+				<an:p>                risulti coerente con le numerose decisioni adottate dalla Corte costituzionale in materia di non discriminazione di trattamento del convivente, nonché con gli articoli 2 e 3 della Costituzione italiana, 21 della Carta dei diritti fondamentali dell'Unione europea, I-2 del Trattato che adotta una Costituzione per l'Europa;</an:p>
+				<an:p>                riconosca diritti, anche in materia fiscale, prerogative e facoltà alle persone che fanno parte di unioni di fatto e non consideri dirimente, al fine di definire natura e qualità dell'unione di fatto, nè il genere dei conviventi nè il loro orientamento sessuale.</an:p>
+				<an:p/>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

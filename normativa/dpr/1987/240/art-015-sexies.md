@@ -1,0 +1,11 @@
+Art. 15-sexies.
+
+(( (Riassorbimento degli scatti aggiuntivi) ))
+
+((
+
+1.
+
+Gli scatti aggiuntivi di cui agli articoli 15-quater e 15-quinquies sono riassorbiti all'atto dell'accesso al livello retributivo superiore.
+
+))

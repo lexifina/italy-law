@@ -1,7 +1,0 @@
-REGIO DECRETO
-
-21 agosto 1906
-
-CCCLXXVIII
-
-Riunione di Comuni. (0600378R)

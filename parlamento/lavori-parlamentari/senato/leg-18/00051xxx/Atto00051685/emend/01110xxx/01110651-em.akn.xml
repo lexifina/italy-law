@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1248/A/1.698/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1248/A/1.698"/>
+					<an:FRBRdate date="2019-06-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1248/A/1.698/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.698"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@"/>
+					<an:FRBRdate date="2019-06-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@.akn"/>
+					<an:FRBRdate date="2019-06-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1248/A/1.698/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1248" showAs="DDL 1248"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKVFYUH5WISKXNBTZNZFMLQOYICE3MAPZZVNL3YK5CUMD5DLS2R5F" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDJEFMKZJCQUSKNBEAQ3EOQPMWWD42TELCNEEYKAB5A5GFOPRG4T3K" href="http://dati.senato.it/32727" showAs="UNTERBERGER"/>
+				<an:TLCPerson id="IDTGO2P35KCILCHYT4AFWAH5MPCKF4CSS0KQYPTOE1242V54MMKSM" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1248</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.698</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKVFYUH5WISKXNBTZNZFMLQOYICE3MAPZZVNL3YK5CUMD5DLS2R5F" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJEFMKZJCQUSKNBEAQ3EOQPMWWD42TELCNEEYKAB5A5GFOPRG4T3K" as="#tipoSenatore">UNTERBERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTGO2P35KCILCHYT4AFWAH5MPCKF4CSS0KQYPTOE1242V54MMKSM" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 3 con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «3. Le disposizioni di cui al comma 1, lettera 
+					<an:i>n)</an:i>
+					, numeri 1), 2), 3, 5) e 6) si applicano anche alle procedure i cui bandi o avvisi, con i quali si indice una gara, sono pubblicati anteriormente alla data di entrata in vigore del presente decreto, nonché, in caso di contratti senza pubblicazione di bandi o avvisi, anche alle procedure in cui, alla medesima data, sono stati inviati gli inviti a presentare le offerte, fermo restando gli effetti di provvedimenti definitivi ed inoppugnabili e delle pronunce giurisprudenziali passate in giudicato. Le restanti disposizioni di cui ai commi 1 e 2 si applicano alle procedure i cui bandi o avvisi, con i quali si indice una gara, sono pubblicati successivamente alla data di entrata in vigore del presente decreto, nonché, in caso di contratti senza pubblicazione di bandi o avvisi, alle procedure in cui, alla medesima data, non sono ancora stati inviati gli inviti a presentare le offerte».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

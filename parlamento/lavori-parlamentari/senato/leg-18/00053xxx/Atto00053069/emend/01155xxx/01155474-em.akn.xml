@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9"/>
+					<an:FRBRdate date="2020-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1-bis.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@"/>
+					<an:FRBRdate date="2020-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@.akn"/>
+					<an:FRBRdate date="2020-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1845/A/1-bis.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1845" showAs="DDL 1845"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVFKUYXDDC0IFGRL32NBDMYJKONSQAVTCSB5B3MHPM4DVBZXHGZMG" href="http://dati.senato.it/32679" showAs="PAGANO"/>
+				<an:TLCPerson id="IDESF2ILYFIMJKFXME24OBABJZEKDDGONUEQ3PCJCCH554GWEYTQGD" href="http://dati.senato.it/4584" showAs="VITALI"/>
+				<an:TLCPerson id="IDTMTCSD11VIDGBQM0NC4SNNUKKPAZM5A0MKNCL3BIYYG2KUOMQN5E" href="http://dati.senato.it/4192" showAs="FAZZONE"/>
+				<an:TLCPerson id="IDR4XZRUCMSFKINIEZJGKK3ONQGHBODR50CQ132YBFDJYJC4YWHEBB" href="http://dati.senato.it/3939" showAs="SCHIFANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1845</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1-bis.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVFKUYXDDC0IFGRL32NBDMYJKONSQAVTCSB5B3MHPM4DVBZXHGZMG" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDESF2ILYFIMJKFXME24OBABJZEKDDGONUEQ3PCJCCH554GWEYTQGD" as="#tipoSenatore">VITALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTMTCSD11VIDGBQM0NC4SNNUKKPAZM5A0MKNCL3BIYYG2KUOMQN5E" as="#tipoSenatore">FAZZONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR4XZRUCMSFKINIEZJGKK3ONQGHBODR50CQ132YBFDJYJC4YWHEBB" as="#tipoSenatore">SCHIFANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, secondo periodo, aggiungere in fine le parole:</an:i>
+				</an:p>
+				<an:p>        ", nonché le disposizioni per la parità di accesso ai mezzi di informazione durante le campagne elettorali e referendarie, assicurando che, data la concentrazione delle scadenze elettorali di cui al primo periodo, sia comunque garantito il pluralismo attraverso un'informazione completa, obiettiva, imparziale ed equilibrata, sia nell'ambito dell'elezione dei sindaci, dei Presidenti delle province e delle regioni, dei Consigli comunali, provinciali e regionali, sia per il referendum confermativo del testo di legge costituzionale recante «Modifiche agli articoli 56, 57 e 59 della Costituzione in materia di riduzione del numero dei parlamentari», pubblicato nella Gazzetta Ufficiale n. 240 del 12 ottobre 2019. La partecipazione dei soggetti nei programmi di informazione e nei programmi di comunicazione politica è determinata in ordine crescente sulla base della rappresentanza parlamentare al momento dell'indizione dei comizi elettorali, garantendo priorità ai rappresentanti del comitato promotore del referendum confermativo di cui al periodo precedente."</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

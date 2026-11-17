@@ -1,3 +1,0 @@
-Art. 38-bis.
-
-((ARTICOLO ABROGATO DAL D.L. 2 MARZO 2024, N. 19))

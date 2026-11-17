@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2381/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2381"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2381/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2381"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.2381/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5E01UKSPGPR5MUNWDLYVIA2Y1NPCL5PCGTJJAVHBAUKVZLB04UEM" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDZKBDUV33OPIGKZIRXUZLB1QWDDDT3AUYB2NROEKPE5D3QRAUPAJP" href="http://dati.senato.it/25295" showAs="PITTONI"/>
+				<an:TLCPerson id="IDL1AFWG0APEAKHGU0O5R0NRWHFHK4GJERG1QLJILSW4R05E44UWZC" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDJORFO4KXZS3RC3OVPFGI3GEQEI3CUEWVW22JTBLFDL2KKEPSOABM" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDEHP5LSE533R4UI12DHAIEI15JHSYMVXPR154ABS01S0BOZPW3XO" href="http://dati.senato.it/32716" showAs="SOLINAS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2381</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5E01UKSPGPR5MUNWDLYVIA2Y1NPCL5PCGTJJAVHBAUKVZLB04UEM" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZKBDUV33OPIGKZIRXUZLB1QWDDDT3AUYB2NROEKPE5D3QRAUPAJP" as="#tipoSenatore">PITTONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDL1AFWG0APEAKHGU0O5R0NRWHFHK4GJERG1QLJILSW4R05E44UWZC" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJORFO4KXZS3RC3OVPFGI3GEQEI3CUEWVW22JTBLFDL2KKEPSOABM" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEHP5LSE533R4UI12DHAIEI15JHSYMVXPR154ABS01S0BOZPW3XO" as="#tipoSenatore">SOLINAS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 453, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «453-
+					<an:i>bis</an:i>
+					. Al fine di assicurare la qualità e la continuità del servizio scolastico ed educativo offerto dalle scuole paritarie di cui alla legge 10 marzo 2000, n. 62, è autorizzata la spesa di 700 milioni di euro per ciascuno degli anni 2016, 2017 e 2018 per il finanziamento delle scuole paritarie di cui alla citata legge».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 421, sostituire le parole:</an:i>
+					 «130.317.000 per l'anno 2019» 
+					<an:i>e</an:i>
+					 «107.220.000 per l'anno 2021, di euro 146.089.000 per l'anno 2022, di euro 145.512.000 per l'anno 2023, di euro 145.232.000 per l'anno 2024, di euro 145.143.000 per l'anno 2025, di euro 145.006.000 per l'anno 2026, di euro 143.318.000 per l'anno 2027 e di euro 143.293.000 annui a decorrere dall'anno 2028,» 
+					<an:i>con le seguenti:</an:i>
+					 «110.317.000 per l'anno 2019» 
+					<an:i>e</an:i>
+					 « 87.220.000 per l'anno per 2021, di euro 126.089.000 per l'anno 2022, di euro 125.512.000 per l'anno 2023, di euro 125.232.000 per l'anno 2024, di euro 125.143.000 per l'anno 2025, di euro 125.006.000 per l'anno 2026, di euro 123.318.000 per l'anno 2027 e di euro 123.293.000 annui a decorrere dall'anno 2028».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla tabella A, voce</an:i>
+					 Ministero economia e finanze
+					<an:i>, apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p>            2020: - 20.000 (in milioni).</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,5 +1,0 @@
-Agreement between the Soviet Military Administration in Germany and the italian Government covering trade between the Soviet Zone of
-
-Occupation in Germany and Italy.
-
-Parte di provvedimento in formato grafico

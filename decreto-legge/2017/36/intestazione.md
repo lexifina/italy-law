@@ -1,9 +1,0 @@
-DECRETO-LEGGE
-
-27 marzo 2017
-
-36
-
-Proroga di termini relativi alla definizione agevolata dei carichi affidati agli agenti della riscossione. (17G00049)
-
-Entrata in vigore del provvedimento: 29/03/2017Decreto-Legge decaduto per mancata conversione.

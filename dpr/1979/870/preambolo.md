@@ -1,7 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967 n. 18, relativo all'ordinamento dell'Amministrazione degli affari esteri;
-
-Visto il decreto del Presidente della Repubblica 3 gennaio 1972, n. 37, pubblicato nella Gazzetta Ufficiale n. 67 del 10 marzo 1972, con il quale veniva istituito in Cochin (India) un consolato di seconda categoria;
-
-Sulla proposta del Ministro degli affari esteri; Decreta:

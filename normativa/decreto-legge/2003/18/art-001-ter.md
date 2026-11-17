@@ -1,0 +1,9 @@
+Art. 1-ter.
+
+((
+
+1.
+
+Al comma 4 dell'articolo 10 e al comma 1, lettera a), dell'articolo 13 del testo unico delle disposizioni legislative e regolamentari in materia di spese di giustizia, di cui al decreto del Presidente della Repubblica 30 maggio 2002, n. 115, la parola: "1.033" e' sostituita dalla seguente: "1.100".
+
+2. Alle minori entrate derivanti dall'attuazione del presente articolo, determinate nella misura di 1.800.000 euro annui a decorrere dal 2003, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2003-2005, nell'ambito dell'unita' previsionale di base di parte corrente "Fondo speciale" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno finanziario 2003, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero della giustizia))

@@ -1,3 +1,0 @@
-Additional Protocol
-
-Parte di provvedimento in formato grafico

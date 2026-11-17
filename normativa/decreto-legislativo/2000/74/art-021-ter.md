@@ -1,0 +1,11 @@
+Art. 21-ter.
+
+(( (Applicazione ed esecuzione delle sanzioni penali e amministrative). ))
+
+((
+
+1.
+
+Quando, per lo stesso fatto e' stata applicata, a carico del soggetto, una sanzione penale ovvero una sanzione amministrativa o una sanzione amministrativa dipendente da reato, il giudice o l'autorita' amministrativa, al momento della determinazione delle sanzioni di propria competenza e al fine di ridurne la relativa misura, tiene conto di quelle gia' irrogate con provvedimento o con sentenza assunti in via definitiva.
+
+))

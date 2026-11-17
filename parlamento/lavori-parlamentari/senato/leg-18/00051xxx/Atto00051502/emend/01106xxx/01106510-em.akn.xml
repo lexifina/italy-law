@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/10.1"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@.akn"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-03-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-03-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018-B/A/10.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018-B" showAs="DDL 1018-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTOGQQUNBL4J4BFGMBWLO23UXSPHKFATQJ2J4F1NBXWQTB1QBDLF" href="http://dati.senato.it/29157" showAs="PARENTE"/>
+				<an:TLCPerson id="IDSZZI0VHZXDDBBEIMVI4LRVO32EKNUIYEOAKU1SDNXMVC32H5ONLI" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="IDDR3O3FH251PHJLAXEE54C5GKND0OVS410XOCSLBBU0M4ID2RX4JH" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDUDUB20EU1UHSMDYABH2HW3M03LRPJVORBHTWCWPE5HDFCKEZR0IK" href="http://dati.senato.it/32651" showAs="LAUS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTOGQQUNBL4J4BFGMBWLO23UXSPHKFATQJ2J4F1NBXWQTB1QBDLF" as="#tipoSenatore">PARENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSZZI0VHZXDDBBEIMVI4LRVO32EKNUIYEOAKU1SDNXMVC32H5ONLI" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDR3O3FH251PHJLAXEE54C5GKND0OVS410XOCSLBBU0M4ID2RX4JH" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUDUB20EU1UHSMDYABH2HW3M03LRPJVORBHTWCWPE5HDFCKEZR0IK" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 1-</an:i>
+					bis 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>1-bis</an:i>
+					. La valutazione del Rdc è di competenza di un soggetto individuato a seguito di procedure di evidenza pubblica cui possono partecipare agenzie, strutture o organismi di comprovata esperienza e competenza in materia di valutazione di politiche pubbliche, in ambito nazionale e internazionale, nonché di attestata indipendenza e terzietà. I risultati della valutazione sono resi pubblici dal Ministero del lavoro e delle politiche sociali con modalità 
+					<an:i>open access</an:i>
+					.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

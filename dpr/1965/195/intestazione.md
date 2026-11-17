@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-27 febbraio 1965
-
-195
-
-Modificazioni allo statuto dell'Universita' degli studi di Siena.

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/C/1.337/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/C/1.337"/>
+					<an:FRBRdate date="2020-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/C/1.337/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.337"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@"/>
+					<an:FRBRdate date="2020-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@.akn"/>
+					<an:FRBRdate date="2020-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/C/1.337/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1994" showAs="Ddl 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32659" showAs="Massimo Mallegni"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/17841" showAs="Massimo Ferro"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/29329" showAs="Andrea Causin"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/22814" showAs="Antonio De Poli"/>
+				<an:TLCPerson id="ID0EJC" href="http://dati.senato.it/25198" showAs="Maria Rizzotti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.337</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Mallegni</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ferro</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Causin</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">De</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Poli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EJC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Rizzotti</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'allegato 1 per le attività turistico ricettive contrassegnate dal codice ATECO</an:i>
+					 «55.10.00, 55.20.10, 55.20.20, 55.20.30, 55.20.40, 55.20.51, 55.20.52, 55.30.00, 55.90.20», 
+					<an:i>sostituire la percentuale</an:i>
+					 «150,00%», 
+					<an:i>con la seguente:</an:i>
+					 «200,00%».
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>Conseguentemente, agli oneri derivanti dalla presente disposizione, valutati in 200 milioni di euro per il 2020 si provvede: quanto a 50 milioni di euro per il 2020, mediante corrispondente riduzione del Fondo occorrente per la riassegnazione dei residui passivi della spesa di parte corrente, eliminati negli esercizi precedenti per perenzione amministrativa, di cui Articolo 27, comma 1, legge n. 196 del 2009; quanto a 150 milioni di euro per il 2020, mediante corrispondente riduzione proporzionale dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma</an:i>
+					 «Fondi di riserva e speciali» 
+					<an:i>della missione</an:i>
+					 «Fondi da ripartire» 
+					<an:i>dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo a tutte le rubriche, fatta eccezione per la rubrica del ministero degli affari esteri</an:i>
+					.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

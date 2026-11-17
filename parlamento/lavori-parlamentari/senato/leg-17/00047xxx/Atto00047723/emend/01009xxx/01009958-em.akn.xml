@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/20.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/20.4"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/20.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/20.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYDZYVSVSFAN5PMTASWKUOXDHINKXRIDITAE24ELPXLDDDT3TXBE" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDVLQ5EXJNHU4EFSZFPJNQEMYOUGF0PITAKF1TXQJ1WQNETZGO23EG" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="ID4LJPNADKJQGLICXVIVLJZ2BT0DPJF5RZBWOMJWPPKTUGYWRXWYGH" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDHVZ40JS2W2MHBJZ4DFUHG3MVBDQX1ZR0O4YGDRMCQVTU1SNLHRQ" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYDZYVSVSFAN5PMTASWKUOXDHINKXRIDITAE24ELPXLDDDT3TXBE" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVLQ5EXJNHU4EFSZFPJNQEMYOUGF0PITAKF1TXQJ1WQNETZGO23EG" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4LJPNADKJQGLICXVIVLJZ2BT0DPJF5RZBWOMJWPPKTUGYWRXWYGH" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHVZ40JS2W2MHBJZ4DFUHG3MVBDQX1ZR0O4YGDRMCQVTU1SNLHRQ" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, aggiungere il seguente:</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. È costituito presso il Ministero dell'interno, entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge, senza oneri per la finanza pubblica e avvalendosi delle strutture del predetto Ministero, un comitato di esperti sul monitoraggio dell'attuazione delle disposizioni di cui al presente decreto-legge, avente anche il compito di analizzare dati e informazioni sulle migliori prassi per la gestione dei procedimenti in materia di protezione internazionale. Il comitato, sulla base del lavoro svolto, formula proposte di intervento e progetti, ove opportuno anche in forma di modifiche alla legislazione vigente, volte ad assicurare il pieno rispetto delle garanzie processuali dei richiedenti protezione internazionale. Le proposte del comitato di cui al presente comma sono allegate alla relazione di cui al presente articolo. Con decreto del Ministro dell'interno è disciplinata la costituzione e il funzionamento del comitato, al quale partecipano anche giuristi di comprovata competenza in materia di diritto di asilo, diritti umani e diritto processuale civile. La partecipazione alle attività del comitato non dà in ogni caso luogo alla corresponsione di compensi, emolumenti, indennità o rimborsi spese di qualunque natura».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

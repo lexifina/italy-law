@@ -1,7 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativo allo ordinamento dell'Amministrazione degli affari esteri;
-
-Visto il decreto del Presidente della Repubblica 16 luglio 1976, n. 669, pubblicato nella Gazzetta Ufficiale n. 259 del 29 settembre 1976, con il quale e' stato istituito un consolato generale di seconda categoria in Kobe-Osaka (Giappone) alle dipendenze dell'ambasciata d'Italia in Tokyo (Giappone);
-
-Sulla proposta del Ministro degli affari esteri; Decreta:

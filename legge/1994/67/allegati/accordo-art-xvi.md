@@ -1,5 +1,0 @@
-ARTICOLO XVI
-
-RISOLUZIONE DELLE CONTROVERSIE
-
-Qualsiasi controversia tra l'Istituto e il Governo concernente l'interpretazione o l'applicazione del presente Accordo o qualsiasi questione riguardante la sede centrale o le relazioni tra l'Istituto e il Governo, che non sia risolta per via negoziale o con qualunque altro mezzo di regolamento concordato, sara' sottoposta alla decisione di un tribunale arbitrale composto da tre membri: uno nominato dal Direttore Generale, uno nominato dal Governo e il terzo, che fungera' da Presidente del tribunale, designato dai due primi arbitri. Se i primi due arbitri non raggiungono un accordo sulla scelta del terzo arbitro entro sei mesi dalla data della loro nomina, il terzo arbitro sara' designato dal Presidente della Corte Internazionale di Giustizia su richiesta di una delle due Parti. Un voto di maggioranza degli arbitri sara' sufficiente per raggiungere una decisione, comprese le decisioni su questioni procedurali, che sara' definitiva e vincolante per le Parti.

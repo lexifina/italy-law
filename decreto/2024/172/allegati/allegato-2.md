@@ -1,5 +1,0 @@
-Allegato 2
-
-(previsto dall'articolo 12, comma 1)
-
-Parte di provvedimento in formato grafico

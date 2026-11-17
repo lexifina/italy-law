@@ -1,3 +1,0 @@
-Articolo XIV
-
-Il Governo della Danimarca attua un sistema di canoni d'uso per i servizi forniti a tutti gli aeromobili civili che effettuino traversate quali definite all'articolo VII. Tali canoni d'uso saranno calcolati in conformita' alle disposizioni dell'Allegato III al presente Accordo. Gli introiti netti derivanti da tali canoni saranno dedotti dai pagamenti dovuti al Governo della Danimarca in conformita' alle disposizioni del presente Accordo. A meno che il Consiglio non vi acconsenta, il Governo della Danimarca non percepisce nessun canone supplementare per l'uso di uno qualsiasi dei servizi da parte di utenti che non siano cittadini danesi.

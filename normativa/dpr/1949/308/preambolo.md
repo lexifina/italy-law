@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 22 dicembre 1948, n. 1456;
+
+Visto il regio decreto-legge 11 ottobre 1934, n. 1948, convertito nella legge 4 aprile 1935, n. 911, e successive modificazioni;
+
+Visto il regio decreto-legge 25 gennaio 1940, n. 9, convertito nella legge 13 maggio 1940, n. 674, e successive modificazioni;
+
+Visto il decreto del Presidente della. Repubblica 28 gennaio 1949, n. 12;
+
+Sentito il Comitato interministeriale dei prezzi;
+
+Sentito il Consiglio dei Ministri; Sulla proposta del Ministro per i trasporti, di concerto con i Ministri per il tesoro e ad interim per il bilancio, per l'agricoltura e foreste e per l'industria e commercio;

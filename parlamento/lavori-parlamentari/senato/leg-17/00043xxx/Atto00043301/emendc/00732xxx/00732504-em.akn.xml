@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6"/>
+					<an:FRBRdate date="2014-01-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1188/6/6"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@"/>
+					<an:FRBRdate date="2014-01-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@.akn"/>
+					<an:FRBRdate date="2014-01-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-01-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-01-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1188/C/G/1188/6/6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1188" showAs="DDL 1188"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Finanze e tesoro" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/500" showAs="Carraro"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25206" showAs="Sciascia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25416" showAs="Repetti"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29120" showAs="Longo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1188</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1188/6/6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Carraro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Sciascia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Repetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>in sede di esame del disegno di legge n. 1188 di conversione in legge del decreto-legge 30 novembre 2013, n. 133, recante disposizioni urgenti concernenti l'IMU, l'alienazione di immobili pubblici e la Banca d'Italia;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            vi è la necessità di una revisione dell'istituto della Banca d'Italia,</an:p>
+				<an:p>            le banche centrali di ciascun Stato non possono essere equiparate alle imprese private (banche) che distribuiscono beni e servizi e forniscono alla clientela mezzi di pagamento e di intermediazione finanziaria;</an:p>
+				<an:p>
+					            gli articoli da 4 a 6 del provvedimento in esame recano disposizioni in materia di 
+					<an:i>governance</an:i>
+					 della Banca d'Italia, autorizzando la stessa a procedere ad un aumento di capitale all'importo di 7,5 miliardi di euro mediante utilizzo di riserve statutarie, definendo nel contempo il valore nominale delle quote di partecipazione in euro 20.000 ciascuna;
+				</an:p>
+				<an:p>            dette disposizioni di natura prevalentemente ordinamentale vengono in maniera inopportuna proposte con lo strumento del decreto-legge e sono già operative in forza dello strumento legislativo della decretazione d'urgenza. Il decreto-legge ha di fatto già sottratto al Parlamento una approfondita valutazione delle norme introdotte;</an:p>
+				<an:p>
+					            è necessario avere informazioni dettagliate dell'assetto societario della Banca d'Italia in rapporto all'evoluzione del quadro normativo nazionale ed europeo, nonché sulle prospettive che il regime delle quote comporta per la 
+					<an:i>governance</an:i>
+					 dell'istituto e alla sua indipendenza, con particolare riferimento agli istituti non italiani partecipanti;
+				</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a presentare entro trenta giorni un disegno di legge che affronti le tematiche sottese agIi articoli 4, 5 e 6 del decreto-legge.</an:p>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.81/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.81"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.81/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.81"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.81/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOJLAAMTB3YXUINHFXRBPMBYQR2ZEAIGLFEJC1HOUPGMS5CFDNL" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID0C5HCW2EIFWCK1CX2FOJJFQONCTYNHA5SZPHIFHFBND0OIP4RWMM" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDR4ESVAONFL4EN1P3VHSVEICKGLQ1TZEF3HUZUEDC3GZUBTSQ2DOI" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDO3CQUTLMJ2L1FSYOSQEWVEOE2DEPGKYEHZIBZDFU3LWAI5Z5C3VJ" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDZV0QQ4IEJW5ZFTJDB2XGG1DSOEAE5E31ICZYHIFYT43YWJDKEA0P" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.81</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOJLAAMTB3YXUINHFXRBPMBYQR2ZEAIGLFEJC1HOUPGMS5CFDNL" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0C5HCW2EIFWCK1CX2FOJJFQONCTYNHA5SZPHIFHFBND0OIP4RWMM" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR4ESVAONFL4EN1P3VHSVEICKGLQ1TZEF3HUZUEDC3GZUBTSQ2DOI" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO3CQUTLMJ2L1FSYOSQEWVEOE2DEPGKYEHZIBZDFU3LWAI5Z5C3VJ" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZV0QQ4IEJW5ZFTJDB2XGG1DSOEAE5E31ICZYHIFYT43YWJDKEA0P" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/339;</an:p>
+				<an:p>            gli articoli 1 e 2 del decreto-legge all'esame dell'Aula, in ragione dell'emergenza COVID-19, prevedono misure finalizzate al potenziamento della rete ospedaliera e della rete sanitaria e sociosanitaria territoriale, alle quali le regioni e le province autonome sono chiamate a dare attuazione attraverso appositi piani, accedendo alle risorse stanziate dalle norme medesime;</an:p>
+				<an:p>            nel disciplinare i suddetti processi di potenziamento e di riorganizzazione, te disposizioni sopra menzionate non richiamano espressamente l'autonomia di cui le province autonome di Trento e di Bolzano sono titolari ai sensi dello Statuto speciale e delle relative norme di attuazione;</an:p>
+				<an:p>            ad avviso dei firmatari del presente atto di indirizzo, sarebbe opportuno un rinvio esplicito alle disposizioni in parola e, segnatamente, all'articolo 79, comma 4, dello Statuto speciale, ai sensi del quale: «nei confronti della regione e delle province e degli enti appartenenti al sistema territoriale regionale integrato, non sono applicabili disposizioni statali che prevedono obblighi, oneri, accantonamenti, riserve all'erario o concorsi comunque denominati, ivi inclusi quelli afferenti il patto di stabilità interno, diversi da quelli previsti dal presente titolo»,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

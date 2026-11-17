@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/A/G4.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/A/G4.100"/>
+					<an:FRBRdate date="2013-11-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1150/A/G4.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@"/>
+					<an:FRBRdate date="2013-11-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@.akn"/>
+					<an:FRBRdate date="2013-11-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1150/A/G4.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1150" showAs="DDL 1150"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29112" showAs="Idem"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29165" showAs="Puglisi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29087" showAs="Di Giorgi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29131" showAs="Martini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29137" showAs="Mineo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17796" showAs="Tocci"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17663" showAs="Zavoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1150</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Idem</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Puglisi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Di Giorgi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Martini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Mineo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Tocci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Zavoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di discussione del decreto legge 12 settembre 2013, n. 104, recante misure urgenti in materia di istruzione, università e ricerca,</an:p>
+				<an:p align="justify">        premesso che,</an:p>
+				<an:p align="justify">            l'articolo 4 del provvedimento in esame dispone alcune norme a tutela della salute nelle scuole;</an:p>
+				<an:p align="justify">            da anni ormai, la comunità scientifica riconosce nella mancanza di attività fisica una delle cause primarie di sovrappeso e obesità, nonché di una serie di disturbi cronici quali le malattie cardiovascolari o il diabete, che riducono la qualità della vita degli individui, mettendo così a rischio la vita delle persone, e costituendo anche un pesante onere per i bilanci sanitari e per l'economia di uno Stato;</an:p>
+				<an:p align="justify">            l'aumento considerevole del fenomeno dell'obesità in molti Paesi europei, che colpisce in misura consistente le giovani generazioni, rappresenta un fenomeno allarmante che interessa la salute di tutti i cittadini, soprattutto se la prima causa di tali patologie non è l'assunzione di quantità elevate di calorie bensì la mancanza di movimento;</an:p>
+				<an:p align="justify">            l'attività motoria rappresenta, quindi, un elemento fondamentale per la tutela del benessere psico-fisico di tutti gli individui ed in particolare dei bambini;</an:p>
+				<an:p align="justify">            in Europa prevale un modello di scuola che contempla l'educazione fisica e motoria fin dalle scuole primarie;</an:p>
+				<an:p align="justify">            l'Italia rappresenta uno dei Paesi che fa eccezione, prevedendo di fatto l'educazione fisica come materia di insegnamento obbligatoria solo a partire dalla scuola secondaria di 1º grado;</an:p>
+				<an:p align="justify">            inoltre l'educazione motoria nelle scuole primarie è un importante strumento di prevenzione sanitaria ma anche di educazione al rispetto dell'altro, di abitudine al confronto, di educazione al rispetto delle regole,</an:p>
+				<an:p align="justify">        impegna il Governo a valutare l'opportunità - rispondente alle esigenze educativi - di avvalersi, anche nella scuola primaria, all'interno delle ore curriculari di scienze motorie, della figura professionale di un docente laureato in scienze motorie o diplomato ISEF e di inserirlo a pieno titolo nelle graduatorie.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

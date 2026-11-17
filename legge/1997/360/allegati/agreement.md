@@ -1,3 +1,0 @@
-INTERNATIONAL RUBBER STUDY GROUP
-
-Parte di provvedimento in formato grafico

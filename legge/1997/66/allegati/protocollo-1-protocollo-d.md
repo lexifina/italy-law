@@ -1,3 +1,0 @@
-Protocollo D
-
-Parte di provvedimento in formato grafico

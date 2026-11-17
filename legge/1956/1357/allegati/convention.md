@@ -1,3 +1,0 @@
-Convention europeenne sur la classification internationale des brevets d'invention
-
-Parte di provvedimento in formato grafico

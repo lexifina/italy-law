@@ -1,5 +1,0 @@
-Allegato I (di cui all'art. 1, comma 1, lettera l)
-
-Allegato A
-
-Parte di provvedimento in formato grafico

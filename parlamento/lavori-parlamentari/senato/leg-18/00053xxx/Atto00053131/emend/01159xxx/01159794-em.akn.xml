@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/70.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/70.1"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/70.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="70.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/70.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEXBJG3ZC0MMOKIQE0CW1YDFDUEF535TJ03RFNOBTFABP5CGOJQZI" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID00CAZ0KD1Q3EG4H0NJDFLYIRPO2CBLJUETV1B0HLVCLMSMYXSHI" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDREYBPSOO2QPAGGDB0RBAC2Z1YGPADYOSNYM2J5K0A0SDNXLEUZ2I" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID3CYRIPEHA3RMBBTMETHC45OJ1B2BZNNLAWRGPGM0XFBOSOWG5S3I" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDUGG142HATLKXG1Q2OYI4CAD4YPW3HA1EYQ1CONDN5TZ2EVB5K4FH" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 70.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEXBJG3ZC0MMOKIQE0CW1YDFDUEF535TJ03RFNOBTFABP5CGOJQZI" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID00CAZ0KD1Q3EG4H0NJDFLYIRPO2CBLJUETV1B0HLVCLMSMYXSHI" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDREYBPSOO2QPAGGDB0RBAC2Z1YGPADYOSNYM2J5K0A0SDNXLEUZ2I" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3CYRIPEHA3RMBBTMETHC45OJ1B2BZNNLAWRGPGM0XFBOSOWG5S3I" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUGG142HATLKXG1Q2OYI4CAD4YPW3HA1EYQ1CONDN5TZ2EVB5K4FH" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, la lettera</an:i>
+					 a) 
+					<an:i>è sostituita dalla seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>a)</an:i>
+					 al comma 1, primo periodo, le parole: ''nove settimane'' sono sostituite dalle seguenti: ''per una durata massima di diciotto settimane per periodi decorrenti dal 23 febbraio 2020 al 31 ottobre 2020. Le predette ulteriori cinque settimane sono riconosciute secondo le modalità di cui all'articolo 22-
+					<an:i>ter</an:i>
+					 e tenuto conto di quanto disciplinato dall'articolo 22-
+					<an:i>quater</an:i>
+					. Fino all'esaurimento del suddetto periodo massimo, ogni nuova domanda presentata anche a seguito di temperane a ripresa dell'attività è considerata una proroga della domanda iniziale''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,5 +1,0 @@
-CONVENTION
-
-Between Italy and Finland for the avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income and on capital
-
-Parte di provvedimento in formato grafico

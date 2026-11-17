@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/13.205/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/13.205"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2233/A/13.205/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.205"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@.akn"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2233/A/13.205/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2233" showAs="DDL 2233"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXXDOXKZGTMRSKXFUDKDWHKRUUKCLCP0KTEQAQXHKEMNC3TJBZFII" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDFYK1OZAWJZGFO0YA2QZR2RJHDPRBBR4YLUB2XPLHORGDDKWDEDAE" href="http://dati.senato.it/29168" showAs="Maurizio ROMANI"/>
+				<an:TLCPerson id="IDB0UQ4YYGU0ZVDFJVUKA01QJKHHKJRBRAI4FNKQGQILRBIK3ALMGM" href="http://dati.senato.it/29139" showAs="MOLINARI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2233</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.205</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXXDOXKZGTMRSKXFUDKDWHKRUUKCLCP0KTEQAQXHKEMNC3TJBZFII" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFYK1OZAWJZGFO0YA2QZR2RJHDPRBBR4YLUB2XPLHORGDDKWDEDAE" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB0UQ4YYGU0ZVDFJVUKA01QJKHHKJRBRAI4FNKQGQILRBIK3ALMGM" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 2, inserire il seguente:</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis.</an:i>
+					 Dopo il comma 3 dell'articolo 24 del decreto legislativo 15 giugno 2015, n.80, inserire i seguenti:
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis</an:i>
+					. La lavoratrice autonoma inserita nei percorsi di protezione relativi alla violenza di genere, debitamente certificati dai servizi sociali del comune di residenza o dai centri antiviolenza o dalle case rifugio di cui all'articolo 5-
+					<an:i>bis</an:i>
+					 decreto-legge 14 agosto 2013, n. 93, convertito, con modificazioni, dalla legge 15 ottobre 2013, n. 119, ha il diritto di astenersi dal lavoro per motivi connessi al suddetto percorso di protezione per un periodo massimo di tre mesi.
+				</an:p>
+				<an:p>
+					        3-
+					<an:i>ter</an:i>
+					. Il Governo è delegato ad adottare, entro sei mesi dall'entrata in vigore della presente legge, uno o più decreti legislativi, su proposta del Ministero del Lavoro e delle Politiche sociali, di concerto con il Ministero dell'Economia e delle Finanze, al fine di determinare l'ammontare della indennità che la lavoratrice autonoma percepirà a seguito di quanto previsto dal comma precedente.
+				</an:p>
+				<an:p>
+					        Agli oneri derivanti dal presente articolo, valutati in 35 milioni di euro a decorrere dall'anno 2016, si provvede mediante corrispondente riduzione dell'autorizzazione di spesa prevista all'articolo 7-
+					<an:i>quinquies</an:i>
+					, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, relativa al Fondo per interventi urgenti ed indifferibili. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

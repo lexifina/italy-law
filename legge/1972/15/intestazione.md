@@ -1,7 +1,0 @@
-LEGGE
-
-25 febbraio 1972
-
-15
-
-Conversione in legge del decreto-legge 28 dicembre 1971, n. 1121, concernente determinazione della data di inizio dell'esercizio delle funzioni da parte delle Regioni a statuto ordinario.

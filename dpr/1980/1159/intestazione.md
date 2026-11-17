@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-20 agosto 1980
-
-1159
-
-Istituzione di un istituto tecnico commerciale ad indirizzo amministrativo in San Salvo.

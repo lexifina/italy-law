@@ -1,0 +1,37 @@
+Allegato
+
+(( (art. 10, comma 3) ))
+
+TABELLA DEI PUNTEGGI
+
+Risposta
+
+Domanda facile
+
+Domanda di media difficolta'
+
+Domanda difficile
+
+Giusta
+
+1,10
+
+1,30
+
+1,70
+
+Errata
+
+- 1,60
+
+- 1,20
+
+- 0,60
+
+Omessa
+
+- 1,00
+
+- 0,70
+
+- 0,20

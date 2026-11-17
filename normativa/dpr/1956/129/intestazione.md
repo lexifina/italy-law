@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+01 febbraio 1956
+
+129
+
+Riconoscimento, agli effetti civili, dell'erezione della parrocchia di Santa Maria del SS.mo Rosario di Pompei, in localita' Scalo ferroviario Grassano-Tricarico del comune di Garaguso (Matera).

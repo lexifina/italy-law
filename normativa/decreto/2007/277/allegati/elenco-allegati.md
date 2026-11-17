@@ -1,0 +1,3 @@
+Allegati A, B e C
+
+Parte di provvedimento in formato grafico

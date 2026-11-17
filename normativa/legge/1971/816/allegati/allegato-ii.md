@@ -1,0 +1,11 @@
+ALLEGATO II
+
+Articolo 1
+
+La presente legge si applica alla formazione dei contratti di vendita che, ove venissero conchiusi, sarebbero retti dalla legge uniforme sulla vendita internazionale di cose mobili materiali.
+
+Articolo 4
+
+1. La comunicazione che una persona indirizza ad una o piu' persone determinate, ai fini della conclusione di un contratto di vendita, costituisce proposta quando contiene elementi idonei a consentire che il contratto si perfezioni con l'accettazione, e rivela la volonta' del proponente di obbligarsi.
+
+2. Detta comunicazione va interpretata ed integrata con le trattative preliminari, le pratiche che esistono tra le parti, gli usi e le norme della legge uniforme sulla vendita internazionale di cose mobili materiali.

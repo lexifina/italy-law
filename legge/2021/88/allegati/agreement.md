@@ -1,9 +1,0 @@
-AGREEMENT
-
-between the Government of the Italian Republic
-
-and the Government of the Kyrgyz Republic
-
-on cultural, scientific and technological cooperation
-
-Parte di provvedimento in formato grafico

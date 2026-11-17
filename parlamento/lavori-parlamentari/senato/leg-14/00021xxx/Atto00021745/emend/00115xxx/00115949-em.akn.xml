@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3045/A/G1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3045/A/G1.100"/>
+					<an:FRBRdate date="2004-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3045/A/G1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@"/>
+					<an:FRBRdate date="2004-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@.akn"/>
+					<an:FRBRdate date="2004-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-07-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-07-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3045/A/G1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3045" showAs="DDL 3045"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/249" showAs="Bettoni Brandani"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/16635" showAs="Mascioni"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/17595" showAs="Longhi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3045</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Bettoni Brandani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Mascioni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Longhi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            considerato che:</an:p>
+				<an:p align="justify">        nel corso del 2004 si è verificato un considerevole e preoccupante aumento della spesa farmaceutica;</an:p>
+				<an:p align="justify">        detto aumento dipende essenzialmente da un aumento dei consumi di ricette prescritte a carico del SSN;</an:p>
+				<an:p align="justify">        le offerte pubblicitarie e di campioni gratuiti da parte delle aziende farmaceutiche nei confronti dei medici, degli operatori sanitari e dei farmacisti sono da considerarsi senza alcun dubbio eccessive e invadenti,</an:p>
+				<an:p align="justify">            impegna il Governo:</an:p>
+				<an:p align="justify">        a disciplinare le modalità con cui le aziende farmaceutiche possono inviare informazioni scientifiche e pubblicità ai medici, agli operatori sanitari ed ai farmacisti;</an:p>
+				<an:p align="justify">        a stabilire il numero massimo e le modalità di consegna dei campioni gratuiti e dei prodotti promozionali;</an:p>
+				<an:p align="justify">        a disciplinare le modalità con cui gli operatori del Servizio sanitario nazionale possono partecipare alle iniziative promosse o finanziate dalle aziende farmaceutiche e, in accordo con la Commissione nazionale per l'educazione continua in medicina (ECM), la possibilità di verificare l'adeguatezza degli interventi formativi, nonché di accreditare i relativi punteggi.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

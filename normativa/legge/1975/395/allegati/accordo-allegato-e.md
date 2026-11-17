@@ -1,0 +1,5 @@
+ALLEGATO E
+
+PAESI ESPORTATORI AI QUALI SI APPLICA IL PARAGRAFO 2 DELL'ARTICOLO 36
+
+Parte di provvedimento in formato grafico

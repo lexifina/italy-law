@@ -1,3 +1,0 @@
-ALLEGATO VII
-
-Parte di provvedimento in formato grafico

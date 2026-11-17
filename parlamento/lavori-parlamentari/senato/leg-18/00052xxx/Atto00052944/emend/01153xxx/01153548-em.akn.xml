@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/1.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/1.9"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/1.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@.akn"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1786/A/1.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1786" showAs="DDL 1786"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDASG1XHU54QPUDL0VLOK5LYJDHI23Z11BYOJ244W3CDYJMDNIO4B" href="http://dati.senato.it/32611" showAs="DAL MAS"/>
+				<an:TLCPerson id="IDQD4OARPJ5WYPNZUARUD0BMFUKFZRZTED2CKDFCB5UR3Q00HIULNI" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+				<an:TLCPerson id="IDU2T4HZ5G3XNYE5IYFPYVBAOCVDPSNRACZN2QZ1B2ACCLB41XQ0EB" href="http://dati.senato.it/32671" showAs="MODENA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1786</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASG1XHU54QPUDL0VLOK5LYJDHI23Z11BYOJ244W3CDYJMDNIO4B" as="#tipoSenatore">DAL MAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQD4OARPJ5WYPNZUARUD0BMFUKFZRZTED2CKDFCB5UR3Q00HIULNI" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU2T4HZ5G3XNYE5IYFPYVBAOCVDPSNRACZN2QZ1B2ACCLB41XQ0EB" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2 aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «2
+					<an:i>-bis</an:i>
+					. L'efficacia delle modificazioni introdotte agli articoli 158, 159 e 160 del codice penale dall'articolo 1, comma 1, lettere 
+					<an:i>d)</an:i>
+					, 
+					<an:i>e)</an:i>
+					 e 
+					<an:i>f)</an:i>
+					 della legge 9 gennaio 2019, n. 3, è sospesa fino al 1° gennaio 2021.
+				</an:p>
+				<an:p>
+					        2
+					<an:i>-ter</an:i>
+					. Ai fatti commessi dal 1° gennaio 2020 al 1° gennaio 2021 si applicano le disposizioni di cui agli articoli 158, 159 e 160 del codice penale nella formulazione vigente alla data del 31 dicembre 2019.»
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla rubrica dell'articolo 1, aggiungere in fine le seguenti parole:</an:i>
+					 «e sospensione dell'efficacia delle disposizioni in materia di prescrizione»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

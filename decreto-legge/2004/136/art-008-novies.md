@@ -1,7 +1,0 @@
-Art. 8-novies.
-
-(( (Norme di interpretazione autentica). ))
-
-((1. Il punto B.3), lettera b-bis), della tabella di valutazione annessa al decreto-legge 7 aprile 2004, n. 97, convertito, con modificazioni, dalla legge 4 giugno 2004, n. 143, si interpreta nel senso che il servizio prestato nella scuola dell'infanzia, nella scuola primaria e in qualita' di' personale educativo e' valutabile esclusivamente per le graduatorie relative a tali tipi di scuole o di attivita'; analogamente, il servizio prestato nella scuola secondaria di primo e di secondo grado e' valutabile esclusivamente per le graduatorie relative a tali tipi di scuole. Il punto B.3), lettera h), della tabella di cui al precedente periodo si interpreta nel senso che il servizio valutabile in misura doppia e' esclusivamente quello prestato nella sede scolastica ubicata in comune classificato come di montagna, situata al di sopra dei seicento metri, e non anche quello prestato in altre sedi diverse della stessa scuola.
-
-2. L'articolo 1, comma 1, del decreto-legge 7 aprile 2004, n. 97, convertito, con modificazioni, dalla legge 4 giugno 2004, n. 143, si interpreta nel senso che la rideterminazione delle graduatorie' permanenti dell'ultimo scaglione previsto dall'articolo 1, comma 1, lettera b), del decreto-legge 3 luglio 2001, n. 255, convertito, con modificazioni, dalla legge 20 agosto 2001, n. 333, e' riferita, per quanto concerne i soli titoli di servizio, esclusivamente a quelli prestati a partire dall'anno scolastico 2003-2004)).

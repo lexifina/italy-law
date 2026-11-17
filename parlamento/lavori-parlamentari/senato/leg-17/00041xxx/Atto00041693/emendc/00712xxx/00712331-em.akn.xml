@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5"/>
+					<an:FRBRdate date="2013-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/974/40/1 e 5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@"/>
+					<an:FRBRdate date="2013-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@.akn"/>
+					<an:FRBRdate date="2013-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-08-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-08-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/974/C/G/974/40/1 e 5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/974" showAs="DDL 974"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 5° riunite" href="/dati.senato.it/osr/Commissione/4"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29119" showAs="Lo Giudice"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25477" showAs="Lo Moro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/18499" showAs="Cirinna'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 974</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/974/40/1 e 5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Lo Giudice</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Lo Moro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Cirinna'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge «Conversione in legge del decreto-legge 21 giugno 2013 n. 69, recante disposizioni urgenti per il rilancio dell'economia»</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            la legge di stabilità 2013 ha previsto la presa in carico da parte del Ministero della giustizia di quelle lavoratrici e di quei lavoratori che, a partire dal 2010, hanno prestato attività attraverso lavori socialmente utili negli uffici giudiziari, garantendo per il 2013 il completamento del tirocinio formativo e un contributo economico da parte del Ministero della giustizia per tutti coloro che al momento della presentazione della domanda fossero in una lista di mobilità, cassaintegrati, inoccupati o disoccupati;</an:p>
+				<an:p>            questi lavoratori hanno svolto e stanno svolgendo nel1'anno in corso un'attività assai utile di sostegno allo smaltimento di lavoro arretrato di cui gli Uffici Giudiziari sono oberati;</an:p>
+				<an:p>            è importante che le risorse investite dallo Stato nella formazione di queste lavoratrici e di questi lavoratori possano essere utilizzate al meglio consentendo, per un altro periodo determinato di tempo, la prosecuzione del rapporto di lavoro a supporto dell'attività giudiziaria di smaltimento dell'arretrato a chi sia stato coinvolto nei tirocini formativi attivati,</an:p>
+				<an:p>        impegna il Governo</an:p>
+				<an:p>
+					            a valutare la possibilità di prevedere, in sede di definizione della legge di stabilità 2014, lo stanziamento delle risorse necessarie a stipulare 3000 contratti a tempo determinato, ai sensi della normativa vigente, per la durata di 6 mesi per quei lavoratori cassaintegrati, in mobilità, lavoratori socialmente utili, disoccupati o inoccupati, che abbiano svolto il tirocinio formativo presso il Ministero della giustizia in virtù dello stanziamento di cui all'articolo 1 comma 25 lettera 
+					<an:i>c)</an:i>
+					 legge 24 dicembre 2012, n. 228.
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,29 @@
+ALLEGATO C
+
+Alla capitaneria di porto di .............per il tramite dell'ufficio marittimo di
+
+.........................
+
+La sottoscritta ditta .......................................... con sede in............................ via ........................ codice fiscale o partita I.V.A. n. ................................ iscritta al n. ........... del registro delle imprese di pesca di
+
+.................................................................... armatrice del M/p. .................................... n. ......... di matricola o del R.N.M.G. di ....................................
+
+di...... t.s.l., con apparato propulsore di......HP, entrato in esercizio in data.............., con l'equipaggio composto da:
+
+che ha effettuato il fermo temporaneo obbligatorio per l'anno.......
+
+dal.......... al.......... chiede la corresponsione del relativo premio, dell'indennita' per l'equipaggio ed il rimborso degli oneri previdenziali ed assistenziali per L. ...................., come risulta dalla documentazione che allega.
+
+............... li'...................
+
+Firma
+
+........................
+
+Visto, si attesta che il predetto motopeschereccio ha effettuato il fermo temporaneo obbligatorio nel periodo sopraindicato, che i predetti marittimi erano regolarmente imbarcati.
+
+...................... li'..................
+
+Timbro e firma dell'autorita' marittima
+
+--------------------------------------

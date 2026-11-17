@@ -1,3 +1,0 @@
-Art. 155-quinquies.
-
-(( ARTICOLO ABROGATO DAL D.LGS. 28 DICEMBRE 2013, N. 154 ))

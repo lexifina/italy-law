@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2362/C/3.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2362/C/3.7"/>
+					<an:FRBRdate date="2016-06-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2362/C/3.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@"/>
+					<an:FRBRdate date="2016-06-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@.akn"/>
+					<an:FRBRdate date="2016-06-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-06-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-06-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2362/C/3.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2362" showAs="DDL 2362"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSCKMIBKJCYPFJ42E4YPJEY1B2H050YHOIAKPZC2GV0JPUZLAX3H" href="http://dati.senato.it/senatore/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="IDVUUDSWPRJSO1HDHESHPKIL13DNEHGHWVERJ5R5KNPDHYIOSE4DFL" href="http://dati.senato.it/senatore/29193" showAs="VACCIANO"/>
+				<an:TLCPerson id="IDJD1WSYP03RVSFFRYJHP510GOHEVBPJSOPXQULJELBIRNHBF1RJXC" href="http://dati.senato.it/senatore/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDEVFECZW5URT4ELUZTVMXL3QAWB0JBGJPYASDZYEFYDZQPXVMBJGF" href="http://dati.senato.it/senatore/29133" showAs="MASTRANGELI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2362</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSCKMIBKJCYPFJ42E4YPJEY1B2H050YHOIAKPZC2GV0JPUZLAX3H" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVUUDSWPRJSO1HDHESHPKIL13DNEHGHWVERJ5R5KNPDHYIOSE4DFL" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJD1WSYP03RVSFFRYJHP510GOHEVBPJSOPXQULJELBIRNHBF1RJXC" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEVFECZW5URT4ELUZTVMXL3QAWB0JBGJPYASDZYEFYDZQPXVMBJGF" as="#tipoSenatore">MASTRANGELI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sosituire il comma 6, con il seguente:</an:i>
+				</an:p>
+				<an:p>        «6. Su richiesta del debitore, del curatore, del commissario giudiziale, di un creditore  e/o del loro avvocato munito di procura, di chiunque vi abbia interesse o d'ufficio, il giudice delegato o il tribunale competenti possono limitare la pubblicazione di un documento o di una o più sue parti, quando sia dimostrata l'esistenza di uno specifico e meritevole interesse alla riservatezza dell'informazione in esso contenuta. La richiesta di cui al presente comma sospende gli obblighi di pubblicazione dei documenti, o della parte di essi, oggetto della richiesta di esenzione e, qualora la pubblicazione sia già avvenuta, sospende temporaneamente l'accesso ad essi da parte degli interessati. Nelle more della decisione, il giudice può imporre una cauzione al creditore o terzo richiedente».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

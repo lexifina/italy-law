@@ -1,0 +1,12 @@
+# Legge 22 febbraio 2001, n. 36
+
+- Tipo: Ordinaria
+- Numero: 36
+- Data: 2001-02-22
+- Titolo: Legge quadro sulla protezione dalle esposizioni a campi elettrici, magnetici ed elettromagnetici
+- Pubblicazione: G.U. n. 55 del 7 Marzo 2001
+- Legislatura: XIII legislatura della Repubblica (repubblica_13)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2001-02-22;36
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;13.legislatura;5982
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L2001_36
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

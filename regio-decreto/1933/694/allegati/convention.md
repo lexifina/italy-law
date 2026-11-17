@@ -1,3 +1,0 @@
-Convention sur le regime international des voies ferrees.
-
-Parte di provvedimento in formato grafico

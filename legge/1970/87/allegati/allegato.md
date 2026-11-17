@@ -1,3 +1,0 @@
-Traite' sur les principes regissant les activites des etats en matiere d'exploration et d'utilisation de l'espace extra-atmospherique, y compris la lune et les autres corps celestes.
-
-Parte di provvedimento in formato grafico

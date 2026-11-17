@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/G33.114/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/G33.114"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699/A/G33.114/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G33.114"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@.akn"/>
+					<an:FRBRdate date="2005-05-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699/A/G33.114/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699" showAs="DDL 699"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2393" showAs="Tofani"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/786" showAs="De Corato"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/251" showAs="Bevilacqua"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/1004" showAs="Florino"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3854" showAs="Pellicini"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2302" showAs="Specchia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G33.114</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Tofani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Corato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#" as="#tipoSenatore"/>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bevilacqua</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#" as="#tipoSenatore"/>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Florino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Pellicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Specchia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> «Il Senato,</an:p>
+				<an:p align="justify"> in sede di esame del disegno di legge finanziaria per l'anno 2002,</an:p>
+				<an:p align="justify">premesso che:</an:p>
+				<an:p align="justify">l'università degli studi di Cassino è costretta ad operare in uno stato di grande difficoltà a causa della storica mancanza di immobili e di strutture di proprietà in cui svolgere le attività didattiche ed amministrative;</an:p>
+				<an:p align="justify"> ancora oggi le sedi delle facoltà e gli uffici dell'ateneo in questione sono in parte ubicate in immobili in affitto non sempre idonei allo svolgimento delle attività;</an:p>
+				<an:p align="justify">i lavori di costruzione delle strutture di proprietà dell'università degli studi di Cassino, iniziati da molti anni, non sono stati ancora ultimati, per mancanza di adeguate risorse finanziarie;</an:p>
+				<an:p align="justify">la sede universitaria ancora in costruzione nella città di Cassino, nonché le strutture destinate ad ospitare i corsi e le attività dipartimentali nei territori delle province di Frosinone e di Latina non ancora operative determinano il congestionamento dell'ateneo;</an:p>
+				<an:p align="justify">l'ateneo di Cassino concorre ad elaborare programmi ed indirizzi per lo sviluppo dei territori delle province di Frosinone e di Latina e ad attivare un processo di cooperazione tesa a conseguire uno sviluppo armonico ed equilibrato delle attività sociali, economiche e culturali delle medesime province,</an:p>
+				<an:p align="justify"> impegna il Governo:</an:p>
+				<an:p align="justify">a favorire, anche tramite l'erogazione di appropriati finanziamenti di parte corrente, la conclusione dei lavori di costruzione delle strutture dell'università;</an:p>
+				<an:p align="justify"> a facilitare l'insediamento dell'università di Cassino nei territori delle province di Frosinone e di Latina, anche attraverso la costruzione decentrata delle sue sedi».</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

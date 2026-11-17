@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="217-bis.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/217-bis.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLL0WBAVHSIG2HAU44ZGL12QARPTDBFMBRRLX4JJ20H553GZCPD4B" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDJBWDC532QJZUHFFZEVMSYOWEPCEOWNDAFHJKUSC1UVQ4ZDIUI05C" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDZZ2VMFAINIQ3NLQOSZF5CE45GDEQYXUN5YEDZHCSFBF3GFUVSXI" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID4KN3CZSFPMAYBM0A4GNTRKCLBXJWQNDSB4YXAIGNZKPLYQA1RZI" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID2FJGV0V3DO5NHIG1O2YDRKYIBCNTVKNRGFYIUCD1YHLLECWJGZRP" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 217-bis.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLL0WBAVHSIG2HAU44ZGL12QARPTDBFMBRRLX4JJ20H553GZCPD4B" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJBWDC532QJZUHFFZEVMSYOWEPCEOWNDAFHJKUSC1UVQ4ZDIUI05C" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZZ2VMFAINIQ3NLQOSZF5CE45GDEQYXUN5YEDZHCSFBF3GFUVSXI" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4KN3CZSFPMAYBM0A4GNTRKCLBXJWQNDSB4YXAIGNZKPLYQA1RZI" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2FJGV0V3DO5NHIG1O2YDRKYIBCNTVKNRGFYIUCD1YHLLECWJGZRP" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo,</an:b>
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 217-
+					<an:b>
+						<an:i>ter.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Erogazioni liberali in favore di impianti sportivi)</an:i>
+				</an:p>
+				<an:p>        1. Per le erogazioni liberali in denaro effettuate dal 1º luglio 2020 e fino al 31 dicembre 2021 da privati per interventi di manutenzione e restauro di impianti sportivi pubblici e per la realizzazione di nuove strutture sportive pubbliche, spetta un credito d'imposta in misura pari al 110 per cento delle erogazioni effettuate, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo, anche nel caso in cui le stesse siano destinate ai soggetti concessionari o affidatari degli impianti medesimi.</an:p>
+				<an:p>        2. Per i soggetti titolari di reddito d'impresa il credito d'imposta è utilizzabile, nel limite complessivo di 100 milioni di euro, tramite compensazione ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, e non rileva ai fini delle imposte sui redditi e dell'imposta regionale sulle attività produttive.</an:p>
+				<an:p>        3. Agli oneri derivanti dal presente articola, pari a 50 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per lo sviluppo e la coesione di cui all'articolo 4, commal, del decreto legislativo 31 maggio 2011, n. 88.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,3 @@
+Articolo unico.
+
+((PROVVEDIMENTO ABROGATO DAL D.P.R. 18 MAGGIO 2001, N. 310))

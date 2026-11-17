@@ -1,3 +1,0 @@
-Accord commercial entre l'Italie et le Danemark
-
-Parte di provvedimento in formato grafico

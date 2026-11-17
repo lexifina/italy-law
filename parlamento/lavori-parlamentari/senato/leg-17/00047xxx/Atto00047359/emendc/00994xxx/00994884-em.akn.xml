@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/45.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/45.15"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/45.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="45.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@.akn"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/45.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZJMOQOASZVPWIYAHCZUCPZM4PO03UTRMPHHOL2MMCAWTTKJIU0ZB" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="ID0P5C3QMBGLRCC5R5FUPZM4ORJKOL1QSTHTBTIUDJUNG2SGIK4V3C" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDT23IQ0EZ1BWMKQEQIZPMKWAQOKKSJKXNU5NZDNDQR5NVYPEFJMUL" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDXYJEBHWXVYQJLBYVMS34UPT15PFWZMDG0AZZFCBLHAQKCKXVOWC" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 45.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZJMOQOASZVPWIYAHCZUCPZM4PO03UTRMPHHOL2MMCAWTTKJIU0ZB" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0P5C3QMBGLRCC5R5FUPZM4ORJKOL1QSTHTBTIUDJUNG2SGIK4V3C" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT23IQ0EZ1BWMKQEQIZPMKWAQOKKSJKXNU5NZDNDQR5NVYPEFJMUL" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXYJEBHWXVYQJLBYVMS34UPT15PFWZMDG0AZZFCBLHAQKCKXVOWC" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo i1 comma 9, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «10. Al fine di incentivare la permanenza e l'insediamento delle persone nei territori interessati dal sisma, a partire dal periodo di imposta in corso al 24 agosto 2016 e sino al 31 dicembre 2025, le persone titolari di un rapporto di lavoro dipendente a tempo indeterminato che si svolge stabilmente nei territori dei comuni elencati nell'allegato 1 del presente decreto beneficiano di una riduzione del cinquanta per cento della base imponibile per il calcolo dell'imposta sui redditi di cui all'articolo 49 del decreto del Presidente della Repubblica 22 dicembre 1986 n;-917 (testo unico delle imposte sui redditi). Al relativo onere, pari a 20 milioni di euro per l'anno 2016 e a 60 milioni di euro per ciascuno degli anni dal 2017 al 2025, si provvede mediante corrispondente riduzione del fondo sociale per occupazione e formazione, di cui all'articolo 18, comma 1, lettera 
+					<an:i>a)</an:i>
+					 del decreto-legge 29 gennaio 2008, n. 185, convertito con modificazioni, dalla legge 28 gennaio 2009, n. 2».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

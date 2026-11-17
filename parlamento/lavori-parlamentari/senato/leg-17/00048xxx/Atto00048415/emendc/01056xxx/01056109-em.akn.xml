@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/71.80/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/71.80"/>
+					<an:FRBRdate date="2017-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/71.80/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="71.80"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@"/>
+					<an:FRBRdate date="2017-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@.akn"/>
+					<an:FRBRdate date="2017-11-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/71.80/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGGPPZ5SGAAZ3KTONBO13QJJAZMEVWMVAFN0Z3UMRRDRLCV1BBFWE" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDTBTC3HV0OCQOJ3NQ2A5IMBNXJ0FJNIMUXFPWQLDE0IT3ODMQTNN" href="http://dati.senato.it/22551" showAs="BISINELLA"/>
+				<an:TLCPerson id="ID2QWN035NXRXKPD1WCSNALOAZTFY1ZLSHUV15UWPRT3IRR2RKBY2F" href="http://dati.senato.it/25449" showAs="MUNERATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 71.80</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGGPPZ5SGAAZ3KTONBO13QJJAZMEVWMVAFN0Z3UMRRDRLCV1BBFWE" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTBTC3HV0OCQOJ3NQ2A5IMBNXJ0FJNIMUXFPWQLDE0IT3ODMQTNN" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2QWN035NXRXKPD1WCSNALOAZTFY1ZLSHUV15UWPRT3IRR2RKBY2F" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 16, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 16-
+					<an:i>bis</an:i>
+					. All'articolo 210 del decreto legislativo 18 agosto 2000, n. 267, dopo il comma 1, è inserito il seguente:
+				</an:p>
+				<an:p>
+					        ''1-
+					<an:i>bis</an:i>
+					. Per i comuni con popolazione fino a 5.000 abitanti, il servizio di tesoreria può essere affidato senza ricorrere a procedure di evidenza pubblica nel caso in cui nel territorio comunale siano presenti sportai di un unico istituto bancario o non siano presenti sportelli''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

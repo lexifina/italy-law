@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2195/A/G1.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2195/A/G1.16"/>
+					<an:FRBRdate date="2016-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2195/A/G1.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.16"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@"/>
+					<an:FRBRdate date="2016-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@.akn"/>
+					<an:FRBRdate date="2016-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2195/A/G1.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2195" showAs="DDL 2195"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAPCOO" href="http://dati.senato.it/senatore/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDAKBOO" href="http://dati.senato.it/senatore/25528" showAs="CONSIGLIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2195</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPCOO" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKBOO" as="#tipoSenatore">CONSIGLIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il decreto-legge 5 gennaio 2015, n. 1, recante «Disposizioni urgenti per l'esercizio di imprese di interesse strategico nazionale in crisi e per lo sviluppo della città e dell'area di Taranto», ha disposto all'articolo 2, comma 8-
+					<an:i>bis</an:i>
+					, la sospensione dei termini dei versamenti dei tributi erariali in scadenza fino al 15 settembre 2015 e delle cartelle di riscossione in favore delle imprese di autotrasporto e delle piccole imprese creditrici di ILVA S.p.A., fissando, conseguentemente, al 21 dicembre 2015 il termine di restituzione degli stessi;
+				</an:p>
+				<an:p>            la norma è stata introdotta per sostenere le imprese dell'indotto che a seguito del fallimento dell'ILVA non sono state pagate per le prestazioni svolte a favore della stessa società, allontanando il rischio che queste stesse imprese fornitrici potessero a loro volta fallire, con un significativo impatto sull'economia e l'occupazione di tutto il territorio nazionale;</an:p>
+				<an:p>
+					            dal momento che le imprese creditrici di ILVA S.p.A. non sono state ancora liquidate dalla società in amministrazione straordinaria, si rende necessario e urgente un intervento che prolunghi la sospensione dei termini relativi al versamento dei tributi erariali, di cui al citato articolo 2, comma 8-
+					<an:i>bis</an:i>
+					, del decreto-legge n. 1 del 2015,
+				</an:p>
+				<an:p>        impegna il Governo a valutare l'opportunità di adottare iniziative di carattere legislativo e finanziario per un'ulteriore sospensione dei termini dei versamenti dei tributi erariali e delle cartelle di pagamento a favore delle imprese di autotrasporto e delle piccole imprese che vantano crediti per le prestazioni svolte in favore di ILVA S.p.A..</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

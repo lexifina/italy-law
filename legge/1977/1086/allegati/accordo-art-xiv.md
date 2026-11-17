@@ -1,3 +1,0 @@
-ARTICOLO XIV.
-
-Ciascuna Parte contraente puo' notificare in ogni momento all'altra che desidera porre termine al presente Accordo. Tale notifica sara' comunicata contemporaneamente alla "International Civil Aviation Organization" (ICAO). Ove venga inviata tale notifica, il presente Accordo avra' termine dodici mesi dopo la data di riferimento della notifica da parte dell'altra Parte contraente a meno che la notifica di porre termine all'accordo sia ritirata di comune accordo prima della scadenza di dotto periodo. Qualora manchi accusa di ricezione da parte dell'altra Parte contraente, la notifica sara' considerata come ricevuta quindici giorni dopo il suo ricevimento da parte della "International Civil Aviation Organisation" (ICAO).

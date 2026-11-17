@@ -1,0 +1,5 @@
+ALLEGATO
+
+Convenzione internazionale per la stazzatura delle navi, 1969
+
+Parte di provvedimento in formato grafico

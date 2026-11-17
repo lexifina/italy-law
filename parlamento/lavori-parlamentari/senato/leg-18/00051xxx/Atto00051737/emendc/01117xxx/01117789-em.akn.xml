@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/C/6.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/C/6.1"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1264/C/6.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@.akn"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1264/C/6.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1264" showAs="Ddl 1264"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32707" showAs="Licia Ronzulli"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32597" showAs="Andrea Cangini"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/22970" showAs="Francesco Maria Giro"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/32742" showAs="Francesca Alderisi"/>
+				<an:TLCPerson id="ID0EGC" href="http://dati.senato.it/18740" showAs="Giuseppe Moles"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1264</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ronzulli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Cangini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Giro</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Alderisi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Moles</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «Art. 6. - 
+					<an:i>(Formazione dei docenti) - 1.</an:i>
+					 Il Ministro dell'istruzione, dell'università e della ricerca, nel rispetto delle disposizioni della legge 13 luglio 2015, n. 107, e del decreto del Presidente della Repubblica 31 maggio 1974, n. 419, stabilisce, con proprio decreto, da adottare entro sessanta giorni dalla data di entrata in vigore della presente legge, i criteri per lo svolgimento delle attività di aggiornamento dei docenti per l'insegnamento di educazione civica della convivenza civile e le competenze minime dei medesimi docenti, nonché le modalità di riconoscimento delle competenze stesse.
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>2.</an:i>
+					 Per la formazione dei docenti di cui al comma 1, il Ministero dell'istruzione, dell'università e della ricerca, d'intesa con le università, inserisce l'insegnamento di educazione civica e della convivenza civile nei corsi di laurea abilitanti all'insegnamento nelle scuole primarie, in conformità alle finalità della presente legge.
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>3.</an:i>
+					 Al fine di garantire la formazione del personale docente di cui al presente articolo, è istituito un fondo presso il Ministero dell'istruzione, dell'università e della ricerca, con una dotazione pari a 2 milioni di euro per ciascuno degli anni 2019, 2020 e 2021.
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>4.</an:i>
+					 Ai maggiori oneri di cui al comma 3, pari a 2 milioni di euro per ciascuno degli anni 2019, 2020 e 2021, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.
+				</an:p>
+				
+
+				<an:p>
+					        
+					<an:i>5</an:i>
+					. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

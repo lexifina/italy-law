@@ -1,5 +1,0 @@
-Convention between the United Kingdom of Great Britain and Northern Ireland and the Italian Republic on social insurance in Northern
-
-Ireland and Italy.
-
-Parte di provvedimento in formato grafico

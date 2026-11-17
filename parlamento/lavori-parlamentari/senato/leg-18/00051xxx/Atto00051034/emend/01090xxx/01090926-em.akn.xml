@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.655/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.655"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.655/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.655"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.655/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCTEYI2S5TFH4E0XJIBYZPFFVLDVMNVLLATR2AOCYE24CPK0GDFJ" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDRP3B0H3N1OABLXHWYSG3CUYXGGS5IIADAVF2SMPS5ZQYNQ01UIF" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="IDUEHDJ1GOBKLCP2HWEYITTXCRXECIXVP3TCA4DBCDE1B0TPKIL12H" href="http://dati.senato.it/27476" showAs="FANTETTI"/>
+				<an:TLCPerson id="IDU2ZWWFHPPTEOBXUVPCYHJH3HSOCZATDDBMIT0PJRYSFKY1MNS0IK" href="http://dati.senato.it/17841" showAs="FERRO"/>
+				<an:TLCPerson id="IDZNTNQUHSULJNG5FDRINZDYLHHIXOWI2IJEIRCSGPZSONVVETQQVI" href="http://dati.senato.it/31157" showAs="SACCONE"/>
+				<an:TLCPerson id="IDJ5DL2MPHCOCSDDZ2AUBAI2DB1BGVPZ4USWO30XOIOMOHTD0WFCEM" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.655</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCTEYI2S5TFH4E0XJIBYZPFFVLDVMNVLLATR2AOCYE24CPK0GDFJ" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRP3B0H3N1OABLXHWYSG3CUYXGGS5IIADAVF2SMPS5ZQYNQ01UIF" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUEHDJ1GOBKLCP2HWEYITTXCRXECIXVP3TCA4DBCDE1B0TPKIL12H" as="#tipoSenatore">FANTETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU2ZWWFHPPTEOBXUVPCYHJH3HSOCZATDDBMIT0PJRYSFKY1MNS0IK" as="#tipoSenatore">FERRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZNTNQUHSULJNG5FDRINZDYLHHIXOWI2IJEIRCSGPZSONVVETQQVI" as="#tipoSenatore">SACCONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ5DL2MPHCOCSDDZ2AUBAI2DB1BGVPZ4USWO30XOIOMOHTD0WFCEM" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Il comma 67 è sostituito dal seguente:</an:i>
+				</an:p>
+				<an:p>        «67. L'articolo 37, comma 5, del codice dei contratti pubblici, di cui al decreto legislativo 18 aprile 2016, n. 50, è sostituito dal seguente:</an:p>
+				<an:p>        ''5. In attesa della qualificazione delle stazioni appaltanti ai sensi dell'articolo 38, l'ambito territoriale di riferimento delle centrali di committenza in forma di aggregazione di comuni non capoluogo di provincia coincide con il territorio provinciale o metropolitano. A decorrere dal 1º maggio 2019, i comuni non capoluogo di provincia ricorrono alla stazione unica appaltante delle province e delle città metropolitane, ove costituita, esclusivamente per gli appalti di lavori pubblici e dei relativi servizi di progettazione. Le procedure di aggiudicazione degli appalti di lavori pubblici già avviate da stazioni appaltanti diverse da quelle previste nel precedente periodo sono concluse inderogabilmente entro il 30 aprile 2019. In caso di concessione di servizi pubblici locali di interesse economico generale di rete, l'ambito di competenza della centrale di committenza coincide con l'ambito territoriale di riferimento (ATO), individuato ai sensi della normativa di settore.''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

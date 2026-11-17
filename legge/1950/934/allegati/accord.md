@@ -1,3 +1,0 @@
-Accord de paiements et de compensations entre les Pays europeens
-
-Parte di provvedimento in formato grafico

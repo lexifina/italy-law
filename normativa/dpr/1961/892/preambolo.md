@@ -1,0 +1,5 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle leggi sulla istruzione superiore, approvato con regio decreto 31 agosto 1933 n. 1592, e successive modificazioni e integrazioni;
+
+Veduta la legge della Regione autonoma della Sardegna del 15 maggio 1959, n. 10; Sulla proposta del Ministro per la pubblica istruzione di concerto con il Ministro per il tesoro; Decreta:

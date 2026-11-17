@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/63.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/63.1"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/C/63.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="63.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@.akn"/>
+					<an:FRBRdate date="2020-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/C/63.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1883" showAs="Ddl 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/17578" showAs="Loredana De Petris"/>
+				<an:TLCPerson id="ID0ELB" href="http://dati.senato.it/32625" showAs="Vasco Errani"/>
+				<an:TLCPerson id="ID0EVB" href="http://dati.senato.it/29110" showAs="Pietro Grasso"/>
+				<an:TLCPerson id="ID0E6B" href="http://dati.senato.it/29450" showAs="Francesco Laforgia"/>
+				<an:TLCPerson id="ID0EJC" href="http://dati.senato.it/35106" showAs="Sandro Ruotolo"/>
+				<an:TLCPerson id="ID0ETC" href="http://dati.senato.it/29147" showAs="Paola Nugnes"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 63.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">De</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Petris</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ELB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Errani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EVB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Grasso</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E6B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Laforgia</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EJC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ruotolo</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ETC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Nugnes</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modifiche:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        1) s
+					<an:i>ostituire il comma 1 con il seguente:</an:i>
+					 «
+					<an:i>1.</an:i>
+					 Al fine del miglioramento della funzionalità delle aree forestali ubicate nelle aree montane ed interne, il Ministero delle politiche agricole alimentari e forestali, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, il Ministero per i beni e le attività culturali, e previa intesa della Conferenza permanente tra lo Stato le Regioni e le Province autonome, elabora entro 180 giorni un programma straordinario di manutenzione del territorio forestale e montano, in coerenza con gli obiettivi dello sviluppo sostenibile fissati dall'ONU per il 2030, del 
+					<an:i>Green new deal</an:i>
+					 europeo e della Strategia dell'UE per la Biodiversità entro il 2030. Il programma straordinario è composto da due sezioni, la Sezione A e la Sezione B; la Sezione A contiene un elenco ed una descrizione di interventi selvicolturali intensivi ed estensivi, di prevenzione selvicolturale degli incendi boschivi, di ripristino e restauro di superfici forestali degradate o frammentate, di tutela dei boschi vetusti presenti secondo quanto previsto del decreto legislativo 3 aprile 2018 n. 34 ''Testo unico delle foreste e delle filiere forestali'' da attuare da parte di imprese agricole e forestali, su iniziativa del Ministero delle politiche agricole alimentari e forestali e delle Regioni e province autonome, sentiti i Parchi naturali, nazionali e regionali. La Sezione B del programma è destinato al sostegno della realizzazione di Piani Forestali d'Indirizzo Territoriale per ambiti subregionali omogenei di cui all'articolo 6 del decreto legislativo n. 34 del 2018, nell'ambito di quadri programmatici regionali almeno decennali, che consentano di individuare le vocazioni delle aree forestali e organizzare gli interventi migliorativi e manutentivi nel tempo».
+				</an:p>
+				
+
+				<an:p>
+					        2) a
+					<an:i>l comma 2 aggiungere, in fine, le seguenti parole:</an:i>
+					 «, privilegiando soluzioni di rinaturazione e ingegneria naturalistica per favorire al pari, oltre l'uso agricolo, la riduzione del rischio idraulico, il recupero della capacità autodepurativa del territorio (es. promuovendo fasce tampone vegetali), la tutela della biodiversità».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

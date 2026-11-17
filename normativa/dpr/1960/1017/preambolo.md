@@ -1,0 +1,27 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Vista la legge 14 luglio 1959, n. 741, che delega il Governo ad emanare norme transitorie per garantire minimi di trattamento economico e normativo ai lavoratori;
+
+Visto il contratto collettivo nazionale di lavoro 30 giugno 1955, e relative tabelle, per gli impiegati dipendenti dalle ditte esercenti l'industria manufatturiera delle pelli e del cuoio per la produzione di pelletterie, sellerie in genere, buffetterie, articoli sportivi, cinture in genere e cinturini per orologio, guarnizioni e articoli tecnici di cuoio, selle, sedili e borsette per ciclo e motociclo, cinghie di trasmissione, valigie e bauli, stipulato tra l'Associazione Nazionale degli Industriali Manufatturieri Pelli e Cuoio, con l'assistenza della Confederazione Generale dell'Industria italiana e la Federazione italiana Lavoratori Abbigliamento con l'assistenza, della Confederazione Generale italiana del Lavoro; la Federazione Unitaria Lavoratori Abbigliamento, con l'assistenza della Confederazione italiana Sindacati Lavoratori; la Unione italiana Lavoratori Abbigliamento, con l'assistenza della Unione italiana del Lavoro; e, in pari data, tra l'Associazione Nazionale degli Industriali Manufatturieri Pelli e Cuoio, con l'assistenza della Confederazione Generale della Industria italiana e la Federazione Nazionale Lavoratori Abbigliamento, con l'intervento della Confederazione italiana Sindacati Nazionali Lavoratori;
+
+Visto il contratto collettivo nazionale di lavoro 8 gennaio 1957, e relative tabelle, da valere per gli operai addetti alle industrie manufatturiere pelli e cuoio, stipulato tra l'Associazione Nazionale Industriali Manufatturieri Pelli e Cuoio e la Federazione italiana Lavoratori Abbigliamento, con l'assistenza della Confederazione Generale italiana del Lavoro; la Federazione Unitaria italiana Lavoratori Abbigliamento, con l'assistenza della Confederazione italiana Sindacati Lavoratori; l'Unione italiana Lavoratori Abbigliamento, con l'assistenza dell'Unione italiana del Lavoro; al quale, la pari data, ha aderito la Federazione Nazionale Lavoratori Industria Abbigliamento;
+
+Visti:
+
+- il contratto collettivo nazionale di lavoro 8 gennaio 1957 per gli operai addetti all'industria manufatturiera pelli e cuoio - regolamentazione del lavoro a domicilio;
+
+- l'accordo 28 febbraio 1957 per gli operai addetti alle industrie manufatturiere pelli e cuoio a completamento e perfezionamento del contratto collettivo nazionale di lavoro 8 gennaio 1957 e degli annessi accordi salariali nazionali;
+
+- l'accordo 8 gennaio 1957 per gli aumenti dei minimi di retribuzione conglobata;
+
+allegati al predetto contratto;
+
+Visto l'accordo nazionale 20 ottobre 1948 per le mense aziendali da valere per i dipendenti delle aziende manufatturiere pelli e cuoio, stipulato tra l'Associazione Nazionale Industriali Manufatturieri Pelli e Cuoio e la Federazione italiana Lavoratori Abbigliamento; al quale ha aderito, in data 1 settembre 1950, la Confederazione italiana Sindacati Nazionali Lavoratori;
+
+Vista la pubblicazione negli appositi Bollettini, n. 28 del 22 febbraio 1960 e n. 81 del 4 maggio 1960, degli atti sopra indicati, depositati presso il Ministero del lavoro e della previdenza sociale, che ne ha accertato l'autenticita';
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale; Decreta:

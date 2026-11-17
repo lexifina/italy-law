@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/2.23/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/2.23"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/886/C/2.23/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.23"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@.akn"/>
+					<an:FRBRdate date="2018-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/886/C/2.23/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/886" showAs="DDL 886"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAUZTX2D0H3EGPD4WTMUEEMYOWHEX2YAQQ4CECQOAMCJYXPN3RYLE" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="IDU1ES3WA4DEKVHAL434FJHP1NVJLUYAC1UKSV4KFCENCOO4E4QZFL" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="ID1DE10LHSRLAIB2RMKOY5ZH1PCG3G2AA10ROXJ4E2IJEYHVTRVANC" href="http://dati.senato.it/32706" showAs="ROMEO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 886</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.23</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUZTX2D0H3EGPD4WTMUEEMYOWHEX2YAQQ4CECQOAMCJYXPN3RYLE" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU1ES3WA4DEKVHAL434FJHP1NVJLUYAC1UKSV4KFCENCOO4E4QZFL" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1DE10LHSRLAIB2RMKOY5ZH1PCG3G2AA10ROXJ4E2IJEYHVTRVANC" as="#tipoSenatore">ROMEO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2
+					<an:i>-bis)</an:i>
+					. All'articolo 17 del DPR n. 633/1972 e successive modifiche e integrazioni, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al sesto comma, la lettera 
+					<an:i>c)</an:i>
+					 è sostituita dalla seguente:
+				</an:p>
+				<an:p>
+					            ''
+					<an:i>c)</an:i>
+					 alle cessioni di telefoni cellulari, console da gioco, 
+					<an:i>tablet</an:i>
+					 PC e 
+					<an:i>laptop</an:i>
+					, nonché alle cessioni di dispositivi a circuito integrato, quali microprocessori e unità centrali di elaborazione, effettuate prima della loro installazione in prodotti destinati al consumatore finale. I fornitori di servizi di intermediazione online che offrono ad imprese terze la possibilità di cedere i beni di cui al precedente periodo fornendo servizi di gestione delle transazioni verso i clienti finali, agiscono in qualità di sostituto d'imposta nei confronti delle società venditrici per la sola imposta sul valore aggiunto, secondo i modi e i temi di cui all'articolo 64 del DPR n. 600/1973, e successive modifiche e integrazioni'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 all'ottavo comma, le parole: ''31 dicembre 2018'' sono sostituite dalle seguenti: ''31 dicembre 2022''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

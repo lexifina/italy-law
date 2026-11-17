@@ -1,0 +1,25 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Visto il regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio, del 18 dicembre 2006, concernente la registrazione, la valutazione, l'autorizzazione e la restrizione delle sostanze chimiche, che modifica la direttiva 1999/45/CE e che abroga il regolamento (CEE) n. 793/93 del Consiglio ed il regolamento (CE) n. 1488/94 della Commissione, nonche' la direttiva 76/769/CEE del Consiglio e le direttive della Commissione 91/155/CEE, 93/67/CEE, 93/105/CE e 2000/21/CE;
+
+Vista la legge 25 febbraio 2008, n. 34, ed in particolare l'articolo 3;
+
+Ritenuto necessario fornire disposizioni applicative del suddetto regolamento (CE) n. 1907/2006 per quanto concerne in particolare le sanzioni applicabili alle violazioni delle disposizioni del citato regolamento e l'individuazione delle misure necessarie affinche' esse siano attuate in applicazione degli articoli 125 e 126 del regolamento medesimo;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 19 novembre 2008;
+
+Acquisiti i pareri delle competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
+
+Considerata la necessita' di introdurre nel testo modifiche ulteriori rispetto a quelle derivanti dai rilievi formulati dalle competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica, con particolare riferimento all'armonizzazione delle sanzioni previste agli articoli 14 e 16;
+
+Vista l'ulteriore preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 maggio 2009;
+
+Acquisiti nuovamente i pareri delle competenti Commissioni permanenti della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 24 luglio 2009;
+
+Sulla proposta del Ministro per le politiche europee e del Ministro della giustizia, di concerto con i Ministri del lavoro, della salute e delle politiche sociali, dell'ambiente e della tutela del territorio e del mare, dello sviluppo economico e dell'economia e delle finanze;
+
+Emana il seguente decreto legislativo:

@@ -1,7 +1,0 @@
-Allegato B
-
-(di cui all'articolo 7, comma 1)
-
-Risposta alla richiesta
-
-Parte di provvedimento in formato grafico

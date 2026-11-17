@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 ottobre 1999
-
-CIAMPI D'Alema, Presidente del Consiglio dei Ministri Bindi, Ministro della sanita' Zecchino, Ministro dell'universita' e della ricerca scientifica e tecnologica Amato, Ministro del tesoro, del bilancio e della programmazione economica Visto, il Guardasigilli: Diliberto

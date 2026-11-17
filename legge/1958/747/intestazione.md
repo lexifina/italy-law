@@ -1,7 +1,0 @@
-LEGGE
-
-15 luglio 1958
-
-747
-
-Conversione in legge del decreto-legge 11 giugno 1958, n. 573, concernente la proroga del termine stabilito dall'articolo 23 della legge 31 luglio 1956, n. 897, contenente disposizioni sulla cinematografia e successive modificazioni.

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717-B/A/G5.62"/>
+					<an:FRBRdate date="2018-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.62"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@"/>
+					<an:FRBRdate date="2018-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@.akn"/>
+					<an:FRBRdate date="2018-09-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-09-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-09-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/717-B/A/G5.62/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/717-B" showAs="DDL 717-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5JDLWNW4Z4RJJZICPIZO2VRTUINQVBCL1VXHO0L3L5QHPLGXFRBE" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="IDZUQKJFG0BNPDCUGZ2XXVBGQMDSFA42JPF5SM5EMWKHA1FEHWCUI" href="http://dati.senato.it/29157" showAs="PARENTE"/>
+				<an:TLCPerson id="IDSZQOA5UPBNUJOSNMFGGZFEDEYKZS2VB2YT0VLYC0IRLBXXXVFSD" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDFNYOMCM4WL30CIHNJEUMM01CKNA0POZZFQ0JMBOQBWFGQL1JXCIL" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDE1V4WXHYPG5XHOCICM1OA54FCCELZXWHWDQB0MJ2EGPHB0IUIWZD" href="http://dati.senato.it/29521" showAs="PARRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 717-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.62</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5JDLWNW4Z4RJJZICPIZO2VRTUINQVBCL1VXHO0L3L5QHPLGXFRBE" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZUQKJFG0BNPDCUGZ2XXVBGQMDSFA42JPF5SM5EMWKHA1FEHWCUI" as="#tipoSenatore">PARENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSZQOA5UPBNUJOSNMFGGZFEDEYKZS2VB2YT0VLYC0IRLBXXXVFSD" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFNYOMCM4WL30CIHNJEUMM01CKNA0POZZFQ0JMBOQBWFGQL1JXCIL" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE1V4WXHYPG5XHOCICM1OA54FCCELZXWHWDQB0MJ2EGPHB0IUIWZD" as="#tipoSenatore">PARRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che,</an:p>
+				<an:p>            il provvedimento in esame è finalizzato a prorogare termini previsti da disposizioni legislative riguardanti numerosi ambiti materiali;</an:p>
+				<an:p>            nel testo finale del provvedimento, tuttavia, non sono incluse diverse e importanti norme in materia di ammortizzatori sociali, alcune delle quali hanno consentito di affrontare situazioni di crisi economica preservando il tessuto occupazionale e sociale dei territori;</an:p>
+				<an:p>            tra queste, notevole rilevanza riveste l'articolo 42, comma 3, del decreto legislativo 14 settembre 2015, n. 148, in materia di prosecuzione dei trattamenti straordinari di integrazione salariale, che consente ai lavoratori impiegati in aziende impegnate a completare piani industriali relativi a casi di rilevante interesse strategico per l'economia nazionale che comportino notevoli ricadute occupazionali, tali da condizionare le possibilità di sviluppo economico territoriale, di beneficiare di ulteriori interventi di integrazione salariale straordinaria rispetto alla legislazione vigente;</an:p>
+				<an:p>            tale disposizione sta consentendo di garantire il completamento dei piani occupazionali delle imprese e la salvaguardia occupazionale dei lavoratori e la sua mancata proroga può provocare l'interruzione di questo processo virtuoso;</an:p>
+				<an:p>            si reputa quindi necessario operare al fine di prorogare l'efficacia della predetta norma,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad adoperarsi, sin dal primo provvedimento legislativo utile, al fine di prorogare l'efficacia delle disposizioni in materia di concessione di ulteriori interventi di integrazione salariale straordinaria rispetto alla legislazione vigente, al fine di garantire il completamento dei piani industriali relativi a casi di rilevante interesse strategico per l'economia nazionale che comportino notevoli ricadute occupazionali, tali da condizionare le possibilità di sviluppo economico territoriale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

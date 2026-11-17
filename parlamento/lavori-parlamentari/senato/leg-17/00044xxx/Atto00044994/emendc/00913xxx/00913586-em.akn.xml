@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/42.200/1"/>
+					<an:FRBRdate date="2015-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="42.200/1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@"/>
+					<an:FRBRdate date="2015-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@.akn"/>
+					<an:FRBRdate date="2015-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-10-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-10-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1676/C/42.200/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1676" showAs="DDL 1676"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="13ª Commissione permanente" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA5JGAD" href="http://dati.senato.it/senatore/29163" showAs="PICCOLI"/>
+				<an:TLCPerson id="IDALJGAD" href="http://dati.senato.it/senatore/29128" showAs="MARIN"/>
+				<an:TLCPerson id="IDAKKGAD" href="http://dati.senato.it/senatore/31009" showAs="BERTACCO"/>
+				<an:TLCPerson id="IDAOKGAD" href="http://dati.senato.it/senatore/31010" showAs="AMIDEI"/>
+				<an:TLCPerson id="IDANIGAD" href="http://dati.senato.it/senatore/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1676</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 42.200/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5JGAD" as="#tipoSenatore">PICCOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALJGAD" as="#tipoSenatore">MARIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKKGAD" as="#tipoSenatore">BERTACCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOKGAD" as="#tipoSenatore">AMIDEI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANIGAD" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 42.200, capoverso "</an:i>
+					Art. 42
+					<an:i>", apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>al comma 1, sostituire le parole: "presso la Cassa conguaglio per il settore elettrico, senza nuovi o maggiori oneri per la finanza pubblica, un Fondo di garanzia per gli" con le seguenti: "presso la Cassa Depositi e Prestiti un Fondo per il finanziamento a tasso agevolato degli";</an:p>
+				<an:p>al comma 1, sopprimere le parole: "e contenendo gli oneri gravanti sulle tariffe";</an:p>
+				<an:p>al comma 1, sostituire l'ultimo periodo con i seguenti: " Alle risorse del Fondo provvede la Cassa Depositi e Prestiti. Al Fondo di garanzia possono accedere unicamente gli Enti di governo d'ambito dotati di piani d'ambito e di piani di investimento regolarmente approvati.";</an:p>
+				<an:p>al comma 2, sostituire le parole: "sono definiti gli interventi prioritari, i criteri e le modalità di utilizzazione", con le seguenti: "e le competenti Commissioni parlamentari, sono definiti gli interventi prioritari, i criteri e le modalità di erogazione e l'assegnazione delle risorse.";</an:p>
+				<an:p>sopprimere il comma 3.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

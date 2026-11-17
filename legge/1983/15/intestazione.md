@@ -1,7 +1,0 @@
-LEGGE
-
-28 gennaio 1983
-
-15
-
-Conversione in legge del decreto-legge 30 novembre 1982, n. 878, concernente proroga dei termini che scadono il 30 novembre 1982 previsti dalle disposizioni contenute nel decreto-legge 10 luglio 1982, n. 429, convertito, con modificazioni, nella legge 7 agosto 1982, n. 516, per agevolare la definizione delle pendenze tributarie.

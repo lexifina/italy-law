@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/4.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/4.3"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/4.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/4.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAGSVQ" href="http://dati.senato.it/senatore/29188" showAs="TARQUINIO"/>
+				<an:TLCPerson id="IDARQVQ" href="http://dati.senato.it/senatore/25458" showAs="MILO"/>
+				<an:TLCPerson id="IDAMSVQ" href="http://dati.senato.it/senatore/29207" showAs="BRUNI"/>
+				<an:TLCPerson id="IDAZRVQ" href="http://dati.senato.it/senatore/25261" showAs="D'AMBROSIO LETTIERI"/>
+				<an:TLCPerson id="IDAZSVQ" href="http://dati.senato.it/senatore/29118" showAs="LIUZZI"/>
+				<an:TLCPerson id="IDA1SVQ" href="http://dati.senato.it/senatore/29159" showAs="PERRONE"/>
+				<an:TLCPerson id="IDA4RVQ" href="http://dati.senato.it/senatore/29197" showAs="ZIZZA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGSVQ" as="#tipoSenatore">TARQUINIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARQVQ" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAMSVQ" as="#tipoSenatore">BRUNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZRVQ" as="#tipoSenatore">D'AMBROSIO LETTIERI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZSVQ" as="#tipoSenatore">LIUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1SVQ" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4RVQ" as="#tipoSenatore">ZIZZA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire i commi 1, 2, e 3 con i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «1. A decorrere dall'anno 2016, l'esenzione dell'imposta municipale propria (IMU) prevista dalla lettera 
+					<an:i>h)</an:i>
+					 dell'articolo 7 del decreto legislativo 30 dicembre 1992, n. 504 si applica a tutti i terreni agricoli in qualsiasi area ubicati e a qualsiasi titolo posseduti.
+				</an:p>
+				<an:p>
+					        2. Ai maggiori oneri derivanti dall'applicazione del precedente comma si provvede mediante riduzione lineare delle dotazioni finanziarie di parte corrente, iscritte a legislazione vigente in termini di competenza e di cassa, nell'ambito delle spese rimodulabili, di cui all'articolo 21, comma 5, lettera 
+					<an:i>b)</an:i>
+					, della legge 31 dicembre 2009, n. 196, delle missioni di spesa di ciascun Ministero, ad esclusione del Ministero delle Politiche agricole, alimentari e forestali relative alle autorizzazioni di spesa, riferite alle sole spese rimodulabili, in misura tale da realizzare complessivamente una riduzione di 360 milioni di euro a decorrere dall'anno 2016.
+				</an:p>
+				<an:p>
+					        3. Il Ministero dell'economia e delle finanze con proprio decreto definisce le modalità di applicazione delle disposizioni di cui al comma 1. A decorrere dall'anno 2016, sono abrogati i commi da 1 a 9-
+					<an:i>bis</an:i>
+					 dell'articolo 1 del decreto-legge 24 gennaio 2015, n. 4, convertito, con modificazioni, dalla legge 24 marzo 2015, n. 34».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,7 +1,0 @@
-TABELLA
-
-TABELLE DELLE RETRIBUZIONI MINIME FISSATE AI SENSI DELL'ART.1 DELL'ACCORDO 12 GIUGNO 1954
-
-TABELLA 1: IMPIEGATI - UOMINI- stipendio minimo mensile
-
-Parte di provvedimento in formato grafico

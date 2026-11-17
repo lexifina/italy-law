@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1015/A/G10.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1015/A/G10.100"/>
+					<an:FRBRdate date="2013-10-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1015/A/G10.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@"/>
+					<an:FRBRdate date="2013-10-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@.akn"/>
+					<an:FRBRdate date="2013-10-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-10-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-10-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1015/A/G10.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1015" showAs="DDL 1015"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/29146" showAs="Mussini"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/29139" showAs="Molinari"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/29143" showAs="Morra"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/29046" showAs="Bertorotta"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/29066" showAs="Catalfo"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/29102" showAs="Gaetti"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1015</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10.100 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Mussini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Morra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Bertorotta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Catalfo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Gaetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede d'esame del disegno di legge di conversione in legge del decreto-legge 31 agosto 2013, n. 101, recante disposizioni urgenti per il perseguimento di obiettivi di razionalizzazione nelle pubbliche amministrazioni (AS 1015);</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 10 contiene misure per il potenziamento delle politiche di coesione;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            la gestione dei programmi operativi delle politiche di coesione è competenza di un ampio numero di enti ed istituzioni a vari livelli;</an:p>
+				<an:p align="justify">            tale pluralità ha spesso come conseguenza sovrapposizioni o duplicazioni di competenze tra i vari enti ed istituzioni preposti con un aggravio dei processi burocratici ed un inutile spreco di risorse;</an:p>
+				<an:p align="justify">        impegna il Governo a valutare l'opportunità di porre in essere appositi provvedimenti al fine di operare una complessiva riforma della gestione dei programmi delle politiche di coesione e una più razionale ripartizione delle competenze tra i vari enti coinvolti.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

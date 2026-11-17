@@ -1,9 +1,0 @@
-LEGGE
-
-24 gennaio 1938
-
-189
-
-Conversione in legge del R. decreto-legge 14 luglio 1937-XV, n. 1252, che proroga il termine entro il quale il Consorzio di credito per le opere pubbliche potra' concedere mutui all'Opera nazionale combattenti. (038U0189)
-
-Entrata in vigore del provvedimento: 25/03/1938

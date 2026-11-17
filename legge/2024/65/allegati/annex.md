@@ -1,5 +1,0 @@
-ANNEX
-
-RULES OF PROCEDURE
-
-Parte di provvedimento in formato grafico

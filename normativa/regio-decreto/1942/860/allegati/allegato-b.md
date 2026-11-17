@@ -1,0 +1,5 @@
+Allegato B).
+
+Giudizi di avanzamento per gli appuntati.
+
+Parte di provvedimento in formato grafico

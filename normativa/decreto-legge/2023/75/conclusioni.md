@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 22 giugno 2023
+
+MATTARELLA Meloni, Presidente del Consiglio dei Ministri Zangrillo, Ministro per la pubblica amministrazione Abodi, Ministro per lo sport e i giovani Piantedosi, Ministro dell'interno Nordio, Ministro della giustizia Crosetto, Ministro della difesa Giorgetti, Ministro dell'economia e delle finanze Lollobrigida, Ministro dell'agricoltura, della sovranita' alimentare e delle foreste Calderone, Ministro del lavoro e delle politiche sociali Valditara, Ministro dell'istruzione e del merito Bernini, Ministro dell'universita' e della ricerca Sangiuliano, Ministro della cultura Schillaci, Ministro della salute Garnero Santanche', Ministro del turismo Pichetto Fratin, Ministro dell'ambiente e della sicurezza energetica Salvini, Ministro delle infrastrutture e dei trasporti Visto, il Guardasigilli: Nordio

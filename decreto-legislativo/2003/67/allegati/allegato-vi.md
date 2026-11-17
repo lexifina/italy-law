@@ -1,9 +1,0 @@
-Allegato VI
-
-(articolo 3 - comma 1)
-
-FORMULARIO PER IL SISTEMA DI QUALIFICAZIONE
-
-NEI SETTORI SPECIALI
-
-Parte di provvedimento in formato grafico

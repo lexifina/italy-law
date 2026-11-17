@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1000/181"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@.akn"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-06-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-06-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1934/A/1.1000/181/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1934" showAs="DDL 1934"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22970" showAs="Giro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25245" showAs="Sibilia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29128" showAs="Marin"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17834" showAs="Fasano"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/23035" showAs="Pelino"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1934</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1000/181</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Giro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Sibilia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Marin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fasano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Pelino</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>All'emendamento 1.1000, al capoverso «Art. 1 », dopo il comma 27, inserire i seguenti:</an:p>
+				<an:p align="justify">
+					        «27-
+					<an:i>bis</an:i>
+					. Le istituzioni scolastiche di istruzione secondaria superiore formative accreditate, singolarmente o in rete, nel rispetto dei requisiti, delle modalità e dei criteri fissati con regolamento adottato ai sensi dell'articolo 17, comma l, della legge 23 agosto 1988, n. 400, e successive modificazioni, possono promuovere o partecipare alla costituzione di fondazioni e consorzi finalizzati al sostegno della loro attività, per il raggiungi mento degli obiettivi strategici indicati nel piano dell'offerta formativa e per l'innalzamento degli 
+					<an:i>standard</an:i>
+					 di competenza dei singoli studenti e della qualità complessiva dell'istituzione scolastica, ferme restando le competenze degli organi collegiali.
+				</an:p>
+				<an:p align="justify">
+					        27-
+					<an:i>ter</an:i>
+					. I 
+					<an:i>partner</an:i>
+					 previsti dal comma 27-
+					<an:i>bis</an:i>
+					 possono essere soggetti pubblici e privati, altre fondazioni, associazioni di genitori o di cittadini, organizzazioni non 
+					<an:i>profit</an:i>
+					.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

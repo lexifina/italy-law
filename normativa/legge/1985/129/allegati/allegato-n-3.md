@@ -1,0 +1,5 @@
+ALLEGATO N. 3
+
+FACSIMILE DI FOGLIO COMPLEMENTARE AGRICOLO
+
+Parte di provvedimento in formato grafico

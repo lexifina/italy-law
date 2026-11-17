@@ -1,0 +1,3 @@
+TABELLE DELLE RETRIBUZIONI MINIME CONGLOBATE A VALERE DAL 12 GIUGNO 1954
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservate.
+
+Dato a Roma, addi' 18 luglio 1985
+
+COSSIGA FALCUCCI, Ministro della pubblica istruzione Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 16 novembre 1985 Registro n. 77 Istruzione, foglio n. 386

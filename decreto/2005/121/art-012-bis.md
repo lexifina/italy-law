@@ -1,9 +1,0 @@
-Art. 12-bis.
-
-(( (Funzioni equivalenti). ))
-
---------------
-
-AGGIORNAMENTO (1)
-
-Il Decreto 13 dicembre 2023, n. 227 ha disposto (con l'art. 2, comma 1) che "Le disposizioni di cui al presente regolamento si applicano a decorrere dal novantesimo giorno successivo a quello della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana".

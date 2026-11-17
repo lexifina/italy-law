@@ -1,5 +1,0 @@
-CONFERENCE INTERNATIONALE DU TRAVAIL
-
-CONVENTION 112
-
-Parte di provvedimento in formato grafico

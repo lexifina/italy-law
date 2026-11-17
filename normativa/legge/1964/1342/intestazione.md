@@ -1,0 +1,7 @@
+LEGGE
+
+13 dicembre 1964
+
+1342
+
+Conversione in legge del decreto-legge 11 novembre 1964, n. 1121, concernente la soppressione dell'imposta speciale sugli acquisti di alcuni prodotti, istituita con il decreto-legge 23 febbraio 1964, n. 26, convertito, con modificazioni, nella legge 12 aprile 1964, n. 190.

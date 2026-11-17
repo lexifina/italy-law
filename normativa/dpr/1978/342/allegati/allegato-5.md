@@ -1,0 +1,7 @@
+ALLEGATO 5
+
+TARIFFA N. 21-BIS
+
+PER BIGLIETTI DI ABBONAMENTO AI SUPPLEMENTI PER TRENI RAPIDI
+
+Parte di provvedimento in formato grafico

@@ -1,3 +1,0 @@
-Acuerdo sobre transportes aereos regulares entre las Republicas Argentina e italiana
-
-Parte di provvedimento in formato grafico

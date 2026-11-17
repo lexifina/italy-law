@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/18.0.55"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.0.55"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/18.0.55/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID4LXFHT3HS0IVNGM32BAA4AC0RLVBJPM1XJYBZIJ2UGY54SUDAOEI" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDYIOLQ0BPN5VIEQGXIEMOGQ31KRHFC4HGOKY3LMX5SSIUXDKEWUN" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID0XKK5TILR55PJZPKHVWMISY3CCGMRJ0ZJHI5XNCXJVOEIBDFOJEJ" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDCBU14H4SMIHYFT1EHILERDOUWOI4XZ5TV1OTNDJYFPMBXMAZSP1M" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.0.55</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4LXFHT3HS0IVNGM32BAA4AC0RLVBJPM1XJYBZIJ2UGY54SUDAOEI" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYIOLQ0BPN5VIEQGXIEMOGQ31KRHFC4HGOKY3LMX5SSIUXDKEWUN" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0XKK5TILR55PJZPKHVWMISY3CCGMRJ0ZJHI5XNCXJVOEIBDFOJEJ" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCBU14H4SMIHYFT1EHILERDOUWOI4XZ5TV1OTNDJYFPMBXMAZSP1M" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 18-
+					<an:strong>
+						<an:i>bis</an:i>
+					</an:strong>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Trasformazione di SOGESID SpA in INVITALIA AMBIENTE SpA)</an:i>
+				</an:p>
+				<an:p>        1. Il Ministero dell'economia e delle finanze, di concerto con il Ministero dell'ambiente e della tutela del territorio e del mare, con il Ministero delle infrastrutture e dei trasporti, con il Ministero delle politiche agricole alimentari, forestali e del turismo e con Ministero dello sviluppo economico, procede, entro 60 giorni dalla data di entrata in vigore della presente legge, alla trasformazione della società SOGESID S.P.A., di cui all'articolo 1, comma 503 della legge 27 dicembre 2006 n. 296, al fine di renderla strumentale alle esigenze dei quattro Ministeri suddetti.</an:p>
+				<an:p>        2. In esito alla trasformazione di cui al comma precedente, SOGESID S.P.A. assume la denominazione di INVITALIA AMBIENTE S.P.A. ed è posta sotto il controllo dell'agenzia nazionale per l'attrazione degli investimenti e lo sviluppo d'impresa S.P.A. (di seguito INVITALIA S.P.A.). L'assetto organizzativo di INVITALIA S.P.A. e delle sue controllate, ove necessario, è rideterminato dai Ministeri competenti, al fine di renderlo coerente con quanto disposto dalla presente legge.</an:p>
+				<an:p>        3. Per la realizzazione delle finalità di cui ai commi 1 e 2, alla data di entrata in vigore del provvedimento del Ministero dell'economia e delle finanze di cui al comma 1, gli organismi di amministrazione della SOGESID S.P.A. sono sciolti e sono individuati i nuovi organi societari. L'amministratore delegato della società INVITALIA AMBIENTE S.P.A. è scelto tra i consiglieri di amministrazione individuati su proposta del Ministero dell'ambiente e della tutela del territorio e del mare.</an:p>
+				<an:p>        4. INVITALIA AMBIENTE S.P.A. subentra nei rapporti di lavoro attualmente in capo a SOGESID S.P.A.. Il personale subordinato in servizio all'entrata in vigore della presente legge è inquadrato sulla base di un'apposita tabella di corrispondenza delle qualifiche, approvata con decreto del Ministro dell'economia e delle finanze, su proposta del Consiglio di Amministrazione di INVITALIA S.P.A" di concerto con le Organizzazioni sindacali del comparto di afferenza di SOGESID S.P.A. INVITALIA AMBIENTE S.P.A. subentra altresì in tutti i rapporti convenzionali e in tutte le attività, anche a valere su risorse comunitarie, facenti capo a SOGESID S.P.A.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

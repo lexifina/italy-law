@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.799/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.799"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.799/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.799"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.799/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSMVY3SBCRBXWIFA1SDYXHKAWSB0TY4ZBSJX0S2DRCDPZXJ1OVM4N" href="http://dati.senato.it/32706" showAs="ROMEO"/>
+				<an:TLCPerson id="IDKXHESUK10TB0LWW1UVFWP2DW1I4DJWLLMQMURYLTJEFZCWLWRL3H" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID5ZUE45CGPEGEJJ2FE4PXZI5BVOQPHYPD500LVCMWA14EXTKTOZAH" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDIRYGMTTWUG3ODP0NY5R5LAECYCBRWEXK3SAUO5IGH02BQOKH3LPB" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDAD3E1BLUG4DED2BFYQIMK31BSJEBYBHO4V4E5CP0N4MOLQNDPCGE" href="http://dati.senato.it/32716" showAs="SOLINAS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.799</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSMVY3SBCRBXWIFA1SDYXHKAWSB0TY4ZBSJX0S2DRCDPZXJ1OVM4N" as="#tipoSenatore">ROMEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKXHESUK10TB0LWW1UVFWP2DW1I4DJWLLMQMURYLTJEFZCWLWRL3H" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5ZUE45CGPEGEJJ2FE4PXZI5BVOQPHYPD500LVCMWA14EXTKTOZAH" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIRYGMTTWUG3ODP0NY5R5LAECYCBRWEXK3SAUO5IGH02BQOKH3LPB" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAD3E1BLUG4DED2BFYQIMK31BSJEBYBHO4V4E5CP0N4MOLQNDPCGE" as="#tipoSenatore">SOLINAS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 104,inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «104-
+					<an:i>bis</an:i>
+					. All'articolo 1-
+					<an:i>bis</an:i>
+					, comma 12, del decreto-legge 24 giugno 2014, n. 91, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 116, dopo le parole: ''1º dicembre 1999, n. 503'' sono inserite le seguenti: ''nonché in comuni prealpini e appenninici di collina, pedemontani e della pianura non irrigua, individuati con decreto dei Ministri per le politiche agricole, alimentari, forestali e del turismo e per la tutela dell'ambiente e del territorio''.
+				</an:p>
+				<an:p>
+					        104-
+					<an:i>ter</an:i>
+					. Il Ministro delle politiche agricole alimentari, forestali e del turismo e il Ministro per la tutela dell'ambiente e del territorio, entro 45 giorni dall'entrata in vigore della legge di conversione del presente decreto, adottano un decreto ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400, per provvedere, ai fini del comma 1, alla determinazione dei Comuni prealpini e appenninici di collina, pedemontani e della pianura non irrigua legati a specifici fattori di svantaggio correlati alla frammentazione dei fondi, alla minore produttività rispetto alle zone di pianura irrigua e alla carenza di opere urbanistiche e di infrastrutture indispensabili per lo svolgimento dell'attività primaria. Il decreto non può individuare nelle predette categorie oltre un quarto dei Comuni italiani».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

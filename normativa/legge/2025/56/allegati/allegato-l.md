@@ -1,0 +1,9 @@
+Allegato L
+
+(Articolo 1, comma 2)
+
+DECRETI LEGISLATIVI LUOGOTENENZIALI
+
+E DECRETI-LEGGE LUOGOTENENZIALI
+
+Parte di provvedimento in formato grafico

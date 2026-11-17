@@ -1,3 +1,0 @@
-Testo unico-Tabelle
-
-((TABELLE ABROGATE DAL D.P.R. 29 DICEMBRE 1973, N. 1092))

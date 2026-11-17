@@ -1,7 +1,0 @@
-LEGGE
-
-27 gennaio 2000
-
-10
-
-Ratifica ed esecuzione del protocollo di modifica della convenzione di Nairobi del 15 ottobre 1979, tra il Governo della Repubblica italiana ed il Governo della Repubblica del Kenia per evitare le doppie imposizioni e per prevenire le evasioni fiscali in materia di imposte sul reddito, fatto a Nairobi il 18 febbraio 1997.

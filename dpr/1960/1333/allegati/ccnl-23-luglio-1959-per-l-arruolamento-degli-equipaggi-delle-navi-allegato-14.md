@@ -1,7 +1,0 @@
-ALLEGATO 14
-
-TABELLA VIVERI
-
-PERSONALE O STATO MAGGIORE E ALLIEVI UFFICIALI
-
-Parte di provvedimento in formato grafico

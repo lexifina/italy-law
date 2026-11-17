@@ -1,0 +1,7 @@
+Allegato 3
+
+(articolo 7)
+
+FORMATO STANDARD PER LA RICEVUTA DI CONFERIMENTO DEI RIFIUTI
+
+Parte di provvedimento in formato grafico

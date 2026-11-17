@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.326/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.326"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.326/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.326"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@.akn"/>
+					<an:FRBRdate date="2017-12-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2801/A/4.326/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2801" showAs="DDL 2801"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJVSCEDX2VWYEP2BHS2GJEX0FQHT3JU2CEDUTQIJMB4KRAVEYUXO" href="http://dati.senato.it/17552" showAs="BIANCONI"/>
+				<an:TLCPerson id="ID1N04KG0XHC1KJKFMYDV5LBQDNMHAC0OOOARDSBLLEPOAISMTJ1GB" href="http://dati.senato.it/29033" showAs="AIELLO"/>
+				<an:TLCPerson id="ID25E3ZBLHCLSODH2NTT2ABZ2YAM1K4XSNXFMUFOG3MUSKY4WPEDUM" href="http://dati.senato.it/1027" showAs="FORMIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2801</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.326</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJVSCEDX2VWYEP2BHS2GJEX0FQHT3JU2CEDUTQIJMB4KRAVEYUXO" as="#tipoSenatore">BIANCONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1N04KG0XHC1KJKFMYDV5LBQDNMHAC0OOOARDSBLLEPOAISMTJ1GB" as="#tipoSenatore">AIELLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID25E3ZBLHCLSODH2NTT2ABZ2YAM1K4XSNXFMUFOG3MUSKY4WPEDUM" as="#tipoSenatore">FORMIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 5 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «5. Il medico è tenuto al rispetto delle DAT e in conseguenza di ciò è esente da responsabilità civile e penale. Le DAT possono essere disattese, in tutto o in parte, dal medico, su proposta del fiduciario adeguatamente informato, qualora sussistano terapie documentabili non prevedibili all'atto della sottoscrizione, capaci di assicurare concrete possibilità di miglioramento delle condizioni di vita, indicando dettagliata mente le motivazioni della decisione nella cartella clinica».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

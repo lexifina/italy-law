@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.34/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.34"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.34/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.34"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/13.34/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMJZA11KBCAIKF5STEGHUGAMM0GDJ2IPKS1ZIDGLB0PNSCAEIT0ZO" href="http://dati.senato.it/25359" showAs="CROSIO"/>
+				<an:TLCPerson id="IDWIHNLAOPU0U2OQSS3DEWNOF54DGQHVRSSWRVFC4GCQWOY0CCYBL" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDB3XYQRYFXGOLCVNGNMOLTKR1RFPXRP5WTUXFHFODMVXMRCZW01GB" href="http://dati.senato.it/25528" showAs="CONSIGLIO"/>
+				<an:TLCPerson id="IDYISPTSGG0NFDOQP5GWXIJQFLMJHKAQLSJPTYFLCI055PIREVMHL" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.34</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMJZA11KBCAIKF5STEGHUGAMM0GDJ2IPKS1ZIDGLB0PNSCAEIT0ZO" as="#tipoSenatore">CROSIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWIHNLAOPU0U2OQSS3DEWNOF54DGQHVRSSWRVFC4GCQWOY0CCYBL" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB3XYQRYFXGOLCVNGNMOLTKR1RFPXRP5WTUXFHFODMVXMRCZW01GB" as="#tipoSenatore">CONSIGLIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYISPTSGG0NFDOQP5GWXIJQFLMJHKAQLSJPTYFLCI055PIREVMHL" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 8, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «8-
+					<an:i>bis</an:i>
+					. Per le finalità di cui al comma 8-
+					<an:i>ter</an:i>
+					, dell'articolo 18, del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, è autorizzata la spesa di 30 milioni di euro per l'anno 2014, 70 milioni di euro per l'anno 2015 e 160 milioni di euro per l'anno 2016. Ai fini della ripartizione delle risorse, ai sensi del comma 8-
+					<an:i>quater</an:i>
+					 del medesimo articolo 18, gli enti locali presentano alle regioni i progetti esecutivi degli interventi immediatamente cantierabili entro il 28 febbraio di ciascun anno e le regioni presentano le graduatorie al Ministro dell'istruzione, dell'università e della ricerca entro il 31 marzo di ciascun anno che, con apposito decreto, da emanare entro il 15 aprile di ciascun anno, provvede all'assegnazione delle risorse agli enti locali. L'affidamento dei lavori ai sensi del comma 8-
+					<an:i>quater</an:i>
+					 del citato articolo 18, deve avvenire entro i 4 mesi successivi dall'assegnazione delle risorse.
+				</an:p>
+				<an:p>
+					        8-
+					<an:i>ter</an:i>
+					. All'onere derivante dal comma 8-
+					<an:i>bis</an:i>
+					, pari a 30 milioni di euro per l'anno 2014, 70 milioni di euro per l'anno 2015 e 160 milioni di euro per l'anno 2016, si provvede mediante corrispondente riduzione dello stanzia mento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2014-2016, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2014, allo scopo parzialmente utilizzando: quanto a 10 milioni per l'anno 2014, 20 milioni per l'anno 2015 e 20 milioni per l'anno 2016 l'accantonamento relativo al Ministero dell'interno; quanto a 10 milioni per l'anno 2014, 30 milioni per l'anno 2015 e 30 milioni per l'anno 2016 l'accantonamento relativo al Ministero degli affari esteri; quanto a 10 milioni per l'anno 2014, 10 milioni per l'anno 2015 e 10 milioni per l'anno 2016 l'accantonamento relativo al Ministero del lavoro e delle politiche sociali; quanto a 10 milioni per l'anno 2015 e 100 milioni per l'anno 2016 l'accantonamento relativo al Ministero dell'economia e delle finanze. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

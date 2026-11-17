@@ -1,5 +1,0 @@
-LISTA B
-
-ESPORTAZIONE ITALIANA VERSO L'URUGUAY
-
-Parte di provvedimento in formato grafico

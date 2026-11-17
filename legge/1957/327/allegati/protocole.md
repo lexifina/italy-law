@@ -1,3 +1,0 @@
-Protocole Additionnel n. 6 portant amendements a' l'Accord sur l'etablissement d'une Union Europeenne de paiements du 19 septembre 1950.
-
-Parte di provvedimento in formato grafico

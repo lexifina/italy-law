@@ -1,5 +1,0 @@
-TABELLA E
-
-TASSE UNIVERSITARIE E SCOLASTICHE
-
-Parte di provvedimento in formato grafico

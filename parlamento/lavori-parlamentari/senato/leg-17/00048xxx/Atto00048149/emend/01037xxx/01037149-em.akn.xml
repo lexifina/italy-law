@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/3.0.9"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/3.0.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0W5UKR54RBYMPPDKFITRXSPM4BMBMU2ZUPVOVLIITPI1OVFSBIPC" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDNDEIC1L3ZSXTGTY4UODYDK15NMD2MWVB0H0JSQP4TDONSEVTJERJ" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDG2SQFXWEGXFDHT503TRD3HWGGKKGCYXQHDVLMVBWYE2YXBEGK0LI" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDFRYW3JGPVC1YHNPFV5P1LFFCKGJI13TCCGE2YMFVW1P0SO42UHSG" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0W5UKR54RBYMPPDKFITRXSPM4BMBMU2ZUPVOVLIITPI1OVFSBIPC" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNDEIC1L3ZSXTGTY4UODYDK15NMD2MWVB0H0JSQP4TDONSEVTJERJ" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG2SQFXWEGXFDHT503TRD3HWGGKKGCYXQHDVLMVBWYE2YXBEGK0LI" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFRYW3JGPVC1YHNPFV5P1LFFCKGJI13TCCGE2YMFVW1P0SO42UHSG" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p>        1. Per il quadriennio 2017-2020, nelle regioni Abruzzo, Basilicata, Calabria, Campania, Molise, Puglia, Sardegna e Sicilia, il canone di locazione relativo ai nuovi contratti aventi ad oggetto immobili inclusi nella categoria catastate C/1, e le relative pertinenze locate congiuntamente; può essere assoggettato, in base alla decisione del locatore, ad un'imposta, operata nella forma della cedolare secca, sostitutiva dell'imposta sul reddito delle persone fisiche e delle relative addizionali, nonché delle imposte di registro e di bollo sul contratto di locazione; la cedolare secca sostituisce anche le imposte di registro e di bollo sulla risoluzione e sulle proroghe del contratto di locazione. Sul canone di locazione annuo stabilito dalle parti la cedolare secca si applica in ragione di un'aliquota del 21 per cento, Sui contratti di locazione assoggettati alla cedolare secca di cui al presente comma, alla fideiussione prestata per il conduttore, non si applicano le imposte di registro e di bollo.</an:p>
+				<an:p>        2. La cedolare secca è versata entro il termine stabilito per il versamento dell'imposta sul reddito delle persone fisiche. Non si fa luogo al rimborso delle imposte di bollo e di registro eventualmente già pagate. Per la liquidazione, l'accertamento, la riscossione, i rimborsi, le sanzioni, gli interessi ed il contenzioso ad essa relativi si applicano le disposizioni previste per le imposte sui redditi. Con provvedimento del Direttore dell'Agenzia delle entrate, da emanare entro novanta giorni dalla data di entrata in vigore della presente legge, sono stabilite le modalità di esercizio dell'opzione di cui al comma 1 nonché di versamento in acconto della cedolare secca dovuta e del versamento a saldo della medesima cedolare, nonché ogni altra disposizione utile, anche dichiarativa, ai fini dell'attuazione del presente articolo.</an:p>
+				<an:p>        3. All'onere derivante dall'attuazione del presente articolo, valutato in 15 milioni di euro annui per il 2017 e 100 milioni a decorrere dal 2018, si provvede mediante corrispondente riduzione del Fondo per le esigenze indifferibili di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

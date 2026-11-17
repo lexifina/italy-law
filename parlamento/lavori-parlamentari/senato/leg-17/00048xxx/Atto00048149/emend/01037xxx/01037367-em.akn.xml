@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/10.16/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/10.16"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/10.16/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.16"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/10.16/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDX2MZ1GEMWXDBJ4FQHF5L4EOT1KAIGE4NRYS23G1L4PXV1ZVW4T" href="http://dati.senato.it/29062" showAs="CARDINALI"/>
+				<an:TLCPerson id="IDBX5KKHLJ15ITFNFZAWPXW3JGPOXD2NJSUBKBZCLAQZRTSLLP4AAP" href="http://dati.senato.it/29184" showAs="SPILABOTTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.16</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX2MZ1GEMWXDBJ4FQHF5L4EOT1KAIGE4NRYS23G1L4PXV1ZVW4T" as="#tipoSenatore">CARDINALI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBX5KKHLJ15ITFNFZAWPXW3JGPOXD2NJSUBKBZCLAQZRTSLLP4AAP" as="#tipoSenatore">SPILABOTTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, aggiungere il seguente:</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Al fine di tutelare l'occupazione nelle regioni di cui al comma precedente, al comma 615 della legge 11 dicembre 2016, n. 232, aggiungere, in fine, il seguente periodo: "I soggetti autorizzati allo svolgimento di servizi automobilistici regionali di competenza statale si adeguano alle previsioni del presente comma entro novanta giorni dalla data di entrata in vigore alla legge di conversione del presente decreto, dandone comunicazione al Ministero delle infrastrutture e dei trasporti. Il Ministero effettua le verifiche entro novanta giorni dalla comunicazione anzidetta e, in caso di mancato adeguamento, dichiara la decadenza delle autorizzazioni. A tal fine, il comma 3 dell'articolo 3 del decreto legislativo 21 novembre 2005, n. 285 è sostituito dal seguente: "Nel caso di esercizio richiesto da una riunione di imprese, le condizioni di cui al comma 2, ad eccezione delle lettere 
+					<an:i>g)</an:i>
+					 e 
+					<an:i>m)</an:i>
+					, si intendono riferite alle singole imprese facenti parte della riunione di imprese. La condizione prevista alla lettera 
+					<an:i>g)</an:i>
+					 del comma 2 si intende riferita alla riunione di imprese". Gli accertamenti sulla sussistenza delle condizioni di sicurezza e regolarità dei servizi di ai sensi del comma 2, lettera 
+					<an:i>g)</an:i>
+					 relativamente all'ubicazione delle aree di fermata, sono validi fin quando non sia accertato il venir meno delle condizioni di sicurezza».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

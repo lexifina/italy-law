@@ -1,5 +1,0 @@
-La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-
-Data a Roma, addi' 13 febbraio 1990
-
-COSSIGA ANDREOTTI, Presidente del Consiglio dei Ministri Visto, il Guardasigilli: VASSALLI Note all'art. 24: - Per la legge n. 506/1970 si veda la precedente nota all'art. 8. - Il D.P.R. n. 83/1978 reca il regolamento di esecuzione della citata legge n. 506/1970. - Con il D.M. 3 luglio 1978, pubblicato nella Gazzetta Ufficiale n. 219 del 7 agosto 1978, e' stato affidato al Consorzio del prosciutto di Parma l'incarico di vigilanza sulla produzione e sul commercio del prosciutto, nonche' sull'apposizione del contrassegno e del marchio. - Il D.M. 9 ottobre 1978, pubblicato nella Gazzetta Ufficiale n. 294 del 19 ottobre 1978, modificato dal D.M. 4 agosto 1986 (Gazzetta Ufficiale n. 184 del 9 agosto 1986), e dal D.M. 21 novembre 1988 (Gazzetta Ufficiale n. 289 del 10 dicembre 1988), approva i simboli per l'applicazione del D.P.R. n. 83/1978 dianzi citato.

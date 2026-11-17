@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 17 maggio 1988
-
-COSSIGA DE MITA, Presidente del Consiglio dei Ministri LA PERGOLA, Ministro per il coordinamento delle politiche comunitarie ANDREOTTI, Ministro degli affari esteri VASSALLI, Ministro di grazia e giustizia AMATO, Ministro del tesoro GAVA, Ministro dell'interno FANFANI, Ministro del bilancio e della programmazione economica BATTAGLIA, Ministro dell'industria, del commercio e dell'artigianato FORMICA, Ministro del lavoro e della previdenza sociale DONAT CATTIN, Ministro della sanita' RUFFOLO, Ministro dell'ambiente LATTANZIO, Ministro per il coordinamento della protezione civile MACCANICO, Ministro per gli affari regionali ed i problemi istituzionali Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti, addi' 27 maggio 1988 Atti di Governo, registro n. 74, foglio n. 10

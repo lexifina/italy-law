@@ -1,7 +1,0 @@
-Tabella 12
-
-STATO DI PREVISIONE DEL MINISTERO DELLE POLITICHE AGRICOLE
-
-ALIMENTARI E FORESTALI
-
-Parte di provvedimento in formato grafico

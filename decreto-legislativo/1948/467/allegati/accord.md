@@ -1,3 +1,0 @@
-Accord entre le Republique d'Italie et la Republique populaire de Bulgarie concernant les echanges commerciaux
-
-Parte di provvedimento in formato grafico

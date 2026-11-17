@@ -1,3 +1,0 @@
-Agreement establishing the International Organisation of Vine and Wine
-
-Parte di provvedimento in formato grafico

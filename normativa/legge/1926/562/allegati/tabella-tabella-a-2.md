@@ -1,0 +1,233 @@
+7 maggio 1925, n. 715, concernente franchigia doganale per le macchine e i materiali metallici destinati alle ricerche e alle coltivazioni petrolifere.
+
+7 maggio 1925, n. 716, riguardante l'unificazione del pagamento degli stipendi e degli assegni al personale delle Regie scuole industriali e commerciali.
+
+7 maggio 1925, n. 717, concernente proroga del termine per l'emanazione del decreto portante le norme relative allo stato giuridico del personale ed al funzionamento delle Regie stazioni di prova agrarie e speciali.
+
+24 maggio 1925, n. 802, contenente modificazioni dei limiti massimi della tassa comunale di escavazione della pietra pomice nell'isola di Lipari.
+
+24 maggio 1925, n. 919. Ammissione agli esami di perito agrario per i licenziati dei corsi superiori delle cessate Regie scuole speciali e pratiche di agricoltura e di alcuni istituti di istruzione agraria aventi organizzazione analoga a quella delle cessate Regie scuole pratiche di agricoltura.
+
+24 maggio 1925, n. 1140, che istituisce presso il Ministero dell'economia nazionale l'Ispettorato generale della pesca.
+
+28 maggio 1925, n. 920, recante modificazioni all'art. 9 delle disposizioni preliminari alla tariffa doganale, approvata con R. decreto-legge 9 giugno 1921, n. 806.
+
+26 giugno 1925, n. 1046, col quale furono prorogate la temporanea franchigia doganale per il frumento, l'avena, il granturco (escluso quello bianco) e la segala, nonche' le riduzioni daziarie previste dall'art. 1 del R. decreto 18 gennaio 1923, n. 49, nei riguardi delle farine di segala, avena e granturco (esclusa quella del granturco bianco), del pane e biscotto di mare e della crusca.
+
+4 luglio 1925, n. 1181, riguardante la istituzione di un Comitato permanente del grano.
+
+8 luglio 1925, n. 1279, recante disposizioni relative al prezzo delle locazioni di fondi rustici.
+
+29 luglio 1925, n. 1313, riguardate le provvidenze per la propaganda, la dimostrazione e la sperimentazione agraria e l'organizzazione locale per l'attuazione dei provvedimenti intesi a promuovere l'aumento della produzione agraria.
+
+29 luglio 1925, n. 1314, riguardante i provvedimenti per incoraggiare la produzione di sementi elette.
+
+29 luglio 1925, n. 1315, riguardante le provvidenze per incoraggiare i dissodamenti, la motoaratura e la elettrocoltura.
+
+29 luglio 1925, n. 1316, riguardante i concorsi a premi per la intensificazione della cerealicoltura.
+
+29 luglio 1925, n. 1317, riguardante i provvedimenti per il credito agrario.
+
+3 agosto 1925, n. 1493, riguardante la istituzione di un ruolo speciale per il servizio telefonico nel Ministero della economia nazionale.
+
+3 agosto 1925, n. 1617, riguardante la moratoria italo-serbo-croato-slovena.
+
+3 agosto 1925, n. 2078. Moratoria Fiume-Cecoslovacchia.
+
+7 agosto 1925, n. 1778, riguardante estensione alle nuove Provincie delle leggi sulle cooperative.
+
+23 agosto 1925, n. 2079. Provvedimenti per la difesa dell'apicoltura.
+
+4 settembre 1925, n. 1618, recante modificazioni alla tabella organica del Real corpo delle foreste (n. 39) allegata al R. decreto 11 novembre 1923, n. 2395, e norme per la sistemazione del personale di custodia avventizio assunto per i servizi forestali dei territori annessi.
+
+4 settembre 1925, n. 1619, riguardante la stampa delle descrizioni e dei disegni allegati ai brevetti industriali.
+
+4 settembre 1925, n. 1622, riguardante i provvedimenti per la sistemazione agraria del Lazio.
+
+4 settembre 1925, n. 1713, che modifica il R. decreto-legge 23 marzo 1924, n. 622, convertito in legge per effetto della legge 17 aprile 1925, n. 473, concernente assegnazioni annue sul bilancio del Ministero dell'economia nazionale per incoraggiamenti e sussidi ad iniziative, studi e ricerche per il progresso scientifico e tecnico dell'industria.
+
+4 settembre 1925, n. 1714, riguardante modificazioni alla composizione ed all'ordinamento del Consiglio superiore dell'economia nazionale.
+
+4 settembre 1925, n. 1734, concernente i provvedimenti per favorire l'incremento ed il miglioramento della produzione dei muli e dei cavalli.
+
+4 settembre 1925, n. 1793, riguardante le disposizioni sul prezzo delle acque potabili.
+
+15 ottobre 1925, n. 1913, riguardante la modificazione del numero dei componenti la Commissione per il servizio geologico.
+
+15 ottobre 1925, n. 1923, riguardante la modificazione del testo unico 16 luglio 1905, n. 646, delle leggi sul credito fondiario e agevolazioni tributarie per le operazioni di credito fondiario.
+
+15 ottobre 1925, n. 1924, riguardante la proroga di esenzioni fiscali a favore dell'industria della pesca.
+
+15 ottobre 1925, n. 1928, riguardante le modificazioni ed aggiunte al R. decreto 30 dicembre 1923, n. 3202, relativo ai provvedimenti per le stazioni e gli istituti sperimentali agrari e per la creazione di un istituto di economia e statistica agraria.
+
+15 ottobre 1925, n. 1929, riguardante i provvedimenti per combattere le frodi nella torrefazione del caffe'.
+
+15 ottobre 1925, n. 1940. Aumento del numero dei membri del Comitato consultivo per la pesca.
+
+15 ottobre 1925, n. 1945. Disposizioni sul trattamento di quiescenza del personale delle Regie scuole agrarie e delle Cattedre ambulanti di agricoltura, nonche' del personale del cessato regime austro-ungarico, attualmente in servizio presso l'istituto chimico agrario di Gorizia.
+
+15 ottobre 1925, n. 2001. Provvedimenti per l'amministrazione e funzionamento depositi cavalli stalloni del Regno.
+
+15 ottobre 1925, n. 2033. Repressioni delle frodi nella preparazione e nel commercio di sostanze di uso agrario e di prodotti agrari.
+
+15 ottobre 1925, n. 2050. Modificazioni al decreto-legge 23 agosto 1917, n. 1450, e successive modificazioni, sull'assicurazione obbligatoria contro gli infortuni sul lavoro in agricoltura.
+
+7 novembre 1925, n. 1950. Disposizioni sul diritto d'autore. (3)
+
+9 novembre 1925, n. 2032. Concessione di contributo all'Ente autonomo della Fiera campionaria di Padova.
+
+9 novembre 1925, n. 2080. Agevolazioni fiscali per gli autocarri dichiarati ausiliari militari.
+
+15 novembre 1925, n. 1970. Erezione in Ente morale dell'Unione delle istituzioni tecnico-agrarie siciliane.
+
+19 novembre 1925, n. 2014. Sorveglianza sugli istituti ed Enti che hanno compiti per l'attuazione dei provvedimenti diretti ad incremento della produzione granaria nazionale.
+
+19 novembre 1925, n. 2110. Costituzione dell'istituto «Vittorio Emanuele III» per il bonificamento della Sicilia con sede in Palermo.
+
+MINISTERO DELLE COMUNICAZIONI.
+
+Poste.
+
+12 giugno 1919, n. 1042, riguardante l'istituto nazionale di mutualita' e previdenza fra il personale postale, telegrafico e telefonico.
+
+23 ottobre 1924, n. 1995, relativo alla concessione della esenzione dalle tasse postali ad enti, corpi ed istituti non a totale carico dell'Erario.
+
+28 dicembre 1924, n. 2291, che reca modificazioni al R. decreto 27 agosto 1923, n. 1995, relativo alla trasformazione degli uffici posali, telegrafici e telefonici delle nuove Provincie.
+
+19 aprile 1925, n. 755, che reca disposizioni interpretative e modificative al R. decreto 27 agosto 1923, n. 1995, relativo alla trasformazione degli uffici postali, telegrafici e telefonici delle nuove Provincie.
+
+29 aprile 1925, n. 988, riguardante l'ordinamento delle ricevitorie postali-telegrafiche e del relativo personale.
+
+1° maggio 1925, n. 760, che estende al personale postale, telegrafico e telefonico, proveniente dai ruoli della cessata Amministrazione austro-ungarica, il trattamento economico giuridico del R. decreto 11 novembre 1923, n. 2395.
+
+7 maggio 1925, n. 804, che autorizza la spesa per la costruzione di un circuito telefonico tra Susa e Modane.
+
+28 maggio 1925, n. 897, circa l'assegnazione straordinaria di L. 100,000,000 ad anno, e per sei anni, per provvedere alla sistemazione e al completamento della rete telefonica interurbana dello Stato.
+
+14 giugno 1925, n. 884, riguardante la costituzione dell'azienda per i servizi telefonici.
+
+10 luglio 1925, n. 1424, col quale si disciplina la competenza del Consiglio di amministrazione delle poste e dei telegrafi per la trattazione di affari e di provvedimenti di secondaria importanza.
+
+10 luglio 1925, n. 1425, riguardante le ritenute sulle cessioni di stipendio del personale telefonico passato alle Societa' senza diritto a pensione.
+
+16 luglio 1925, n. 1466, relativo al funzionamento della Milizia postelegrafonica per la sicurezza nazionale.
+
+25 luglio 1925, n. 1406, che reca modificazioni ai Regi decreti-legge 23 aprile 1925, n. 520, e 14 giugno 1925, n. 884, relativi alla costituzione delle aziende autonome per le poste ed i telegrafi e per i telefoni.
+
+29 luglio 1925, n. 1427, che estende le disposizioni del R. decreto-legge 14 giugno 1925, n. 883, alle nomine e alle promozioni del personale postale, telegrafico e telefonico proveniente dalle nuove Provincie.
+
+29 luglio 1925, n. 1428, concernente le convenzioni ed accordi postali internazionali stipulati a Stoccolma il 28 agosto 1924.
+
+7 agosto 1925, n. 1574, riguardante i progetti per la costruzione di edifici postali e telegrafici.
+
+15 ottobre 1925, n. 1497, che stabilisce la tassa di L. 1.50 per la rinnovazione di ciascun vaglia di servizio non riscosso nel periodo di validita'.
+
+15 ottobre 1925, n. 1948, che autorizza gli uffici postali a rilasciare ai mittenti di vaglia ordinari a tassa che ne facciano richiesta, una o piu' attestazioni di emissione.
+
+15 ottobre 1925, n. 1951, che abroga il R. decreto 1691 del 14 luglio 1923 riguardante gli avvisi economici di pubblicita' sulle cartoline.
+
+15 ottobre 1925, n. 1971, col quale si stabilisce che le disposizioni dell'art. 3 del R. decreto-legge 8 luglio 1925, numero 1172, non si applicano ai provvedimenti relativi al personale della Direzione generale delle poste e telegrafi.
+
+15 ottobre 1925, n. 1973, riguardante l'aumento delle tariffe postali per l'estero.
+
+15 ottobre 1925, n. 1990, contenente provvedimenti per l'aumento delle entrate della azienda di Stato per i servizi telefonici.
+
+15 ottobre 1925, n. 1991, relativo alla istituzione di una tassa speciale per il recapito a domicilio di pieghi eccedenti il peso di 500 grammi.
+
+23 ottobre 1925, n. 1917, che reca nuove norme per il servizio di radioaudizione circolare.
+
+23 ottobre 1925, n. 1946, che concede compensi speciali per intensificazione di lavoro negli uffici telegrafici.
+
+19 novembre 1925, n. 2092. Simbolo del Littorio sui titoli postali di credito istituiti dal 28 ottobre 1922 in poi.
+
+Ferrovie.
+
+23 maggio 1924, n. 869, riguardane aggiunte e modificazioni al R. decreto 6 dicembre 1923, n. 2651, relativo all'inquadramento nelle nuove tabelle organiche del personale delle Ferrovie dello Stato.
+
+23 maggio 1924, n. 953, stanziamento di un fondo di lire 45,000,000 per speciali lavori ferroviari sulle linee del compartimento di Venezia e Trieste.
+
+23 maggio 1924, n. 995, relativo al trattamento di pensione al personale delle Ferrovie proveniente dallo Stato ex austro-ungarico.
+
+19 luglio 1924, n. 1322, relativo al trattamento del personale navigante di bassa forza dipendente dalle Ferrovie dello Stato addetto alle linee di navigazione tra il continente e le isole.
+
+25 settembre 1924, n. 1607, che modifica il R. decreto 21 ottobre 1923, n. 2580, relativo alle provvidenze a favore dei ferrovieri dello Stato ex-combattenti.
+
+30 ottobre 1924, n. 1818, che contiene modificazioni al Regio decreto 21 ottobre 1923, n. 2580, concernente la sistemazione degli ex-combattenti appartenenti alle Ferrovie dello Stato.
+
+6 aprile 1925, n. 372. Aggiunte e modificazioni alle condizioni e tariffe per i trasporti delle persone e delle cose sulle Ferrovie dello Stato e sulle linee di navigazione esercitate dallo Stato.
+
+16 aprile 1925, n. 602. Deroghe alle disposizioni della Convenzione principale del Gottardo.
+
+7 maggio 1925, n. 740. Agevolazioni di carriera ai ferrovieri ex-combattenti muniti di titoli di studio.
+
+11 giugno 1925, n. 1049. Modificazioni della composizione e del funzionamento del Consiglio d'amministrazione.
+
+14 giugno 1925, n. 1174. Funzionamento della Milizia ferroviaria per la sicurezza nazionale.
+
+8 luglio 1925, n. 1301. Istituzione della gestione per lo sfruttamento dei terreni petroliferi albanesi.
+
+8 luglio 1925, n. 1302. Trattamento economico del personale navigante addetto ai ferry-boats dello stretto di Messina.
+
+12 luglio 1925, n. 1285. Estensione al personale navigante dello stretto di Messina delle disposizioni di cui al R. decreto-legge 7 aprile 1925, n. 405.
+
+29 luglio 1925, n. 1375. Elettrificazione della linea ferroviaria Bolzano-Brennero.
+
+3 settembre 1925, n. 1614. Livellamento dei canoni d'affitto delle case economiche pei ferrovieri.
+
+3 settembre 1925, n. 1647. Norme per le case economiche pei ferrovieri.
+
+20 ottobre 1925, n. 1932. Assegnazione di fondi straordinari all'Amministrazione delle Ferrovie dello Stato pel biennio 1° luglio 1925-30 giugno 1927.
+
+25 ottobre 1925, n. 1907. Trattamento economico del personale navigante delle linee postali e dei ferry-boats dello stretto di Messina.
+
+25 ottobre 1925, n. 1908. Istituzione del dopolavoro ferroviario.
+
+25 ottobre 1925, n. 1915. Istituzione di una azienda speciale autonoma per lo sfruttamento di boschi nel territorio della Repubblica albanese.
+
+25 ottobre 1925, n. 1916. Proroga delle agevolazioni di viaggio per gli orfani di guerra minorenni e gli interdetti per infermita' di mente.
+
+25 ottobre 1925, n. 1972. Pensioni agli agenti delle Ferrovie dello Stato provenienti dalle ex-gestioni austriache.
+
+Marina mercantile.
+
+16 luglio 1924, n. 1293, concernente indennita' alle famiglie degli scomparsi coi piroscafi «Gaspare» e «Luigi Parodi».
+
+16 luglio 1924, n. 1358, che sopprime il Governo marittimo di Fiume e stabilisce la circoscrizione marittima di quel territorio.
+
+19 aprile 1925, n. 628, che proroga le disposizioni limitatrici della facolta' d'inscrizione nelle matricole della gente di mare.
+
+14 maggio 1925, n. 651, che autorizza il Governo a sciogliere l'Amministrazione del Provveditorato al porto di Venezia.
+
+24 maggio 1925, n. 1031, concernente la repressione della senseria in fatto di collocamento della gente di mare.
+
+12 luglio 1925, n. 1407, relativo alle tasse per imbarco e sbarco dei passeggeri.
+
+28 luglio 1925, n. 1374, che porta variazioni negli stanziamenti del R. decreto-legge 1° febbraio 1923, n. 211, sulle costruzioni navali.
+
+28 luglio 1925, n. 1426, che istituisce un ruolo di telefoniste presso la Direzione generale della marina mercantile.
+
+28 luglio 1925, n. 1549, relativo alla proroga della esenzione dalle tasse di ancoraggio previste dalle leggi sul terremoto calabro-siculo per l'approdo nei porti di Messina e di Reggio Calabria.
+
+3 settembre 1925, n. 1613, che modifica l'art. 303 del regolamento per l'esecuzione del Codice per la marina mercantile.
+
+3 settembre 1925, n. 1655, che reca modificazioni al R. decreto-legge 25 settembre 1924, n. 1879, sull'assimilazione del personale dei magazzini generali di Trieste.
+
+3 settembre 1925, n. 1789, che costituisce l'Azienda dei magazzini generali di Trieste.
+
+17 settembre 1925, n. 1819, che costituisce le Commissioni inquirenti per i sinistri e naufragi marittimi.
+
+15 ottobre 1925, n. 1955, circa istituzione di una scuola per motoristi navali a Venezia.
+
+Visto, d'ordine di S. M. il Re:
+
+Il Capo del Governo
+
+Primo Ministro Segretario di Stato
+
+Mussolini.
+
+--------------
+
+AGGIORNAMENTO (3)
+
+La L. 22 aprile 1941, n. 633 ha disposto (con l'art. 205, comma 1) che "Sono abrogate "la legge 18 marzo 1926-IV, n. 256", di conversione in legge del R. decreto-legge 7 novembre 1925-IV, n. 1950, contenente disposizioni sul diritto di autore e le successive leggi di modificazione della suddetta legge".

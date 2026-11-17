@@ -1,5 +1,0 @@
-Art. 1-quater.
-
-(( (Accelerazione delle attivita' di liquidazione degli indennizzi a favore dei risparmiatori). ))
-
-((1. Al fine di assicurare la rapida erogazione degli indennizzi da parte del Fondo indennizzi risparmiatori (FIR) istituito dall'articolo 1, comma 493, della legge 30 dicembre 2018, n. 145, per sostenere i risparmiatori e le rispettive famiglie colpiti dalla crisi economica conseguente all'emergenza epidemiologica da COVID-19, all'articolo 1, comma 501, della legge 30 dicembre 2018, n. 145, le parole: "La citata Commissione e' composta da nove membri in possesso di idonei requisiti di competenza, indipendenza, onorabilita' e probita'" sono sostituite dalle seguenti: "La citata Commissione e' composta da un numero di membri non superiore a quattordici, in possesso di idonei requisiti di competenza, indipendenza, onorabilita' e probita'". Resta fermo il limite di spesa, per l'anno 2021, pari a 1,2 milioni di euro, previsto dall'articolo 1, comma 501, della predetta legge n. 145 del 2018))

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2344/C/1.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2344/C/1.17"/>
+					<an:FRBRdate date="2016-06-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2344/C/1.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@"/>
+					<an:FRBRdate date="2016-06-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@.akn"/>
+					<an:FRBRdate date="2016-06-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-06-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-06-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2344/C/1.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2344" showAs="DDL 2344"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQC3TUAMH5FRFJZ5ZMINBRXHFSGNQX114WDKYNEKKMWJS4SSOUMYE" href="http://dati.senato.it/senatore/29175" showAs="SANTINI"/>
+				<an:TLCPerson id="IDAOAGPQ0QBUP2LK54CTNBAFGNVGIQXFWZKJS0HFKGQFPKZTNZ5LOF" href="http://dati.senato.it/senatore/29054" showAs="BROGLIA"/>
+				<an:TLCPerson id="IDH4S2OTBKDJOQLMUKJJKIQREKIEE4EDS4EDN51EE4SP3IH10PRZPM" href="http://dati.senato.it/senatore/29085" showAs="DEL BARBA"/>
+				<an:TLCPerson id="IDM2AKBKJJ3RW2G5JFNQX4LPY4CKFKT2TWHD5OZ21SD0JII405P" href="http://dati.senato.it/senatore/29113" showAs="LAI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2344</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQC3TUAMH5FRFJZ5ZMINBRXHFSGNQX114WDKYNEKKMWJS4SSOUMYE" as="#tipoSenatore">SANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOAGPQ0QBUP2LK54CTNBAFGNVGIQXFWZKJS0HFKGQFPKZTNZ5LOF" as="#tipoSenatore">BROGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH4S2OTBKDJOQLMUKJJKIQREKIEE4EDS4EDN51EE4SP3IH10PRZPM" as="#tipoSenatore">DEL BARBA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM2AKBKJJ3RW2G5JFNQX4LPY4CKFKT2TWHD5OZ21SD0JII405P" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 b), 
+					<an:i>capoverso</an:i>
+					 «1-
+					<an:i>bis)</an:i>
+					», 
+					<an:i>sostituire l'ultimo periodo con i seguenti:</an:i>
+					 « Nelle entrate e nelle spese finali in termini di competenza di cui al periodo precedente è considerato il fondo pluriennale vincolato, di entrata e di spesa, al netto della quota riveniente dal ricorso all'indebitamento. Con la legge di bilancio, ai fini del raggiungimento degli obiettivi di finanza pubblica, può essere determinata, su base triennale, la quota del Fondo pluriennale vincolato, di entrata e di spesa, da considerare nelle entrate e nelle spese finali in termini di competenza di cui al primo periodo;».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

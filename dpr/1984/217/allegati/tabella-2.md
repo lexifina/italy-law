@@ -1,7 +1,0 @@
-TABELLA 2
-
-MINISTERO DI GRAZIA E GIUSTIZIA
-
-B) CASA CIRCONDARIALE DI BOLZANO
-
-Parte di provvedimento in formato grafico

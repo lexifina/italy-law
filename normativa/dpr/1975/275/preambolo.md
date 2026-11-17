@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Visto il testo unico delle leggi sulla Corte dei conti, approvato con regio decreto 12 luglio 1934, n. 1214;
+
+Visto il regolamento per la carriera e la disciplina del personale della Corte dei conti, approvato con regio decreto 12 ottobre 1933, n. 1364;
+
+Visto il testo unico delle disposizioni concernenti lo statuto degli impiegati civili dello Stato, approvato con decreto del Presidente della Repubblica 10 gennaio 1957, n. 3;
+
+Visto il decreto del Presidente della Repubblica 3 maggio 1957, n. 686, contenente norme di esecuzione del citato testo unico;
+
+Vista la legge 20 dicembre 1961, n. 1345;
+
+Viste le leggi 18 marzo 1968, n. 249 e 28 ottobre 1970, n. 775, di delega al Governo per il riordinamento dell'amministrazione dello Stato, per il decentramento delle funzioni e per il riassetto delle carriere e delle retribuzioni dei dipendenti statali;
+
+Visto il decreto del Presidente della Repubblica 28 dicembre 1970, n. 1077, relativo al riordinamento delle carriere degli impiegati civili dello Stato;
+
+Uditi il Consiglio superiore della pubblica amministrazione ed il Consiglio di Stato, i cui pareri rispettivamente n. 21/73, emesso dalla I sezione nell'adunanza del 5 novembre 1973, e n. 18/74 emesso nella adunanza generale del 23 dicembre 1974, formano parte integrante del presente decreto e le cui considerazioni si intendono qui integralmente riportate;
+
+Considerato che, in ordine alla determinazione dei programmi di esame ed alla composizione delle commissioni esaminatrici, debba seguirsi il parere del Consiglio di Stato;
+
+Sulla proposta del Presidente del Consiglio dei Ministri; Decreta:

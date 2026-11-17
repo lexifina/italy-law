@@ -1,3 +1,0 @@
-Arrangement international sur les cereales de 1967
-
-Parte di provvedimento in formato grafico

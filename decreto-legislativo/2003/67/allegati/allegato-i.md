@@ -1,7 +1,0 @@
-Allegato I
-
-(articolo 3 - comma 1)
-
-FORMULARI PER GLI APPALTI DI LAVORI, FORNITURE E SERVIZI
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1819/C/9.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1819/C/9.2"/>
+					<an:FRBRdate date="2007-10-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1819/C/9.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@"/>
+					<an:FRBRdate date="2007-10-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@.akn"/>
+					<an:FRBRdate date="2007-10-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-10-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-10-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1819/C/9.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1819" showAs="DDL 1819"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22783" showAs="Tecce"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22764" showAs="Palermo"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22786" showAs="Vano"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22702" showAs="Albonetti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1819</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Tecce</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Palermo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Vano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Albonetti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>        3. All'articolo 38 della legge 1º agosto 2002, n. 166 e successive modificazioni, i commi 2 e 3 sono sostituiti dai seguenti:</an:p>
+				<an:p>        «2. I servizi di trasporto ferroviario di interesse nazionale da sottoporre al regIme degli obblighi di servizio pubblico sono regolati con contratti di servizio pubblico da sottoscrivere almeno tre mesi prima della loro entrata in vigore, di durata non inferiore a cinque anni, con possibilità di revisioni annuali delle caratteristiche quantitative e qualitative dei servizi senza necessità di procedere a modifiche contrattuali. Il Ministero dei trasporti affida, nel rispetto della normativa comunitaria, i contratti di servizio con i quali sono definiti gli obblighi di servizio pubblico, i relativi corrispettivi, nell'ambito delle risorse iscritte nel bilancio pluriennale dello Stato, nonché le compensazioni spettanti alla società fornitrice.</an:p>
+				<an:p>        3. I contratti di servizio pubblico di cui al comma 2 sono sottoscritti, per l'amministrazione, dal Ministro dei trasporti, di concerto con il Ministro dell'economia e delle finanze, previo parere del Comitato interministeriale per la programmazione economica, da esprimere entro trenta giorni dalla data di trasmissione. All'articolo 1, comma l, della legge 14 luglio 1993, n. 238, le parole: '', i contratti di servizio'' sono soppresse».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

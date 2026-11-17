@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/19.0.86"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.0.86"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/19.0.86/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRNX4RUZUIVVYOPXAQPNM4FKL3NHEVHWLW1IYY5LYKMKRGJ4OCPXH" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+				<an:TLCPerson id="IDU4LYEYSZXWJJBRHTO5LYMD50SO4BDYDMB4YHEAEPTWVLYHVUQP1K" href="http://dati.senato.it/32669" showAs="Assuntela MESSINA"/>
+				<an:TLCPerson id="IDZ0DJT2DHGRV4O5BPARBEGJIJZDFUWYZPIIWOV4IONGGDZTDNGYTM" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.0.86</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRNX4RUZUIVVYOPXAQPNM4FKL3NHEVHWLW1IYY5LYKMKRGJ4OCPXH" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU4LYEYSZXWJJBRHTO5LYMD50SO4BDYDMB4YHEAEPTWVLYHVUQP1K" as="#tipoSenatore">Assuntela MESSINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ0DJT2DHGRV4O5BPARBEGJIJZDFUWYZPIIWOV4IONGGDZTDNGYTM" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 19-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifiche all'articolo 19 del decreto-legge 6 luglio 2011. n. 98 convertito con modificazioni dalla legge 15 luglio 2011. n. 111 in materia di assegnazione di dirigenti scolastici)</an:i>
+				</an:p>
+				<an:p>        1. Il comma 5 dell'articolo 19 del decreto-legge 6 luglio 2011, n. 98, convertito, con modificazioni, dalla legge 15 luglio 2011, n. 111, è sostituito dal seguente:</an:p>
+				<an:p>        ''5. A decorrere dall'anno scolastico 2020/2021 alle istituzioni scolastiche autonome costituite con un numero di alunni inferiore a 500 unità non possono essere assegnati dirigenti scolastici con incarico a tempo indeterminato. Le stesse sono conferite in reggenza a dirigenti scolastici con incarico su altre istituzioni scolastiche autonome. Il limite di cui al primo periodo non si applica alle istituzioni scolastiche site nelle piccole isole, nei comuni montani, nelle aree geografiche caratterizzate da specificità linguistiche, tale limite è eliminato.''.</an:p>
+				<an:p>        2. Agli oneri derivanti dal comma 1, valutati nel limite massimo di 40 milioni di euro a decorrere dall'anno 2020, si provvede mediante corrispondente riduzione delle risorse delle risorse del Fondo per le esigenze indifferibili, di cui all'art. 1, comma 200, della legge 23 dicembre 2014, n. 190.».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al Capo III, dopo la parola:</an:i>
+					 «universitario», 
+					<an:i>inserire la seguente:</an:i>
+					 «e scolastico».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

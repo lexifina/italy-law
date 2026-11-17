@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.1"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@.akn"/>
+					<an:FRBRdate date="2020-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1786/A/2.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1786" showAs="DDL 1786"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFD2TONRKJ1KXCI1L0VHGU3RJQPX2ILZGLEUPIOJNGUSAWNZC2A5M" href="http://dati.senato.it/32612" showAs="D'ANGELO"/>
+				<an:TLCPerson id="IDT4QBYNFHP3PIO1TGEUQROX35SPLE0TRE103UE1G4P2GKK1D4XU2J" href="http://dati.senato.it/32654" showAs="LOMUTI"/>
+				<an:TLCPerson id="ID3KQT2JOUW1WDMCVOLJWHLNSSB5QBZEV14KTIBM51UIWBROUUJTI" href="http://dati.senato.it/32626" showAs="EVANGELISTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1786</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFD2TONRKJ1KXCI1L0VHGU3RJQPX2ILZGLEUPIOJNGUSAWNZC2A5M" as="#tipoSenatore">D'ANGELO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT4QBYNFHP3PIO1TGEUQROX35SPLE0TRE103UE1G4P2GKK1D4XU2J" as="#tipoSenatore">LOMUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3KQT2JOUW1WDMCVOLJWHLNSSB5QBZEV14KTIBM51UIWBROUUJTI" as="#tipoSenatore">EVANGELISTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, alla lettera a) premettere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>«0a)</an:i>
+					 all'articolo 4-
+					<an:i>bis</an:i>
+					, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					            a) Al comma 2, primo periodo, sono aggiunte, in fine, le seguenti parole: "e, fermo restando quanto previsto dal primo comma dell'articolo 30-
+					<an:i>bis</an:i>
+					 e dal comma 1-
+					<an:i>quinquies</an:i>
+					 dell'articolo 47-
+					<an:i>ter</an:i>
+					, acquisito il parere del procuratore della Repubblica, individuato ai sensi dell'articolo 51, commi 3-
+					<an:i>bis</an:i>
+					 e 3-
+					<an:i>quater</an:i>
+					 del codice di procedura penale in relazione al distretto ove è stata pronunciata la sentenza e nel caso di detenuti sottoposti al regime previsto dall'articolo 41-
+					<an:i>bis</an:i>
+					, anche quello del procuratore nazionale antimafia e antiterrorismo, in ordine all'attualità dei collegamenti con la criminalità organizzata ed alla pericolosità del soggetto";
+				</an:p>
+				<an:p>            b) Al comma 2, secondo periodo, sono aggiunte, in fine, le seguenti parole: "e dei pareri";</an:p>
+				<an:p>            c) Al comma 3, dopo le parole: "Quando il Comitato" sono inserite le seguenti parole: "o il procuratore della Repubblica individuato ai sensi del comma 2 ovvero del procuratore nazionale antimafia e antiterrorismo";</an:p>
+				<an:p>
+					            d) Il comma 3
+					<an:i>-bis</an:i>
+					 è abrogato.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

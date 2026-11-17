@@ -1,7 +1,0 @@
-Allegato II
-
-(articolo 3 - comma 1)
-
-FORMULARIO PER LE CONCESSIONI DI LAVORI PUBBLICI
-
-Parte di provvedimento in formato grafico

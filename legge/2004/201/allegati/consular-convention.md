@@ -1,3 +1,0 @@
-CONSULAR CONVENTION BETWEEN THE ITALIAN REPUBLIC AND GEORGIA
-
-Parte di provvedimento in formato grafico

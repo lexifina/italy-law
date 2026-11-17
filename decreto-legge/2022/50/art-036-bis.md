@@ -1,5 +1,0 @@
-Art. 36-bis.
-
-(( (Interpretazione autentica di norme del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, in materia di servizi di trasporto di persone per finalita' turistico-ricreative). ))
-
-((1. Le disposizioni dell'articolo 10, primo comma, numero 14), del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e della tabella A, parte II-bis, numero 1-ter), e parte III, numero 127-novies), allegata al medesimo decreto del Presidente della Repubblica n. 633 del 1972, si interpretano nel senso che esse si applicano anche quando le prestazioni ivi richiamate siano effettuate per finalita' turistico-ricreative, indipendentemente dalla tipologia del soggetto che le rende, sempre che le stesse abbiano ad oggetto esclusivamente il servizio di trasporto di persone e non comprendano la fornitura di ulteriori servizi, diversi da quelli accessori ai sensi dell'articolo 12 del citato decreto del Presidente della Repubblica n. 633 del 1972. L'interpretazione di cui al primo periodo non si riferisce alle mere prestazioni di noleggio del mezzo di trasporto))

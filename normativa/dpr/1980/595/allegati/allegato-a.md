@@ -1,0 +1,7 @@
+ALLEGATO A
+
+ISTRUZIONI PER LA CODIFICAZIONE DEI CAPITOLI
+
+DI ENTRATA E DI SPESA
+
+Parte di provvedimento in formato grafico

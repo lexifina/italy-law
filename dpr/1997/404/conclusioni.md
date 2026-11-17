@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 25 luglio 1997
-
-SCALFARO Prodi, Presidente del Consiglio dei Ministri Bassanini, Ministro per la funzione pubblica e gli affari regionali Ciampi, Ministro del tesoro Flick, Ministro di grazia e giustizia Veltroni, Ministro per i beni culturali e ambientali Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 17 novembre 1997, con esclusione di: art. 1, comma 1, l'inciso "ferma restando l'appartenenza del personale al comparto degli enti pubblici non economici"; art. 1, comma 2, l'inciso "e per le federazioni ed i consigli nazionali"; art. 1, comma 5, l'inciso "per le quali resta ferma la disciplina legislativa prevista per i dirigenti delle amministrazioni statali", ai sensi della delibera della sezione controllo Stato, adottata nell'adunanza del 13 novembre 1997 Atti di Governo, registro n. 111, foglio n. 11

@@ -1,3 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-PROMULGA la seguente legge:

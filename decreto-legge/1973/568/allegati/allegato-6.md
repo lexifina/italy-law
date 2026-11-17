@@ -1,3 +1,0 @@
-Allegato 6
-
-DECRETO DECADUTO

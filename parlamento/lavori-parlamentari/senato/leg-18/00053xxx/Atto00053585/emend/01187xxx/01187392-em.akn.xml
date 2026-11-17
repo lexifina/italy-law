@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2045/A/1.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2045/A/1.19"/>
+					<an:FRBRdate date="2020-12-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2045/A/1.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@"/>
+					<an:FRBRdate date="2020-12-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@.akn"/>
+					<an:FRBRdate date="2020-12-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2045/A/1.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2045" showAs="DDL 2045"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEO5CNN44HZEBHJQXJC3JDMVQGHVJ4VY3TXVTGRNKNG2YWMWVVTXE" href="http://dati.senato.it/32714" showAs="SICLARI"/>
+				<an:TLCPerson id="IDTG303KMG1P1ZG4CTSQ42JSUN2PSCA2XK4FGFH5MGWQPBE3YNWAKD" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDMPORTPGM4XHIG255NOZJJBHLWLKCYIYMKN0JYQK02FWHRUHCNGJG" href="http://dati.senato.it/34676" showAs="CALIGIURI"/>
+				<an:TLCPerson id="IDA0JPO1OOLFUBMX2G0OOIL3TVHD3H0XBRIWZCNWD4V5ZHEWKPZRQO" href="http://dati.senato.it/32661" showAs="MANGIALAVORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2045</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEO5CNN44HZEBHJQXJC3JDMVQGHVJ4VY3TXVTGRNKNG2YWMWVVTXE" as="#tipoSenatore">SICLARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTG303KMG1P1ZG4CTSQ42JSUN2PSCA2XK4FGFH5MGWQPBE3YNWAKD" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMPORTPGM4XHIG255NOZJJBHLWLKCYIYMKN0JYQK02FWHRUHCNGJG" as="#tipoSenatore">CALIGIURI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0JPO1OOLFUBMX2G0OOIL3TVHD3H0XBRIWZCNWD4V5ZHEWKPZRQO" as="#tipoSenatore">MANGIALAVORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, inserire i seguenti</an:i>
+					:
+				</an:p>
+				<an:p>
+					        «4
+					<an:i>-bis</an:i>
+					. Al fine di garantire il coordinamento della finanza pubblica, il rispetto della unità economica e giuridica della Repubblica e il principio di trasparenza delle decisioni di entrate e di spesa, il Commissario 
+					<an:i>ad acta</an:i>
+					 è tenuto a redigere, entro 120 giorni dalla nomina, una Relazione di Inizio Attività finalizzata a verificare lo stato di esigibilità dei LEA, la rendicontazione finanziaria e patrimoniale, nonché ad accertare la misura dell'indebitamento ereditato. Tale relazione dovrà essere confrontata annualmente con i risultati ottenuti dalla attività commissariale, allo scopo di valutare la congruità e la correttezza della esecuzione degli adempimenti programmati.
+				</an:p>
+				<an:p>
+					        4
+					<an:i>-ter</an:i>
+					. A seguito della elezione del nuovo Presidente della Regione, il Commissario 
+					<an:i>ad acta</an:i>
+					 deve proporre, d'intesa con il medesimo, una eventuale revisione o attualizzazione dell'allora vigente Accordo Stato/Regioni, funzionale ad ottimizzare il Piano di rientro della Regione Calabria rispetto a quello firmato tra il Ministro della Salute, il Ministro della Economia e delle Finanze e il presidente p.t. della Regione in data 17 dicembre 2009 poi recepito con DGR n. 97 del 12 febbraio 2010.»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1739/A/G15.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1739/A/G15.100"/>
+					<an:FRBRdate date="2007-09-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1739/A/G15.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G15.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@"/>
+					<an:FRBRdate date="2007-09-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@.akn"/>
+					<an:FRBRdate date="2007-09-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-09-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-09-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1739/A/G15.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1739" showAs="DDL 1739"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/22778" showAs="Rubinato"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/22768" showAs="Perrin"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1739</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G15.100 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Rubinato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Perrin</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato,</an:p>
+				<an:p align="justify">        premesso</an:p>
+				<an:p align="justify">            che il Governo, in sede di conversione del decreto-legge n. 81 del 2007, ha apportato una modifica al comma 14, dell'articolo 1 della legge finanziaria per il 2007 secondo la quale i maggiori ricavi e compensi desumibili dagli indicatori di normalità economica, che hanno natura sperimentale, costituiscono presunzioni semplici ai fini dell'accertamento e che i contribuenti che dichiarano un ammontare di ricavi o compensi inferiori rispetto a quelli previsti in base agli indicatori di normalità economica non sono soggetti ad accertamenti automatici e, in caso di accertamento, spetta all'Ufficio motivare e comprovare gli scostamenti riscontrati;</an:p>
+				<an:p align="justify">            che tale disposizione riproduce il testo di un emendamento presentato in Assemblea al Senato nel corso dell'esame del disegno di legge n. 1485, finalizzato ad attenuare la portata innovativa delle disposizioni recata dalla legge finanziaria per il 2007 in materia di studi di settore e, in particolare, in riferimento all'utilizzazione degli indicatori di normalità economica;</an:p>
+				<an:p align="justify">        considerato:</an:p>
+				<an:p align="justify">
+					            che per gli studi di settore l'articolo 62-
+					<an:i>sexies</an:i>
+					 del decreto-legge n. 331 del 1993 richiama il concetto di presunzione semplice contenuto nell'articolo 39, comma 1, lettera 
+					<an:i>d)</an:i>
+					 del decreto del Presidente della Repubblica n. 600 del 1973 confermato altresì dagli orientamenti della giurisprudenza in materia di accertamento da studi di settore;
+				</an:p>
+				<an:p align="justify">
+					            che lo stesso articolo 62-
+					<an:i>sexies</an:i>
+					 citato prevede specificatamente che l'accertamento può essere effettuato se vi sono gravi incongruenze tra i ricavi dichiarati e quelli derivanti da Gerico e che spetta all'ufficio dimostrare che i fatti posti a base della pretesa costituiscono presunzioni gravi, precise e concordanti;
+				</an:p>
+				<an:p align="justify">            che di conseguenza gli studi di settore rappresentano una presunzione semplice secondo quanto previsto dall'articolo 2727 del c.c. per cui l'onere della prova ricade sempre sull'amministrazione finanziaria;</an:p>
+				<an:p align="justify">            che le disposizioni richiamate in premessa intendono applicare il regime della presunzione semplice previsto per gli studi di settore agli indicatori di normalità economica;</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">
+					            a confermare, senza alcun dubbio interpretativo, che gli studi di settore, in base a quanto previsto dalla disciplina vigente costituiscono elementi indicativi dei ricavi e che gli scostamenti dalle stime indicate costituiscono una presunzione semplice e che grava quindi sempre sull'Amministrazione finanziaria l'onere di provare le circostanze, i fatti e le risultanze contabili in base alle quali viene proposta la rettifica dei ricavi dichiarati dal singolo contribuente. In altre parole impegna il Governo a chiarire che la disposizione contenuta nell'articolo 15, comma 3-
+					<an:i>bis,</an:i>
+					 del presente provvedimento apporta una specificazione e una conferma che il carattere di presunzione semplice già in vigore per gli studi di settore debba essere attribuito anche agli indicatori di normalità economica.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

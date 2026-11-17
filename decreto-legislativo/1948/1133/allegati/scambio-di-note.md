@@ -1,3 +1,0 @@
-Scambio di Note fra l'Italia e la Svizzera relative alla cessione di energia elettrica
-
-Parte di provvedimento in formato grafico

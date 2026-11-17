@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/11.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/11.11"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/11.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/11.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUTEKUZAHAC2BM33ICS1PZ1BKPIABLWOYFU1GUHMFOYI0QYH3T0QO" href="http://dati.senato.it/29057" showAs="CALEO"/>
+				<an:TLCPerson id="IDOP0UE2HLQOATJVHDIQGWQ4EIKBMXK1FFMJTJUGCD2U1CVSJDLWN" href="http://dati.senato.it/29192" showAs="VACCARI"/>
+				<an:TLCPerson id="IDCIRA0HOU3KK5LNU2AM5C3TUYQDIZW5TSL2ZIIRSZZS1ZUD202QJ" href="http://dati.senato.it/29166" showAs="PUPPATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUTEKUZAHAC2BM33ICS1PZ1BKPIABLWOYFU1GUHMFOYI0QYH3T0QO" as="#tipoSenatore">CALEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOP0UE2HLQOATJVHDIQGWQ4EIKBMXK1FFMJTJUGCD2U1CVSJDLWN" as="#tipoSenatore">VACCARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCIRA0HOU3KK5LNU2AM5C3TUYQDIZW5TSL2ZIIRSZZS1ZUD202QJ" as="#tipoSenatore">PUPPATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 3 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis.</an:i>
+					 Le attività e le funzioni espletate dagli organismi interni di valutazione di cui al decreto legislativo 27 ottobre 2009, n. 150, negli enti di gestione delle aree protette e nei parchi nazionali e delle riserve statali, ove affidate a terzi, possono essere gestite in convenzione con la Federazione Italiana Parchi e riserve naturali (Federparchi) che rappresenta gli interessi istituzionali dei soggetti gestori medesimi. Entro sessanta giorni dall'entrata in vigore della legge di conversione del presente decreto-legge, il Dipartimento della Funzione pubblica e Federparchi concludono uno o più accordi al fine di implementare idonei strumenti di valutazione, monitoraggio della performance negli enti di gestione delle aree protette e dei parchi nazionali. Ai soli fini di cui al presente comma, ove per lo svolgimento dei compiti descritti occorressero competenze in ogni caso maturate all'interno di una pubblica amministrazione, a Federparchi si estende il regime di cui all'articolo 271 del decreto legislativo 18 agosto 2000, n. 267. Il regime dì tale utilizzo è disciplinato, per i soli profili retributivi, dall'articolo 2 della legge 13 agosto 1984, n. 476. Agli oneri di cui al precedente comma, valutati in 3 milioni di euro per ciascuno degli anni 2014, 2015 e 2016, si provvede mediante corrispondente riduzione dello stanziamento del fondo di riserva speciale di parte corrente iscritto, ai fini del bilancio triennale 2014-2016, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2014, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'economia e delle finanze per un ammontare pari a 3 milioni di euro per ciascuno degli anni 2014, 2015 e 2016».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-Elenco Protocolli
-
-Parte di provvedimento in formato grafico

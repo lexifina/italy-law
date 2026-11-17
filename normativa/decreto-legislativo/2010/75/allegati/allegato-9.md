@@ -1,0 +1,7 @@
+Allegato 9
+
+(previsto dall'articolo 7, comma 2)
+
+Disposizioni relative al nitrato ammonico
+
+((Parte di provvedimento in formato grafico))

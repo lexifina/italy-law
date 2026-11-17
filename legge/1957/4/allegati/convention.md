@@ -1,3 +1,0 @@
-Convention relative a' la procedure civile
-
-Parte di provvedimento in formato grafico

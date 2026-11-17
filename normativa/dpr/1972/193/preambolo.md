@@ -1,0 +1,9 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, sull'ordinamento dell'Amministrazione degli affari esteri;
+
+Visto il decreto del Capo provvisorio dello Stato 18 aprile 1947, n. 266, sul riordinamento della rete delle rappresentanze diplomatiche e degli uffici consolari;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per gli affari esteri, di concerto con il Ministro per il tesoro; Decreta:

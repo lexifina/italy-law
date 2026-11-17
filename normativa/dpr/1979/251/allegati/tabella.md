@@ -1,0 +1,3 @@
+TABELLA DI DETERMINAZIONE DELLA MISURA DELL'EQUO INDENNIZZO
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,183 @@
+Art. 19-ter.
+
+(Disposizioni di adeguamento comunitario in materia di liberalizzaziorie delle rotte marittime)
+
+1.
+
+Al fine di adeguare l'ordinamento nazionale ai principi comunitari in materia di cabotaggio marittimo e di liberalizzazione delle relative rotte, a decorrere dalla data di entrata in vigore della legge di conversione del presente decreto e' trasferito a titolo gratuito, da Tirrenia di navigazione S.p.a., il cento per cento del capitale sociale della:
+
+a)
+
+Caremar-Campania Regionale Marittima S.p.a. alla regione Campania;
+
+b)
+
+Saremar-Sardegna Regionale Marittima S.p.a. alla regione Sardegna;
+
+c)
+
+Toremar-Toscana Regionale Marittima S.p.a. alla regione Toscana.
+
+2.
+
+Entro dieci giorni dalla data di entrata in vigore della legge di conversione del presente decreto sono posti in essere gli atti di perfezionamento del trasferimento delle societa' di cui alle lettere a), b) e c) del comma 1.
+
+3.
+
+Entro i novanta giorni successivi al completamento degli atti relativi al trasferimento di cui ai commi 1 e 2, la regione Campania cede, per il tramite della societa' Caremar, alla regione Lazio, a titolo gratuito, il ramo d'azienda di tale societa' costituito dal complesso delle attivita', passivita' e risorse umane utilizzate per l'esercizio dei collegamenti con l'arcipelago pontino.
+
+4.
+
+Le societa' di cui al comma 1, lettere a), b) e c), sono trasferite nello stato di fatto e di diritto in cui si trovano alla data di entrata in vigore della legge di conversione del presente decreto, con le attivita' e passivita' connesse.
+
+5.
+
+I trasferimenti di cui ai commi 1, 2 e 3, sotto l'aspetto contabile, non determinano sui bilanci rispettivamente della societa' Tirrenia di navigazione e della societa' Caremar riflessi di carattere economico ma solo patrimoniale.
+
+6.
+
+Al fine di assicurare le condizioni per la migliore valorizzazione delle societa' esercenti i servizi di collegamento ritenuti essenziali per le finalita' di cui all'articolo 8 della legge 20 dicembre 1974, n. 684, e agli articoli 1 e 8 della legge 19 maggio 1975, n. 169, nelle more della completa liberalizzazione del settore del cabotaggio marittimo attraverso il completamento del processo di privatizzazione entro il 30 settembre 2010, le convenzioni attualmente in vigore sono prorogate fino a tale data nei limiti degli stanziamenti pro quota di cui ai commi da 16 a 18. (3)
+
+7.
+
+A decorrere dal 10 gennaio 2010, le funzioni e i compiti di programmazione e di amministrazione relativi ai servizi di cabotaggio marittimo di servizio pubblico che si svolgono all'interno di una regione sono esercitati dalla stessa regione. Per le regioni a statuto speciale il conferimento delle funzioni e dei compiti avviene nel rispetto dei relativi statuti. Per le regioni di cui ai commi 1, lettere a), b) e c), e 3, la gestione dei servizi di cabotaggio e' regolata da contratti di servizio secondo quanto previsto dagli articoli 17 e 19 del decreto legislativo 19 novembre 1997, n. 422, e successive modificazioni, in quanto applicabili al settore.
+
+8.
+
+La Tirrenia di navigazione S.p.a. e la Siremar-Sicilia Regionale Marittima S.p.a., nonche' la Caremar-Campania Regionale Marittima S.p.a., la Saremar-Sardegna Regionale Marittima S.p.a. e la Toremar-Toscana Regionale Marittima S.p.a. sono privatizzate, in conformita' alle disposizioni nazionali e comunitarie vigenti in materia, attraverso procedure di gara aperte, non discriminatorie, atte a determinare un prezzo di mercato, le quali, relativamente alle privatizzazioni realizzate dalle regioni Campania, Lazio, Sardegna e Toscana, possono riguardare sia l'affidamento dei servizi marittimi sia l'apertura del capitale ad un socio privato.
+
+9.
+
+Ai fini di cui al comma 8:
+
+a)
+
+entro il 31 dicembre 2009:
+
+1) e' pubblicato il bando di gara per la privatizzazione di Tirrenia di navigazione S.p.a., nonche', per effetto dei trasferimenti di cui ai commi da 1 a 7, della Siremar-Sicilia Regionale Marittima S.p.a.;
+
+2) e' approvato dal Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, ai sensi della normativa vigente, uno schema di nuova convenzione di durata non superiore a otto anni con la Tirrenia di navigazione S.p.a., costituente uno degli atti della gara di cui al numero 1);
+
+3) e' approvato dal Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, sentita la Regione siciliana, ai sensi della normativa vigente, uno schema di nuova convenzione di durata non superiore a dodici anni con la Siremar-Sicilia Regionale Marittima S.p.a., costituente uno degli atti della gara di cui al numero 1);
+
+4) sono pubblicati dalle regioni Sardegna e Toscana i bandi di gara per la privatizzazione, rispettivamente, di Saremar-Sardegna Regionale Marittima S.p.a. e di Toremar-Toscana Regionale Marittima S.p.a.;
+
+5) sono approvati dalle regioni Sardegna e Toscana, secondo i rispettivi ordinamenti e nel rispetto del mantenimento del servizio universale e della continuita' territoriale con le isole, gli schemi di contratti di servizio di durata non superiore a dodici anni con le societa', rispettivamente, Saremar e Toremar, costituenti altresi' atti delle gare di cui al numero 4);
+
+b)
+
+entro il 28 febbraio 2010, in considerazione di quanto disposto dal comma 3:
+
+1) sono pubblicati dalle regioni Campania e Lazio i bandi di gara per la privatizzazione, rispettivamente, di Caremar-Campania Regionale Marittima S.p.a. e della societa' della regione Lazio derivante dalla cessione del ramo d'azienda di cui al comma 3;
+
+2) sono approvati dalle regioni Campania e Lazio, secondo i rispettivi ordinamenti e nel rispetto del mantenimento del servizio universale e della continuita' territoriale con le isole, gli schemi di contratti di servizio di durata non superiore a dodici anni con le societa', rispettivamente, Caremar e quella della regione Lazio derivante dalla cessione del ramo d'azienda di cui al comma 3, costituenti altresi' atti delle gare di cui al numero l).
+
+10.
+
+Le convenzioni e i contratti di servizio di cui al comma 9 sono stipulati all'atto del completamento delle procedure di gara di cui al medesimo comma 9.
+
+11.
+
+Le nuove convenzioni di cui al comma 9, stipulate sulla base dei criteri stabiliti dal CIPE e comunque nei limiti degli stanziamenti di cui ai commi da 16 a 18, determinano le linee da servire, le procedure e i tempi di liquidazione del rimborso degli oneri di servizio pubblico, introducendo meccanismi di efficientamento volti a ridurre i costi del servizio per l'utenza, nonche' forme di flessibilita' tariffaria non distorsive della concorrenza. I contratti di servizio di cui al comma 9 sono stipulati nel rispetto del mantenimento del servizio universale e della continuita' territoriale con le isole.
+
+12.
+
+Le nuove convenzioni e i contratti di servizio di cui al comma 9 prevedono la presenza nel collegio sindacale delle singole societa' esercenti i servizi oggetto di convenzione o contratto di servizio di due rappresentanti designati, rispettivamente, dal Ministero delle infrastrutture e dei trasporti e dal Ministero dell'economia e delle finanze. Per le societa' Siremar S.p.a. e Tirrenia di navigazione S.p.a. il rappresentante designato dal Ministero dell'economia e delle finanze assume le funzioni di presidente.
+
+13.
+
+Per la privatizzazione dell'intero capitale della Tirrenia di navigazione S.p.a., che, a seguito dei trasferimenti di cui ai commi da 1 a 7, comporta altresi' la cessione dell'intero capitale sociale della Siremar-Sicilia Regionale Marittima S.p.a., si applicano, in quanto compatibili con le disposizioni dei commi da 1 a 7, nonche' dei commi da 8 a 15, le disposizioni del decreto del Presidente del Consiglio dei ministri 13 marzo 2009, pubblicato nella Gazzetta Ufficiale n. 99 del 30 aprile 2009.
+
+14.
+
+Qualora, ai fini delle procedure di privatizzazione di cui ai commi da 8 a 15, si renda necessario l'esercizio dei poteri di cui all'articolo 16 della legge 10 ottobre 1990, n. 287, il termine per il relativo esercizio e' di trenta giorni dall'avvio del procedimento.
+
+15.
+
+All'articolo 2, comma 192, della legge 23 dicembre 1996, n. 662, e successive modificazioni, il secondo periodo e' soppresso.
+
+16.
+
+Le risorse necessarie a garantire il livello dei servizi erogati sulla base delle convenzioni attualmente in vigore e prorogate ai sensi del comma 6, nonche' delle nuove convenzioni e dei contratti di servizio di cui ai commi da 8 a 15, nel limite di complessivi euro 184.942.251 a decorrere dal 2010, sono ripartite, per il 2010 e per ciascuno degli anni della durata delle nuove convenzioni e dei singoli contratti di servizio, come segue:
+
+a)
+
+Tirrenia di navigazione S.p.a.: euro 72.685.642;
+
+b)
+
+Siremar-Sicilia Regionale Marittima S.p.a.: euro 55.694.895;
+
+c)
+
+Saremar-Sardegna Regionale Marittima S.p.a. - regione Sardegna: euro 13.686.441;
+
+d)
+
+Toremar-Toscana Regionale Marittima S.p.a. - regione Toscana: euro 13.005.441;
+
+e)
+
+Caremar-Campania Regionale Marittima S.p.a. - regione Campania: euro 29.869.832.(6)
+
+17.
+
+Successivamente alla cessione alla regione Lazio del ramo d'azienda per l'esercizio dei collegamenti con l'arcipelago pontino, ai sensi del comma 3, le risorse di cui al comma 16, lettera e), sono cosi' ripartite: ramo Campania: euro 19.839.226; ramo Lazio: euro 10.030.606.
+
+18.
+
+Il contributo dello Stato alle regioni a copertura degli oneri di servizio pubblico sui contratti di servizio di cui ai commi da 8 a 15 e' incrementato, senza maggiori oneri per lo Stato, per la durata dei contratti medesimi in misura parametrata al maggiore onere derivante dall'attuazione dell'articolo 19 del decreto legislativo 19 novembre 1997, n. 422, nonche' dell'articolo 9, comma 4, della legge 7 dicembre 1999, n. 472.
+
+19.
+
+Nell'ambito delle risorse iscritte in conto residui, non ancora impegnate alla data di entrata in vigore della legge di conversione del presente decreto, relative all'autorizzazione di spesa di cui all'articolo 1, comma 1046, della legge 27 dicembre 2006, n. 296, l'importo di 7 milioni di euro, per l'anno 2009, e' finalizzato all'ammodernamento e all'adeguamento alle norme internazionali in materia di sicurezza marittima della flotta del gruppo Tirrenia.
+
+20.
+
+Previa richiesta delle regioni interessate al processo di privatizzazione di cui ai commi da 8 a 15, il CIPE, su proposta del Ministro dell'economia e delle finanze, di concerto con il Ministro delle infrastrutture e dei trasporti, delibera in ordine all'utilizzo delle risorse del Fondo per le aree sottoutilizzate relative ai programmi di interesse strategico regionale di cui alla delibera CIPE n. 1/2009 del 6 marzo 2009, pubblicata nella Gazzetta Ufficiale n. 137 del 16 giugno 2009, per fare fronte a specifiche criticita' nel settore del cabotaggio marittimo.
+
+21.
+
+Al fine di garantire la continuita' territoriale con le isole e a fronte degli obblighi di servizio pubblico sono riconosciuti alle societa' oggetto del processo di privatizzazione di cui ai commi da 8 a 15 il mantenimento degli accosti gia' assegnati e la priorita' nell'assegnazione di nuovi accosti, nel rispetto delle procedure di competenza delle Autorita' portuali e marittime e dei principi sanciti dalla legge 28 gennaio 1994, n. 84, nonche' dal codice della navigazione.
+
+22.
+
+All'articolo 7-sexies, comma 3, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, l'ultimo periodo e' sostituito dal seguente: "Nel limite massimo complessivo di spesa di 15 milioni di euro a valere sulle risorse di cui all'articolo 2, comma 36, della legge 22 dicembre 2008, n. 203, e successive modificazioni, ai dipendenti delle societa' del Gruppo Tirrenia, delle societa' da queste derivanti e di quelle che dalle stesse acquistano o affittano aziende o rami d'azienda, il Ministro del lavoro, della salute e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, puo' concedere per dodici mesi l'intero trattamento di integrazione salariale straordinaria previsto dalle vigenti disposizioni di legge, con la relativa contribuzione figurativa e gli assegni per il nucleo familiare ove spettanti".
+
+23.
+
+Agli oneri di cui ai commi da 16 a 18, pari a 184.942.251 euro a decorrere dal 2010, si fa fronte mediante utilizzo degli stanziamenti di bilancio allo scopo finalizzati, pari a 181.370.249 euro annui, quanto a 3.550.000 euro per ciascuno degli anni 2010 e 2011 a valere sulle risorse disponibili sulla contabilita' speciale istituita ai sensi del comma 8 dell'articolo 13-bis del decreto-legge 1 luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102, che sono versate all'entrata del bilancio dello Stato, per la conseguente riassegnazione alle pertinenti unita' previsionali di base dello stato di previsione del Ministero dell'economia e delle finanze, e quanto a 22.002 euro per ciascuno degli anni 2010 e 2011 e a 3.572.002 euro a decorrere dall'anno 2012 si provvede mediante corrispondente riduzione della dotazione del Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307.
+
+Il Ministro dell'economia e delle finanze e' autorizzato ad apportare le occorrenti variazioni di bilancio.
+
+24.
+
+Per le regioni a statuto speciale l'efficacia delle disposizioni di cui ai commi da 1 a 22 e' subordinata all'emanazione, ove occorrente, di apposite norme di attuazione.
+
+24-bis.
+
+((COMMA ABROGATO DAL D.L. 16 SETTEMBRE 2024, N. 131, CONVERTITO CON MODIFICAZIONI DALLA L. 14 NOVEMBRE 2024, N. 166)).
+
+25.
+
+L'articolo 57 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, nonche' l'articolo 1, comma 999, della legge 27 dicembre 2006, n. 296, sono abrogati.
+
+26.
+
+Il primo e il secondo periodo del comma 1 dell'articolo 26 del decreto-legge 30 dicembre 2008, n. 207, convertito, con modificazioni, dalla legge 27 febbraio 2009, n. 14, sono soppressi.
+
+27.
+
+Una quota, pari a 5,6 milioni di euro, delle risorse iscritte per l'anno 2009 sul Fondo per interventi strutturali di politica economica di cui all'articolo 10, comma 5, del citato decreto-legge n. 282 del 2004, convertito, con modificazioni, dalla legge n. 307 del 2004, e' versata all'entrata del bilancio dello Stato, per essere trasferita nell'anno 2010 alla contabilita' speciale istituita ai sensi del comma 8 dell'articolo 13-bis del decreto-legge 10 luglio 2009, n. 78, convertito, con modificazioni, dalla legge 3 agosto 2009, n. 102. E' altresi' trasferito alla citata contabilita' speciale di cui al periodo precedente, con le medesime modalita', l'importo di 1,5 milioni di euro a valere sulle risorse di cui all'articolo 7-quinquies, comma 1, del decreto-legge 10 febbraio 2009, n. 5, convertito, con modificazioni, dalla legge 9 aprile 2009, n. 33, intendendosi corrispondentemente ridotta la predetta autorizzazione di spesa.
+
+-------------
+
+AGGIORNAMENTO (3)
+
+Il D.L. 5 agosto 2010, n. 125, convertito con modificazioni dalla L. 1 ottobre 2010, n. 163, ha disposto (con l'art. 1, comma 5-bis, lettera d)) che "le convenzioni di cui al comma 6 del predetto articolo 19-ter del decreto-legge n. 135 del 2009, convertito, con modificazioni, dalla legge n. 166 del 2009, sono conseguentemente prorogate dal 1° ottobre 2010 fino al completamento della procedura competitiva di cui alla lettera b) limitatamente alle clausole necessarie alla gestione del servizio pubblico per assicurare la continuita' territoriale".
+
+-------------
+
+AGGIORNAMENTO (6)
+
+La L. 28 dicembre 2015, n. 208 ha disposto (con l'art. 1, comma 631) che "L'autorizzazione di spesa di cui all'articolo 19-ter, comma 16, lettera e), del decreto-legge 25 settembre 2009, n. 135, convertito, con modificazioni, dalla legge 20 novembre 2009, n. 166, e' ridotta di 7.900.000 euro a decorrere dal 2016".

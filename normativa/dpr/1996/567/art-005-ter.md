@@ -1,0 +1,51 @@
+Art. 5-ter.
+
+(( (Forum nazionale delle associazioni dei genitori).))
+
+((
+
+1.
+
+Il Forum nazionale delle associazioni dei genitori maggiormente rappresentative, istituito con decreto del Ministro dell'istruzione, dell'universita' e della ricerca 18 febbraio 2002, n. 14, ha il fine di valorizzare la partecipazione e l'attivita' associativa dei genitori nella scuola come forma di espressione e di rappresentanza autonoma e complementare a quella istituzionale, nonche' di assicurare una sede stabile di consultazione delle famiglie sulle problematiche studentesche e scolastiche.
+
+2.
+
+Il Forum e' composto dai rappresentanti di associazioni o di confederazioni di associazioni di genitori di alunni di istituto statale o paritario, non legate statutariamente ad alcun partito politico od organizzazione sindacale, in possesso di uno statuto o documento costitutivo che espliciti la volonta' di operare per l'interesse della scuola attraverso un programma generale, nonche' gli obiettivi della loro attivita' nel rispetto delle regole di democrazia interna e dei principi della Costituzione.
+
+3.
+
+In prima applicazione sono riconosciute quali maggiormente rappresentative a livello nazionale e ammesse al Forum le associazioni dei genitori, individuate con il citato decreto del Ministro dell'istruzione, dell'universita' e della ricerca 18 febbraio 2002, n. 14, di seguito denominate: Associazione italiana genitori, Associazione genitori scuole cattoliche, Coordinamento genitori democratici.
+
+4.
+
+Possono essere altresi' accreditate al Forum, con le procedure di cui al comma 5, le associazioni o le confederazioni di associazioni di genitori di alunni in possesso delle caratteristiche di maggiore rappresentativita' a livello nazionale, da accertare in base ad almeno tre dei seguenti criteri:
+
+a)
+
+presenza nel territorio nazionale in non meno di quattro regioni, con una media di cinquecento associati per regione;
+
+b)
+
+costituzione da almeno due anni alla data della domanda di ammissione;
+
+c)
+
+numero di associati non inferiore a cinquemila genitori;
+
+d)
+
+adesione all'Associazione europea dei genitori (EPA).
+
+5.
+
+Le associazioni o le confederazioni di associazioni presentano la domanda di accreditamento, completa della documentazione, al Ministero dell'istruzione, dell'universita' e della ricerca - Dipartimento per l'istruzione - Direzione generale per lo studente. I requisiti di rappresentativita' descritti nel comma 4 possono essere comprovati ai sensi degli articoli 19, 19-bis, 38, 45, 46, 47 e 48 del citato decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, e successive modificazioni, anche con dichiarazione sostitutiva resa da un responsabile nazionale dell'associazione o della confederazione di associazioni; in tale caso il Ministero dell'istruzione, dell'universita' e della ricerca si riserva di procedere ad idonei controlli, anche a campione, sulla veridicita' delle dichiarazioni emesse, a norma dell'articolo 71 del citato decreto del Presidente della Repubblica n. 445 del 2000. La Direzione generale per lo studente, esperite le istruttorie del caso sulle istanze e sulle documentazioni prodotte, accredita le associazioni o le confederazioni di associazioni al Forum. E demandata alla stessa Direzione generale per lo studente, la verifica con periodicita' triennale della persistenza dei requisiti previsti per la permanenza nel Forum, anche in contraddittorio con l'associazione o la confederazione di associazioni interessata, secondo le modalita' stabilite dal Forum medesimo.
+
+6.
+
+Le attivita' del Forum, cosi' come risultanti dai verbali, sono adeguatamente pubblicizzate dal Ministero dell'istruzione, dell'universita' e della ricerca a mezzo stampa e sul proprio sito internet.
+
+7.
+
+Con provvedimenti dei dirigenti generali degli Uffici scolastici regionali, possono essere costituiti Forum delle rappresentanze associative presso i detti Uffici, cui partecipano le associazioni dei genitori aderenti al Forum nazionale, nonche', previe intese tra le regioni e gli Uffici scolastici regionali, le associazioni di genitori maggiormente rappresentative a livello regionale, individuate in base a criteri analoghi a quelli previsti nel comma 4, in relazione alle dimensioni territoriali delle regioni medesime. Si applicano i commi 5 e 6 per quanto concerne le procedure di accreditamento e di verifica a cura dell'Ufficio scolastico regionale, d'intesa con la regione ove ha sede il Forum regionale, e la pubblicizzazione dei verbali del Forum medesimo.
+
+))

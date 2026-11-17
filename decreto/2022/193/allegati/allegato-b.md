@@ -1,1 +1,0 @@
-Allegato B Schede Tecniche (Art. 1, comma 1) Parte di provvedimento in formato grafico Sezione I - Garanzie Fideiussorie Parte di provvedimento in formato grafico Sezione II - Coperture Assicurative Parte di provvedimento in formato grafico

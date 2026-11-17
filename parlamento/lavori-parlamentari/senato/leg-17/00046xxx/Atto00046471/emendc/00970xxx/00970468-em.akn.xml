@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/C/3.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/C/3.7"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2232/C/3.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@.akn"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2232/C/3.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2232" showAs="DDL 2232"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1U0HAP5XLZOOBV3TSMPUN0U3OPWWGJMRY2QMGTCLL0KY5A3XUPEI" href="http://dati.senato.it/senatore/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDLB2FBATCZWPKNAYEVSHHVMU35F0GUKHZTFQI2YLCMYU0DFFAFZ2I" href="http://dati.senato.it/senatore/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2232</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1U0HAP5XLZOOBV3TSMPUN0U3OPWWGJMRY2QMGTCLL0KY5A3XUPEI" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLB2FBATCZWPKNAYEVSHHVMU35F0GUKHZTFQI2YLCMYU0DFFAFZ2I" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma2 con i seguenti:</an:i>
+				</an:p>
+				<an:p>        «2. L'accesso ai programmi e agli interventi a carico del Fondo è subordinato alla valutazione delle relazioni e del concreto sostegno sociale, personale ed emotivo dato alla persona disabile, priva di sostegno familiare, da parte di coloro che appartengono alla sfera sociale ed affettiva e da parte di coloro che forniscono aiuto o assistenza, nonché da una valutazione oggettiva, secondo standard unici, della qualità della vita del disabile.</an:p>
+				<an:p>
+					            2-
+					<an:i>bis</an:i>
+					. Gli strumenti valutativi per la verifica della sussistenza dei requisiti di cui al precedente comma, sono individuati con apposito decreto del Ministro del lavoro e della politiche sociali, da emanare entro 90 giorni dalla data di entrata in vigore della presente legge, di concerto con il Ministro dell'economia e delle finanze e con il Ministro della salute, previa intesa in sede di Conferenza Unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, acquisita una relazione da parte dell'Osservatorio nazionale sulla condizione delle persone con disabilità di cui all'articolo 3 della legge 3 marzo 2009, n. 18».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

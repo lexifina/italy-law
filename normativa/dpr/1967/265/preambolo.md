@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, numero 1592, e successive modificazioni;
+
+Veduta la legge 7 febbraio 1958, n. 88;
+
+Veduta la domanda presentata in data 12 settembre 1963 dal rettore della libera Universita' degli studi di Urbino per ottenere il pareggiamento dell'Istituto superiore di educazione fisica di Urbino, ai sensi degli articoli 22 e 28 della citata legge n. 88;
+
+Veduto il parere della Sezione prima del Consiglio superiore della pubblica istruzione;
+
+Ritenuta l'opportunita' di accogliere la predetta domanda;
+
+Sulla proposta del Ministro per la pubblica istruzione; Decreta:

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/1.33/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/1.33"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2784/A/1.33/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.33"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@.akn"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2784/A/1.33/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2784" showAs="DDL 2784"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFDIXMVHD1V4HBGLOKVKEIJN5HIJFOCBHGS34OIF1V5SVOFVPMSTG" href="http://dati.senato.it/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="IDMNFZCYQZPNCVIW5BFNHHWJT0BNJ4NHQNZWXUHUNR5VSLYTVIRQLC" href="http://dati.senato.it/29154" showAs="PAGLINI"/>
+				<an:TLCPerson id="IDC2XID3BXE04SEGDGXUFZHHDGLEOT2D4AZZWSSQBGWTHJ30WIRDOJ" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDX2NFKH3RVKRYJOGRJ03G5ZCZQIZYHENKIFNTSPGQVTBQBOR1GPWM" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2784</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.33</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFDIXMVHD1V4HBGLOKVKEIJN5HIJFOCBHGS34OIF1V5SVOFVPMSTG" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMNFZCYQZPNCVIW5BFNHHWJT0BNJ4NHQNZWXUHUNR5VSLYTVIRQLC" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC2XID3BXE04SEGDGXUFZHHDGLEOT2D4AZZWSSQBGWTHJ30WIRDOJ" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX2NFKH3RVKRYJOGRJ03G5ZCZQIZYHENKIFNTSPGQVTBQBOR1GPWM" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sopprimere il comma 2.</an:p>
+				<an:p>
+					<an:i>Conseguentemente, dopo l'</an:i>
+					<an:i>articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 1-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Norma transitoria)</an:i>
+				</an:p>
+				<an:p>        1. Nelle more della definizione di nuovi strumenti nell'ambito del lavoro accessorio, in via transitoria, il Ministro del lavoro e delle politiche sociali, con apposito decreto da adottarsi entro e non oltre trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, stabilisce le modalità per la stipula da parte del committente di un contratto di lavoro a chiamata in forma scritta per lo svolgimento di prestazioni non contrattualmente predeterminati e che non danno luogo a compensi netti superiori a 5000 euro nel corso di un anno civile, annualmente rivalutati sulla base della variazione dell'indice ISTAT dei prezzi al consumo per le famiglie degli operai e degli impiegati. Il contratto a chiamata è stipulato ai fini della prova dei seguenti elementi:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 il luogo e la modalità della disponibilità, eventualmente garantita dal lavoratore, e del relativo preavviso di chiamata del lavoratore che in ogni caso non può essere inferiore a un giorno lavorativo;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 il relativo preavviso di chiamata del lavoratore;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 la retribuzione con buoni orari;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 la consegna al lavoratore all'atto della corresponsione della retribuzione del prospetto paga contenente, oltre ai dati del dipendente e del committente, tutte le voci che compongono la retribuzione nonché le relative trattenute».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

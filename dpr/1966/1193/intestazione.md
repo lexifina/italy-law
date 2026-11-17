@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-15 novembre 1966
-
-1193
-
-Autorizzazione all'Unione nazionale ufficiali in congedo d'Italia ad acquistare un immobile.

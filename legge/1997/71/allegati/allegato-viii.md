@@ -1,3 +1,0 @@
-Allegato VIII
-
-Parte di provvedimento in formato grafico

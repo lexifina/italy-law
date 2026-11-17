@@ -1,3 +1,0 @@
-ACCORDO COLLETTIVO 15 NOVEMBRE 1955 PER I MEZZADRI DELLA PROVINCIA DI RIETI.
-
-Parte di provvedimento in formato grafico

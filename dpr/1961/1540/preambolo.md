@@ -1,7 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Veduto il testo unico delle leggi sulla istruzione superiore approvato con regio decreto 31 agosto 1933, numero 1592, e successive modificazione;
-
-Veduto il decreto legislativo 7 maggio 1948, n. 1172, ratificato con modifiche con legge 24 giugno 1950, numero 464;
-
-Veduta la legge della Regione siciliana 31 maggio 1960, n. 18; Sulla proposta del Ministro per la pubblica istituzione di concerto con quello per il tesoro;

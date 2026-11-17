@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/A/3.0.3"/>
+					<an:FRBRdate date="2007-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@"/>
+					<an:FRBRdate date="2007-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@.akn"/>
+					<an:FRBRdate date="2007-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-11-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-11-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1817/A/3.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1817" showAs="DDL 1817"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17789" showAs="Strano"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/188" showAs="Battaglia"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17806" showAs="Viespoli"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1666" showAs="Nania"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17914" showAs="Coronella"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22765" showAs="Paravia"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3913" showAs="Valentino"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/1932" showAs="Pontone"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/22734" showAs="Divella"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/740" showAs="Curto"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1817</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Strano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Viespoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Nania</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Coronella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Paravia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Valentino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Pontone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Divella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Curto</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 3</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Fiscalità di vantaggio per il Mezzogiorno)</an:i>
+				</an:p>
+				<an:p align="justify">        1. A decorrere dal 1º gennaio 2008 e per un quinquennio è disposta una riduzione del 50% delle imposte a qualsiasi titolo gravanti sui redditi prodotti dalle nuove attività imprenditoriali attivate nelle Regioni indicate nell'Obiettivo Convergenza.</an:p>
+				<an:p align="justify">        2. La riduzione di cui al comma 1 è adottata conformemente agli Orientamenti 2007-2013 per gli aiuti di Stato a finalità regionale di cui al documento della Commissione europea 2006/C 54/8.</an:p>
+				<an:p align="justify">        3. Ai fini di cui al comma 1, si intendono con nuove attività imprenditoriali sia quelle già esistenti in altre aree territoriali e trasferite nelle Regioni a fiscalità agevolata, sia quelle di prima attivazione nelle Regioni sopra indicate.</an:p>
+				<an:p align="justify">        4. L'accesso alle agevolazioni di cui al presente articolo è condizionato all'effettiva prosecuzione, per tutto il quinquennio di cui al comma 1, delle nuove attività imprenditoriali. In caso di cessazione dell'attività non, derivante da uno stato di crisi prolungato, è stabilita una sanzione di importo corrispondente al triplo della riduzione di imposta beneficiata.</an:p>
+				<an:p align="justify">        5. L'accesso alle agevolazioni fiscali è condizionato dalla presentazione dell'organigramma dell'attività imprenditoriale comprovante l'utilizzo di personale dipendente o con contratto a tempo determinato, in percentuale non inferiore al 90%, residente nelle Regioni di cui al comma 1.</an:p>
+				<an:p align="justify">        6. Le Regioni promuovono, sul territorio di rispettiva competenza, massima pubblicità alle agevolazioni previste dal presente articolo, al fine di consentirne l'effettiva conoscibilità».</an:p>
+				<an:p align="justify">
+					<an:i>        Le dotazioni di parte corrente indicate nella Tabella C di cui all'articolo 96, comma 2, sono ridotte in maniera lineare, in modo da assicurare, a decorrere dall'anno 2008 una minore spesa annua di 900 milioni di euro.</an:i>
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Sopprimere la Tabella A di cui al comma 1 dell'articolo 96.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

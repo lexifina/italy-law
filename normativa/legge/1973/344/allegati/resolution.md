@@ -1,0 +1,5 @@
+ALLEGATO
+
+RESOLUTION ADOPTED BY THE GENERAL ASSEMBLY
+
+Parte di provvedimento in formato grafico

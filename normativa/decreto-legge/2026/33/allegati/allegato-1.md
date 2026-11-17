@@ -1,0 +1,5 @@
+((Allegato 1
+
+(Art. 5, comma 2, lett. a) ))
+
+((Parte di provvedimento in formato grafico))

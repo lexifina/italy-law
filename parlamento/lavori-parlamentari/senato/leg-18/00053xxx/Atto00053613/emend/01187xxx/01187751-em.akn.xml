@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2054/A/G1.177/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2054/A/G1.177"/>
+					<an:FRBRdate date="2021-01-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2054/A/G1.177/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.177"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@"/>
+					<an:FRBRdate date="2021-01-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@.akn"/>
+					<an:FRBRdate date="2021-01-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-01-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-01-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2054/A/G1.177/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2054" showAs="DDL 2054"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAQGURRP2QSOKBMUZO1M42WJ2SGXDY0PJ3I2HL2DIJAFXAYCM4HZL" href="http://dati.senato.it/32590" showAs="BORGONZONI"/>
+				<an:TLCPerson id="IDLR2JPELFC3GIFCYUHZQTREKK2L0VP02UPATGMGJQ4JXPU2FL4Q1I" href="http://dati.senato.it/32711" showAs="SAPONARA"/>
+				<an:TLCPerson id="IDQQZWNWIINJLEDKZPFFPHCQTQ2GUKH4I5NIZIZNFIFW2YY2P4PWZH" href="http://dati.senato.it/25295" showAs="PITTONI"/>
+				<an:TLCPerson id="IDBBOTEPNNTW1ACB0NK52KJX302E2TIYPGO3GGVPDKVY0DPKC1E4BC" href="http://dati.senato.it/35119" showAs="ALESSANDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2054</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.177</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQGURRP2QSOKBMUZO1M42WJ2SGXDY0PJ3I2HL2DIJAFXAYCM4HZL" as="#tipoSenatore">BORGONZONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLR2JPELFC3GIFCYUHZQTREKK2L0VP02UPATGMGJQ4JXPU2FL4Q1I" as="#tipoSenatore">SAPONARA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQQZWNWIINJLEDKZPFFPHCQTQ2GUKH4I5NIZIZNFIFW2YY2P4PWZH" as="#tipoSenatore">PITTONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBBOTEPNNTW1ACB0NK52KJX302E2TIYPGO3GGVPDKVY0DPKC1E4BC" as="#tipoSenatore">ALESSANDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					La 7
+					<an:sup>a</an:sup>
+					 Commissione,
+				</an:p>
+				<an:p>            in sede di esame del disegno di legge A.S.2054 recante «Bilancio di previsione dello Stato per l'anno finanziario 2021 e bilancio pluriennale per il triennio 2021-2023»</an:p>
+				<an:p>         premesso che:</an:p>
+				<an:p>
+					dai dati dell'ultimo 
+					<an:i>Cerved Industry Forecast</an:i>
+					, che quantifica gli impatti attesi del COVID-19 su oltre 200 settori dell'economia italiana, la filiera moda e tra i comparti maggiormente colpiti dagli effetti economici del Covid-19;
+				</an:p>
+				<an:p>            nel biennio 2020-2021, le imprese che operano nella filiera potrebbero infatti subire perdite dei ricavi dai 39 ai 52 miliardi, con contrazioni significative nella distribuzione al dettaglio e nel ramo abbigliamento e maglieria. I sistemi produttivi regionali più esposti sono quelli toscani, marchigiani e veneti, dove le imprese della filiera generano rispettivamente il 14,8 per cento, 12,3 per cento e 10,7 per cento del fatturato complessivo. In termini assoluti la regione che potrebbe essere più colpita in termini di calo del fatturato della filiera è la Lombardia, che in uno scenario pessimistico potrebbe subire perdite per quasi 15 miliardi,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					        a valutare la possibilità di prevedere un corposo stanziamento di risorse a beneficio del comparto moda, anche per consentire la promozione e tutela dello stesso in considerazione delle misure restrittive di contenimento e contrasto all'emergenza epidemiologica da-COVID-19 (
+					<an:i>e-commerce</an:i>
+					), e per sostenere e rilanciare la creatività delle piccole e medie imprese operanti nella filiera della moda e in difesa del 
+					<an:i>Made in Italy.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

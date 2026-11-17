@@ -1,0 +1,5 @@
+CONVENTION
+
+between the italian Republic and the Socialist Federal Republic of Yugoslavia for the avoidance of double taxation with respect to taxes on income and on capital
+
+Parte di provvedimento in formato grafico

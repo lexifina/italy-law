@@ -1,3 +1,0 @@
-Convention entre la Republique Italienne et la Confederation Suisse concernant une modification de la frontiere au detroit de Lavena ainsi sur la Tresa.
-
-Parte di provvedimento in formato grafico

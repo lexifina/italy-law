@@ -1,5 +1,0 @@
-ALLEGATO 9.
-
-PERMESSO DI ATTRAVERSAMENTO N.
-
-Parte di provvedimento in formato grafico

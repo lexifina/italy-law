@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 6 dicembre 1962, n. 1643, sulla istituzione dell'Ente nazionale per l'energia elettrica e trasferimento ad esso delle imprese esercenti le industrie elettriche;
+
+Visto il decreto del Presidente della Repubblica 13 dicembre 1962, n. 1670, sulla organizzazione dell'Ente nazionale per l'energia elettrica;
+
+Vista la legge 27 giugno 1964, n. 452, concernente il rinnovo di delega al Governo per l'emanazione di norme relative all'organizzazione e al trattamento tributario dell'Ente nazionale per l'energia elettrica, e norme integrative della legge 6 dicembre 1962, n. 1643;
+
+Visto il decreto del Presidente della Repubblica 18 marzo 1965, n. 342, recante norme integrati e della legge 6 dicembre 1962, n. 1643, e norme relative al coordinamento e all'esercizio delle attivita' elettriche esercitate da enti ed imprese diversi dall'Ente nazionale per l'energia elettrica;
+
+Visto lo statuto dell'Ente nazionale per l'energia elettrica approvato con decreto del Presidente della Repubblica 21 dicembre 1965, n. 1720;
+
+Vista la deliberazione n. 7340 del consiglio di amministrazione dell'Ente nazionale per l'energia elettrica in data 18 dicembre 1970, che modifica l'art. 6, n. 9, dello statuto dell'ente;
+
+Sulla proposta del Ministro per l'industria, il commercio e l'artigianato;
+
+Sentito il Consiglio dei Ministri; Decreta:

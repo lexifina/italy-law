@@ -1,5 +1,0 @@
-Allegato B
-
-(articolo 42, comma 2)
-
-Parte di provvedimento in formato grafico

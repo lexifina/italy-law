@@ -1,3 +1,0 @@
-Protocole additionnel
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,5 @@
+Allegato A
+
+Modello della scheda informativa.
+
+Parte di provvedimento in formato grafico

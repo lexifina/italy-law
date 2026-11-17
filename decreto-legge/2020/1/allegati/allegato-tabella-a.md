@@ -1,3 +1,0 @@
-((Tabella A (articolo 3, comma 3-bis) ))
-
-((Parte di provvedimento in formato grafico))

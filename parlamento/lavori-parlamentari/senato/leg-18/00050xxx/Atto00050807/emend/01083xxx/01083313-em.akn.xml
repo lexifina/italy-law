@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/A/9.10000/201"/>
+					<an:FRBRdate date="2018-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.10000/201"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@"/>
+					<an:FRBRdate date="2018-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@.akn"/>
+					<an:FRBRdate date="2018-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/886/A/9.10000/201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/886" showAs="DDL 886"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBWE3GIHYY2ATGLTESUTNH2D4SOB30NW3KTAT4SLWDX1JWVISNGID" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDCGLOMW1M54VTCRHQTKUAMPH0NMXJGM05ZTF4EQKS5ESD5XSA4T3L" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDQPUV5BDGNYFGGF3FMV1NB5HWEHGK3PGNXGEW4KBLHOMBXWPRU0O" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDXW1SW4NDRHTBB223NUQYW0NDJBBQ4QWAEKT4CJHSJBY35YL4J0G" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 886</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.10000/201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBWE3GIHYY2ATGLTESUTNH2D4SOB30NW3KTAT4SLWDX1JWVISNGID" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCGLOMW1M54VTCRHQTKUAMPH0NMXJGM05ZTF4EQKS5ESD5XSA4T3L" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQPUV5BDGNYFGGF3FMV1NB5HWEHGK3PGNXGEW4KBLHOMBXWPRU0O" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXW1SW4NDRHTBB223NUQYW0NDJBBQ4QWAEKT4CJHSJBY35YL4J0G" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 9.10000,  sostituire l'articolo 25-ter con il seguente:</an:i>
+				</an:p>
+				<an:p align="center">Articolo 25-ter</an:p>
+				<an:p>
+					            (
+					<an:i>Tassa sulle bibite gassose</an:i>
+					)
+				</an:p>
+				<an:p> 1. Nell'ambito di politiche finalizzate ad un rafforzamento di campagne di prevenzione per la salute e di promozione di corretti stili di vita, a decorrere dal 1° gennaio 2019 è introdotto un contributo a carico dei produttori di bevande analcoliche con zuccheri aggiunti e con edulcoranti, in ragione di 7,16 euro per ogni 100 litri immessi sul mercato.</an:p>
+				<an:p>        2. Entro sessanta giorni dalla data di entrata in vigore della presente legge, il Ministro dell'economia e delle finanze, di concerto con il ministero della Salute, emana un decreto per la definizione delle modalità e dei termini di applicazione del contributo di cui al comma precedente.</an:p>
+				<an:p>        3. Le maggiori entrate provenienti dall'imposta istituita dal comma 1 del presente articolo confluiscono nel Fondo di cui al comma 140 dell'articolo 1, della legge 11 dicembre 2016, n. 232.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

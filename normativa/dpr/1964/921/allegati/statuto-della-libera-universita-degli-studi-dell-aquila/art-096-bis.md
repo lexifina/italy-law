@@ -1,0 +1,7 @@
+Art. 96-bis.
+
+((I posti di ricercatore universitario sono determinati dalla tabella D annessa al presente statuto.
+
+Per quanto riguarda i compiti dei ricercatori universitari ed il loro stato giuridico ed economico si fa riferimento alla normativa in vigore nelle Universita' statali.
+
+Nella prima applicazione i posti di ricercatore universitario verranno conferiti previo giudizio di idoneita' secondo le procedure previste dagli articoli 58 e seguenti del decreto del Presidente della Repubblica 11 luglio 1980, n. 382.))

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1441/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1441"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1441/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1441"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1441/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZTYA1L53OXSRHQ0KDNBNTRJ03BWBGYUQDUF455LU5YUHNF0043K" href="http://dati.senato.it/18740" showAs="MOLES"/>
+				<an:TLCPerson id="IDU4P1MGTDLUHPDPEY0BMQTLVJQNJL1DNBJQ02MBLWQSGNTCCNOUDK" href="http://dati.senato.it/32661" showAs="MANGIALAVORI"/>
+				<an:TLCPerson id="IDCBERM2SRV5POHI4CGKNQ3QX5FIX5WYPWY5AXC3KOW2NYH4UQFKPB" href="http://dati.senato.it/22970" showAs="GIRO"/>
+				<an:TLCPerson id="IDUPSOFC3DXARKKTDE4UDAXN31QKMEZ5ILT2P12COKEURKFZHWMMJ" href="http://dati.senato.it/32721" showAs="TESTOR"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1441</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZTYA1L53OXSRHQ0KDNBNTRJ03BWBGYUQDUF455LU5YUHNF0043K" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU4P1MGTDLUHPDPEY0BMQTLVJQNJL1DNBJQ02MBLWQSGNTCCNOUDK" as="#tipoSenatore">MANGIALAVORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCBERM2SRV5POHI4CGKNQ3QX5FIX5WYPWY5AXC3KOW2NYH4UQFKPB" as="#tipoSenatore">GIRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUPSOFC3DXARKKTDE4UDAXN31QKMEZ5ILT2P12COKEURKFZHWMMJ" as="#tipoSenatore">TESTOR</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 210, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «210-
+					<an:i>bis</an:i>
+					. Al fine di favorire l'attuazione dell'articolo 34 della Costituzione garantendo agli studenti capaci e meritevoli, anche se privi di mezzi, gli strumenti e i servizi per il pieno successo formativo nel sistema universitario nazionale, il fondo integrativo statale per la concessione di borse di studio è incrementato di 85 milioni di euro».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente il fondo di cui al comma 653, è ridotto di 40 milioni di euro per l'anno 2019, 4 milione di euro per l'anno 2020 e 41 milioni di euro per l'anno 2021.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

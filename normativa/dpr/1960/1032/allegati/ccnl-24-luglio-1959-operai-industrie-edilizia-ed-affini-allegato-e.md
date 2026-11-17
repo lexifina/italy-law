@@ -1,0 +1,5 @@
+ALLEGATO E
+
+TRATTAMENTO ECONOMICO PER FERIE, GRATIFICA NATALIZIA E FESTIVITA'
+
+Parte di provvedimento in formato grafico

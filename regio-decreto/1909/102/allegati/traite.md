@@ -1,3 +1,0 @@
-TRAITE GENERAL D'ARBITRAGE entre l'Italie et les Etats-Unis Mexicains.
-
-Parte di provvedimento in formato grafico

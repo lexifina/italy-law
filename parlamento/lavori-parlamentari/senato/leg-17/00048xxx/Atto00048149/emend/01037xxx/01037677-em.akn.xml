@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/16.0.34"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.0.34"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/16.0.34/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVB2LJNCF2RX3DVXN31BOIRQJHMUIC05NWVZ5NPIZ4OXQCHCJQ1P" href="http://dati.senato.it/22706" showAs="AMATI"/>
+				<an:TLCPerson id="IDBO2PZF4VKUW0HTINZJTW3LK2CNALVXF0GRCGKCLZOYWB3RZHTZWK" href="http://dati.senato.it/29092" showAs="FABBRI"/>
+				<an:TLCPerson id="IDBUI2O1K0L0IDBGAG44RQMSPAPI3UXQR3WVYIYHFG1RW32SEPGSSC" href="http://dati.senato.it/29141" showAs="MORGONI"/>
+				<an:TLCPerson id="IDZWUBSDYS2EH5HNQLNUWALC0E5DIXZSJLVEFVYVKEETXEHVBUEHAD" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+				<an:TLCPerson id="IDQLKOXS0MPFN11RFF25UTUZFKGKP0ZSAN3G35OGTRAT12LNC5EEP" href="http://dati.senato.it/29200" showAs="VALENTINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.0.34</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVB2LJNCF2RX3DVXN31BOIRQJHMUIC05NWVZ5NPIZ4OXQCHCJQ1P" as="#tipoSenatore">AMATI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBO2PZF4VKUW0HTINZJTW3LK2CNALVXF0GRCGKCLZOYWB3RZHTZWK" as="#tipoSenatore">FABBRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBUI2O1K0L0IDBGAG44RQMSPAPI3UXQR3WVYIYHFG1RW32SEPGSSC" as="#tipoSenatore">MORGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZWUBSDYS2EH5HNQLNUWALC0E5DIXZSJLVEFVYVKEETXEHVBUEHAD" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQLKOXS0MPFN11RFF25UTUZFKGKP0ZSAN3G35OGTRAT12LNC5EEP" as="#tipoSenatore">VALENTINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 16-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>
+					        1. Le Regioni Abruzzo, Lazio, Marche e Umbria, nell'ambito delle risorse finanziarie disponibili a legislazione vigente, al fine di favorire la realizzazione degli interventi per la riparazione e la ricostruzione degli immobili pubblici e privati, nonché di garantire l'assistenza alla popolazione e la ripresa economica nei territori colpiti dagli eventi sismici del 24 agosto 2016, del 26 e 30 ottobre 2016 e del 18 gennaio 2017, possono, in deroga alle disposizioni di cui all'articolo 14, comma 1, lettera 
+					<an:i>b)</an:i>
+					 del decreto-legge 13 agosto 2011, n. 138, convertito con modificazioni dalla legge 14 settembre 2011, n. 148 e, ove necessario, previa modifica dello Statuto regionale, ampliare di una unità la composizione delle rispettive giunte regionali per un periodo massimo pari alla durata in carica di ciascuna giunta».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-ACCORD international de 1979 sur le caoutchouc naturel
-
-Parte di provvedimento in formato grafico

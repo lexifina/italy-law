@@ -1,7 +1,0 @@
-Art. 12-bis.
-
-(Misure a favore dei territori delle Marche colpiti dagli eccezionali eventi meteorologici verificatisi a partire dal giorno 15 settembre 2022)
-
-1.
-
-Al fine di far fronte all'emergenza derivante dagli eccezionali eventi meteorologici per i quali e' stato dichiarato lo stato di emergenza con delibere del Consiglio dei ministri del 16 settembre 2022 e del 19 ottobre 2022, pubblicate, rispettivamente, nella Gazzetta Ufficiale n. 221 del 21 settembre 2022 e n. 255 del 31 ottobre 2022, in parte del territorio delle province di Ancona e Pesaro-Urbino e dei comuni ricadenti nella parte settentrionale della provincia di Macerata, limitrofi alla provincia di Ancona, e' autorizzata la spesa di 200 milioni di euro per l'anno 2022, per la realizzazione degli interventi previsti dall'articolo 25, comma 2, lettere a), b), c), d) ed e), del codice della protezione civile, di cui al decreto legislativo 2 gennaio 2018, n. 1. Le risorse di cui al primo periodo sono trasferite nella contabilita' speciale aperta per l'emergenza ai sensi dell'articolo 9, comma 2, dell'ordinanza del Capo del Dipartimento della protezione civile n. 922 del 17 settembre 2022, pubblicata nella Gazzetta Ufficiale n. 223 del 23 settembre 2022, e intestata al Commissario delegato di cui all'articolo 1 della medesima ordinanza. ((PERIODO SOPPRESSO DAL D.L. 11 GENNAIO 2023, N. 3, CONVERTITO CON MODIFICAZIONI DALLA L. 10 MARZO 2023, N. 21)). Agli oneri derivanti dal presente articolo si provvede ai sensi dell'articolo 15.

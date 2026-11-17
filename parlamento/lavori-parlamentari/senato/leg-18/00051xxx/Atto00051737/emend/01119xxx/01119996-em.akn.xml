@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/2.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/2.1"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/2.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@.akn"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1264/A/2.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1264" showAs="DDL 1264"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJQZSIZC15RIFOR4ZRG0I5DYXKFZ5TJADGTFA41B405KPYBKNSJVN" href="http://dati.senato.it/32435" showAs="SEGRE"/>
+				<an:TLCPerson id="IDBFPM2ZISB4FVGME4HREJRHZWRINSKNRFA2RUHGYHTIJYWUX0PPO" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID4Y0KHDXGHOWXDRANBCUORVO2LI5GRY2VVNJCWVDA0SZOP52ZPFNN" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDUEW4QWG1OUYJBD3LIVWH4IZIPJHNHPCFFZLDHYMG53DYKURM5QCP" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDQ4QO224TKHQ2ODF5FBBPBSMYVHSJUV5E4UTTT4PGUSJZPI3O3I4P" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1264</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJQZSIZC15RIFOR4ZRG0I5DYXKFZ5TJADGTFA41B405KPYBKNSJVN" as="#tipoSenatore">SEGRE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBFPM2ZISB4FVGME4HREJRHZWRINSKNRFA2RUHGYHTIJYWUX0PPO" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4Y0KHDXGHOWXDRANBCUORVO2LI5GRY2VVNJCWVDA0SZOP52ZPFNN" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUEW4QWG1OUYJBD3LIVWH4IZIPJHNHPCFFZLDHYMG53DYKURM5QCP" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ4QO224TKHQ2ODF5FBBPBSMYVHSJUV5E4UTTT4PGUSJZPI3O3I4P" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire le parole:</an:i>
+					 «primo anno» 
+					<an:i>con le seguenti</an:i>
+					: «secondo anno».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

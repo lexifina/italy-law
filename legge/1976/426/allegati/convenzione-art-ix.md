@@ -1,3 +1,0 @@
-Articolo IX
-
-La richiesta di risarcimento dei danni e' presentata allo Stato di lancio attraverso i canali diplomatici. Se uno Stato non intrattiene relazioni diplomatiche con lo Stato di lancio in questione, puo' chiedere a un altro Stato di presentare la richiesta in sua vece a detto Stato di lancio o di rappresentare altrimenti i suoi interessi ai sensi della presente Convenzione presso lo Stato di lancio suddetto. Esso puo' anche presentare la sua richiesta attraverso il Segretario Generale delle Nazioni Unite, purche' lo Stato richiedente e lo Stato di lancio siano ambedue membri delle Nazioni Unite.

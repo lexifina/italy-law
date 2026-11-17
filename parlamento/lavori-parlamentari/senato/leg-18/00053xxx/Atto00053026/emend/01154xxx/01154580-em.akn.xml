@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="42-ter.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@.akn"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1829/A/42-ter.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1829" showAs="DDL 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDK3CERCDEG4DUOMJIZHOK3O5XJHNSTJORZJAW2UMGWXVHNZX0EZZM" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="IDNABMEOOYEDLKJ5XWNOXJSCETUICKCKIAGHAILCKSRIDQWHF5Q4Q" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDK1GCYSWPDRNRN3KYDOWOPDOJACQAEXXY5VMLJALJUW2QGU4XFPVL" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 42-ter.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK3CERCDEG4DUOMJIZHOK3O5XJHNSTJORZJAW2UMGWXVHNZX0EZZM" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNABMEOOYEDLKJ5XWNOXJSCETUICKCKIAGHAILCKSRIDQWHF5Q4Q" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK1GCYSWPDRNRN3KYDOWOPDOJACQAEXXY5VMLJALJUW2QGU4XFPVL" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>è inserito il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 42
+					<an:i>-quater</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Incremento del Fondo per la non autosufficienza)</an:i>
+				</an:p>
+				<an:p>
+					        1. Al fine di prevenire il rischio di isolamento delle persone con disabilità e dei loro familiari nella fase di emergenza COVID-19, il Fondo per la non autosufficienza di cui all'articolo 1, comma 1265, della legge 27 dicembre 2006, n. 296, è aumentato di 250 milioni di euro per l'annualità in corso, per rafforzare l'assistenza alle persone con disabilità e il supporto ai loro 
+					<an:i>caregiver</an:i>
+					 familiari, attraverso l'assistenza domiciliare diretta, l'assistenza autogestita in modalità indiretta, sia mediante trasferimenti monetari sostitutivi di servizi, anche ad integrazione di contributi economici già attivati, sia per il supporto ai caregiver familiari, anche con una indennità una tantum. Nei progetti già in essere di cui all'articolo 4, comma 1, lettera 
+					<an:i>b</an:i>
+					), del decreto ministeriale 26 settembre 2016, è autorizzata anche l'assistenza a distanza di emergenza. Con apposito decreto il Ministero del lavoro e delle politiche sociali si provvede al tempestivo riparto fra le regioni della somma integrativa stanziata dal presente comma applicando i medesimi criteri dell'ultima ripartizione dello stesso Fondo adottata con decreto del Presidente del Consiglio dei ministri del 21 novembre 2019.
+				</an:p>
+				<an:p>        2. Agli oneri derivanti dall'attuazione del presente articolo, pari a 250 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per lo sviluppo e la coesione di cui all'articolo 4, comma 1, del decreto legislativo 31 maggio 2011, n. 88.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

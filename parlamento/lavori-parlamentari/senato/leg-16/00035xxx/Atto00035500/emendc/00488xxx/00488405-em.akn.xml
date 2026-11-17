@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/C/5.64/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/C/5.64"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2228/C/5.64/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.64"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@.akn"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-07-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-07-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2228/C/5.64/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17846" showAs="Bianchi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/2194" showAs="Sbarbati"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.64</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bianchi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Sbarbati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 11 aggiungere i seguenti:</an:p>
+				<an:p>
+					        «11-
+					<an:i>bis</an:i>
+					. Sono soppresse le Province la cui-popolazione residente risulti, sulla base delle rilevazioni dell'Istituto nazionale di statistica al 1º gennaio-2009, inferiore a cinquecentomila abitanti.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>ter</an:i>
+					. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge, i Comuni già ricompresi nelle circoscrizioni delle Province soppresse assumono, secondo le procedure previste dall'articolo 21, comma 3, lettera 
+					<an:i>d)</an:i>
+					, del testo unico delle leggi sull'ordinamento degli enti locali di cui al decreto legislativo 18 agosto 2000, n. 267, l'iniziativa concernente la propria aggregazione alla circoscrizione provinciale di una nuova Provincia o delle Province non soppresse nell'ambito della medesima Regione, ferma restando l'integrità del territorio comunale.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>quater</an:i>
+					. Il rappresentante dello Stato per i rapporti con il sistema delle autonomie, di cui all'articolo 10 della legge 5 giugno 2003, n. 131, predispone le necessarie forme di coordinamento al fine di garantire che le iniziative dei comuni di cui al comma 11-
+					<an:i>ter</an:i>
+					 siano adottate in conformità al principio di continuità territoriale.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>quinquies</an:i>
+					. Entro centoventi giorni dalla data di entrata in vigore della legge di conversione del presente decreto-legge, si provvede con decreto del Presidente del Consiglio dei Ministri, adottato su proposta del Ministro dell'Interno, di concerto con il Ministro dell'Economia e delle Finanze, con il Ministro per le Riforme per il federalismo, con il Ministro per la Semplificazione normativa e con il Ministro per i rapporti con le Regioni, previa intesa con la Conferenza unificata, ai sensi dell'articolo 8, comma 6 della legge 5 giugno 2003, n. 131, alla nuova determinazione delle circoscrizioni provinciali ai sensi del presente articolo, sulla base dell'iniziativa dei Comuni di cui al comma 11-
+					<an:i>ter</an:i>
+					 e sentita la Regione interessata.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>sexies</an:i>
+					. Entro sessanta giorni dalla data di pubblicazione nella 
+					<an:i>Gazzetta ufficiale</an:i>
+					 del decreto del Presidente del Consiglio dei Ministri di cui al comma 11-
+					<an:i>quinquies</an:i>
+					, sono adottati uno o più decreti del Presidente del Consiglio dei Ministri, secondo la procedura prevista al comma 4, con i quali sono trasferiti i beni e le risorse finanziarie, umane, strumentali ed organizzative della Provincia soppressa alla Provincia o alle Province di aggregazione di cui al comma 11-
+					<an:i>ter</an:i>
+					.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>septies</an:i>
+					. I decreti del Presidente del Consiglio dei Ministri di cui ai commi 11-
+					<an:i>quinquies</an:i>
+					 e 11-
+					<an:i>sexies</an:i>
+					 producono effetti a decorrere dalla data di cessazione degli organi elettivi delle Province di cui al comma 11-
+					<an:i>bis</an:i>
+					.
+				</an:p>
+				<an:p>
+					        11-
+					<an:i>octies</an:i>
+					. Il presente articolo non si applica alle province delle Regioni a statuto speciale».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

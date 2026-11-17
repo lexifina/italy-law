@@ -1,0 +1,7 @@
+Art. 33-quater.
+
+(( (Norme di semplificazione in materia di installazione di vetrate panoramiche amovibili). ))
+
+((1. All'articolo 6, comma 1, del testo unico di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380, dopo la lettera b) e' inserita la seguente:
+
+"b-bis) gli interventi di realizzazione e installazione di vetrate panoramiche amovibili e totalmente trasparenti, cosiddette VEPA, dirette ad assolvere a funzioni temporanee di protezione dagli agenti atmosferici, miglioramento delle prestazioni acustiche ed energetiche, riduzione delle dispersioni termiche, parziale impermeabilizzazione dalle acque meteoriche dei balconi aggettanti dal corpo dell'edificio o di logge rientranti all'interno dell'edificio, purche' tali elementi non configurino spazi stabilmente chiusi con conseguente variazione di volumi e di superfici, come definiti dal regolamento edilizio-tipo, che possano generare nuova volumetria o comportare il mutamento della destinazione d'uso dell'immobile anche da superficie accessoria a superficie utile. Tali strutture devono favorire una naturale microaerazione che consenta la circolazione di un costante flusso di arieggiamento a garanzia della salubrita' dei vani interni domestici ed avere caratteristiche tecnico-costruttive e profilo estetico tali da ridurre al minimo l'impatto visivo e l'ingombro apparente e da non modificare le preesistenti linee architettoniche"))

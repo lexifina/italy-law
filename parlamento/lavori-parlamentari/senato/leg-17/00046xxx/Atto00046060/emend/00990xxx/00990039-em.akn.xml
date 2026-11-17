@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/6.0.203"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.0.203"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@.akn"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-05-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-05-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2085/A/6.0.203/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2085" showAs="DDL 2085"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDX3DCY2MASOBEBJGAQRB5ULPOAEB4DBTEQMFHJOL5OBG1TQBXPVSD" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDG514SAPQFJQGNLT5YEYDJRNKGEJOJZ2B1K5M4ILKUL2YQDQC3AGM" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDBURPES4KA2UELBJZSHS0R3EYEPOLQ5K0K2PNF4HMMK5RXY1N11UB" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2085</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.0.203</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX3DCY2MASOBEBJGAQRB5ULPOAEB4DBTEQMFHJOL5OBG1TQBXPVSD" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG514SAPQFJQGNLT5YEYDJRNKGEJOJZ2B1K5M4ILKUL2YQDQC3AGM" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBURPES4KA2UELBJZSHS0R3EYEPOLQ5K0K2PNF4HMMK5RXY1N11UB" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 6-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni in materia di prevenzione e contrasto di comportamenti fraudolenti)</an:i>
+				</an:p>
+				<an:p>        1. Al fine di agevolare la prevenzione e il contrasto di comportamenti fraudolenti nel settore dell'assicurazione obbligatoria per i veicoli a motore, l'IVASS provvede ad inserire tra i parametri di significatività finalizzati al funzionamento della banca dati anagrafe testimoni di cui all'articolo 135 comma 1, del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, e successive modificazioni, e disciplinata con regolamento Ivass emanato con Provv. 1º giugno 2016, n. 23 del 2016, il numero e la ricorrenza delle testimonianze intervenute da parte di un medesimo soggetto in relazione a più sinistri».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

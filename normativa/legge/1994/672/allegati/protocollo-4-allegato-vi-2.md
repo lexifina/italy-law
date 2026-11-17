@@ -1,0 +1,3 @@
+Protocollo 4-Allegato VI
+
+Parte di provvedimento in formato grafico

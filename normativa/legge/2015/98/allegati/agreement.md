@@ -1,0 +1,15 @@
+Agreement
+
+Between
+
+the Republic of Italy
+
+and
+
+the State of Israel
+
+on
+
+Social Security
+
+Parte di provvedimento in formato grafico

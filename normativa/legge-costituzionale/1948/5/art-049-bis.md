@@ -1,0 +1,7 @@
+Art. 49-bis.
+
+((Qualora una proposta di legge sia ritenuta lesiva della parita' dei diritti fra i cittadini dei diversi gruppi linguistici o delle caratteristiche etniche e culturali dei gruppi stessi, la maggioranza dei consiglieri di un gruppo linguistico nel consiglio regionale o in quello provinciale di Bolzano puo' chiedere che si voti per gruppi linguistici.
+
+Nel caso che la richiesta di votazione separata non sia accolta, ovvero qualora la proposta di legge sia approvata nonostante il voto contrario dei due terzi dei componenti il gruppo linguistico che ha formulato la richiesta, la maggioranza del gruppo stesso puo' impugnare la legge dinanzi alla Corte costituzionale entro trenta giorni dalla sua pubblicazione, per i motivi di cui al precedente comma.
+
+Il ricorso non ha effetto sospensivo.))

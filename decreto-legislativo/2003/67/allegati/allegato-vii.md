@@ -1,9 +1,0 @@
-Allegato VII
-
-(articolo 3 - comma 1)
-
-FORMULARI PER L'AVVISO INDICATIVO PERIODICO
-
-NEI SETTORI SPECIALI SENZA INDIZIONE DI GARA
-
-Parte di provvedimento in formato grafico

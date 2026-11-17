@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1578/A/G133/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1578/A/G133"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1578/A/G133/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G133"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@.akn"/>
+					<an:FRBRdate date="2006-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1578/A/G133/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1578" showAs="DDL 1578"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/116" showAs="Ayala"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3905" showAs="Calvi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3834" showAs="Fassone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1798" showAs="Passigli"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/12835" showAs="Manzella"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1578</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G133</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ayala</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Calvi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fassone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Passigli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Manzella</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        nell'esaminare il disegno di legge n. 1578 recante «Modifica agli articoli 45 e 47 del codice di procedura penale»,</an:p>
+				<an:p align="justify">        rilevato:</an:p>
+				<an:p align="justify">            che il primo comma dell'articolo 48 del codice di procedura penale assegna alla Corte di cassazione la competenza a decidere sulle istanze di rimessione;</an:p>
+				<an:p align="justify">            che la corte di cassazione decide in camera di consiglio a norma dell'articolo 127 del codice di procedura penale;</an:p>
+				<an:p align="justify">            che la eco che una istanza di rimessione per legittimo sospetto del giudice procedente può avere presso l'opinione pubblica è sicuramente tale da necessitare una discussione in pubblica udienza che consenta anche ai mass-media di poter svolgere correttamente il proprio diritto-dovere di informazione in applicazione dell'articolo 21 della Costituzione;</an:p>
+				<an:p align="justify">            che l'istituto della rimessione del processo per legittimo sospetto del giudice procedente necessita perciò della pubblicità dei lavori della corte di cassazione;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad avanzare una proposta di riforma del primo comma dell'articolo 48 del codice di procedura penale che preveda la discussione in pubblica udienza delle sole istanze di rimessione avanzate per legittimo sospetto del giudice procedente.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

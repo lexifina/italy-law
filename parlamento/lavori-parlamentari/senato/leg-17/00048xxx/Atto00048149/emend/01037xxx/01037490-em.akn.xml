@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/12.32/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/12.32"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/12.32/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.32"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/12.32/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0W5UKR54RBYMPPDKFITRXSPM4BMBMU2ZUPVOVLIITPI1OVFSBIPC" href="http://dati.senato.it/29152" showAs="PAGANO"/>
+				<an:TLCPerson id="IDIQKPJKU5M51BIS2W4FBSWMSPYIOLQUXLJR2QOIJQIHAEQIKY35UK" href="http://dati.senato.it/29208" showAs="GUALDANI"/>
+				<an:TLCPerson id="IDJB4MEVQIKVWCECMYRAUH03WCWK2GA0F0G1PB3AMRZT150DOM4IYB" href="http://dati.senato.it/29206" showAs="CONTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.32</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0W5UKR54RBYMPPDKFITRXSPM4BMBMU2ZUPVOVLIITPI1OVFSBIPC" as="#tipoSenatore">PAGANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIQKPJKU5M51BIS2W4FBSWMSPYIOLQUXLJR2QOIJQIHAEQIKY35UK" as="#tipoSenatore">GUALDANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJB4MEVQIKVWCECMYRAUH03WCWK2GA0F0G1PB3AMRZT150DOM4IYB" as="#tipoSenatore">CONTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 8 aggiungere il seguente:</an:p>
+				<an:p>
+					        «8-
+					<an:i>bis.</an:i>
+					 In considerazione della grave situazione in cui versano le numerose scuole prive di dirigenti scolastici, per garantire il regolare avvio del servizio scolastico per l'anno scolastico 2017/2018 ed affrontare le urgenze, ferma restando ogni altra statuizione, la decorrenza del termine di trenta giorni di cui al comma 87 dell'articolo 1 della legge 13 luglio 2015, n 107, per l'emanazione del decreto di cui al comma 88, è prorogata alla data di entrata in vigore della presente legge, ai fini dell'inclusione dei soggetti che abbiano partecipato con esito positivo ad un corso intensivo di formazione e alla relativa prova finale, previsto dal decreto ministeriale n 499 del 20 luglio 20 indetto ai sensi dell'articolo 1, comma 88, della legge 13 luglio 2015, n. 107. Al suddetto corso saranno ammessi esclusivamente i soggetti che abbiano avuto una sentenza favorevole almeno nel primo grado di giudizio ovvero non abbiano avuto, alla data di entrata in vigore della legge di conversione del presente decreto, alcuna sentenza definitiva, nell'ambito del contenzioso riferito al concorso per dirigente scolastico di cui al decreto direttoriale del Ministero dell'istruzione, dell'università e della ricerca 22 novembre 2004, pubblicato nella 
+					<an:i>Gazzetta</an:i>
+					 Ufficiale, 4 serie speciale, n. 94 del 26 novembre 2004. Al termine del corso, i candidati sosterranno una prova finale, dopo il superamento della quale saranno immessi nel ruolo di dirigente scolastico, con decorrenza giuridica 10 settembre 2017 e decorrenza economica 10 settembre 2018, sui posti autorizzati dal decreto del Presidente della Repubblica del 19 agosto 2016, registrato alla Corte dei conti il 14 settembre 2016, reg. prev. n. 2543».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

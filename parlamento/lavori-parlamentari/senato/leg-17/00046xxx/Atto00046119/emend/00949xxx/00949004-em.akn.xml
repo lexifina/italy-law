@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.34/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.34"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.34/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.34"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@.akn"/>
+					<an:FRBRdate date="2015-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/A/9.34/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDALMRP" href="http://dati.senato.it/senatore/29103" showAs="GALIMBERTI"/>
+				<an:TLCPerson id="IDAVORP" href="http://dati.senato.it/senatore/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDACNRP" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDAHORP" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDAHIRP" href="http://dati.senato.it/senatore/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDAWMRP" href="http://dati.senato.it/senatore/29204" showAs="BOCCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.34</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALMRP" as="#tipoSenatore">GALIMBERTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVORP" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACNRP" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHORP" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHIRP" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWMRP" as="#tipoSenatore">BOCCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 10, sostituire le parole: «si applicano alle operazioni effettuate dal 1º gennaio 2017» con le seguenti: «si applicano alle procedure concorsuaIi aperte dal 1º gennaio 2016».</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					        - 
+					<an:i>sopprimere la allegata tabella A;</an:i>
+				</an:p>
+				<an:p>
+					        - 
+					<an:i>sopprimere l'articolo 33, comma 34.</an:i>
+				</an:p>
+				<an:p>        - ridurre proporzionalmente del 5 per cento in maniera lineare tutti gli stanziamenti di parte corrente dell'allegata tabella C;</an:p>
+				<an:p>        - aumentare del 10 per cento gli importi delle riduzioni di spesa di cui all'articolo 33, comma 1, Elenco n. 2;</an:p>
+				<an:p>        - all'articolo 16, comma 12, sostituire le parole: «10 per cento» con: «30 per cento».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

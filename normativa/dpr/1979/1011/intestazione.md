@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+08 settembre 1979
+
+1011
+
+Istituzione di un istituto professionale di Stato alberghiero in Ottaviano.

@@ -1,0 +1,19 @@
+LEGGE
+
+06 gennaio 1936
+
+115
+
+Conversione in legge del R. decreto-legge 4 ottobre 1935-XIII, n.
+
+1817, che ha dato esecuzione all'Accordo stipulato in Roma il 30
+
+settembre 1935 fra l'Italia e l'Austria mediante scambio di note per
+
+l'importazione in Italia in esenzione di dazio doganale durante il
+
+semestre 1° ottobre 1935-30 marzo 1936 di determinati quantitativi di
+
+ghisa e di acciaio in blocchi. (036U0115)
+
+Entrata in vigore del provvedimento: 08/02/1936

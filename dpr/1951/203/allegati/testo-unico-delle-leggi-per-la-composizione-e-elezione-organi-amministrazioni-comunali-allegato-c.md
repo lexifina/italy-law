@@ -1,7 +1,0 @@
-ALLEGATO C
-
-(( (Scheda di votazione per i comuni
-
-di cui all'art. 4 del disegno di legge)
-
-Parte di provvedimento in formato grafico))

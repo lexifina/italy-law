@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 5 marzo 2013
-
-NAPOLITANO Monti, Presidente del Consiglio dei Ministri Catania, Ministro delle politiche agricole alimentari e forestali Passera, Ministro dello sviluppo economico Balduzzi, Ministro della salute Visto, il Guardasigilli: Severino Registrato alla Corte dei conti l'11 aprile 2013 Ufficio di controllo atti MISE - MIPAAF registro n. 3, foglio n. 311

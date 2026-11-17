@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/QP1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/QP1"/>
+					<an:FRBRdate date="2012-01-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3074/A/QP1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="QP1"/>
+					<an:FRBRname value="Questione pregiudiziale"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@"/>
+					<an:FRBRdate date="2012-01-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@.akn"/>
+					<an:FRBRdate date="2012-01-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-01-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-01-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3074/A/QP1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3074" showAs="DDL 3074"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25211" showAs="Mazzatorta"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25213" showAs="Mura"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25295" showAs="Pittoni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3074</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Questione pregiudiziale n. QP1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Mazzatorta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Mura</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Pittoni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il Governo interviene con il presente decreto ad adottare modifiche all'ordinamento processuale e all'ordinamento penitenziario prevalentemente volte a limitare la condizione di sovraffollamento delle carceri;</an:p>
+				<an:p align="justify">            la questione relativa al sovraffollamento carcerario non può essere inquadrata come emergenza straordinaria in quanto tale problematica strutturale investe il nostro Paese oramai da più di quaranta anni;</an:p>
+				<an:p align="justify">            nell'arco di circa sessant'anni sono stati emanati ben trenta provvedimenti d'indulto senza mai addivenire ad una riforma strutturale capace di risolvere il problema;</an:p>
+				<an:p align="justify">            tutto ciò detto il presente provvedimento non è in linea con il rispetto dei principi costituzionali della necessità ed urgenza di cui all'articolo 77 della Costituzione,</an:p>
+				<an:p align="justify">        delibera di non procedere all'esame del disegno di legge n. 3074</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

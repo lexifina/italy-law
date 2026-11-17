@@ -1,0 +1,17 @@
+Art. 61-bis.
+
+(( (Sistemi informativi). ))
+
+((
+
+1.
+
+Per l'attuazione dei procedimenti del testo unico e del regolamento, le amministrazioni pubbliche si avvalgono degli archivi automatizzati e dei sistemi informativi indicati nel regolamento di cui al decreto del Presidente della Repubblica 27 luglio 2004, n. 242, per la razionalizzazione e l'interconnessione tra le pubbliche amministrazioni, nonche' dei sistemi informativi e delle procedure telematiche indicate nel presente regolamento. Le modalita tecniche e procedurali per l'accesso e la trasmissione di dati e documenti tra i sistemi informativi delle amministrazioni pubbliche sono disciplinate con i provvedimenti previsti nel regolamento di attuazione, di cui all'articolo 34, comma 2, della legge 30 luglio 2002, n. 189.
+
+2.
+
+Per le procedure di ingresso, soggiorno ed uscita e per i collegamenti informativi con le altre amministrazioni pubbliche, le questure si avvalgono anche dell'archivio informatizzato dei permessi di soggiorno previsto dal regolamento di attuazione di cui all'articolo 34, comma 2, della legge n. 189 del 2002.
+
+3.
+
+I criteri e le modalita' di funzionamento dell'archivio di cui al comma 2 sono stabilite con decreto del Ministro dell'interno.

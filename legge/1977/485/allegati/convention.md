@@ -1,5 +1,0 @@
-CONVENTION
-
-sur la prevention et la repression des infrations contre les personnes jouissant d'une protection internationale, y compris les agents diplomatiques
-
-Parte di provvedimento in formato grafico

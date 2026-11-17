@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1"/>
+					<an:FRBRdate date="2013-10-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1120/9/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@"/>
+					<an:FRBRdate date="2013-10-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@.akn"/>
+					<an:FRBRdate date="2013-10-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-10-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-10-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/G/1120/9/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22551" showAs="Bisinella"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/422" showAs="Calderoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1120/9/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bisinella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Calderoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					La 1
+					<an:sup>a</an:sup>
+					 Commissione permanente,
+				</an:p>
+				<an:p>esaminata per le parti di propria competenza, la manovra di bilancio ed in particolare le previsioni concernenti il Bilancio del Ministero dell'Interno, discusse in sede consultiva;</an:p>
+				<an:p>rilevato come il progetto di bilancio pluriennale assegni al Dipartimento dei Vigili del Fuoco, del Soccorso Pubblico e della Difesa Civile del Ministero dell'Interno minori risorse, riducendone le spese in competenza da 1,82 ad 1,81 miliardi di euro e tagliando i costi totali, destinati a scendere ad 1,88 miliardi di euro nel triennio 2014-2016, a legislazione vigente;</an:p>
+				<an:p>evidenziando la debolezza dei nuovi interventi previsti a sostegno del Corpo Nazionale dei Vigili del Fuoco, sostanzialmente assenti nel Disegno di Legge di Stabilità sottoposto al Parlamento,</an:p>
+				<an:p>impegna il Governo</an:p>
+				<an:p>a valutare l'opportunità di rilanciare, senza alterare il carattere rigoroso cui s'impronta la politica fiscale del Paese, il Corpo nazionale dei Vigili del Fuoco, disponendo anche nei suoi confronti un piano di nuovi reclutamenti che permetta di accrescerne la capillarità sul territorio ed integrandone le dotazioni con acquisti di nuove autobotti e mezzi idonei a fronteggiare l'emergenza incendi.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

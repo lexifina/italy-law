@@ -1,0 +1,70 @@
+# ODG IN ASSEMBLEA SU MOZIONI O ALTRI ATTI 9/DOC.XVI,N.2/003 presentata da BONIFAZI FRANCESCO (PARTITO DEMOCRATICO) in data 31/07/2019
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.XVI,N.2/003
+- Data: 20190731
+- Titolo: ODG IN ASSEMBLEA SU MOZIONI O ALTRI ATTI 9/DOC.XVI,N.2/003 presentata da BONIFAZI FRANCESCO (PARTITO DEMOCRATICO) in data 31/07/2019
+- Presentatore: BONIFAZI FRANCESCO (PARTITO DEMOCRATICO)
+- Cofirmatario: ALFIERI ALESSANDRO (PARTITO DEMOCRATICO)
+- Cofirmatario: ASTORRE BRUNO (PARTITO DEMOCRATICO)
+- Cofirmatario: BELLANOVA TERESA (PARTITO DEMOCRATICO)
+- Cofirmatario: BINI CATERINA (PARTITO DEMOCRATICO)
+- Cofirmatario: BITI CATERINA (PARTITO DEMOCRATICO)
+- Cofirmatario: BOLDRINI PAOLA (PARTITO DEMOCRATICO)
+- Cofirmatario: CERNO TOMMASO (PARTITO DEMOCRATICO)
+- Cofirmatario: CIRINNA' MONICA (PARTITO DEMOCRATICO)
+- Cofirmatario: COLLINA STEFANO (PARTITO DEMOCRATICO)
+- Cofirmatario: COMINCINI EUGENIO (PARTITO DEMOCRATICO)
+- Cofirmatario: CUCCA GIUSEPPE LUIGI SALVATORE (PARTITO DEMOCRATICO)
+- Cofirmatario: D'ALFONSO LUCIANO (PARTITO DEMOCRATICO)
+- Cofirmatario: D'ARIENZO VINCENZO (PARTITO DEMOCRATICO)
+- Cofirmatario: FARAONE DAVIDE (PARTITO DEMOCRATICO)
+- Cofirmatario: FEDELI VALERIA (PARTITO DEMOCRATICO)
+- Cofirmatario: FERRARI ALAN (PARTITO DEMOCRATICO)
+- Cofirmatario: FERRAZZI ANDREA (PARTITO DEMOCRATICO)
+- Cofirmatario: GARAVINI LAURA (PARTITO DEMOCRATICO)
+- Cofirmatario: GIACOBBE FRANCESCO (PARTITO DEMOCRATICO)
+- Cofirmatario: GINETTI NADIA (PARTITO DEMOCRATICO)
+- Cofirmatario: GRIMANI LEONARDO (PARTITO DEMOCRATICO)
+- Cofirmatario: IORI VANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: LAUS MAURO ANTONIO DONATO (PARTITO DEMOCRATICO)
+- Cofirmatario: MAGORNO ERNESTO (PARTITO DEMOCRATICO)
+- Cofirmatario: MALPEZZI SIMONA FLAVIA (PARTITO DEMOCRATICO)
+- Cofirmatario: MANCA DANIELE (PARTITO DEMOCRATICO)
+- Cofirmatario: MARCUCCI ANDREA (PARTITO DEMOCRATICO)
+- Cofirmatario: MARGIOTTA SALVATORE (PARTITO DEMOCRATICO)
+- Cofirmatario: MARINO MAURO MARIA (PARTITO DEMOCRATICO)
+- Cofirmatario: MESSINA ASSUNTELA (PARTITO DEMOCRATICO)
+- Cofirmatario: MIRABELLI FRANCO (PARTITO DEMOCRATICO)
+- Cofirmatario: MISIANI ANTONIO (PARTITO DEMOCRATICO)
+- Cofirmatario: NANNICINI TOMMASO (PARTITO DEMOCRATICO)
+- Cofirmatario: PARENTE ANNAMARIA (PARTITO DEMOCRATICO)
+- Cofirmatario: PARRINI DARIO (PARTITO DEMOCRATICO)
+- Cofirmatario: PATRIARCA EDOARDO (PARTITO DEMOCRATICO)
+- Cofirmatario: PINOTTI ROBERTA (PARTITO DEMOCRATICO)
+- Cofirmatario: PITTELLA GIANNI (PARTITO DEMOCRATICO)
+- Cofirmatario: RAMPI ROBERTO (PARTITO DEMOCRATICO)
+- Cofirmatario: RENZI MATTEO (PARTITO DEMOCRATICO)
+- Cofirmatario: RICHETTI MATTEO (PARTITO DEMOCRATICO)
+- Cofirmatario: ROJC TATIANA (PARTITO DEMOCRATICO)
+- Cofirmatario: ROSSOMANDO ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: SBROLLINI DANIELA (PARTITO DEMOCRATICO)
+- Cofirmatario: STEFANO DARIO (PARTITO DEMOCRATICO)
+- Cofirmatario: SUDANO VALERIA (PARTITO DEMOCRATICO)
+- Cofirmatario: TARICCO MINO (PARTITO DEMOCRATICO)
+- Cofirmatario: VALENTE VALERIA (PARTITO DEMOCRATICO)
+- Cofirmatario: VATTUONE VITO (PARTITO DEMOCRATICO)
+- Cofirmatario: VERDUCCI FRANCESCO (PARTITO DEMOCRATICO)
+- Cofirmatario: ZANDA LUIGI (PARTITO DEMOCRATICO)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/3313
+- Argomento: http://eurovoc.europa.eu/4159
+- Argomento: http://eurovoc.europa.eu/558
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=18&ramo=senato&stile=9&idDocumento=9/DOC.XVI,N.2/003
+- Legislatura: repubblica_18
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.XVI_N.2_003_18_S
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Senato Ordine del Giorno  9/DOC.XVI,N.2/3 presentato da FRANCESCO BONIFAZI mercoledì 31 luglio 2019, seduta n. 140 Il Senato, premesso che: la soluzione proposta dalla Giunta delle elezioni e delle immunità, concernente il seggio non assegnato in Sicilia, non è il risultato di una decisione giuridicamente fondata, ma di una deliberazione assunta in forza della sola logica numerica della maggioranza in chiara violazione della legge e della Costituzione repubblicana; contrariamente a quanto proposto dalla Giunta l'ipotesi di una lista che abbia esaurito il numero dei candidati presentati in un collegio plurinominale e non sia quindi possibile attribuire tutti i seggi a essa spettanti in quel collegio è espressamente prevista dall'articolo 17-bis della legge elettorale del Senato; tale norma esclude espressamente che possa applicarsi in questi casi al Senato la disciplina prevista dalla legge elettorale della Camera dei deputati, che invece consente di attribuire i seggi non assegnati ai candidati della medesima lista in altre circoscrizioni; considerato che: alla Camera dove i seggi in soprannumero erano tre la questione è stata risolta in quanto il conteggio e l'assegnazione dei seggi vengono fatti a livello nazionale e di conseguenza, in applicazione dell'articolo 84, comma 4, della legge elettorale della Carnera si individua la circoscrizione in cui la lista abbia la maggiore parte decimale del quoziente non utilizzata e si procede all'assegnazione dei seggi vacanti; al Senato dove vi è oggi un seggio in soprannumero tuttora vacante tale soluzione non può essere adottata perché l'articolo 57, primo comma, della Costituzione, stabilisce che il Senato deve essere eletto su base regionale; pertanto risulterebbe manifestamente incostituzionale una legge elettorale per il Senato che attribuisse i seggi conquistati da una lista in una circoscrizione regionale ai candidati della medesima lista presentatesi in una diversa regione; il principio del Senato eletto su base regionale determina infatti l'identificazione della regione come circoscrizione elettorale in cui i seggi a ciascuna di esse assegnati, secondo i criteri di ripartizione specificamente previsti dai commi 3 e 4 del medesimo articolo 57 della Costituzione, devono essere nella stessa regione interamente aggiudicati; valutato che nella storia repubblicana la legge elettorale del Senato non ha mai previsto, né si sono mai verificate ipotesi di slittamento o trasferimento di seggi da una circoscrizione regionale ad un'altra, delibera di concludere in difformità dalla decisione adottata a maggioranza dalla Giunta delle elezioni e delle immunità parlamentari nel rigoroso rispetto del principio della rappresentanza territoriale di cui all'articolo 57, comma 4, della Costituzione, sulla base del quale alla Sicilia deve essere riconosciuto e assegnato il numero di seggi previsto nel riparto stabilito dalla legge. (numerazione resoconto Senato G3) (9/Doc. XVI, n. 2/3) Bonifazi, Marcucci, Cucca, Ginetti, Rossomando, Malpezzi, Mirabelli, Stefano, Collina, Ferrari, Bini, Cirinnà, Valente, Alfieri, Astorre, Bellanova, Biti, Boldrini, Cerno, Comincini, D'Alfonso, D'Arienzo, Faraone, Fedeli, Ferrazzi, Garavini, Giacobbe, Grimani, Iori, Laus, Magorno, Manca, Margiotta, Marino, Assuntela Messina, Misiani, Nannicini, Parente, Parrini, Patriarca, Pinotti, Pittella, Rampi, Renzi, Richetti, Rojc, Sbrollini, Sudano, Taricco, Vattuone, Verducci, Zanda

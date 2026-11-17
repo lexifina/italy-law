@@ -1,0 +1,31 @@
+UMBERTO II
+
+RE D'ITALIA
+
+Visto il R. decreto-legge 30 dicembre 1923, n. 3280, sulle imposte in surrogazione del bollo e del registro;
+
+Visto il R. decreto-legge 30 dicembre 1923, n. 3281, concernente l'imposta sulle assicurazioni;
+
+Visto il R. decreto-legge 30 dicembre 1923, n. 3278, sulle tasse sui contratti di borsa;
+
+Visto il R. decreto-legge 26 settembre 1935, n. 1749, concernente provvedimenti in materia di tasse sugli, affari convertito nella legge 28 maggio 1936, n. 1302;
+
+Visto il R. decreto-legge 15 dicembre 1938, n. 1975, concernente
+
+l'imposta di negoziazione, convertito in legge 2 giugno 1939, n. 739;
+
+Visto il R. decreto 9 marzo 1942, n. 357, che approva il testo
+
+unico delle disposizioni in materia di imposta sul plusvalore e di sovrimposta di negoziazione dei titoli azionari, con nuova aliquota dell'imposta di negoziazione;
+
+Visto il R. decreto-legge 19 agosto 1943, n. 738, concernente provvedimenti tributari in materia di negoziazione di titoli azionari;
+
+Visto il decreto legislativo Luogotenenziale 25 maggio 1945, n. 301, concernente nuovi provvedimenti in materia di imposta in surrogazione del bollo e del registro;
+
+Visto l'art. 4 del decreto-legge Luogotenenziale 25 giugno 1944, n. 151;
+
+Visto il decreto legislativo Luogotenenziale 1° febbraio 1945, n. 58;
+
+Vista la deliberazione del Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, d'intesa col Ministro per il tesoro; Abbiamo sanzionato e promulghiamo quanto segue:

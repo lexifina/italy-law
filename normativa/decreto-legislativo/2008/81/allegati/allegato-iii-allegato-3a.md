@@ -1,0 +1,13 @@
+Allegato 3A
+
+Parte di provvedimento in formato grafico
+
+((15))
+
+---------------
+
+AGGIORNAMENTO (15)
+
+Il Decreto 9 luglio 2012 (in G.U. 26/7/2012, n. 173) ha disposto (con l'art. 2, comma 1) che "I contenuti della cartella sanitaria e di rischio, tenuta sia su supporto cartaceo che informatico, sono specificati nell'allegato I del presente decreto recante la modifica dell' Allegato 3A del decreto legislativo 9 aprile 2008 n. 81".
+
+Ha inoltre disposto (con l'art. 2, comma 2) che "I contenuti previsti nell'allegato I sopra richiamato sono da considerarsi come informazioni minime della cartella sanitaria e di rischio".

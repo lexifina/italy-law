@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 luglio 1980
-
-PERTINI - BIASINI - PANDOLFI - Visto, il Guardasigilli: MORLINO Registrato alla Corte dei conti, addi' 25 settembre 1980 Registro n. 16 Beni culturali, foglio n. 237

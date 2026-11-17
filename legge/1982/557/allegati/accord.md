@@ -1,5 +1,0 @@
-ACCORD EUROPEEN
-
-sur l'echange de reactifs pour la determination des groupes tissulaires
-
-Parte di provvedimento in formato grafico

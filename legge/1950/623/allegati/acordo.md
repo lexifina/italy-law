@@ -1,5 +1,0 @@
-Acordo entre o Brasil e a Italia para incentivar as relacoes de colaboracao entre os dois Paisese resolver as questoes atinentes ao
-
-Tratado de Paz.
-
-Parte di provvedimento in formato grafico

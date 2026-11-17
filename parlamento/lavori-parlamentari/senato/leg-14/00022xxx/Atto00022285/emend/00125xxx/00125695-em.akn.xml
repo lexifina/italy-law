@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3232/A/4.0.101"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.0.101"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@.akn"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3232/A/4.0.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3232" showAs="DDL 3232"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17613" showAs="Morra"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17602" showAs="Fasolino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17599" showAs="Fabbri"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17563" showAs="Girfatti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3232</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.0.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Morra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fasolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fabbri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Girfatti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 4, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 4-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Il compenso corrisposto in costanza di rapporto di lavoro ex articolo 5 CCNL-1994, articolo 2 accordo collettivo 1997, articolo 1, accordo collettivo 1999 e comunque qualsiasi altra voce retributiva corrisposta in via fissa e continuativa ai dirigenti delle Poste italiane anche se fuori ruolo o in pensione già destinatari del compenso di cui al predetto articolo 5 del CCNL-1994 o assimilato, sono interamente soggetti alla contribuzione per il trattamento di quiescenza, ivi compresa la quota di maggiorazione introdotta dall'articolo 15, comma 1, della legge 23 dicembre 1994, n. 724 e sono pensionabili ai sensi dell'articolo 13, comma 1 lettera 
+					<an:i>a)</an:i>
+					 del decreto legislativo 30 dicembre 1992, n. 503.
+				</an:p>
+				<an:p align="justify">        2. All'onere derivante dal presente articolo valutato in 600.000 euro a decorrere dal 2005 si provvede mediante corrispondente riduzione dell'autorizzazione di spesa di cui all'articolo 70, comma 2, del decreto legislativo n. 300 del 1999.</an:p>
+				<an:p align="justify">
+					        3. Il Ministro dell'economia e delle finanze provvede al monitoraggio dell'attuazione della presente legge, anche ai fini dell'applicazione dell'articolo 11-
+					<an:i>ter,</an:i>
+					 comma 7, della legge 5 agosto 1978, n. 468, e successive modificazioni, e trasmette alle Camere, corredati da apposite relazioni, gli eventuali decreti emanati ai sensi dell'articolo 7, secondo comma, n. 2), della legge n. 468 del 1978».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

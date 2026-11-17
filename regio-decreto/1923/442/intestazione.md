@@ -1,9 +1,0 @@
-REGIO DECRETO
-
-18 febbraio 1923
-
-442
-
-Erezione in Ente morale. (023U0442)
-
-Entrata in vigore del provvedimento: 12/04/1923

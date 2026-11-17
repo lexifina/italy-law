@@ -1,0 +1,19 @@
+Allegato e)
+
+SUL TRATTAMENTO PENITENZIARIO
+
+Principi ispiratori.
+
+Il trattamento penitenziario ed i suoi elementi.
+
+Aspetti sociopedagogici del trattamento: le figure professionali istituzionali.
+
+Modalita' del trattamento: il programma individualizzato di trattamento.
+
+Ruolo della Polizia penitenziaria nel trattamento: aspetti normativi e modalita' organizzative.
+
+Le misure alternative alla detenzione.
+
+L'istituto del permesso.
+
+Ruolo e funzioni della magistratura di sorveglianza.

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2572/A/31.0.100"/>
+					<an:FRBRdate date="2004-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="31.0.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@"/>
+					<an:FRBRdate date="2004-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@.akn"/>
+					<an:FRBRdate date="2004-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-07-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-07-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2572/A/31.0.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2572" showAs="DDL 2572"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3948" showAs="Nieddu"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/1019" showAs="Forcieri"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/2321" showAs="Stanisci"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/12835" showAs="Manzella"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2572</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 31.0.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Nieddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Forcieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Stanisci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Manzella</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 31, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 31-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Misure straordinarie per la valorizzazione del servizio volontario)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. Ai datori di lavoro privati ed agli enti pubblici economici operanti nelle regioni Campania, Basilicata, Sicilia, Puglia, Calabria e Sardegna che assumono con contratto di lavoro a tempo determinato coloro che hanno terminato senza demerito la ferma prefissata nelle Forze armate è riconosciuto, per i nuovi assunti negli anni 2004, 2005 e 2006 ad incremento delle unità effettivamente occupate al 31 dicembre di ciascun anno precedente gli anni predetti, il beneficio previsto dall'articolo 44, comma 1 della legge 28 dicembre 2001, n. 448.
+				</an:p>
+				<an:p align="justify">        2. Il beneficio previsto dal comma 1 è concesso nell'ambito delle risorse a tal fine individuate, mediante decreto del Ministro del lavoro e delle politiche sociali, emanato di concerto con il Ministro dell'economia e delle finanze, nell'ambito del fondo di cui all'articolo 1, comma 7 del decreto legge 20 maggio 1993, n. 148, convertito, con modificazioni, nella legge 19 luglio 1993, n. 236. Con il medesimo decreto vengono altresì stabilite le modalità e le condizioni per l'erogazione del beneficio.</an:p>
+				<an:p align="justify">        3. I datori di lavoro che provvedono alla trasformazione del contratto di lavoro a tempo determinato di cui al comma 1 in contratto di lavoro a tempo indeterminato hanno priorità, rispetto agli altri richiedenti, per l'ottenimento degli incentivi previsti dall'articolo 63 della legge 27 dicembre 2002, n. 289. Tale priorità è altresì riconosciuta ai datori di lavoro operanti nelle aree del territorio nazionale diverse da quelle di cui al comma 1 che assumono i soggetti previsti dal medesimo comma con contratto di lavoro a tempo indeterminato.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

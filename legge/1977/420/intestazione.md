@@ -1,7 +1,0 @@
-LEGGE
-
-19 luglio 1977
-
-420
-
-Conversione in legge del decreto-legge 3 giugno 1977, n. 254, concernente modifiche alla legge 30 aprile 1976, n. 351, recante nuova disciplina della produzione e del commercio dei prodotti di cacao e di cioccolato destinati all'alimentazione umana.

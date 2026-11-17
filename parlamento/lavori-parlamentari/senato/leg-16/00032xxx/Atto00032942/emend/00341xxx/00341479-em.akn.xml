@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1279/A/G100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1279/A/G100"/>
+					<an:FRBRdate date="2009-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1279/A/G100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@"/>
+					<an:FRBRdate date="2009-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@.akn"/>
+					<an:FRBRdate date="2009-01-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-01-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-01-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1279/A/G100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1279" showAs="DDL 1279"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23000" showAs="Marcenaro"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17846" showAs="Bianchi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/25225" showAs="Ghedini"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/25275" showAs="De Luca"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1279</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Marcenaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Bianchi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Ghedini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">De Luca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la ratifica e l'esecuzione da parte del nostro Paese della Convenzione delle Nazioni Unite sui diritti delle persone con disabilità è da tempo sollecitata dal gruppo parlamentare del Partito democratico che ha presentato, fin dall'inizio della legislatura, una proposta di legge in tal senso (atto Senato n. 935);</an:p>
+				<an:p align="justify">            a fronte della tardiva attivazione delle procedure di ratifica della Convenzione e del sostanziale disinvestimento nelle politiche per la disabilità realizzato dal Governo in carica attraverso i suoi primi provvedimenti economici l'unico presidio previsto per il suo recepimento appare costituito dall'istituzione di un'osservatorio nazionale sulla condizione delle persone con disabilità, per il quale l'articolo 3 del presente disegno di legge delinea una struttura pletorica e di stampo fortemente burocratico che, lungi dal favorire l'implementazione dei contenuti della Convenzione, rischia semmai di determinare un rallentamento delle procedure e un oggettivo ostacolo al perseguimento degli obiettivi generali della stessa,</an:p>
+				<an:p align="justify">            oltre al suo sovradimensionamento (quaranta componenti), a suscitare forti perplessità sono le modalità di composizione dell'Osservatorio, nell'ambito del quale è dato ampio spazio alle burocrazie ministeriali a detrimento della visibilità e incisività delle istanze direttamente avanzate dalle organizzazioni delle persone disabili e di quelle impegnate nei settori della disabilità, cui è negata un'adeguata e qualificata rappresentanza;</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a predisporre e a presentare al Parlamento, entro sei mesi dalla data di entrata in vigore della legge in esame, un apposito «Piano d'azione» per l'implementazione dei contenuti della Convenzione delle Nazioni Unite sui diritti delle persone con disabilità, con riguardo alle politiche per la disabilità e alle specifiche misure a tal fine adottate dal Ministero competente;</an:p>
+				<an:p align="justify">            nella medesima sede, a riferire sulla idoneità e funzionalità dell'Osservatorio di cui all'articolo 3 del presente disegno di legge al perseguimento degli obiettivi specifici e delle finalità generali della Convenzione;</an:p>
+				<an:p align="justify">            a reperire le risorse finanziarie necessarie a garantire il recepimento della Convenzione e il pieno ed effettivo esercizio dei diritti a tutt'oggi riconosciuti dal nostro ordinamento alle persone con disabilità e alle loro famiglie.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+				<an:p>(**) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

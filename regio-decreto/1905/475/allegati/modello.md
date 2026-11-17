@@ -1,3 +1,0 @@
-(Modello di attestato di Licenza).
-
-Parte di provvedimento in formato grafico

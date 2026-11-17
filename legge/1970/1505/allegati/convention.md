@@ -1,3 +1,0 @@
-CONVENTION RELATIVE AU COMMERCE DE TRANSIT DES PAYS SANS LITTORAL
-
-Parte di provvedimento in formato grafico

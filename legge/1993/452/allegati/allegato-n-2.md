@@ -1,7 +1,0 @@
-Allegato n. 2
-
-(previsto dall'articolo 6)
-
-ELENCO DEI DECRETI MINISTERIALI EMANATI IN APPLICAZIONE DELL'ARTICOLO 12 DELLA LEGGE 5 AGOSTO 1978, N. 468
-
-Parte di provvedimento in formato grafico

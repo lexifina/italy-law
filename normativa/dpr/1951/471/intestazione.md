@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+11 aprile 1951
+
+471
+
+Modificazioni allo statuto dell'Universita' degli studi di Parma.

@@ -1,3 +1,0 @@
-Articolo X
-
-Ai viaggiatori di commercio che rappresentino cittadini o persone giuridiche ed associazioni di ciascuna Alta Parte Contraente che svolgano attivita' di affari nell'ambito dei propri territori, sara' l'accordato al loro ingresso, durante il loro soggiorno ne i territori dell'altra Alta Parte Contraente ed alla loro uscita dai medesimi, un trattamento non meno favorevole di quello accordato attualmente o che sara' accordato in avvenire ai viaggiatori di commercio di qualsiasi terzo Paese pei quanto riguarda diritti doganali ed altri diritti e privilegi e, subordinatamente alle eccezioni di cui al paragrafo 3 dell'Articolo IX, per quanto riguarda, tutti i tributi ed oneri applicabili a loro stessi od ai loro campioni.

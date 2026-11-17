@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/1953/A/2.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/1953/A/2.20"/>
+					<an:FRBRdate date="2026-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/19/Emend/S/1953/A/2.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@"/>
+					<an:FRBRdate date="2026-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@.akn"/>
+					<an:FRBRdate date="2026-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2026-10-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2026-10-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/19/Emend/S/1953/A/2.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/19/1953" showAs="DDL 1953"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDY34KUBFKPTIVDXYZMOGPN1GLOSXRLT1FKBIXDMNHWTWCTAQ4DO" href="http://dati.senato.it/24016" showAs="ZAMPA"/>
+				<an:TLCPerson id="ID50SWDASMGLCCNYQNBZN3FPVDUGENM4FULJNOSPNXNXVTRVQA2EMD" href="http://dati.senato.it/36392" showAs="CAMUSSO"/>
+				<an:TLCPerson id="IDH30NQIEUPZSUEN0KLJ0CE5I1PQ5S14E2NQJH5N0VY22GDQO1TZB" href="http://dati.senato.it/36429" showAs="ZAMBITO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1953</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDY34KUBFKPTIVDXYZMOGPN1GLOSXRLT1FKBIXDMNHWTWCTAQ4DO" as="#tipoSenatore">ZAMPA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID50SWDASMGLCCNYQNBZN3FPVDUGENM4FULJNOSPNXNXVTRVQA2EMD" as="#tipoSenatore">CAMUSSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH30NQIEUPZSUEN0KLJ0CE5I1PQ5S14E2NQJH5N0VY22GDQO1TZB" as="#tipoSenatore">ZAMBITO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 a) 
+					<an:i>aggiungere, in fine, le seguenti parole:</an:i>
+					 «e assicuri la finalizzazione del servizio civile universale, secondo gli articoli 8, comma 1, lettera 
+					<an:i>a)</an:i>
+					 legge 6 giugno 2016, n. 106 e 2 decreto legislativo 6 marzo 2017, n. 40 e ai sensi degli articoli 52, primo comma, e 11 della Costituzione, alla difesa non armata della patria e alla promozione dei valori fondativi della Repubblica, anche con riferimento agli articoli 2 e 4, secondo comma, della Costituzione;».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

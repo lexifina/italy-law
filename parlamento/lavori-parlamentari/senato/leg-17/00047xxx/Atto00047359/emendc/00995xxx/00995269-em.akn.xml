@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6"/>
+					<an:FRBRdate date="2016-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1000/6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@"/>
+					<an:FRBRdate date="2016-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@.akn"/>
+					<an:FRBRdate date="2016-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBMCMZXNFRST5HUP2GGSKPKUUMJVUCLVXE3FNC5O5J5N1QEFGNBS" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="IDT3JHEMTLHULJI3QK5OBAZ4F43MP2RZRQQNII0LELSUG1QPMIKXWB" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDJYVRATWPG1U0HDUHEYMPB2MA0B0D34LVJHKHRUJ3LWGBSWY0ARQL" href="http://dati.senato.it/29059" showAs="CANDIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1000/6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBMCMZXNFRST5HUP2GGSKPKUUMJVUCLVXE3FNC5O5J5N1QEFGNBS" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT3JHEMTLHULJI3QK5OBAZ4F43MP2RZRQQNII0LELSUG1QPMIKXWB" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJYVRATWPG1U0HDUHEYMPB2MA0B0D34LVJHKHRUJ3LWGBSWY0ARQL" as="#tipoSenatore">CANDIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 1.1000, all'articolo 1, comma 1, inserire infine il seguente periodo:</an:i>
+					 «Fermi restando i poteri di ordinanza di cui alla legge 24 febbraio 1992, n. 225; tenuto conto dell'aggravarsi delle conseguenze degli eventi sismici successivi al 24 agosto 2016, il Commissario di cui all'articolo 1, comma 3, sulla base di motivate segnalazioni da parte dei Presidenti delle Regioni Abruzzo, Lazio, Marche e Umbria, in relazione ai territori di propria competenza che hanno subito consistenti danni diffusi a causa del reiterarsi degli eventi sismici, individua, con propria ordinanza, l'elenco dei Comuni, aggiuntivo rispetto a quello di cui agli Allegati 1 e 2, al fine dell'estensione dell'applicazione delle misure previste dal presente decreto, valutandone la congruità in relazione ai danni riscontrati. In particolare, l'elenco indica i Comuni ai quali, tenuto conto dell'impatto dei danni medesimi sul tessuto economico sociale, sull'identità dell'aggregato urbano e sull'omogeneità delle caratteristiche socio economiche del territorio interessato, applicare tutte le disposizioni di cui al presente decreto e quelli in relazione ai quali, limitatamente al Titolo IV, far riferimento al singolo soggetto danneggiato. L'elenco proposto dal commissario è approvato dal Consiglio dei Ministri e successivamente comunicato alle Camere».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

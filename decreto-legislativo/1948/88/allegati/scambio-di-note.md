@@ -1,7 +1,0 @@
-MINISTERO DEGLI AFFARI ESTERI
-
-D. G. A. P. VIII
-
-Nota verbale
-
-Parte di provvedimento in formato grafico

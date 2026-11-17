@@ -1,0 +1,3 @@
+Allegato A
+
+((ALLEGATO ABROGATO DAL D.L. 2 MARZO 2024, N. 19))

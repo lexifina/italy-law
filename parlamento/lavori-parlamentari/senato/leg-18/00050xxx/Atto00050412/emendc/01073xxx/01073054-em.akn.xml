@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/C/9.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/C/9.0.2"/>
+					<an:FRBRdate date="2018-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/741/C/9.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@"/>
+					<an:FRBRdate date="2018-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@.akn"/>
+					<an:FRBRdate date="2018-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-08-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-08-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/741/C/9.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/741" showAs="DDL 741"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 11° riunite" href="/dati.senato.it/osr/Commissione/90"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSGKOSY2UBE3BG0R1PI2HSBRQLCKI4KPIXJ3VNG2RPOB1V2WDSVI" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDA3VZ1ZAVV00ODLERHN5XGT5DCNICCFMBKZIIBDZPEPBRUU3VJVD" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDKA4AE3LJ5S3RCTSICJRF1D05QTBLSSQZVMF2HNCEGBW3IC2GETC" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDBLWVPQQW3A5VOILBLSLPNQF0MOHQ54KVYYTX0OLPNZJACM4KUGPN" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 741</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSGKOSY2UBE3BG0R1PI2HSBRQLCKI4KPIXJ3VNG2RPOB1V2WDSVI" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3VZ1ZAVV00ODLERHN5XGT5DCNICCFMBKZIIBDZPEPBRUU3VJVD" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKA4AE3LJ5S3RCTSICJRF1D05QTBLSSQZVMF2HNCEGBW3IC2GETC" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBLWVPQQW3A5VOILBLSLPNQF0MOHQ54KVYYTX0OLPNZJACM4KUGPN" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 9.1.</an:b>
+				</an:p>
+				<an:p align="center">(Divieto di installazione di terminali per il prelievo di denaro).</an:p>
+				<an:p>        1. È vietato installare terminali multifunzione che consentono il prelievo di valuta contante all'interno o all'esterno, entro un raggio di 100 metri, dai locali dove si effettuano giochi d'azzardo e scommesse con vincite in denaro.</an:p>
+				<an:p>        2. Il responsabile della violazione del divieto di cui al comma 1 è punito con una sanzione pecuniaria tra i 5.000 e i 10.000 euro e con una sanzione amministrativa corrispondente alla revoca della concessione sui giochi».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

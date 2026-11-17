@@ -11,9 +11,9 @@ The law of Italy as a git history: one file per article, one commit for each cha
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Italy's national law, which global-law reads at `italy/national/acts/`.
 
-**What is in it now:** the Constitution (28 versions since 1948) and 58 laws with every version Normattiva publishes, among them all four main codes: the Codice civile (318 versions since 1942, [`regio-decreto/1942/262/`](regio-decreto/1942/262/)), the Codice penale (374 versions since 1931, [`regio-decreto/1930/1398/`](regio-decreto/1930/1398/)), the Codice di procedura penale (308 versions since 1989, [`dpr/1988/447/`](dpr/1988/447/)) and the Codice di procedura civile (161 versions since 1942, [`regio-decreto/1940/1443/`](regio-decreto/1940/1443/)); the text in force of every other national act, being added in batches from Normattiva's own open-data exports (each commit names its copy and how it was checked against normattiva.it) and, where no checked export exists, from normattiva.it itself; records of 17,037 laws (1946–2026) and 162,267 bills (Camera 1848–2026, Senate 1996–2024), and 1,037,229 Senate documents as published (bill texts, committee reports, amendments, records) in [`schede/`](schede/) and [`lavori-parlamentari/`](lavori-parlamentari/), with, from the Senate's open data (terms XIII to XIX), 61,051 acts of sindacato ispettivo, 34,970 documents, 74,952 sittings (4,743 of the Assembly, 70,209 of committees) and 60,617 votes; from the Camera's open data, in [`atti-parlamentari/`](atti-parlamentari/), more than 520,000 atti di indirizzo e controllo as published (terms VII to XIX; a text that may name private persons is withheld), records of more than 280,000 speeches, 36,769 bill stages (terms XVI to XIX), 94,603 votes (terms XIII to XIX) and the records of about 23,700 sittings from 1848 to 2026; 5,465 national measures transposing EU directives (1958–2026) in [`eu-nim/`](eu-nim/); and 1,100,731 court decisions in [`giurisprudenza/`](giurisprudenza/): 22,441 of the Corte costituzionale in full with 46,607 massime, 1,069,924 of the administrative courts (2017–2026) and 8,366 of the Corte dei conti (details and links). [`REPRODUCE.md`](REPRODUCE.md) lists every act with its folder and versions; [`atti.csv`](atti.csv) lists the amending acts with all their dates.
+**What is in it now:** Italy's national legislation: the Constitution and 58 acts with every version Normattiva publishes, among them the four main codes ([Codice civile](normativa/regio-decreto/1942/262/), [Codice penale](normativa/regio-decreto/1930/1398/), [Codice di procedura civile](normativa/regio-decreto/1940/1443/), [Codice di procedura penale](normativa/dpr/1988/447/)), and the text in force of the other national acts, added in batches ([`normativa/`](normativa/); the Constitution in [`costituzione/`](costituzione/)); parliamentary records of the Camera and the Senate since 1848 (bills, laws, sittings, votes, documents) in [`parlamento/`](parlamento/); national measures transposing EU directives in [`eu-nim/`](eu-nim/); about 1.1 million court decisions (Corte costituzionale, administrative courts, Corte dei conti) in [`giurisprudenza/`](giurisprudenza/); and competition-authority decisions in [`autorita/`](autorita/). [`REPRODUCE.md`](REPRODUCE.md) lists every act with its folder and versions.
 
-Each act is in `<kind>/<year>/<number>/`, one file per article (`legge/1970/300/art-018.md` is art. 18 of the Statuto dei lavoratori, Legge 20 maggio 1970, n. 300); the Constitution is [`costituzione/`](costituzione/), with its transitional and final provisions in `costituzione/allegati/`.
+Each act is in `normativa/<kind>/<year>/<number>/`, one file per article (`normativa/legge/1970/300/art-018.md` is art. 18 of the Statuto dei lavoratori, Legge 20 maggio 1970, n. 300); the Constitution is [`costituzione/`](costituzione/), with its transitional and final provisions in `costituzione/allegati/`. Until 17 November 2026 the act-type folders were at the top of the repository (`legge/`); [`data/paths.json`](data/paths.json) maps each old folder to its new one.
 
 The text is in Italian, as Normattiva publishes it, with its `(( ))` marks around amended words and its update notes. An English translation is not part of this record.
 
@@ -21,10 +21,10 @@ The text is in Italian, as Normattiva publishes it, with its `(( ))` marks aroun
 
 | Question | Command |
 | --- | --- |
-| Every change to art. 18 of the Statuto dei lavoratori | `git log -p --word-diff -- legge/1970/300/art-018.md` |
-| Which act wrote each line of art. 18? | `git blame legge/1970/300/art-018.md` |
-| Every version of the Statuto dei lavoratori, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- legge/1970/300` |
-| Art. 18 as in force on 1 January 2012 | `python tools/vigente.py 2012-01-01 legge/1970/300 18` |
+| Every change to art. 18 of the Statuto dei lavoratori | `git log -p --follow --word-diff -- normativa/legge/1970/300/art-018.md` |
+| Which act wrote each line of art. 18? | `git blame normativa/legge/1970/300/art-018.md` |
+| Every version of the Statuto dei lavoratori, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- normativa/legge/1970/300 legge/1970/300` |
+| Art. 18 as in force on 1 January 2012 | `python tools/vigente.py 2012-01-01 normativa/legge/1970/300 18` |
 
 **Outside git**, we also host this record publicly, for free:
 
@@ -40,7 +40,7 @@ Both assistants read the record through the free Global law connector (MCP, `htt
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add italy/national/acts
-python3 tools/law.py show 2026-01-01 italy/national/acts/legge/1970/300/art-018.md
+python3 tools/law.py show 2026-01-01 italy/national/acts/normativa/legge/1970/300/art-018.md
 ```
 
 Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

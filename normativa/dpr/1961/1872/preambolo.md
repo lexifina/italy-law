@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduta la legge 15 giugno 1931, n. 889, sul riordinamento della istruzione media tecnica;
+
+Veduto il regio decreto 3 marzo 1934, n. 383, che approva il testo unico della legge comunale e provinciale;
+
+Veduto l'art. 9 del regio decreto-legge 21 settembre 1938, n. 2038, convertito nella legge 2 giugno 1939, numero 739;
+
+Veduti i propri decreti 21 luglio 1959, n. 1402, n. 1423 e numero 1457, coi quali sono stati istituiti gli Istituti professionali per l'industria e l'artigianato di Cagliari, L'Aquila e Palermo;
+
+Considerato che, per meno errore materiale, le Scuole secondarie di avviamento professionale a tipo industriale di Cagliari, L'Aquila e Palermo, in detti decreti sono state dichiarate annesse agli Istituti professionali anzidetti;
+
+Ritenuto che occorre modificare l'art. 1 dei decreti predetti nel senso che le Scuole secondarie di avviamento professionale a tipo industriale esistenti nelle predette citta' non debbono essere considerate annesse agli Istituti professionali di cui trattasi;
+
+Sulla proposta del Ministro Segretario di Stato per la pubblica istruzione, di concerto con quelli dell'interno e per il tesoro; Decreta:

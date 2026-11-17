@@ -1,3 +1,0 @@
-Accord entre le Gouvernement Italien et le Gouvernement Federal Autrichien relatif aux appellations geographiques d'origine et aux denominations de certains produits.
-
-Parte di provvedimento in formato grafico

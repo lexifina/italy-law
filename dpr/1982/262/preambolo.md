@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 87 della Costituzione;
-
-Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativo all'ordinamento dell'Amministrazione degli affari esteri;
-
-Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 22 gennaio 1982;
-
-Sulla proposta del Ministro degli affari esteri, di concerto con il Ministro del tesoro; Decreta:

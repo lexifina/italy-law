@@ -1,0 +1,41 @@
+IL MINISTRO DELL'AMBIENTE di concerto con
+
+IL MINISTRO DELL'INTERNO
+
+e
+
+IL MINISTRO DELL'INDUSTRIA
+
+DEL COMMERCIO E DELL'ARTIGIANATO
+
+Visto il decreto del Ministro dell'interno 31 luglio 1934, pubblicato nella Gazzetta Ufficiale n. 228 del 28 settembre 1934, e successive modificazioni in merito all'approvazione delle norme di sicurezza per la lavorazione, l'immagazzinamento, l'impiego o la vendita di oli minerali e per il trasporto degli stessi;
+
+Vista la legge 27 marzo 1969, n. 121, in merito all'impiego di contenitori fissi e mobili non metallici per la lavorazione, l'immagazzinamento, l'impiego ed il trasporto degli oli minerali e loro derivati;
+
+Vista la legge 8 luglio 1986, n. 349, ed in particolare l'articolo 1, che assegna al Ministero dell'ambiente il compito di assicurare in un quadro organico la promozione, la conservazione ed il recupero delle condizioni ambientali conformi agli interessi fondamentali della collettivita' ed alla qualita' della vita, nonche' la difesa delle risorse naturali dall'inquinamento;
+
+Visto il decreto del Presidente della Repubblica 17 maggio 1988, n. 175, sui rischi di incidenti rilevanti ed in particolare l'articolo 3;
+
+Visto il decreto del Presidente della Repubblica 24 maggio 1988, n. 236, di attuazione della direttiva CEE n. 80/778 concernente la qualita' delle acque destinate al consumo umano ai sensi dell'articolo 15 della legge 16 aprile 1987, n. 183;
+
+Visto il decreto del Ministero dell'interno del 13 ottobre 1994, pubblicato nel supplemento ordinario n. 142 alla Gazzetta Ufficiale n. 265 del 12 novembre 1994;
+
+Ritenuta necessaria ed urgente l'azione di prevenzione di incidenti originati da serbatoi interrati destinati allo stoccaggio di sostanze e preparati liquidi per usi commerciali o ai fini della produzione industriale, a salvaguardia e prevenzione dell'inquinamento del suolo e delle acque superficiali e sotterranee che potrebbe essere causato dal rilascio delle sostanze e preparati contenuti nei citati serbatoi;
+
+Visto il decreto legislativo del 27 gennaio 1992, n. 132, in merito alle sostanze o preparati pericolosi per l'ambiente;
+
+Visto l'articolo 17, commi 3 e 4, della legge 23 agosto 1988, n. 400;
+
+Sentita la Conferenza di servizi di cui alla legge del 19 maggio 1997, n. 137, articolo 1, comma 7, in data 25 luglio 1997;
+
+Sentito il comitato centrale tecnico scientifico per la prevenzione incendi di cui all'articolo 10 del decreto del Presidente della Repubblica 29 luglio 1982, n. 577, nella seduta del 14 ottobre 1997;
+
+Espletata la procedura di informazione di cui alla legge 21 giugno 1986, n. 317, di attuazione della direttiva n. 83/189/CEE;
+
+Tenuto conto delle osservazioni effettuate dalla Commissione europea ai sensi dell'articolo 8, paragrafo 2, della direttiva n. 83/189/CEE;
+
+Udito il parere del Consiglio di Stato, espresso dalla Sezione consultiva per gli atti normativi nella seduta dell'8 marzo 1999;
+
+Vista la comunicazione alla Presidenza del Consiglio dei Ministri, effettuata ai sensi della citata legge n. 400 del 1988, in data 1 giugno 1999;
+
+Adotta il seguente regolamento:

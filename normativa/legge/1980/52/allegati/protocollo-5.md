@@ -1,0 +1,9 @@
+PROTOCOLLO N° 5
+
+concernente la partecipazione della Repubblica ellenica ai fondi della Comunita' Europea del Carbone e dell'Acciaio
+
+Il contributo della Repubblica ellenica ai fondi della Comunita' Europea del Carbone e dell'Acciaio e' fissato a 3 milioni di unita' di conto europee.
+
+Tale contributo viene versato in tre rate annue uguali, infruttifere, a partire dal 1 gennaio 1981.
+
+Ognuna di queste rate e' versata nella moneta nazionale liberamente convertibile della Repubblica ellenica.

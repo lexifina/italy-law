@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 24 dicembre 1949, n. 993;
+
+Vista la tariffa generale dei dazi doganali di importazione, approvata con decreto Presidenziale 7 luglio 1950, n. 442;
+
+Visti i decreti Presidenziali 8 luglio 1950, n. 453, che detta norme temporanee per la prima applicazione della nuova tariffa doganale dei dazi di importazione, e 30 luglio 1950, n. 578, che reca delle aggiunte alle dette norme;
+
+Visto l'art. 87 della Costituzione;
+
+Sentita la Commissione parlamentare costituita a norma dell'art. 3 della legge 24 dicembre 1949, n. 993;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze, di concerto con i Ministri per gli affari esteri, per il tesoro, per l'agricoltura e le foreste, per l'industria ed il commercio, per il commercio con l'estero e per la marina mercantile; Decreta:

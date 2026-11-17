@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/920-B/A/2.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/920-B/A/2.5"/>
+					<an:FRBRdate date="2019-06-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/920-B/A/2.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@"/>
+					<an:FRBRdate date="2019-06-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@.akn"/>
+					<an:FRBRdate date="2019-06-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/920-B/A/2.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/920-B" showAs="DDL 920-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID252O4XCRKABBF4FT4NQOBWOAMYG1W0EB3NKIICIDNNNS2GFLXCD" href="http://dati.senato.it/29157" showAs="PARENTE"/>
+				<an:TLCPerson id="IDFOA1AREIFLBABXLOHFXCBYSMB14MT1ZN31PTHLHHLDZBPFJC3ZK" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="IDVYRYOV31GHBUJCSE5RMG33XVUEETA0AXDGM1A5MJDNIWJLXIORFN" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDKD25AHYYC4LML0BIT52MG0DQ4EH2MJ25IBH0MHD01JF5SKFKNXKD" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDAGDIOIE3CXHRHUHTFXH1QMV3EHMC1FP0UALQYWBDFKDTOEA0RLG" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="ID1Q0I05M43RW2MBCOD55CNWEMBBYEGDQCZLSZ5CHOYAZNRWGFB3TE" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="IDOZXGR5U4JWCWGS5Q2GMYZM2B4H1PRLB2TBQDWJDDZRWIPTXOEUYG" href="http://dati.senato.it/32669" showAs="Assuntela MESSINA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 920-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID252O4XCRKABBF4FT4NQOBWOAMYG1W0EB3NKIICIDNNNS2GFLXCD" as="#tipoSenatore">PARENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFOA1AREIFLBABXLOHFXCBYSMB14MT1ZN31PTHLHHLDZBPFJC3ZK" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVYRYOV31GHBUJCSE5RMG33XVUEETA0AXDGM1A5MJDNIWJLXIORFN" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKD25AHYYC4LML0BIT52MG0DQ4EH2MJ25IBH0MHD01JF5SKFKNXKD" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGDIOIE3CXHRHUHTFXH1QMV3EHMC1FP0UALQYWBDFKDTOEA0RLG" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1Q0I05M43RW2MBCOD55CNWEMBBYEGDQCZLSZ5CHOYAZNRWGFB3TE" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOZXGR5U4JWCWGS5Q2GMYZM2B4H1PRLB2TBQDWJDDZRWIPTXOEUYG" as="#tipoSenatore">Assuntela MESSINA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 4 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «4. Tutto il personale degli istituti e delle scuole di ogni ordine e grado e delle istituzioni educative, compresi i dirigenti scolastici, è escluso dall'ambito di applicazione del presente articolo. È altresì escluso dall'ambito di applicazione del presente articolo il personale dell'Afam, dell'università e della ricerca».</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

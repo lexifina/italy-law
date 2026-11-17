@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.44/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.44"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.44/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.44"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.44/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDO0JCAL3OKIPSNYTAGQ3N1SUKGLEA3FVV5321HNMQXC2WVNVZZ0NJ" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="ID0WNRG1DTLGDDLZIXQ4GMMY51AM4S2R3O5F0H3FF2JNWMN0KBEMRL" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDCSF2ERBWXA1FEMXVAIUH0ZU5QPN25GMZUB3IXFGAQ0KCBURVSIFG" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDCYDP205CCHSXGBAEHEHEPE2CJHJTWSXD3HEMVIHFTKCO3JTIABEH" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDY5RIHGHLIIULKNTCLZRLDI3ONNXU2IPA1FOHIGNZBXO1IFUU1M1M" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.44</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO0JCAL3OKIPSNYTAGQ3N1SUKGLEA3FVV5321HNMQXC2WVNVZZ0NJ" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0WNRG1DTLGDDLZIXQ4GMMY51AM4S2R3O5F0H3FF2JNWMN0KBEMRL" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCSF2ERBWXA1FEMXVAIUH0ZU5QPN25GMZUB3IXFGAQ0KCBURVSIFG" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCYDP205CCHSXGBAEHEHEPE2CJHJTWSXD3HEMVIHFTKCO3JTIABEH" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDY5RIHGHLIIULKNTCLZRLDI3ONNXU2IPA1FOHIGNZBXO1IFUU1M1M" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/30D;</an:p>
+				<an:p>            l'autostrada Cremona-Mantova cosiddetta Stradivaria è ritenuta intervento infrastrutturale strategico e prioritario per le attività economiche dell'area e per il rilancio e sviluppo infrastrutturale, industriale ed economico del Paese;</an:p>
+				<an:p>            i tavoli sulle infrastrutture delle due province di Mantova e Cremona, svolti nello scorso anno, hanno condiviso un orientamento comune sulla strategicità del nuovo asse viario a percorrenza veloce, tra le istituzioni locali e le categorie economiche; tutti concordano che i due poli economici importanti di Mantova e di Cremona devono essere collegati meglio su gomma e su ferro;</an:p>
+				<an:p>            dopo decenni di attesa, ora si potrebbe sciogliere un nodo importante per il futuro del territorio delle due province, in favore delle imprese e del lavoro; il sostegno, anche finanziario, del Governo alla realizzazione dell'opera potrebbe portare alla gara d'appalto dell'autostrada in tempi brevi per garantirne la messa in esercizio per le Olimpiadi del 2026;</an:p>
+				<an:p>            la volontà di costruire l'autostrada Cremona-Mantova collegando tra loro l'A22 (Autobrennero e l'A21 (Brescia-Piacenza-Torino) è stata confermata anche dalla disponibilità della Regione Lombardia a contribuire alla quota privata di finanziamento dell'asse viario,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'Impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

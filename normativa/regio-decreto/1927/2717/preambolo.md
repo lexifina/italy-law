@@ -1,0 +1,21 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto l'art. 65 del R. decreto 29 luglio 1927, n. 1443, portante norme per la ricerca e la coltivazione delle miniere nel Regno;
+
+Visto l'art. 1, n. 3, della legge 31 gennaio 1926, n. 100;
+
+Vista la legge 9 luglio 1926, n. 1162;
+
+Sentito l'Istituto centrale di statistica;
+
+Ritenuta l'opportunita', di stabilire i criteri per assicurare la raccolta delle notizie statistiche sulla produzione mineraria che gli esercenti di miniere e di cave sono tenuti a dare, a termini degli articoli 29 e 45 del sopra ricordato R. decreto 29 luglio 1927, n. 1443;
+
+Udito il Consiglio di Stato;
+
+Udito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per l'economia nazionale, di concerto col Primo Ministro, Capo del Governo; Abbiamo decretato e decretiamo:

@@ -50,60 +50,60 @@ file name, sha256 and ELI address.
 | Act | Folder | Versions | First in force | Provisions now |
 | --- | --- | ---: | --- | ---: |
 | Costituzione | `costituzione/` | 28 | 1948-01-01 | 160 |
-| D.Lgs. 196/2003 | `decreto-legislativo/2003/196/` | 59 | 2004-01-01 | 331 |
-| D.Lgs. 82/2005 | `decreto-legislativo/2005/82/` | 62 | 2006-01-01 | 127 |
-| Legge costituzionale 1/1947 | `legge-costituzionale/1947/1/` | 1 | 1947-02-22 | 4 |
-| Legge costituzionale 2/1947 | `legge-costituzionale/1947/2/` | 1 | 1947-06-19 | 5 |
-| Legge costituzionale 3/1947 | `legge-costituzionale/1947/3/` | 1 | 1947-11-07 | 6 |
-| Legge costituzionale 1/1948 | `legge-costituzionale/1948/1/` | 2 | 1948-02-21 | 7 |
-| Legge costituzionale 2/1948 | `legge-costituzionale/1948/2/` | 1 | 1948-03-10 | 5 |
-| Legge costituzionale 3/1948 | `legge-costituzionale/1948/3/` | 16 | 1948-03-10 | 62 |
-| Legge costituzionale 4/1948 | `legge-costituzionale/1948/4/` | 6 | 1948-03-11 | 58 |
-| Legge costituzionale 5/1948 | `legge-costituzionale/1948/5/` | 4 | 1948-03-14 | 118 |
-| Legge costituzionale 1/1953 | `legge-costituzionale/1953/1/` | 4 | 1953-03-29 | 17 |
-| Legge costituzionale 1/1958 | `legge-costituzionale/1958/1/` | 1 | 1958-04-16 | 3 |
-| Legge costituzionale 1/1961 | `legge-costituzionale/1961/1/` | 1 | 1961-04-16 | 5 |
-| Legge costituzionale 1/1963 | `legge-costituzionale/1963/1/` | 19 | 1963-02-16 | 73 |
-| Legge costituzionale 2/1963 | `legge-costituzionale/1963/2/` | 1 | 1963-02-27 | 8 |
-| Legge costituzionale 3/1963 | `legge-costituzionale/1963/3/` | 1 | 1964-01-19 | 4 |
-| Legge costituzionale 1/1967 | `legge-costituzionale/1967/1/` | 1 | 1967-07-18 | 3 |
-| Legge costituzionale 2/1967 | `legge-costituzionale/1967/2/` | 1 | 1967-12-10 | 9 |
-| Legge costituzionale 1/1971 | `legge-costituzionale/1971/1/` | 1 | 1972-01-20 | 69 |
-| Legge costituzionale 1/1972 | `legge-costituzionale/1972/1/` | 1 | 1972-03-22 | 10 |
-| Legge costituzionale 1/1986 | `legge-costituzionale/1986/1/` | 1 | 1986-05-27 | 3 |
-| Legge costituzionale 1/1989 | `legge-costituzionale/1989/1/` | 1 | 1989-01-18 | 16 |
-| Legge costituzionale 2/1989 | `legge-costituzionale/1989/2/` | 1 | 1989-04-07 | 5 |
-| Legge costituzionale 3/1989 | `legge-costituzionale/1989/3/` | 1 | 1989-04-14 | 9 |
-| Legge costituzionale 1/1991 | `legge-costituzionale/1991/1/` | 1 | 1991-11-23 | 3 |
-| Legge costituzionale 1/1992 | `legge-costituzionale/1992/1/` | 1 | 1992-03-24 | 3 |
-| Legge costituzionale 1/1993 | `legge-costituzionale/1993/1/` | 1 | 1993-08-11 | 9 |
-| Legge costituzionale 2/1993 | `legge-costituzionale/1993/2/` | 1 | 1993-10-10 | 8 |
-| Legge costituzionale 3/1993 | `legge-costituzionale/1993/3/` | 1 | 1993-11-14 | 3 |
-| Legge costituzionale 1/1997 | `legge-costituzionale/1997/1/` | 1 | 1997-01-29 | 10 |
-| Legge costituzionale 1/1999 | `legge-costituzionale/1999/1/` | 1 | 2000-01-06 | 7 |
-| Legge costituzionale 2/1999 | `legge-costituzionale/1999/2/` | 1 | 2000-01-07 | 4 |
-| Legge costituzionale 1/2000 | `legge-costituzionale/2000/1/` | 1 | 2000-02-04 | 3 |
-| Legge costituzionale 1/2001 | `legge-costituzionale/2001/1/` | 1 | 2001-02-08 | 5 |
-| Legge costituzionale 2/2001 | `legge-costituzionale/2001/2/` | 1 | 2001-02-16 | 9 |
-| Legge costituzionale 3/2001 | `legge-costituzionale/2001/3/` | 1 | 2001-11-08 | 13 |
-| Legge costituzionale 1/2002 | `legge-costituzionale/2002/1/` | 1 | 2002-11-10 | 3 |
-| Legge costituzionale 1/2003 | `legge-costituzionale/2003/1/` | 1 | 2003-06-27 | 3 |
-| Legge costituzionale 1/2007 | `legge-costituzionale/2007/1/` | 1 | 2007-10-25 | 3 |
-| Legge costituzionale 1/2012 | `legge-costituzionale/2012/1/` | 1 | 2012-05-08 | 8 |
-| Legge costituzionale 1/2013 | `legge-costituzionale/2013/1/` | 1 | 2013-03-03 | 4 |
-| Legge costituzionale 2/2013 | `legge-costituzionale/2013/2/` | 1 | 2013-03-05 | 4 |
-| Legge costituzionale 3/2013 | `legge-costituzionale/2013/3/` | 1 | 2013-03-15 | 3 |
-| Legge costituzionale 1/2016 | `legge-costituzionale/2016/1/` | 1 | 2016-08-23 | 14 |
-| Legge costituzionale 1/2017 | `legge-costituzionale/2017/1/` | 1 | 2017-12-15 | 13 |
-| Legge costituzionale 1/2020 | `legge-costituzionale/2020/1/` | 1 | 2020-11-05 | 6 |
-| Legge costituzionale 1/2021 | `legge-costituzionale/2021/1/` | 1 | 2021-11-04 | 3 |
-| Legge costituzionale 1/2022 | `legge-costituzionale/2022/1/` | 1 | 2022-03-09 | 5 |
-| Legge costituzionale 2/2022 | `legge-costituzionale/2022/2/` | 1 | 2022-11-30 | 3 |
-| Legge costituzionale 1/2023 | `legge-costituzionale/2023/1/` | 1 | 2023-10-22 | 3 |
-| Legge costituzionale 1/2026 | `legge-costituzionale/2026/1/` | 1 | 2026-02-24 | 12 |
-| Legge costituzionale 2/2026 | `legge-costituzionale/2026/2/` | 1 | 2026-06-23 | 3 |
-| Legge 300/1970 | `legge/1970/300/` | 35 | 1970-06-11 | 45 |
-| Legge 241/1990 | `legge/1990/241/` | 61 | 1990-09-02 | 55 |
+| D.Lgs. 196/2003 | `normativa/decreto-legislativo/2003/196/` | 59 | 2004-01-01 | 331 |
+| D.Lgs. 82/2005 | `normativa/decreto-legislativo/2005/82/` | 62 | 2006-01-01 | 127 |
+| Legge costituzionale 1/1947 | `normativa/legge-costituzionale/1947/1/` | 1 | 1947-02-22 | 4 |
+| Legge costituzionale 2/1947 | `normativa/legge-costituzionale/1947/2/` | 1 | 1947-06-19 | 5 |
+| Legge costituzionale 3/1947 | `normativa/legge-costituzionale/1947/3/` | 1 | 1947-11-07 | 6 |
+| Legge costituzionale 1/1948 | `normativa/legge-costituzionale/1948/1/` | 2 | 1948-02-21 | 7 |
+| Legge costituzionale 2/1948 | `normativa/legge-costituzionale/1948/2/` | 1 | 1948-03-10 | 5 |
+| Legge costituzionale 3/1948 | `normativa/legge-costituzionale/1948/3/` | 16 | 1948-03-10 | 62 |
+| Legge costituzionale 4/1948 | `normativa/legge-costituzionale/1948/4/` | 6 | 1948-03-11 | 58 |
+| Legge costituzionale 5/1948 | `normativa/legge-costituzionale/1948/5/` | 4 | 1948-03-14 | 118 |
+| Legge costituzionale 1/1953 | `normativa/legge-costituzionale/1953/1/` | 4 | 1953-03-29 | 17 |
+| Legge costituzionale 1/1958 | `normativa/legge-costituzionale/1958/1/` | 1 | 1958-04-16 | 3 |
+| Legge costituzionale 1/1961 | `normativa/legge-costituzionale/1961/1/` | 1 | 1961-04-16 | 5 |
+| Legge costituzionale 1/1963 | `normativa/legge-costituzionale/1963/1/` | 19 | 1963-02-16 | 73 |
+| Legge costituzionale 2/1963 | `normativa/legge-costituzionale/1963/2/` | 1 | 1963-02-27 | 8 |
+| Legge costituzionale 3/1963 | `normativa/legge-costituzionale/1963/3/` | 1 | 1964-01-19 | 4 |
+| Legge costituzionale 1/1967 | `normativa/legge-costituzionale/1967/1/` | 1 | 1967-07-18 | 3 |
+| Legge costituzionale 2/1967 | `normativa/legge-costituzionale/1967/2/` | 1 | 1967-12-10 | 9 |
+| Legge costituzionale 1/1971 | `normativa/legge-costituzionale/1971/1/` | 1 | 1972-01-20 | 69 |
+| Legge costituzionale 1/1972 | `normativa/legge-costituzionale/1972/1/` | 1 | 1972-03-22 | 10 |
+| Legge costituzionale 1/1986 | `normativa/legge-costituzionale/1986/1/` | 1 | 1986-05-27 | 3 |
+| Legge costituzionale 1/1989 | `normativa/legge-costituzionale/1989/1/` | 1 | 1989-01-18 | 16 |
+| Legge costituzionale 2/1989 | `normativa/legge-costituzionale/1989/2/` | 1 | 1989-04-07 | 5 |
+| Legge costituzionale 3/1989 | `normativa/legge-costituzionale/1989/3/` | 1 | 1989-04-14 | 9 |
+| Legge costituzionale 1/1991 | `normativa/legge-costituzionale/1991/1/` | 1 | 1991-11-23 | 3 |
+| Legge costituzionale 1/1992 | `normativa/legge-costituzionale/1992/1/` | 1 | 1992-03-24 | 3 |
+| Legge costituzionale 1/1993 | `normativa/legge-costituzionale/1993/1/` | 1 | 1993-08-11 | 9 |
+| Legge costituzionale 2/1993 | `normativa/legge-costituzionale/1993/2/` | 1 | 1993-10-10 | 8 |
+| Legge costituzionale 3/1993 | `normativa/legge-costituzionale/1993/3/` | 1 | 1993-11-14 | 3 |
+| Legge costituzionale 1/1997 | `normativa/legge-costituzionale/1997/1/` | 1 | 1997-01-29 | 10 |
+| Legge costituzionale 1/1999 | `normativa/legge-costituzionale/1999/1/` | 1 | 2000-01-06 | 7 |
+| Legge costituzionale 2/1999 | `normativa/legge-costituzionale/1999/2/` | 1 | 2000-01-07 | 4 |
+| Legge costituzionale 1/2000 | `normativa/legge-costituzionale/2000/1/` | 1 | 2000-02-04 | 3 |
+| Legge costituzionale 1/2001 | `normativa/legge-costituzionale/2001/1/` | 1 | 2001-02-08 | 5 |
+| Legge costituzionale 2/2001 | `normativa/legge-costituzionale/2001/2/` | 1 | 2001-02-16 | 9 |
+| Legge costituzionale 3/2001 | `normativa/legge-costituzionale/2001/3/` | 1 | 2001-11-08 | 13 |
+| Legge costituzionale 1/2002 | `normativa/legge-costituzionale/2002/1/` | 1 | 2002-11-10 | 3 |
+| Legge costituzionale 1/2003 | `normativa/legge-costituzionale/2003/1/` | 1 | 2003-06-27 | 3 |
+| Legge costituzionale 1/2007 | `normativa/legge-costituzionale/2007/1/` | 1 | 2007-10-25 | 3 |
+| Legge costituzionale 1/2012 | `normativa/legge-costituzionale/2012/1/` | 1 | 2012-05-08 | 8 |
+| Legge costituzionale 1/2013 | `normativa/legge-costituzionale/2013/1/` | 1 | 2013-03-03 | 4 |
+| Legge costituzionale 2/2013 | `normativa/legge-costituzionale/2013/2/` | 1 | 2013-03-05 | 4 |
+| Legge costituzionale 3/2013 | `normativa/legge-costituzionale/2013/3/` | 1 | 2013-03-15 | 3 |
+| Legge costituzionale 1/2016 | `normativa/legge-costituzionale/2016/1/` | 1 | 2016-08-23 | 14 |
+| Legge costituzionale 1/2017 | `normativa/legge-costituzionale/2017/1/` | 1 | 2017-12-15 | 13 |
+| Legge costituzionale 1/2020 | `normativa/legge-costituzionale/2020/1/` | 1 | 2020-11-05 | 6 |
+| Legge costituzionale 1/2021 | `normativa/legge-costituzionale/2021/1/` | 1 | 2021-11-04 | 3 |
+| Legge costituzionale 1/2022 | `normativa/legge-costituzionale/2022/1/` | 1 | 2022-03-09 | 5 |
+| Legge costituzionale 2/2022 | `normativa/legge-costituzionale/2022/2/` | 1 | 2022-11-30 | 3 |
+| Legge costituzionale 1/2023 | `normativa/legge-costituzionale/2023/1/` | 1 | 2023-10-22 | 3 |
+| Legge costituzionale 1/2026 | `normativa/legge-costituzionale/2026/1/` | 1 | 2026-02-24 | 12 |
+| Legge costituzionale 2/2026 | `normativa/legge-costituzionale/2026/2/` | 1 | 2026-06-23 | 3 |
+| Legge 300/1970 | `normativa/legge/1970/300/` | 35 | 1970-06-11 | 45 |
+| Legge 241/1990 | `normativa/legge/1990/241/` | 61 | 1990-09-02 | 55 |
 
 ## Commands, in order
 

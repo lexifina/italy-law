@@ -1,5 +1,0 @@
-Art. 13-octies.
-
-(( (Disposizioni urgenti in materia di Programma innovativo nazionale per la qualita' dell'abitare). ))
-
-((1. Fermo restando quanto previsto dal decreto del Ministro delle infrastrutture e della mobilita' sostenibili n. 383 del 7 ottobre 2021, nell'ambito del Programma innovativo nazionale per la qualita' dell'abitare, nel limite di 30 milioni di euro a valere sulle risorse di cui all'articolo 1, commi 437 e seguenti, della legge 27 dicembre 2019, n. 160, ciascuna delle province autonome di Trento e di Bolzano puo' presentare fino a due proposte per ciascuna provincia da valutare da parte dell'Alta Commissione secondo i criteri e le modalita' di cui al decreto del Ministro delle infrastrutture e dei trasporti 16 settembre 2020, pubblicato nella Gazzetta Ufficiale n. 285 del 16 novembre 2020. Il finanziamento e' effettuato, previa valutazione positiva da parte dell'Alta Commissione, nei limiti delle disponibilita' di competenza e cassa a legislazione vigente, eccedenti quelle gia' oggetto di assegnazione))

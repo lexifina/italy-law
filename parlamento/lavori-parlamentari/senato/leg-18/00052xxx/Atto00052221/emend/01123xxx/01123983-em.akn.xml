@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1476/A/15.0.22"/>
+					<an:FRBRdate date="2019-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="15.0.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@"/>
+					<an:FRBRdate date="2019-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@.akn"/>
+					<an:FRBRdate date="2019-10-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-10-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-10-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1476/A/15.0.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1476" showAs="DDL 1476"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZJCPNKZO1QKCPNFPUIUS50TOQEVVROFFZB4OPVGRQCSCVUOGKFGI" href="http://dati.senato.it/32744" showAs="CARBONE"/>
+				<an:TLCPerson id="IDVK1GEUIFPC1YBNAPIJVYTF4ZYNG5NSZGLX45RFJHAL5GAFXYLAR" href="http://dati.senato.it/26539" showAs="GALLONE"/>
+				<an:TLCPerson id="IDGQRBC2MZSZJRHZ3IPQ0PGNF3JAGI2WSLNPHVZNNIPOU2T1LMXWP" href="http://dati.senato.it/32723" showAs="TOFFANIN"/>
+				<an:TLCPerson id="IDPU3F4KYJKUEIBEN0R4WFHRQ4SBONJNKD2L0ZI4MM3XSQ2UKX2SDI" href="http://dati.senato.it/27874" showAs="DE SIANO"/>
+				<an:TLCPerson id="IDUTB1JMOQRCW0HVQB5M5GX0AJQC55MFTT0OIWEQJ4HVMEQ5WMBXRK" href="http://dati.senato.it/4373" showAs="CESARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1476</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 15.0.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZJCPNKZO1QKCPNFPUIUS50TOQEVVROFFZB4OPVGRQCSCVUOGKFGI" as="#tipoSenatore">CARBONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVK1GEUIFPC1YBNAPIJVYTF4ZYNG5NSZGLX45RFJHAL5GAFXYLAR" as="#tipoSenatore">GALLONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGQRBC2MZSZJRHZ3IPQ0PGNF3JAGI2WSLNPHVZNNIPOU2T1LMXWP" as="#tipoSenatore">TOFFANIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPU3F4KYJKUEIBEN0R4WFHRQ4SBONJNKD2L0ZI4MM3XSQ2UKX2SDI" as="#tipoSenatore">DE SIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUTB1JMOQRCW0HVQB5M5GX0AJQC55MFTT0OIWEQJ4HVMEQ5WMBXRK" as="#tipoSenatore">CESARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente</an:i>
+					:
+				</an:p>
+				<an:p align="center">
+					«Art. 15-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p>        1. All'articolo 485 del decreto legislativo n. 297 del 1994, dopo il comma 7, è inserito il seguente:</an:p>
+				<an:p>
+					        ''
+					<an:i>7-bis</an:i>
+					. Al personale docente contemplato nel presente articolo è riconosciuto, agli stessi fini e negli stessi limiti precedentemente indicati, il servizio prestato presso le istituzioni paritarie e parificate''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

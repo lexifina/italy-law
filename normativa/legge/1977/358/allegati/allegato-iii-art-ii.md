@@ -1,0 +1,5 @@
+Articolo II
+
+1. Il programma e' eseguito conformemente alle disposizioni della Convenzione e, salvo disposizione contraria del presente Allegato o del regolamento di esecuzione, alle norme e procedure in vigore presso l'Agenzia. Le decisioni del Consiglio sono adottate conformemente al presente Allegato e al regolamento di esecuzione. In mancanza di espresse disposizioni del presente Allegato o del regolamento di esecuzione, si applicano le regole di voto stabilite dalla Convenzione o dal regolamento interno del Consiglio dell'Agenzia.
+
+2. Le decisioni relative all'inizio di una nuova fase sono adottate a maggioranza dei due terzi di tutti gli Stati partecipanti, a condizione che tale maggioranza rappresenti almeno i due terzi dei contributi al programma. Se la decisione di iniziare una nuova fase non puo' essere adottata, gli Stati partecipanti che intendano comunque proseguire l'esecuzione del programma si consultano e stabiliscono le modalita' della prosecuzione. Essi ne informano il Consiglio che adotta, quando e' il caso, tutte le disposizioni necessarie.

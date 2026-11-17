@@ -1,0 +1,11 @@
+Allegato 1
+
+((PROVVEDIMENTO ABROGATO DALLA L. 20 MAGGIO 2022, N. 51))
+
+((1))
+
+--------------
+
+AGGIORNAMENTO (1)
+
+La L. 20 maggio 2022, n. 51, ha disposto (con l'art. 1, comma 2) che "Restano validi gli atti e i provvedimenti adottati e sono fatti salvi gli effetti prodottisi e i rapporti giuridici sorti sulla base del medesimo decreto-legge n. 38 del 2022".

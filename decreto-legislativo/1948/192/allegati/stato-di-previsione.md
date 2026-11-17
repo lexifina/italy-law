@@ -1,3 +1,0 @@
-Stato di previsione della spesa del Ministero del Commercio con l'estero per l'esercizio finanziario dal 1 luglio 1947 al 30 giugno 1948
-
-Parte di provvedimento in formato grafico

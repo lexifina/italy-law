@@ -1,5 +1,0 @@
-Allegato 3
-
-Modifiche alla Tabella A allegata alla legge 23 dicembre 2000, n. 389, cencernente le unita' previsionali di base del bilancio di previsione dello Stato per l'anno finanziario 2001 per le quali il Ministro dell'economia e delle finanze e' autorizzato ad effettuare variazioni tra loro compensative.
-
-Sotto "Ragioneria generale dello Stato" sostituire l'unita' previsionale di base 7.1.2.12 "Risorse proprie Unione europea" (cap. 3841 e 3842), con la seguente: 7.1.2.12 "Risorse proprie dell'Unione europea" (cap. 3841, 3842 e 3843).

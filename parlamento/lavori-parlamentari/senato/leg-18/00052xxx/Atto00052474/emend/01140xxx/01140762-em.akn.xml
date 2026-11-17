@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/98.9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/98.9"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/98.9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="98.9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/98.9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYIHKHTB3GJG0CBDGXBS0JJKHKKYPUDFUAWE1BLFJJMKLELY2SDDG" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="IDFLD0YD5KFZSTPXZKVR5LO5Y5KIWCZEMFNUGWFTFFKFVQLAELRSNG" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDDO1OHASOGTYSOEIWC4KGAOTAAFJNTA52RPYE5GLVYMBJ33OCX1LK" href="http://dati.senato.it/27476" showAs="FANTETTI"/>
+				<an:TLCPerson id="ID0FSU2NJ4B0D3K4CLM5OYVMVF4KXH2WPSLFBOUBQMGHLP4QAX0MF" href="http://dati.senato.it/31157" showAs="SACCONE"/>
+				<an:TLCPerson id="IDYZJYQ5GTXRKFPYH2ZINVJIKBQLR5DIQRXNFUS3MSOTQ0DTNFL1IB" href="http://dati.senato.it/17841" showAs="FERRO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 98.9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYIHKHTB3GJG0CBDGXBS0JJKHKKYPUDFUAWE1BLFJJMKLELY2SDDG" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFLD0YD5KFZSTPXZKVR5LO5Y5KIWCZEMFNUGWFTFFKFVQLAELRSNG" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDO1OHASOGTYSOEIWC4KGAOTAAFJNTA52RPYE5GLVYMBJ33OCX1LK" as="#tipoSenatore">FANTETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0FSU2NJ4B0D3K4CLM5OYVMVF4KXH2WPSLFBOUBQMGHLP4QAX0MF" as="#tipoSenatore">SACCONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYZJYQ5GTXRKFPYH2ZINVJIKBQLR5DIQRXNFUS3MSOTQ0DTNFL1IB" as="#tipoSenatore">FERRO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Aggiungere, in fine, il seguente comma:</an:i>
+				</an:p>
+				<an:p>        «2. All'articolo 1, comma 448, della legge 11 dicembre 2016, n. 232, è aggiunto in fine il seguente periodo: ''Resta ferma, a decorrere dall'anno 2020, l'integrazione derivante dal secondo periodo del comma 8 dell'articolo 47 del decreto-legge 24 aprile 2014, n. 66, convertito con legge 23 giugno 2014, n. 89''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

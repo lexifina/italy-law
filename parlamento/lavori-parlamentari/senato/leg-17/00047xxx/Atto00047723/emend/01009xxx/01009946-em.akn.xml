@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G19.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G19.102"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G19.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G19.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/G19.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUH3QTFDA0XJYIDH4QDXKSQWFMNYCQPVNVDGYZ5ND24CV0CGKN2UF" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDNAZYOXWBLAUNOCS2PNNK12BZEJHWF2HKRC4OYTOEBYES0YQKOLQ" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDR5S0E4LTJABSMQUG2BHTSLEHZF4X52F1O1WHCR3G1JJVERN2GPN" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDJ0GDR353WPX2N1LCZMI4SZIEVCPNE0LY5N3EY3FYNJHOAU4TNKPI" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G19.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUH3QTFDA0XJYIDH4QDXKSQWFMNYCQPVNVDGYZ5ND24CV0CGKN2UF" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNAZYOXWBLAUNOCS2PNNK12BZEJHWF2HKRC4OYTOEBYES0YQKOLQ" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR5S0E4LTJABSMQUG2BHTSLEHZF4X52F1O1WHCR3G1JJVERN2GPN" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ0GDR353WPX2N1LCZMI4SZIEVCPNE0LY5N3EY3FYNJHOAU4TNKPI" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>
+					            in sede di esame del disegno di legge di «Conversione in legge del decreto-legge 17 febbraio 2017, n. 13, recante disposizioni urgenti per l'accelerazione dei procedimenti in materia di protezione internazionale, nonché per il contrasto dell'immigrazione illegale» 
+					<an:i>(dd1270S);</an:i>
+				</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il comma 1 dell'articolo 19 del decreto-legge in esame prevede una nuova denominazione dei Centri di identificazione ed espulsione (CIE), in «Centri di permanenza per i rimpatri». Al comma 3 del medesimo articolo si prevede un ampliamento ed una distribuzione sull'intero territorio nazionale di tali centri. Le correlative iniziative sono assunte dal Ministro dell'interno d'intesa con quello dell'economia e finanza. La dislocazione di tali Centri è disposta sentito il Presidente della Regione interessata, puntando ad una ubicazione esterna ai centri urbani ed in strutture di proprietà pubblica idonee, anche mediante interventi di adeguamento o ristrutturazione,</an:p>
+				<an:p>        impegnano il Governo:</an:p>
+				<an:p>            a vigilare affinché le stazioni appaltanti garantiscano un adeguato livello di pubblicità e trasparenza delle procedure di aggiudicazione per gli appalti di lavori di adeguamento e ristrutturazione dei centri di permanenza per i rimpatri, nonché il controllo sull'imparzialità delle medesime procedure;</an:p>
+				<an:p>            ad assicurare un efficace attività di monito raggio e controllo sulla regolare esecuzione del contratto di appalto da parte dell'ente gestore del centro di permanenza per i rimpatri;</an:p>
+				<an:p>            a garantire la verifica della sussistenza dei requisiti dei soggetti affidatari della gestione dei centri, con particolare riferimento al possesso di garanzie di moralità professionale, e della qualità delle prestazioni erogate dai medesimi soggetti;</an:p>
+				<an:p>            a garantire, nella scelta del contraente per l'affidamento di lavori, forniture e servizi, la corretta applicazione della normativa in materia di prevenzione della corruzione di cui alla legge 190 del 2012, con particolare riferimento agli obblighi di pubblicazione previsti dalla predetta disciplina.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

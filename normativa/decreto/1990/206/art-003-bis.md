@@ -1,0 +1,57 @@
+Art. 3-bis.
+
+((
+
+1.
+
+Gli interventi in termini attualizzati sono determinati mediante l'attualizzazione della differenza delle rate di preammortamento e di ammortamento al tasso di riferimento vigente all'atto della concessione del beneficio e delle corrispondenti rate di preammortamento e di ammortamento al tasso agevolato. Quale tasso di attualizzazione e' utilizzato un tasso di tre punti inferiore al costo della provvista vigente, determinato sulla base delle procedure recate dal decreto del Ministro del tesoro del 21 dicembre 1994.
+
+2.
+
+L'intervento, di cui al precedente comma, non puo' eccedere il valore attualizzato del contributo in conto interesse sul finanziamento bancario necessario a realizzare il programma il cui costo e' stato ritenuto congruo dal Comitato ex art. 2 della legge n. 808/1985.
+
+3.
+
+Il decreto di cui all'art. 4, comma 9, della legge n. 808/1985 definisce l'importo dei costi ammissibili e la correlata misura massima del finanziamento bancario da prendere a base per il calcolo del contributo in conto interesse da determinare, quest'ultimo, secondo le procedure di cui ai commi 1 e 2 del presente articolo.
+
+4.
+
+Il finanziamento bancario della durata massima di cinque anni, e' interamente erogato all'atto della stipula del contratto di finanziamento e rimborsato in unica soluzione alla scadenza del quinto anno dall'erogazione del finanziamento stesso.
+
+5.
+
+Ai fini dell'erogazione del beneficio, di cui ai precedenti commi 1, 2 e 3, i soggetti beneficiari, entro il 30 giugno di ciascun anno, sono obbligati a presentare - con riferimento all'anno solare precedente - la seguente documentazione:
+
+a)
+
+documentazione giustificativa dei costi ricorrenti, relativi al programma oggetto dell'agevolazione, redatta sulla base dei prospetti a-1), a-2), a-3), a-4) e a-5) di cui al decreto ministeriale 18 giugno 1986. Detta documentazione necessita della sottoscrizione del legale rappresentante dell'impresa e del presidente del collegio sindacale o di un sindaco;
+
+b)
+
+rapporto tecnico recante informazioni sullo stato di avanzamento del programma e sull'andamento commerciale del programma stesso, sottoscritto dal legale rappresentante dell'impresa e dal presidente del collegio sindacale o da un sindaco. Tale rapporto e' corredato da una relazione predisposta da un esperto particolarmente qualificato, esterno alla struttura dell'impresa. Per le residue attivita' ancora da svolgere viene altresi' presentato un dettaglio previsionale annuale tecnico-economico, sottoscritto dal legale rappresentante dell'impresa.
+
+6.
+
+Il soggetto beneficiario e' obbligato, inoltre, alla presentazione della seguente documentazione:
+
+a)
+
+contratto di finanziamento stipulato con l'istituto o con gli istituti di credito;
+
+b)
+
+dichiarazione dell'istituto o degli istituti di credito attestante l'avvenuta erogazione del finanziamento, con l'indicazione dell'importo erogato e della relativa data.
+
+7.
+
+Qualora non rilevi l'incompletezza della documentazione presentata ai sensi dei commi 5 e 6 del presente articolo, il Ministro dell'industria, del commercio e dell'artigianato adotta i provvedimenti necessari all'erogazione dei benefici previsti ai precedenti commi 1, 2 e 3.
+
+8.
+
+I soggetti beneficiari sono tenuti a documentare, nella relazione degli amministratori al bilancio relativo all'esercizio successivo a quello in cui ha avuto luogo la concessione del beneficio, lo stato di attuazione del programma stesso, specificando le attivita' realizzate relativamente alla fase di produzione di serie, nonche' i costi sostenuti nell'esercizio per tali attivita' - limitatamente alle voci di spesa ritenute ammissibili - e lo stato delle vendite dei prodotti oggetto del programma.
+
+9.
+
+La relazione di cui al precedente comma, unitamente al bilancio di esercizio, e' obbligatoriamente presentata al Ministero dell'industria, del commercio e dell'artigianato - Direzione generale della produzione industriale, entro trenta giorni dall'approvazione del bilancio stesso.
+
+10. In caso di gravi inadempienze da parte dell'impresa, il Ministero dell'industria, del commercio e dell'artigianato propone al comitato ex art. 2 della legge n. 808/1985 la revoca del beneficio cumulata all'applicazione di penali in misura proporzionata alla gravita' dell'inadempienza e comunque non superiore al 20% dei benefici erogati ))

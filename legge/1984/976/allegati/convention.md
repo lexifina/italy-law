@@ -1,3 +1,0 @@
-Convention relative aux transports internationaux ferroviaires (COTIF)
-
-Parte di provvedimento in formato grafico

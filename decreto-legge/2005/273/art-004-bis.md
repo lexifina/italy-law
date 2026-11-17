@@ -1,3 +1,0 @@
-Art. 4-bis.
-
-((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

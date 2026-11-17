@@ -1,5 +1,0 @@
-TABELLA F
-
-CANONI MENSILI DI MANUTENZIONE PER GLI IMPIANTI INTERNI
-
-Parte di provvedimento in formato grafico

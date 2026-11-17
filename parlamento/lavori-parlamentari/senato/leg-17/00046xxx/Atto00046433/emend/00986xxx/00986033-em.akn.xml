@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2217/A/G8.247/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2217/A/G8.247"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2217/A/G8.247/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.247"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@.akn"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2217/A/G8.247/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2217" showAs="DDL 2217"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2TZTIGJXT3BVB330AOJM10MZ1DMIRZMMFQSYC4KYP4VTUHQWAA5F" href="http://dati.senato.it/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDJ5YYAJYCWT2SNSHDNGAWO0ZHHPK51DWKVNRJJAM4WACEKPFOHSEM" href="http://dati.senato.it/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="IDZGGT5E3COYVZBHMKVFJ5QENS4L115FHP4PVNZR5JSO31SS0HDVD" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDQINIQTFIPFBDN4IXL0QGNREOICCSJ5YNQZIEIFQGVZHAQRO205J" href="http://dati.senato.it/29154" showAs="PAGLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2217</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.247</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2TZTIGJXT3BVB330AOJM10MZ1DMIRZMMFQSYC4KYP4VTUHQWAA5F" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ5YYAJYCWT2SNSHDNGAWO0ZHHPK51DWKVNRJJAM4WACEKPFOHSEM" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZGGT5E3COYVZBHMKVFJ5QENS4L115FHP4PVNZR5JSO31SS0HDVD" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQINIQTFIPFBDN4IXL0QGNREOICCSJ5YNQZIEIFQGVZHAQRO205J" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge n. 2217-A, recante «Disposizioni in materia di contrasto ai fenomeni del lavoro nero e dello sfruttamento del lavoro in agricoltura»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 8 del disegno di legge in esame reca modifiche al decreto-legge 24 giugno 2014, n. 91, convertito, con modificazioni, dalla legge 11 agosto 2014, n. 116, in materia di Rete del lavoro agricolo di qualità;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            appare necessario promuovere attività informative e campagne di sensibilizzazione per favorire la piena operatività della Rete del lavoro agricolo di qualità;</an:p>
+				<an:p>
+					            occorre, inoltre, attuare una campagna di messaggi di utilità sociale e di pubblico interesse volta a sensibilizzare i cittadini sulla necessità di sostenere i prodotti delle aziende che partecipano alla Rete del lavoro agricolo di qualità anche attraverso l'uso dei 
+					<an:i>social network</an:i>
+					,
+				</an:p>
+				<an:p>        impegna il Governo a valutare l'opportunità di porre in essere idonee campagne di comunicazione istituzionale al fine di promuovere una corretta informazione per contrastare il fenomeno del lavoro sommerso e irregolare e valorizzare il lavoro agricolo di qualità.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/6.211/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/6.211"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2233/A/6.211/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.211"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@.akn"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2233/A/6.211/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2233" showAs="DDL 2233"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHDK4B35BJ440DY4KOVAWTGCVBN0ZQ5VIVTLL4FBCTAYX0BZRHKGJ" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDA1UNBCIUGDMSPRKINPTONNU5EJFH4T2AWVZOUFETNJGY3I0Z30SH" href="http://dati.senato.it/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="ID3BHAB42VGS1VK51K5JZWUBGIRBRXKKOCW5GW1RM4D4B0IIM1B1EN" href="http://dati.senato.it/29154" showAs="PAGLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2233</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.211 (TESTO CORRETTO)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHDK4B35BJ440DY4KOVAWTGCVBN0ZQ5VIVTLL4FBCTAYX0BZRHKGJ" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1UNBCIUGDMSPRKINPTONNU5EJFH4T2AWVZOUFETNJGY3I0Z30SH" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3BHAB42VGS1VK51K5JZWUBGIRBRXKKOCW5GW1RM4D4B0IIM1B1EN" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire il comma 1, con il seguente:</an:p>
+				<an:p>        «1. Al fine di rafforzare e razionalizzare le prestazioni di sicurezza e di protezione sociale dei professionisti iscritti agli ordini, il Governo è delegato ad adottare, entro dodici mesi dall'entrata in vigore della presente legge, su proposta del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze, uno o più decreti legislativi, nel rispetto dei seguenti princìpi e criteri direttivi:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 abilitazione degli enti di previdenza di diritto privato, anche in forma associata, ove autorizzati dagli organi di vigilanza, ad attivare, oltre a prestazioni complementari di tipo previdenziale e socio-sanitario, anche altre prestazioni sociali, finanziate da apposita contribuzione, con particolare riferimento agli iscritti che hanno subìto una significativa riduzione del reddito professionale per ragioni non dipendenti dalla propria volontà o che siano stati colpiti da gravi patologie;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 previsione della facoltatività del versamento della contribuzione obbligatoria nei primi cinque anni di attività professionale per i nuovi iscritti che abbiano un età inferiore a trentacinque anni, ovvero a quarantatre anni se con almeno tre componenti il nucleo familiare, e con un valore ISEE non superiore ad euro 20.000».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

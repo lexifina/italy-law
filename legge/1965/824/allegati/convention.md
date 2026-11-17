@@ -1,5 +1,0 @@
-Convention entre la France et l'Italie relative aux bureaux a
-
-controles nationaux juxtaposes et aux controles en cours de route.
-
-Parte di provvedimento in formato grafico

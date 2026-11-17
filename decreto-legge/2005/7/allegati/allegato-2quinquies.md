@@ -1,1 +1,0 @@
-Allegato 2-quinquies (articolo 1, comma 300) ((Parte di provvedimento in formato grafico))

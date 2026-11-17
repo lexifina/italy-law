@@ -1,7 +1,0 @@
-Treaty
-
-between the Republic of Italy and the Republic of Kazakhstan
-
-on mutual legal assistance in criminal matters
-
-Parte di provvedimento in formato grafico

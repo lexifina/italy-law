@@ -1,3 +1,0 @@
-Articolo VIII
-
-I diritti ad un risarcimento che sono previsti dalla presente Convenzione si estinguono in mancanza di un'azione giudiziaria che sia intentata in applicazione delle disposizioni in essa contenute nel termine di tre anni a partire dalla data in cui si e' verificato il danno. Tuttavia, nessuna azione puo' essere intentata dopo un termine di sei anni, a partire dalla data in cui si e' verificato l'incidente che ha causato il danno. Quando tale incidente si sia verificato in tempi diversi, il termine di sei anni decorrera' dalla data in cui l'incidente si e' prodotto per la prima volta.

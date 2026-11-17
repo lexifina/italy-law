@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/22.57/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/22.57"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/22.57/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.57"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/22.57/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEDMOFOSRQQY4ILOSZUCDZWKZOFS2G13FQZO1WYHDWYA2QJYRLJ0K" href="http://dati.senato.it/32591" showAs="Simone BOSSI"/>
+				<an:TLCPerson id="IDQCMZRS3MKIADLCLUFZES4DTBE4FBTPJZNR02NTJ24H42RL53SP" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDB3U1MXFWJEUJL2SST4DHCAUFZOI4NSMI50TEBUDOI3SJENBTGULL" href="http://dati.senato.it/32694" showAs="Pietro PISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.57</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEDMOFOSRQQY4ILOSZUCDZWKZOFS2G13FQZO1WYHDWYA2QJYRLJ0K" as="#tipoSenatore">Simone BOSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQCMZRS3MKIADLCLUFZES4DTBE4FBTPJZNR02NTJ24H42RL53SP" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB3U1MXFWJEUJL2SST4DHCAUFZOI4NSMI50TEBUDOI3SJENBTGULL" as="#tipoSenatore">Pietro PISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 17 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «17-
+					<an:i>bis</an:i>
+					. Nello stato di previsione del Ministero dell'economia e delle finanze è istituito un Fondo in via sperimentale con una dotazione di 10 milioni di euro annui per il triennio 2020-2022, preordinato alla riduzione del 30 per cento del prezzo di vendita delle cassette biodegradabili e compostabili utilizzate dagli imprenditori ittici per il pescato. Ai venditori delle cassette biodegradabili e compostabili è attribuito un credito d'imposta nella misura pari al minor introito corrispondente al volume di vendite effettuate, da portare in compensazione nel modello F24. Con decreto del Ministro dell'economia e delle finanze, da adottare entro novanta giorni dalla data di entrata in vigore della presente legge, sono definite le modalità attuative per il riconoscimento e la fruizione dell'agevolazione fiscale di cui al presente comma. Il credito d'imposta è concesso nei limiti della dotazione annua del fondo. Eventuali somme non impegnate nell'anno di riferimento sono impegnate nell'anno successivo».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'onere derivante dall'attuazione del presente comma, pari a 10 milioni di euro per ciascuno degli anni 2020, 2021 e 2022, si provvede mediante corrispondente riduzione della proiezione dello stanziamento, ai fini del bilancio triennale 2020-2022, degli stati di previsione di parte corrente della Tabella A allegata, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero dell'economia e delle finanze medesimo.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

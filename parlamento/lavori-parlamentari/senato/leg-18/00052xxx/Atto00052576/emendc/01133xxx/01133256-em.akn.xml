@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3"/>
+					<an:FRBRdate date="2019-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9-bis.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@"/>
+					<an:FRBRdate date="2019-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@.akn"/>
+					<an:FRBRdate date="2019-12-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1631/C/9-bis.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1631" showAs="Ddl 1631"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0EBB" href="http://dati.senato.it/32682" showAs="Giuliano Pazzaglini"/>
+				<an:TLCPerson id="ID0ELB" href="http://dati.senato.it/29039" showAs="Paolo Arrigoni"/>
+				<an:TLCPerson id="ID0EVB" href="http://dati.senato.it/32593" showAs="Luca Briziarelli"/>
+				<an:TLCPerson id="ID0E6B" href="http://dati.senato.it/32743" showAs="Francesco Bruzzone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1631</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9-bis.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EBB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pazzaglini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ELB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Arrigoni</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EVB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Briziarelli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E6B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Bruzzone</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p align="center">
+					«Art. 9-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				
+
+				<an:p align="center">
+					<an:i>(Assunzione di personale presso gli Uffici Territoriali del Governo)</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        1. Il Ministero dell'Interno è autorizzato ad assumere, con contratti di lavoro a tempo determinato, di durata annuale, per gli anni 2020 e 2021, n. 50 unità di personale contrattualizzato non dirigenziale, con professionalità di tipo tecnico o amministrativo-contabile, appartenente all'area III, fascia F/1 e all'area seconda, fascia F/2, da destinare alle prefetture-uffici territoriali del Governo coinvolte negli interventi per la riparazione, la ricostruzione l'assistenza alla popolazione e la ripresa economica nei territori delle Regioni Abruzzo, Lazio, Marche, ed Umbria interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016, nei Comuni di cui agli allegati n.1, 2 e 2-
+					<an:i>bis</an:i>
+					 al decreto-legge 17 ottobre 2016, n. 189, convertito con modificazioni dalla legge 15 dicembre 2016, n.229 e successive modificazioni e integrazioni.
+				</an:p>
+				
+
+				<an:p>        2. Il Ministero dell'Interno determina con proprio provvedimento i profili professionali e il numero delle unità di personale, nel limite massimo di 50 unità, da assegnare a ciascuna prefettura-ufficio territoriale del Governo per le esigenze di cui al precedente comma.</an:p>
+				
+
+				<an:p>        3. Le assunzioni sono effettuate con ricorso alle graduatorie vigenti per concorsi pubblici a tempo indeterminato, indetti dalle Amministrazioni pubbliche.</an:p>
+				
+
+				<an:p>        4. Agli oneri conseguenti alle iniziative assunzionali di cui ai precedenti commi, pari a 2.000.704,5 euro annui per ciascuno degli anni 2020 e 2021, si provvede mediante corrispondente riduzione della proiezione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando, quando a 704,5 euro per l'anno 2020, l'accantonamento relativo al Ministero medesimo e, quando a 2.000.000 euro per l'anno 2020 e 2.000.704,5 euro per l'anno 2021, l'accantonamento relativo al Ministero dell'interno.</an:p>
+				
+
+				<an:p>        5. Il Ministero dell'Economia e delle Finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

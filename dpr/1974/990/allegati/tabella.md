@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI ROMA VIA LOMBROSO
-
-Parte di provvedimento in formato grafico

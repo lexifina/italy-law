@@ -1,0 +1,59 @@
+Scambio di Note fra l'Italia e il Belgio per la semplificazione dei documenti di identita' del personale navigante delle Compagnie aeree italiani e belghe.
+
+Parte di provvedimento in formato grafico
+
+N. 0315/19.
+
+Roma, li 1 gennaio 1949
+
+Signor Ambasciatore,
+
+Con lettera n. 4935 in data 1 gennaio 1949, V. E. si e' compiaciuta comunicarmi quanto segue:
+
+"J'ai l'honneur de porter a' la connaissance de Votre Excellence que le Gouvernement belge propose de conclure avec le Gouvernement italien un arrangement pour la semplification du regime des documents d'identite' du personnel de conduite des compagnies de navigation aerienne belges et italiennes navigant respectivement en Italie et en Belgique, au Congo Belge et au Ruanda-Urundi. Cet arrangement serait ainsi concu:
+
+1. A partir de la date de la presente lettre, tous les
+
+ressortissants italiens arrivant par la voie de l'air comme membres du personnel de conduite d'un avion qui est propriete' d'une entreprise de navigation aerienne italienne exploitant des lignes regulieres pourront entrer sans visa en Belgique, au Congo Belge et au Ruanda-Urundi en presentant, a' la place de leur passeport national les brevets d'aptitude et les licences dont ils sont porteurs.
+
+2. A partir de la date de la presente lettre, tons les
+
+ressortissants belges arrivant par la voie de l'air comme membres du personnel de conduite d'un avion qui est propriete' d'une entreprise de navigation aerienne belge exploitant des lignes regulieres pourront entrer sans visa en Italie en presentant a' la place de leur passeport national les brevets d'aptitude et les licences dont ils sont porteurs.
+
+3. Le present arrangement ne s'applique quaux membres du
+
+personnel de conduite d'un avion qui est propriete' d'une entreprise de navigation aerienne belge ou italienne, exploitant des lignes regulieres et enregistre' dans l'un des territoires enumeres sous chiffres 1 et 2 ci-dessus, faisant escale commerciale ou non commerciale, reguliere ou non reguliere, dans l'un des territoires susvises. Il ne dispense pas les porteurs de brevets d'aptitude et de licences desirant se rendre dans l'un de ces territoires pour un autre motif que celui indique' ci-dessus
+
+d'observer les prescriptions en vigueur sur l'entree dans ces pays.
+
+4. Le present arrangement ne s'applique pas aux personnes dont
+
+l'entree dans l'un des pays sus-mentionnes a ete' interdite par decision prise en vertu des prescriptions en vigueur sur l'entree et le sejour des etrangers.
+
+5. Les documents dont il est question sous chiffres 1 et 2 seront
+
+dispenses du sceau a' l'arrivee et au depart.
+
+L'arrangement entrera en vigueur a' la date de la presente lettre
+
+et de la reponse de Votre Excellence. Il restera en vigueur six mois apres la notification de la denonciation.
+
+La presente lettre et celle de Votre Excellence, de la meme date et d'une teneur semblable seront considerees, comme constituant l'arrangement intervenu.
+
+Je sais cette occasion, Monsieur le Ministre, pour presenter a' Votre Excellence les assurances de ma tres haute consideration".
+
+Ho l'onore di portare a conoscenza dell'E. V. che il Governo italiano e' d'accordo su quanto precede.
+
+Voglia gradire, signor Ambasciatore, l'espressione della mia piu' alta considerazione.
+
+SFORZA
+
+A S.E. il Signor Andre MOTTE
+
+Ambasciata del Belgio - ROME
+
+Visto, d'ordine del Presidente della Repubblica
+
+Il Ministro per gli affari esteri
+
+SFORZA

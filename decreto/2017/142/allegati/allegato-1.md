@@ -1,7 +1,0 @@
-ALLEGATO 1
-
-(Articolo 3)
-
-MODULO DI ADESIONE ALLA FILIERA
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/19/A/G7.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/19/A/G7.105"/>
+					<an:FRBRdate date="2015-04-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/19/A/G7.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@"/>
+					<an:FRBRdate date="2015-04-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@.akn"/>
+					<an:FRBRdate date="2015-04-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-04-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-04-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/19/A/G7.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Congiunzione/17/19" showAs="Congiunzione 19"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29142" showAs="Moronese"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29061" showAs="Cappelletti"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29106" showAs="Giarrusso"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29055" showAs="Buccarella"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29046" showAs="Bertorotta"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29177" showAs="Scibona"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/29090" showAs="Donno"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Congiunzione 19</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Moronese</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Cappelletti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Giarrusso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Buccarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Bertorotta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Scibona</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Donno</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame dell'A.S.19-A e connessi (Norme in materia di corruzione);</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la legge 6 novembre 2012, n. 190, recante disposizioni per la prevenzione e la repressione della corruzione e dell'illegalità nella pubblica amministrazione ed in particolare l'articolo 1, commi 49 e 50, ha delegato il Governo all'emanazione di decreti legislativi volti a disciplinare l'attribuzione di incarichi dirigenziali e di incarichi di responsabilità amministrativa di vertice nelle pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni;</an:p>
+				<an:p align="justify">            opportunamente, l'articolo 3 del decreto legislativo 8 aprile 2013, n. 39, dispone l'inconferibilità di incarichi amministrativi in caso di condanna per reati contro la pubblica amministrazione. In particolare, ai soggetti condannati, anche con sentenza non definitiva, per uno dei reati previsti dal capo I del titolo II del libro secondo del codice penale, non possono essere attribuiti:</an:p>
+				<an:p align="justify">
+					                
+					<an:i>a)</an:i>
+					 gli incarichi amministrativi di vertice nelle amministrazioni statali, regionali e locali;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>b)</an:i>
+					 gli incarichi di amministratore di ente pubblico, di livello nazionale, regionale e locale;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>c)</an:i>
+					 gli incarichi dirigenziali, interni e esterni, comunque denominati, nelle pubbliche amministrazioni, negli enti pubblici e negli enti di diritto privato in controllo pubblico di livello nazionale, regionale e locale;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>d)</an:i>
+					 gli incarichi di amministratore di ente di diritto privato in controllo pubblico, di livello nazionale, regionale e locale;
+				</an:p>
+				<an:p align="justify">
+					                
+					<an:i>e)</an:i>
+					 gli incarichi di direttore generale, direttore sanitario e direttore amministrativo nelle aziende sanitarie locali del servizio sanitario nazionale;
+				</an:p>
+				<an:p align="justify">
+					            tra le cause ostative all'assunzione di incarichi amministrativi non è contemplato il c.d. danno erariale, consistente nel danneggiamento o nella perdita di beni o denaro prodotto alla propria o ad altra amministrazione o nel mancato conseguimento di incrementi patrimoniali così come disposto dall'articolo 1223 c.c. Peraltro, il danno di cui dà notizia la Corte dei Conti non si configura soltanto a fronte di una condotta 
+					<an:i>contra ius</an:i>
+					, ma può riscontrarsi anche dinanzi ad una condotta che, pur prevista da specifiche regole, si palesi inopportuna in riferimento a norme o principi giuridici generali di grado maggiore, o non conforme all'ottenimento di esiti utili, e causa di dispendio o di perdita di pubbliche risorse;
+				</an:p>
+				<an:p align="justify">        preso atto che:</an:p>
+				<an:p align="justify">            risultano in essere incarichi di carattere amministrativo tra la pubblica amministrazione e soggetti condannati dalla Corte dei conti, anche con sentenza non definitiva, per danno erariale;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a voler provvedere alla revoca immediata di ogni incarico affidato dalla pubblica amministrazione, da enti pubblici, da enti di diritto privato in controllo pubblico, a soggetti condannati - anche con sentenza non definitiva - per illeciti amministrativi, con particolare riferimento al danno erariale;</an:p>
+				<an:p align="justify">            a voler provvedere, attraverso gli opportuni interventi di carattere normativo, all'incremento delle situazioni giuridiche di inconferibilità degli incarichi amministrativi, anche per soggetti condannati con sentenza non definitiva, per illeciti amministrativi, con specifico riguardo al danno erariale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/676/A/G4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/676/A/G4"/>
+					<an:FRBRdate date="2006-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/676/A/G4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/676/A/G4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/676/A/G4/ita@"/>
+					<an:FRBRdate date="2006-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/676/A/G4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/676/A/G4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/676/A/G4/ita@.akn"/>
+					<an:FRBRdate date="2006-02-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/676/A/G4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-02-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-02-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/676/A/G4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/676" showAs="DDL 676"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/3951" showAs="Murineddu"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/3846" showAs="Piatti"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/17659" showAs="Vicini"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 676</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4 (Testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Murineddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Piatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Vicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> Premesso:</an:p>
+				<an:p align="justify">che il comprensorio marino dell'Arcipelago toscano, di competenza del compartimento di Portoferraio, racchiude risorse ambientali di particolare valore, con riferimento alla ricchezza ed alla vulnerabilità dei fondali ed alla presenza di ampie praterie di posidonia;</an:p>
+				<an:p align="justify"> che la ricchezza e la varietà delle risorse marine, pur costituendo uno dei presupposti per lo sviluppo turistico dell'area, non risulta ancora interessata da adeguate misure gestionali, in grado di stabilire sinergie programmatiche con il parco nazionale istituto ai sensi della legge n. 394 del 1991;</an:p>
+				<an:p align="justify">che l'attuale perimetrazione a mare del Parco nazionale è oggetto esclusivamente di misure provvisorie di salvaguardia disposte nelle more dell'istituzione di un'area marina protetta;</an:p>
+				<an:p align="justify">che l'esercizio della pesca tradizionale costiera, da sempre praticata dagli operatori dell'arcipelago, risulta compatibile con la conservazione delle qualità biologiche del mare e può consentire il raggiungimento di un equilibrio fra le esigenze di conservazione e di prelievo ittico sostenibile;</an:p>
+				<an:p align="justify">che al contrario la pesca a strascico, praticata anche in forme illegali, danneggia in modo irreversibile i fondali a ridosso della costa e compromette le possibilità di sopravvivenza per i pescatori dell'arcipelago;</an:p>
+				<an:p align="justify"> considerato:</an:p>
+				<an:p align="justify">che nonostante l'esplicita richiesta formulata all'unanimità dalla Commissione consultiva locale, l'arcipelago toscano è stato escluso dall'interruzione tecnica dell'attività di pesca a strascico per l'anno 2001, disciplinata con decreto del Ministro delle politiche agricole e forestali del 30 luglio 2001;</an:p>
+				<an:p align="justify"> che la grave situazione venutasi a determinare per le risorse biologiche e le attività tradizionali di pesca richiede un intervento permanente che garantisca la ricostituzione e la tutela dell'equilibrio nel delicato ecosistema marino dell'arcipelago,</an:p>
+				<an:p align="justify"> impegna il Governo:</an:p>
+				<an:p align="justify">
+					a disporre 
+					<an:b>nell'ambito di una programmazione complessiva</an:b>
+					 l'adozione di un provvedimento che istituisca un regime di adeguata salvaguardia permanente per il comprensorio marino dell'arcipelago toscano mediante istituzione di un'area marina protetta, in grado di assicurare la tutela delle risorse biologiche, l'esercizio compatibile della pesca e la sinergia con le politiche gestionali del Parco nazionale già esistente, coinvolgendo nell'iter istitutivo le comunità locali e le associazioni rappresentative della pesca, anche avvalendosi delle disposizioni di cui all'articolo 4 del decreto legislativo 18 maggio 2001 n. 226.
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione con l'aggiunta delle parole evidenziate.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

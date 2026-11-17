@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/32.49/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/32.49"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/32.49/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="32.49"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/32.49/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA1JXQ" href="http://dati.senato.it/senatore/29134" showAs="MATURANI"/>
+				<an:TLCPerson id="IDAZLXQ" href="http://dati.senato.it/senatore/29088" showAs="DIRINDIN"/>
+				<an:TLCPerson id="IDAKJXQ" href="http://dati.senato.it/senatore/22917" showAs="DE BIASI"/>
+				<an:TLCPerson id="IDAHIXQ" href="http://dati.senato.it/senatore/29047" showAs="BIANCO"/>
+				<an:TLCPerson id="IDAPJXQ" href="http://dati.senato.it/senatore/29080" showAs="DALLA ZUANNA"/>
+				<an:TLCPerson id="IDA4IXQ" href="http://dati.senato.it/senatore/25229" showAs="GRANAIOLA"/>
+				<an:TLCPerson id="IDAZKXQ" href="http://dati.senato.it/senatore/25466" showAs="MATTESINI"/>
+				<an:TLCPerson id="IDAQKXQ" href="http://dati.senato.it/senatore/29151" showAs="PADUA"/>
+				<an:TLCPerson id="IDAVMXQ" href="http://dati.senato.it/senatore/29180" showAs="SILVESTRO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 32.49</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1JXQ" as="#tipoSenatore">MATURANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZLXQ" as="#tipoSenatore">DIRINDIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKJXQ" as="#tipoSenatore">DE BIASI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHIXQ" as="#tipoSenatore">BIANCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPJXQ" as="#tipoSenatore">DALLA ZUANNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4IXQ" as="#tipoSenatore">GRANAIOLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZKXQ" as="#tipoSenatore">MATTESINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQKXQ" as="#tipoSenatore">PADUA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVMXQ" as="#tipoSenatore">SILVESTRO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 14, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «14-&gt;
+					<an:i>bis.</an:i>
+					 Il Ministro della salute, con decreto da adottare entro due mesi dalla data di entrata in vigore della presente legge, sentiti l'Istituto superiore di sanità e la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, provvede, anche in via sperimentale, a istituire, nel limite di 3 milioni di euro per ciascuno degli anni 2016, 2017 e 2018, un servizio idoneo a partire dall'organizzazione dei consultori e attraverso modelli di integrazione multiprofessionali e multidisciplinari degli operatori coinvolti, in riferimento alla valutazione del rischio e della successiva presa in carico della donna con depressione 
+					<an:i>postpartum.</an:i>
+					 Conseguentemente il livello del finanziamento del Servizio sanitario nazionale cui concorre ordinariamente lo Stato è incrementato di 3 milioni di euro per ciascuno degli anni 2016, 2017 e 2018.»
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla</an:i>
+					 Tabella A
+					<an:i>, voce</an:i>
+					 Ministero dell'economia e delle finanze
+					<an:i>, apportare le seguenti variazioni in diminuzione:</an:i>
+				</an:p>
+				<an:p>        2016:  -  3.000.000;</an:p>
+				<an:p>        2017:  -  3.000.000;</an:p>
+				<an:p>        2018:  -  3.000.000.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

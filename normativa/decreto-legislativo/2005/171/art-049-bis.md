@@ -1,0 +1,43 @@
+Art. 49-bis.
+
+(Noleggio occasionale).
+
+1.
+
+Al fine di incentivare la nautica da diporto e il turismo nautico, il proprietario persona fisica o societa' non avente come oggetto sociale il noleggio o la locazione, ovvero l'utilizzatore a titolo di locazione finanziaria, di imbarcazioni e navi da diporto di cui all'articolo 3, comma 1, iscritte nei registri nazionali, puo' effettuare, in forma occasionale, attivita' di noleggio della predetta unita'. Tale forma di noleggio non costituisce uso commerciale dell'unita'.
+
+1-bis.
+
+((Le unita' di cui al comma 1 espongono in maniera ben visibile, su ciascuna murata, un contrassegno riportante la scritta "noleggio occasionale" di dimensioni minime di 100 centimetri di lunghezza e 20 centimetri di altezza)).
+
+2.
+
+Il comando e la condotta dell'imbarcazione da diporto possono essere assunti dal titolare, dall'utilizzatore a titolo di locazione finanziaria dell'imbarcazione ovvero attraverso l'utilizzazione di altro personale, con il solo requisito del possesso da almeno tre anni della patente nautica di cui all'articolo 39 del presente codice, in deroga alle disposizioni recanti l'istituzione e la disciplina dei titoli professionali del diporto. Nel caso di navi da diporto, in luogo della patente nautica, il conduttore deve essere munito di titolo professionale del diporto. Qualora sia utilizzato personale diverso, le relative prestazioni di lavoro si intendono comprese tra le prestazioni occasionali di tipo accessorio di cui all'articolo 70, comma 1, del decreto legislativo 10 settembre 2003, n. 276, e ad esse si applicano le disposizioni di cui all'articolo 72 del citato decreto legislativo n. 276 del 2003.(16)
+
+3.
+
+Ferme restando le previsioni di cui al presente titolo, l'effettuazione del noleggio e' subordinata esclusivamente alla previa comunicazione, da effettuare mediante modalita' telematiche e comunque finalizzate alla semplificazione degli adempimenti, all'Agenzia delle entrate e alla Capitaneria di porto territorialmente competente, nonche' all'Inps ed all'Inail, nel caso di impiego di personale ai sensi dell'ultimo periodo del comma 2.
+
+L'effettuazione del servizio di noleggio in assenza della comunicazione alla Capitaneria di porto ((o del contrassegno previsto al comma 1-bis)) comporta l'applicazione della sanzione di cui all'articolo 55, comma 1, del presente codice, mentre la mancata comunicazione all'Inps o all'Inail comporta l'applicazione delle sanzioni di cui all'articolo 3, comma 3, del decreto-legge 22 febbraio 2002, n. 12, convertito, con modificazioni, dalla legge 23 aprile 2002, n. 73.
+
+3-bis.
+
+Il contratto di noleggio deve essere tenuto a bordo in originale o copia conforme.
+
+4.
+
+Con decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze ed il Ministro del lavoro e delle politiche sociali sono definite le modalita' di attuazione delle disposizioni di cui al comma 3.
+
+5.
+
+I proventi derivanti dall'attivita' di noleggio di cui al comma 1 , di durata complessiva non superiore a quarantadue giorni sono assoggettati, a richiesta del percipiente, a un'imposta sostitutiva delle imposte sui redditi e delle relative addizionali, nella misura del 20 per cento, con esclusione della detraibilita' o deducibilita' dei costi e delle spese sostenute relative all'attivita' di noleggio.
+
+L'imposta sostitutiva e' versata entro il termine stabilito per il versamento a saldo dell'imposta sul reddito delle persone fisiche.
+
+L'acconto relativo all'imposta sul reddito delle persone fisiche e' calcolato senza tenere conto delle disposizioni di cui al presente comma. Per la liquidazione, l'accertamento, la riscossione e il contenzioso riguardanti l'imposta sostitutiva di cui al presente comma si applicano le disposizioni previste per le imposte sui redditi. Con provvedimento del direttore dell'Agenzia delle entrate sono stabilite modalita' semplificate di documentazione e di dichiarazione dei predetti proventi, le modalita' di versamento dell'imposta sostitutiva, nonche' ogni altra disposizione utile ai fini dell'attuazione del presente comma. La mancata comunicazione all'Agenzia delle entrate prevista dal comma 3, primo periodo, preclude la possibilita' di fruire del regime tributario sostitutivo di cui al presente comma, ovvero comporta la decadenza dal medesimo regime.
+
+--------------
+
+AGGIORNAMENTO (16)
+
+Il D.Lgs. 12 novembre 2020, n. 160 ha disposto (con l'art. 33, comma 7) che le presenti modifiche hanno effetto a decorrere dal 1° gennaio 2022.

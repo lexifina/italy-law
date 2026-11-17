@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 7 della legge 21 marzo 1958, n. 253, concernente la disciplina della professione di mediatore;
-
-Udito il parere del Consiglio di Stato;
-
-Sentito il Consiglio dei Ministri;
-
-Sulla proposta, del Ministro per l'industria e per il commercio di concerto con i Ministri per l'interno, per la grazia e giustizia, per le finanze e per il tesoro; Decreta:

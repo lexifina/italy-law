@@ -1,9 +1,0 @@
-Allegato H
-
-(Articolo 1, comma 2)
-
-DECRETI LUOGOTENENZIALI
-
-(ANNI 1915-1918)
-
-Parte di provvedimento in formato grafico

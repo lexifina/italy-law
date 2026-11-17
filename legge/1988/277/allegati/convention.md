@@ -1,3 +1,0 @@
-CONVENTION DE VIENNE PUOR LA PROTECTION DE LA COUCHE D'OZONE
-
-Parte di provvedimento in formato grafico

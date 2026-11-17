@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, quinto comma, della Costituzione;
+
+Vista la legge 14 luglio 1965, n. 963, concernente disciplina della pesca marittima;
+
+Visto il decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639, che approva il regolamento per l'esecuzione della predetta legge;
+
+Udito il parere del Consiglio di Stato;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 4 marzo 1983;
+
+Sulla proposta del Ministro della marina mercantile, di concerto con i Ministri di grazia e giustizia, del tesoro, della pubblica istruzione, dell'agricoltura e delle foreste e del lavoro e della previdenza sociale;
+
+EMANA il seguente decreto:

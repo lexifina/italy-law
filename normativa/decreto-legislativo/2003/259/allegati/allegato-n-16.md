@@ -1,0 +1,3 @@
+Allegato n. 16 (art. 107)
+
+Parte di provvedimento in formato grafico

@@ -1,5 +1,0 @@
-CONVENTION
-
-sur l'elimination de toutes les formes de discrimination a legard des femmes
-
-Parte di provvedimento in formato grafico

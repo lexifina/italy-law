@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/14.79/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/14.79"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/14.79/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="14.79"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/14.79/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1XFIZ3ZW3P54JWCHD2KZ0VRWPMNZCMAPOGV2XCNGMWRTNCCSQ3LD" href="http://dati.senato.it/29183" showAs="SONEGO"/>
+				<an:TLCPerson id="IDQF1VTPV45QEEB0HSXDYGLUA1YNIZ2P5ZHB1CQIKSK02IYKQ2CB3C" href="http://dati.senato.it/29057" showAs="CALEO"/>
+				<an:TLCPerson id="IDXVN3HHGY2OZAEYCX2I1JC0WPSL4RHPU02FDH3IOZG44CGA5XS3TD" href="http://dati.senato.it/23080" showAs="TOMASELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 14.79</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1XFIZ3ZW3P54JWCHD2KZ0VRWPMNZCMAPOGV2XCNGMWRTNCCSQ3LD" as="#tipoSenatore">SONEGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQF1VTPV45QEEB0HSXDYGLUA1YNIZ2P5ZHB1CQIKSK02IYKQ2CB3C" as="#tipoSenatore">CALEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXVN3HHGY2OZAEYCX2I1JC0WPSL4RHPU02FDH3IOZG44CGA5XS3TD" as="#tipoSenatore">TOMASELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 8 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «8-
+					<an:i>bis</an:i>
+					. All'articolo 1, comma 1, lettera 
+					<an:i>b)</an:i>
+					, quinto alinea, del decreto ministerirale 10 agosto 2012, n. 161, dopo le parole: "fondali lacustri e marini" sono aggiunte le seguenti: "; restano assoggettati al regime delle materie prime i materiali litoidi prodotti come obiettivo primario dell'attività di estrazione effettuato in base a concessioni e pagamento dei relativi canoni"».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

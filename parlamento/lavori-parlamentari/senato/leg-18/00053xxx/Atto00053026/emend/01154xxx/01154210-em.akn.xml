@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/G1.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/G1.105"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/G1.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@.akn"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1829/A/G1.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1829" showAs="DDL 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5YIPFT02BDVANZVUQKZUOMCSI0YY3J2UJSYMLL03JILQKLXZ3B" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="IDB20DWC121E3WIFBVZLRHDL5MIN0SBBWSCIKJ3JBBOT2IQE3U0DBM" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="IDNGVCEALKYJNZPCHC5RLK3O3RYFDTNQUTK3JYISMU1YQLEQRTFBZC" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5YIPFT02BDVANZVUQKZUOMCSI0YY3J2UJSYMLL03JILQKLXZ3B" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB20DWC121E3WIFBVZLRHDL5MIN0SBBWSCIKJ3JBBOT2IQE3U0DBM" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNGVCEALKYJNZPCHC5RLK3O3RYFDTNQUTK3JYISMU1YQLEQRTFBZC" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 8 aprile 2020, n. 23, recante misure urgenti in materia di accesso al credito e di adempimenti fiscali per le imprese, di poteri speciali nei settori strategici, nonché interventi in materia di salute e lavoro, di proroga dei termini amministrativi e processuali,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>        in sede di esame referente dei provvedimenti è stata ampliata la portata finanziaria del sostegno che Sace è incaricata di fornire agli esportatori italiani, sia pure con la copertura dello Stato;</an:p>
+				<an:p>            il trasferimento al Ministero degli affari esteri e della cooperazione internazionale delle competenze in materia di internazionalizzazione dell'economia italiana e sostegno alle esportazioni prima spettanti al Ministero dello sviluppo economico ha comportato la definizione di nuovi equilibri tra le diverse amministrazioni dello Stato coinvolte;</an:p>
+				<an:p>            se costituisce un vantaggio l'integrazione tra la rete diplomatico-consolare e i servizi di sostegno agli esportatori italiani garantita dalla nuova ripartizione delle funzioni, dall'altro deve essere ancora verificata la capacità del Ministero degli affari esteri e della cooperazione internazionale di pianificare politiche di sostegno che soddisfino i criteri di compatibilità finanziaria;</an:p>
+				<an:p>            una delle cause nel ritardo della emanazione del decreto Liquidità all'esame è stato, secondo quanto riportato a mezzo stampa, un braccio di ferro tra Ministero degli affari esteri e della cooperazione internazionale e Ministero dell'economia e delle finanze, conclusosi col compromesso di lasciar gestire a Sace, che resta in Cdp ma passa sotto l'indirizzo ed il coordinamento del Tesoro, l'operazione prestiti, in cambio di un rafforzamento di Sace nel campo dell'export e del sostegno alla internazionalizzazione delle imprese;</an:p>
+				<an:p>            tale equilibrio stava per saltare durante la conclusione dei lavori in sede referente, con un emendamento che intendeva spostare dal Ministero dell'economia e delle finanze al Ministero degli affari esteri e della cooperazione internazionale una quota degli apporti in titoli che costituiscono i 44 miliardi del patrimonio destinato di Cdp;</an:p>
+				<an:p>            gli equilibri interni alla maggioranza non possono e non devono pregiudicare l'obiettivo principale del provvedimento, vale a dire far ottenere in tempi celeri liquidità alle imprese,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>        a garantire il rapido accesso al credito per le imprese richiedenti senza rischiare una compromissione nella valutazione del credito medesimo a causa di accavallamento di funzioni e competenze tra diversi Ministeri, soprattutto alla luce della fase storica e congiunturale tanto delicata sia per il Paese che per le finanze dello Stato come quella attuale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

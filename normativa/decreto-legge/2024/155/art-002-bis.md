@@ -1,0 +1,7 @@
+Art. 2-bis.
+
+(Completo utilizzo delle risorse del Servizio sanitario nazionale contro il COVID-19)
+
+1.
+
+Le risorse erogate nell'anno 2020 e nell'anno 2021 alle regioni e alle province autonome di Trento e di Bolzano per fronteggiare l'emergenza epidemiologica da COVID-19 ai sensi del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, della legge 30 dicembre 2020, n. 178, del decreto-legge 22 marzo 2021, n. 41, convertito, con modificazioni, dalla legge 21 maggio 2021, n. 69, e del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, ancora presenti sui bilanci dei servizi sanitari regionali, possono essere utilizzate ((entro il 31 dicembre 2027)) per garantire l'attuazione dei Piani operativi per il recupero delle liste d'attesa. Le regioni e le province autonome, pertanto, ((anche negli anni 2024, 2025, 2026 e 2027)), possono avvalersi delle misure previste dalle disposizioni di cui all'articolo 26, commi 1 e 2, del decreto-legge 25 maggio 2021, n. 73, convertito, con modificazioni, dalla legge 23 luglio 2021, n. 106, nonche' dalle disposizioni di cui all'articolo 1, comma 277, della legge 30 dicembre 2021, n. 234.

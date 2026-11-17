@@ -1,0 +1,5 @@
+TABELLE DELLE RETRIBUZIONI MINIME CONGLOBATE
+
+A VALERE DAL 21 APRILE 1958
+
+Parte di provvedimento in formato grafico

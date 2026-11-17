@@ -1,0 +1,31 @@
+IL MINISTRO DELLE POSTE
+
+E DELLE TELECOMUNICAZIONI
+
+Visto il testo unico delle disposizioni legislative in materia postale, di bancoposta e di telecomunicazioni, approvato con decreto del Presidente della Repubblica 29 marzo 1973, n. 156, ed in particolare gli articoli 2 e 319;
+
+Vista la legge 22 maggio 1980, n. 209, che modifica gli articoli 398 e 399 del sopracitato testo unico relativamente alla prevenzione ed alla eliminazione dei disturbi alle radiotrasmissioni ed alle radioricezioni;
+
+Vista la legge 21 giugno 1986, n. 317, di attuazione della direttiva 83/189/CEE relativa alla procedura d'informazione nel settore delle norme e delle regolamentazioni tecniche - notifica 96/260/I;
+
+Vista la legge 6 agosto 1990, n. 223, concernente la disciplina del sistema radiotelevisivo pubblico e privato;
+
+Visto il regolamento di attuazione della legge 6 agosto 1990, n. 223, approvato con decreto del Presidente della Repubblica 27 marzo 1992, n. 255;
+
+Visto il decreto 28 agosto 1995, n. 548, concernente l'eliminazione dei disturbi radioelettrici per ricevitori di radiodiffusione sonora e televisiva;
+
+Vista la direttiva 95/47 CE del 24 ottobre 1995 concernente (( l'impiego )) di norme per l'emissione di segnali televisivi, pubblicata nella Gazzetta Ufficiale delle Comunita' europee n. 4281/51 del 23 novembre 1995;
+
+Visto il regolamento delle radiocomunicazioni, annesso alla convenzione internazionale delle telecomunicazioni adottata a Ginevra il 22 dicembre 1992 e ratificata con legge 31 gennaio 1996, n. 61;
+
+Visto il decreto legislativo 12 novembre 1996, n. 615, riguardante (( l'attuazione)) della direttiva 89/336/CEE del Consiglio del 3 maggio 1989,in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica;
+
+Visto il comma 24 dell'articolo 1 della legge 23 dicembre 1996, n. 650;
+
+Visto l'articolo 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+Visto il parere favorevole espresso dal consiglio superiore tecnico delle poste e delle telecomunicazioni nell'adunanza n. 96 del 18 luglio 1996;
+
+Udito il parere n. 21/97 della sezione consultiva per gli atti normativi del Consiglio di Stato, espresso nell'adunanza del 9 giugno 1997;
+
+Vista la comunicazione al Presidente del Consiglio dei Ministri a norma dell'articolo 17, comma 3, della citata legge n. 400/1988 (nota GM 105462/4398DL/(( CR )) del 18 luglio 1997); Adotta il seguente regolamento:

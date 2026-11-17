@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/19/A/G8.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/19/A/G8.1"/>
+					<an:FRBRdate date="2008-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/19/A/G8.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@"/>
+					<an:FRBRdate date="2008-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@.akn"/>
+					<an:FRBRdate date="2008-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/19/A/G8.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/19" showAs="DDL 19"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 19</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di esame del presente disegno di legge,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            il disegno di legge in oggetto reca una disciplina profondamente innovativa in materia di trasmissione ai figli del cognome dei genitori, attraverso l'introduzione di una apposita disciplina nel codice civile;</an:p>
+				<an:p align="justify">            l'articolo 8 del disegno di legge reca disposizioni transitorie, stabilendo che la nuova normativa sul cognome dei figli non si applichi a quanti sono nati prima dell'entrata in vigore della legge; tale articolo esclude altresì quanti, pur nati dopo l'entrata in vigore della legge, abbiano tuttavia fratelli viventi nati anteriormente;</an:p>
+				<an:p align="justify">            non esiste nell'ordinamento vigente una disposizione di rango legislativo che disciplini espressamente l'attribuzione del cognome paterno ai figli nati in costanza di matrimonio, dal momento che le procedure, comprese quelle riguardanti l'aggiunta o il cambiamento di cognome, sono per lo più regolate da norme secondarie;</an:p>
+				<an:p align="justify">            tali procedure, nonostante una semplificazione parziale introdotta nel 2000 in attuazione della «Legge Bassanini», restano eccessivamente complesse e condizionate da numerosi vincoli;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a semplificare ulteriormente, anche attraverso le opportune iniziative di modifica delle norme secondarie e della prassi amministrativa, le procedure vigenti in modo da consentire ai genitori di figli minori nati prima dell'entrata in vigore della presente legge di poter aggiungere il cognome materno a quello paterno attribuito in costanza della previgente normativa, presentando congiuntamente apposita istanza ai competenti uffici;</an:p>
+				<an:p align="justify">            ad agevolare più in generale, attraverso la semplificazione normativa e amministrativa delle procedure vigenti riguardanti l'ammissibilità e i criteri di valutazione delle istanze, i cittadini che, non potendo usufruire del nuovo regime di attribuzione del cognome, presentino istanza di aggiunta al proprio cognome del cognome dell'altro genitore.</an:p>
+				<an:p align="center"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

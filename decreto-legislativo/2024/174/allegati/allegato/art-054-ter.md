@@ -1,7 +1,0 @@
-Art. 54-ter.
-
-(( Esenzione dal canone RAI per soggetti ultrasettantacinquenni
-
-(articolo 1, comma 132, primo periodo, della legge n. 244 del 2007) ))
-
-1. ((A decorrere dall'anno 2020, per i soggetti di eta' pari o superiore a settantacinque anni e con un reddito proprio e del coniuge non superiore complessivamente a euro 8.000 annui, non conviventi con altri soggetti titolari di un reddito proprio, fatta eccezione per collaboratori domestici, colf e badanti, e' abolito il pagamento del canone di abbonamento alle radioaudizioni esclusivamente per l'apparecchio televisivo ubicato nel luogo di residenza.))

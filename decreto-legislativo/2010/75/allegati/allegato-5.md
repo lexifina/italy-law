@@ -1,7 +1,0 @@
-Allegato 5
-
-(previsto dall'articolo 1, comma 1, lettera b)
-
-Matrici organiche destinate alla produzione di concimi organo-minerali
-
-Parte di provvedimento in formato grafico

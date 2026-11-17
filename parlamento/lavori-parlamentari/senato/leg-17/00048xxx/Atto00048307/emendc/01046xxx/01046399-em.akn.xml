@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2914/C/9.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2914/C/9.4"/>
+					<an:FRBRdate date="2017-12-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2914/C/9.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@"/>
+					<an:FRBRdate date="2017-12-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@.akn"/>
+					<an:FRBRdate date="2017-12-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-12-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-12-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2914/C/9.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2914" showAs="DDL 2914"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="9ª Commissione permanente" href="/dati.senato.it/osr/Commissione/9"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJ2TCIJBCKOPXEIHGEVJKU5HO1ILLL0YH1BHKKJ33XVOT0ESUE5I" href="http://dati.senato.it/25539" showAs="CASSINELLI"/>
+				<an:TLCPerson id="IDTVJ10KCKHIZQKCMCI5CSYDZ1BC0KE2OW1BG4VQGBDMHJUSDJU1EJ" href="http://dati.senato.it/31010" showAs="AMIDEI"/>
+				<an:TLCPerson id="ID4K3KSV0VLHAHLADODVMMIBV1JHIXM4XOYPVXS4ES2VAYSBBA330F" href="http://dati.senato.it/29178" showAs="SCOMA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2914</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ2TCIJBCKOPXEIHGEVJKU5HO1ILLL0YH1BHKKJ33XVOT0ESUE5I" as="#tipoSenatore">CASSINELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTVJ10KCKHIZQKCMCI5CSYDZ1BC0KE2OW1BG4VQGBDMHJUSDJU1EJ" as="#tipoSenatore">AMIDEI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4K3KSV0VLHAHLADODVMMIBV1JHIXM4XOYPVXS4ES2VAYSBBA330F" as="#tipoSenatore">SCOMA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire la lettera</an:i>
+					 b), 
+					<an:i>con la seguente</an:i>
+					:
+				</an:p>
+				<an:p>
+					            «
+					<an:i>b)</an:i>
+					 ad esclusione delle modalità di pesca con l'attrezzo denominato sciabica previsto alla lettera 
+					<an:i>a)</an:i>
+					 punto 1, prevedere che le iniziative di pesca turismo possano essere svolte anche nei giorni festivi nell'arco delle 24 ore, nei limiti di distanza dalla costa prevista dall'autorizzazione concessa dalla competente capitaneria di porto in base alle certificazioni di sicurezza rilasciate dall'ente tecnico, per tutto l'arco dell'anno nell'ambito del compartimento di iscrizione ed in quelli limitrofi, in presenza di condizioni meteomarine favorevoli; e che nei giorni festivi possano essere impiegati esclusivamente gli attrezzi previsti dall'articolo 138 con i limiti previsti dall'articolo 140 del Regolamento di cui al decreto del Presidente della Repubblica 2 ottobre 1968, n. 1639, e successive modificazioni;».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

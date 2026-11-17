@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1107/A/G1.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1107/A/G1.101"/>
+					<an:FRBRdate date="2013-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1107/A/G1.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@"/>
+					<an:FRBRdate date="2013-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@.akn"/>
+					<an:FRBRdate date="2013-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-10-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-10-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1107/A/G1.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1107" showAs="DDL 1107"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/29129" showAs="Marino"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/6472" showAs="Lanzillotta"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1107</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.101 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Lanzillotta</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 1 del decreto-legge in esame prevede che, per l'anno 2013, non è dovuta la prima rata dell'imposta municipale sperimentale (IMU), di cui all'articolo 13 del decreto legge 6 dicembre 2011, n. 201, sugli immobili per i quali tale rata era già stata sospesa con il decreto-legge 21 maggio 2013, n. 54;</an:p>
+				<an:p align="justify">            in corso di discussione della conversione in legge del decreto si era evidenziata l'opportunità di superare l'abrogazione tout court della prima rata dell'IMU attraverso una riformulazione che prevedeva il raddoppio delle detrazioni senza bisogno di ricorrere a coperture aggiuntive, mettendo in sicurezza l'abrogazione anche della seconda rata per circa il settanta per cento dei proprietari e allargando le fattispecie equiparate all'abitazione principale, quali, ad esempio, le unità immobiliari a destinazione abitativa, utilizzate da anziani o disabili, da parenti di primo grado o dai cittadini italiani residenti all'estero;</an:p>
+				<an:p align="justify">            la questione della seconda rata dell'IMU per il 2013 sarà affrontata in un altro provvedimento, successivamente all'approvazione della legge di stabilità per il 2014, nell'ambito della quale, unitamente ad altre questioni; saranno in definite le caratteristiche della nuova tassa di servizio che andrà a sostituire l'IMU e la TARES; l'abrogazione anche della seconda rata dell'IMU per il 2013 per il cento per cento dei proprietari comporta la necessità di coperture, ad oggi non ancora individuate, per oltre 2 miliardi di euro;</an:p>
+				<an:p align="justify">            abrogare integralmente l'IMU per il 2013 anche al 30 per cento di proprietari con abitazioni principali di maggiore valore risponde a criteri di equità e sostegno ai consumi solo se tale abrogazione non comporta la necessità di altre forme di aggravio fiscale in capo anche al restante settanta per cento di proprietari, nonché in capo agli altri contribuenti che non risultano gravati da IMU,</an:p>
+				<an:p align="justify">
+					        impegna il Governo a valutare l'opportunità di escludere sin d'ora che le coperture, necessarie per disporre la eventuale soppressione della seconda rata dell'IMU per il 2013 al cento per cento dei proprietari, saranno reperite attraverso aumenti di entrate fiscali di qualsivoglia tipo, quali aumenti di altre imposte, introduzione di altre imposte, riduzioni di incentivi, agevolazioni o altre 
+					<an:i>tax expenditures</an:i>
+					, aumenti di acconti di imposte per l'anno in corso, anticipazioni di acconti di imposte per l'anno successivo.
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

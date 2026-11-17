@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26"/>
+					<an:FRBRdate date="2012-07-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.0.26"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@"/>
+					<an:FRBRdate date="2012-07-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@.akn"/>
+					<an:FRBRdate date="2012-07-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-07-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-07-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3365/A/G4.0.26/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3365" showAs="DDL 3365"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22980" showAs="Incostante"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25274" showAs="Saltamartini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25196" showAs="Biondelli"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3365</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.0.26</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Incostante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Saltamartini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Biondelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di esame dell'A.S. 3365,</an:p>
+				<an:p align="justify">            considerato il ruolo fondamentale svolto dal Corpo Nazionale dei vigili del fuoco per garantire la sicurezza e l'incolumità della popolazione:</an:p>
+				<an:p align="justify">            vista la forte carenza registrata nelle piante organiche da molti anni;</an:p>
+				<an:p align="justify">
+					            visto che anche nell'ambito del disegno di legge in materia di «
+					<an:i>spending review</an:i>
+					» occorrerà rivedere processi di finanziamento in favore di diversi comparti e provvedere alla riorganizzazione delle relative strutture;
+				</an:p>
+				<an:p align="justify">            considerato altresì che nel Corpo Nazionale dei Vigili del fuoco, esistono varie tipologie di impiego del personale oltre a quello assunto, con contratto a tempo indeterminato, e cioè personale «discontinuo», «precario» e «volontario»,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad avviare la predisposizione di una riforma organica che conferisca quella necessaria autonomia gestionale dell'intera macchina dei soccorsi e delle emergenze e, in tale quadro, tenere conto delle dotazioni organiche dei Vigili del fuoco allo specifico fine di meglio garantire la sicurezza e l'incolumità dei cittadini.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+				<an:p>(**) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

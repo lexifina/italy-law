@@ -1,0 +1,11 @@
+# Legge 9 novembre 1949, n. 939
+
+- Tipo: Ordinaria
+- Numero: 939
+- Data: 1949-11-09
+- Titolo: Autorizzazione della spesa di lire 360.000.000 per la riparazione del danni  causati  dai  terremoti  verificatisi  nelle  Puglie  e  nelle province di Arezzo, Perugia, Grosseto, Siena, Rieti, Terni e Udine.
+- Pubblicazione: (Pubblicata nella G.U. del 29 dicembre 1949)
+- Legislatura: I legislatura della Repubblica (repubblica_1)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1949-11-09;939
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1949_939
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

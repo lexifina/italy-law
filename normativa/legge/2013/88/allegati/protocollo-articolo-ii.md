@@ -1,0 +1,33 @@
+ARTICOLO II
+
+L'Articolo 11 "Interessi" e' modificato come segue:
+
+1. Gli interessi provenienti da uno Stato contraente e pagati ad un residente dell'altro Stato contraente sono imponibili in detto altro Stato.
+
+2. Tuttavia, tali interessi possono essere tassati anche nello Stato contraente dal quale essi provengono e in conformita' alla legislazione di detto Stato, ma, se l'effettivo beneficiario degli interessi e' un residente dell'altro Stato contraente, l'imposta cosi' applicata non puo' eccedere:
+
+a) lo 0 per cento dell'ammontare lordo degli interessi se l'effettivo beneficiario e' una societa' diversa da una societa' di persone che ha detenuto almeno il 25 per cento del capitale della societa' che paga gli interessi per un periodo di almeno 12 mesi antecedente alla data di pagamento degli interessi;
+
+b) il 13 per cento dell'ammontare lordo degli interessi, in tutti gli altri casi.
+
+Le autorita' competenti degli Stati contraenti regoleranno di comune accordo le modalita' di applicazione di tali limitazioni.
+
+3. Nonostante le disposizioni del paragrafo 2, gli interessi provenienti da uno degli Stati contraenti sono esenti da imposta in detto Stato se:
+
+a) il debitore degli interessi e' il Governo di detto Stato contraente o un suo ente locale; o
+
+b) gli interessi sono pagati al Governo dell'altro Stato contraente o ad un suo ente locale o ad un ente od organismo (compresi gli istituti finanziari) interamente di proprieta' di questo altro Stato contraente o di un suo ente locale; o
+
+c) gli interessi sono pagati, per conto del Governo, ad altri enti od organismi (compresi gli istituti finanziari) in dipendenza di finanziamenti da essi concessi nel quadro di accordi conclusi tra i Governi degli Stati contraenti.
+
+4. Ai fini del presente Articolo il termine "interessi" designa i redditi dei titoli del debito pubblico, di buoni od obbligazioni di prestiti garantiti o non da ipoteca e portanti o meno una clausola di partecipazione agli utili, e dei crediti di qualsiasi natura, nonche' ogni altro provento assimilabile ai redditi di somme date in prestito in base alla legislazione fiscale dello Stato da cui i redditi provengono.
+
+5. Le disposizioni dei paragrafi da 1 a 3 non si applicano nel caso in cui il beneficiario effettivo degli interessi, residente di uno Stato contraente, eserciti nell'altro Stato contraente dal quale provengono gli interessi, un'attivita' industriale o commerciale per mezzo di una stabile organizzazione ivi situata, oppure una professione indipendente mediante una base fissa ivi situata, ed il credito generatore degli interessi si ricolleghi effettivamente ad esse.
+
+In tal caso, gli interessi sono imponibili in detto altro Stato contraente secondo la propria legislazione.
+
+6. Gli interessi si considerano provenienti da uno Stato contraente quando il debitore e' lo Stato stesso, una sua suddivisione politica o amministrativa, un suo ente locale o un residente di detto Stato.
+
+Tuttavia, quando il debitore degli interessi, sia esso residente o no di uno Stato contraente, ha in uno Stato contraente una stabile organizzazione o una base fissa, per le cui necessita' viene contratto il debito sul quale sono pagati gli interessi e tali interessi sono a carico della stabile organizzazione o della base fissa, gli interessi stessi si considerano provenienti dallo Stato contraente in cui e' situata la stabile organizzazione o la base fissa.
+
+7. Se, in conseguenza di particolari relazioni esistenti tra il debitore e il beneficiario effettivo o tra ciascuno di essi e terze persone, l'ammontare degli interessi, tenuto conto del credito per il quale sono pagati, eccede quello che sarebbe stato convenuto tra il debitore e il beneficiario effettivo in assenza di simili relazioni, le disposizioni del presente articolo si applicano soltanto a quest'ultimo ammontare. In tal caso, la parte eccedente dei pagamenti e' imponibile in conformita' della legislazione di ciascuno Stato contraente e tenuto conto delle altre disposizioni della presente Convenzione.

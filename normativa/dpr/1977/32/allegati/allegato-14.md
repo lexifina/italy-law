@@ -1,0 +1,13 @@
+ALLEGATO 14
+
+Tariffa eccezionale n. 221
+
+Serie A - AUTOVETTURE ANCHE CON RIMORCHIETTO PORTABAGAGLI (1)
+
+Serie B - AUTOPULLMAN, AUTOCARRI, MOTOFURGONI, MOTOCARRI E
+
+RIMORCHI: VUOTI E CARICHI (2)
+
+Serie C - MOTOCICLI
+
+Parte di provvedimento in formato grafico

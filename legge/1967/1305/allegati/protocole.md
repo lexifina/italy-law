@@ -1,3 +1,0 @@
-Protocole modifiant l'Accord general sur les tarifs douaniers et le commerce par l'insertion d'une Partie IV relative au commerce et au developpement.
-
-Parte di provvedimento in formato grafico

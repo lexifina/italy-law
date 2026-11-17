@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/C/25.0.1"/>
+					<an:FRBRdate date="2012-02-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="25.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@"/>
+					<an:FRBRdate date="2012-02-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@.akn"/>
+					<an:FRBRdate date="2012-02-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-02-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-02-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3110/C/25.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3110" showAs="DDL 3110"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Industria, commercio, turismo" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25251" showAs="Armato"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3110</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 25.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Armato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo 25</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 25-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p>
+					        1. Ai sensi della lettera 
+					<an:i>d)</an:i>
+					, comma 2, dell'articolo 2 della legge 29 dicembre 1993, n. 580, come modificata dal decreto legislativo 15 febbraio 2010, n. 23, a decorrere dal 1º gennaio 2012, entro il 15 marzo di ogni anno, i comuni con popolazione superiore a cinquemila abitanti trasmettono alla Camera di commercio, industria, artigianato e agricoltura, I'atto di determinazione, qualunque sia la sua denominazione giuridica, con il quale sono fissate o modificate le singole tariffe relative ai servizi pubblici locali, con specifico riferimento a quelle che riguardano le imprese.
+				</an:p>
+				<an:p>        2. La trasmissione di cui al precedente comma 1 sarà effettuata, esclusivamente per via telematica, attraverso un apposito portale, coordinato e gestito dall'Unione italiana delle Camere di commercio, industria, artigianato e agricoltura (Unioncamere).</an:p>
+				<an:p>        3. L'Unioncamere, il 30 settembre di ogni anno, presenta al Ministero dello sviluppo economico un Rapporto sulrevoluzione delle tariffe dei servizi pubblici locali segnalando le criticità riscontrate e le possibili soluzioni da assumere. Le Unioni regionali delle Camere di commercio presentano alle rispettive regioni, nel termine di cui al periodo precedente, un Rapporto relativo all'evoluzione territoriale delle tariffe dei servizi pubblici locali.</an:p>
+				<an:p>        4. Il Rapporto di cui al precedente comma 3, primo periodo, è trasmesso anche alle Autorità amministrative indipendenti dei rispettivi settori per gli eventuali atti di loro competenza, nonché all'Associazione nazionale comuni italiani».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

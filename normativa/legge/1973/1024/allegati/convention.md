@@ -1,0 +1,7 @@
+CONVENTION SUR LA CONSERVATION
+
+DES RESSOURCES BIOLOGIQUES
+
+DE L'ATLANTIQUE SUD-EST
+
+Parte di provvedimento in formato grafico

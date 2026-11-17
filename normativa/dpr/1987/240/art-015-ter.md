@@ -1,0 +1,5 @@
+Art. 15-ter.
+
+Art.15 ter
+
+((ARTICOLO ABROGATO DAL D.LGS.30 MAGGIO 2003, N. 193))

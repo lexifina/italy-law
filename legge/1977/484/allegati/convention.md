@@ -1,3 +1,0 @@
-CONVENTION europeenne pour la repression des infrations routieres
-
-Parte di provvedimento in formato grafico

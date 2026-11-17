@@ -1,5 +1,0 @@
-Articolo VI
-
-1. Ai soli fini di istituire, gestire e provvedere alla manutenzione dei servizi che non vengano altrimenti assicurati in applicazione del presente Accordo, il limite fissato all'articolo V puo' essere elevato di un importo determinato con il consenso dei Governi contraenti i cui contributi totali siano perlomeno uguali al novanta per cento dell'ammontare globale dei contributi fissati per l'ultimo anno civile, in conformita' alle disposizioni dell'articolo VII, paragrafi 3, 4, 5 e 6.
-
-2. Fatte salve le disposizioni dell'articolo II, le spese imputabili ai servizi di cui al paragrafo 1 del suddetto articolo, o qualsiasi spesa autorizzata in base alle disposizioni dell'articolo XIII, paragrafo 2, lettera a), a seguito dell'inclusione dei suddetti servizi nel presente Accordo, e' sostenuta esclusivamente dai Governi contraenti che vi consentano, proporzionalmente alla loro quota parte nell'ammontare globale per l'anno in questione. Nessuna parte del Fondo di riserva di cui all'articolo X, che non sia imputabile a questi servizi, puo' essere utilizzata per fini ai quali solo detti Governi abbiano consentito.

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G3.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G3.3"/>
+					<an:FRBRdate date="2003-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G3.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.3"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@"/>
+					<an:FRBRdate date="2003-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@.akn"/>
+					<an:FRBRdate date="2003-11-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-11-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-11-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2512/A/G3.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2512" showAs="DDL 2512"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/831" showAs="Del Turco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17583" showAs="Dettori"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/529" showAs="Castellani"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17657" showAs="Vallone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4340" showAs="Bastianoni"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/714" showAs="Coviello"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2512</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Del Turco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Dettori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Castellani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Vallone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Bastianoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Coviello</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2004,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            la direttiva europea 77/388/CEE del Consiglio, del 17 maggio 1977 autorizzava gli Stati membri a sperimentare per il triennio 2000 - 2003 l'applicazione di un'aliquota dell'imposta sul valore aggiunto (IVA) ridotta per fino a due settori di servizio ad alta intensità di lavoro;</an:p>
+				<an:p align="justify">            l'Italia ha utilizzato tale norma, poi prorogata fino al 2003, in particolare per il settore della manutenzione nell'edilizia;</an:p>
+				<an:p align="justify">            altri paesi, in particolare l'Olanda, il Belgio, il Lussemburgo e l'Irlanda hanno applicato la citata direttiva anche al settore del commercio e della riparazione delle biciclette e accessori;</an:p>
+				<an:p align="justify">            ritenuto che in questo modo si possa contribuire ad incentivare l'acquisto e l'uso delle biciclette come positiva azione per una migliore organizzazione della mobilità, particolarmente nelle aree urbane, e per una più efficace lotta al traffico e all'inquinamento,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a sperimentare l'applicazione dell'aliquota IVA ridotta nel settore del commercio e riparazione delle biciclette e accessori nel caso si preveda una ulteriore proroga della direttiva europea o a proporre, in sede di Consiglio dei ministri finanziari dell'Unione europea (ECOFIN), che nella definitiva armonizzazione dell'IVA venga considerata l'applicazione di una aliquota IVA ridotta per tale settore.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

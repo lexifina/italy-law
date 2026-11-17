@@ -1,0 +1,19 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle disposizioni legislative sullo stato giuridico e sul trattamento economico dei salariati dello Stato approvato con regio decreto 24 dicembre 1924, n. 2114 e successive modificazioni;
+
+Visto il regolamento approvato con regio decreto 31 dicembre 1924, n. 2262 e successive modificazioni;
+
+Visto il regolamento sullo stato giuridico e sul trattamento economico dei salariati dell'Amministrazione autonoma dei monopoli di Stato, approvato con decreto ministeriale 21 ottobre 1925, n. 133842 e successive modificazioni;
+
+Vista la legge 5 marzo 1961, n. 90, sullo stato giuridico degli operai dello Stato;
+
+Vista la legge 28 marzo 1962, n. 143, concernente il personale dell'Amministrazione dei monopoli di Stato;
+
+Sentito il Consiglio di amministrazione dei monopoli di Stato;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le finanze; Decreta:

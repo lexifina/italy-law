@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/40.55/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/40.55"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/40.55/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="40.55"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@.akn"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/40.55/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGOI54QQ3U0DPFZB2NZH0N0KHPP522DNQNLTV44GSKJWCR3TDTNXM" href="http://dati.senato.it/17823" showAs="FALANGA"/>
+				<an:TLCPerson id="ID5GCUU1KXGEWOLHJ0WRULBJCV5GKJOQY4GBVWFDNOYIBAG5HLXDMG" href="http://dati.senato.it/22863" showAs="BARANI"/>
+				<an:TLCPerson id="IDYOCXQX2ACH3YP2S0S4TKIWZ2JMROIJPVHL4NONF53EZ2KN1KX0DJ" href="http://dati.senato.it/25458" showAs="MILO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 40.55</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGOI54QQ3U0DPFZB2NZH0N0KHPP522DNQNLTV44GSKJWCR3TDTNXM" as="#tipoSenatore">FALANGA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5GCUU1KXGEWOLHJ0WRULBJCV5GKJOQY4GBVWFDNOYIBAG5HLXDMG" as="#tipoSenatore">BARANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYOCXQX2ACH3YP2S0S4TKIWZ2JMROIJPVHL4NONF53EZ2KN1KX0DJ" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 15, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «15-
+					<an:i>bis</an:i>
+					. È istituito presso il Coni il "Registro Nazionale degli Agenti Sportivi", al quale deve essere iscritto, dietro pagamento di un'imposta di bollo annuale di 250,00 euro, chi in forza di un incarico redatto in forma scritta mette in relazione due o più soggetti operanti nell'ambito di una disciplina sportiva riconosciuta dal Coni ai fini della conclusione di un contratto di prestazione sportiva di natura professionistica, del trasferimento di siffatta prestazione o del tesseramento presso una federazione sportiva professionistica. Il soggetto iscritto a tale registro non può ricoprire nessun incarico, neppure a titolo onorario o gratuito, presso Coni, federazioni sportive nazionali, discipline sportive associate, enti di promozione sportiva, leghe professionistiche e società sportive professionistiche, né può intrattenere rapporti di lavoro con alcuno di questi soggetti o possederne partecipazioni, anche in forma indiretta. Può iscriversi al suddetto registro il cittadino italiano o di altro Stato membro dell'Unione europea, nel pieno godimento dei diritti civili, che non abbia riportato condanne per delitti non colposi nell'ultimo quinquennio, in possesso del diploma di scuola media superiore o equipollente, che supera una prova abilitativa diretta ad accertarne l'idoneità. È fatta salva la validità dei pregressi titoli abilitativi rilasciati prima del 31 marzo 2015. Agli atleti e alle società è vietato avvalersi di soggetti non iscritti nel Registro pena la nullità dei contratti, fatte salve le competenze professionali riconosciute per legge. Con uno o più decreti del Presidente del Consiglio dei Ministri, sentito il Coni, sono definiti: le modalità di svolgimento delle prove abilitative; la composizione e le funzioni delle commissioni giudicatrici; le modalità di tenuta del Registro; gli obblighi di aggiornamento; i parametri di determinazione dei compensi.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

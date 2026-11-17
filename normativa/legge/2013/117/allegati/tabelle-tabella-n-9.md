@@ -1,0 +1,17 @@
+TABELLA N. 9
+
+MINISTERO DELL'AMBIENTE E DELLA TUTELA DEL TERRITORIO E DEL MARE
+
+Parte di provvedimento in formato grafico
+
+RIEPILOGO
+
+MINISTERO DELL'AMBIENTE E DELLA TUTELA DEL TERRITORIO E DEL MARE
+
+Parte di provvedimento in formato grafico
+
+ALLEGATI
+
+MINISTERO DELL'AMBIENTE E DELLA TUTELA DEL TERRITORIO E DEL MARE
+
+Parte di provvedimento in formato grafico

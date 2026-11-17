@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO PER GEOMETRI DI PIAZZA ARMERINA
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.964/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.964"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.964/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.964"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@.akn"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.964/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLNFRYNFKMG44DNFW3FYVPWXN0FRLRZR0YLST00F2FWWHRZ0KQOGF" href="http://dati.senato.it/2444" showAs="URSO"/>
+				<an:TLCPerson id="IDA4TWDJHJAZCVPCJUX0JGNRGRLGFVOAEVB4BIXDHJUHGATDYLIVHM" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="ID1SFDHXRKX0PWB2LV3Y4UWNBRMFLZWOIK44IVI1DHN4POFKAV5D3I" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+				<an:TLCPerson id="IDPSKXGM5QRHPMKZAZHWIWXMTP0K1JL1NALDCQORM4ZAP3ILFNNGYG" href="http://dati.senato.it/25468" showAs="MARSILIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.964</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLNFRYNFKMG44DNFW3FYVPWXN0FRLRZR0YLST00F2FWWHRZ0KQOGF" as="#tipoSenatore">URSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4TWDJHJAZCVPCJUX0JGNRGRLGFVOAEVB4BIXDHJUHGATDYLIVHM" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1SFDHXRKX0PWB2LV3Y4UWNBRMFLZWOIK44IVI1DHN4POFKAV5D3I" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPSKXGM5QRHPMKZAZHWIWXMTP0K1JL1NALDCQORM4ZAP3ILFNNGYG" as="#tipoSenatore">MARSILIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 137 è aggiunto il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «137-
+					<an:i>bis</an:i>
+					. Le disposizioni di cui all'art. 21 comma 01 del decreto legislativo 15 giugno 2015, n. 81 non si applicano ai contratti di lavoro a tempo determinato in essere all'entrata in vigore della presente legge e a quelli stipulati entro il 31 gennaio 2019».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

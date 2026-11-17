@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1"/>
+					<an:FRBRdate date="2011-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2968/1/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@"/>
+					<an:FRBRdate date="2011-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@.akn"/>
+					<an:FRBRdate date="2011-10-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-10-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-10-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2968/C/G/2968/1/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2968" showAs="DDL 2968"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22980" showAs="Incostante"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25267" showAs="De Sena"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/21507" showAs="Marino"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/16639" showAs="Sanna"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2968</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2968/1/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Incostante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">De Sena</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Sanna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					La 1
+					<an:sup>a</an:sup>
+					 Commissione permanente del Senato,
+				</an:p>
+				<an:p>in sede di esame del disegno di legge di stabilità 2012 in riferimento alle dotazioni del Ministero dell'economia e finanze,</an:p>
+				<an:p>premesso che:</an:p>
+				<an:p>l'articolo 51 della Costituzione parla di pari opportunità per gli uomini e per le donne nell'accesso alla vita pubblica, ed è questa la prima ed irriducibile finalità a cui è urgente che l'azione politica dei Governo si conformi;</an:p>
+				<an:p>la condizione della donna nel nostro Paese attraversa un momento di estrema e particolare difficoltà, sia sul piano dell'occupazione che della gestione della vita quotidiana: fra tutti basti il dato che addirittura il 51 per cento delle donne italiane non ha un lavoro o ha rinunciato a cercarlo;</an:p>
+				<an:p>sussistono gravi e documentate differenze salariali che penalizzano le donne, come pure numerose ed accertate discriminazioni nell'accesso al lavoro per le giovani donne e di percorso di carriera nelle posizioni apicali;</an:p>
+				<an:p>
+					questo fenomeno, a nostro avviso del tutto sottovalutato, rischia anche di essere ulteriore elemento di ostacolo allo sviluppo economico del Paese, di portare al collasso il sistema del 
+					<an:i>welfare</an:i>
+					, di riconsegnare le donne all'antico ruolo di «supplenza» dello stato sociale, e di confinare l'Italia a fanalino di coda rispetto agli obiettivi europei di Lisbona;
+				</an:p>
+				<an:p>è altresì allarmante l'attacco alla dignità femminile, che passa da rappresentazioni culturali e da modelli lontani anni luce dalla vita vera delle donne italiane, a partire dal sistema dei media, nonché l'impressionante crescita della violenza contro le donne, dentro e fuori la famiglia;</an:p>
+				<an:p>a fronte di tutto questo gli interventi pubblici del Governo appaiono del tutto marginali quando non aggravanti;</an:p>
+				<an:p>un esame del ddl stabilità 2012 rivela come la missione diritti sociali, politiche sociali e famiglia subisca una riduzione complessiva di 46,3 milioni di euro, di cui 12,3 dal programma "Sostegno alle famiglie" e 7 milioni sul Programma "Promozione e garanzia dei diritti e delle pari opportunità" (17.4 - cap. 2108, Fondo per le politiche relative ai diritti e alle pari opportunità),</an:p>
+				<an:p>considerato infine che:</an:p>
+				<an:p>il Governo aveva altresì accolto sul medesimo tema l'ordine del giorno G/2465/2/1/Tab.2 nel corso dell'esame dell'A.S. 2465 (Bilancio 2011) presentato presso la 1^ Commissione affari costituzionali del Senato, senza poi dare seguito alcuno agli impegni assunti in sede parlamentare,</an:p>
+				<an:p>impegna il Governo</an:p>
+				<an:p>a riferire tempestivamente al Parlamento in modo completo e dettagliato sulla finalizzazione del Fondo per le pari opportunità e il coordinamento con le altre azioni di Governo al fine di assicurare, anche valutando l'opportunità di prevedere delle modifiche normative volte a superare il depotenziamento delle politiche per le pari opportunità e del Fondo corrispondente.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

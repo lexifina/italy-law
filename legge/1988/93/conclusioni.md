@@ -1,5 +1,0 @@
-La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-
-Data a Roma, addi' 21 marzo 1988
-
-COSSIGA GORIA, Presidente del Consiglio dei Ministri FANFANI, Ministro dell'interno Visto, il Guardasigilli: VASSALLI ----------- AVVERTENZA: Il decreto-legge 8 febbraio 1988, n. 25, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 31 dell'8 febbraio 1988. Il testo del decreto-legge coordinato con la legge di conversione sara' pubblicato nella Gazzetta Ufficiale del giorno 21 aprile 1988. ----------

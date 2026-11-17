@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12"/>
+					<an:FRBRdate date="2015-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111/5/12"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@"/>
+					<an:FRBRdate date="2015-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@.akn"/>
+					<an:FRBRdate date="2015-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/G/2111/5/12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25261" showAs="D'Ambrosio Lettieri"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29189" showAs="Taverna"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29101" showAs="Fucksia"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17552" showAs="Bianconi"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29038" showAs="Anitori"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25229" showAs="Granaiola"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111/5/12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">D'Ambrosio Lettieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Taverna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Fucksia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Bianconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Anitori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Granaiola</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 12a Commissione,</an:p>
+				<an:p>        in sede di esame del disegno di legge recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2016),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            le malattie cardiovascolari rappresentano la più importante causa di morte al mondo e l'elevata incidenza di queste patologie rappresenta una minaccia globale alla sostenibilità dei servizi sanitari, sia in termini di prestazioni che di costi;</an:p>
+				<an:p>
+					            in particolare, l'
+					<an:i>ictus</an:i>
+					 celebrale è la terza causa più comune di morte e la principale causa di incapacità funzionale: colpisce per il 50 per cento soggetti di età inferiore ai 65 anni, per il 12 per cento soggetti al di sotto dei 45 anni e, inoltre, comporta per il paziente perdita di funzionalità, nonché un significativo peggioramento della qualità della vita;
+				</an:p>
+				<an:p>
+					            nell'80 per cento dei casi si verifica un 
+					<an:i>ictus</an:i>
+					 ischemico, che può essere legato a carotidopatie extracraniche o ad emboli a partenza dal cuore, questi ultimi quasi sempre in presenza di fibrillazione atriale;
+				</an:p>
+				<an:p>            la fibrillazione atriale è un'anomalia del ritmo cardiaco che provoca l'accelerazione o il rallentamento eccessivo della frequenza cardiaca. ha natura asintomatica, circostanza che contribuisce a ritardare una diagnosi tempestiva e, conseguentemente, l'avvio di un adeguato trattamento farmacologico;</an:p>
+				<an:p>            la carotidopatia extracranica è un'affezione delle arterie carotidi al collo, dovuta alla presenza di placche che possono embolizzare e determinare, coma sopra rilevato, un ictus cerebrale;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            l'adozione di corretti stili di vita contribuisce a ridurre il rischio di malattie cardiovascolari ed è, pertanto, prioritario promuovere campagne di prevenzione, sensibilizzazione e informazione rivolte sia alla popolazione che al personale sanitario;</an:p>
+				<an:p>            una corretta terapia delle patologie cardiovascolari indicate in premessa necessita dell'adozione di percorsi diagnostici, terapeutici ed assistenziali che siano mirati e di carattere multidisciplinare. Risulta, altresì, necessario, incentivare la ricerca scientifica e l'accesso ai farmaci e ai dispositivi diagnostico-terapeutici utili per il trattamento delle suddette malattie, nonché promuovere un modello di gestione del percorso terapeutico di tipo coordinato che consenta al paziente, dopo un iniziale screening periferico, di accedere a terapie non farmaco logiche presso apposite strutture a ciò dedicate;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>        ad adottare misure atte a:</an:p>
+				<an:p>
+					            1) incoraggiare la prevenzione e la diagnosi dell'ictus celebrale, della fibrillazione atriale, dell'
+					<an:i>ictus</an:i>
+					 cardioembolico e della carotidopatia extracranica e a favorire la ricerca scientifica;
+				</an:p>
+				<an:p>            2) favorire percorsi terapeutici e pratiche sanitarie ottimali nella gestione del paziente colpito da una delle suddette affezioni cardiovascolari; .</an:p>
+				<an:p>
+					            3) facilitare l'accesso ai farmaci e ai dispositivi diagnostico-terapeutici utili per la prevenzione e il trattamento dell'
+					<an:i>ictus</an:i>
+					 celebrale, della fibrillazione atriale, dell'
+					<an:i>ictus</an:i>
+					 cardioembolico e della carotidopatia extracranica;
+				</an:p>
+				<an:p>            4) sensibilizzare, anche mediante apposite campagne informative, sia l'opinione pubblica che gli operatori sanitari sull'importanza dell'adozione di corretti stili di vita in termini di prevenzione delle malattie cardiovascolari;</an:p>
+				<an:p>            5) promuovere l'adozione di percorsi diagnostici, terapeutici ed assistenziali mirati e multidisciplinari, nonché un modello di gestione del percorso terapeutico di tipo coordinato che consenta al paziente, dopo un iniziale screening periferico, di accedere a terapie non farmacologiche presso strutture specificamente idonee ad erogare tali prestazioni.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

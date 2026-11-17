@@ -1,5 +1,0 @@
-Art. 14-bis.
-
-(( (Ulteriori disposizioni in materia di ravvedimento).))
-
-1. ((Se le ritenute o le imposte sostitutive sui redditi di capitale e sui redditi diversi di natura finanziaria non sono state operate ovvero non sono stati effettuati dai sostituti d'imposta o dagli intermediari i relativi versamenti nei termini ivi previsti, si fa luogo in ogni caso esclusivamente all'applicazione della sanzione nella misura ridotta indicata nell'articolo 14, comma 1, lettera a), qualora gli stessi sostituti o intermediari, anteriormente alla presentazione della dichiarazione nella quale sono esposti i versamenti delle predette ritenute e imposte, abbiano eseguito il versamento dell'importo dovuto, maggiorato degli interessi legali. La presente disposizione si applica se la violazione non e' stata gia' constatata e comunque non sono iniziati accessi, ispezioni, verifiche o altre attivita' di accertamento delle quali il sostituto d'imposta o l'intermediario hanno avuto formale conoscenza e sempre che il pagamento della sanzione sia contestuale al versamento dell'imposta.))

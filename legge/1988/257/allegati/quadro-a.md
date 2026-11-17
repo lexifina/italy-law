@@ -1,7 +1,0 @@
-QUADRO A
-
-(Articolo 1)
-
-DIRIGENTI DELLE CANCELLERIE E SEGRETERIE GIUDIZIARIE
-
-Parte di provvedimento in formato grafico

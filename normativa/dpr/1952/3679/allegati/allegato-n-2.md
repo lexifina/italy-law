@@ -1,0 +1,13 @@
+ALLEGATO N. 2
+
+Elenco dei terreni intestati alla Societa' Agricola Industriale Meridionale, De Martino e C. (S.A.I.M), in comune di Montalbano Jonico (provincia di Matera), costituenti il terzo residuo, da gravare di vincolo di indisponibilita' a favore dell'Ente per lo sviluppo dell'irrigazione e la trasformazione fondiaria in Puglia e Lucania - Sezione speciale per la riforma fondiaria (art. 8 della legge 21 ottobre 1950, n. 841).
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 16 - 29 marzo 1961, n. 12 (in G.U. 1a s.s. 01/04/1961, n. 83) ha dichiarato "la illegittimita' costituzionale del D.P.R. 27 dicembre 1952, n. 3679, in relazione all'art. 4 della legge 21 ottobre 1950, n. 841, e alla tabella allegata, e in riferimento alle norme contenute negli artt. 76 e 77, primo comma, della Costituzione, in quanto l'espropriazione e' stata diretta contro soggetto privo di diritto enfiteutico in relazione ai terreni espropriati".

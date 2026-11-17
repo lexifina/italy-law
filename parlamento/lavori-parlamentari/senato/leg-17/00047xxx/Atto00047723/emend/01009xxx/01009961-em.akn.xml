@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/20.0.1"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@.akn"/>
+					<an:FRBRdate date="2017-04-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2705/A/20.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2705" showAs="DDL 2705"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIMN500WZ02EKLPNKLBP3EBKZAOPVFHAHEIR0300BYYA5FWQUTLP" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDNMJ5011EQWL0MFVPBV1TLSKUPRTWB4XXAURXWI3RLRTYN4XWXKF" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDKGOQJQ3QKDJDEIJDZSSVQQPW0EDNNITESZ0VU2FHJ0ZI4CHCFPSI" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2705</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIMN500WZ02EKLPNKLBP3EBKZAOPVFHAHEIR0300BYYA5FWQUTLP" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNMJ5011EQWL0MFVPBV1TLSKUPRTWB4XXAURXWI3RLRTYN4XWXKF" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKGOQJQ3QKDJDEIJDZSSVQQPW0EDNNITESZ0VU2FHJ0ZI4CHCFPSI" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 20-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Commissione tecnica permanente)</an:i>
+				</an:p>
+				<an:p>        1. Il Ministro dell'interno, di concerto con il Ministro degli Affari Esteri, il Ministro del lavoro, il Ministro della salute e delle politiche sociali istituisce una Commissione tecnica di studio sui flussi migratori che procede:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al monitoraggio delle situazioni di crisi e instabilità politica negli Stati confinanti e nei Paesi del Nord Africa di sponda mediterranea che potrebbero determinare un eccezionale afflusso migratorio verso l'Italia;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al monitoraggio dei dati relativi ai reati commessi da cittadini immigrati;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 al fine di applicare efficacemente le disposizioni dicci al comma3, articolo 4 del decreto legislativo 25 luglio 1998 n. 286, alla compilazione e all'aggiornamento di una lista di Paesi UE fortemente interessati dal fenomeno migratorio verso l'Italia, con relativo studio del fenomeno per individuare le reali motivazioni ed avviare, attraverso accordi bilaterali con gli Stati interessati, modalità di accesso alle banche dati della pubblica sicurezza per schedare e identificare preventivamente i cittadini comunitari che rappresentano un rischio per il mantenimento dell'ordine pubblico e della sicurezza interna;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 alla raccolta di dati ed all'elaborazione di statistiche sulle migrazioni internazionali, sulla popolazione dimorante abitualmente nel nostro Paese e sull'acquisizione della cittadinanza, sui permessi di soggiorno e sul soggiorno di cittadini di paesi extracomunitari e comunitari, nonché sui rimpatri;
+				</an:p>
+				<an:p>
+					<an:i>e)</an:i>
+					 al monitoraggio del fenomeno della disoccupazione degli stranieri titolari di permesso di soggiorno, alla formulazione di politiche attive di reinserimento di tali categorie di lavoratori e all'elaborazione di misure atte ad incentivarne i rimpatri;
+				</an:p>
+				<an:p>
+					<an:i>f)</an:i>
+					 all'analisi della capacità recettiva del Paese, in rapporto alle singole realtà territoriali, in riferimento alla disponibilità di posti di lavoro nei diversi settori occupazionali, di alloggi, e rispetto alla reale sostenibilità dei costi e dei servizi garantiti;
+				</an:p>
+				<an:p>
+					<an:i>g)</an:i>
+					 all'analisi dell'impatto dell'immigrazione sotto il profilo del rapporto tra costi e benefici con particolare riguardo ai pubblici servizi;
+				</an:p>
+				<an:p>
+					<an:i>h)</an:i>
+					 all'analisi del grado di integrazione degli stranieri presenti sul territorio nazionale anche in rapporto ai paesi di provenienza;
+				</an:p>
+				<an:p>
+					<an:i>i)</an:i>
+					 al monitoraggio dei reali effetti dell'applicazione delle disposizioni di cui all'articolo 4-
+					<an:i>bis</an:i>
+					 (accordo di integrazione) così come disciplinato dal D.P.R. 14 settembre 2011, n. 179;
+				</an:p>
+				<an:p>
+					<an:i>j)</an:i>
+					 alla formulazione di proposte per la revisione del meccanismo dei- flussi di ingresso di cui all'articolo 21 del decreto legislativo 25 luglio 1998, n. 286, finalizzate ad una immigrazione di qualità, includendo nelle quote annualmente stabilite anche gli ingressi nel territorio dello Stato per motivi di rincongiungimento familiare».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

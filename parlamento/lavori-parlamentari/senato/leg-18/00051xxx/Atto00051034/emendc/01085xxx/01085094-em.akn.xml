@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.196/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.196"/>
+					<an:FRBRdate date="2018-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.196/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.196"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@"/>
+					<an:FRBRdate date="2018-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@.akn"/>
+					<an:FRBRdate date="2018-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.196/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHJ1KRHBBMXVDGRZMUMIVD4X0YCE42SZVJIZVZYJKXW1KHB4345NM" href="http://dati.senato.it/32610" showAs="D'ALFONSO"/>
+				<an:TLCPerson id="ID2PJ3QU5HZA0ANFCORJDQZNIZWNOIWGNZTALCBJDQEF0ZYCADI4YF" href="http://dati.senato.it/29288" showAs="BONIFAZI"/>
+				<an:TLCPerson id="ID5NW0RGUQJC0JJCJW01RM5PSASHOXKXM3OFW0FPONVIAAJEJWCK1N" href="http://dati.senato.it/32746" showAs="COMINCINI"/>
+				<an:TLCPerson id="IDV31E0GMDHJKAEKG1G1GHZUTPDMUL5TTCBVYD1UFDVAXJT4BXEBXD" href="http://dati.senato.it/32643" showAs="GRIMANI"/>
+				<an:TLCPerson id="IDMT3HSWQ0KEH3LVHZW03M0YLGBC0INSIH1L2USFDCADADA2G4350H" href="http://dati.senato.it/32660" showAs="MANCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.196</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHJ1KRHBBMXVDGRZMUMIVD4X0YCE42SZVJIZVZYJKXW1KHB4345NM" as="#tipoSenatore">D'ALFONSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2PJ3QU5HZA0ANFCORJDQZNIZWNOIWGNZTALCBJDQEF0ZYCADI4YF" as="#tipoSenatore">BONIFAZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5NW0RGUQJC0JJCJW01RM5PSASHOXKXM3OFW0FPONVIAAJEJWCK1N" as="#tipoSenatore">COMINCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV31E0GMDHJKAEKG1G1GHZUTPDMUL5TTCBVYD1UFDVAXJT4BXEBXD" as="#tipoSenatore">GRIMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMT3HSWQ0KEH3LVHZW03M0YLGBC0INSIH1L2USFDCADADA2G4350H" as="#tipoSenatore">MANCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 31, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «31-
+					<an:i>bis</an:i>
+					. A decorrere dal periodo di imposta successivo a quello in corso al 31 dicembre 2018, ai soggetti intermediari coinvolti nel processo di fatturazione elettronica di cui all'articolo 3 del decreto del Presidente della Repubblica 22 luglio 1998, n. 322 è attribuito un credito di imposta - per un importo massimo di euro 400 - pari al 50 per cento delle spese sostenute per attivare il processo di emissione, trasmissione e ricevimento e conservazione della fattura elettronica attraverso il Sistema di interscambio.
+				</an:p>
+				<an:p>
+					        31-
+					<an:i>ter</an:i>
+					. Ai fini del riconoscimento del credito d'imposta, l'effettivo sostenimento delle spese ammissibili e la corrispondenza delle stesse alla documentazione contabile predisposta dal soggetto intermediario devono risultare da apposita certificazione rilasciata dal soggetto incaricato della revisione legale dei conti. Per gli intermediari non obbligati per legge alla revisione legale dei conti, la certificazione è rilasciata da un revisore legale dei conti o da una società di revisione legale dei conti, iscritti nella sezione A del registro di cui all'articolo 8 del decreto legislativo 27 gennaio 2010, n. 39».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 653, sostituire le parole:</an:i>
+					 «57,16 milioni di euro per Fanno 2019» 
+					<an:i>con le seguenti:</an:i>
+					 «27,16 milioni di euro per l'anno 2019».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

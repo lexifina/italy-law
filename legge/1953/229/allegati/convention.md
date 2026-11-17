@@ -1,3 +1,0 @@
-Convention generale entre l'Italie et la Sarre relative aux assurances sociales
-
-Parte di provvedimento in formato grafico

@@ -1,5 +1,0 @@
-La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-
-Data a Roma, addi' 6 giugno 2013
-
-NAPOLITANO Letta, Presidente del Consiglio dei Ministri Saccomanni, Ministro dell'economia e delle finanze Zanonato, Ministro dello sviluppo economico Lupi, Ministro delle infrastrutture e dei trasporti Visto, il Guardasigilli: Cancellieri

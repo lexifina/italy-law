@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1582/A/24.0.1"/>
+					<an:FRBRdate date="2014-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="24.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@"/>
+					<an:FRBRdate date="2014-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@.akn"/>
+					<an:FRBRdate date="2014-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1582/A/24.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1582" showAs="DDL 1582"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29075" showAs="Crimi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29091" showAs="Endrizzi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29143" showAs="Morra"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29164" showAs="Puglia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1582</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 24.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Crimi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Endrizzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Morra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Puglia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 24</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 24-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Semplificazioni in materia di autenticazione di atti societari)</an:i>
+				</an:p>
+				<an:p align="justify">        1. Le autenticazioni di firma e di copia previste dal codice civile per gli atti societari sono effettuate dal conservatore o dal personale assegnato all'ufficio del registro delle imprese, sia all'atto del deposito della documentazione che all'atto della formazione detta stessa1 se coloro che sono tenuti a depositare tali atti non vi hanno provveduto con altra modalità prevista dalle norme.</an:p>
+				<an:p align="justify">        2. Ai fini di una più semplice e uniforme applicazione delle disposizioni relative alla registrazione sul registro delle imprese, con regolamento ai sensi dell'articolo 8 comma 2 della legge 580/1993 possono essere predisposti moduli tipizzati per gli atti costitutivi, i trasferimenti di quote o azioni, te modificazioni dell'atto costitutivo, le deliberazioni di aumento di capitale, la nomina, revoca e i poteri degli amministratori e ogni altro atto per il quale è richiesta la registrazione nel registro delle imprese. Lo stesso regolamento può eventualmente stabilire per quali atti l'utilizzo del modulo tipizzato sia obbligatorio.</an:p>
+				<an:p align="justify">        3. Con regolamento ai sensi dell'articolo 8 comma 2 della legge 580/1993 viene disciplinata anche la possibilità di sottoscrizione e autenticazione secondo tecniche informatiche degli atti.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

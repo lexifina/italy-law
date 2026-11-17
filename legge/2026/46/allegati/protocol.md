@@ -1,9 +1,0 @@
-Allegato
-
-Protocol
-
-to amend the convention on offences and
-
-certain other acts committed on board aircraft
-
-Parte di provvedimento in formato grafico

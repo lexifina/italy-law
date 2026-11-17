@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1396/A/G7.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1396/A/G7.100"/>
+					<an:FRBRdate date="2003-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1396/A/G7.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@"/>
+					<an:FRBRdate date="2003-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@.akn"/>
+					<an:FRBRdate date="2003-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-02-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-02-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1396/A/G7.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1396" showAs="DDL 1396"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1396</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in occasione dell'esame del disegno di legge recante la delega al Governo per riformare il sistema fiscale erariale,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 7 prevede la revisione della disciplina concernente le accise, fra cui quelle applicate ai tabacchi lavorati;</an:p>
+				<an:p align="justify">
+					            alla lettera 
+					<an:i>a)</an:i>
+					 del comma 1, è stato inserito come principio di delega la "salvaguardia della salute";
+				</an:p>
+				<an:p align="justify">            dalle ultime statistiche è confermato che l'uso dei tabacchi provoca ingenti patologie ai polmoni e rappresenta la causa principale dei tumori ai polmoni nella misura almeno del 30 per cento dei casi;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">
+					            il 
+					<an:i>deficit</an:i>
+					 che si registra nella spesa sanitaria nazionale è senz'altro alimentato anche dalle cure e dall'assistenza ospedaliera prestata agli effetti da patologie da fumo;
+				</an:p>
+				<an:p align="justify">            in sede di revisione della normativa in materia di accisa sui tabacchi sarebbe opportuno inserire meccanismi, che disincentivino i cittadini all'uso dei tabacchi,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare la possibilità di correlare la misura dell'aliquota dell'accisa in questione all'incremento della spesa sanitaria destinata a fronteggiare le patologie da fumo;</an:p>
+				<an:p align="justify">            ad istituire una compartecipazione delle regioni al gettito dell'accisa sui tabacchi, nella misura dell'incremento suddetto della spesa sanitaria, al fine di destinare risorse alle regioni stesse per fronteggiare i maggiori impegni finanziari derivanti dalle cure riconducibili ai danni causati dal fumo, da ripartire in proporzione al numero degli abitanti.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

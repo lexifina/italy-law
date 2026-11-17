@@ -1,0 +1,7 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, relativo all'ordinamento dell'Amministrazione degli affari esteri;
+
+Visto il decreto del Presidente della Repubblica 20 febbraio 1971, n. 1395, pubblicato nella Gazzetta Ufficiale n. 86 del 31 marzo 1972, con il quale veniva istituito in Kobe-Osaka (Giappone) un consolato di 2ª categoria alle dipendenze dell'ambasciata d'Italia in Tokyo;
+
+Sulla proposta del Ministro per gli affari esteri; Decreta:

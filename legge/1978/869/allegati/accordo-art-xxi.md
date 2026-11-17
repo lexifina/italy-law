@@ -1,3 +1,0 @@
-Articolo XXI.
-
-Qualsiasi domanda, notifica o ricorso che, in base alla legislazione di una Parte, avrebbe dovuto essere presentato entro un determinato termine all'Autorita' competente di tale Parte o ad una Istituzione (della detta Parte) incaricata dell'applicazione del presente Accordo, ma che invece sia stato presentato entro lo stesso termine alla corrispondente Autorita' o Istituzione dell'altra Parte sara' considerato come se fosse stato presentato alla Autorita' o alla Istituzione della prima Parte. In tali casi l'Autorita' o Istituzione della seconda Parte provvedera' a far pervenire al piu' presto possibile all'Autorita' o Istituzione della prima Parte la domanda, la notifica o il ricorso.

@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la direttiva 1999/5/CE concernente le apparecchiature radio, le apparecchiature terminali di telecomunicazioni e il reciproco riconoscimento della loro conformita';
+
+Visto l'articolo 9 della legge 29 dicembre 2000, n. 422, recante disposizioni per l'adempimento di obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee - legge comunitaria 2000;
+
+Visto il decreto legislativo 12 novembre 1996, n. 614, di attuazione della direttiva 91/263/CEE concernente il ravvicinamento delle legislazioni degli Stati membri relative alle apparecchiature terminali di telecomunicazioni, incluso il reciproco riconoscimento della loro conformita', come modificata dalle direttive 93/68/CEE ed integrata dalla direttiva 93/97/CEE;
+
+Visto il decreto legislativo 12 novembre 1996, n. 615, di attuazione della direttiva 89/336/CEE del Consiglio del 3 maggio 1989, in materia di ravvicinamento delle legislazioni degli Stati membri relative alla compatibilita' elettromagnetica, modificata ed integrata dalla direttiva 92/31/CEE del Consiglio, del 28 aprile 1992, dalla direttiva 93/68/CEE del Consiglio, del 22 luglio 1993 e dalla direttiva 93/97/CEE del Consiglio, del 29 ottobre 1993;
+
+Visto il decreto del Ministro delle poste e delle telecomunicazioni 17 aprile 1997, n. 160, che approva il regolamento per la procedura di approvazione nazionale delle apparecchiature terminali di telecomunicazioni;
+
+Vista la preliminare deliberazione del Consiglio di Ministri, adottata nella riunione del 2 marzo 2001;
+
+Acquisito il parere delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 2 maggio 2001;
+
+Sulla proposta del Ministro per le politiche comunitarie e del Ministro delle comunicazioni, di concerto con i Ministri degli affari esteri, della giustizia, dell'industria, del commercio e dell'artigianato e del commercio con l'estero, dell'interno e del tesoro, del bilancio e della programmazione economica;
+
+Emana il seguente decreto legislativo:

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/12.32/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/12.32"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/12.32/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.32"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@.akn"/>
+					<an:FRBRdate date="2019-06-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-06-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-06-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1315/A/12.32/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1315" showAs="DDL 1315"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMBQTGIFQCG2BFJU0OWPLS1AH3UQUQ2GSCE0X2D2IFR2S540AEK" href="http://dati.senato.it/32714" showAs="SICLARI"/>
+				<an:TLCPerson id="ID2H4M2TJPBW1KHY5GA0APRFISFDRFQZ1XS25OVAKFLRYYD5SDXYUK" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="ID5W40XLFBJ3N0BY2XVBQVM3342NYBW4MG5D5NHNB2BNUWT4TV4ZZK" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+				<an:TLCPerson id="IDZAMUEEYBWE2WI2KJTMY14QB05H1MFYU5HKIQKIJLBRX1KGLBPYD" href="http://dati.senato.it/32661" showAs="MANGIALAVORI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1315</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.32</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMBQTGIFQCG2BFJU0OWPLS1AH3UQUQ2GSCE0X2D2IFR2S540AEK" as="#tipoSenatore">SICLARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2H4M2TJPBW1KHY5GA0APRFISFDRFQZ1XS25OVAKFLRYYD5SDXYUK" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5W40XLFBJ3N0BY2XVBQVM3342NYBW4MG5D5NHNB2BNUWT4TV4ZZK" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZAMUEEYBWE2WI2KJTMY14QB05H1MFYU5HKIQKIJLBRX1KGLBPYD" as="#tipoSenatore">MANGIALAVORI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 6 aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>6-bis</an:i>
+					. In deroga alle limitazioni normative vigenti, nella regione Calabria, è autorizzata l'assunzione di tutto il personale sanitario, medico e paramedico, necessario all'innalzamento dei LEA.
+				</an:p>
+				<an:p>
+					<an:i>6-ter</an:i>
+					. Agli oneri di cui al comma 
+					<an:i>5-bis</an:i>
+					, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 255, della legge 30 dicembre 2018, n. 145.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

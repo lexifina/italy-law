@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/A/1.31"/>
+					<an:FRBRdate date="2015-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.31"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@"/>
+					<an:FRBRdate date="2015-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@.akn"/>
+					<an:FRBRdate date="2015-12-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111-B/A/1.31/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111-B" showAs="DDL 2111-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAIC0N" href="http://dati.senato.it/senatore/2064" showAs="Paolo ROMANI"/>
+				<an:TLCPerson id="IDAGD0N" href="http://dati.senato.it/senatore/25558" showAs="BERNINI"/>
+				<an:TLCPerson id="IDAJC0N" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDAZB0N" href="http://dati.senato.it/senatore/23035" showAs="PELINO"/>
+				<an:TLCPerson id="IDAQC0N" href="http://dati.senato.it/senatore/29209" showAs="FLORIS"/>
+				<an:TLCPerson id="IDA1A0N" href="http://dati.senato.it/senatore/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDAXB0N" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDAFB0N" href="http://dati.senato.it/senatore/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDAND0N" href="http://dati.senato.it/senatore/1103" showAs="GASPARRI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.31</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIC0N" as="#tipoSenatore">Paolo ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGD0N" as="#tipoSenatore">BERNINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJC0N" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZB0N" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQC0N" as="#tipoSenatore">FLORIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1A0N" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXB0N" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFB0N" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAND0N" as="#tipoSenatore">GASPARRI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 17, lettera e), capoverso «380-sexies», primo periodo, sostituire le parole da: «sulla base» fino alla fine del periodo, con le seguenti: «ai fini del riconoscimento di IMU e TASI sugli immobili adibiti ad abitazione principale e dei terreni agricoli, in termini unitari equivalenti e in base alle relative consistenze di ciascun comune».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

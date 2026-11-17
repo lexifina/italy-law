@@ -1,9 +1,0 @@
-ANNESSO II
-
-CATEGORIE DI RIFIUTI CHE NECESSITANO DI UN ESAME PARTICOLARE
-
-Y46 Rifiuti domestici raccolti
-
-Y47 Residui provenienti dall'incenerimento dei rifiuti
-
-domestici

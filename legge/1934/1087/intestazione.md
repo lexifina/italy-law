@@ -1,9 +1,0 @@
-LEGGE
-
-04 giugno 1934
-
-1087
-
-Conversione in legge del R. decreto-legge 14 dicembre 1933, n. 1955, che proroga per due anni l'applicazione dell'art. 2 del R. decreto 30 dicembre 1923, n. 3244, riguardante i Regi tratturi e le Regie trazzere. (034U1087)
-
-Entrata in vigore del provvedimento: 17/07/1934

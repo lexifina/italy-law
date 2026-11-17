@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/2.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/2.20"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1633/A/2.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@.akn"/>
+					<an:FRBRdate date="2019-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1633/A/2.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1633" showAs="DDL 1633"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGHWEZZW3Y2EWMGPZPVEIE2MICEJE5O052CC0FWPAXE0K1LUB5CVI" href="http://dati.senato.it/25295" showAs="PITTONI"/>
+				<an:TLCPerson id="IDMGJGOB0YNUADBJRP33DMKVJGSGREBSOPUWNGZ3KGUXCCFF305HG" href="http://dati.senato.it/32711" showAs="SAPONARA"/>
+				<an:TLCPerson id="IDOHAIAR5MSI3XIFDVV3OIAX0WJD1LVSJILOAE2GEZXYM1OQYHSP3O" href="http://dati.senato.it/25565" showAs="BARBARO"/>
+				<an:TLCPerson id="ID442CN45G41PCDTMPEZ3EKRHGDKA0YREATMN2YNBMRJZAV4MF4ZGO" href="http://dati.senato.it/32752" showAs="RUFA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1633</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGHWEZZW3Y2EWMGPZPVEIE2MICEJE5O052CC0FWPAXE0K1LUB5CVI" as="#tipoSenatore">PITTONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMGJGOB0YNUADBJRP33DMKVJGSGREBSOPUWNGZ3KGUXCCFF305HG" as="#tipoSenatore">SAPONARA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOHAIAR5MSI3XIFDVV3OIAX0WJD1LVSJILOAE2GEZXYM1OQYHSP3O" as="#tipoSenatore">BARBARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID442CN45G41PCDTMPEZ3EKRHGDKA0YREATMN2YNBMRJZAV4MF4ZGO" as="#tipoSenatore">RUFA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 3 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis</an:i>
+					. Nel concorso di cui al comma precedente i soggetti che, avendo i requisiti per partecipare al concorso, abbiano, ai sensi dell'articolo 19, commi 5-
+					<an:i>bis</an:i>
+					 e 6, del decreto legislativo 30 marzo 2001, n.165, svolto le funzioni di dirigente tecnico con contratto a tempo determinato per almeno un triennio entro l'anno scolastico 2019/2020, presso gli Uffici dell'amministrazione centrale e periferica del Ministero dell'istruzione, dell'università e della ricerca, sono esonerati dalla prova preselettiva, qualora prevista.»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

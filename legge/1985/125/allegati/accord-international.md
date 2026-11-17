@@ -1,3 +1,0 @@
-ACCORD INTERNATIONAL DE 1983 SUR LES BOIS TROPICAUX
-
-Parte di provvedimento in formato grafico

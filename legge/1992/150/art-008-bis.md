@@ -1,7 +1,0 @@
-Art. 8-bis.
-
-1.
-
-Tutte le nascite o riproduzioni in cattivita' degli esemplari appartenenti a specie incluse nell'allegato A, appendici I e II, nonche' nell'allegato C, parte 1 e 2 del regolamento (CEE) n. 3626/82 del Consiglio del 3 dicembre 1982, e successive modificazioni devono essere denunciate, entro dieci giorni dall'evento, al Ministero dell'agricoltura e delle foreste - Servizio certificazione CITES, il quale ha facolta' di verificare presso il denunciante l'esistenza dei genitori e si puo' avvalere di analisi genetiche per stabilire il grado di parentela fra i presunti genitori e la prole. L'accertamento delle relazioni parentali attraverso l'esame di campioni biologici viene effettuato a seguito della messa a disposizione, senza ritardo, dei campioni medesimi da parte del detentore che si potra' avvalere di professionisti da lui stesso incaricati. Tali prelievi avverrano sempre in presenza di personale del Corpo forestale dello Stato e, qualora ritenuto opportuno dalla commissione scientifica di cui all'articolo 4, comma 2, di membri della stessa. Per tali esemplari, il predetto servizio rilascera' al denunciante un certificato conforme all'articolo 22 del regolamento (CEE) n. 3418/83 del Consiglio del 28 novembre 1983.
-
-((1-bis. Chiunque contravviene alle disposizioni di cui al comma 1 e' punito, salvo che il fatto costituisca reato, con la sanzione amministrativa del pagamento di una somma da euro cinquecento a euro duemila))

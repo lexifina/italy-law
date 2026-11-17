@@ -1,3 +1,0 @@
-Tabella
-
-(( TABELLA ABROGATA DAL D.P.R. 26 MARZO 2001, N. 107 ))

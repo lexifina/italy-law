@@ -1,0 +1,5 @@
+ALLEGATO
+
+Statut de l'Agence internationale de l'energie atomique
+
+Parte di provvedimento in formato grafico

@@ -1,5 +1,0 @@
-Art. 9-bis.
-
-(( (Varianti in corso d'opera).
-
-1. Le varianti in corso d'opera per motivi di cui all'articolo 25 della legge 11 febbraio 1994, n. 109, e successive modificazioni, contenute in apposita perizia suppletiva e di variante, possono essere autorizzate dalla stazione appaltante a condizione che il completamento integrale dell'opera interessata sia assicurato a valere sulle risorse disponibili, trascorsi trenta giorni dalla presentazione della richiesta da parte della stazione appaltante delle autorizzazioni e dei pareri obbligatori agli enti e agli uffici coinvolti senza che sia stato comunicato formalmente un motivato dissenso, sempreche' sia assicurata la copertura economica della eventuale maggiore spesa nel quadro economico dell'intervento. Gli enti e gli uffici, ai quali sono stati richiesti autorizzazioni e pareri, possono domandare, entro dieci giorni dalla presentazione della richiesta da parte della stazione appaltante, una sola volta eventuali integrazioni alla documentazione loro presentata))

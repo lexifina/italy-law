@@ -1,0 +1,3 @@
+VOCI E NOTE DA MODIFICARE
+
+Parte di provvedimento in formato grafico

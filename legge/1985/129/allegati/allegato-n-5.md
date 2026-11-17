@@ -1,5 +1,0 @@
-ALLEGATO N. 5
-
-VALUTA E MERCI
-
-Parte di provvedimento in formato grafico

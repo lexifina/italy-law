@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2191/A/2.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2191/A/2.5"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2191/A/2.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@.akn"/>
+					<an:FRBRdate date="2021-05-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2191/A/2.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2191" showAs="DDL 2191"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEHSYCPFV55CDJDA5Z1G31S1HWXKZ3QDTQ4A40BXURWKYXNIIDDK" href="http://dati.senato.it/1275" showAs="LA RUSSA"/>
+				<an:TLCPerson id="IDDXQ45WJS2JELBSQO1NH4JUINKBZUBJMVLX5TYXLULE0IE5GQ4FSM" href="http://dati.senato.it/22784" showAs="TOTARO"/>
+				<an:TLCPerson id="IDULALRLWO5HY5LISLORKC3B14XGQEV5Y51QQXJYOMMYGIFLVMU2LG" href="http://dati.senato.it/32623" showAs="DRAGO"/>
+				<an:TLCPerson id="IDIWQX0JI1QE4SBNHLYGGEZFMTDHCYH3D53IT0KVIA34TDQ15TFDNG" href="http://dati.senato.it/33946" showAs="MAFFONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2191</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEHSYCPFV55CDJDA5Z1G31S1HWXKZ3QDTQ4A40BXURWKYXNIIDDK" as="#tipoSenatore">LA RUSSA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDXQ45WJS2JELBSQO1NH4JUINKBZUBJMVLX5TYXLULE0IE5GQ4FSM" as="#tipoSenatore">TOTARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDULALRLWO5HY5LISLORKC3B14XGQEV5Y51QQXJYOMMYGIFLVMU2LG" as="#tipoSenatore">DRAGO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIWQX0JI1QE4SBNHLYGGEZFMTDHCYH3D53IT0KVIA34TDQ15TFDNG" as="#tipoSenatore">MAFFONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 12, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «12
+					<an:i>-bis</an:i>
+					. Ai minori di anni 16 è garantito un contributo pari a 300 euro mensile da spendere per attività sportiva o supporto psicologico.». 
+					<an:i/>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

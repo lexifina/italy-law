@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI S. GIOVANNI IN FIORE
-
-Parte di provvedimento in formato grafico

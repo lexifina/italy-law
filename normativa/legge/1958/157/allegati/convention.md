@@ -1,0 +1,3 @@
+Convention europeenne sur l'equivalence des periodes d'etudes universitaires
+
+Parte di provvedimento in formato grafico

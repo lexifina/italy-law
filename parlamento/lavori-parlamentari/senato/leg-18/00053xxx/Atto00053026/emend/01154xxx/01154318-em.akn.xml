@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/12.0.1"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@.akn"/>
+					<an:FRBRdate date="2020-06-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-06-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-06-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1829/A/12.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1829" showAs="DDL 1829"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5CWHHRMMUQXVHYE4HCJ4SD4Z4BVVL2QCBFQHETL4HH3XTRTFLUCC" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDQ5ZYVEOVXDEXPVHPMP4WKGU1AMK3XY32DC3WVAEGRGWXO4QQ2IMP" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="IDYKMICYKRTOH4MWCNB2EQBTDRPFT3KAXWKC03B2I1ZFGD4DLDUGYH" href="http://dati.senato.it/17841" showAs="FERRO"/>
+				<an:TLCPerson id="IDJGYF22ASCXN1Y1JBJ2IGMDY0NAILAM0IE00N3CZGHQ1UITQUBVL" href="http://dati.senato.it/31157" showAs="SACCONE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1829</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5CWHHRMMUQXVHYE4HCJ4SD4Z4BVVL2QCBFQHETL4HH3XTRTFLUCC" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQ5ZYVEOVXDEXPVHPMP4WKGU1AMK3XY32DC3WVAEGRGWXO4QQ2IMP" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYKMICYKRTOH4MWCNB2EQBTDRPFT3KAXWKC03B2I1ZFGD4DLDUGYH" as="#tipoSenatore">FERRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJGYF22ASCXN1Y1JBJ2IGMDY0NAILAM0IE00N3CZGHQ1UITQUBVL" as="#tipoSenatore">SACCONE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					Art. 12
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Merito di credito)</an:i>
+				</an:p>
+				<an:p>        1. Gli istituti bancari e di credito, ai fini della valutazione di imprese che necessitano di mutui, prestiti e altre forme di finanziamento previsti ai sensi della presente legge, non tengono conto della valutazione del merito di credito sino alla data del 31 dicembre 2020, né considerano tra i crediti deteriorati le eventuali future insolvenze derivanti dai crediti concessi ai sensi della presente legge.</an:p>
+				<an:p>        2. In virtù di quanto previsto dal comma 1, in caso di successivo fallimento dell'impresa, non operano le disposizioni vigenti in materia di revocatoria fallimentare, nonché le disposizioni vigenti in materia penale e fallimentare di bancarotta con riferimento alle fattispecie di coinvolgimento a titolo di concorso degli istituti di credito nei reati fallimentari dell'imprenditore nei reati di bancarotta fraudolenta preferenziale, di bancarotta semplice per operazioni di grave imprudenza o per ritardata richiesta di fallimento, nonché nelle ipotesi di ricorso abusivo al credito ovvero di concessione abusiva del credito ai sensi dell'articolo 217 della legge fallimentare.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

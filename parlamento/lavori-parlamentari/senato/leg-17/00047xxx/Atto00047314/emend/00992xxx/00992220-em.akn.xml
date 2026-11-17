@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2550/A/10.0.2"/>
+					<an:FRBRdate date="2016-10-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@"/>
+					<an:FRBRdate date="2016-10-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@.akn"/>
+					<an:FRBRdate date="2016-10-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-10-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-10-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2550/A/10.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2550" showAs="DDL 2550"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDY55KATP4PPF3OULEOKAZ4VBWCPS53T4PBZXFDRLAZJVAIYFLD3M" href="http://dati.senato.it/29055" showAs="BUCCARELLA"/>
+				<an:TLCPerson id="IDDG0B5YVEUMXUEWTU14AUGBTXFONCOZN2RM1Z35SKG30NHF1JOZJ" href="http://dati.senato.it/29061" showAs="CAPPELLETTI"/>
+				<an:TLCPerson id="ID1441QO0UFAZYLI5DWWSHFBT15IROYG5LQDK52TEUGRBXZNMEXQPB" href="http://dati.senato.it/29106" showAs="GIARRUSSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2550</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDY55KATP4PPF3OULEOKAZ4VBWCPS53T4PBZXFDRLAZJVAIYFLD3M" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDG0B5YVEUMXUEWTU14AUGBTXFONCOZN2RM1Z35SKG30NHF1JOZJ" as="#tipoSenatore">CAPPELLETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1441QO0UFAZYLI5DWWSHFBT15IROYG5LQDK52TEUGRBXZNMEXQPB" as="#tipoSenatore">GIARRUSSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo</an:b>
+					 inserire il seguente:
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Assunzione di personale amministrativo non dirigenziale da inquadrare nei ruoli dell'Amministrazione giudiziaria)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 1, del decreto-legge 30 giugno 201:6, n. 117 convertito, con modificazioni, dalla legge 12 agosto 2016, n. 161, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 2-
+					<an:i>bis</an:i>
+					, le parole: "1000 unità" sono sostituite dalle seguenti: "2000 unità";
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al comma 2-
+					<an:i>quinquiesdecies</an:i>
+					, le parole: "5.60.6.324 per l'anno 2016 e di euro 33.637.944 annui a decorre dall'anno 2017 cui si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 96, della legge 23 dicembre 2014, n. 190" sono sostituite dalle seguenti: "12.000.000 per l'anno 2016 e di euro 67.500.000 annui a decorrere dall'anno 2017 cui si provvede mediante corrispondente riduzione della dotazione del fondo relativo alle esigenze indifferibili che si manifestano nel corso della gestione di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190"»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

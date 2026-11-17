@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/3.70/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/3.70"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/3.70/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.70"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@.akn"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/3.70/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29173" showAs="Saggese"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17769" showAs="Ruta"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17635" showAs="Ruvolo"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29035" showAs="Albano"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29096" showAs="Ferrara"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29176" showAs="Scalia"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/29200" showAs="Valentini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.70</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Saggese</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Ruta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Ruvolo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Albano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Scalia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Valentini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 12 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «12-
+					<an:i>bis</an:i>
+					. L'articolo 4-
+					<an:i>quinquiesdecies</an:i>
+					 del decreto-legge 3 novembre 2008, n. 171, convertito, con modificazioni, dalla legge 30 dicembre 2008, n. 205, è sostituito dal seguente:
+				</an:p>
+				<an:p>
+					        ''Art. 4-
+					<an:i>quinquesdecies - (Disposizioni per la produzione della ''mozzarella di bufala campana'' DOP) - 1.</an:i>
+					 A decorrere dal 1º giugno 2014 la produzione della mozzarella di bufala campana'', registrata come denominazione di origine protetta (DOP) ai sensi dei regolamento (CE) n. 1107/96 della Commissione, del 12 giugno 1996, deve essere effettuata- su linee di produzione diverse ed accuratamente separate da quelle su cui ha luogo la eventuale produzione di altri tipi di formaggi o preparati alimentari realizzati con latte e derivati del latte non provenienti da allevamenti inseriti nel sistema di controllo della denominazione di origine protetta. Al fine di consentire alle aziende interessate un'adeguata programmazione delle rispettive attività, il Ministro delle politiche agricole alimentari e forestali provvede con proprio decreto, entro il 1º gennaio 2014, a definire le modalità per l'attuazione del presente articolo.
+				</an:p>
+				<an:p>        2. Sono escluse dall'obbligo previsto al comma 1 tutte le aziende che si obbligano ad utilizzare e detenere esclusivamente all'interno dell'impianto produttivo latte bufalino e semi1vorati realizzati con latte proveniente da allevamenti inseriti nel sistema di controllo della denominazione di origine protetta».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

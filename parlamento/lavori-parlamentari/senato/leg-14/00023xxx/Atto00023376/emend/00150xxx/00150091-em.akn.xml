@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3614/A/G9.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3614/A/G9.1"/>
+					<an:FRBRdate date="2005-11-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3614/A/G9.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G9.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@"/>
+					<an:FRBRdate date="2005-11-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@.akn"/>
+					<an:FRBRdate date="2005-11-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-11-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-11-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3614/A/G9.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3614" showAs="DDL 3614"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1149" showAs="Giovanelli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17559" showAs="Gasbarri"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17587" showAs="Iovene"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17634" showAs="Rotondo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3851" showAs="Maconi"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17547" showAs="Battaglia"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3614</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G9.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Giovanelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Gasbarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Iovene</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Rotondo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Maconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> «Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame dello stato di previsione del Ministero dell'ambiente e della tutela del territorio per l'anno finanziario 2006,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            nonostante nello scorso esercizio finanziario il Governo avesse accolto come raccomandazione un ordine del giorno, approvato dalla Commissione, sulla necessità di garantire risorse adeguate a finanziare i capitoli di bilancio relativi all'adozione di procedure e programmi denominati "Agende 21 locali e contabilità ambientale", avviati con l'articolo 21 della legge 23 marzo 2001, n. 93, che costituiscono un'importante esperienza di innovazione della 
+					<an:i>governance</an:i>
+					 ambientale a livello locale, portata avanti in molte importanti città;
+				</an:p>
+				<an:p align="justify">            anche per questo esercizio finanziario nel suddetto stato di previsione mancano risorse per la ricerca ambientale (u.p.b. 4.2.3.12) ed, in particolare, per le spese finalizzate all'adozione di procedure e programmi denominati "Agende 21 e contabilità ambientale" (cap. 7871), i cui residui sono stati, fra l'altro, ridotti di quasi 803 milioni di euro,</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a chiarire le ragioni di questa mancanza di stanziamento e a reperire risorse adeguate a finanziare i capitoli di bilancio relativi all'adozione di procedure e programmi denominati "Agende 21 e contabilità ambientale"».</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

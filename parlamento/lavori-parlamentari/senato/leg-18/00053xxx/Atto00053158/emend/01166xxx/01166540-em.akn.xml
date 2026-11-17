@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/10.0.552"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.552"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/10.0.552/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPWWN3G5PJ3ZSCMKDU14L41CIGF5BZXOEKXDANLHH5GNNPVHTORBK" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDSSMD4AHMI3XUK5YOOPPGH1PXTL5HKRP1WEETMMCDL5NYPCOCAYYJ" href="http://dati.senato.it/32643" showAs="GRIMANI"/>
+				<an:TLCPerson id="ID4MIVU3EQQYY2GGMKUIR1JU1TPBUI05U1F22B4IVWS5E5BZ3TJWK" href="http://dati.senato.it/32731" showAs="VONO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.552</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPWWN3G5PJ3ZSCMKDU14L41CIGF5BZXOEKXDANLHH5GNNPVHTORBK" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSSMD4AHMI3XUK5YOOPPGH1PXTL5HKRP1WEETMMCDL5NYPCOCAYYJ" as="#tipoSenatore">GRIMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4MIVU3EQQYY2GGMKUIR1JU1TPBUI05U1F22B4IVWS5E5BZ3TJWK" as="#tipoSenatore">VONO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 10-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Cedolare secca ridotta commerciale)</an:i>
+				</an:p>
+				<an:p>        1. Il canone relativo ai contratti di locazione stipulati ai sensi del Capo II della legge 27 luglio 1978 n. 392, in corso di validità alla data di entrata in vigore del presente decreto, per i quali le parti abbiano raggiunto un accordo finalizzato alla diminuzione, anche in via temporanea, del canone stesso allo scopo di contenere gli effetti negativi sulle attività commerciali artigianali, professionali ed industriali determinate dall'emergenza epidemiologica da COVID-19, può, in alternativa rispetto al regime ordinario vigente per la tassazione del reddito fondiario ai fini dell'imposta sul reddito delle persone fisiche e delle persone giuridiche e dei soggetti individuali con partita IVA, essere assoggettato al regime della cedolare secca, di cui all'articolo 3 del decreto legislativo 14 marzo 2011, n. 23, con l'aliquota speciale unica del 10 per cento. Le parti, nella stipula degli accordi finalizzati alla diminuzione, anche in via temporanea, del canone di locazione potranno farsi assistere dalle organizzazioni della proprietà edilizia e da quelle produttive di settore cui appartiene l'attività, che attestano la conformità dell'accordo alla legge 392 del 1978 e al presente decreto. L'attestazione è condizione per la sola applicazione dei benefici fiscali. Il presente regime non è applicabile ai contratti stipulati dopo la data del 31 gennaio 2020 nonché ai contratti stipulati tra i medesimi soggetti e per lo stesso immobile, in corso di validità alla data del 1º gennaio 2020 che siano stati risolti anticipatamente rispetto al termine iniziale previsto».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

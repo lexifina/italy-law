@@ -1,9 +1,0 @@
-Articolo 28
-
-RIMBORSI
-
-1. Le imposte riscosse in uno Stato contraente mediante ritenuta alla fonte sono rimborsate a richiesta dell'interessato qualora il diritto alla percezione di dette imposte sia limitato dalle disposizioni della presente Convenzione.
-
-2. Le istanze di rimborso, da prodursi in osservanza dei termini stabiliti dalla legislazione dello Stato contraente tenuto ad effettuare il rimborso stesso, devono essere corredate da un attestato ufficiale dello Stato contraente di cui il contribuente e' residente certificante che sussistono le condizioni richieste per aver diritto all'applicazione dei benefici previsti dalla presente Convenzione.
-
-3. Le autorita' competenti degli Stati contraenti stabiliranno di comune accordo, conformemente alle disposizioni dell'articolo 25 della presente Convenzione, le modalita' di applicazione del presente articolo.

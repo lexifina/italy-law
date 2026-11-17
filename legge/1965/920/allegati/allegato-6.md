@@ -1,5 +1,0 @@
-ALLEGATO 6.
-
-CERTIFICATO PROVVISORIO
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/2.777/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/2.777"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/A/2.777/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.777"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@.akn"/>
+					<an:FRBRdate date="2014-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/A/2.777/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29156" showAs="Panizza"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2553" showAs="Zeller"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29155" showAs="Palermo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29042" showAs="Battista"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29115" showAs="Laniece"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29045" showAs="Berger"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.777</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Panizza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Zeller</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Palermo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Battista</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Laniece</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Berger</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 97, inserire il seguente:</an:p>
+				<an:p align="justify">
+					        «97-
+					<an:i>bis</an:i>
+					. In deroga all'articolo 66, comma 13-
+					<an:i>bis</an:i>
+					, del decreto-legge 25 giugno 2008, n. 112, convertito con modificazioni dalla legge 6 agosto 2008, n. 133 e successive modificazioni, il contingente delle assunzioni attribuite a ciascuna università per l'anno 2014 è aumentato delle quote necessarie alla chiamata come professori di prima fascia, ai sensi dell'articolo 29, comma 4, della legge 30 dicembre 2010, n. 240, di coloro che sono in possesso della relativa idoneità conseguita a seguito di concorsi banditi dalle università ai sensi della legge 3 luglio 1998, n. 210 e successive modificazioni, e che sono in servizio presso il medesimo o altri atenei in qualità di professori associati o ricercatori. La chiamata è effettuata entro il 31 dicembre 2014 con la modalità stabilita dall'articolo 18, comma 1, lettera 
+					<an:i>e)</an:i>
+					 della legge 30 dicembre 2010, n. 240. I professori cosi chiamati mantengono il trattamento retributivo della fascia di provenienza fino al termine stabilito dall'articolo 1, comma 471, della legge 27 dicembre 2013, n. 147. Sono fatti salvi, anche ai fini retributivi, gli effetti della conferma in ruolo come professore ordinario».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

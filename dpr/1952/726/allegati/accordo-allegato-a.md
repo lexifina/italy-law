@@ -1,5 +1,0 @@
-ALLEGATO A
-
-LISTA DELLE MERCI IRACHENE DA ESPORTARE VERSO L'ITALIA
-
-Parte di provvedimento in formato grafico

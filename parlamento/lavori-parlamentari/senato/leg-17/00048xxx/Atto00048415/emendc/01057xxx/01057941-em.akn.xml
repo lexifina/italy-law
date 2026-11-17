@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="52.0.1000/9"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@.akn"/>
+					<an:FRBRdate date="2017-11-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/C/52.0.1000/9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDV0QRDB5FWGRKKAKN3TVYHB2FXKMH00LUBWJTVJ1LU51VZTNONOH" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="ID5T0B22LTLFTUD3ZAQOY2PTLYHEDFJC0OFY5NZGEZX2VWKQ5EL3NB" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDKXVIMIZTRVFNMDL1NY5IU1XVJO2IMJ0I1BCP4XKR3MSP10UDOMKN" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDXA0SBQ1LECNTM23LS1ULH3TPTMDAHXA022V5YMNIQYVW0FY5MQXF" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 52.0.1000/9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV0QRDB5FWGRKKAKN3TVYHB2FXKMH00LUBWJTVJ1LU51VZTNONOH" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5T0B22LTLFTUD3ZAQOY2PTLYHEDFJC0OFY5NZGEZX2VWKQ5EL3NB" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKXVIMIZTRVFNMDL1NY5IU1XVJO2IMJ0I1BCP4XKR3MSP10UDOMKN" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXA0SBQ1LECNTM23LS1ULH3TPTMDAHXA022V5YMNIQYVW0FY5MQXF" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 52.0.1000, dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1
+					<an:i>-bis.</an:i>
+					 Per l'attuazione del comma 1, che deroga alle disposizioni vigenti in materia di revisione della spesa per il Corpo delle capitanerie di porto, con Decreto del Ministro della Difesa, da emanarsi di concerto con il Ministro dell'economia e delle finanze entro 20 giorni dall'entrata in vigore della presente legge, si provvede a determinare, per un controllo e monitoraggio della qualità della spesa, i macro livelli per riparto delle risorse assegnate, nonché le modalità di ricognizione da parte del Ministero dell'economia e delle finanze delle somme utilizzate».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

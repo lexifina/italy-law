@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/C/11.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/C/11.10"/>
+					<an:FRBRdate date="2009-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/832/C/11.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@"/>
+					<an:FRBRdate date="2009-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@.akn"/>
+					<an:FRBRdate date="2009-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-03-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-03-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/832/C/11.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/832" showAs="DDL 832"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Territorio, ambiente, beni ambientali" href="/dati.senato.it/osr/Commissione/13"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/321" showAs="Bonino"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 832</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bonino</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire il comma 8 con il seguente:</an:p>
+				<an:p>        «I consorzi di bacino e le società pubblico-private costituite per la gestione dei rifiuti in Campania sono sciolti o posti in liquidazione entro sessanta giorni. Nelle more dell'attivazione dei servizi in via diretta da parte dei singoli comuni, la gestione delle attività è affidata, per singola provincia, ad un manager qualificato con specifica esperienza nel settore, da individuarsi con successivo provvedimento del Sottosegretario di Stato. II Sottosegretario di Stato, sentiti gli enti locali, predispone, per singola provincia, il piano di assegnazione di mezzi ed attrezzature e del personale ai singoli comuni man mano che sono in grado di avviare in via diretta le attività. II personale è assegnato ai comuni nella posizione giuridica ed economica in atto. È fatto divieto ai comuni di utilizzare il personale assegnato in attività diverse da quelle connesse alla raccolta dei rifiuti. II Sottosegretario di Stato, ai fini della soluzione strutturale dell'emergenza rifiuti in Campania, autorizza i comuni, nei limiti delle norme fissate per legge, al trattamento dei propri rifiuti, sulla base di un piano di smaltimento e trattamento a tal fine idoneo e senza oneri per lo Stato».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

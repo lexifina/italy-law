@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/1.94/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/1.94"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/1.94/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.94"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/1.94/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKNPBDOARGH3HMDKI5ODA21J0HP3KWGSKTKIPHREU2ELI54KIFPQG" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDZSIZRAPC1SVSE4GGLHHXN0D3ZB1I5SKNHLJRY1P3CGE05C30FBGF" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDZ3YBFCK3D1RKNQFI1RX1553UJFLJUKCTIHNMO1DQA3W1HRP5UB2O" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="ID0NZADEKVBDPSIBVCZEU5LIUSBP2HYECTTAVWA5BHMEJZLO1QHSME" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDPV0N2AFUPOTDMLSXBXOJIWSUBAITAVZUVGGY3MURR1U2SV1UMLM" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.94</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKNPBDOARGH3HMDKI5ODA21J0HP3KWGSKTKIPHREU2ELI54KIFPQG" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZSIZRAPC1SVSE4GGLHHXN0D3ZB1I5SKNHLJRY1P3CGE05C30FBGF" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ3YBFCK3D1RKNQFI1RX1553UJFLJUKCTIHNMO1DQA3W1HRP5UB2O" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0NZADEKVBDPSIBVCZEU5LIUSBP2HYECTTAVWA5BHMEJZLO1QHSME" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPV0N2AFUPOTDMLSXBXOJIWSUBAITAVZUVGGY3MURR1U2SV1UMLM" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis</an:i>
+					. Ai soggetti che nel corso del 2019 hanno avuto interruzione documentabile dell'attività, l'ammontare medio mensile del fatturato e dei corrispettivi dell'anno 2019 di cui al primo periodo del presente comma si determina soltanto in riferimento ai mesi di operatività. Agli oneri di cui al presente comma, nel limite di 200 milioni di euro per l'anno 2021, si provvede ai sensi dell'articolo 41».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

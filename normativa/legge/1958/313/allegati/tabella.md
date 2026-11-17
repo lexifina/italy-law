@@ -1,0 +1,3 @@
+TABELLA DELLE MALATTIE PROFESSIONALI
+
+Parte di provvedimento in formato grafico

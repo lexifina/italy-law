@@ -1,7 +1,0 @@
-LEGGE
-
-09 maggio 1977
-
-619
-
-Ratifica ed esecuzione della convenzione tra la Repubblica italiana e la Repubblica araba d'Egitto sulle notificazioni degli atti, sulle commissioni rogatorie e sulla collaborazione giudiziaria e gli studi giuridici in materia civile, commerciale e di stato delle persone, firmata a Roma il 2 aprile 1974.

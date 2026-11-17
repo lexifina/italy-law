@@ -1,0 +1,5 @@
+Art. 15-bis.
+
+(( (Semplificazione della rettifica degli allegati a e a/2 al rendiconto degli enti locali per l'anno 2020). ))
+
+((1. In deroga alle modalita' previste per la deliberazione del rendiconto della gestione di cui all'articolo 227 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, qualora l'ente locale abbia approvato il rendiconto senza aver inviato la certificazione di cui all'articolo 39, comma 2, del decreto-legge 14 agosto 2020, n. 104, convertito, con modificazioni, dalla legge 13 ottobre 2020, n. 126, la rettifica degli allegati al rendiconto 2020 relativi al risultato di amministrazione (allegato a) e all'elenco analitico delle risorse vincolate nel risultato di amministrazione (allegato a/2) di cui al decreto legislativo 23 giugno 2011, n. 118, e' effettuata dal responsabile del servizio finanziario, sentito l'organo di revisione, salvo che non riguardi il valore complessivo del risultato di amministrazione. Il rendiconto aggiornato e' tempestivamente trasmesso alla banca dati delle amministrazioni pubbliche di cui all'articolo 13 della legge 31 dicembre 2009, n. 196))

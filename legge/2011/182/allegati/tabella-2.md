@@ -1,5 +1,0 @@
-Tabella 2
-
-STATO DI PREVISIONE DEL MINISTERO DELL'ECONOMIA E DELLE FINANZE
-
-Parte di provvedimento in formato grafico

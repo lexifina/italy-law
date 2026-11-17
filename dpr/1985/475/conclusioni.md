@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 30 luglio 1985
-
-COSSIGA GORIA, Ministro del tesoro Visto, il Guardasigilli: MARTINAZZOLI Registrato alla Corte dei conti, addi' 11 settembre 1985 Registro n. 31 Tesoro, foglio n. 150 -------------- AGGIORNAMENTO (1) L'errata corrige relativa al presente decreto (in G.U. 30/09/1985, n. 230) ha disposto che nel dispositivo del presente decreto, la prima cifra di L. 250.000.000 (che peraltro e' la ripetizione di quella seguente), riportata accanto al cap. 1108 relativo alla Presidenza del Consiglio dei Ministri, deve intendersi soppressa. --------------- Nota redazionale Il testo del presente articolo e' gia' integrato con le correzioni apportate dall'errata-corrige pubblicato in G.U. 30/9/1985, n. 230 durante il periodo di "vacatio legis". E' possibile visualizzare il testo originario accedendo alla versione pdf della relativa Gazzetta di pubblicazione.

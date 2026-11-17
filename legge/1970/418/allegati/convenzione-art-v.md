@@ -1,9 +1,0 @@
-Articolo V
-
-Contestazione sulla competenza arbitrale
-
-1. La Parte che intende sollevare una eccezione di incompetenza dell'arbitro, qualora si tratti di eccezioni fondate sull'inesistenza, la nullita' o la caducita' della Convenzione di arbitrato, deve farlo nella procedura arbitrale al piu' tardi al momento della presentazione delle sue difese di merito e, qualora si tratti di eccezioni tratte dal fatto che le questioni in litigio eccedono i poteri dell'arbitro, deve farlo non appena sara' stata sollevata, nel corso della procedura arbitrale, la questione che eccede i detti poteri. Qualora il ritardo delle Parti nel sollevare l'eccezione fosse dovuto ad una causa considerata dall'arbitro come valida, questi dichiara ricevibile l'eccezione.
-
-2. Le eccezioni di incompetenza, considerate al precedente paragrafo 1 e che non siano state sollevate nei termini fissati dal detto paragrafo 1, non potranno piu' esserlo nel seguito della procedura arbitrale sempreche' si tratti di eccezioni che a norma del diritto applicabile dall'arbitro, possono essere sollevate unicamente dalle Parti ne' potranno esserlo nel corso di una procedura giudiziaria ulteriore sul merito o sull'esecuzione della sentenza qualora si tratti di eccezioni lasciate alla facolta' delle Parti in forza della legge determinato dalle regole sui conflitti del tribunale giudiziario investito del merito o dell'esecuzione della sentenza. Il giudice potra' tuttavia controllare la decisione con la quale l'arbitro abbia constatato la tardivita' dell'eccezione.
-
-3. Salvi restando i controlli giudiziari ulteriori previsti dalla legge del foro, l'arbitro la cui competenza sia contestata non deve disinteressarsi del caso; egli ha il potere di pronunciarsi sulla propria competenza e sull'esistenza o validita' della Convenzione d'arbitrato o del contratto di cui detta convenzione fa parte.

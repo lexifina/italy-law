@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11"/>
+					<an:FRBRdate date="2019-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1018/5/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@"/>
+					<an:FRBRdate date="2019-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@.akn"/>
+					<an:FRBRdate date="2019-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/C/G/1018/5/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTAIUA5EU3F0QDLPMHHCNHGOE4KKTW3MLBLRLUDFIJ0K4E0D4BZDK" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDAWIT1GE1OPP4B0FYTVFM3T0ZPK0TIIV3GJTRSBN2FGN5SYJZOMGL" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="IDPHXUIOP2E0NQJLUT2AKFCDWIVJDYZT0AMPGSWOLHUORRLMLHIKKK" href="http://dati.senato.it/29106" showAs="GIARRUSSO"/>
+				<an:TLCPerson id="IDLJQKPERAYEXHP1OHU3V30I5XZIVAYIPNYIICGUBOITQ00IKI0GWP" href="http://dati.senato.it/32629" showAs="FEDE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1018/5/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTAIUA5EU3F0QDLPMHHCNHGOE4KKTW3MLBLRLUDFIJ0K4E0D4BZDK" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWIT1GE1OPP4B0FYTVFM3T0ZPK0TIIV3GJTRSBN2FGN5SYJZOMGL" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPHXUIOP2E0NQJLUT2AKFCDWIVJDYZT0AMPGSWOLHUORRLMLHIKKK" as="#tipoSenatore">GIARRUSSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLJQKPERAYEXHP1OHU3V30I5XZIVAYIPNYIICGUBOITQ00IKI0GWP" as="#tipoSenatore">FEDE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede d'esame del disegno di legge recante conversione in legge del decreto-legge 28 gennaio 2019, n. 4, recante disposizioni urgenti in materia di reddito di cittadinanza e di pensioni,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 20 del decreto-legge in esame reca disposizioni in merito al riscatto di periodi non coperti da contribuzione;</an:p>
+				<an:p>            in particolare, il comma 6 del citato articolo 20 modifica la disciplina del riscatto dei corsi di studio universitario, relativamente a periodi da valutare con il sistema contributivo;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>
+					            il riscatto del corso di laurea di cui all'articolo 2-
+					<an:i>novies</an:i>
+					 del decreto-legge 2 marzo 1974, n. 30; convertito, con modificazioni, dalla legge 16 aprile 1974, n. 114, è un istituto che consente di andare in pensione con alcuni anni di anticipo valorizzando ai fini pensionistici il periodo del proprio corso di studi ed è valido a condizione che l'interessato abbia conseguito il titolo di studio (diploma di laurea o titolo equiparato);
+				</an:p>
+				<an:p>            tra laurea triennale e specialistica, il periodo di permanenza presso un ateneo è mediamente di cinque anni e dunque poter inserire i periodi di studio nel proprio fascicolo previdenziale rappresenta un vantaggio non trascurabile;</an:p>
+				<an:p>
+					            tuttavia, i dati sull'istituto 
+					<an:i>de quo</an:i>
+					 dimostrano come lo stesso sia divenuto sensibilmente oneroso e, conseguentemente, accessibile solo per pochi. Ed invero, un numero del tutto limitato di persone decide di riscattare gli anni di laurea proprio in quanto la relativa normativa, attualmente in vigore, non rende conveniente il ricorso a tale istituto. Le cifre utili ai fini del riscatto, infatti, si palesano come del tutto ostative;
+				</an:p>
+				<an:p>            come noto, la riforma pensionistica di cui all'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni dalla legge 22 dicembre 2011, n. 214 (cosiddetta Riforma Fornero) ha comportato il drastico passaggio aduna maggiore età pensionabile ed al sistema contributivo;</an:p>
+				<an:p>            l'introduzione del ricorso all'istituto del riscatto gratuito degli anni legali del corso di studi potrebbe costituire uno strumento attraverso il quale mitigare gli effetti drastici di cui sopra,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            a valutare l'opportunità di stabilire la gratuità del ricorso all'istituto del riscatto degli anni legali del corso di studi e, pertanto, a valutare la possibilità di intervenire per far valere il periodo di studi in questione ai fini della maturazione del diritto alla pensione considerando, dunque, il tempo trascorso a studiare, ossia gli anni da riscattare, nel computo dei periodi utili ai soli fini dell'acquisizione dei requisiti assicurativi per il diritto al pensionamento e consentendo, comunque, la facoltà di riscatto onerosa ai sensi delle disposizioni di cui ai commi da 3 a 5-
+					<an:i>bis</an:i>
+					 dell'articolo 2 decreto legislativo 30 aprile 1997, n. 184;
+				</an:p>
+				<an:p>            a valutare l'opportunità di riscattare gratuitamente i periodi di studio di cui sopra senza che rilevi l'età ed il reddito del richiedente.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

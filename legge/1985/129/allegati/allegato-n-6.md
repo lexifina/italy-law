@@ -1,5 +1,0 @@
-ALLEGATO N. 6
-
-SCAMBIO DI INFORMAZIONI SANITARIE
-
-Parte di provvedimento in formato grafico

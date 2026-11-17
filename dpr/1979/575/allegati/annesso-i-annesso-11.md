@@ -1,5 +1,0 @@
-ANNESSO 11
-
-CERTIFICATO SANITARIO PER SELVAGGINA DA PENNA VIVA
-
-Parte di provvedimento in formato grafico

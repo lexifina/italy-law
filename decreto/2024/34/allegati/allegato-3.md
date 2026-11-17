@@ -1,7 +1,0 @@
-ALLEGATO 3
-
-(Articoli 2, comma 3, 7, comma 4 e 10, comma 3)
-
-ATTESTATO DI FREQUENZA DEL CORSO DI FORMAZIONE INIZIALE
-
-Parte di provvedimento in formato grafico

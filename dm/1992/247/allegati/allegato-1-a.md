@@ -1,3 +1,0 @@
-ALLEGATO 1/A
-
-Parte di provvedimento in formato grafico

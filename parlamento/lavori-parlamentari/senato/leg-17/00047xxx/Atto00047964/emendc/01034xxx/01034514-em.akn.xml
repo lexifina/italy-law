@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/C/Tit.1"/>
+					<an:FRBRdate date="2017-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="Tit.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@"/>
+					<an:FRBRdate date="2017-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@.akn"/>
+					<an:FRBRdate date="2017-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-08-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-08-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2801/C/Tit.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2801" showAs="DDL 2801"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVDGSBUU4KDVLITMF5STHV5EGOJDQWT2MNVUCKEIITE5TYKYMXKI" href="http://dati.senato.it/29169" showAs="ROMANO"/>
+				<an:TLCPerson id="IDZZTZJEHWE4H0FUEXKZQMZOHBPJ1S3VRKOPR3WHLFLNXQMPGGKQRM" href="http://dati.senato.it/29045" showAs="BERGER"/>
+				<an:TLCPerson id="IDGZDJ0RRCASXBE03PZWT2UZLXRO0ISFKJDZFHGNPN0LDVFKMV0JE" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2801</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. Tit.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVDGSBUU4KDVLITMF5STHV5EGOJDQWT2MNVUCKEIITE5TYKYMXKI" as="#tipoSenatore">ROMANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZZTZJEHWE4H0FUEXKZQMZOHBPJ1S3VRKOPR3WHLFLNXQMPGGKQRM" as="#tipoSenatore">BERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGZDJ0RRCASXBE03PZWT2UZLXRO0ISFKJDZFHGNPN0LDVFKMV0JE" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il titolo del disegno di legge con il seguente:</an:i>
+				</an:p>
+				<an:p>        «Norme in materia di consenso informato e di dichiarazioni anticipate di trattamento».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>a) all'articolo 3, sostituire, il comma 5, con il seguente:</an:i>
+				</an:p>
+				<an:p>            «5. Nel caso in cui il rappresentante legale della persona interdetta o in abilitata oppure l'amministratore di sostegno, in assenza delle dichiarazioni anticipate di trattamento (DAT) di cui all'articolo 4, o il rappresentante legale della persona minore rifiuti i trattamenti sanitari proposti e il medico ritenga invece che questi siano appropriati e necessari, la decisone può essere rimessa, previo parere espresso da Comitato etico indipendente, al giudice tutelare su ricorso del rappresentante legale della persona interessata o dei soggetti di cui agli articoli 406 e seguenti del codice civile o del medico o del rappresentante legale della struttura sanitaria;</an:p>
+				<an:p>
+					<an:i>b) all'articolo 4, sostituire la rubrica, con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					        ''Art. 4. 
+					<an:i>(Dichiarazioni anticipate di trattamento, DAT)''</an:i>
+					».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

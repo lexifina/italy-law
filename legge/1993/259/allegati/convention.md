@@ -1,3 +1,0 @@
-CONVENTION D'UNIDROIT SUR LE CREDIT-BAIL INTERNATIONAL
-
-Parte di provvedimento in formato grafico

@@ -1,3 +1,0 @@
-Allegato
-
-DECRETO DECADUTO;

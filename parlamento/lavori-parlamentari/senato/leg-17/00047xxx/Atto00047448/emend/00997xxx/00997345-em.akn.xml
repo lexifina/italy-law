@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2595/A/4.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2595/A/4.4"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2595/A/4.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@.akn"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2595/A/4.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2595" showAs="DDL 2595"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCOARDURXQ2ASMOVB5A5PNWIG2HO4OQ1V5FFDYKEK1GMIHDACPKGP" href="http://dati.senato.it/29146" showAs="MUSSINI"/>
+				<an:TLCPerson id="IDOXDTJNZABK0DHLMSTPGXUSKA2OCF2ZOOCEKBBNO2MXMWYYQJ1XVC" href="http://dati.senato.it/29181" showAs="SIMEONI"/>
+				<an:TLCPerson id="IDIVKCUMD2UMQRKTVV5C42WOZJAOAN0LS3KYNX2SO1Y212JBFFKZOH" href="http://dati.senato.it/29048" showAs="BIGNAMI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2595</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCOARDURXQ2ASMOVB5A5PNWIG2HO4OQ1V5FFDYKEK1GMIHDACPKGP" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOXDTJNZABK0DHLMSTPGXUSKA2OCF2ZOOCEKBBNO2MXMWYYQJ1XVC" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIVKCUMD2UMQRKTVV5C42WOZJAOAN0LS3KYNX2SO1Y212JBFFKZOH" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, capoverso «Art. 21», sostituire il comma 1 con il seguente:</an:p>
+				<an:p>        1. L'articolo 21 del decreto legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, è sostituito dal seguente:</an:p>
+				<an:p>
+					        «Art. 21. 
+					<an:i>- (Comunicazione dei dati delle fatture emesse e ricevute). - 1.</an:i>
+					 In riferimento alle operazioni rilevanti ai fini dell'imposta sul valore aggiunto effettuate, i soggetti passivi trasmettono telematicamente all'Agenzia delle entrate, entro il 30 aprile dell'anno successivo a quello di riferimento, i dati di tutte le fatture emesse, e di quelle ricevute e registrate ai sensi dell'articolo 25 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, ivi comprese le bollette doganali, nonché i dati delle relative variazioni.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

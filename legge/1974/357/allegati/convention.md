@@ -1,3 +1,0 @@
-CONVENTION EUROPEENNE EN MATIERE D'ADOPTION DES ENFANTS
-
-Parte di provvedimento in formato grafico

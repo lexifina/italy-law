@@ -1,7 +1,0 @@
-ALLEGATO 1
-
-Parte di provvedimento in formato grafico
-
-Visto, il Ministro dei trasporti
-
-BERNINI

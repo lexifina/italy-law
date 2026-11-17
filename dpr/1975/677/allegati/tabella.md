@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO D'ARTE DI VALENZA PO E DELL'ANNESSA SCUOLA MEDIA
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,25 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+IMPERATORE D'ETIOPIA
+
+Vista la legge 16 febbraio 1913, n. 89, sull'ordinamento del notariato e degli archivi notarili ed il relativo regolamento approvato con R. decreto 10 settembre 1014, n. 1326;
+
+Visto il R. decreto 11 novembre 1923, n. 2395, con le successive modificazioni;
+
+Visto il R. decreto 30 dicembre 1923, n. 2960;
+
+Visto il R. decreto 31 dicembre 1923, n. 3138, sul nuovo ordinamento degli archivi notarili;
+
+Visto il R. decreto-legge 23 ottobre 1924, n. 1737, convertito nella legge 18 marzo 1926, n. 562, contenente le norme complementari per l'attuazione del suddetto ordinamento;
+
+Visto l'art. 1, n. 3, della legge 31 gennaio 1926, n. 100;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Guardasigilli, Ministro Segretario di Stato per la grazia e giustizia, di concerto col Ministro per le finanze; Abbiamo decretato e decretiamo:

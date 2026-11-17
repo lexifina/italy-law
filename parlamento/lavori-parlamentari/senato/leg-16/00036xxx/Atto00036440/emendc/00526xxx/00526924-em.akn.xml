@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2"/>
+					<an:FRBRdate date="2011-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2568/6/2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@"/>
+					<an:FRBRdate date="2011-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@.akn"/>
+					<an:FRBRdate date="2011-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-03-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-03-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2568/C/G/2568/6/2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2568" showAs="DDL 2568"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Giustizia" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25268" showAs="Fleres"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/27223" showAs="Burgaretta Aparo"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25271" showAs="Alicata"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2568</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2568/6/2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Fleres</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Burgaretta Aparo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Alicata</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante: «Modifiche al codice di procedura penale e alla legge 26 luglio 1975, n. 354, e altre disposizioni a tutela del rapporto tra detenute madri e figli minori»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il disegno di legge, all'articolo 1, comma 3, reca l'aggiunta dell'articolo 285-
+					<an:i>bis</an:i>
+					 nel codice di procedura penale, in materia di custodia cautelare in istituto a custodia attenuata per detenute madri;
+				</an:p>
+				<an:p>            il predetto articolo aggiuntivo dispone che nelle ipotesi di cui all'articolo 275, comma 4, se la persona da sottoporre a custodia cautelare sia donna incinta o madre di prole di età non superiore a sei anni, ovvero padre, qualora la madre sia deceduta o assolutamente impossibilitata a dare assistenza alla prole, il giudice può disporre la custodia presso un istituto a custodia attenuata per detenute madri, ove le esigenze cautelari di eccezionale rilevanza lo consentano;</an:p>
+				<an:p>            il nuovo articolo introdotto non prevede la possibilità da parte del giudice di disporre, anche per i detenuti padri, la custodia presso un istituto a custodia attenuata,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di adottare iniziative volte ad estendere tale previsione anche per i detenuti padri.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

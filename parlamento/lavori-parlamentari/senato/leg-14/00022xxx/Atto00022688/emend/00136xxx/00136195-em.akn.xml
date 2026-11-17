@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3344/A/3.10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3344/A/3.10"/>
+					<an:FRBRdate date="2005-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3344/A/3.10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@"/>
+					<an:FRBRdate date="2005-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@.akn"/>
+					<an:FRBRdate date="2005-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-06-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-06-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3344/A/3.10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3344" showAs="DDL 3344"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3907" showAs="De Zulueta"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3344</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">De Zulueta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso, sostituire il comma 1 con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «1. In tutti i casi in cui l'esercizio di un'attività privata sia subordinato ad autorizzazione, licenza abilitazione, nulla osta, permesso o altro atto di consenso comunque denominato, ad esclusione delle autorizzazioni edilizie e delle autorizzazioni rilasciate ai sensi del decreto legislativo n. 42 del 2004, cui rilascio dipenda esclusivamente dall'accertamento dei presupposti e dei requisiti di legge, senza l'esperimento di prove a ciò destinate che comportino valutazioni tecniche discrezionali, e non sia previsto alcun limite o contingente complessivo per il rilascio degli atti stessi, nonché ad esclusione degli atti rilasciati dalle amministrazioni preposte alla difesa nazionale, alla pubblica sicurezza. all'immigrazione, all'amministrazione della giustizia, alla amministrazione delle finanze, ivi compresi gli atti concernenti le reti di acquisizione del gettito, anche derivante dal gioco, alla tutela della salute e della pubblica incolumità, del patrimonio culturale e paesaggistico e dell'ambiente, nonché degli atti imposti dalla normativa comunitaria, l'atto di consenso si intende sostituito da una dichiarazione di inizio di attività da parte dell'interessato alla pubblica amministrazione competente, attestante l'esistenza dei presupposti e dei requisiti di legge, accompagnata dalla certificazione degli elementi eventualmente richiesti. In tali casi, spetta all'amministrazione competente, entro sessanta giorni dalla dichiarazione verificare d'ufficio la sussistenza dei presupposti e dei requisiti di legge richiesti e disporre, se del caso, con provvedimento motivato da notificare all'interessato entro il medesimo termine, il divieto di prosecuzione dell'attività e la rimozione dei suoi effetti, salvo che, ove ciò sia possibile, l'interessato provveda a conformare alla normativa vigente detta attività ed i suoi effetti entro il termine prefissatogli dall'amministrazione stessa».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, sopprimere i commi 2, 3 e 5.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

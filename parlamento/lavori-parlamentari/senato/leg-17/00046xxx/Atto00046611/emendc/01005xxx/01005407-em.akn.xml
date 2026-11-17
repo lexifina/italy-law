@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2284/C/1.243/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2284/C/1.243"/>
+					<an:FRBRdate date="2017-02-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2284/C/1.243/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.243"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@"/>
+					<an:FRBRdate date="2017-02-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@.akn"/>
+					<an:FRBRdate date="2017-02-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2284/C/1.243/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2284" showAs="DDL 2284"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKVQEDRNYS41TEUYTZVDII1OEFH54RFVDYEHD5NBTRJNJGUXOZKP" href="http://dati.senato.it/29055" showAs="BUCCARELLA"/>
+				<an:TLCPerson id="ID12524ZH2Z5GKGRBPYWZ2K0UWKB3DJ04WYU2IKDM2ZWTKLSLL4ZNE" href="http://dati.senato.it/29061" showAs="CAPPELLETTI"/>
+				<an:TLCPerson id="IDC2HZEE2JO1KIPHPXZPOCMRL4XHPSDTZBXBL10CEU5JCNO2OK12PE" href="http://dati.senato.it/29106" showAs="GIARRUSSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2284</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.243</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKVQEDRNYS41TEUYTZVDII1OEFH54RFVDYEHD5NBTRJNJGUXOZKP" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID12524ZH2Z5GKGRBPYWZ2K0UWKB3DJ04WYU2IKDM2ZWTKLSLL4ZNE" as="#tipoSenatore">CAPPELLETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC2HZEE2JO1KIPHPXZPOCMRL4XHPSDTZBXBL10CEU5JCNO2OK12PE" as="#tipoSenatore">GIARRUSSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, sostituire la lettera</an:i>
+					 b), 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>b)</an:i>
+					 quanto al giudizio di appello:
+				</an:p>
+				<an:p>                1) previsione che l'appello sia deciso da un giudice monocratico per le cause di valore inferiore a 50.000 euro;</an:p>
+				<an:p>                2) previsione che, nella forma dell'appello, la parte indichi specificatamente e a pena di inammissibilità le censure in fatto o in diritto nei confronti della sentenza impugnata; previsione che l'atto contenga l'indicazione dei mezzi di prova dei quali l'appellante lamenta la non ammissione nel precedente grado, nonché i nuovi non prodotti in primo grado per causa non imputabile alla parte;</an:p>
+				<an:p>                3) abrogazione delle norme recanti l'inammissibilità dell'appello;</an:p>
+				<an:p>                4) prevedere che l'impugnazione incidentale tardiva non perda di efficacia quando impugnazione principale è dichiarata improcedibile o è rinunciata;</an:p>
+				<an:p>                5) introduzione della facoltà, per il giudice, di condannare alle spese, indipendentemente dalla soccombenza, la parte che, in violazione delle disposizioni sulle impugnazioni incidentali, abbia proposto la propria impugnazione incidentale nelle forme dell'impugnazione principale;</an:p>
+				<an:p>                6) stabilire che gli effetti della riforma o della cassazione parziale siano estesi anche ai provvedimenti o agli atti dipendenti dalla sentenza riformata o cassata solo se questa è passata in giudicato;».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

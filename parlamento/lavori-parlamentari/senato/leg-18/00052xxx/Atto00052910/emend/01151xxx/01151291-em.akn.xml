@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/4.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/4.12"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/4.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@.akn"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1774/A/4.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1774" showAs="DDL 1774"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYKSC2V0AE4HFZT40ONGXRJ4FK2GS14PRT32J5GAUJV5RMAWF5KE" href="http://dati.senato.it/18740" showAs="MOLES"/>
+				<an:TLCPerson id="IDM1ECK3H5K145OR1J0F2J5CZ0TNJ0OR3WGNHCS2GYDQ05BBOVIW4H" href="http://dati.senato.it/32597" showAs="CANGINI"/>
+				<an:TLCPerson id="IDIGZ2FQ0PB1ZXMBWJTHSL242LNEDERF4WQYY1VSPZJG35E3ME0KSP" href="http://dati.senato.it/26539" showAs="GALLONE"/>
+				<an:TLCPerson id="IDUD1WJDCI2FBHJMGLIEKBTUNTMKZY0G2G4AEZW0L2HOIUGFRCIQQM" href="http://dati.senato.it/4741" showAs="LONARDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1774</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYKSC2V0AE4HFZT40ONGXRJ4FK2GS14PRT32J5GAUJV5RMAWF5KE" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM1ECK3H5K145OR1J0F2J5CZ0TNJ0OR3WGNHCS2GYDQ05BBOVIW4H" as="#tipoSenatore">CANGINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIGZ2FQ0PB1ZXMBWJTHSL242LNEDERF4WQYY1VSPZJG35E3ME0KSP" as="#tipoSenatore">GALLONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUD1WJDCI2FBHJMGLIEKBTUNTMKZY0G2G4AEZW0L2HOIUGFRCIQQM" as="#tipoSenatore">LONARDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Al fine di eliminare il precariato, il Ministro dell'istruzione, con proprio decreto da adottare entro trenta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, dispone l'istituzione di una graduatoria per titoli e servizio ai fini dell'assunzione di personale docente di ogni ordine e grado, anche in possesso del diploma magistrale conseguito entro l'anno scolastico 2000/2001, del diploma tecnico professionale, dell'insegnamento di religione cattolica, di personale educativo e amministrativo con più di 24 mesi di servizio a tempo determinato nelle istituzioni scolastiche del servizio nazionale d'istruzione, ivi incluse le scuole paritarie, su tutti i posti vacanti e disponibili anche in organico di fatto costituiti dopo il 15 settembre 2020, per l'anno scolastico 2020-2021.»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

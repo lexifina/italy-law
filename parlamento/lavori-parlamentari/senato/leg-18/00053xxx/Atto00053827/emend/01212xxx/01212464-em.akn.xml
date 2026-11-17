@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/2.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/2.20"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/2.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/2.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDV5FVKO03OIQAH1DSO52P0TG4WPHRCPBY1XTZRBEYN2NVT2RJJPOP" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDEQ2X0MBISYKQMWZEUCMJ3A4SCEH2HOTZVFYVA5GX4CFAEMETE0UB" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDE5GRXSAZQOAVEJGUREGPGS4DMNLGGKI0GUH5GTFDW2V45IN3CMTN" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV5FVKO03OIQAH1DSO52P0TG4WPHRCPBY1XTZRBEYN2NVT2RJJPOP" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEQ2X0MBISYKQMWZEUCMJ3A4SCEH2HOTZVFYVA5GX4CFAEMETE0UB" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE5GRXSAZQOAVEJGUREGPGS4DMNLGGKI0GUH5GTFDW2V45IN3CMTN" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					            a) 
+					<an:i>al comma 1:</an:i>
+				</an:p>
+				<an:p>                1) dopo le parole: «a comprensori sciistici» aggiungere le seguenti: «, di cui alla classificazione ISTAT categorie turistiche E ''Comuni con vocazione montana'' ed H ''Comuni a vocazione montana e con vocazione culturale, storica, artistica e paesaggistica'' appartenenti a comprensori sciistici.»;</an:p>
+				<an:p>                2) sopprimere le parole da: «sulla base delle presenze turistiche» sino alla fine del periodo;</an:p>
+				<an:p>
+					            b) 
+					<an:i>al comma 2, lettera</an:i>
+					 a):
+				</an:p>
+				<an:p>                1) sostituire le parole: «al 70 per cento ai Comuni» con le seguenti: «al 70 per cento del Fondo per i comprensori sciistici operanti nei Comuni»;</an:p>
+				<an:p>                2) dopo le parole: «di cui al comma 1» aggiungere le seguenti: «in ragione del fatturato di biglietteria degli ultimi 3 esercizi di bilancio approvati, a titolo di sostegno per i costi fissi non coperti degli impianti di risalita a fune esistenti in ciascun comune»;</an:p>
+				<an:p>                3) sopprimere le parole: «venduti nell'anno 2019»;</an:p>
+				<an:p>
+					            c) 
+					<an:i>al comma 2, lettera</an:i>
+					 b):
+				</an:p>
+				<an:p>                1) dopo le parole: «la restante quota» aggiungere le seguenti: «del Fondo è ripartita sulla base delle presenze turistiche registrate nell'anno 2019 nei Comuni di cui al comma 1»;</an:p>
+				<an:p>
+					                2) sopprimere le parole: «a tutti i comuni del medesimo comprensorio sciistico al quale appartengono i Comuni di cui alla lettera 
+					<an:i>a)</an:i>
+					, per la distribuzione»;
+				</an:p>
+				<an:p>                3) sostituire le parole: «al fatturato dei» con le seguenti: «al fatturato ai»;</an:p>
+				<an:p>        4) sostituire le parole: «relativo al triennio 2017-2019» con le seguenti: «relativo all'anno 2019».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

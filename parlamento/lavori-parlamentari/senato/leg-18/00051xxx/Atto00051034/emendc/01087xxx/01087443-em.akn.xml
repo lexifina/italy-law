@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1983/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1983"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1983/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1983"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@.akn"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.1983/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDANIGI4ZCDXHWEEOWEU1ZLD0SPJJDVLSTOCUBFULUQLP5NEZ34Y1K" href="http://dati.senato.it/32588" showAs="BITI"/>
+				<an:TLCPerson id="IDKAU5DGO3ATDAIPFBYZ0AXFAKXHP12MPSRRVLB0IRWQE5NESRWSOF" href="http://dati.senato.it/29464" showAs="MAGORNO"/>
+				<an:TLCPerson id="ID5LSUCLEU54UUP0L2JWKZWIMZNDSIUUK4TVWP52FW1RJQ4H52TNT" href="http://dati.senato.it/25402" showAs="SBROLLINI"/>
+				<an:TLCPerson id="IDDSSVPDDUD3W2CF431M2WYIZB3IEC20L5RKZ42KJL1JRGPOXSUAMO" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="IDMUCLN0QPQLHEH5VUYMW3HQ2BAEPGGZENQ3GIWICLGLNFM5D5SWVP" href="http://dati.senato.it/32660" showAs="MANCA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1983</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANIGI4ZCDXHWEEOWEU1ZLD0SPJJDVLSTOCUBFULUQLP5NEZ34Y1K" as="#tipoSenatore">BITI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKAU5DGO3ATDAIPFBYZ0AXFAKXHP12MPSRRVLB0IRWQE5NESRWSOF" as="#tipoSenatore">MAGORNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5LSUCLEU54UUP0L2JWKZWIMZNDSIUUK4TVWP52FW1RJQ4H52TNT" as="#tipoSenatore">SBROLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDSSVPDDUD3W2CF431M2WYIZB3IEC20L5RKZ42KJL1JRGPOXSUAMO" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMUCLN0QPQLHEH5VUYMW3HQ2BAEPGGZENQ3GIWICLGLNFM5D5SWVP" as="#tipoSenatore">MANCA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 379 sopprimere le parole:</an:i>
+					 «mediante una efficiente gestione delle informazioni sulle superfici e produzioni frutticole» 
+					<an:i>e sostituire le parole:</an:i>
+					 «per l'istituzione di un catasto» 
+					<an:i>fino alla fine del comma con le seguenti:</an:i>
+					 «per progetti di recupero di ortofrutta fresca anche ai fini della trasformazione, destinata ad enti del Terzo settore, di cui al decreto legislativo del 3 luglio 2017, n. 117, a fini di solidarietà sociale. Fino alla operatività del Registro Unico Nazionale del Terzo settore di cui all'articolo 45 del decreto legislativo del 3 luglio 2017, n. 117, le disposizioni di cui al primo periodo, si applicano a 
+					<an:i>onlus,</an:i>
+					 organizzazioni di volontariato, imprese sociali, e associazioni di promozione sociale iscritte nei rispettivi registri».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 380 sostituire le parole:</an:i>
+					 ''del catasto'' 
+					<an:i>con le seguenti:</an:i>
+					 ''dei progetti''.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

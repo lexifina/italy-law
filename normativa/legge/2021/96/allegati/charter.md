@@ -1,0 +1,5 @@
+International Energy Forum
+
+Charter
+
+Parte di provvedimento in formato grafico

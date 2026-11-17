@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/9.0.1"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/9.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDT0O0XO3N1RVMDYCQ4442AAY3JFZI221MWCD4FJIFQUSDGQD4PQ3C" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID2FLCW4S3LI5HJM1L0CG4Z3ADWEXYB5OTLICHJPLJ4DQNTTQGKZG" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDFQRY4Q2NDH1VK4BH4Z4XL1C5MF34BHQE5L3YTRJ2VW4WGJ5RODPF" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDM3XQFDYYAXXOBVEZIJM23KYX4I1QPHH3JACH4DNAGPD3CEDZICM" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDVFE3VMZW5ZHSJ5TMTOLNS01URLWKWE3ZISREB3OF2W0PF3HU1R5J" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT0O0XO3N1RVMDYCQ4442AAY3JFZI221MWCD4FJIFQUSDGQD4PQ3C" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2FLCW4S3LI5HJM1L0CG4Z3ADWEXYB5OTLICHJPLJ4DQNTTQGKZG" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFQRY4Q2NDH1VK4BH4Z4XL1C5MF34BHQE5L3YTRJ2VW4WGJ5RODPF" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM3XQFDYYAXXOBVEZIJM23KYX4I1QPHH3JACH4DNAGPD3CEDZICM" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVFE3VMZW5ZHSJ5TMTOLNS01URLWKWE3ZISREB3OF2W0PF3HU1R5J" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 9-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Nuove indennità per i lavoratori danneggiati dall'emergenza epidemiologica da COVID-19)</an:i>
+				</an:p>
+				<an:p>        1. Ai liberi professionisti titolari di partita IVA attiva alla data di entrata in vigore del presente decreto, iscritti alla Gestione separata di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, non titolari di pensione e non iscritti ad altre forme previdenziali obbligatorie e che non siano percettori di altre forme di reddito, è riconosciuta una indennità per i mesi di giugno e luglio 2020 pari a 1000 euro mensili. Possono beneficiare dell'indennità di cui al presente comma i professionisti che abbiano subito una comprovata riduzione di almeno il 33 per cento del fatturato prodotto dal 1º gennaio 2020 al 31 luglio 2020 rispetto allo stesso periodo dell'anno 2019. Per le finalità di cui al presente comma, il reddito è individuato secondo il principio di cassa come differenza tra i ricavi e i compensi percepiti e le spese effettivamente sostenute nel periodo interessato e nell'esercizio dell'attività, comprese le eventuali quote di ammortamento. A tal fine, il soggetto deve presentare all'Inps la domanda nella quale autocertifica il possesso dei requisiti di cui al presente comma. L'Inps comunica all'Agenzia delle entrate i dati identificativi dei soggetti che hanno presentato l'autocertificazione per la verifica dei requisiti. L'Agenzia delle entrate comunica all'Inps l'esito dei riscontri effettuati sulla verifica dei requisiti sul reddito di cui sopra con modalità e termini definiti con accordi di cooperazione tra le parti.</an:p>
+				<an:p>        2. le indennità di cui al presente articolo non concorrono alla formazione del reddito ai sensi del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917.</an:p>
+				<an:p>        3. Le indennità di cui al presente articolo sono erogate dall'INPS, previa domanda, nel limite di spesa complessivo di 200 milioni di euro per l'anno 2020. Ai relativi oneri, si provvede mediante corrispondente riduzione del Fondo sociale per occupazione e formazione di cui all'articolo 18, comma 1, del decreto-legge 29 novembre 2009, n. 185, convertito, con modificazioni, dalla legge 28 gennaio 2009, n. 2».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

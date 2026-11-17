@@ -1,5 +1,0 @@
-((Allegato C -
-
-(Articolo 2, commi 5, 7 e 10) ))
-
-Parte di provvedimento in formato grafico

@@ -1,7 +1,0 @@
-Allegato 5
-
-(articolo 9)
-
-CERTIFICATO DI ESENZIONE
-
-Parte di provvedimento in formato grafico

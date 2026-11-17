@@ -1,9 +1,0 @@
-ALLEGATO 1
-
-(art. 4)
-
-CIRCOSCRIZIONI TERRITORIALI DEL MINISTERO DEI TRASPORTI E DELLA
-
-NAVIGAZIONE
-
-Parte di provvedimento in formato grafico

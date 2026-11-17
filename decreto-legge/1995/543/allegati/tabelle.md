@@ -1,3 +1,0 @@
-Tabelle
-
-DECRETO DECADUTO

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1"/>
+					<an:FRBRdate date="2009-07-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="dG/1552/1/1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@"/>
+					<an:FRBRdate date="2009-07-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@.akn"/>
+					<an:FRBRdate date="2009-07-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-07-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-07-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1552/C/dG/1552/1/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1552" showAs="DDL 1552"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25274" showAs="Saltamartini"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1552</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. dG/1552/1/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Saltamartini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La Commissione affari costituzionali,</an:p>
+				<an:p align="center">premesso che</an:p>
+				<an:p>a)         l'approvazione del disegno di legge riguardante il distacco di alcuni Comuni dalla Regione Marche e la loro aggregazione alla Regione Emilia-Romagna, nell'ambito della Provincia di Rimini, costituisce la prima applicazione del principio costituzionale sancito dall'articolo 132, secondo comma;</an:p>
+				<an:p>b)         il disegno di legge n. 1552 stabilisce che entro un anno dall'entrata in vigore della legge ogni procedura, atto ed affare amministrativo dello Stato e degli enti locali sia attribuito alle competenze dei rispettivi organi e uffici nell'ambito della Provincia di Rimini o della Regione Emilia-Romagna e che entro centottanta giorni vengano rideterminate le tabelle delle relative circoscrizioni dei collegi elettorali,</an:p>
+				<an:p> </an:p>
+				<an:p align="center">impegna il Governo</an:p>
+				<an:p> </an:p>
+				<an:p>a)         a procedere alla immediata nomina del Commissario e a dare senza indugio le opportune istruzioni affinché i due termini (rispettivamente un anno - per l'Amministrazione periferica dello Stato e per gli enti locali - e centottanta giorni - per i collegi elettorali) vengano assolutamente rispettati;</an:p>
+				<an:p>b)         a dare costanti e opportune informazioni ai cittadini affinché il passaggio delle competenze determini il minor disagio possibile;</an:p>
+				<an:p>c)         a monitorare, attraverso i Prefetti delle Province interessate, la progressiva compiuta applicazione della legge.</an:p>
+				<an:p> </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

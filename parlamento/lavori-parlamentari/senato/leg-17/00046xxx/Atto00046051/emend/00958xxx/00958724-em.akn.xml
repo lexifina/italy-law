@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2081/A/1.6009/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2081/A/1.6009"/>
+					<an:FRBRdate date="2016-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2081/A/1.6009/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.6009"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@"/>
+					<an:FRBRdate date="2016-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@.akn"/>
+					<an:FRBRdate date="2016-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2081/A/1.6009/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2081" showAs="DDL 2081"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAZOM4" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAALM4" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDA1NM4" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDAUOM4" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDAPNM4" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDAHLM4" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="IDA4MM4" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDASMM4" href="http://dati.senato.it/senatore/29137" showAs="MINEO"/>
+				<an:TLCPerson id="IDAZNM4" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDAEOM4" href="http://dati.senato.it/senatore/29146" showAs="MUSSINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2081</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.6009</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZOM4" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAALM4" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1NM4" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUOM4" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPNM4" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHLM4" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4MM4" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASMM4" as="#tipoSenatore">MINEO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZNM4" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEOM4" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire gli articoli 1, 2, 3 e 4 con i seguenti:</an:p>
+				<an:p>
+					        «Art. 1. - 
+					<an:i>(Matrimonio egualitario). - 1</an:i>
+					. Dopo l'articolo 90 del codice civile è inserito il seguente:
+				</an:p>
+				<an:p align="center">
+					"Art. 90-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Matrimonio egualitario)</an:i>
+				</an:p>
+				<an:p>        Il matrimonio può essere contratto da persone di sesso diverso o dello stesso sesso con i medesimi requisiti ed effetti".</an:p>
+				<an:p>
+					        Art. 2. - 
+					<an:i>(Modifiche al codice civile, al codice di procedura civile e all'ordinamento dello stato civile). - 1</an:i>
+					. All'articolo 107, primo comma del codice civile, le parole: "in marito e in moglie" sono sostituite dalle seguenti: "come coniugi".
+				</an:p>
+				<an:p>
+					<an:i>2</an:i>
+					. All'articolo 108, primo comma, del codice civile, le parole: "rispettivamente in marito e in moglie" sono sostituite dalle seguenti: "reciprocamente come coniugi".
+				</an:p>
+				<an:p>
+					<an:i>3</an:i>
+					. All'articolo 143, primo comma, del codice civile, le parole: "il marito e la moglie" sono sostituite dalle seguenti: "i coniugi, indipendentemente dal sesso,"».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>dopo l'</an:i>
+					<an:b>articolo 5</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni transitorie e finali)</an:i>
+				</an:p>
+				<an:p>        1. Le disposizioni in materia di matrimonio e di adozione, dovunque contenute in leggi, decreti e regolamenti, si applicano indipendentemente dal sesso dei coniugi, ove non diversamente stabilito.</an:p>
+				<an:p>        2. Fatto salvo quanto disposto dalle disposizioni di cui all'articolo 2, le parole marito e moglie, dovunque ricorrano nelle leggi, decreti e regolamenti, si intendono riferite ai coniugi, senza distinzione di sesso, ad esclusione delle disposizioni che dispongono la parità di trattamento tra uomo e donna.</an:p>
+				<an:p>
+					        3. Le amministrazioni pubbliche procedono a modificare le espressioni marito e moglie in "coniuge" o "coniugi" dovunque ricorrano in atti, certificati, modulistica e siti 
+					<an:i>web</an:i>
+					.
+				</an:p>
+				<an:p>        4. Possono essere trascritti in Italia i matrimoni contratti all'estero tra persone dello stesso sesso anche se celebrati prima della data di entrata in vigore della presente legge. Gli effetti di questi ultimi, sono fatti salvi dal momento della celebrazione.</an:p>
+				<an:p>        5. Chi ha avuto attribuito alla nascita, prima della data di entrata in vigore della presente legge, il solo cognome del padre, può dichiarare per iscritto all'ufficiale dello stato civile del luogo di nascita la volontà di assumere anche il cognome dell'altro genitore, facendolo seguire al proprio. In conformità alla volontà del dichiarante l'ufficiale di stato civile provvede alle necessarie annotazioni negli atti dello stato civile e di anagrafe.</an:p>
+				<an:p>        6. I coniugi che abbiano contratto matrimonio prima della data di entrata in vigore della presente legge, possono dichiarare per iscritto all'ufficiale dello stato civile del luogo dove è registrato l'atto di matrimonio la volontà di assumere un cognome comune. In conformità alla volontà dei dichiaranti l'ufficiale di stato civile provvede alle necessarie annotazioni negli atti dello stato civile e di anagrafe. La facoltà prevista dal presente comma deve essere esercitata entro dodici mesi dalla data di entrata in vigore della presente legge ed ha effetti anche sul cognome dei figli minori».</an:p>
+				<an:p>
+					<an:i>sopprimere gli articoli 6, 7, 8, 9 e 10;</an:i>
+				</an:p>
+				<an:p>
+					<an:i>all'articolo 11, comma 1, sopprimere le parole:</an:i>
+					 «o da un'unione civile», all'articolo 20 comma 1, lettera 
+					<an:i>a)</an:i>
+					, sopprimere le parole: «di un'unione civile»
+					<an:i>, all'articolo 21, comma 11, lettera</an:i>
+					 c)
+					<an:i>, sopprimere le parole:</an:i>
+					 «o unione civile» 
+					<an:i>e al comma 4, sopprimere le parole:</an:i>
+					 «o unione civile» 
+					<an:i>nonché le parole:</an:i>
+					 «o di unione civile»
+					<an:i>, all'articolo 22, comma 1, capoverso "Art. 30-bis</an:i>
+					" comma 1 sostituire le parole: «delle unioni civili» 
+					<an:i>con le seguenti:</an:i>
+					 «del matrimonio egualitario»;
+				</an:p>
+				<an:p>        alla rubrica del disegno di legge sostituire le parole: «delle unioni civili» con le seguenti: «del matrimonio egualitario».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

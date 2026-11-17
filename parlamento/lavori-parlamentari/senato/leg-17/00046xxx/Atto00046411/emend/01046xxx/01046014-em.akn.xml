@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2208/A/1.40/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2208/A/1.40"/>
+					<an:FRBRdate date="2017-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2208/A/1.40/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.40"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@"/>
+					<an:FRBRdate date="2017-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@.akn"/>
+					<an:FRBRdate date="2017-10-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2208/A/1.40/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2208" showAs="DDL 2208"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNCTGY0U11ZSLF0L2DF3LRLA0BLIBR4BVBA1KIOHJKBMS04HJURMB" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDMZT4H5B5EKW5G0OJIKZ3LM0V3ECIOWOAPNDKX5F25BLBB42FQT3H" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="ID0F0L2W0DML44L5I13HX1GILNJILLUO5K5M5STRFTFBK2YXKFHAYP" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="ID0XOSQ2TPTZLFM5HWFFWS31WWNMWALSP2OTX4RSPGKTESHTTEEPBL" href="http://dati.senato.it/29061" showAs="CAPPELLETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2208</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.40</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNCTGY0U11ZSLF0L2DF3LRLA0BLIBR4BVBA1KIOHJKBMS04HJURMB" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMZT4H5B5EKW5G0OJIKZ3LM0V3ECIOWOAPNDKX5F25BLBB42FQT3H" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0F0L2W0DML44L5I13HX1GILNJILLUO5K5M5STRFTFBK2YXKFHAYP" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0XOSQ2TPTZLFM5HWFFWS31WWNMWALSP2OTX4RSPGKTESHTTEEPBL" as="#tipoSenatore">CAPPELLETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «Art. 54-
+					<an:i>bis</an:i>
+					», 
+					<an:i>al comma 5, primo periodo, dopo le parole:</an:i>
+					 «linee guida», 
+					<an:i>inserire le seguenti:</an:i>
+					 «applicabili a tutte le pubbliche amministrazioni».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al medesimo comma, aggiungere, in fine, il seguente periodo:</an:i>
+					 «Nelle linee guida ANAC specifica che le segnalazioni completamente anonime, in quanto tali o perché protette da strumenti di crittografia, devono essere prese in considerazione qualora contengano elementi ed informazioni sufficienti all'apertura di una istruttoria e siano adeguatamente documentate».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

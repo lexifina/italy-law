@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 29 maggio 1981
+
+PERTINI PANDOLFI Visto, il Guardasigilli: DARIDA Registrato alla Corte dei conti, addi' 30 settembre 1981 Registro n. 9 Industria, foglio n. 32

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G12.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@.akn"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-03-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-03-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018-B/A/G12.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018-B" showAs="DDL 1018-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYH41JQ4TGYY0BSBFA2RMZRXQ1E4MM2WLQ1GRCBMAEVZNMUHIST0O" href="http://dati.senato.it/29157" showAs="PARENTE"/>
+				<an:TLCPerson id="IDBZAFX3P0LWEIHDUO2BAC5IJH1EGOCGL3ZOHXAMFPGWIBTOJS3A5K" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDU0KWCEJDNVODGJO0BO2FZGDTJIFHWATHETI5CDBCZRXEG1HKUXUO" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDJPSAJEY0TUGAG2N2JCUH3KINLHNVFKSIAXFQMAOXI5EUNYL2UVDP" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G12.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYH41JQ4TGYY0BSBFA2RMZRXQ1E4MM2WLQ1GRCBMAEVZNMUHIST0O" as="#tipoSenatore">PARENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBZAFX3P0LWEIHDUO2BAC5IJH1EGOCGL3ZOHXAMFPGWIBTOJS3A5K" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU0KWCEJDNVODGJO0BO2FZGDTJIFHWATHETI5CDBCZRXEG1HKUXUO" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJPSAJEY0TUGAG2N2JCUH3KINLHNVFKSIAXFQMAOXI5EUNYL2UVDP" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il disegno di legge di conversione del decreto-legge 29 gennaio 2019, n. 4, recante disposizioni urgenti in materia di reddito di cittadinanza e di pensioni, prevede, all'articolo 12, comma 3, l'adozione di un Piano straordinario di potenziamento dei centri per l'impiego e delle politiche attive del lavoro;</an:p>
+				<an:p>            il testo in esame, all'articolo 12, comma 4, stanzia 1 milione di euro l'anno a decorrere dall'anno 2019 al fine di stabilizzare il personale a tempo determinato di ANPAL servizi S.p.A.;</an:p>
+				<an:p>
+					            come noto, ANPAL Servizi S.p.A., già Italia Lavoro, è una struttura «
+					<an:i>in house</an:i>
+					» dell'ANPAL, la quale è sottoposta all'indirizzo e alla vigilanza del Ministero del lavoro e delle politiche sociali; il Presidente di ANPAL è anche Amministratore Unico di ANPAL Servizi; ANPAL Servizi promuove azioni nel campo delle politiche del lavoro, dell'occupazione e dell'inclusione sociale, fornendo assistenza tecnica a Centri per l'impiego ed Enti Locali;
+				</an:p>
+				<an:p>            il personale a tempo determinato in forze ad ANPAL Servizi S.p.A. ammonta attualmente a 651 unità, le quali sono state selezionate con procedure ad evidenza pubblica, possiedono esperienza pluriennale e competenze specifiche nel campo delle politiche attive del lavoro;</an:p>
+				<an:p>            si tratta di personale altamente qualificato e specializzato che svolge da anni azioni di potenziamento delle politiche attive a fianco e a sostegno del Ministero del lavoro e delle politiche sociali, delle Regioni e dei Centri per l'impiego;</an:p>
+				<an:p>
+					            il nuovo ruolo degli operatori di ANPAL servizi richiede che essi siano nelle condizioni contrattuali utili a esercitare stabilmente la loro attività di supporto ai Centri per l'impiego e di raccordo fra questi e le Regioni e a coordinare l'attività dei 
+					<an:i>navigator</an:i>
+					;
+				</an:p>
+				<an:p>            le somme stanziate dal testo in esame permetterebbero la stabilizzazione soltanto di poche decine di lavoratori;</an:p>
+				<an:p>            il decreto legislativo 25 maggio 2017, n. 75, (cosiddetto «decreto Madia») all'articolo 1, comma 1, prevede per le amministrazioni pubbliche modalità di superamento del precariato e della riduzione del ricorso ai contratti a termine per valorizzare la professionalità acquisita dal personale con rapporto di lavoro a tempo determinato, con la possibilità nel triennio 2018-2020 di assumere a tempo indeterminato personale non dirigenziale con specifiche caratteristiche di servizio, reclutamento ed esperienza,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di elevare con il primo provvedimento normativo utile i finanziamenti, previsti all'articolo 12, comma 4, a un importo tale da proseguire il percorso di stabilizzazione del personale con contratto di lavoro a tempo determinato e con contratto di collaborazione coordinata e continuativa di ANPAL servizi S.p.a, tramite procedura concorsuale riservata, quantificato in 651 unità.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

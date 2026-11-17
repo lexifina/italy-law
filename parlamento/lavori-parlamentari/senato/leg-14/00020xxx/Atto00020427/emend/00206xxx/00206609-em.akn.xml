@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a"/>
+					<an:FRBRdate date="2006-04-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.213a"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@"/>
+					<an:FRBRdate date="2006-04-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@.akn"/>
+					<an:FRBRdate date="2006-04-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-04-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-04-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1753-B/A/1.213a/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1753-B" showAs="DDL 1753-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1753-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.213a</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 40, dopo la lettera</an:i>
+					 c)
+					<an:i>, aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					            «
+					<an:i>c-</an:i>
+					bis) il comma 6 è sostituito dai seguenti:
+				</an:p>
+				<an:p align="justify">        "6. In deroga a quanto previsto dal comma 5, la gestione delle reti o l'erogazione del servizio possono essere affidati direttamente a società a capitale maggioritario o totalitario pubblico, a condizione che gli enti pubblici titolari della quota maggioritaria o dell'intero capitale esercitino sulla società un controllo analogo a quello esercitato sui propri servizi, che la società realizzi la parte più importante della propria attività con l'ente o gli enti pubblici che la controllano e che l'Autorità garante della concorrenza e del mercato abbia accertato preventivamente, secondo modalità che saranno da essa definite entro centoventi giorni dall'entrata in vigore della presente legge, la effettiva efficenza e convenienza economica dell'affidamento diretto. Le società che, in Italia o all'estero, erogano, a qualunque titolo, servizi pubblici locali o gestiscono reti o impianti destinati alla produzione di servizi pubblici locali, in virtù di un affidamento diretto, non sono ammesse a partecipare alle procedure ad evidenza pubblica di cui al comma 5. Tale divieto si estende alle società controllate o collegate, il divieto non si estende alle società controllanti, nonché alle società controllate e collegate con queste ultime, se il volume d'affari derivante dall'acquisizione di partecipazioni, avvenuta con gara, comporta una significativa crescita dimensionale delle società operanti nei settori di cui al comma 1. La cessazione del controllo da parte dell'ente o degli enti pubblici detentori della maggioranza del capitale, o la perdita della partecipazione maggioritaria dovranno essere tempestivamente comunicate dalla società all'autorità di regolamentazione di settore, ove presente, ovvero all'Autorità garante della concorrenza e del mercato e determinano la cessazione del divieto di partecipazione alle procedure ad evidenza pubblica dalla data della notificazione. L'affidamento in essere potrà essere protratto per un termine massimo di 24 mesi dalla data della notificazione, previa stipula di contratto di servizio ai sensi del comma 11.</an:p>
+				<an:p align="justify">
+					        6-
+					<an:i>bis</an:i>
+					. Sia nel caso di gestione unitaria della rete e dell'erogazione dei servizi, sia nel caso di gestione separata, i soggetti gestori di cui ai precedenti commi provvedono all'esecuzione dei lavori comunque connessi alla gestione della rete esclusivamente mediante i contratti di appalto o di concessione dei lavori pubblici ovvero in economia nei limiti di cui all'articolo 24 della legge 11 febbraio 1994, n. 109, e successive modifiche. Le medesime disposizioni si applicano anche ai soggetti di cui al decreto legislativo 17 marzo 1995, n. 158, per l'esecuzione di lavori, di qualsiasi importo, compresi i lavori non rientranti tra quelli individuati ai sensi dell'articolo 8, comma 6, del medesimo decreto legislativo, nonché di quelli riguardanti i rilevati aeroportuali e ferroviari"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

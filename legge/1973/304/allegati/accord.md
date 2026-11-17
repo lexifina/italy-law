@@ -1,5 +1,0 @@
-ALLEGATO
-
-Accord europeen sur le placement au pair
-
-Parte di provvedimento in formato grafico

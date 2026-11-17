@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3344/A/2.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3344/A/2.13"/>
+					<an:FRBRdate date="2005-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3344/A/2.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@"/>
+					<an:FRBRdate date="2005-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@.akn"/>
+					<an:FRBRdate date="2005-06-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-06-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-06-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3344/A/2.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3344" showAs="DDL 3344"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3905" showAs="Calvi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/116" showAs="Ayala"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3834" showAs="Fassone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3344</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Calvi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ayala</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#" as="#tipoSenatore"/>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Fassone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, alla lettera</an:i>
+					 a), 
+					<an:i>premettere la seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					            «
+					<an:i>a</an:i>
+					01) L'articolo 18 del regio decreto n. 267 del 1942 è sostituito dal seguente:
+				</an:p>
+				<an:p align="justify">
+					        "Art. 18. - 
+					<an:i>(Reclamo alla Corte d'appello). -</an:i>
+					 Contro la sentenza che dichiara il fallimento può essere presentato reclamo dal debitore e da qualunque interessato con ricorso alla corte d'appello da proporsi entro trenta giorni. Il termine decorre per il debitore dalla data della notificazione a norma dell'articolo 17 e per ogni altro interessato dalla data dell'affissione. Il reclamo deve essere depositato presso la cancelleria della corte di appello e non può in ogni caso proporsi decorso un anno dalla pubblicazione della sentenza.
+				</an:p>
+				<an:p align="justify">        Il Presidente nomina i componenti del collegio, designa il relatore e fissa con decreto l'udienza di comparizione entro trenta giorni dal deposito, assegnando termine al ricorrente per la notifica del ricorso e del decreto e termine alle parti resistenti per il deposito di memorie.</an:p>
+				<an:p align="justify">        All'udienza il collegio nel rispetto del contraddittorio assunte, anche d'ufficio, le informazioni necessarie e le prove provvede con sentenza".</an:p>
+				<an:p align="justify">        2. Il terzo comma dell'articolo 19 del regio decreto n. 267 del 1942 è sostituito dal seguente: "La sentenza resa dalla Corte di appello che conferma il fallimento può essere impugnata entro il termine di trenta giorni avanti la Corte di cassazione con ricorso nelle forme di cui agli articoli 360 e seguenti del codice di procedura civile"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

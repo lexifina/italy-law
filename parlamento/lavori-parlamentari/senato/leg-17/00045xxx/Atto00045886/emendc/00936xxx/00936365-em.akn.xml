@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/C/7.2"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@.akn"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-08-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-08-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1577-B/C/7.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1577-B" showAs="DDL 1577-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29083" showAs="De Pietro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29048" showAs="Bignami"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29181" showAs="Simeoni"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29193" showAs="Vacciano"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29169" showAs="Romano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1577-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Pietro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bignami</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Simeoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Vacciano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Romano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo la lettera</an:i>
+					 a), 
+					<an:i>inserire la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>a-bis)</an:i>
+					 Revisione, correzione ed integrazione della normativa vigente in materia di inconferibilità e incompatibilità degli incarichi amministrativi, con particolare riferimento alla disciplina introdotta dal decreto legislativo 8 aprile 2013, n. 39, attraverso:
+				</an:p>
+				<an:p>        1) la puntualizzazione dei rapporti normativi intercorrenti tra inconferibilità e incompatibilità;</an:p>
+				<an:p>        2) l'estensione della disciplina di inconferibilità e incompatibilità agli incarichi politici, con specifico riferimento alle cariche-politiche conferite per nomina;</an:p>
+				<an:p>        3) l'inserimento di una diversa e più ampia definizione di incarichi dirigenziali ricomprendendo in particolare componenti di organi consultivi e tecnici, le cui decisioni hanno una incidenza diretta e significativa sulla decisione amministrativa, nonché i responsabili degli uffici di diretta collaborazione;</an:p>
+				<an:p>        4) l'adozione di una più precisa definizione degli «enti di diritto privati regolati o finanziati», chiarendo che, per rendere inconferibile un incarico amministrativo, è sufficiente che un ente privato sia o solo regolato o solo finanziato dall'amministrazione pubblica che conferisce l'incarico;</an:p>
+				<an:p>        5) l'adozione di un criterio coerente per la definizione di «amministratore» negli enti pubblici, siano essi economici che non economici, e negli enti di diritto privato in controllo pubblico, prevedendo, ai fini dell'inconferibilità, tutte le posizioni negli organi di governo, ivi compresi i componenti di organi collegiali;</an:p>
+				<an:p>        6) la previsione, ai fini dello specifico inserimento del divieto di assumere incarichi in enti privati postmandato, che i titolari di uffici cui sono attribuite, a qualsiasi titolo, funzioni di regolazione e finanziamento di enti di diritto privato nonché i dipendenti assegnati ai medesimi uffici, non possono svolgere, nei tre anni successivi alla cessazione dell'incarico o del rapporto di lavoro, attività lavorativa o professionale presso i soggetti privati destinatari delle suddette funzioni;</an:p>
+				<an:p>        7) il coordinamento delle ipotesi di inconferibilità per condanna, anche non definitiva, di cui all'articolo 3 del decreto legislativo n. 39 del 2013, con le ipotesi di sospensione dalla carica politica di cui al decreto legislativo n. 235 del 2012;</an:p>
+				<an:p>        8) la razionalizzazione dei poteri di vigilanza, accertamento, sospensione e sanzione dell'Autorità Nazionale Anticorruzione in materia di inconferibilità e incompatibilità».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

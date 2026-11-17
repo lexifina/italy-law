@@ -1,0 +1,3 @@
+Convention veterinaire entre la Republique Italienne et la Republique Populaire Federative de Yougoslavie
+
+Parte di provvedimento in formato grafico

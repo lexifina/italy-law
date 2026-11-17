@@ -1,5 +1,0 @@
-Allegato A
-
-(art. 26-quater, comma 1, lettera a)
-
-Parte di provvedimento in formato grafico

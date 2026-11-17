@@ -1,3 +1,0 @@
-ACCORD INTERNATIONAL SUR LE BLE DE 1971
-
-Parte di provvedimento in formato grafico

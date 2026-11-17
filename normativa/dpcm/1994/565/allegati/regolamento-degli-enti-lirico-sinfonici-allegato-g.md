@@ -1,0 +1,29 @@
+ALLEGATO G SITUAZIONE AMMINISTRATIVA
+
+Consistenza della cassa all'inizio
+
+dell'esercizio: Istituto tesoriere o cassiere L. .........
+
+Tesoreria Statale L. .........
+
+____________
+
+Riscossioni: in c/ competenze ........ L. .........
+
+in c/ residui ........... L. ......... L. .........
+
+Consistenza della cassa all'inizio dell'esercizio
+
+Residui attivi: degli esercizi precedenti L. ..........
+
+dell'esercizio .......... L. .......... L. .........
+
+Residui passivi: degli esercizi precedenti L. ..........
+
+dell'esercizio .......... L. .......... L. .........
+
+Avanzo
+
+d'amministrazione alla fine dell'esercizio L. .........
+
+Disavanzo ============

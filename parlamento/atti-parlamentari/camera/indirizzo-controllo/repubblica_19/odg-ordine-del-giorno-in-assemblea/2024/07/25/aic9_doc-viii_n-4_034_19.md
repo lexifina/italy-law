@@ -1,0 +1,22 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/034 presentata da BALDINO VITTORIA (MOVIMENTO 5 STELLE) in data 25/07/2024
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/034
+- Data: 20240725
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/034 presentata da BALDINO VITTORIA (MOVIMENTO 5 STELLE) in data 25/07/2024
+- Presentatore: BALDINO VITTORIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: AURIEMMA CARMELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CAPPELLETTI ENRICO (MOVIMENTO 5 STELLE)
+- Cofirmatario: FENU EMILIANO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SANTILLO AGOSTINO (MOVIMENTO 5 STELLE)
+- Cofirmatario: SILVESTRI FRANCESCO (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1599
+- Argomento: http://eurovoc.europa.eu/3379
+- Argomento: http://eurovoc.europa.eu/3623
+- Argomento: http://eurovoc.europa.eu/5168
+- Argomento: http://eurovoc.europa.eu/5497
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/034
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_034_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

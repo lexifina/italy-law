@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/3.205/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/3.205"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1880/A/3.205/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.205"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@.akn"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1880/A/3.205/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1880" showAs="DDL 1880"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA0RW2F" href="http://dati.senato.it/senatore/23135" showAs="MARGIOTTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1880</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.205</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0RW2F" as="#tipoSenatore">MARGIOTTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo 3 con il seguente: «Art. 49. Secondo comma, del decreto legislativo 31 luglio 2005 n. 177, è sostituito del seguente:</an:p>
+				<an:p align="justify">        "La Rai Radiotelevisione italiana S.p.A. concessionaria del servizio pubblico generale radiotelevisivo, nella sua qualità di impresa pubblica, fatto salvo quanto previsto nel presente Testo Unico, è assoggettata esclusivamente, anche con riferimento all'organizzazione, all'amministrazione. alla gestione, all'attività ed alla responsabilità propria e dei propri amministratori, sindaci e dipendenti, alla disciplina generale delle società di capitali ed alla giurisdizione ordinaria, Fermo restando quanto sopra, Rai S.p.A dovrà ispirare la propria azione a principi di trasparenza, efficacia, efficienza e competitività, anche nella definizione delle procedure e dei regolamenti interni di approvvigionamento di lavori, beni e servizi. Devono intendersi abrogate tutte le disposizioni di legge o di regolamento che fossero incompatibili o in contrasto con quanto disposto nel presente comma"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,9 +1,0 @@
-Allegato A
-
-(Articolo 1, comma 1)
-
-REGI DECRETI
-
-(PERIODO 1861-1870)
-
-Parte di provvedimento in formato grafico

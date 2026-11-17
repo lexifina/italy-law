@@ -1,0 +1,23 @@
+VITTORIO EMANUELE III
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visti i Regi decreti 11 novembre 1923, n. 2395, e 30 dicembre 1923, n. 3084, sull'ordinamento gerarchico dell'Amministrazione dello Stato, ed il R. decreto-legge 30 dicembre 1923, n. 2960, sullo stato giuridico degli impiegati civili dello Stato;
+
+Visti i Regi decreti 15 aprile 1909, n. 236, 15 luglio 1909, n. 541, e 17 giugno 1929, n. 1066, sul personale civile degli Istituti di prevenzione e di pena, nonche' i Regi decreti 30 ottobre 1924, n. 1758, 14 giugno 1928, n. 1384, 31 dicembre 1923, n. 2973, e 17 novembre 1927, n. 2243, sul personale aggregato;
+
+Ritenuta la necessita' di provvedere alla determinazione ed approvazione dei nuovi ruoli organici;
+
+Ritenuta altresi' la necessita' di istituire un ruolo di ispettori tecnici ed agricoli per il servizio di controllo e di ispezione dei rami tecnici ed agricoli delle case penali e delle colonie, nonche' di provvedere per i detti Istituti ad un personale tecnico dirigente con apposita carriera di ruolo;
+
+Ritenuta infine l'opportunita' di unificare e di meglio disciplinare la materia relativa all'ammissione agli impieghi in genere dell'Amministrazione degli Istituti di prevenzione e di pena;
+
+Vista la legge 31 gennaio 1926, n. 100;
+
+Udito il Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Nostro Ministro Segretario di Stato per la grazia e giustizia, di concerto con quello per le finanze; Abbiamo decretato e decretiamo:

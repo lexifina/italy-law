@@ -1,5 +1,0 @@
-La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-
-Data a Roma, addi' 30 luglio 1998
-
-SCALFARO Prodi, Presidente del Con siglio dei Ministri Bindi, Ministro della sanita' Visto, il Guardasigilli: Flick

@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/C/2.410/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/C/2.410"/>
+					<an:FRBRdate date="2011-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2518/C/2.410/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.410"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@"/>
+					<an:FRBRdate date="2011-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@.akn"/>
+					<an:FRBRdate date="2011-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-03-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-03-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2518/C/2.410/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 1° e 5° riunite" href="/dati.senato.it/osr/Commissione/4"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25248" showAs="Lauro"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/17558" showAs="Boscetto"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17562" showAs="Cantoni"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25199" showAs="Pichetto Fratin"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/2207" showAs="Scanu"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.410</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Lauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Boscetto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Cantoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Pichetto Fratin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Scanu</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 19, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «19-
+					<an:i>bis</an:i>
+					. Resta fissato al 30 giugno 2012 il termine entro il quale sono adottati i provvedimenti di cui all'articolo 19, comma 2, della legge 4 novembre 2010, n. 183. In relazione ad essi, e al fine di valorizzare adeguatamente la specificità della funzione, del ruolo e della professionalità del personale appartenente al comparto sicurezza-difesa di cui al decreto legislativo 12 maggio 1995, n. 195, anche in caso di trasposizione delle relative esperienze multidisciplinari e capacità gestionali in altri ambiti istituzionali, al personale medesimo transitato, a seguito di concorso pubblico per titoli ed esami, nei ruoli del personale di cui all'articolo 9 della legge 2 aprile 1979, n. 97, dopo almeno dieci anni di servizio permanente effettivo senza demerito, è riconosciuta, nei limiti delle risorse di cui al medesimo articolo 19, comma 2, con decreto del Presidente del Consiglio dei ministri, sentito il Ministro dell'economia e delle finanze, una specifica indennità di attitudine manageriale, aggiuntiva rispetto al trattamento economico in godimento. Di tale specificità professionale i vertici istituzionali tengono conto nelle procedure di conferimento delle funzioni di segretario generale e vice segretario generale.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

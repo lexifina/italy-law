@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1"/>
+					<an:FRBRdate date="2013-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1015/3/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@"/>
+					<an:FRBRdate date="2013-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@.akn"/>
+					<an:FRBRdate date="2013-10-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-10-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-10-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1015/C/G/1015/3/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1015" showAs="DDL 1015"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23060" showAs="Rossi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/422" showAs="Calderoli"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25558" showAs="Bernini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1015</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1015/3/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Calderoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Bernini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge atto Senato n. 1015, di Conversione in legge del decreto-legge n. 101/2013 recante disposizioni urgenti per il perseguimento di obiettivi di razionalizzazione nelle Pubbliche Amministrazioni,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            la 1 Commissione Affari costituzionali ha reso il previsto parere (favorevole con condizioni ed osservazioni), sullo schema di decreto legislativo recante disposizioni integrative e correttive del decreto legislativo 26 ottobre 2010, n. 204, concernente l'attuazione della direttiva 2008/51/CE che modifica la direttiva 91/477/CEE relativa al controllo dell'acquisizione e della detenzione di armi (Atto di Governo n.  16);</an:p>
+				<an:p>
+					            le norme contenute nell'articolo 2, comma 1, lettera 
+					<an:i>a)</an:i>
+					 numero 1 del citato schema sembrano presentare elementi di criticità relativamente al rapporto con la normativa vigente. Esse, ad esempio, appaiono in contrasto con la Sezione II del decreto legislativo 15 marzo 2010, n. 66 (Codice dell'ordinamento militare); ovvero con la direttiva 91/477/CEE e con i principi del diritto comunitario, impedendo la circolazione in Italia di armi permesse ai cittadini di tutti i Paesi membri dell'Unione europea. Una limitazione, peraltro, che finirebbe col discriminare il mercato italiano, o impedire ai tiratori o ai cacciatori comunitari di recarsi in Italia portando a seguito armi regolarmente iscritte sulla loro Carta europea d'arma da fuoco;
+				</an:p>
+				<an:p>
+					            le disposizioni cui al citato articolo 2, evidenziano altresì, incertezze in merito all'aspetto applicativo relativamente, ad esempio, alla inesistenza nelle norme europee e internazionali di «caricatori» e di «serbatoi» tra le parti essenziali d'arma, ovvero al mancato riscontro della limitazione delle armi in dotazione alle forze di polizia in quanto tutte le armi lunghe in dotazione alle stesse hanno, in generale, un numero di colpi superiore a 5, e per quanto riguarda il limite delle le armi corte esistono migliaia di modelli che, in vigenza dell'abolito catalogo nazionale, sono stati riconosciuti quali «armi comuni da sparo», Questioni che mal si conciliano con la presenza sul territorio nazionale di numerosissimi modelli e di un numero rilevantissimo di armi con capienza superiore rispetto al limite preteso, che continuerebbero ad essere legittimamente detenute e utilizzate dai cittadini italiani, rendendo quindi inutile l'applicazione della norma, di cui al citato articolo 2 la 
+					<an:i>ratio</an:i>
+					 della norma è quella di impedire «che armi d'assalto con un numero di colpi superiore, persino, a quelli in dotazione alle forze dell'ordine possano essere immesse sul mercato civile»,
+				</an:p>
+				<an:p>        considerata:</an:p>
+				<an:p>            la opportunità di prevedere una più coerente disciplina in materia di acquisizione e detenzione di armi, anche al fine di migliorare l'attività amministrativa svolta dalle pubbliche amministrazioni in tale ambito,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>        ad adottare adeguate misure, ulteriori rispetto a quelle indicate nel citato parere parlamentare, volte a prevedere che:</an:p>
+				<an:p>            - la limitazione prevista nel citato articolo 2 debba svilupparsi esclusivamente verso le «armi d'assalto» citate dalla relazione, ossia verso i modelli di fucili semiautomatici ad anima rigata una cui versione completamente automatica è in dotazione a forze armate o forze di polizia italiane o straniere;</an:p>
+				<an:p>            - conseguentemente, debbano comunque essere escluse da tale limite le armi spiccatamente da caccia, le armi ad anima liscia e le armi a percussione anulare, che non sono suscettibili di utilizzo militare o di polizia, nonché le armi previste dalla Sezione II del decreto legislativo n. 66 del 2010;</an:p>
+				<an:p>            - come correttamente individuato dal Governo, le armi sportive debbano essere esentate da tale limite, disponendo che le armi della categoria individuata che abbiano un numero di colpi superiore debbano essere considerate automaticamente sportive in seguito al loro riconoscimento, senza discrezionalità in merito;</an:p>
+				<an:p>
+					            - la disposizione stabilente il limite per la categoria individuata sia contenuta nella definizione di arma sportiva (articolo 3, terzo comma, lettera 
+					<an:i>a)</an:i>
+					 del provvedimento) al fine di renderla coerente con la delega;
+				</an:p>
+				<an:p>        ed, inoltre, a valutare:</an:p>
+				<an:p>            in conseguenza al limite apposto, l'opportunità di elevare il limite massimo di detenzione delle armi sportive, anche mediante la previsione di specifiche licenze per i tiratori agonisti, o di sottrarre al limite di sei armi previsto dall'articolo 10 della legge n. 110/75 le armi ad avancarica e a percussione anulare, di modico interesse per la pubblica sicurezza, poiché adatte al solo tiro sportivo.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

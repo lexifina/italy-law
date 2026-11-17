@@ -1,0 +1,45 @@
+ALLEGATO
+
+PROTEZIONE DATI PERSONALI
+
+1. I dati personali che siano oggetto di elaborazione informatizzata devono essere:
+
+a) ottenuti e elaborati in modo corretto e legale;
+
+b) memorizzati per fini specifici e legittimi e non usati in modo incompatibile con tali fini;
+
+c) appropriati, pertinenti e non eccessivi in relazione ai fini per i quali sono stati memorizzati;
+
+d) accurati e, ove necessario, aggiornati;
+
+e) conservati in modo tale da identificare i soggetti cui gli stessi dati si riferiscono, per un lasso di tempo che non ecceda quello richiesto per i fini per i quali sono stati memorizzati.
+
+2. I dati personali che forniscono informazioni di carattere razziale, sulle opinioni politiche o religiose o su altre credenze, cosi' come quelli che riguardano la salute o la vita sessuale, non possono essere oggetto di elaborazione informatizzata, a meno che la legislazione nazionale assicuri sufficienti garanzie di tutela.
+
+Queste disposizioni si applicano parimenti ai dati personali relativi a condanne penali.
+
+3. Misure di sicurezza adeguate dovranno essere adottate, affinche' i dati personali memorizzati in archivi informatizzati siano protetti contro distruzioni non autorizzate o perdite accidentali e contro qualsiasi accesso, modifica o diffusione non autorizzati.
+
+4. Qualsiasi persona dovra' avere la possibilita':
+
+a) di constatare l'esistenza di uno schedario informatizzato con dati personali, gli scopi per i quali siano principalmente utilizzati, il nome, il luogo di residenza abituale o il principale luogo di attivita' del responsabile di tale schedario;
+
+b) di ottenere ad intervalli ragionevoli e senza indugio o spese eccessive, la conferma dell'eventuale memorizzazione di dati personali che la riguardano in un archivio informatizzato e la comunicazione di tali dati in forma comprensibile;
+
+c) di ottenere, secondo i casi, la rettifica o la cancellazione dei dati che siano stati elaborati contravvenendo alle disposizioni della legislazione nazionale che detta i principi fondamentali di cui ai principi 1 e 2 del presente allegato;
+
+d) di disporre di mezzi di ricorso ove non sia stato dato seguito ad una richiesta, secondo i casi, di comunicazione, di rettifica o di cancellazione di cui alle precedenti lettere b) e c).
+
+5.1 Non puo' essere concessa nessuna deroga alle disposizioni dei principi 1, 2 e 4 del presente allegato, salvo che nei limiti definiti nel principio che segue.
+
+5.2 Si puo' derogare alle disposizioni dei principi 1, 2 e 4 del presente allegato, qualora la legislazione della Parte Contraente lo preveda e tale deroga costituisca una misura indispensabile in una societa' democratica al fine di:
+
+a) proteggere la sicurezza dello Stato e l'ordine pubblico nonche' gli interessi finanziari dello Stato o reprimere i reati penali;
+
+b) proteggere le persone alle quali si riferiscono i dati in questione, ovvero i diritti e la liberta' altrui.
+
+5.3 La legge puo' prevedere restrizioni all'esercizio dei diritti, di cui al principio 4 lettere b), c) e d) del presente allegato, relativamente ad archivi informatizzati che contengano dati personali utilizzati a fini statistici o per la ricerca scientifica, qualora non vi sia rischio manifesto di attentare alla privacy delle persone alle quali si riferiscono i dati stessi.
+
+6. Ciascuna Parte Contraente si impegna a prevedere sanzioni e mezzi di ricorso per le violazioni delle disposizioni della legislazione nazionale che detta i principi fondamentali definiti nel presente allegato.
+
+7. Nessuna delle disposizioni del presente allegato deve essere interpretata nel senso di limitare o altrimenti intaccare la possibilita' per una Parte Contraente di accordare alle persone alle quali si riferiscono i dati in questione una protezione piu' ampia di quella prevista nel presente allegato.

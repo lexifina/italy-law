@@ -1,7 +1,0 @@
-Allegato 10
-
-(previsto dall'articolo 10, comma 1)
-
-Inserimento di nuovi fertilizzanti
-
-Parte di provvedimento in formato grafico

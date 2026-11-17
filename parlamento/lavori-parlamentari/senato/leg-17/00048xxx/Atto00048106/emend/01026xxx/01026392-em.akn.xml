@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/G4.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/G4.2"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/G4.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@.akn"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-06-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-06-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2853/A/G4.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2853" showAs="DDL 2853"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHQRALHVI1ZDVN332Q2XSSXFW4NA1XRVI5H3QPPFK40HUGVIBUIYC" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDZOIGESG0RS1ZE0ZHWMMY3XRGEBZ4EBDHGH51R4KZM3XOZO1NFB2" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDOGQSGFCDYTNZJQPLSNOMB0BU2NFKVU5IBSSNFGIVNR5VVRZMRO2L" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDCLAB5V5BA25VFKMPIRCQY5HXBN01BJJYFDTTLAGABDQ4PB4ZXSVN" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDEIOLACAZYJHNF2ACJ5JWIFQ4INENZL4K31FYT2PNGLO250PTH2K" href="http://dati.senato.it/29103" showAs="GALIMBERTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2853</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHQRALHVI1ZDVN332Q2XSSXFW4NA1XRVI5H3QPPFK40HUGVIBUIYC" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZOIGESG0RS1ZE0ZHWMMY3XRGEBZ4EBDHGH51R4KZM3XOZO1NFB2" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOGQSGFCDYTNZJQPLSNOMB0BU2NFKVU5IBSSNFGIVNR5VVRZMRO2L" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCLAB5V5BA25VFKMPIRCQY5HXBN01BJJYFDTTLAGABDQ4PB4ZXSVN" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEIOLACAZYJHNF2ACJ5JWIFQ4INENZL4K31FYT2PNGLO250PTH2K" as="#tipoSenatore">GALIMBERTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del disegno di legge recante Il Conversione in legge del decreto-legge 24 aprile 2017, n. 50, recante disposizioni urgenti in materia finanziaria, iniziative a favore degli enti territoriali, ulteriori interventi perle zone colpite da eventi sismici e misure per lo sviluppo»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            l'articolo 4 del decreto-legge in oggetto, reca disposizioni in materia di regime fiscale delle locazioni brevi, consentendo di optare per l'applicazione della cedolare secca con aliquota al 21 per cento sui redditi derivanti dalle locazioni brevi di immobili ad uso abitativo, se stipulati da persone fisiche al di fuori dell'esercizio d'impresa, direttamente in presenza di intermediazione immobiliare, anche 
+					<an:i>online</an:i>
+					;
+				</an:p>
+				<an:p>            il commercio e l'artigianato diffusi - che sono due preziose risorse del nostro Paese - sono stati sinora garantiti dalla proprietà diffusa, vale a dire da tanti piccoli risparmiatori che hanno investito nei locali commerciali i frutti del loro lavoro;</an:p>
+				<an:p>            da alcuni anni, la redditività di questi beni è del tutto inesistente e nelle strade delle nostre città aumentano ogni giorno i locali vuoti. La somma di ben 7 imposte (Irpef, addizionale regionale Irpef, addizionale comunale Irpef, Imu, Tasi, imposta di registro, imposta di bollo) - combinata con una disciplina contrattuale particolarmente vincolistica - porta ad erodere fino all'80 per cento del canone di locazione; se si aggiungono le spese, si può arrivare al 100 per cento,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            anche al fine di contribuire al superamento dalla crisi del commercio e rilanciare il mercato degli affitti dei locali commerciali, a valutare la possibilità di introdurre una misura di riduzione dell'imposizione erariale con la previsione di una cedolare secca sui canoni di locazione degli immobiIi inclusi nella categoria catastale C/1 (negozi e botteghe).</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

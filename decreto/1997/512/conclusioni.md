@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Roma, 7 novembre 1997
-
-p. Il Ministro del tesoro, del bilancio e della programmazione economica Pinza Il Ministro per la funzione pubblica e gli affari regionali Bassanini Visto, il Guardasigilli: Flick Registrato alla Corte dei conti il 25 febbraio 1998 Registro n. 1 Tesoro, bilancio e programmazione economica, foglio n. 288 Avvertenza: Il testo della nota qui pubblicato e' stato redatto ai sensi dell'art. 10, comma 2, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura della disposizione di legge modificata e della quale restano invariati il valore e l'efficacia.

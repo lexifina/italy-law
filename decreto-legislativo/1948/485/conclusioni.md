@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare come legge dello Stato.
-
-Dato a Roma, addi' 1 aprile 1948
-
-DE NICOLA DE GASPERI - D'ARAGONA - DEL VECCHIO - TREMELLONI Visto, il Guardasigilli: GRASSI Registrato alla Corte dei conti, addi' 15 maggio 1948 Atti del Governo, registro n. 20, foglio n. 118. - FRASCA ----------------- AGGIORNAMENTO (1) Il D.P.R. 22 febbraio 1949, n. 146 ha disposto (con l'articolo unico) che "La tariffa, delle conversazioni telefoniche scambiate esclusivamente sulle linee fonotelegrafiche, stabilita col decreto legislativo 1 aprile 1948, n. 485, e' aumentata come segue dal 1 maggio 1949: L. 16 su linee fino a 3 chilometri; L. 32 su linee da oltre 3 chilometri fino a 25 chilometri; L. 47 su linee oltre i 25 chilometri. L'anzidetta tassa si applica per ogni conversazione della durata di tre minuti primi".

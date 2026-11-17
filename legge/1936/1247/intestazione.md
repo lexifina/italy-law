@@ -1,9 +1,0 @@
-LEGGE
-
-04 giugno 1936
-
-1247
-
-Conversione in legge del R. decreto-legge 2 dicembre 1935-XIV, n. 2096, concernente il rimborso parziale della tassa di vendita corrisposta sui carburanti consumati dagli autoveicoli in servizio pubblico di linea, dalle automotrici in uso su ferrovie e tramvie e da natanti adibiti a servizio di linea di navigazione interna. (036U1247)
-
-Entrata in vigore del provvedimento: 04/07/1936

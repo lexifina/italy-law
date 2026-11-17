@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1812/A/G10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1812/A/G10"/>
+					<an:FRBRdate date="2002-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1812/A/G10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@"/>
+					<an:FRBRdate date="2002-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@.akn"/>
+					<an:FRBRdate date="2002-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2002-12-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2002-12-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1812/A/G10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1812" showAs="DDL 1812"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17571" showAs="Coletti"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2569" showAs="Toia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3916" showAs="Viserta Costantini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/831" showAs="Del Turco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/529" showAs="Castellani"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/1425" showAs="Mancino"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/1305" showAs="Lavagnini"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1812</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Coletti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Toia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Viserta Costantini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Del Turco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Castellani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Mancino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Lavagnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge di conversione in legge del decreto-legge n. 245 del 4 novembre 2002, relativo agli interventi urgenti a favore delle popolazioni colpite dal terremoto del 30 ottobre 2002 nelle regioni Molise e Sicilia,</an:p>
+				<an:p align="justify">        premesso:</an:p>
+				<an:p align="justify">            che l'evento sismico ha prodotto danni ingenti anche sul territorio della regione Abruzzo ed in particolare nella zona a confine con la regione Molise;</an:p>
+				<an:p align="justify">            che a seguito del sisma del 31 ottobre 2002 la strada a scorrimento veloce denominata «Val di Sangro» in provincia di Chieti che collega la costa abruzzese con l'entroterra della stessa regione e con l'entroterra della regione Molise è stata chiusa al traffico per gravi lesioni ad alcune gallerie all'altezza dei comuni di Quadri e Villa Santa Maria;</an:p>
+				<an:p align="justify">            che la chiusura di tale importante arteria crea notevoli difficoltà all'intenso traffico, soprattutto a quello pesante, deviato su una vecchia e tortuosa strada che attraversa i centri urbani di alcuni piccoli comuni della zona;</an:p>
+				<an:p align="justify">            che tale situazione venutasi a creare ha riflessi negativi anche sotto l'aspetto economico e commerciale in quanto l'arteria chiusa al traffico ha una funzione importante per il trasporto delle merci dalla costa all'entroterra abruzzese e molisana:</an:p>
+				<an:p align="justify">            che anche il Governo, attraverso un sopralluogo effettuato dal Sottosegretario Sospiri, ha preso atto della drammaticità della situazione venutasi a creare a seguito della chiusura dell'arteria</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a prendere le opportune iniziative atte a finanziare l'intervento di ripristino della strada al fine di una sua immediata riapertura al traffico.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.96/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.96"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.96/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="50.96"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/50.96/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVCXOAYEVBQPNNN52ZSQGE4ALVOWCT0Z2WC2VOGLGVPEUK2MWQ01N" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDACI2G0TZIWSKD5EDZKHQ4KV5JEKMPYDJMEZC2VNVGHS1X53GKBTB" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="ID4XMR1RDZ3ROGFO0WR0KRYUFNXGDPB5MXEHZY5GN5XLWKK112CSNP" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDBHNIPYQE1EWJPGQOLTFTA13OOGYES1IVUNFIW0OD40LQUI22DCSC" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+				<an:TLCPerson id="ID0FPDYY04GQ5HHC5GPD5DNZHSTF2KUBFUGP43MWLWCXBNE5ISZHQH" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 50.96</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVCXOAYEVBQPNNN52ZSQGE4ALVOWCT0Z2WC2VOGLGVPEUK2MWQ01N" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACI2G0TZIWSKD5EDZKHQ4KV5JEKMPYDJMEZC2VNVGHS1X53GKBTB" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4XMR1RDZ3ROGFO0WR0KRYUFNXGDPB5MXEHZY5GN5XLWKK112CSNP" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBHNIPYQE1EWJPGQOLTFTA13OOGYES1IVUNFIW0OD40LQUI22DCSC" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0FPDYY04GQ5HHC5GPD5DNZHSTF2KUBFUGP43MWLWCXBNE5ISZHQH" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, alla lettera</an:i>
+					 n) 
+					<an:i>sostituire il numero</an:i>
+					 4) 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p>        «4) il comma 8 è sostituito dal seguente:</an:p>
+				<an:p>
+					        ''8. Fatto salvo il rispetto dei termini previsti dall'articolo 32, comma 2, per il caso di consultazioni transfrontaliere, al fine di acquisire il provvedimento di VIA e dei titoli abilitativi in materia ambientale richiesti dal proponente, l'autorità competente convoca nel termine di cui al comma 6, una conferenza di servizi decisoria che opera secondo quanto stabilito dai commi da 1 a 5 dall'articolo 14-
+					<an:i>bis</an:i>
+					 della legge 7 agosto 1990, n. 241. Alla conferenza partecipano il proponente e tutte le amministrazioni competenti o comunque potenzialmente interessate al rilascio del provvedimento di VIA e dei titoli abilitativi ambientali richiesti dal proponente. Per i progetti di cui all'articolo 7-
+					<an:i>bis</an:i>
+					, comma 2-
+					<an:i>bis</an:i>
+					, alla conferenza partecipano in ogni caso il direttore generale del Ministero dell'ambiente e della tutela del territorio e del mare o un suo delegato e il direttore generale del Ministero per i beni e le attività culturali e per il turismo o un suo delegato. La conferenza, nell'ambito della propria attività, prende in considerazione le osservazioni e le informazioni raccolte in sede di consultazione. La determinazione motivata di conclusione della conferenza di servizi, che costituisce il provvedimento unico in materia ambientale, reca l'indicazione espressa del provvedimento di VIA ed elenca, altresì, i titoli abilitativi compresi nel provvedimento unico. La decisione di rilasciare i titoli di cui al comma 2 è assunta sulla base del provvedimento di VIA, adottato dal Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con il Ministro per i beni e le attività culturali e per il turismo, ai sensi dell'articolo 25. I termini previsti dall'articolo 25, comma 2, quarto periodo, sono ridotti alla metà e, in caso di rimessione alla deliberazione del Consiglio dei ministri, la conferenza di servizi è sospesa per il termine di cui all'articolo 25, comma 2, quinto periodo. Tutti i termini del procedimento si considerano perentori ai sensi e per gli effetti di cui agli articoli 2, commi da 9 a 9-
+					<an:i>quater</an:i>
+					, e 2-
+					<an:i>bis</an:i>
+					 della legge n. 241 del 1990''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

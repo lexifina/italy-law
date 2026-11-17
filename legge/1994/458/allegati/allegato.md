@@ -1,9 +1,0 @@
-ALLEGATO
-
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 23
-
-MAGGIO 1994, N. 308.
-
-L'articolo 3 e' sostituito dal seguente:
-
-"Art. 3. - 1. All'articolo 9, quarto comma, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, le parole: 'tra il 1 e il 30 settembre' sono sostituite dalle seguenti: 'tra il 1 settembre e il 31 ottobre'".

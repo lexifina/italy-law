@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2362/C/10.0.7"/>
+					<an:FRBRdate date="2016-06-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@"/>
+					<an:FRBRdate date="2016-06-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@.akn"/>
+					<an:FRBRdate date="2016-06-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-06-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-06-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2362/C/10.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2362" showAs="DDL 2362"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVUO4DVV4MDN5H5Z0LUDMP2PY5JBCUUPVT4WQLCMRKRCVJ2PHGLZL" href="http://dati.senato.it/senatore/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="IDZE2URZ431LSXJ1HCDNJZNAADBD2QLEA5KZSUPPM4BEDWK4L0RSDF" href="http://dati.senato.it/senatore/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="ID5H2TYTCJ5VKLIFHTCWQ3GNLRHLPXBVHN0ZNUG0IPLTL4APWF3ZNP" href="http://dati.senato.it/senatore/29185" showAs="STEFANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2362</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVUO4DVV4MDN5H5Z0LUDMP2PY5JBCUUPVT4WQLCMRKRCVJ2PHGLZL" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZE2URZ431LSXJ1HCDNJZNAADBD2QLEA5KZSUPPM4BEDWK4L0RSDF" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5H2TYTCJ5VKLIFHTCWQ3GNLRHLPXBVHN0ZNUG0IPLTL4APWF3ZNP" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 10-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">(Disposizioni in materia pagamenti elettronici)</an:p>
+				<an:p>        1. Per l'effettuazione di pagamenti con modalità informatiche di cui all'articolo 5 del decreto legislativo 7 marzo 2005, n. 82, come modificato dall'articolo 15, comma 1, del decreto legge 18 ottobre 2012, n. 179, convertito, con modificazioni, dalla Legge 17 dicembre 2012, n. 221, non è previsto alcun onere a carico dei soggetti di cui all'articolo 2, comma 2, dello stesso decreto legislativo 7 marzo 2005, n. 82, e dei gestori di pubblici servizi nei rapporti con l'utanza.</an:p>
+				<an:p>        2. Le clausole che prevedono oneri diversi o non conformi rispetto a quanto stabilito nel precedente comma sono nulle. La nullità della clausola non comporta la nullità del contratto.</an:p>
+				<an:p>        3. Il CICR adotta disposizioni applicative del presente articolo, ivi comprese quelle in materia di trasparenza e comparabilità, e può prevedere che esso si applichi ad altri contratti per i quali si pongano analoghe esigenze di tutela del cliente».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

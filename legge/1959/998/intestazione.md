@@ -1,7 +1,0 @@
-LEGGE
-
-23 novembre 1959
-
-998
-
-Conversione in legge del decreto-legge 30 settembre 1959, n. 769, concernente la sospensione dei termini in alcuni Comuni colpiti dalla alluvione abbattutasi sulla costa del medio Adriatico nella prima decade del settembre 1959.

@@ -1,5 +1,0 @@
-((Allegato 1-bis
-
-(articolo 17-bis, comma 3)
-
-Parte di provvedimento in formato grafico))

@@ -1,0 +1,81 @@
+Art. 47-bis.
+
+(( (Disposizioni in materia di trasporto su strada).))
+
+((
+
+1.
+
+Al decreto legislativo 17 luglio 2016, n. 136, sono apportate le seguenti modificazioni:
+
+a)
+
+all'articolo 10, dopo il comma 1 sono inseriti i seguenti:
+
+"1-bis. Nel settore del trasporto su strada, come individuato dall'articolo 1, comma 4, la comunicazione preventiva di distacco:
+
+a) ha durata trimestrale e, durante questo periodo, copre tutte le operazioni di trasporto effettuate dal conducente distaccato in territorio italiano per conto della stessa impresa di autotrasporto indicata nella medesima comunicazione;
+
+b) in aggiunta alle informazioni di cui al comma 1, deve indicare in lingua italiana anche la paga oraria lorda in euro del conducente distaccato e le modalita' di rimborso delle spese di viaggio, di vitto e di alloggio da questo sostenute.
+
+1-ter. Una copia della comunicazione preventiva di distacco comunicata al Ministero del lavoro e delle politiche sociali ai sensi del comma 1 deve essere tenuta a bordo del veicolo ed essere esibita agli organi di polizia stradale, di cui all'articolo 12 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, in caso di controllo su strada; un'altra copia della medesima comunicazione deve essere conservata dal referente designato dall'impresa estera distaccante ai sensi del comma 3, lettera b).
+
+1-quater. In occasione di un controllo su strada, gli organi di polizia stradale, di cui all'articolo 12 del codice di cui al decreto legislativo 30 aprile 1992, n. 285, verificano la presenza a bordo del mezzo della documentazione seguente, in lingua italiana:
+
+a) contratto di lavoro o altro documento contenente le informazioni di cui agli articoli 1 e 2 del decreto legislativo 26 maggio 1997, n. 152;
+
+b) prospetti di paga";
+
+b)
+
+all'articolo 12, dopo il comma 1 e' inserito il seguente:
+
+"1-bis. Chiunque circola senza la documentazione prevista dall'articolo 10, commi 1-bis, 1-ter e 1-quater, ovvero circola con documentazione non conforme alle predette disposizioni, e' soggetto alla sanzione amministrativa pecuniaria da euro 1.000 a euro 10.000.
+
+Si applicano le disposizioni dell'articolo 207 del codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285".
+
+2.
+
+All'articolo 1, comma 651, della legge 28 dicembre 2015, n. 208, dopo il primo periodo e' inserito il seguente: "Tale esonero e' riconosciuto entro i limiti e secondo le disposizioni del regolamento (UE) n. 1407/ 2013 della Commissione, del 18 dicembre 2013".
+
+3.
+
+Al codice della strada, di cui al decreto legislativo 30 aprile 1992, n. 285, sono apportate le seguenti modificazioni:
+
+a)
+
+all'articolo 7, comma 1, la lettera g) e' sostituita dalla seguente:
+
+"g) prescrivere orari e riservare spazi per i veicoli di categoria N, ai sensi della lettera c) del comma 2 dell'articolo 47, utilizzati per il carico e lo scarico di cose";
+
+b)
+
+all'articolo 10, comma 3, lettera e), dopo le parole: "contenitori o casse mobili di tipo unificato" sono inserite le seguenti: "o trainino rimorchi o semirimorchi utilizzati in operazioni di trasporto intermodale";
+
+c)
+
+all'articolo 158, comma 2, dopo la lettera o) e' aggiunta la seguente:
+
+"o-bis) nelle aree riservate ai veicoli per il carico e lo scarico di merci, nelle ore stabilite";
+
+d)
+
+all'articolo 180, comma 4, secondo periodo, sono premesse le seguenti parole: "Per i rimorchi e i semirimorchi di massa complessiva a pieno carico superiore a 3,5 t,";
+
+e)
+
+all'articolo 201, comma 1-bis, lettera g), dopo le parole: "alle aree pedonali," sono inserite le seguenti: "alle piazzole di carico e scarico di merci,".
+
+4.
+
+Al fine di consentire gli interventi per la protezione ambientale e la sicurezza della circolazione, anche con riferimento all'uso delle infrastrutture, l'autorizzazione di spesa di cui all'articolo 2, comma 3, del decreto-legge 28 dicembre 1998, n. 451, convertito, con modificazioni, dalla legge 26 febbraio 1999, n. 40, e' incrementata di 55 milioni di euro per l'anno 2017. E' altresi' incrementata di 10 milioni di euro per gli anni 2017 e 2018 la dotazione finanziaria a copertura delle agevolazioni di cui all'articolo 1, commi 103 e 106, della legge 23 dicembre 2005, n. 266.
+
+5.
+
+Ai fini del completamento dei progetti per migliorare il sistema del trasporto intermodale e della catena logistica sono autorizzate la spesa di 35 milioni di euro per l'anno 2018 per le finalita' di cui all'articolo 1, comma 647, della legge 28 dicembre 2015, n. 208, e la spesa di 20 milioni di euro per l'anno 2018 per le finalita' di cui all'articolo 1, comma 648, della medesima legge.
+
+6.
+
+Le risorse di cui all'articolo 1, comma 294, della legge 23 dicembre 2014, n. 190, non attribuite alle imprese ferroviarie ai sensi del secondo periodo del medesimo comma 294 e dell'articolo 11, comma 2-ter, del decreto-legge 25 novembre 2015, n. 185, convertito, con modificazioni, dalla legge 22 gennaio 2016, n. 9, possono essere destinate dal gestore dell'infrastruttura, nei limiti degli stanziamenti esistenti, a investimenti per il miglioramento delle connessioni dell'infrastruttura ferroviaria nazionale ai poli di generazione e attrazione del traffico o all'ammodernamento delle locomotive da manovra. Tali risorse saranno inserite nel contratto di programma - parte investimenti tra la societa' Rete ferroviaria italiana Spa e lo Stato con evidenza degli investimenti a cui sono finalizzate.
+
+7. All'articolo 1, comma 651, della legge 28 dicembre 2015, n. 208, il secondo periodo e' sostituito dal seguente: "A tal fine e' autorizzata la spesa di 65,5 milioni di euro per l'anno 2016, di 0,5 milioni di euro per l'anno 2017 e di 0,5 milioni di euro per l'anno 2018"))

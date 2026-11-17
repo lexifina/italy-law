@@ -1,0 +1,9 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduta la legge della Regione siciliana 11 dicembre 1953, n. 63;
+
+Veduta la legge della Regione siciliana 22 giugno 1956, n. 35;
+
+Veduto il testo unico delle leggi sulla istruzione superiore approvato con regio decreto 31 agosto 1933, n. 1592, e successive modificazioni e integrazioni;
+
+Sulla proposta del Ministro per la pubblica istruzione, di concerto con quello per il tesoro; Decreta:

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/A/6.0.2"/>
+					<an:FRBRdate date="2017-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.0.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@"/>
+					<an:FRBRdate date="2017-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@.akn"/>
+					<an:FRBRdate date="2017-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2754/A/6.0.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2754" showAs="DDL 2754"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0UGO4WJVMOZPGNKGAQJP0X4KZH31QQLCMWLEI2DMTEHBOKXS0EFJ" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDUUZU4Q1YYVCDD5ASCIA2WK3S4ITQZ1YNFTSWYMD5H0NDHBX41EMD" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDFCFFTT5UH10APSBPBH0U0PHJGNB4JFEGJ5SUXYPWRNML4NEBU5J" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2754</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.0.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0UGO4WJVMOZPGNKGAQJP0X4KZH31QQLCMWLEI2DMTEHBOKXS0EFJ" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUUZU4Q1YYVCDD5ASCIA2WK3S4ITQZ1YNFTSWYMD5H0NDHBX41EMD" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFCFFTT5UH10APSBPBH0U0PHJGNB4JFEGJ5SUXYPWRNML4NEBU5J" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 6-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>(Conferenza sulla sicurezza delle città metropolitane)</an:p>
+				<an:p>        1. È istituita la Conferenza sulla sicurezza delle città metropolitane, di seguito denominata «Conferenza», alla quale partecipano il Ministro dell'interno, i Sindaci metropolitani, i Prefetti dei territori delle Città metropolitane e il Capo della Polizia. La Conferenza è copresieduta dal Ministro dell'interno e da un sindaco metropolitano eletto tra gli stessi sindaci metropolitani.</an:p>
+				<an:p>        2. La Conferenza è il luogo di confronto e di analisi delle politiche in materia di sicurezza delle città metropolitane al fine di individuare politiche e linee di intervento comuni, pur nel rispetto delle peculiarità territoriali, in materia di sicurezza cittadina e decoro urbano da attuare in maniera armonica in tutte le città metropolitane.</an:p>
+				<an:p>        3. Alla Conferenza può essere invitato a partecipare il Ministro dei beni e delle attività culturali e del turismo quando all'ordine del giorno vi siano temi che ineriscono la tutela, il decoro e la valorizzazione di aree su cui insistono musei, aree e parchi archeologici, complessi monumentali o altri istituti o luoghi di cultura interessati da consistenti flussi turistici.</an:p>
+				<an:p>        4. La Conferenza ha sede presso il Ministero dell'interno e la partecipazione ad essa è a titolo gratuito».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

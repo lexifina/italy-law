@@ -1,3 +1,0 @@
-Accord culturel entre l'Italie et le Japon
-
-Parte di provvedimento in formato grafico

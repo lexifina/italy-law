@@ -1,5 +1,0 @@
-PROTOCOLLO N. 6
-
-SULLE CONCESSIONI CONCESSE ENTRO I LIMITI ANNUI
-
-Le Parti convengono che, qualora l'accordo entri in vigore dopo il 1 gennaio di un qualsiasi anno, ogni concessione accordata entro limiti annui sara' adeguata proporzionalmente.

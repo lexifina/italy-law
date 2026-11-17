@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO INDUSTRIALE DI MILANO - X ISTITUTO
-
-Parte di provvedimento in formato grafico

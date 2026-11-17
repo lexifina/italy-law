@@ -1,0 +1,3 @@
+Articolo XV
+
+Le remunerazioni, comprese le pensioni, pagate da uno degli Stati contraenti o da un suo Ente locale, sia direttamente sia mediante prelevamento su fondi da essi costituiti, ad una persona fisica in corrispettivo di servizi resi a detto Stato o Ente locale nell'esercizio di funzioni di carattere pubblico, sono tassabili in detto Stato. Le remunerazioni stesse o pensioni non sono soggette a tassazione nell'altro Stato contraente se il pagamento viene effettuato ad una persona fisica che sia un nazionale del predetto primo Stato senza essere anche un nazionale dell'altro Stato contraente.

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/690/C/3.32/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/690/C/3.32"/>
+					<an:FRBRdate date="2018-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/690/C/3.32/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.32"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@"/>
+					<an:FRBRdate date="2018-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@.akn"/>
+					<an:FRBRdate date="2018-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-10-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-10-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/690/C/3.32/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/690" showAs="DDL 690"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="6ª Commissione permanente" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEHBCWVJVEG4JMD4HSLNVXJLV4DNIB1EELRW1DXLM0AVOYXYRZK3N" href="http://dati.senato.it/25206" showAs="SCIASCIA"/>
+				<an:TLCPerson id="IDGFDFQ03ENJVCPKKZZOHPIBJTSKSWDYOQZM5PXBJVXVMDYY52ESPM" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDVGHYAKDEIRPHE5SL0X5AJBAVHLMKGP3AC54RXYLRCGS11RWFTDSF" href="http://dati.senato.it/32688" showAs="PEROSINO"/>
+				<an:TLCPerson id="IDZYMQKDX24PFLMR2H3USK2KLHJFDZG2BKS3C4D3OIMUBJT55UYVIK" href="http://dati.senato.it/25412" showAs="ROSSI"/>
+				<an:TLCPerson id="IDQY5L5IIEAFYMJLYKI3FGXIAV0NKKP4TNR2QWIIBMHJQ4PKHJRUKJ" href="http://dati.senato.it/32671" showAs="MODENA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 690</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.32</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEHBCWVJVEG4JMD4HSLNVXJLV4DNIB1EELRW1DXLM0AVOYXYRZK3N" as="#tipoSenatore">SCIASCIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGFDFQ03ENJVCPKKZZOHPIBJTSKSWDYOQZM5PXBJVXVMDYY52ESPM" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVGHYAKDEIRPHE5SL0X5AJBAVHLMKGP3AC54RXYLRCGS11RWFTDSF" as="#tipoSenatore">PEROSINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZYMQKDX24PFLMR2H3USK2KLHJFDZG2BKS3C4D3OIMUBJT55UYVIK" as="#tipoSenatore">ROSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQY5L5IIEAFYMJLYKI3FGXIAV0NKKP4TNR2QWIIBMHJQ4PKHJRUKJ" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 q)
+					<an:i>, sopprimere la parola:</an:i>
+					 «anche» 
+					<an:i>ed aggiungere, in fine, le seguenti:</an:i>
+					 «e anche ai fini di formulare le proposte di carattere legislativo più idonee a garantire la tutela del risparmio come previsto dalla Costituzione».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

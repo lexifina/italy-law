@@ -1,5 +1,0 @@
-((Allegato A -
-
-(Articolo 1, comma 11) ))
-
-Parte di provvedimento in formato grafico

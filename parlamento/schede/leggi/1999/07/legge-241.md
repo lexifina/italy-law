@@ -1,0 +1,12 @@
+# Legge 29 luglio 1999, n. 241
+
+- Tipo: Ordinaria
+- Numero: 241
+- Data: 1999-07-29
+- Titolo: Proroga dei termini per l' esercizio delle deleghe di cui agli articoli 10 e 11 della legge 15 marzo 1997, n. 59, in relazione all' adozione del parere parlamentare
+- Pubblicazione: G.U. n. 176 del 29 Luglio 1999
+- Legislatura: XIII legislatura della Repubblica (repubblica_13)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1999-07-29;241
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;13.legislatura;6263
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1999_241
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

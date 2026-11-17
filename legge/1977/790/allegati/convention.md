@@ -1,5 +1,0 @@
-CONVENTION INTERNATIONALE DES TELECOMMUNICATIONS
-
-Parte di provvedimento in formato grafico
-
-Parte di provvedimento in formato grafico

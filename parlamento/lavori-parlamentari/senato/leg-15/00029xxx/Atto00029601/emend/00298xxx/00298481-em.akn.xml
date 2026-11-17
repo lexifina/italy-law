@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/2011/A/G3.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/2011/A/G3.100"/>
+					<an:FRBRdate date="2008-02-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/2011/A/G3.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@"/>
+					<an:FRBRdate date="2008-02-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@.akn"/>
+					<an:FRBRdate date="2008-02-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-02-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-02-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/2011/A/G3.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/2011" showAs="DDL 2011"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17604" showAs="Martone"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17751" showAs="Pisa"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2011</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Martone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pisa</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato della Repubblica,</an:p>
+				<an:p align="justify">            considerando l'aggravarsi della situazione in Afghanistan, ed il perdurare di gravi lacune e ritardi nella definizione di una nuova strategia della comunità internazionale che sia volta non ad abbandonare il popolo afgano al suo destino bensì a definire le modalità più appropriate ed efficaci per garantirne la protezione e tutela nei confronti in ogni minaccia alla propria sicurezza e diritti fondamentali;</an:p>
+				<an:p align="justify">            prendendo atto che allo stato attuale ogni processo di revisione della strategia della comunità internazionale continua ad essere ancorato alla continuità nella presenza del contingente NATO ISAF, piuttosto che ad un rilancio dell'iniziativa politica e diplomatica all'interno del paese e nella regione, nonché un rafforzamento progressivo dell'impegno della comunità internazionale nelle attività di ricostruzione, e cooperazione internazionale, pilastri essenziali per il perseguimento della pace in Afghanistan;</an:p>
+				<an:p align="justify">            considerando che laddove nelle intenzioni ed intendimenti del governo italiano la missione ISAF dovrebbe essere distinta dalla operazione Enduring Freedom, in realtà i contingenti delle due missioni collaborano e cooperano in operazioni militari;</an:p>
+				<an:p align="justify">            ricordando gli impegni presi dal Governo con l'accoglimento di ordini del giorno che lo invitavano a sostenere la profonda riconfigurazione della presenza internazionale in Afghanistan, nonché a svolgere una valutazione delle operazioni del PRT di Herat;</an:p>
+				<an:p align="justify">            ricordando inoltre l'importante contributo della cooperazione allo sviluppo italiana in Afghanistan, mirata a promuovere l'accesso ai servizi fondamentali ed alle fonti di sussistenza necessarie al soddisfacimento dei bisogni primari delle popolazioni locali, e come tali iniziative rischiano di essere pregiudicate dalla confusione generata dalla commistione tra presenza militare e attività di ricostruzione,</an:p>
+				<an:p align="justify">        impegna il Governo a:</an:p>
+				<an:p align="justify">            sostenere la fine delle operazioni di Enduring Freedom (OEF) e la sostituzione del contingente ISAF con un contingente di polizia internazionale ONU, con un forte mandato per la protezione dei civili, incaricando la Peacebuilding Commission delle Nazioni Unite di definirne le modalità e i tempi del dispiegamento;</an:p>
+				<an:p align="justify">            rafforzare l'impegno finanziario italiano alle attività della cooperazione allo sviluppo.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

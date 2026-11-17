@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/189/C/2.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/189/C/2.6"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/189/C/2.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@.akn"/>
+					<an:FRBRdate date="2019-03-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-03-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-03-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/189/C/2.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/189" showAs="DDL 189"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFHEP24U421UTBFJD125CHSZTXHC4FBL45YVUNACLABPZZXOAE0GJ" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDYX32B0HYNZNDF4IZFZHWSLHMXNAQZQI4SS3ZD1MXC1PMXHFQRKED" href="http://dati.senato.it/32717" showAs="STABILE"/>
+				<an:TLCPerson id="ID5AQMEI5YPUA3CNVGH3XMOFKJRJB1TOGEJIDDRRNQ0H5CJ1BDTOMM" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+				<an:TLCPerson id="IDVSQYTZJAU42JJVQ5BLWNJFFSSNRZOWBNKIVKDYGBIJH0RNG24S5F" href="http://dati.senato.it/32714" showAs="SICLARI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 189</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFHEP24U421UTBFJD125CHSZTXHC4FBL45YVUNACLABPZZXOAE0GJ" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYX32B0HYNZNDF4IZFZHWSLHMXNAQZQI4SS3ZD1MXC1PMXHFQRKED" as="#tipoSenatore">STABILE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5AQMEI5YPUA3CNVGH3XMOFKJRJB1TOGEJIDDRRNQ0H5CJ1BDTOMM" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVSQYTZJAU42JJVQ5BLWNJFFSSNRZOWBNKIVKDYGBIJH0RNG24S5F" as="#tipoSenatore">SICLARI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso «</an:i>
+					Art. 580
+					<an:i>-bis.», sostituire il terzo comma, con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Qualora il soggetto di cui al primo comma si trovi, previo accertamento medico, affetto da disturbo del comportamento alimentare, la sanzione della pena detentiva è commutata nella segnalazione da parte dell'autorità giudiziaria agli organismi sanitari competenti, quali i Centri di riferimento per la cura dei DCA o in assenza, ai Dipartimenti di Salute Mentale o Servizi per le Tossicodipendenze, che dovranno avviare la presa in carico del reo e attuare tutte le procedure diagnostico
+					<an:i>-</an:i>
+					terapeutiche del caso».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.441/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.441"/>
+					<an:FRBRdate date="2009-11-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.441/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.441"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@"/>
+					<an:FRBRdate date="2009-11-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@.akn"/>
+					<an:FRBRdate date="2009-11-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-11-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-11-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1790/A/G2.441/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1790" showAs="DDL 1790"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17656" showAs="Valditara"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/22707" showAs="Augello"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/17941" showAs="Baldassarri"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/17806" showAs="Viespoli"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/2393" showAs="Tofani"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/17606" showAs="Menardi"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/651" showAs="Colli"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/17911" showAs="Conti"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/22704" showAs="Allegrini"/>
+				<an:TLCPerson id="EJC" href="http://dati.senato.it/senatore/25221" showAs="Musso"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1790</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.441</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Valditara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Augello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Baldassarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Viespoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Tofani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Menardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Colli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Conti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Allegrini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EJC" as="#tipoSenatore">Musso</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            è opportuno favorire i rapporti fra imprese e università;</an:p>
+				<an:p align="justify">            occorre favorire gli investimenti in società di capitali che investono in ricerca al fine di far affluire maggiori risorse private al sistema della ricerca,</an:p>
+				<an:p align="justify">        impegna il Governo a:</an:p>
+				<an:p align="justify">            consentire la deduzione fiscale dei proventi derivanti da investimenti in società di capitali neocostituite a forte base tecnologica;</an:p>
+				<an:p align="justify">            esentare le plusvalenze e gli interessi relativi a titoli di debito, nonché le plusvalenze e i dividendi relativi a titoli azionari emessi per finanziare e capitalizzare società di nuova costituzione la cui finalità istituzionale è quella di finanziare progetti a forte base tecnologica o di investire in società di capitali neocostituite a forte base tecnologica;</an:p>
+				<an:p align="justify">            prevedere che le emissioni di titoli di debito di cui al punto precedente possano accedere alle garanzie del Fondo centrale di garanzia per le piccole e medie imprese, di cui all'articolo 2, comma 100, lettera a), della legge n. 669 del 1996.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

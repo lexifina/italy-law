@@ -1,9 +1,0 @@
-Allegato B
-
-(di cui all'articolo 10, comma 5)
-
-SEGNALAZIONE DI VIOLAZIONE DELLA MISURA ADOTTATA SULLA BASE
-
-DELL'ORDINE DI PROTEZIONE EUROPEO
-
-Parte di provvedimento in formato grafico

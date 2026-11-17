@@ -1,0 +1,21 @@
+Art. 3-bis.
+
+(Proroga biennale del termine di restituzione per i finanziamenti contratti a seguito del sisma del maggio 2012)
+
+1.
+
+Per i finanziamenti contratti ai sensi dell'articolo 11, commi 7 e 7-bis, del decreto-legge 10 ottobre 2012, n. 174, convertito, con modificazioni, dalla legge 7 dicembre 2012, n. 213, nonche' ai sensi dell'articolo 1, comma 367, della legge 24 dicembre 2012, n. 228, e ai sensi dell'articolo 6, commi 2 e 3, del decreto-legge 26 aprile 2013, n. 43, convertito, con modificazioni, dalla legge 24 giugno 2013, n. 71, la restituzione del debito per quota capitale al 1º gennaio 2014, comprensivo della rata non corrisposta alla scadenza del 31 dicembre 2013 ai sensi del comma 2 del presente articolo, puo' essere differita, previa modifica dei contratti di finanziamento e connessa rimodulazione dei piani di ammortamento, per un periodo non superiore a due anni, non ulteriormente prorogabile, rispetto alla durata massima originariamente prevista. La societa' Cassa depositi e prestiti Spa e l'Associazione bancaria italiana adeguano le convenzioni di cui all'articolo 11, comma 7, del decreto-legge 10 ottobre 2012, n. 174, convertito, con modificazioni, dalla legge 7 dicembre 2012, n. 213, integrate ai sensi dell'articolo 1, comma 367, della legge 24 dicembre 2012, n. 228, e ai sensi dell'articolo 6, comma 5, del decreto-legge 26 aprile 2013, n. 43, convertito, con modificazioni, dalla legge 24 giugno 2013, n. 71, in coerenza con le disposizioni di cui al presente comma. Ai maggiori oneri per interessi e per le spese di gestione strettamente necessarie, derivanti dalla modifica dei contratti di finanziamento e dalla connessa rimodulazione dei piani di ammortamento dei finanziamenti ai sensi del presente comma, si provvede nei limiti dell'autorizzazione di spesa di cui all'articolo 11, comma 13, del decreto-legge 10 ottobre 2012, n. 174, convertito, con modificazioni, dalla legge 7 dicembre 2012, n. 213. Le garanzie dello Stato di cui ai decreti del Ministro dell'economia e delle finanze emanati ai sensi dell'articolo 11, comma 7, del decreto-legge 10 ottobre 2012, n. 174, convertito, con modificazioni, dalla legge 7 dicembre 2012, n. 213, nonche' ai sensi dell'articolo 1, comma 367, della legge 24 dicembre 2012, n. 228, e dell'articolo 6, commi 2 e 3, del decreto-legge 26 aprile 2013, n. 43, convertito, con modificazioni, dalla legge 24 giugno 2013, n. 71, assistono, senza ulteriori formalita' e con i medesimi criteri e modalita' di operativita' stabiliti nei predetti decreti, i finanziamenti contratti ai sensi delle rispettive disposizioni normative, come modificati per effetto della rimodulazione dei piani di ammortamento derivante dall'attuazione del presente comma. ((4))
+
+2.
+
+La rata per capitale e interessi in scadenza il 31 dicembre 2013 e' corrisposta nell'ambito del piano di ammortamento dei finanziamenti rimodulato ai sensi del comma 1.
+
+3.
+
+Ai fini del rispetto della normativa in materia di aiuti di Stato, la proroga di due anni di cui al comma 1 e' condizionata alla verifica dell'assenza di sovracompensazioni dei danni subiti per effetto degli eventi sismici del 20 e 29 maggio 2012, tenendo conto anche degli eventuali indennizzi assicurativi, rispetto ai limiti previsti dalle decisioni della Commissione europea C(2012) 9853 final e C(2012) 9471 final del 19 dicembre 2012. Le disposizioni attuative inerenti alla verifica dell'assenza di sovracompensazioni sono stabilite tramite ordinanze commissariali dei Presidenti delle regioni Emilia-Romagna, Lombardia e Veneto, in qualita' di commissari delegati, ai sensi dell'articolo 1, comma 4, del decreto-legge 6 giugno 2012, n. 74, convertito, con modificazioni, dalla legge 1º agosto 2012, n. 122. Le disposizioni del presente articolo entrano in vigore alla data di pubblicazione della legge di conversione del presente decreto nella Gazzetta Ufficiale.
+
+---------------
+
+AGGIORNAMENTO (4)
+
+Il D.L. 31 dicembre 2014, n. 192, convertito con modificazioni dalla L. 27 febbraio 2015, n. 11, ha disposto (con l'art. 10, comma 11-ter) che "La durata del piano di ammortamento e' prolungata di dodici mesi rispetto a quanto previsto dall'articolo 3-bis, comma 1, del decreto-legge 28 gennaio 2014, n. 4, convertito, con modificazioni, dalla legge 28 marzo 2014, n. 50".

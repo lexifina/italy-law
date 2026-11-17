@@ -1,5 +1,0 @@
-CONFERENCE INTERNATIONALE DU TRAVAIL
-
-CONVENTION 119
-
-Parte di provvedimento in formato grafico

@@ -1,5 +1,0 @@
-Art. 12-bis.
-
-(( (Sottoprodotti utilizzabili negli impianti per la produzione di biogas e biometano). ))
-
-((1. Al fine di semplificare il processo produttivo negli impianti per la produzione di biogas e biometano, i sottoprodotti di cui ai punti 2 e 3 della tabella 1.A dell'allegato 1 al decreto del Ministro dello sviluppo economico 23 giugno 2016, pubblicato nella Gazzetta Ufficiale n. 150 del 29 giugno 2016, possono essere ammessi in ingresso agli impianti per la produzione di biogas e biometano e si intendono compresi nella definizione di cui all'articolo 3, comma 1, lettera i), del decreto del Ministro delle politiche agricole alimentari e forestali 25 febbraio 2016, pubblicato nel supplemento ordinario alla Gazzetta Ufficiale n. 90 del 18 aprile 2016, se rispettano le condizioni previste dall'articolo 184-bis del decreto legislativo 3 aprile 2006, n. 152, e se l'utilizzo agronomico del digestato prodotto rispetta altresi' le disposizioni previste dal titolo IV del citato decreto del Ministro delle politiche agricole alimentari e forestali 25 febbraio 2016))

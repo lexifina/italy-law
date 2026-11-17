@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/57.0.202"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="57.0.202"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@.akn"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-05-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-05-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2085/A/57.0.202/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2085" showAs="DDL 2085"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRHLQGYGYQ5YXO0WXRBD3ETY34HK4SZULZMGYDJLDSXVPVDAWSIVN" href="http://dati.senato.it/29102" showAs="GAETTI"/>
+				<an:TLCPerson id="IDKZFHIVD1IBBCILK0EITKL0TLAMZD13IMPCA2S5EOQSHSKDNPDLUG" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDRLISYKWFVKJ0FQ1AJNTNY2AS2O5ADK1XT1DGEHV5RPPUKKGXYI" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2085</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 57.0.202</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRHLQGYGYQ5YXO0WXRBD3ETY34HK4SZULZMGYDJLDSXVPVDAWSIVN" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKZFHIVD1IBBCILK0EITKL0TLAMZD13IMPCA2S5EOQSHSKDNPDLUG" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRLISYKWFVKJ0FQ1AJNTNY2AS2O5ADK1XT1DGEHV5RPPUKKGXYI" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 57-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Obbligo di esposizione dell'organigramma)</an:i>
+				</an:p>
+				<an:p>        1. A decorrere dal novantesimo giorno dall'entrata in vigore della presente legge, in tutti gli studi professionali privati e negli ambulatori che esercitano l'attività odontoiatrica ai sensi dell'articolo 57 è fatto obbligo di esposizione dell'organigramma della struttura.</an:p>
+				<an:p>        2. L'organigramma deve indicare il direttore sanitario responsabile, gli addetti operanti nella struttura, con le relative qualifiche, titoli, mansioni ed eventuali deleghe.</an:p>
+				<an:p>        3. L'organigramma deve essere contenuto in specifici cartelli esposti nelle sale d'attesa delle strutture di cui al comma 1 e recare apposita vidimazione, secondo le modalità individuate con il decreto di cui al comma 4 dell'articolo 57</an:p>
+				<an:p>        4. Responsabili dell'obbligo di esposizione dell'organigramma sono il titolare dello studio professionale o il direttore sanitario delle società di cui all'articolo 57</an:p>
+				<an:p>        5. Le autorità competenti per la vidimazione sono gli ordini professionali provinciali territorialmente competenti.</an:p>
+				<an:p>        6. L'inosservanza delle disposizioni del presente articolo è punita con la multa da euro 4000 ad euro 7000».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

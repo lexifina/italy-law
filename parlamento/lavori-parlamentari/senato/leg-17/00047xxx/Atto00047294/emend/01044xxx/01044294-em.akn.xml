@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/5.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/5.100"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2541/A/5.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.100"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@.akn"/>
+					<an:FRBRdate date="2017-09-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2541/A/5.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2541" showAs="DDL 2541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSMYPO4S5SE5AC1ALT1GWJCLJUJWHXF1OQ4PXWJFZTEAV2EYRDROP" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDM2C3KX5X5OLSF3WXUEZKMXLVXLUTUTNILSLZZVI2E1GRAYIGU3JN" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDE0EBSWRLSTE2P55VFLF1TBVNOLXGTUOP2LS5XCMUNZNZPC4FNFXI" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSMYPO4S5SE5AC1ALT1GWJCLJUJWHXF1OQ4PXWJFZTEAV2EYRDROP" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM2C3KX5X5OLSF3WXUEZKMXLVXLUTUTNILSLZZVI2E1GRAYIGU3JN" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE0EBSWRLSTE2P55VFLF1TBVNOLXGTUOP2LS5XCMUNZNZPC4FNFXI" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, aggiungere il seguente:</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Nell'ambito delle misure per il contrasto dell'abbandono dei terreni e degli immobili di cui alle lettere 
+					<an:i>a)</an:i>
+					 e 
+					<an:i>b)</an:i>
+					 del comma 1, i comuni provvedono a concedere in gestione i medesimi terreni ed edifici in stato di abbandono o di degrado, prioritariamente a cooperative di giovani, anche al fine di sostenere l'imprenditori a giovanile per l'avvio di nuove attività turistiche e commerciali volte alla valorizzazione e alla promozione del territorio e dei suoi prodotti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

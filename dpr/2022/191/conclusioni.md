@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 4 ottobre 2022
-
-MATTARELLA Draghi, Presidente del Consiglio dei ministri Lamorgese, Ministro dell'interno Brunetta, Ministro per la pubblica amministrazione Gelmini, Ministro per gli affari regionali e le autonomie Bonetti, Ministro per le pari opportunita' e la famiglia Di Maio, Ministro degli affari esteri e della cooperazione internazionale Cartabia, Ministro della giustizia Franco, Ministro dell'economia e delle finanze Giorgetti, Ministro dello sviluppo economico Giovannini, Ministro delle infrastrutture e della mobilita' sostenibili Orlando, Ministro del lavoro e delle politiche sociali Bianchi, Ministro dell'istruzione Messa, Ministro dell'universita' e della ricerca Speranza, Ministro della salute Visto, il Guardasigilli: Nordio Registrato alla Corte dei conti il 28 novembre 2022 Foglio n. 2869

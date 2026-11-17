@@ -1,3 +1,0 @@
-Convention europeenne relative au regime douanier des palettes utilisees dans les transports internationaux
-
-Parte di provvedimento in formato grafico

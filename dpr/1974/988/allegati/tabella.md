@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI RANDAZZO
-
-Parte di provvedimento in formato grafico

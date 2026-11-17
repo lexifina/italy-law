@@ -1,3 +1,0 @@
-Art. 8-ter.
-
-((ARTICOLO ABROGATO DAL D.LGS. 15 MARZO 2010, N. 66))

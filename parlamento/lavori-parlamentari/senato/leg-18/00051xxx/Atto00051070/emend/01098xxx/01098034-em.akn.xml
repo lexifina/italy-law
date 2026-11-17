@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.0.1000/10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@.akn"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-01-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-01-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/A/10.0.1000/10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDKOTNC5KKTSPJF0AVNHPZDQXKSCH2ZCRKWNNJRDLHSPC44HXG5INC" href="http://dati.senato.it/32659" showAs="MALLEGNI"/>
+				<an:TLCPerson id="IDGSFMSIBDJCJJT2TGPDJQNPGZLTM1MPO4KJCGLHEKQ4KH0WN55PH" href="http://dati.senato.it/32584" showAs="BARBONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.0.1000/10 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKOTNC5KKTSPJF0AVNHPZDQXKSCH2ZCRKWNNJRDLHSPC44HXG5INC" as="#tipoSenatore">MALLEGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGSFMSIBDJCJJT2TGPDJQNPGZLTM1MPO4KJCGLHEKQ4KH0WN55PH" as="#tipoSenatore">BARBONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento, al capoverso "Articolo 10-bis", comma 1, sostituire la lettera e) con la seguente:</an:i>
+				</an:p>
+				<an:p>        «e) all'articolo 11, il comma 4 è sostituito dal seguente:</an:p>
+				<an:p>            "4. Le prenotazioni di trasporto per il noleggio con conducente sono effettuate presso la rimessa o la sede anche mediante l'utilizzo di strumenti tecnologici. I veicoli o natanti immatricolati servizio noleggio con conducente, qualora privi di prenotazione o di contratto di servizio, debbono sostare nelle rimesse o presso i pontili di attracco di cui all'art. 3 c. 3. Al termine dei servizi prenotati o del contratto a tempo i veicoli ed i natanti debbono rientrare presso le rimesse o i pontili di attracco di cui all'art. 3 c. 3. Il prelevamento e l'arrivo a destinazione dell'utente possono avvenire anche al di fuori della Regione in cui ricade il Comune che ha rilasciato l'autorizzazione. Nel servizio di noleggio con conducente è obbligatoria la prova di prenotazione di servizio o del contratto a tempo da tenere a bordo del veicolo o del natante. I requisiti e le specifiche tecniche dei documenti di prova del servizio sono stabiliti dal Ministro delle Infrastrutture e dei Trasporti con decreto di concerto con il Ministro dell'Interno previo parere della Conferenza Unificata e sentite le Organizzazioni di Categoria del Noleggio con Conducente. La presente disposizione non si applica alle Città metropolitane".».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

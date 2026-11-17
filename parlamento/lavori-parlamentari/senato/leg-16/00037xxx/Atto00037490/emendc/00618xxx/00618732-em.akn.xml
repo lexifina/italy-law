@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2968/C/5.262/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2968/C/5.262"/>
+					<an:FRBRdate date="2011-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2968/C/5.262/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.262"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@"/>
+					<an:FRBRdate date="2011-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@.akn"/>
+					<an:FRBRdate date="2011-11-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-11-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-11-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2968/C/5.262/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2968" showAs="DDL 2968"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25256" showAs="Andria"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25298" showAs="Antezza"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/23037" showAs="Pertoldi"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/22795" showAs="Randazzo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2968</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.262</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Andria</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Antezza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Pertoldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Randazzo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 25, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «25-
+					<an:i>bis</an:i>
+					. Al fine di favorire investimenti nelle imprese del settore ittico orientati all'incremento dell'innovazione, della competitività e dell'efficienza aziendale, alla ristrutturazione finanziaria e produttiva, anche secondo i parametri indicati dagli Orientamenti comunitari sugli aiuti di Stato per il settore della pesca e dell'acquacoltura, a facilitare le fusioni e le concentrazioni nel settore, alla realizzazione di reti di imprese, alla creazione di società miste, a tutoraggi di 
+					<an:i>start-up</an:i>
+					 e prestiti partecipativi, nonché all'incentivazione di interventi che favoriscano l'accesso al credito ed alla disponibilità di capitali di rischio, entro novanta giorni dall'entrata in vigore della presente legge il Ministro delle politiche agricole, alimentari e forestali, con proprio decreto, d'intesa con la Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, è adottato il Piano per lo sviluppo della fili era ittica.
+				</an:p>
+				<an:p>
+					        25-
+					<an:i>ter</an:i>
+					. Per il finanziamento del Piano di cui al comma 25-
+					<an:i>bis</an:i>
+					 è autorizzata la spesa di 5 milioni di euro annui per il triennio 2012-2014. Con il medesimo decreto di cui al comma 25-
+					<an:i>bis</an:i>
+					 sono definite le modalità di ripartizione delle risorse stanziate a favore del Piano.
+				</an:p>
+				<an:p>
+					        25-
+					<an:i>quater</an:i>
+					. Per la definizione del procedimento istruttorio e la prestazione delle relative garanzie, le imprese interessate si avvalgono dell'operato dei Confidi di settore - Consorzi nazionali ed unitari di garanzia fidi di primo grado di cui all'articolo 13 del decreto legge 30 settembre 2003, n. 269, convertito con modificazioni dalla legge 24 novembre 2003, n. 326. A tal fine, per il triennio 2012-2014, sono vincolate il 20 per cento delle complessive risorse del Piano».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, alla tabella A, voce</an:i>
+					 Ministero dell'economia e delle finanze, apportare le seguenti variazioni in diminuzione:
+				</an:p>
+				<an:p>            2012:  -  5.000;</an:p>
+				<an:p>            2013:  -  5.000;</an:p>
+				<an:p>            2014:  -  5.000.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

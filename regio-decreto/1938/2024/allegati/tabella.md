@@ -1,5 +1,0 @@
-Provincia di Trapani
-
-PORTO DI MAZZARA DEL VALLO
-
-Parte di provvedimento in formato grafico

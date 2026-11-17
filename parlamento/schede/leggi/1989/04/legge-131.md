@@ -1,0 +1,11 @@
+# Legge 12 aprile 1989, n. 131
+
+- Tipo: Ordinaria
+- Numero: 131
+- Data: 1989-04-12
+- Titolo: Concessione  di  un  contributo  di lire 3 miliardi per l'anno 1988 all'Universita' di Bologna, mediante emissione di monete  celebrative del IX centenario della fondazione dell'Universita'.
+- Pubblicazione: (Pubblicata nella G. U del 19 aprile 1989 n. 91)
+- Legislatura: X legislatura della Repubblica (repubblica_10)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1989-04-12;131
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1989_131
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2620/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2620"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2620/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2620"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.2620/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSJR5GMKYTBU3FM3THQD4RB0FNE3SVUXJAQYICTPWSSABO1RRQHXI" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDHGYBUNHKJXI0QN4H0RGIZ1ATKGXTN1WAF1NNPFF1ZX3CLXY5VCM" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID5NBYRF55HK1MI4N5BCVNSKCQCGC0V4SQKJSBD1HSKM45HMWSYDHO" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDUDQPRCONQHIWGTWCRWNSZU03CJ3VBGT31TVI3LB4N05T415RREUM" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2620</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSJR5GMKYTBU3FM3THQD4RB0FNE3SVUXJAQYICTPWSSABO1RRQHXI" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHGYBUNHKJXI0QN4H0RGIZ1ATKGXTN1WAF1NNPFF1ZX3CLXY5VCM" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5NBYRF55HK1MI4N5BCVNSKCQCGC0V4SQKJSBD1HSKM45HMWSYDHO" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUDQPRCONQHIWGTWCRWNSZU03CJ3VBGT31TVI3LB4N05T415RREUM" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 505, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «505-
+					<an:i>bis</an:i>
+					. Dopo l'articolo 14 della legge 5 maggio 2009, n. 42, aggiungere il seguente:
+				</an:p>
+				<an:p>
+					        «Art. 14-
+					<an:i>bis</an:i>
+					.
+				</an:p>
+				<an:p>
+					<an:i>(Definizione dei livelli essenziali delle prestazioni sociali)</an:i>
+				</an:p>
+				<an:p>        1.Al fine di assicurare la tenuta unitaria nell'intero territorio nazionale dei principi ispiratori dell'ordinamento, la legge dello Stato che su iniziativa della regione interessata concede a tale Regione ulteriori forme e condizioni particolari di autonomia, secondo quanto previsto dall'articolo 116, comma 3, della Costituzione, può essere approvata solo dopo la definizione da parte dello Stato dei livelli essenziali ed uniformi su tutto il territorio nazionale delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale con l'individuazione delle risorse necessarie.</an:p>
+				<an:p>        2.Il trasferimento delle risorse sulle materie ulteriori assegnate alle Regioni che lo richiedono è definito esclusivamente in base a oggettivi fabbisogni dei territori, escludendo ogni riferimento a indicatori di ricchezza territoriale.</an:p>
+				<an:p>        3.Per la definizione dei livelli essenziali ed uniformi su tutto il territorio nazionale delle prestazioni concernenti i diritti civili e sociali che devono essere garantiti su tutto il territorio nazionale e l'individuazione delle risorse necessarie, di cui al comma 1, nonché la definizione degli oggettivi fabbisogni dei territori, di cui al comma 2, è istituita presso il Ministero dell'economia e delle finanze una commissione di studio composta da 11 membri di cui 5 esperti nominati dal ministro dell'economia e delle finanze e 5 esperti nominati dalla Conferenza delle Regioni e presieduta dal Ministro o da un suo delegato, che deve concludere i propri lavori entro e non oltre il 30 settembre 2019. A tale scopo è autorizzata la spesa di 3 milioni di euro per l'anno 2019».</an:p>
+				<an:p>        Conseguentemente, al comma 421, sostituire le parole: «euro 130.317.000 per l'anno 2019» con le seguenti: «euro 127.317.000 per l'anno 2019».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

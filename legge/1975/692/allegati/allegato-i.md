@@ -1,7 +1,0 @@
-ALLEGATO I
-
-(Articoli 3 e 4)
-
-REGOLAMENTO INTERNAZIONALE PER IL TRASPORTO DELLE MERCI PERICOLOSE PER FERROVIE (RID)
-
-(Testo sottoposto a procedura di revisione speciale e pubblicato in edizione a parte)

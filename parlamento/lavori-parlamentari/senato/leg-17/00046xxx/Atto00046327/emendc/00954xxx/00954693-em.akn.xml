@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/C/1.511"/>
+					<an:FRBRdate date="2016-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.511"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@"/>
+					<an:FRBRdate date="2016-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@.akn"/>
+					<an:FRBRdate date="2016-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-01-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-01-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111-B/C/1.511/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111-B" showAs="DDL 2111-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAKUVP" href="http://dati.senato.it/senatore/2064" showAs="Paolo ROMANI"/>
+				<an:TLCPerson id="IDALTVP" href="http://dati.senato.it/senatore/1103" showAs="GASPARRI"/>
+				<an:TLCPerson id="IDAEWVP" href="http://dati.senato.it/senatore/25558" showAs="BERNINI"/>
+				<an:TLCPerson id="IDAPUVP" href="http://dati.senato.it/senatore/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDAVRVP" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDAJRVP" href="http://dati.senato.it/senatore/752" showAs="D'ALI'"/>
+				<an:TLCPerson id="IDAIWVP" href="http://dati.senato.it/senatore/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDAOSVP" href="http://dati.senato.it/senatore/25271" showAs="ALICATA"/>
+				<an:TLCPerson id="IDAZTVP" href="http://dati.senato.it/senatore/25205" showAs="MESSINA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.511</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKUVP" as="#tipoSenatore">Paolo ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALTVP" as="#tipoSenatore">GASPARRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAEWVP" as="#tipoSenatore">BERNINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPUVP" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVRVP" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJRVP" as="#tipoSenatore">D'ALI'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIWVP" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOSVP" as="#tipoSenatore">ALICATA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZTVP" as="#tipoSenatore">MESSINA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 466, sostituire le parole:</an:i>
+					 «300 milioni di euro», 
+					<an:i>con le seguenti:</an:i>
+					 «1.500 milioni di euro» 
+					<an:i>e le parole:</an:i>
+					 «74 milioni di euro», 
+					<an:i>con le seguenti:</an:i>
+					 «1000 milioni di euro».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, ridurre proporzionalmente del 5 per cento in maniera lineare tutti gli stanziamenti di parte corrente dell'allegata tabella C;</an:i>
+				</an:p>
+				<an:p>
+					<an:i>sopprimere il comma 638;</an:i>
+				</an:p>
+				<an:p>
+					<an:i>dopo il comma 918, aggiungere il seguente:</an:i>
+					 «A decorrere dal 1º gennaio 2016, sulle vincite derivanti da una singola giocata .effettuata sugli apparecchi e congegni di cui all'articolo 110, comma 6, lettera 
+					<an:i>b)</an:i>
+					, del testo unico delle leggi di pubblica sicurezza, di cui al regio decreto 18 giugno 1931, n. 773, e successive modificazioni, collegati in rete, si applica un prelievo pari al3 per cento. Il prelievo sulle vincite è operato all'atto del pagamento delle somme a credito del giocatore e versato dal concessionario unitamente al primo versamento utile della quota della raccolta del gioco dovuta all'erario. Entro trenta giorni dalla data di entrata in vigore della presente legge, con decreto del Ministero dell'economia e delle finanze sono definite le modalità applicative, a decorrere dall'anno 2016, del prelievo sulle vincite con particolare riferimento alla corretta determinazione della base imponibile, alle modifiche tecnologiche dei sistemi 
+					<an:i>hardware</an:i>
+					 e 
+					<an:i>software</an:i>
+					 e alla partecipazione dei concessionari, dei produttori dei sistemi, nonché della SOGEI quale 
+					<an:i>partner</an:i>
+					 tecnologico dell'Agenzia delle dogane e dei monopoli;
+				</an:p>
+				<an:p>
+					        nelle more dell'adozione della Carta delle autonomie locali, in attuazione dell'articolo 117, secondo comma, lettera 
+					<an:i>p)</an:i>
+					, della Costituzione, a decorrere dal 1º gennaio 2016 e fino al completamento del trasferimento di funzioni statali a regioni ed enti locali di cui alla medesima Carta, le funzioni amministrative esercitate dalle amministrazioni periferiche dello Stato, che devono essere conferite a regioni ed enti locali, sono concentrate provvisoriamente presso le prefetture uffici territoriali del Governo. Le prefetture - uffici territoriali del Governo svolgono, anche nell'ambito delle Conferenze permanenti provinciali e regionali dei servizi della pubblica amministrazione, specifica attività volta a sostenere ed agevolare il trasferimento delle funzioni stesse e delle relative risorse, concorrendo alle necessarie intese con il sistema delle regioni e degli enti locali. Al termine del processo di trasferimento di funzioni, salvo diversamente disposto dalla Carta delle autonomie locali, le residue funzioni statali sul territorio sono esercitate presso le prefetture uffici territoriali del Governo. Con regolamento emanato ai sensi dell'articolo 17, comma 2, della legge 23 agosto 1988, n. 400, si provvede alla specificazione dei compiti e delle responsabilità della prefettura ufficio territoriale del Governo, e all'individuazione delle funzioni da esercitare su scala regionale o sovraregionale, nonché delle modalità atte a garantire la dipendenza funzionale della prefettura ufficio territoriale del Governo, o di sue articolazioni, dai Ministeri per gli aspetti relativi alle materie di rispettiva competenza. La rideterminazione delle strutture periferiche assicura maggiori livelli di funzionalità attraverso l'esercizio unitario delle funzioni logistiche e strumentali, l'istituzione di servizi comuni e l'uso invia prioritaria dei beni immobili di proprietà pubblica. Le disposizioni del presente articolo non si applicano alle amministrazioni periferiche dei Ministeri degli affari esteri, della giustizia e della difesa. Non si applicano inoltre agli uffici i cui compiti sono attribuiti ad agenzie statali. Dall'attuazione del presente articolo devono derivare risparmi di pesa non inferiori a 500 milioni di euro annui a decorrere dall'anno 2016».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

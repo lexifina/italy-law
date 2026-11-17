@@ -1,0 +1,3 @@
+ALLEGATO N. 2. (Art. 108 e 109)
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/11.0.115/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/11.0.115"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/A/11.0.115/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.0.115"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@.akn"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-01-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-01-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/A/11.0.115/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQX4OMIH4LH1ZB1GMTTBCYY0YZK5Y5ILVSB514YIBOLCFLZBB55QG" href="http://dati.senato.it/29527" showAs="PESCO"/>
+				<an:TLCPerson id="IDNJD30ILL4G0VG3QBSM1RVUABOEGBMFBX05WSMQBOSN2HTSBXCCIB" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDVRQAGHP1VSDMGPOVAKGBN3JXZCGKKGFTEPOSNVNSIITNRHC0YW2D" href="http://dati.senato.it/32639" showAs="GARRUTI"/>
+				<an:TLCPerson id="IDNPO0IVEC15NFFABVGI5OOG4D1LZ3C3SLERHF21FISPE1GK1FWE2M" href="http://dati.senato.it/32618" showAs="DESSI'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.0.115</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQX4OMIH4LH1ZB1GMTTBCYY0YZK5Y5ILVSB514YIBOLCFLZBB55QG" as="#tipoSenatore">PESCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNJD30ILL4G0VG3QBSM1RVUABOEGBMFBX05WSMQBOSN2HTSBXCCIB" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVRQAGHP1VSDMGPOVAKGBN3JXZCGKKGFTEPOSNVNSIITNRHC0YW2D" as="#tipoSenatore">GARRUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNPO0IVEC15NFFABVGI5OOG4D1LZ3C3SLERHF21FISPE1GK1FWE2M" as="#tipoSenatore">DESSI'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 11
+						<an:i>-bis</an:i>
+						.
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifica al Decreto del Presidente della Repubblica 22 giugno 2007, n. 116)</an:i>
+				</an:p>
+				<an:p>
+					        1. All'articolo 3, comma 1
+					<an:i>-sexies</an:i>
+					, del Decreto del Presidente della Repubblica 22 giugno 2007, n. 116, le parole "con le sanzioni previste dal capo II del titolo XVIII del codice delle assicurazioni private di cui al decreto legislativo 7 settembre 2005, n. 209" sono sostituite con le seguenti: "da IVASS con le sanzioni di cui all'articolo 310 del decreto legislativo 7 settembre 2005, n. 209, secondo quanto previsto dal capo II del titolo XVIII del medesimo codice delle assicurazioni private"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

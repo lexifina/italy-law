@@ -1,5 +1,0 @@
-Art. 34-bis.
-
-(( (Operazioni di pulizia e di disinfezione dei seggi elettorali). ))
-
-((1. In considerazione del livello di esposizione al rischio di contagio da COVID-19 connesso allo svolgimento dei compiti istituzionali, e' istituito nello stato di previsione del Ministero dell'interno un fondo con una dotazione di 39 milioni di euro per l'anno 2020, destinato a interventi di sanificazione dei locali sedi di seggio elettorale in occasione delle consultazioni elettorali e referendarie del mese di settembre 2020. Al relativo onere, pari a 39 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per le emergenze nazionali di cui all'articolo 44 del codice di cui al decreto legislativo 2 gennaio 2018, n. 1, come incrementato dall'articolo 34, comma 1, del presente decreto, per le finalita' indicate. Con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, sono stabiliti i criteri e le modalita' di riparto del fondo di cui al primo periodo))

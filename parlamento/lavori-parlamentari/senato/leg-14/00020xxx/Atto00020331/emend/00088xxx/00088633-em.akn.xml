@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G49.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G49.4"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G49.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G49.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@.akn"/>
+					<an:FRBRdate date="2004-06-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-06-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-06-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2512/A/G49.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2512" showAs="DDL 2512"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/8208" showAs="Dato"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17583" showAs="Dettori"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1635" showAs="Monticone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17636" showAs="Scalera"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/4340" showAs="Bastianoni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2512</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G49.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Dato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Dettori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Monticone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Scalera</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bastianoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2004,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la strada statale n. 650 Trignina collega il corridoio tirrenico a quello adriatico nel punto in cui l'Appennino ha la minore latitudine rispetto alle altre trasversali e mette in collegamento i territori di quattro regioni: Campania, Lazio, Abruzzo e Molise;</an:p>
+				<an:p align="justify">            questa arteria viaria ha una straordinaria valenza all'interno del sistema logistico nazionale, perché collega il sistema intermobile di Napoli con il corridoio adriatico ed i porti di Gaeta e Vasto con le aree industriali di Cassino, Venafro e Pozzillo, San Salvo e Punta Penna di Vasto;</an:p>
+				<an:p align="justify">            con la chiusura e la non utilizzazione della Fondo valle Bifernina, tutto il traffico commerciale destinato verso il nord-est d'Italia si riversa sulla strada statale n. 650 Trignina;</an:p>
+				<an:p align="justify">            la strada in questione versa in precarie condizioni di sicurezza, sia per ragioni strutturali che per difetto di manutenzione ordinaria e straordinaria e per questo si verificano un numero di incidenti gravi e mortali tanto alto da rendere necessario un intervento deciso e tempestivo;</an:p>
+				<an:p align="justify">            di questi problemi sono a conoscenza le autorità di sicurezza e controllo e la proprietà della strada, anche per le continue denunce e sollecitazioni dei sindaci ed amministratori di comuni e province dell'Abruzzo e del Molise attraversate dalla strada statale n. 650 Trignina;</an:p>
+				<an:p align="justify">            il 19 dicembre 2001, nel corso della sessione di bilancio, il Governo accolse un ordine del giorno che aveva come impegno il miglioramento della sicurezza sulla strada statale n. 650 Trignina,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad inserire la strada statale n. 650 Trignina tra le opere viarie da potenziare migliorandone il tracciato e la sicurezza, considerandola, coerentemente con la funzione che svolge, una infrastruttura strategica per la intermodalità e lo sviluppo economico del Paese;</an:p>
+				<an:p align="justify">            a sollecitare l'Anas s.p.a. perché provveda con urgenza alla manutenzione straordinaria ed a realizzare quelle opere urgenti ed indispensabili per la sicurezza stradale.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

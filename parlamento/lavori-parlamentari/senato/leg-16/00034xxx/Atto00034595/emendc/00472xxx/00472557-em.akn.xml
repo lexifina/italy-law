@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1905/C/13.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1905/C/13.2"/>
+					<an:FRBRdate date="2010-06-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1905/C/13.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@"/>
+					<an:FRBRdate date="2010-06-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@.akn"/>
+					<an:FRBRdate date="2010-06-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-06-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-06-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1905/C/13.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1905" showAs="DDL 1905"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Istruzione pubblica, beni culturali" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22754" showAs="Livi Bacci"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/22774" showAs="Procacci"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="ENC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1905</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Livi Bacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Procacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo 13 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «Art. 13. (Collocamento a riposto) - 1. I ricercatori e i professori universitari, ivi compresi quelli in servizio presso le facoltà di medicina e chirurgia, e tutto il personale dipendente delle università cessano dai ruoli o dagli incarichi dall'anno accademico successivo al compimento del sessantacinquesimo anno di età.</an:p>
+				<an:p>        2. Il personale di cui al comma 1, con domanda inoltrata precedentemente ai termini dello stesso comma, può chiedere di essere trattenuto in servizio per un eventuale periodo necessario a maturare un'anzianità massima contributiva di 40 anni.</an:p>
+				<an:p>        3. Coloro che alla data di entrata in vigore della presente legge hanno superato i 65 anni di età o hanno già ottenuto, con decreto del rettore, il collocamento fuori ruolo o il trattenimento in servizio per il biennio previsto dall'articolo 16 del decreto legislativo 30 dicembre 1992, n.  503, e successive modificazioni, cessano dai ruoli o dagli incarichi dall'inizio del successivo anno accademico.</an:p>
+				<an:p>        5. I ricercatori e i professori cessati dai loro incarichi ai sensi dei commi 1 e 3 possono proseguire un impegno attivo, didattico e scientifico, nel dipartimento di afferenza mediante la stipula di contratti di ricerca, anche a titolo gratuito, predisposti secondo schemi definiti dal consiglio di amministrazione dell'ateneo, anche in considerazione delle esigenze didattiche del dipartimento. I ricercatori e i professori, che alla data del collocamento a riposo risultino coordinatori a qualunque titolo di fondi per ricerca da svolgersi nell'ambito del dipartimento di loro ultima afferenza, mantengono diritti e doveri derivanti da tali progetti tra cui la possibilità di svolgere attività di ricerca correlata».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

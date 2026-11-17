@@ -1,9 +1,0 @@
-Accordo tra l'Italia e la Liberia sui servizi aerei
-
-Monrovia, 17 gennaio 1963
-
-AGREEMENT BETWEEN THE GOVERNMENT OF ITALY AND
-
-THE GOVERNMENT OF THE REPUBLIC OF LIBERIA
-
-Parte di provvedimento in formato grafico

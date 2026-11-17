@@ -1,0 +1,22 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/007 presentata da MULE' GIORGIO (FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE) in data 23/07/2025
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.6/007
+- Data: 20250723
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.6/007 presentata da MULE' GIORGIO (FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE) in data 23/07/2025
+- Presentatore: MULE' GIORGIO (FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE)
+- Cofirmatario: BENVENUTO ALESSANDRO MANUEL (LEGA - SALVINI PREMIER)
+- Cofirmatario: BENZONI FABRIZIO (AZIONE-POPOLARI EUROPEISTI RIFORMATORI-RENEW EUROPE)
+- Cofirmatario: COLUCCI ALESSANDRO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC E ITALIA AL CENTRO)-MAIE-CENTRO POPOLARE)
+- Cofirmatario: DELLA VEDOVA BENEDETTO (MISTO-+EUROPA)
+- Cofirmatario: DONZELLI GIOVANNI (FRATELLI D'ITALIA)
+- Cofirmatario: FURFARO MARCO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Cofirmatario: MACCANTI ELENA (LEGA - SALVINI PREMIER)
+- Cofirmatario: RUSSO PAOLO EMILIO (FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE)
+- Cofirmatario: TRANCASSINI PAOLO (FRATELLI D'ITALIA)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/4220
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.6/007
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.6_007_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

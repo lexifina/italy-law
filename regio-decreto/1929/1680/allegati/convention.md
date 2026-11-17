@@ -1,3 +1,0 @@
-Convention sanitaire internationale.
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,26 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/029 presentata da VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA) in data 25/07/2024
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/029
+- Data: 20240725
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/029 presentata da VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA) in data 25/07/2024
+- Presentatore: VACCARI STEFANO (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Cofirmatario: DE MARIA ANDREA (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Cofirmatario: DELLA VEDOVA BENEDETTO (MISTO-+EUROPA)
+- Cofirmatario: GIACHETTI ROBERTO (ITALIA VIVA-IL CENTRO-RENEW EUROPE)
+- Cofirmatario: SANTILLO AGOSTINO (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/2585
+- Argomento: http://eurovoc.europa.eu/2616
+- Argomento: http://eurovoc.europa.eu/279
+- Argomento: http://eurovoc.europa.eu/2891
+- Argomento: http://eurovoc.europa.eu/3561
+- Argomento: http://eurovoc.europa.eu/42
+- Argomento: http://eurovoc.europa.eu/5146
+- Argomento: http://eurovoc.europa.eu/75
+- Argomento: http://eurovoc.europa.eu/84
+- Argomento: http://eurovoc.europa.eu/94
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/029
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_029_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

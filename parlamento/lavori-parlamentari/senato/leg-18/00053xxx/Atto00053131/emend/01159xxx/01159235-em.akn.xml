@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.4"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOTHT3KS5Q1F0ONDDHCZLZCI4TOE3YUE04PJOEIPDZUFQIR1Y4MMI" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="ID2VCSARMS5C1ZEN5QWBHFN4Q4QHVCWL5VDTDNCYO3K424ECJP5W" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDTN320DHAXZTEFJ2TQ5UW2ZDGDLUOD2VZXRMWDAMGYUKVK4T4N4T" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDRQS15SQTLM1RON5XIHIV1VXQILYYZJGPHWQNH4GONWIT1WX1FUGC" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="ID5RKY4EPGAQR4JN3QP5A1ENPUDC15EEBZD0MFSAJIQM5APFY1TIBJ" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOTHT3KS5Q1F0ONDDHCZLZCI4TOE3YUE04PJOEIPDZUFQIR1Y4MMI" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2VCSARMS5C1ZEN5QWBHFN4Q4QHVCWL5VDTDNCYO3K424ECJP5W" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTN320DHAXZTEFJ2TQ5UW2ZDGDLUOD2VZXRMWDAMGYUKVK4T4N4T" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRQS15SQTLM1RON5XIHIV1VXQILYYZJGPHWQNH4GONWIT1WX1FUGC" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5RKY4EPGAQR4JN3QP5A1ENPUDC15EEBZD0MFSAJIQM5APFY1TIBJ" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge A.S. 1874 recante «Conversione in legge, con modificazioni, del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19''';</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il comma 6 dell'articolo 2 del decreto-legge n. 11/2020, che prevede - negli uffici che hanno la disponibilità del servizio di deposito telematico - l'esclusività di tale modalità di deposito anche per gli atti e documenti finora esenti, nonché per i medesimi atti il pagamento del contributo unificato e l'anticipazione forfettaria «con sistemi telematici di pagamento anche tramite la piattaforma tecnologica di cui all'articolo 5 del Codice dell'amministrazione digitale», aveva un termine iniziale ed un termine finale: «dalla data di entrata in vigore del presente decreto», quindi 8 marzo 2020, «e fino al 31 maggio 2020»;</an:p>
+				<an:p>            il comma 22 dell'articolo 83 del successivo decreto-legge n. 18/2020 ha abrogato la previsione del comma 6 dell'articolo 2 del decreto-legge n. 11/2020, nello stesso momento in cui al comma 11 ne faceva subentrare una quasi identica, se non fosse per il termine iniziale «dal 9 marzo 2020» e per quello finale «al 30 giugno 2020»;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            dall'8 marzo ad oggi, quindi, la piattaforma tecnologica di cui all'articolo 5 del Codice dell'amministrazione digitale - per l'interconnessione e l'interoperabilità tra le pubbliche amministrazioni e i prestatori di servizi di pagamento abilitati, al fine di assicurare l'autenticazione dei soggetti interessati all'operazione in tutta la gestione del processo di pagamento - è e resta soltanto una delle modalità di pagamento del contributo unificato e dell'anticipazione forfettaria, affiancandosi alle altre modalità telematiche di pagamento sin qui utilizzate, ove la modalità precedentemente in vigore a mezzo deposito cartaceo rimane un sistema valido di pagamento, che lo Stato non può impedire annullando un contributo comunque versato, ancorché non accettato al momento del deposito;</an:p>
+				<an:p>            adottare come linea di condotta amministrativa una interpretazione limitata ai soli sistemi telematici di pagamento della piattaforma tecnologica di cui all'articolo 5 del Codice dell'amministrazione digitale è una classica situazione che ricade sotto la nozione di ignorantia legis prodotta da errore scusabile, di cui alla sentenza della Cotte costituzionale 24 marzo 1988, n. 364: una previsione di pura creazione (neppure legislativa, ma) applicativa non solo non può produrre, per i fatti anteriori, disvalore giuridico, ma (Cassazione, 5 settembre 1995, Nitti) rappresenta la classica situazione di buona fede amministrativa che esclude qualsivoglia coscienza dell'antigiuridicità;</an:p>
+				<an:p>        considerato infine che:</an:p>
+				<an:p>            la ripetizione del pagamento del contributo unificato comporterebbe un indebito arricchimento da parte della pubblica amministrazione richiedente;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            affinché le cancellerie, previa tracciatura della data impressa telematicamente sul bollo, considerino ritualmente depositati i contributi unificati già versati dall'8 marzo alla data di entrata in vigore del decreto-legge n, 18/2020, accettando come forma di pagamento quelli già emessi.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,9 +1,0 @@
-ALLEGATO 3
-
-Lista C
-
-PRODOTTI PORTOGHESI
-
-LA CUI IMPORTAZIONE E' LIBERATA IN ITALIA
-
-Parte di provvedimento in formato grafico

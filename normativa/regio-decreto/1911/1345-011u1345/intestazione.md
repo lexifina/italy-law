@@ -1,0 +1,9 @@
+REGIO DECRETO
+
+30 novembre 1911
+
+1345
+
+Erezione in ente morale. (011U1345)
+
+Entrata in vigore del provvedimento: 11/01/1912

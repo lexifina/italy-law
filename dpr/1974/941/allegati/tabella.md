@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI CORTONA
-
-Parte di provvedimento in formato grafico

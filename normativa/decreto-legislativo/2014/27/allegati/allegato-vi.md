@@ -1,0 +1,25 @@
+Allegato VI
+
+Dichiarazione UE di conformita'
+
+1. N. ... (identificazione unica dell'AEE):
+
+2. Nome e indirizzo del fabbricante o del suo mandatario:
+
+3. La presente dichiarazione di conformita' e' rilasciata sotto la responsabilita' esclusiva del fabbricante (o dell'installatore):
+
+4. Oggetto della dichiarazione (identificazione dell'AEE che ne consenta la rintracciabilita'. Essa puo' comprendere una fotografia, ove opportuno):
+
+5. L'oggetto della dichiarazione di cui sopra e' conforme alla Direttiva 2011/65/UE del Parlamento europeo e del Consiglio dell'8 giugno 2011, sulla restrizione dell'uso di determinate sostanze pericolose nelle apparecchiature elettriche ed elettroniche (*).
+
+6. Ove applicabile, i riferimenti alle pertinenti norme armonizzate utilizzate o i riferimenti alle specifiche tecniche in relazione alle quali e' dichiarata la conformita':
+
+7. Ulteriori informazioni:
+
+Firmato in vece e per conto di:
+
+.....................................................................
+
+(luogo e data del rilascio):
+
+(nome e cognome, funzione) (firma)

@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/98.0.46"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="98.0.46"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/98.0.46/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFRCTRUPPUXFXLNO4MUZSCVPEXOCFTHFMMH3SCDERAQ4X53ZJGVDN" href="http://dati.senato.it/32630" showAs="FENU"/>
+				<an:TLCPerson id="IDQZQ1YED0BETKKOEZMZYKSWGALNAY35CQ0NBNQ3MPRSMA5420JNXC" href="http://dati.senato.it/32616" showAs="DELL'OLIO"/>
+				<an:TLCPerson id="IDX0BKTIVZBZJVH013Z4OJB3GBPG0BF1HQWGTIN1PXX3FFLFFRZJ1C" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 98.0.46</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFRCTRUPPUXFXLNO4MUZSCVPEXOCFTHFMMH3SCDERAQ4X53ZJGVDN" as="#tipoSenatore">FENU</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQZQ1YED0BETKKOEZMZYKSWGALNAY35CQ0NBNQ3MPRSMA5420JNXC" as="#tipoSenatore">DELL'OLIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX0BKTIVZBZJVH013Z4OJB3GBPG0BF1HQWGTIN1PXX3FFLFFRZJ1C" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 98-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Regime opzionale di determinazione secondo il criterio di cassa del reddito delle società tra professionisti)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 81 del Testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, dopo il comma 1 aggiungere i seguenti:</an:p>
+				<an:p>        ''2. Le società tra professionisti di cui all'articolo io della legge 12 novembre 2011, n. 183, costituite sotto forma di società di capitali e di società cooperative che, nel periodo di imposta precedente, hanno conseguito un ammontare di ricavi indicati all'articolo 85 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, non superiore ai limiti previsti dall'articolo 18, comma i, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, possono optare per la determinazione del reddito complessivo secondo dell'articolo 66 del medesimo testo unico.</an:p>
+				<an:p>        3. L'opzione di cui al comma 2 è vincolante per almeno un triennio. Trascorso il periodo di permanenza nel regime prescelto, l'opzione resta valida per ciascun anno successivo, fino a quando permane la concreta applicazione della scelta operata. Qualora vengano superati i limiti di ricavi previsti dall'articolo 18, comma i, del decreto del Presidente della Repubblica 29 settembre 1973, n. 600, e successive modificazioni, l'opzione cessa dall'inizio del periodo di imposta successivo.</an:p>
+				<an:p>        4. Nel caso in cui venga esercitata l'opzione di cui al comma 2, i ricavi e le spese sostenute che, ancorché di competenza del periodo in cui il reddito è stato determinato in base alle regole del regime ordinario, non abbiano concorso a formare il reddito imponibile del periodo assumono rilevanza nei periodi di imposta successivi nel corso dei quali si verificano i presupposti previsti dal regime opzionale. I ricavi e le spese che, in base alle regole del regime ordinario, abbiano già concorso a formare il reddito non assumono rilevanza nella determinazione del reddito dei periodi di imposta successivi nei quali si applica il regime opzionale, ancorché si verifichino i presupposti previsti dal regime opzionale; corrispondenti criteri si applicano per l'ipotesi inversa di passaggio dal regime opzionale a quello ordinario.''.</an:p>
+				<an:p>        2. Alle attività professionali prestate dalle società tra professionisti di cui all'articolo io della legge 12 novembre 2011, n. 183, si applica il contributo soggettivo e il contributo integrativo previsto dalle norme legislative che regolano la Cassa di previdenza di categoria cui ciascun socio professionista fa riferimento in forza dell'iscrizione obbligatoria al relativo albo professionale. Il contributo integrativo è versato pro quota alle rispettive Casse secondo gli ordinamenti statutari e i regolamenti vigenti.</an:p>
+				<an:p>        3. Con decreto del Ministro dell'economia e delle finanze, da adottarsi entro novanta giorni dalla data di conversione in legge del presente decreto, sono adottate le disposizioni di attuazione del presente articolo.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

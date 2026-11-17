@@ -1,5 +1,0 @@
-ALLEGATO N. 1
-
-Elenco dei terreni intestati alla ditta Lamberti Felice fu Fedele e Bertotti Clotilde di Annibale in Lamberti, per le rispettive quote di una meta' per ciascuno, (piano 349/1), in comune di Codigoro (provincia di Ferrara), trasferiti in proprieta' all'Ente per la colonizzazione del Delta Padano, a norma delle leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e decreto Presidenziale 7 febbraio 1951, n. 69.
-
-Parte di provvedimento in formato grafico

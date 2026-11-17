@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3184/C/3.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3184/C/3.1"/>
+					<an:FRBRdate date="2012-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3184/C/3.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@"/>
+					<an:FRBRdate date="2012-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@.akn"/>
+					<an:FRBRdate date="2012-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-04-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-04-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3184/C/3.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3184" showAs="DDL 3184"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 5° e 6° riunite" href="/dati.senato.it/osr/Commissione/69"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22779" showAs="Santini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3184</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Santini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 3. - 1. Per l'acquisto di beni e di prestazioni di servizi legate al turismo effettuati presso soggetti di cui agli articoli 22 e 74-
+					<an:i>ter</an:i>
+					 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, dalle persone fisiche di cittadinanza diversa da quella italiana, che abbiano residenza fuori dal territorio dello Stato, non opera il divieto di trasferimento di denaro contante di cui all'articolo 49, comma 1, del decreto legislativo 21 novembre 2007, n. 231, a condizione che il cedente del bene o il prestatore del servizio provveda ai seguenti adempimenti:
+				</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 all'atto dell'effettuazione dell'operazione acquisisca fotocopia del passaporto del cessionario e/o del committente apposita autocertificazione di quest'ultimo, ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, attestante che non è cittadino italiano e che ha la residenza fuori del territorio dello Stato;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 nel terzo giorno feriale successivo a quello di effettuazione dell'operazione versi il denaro contante incassato in un conto corrente intestato al cedente o al prestatore presso un operatore finanziario, consegnando a quest'ultimo fotocopia del documento di cui alla lettera 
+					<an:i>a)</an:i>
+					 e della fattura o della ricevuta o dello scontrino fiscale emesso.
+				</an:p>
+				<an:p>        2. La disposizione di cui al comma 1 opera a condizione che i cedenti o i prestatori che intendono aderire alla disciplina del presente articolo inviino apposita comunicazione preventiva, anche in via telematica, all'Agenzia delle entrate secondo le modalità ed i termini stabiliti con provvedimento del Direttore dell'Agenzia stessa, da emanare entro trenta giorni dalla data di entrata in vigore del presente decreto».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

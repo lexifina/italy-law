@@ -1,0 +1,37 @@
+Strumento cosi' come contemplato dall'Articolo 3(2) dell'Accordo di Estradizione tra gli Stati Uniti d'America e l'Unione Europea firmato il 25 giugno 2003, in relazione all'applicazione del Trattato di Estradizione tra il Governo degli Stati Uniti d'America e il
+
+Governo della Repubblica Italiana firmato il 13 ottobre 1983
+
+1. Cosi' come contemplato dall'Articolo 3(2) dell'Accordo di Estradizione tra gli Stati Uniti d'America e l'Unione Europea firmato il 25 giugno 2003 (d'ora in avanti denominato "l'Accordo di Estradizione USA-UE"), i Governi degli Stati Uniti d'America e della Repubblica Italiana riconoscono che, conformemente alle disposizioni del presente Strumento, l'Accordo di Estradizione USA-UE si applica in relazione al Trattato bilaterale di Estradizione in vigore tra il Governo degli Stati Uniti d'America e il Governo della Repubblica Italiana firmato il 13 ottobre 1983 (d'ora in avanti denominato "Trattato di Estradizione del 1983") alle seguenti condizioni:
+
+a) L'Articolo 5 dell'Accordo di Estradizione USA-UE di cui all'Articolo X (1) e (7) dell'Allegato al presente Strumento regolera' il metodo di trasmissione e i requisiti riguardanti la certificazione, l'autentica o la legalizzazione della richiesta di estradizione e dei documenti a sostegno;
+
+b) L'Articolo 7 (1) dell'Accordo di Estradizione USA-UE di cui all'Articolo X (8) dell'Allegato al presente Strumento prevede un metodo alternativo di trasmissione della richiesta di estradizione e dei documenti a sostegno successivamente all'arresto provvisorio;
+
+c) L'Articolo 8 (2) dell'Accordo di Estradizione USA-UE di cui all'Articolo XI (3) dell'Allegato al presente Strumento regolera' la via che dovra' essere utilizzata per la presentazione di informazioni supplementari;
+
+d) L'Articolo 10 dell'Accordo di Estradizione USA-UE di cui all'Articolo XV dell'Allegato al presente Strumento regolera' la decisione relativa alle richieste di estradizione o di consegna presentate da diversi Stati nei confronti della stessa persona;
+
+e) L'Articolo 13 dell'Accordo di Estradizione USA-UE di cui all'Articolo IX dell'Allegato al presente Strumento regolera' l'estradizione riguardo alla condotta punibile con la pena di morte nella Parte Richiedente;
+
+f) L'Articolo 14 dell'Accordo di Estradizione USA-UE di cui all'Articolo XI bis dell'Allegato al presente 'Strumento regolera' le consultazioni nel caso in cui la Parte Richiedente contempli la presentazione di informazioni particolarmente sensibili a sostegno di una richiesta di estradizione.
+
+2. L'Allegato riflette il testo integrato delle disposizioni del Trattato di Estradizione del 1983 e dell'Accordo di Estradizione USA-UE che sara' applicabile una volta che il presente Strumento entrera' in vigore.
+
+3. Conformemente all'Articolo 16 dell'Accordo di Estradizione USA-UE, il presente Strumento si applica ai reati commessi prima e dopo della sua entrata in vigore.
+
+4. Il presente Strumento non si applica alle richieste di estradizione formulate prima della sua entrata in vigore.
+
+5. a) Il presente Strumento e' soggetto al completamento da parte degli Stati Uniti d'America e della Repubblica Italiana delle loro rispettive procedure interne applicabili per l'entrata in vigore. Al riguardo, i Governi degli Stati Uniti d'America e della Repubblica Italiana si scambieranno gli strumenti indicando che tali misure sono state completate. Il presente Strumento entrera' in vigore lo stesso giorno dell'entrata in vigore dell'Accordo di Estradizione USA-UE.
+
+b) In caso di estinzione dell'Accordo di Estradizione USA-UE, il presente Strumento sara' estinto e si applichera' il Trattato di Estradizione del 1983. Tuttavia, i Governi degli Stati Uniti d'America e della Repubblica Italiana possono concordare di continuare ad applicare alcune o tutte le disposizioni del presente Strumento.
+
+IN FEDE DI CHE, i sottoscritti, debitamente autorizzati dai rispettivi Governi, hanno firmato il presente Strumento.
+
+FATTO a Roma, in duplice originale, questo terzo giorno di Maggio 2006 nelle lingue inglese ed italiana, entrambi i testi facenti ugualmente fede.
+
+PER IL GOVERNO PER IL GOVERNO
+
+DEGLI STATI UNITI D'AMERICA DELLA REPUBBLICA ITALIANA
+
+Parte di provvedimento in formato grafico

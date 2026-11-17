@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/3.147/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/3.147"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/3.147/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.147"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@.akn"/>
+					<an:FRBRdate date="2013-11-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/3.147/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29059" showAs="Candiani"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25531" showAs="Comaroli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25556" showAs="Bitonci"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.147</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Candiani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Comaroli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bitonci</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 15, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «15-
+					<an:i>bis</an:i>
+					. Al comma 4 dell'articolo 39 della legge n. 214/11 di conversione del decreto-legge n. 201/11 dopo le parole: ''da banche e intermediari finanziari iscritti nell'elenco speciale di cui all'articolo 106 del decreto legislativo 1º settembre 1993, n. 385 e successive modificazioni'' sono aggiunte le parole: ''e dai Confidi iscritti all'elenco di cui all'articolo 112 del decreto legislativo 1º settembre 1993, n. 385 e successive modificazioni''. Infine sono aggiunte le parole: ''Il Fondo di garanzia a favore delle piccole e medie imprese di cui all'articolo 2, comma 100, lettera 
+					<an:i>a)</an:i>
+					, della legge 23 dicembre 1996 n. 662 e successive modificazioni ed integrazioni riserva un ammontare massimo di risorse impegnate, in termini di accantonamenti operati a valere sul Fondo, pari a complessivi cento milioni di euro per il rilascio della controgaranzia su portafogli di domande presentate dai Confidi. Entro 30 giorni dall'entrata in vigore del presente provvedimento con decreto del Ministro dello Sviluppo Economico, d'intesa con il Ministro dell'Economia e delle Finanze, sono adottate specifiche disposizioni volte a definire le caratteristiche tecniche dei portafogli di finanziamenti. La costruzione dei portafogli dovrà avvenire nel rispetto delle seguenti modalità: Le operazioni ammissibili hanno un importo massimo di 100 mila euro; Le operazioni ammissibili che compongono ciascun portafoglio sono erogate da una o più banche; Sono previsti gli stessi parametri di accesso attualmente in vigore per le operazioni ammissibili all'intervento del Fondo sul microcredito; Ciascun portafoglio ha una dimensione minima di un milione di euro e 40 operazioni e una dimensione massima di 25 milioni di euro; Sono previste specifiche modalità volte ad efficientare la misura dell'accantonamento del Fondo Sono introdotti specifici strumenti informatici condivisi con i Confidi per consentire la trasmissione telematica e massiva delle informazioni; È previsto un processo di delibera della controgaranzia separato rispetto alle pratiche presentate singolarmente allo scopo di ottimizzare i tempi di erogazione della garanzia; Sono previsti meccanismi di valorizzazione della ponderazione zero della controgaranzia a favore delle banche finanziatrici; La commissione applicata dal Fondo Centrale di Garanzia è fissata in misura pari allo 0,125 per cento dell'importo garantito dal Fondo per tutte le tipologie di operazioni finanziarie, categorie di imprese beneficiarie finali, settori economici di appartenenza e aree geografiche, ad esclusione di quelle per cui non è dovuto il versamento di alcuna commissione al Fondo, al fine di riequilibrare i costi a carico dell'impresa rispetto alla garanzia diretta''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

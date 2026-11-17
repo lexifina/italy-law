@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/2.22/700"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.22/700"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@.akn"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1955/A/2.22/700/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1955" showAs="DDL 1955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25211" showAs="Mazzatorta"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25209" showAs="Valli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22874" showAs="Bodega"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25300" showAs="Maraventano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.22/700</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Mazzatorta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Valli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bodega</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Maraventano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 2.22, sostituire le parole:</an:i>
+					 «centro di produzione ai sensi dell'articolo 1, comma 1, della legge 4 luglio 1998,11.224» 
+					<an:i>con le seguenti:</an:i>
+					 «della convenzione tra il Ministero dello sviluppo economico e il centro di produzione ai sensi dell'articolo 1, comma 1, della legge 4 luglio 1998, n. 224» 
+					<an:i>e le parole:</an:i>
+					 «Centro di produzione S.p.a., ai sensi dell'articolo 1, comma 1, della legge 11 luglio 1998, n. 224» 
+					<an:i>con le seguenti:</an:i>
+					 «del servizio di emittenza radiofonica di interesse generale, da affidarsi previo espletamento di procedura di evidenza pubblica, ai sensi dell'articolo 1, comma 1, della legge 11 luglio 1998, n. 224».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, l'articolo 1, comma 1 della legge 11 luglio 1998, n. 224, è sostituito dal seguente:</an:i>
+					 «Allo scopo di garantire la continuità del servizio di trasmissione radiofonica delle sedute parlamentari, il Ministero dello sviluppo economico, entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, provvede, previo espletamento di procedura ad evidenza pubblica, alla stipula di una convenzione con una o più emittenti radiofoniche che svolgano attività di informazione di interesse generale».
+				</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

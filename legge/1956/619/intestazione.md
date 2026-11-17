@@ -1,9 +1,0 @@
-LEGGE
-
-22 maggio 1956
-
-619
-
-Ratifica ed esecuzione dei seguenti Accordi internazionali:
-
-Protocollo addizionale n. 2 che apporta emendamenti all'Accordo relativo all'istituzione di una Unione europea di pagamenti del 19 settembre 1950, firmato a Parigi il 4 agosto 1951; Protocollo addizionale n. 3 che apporta emendamenti all'Accordo relativo all'istituzione di una Unione europea di pagamenti del 19 settembre 1950, firmato a Parigi l'11 luglio 1952; Protocollo addizionale n. 4 che apporta emendamenti all'Accordo relativo all'istituzione di una Unione europea di pagamenti del 19 settembre 1950, firmato a Parigi il 30 giugno 1953.

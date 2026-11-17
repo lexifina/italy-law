@@ -1,3 +1,0 @@
-INTERNATIONAL CONVENTION FOR THE REGULATION OF WHALING
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/C/5.32/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/C/5.32"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2754/C/5.32/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.32"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@.akn"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2754/C/5.32/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2754" showAs="DDL 2754"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNL1ZD43C4JUHLKCXHGQ1R2GYACSF352DIFT23ZJLIKLXJ5W45EBI" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDDYUPBVUNWNGEBKRDOLAKP1XB3O34S3GO2BGPF3JBTE3REYNVUL5D" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDF3XMWNBPSTXHEJUT5WWY0FEUIDJGPLEXLFAJLJL2NCLH2NFCTQEN" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDXBCVNZLHDSG5BAH24JDYKRFQRPEWHJ5ZCEWHCQDVF0LN1TF33XUM" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2754</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.32</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNL1ZD43C4JUHLKCXHGQ1R2GYACSF352DIFT23ZJLIKLXJ5W45EBI" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDYUPBVUNWNGEBKRDOLAKP1XB3O34S3GO2BGPF3JBTE3REYNVUL5D" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF3XMWNBPSTXHEJUT5WWY0FEUIDJGPLEXLFAJLJL2NCLH2NFCTQEN" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXBCVNZLHDSG5BAH24JDYKRFQRPEWHJ5ZCEWHCQDVF0LN1TF33XUM" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, aggiungere, in fine, la seguente lettera:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>c-ter)</an:i>
+					 promozione, anche in accordo con i dicasteri interessati e nel rispetto delle disposizioni in materia di sicurezza, di programmi per la valorizzazione e l'utilizzo dei luoghi pubblici di richiamo culturale, ambientale paesaggistico, artistico o formativo, ivi disponendo spazi attrezzati e dedicati, da parte degli istituti scolastici di ogni ordine e grado, per lo svolgimento della didattica all'aperto, al fine di trattare temi peculiari di ciascun territorio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1628/C/3.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1628/C/3.2"/>
+					<an:FRBRdate date="2017-05-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1628/C/3.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@"/>
+					<an:FRBRdate date="2017-05-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@.akn"/>
+					<an:FRBRdate date="2017-05-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-05-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-05-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1628/C/3.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1628" showAs="DDL 1628"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPQTYD3VTOF4JBDODQASJGAEKHOLXXQ2A1LB5SFMU4C4VRDH3GFRC" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+				<an:TLCPerson id="IDPDPVKF2ZLSYOGKWCEBY1P1FP3D1UAJXWCDN245BP0XUADQVFWWLB" href="http://dati.senato.it/17739" showAs="PALMA"/>
+				<an:TLCPerson id="IDPPGBCNTVVNN5OGJ4LQ5BRINH1FV0IIPUC0UAP5PRUGE1RMB2Y" href="http://dati.senato.it/476" showAs="CARDIELLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1628</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPQTYD3VTOF4JBDODQASJGAEKHOLXXQ2A1LB5SFMU4C4VRDH3GFRC" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPDPVKF2ZLSYOGKWCEBY1P1FP3D1UAJXWCDN245BP0XUADQVFWWLB" as="#tipoSenatore">PALMA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPPGBCNTVVNN5OGJ4LQ5BRINH1FV0IIPUC0UAP5PRUGE1RMB2Y" as="#tipoSenatore">CARDIELLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sostituire il capoverso</an:i>
+					 «Art. 299» 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p>«Art. 299.</an:p>
+				<an:p>
+					<an:i>(Cognome dell'adottato)</an:i>
+				</an:p>
+				<an:p>        l. L'adottato assume il primo cognome dell'adottante e lo antepone al proprio primo cognome.</an:p>
+				<an:p>        2. Se l'adozione avviene da parte di coniugi, l'adottato antepone al proprio cognome quello coniugale. Qualora il cognome coniugale sia composto da due cognomi, l'adottato antepone al proprio cognome il primo fra questi.</an:p>
+				<an:p>        3. All'articolo 27 della legge 4 maggio 1983, n. 184, e successive modificazioni, il primo comma è sostituito dal seguente: «Per effetto dell'adozione l'adottato acquista lo stato di figlio degli adottanti, dei quali assume il cognome coniugale».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

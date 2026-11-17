@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5"/>
+					<an:FRBRdate date="2012-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.1000/5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@"/>
+					<an:FRBRdate date="2012-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@.akn"/>
+					<an:FRBRdate date="2012-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3396/C/2.1000/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3396" showAs="DDL 3396"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22790" showAs="Micheloni"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22761" showAs="Mercatali"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3396</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.1000/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Micheloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Mercatali</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 2.1000, dopo la lettera</an:i>
+					 d), 
+					<an:i>aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>d-</an:i>
+					bis) dalle disposizioni di cui ai commi 5 e 6 devono derivare risparmi di spesa non inferiori a 19 milioni di euro per l'anno 2012 e a 37,5 milioni di euro a decorrere dall'anno 2013. Tali risparmi di spesa sono destinati:
+				</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 per un ammontare pari a 1 milione di euro per l'anno 2012 e di 3,5 milioni di euro a decorrere dall'anno 2013, al funzionamento dei Comites e dei CGIE;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 per un ammontare pari a 8 milioni di euro per l'anno 2012 e a 16 milioni di euro a decorrere dall'anno 2013, in favore degli interventi per il sostegno degli enti gestori dei corsi di lingua e cultura italiana all'estero;
+				</an:p>
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 per un ammontare pari a 3 milioni di euro per l'anno 2012 e a 13 milioni di euro a decorrere dall'anno 2013, al rifinanziamento della cooperazione allo sviluppo di cui alla legge n. 49 del 1987;
+				</an:p>
+				<an:p>
+					            
+					<an:i>e)</an:i>
+					 per un ammontare pari a 2 milioni di euro per l'anno 2012 e a 5 milioni di euro a decorrere dall'anno 2013, al rifinanziamento delle attività di assistenza, diretta e indiretta, degli italiani residenti all'estero in condizioni di indigenza;».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

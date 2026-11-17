@@ -1,0 +1,5 @@
+((ALLEGATO D
+
+(Retro della scheda di cui all'allegato C)
+
+Parte di provvedimento in formato grafico))

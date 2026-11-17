@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/A/G18.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/A/G18.100"/>
+					<an:FRBRdate date="2008-07-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/832/A/G18.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G18.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@"/>
+					<an:FRBRdate date="2008-07-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@.akn"/>
+					<an:FRBRdate date="2008-07-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-07-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-07-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/832/A/G18.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/832" showAs="DDL 832"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 832</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G18.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il superamento dello stato di emergenza che caratterizza da tempo il settore della gestione, del trattamento e dello smaltimento dei rifiuti in Campania e, sia pur in misura minore, in altre parti del territorio dello Stato, esige un intervento efficace e articolato delle istituzioni, tale da coniugare il momento repressivo e quello preventivo in un'azione coordinata e sinergica;</an:p>
+				<an:p align="justify">            al fine di garantire una efficace repressione delle condotte illecite connesse alla gestione e allo smaltimento dei rifiuti, è necessario dotare le forze dell'ordine e gli uffici giudiziari nel loro complesso, del personale e delle risorse adeguate alle funzioni che tali organi sono chiamati a svolgere;</an:p>
+				<an:p align="justify">            un'adeguata azione preventiva dei fenomeni illeciti connessi allo smaltimento dei rifiuti non può prescindere dalla compiuta realizzazione, su tutto il territorio nazionale, di un sistema di raccolta differenziata, rispetto al quale è opportuno sensibilizzare i cittadini, anche con la previsione, di misure premiali volte a incentivare comportamenti virtuosi;</an:p>
+				<an:p align="justify">            il 40 per cento del peso ed il 60 per cento del volume dei rifiuti solidi urbani è costituito da imballaggi e contenitori di beni di consumo in materiale non biodegradabile. Tale considerazione evidenzia l'opportunità di adottare provvedimenti idonei a incentivare il ricorso, da parte dei produttori, ad imballaggi in materiale biodegradabile e al recupero, presso i consumatori, dei contenitori dei beni di consumo, al fine di consentirne la riutilizzazione nel processo produttivo, come del resto avviene nella maggior parte dei Paesi europei;</an:p>
+				<an:p align="justify">            l'articolo 18 del decreto-legge autorizza la deroga all'osservanza delle norme di cui al decreto legislativo 36/2003, attuativo della direttiva 1999/31/CE, in materia di gestione delle discariche di rifiuti, imponendo comunque il rispetto degli articoli 6 e 10 della medesima direttiva, al fine di consentire una tutela pregnante dell'incolumità dei cittadini e della salubrità ambientale;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a dotare le forze dell'ordine, in particolare nel territorio campano, del personale e delle risorse necessari al fine di poter garantire un'efficace azione di contrasto e repressione dei comportamenti illeciti connessi al ciclo dei rifiuti;</an:p>
+				<an:p align="justify">            ad adottare, d'intesa con le Regioni e gli Enti locali, provvedimenti idonei ad incentivare l'effettiva realizzazione, da parte dei cittadini, della raccolta differenziata dei rifiuti, prevedendo anche misure premiali per coloro che vi ottemperino e assicurando il monitoraggio in ordine all'effettivo rispetto, da parte degli addetti alla raccolta dei rifiuti, delle disposizioni loro impartite;</an:p>
+				<an:p align="justify">            ad assumere le iniziative idonee a favorire l'utilizzazione, da parte delle imprese di produzione, distribuzione e commercio, di materiale biodegradabile o riciclabile per l'imballaggio dei prodotti ed imporre loro l'adozione di un sistema di recupero, presso i consumatori, dei contenitori dei beni di consumo, attraverso rimborsi a coloro che vi ottemperino, riducendo così l'impatto ambientale del processo produttivo;</an:p>
+				<an:p align="justify">            ad assicurare il monitoraggio costante in ordine all'effettivo rispetto degli articoli 6 e 10 della direttiva 1999/31/CE nell'ambito della gestione e dell'attività delle discariche di rifiuti, al fine di garantire una tutela pregnante dell'incolumità dei cittadini e della salubrità ambientale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

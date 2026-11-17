@@ -1,0 +1,5 @@
+PROTOCOLLO
+
+RELATIVO ALL'INTERPRETAZIONE DELL'ARTICOLO 69 DELLA CONVENZIONE
+
+L'articolo 69 non va inteso nel senso che la portata della protezione conferita dal brevetto europeo e' determinata dal senso stretto e letterale del testo delle rivendicazioni e che la descrizione e i disegni servono esclusivamente a dissipare ambiguita' eventualmente contenute nelle rivendicazioni. Esso non va neppure interpretato nel senso che le rivendicazioni fungono esclusivamente da linea direttrice e che la protezione si estende anche a cio' che, a parere di una persona del mestiere che abbia esaminato la descrizione e i disegni, il titolare del brevetto ha inteso proteggere. L'articolo 69 deve invece essere inteso nel senso che esso definisce, tra questi estremi, una posizione che offre nel contempo una equa protezione al richiedente ed una ragionevole sicurezza giuridica ai terzi.

@@ -1,7 +1,0 @@
-Allegato B
-
-Parte di provvedimento in formato grafico
-
-RIEPILOGO GENERALE
-
-Parte di provvedimento in formato grafico

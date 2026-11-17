@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visti gli articoli 77 e 87 della Costituzione;
-
-Ritenuta la straordinaria necessita' ed urgenza di emanare norme in materia di smaltimento dei rifiuti industriali;
-
-Viste le deliberazioni del Consiglio dei Ministri, adottate nelle riunioni del 2 e del 7 settembre 1988;
-
-Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro dell'ambiente, di concerto con i Ministri dell'interno, del bilancio e della programmazione economica, delle finanze, del tesoro, dell'industria, del commercio e dell'artigianato, della marina mercantile e per il coordinamento della protezione civile; EMANA il seguente decreto:

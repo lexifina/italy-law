@@ -1,3 +1,0 @@
-SCAMBIO DI NOTE
-
-Parte di provvedimento in formato grafico

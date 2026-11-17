@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+11 marzo 1968
+
+610
+
+Riconoscimento, agli effetti civili, della erezione della parrocchia dell'immacolata, in Trinitapoli.

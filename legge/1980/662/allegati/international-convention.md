@@ -1,5 +1,0 @@
-INTERNATIONAL CONVENTION FOR THE PREVENTION OF POLLUTION FROM SHIPS, 1973
-
-Parte di provvedimento in formato grafico
-
-Parte di provvedimento in formato grafico

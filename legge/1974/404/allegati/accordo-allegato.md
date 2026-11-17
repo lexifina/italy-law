@@ -1,7 +1,0 @@
-ALLEGATO
-
-AUTORIZZAZIONE SPECIALE PER LA PESCA
-
-SPECIJALNA DOZVOLA ZA RIBOLOV
-
-Parte di provvedimento in formato grafico

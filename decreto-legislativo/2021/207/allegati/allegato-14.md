@@ -1,7 +1,0 @@
-(Articolo 11)
-
-Allegato n. 14 (ex allegato 9 Codice 2003)
-
-Dichiarazione per l'offerta al pubblico di reti e servizi di comunicazione elettronica di cui all'articolo 11
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2643/C/4.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2643/C/4.4"/>
+					<an:FRBRdate date="2017-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2643/C/4.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@"/>
+					<an:FRBRdate date="2017-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@.akn"/>
+					<an:FRBRdate date="2017-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2643/C/4.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2643" showAs="DDL 2643"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCXIE0DH4JNMCPUMXP3E3GXMOPGJDX1RYXSW2AFJ5AMSXEEKTBPBG" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDPMPPILSQLLGVKEMCQO5V2ODCBPQYYN3TUJLWCXFSPWJICSHNPJKG" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDKMGMTWUKC5R4E3H5A4JIWMD3JL3AFCYUPEYVYSDJMIUGXNDUQKOJ" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2643</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCXIE0DH4JNMCPUMXP3E3GXMOPGJDX1RYXSW2AFJ5AMSXEEKTBPBG" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPMPPILSQLLGVKEMCQO5V2ODCBPQYYN3TUJLWCXFSPWJICSHNPJKG" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKMGMTWUKC5R4E3H5A4JIWMD3JL3AFCYUPEYVYSDJMIUGXNDUQKOJ" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo la lettera</an:i>
+					 b)
+					<an:i>, aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>b-bis)</an:i>
+					 dopo il secondo comma è aggiunto il seguente: ''È nominato vice presidente per la quota promozionale assegnata al gruppo linguistico ladino il consigliere appartenente al gruppo linguistico ladino che ha ottenuto più preferenze, secondo le norme stabilite con legge di cui al secondo comma dell'articolo 47, nel territorio coincidente con quello dei comuni Ortisei, Badia, Marebbe, Selva di Val Gardena, Santa Cristina Valgardena, San Martino in Badia, Corvara in Badia, La Valle dove è insediato il gruppo linguistico ladino. La competenza in materia di formazione e cultura ladina è assegnata al vice Presidente di lingua ladina''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

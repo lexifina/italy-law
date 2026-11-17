@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/119.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/119.6"/>
+					<an:FRBRdate date="2017-11-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/119.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="119.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@"/>
+					<an:FRBRdate date="2017-11-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@.akn"/>
+					<an:FRBRdate date="2017-11-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/119.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3DT5EUPWWD2MDRXNXERDG2PHIO0KIZK3HKKBUWHBTYVP4Y1XGI0N" href="http://dati.senato.it/29163" showAs="PICCOLI"/>
+				<an:TLCPerson id="IDAWTQAD0OCQMNKQRNUE2RLFO2KNRAOOYLTM1TE1PHQYYORHKYJWU" href="http://dati.senato.it/29128" showAs="MARIN"/>
+				<an:TLCPerson id="ID3SYQTKNDSFPMPC51NRSBGOLZSNU4WE5VFTF2CIKTKD5CTYP3INLH" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 119.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3DT5EUPWWD2MDRXNXERDG2PHIO0KIZK3HKKBUWHBTYVP4Y1XGI0N" as="#tipoSenatore">PICCOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWTQAD0OCQMNKQRNUE2RLFO2KNRAOOYLTM1TE1PHQYYORHKYJWU" as="#tipoSenatore">MARIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3SYQTKNDSFPMPC51NRSBGOLZSNU4WE5VFTF2CIKTKD5CTYP3INLH" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 33, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «33-
+					<an:i>bis.</an:i>
+					 Al decreto-legge 24 aprile 2017, n. 50, convertito, con modificazioni dalla legge 21 giugno 2017, n. 96 sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 dopo il comma 8 dell'articolo 9-
+					<an:i>bis</an:i>
+					, è inserito seguente:
+				</an:p>
+				<an:p>
+					        "8-
+					<an:i>bis.</an:i>
+					 In attuazione del principio di trasparenza dell'azione amministrativa, ed al fine di consentire ai contribuenti la replicabilità delle analisi dalla medesima sviluppate, l'Agenzia delle Entrate mette a disposizione nei 60 gg che precedono la convocazione delle commissioni di cui all'articolo 8, anche in forma anonima, tutti i dati utilizzati per elaborare il modello econometrico di stima degli aggregati economici contenuti negli Indicatori Sintetici di Affidabilità, nonché la completa esplicitazione delle funzioni di stima adottate e la descrizione dettagliata di tutte le conoscenze scientifiche impiegate in tale ambito, comprese le valutazioni che hanno condotto alla scelta dello specifico modello adottato".
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 dopo il comma 19, dell'articolo 9-
+					<an:i>bis</an:i>
+					, sono inseriti i seguenti:
+				</an:p>
+				<an:p>
+					        "19-
+					<an:i>bis.</an:i>
+					 Per il primo periodo d'imposta per il quale gli Indicatori Sintetici di Affidabilità Fiscale sono applicati e per i due successivi, si esclude ogni attività di controllo, di accertamento e di irrogazione delle sanzioni eventualmente derivanti dall'esito del calcolo degli Indicatori stessi.
+				</an:p>
+				<an:p>
+					        19-
+					<an:i>ter.</an:i>
+					 L'applicazione degli Indicatori Sintetici di Affidabilità Fiscale è esclusa per i periodi d'imposta durante i quali il contribuente ha applicato il regime introdotto dall'articolo 1, commi da 54 a 89 legge n. 190 del 2014 o il regime introdotto dall'articolo 27, commi 1 e 2, del D.L. n. 98 del 2011, convertito; con modificazioni, dalla legge 111 del 2011";
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 dopo il comma 21, è inserito il seguente:
+				</an:p>
+				<an:p>
+					        "21-
+					<an:i>bis.</an:i>
+					 Gli indicatori sintetici di affidabilità fiscale non costituiscono presunzioni utilizzabili ai fini dell'attività di accertamento ai sensi dell'articolo 39, comma 1, lettera 
+					<an:i>a)</an:i>
+					 del decreto del Presidente della Repubblica 29 settembre 1973 n. 600, e 54 comma 2 del decreto del Presidente della Repubblica 26 ottobre 1972 n. 633."».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

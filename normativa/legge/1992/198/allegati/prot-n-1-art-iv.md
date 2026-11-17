@@ -1,0 +1,7 @@
+Articolo IV
+
+Gli atti giudiziari ed extragiudiziari formati in uno Stato contraente e che devono essere comunicati o notificati a persone residenti in un altro Stato contraente, sono trasmessi secondo le modalita' previste dalle convenzioni o dagli accordi conclusi tra gli Stati contraenti.
+
+Sempreche' lo Stato di destinazione non vi si opponga con dichiarazione trasmessa al Consiglio federale svizzero, i suddetti atti possono essere trasmessi direttamente dai pubblici ufficiali dello Stato in cui gli atti sono formati a quelli dello Stato sul cui territorio si trova il destinatario dell'atto in questione. In tal caso, il pubblico ufficiale dello Stato d'origine trasmette copia dell'atto al pubblico ufficiale dello Stato richiesto, competente per la relativa trasmissione al destinatario. Tale trasmissione ha luogo secondo le modalita' contemplate dalla legge dello Stato richiesto.
+
+Essa risulta da un certificato inviato direttamente al pubblico ufficiale dello Stato d'origine.

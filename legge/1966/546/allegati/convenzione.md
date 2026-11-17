@@ -1,3 +1,0 @@
-Convenzione internazionale per la manutenzione di alcuni fari del Mar Rosso (Londra, 20 febbraio 1962)
-
-Parte di provvedimento in formato grafico

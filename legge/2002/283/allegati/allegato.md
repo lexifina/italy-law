@@ -1,7 +1,0 @@
-Allegato
-
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 31 OTTOBRE 2002, n. 244
-
-All'articolo 2, dopo il comma 4, e' aggiunto il seguente:
-
-"4-bis. Sono comprese fra le imprese di trasporto aereo di cui al comma 1, lettera a), quelle che utilizzano elicotteri".

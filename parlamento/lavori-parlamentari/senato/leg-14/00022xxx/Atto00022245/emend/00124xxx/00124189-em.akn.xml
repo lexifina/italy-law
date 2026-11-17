@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/24.0.43"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="24.0.43"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3223/A/24.0.43/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3223" showAs="DDL 3223"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3936" showAs="Montagnino"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3880" showAs="Viviani"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/185" showAs="Battafarano"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17547" showAs="Battaglia"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17634" showAs="Rotondo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/758" showAs="D'Andrea"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3223</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 24.0.43</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Montagnino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Viviani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Battafarano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Rotondo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">D'Andrea</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					articolo 24, 
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					«Art. 24-
+					<an:b>
+						<an:i>bis</an:i>
+						.
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:b/>
+					<an:i>(Nuove norme in materia di trattamento pensionistico dei lavoratori autonomi affetti da talassemia, drepanocitosi, talasso-drepanocitosi)</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        1. All'articolo 12 del decreto legislativo 11 agosto 1993, n. 374, dopo il comma 3, è aggiunto seguente:
+				</an:p>
+				<an:p align="justify">
+					        "3-
+					<an:i>bis</an:i>
+					. A decorrere dal 1º gennaio 2005, per i lavoratori dipendenti pubblici e privati, nonché per i lavoratori autonomi iscritti all'INPS, affetti da talassemia, drepanocitosi, talassodrepanocitosi e talassemia intermedia, in trattamento trasfusionale o farmacologico con idrossiurea, in relazione alle caratteristiche di gravità della patologia, anche sotto il profilo delle aspettative di vita, il limite di età pensionabile è fissato in 35 anni e, ai fini dell'anzianità contributiva, ogni anno di contribuzione deve essere considerato pari a due".».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente all'articolo 42, sostituire il comma 17 con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «17. Con provvedimento direttoriale del Ministero dell'economia e delle finanze Amministrazione autonoma dei monopoli di Stato è aumentata, a decorrere dall'anno 2005, l'aliquota di base della tassazione dei tabacchi lavorati, di cui all'articolo 28, comma 1, del decreto-legge 30 agosto 1993, n. 331, convertito, con modificazioni, dalla legge 29 ottobre 1993, n. 427, in misura tale da assicurare un maggiore gettito complessivo pari a 750 milioni di euro».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 2 febbraio 1994
+
+SCALFARO CIAMPI, Presidente del Consiglio dei Ministri GARAVAGLIA, Ministro della sanita' CASSESE, Ministro per la funzione pubblica BARUCCI, Ministro del tesoro Visto, il Guardasigilli: CONSO Registrato alla Corte dei conti il 21 marzo 1994 Atti di Governo, registro n. 90, foglio n. 17, con esclusione dell'art. 5, comma 5, nella parte in cui dispone: "cura l'attivita' di primo intervento nelle situazioni di emergenza sanitaria anche in collegamento con la protezione civile"; e comma 6, nella parte in cui dispone: "cura, per quanto di competenza del Ministero della sanita', la definizione dei rapporti giuridici ed economici con strutture, aziende termali ed istituzioni sanitarie private convenzionate con il Servizio sanitario nazionale"; nonche' dell'art. 8, ai sensi della pronuncia della Sezione di controllo, collegio unico, adottata nell'adunanza del 17 marzo 1994.

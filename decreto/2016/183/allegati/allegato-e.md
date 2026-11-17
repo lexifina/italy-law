@@ -1,5 +1,0 @@
-Allegato E
-
-Scheda Output Fruitori
-
-Parte di provvedimento in formato grafico

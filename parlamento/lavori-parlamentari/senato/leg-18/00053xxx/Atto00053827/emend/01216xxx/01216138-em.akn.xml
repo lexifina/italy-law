@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/29.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/29.19"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/29.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="29.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/29.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDM54IFB3E1UO5CSXPMHTTVCM0MRBHH0KPE4GKPG1MS2EU0P1L3MD" href="http://dati.senato.it/32708" showAs="RUSPANDINI"/>
+				<an:TLCPerson id="IDDBAYUQWZIWYSHVMFNGNIPE2DQFE2PQPDT5XQF2GAECSHM3LCXLXE" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDVBSZYFF44HL4CL1BSTBFINHFKPTIWT0COF2XRHIBI025K3C4V2GG" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+				<an:TLCPerson id="IDHBF0DD2JYRZIC44LM4AMOKRB2EISEDLHXM2NFO1WGO43JN2DWTO" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 29.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM54IFB3E1UO5CSXPMHTTVCM0MRBHH0KPE4GKPG1MS2EU0P1L3MD" as="#tipoSenatore">RUSPANDINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDBAYUQWZIWYSHVMFNGNIPE2DQFE2PQPDT5XQF2GAECSHM3LCXLXE" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVBSZYFF44HL4CL1BSTBFINHFKPTIWT0COF2XRHIBI025K3C4V2GG" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHBF0DD2JYRZIC44LM4AMOKRB2EISEDLHXM2NFO1WGO43JN2DWTO" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 4, lettera</an:i>
+					 a)
+					<an:i>, apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>al secondo periodo, sostituire le parole:</an:i>
+					 «possono anche ricorrere» 
+					<an:i>con la seguente:</an:i>
+					 «ricorrono»
+					<an:i>, e in fine aggiungere le seguenti parole:</an:i>
+					 «Le convenzioni di cui al terzo periodo disciplinano altresì il riconoscimento in favore degli operatori economici, affidataci dei servizi aggiuntivi, di un indennizzo in caso di mancata prestazione dei servizi determinata da circostanze sopravvenute e consistenti nell'attuazione delle misure di contenimento della diffusione del COVID-19. Al fine di evitare sovracompensazioni, detto indennizzo viene determinato avendo riguardo ai costi fissi connessi alla messa a disposizione dei mezzi.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

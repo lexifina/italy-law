@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/64.0.17"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="64.0.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/64.0.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCO0SL2PXJ124LNXNJ3D3YJ34LNVQHBBJKWDKPXLUETOIGRXOLHHK" href="http://dati.senato.it/32659" showAs="MALLEGNI"/>
+				<an:TLCPerson id="IDBXZFRJKVPB4VNRUEBVI4BK3DDENA1WUDEYVPWIMV10CLVHLI2QMO" href="http://dati.senato.it/4512" showAs="PAROLI"/>
+				<an:TLCPerson id="IDP1DXPLE0ZUVLLWSYOH02U4R51P0D0GSBQRNNNUPB1NYCWC0DXKU" href="http://dati.senato.it/32583" showAs="BARACHINI"/>
+				<an:TLCPerson id="IDURY0J4E1L5JYDYSVGOVZCQYZEFW5OFVCG13SW2FW4TADYX3ERXMD" href="http://dati.senato.it/32584" showAs="BARBONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 64.0.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCO0SL2PXJ124LNXNJ3D3YJ34LNVQHBBJKWDKPXLUETOIGRXOLHHK" as="#tipoSenatore">MALLEGNI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBXZFRJKVPB4VNRUEBVI4BK3DDENA1WUDEYVPWIMV10CLVHLI2QMO" as="#tipoSenatore">PAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP1DXPLE0ZUVLLWSYOH02U4R51P0D0GSBQRNNNUPB1NYCWC0DXKU" as="#tipoSenatore">BARACHINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDURY0J4E1L5JYDYSVGOVZCQYZEFW5OFVCG13SW2FW4TADYX3ERXMD" as="#tipoSenatore">BARBONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 64-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Semplificazioni in materia di salute e sicurezza sul lavoro)</an:i>
+				</an:p>
+				<an:p>        1. Al decreto legislativo 9 aprile 2008, n. 81, articolo 28, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 1, dopo le parole: ''deve riguardare tutti i rischi'', è inserita la seguente: ''prevedibili'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al comma 2, alinea, la parola: ''munito'' è sostituita dalla seguente: ''datato'' e sono soppresse le seguenti parole: ''di data certa o attestata dalla sottoscrizione del documento da parte del datore di lavoro, nonché, ai soli fini della prova della data, dalla sottoscrizione del Responsabile del servizio di prevenzione e protezione, del Rappresentante dei lavoratori per la sicurezza o del Rappresentante dei lavoratori per la sicurezza territoriale e del medico competente ove nominato''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

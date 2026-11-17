@@ -1,3 +1,0 @@
-TABELLA ORGANICA DEL XII ISTITUTO TECNICO INDUSTRIALE STATALE DI ROMA
-
-Parte di provvedimento in formato grafico

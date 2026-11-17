@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/5.94/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/5.94"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/5.94/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.94"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/5.94/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVWSYRJACUUH0E1DT5BGC24AJWIAJPILRH2I2ZMJBCFE2FNEKZXC" href="http://dati.senato.it/1103" showAs="GASPARRI"/>
+				<an:TLCPerson id="ID0RDU35ZQX3OHL4KPX3FEMIGDYCBEBRFGQ2EB4PNXFID5OAHKL2HC" href="http://dati.senato.it/32611" showAs="DAL MAS"/>
+				<an:TLCPerson id="ID3BSFQK0NCGJNMSVLOLH4GBZXQOJ34R5M3O1LH0PKGGA1BB1VMEYF" href="http://dati.senato.it/32671" showAs="MODENA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.94</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVWSYRJACUUH0E1DT5BGC24AJWIAJPILRH2I2ZMJBCFE2FNEKZXC" as="#tipoSenatore">GASPARRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0RDU35ZQX3OHL4KPX3FEMIGDYCBEBRFGQ2EB4PNXFID5OAHKL2HC" as="#tipoSenatore">DAL MAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3BSFQK0NCGJNMSVLOLH4GBZXQOJ34R5M3O1LH0PKGGA1BB1VMEYF" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 22, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «22-
+					<an:i>bis</an:i>
+					. Ai fini dell'accertamento dell'indicatore della situazione economica patrimoniale, ai sensi di quanto disposto dall'articolo 5 del regolamento di cui al decreto del Presidente del Consiglio dei Ministri 5 dicembre 2013, n. 159, dal calcolo del patrimonio di cui al comma 2 del medesimo articolo sono esclusi gli immobili interessati dalla sospensione delle esecuzioni dei provvedimenti di rilascio degli immobili prevista dall'articolo 103, comma 6, del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27 e successive proroghe.».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, ridurre di 100 milioni di euro a decorrere dal 2021 il Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato ai sensi dell'articolo 41 del presente decreto-legge.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

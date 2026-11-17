@@ -1,0 +1,15 @@
+Art. 25-undevicies.
+
+(( (Delitti contro gli animali).))
+
+1.
+
+((In relazione alla commissione dei delitti previsti dagli articoli 544-bis, 544-ter, 544-quater, 544-quinquies e 638 del codice penale, si applica all'ente la sanzione pecuniaria fino a cinquecento quote.))
+
+2.
+
+((Nel caso di condanna o di applicazione della pena su richiesta delle parti, a norma dell'articolo 444 del codice di procedura penale, o di decreto penale di condanna, ai sensi dell'articolo 459 del codice di procedura penale, per i delitti di cui al comma 1 del presente articolo, si applicano all'ente le sanzioni interdittive previste dall'articolo 9, comma 2, del presente decreto per una durata non superiore a due anni.))
+
+3.
+
+((I commi 1 e 2 non si applicano ai casi previsti dall'articolo 19-ter delle disposizioni di coordinamento e transitorie per il codice penale.))

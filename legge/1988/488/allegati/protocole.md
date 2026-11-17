@@ -1,3 +1,0 @@
-Protocole
-
-Parte di provvedimento in formato grafico

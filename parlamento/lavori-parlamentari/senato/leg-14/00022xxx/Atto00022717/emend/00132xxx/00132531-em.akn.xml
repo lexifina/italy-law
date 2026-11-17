@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3356/A/1.29/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3356/A/1.29"/>
+					<an:FRBRdate date="2005-04-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3356/A/1.29/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.29"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@"/>
+					<an:FRBRdate date="2005-04-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@.akn"/>
+					<an:FRBRdate date="2005-04-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-04-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-04-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3356/A/1.29/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3356" showAs="DDL 3356"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3907" showAs="De Zulueta"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3356</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.29</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">De Zulueta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «1-
+					<an:i>bis</an:i>
+					. Al testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a</an:i>
+					) dopo la lettera c-
+					<an:i>ter</an:i>
+					) del comma 1 dell'articolo 15, recante detrazioni per oneri, è inserita la seguente:
+				</an:p>
+				<an:p align="justify">
+					            "c-
+					<an:i>quater</an:i>
+					) le spese sostenute per l'acquisto degli abbonamenti annuali ai servizi di trasporto pubblico locale, regionale e interregionale";
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b</an:i>
+					) la lettera 
+					<an:i>d</an:i>
+					) del comma 2 dell'articolo 51, recante determinazione del reddito di lavoro dipendente, è sostituita dalla seguente:
+				</an:p>
+				<an:p align="justify">
+					            "
+					<an:i>d</an:i>
+					) le prestazioni di servizi di trasporto collettivo alla generalità o a categorie di dipendenti, anche se rese attraverso titoli di legittimazione allo scopo destinati, ed i valori dei servizi erogati dal datore di lavoro nell'ambito delle misure attuative del piano degli spostamenti casa-lavoro del proprio personale dipendente di cui al decreto del Ministro dell'ambiente 27 marzo 1998, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 179 del 3 agosto 1998, e al decreto direttoriale del Ministero dell'ambiente n. 84 del 20 dicembre 2000, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 80 del 5 aprile 2001"».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, al comma 9, sostituire le parole:</an:i>
+					 «rispettivamente, a euro 564 ed euro 413 per mille litri» 
+					<an:i>con le parole:</an:i>
+					 «rispettivamente, a euro 574 ed euro 423 per mille litri».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,5 +1,0 @@
-A) - QUADRO GENERALE RIASSUNTIVO DEL BILANCIO
-
-DI COMPETENZA TRIENNALE 2021 - 2023
-
-Parte di provvedimento in formato grafico

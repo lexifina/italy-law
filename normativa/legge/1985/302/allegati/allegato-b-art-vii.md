@@ -1,0 +1,33 @@
+Articolo VII
+
+1. Fatte salve le disposizioni dell'articolo V e del paragrafo 2 dell'articolo VI, i Governi contraenti si impegnano a dividere il novantacinque per cento delle spese reali approvate dei servizi, determinate in conformita' alle disposizioni dell'articolo VIII, in proporzione ai vantaggi aeronautici che ogni Governo contraente trae dai servizi. Tale proporzione e' determinata, per ogni Governo contraente e per ogni anno civile, secondo il numero di traversate complete effettuate nel corso del suddetto anno dai suoi aeromobili civili sulle rotte colleganti l'Europa e l'America del Nord, di cui una parte qualunque passi a nord del parallelo 45° nord tra i meridiani 15° ovest e 50° ovest. Inoltre:
+
+a) un volo unicamente fra la Groenlandia e il Canada, la Groenlandia e gli Stati Uniti d'America, la Groenlandia e l'Islanda o l'Islanda e l'Europa vale per un terzo di traversata;
+
+b) un volo unicamente fra la Groenlandia e l'Europa, l'Islanda e il Canada, o l'Islanda e gli Stati Uniti d'America vale per due terzi di traversata;
+
+c) un volo diretto a o proveniente dall'Europa o dall'Islanda che non oltrepassi la costa dell'America del Nord, ma superi il 30° meridiano ovest a nord del 45° parallelo vale per un terzo di traversata.
+
+2. Ai fini del paragrafo 1 del presente articolo;
+
+a) una traversata e' calcolata anche se il decollo o l'atterraggio hanno avuto luogo in un punto situato fuori dai territori cui questo paragrafo fa riferimento;
+
+b) l'"Europa" non comprende ne' l'Islanda ne' le Azzorre.
+
+3. Al piu' tardi il 20 novembre di ogni anno, il Consiglio fissa i contributi dei Governi contraenti, al fine di fornire anticipi per l'anno successivo. Per l'anno 1983, i contributi saranno determinati in base al numero delle traversate effettuate nel 1981 e in base al novantacinque per cento delle spese preventivate per il 1983. Il contributo di ogni Governo contraente e' adeguato in base ad ogni differenza fra gli importi da questo versati alla organizzazione sotto forma di anticipi per l'anno 1981 e la sua quota parte, determinata secondo il numero delle traversate effettuate nel 1981, del novantacinque per cento delle spese reali approvate per il 1981.
+
+Il contributo cosi' adeguato di ciascun Governo contraente verra' diminuito dell'importo della sua quota parte, fissato in base al numero delle traversate effettuate nel 1981, degli introiti preventivati provenienti dai diritti d'uso che devono essere versati nel 1983 all'Islanda ai sensi dell'articolo XIV dell'Accordo.
+
+4. Il metodo esposto al paragrafo 3 del presente articolo si applica ai contributi per l'anno 1984, con i cambiamenti di data che si impongono.
+
+5. Per l'anno 1985, il sistema descritto al paragrafo 3 del presente articolo e' applicato con i necessari cambiamenti di data ed inoltre il contributo di ciascun Governo contraente viene nuovamente adeguato in base alla differenza tra la sua quota parte di introiti preventivati provenienti dai diritti d'uso, corrispondenti all'anno 1983, e la sua quota parte, fissata in base al numero delle traversate effettuate nel 1983, degli introiti reali accertati provenienti dai diritti d'uso e versati all'Islanda nel 1983.
+
+6. Il sistema del 1985 si applica agli anni successivi, con i cambiamenti di data che si impongono.
+
+7. Il 1 gennaio e il 1 luglio di ogni anno civile, a partire dal 1 gennaio 1983, ciascun Governo contraente paghera' all'Organizzazione, con versamenti semestrali, il contributo che gli e' stato imputato a titolo di anticipo per l'anno civile in corso, adeguato e diminuito in conformita' alle disposizioni dei paragrafi 3, 4, 5 e 6 del presente articolo.
+
+8. In caso di abrogazione del presente Accordo, il Consiglio procede agli adeguamenti destinati a raggiungere gli obiettivi del presente articolo relativi a qualsiasi periodo per il quale, alla data dell'abrogazione del citato Accordo, i pagamenti non siano stati adeguati in conformita' ai paragrafi 3, 4, 5 e 6 del presente articolo.
+
+9. Ciascun Governo contraente fornisce al Segretario generale, al piu' tardi il 1 maggio di ogni anno, nella forma prescritta dal Segretario generale, informazioni complete riguardo alle traversate effettuate nel corso dell'anno civile precedente cui questo articolo si applica.
+
+10. I Governi contraenti possono convenire che le informazioni menzionate al paragrafo 9 del presente articolo saranno fornite al Segretario generale, a loro nome, da un altro Governo.

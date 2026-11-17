@@ -1,5 +1,0 @@
-CONFERENCE INTERNATIONALE DU TRAVAIL
-
-CONVENTION 123
-
-Parte di provvedimento in formato grafico

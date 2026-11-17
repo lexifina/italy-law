@@ -1,7 +1,0 @@
-Convenzione tra la Repubblica italiana e la Repubblica del Libano per evitare la doppia imposizione sui redditi derivanti dall'esercizio della navigazione marittima ed aerea.
-
-CONVENTION ENTRE LA REPUBLIQUE ITALIENNE ET LA REPUBLIQUE LIBANAISE POUR EVITER LES DOUBLES IMPOSITIONS SUR LES REVENUS DERIVANT DE
-
-L'EXERCICE DE LA NAVIGATION MARITIME ET AIRIENNE.
-
-Parte di provvedimento in formato grafico

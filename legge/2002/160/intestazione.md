@@ -1,7 +1,0 @@
-LEGGE
-
-11 luglio 2002
-
-160
-
-Ratifica ed esecuzione degli Emendamenti agli articoli VI e XIV dello Statuto dell'A.I.E.A. (Agenzia Internazionale dell'Energia Atomica), adottati con Risoluzione del 1 ottobre 1999 a Vienna.

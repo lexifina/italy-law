@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2464/C/1.183/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2464/C/1.183"/>
+					<an:FRBRdate date="2010-12-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2464/C/1.183/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.183"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@"/>
+					<an:FRBRdate date="2010-12-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@.akn"/>
+					<an:FRBRdate date="2010-12-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-12-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-12-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2464/C/1.183/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2464" showAs="DDL 2464"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2464</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.183</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 48, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «48-
+					<an:i>bis</an:i>
+					. All'articolo 15 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, dopo il comma 1-
+					<an:i>quater</an:i>
+					, sono inseriti i seguenti:
+				</an:p>
+				<an:p>
+					        ''1-
+					<an:i>quinquies</an:i>
+					. Per le spese documentate relative ad interventi di riqualificazione energetica di edifici esistenti, che conseguono un valore limite di fabbisogno di energia primaria annuo per la climatizzazione invernale inferiore di almeno il 20 per cento rispetto ai valori riportati nell'allegato C, numero 1), tabella 1, annesso al decreto legislativo 19 agosto 2005, n. 192, spetta una detrazione dall'imposta lorda per una quota pari al 55 per cento degli importi rimasti a carico del contribuente, fino a un valore massimo della detrazione di 100.000 euro, da ripartire in tre quote annuali di pari importo.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>sexies</an:i>
+					. Per le spese documentate relative ad interventi su edifici esistenti, palii di edifici esistenti o unità immobiliari, riguardanti strutture opache verticali, strutture opache orizzontali (coperture e pavimenti), finestre comprensive di infissi, spetta una detrazione dall'imposta lorda per una quota pari al 55 per cento degli importi rimasti a carico del contribuente, fino a un valore massimo della detrazione di 60.000 euro, da ripartire in tre quote annuali di pari importo, a condizione che siano rispettati i requisiti di trasmittanza termica D, espressa in W/m2K, della Tabella 3 allegata alla legge 27 dicembre 2006, n. 296.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>septies</an:i>
+					. Per le spese documentate relative all'installazione di pannelli solari per la produzione di acqua calda per usi domestici o industriali e per la copelwra del fabbisogno di acqua calda in piscine, strutture sportive, case di ricovero e cura, istituti scolastici e università, spetta una detrazione dall'imposta lorda per una quota pari al 55 per cento degli importi rimasti a carico del contribuente, fino a un valore massimo della detrazione di 60.000 euro, da ripartire in tre quote annuali di pari importo.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>octies</an:i>
+					. Per le spese documentate per interventi di sostituzione di impianti di climatizzazione invernale con impianti dotati di caldaie a condensazione e contestuale messa a punto del sistema di distribuzione, spetta una detrazione dall'imposta lorda per una quota pari al 55 per cento degli importi rimasti a carico del contribuente, fino a un valore massimo della detrazione di 30.000 euro, da ripartire in tre quote annuali di pari importo.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>novies</an:i>
+					. Per gli oneri di cui ai commi da 1-
+					<an:i>quinquies</an:i>
+					 a 1-
+					<an:i>octies</an:i>
+					, la detrazione dall'imposta sul reddito spetta alle persone fisiche, agli enti e ai soggetti di cui all'articolo 5 del presente Testo unico».
+				</an:p>
+				<an:p>
+					        
+					<an:i>Conseguentemente, al comma 166, primo periodo, inserire le parole:</an:i>
+					 «, ivi comprese le variazioni di cui al periodo successivo. Le dotazioni di parte corrente relative alle autorizzazioni di spesa di cui alla predetta tabella C, i cui stanziamenti sono iscritti in bilancio come spese rimodulabili, sono proporzionalmente ridotte in maniera lineare fino al 15 per cento a decorrere dall'anno 2011, ad eccezione delle spese relative alla missione: Sviluppo sostenibile e tutela del territorio e dell'ambiente».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

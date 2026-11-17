@@ -1,7 +1,0 @@
-ALLEGATO
-
-DICHIARAZIONE COMUNE IN MERITO ALL'ESERCIZIO DELLA PESCA
-
-1. La Comunita' si dichiara disposta a promuovere, nel quadro delle azioni di cooperazione industriale, finanziaria e tecnica, lo sviluppo della pesca e delle industrie relative negli Stati ACP che si mostrino a cio' interessati.
-
-2. Gli Stati ACP sono disposti a negoziare con ogni Stato membro accordi bilaterali che assicurino condizioni soddisfacenti per l'esercizio della pesca nelle acque marittime rientranti nella loro giurisdizione. Nel concludere tali accordi gli Stati ACP non operano, a parita' di condizioni, nessuna discriminazione nei confronti degli Stati membri della Comunita' o tra di essi.

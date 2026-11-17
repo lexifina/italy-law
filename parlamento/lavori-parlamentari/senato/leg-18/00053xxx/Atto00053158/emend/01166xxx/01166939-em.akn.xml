@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/20.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/20.19"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/20.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/20.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZTEV5UWOJ5XIGOIC5ZYUAT5WUHPYAI0UYYIP2BLVIQQJMYXTY4VN" href="http://dati.senato.it/32699" showAs="RAUTI"/>
+				<an:TLCPerson id="IDPCC4DVL0IS44NDE5AA5XOUKNVIHEASS0KHHLA5MB45WAQIRVQ3WE" href="http://dati.senato.it/32708" showAs="RUSPANDINI"/>
+				<an:TLCPerson id="IDUUJKGJOHTW3UOURD4XWKQCPPLDSK3ARC50K5A5PGTMUBVEVDMCXL" href="http://dati.senato.it/22784" showAs="TOTARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZTEV5UWOJ5XIGOIC5ZYUAT5WUHPYAI0UYYIP2BLVIQQJMYXTY4VN" as="#tipoSenatore">RAUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPCC4DVL0IS44NDE5AA5XOUKNVIHEASS0KHHLA5MB45WAQIRVQ3WE" as="#tipoSenatore">RUSPANDINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUUJKGJOHTW3UOURD4XWKQCPPLDSK3ARC50K5A5PGTMUBVEVDMCXL" as="#tipoSenatore">TOTARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 6 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «Al personale appartenente ai ruoli dei direttivi che espletano funzioni operative, nonché al personale appartenente alle corrispondenti qualifiche dei ruoli che espletano funzioni specialistiche e dei ruoli speciali antincendio boschivo (AIB) a esaurimento del Corpo nazionale dei vigili del fuoco che alla data del 1º gennaio 2022 abbia maturato un anzianità di effettivo servizio pari o superiore a 17 anni è attribuito, a decorrere dal 1º gennaio 2022, un assegno di armonizzazione ad esaurimento non riassorbibile e non rivalutabile, pari a euro 597 annuali al compimento dei 27 anni di effettivo servizio e a euro 1368 annuali al compimento dei 32 anni di effettivo servizio. Al personale appartenente ai ruoli non direttivo e non dirigente che espleta le medesime funzioni di cui al comma precedente, che alla data del 1º gennaio 2022 abbia maturato un anzianità di effettivo servizio pari o superiore a 17 anni è attribuito, con decorrenza dal 1º gennaio 2022, un assegno di armonizzazione ad esaurimento non riassorbibile e non rivalutabile, pari a euro 228 annuali al compimento dei 27 anni di effettivo servizio e a euro 681 annuali al compimento dei 32 anni di effettivo servizio. L'importo dell'assegno attribuito ai 32 anni di servizio assorbe l'importo attribuito ai 27 anni di servizio. L'assegno di armonizzazione di cui ai commi 1 e 2 ha effetto sulla tredicesima mensilità, sul trattamento ordinario di quiescenza, normale e privilegiato, sull'indennità di buonuscita, sull'assegno alimentare per il dipendente sospeso, come previsto dall'articolo 82 del decreto del Presidente della Repubblica 10 gennaio 1957, n. 3, sulle ritenute previdenziali ed assistenziali e relativi contributi, compresi la ritenuta in conto entrata INPS Gestione dipendenti pubblici, o altre analoghe, e i contributi di riscatto, con esclusione dell'equo indennizzo. I fondi di incentivazione del personale del Corpo nazionale dei vigili del fuoco sono annualmente incrementati dalle risorse che residuano a seguito del progressivo esaurimento dell'assegno determinato dal collocamento in quiescenza del personale interessato».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, gli incrementi retributivi del personale appartenente ai ruoli tecnico-professionali di cui alla tabella C allegata al comma 1, sono proporzionalmente rideterminati sino a concorrenza dell'importo complessivo di euro 5.338.520 a decorrere dall'anno 2022.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

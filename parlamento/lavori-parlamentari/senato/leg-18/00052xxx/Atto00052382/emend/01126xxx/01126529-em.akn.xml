@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/5.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/5.5"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1547/A/5.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@.akn"/>
+					<an:FRBRdate date="2019-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1547/A/5.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1547" showAs="DDL 1547"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUKXAOBKXM2UQHTDNZ4R0WMU34J4K1PIJ5I3YY5VG34MH0C2HCQ" href="http://dati.senato.it/34677" showAs="PAVANELLI"/>
+				<an:TLCPerson id="IDFARS5RAQ4ANSE0BL0WQR5UPP0K2THUSQ2ERLPLK55524GWXA20XC" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDCFL1SQJE423PIOK1KYCHAPCFSKQNPSYEGTQHNZOXHLMRP4XKAEJP" href="http://dati.senato.it/32725" showAs="TRENTACOSTE"/>
+				<an:TLCPerson id="ID01N01T1TUTVXHIZ0YFYBIMFXHK2XQYWHENQJHXNWM52UTNDRJXRM" href="http://dati.senato.it/32638" showAs="GALLICCHIO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1547</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUKXAOBKXM2UQHTDNZ4R0WMU34J4K1PIJ5I3YY5VG34MH0C2HCQ" as="#tipoSenatore">PAVANELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFARS5RAQ4ANSE0BL0WQR5UPP0K2THUSQ2ERLPLK55524GWXA20XC" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCFL1SQJE423PIOK1KYCHAPCFSKQNPSYEGTQHNZOXHLMRP4XKAEJP" as="#tipoSenatore">TRENTACOSTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID01N01T1TUTVXHIZ0YFYBIMFXHK2XQYWHENQJHXNWM52UTNDRJXRM" as="#tipoSenatore">GALLICCHIO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, sopprimere il secondo e terzo periodo.</an:i>
+				</an:p>
+				<an:p>
+					<an:i>Al comma 3, dopo le parole:</an:i>
+					 «dal punto di vista finanziario» 
+					<an:i>inserire le seguenti:</an:i>
+					 «Con il medesimo Decreto è determinata una indennità compensativa, spettante a ciascun componente della struttura di supporto, in aggiunta al trattamento economico fondamentale, nei limiti di una spesa complessiva annuale per il complesso dei membri della struttura di supporto non superiore a 170.000,00 euro, a valere sulle risorse assegnate per la realizzazione degli interventi e nei limiti delle risorse finanziarie di cui al comma 5.
+				</an:p>
+				<an:p>
+					<an:i>Al comma 5, dopo le parole:</an:i>
+					 «funzionamento della struttura» 
+					<an:i>inserire le seguenti:</an:i>
+					 «e per l'indennità relativa al personale della struttura di supporto,».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

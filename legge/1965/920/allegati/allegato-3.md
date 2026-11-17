@@ -1,5 +1,0 @@
-ALLEGATO 3.
-
-CERTIFICATO PROVVISORIO DI TRANSITO
-
-Parte di provvedimento in formato grafico

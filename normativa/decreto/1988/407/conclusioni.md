@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Roma, addi' 7 settembre 1988
+
+Il Ministro di grazia e giustizia VASSALLI Il Ministro dei lavori pubblici FERRI Visto, il Guardasigilli: VASSALLI

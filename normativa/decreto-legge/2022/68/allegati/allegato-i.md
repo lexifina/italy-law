@@ -1,0 +1,7 @@
+Allegato I
+
+(articolo 9, comma 2)
+
+((Importi in milioni di euro))
+
+Parte di provvedimento in formato grafico

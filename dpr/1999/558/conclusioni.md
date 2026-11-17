@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 14 dicembre 1999
-
-CIAMPI D'Alema, Presidente del Consiglio dei Ministri Piazza, Ministro per la funzione pubblica Bellillo, Ministro per gli affari regionali Bersani, Ministro dell'industria, del commercio e dell'artigianato Salvi, Ministro del lavoro e della previdenza sociale Diliberto, Ministro della giustizia Treu, Ministro dei trasporti e della navigazione De Castro, Ministro delle politiche agricole e forestali Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 2 novembre 2000 Atti di Governo, registro n. 122, foglio n. 13 La Sezione del controllo, nell'adunanza del 26 ottobre 2000, ha ammesso al visto e alla conseguente registrazione il regolamento con esclusione: dell'art. 6; dell'art. 11, comma 4; dell'art. 14; dell'art. 15, lettera a); dell'art. 15, lettera b) nella parte in cui dispone l'abrogazione del comma 3-bis dell'art. 2 della legge 5 febbraio 1992, n. 122.

@@ -1,5 +1,0 @@
-APPENDICE II
-
-LISTA DELLE SOSTANZE NOCIVE TRASPORTATE ALLA RINFUSA
-
-Parte di provvedimento in formato grafico

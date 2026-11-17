@@ -1,0 +1,11 @@
+Allegato
+
+TRATTATO DI ESTRADIZIONE
+
+TRA LA REPUBBLICA ITALIANA
+
+E
+
+LA REPUBBLICA SOCIALISTA DEL VIETNAM
+
+Parte di provvedimento in formato grafico

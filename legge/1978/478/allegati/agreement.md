@@ -1,3 +1,0 @@
-INTERNATIONAL COFFEE AGREEMENT 1976
-
-Parte di provvedimento in formato grafico

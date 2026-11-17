@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1428/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1428"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1428/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1428"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1428/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDN4YEQTKDRKPPBH00EI0TJSJ0EBV0SOUYMSXPZXM31B0ZHTLKNKAE" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+				<an:TLCPerson id="ID50CW3TS2TQVKJ0I5P04II5NXELQFCJ1RWVWGMFFYVXDJKVHJRL" href="http://dati.senato.it/29443" showAs="IORI"/>
+				<an:TLCPerson id="IDYKFCM4VYUXBYK3N4BPIF3QQRCNUOR5LNYN14DTG3BI0QXULVLDAI" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="ID3W02D1FLRMXNPNSDKTXZS1CJTNYKO3LWBWNYDVFPJ5C5B2TYNETO" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1428</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDN4YEQTKDRKPPBH00EI0TJSJ0EBV0SOUYMSXPZXM31B0ZHTLKNKAE" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID50CW3TS2TQVKJ0I5P04II5NXELQFCJ1RWVWGMFFYVXDJKVHJRL" as="#tipoSenatore">IORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYKFCM4VYUXBYK3N4BPIF3QQRCNUOR5LNYN14DTG3BI0QXULVLDAI" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3W02D1FLRMXNPNSDKTXZS1CJTNYKO3LWBWNYDVFPJ5C5B2TYNETO" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 209, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «209-
+					<an:i>bis</an:i>
+					. All'articolo 4, della legge 3 luglio 1998, n. 210, dopo il comma 1, aggiungere i seguenti:
+				</an:p>
+				<an:p>
+					        "1-
+					<an:i>bis</an:i>
+					: Le università possono stipulare contratti di dottorato di ricerca, che prevedano formazione e lavoro, a tempo determinato e della durata non inferiore ai 3 anni".
+				</an:p>
+				<an:p>
+					        "1-
+					<an:i>ter</an:i>
+					: Ogni riferimento normativo a borse di dottorato è sostituito dalla definizione di cui al comma 1-
+					<an:i>bis</an:i>
+					 e la definizione dei compensi per i dottorandi deve essere ridefinita attraverso uno specifico CCNL"».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla Tabella A, voce</an:i>
+					 Ministero dell'economia e delle finanze, 
+					<an:i>apportare le seguenti variazioni in diminuzione:</an:i>
+				</an:p>
+				<an:p>            2019: - 1.000.000;</an:p>
+				<an:p>            2020: - 3.000.000;</an:p>
+				<an:p>            2021: - 3.000.000.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,37 @@
+Allegato 5
+
+(Articolo 2)
+
+Requisiti delle apparecchiature
+
+Le apparecchiature sono classificate secondo la seguente Tabella.
+
+Taglie
+
+T/anno massime trattate
+
+Denominazione taglia apparecchiatura
+
+T1
+
+10
+
+Piccola
+
+T2
+
+60
+
+Media
+
+T3
+
+130
+
+Grande
+
+Tabella Classificazione delle apparecchiature di compostaggio di comunita' per taglia
+
+I quantitativi riportati nella Tabella sono comprensivi dello strutturante.
+
+Per la taglia piccola (T1) l'apparecchiatura e' di tipo statico o elettromeccanico; per la taglia media (T2) e grande (T3) l'apparecchiatura e' di tipo elettromeccanico.

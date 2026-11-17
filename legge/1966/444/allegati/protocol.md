@@ -1,3 +1,0 @@
-Protocol to the european Convention on the equivalence of diplomas leading to admission to Universities
-
-Parte di provvedimento in formato grafico

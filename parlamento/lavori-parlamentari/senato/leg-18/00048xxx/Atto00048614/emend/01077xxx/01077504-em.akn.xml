@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/5/A/2.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/5/A/2.3"/>
+					<an:FRBRdate date="2018-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/5/A/2.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@"/>
+					<an:FRBRdate date="2018-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@.akn"/>
+					<an:FRBRdate date="2018-10-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-10-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-10-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/5/A/2.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/5" showAs="DDL 5"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGAGV1EVCAX14E03VDOFMNPAVCEW1IYPJSETKILIB4GO4YPW4Q3KI" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDX24NPNOKKZOHOUY4ZEOIAZBOQHEG3XDBKEJVT2IQKIYPEPHAGXKM" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDKEEG3ZEA5PANMZHS5IYBSWDLRCXJMHCPRLTYQHS4ZVBFSGIMNAK" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDPGBBUFS0FNBSGFIINKJCVAPCCK4PL0RPUCQ5MFIWEXCJUGVUMZFI" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 5</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGAGV1EVCAX14E03VDOFMNPAVCEW1IYPJSETKILIB4GO4YPW4Q3KI" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX24NPNOKKZOHOUY4ZEOIAZBOQHEG3XDBKEJVT2IQKIYPEPHAGXKM" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKEEG3ZEA5PANMZHS5IYBSWDLRCXJMHCPRLTYQHS4ZVBFSGIMNAK" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPGBBUFS0FNBSGFIINKJCVAPCCK4PL0RPUCQ5MFIWEXCJUGVUMZFI" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 2. - 
+					<an:i>(Modifica all'articolo 55 del codice penale). - 1.</an:i>
+					 Dopo il primo comma dell'articolo 55 del codice penale è aggiunto il seguente:
+				</an:p>
+				<an:p>        "Nei casi di cui ai commi secondo, terzo e quarto dell'articolo 52, la punibilità è esclusa se chi ha commesso il fatto per la salvaguardia della propria o altrui incolumità ha agito nelle condizioni di cui all'articolo 61, primo comma, numero 5), ovvero in stato di terrore o panico, derivante dalla imprevedibilità della situazione di pericolo attuale"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

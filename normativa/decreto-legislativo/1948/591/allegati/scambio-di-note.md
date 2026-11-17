@@ -1,0 +1,3 @@
+Scambio di Note fra l'Italia e la Francia
+
+Parte di provvedimento in formato grafico

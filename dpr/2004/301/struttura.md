@@ -1,5 +1,0 @@
-- (Art. 1.)
-
-- Titolo II FORZE DI POLIZIA AD ORDINAMENTO MILITARE (Art. 8.)
-
-- Titolo III DISPOSIZIONI FINALI (Art. 15.)

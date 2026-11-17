@@ -1,0 +1,21 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOCVIII-N6/025 presentata da BELTRANDI MARCO (PARTITO DEMOCRATICO) in data 20100921
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOCVIII-N6/025
+- Data: 20100921-20100921
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOCVIII-N6/025 presentata da BELTRANDI MARCO (PARTITO DEMOCRATICO) in data 20100921
+- Presentatore: BELTRANDI MARCO (PARTITO DEMOCRATICO)
+- Cofirmatario: BERNARDINI RITA (PARTITO DEMOCRATICO)
+- Cofirmatario: FARINA COSCIONI MARIA ANTONIETTA (PARTITO DEMOCRATICO)
+- Cofirmatario: MECACCI MATTEO (PARTITO DEMOCRATICO)
+- Cofirmatario: TURCO MAURIZIO (PARTITO DEMOCRATICO)
+- Cofirmatario: ZAMPARUTTI ELISABETTA (PARTITO DEMOCRATICO)
+- Concluso: 1
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=16&ramo=CAMERA&stile=9&idDocumento=9-DOCVIII-N6-025
+- Legislatura: repubblica_16
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOCVIII_N6_025_16
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/DOCVIII-N6/25 presentato da MARCO BELTRANDI testo di martedi' 21 settembre 2010, seduta n.371 La Camera, premesso che: nell'ambito dell'ordinamento del personale della Camera era stata introdotta fin dall'anno 2000, a seguito di una contrattazione con le organizzazioni sindacali del personale, la previsione di un sistema di valutazione del personale; tuttavia, tale sistema di valutazione finora non e' stato reso operativo; la misurazione, la valutazione e la trasparenza della performance , sia organizzativa che individuale, costituiscono ormai un preciso e preminente obbligo per tutte le pubbliche amministrazioni, a seguito dell'entrata in vigore del decreto legislativo 27 ottobre 2009, n. 150 (cosiddetta legge Brunetta); l'adozione di un sistema di misurazione e valutazione della performance , in quanto basata su elementi oggettivi e misurabili, e' considerata dal citato decreto legislativo come garanzia per una corretta gestione del personale; e' pertanto opportuno che venga superata la situazione di stallo che sembra essersi determinata presso la Camera dei deputati, avviando una trattativa avente ad oggetto le modalita' di recepimento dei principi ispiratori del citato decreto legislativo; l'effettivita' di un sistema di valutazione della performance dipende, come dispone anche il citato decreto legislativo, dall'introduzione di un sistema di controllo di gestione; anche quest'ultimo manca nell'amministrazione della Camera, impegna l'Ufficio di Presidenza ad adottare opportuni indirizzi affinche' venga sollecitamente avviata la trattativa menzionata nelle premesse; a tenere conto, in tali indirizzi, dei seguenti punti qualificanti: a) il sistema di misurazione e valutazione della performance non puo' riguardare soltanto i singoli dipendenti, ma presuppone la definizione di precise aree di responsabilita' nell'ambito dell'amministrazione, a cui associare la definizione della performance organizzativa; b) gli obiettivi assegnati alle strutture e ai dipendenti dovranno essere specifici e misurabili; c) una corretta misurazione e valutazione della performance puo' essere effettuata solo in base a criteri strettamente connessi al soddisfacimento dell'interesse del destinatario dei servizi e degli interventi; pertanto occorre reperire modalita' mediante le quali gli utenti dell'amministrazione della Camera, in primo luogo gli organi parlamentari ed i deputati, possano esprimersi sul proprio grado di soddisfacimento; d) la definizione degli obiettivi programmatici dovra' essere riservata agli organi di indirizzo politico-amministrativo; e) la misurazione e la valutazione della performance , sia organizzativa che individuale, dei dirigenti dovranno essere deferite ad un apposito organismo indipendente, da costituire; f) considerato il pluralismo intrinseco al contesto parlamentare, l'organismo indipendente dovra' avere composizione collegiale; a mantenere strettamente collegate l'adozione di un sistema di misurazione e valutazione della performance e quella di un sistema di controllo di gestione. 9/Doc. VIII, n. 6/ 25 .Beltrandi, Bernardini, Farina Coscioni, Mecacci, Maurizio Turco, Zamparutti.

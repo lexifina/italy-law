@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/4.131/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/4.131"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/4.131/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.131"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@.akn"/>
+					<an:FRBRdate date="2019-02-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/A/4.131/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRDYYZYLNHWV2IGN3ZAV2ZRT1EPHYA5QYX5KBFIHVTABNWD3KK5HB" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDM5RM1MOK10TLBWBLJOMCXRHABCCIUNOSK4QYVSE5TFDXN1LF3UTK" href="http://dati.senato.it/32591" showAs="Simone BOSSI"/>
+				<an:TLCPerson id="ID04KZL0TWV0YUBLCYZK30TYG5RD2TGMRQBN5X42EXCIUPRYQ5SWOJ" href="http://dati.senato.it/32748" showAs="DE VECCHIS"/>
+				<an:TLCPerson id="IDTTA4HVUOVU5BKDOYOTSBEB0GQHJLPWMMCFW0ZVM4RU2FIYAOYFPK" href="http://dati.senato.it/32695" showAs="PIZZOL"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.131</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRDYYZYLNHWV2IGN3ZAV2ZRT1EPHYA5QYX5KBFIHVTABNWD3KK5HB" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM5RM1MOK10TLBWBLJOMCXRHABCCIUNOSK4QYVSE5TFDXN1LF3UTK" as="#tipoSenatore">Simone BOSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID04KZL0TWV0YUBLCYZK30TYG5RD2TGMRQBN5X42EXCIUPRYQ5SWOJ" as="#tipoSenatore">DE VECCHIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTTA4HVUOVU5BKDOYOTSBEB0GQHJLPWMMCFW0ZVM4RU2FIYAOYFPK" as="#tipoSenatore">PIZZOL</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 11, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					<an:i>        «11-</an:i>
+					bis. 
+					<an:i>I richiedenti di età compresa tra i 18 ed i 28 anni sono tenuti a svolgere un anno di servizio civile universale presso uno degli enti accreditati all'albo del servizio civile universale, con una presenza media settimanale di 25 ore. Sono esentati da tale obbligo coloro i quali abbiano già svolto il servizio civile nazionale o universale ai sensi della legge 6 marzo 2001, n. 64. Il Dipartimento Giovani e Servizio Civile Nazionale delega alle Regioni e alle Province Autonome l'organizzazione e la gestione dei servizio civile universale effettuato dai richiedenti che usufruiscono del Rdc, nonché ai centri per l'impiego le attività di controllo da effettuarsi sui progetti di servizio civile universale in cui siano impiegati i soggetti di cui al presente comma».</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

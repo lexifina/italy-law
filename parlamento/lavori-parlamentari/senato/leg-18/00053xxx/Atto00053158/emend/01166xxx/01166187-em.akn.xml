@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/10.73/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/10.73"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/10.73/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.73"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/10.73/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMMQ1LQFDFZCOIY20EDCS210W4JOQSTYE3NCJLNI1B0DU5MDRUDXL" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDQZH3VP00A1MRB0E2I5L5A3TXRKISTXWUIF5JYPEQKRNGKUFIXB3K" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDACMJPORLU5I4DGZHFBVPE1U4AK4JNQ5V4JFOBPLNM4RSPTYMDDZI" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDTSKX3IOXCYG1WVC55MTVEYLIKVXDXIE3VHAG2D0LWM5QA0REFF" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="ID0CAJPCR32H25LKXSGGC2RLU4WPLYL4HI1F4D45J1VU5ONYQCSR1H" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.73</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMMQ1LQFDFZCOIY20EDCS210W4JOQSTYE3NCJLNI1B0DU5MDRUDXL" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQZH3VP00A1MRB0E2I5L5A3TXRKISTXWUIF5JYPEQKRNGKUFIXB3K" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACMJPORLU5I4DGZHFBVPE1U4AK4JNQ5V4JFOBPLNM4RSPTYMDDZI" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTSKX3IOXCYG1WVC55MTVEYLIKVXDXIE3VHAG2D0LWM5QA0REFF" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0CAJPCR32H25LKXSGGC2RLU4WPLYL4HI1F4D45J1VU5ONYQCSR1H" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 d)
+					<an:i>, numero 2), sostituire il capoverso 1-</an:i>
+					bis 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Lo stato legittimo dell'immobile o dell'unità immobiliare è quello stabilito dal titolo abilitativo che ne ha previsto la costruzione. Per gli immobili realizzati in un'epoca nella quale non era obbligatorio acquisire il titolo abilitativo edilizio, lo stato legittimo è quello desumibile dalle informazioni catastali di primo impianto o da quello che ha disciplinato l'ultimo intervento edilizio che ha interessato l'intero immobile o unità immobiliare, integrati con gli eventuali titoli successivi che hanno abilitato interventi parziali ovvero da altri documenti probanti, quali le riprese fotografiche, gli estratti cartografici, i documenti d'archivio, o altro atto, pubblico o privato, di cui sia dimostrata la provenienza. Le disposizioni di cui al secondo periodo si applicano altresì nei casi in cui sussista un principio di prova del titolo abilitativo del quale, tuttavia, non sia disponibile copia».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,9 +1,0 @@
-Art. 4-sexies.
-
-(Termini di validita' della dichiarazione sostitutiva unica)
-
-1.
-
-All'articolo 10 del decreto legislativo 15 settembre 2017, n. 147, il comma 4 e' sostituito dal seguente:
-
-"4. A decorrere dal 1° gennaio 2020, la DSU ha validita' dal momento della presentazione fino al successivo 31 dicembre. In ciascun anno, a decorrere dal 2020, all'inizio del periodo di validita', fissato al 1° gennaio, i dati sui redditi e sui patrimoni presenti nella DSU sono aggiornati prendendo a riferimento il secondo anno precedente. Resta ferma la possibilita' di aggiornare i dati prendendo a riferimento i redditi e i patrimoni dell'anno precedente, qualora vi sia convenienza per il nucleo familiare, mediante modalita' estensive dell'ISEE corrente da individuarsi ((, entro sei mesi dalla data di entrata in vigore della presente disposizione,)) con decreto del Ministro del lavoro e delle politiche sociali, di concerto con il Ministro dell'economia e delle finanze. ((Nei casi in cui la DSU sia stata presentata a decorrere dal 1° settembre 2019 e prima della data di entrata in vigore della presente disposizione, si applica la disciplina precedente))".

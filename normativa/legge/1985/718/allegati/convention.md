@@ -1,0 +1,3 @@
+CONVENTION INTERNATIONALE contre la prise d'otages
+
+Parte di provvedimento in formato grafico

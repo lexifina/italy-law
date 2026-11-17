@@ -1,7 +1,0 @@
-Art. 133-bis.
-
-(( (Sospensione dell'istruzione in pendenza di ricorso per cassazione). ))
-
-((Se sia stato proposto ricorso immediato per cassazione contro alcuna delle sentenze previste nel n. 4 del secondo comma dell'articolo 279 del Codice, l'istruttore, su istanza concorde delle parti, qualora ritenga che i provvedimenti dati con l'ordinanza collegiale per l'ulteriore istruzione della causa siano dipendenti di quelli contenuti nella sentenza impugnata, puo' disporre con ordinanza non impugnabile che l'esecuzione o la prosecuzione dell'ulteriore istruzione rimanga sospesa fino alla definizione del giudizio di cassazione.
-
-Se il ricorso e' rigettato o dichiarato inammissibile la causa deve essere riassunta davanti all'istruttore nelle forme stabilite dall'art. 125, entro il termine perentorio di sei mesi dalla comunicazione della sentenza di rigetto))

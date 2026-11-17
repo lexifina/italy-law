@@ -1,3 +1,0 @@
-CIRCOSCRIZIONI TERRITORIALI DELLA MARINA MERCANTILE
-
-Parte di provvedimento in formato grafico

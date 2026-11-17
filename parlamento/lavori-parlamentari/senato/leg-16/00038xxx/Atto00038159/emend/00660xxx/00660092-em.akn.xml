@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3221/A/1.53/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3221/A/1.53"/>
+					<an:FRBRdate date="2012-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3221/A/1.53/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.53"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@"/>
+					<an:FRBRdate date="2012-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@.akn"/>
+					<an:FRBRdate date="2012-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-05-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-05-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3221/A/1.53/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3221" showAs="DDL 3221"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25219" showAs="Cagnin"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25300" showAs="Maraventano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3221</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.53</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Cagnin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Maraventano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, inserire i seguenti:</an:p>
+				<an:p align="justify">
+					        «1-
+					<an:i>bis</an:i>
+					. In attesa di una disciplina organica sul funzionamento delle centrali rischi in materia creditizia diretta ad una maggiore tutela dei consumatori, a decorrere dall'entrata in vigore della legge di conversione del presente decreto-legge, gli istituti di credito e gli intermediari finanziari devono inviare segnalazioni di sofferenze solo ed esclusivamente alla Centrale dei rischi istituita dal CICR e gestita dalla Banca d'Italia, con esclusione di qualsiasi altre banche dati private e non istituzionali. Le segnalazioni per sofferenze possono essere trasmesse esclusivamente se il ritardato pagamento dei clienti supera almeno sei rate mensili o 1 rata semestrale afferenti a contratti di mutuo, a contratti di 
+					<an:i>leasing</an:i>
+					 o a vendite rateali.
+				</an:p>
+				<an:p align="justify">
+					        1-
+					<an:i>ter</an:i>
+					. In caso di regolarizzazione dei pagamenti, le segnalazioni già inserite nelle banche dati devono essere cancellate entro 5 giorni lavorativi dalla comunicazione da parte dell'istituto di credito ricevente il pagamento, che deve provvedere alla richiesta di estinzione entro e non oltre sette giorni dall'avvenuto pagamento.
+				</an:p>
+				<an:p align="justify">
+					        1-
+					<an:i>quater</an:i>
+					. Le segnalazioni già registrate, se relative al mancato pagamento di rate mensili di numero inferiore a sei o di un'unica rata semestrale, devono essere estinte entro il termine di 15 giorni dall'entrata in vigore della legge di conversione del presente decreto-legge.
+				</an:p>
+				<an:p align="justify">
+					        1-
+					<an:i>quinquies</an:i>
+					. La Banca d'Italia è autorizzata ad apportare le dovute modifiche alla circolare 11 febbraio 1991, n. 139, e successivi aggiornamenti, per l'attuazione della presente norma».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

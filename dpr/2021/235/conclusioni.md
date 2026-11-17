@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
-
-Dato a Roma, addi' 29 dicembre 2021
-
-MATTARELLA Draghi, Presidente del Consiglio dei ministri Franco, Ministro dell'economia e delle finanze Di Maio, Ministro degli affari esteri e della cooperazione internazionale Lamorgese, Ministro dell'interno Giorgetti, Ministro dello sviluppo economico Patuanelli, Ministro delle politiche agricole alimentari e forestali Cingolani, Ministro della transizione ecologica Giovannini, Ministro delle infrastrutture e della mobilita' sostenibili Franceschini, Ministro della cultura Speranza, Ministro della salute Colao, Ministro per l'innovazione tecnologica e la transizione digitale Carfagna, Ministro per il sud e la coesione territoriale Visto, il Guardasigilli: Cartabia Registrato alla Corte dei conti il 31 dicembre 2021 Ufficio di controllo atti Ministero economia e finanze, reg.ne n. 1814

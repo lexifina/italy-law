@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5"/>
+					<an:FRBRdate date="2014-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1698/67/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@"/>
+					<an:FRBRdate date="2014-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@.akn"/>
+					<an:FRBRdate date="2014-12-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/C/G/1698/67/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29156" showAs="Panizza"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29100" showAs="Fravezzi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29115" showAs="Laniece"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29121" showAs="Longo"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29042" showAs="Battista"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29196" showAs="Zin"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1698/67/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Panizza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Fravezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Laniece</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Longo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Battista</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Zin</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede d'esame del disegno di legge «Disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge di stabilità 2015),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            la legge 24 dicembre 2004, n. 313 recante «Disciplina per l'apicoltura» riconosce l'apicoltura come attività di interesse nazionale utile per la conservazione dell'ambiente naturale,. dell'ecosistema e dell'agricoltura in generale ed è finalizzata a garantire l'impollinazione naturale e la biodiversità di specie apistiche, con particolare riferimento alla salvaguardia della razza di ape italiana (
+					<an:i>Apis mellifera ligustica Spinola</an:i>
+					) e delle popolazioni di api autoctone tipiche o delle zone di confine;
+				</an:p>
+				<an:p>            la citata legge n. 313, a far data dal 2008 ha visto azzerata la propria copertura finanziaria;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            il settore apistico, non riesce ad uscire dalla fase di crisi che lo ha investito e che dura da molti anni, inerentemente al fenomeno dello spopolamento degli alveari e moria delle api ed è continuamente investito da emergenze nazionali;</an:p>
+				<an:p>            il settore apistico si vede costretto ad affrontare nuove minacce, costituite dal calabrone asiatico, Vespa velutina, che attacca e si nutre di api e dall'Aethina tumida, le cui larve danneggiano gli alveari e si cibano di miele;</an:p>
+				<an:p>            ne consegue un calo produttivo per le imprese nazionali, unitamente al presentarsi di fenomeni di spopolamento degli alveari, dovuti alla incompatibilità con l'uso di alcune molecole di fitofarmaci e la comparsa di alcune nuove emergenze quali la Vespa velutina a Nord-Est e l'Aethina tumida al Sud;</an:p>
+				<an:p>            si mette a rischio la consistenza produttiva stessa del settore apistico con grave danno economico alle aziende e con rischi molto seri per la conservazione della capacità produttiva agricola, dell'occupazione e dell'eco sistema nazionale;</an:p>
+				<an:p>            in virtù delle potenzialità produttive raggiunte, dell'aumento della qualità dei mieli italiani, dell'importanza raggiunta per l'impollinazione delle piante coltivate e selvatiche, al fine di far fronte a danni strutturali irreparabili al settore a causa dello stato di difficoltà accertata e documentata relativa alla produzione 2014,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a rifinanziare la legge 313/2004 per un importo non inferiore a un milione di euro, per lo svolgimento delle azioni di cui all'allegato;</an:p>
+				<an:p>            a prevedere, a carico del Ministero delle politiche agricole, il riesame del documento programmatico previsto dalla legge stessa ed approvato nella riunione della conferenza StatoRegioni del 26 gennaio 2006, aggiornando gli obiettivi alla luce della nuova situazione in cui si trova il settore, fra criticità e crescita.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

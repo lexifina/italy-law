@@ -1,3 +1,0 @@
-ALLEGATO G
-
-Parte di provvedimento in formato grafico

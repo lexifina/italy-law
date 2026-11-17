@@ -1,0 +1,3 @@
+CONVENTION EUROPEENNE SUR LA PROTECTION DES ANIMAUX D'ABATTAGE
+
+Parte di provvedimento in formato grafico

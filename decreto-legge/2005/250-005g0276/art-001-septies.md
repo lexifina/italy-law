@@ -1,3 +1,0 @@
-Art. 1-septies.
-
-((ARTICOLO ABROGATO DALLA L. 21 APRILE 2011, N. 63))

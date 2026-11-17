@@ -1,0 +1,12 @@
+# Legge 22 novembre 2004, n. 278
+
+- Tipo: Ordinaria
+- Numero: 278
+- Data: 2004-11-22
+- Titolo: Disposizioni per l' assestamento del bilancio dello Stato e dei bilanci delle Amministrazioni autonome per l' anno finanziario 2004
+- Pubblicazione: G.U. n. 279 del 27 Novembre 2004 (suppl.ord.)
+- Legislatura: XIV legislatura della Repubblica (repubblica_14)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2004-11-22;278
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;14.legislatura;5095
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L2004_278
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

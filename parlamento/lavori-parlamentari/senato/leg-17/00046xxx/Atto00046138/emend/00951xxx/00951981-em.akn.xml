@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.213"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@.akn"/>
+					<an:FRBRdate date="2015-12-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-12-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-12-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/859-1357-1378-1484-1553-B/A/2.213/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/859-1357-1378-1484-1553-B" showAs="DDL 859-1357-1378-1484-1553-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDACOMU" href="http://dati.senato.it/senatore/2553" showAs="ZELLER"/>
+				<an:TLCPerson id="IDAJOMU" href="http://dati.senato.it/senatore/29045" showAs="BERGER"/>
+				<an:TLCPerson id="IDA4NMU" href="http://dati.senato.it/senatore/29100" showAs="FRAVEZZI"/>
+				<an:TLCPerson id="IDAXOMU" href="http://dati.senato.it/senatore/29115" showAs="LANIECE"/>
+				<an:TLCPerson id="IDATPMU" href="http://dati.senato.it/senatore/29196" showAs="ZIN"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 859-1357-1378-1484-1553-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.213</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACOMU" as="#tipoSenatore">ZELLER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJOMU" as="#tipoSenatore">BERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4NMU" as="#tipoSenatore">FRAVEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXOMU" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATPMU" as="#tipoSenatore">ZIN</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, capoverso «Art. 590-bis», dopo il settimo comma, inserire il seguente:</an:p>
+				<an:p>        «Il delitto è punibile a querela della persona offesa, se la malattia ha una durata non superiore a venti giorni e se non concorre alcuna delle circostanze indicate nell'articolo 583. In tali casi le pene previste dai commi primo, secondo, terzo e quarto sono diminuite della metà».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

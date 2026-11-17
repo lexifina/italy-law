@@ -1,5 +1,0 @@
-ANNESSO 17
-
-CERTIFICATO SANITARIO PER UOVA DI VOLATILI IN GUSCIO
-
-Parte di provvedimento in formato grafico

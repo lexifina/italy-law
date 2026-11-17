@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1150/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1150"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1150/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1150"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@.akn"/>
+					<an:FRBRdate date="2018-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.1150/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDA013KHZWQEW4NDZOO0IGFLKPUIABDAWCPC5R4JEOOUCTAAREFSMJ" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDNW4NUQFE51WYJUJPEZ4LKG5YIPEEJR3YC4QL5VITRHZCAPKHTPDL" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDHZWCMJSJ431JFJ1T03ICWA3RJVKBHMU4KUFEFPRBECCZEOMHY5K" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="ID5G0021EA3AKHME5VTLT54ETZBMGCKE2XBN0DNPEQJMZTOG1HUOAN" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1150</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA013KHZWQEW4NDZOO0IGFLKPUIABDAWCPC5R4JEOOUCTAAREFSMJ" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNW4NUQFE51WYJUJPEZ4LKG5YIPEEJR3YC4QL5VITRHZCAPKHTPDL" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHZWCMJSJ431JFJ1T03ICWA3RJVKBHMU4KUFEFPRBECCZEOMHY5K" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5G0021EA3AKHME5VTLT54ETZBMGCKE2XBN0DNPEQJMZTOG1HUOAN" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 148 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «148-
+					<an:i>bis</an:i>
+					. Al fine di proseguire nel processo di stabilizzazione della intera platea dei lavoratori ex LSU e LPU della Calabria, di cui all'articolo 1 comma 207, terzo e quarto periodo della legge 27 dicembre 2013, n. 147 e di cui articolo 20, commi 2 e 14, del decreto legislativo 25 maggio 2017, n. 75, è autorizzata la spesa di 50 milioni di euro per l'anno 2019. Sono altresì prorogate di ulteriori 12 mesi, fino al 31 dicembre 2019, le disposizioni di cui all'articolo 1 commi 223, 224 e 225 della legge 27 dicembre 2017, n. 205. Le amministrazioni in base a quanto previsto dal presente comma sono autorizzate a prorogare i corrispondenti rapporti di lavoro a tempo determinato, anche in deroga alla normativa vigente, con i soggetti che partecipano alle procedure di cui alla presente disposizione, fino alla loro progressiva stabilizzazione. Agli obiettivi di cui al presente comma concorre la regione Calabria con propria previsione di bilancio».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 421, sostituire le parole:</an:i>
+					 «130.317.000 euro» 
+					<an:i>con le seguenti:</an:i>
+					 «80.317.000 euro»
+					<an:i>.</an:i>
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

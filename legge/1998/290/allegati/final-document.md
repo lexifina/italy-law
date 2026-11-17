@@ -1,3 +1,0 @@
-Final Document
-
-Parte di provvedimento in formato grafico

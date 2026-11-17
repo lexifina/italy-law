@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/949/40/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@.akn"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/C/G/949/40/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25232" showAs="Spadoni Urbani"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/213" showAs="Benedetti Valentini"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/3901" showAs="Asciutti"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25199" showAs="Pichetto Fratin"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/21978" showAs="Germontani"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/25274" showAs="Saltamartini"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/22726" showAs="Casoli"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/17941" showAs="Baldassarri"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/949/40/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Spadoni Urbani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Benedetti Valentini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Asciutti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Pichetto Fratin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Germontani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Saltamartini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Casoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Baldassarri</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato ,</an:p>
+				<an:p>        in sede di discussione del disegno di legge di conversione del decreto-legge 25 giugno 2008, n. 112 concernente «Disposizioni urgenti per lo sviluppo economico, la semplificazione, la competitività, la stabilizzazione della finanza pubblica e la perequazione Tributaria»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            con il decreto-legge 8 aprile 2008 n. 61, recante «disposizioni finanziarie in materia di protezione civile», convertito in legge dal Parlamento, il Governo ha dato, fra l'altro, definitiva soluzione alla materia relativa alla sospensione dei termini per i versamenti tributari e per i contributi previdenziali previsti in conseguenza degli eventi sismici del settembre 1997 in Umbria e nelle Marche disponendo una notevole copertura finanziaria per l'operazione;</an:p>
+				<an:p>            che, malgrado dal 1º gennaio 2008 il formale stato di emergenza proclamato a seguito della crisi sismica sia cessato, nel corso del dibattito sulla conversione del decreto-legge fu rilevato come il completamento della ricostruzione delle zone terremotate resta ancora un obiettivo da raggiungere e, pertanto, serve un ulteriore sostegno straordinario assimilabile al conferimento del 5 per cento dei fondi del Dipartimento della protezione civile che è stato concesso in questi ultimi anni con gli strumenti normativi particolari previsti per gli stati di emergenza;</an:p>
+				<an:p>            che, secondo le stime iniziali, per completare la ricostruzione occorrerebbero ancora oltre 3000 milioni di euro per l'Umbria e circa 1500 milioni di euro per le Marche mentre al momento la legge n. 244 del 2007 prevede, ai fini della prosecuzione degli interventi di ricostruzione, contributi per soli 5 milioni di euro a decorrere da ciascuno degli esercizi 2008, 2009 e 2010, che non risultano certo sufficienti al completamento della ricostruzione;</an:p>
+				<an:p>            che il permanere di questa situazione rischia di creare disparità tra i cittadini terremotati che hanno già usufruito dei contributi, e quelli che, pur avendone diritto e legittima aspettativa, invece, non hanno avuto ancora nessun contributo;</an:p>
+				<an:p>        impegna il Governo,</an:p>
+				<an:p>            in questa delicata fase di passaggio determinata dalla fine dell'emergenza di cui in premessa, a dare un segnale di sensibilità sociale e politica concreta, per non creare disparità tra cittadini aventi diritto, ridefinendo una ipotesi pluriennale di finanziamento con la individuazione delle risorse ritenute necessarie per portare a termine la ricostruzione delle zone terremotate di Umbria e Marche, da formalizzare in altro provvedimento, nei tempi e nei modi che vorrà individuare.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

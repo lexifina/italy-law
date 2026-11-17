@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3232/A/G4.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3232/A/G4.2"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3232/A/G4.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@.akn"/>
+					<an:FRBRdate date="2005-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3232/A/G4.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3232" showAs="DDL 3232"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17655" showAs="Ulivi"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/3904" showAs="Magnalbo'"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/17555" showAs="Bongiorno"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/843" showAs="Demasi"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/16994" showAs="Danzi"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/715" showAs="Cozzolino"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3232</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">Ulivi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Magnalbo'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Bongiorno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Demasi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Danzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Cozzolino</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">
+					<an:i>            </an:i>
+					in sede di esame del disegno di legge n. 3232,
+				</an:p>
+				<an:p align="justify">
+					<an:i>          </an:i>
+					impegna il Governo ad attivarsi affinché gli Ordini e Collegi professionali e relativi Consigli e Federazioni Nazionali non rientrino nell'elenco delle Amministrazioni pubbliche come risulta anche dall'elenco dettagliato delle Amministrazioni, quali individuate ai sensi della normativa contabile europea, rilevate dall'Istat per l'elaborazione dei Conti delle Amministrazioni pubbliche ai fini della verifica del rispetto dei parametri di finanza pubblica previsti dal Trattato di Maastricht.
+				</an:p>
+				<an:p align="justify">
+					<an:i>       </an:i>
+					Le dotazioni organiche di questi Enti, in applicazione delle deroghe di cui all'articolo 34, comma 10, della legge n. 289 del 2002 (legge finanziaria 2003) e all'articolo 3, comma 58, della legge n. 350 del 2003 (legge finanziaria 2004), rientrano nell'ambito di applicazione dell'articolo 6 del decreto legislativo n. 165 del 2001 e successive modificazioni ed integrazioni con implicita abrogazione del decreto del Presidente della Repubblica n. 404 del 25 luglio 1997.
+				</an:p>
+				<an:p align="justify">
+					<an:i>       </an:i>
+					Pertanto, le dotazioni organiche degli Ordini e Collegi professionali e relativi Consigli e Federazioni Nazionali sono approvate ed immediatamente esecutive con delibera dei rispettivi organi di vertice, secondo quanto previsto dai rispettivi ordinamenti sulla base di verifiche circa gli effettivi fabbisogni, condotte anche con l'ausilio degli organi di controllo interno, secondo i criteri previsti dall'articolo 39 della legge n. 449 del 1997.
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

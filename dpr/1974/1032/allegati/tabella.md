@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO D'ARTE DI LUZZI E DELLA ANNESSA SCUOLA MEDIA
-
-Parte di provvedimento in formato grafico

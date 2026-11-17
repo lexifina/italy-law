@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 15 luglio 1988
-
-COSSIGA DE MITA, Presidente del Consiglio dei Ministri GAVA, Ministro dell'interno AMATO, Ministro del tesoro VASSALLI, Ministro di grazia e giustizia COLOMBO, Ministro delle finanze CIRINO POMICINO, Ministro per la funzione pubblica MACCANICO, Ministro per gli affari regionali ed i problemi istituzionali Visto, il Guardasigilli: VASSALLI Registrato alla Corte dei conti, addi' 28 dicembre 1988 Atti di Governo, registro n. 76, foglio n. 18 (Con esclusione dell'art. 24, ai sensi della delibera della Sezione controllo Stato 15 dicembre 1988, n. 2047) Registrato alla Corte dei conti, addi' 28 aprile 1989 Atti di Governo, registro n. 77, foglio n. 19 (Registrato con riserva l'art. 24 ai sensi della delibera delle Sezioni riunite 13 aprile 1989, n. 65)

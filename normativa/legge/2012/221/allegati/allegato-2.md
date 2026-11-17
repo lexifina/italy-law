@@ -1,0 +1,9 @@
+2. Nelle zone di cui al comma 1 i soggetti sperimentatori possono individuare e rendere pubblici i casi in cui il rilascio delle autorizzazioni di competenza necessarie alla data di entrata in vigore della legge di conversione del presente decreto sono sostituite da una comunicazione dell'interessato allo sportello unico per le attivita' produttive. Nei rimanenti casi per le nuove iniziative produttive, avviate successivamente alla data di entrata in vigore della legge di conversione del presente decreto, i procedimenti amministrativi sono conclusi con l'adozione del provvedimento conclusivo previa apposita conferenza di servizi telematica ed aperta a tutti gli interessati, anche con modalita' asincrona. I provvedimenti conclusivi di tali procedimenti si intendono senz'altro positivamente adottati entro trenta giorni dall'avvio del procedimento se un provvedimento espresso non e' adottato entro tale termine.
+
+3. Per le aree ubicate nelle regioni Abruzzo, Basilicata, Calabria, Campania, Molise, Puglia, Sardegna e Sicilia, ove la zona a burocrazia zero coincida con una delle zone franche urbane di cui all'articolo 37, le risorse previste per tali zone franche urbane, ai sensi dell'articolo 1, comma 340, della legge 27 dicembre 2006, n. 296, sono utilizzate dal sindaco territorialmente competente per la concessione di contributi diretti alle nuove iniziative produttive avviate nelle zone a burocrazia zero.
+
+4. Il comma 2 non si applica ai procedimenti amministrativi di natura tributaria, di pubblica sicurezza ed attinenti all'incolumita' pubblica. L'articolo 43 del decreto-legge 31 maggio 2010, n. 78, convertito, con modificazioni, dalla legge 30 luglio 2010, n. 122, e' abrogato.
+
+5. Dall'attuazione del presente articolo non derivano nuovi o maggiori oneri o minori entrate per il bilancio dello Stato».
+
+All'articolo 38, comma 4, le parole: «alle lettere b), ii) e iv),» sono sostituite dalle seguenti: «ai numeri ii e iv della lettera b)».

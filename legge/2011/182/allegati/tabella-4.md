@@ -1,5 +1,0 @@
-Tabella 4
-
-STATO DI PREVISIONE DEL MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI
-
-Parte di provvedimento in formato grafico

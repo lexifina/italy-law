@@ -1,3 +1,0 @@
-Air transport agreement between the Government of the United States of America and the Government of Italy
-
-Parte di provvedimento in formato grafico

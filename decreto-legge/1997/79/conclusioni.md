@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Roma, addi' 28 marzo 1997
-
-SCALFARO Prodi, Presidente del Consiglio dei Ministri Ciampi, Ministro del tesoro e del bilancio e della programmazione economica Visco, Ministro delle finanze Treu, Ministro del lavoro e della previdenza sociale Bassanini, Ministro per la funzione pubblica e gli affari regionali Visto, il Guardasigilli: Flick

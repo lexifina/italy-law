@@ -1,0 +1,14 @@
+# Disegno di legge C.671 (13a legislatura)
+
+- Fase: C.671
+- Id DDL: 682
+- Id fase: 729
+- Natura: ordinaria
+- Data di presentazione: 1996-05-10
+- Titolo: Norme per la tutela dei minori
+- Stato: conclusione anomala per stralcio
+- Data dello stato: 1997-11-18
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;671
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/729
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).

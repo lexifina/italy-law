@@ -1,0 +1,7 @@
+((Art. 10
+
+(Mutuo riconoscimento delle attestazioni dei controlli radiometrici sui rottami metallici o sugli altri materiali metallici di risulta e sui prodotti semilavorati in metallo e i prodotti finiti in metallo provenienti da Paesi terzi)
+
+1. Ai fini dell'espletamento delle formalita' doganali, per i rottami metallici o per gli altri materiali metallici di risulta e per i prodotti semilavorati in metallo e i prodotti finiti in metallo provenienti da Paesi terzi, per i quali esistono equivalenti livelli di protezione tali che i controlli radiometrici effettuati dagli Stati terzi assicurino livelli di sicurezza equivalenti a quelli previsti dalla direttiva 2013/59/Euratom del Consiglio, del 5 dicembre 2013, come anche riconosciuti dall'uso di attestati di contenuto equivalente a quello del modello di cui all'allegato 1, in luogo dell'attestazione dell'avvenuta sorveglianza radiometrica di cui all'articolo 72, comma 2, primo periodo, del decreto legislativo puo' essere accettata, in regime di reciprocita', la dichiarazione rilasciata all'origine da soggetti previamente abilitati sulla base delle disposizioni stabilite dall'Autorita' competente dello Stato di provenienza dei suddetti materiali.
+
+2. Il Ministero della transizione ecologica pubblica e aggiorna periodicamente l'elenco dei paesi per i quali e' in vigore un accordo o intesa, comunque denominata, stipulati ai sensi dell'articolo 72, comma 2, del decreto legislativo.))

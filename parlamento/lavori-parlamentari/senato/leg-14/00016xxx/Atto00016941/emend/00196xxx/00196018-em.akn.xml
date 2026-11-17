@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1182/A/2.0.101"/>
+					<an:FRBRdate date="2006-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.101"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@"/>
+					<an:FRBRdate date="2006-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@.akn"/>
+					<an:FRBRdate date="2006-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-03-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-03-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1182/A/2.0.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1182" showAs="DDL 1182"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/17563" showAs="Girfatti"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/17568" showAs="Chirilli"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/17570" showAs="Cicolani"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/17601" showAs="Manunza"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/17616" showAs="Nessa"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/703" showAs="Costa"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/17593" showAs="Eufemi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1182</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.101 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Girfatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Chirilli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Cicolani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Manunza</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Nessa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Costa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Eufemi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i/>
+					 «Art. 2-
+					<an:i>bis</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Insegne di esercizio)</an:i>
+				</an:p>
+				<an:p align="justify">1. Il canone per l'installazione dei mezzi pubblicitari di cui all'articolo 62, comma 1, del decreto legislativo 15 dicembre 1997, n. 446, analogamente a quanto previsto dall'articolo 10 della legge 28 dicembre 2001 n. 448, non è dovuto per le insegne di esercizio delle attività commerciali e di produzione di beni o servizi che contraddistinguono la sede ove si svolge l'attività cui si riferiscono, per la superficie complessiva fino a 5 metri quadrati.</an:p>
+				<an:p align="justify"> 2. Le minori entrate derivanti dall'attuazione del comma 1, ragguagliate per ciascun comune all'entità riscossa nell'esercizio 2001, sono integralmente rimborsate al comune dallo Stato secondo modalità da stabilire con decreto del Ministro dell'economia e delle finanze, di concerto con il Ministro dell'interno. I trasferimenti aggiuntivi così determinati non sono soggetti a riduzione per effetto di altre disposizioni di legge.</an:p>
+				<an:p align="justify">3. All'onere derivante dall'attuazione del comma precedente, valutato in 5 milioni di euro a decorrere dall'anno 2002, si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 2002-2004, nell'ambito dell'unità previsionale di base di parte corrente «Fondo speciale« dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2002, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero.</an:p>
+				<an:p align="justify">4. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio.</an:p>
+				<an:p align="justify">5. Per le insegne di esercizio di superficie complessiva superiore ai 5 metri quadrati l'imposta o il canone sono dovuti per l'intera superficie.</an:p>
+				<an:p align="justify">6. Si definisce insegna di esercizio la scritta di cui all'articolo 47, comma 1, del decreto del Presidente della Repubblica 16 dicembre 1992, n. 495, che abbia la funzione di indicare al pubblico il luogo di svolgimento dell'attività economica. In caso di pluralità d'insegne l'esenzione è riconosciuta nei limiti di superficie di cui al comma 1».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

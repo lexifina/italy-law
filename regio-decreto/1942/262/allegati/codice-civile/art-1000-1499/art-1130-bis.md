@@ -1,9 +1,0 @@
-Art. 1130-bis.
-
-(( (Rendiconto condominiale). ))
-
-((Il rendiconto condominiale contiene le voci di entrata e di uscita ed ogni altro dato inerente alla situazione patrimoniale del condominio, ai fondi disponibili ed alle eventuali riserve, che devono essere espressi in modo da consentire l'immediata verifica. Si compone di un registro di contabilita', di un riepilogo finanziario, nonche' di una nota sintetica esplicativa della gestione con l'indicazione anche dei rapporti in corso e delle questioni pendenti.
-
-L'assemblea condominiale puo', in qualsiasi momento o per piu' annualita' specificamente identificate, nominare un revisore che verifichi la contabilita' del condominio. La deliberazione e' assunta con la maggioranza prevista per la nomina dell'amministratore e la relativa spesa e' ripartita fra tutti i condomini sulla base dei millesimi di proprieta'. I condomini e i titolari di diritti reali o di godimento sulle unita' immobiliari possono prendere visione dei documenti giustificativi di spesa in ogni tempo ed estrarne copia a proprie spese. Le scritture e i documenti giustificativi devono essere conservati per dieci anni dalla data della relativa registrazione.
-
-L'assemblea puo' anche nominare, oltre all'amministratore, un consiglio di condominio composto da almeno tre condomini negli edifici di almeno dodici unita' immobiliari. Il consiglio ha funzioni consultive e di controllo)).

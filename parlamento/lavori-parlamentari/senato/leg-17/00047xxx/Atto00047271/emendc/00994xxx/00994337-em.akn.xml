@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1261-B/C/8.5"/>
+					<an:FRBRdate date="2017-01-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@"/>
+					<an:FRBRdate date="2017-01-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@.akn"/>
+					<an:FRBRdate date="2017-01-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-01-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-01-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1261-B/C/8.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1261-B" showAs="DDL 1261-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMMNE4TPQGGLKGKDHFH11CFFWNNF1JYOSOKJLPJOC0DBFWLU25F0F" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDT2UHENRBOP4DF3UHNEYLHRCHEBTT14SQ0AFXRHDYADNEE4T0N2ZH" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDYLJKUQFXOJ1IGHJH2CXT3MFZIDJUQCM2PHZ4G4HJ3ZYQCQR1PWOM" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDEO4PSE0YUSUFDYSXQIBUJCVPBDCJXDH1NP0XHZKQH5M5MPWQYQMC" href="http://dati.senato.it/29179" showAs="SERRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1261-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMMNE4TPQGGLKGKDHFH11CFFWNNF1JYOSOKJLPJOC0DBFWLU25F0F" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT2UHENRBOP4DF3UHNEYLHRCHEBTT14SQ0AFXRHDYADNEE4T0N2ZH" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYLJKUQFXOJ1IGHJH2CXT3MFZIDJUQCM2PHZ4G4HJ3ZYQCQR1PWOM" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEO4PSE0YUSUFDYSXQIBUJCVPBDCJXDH1NP0XHZKQH5M5MPWQYQMC" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo con il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «Art. 8. - 
+					<an:i>(Attività di contrasto all'istigazione al suicidio). - 1.</an:i>
+					 Nell'ambito dei compiti della Polizia postale e delle comunicazioni, l'organo del Ministero dell'interno per la sicurezza e la regolarità dei servizi di telecomunicazione svolge, su richiesta dell'autorità giudiziaria, motivata a pena di nullità, le attività occorrenti per il contrasto del delitto di cui all'articolo 580 del codice penale da chiunque commesso nei confronti di un minore degli anni diciotto mediante l'impiego di sistemi informatici o mezzi di comunicazione telematica ovvero utilizzando reti di telecomunicazione disponibili al pubblico. A tal fine il personale addetto può utilizzare indicazioni di copertura, anche per attivare siti nelle reti, realizzare o gestire aree di comunicazione o scambio su reti o sistemi telematici, ovvero per partecipare ad esse.
+				</an:p>
+				<an:p>
+					<an:i>2.</an:i>
+					 Per una più efficace realizzazione dei propri compiti la Polizia postale e delle comunicazioni promuove lo sviluppo di proficui rapporti collaborativi con le omologhe realtà investigative presenti in altri Stati per la veicolazione e lo scambio delle informazioni relative al cyberbullismo e promuove progetti per sensibilizzare i giovani nei confronti del distorto uso della rete.
+				</an:p>
+				<an:p>
+					<an:i>3.</an:i>
+					 Il Ministro dell'interno promuove, altresì, un piano integrato per la prevenzione primaria del suicidio legato al cyberbullismo che coinvolga i servizi presenti nel territorio rivolti agli adolescenti, quali centri di aggregazione, ricreativi, di ascolto e di consulenza, in sinergia con le scuole, per integrare conoscenze ed esperienze nell'azione preventiva».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

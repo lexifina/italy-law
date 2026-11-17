@@ -1,3 +1,0 @@
-ALLEGATO IX (previsto dall'articolo 8, comma 1)
-
-Parte di provvedimento in formato grafico

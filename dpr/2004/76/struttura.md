@@ -1,7 +1,0 @@
-- Capo I DISPOSIZIONI GENERALI (Art. 1.)
-
-- Capo II RECLUTAMENTO (Art. 5.)
-
-- Capo III AVANZAMENTO (Art. 12.)
-
-- Capo IV IMPIEGO (Art. 18.)

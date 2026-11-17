@@ -1,0 +1,7 @@
+Allegato IX
+
+(articolo 36, comma 2)
+
+MARCHIO PARTICOLARE DI FABBRICA PER GLI OGGETTI OTTENUTI PER DEPOSIZIONE ELETTROGALVANICA
+
+Parte di provvedimento in formato grafico

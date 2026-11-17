@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/57.0.3"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="57.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/57.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCFSDSCQNAZ0PIMXC0RBRGVSIPCFXC2UVZL0SXVJOZDIXJ4M2FLEI" href="http://dati.senato.it/2444" showAs="URSO"/>
+				<an:TLCPerson id="IDCACOGYMZ1YPHLXDIEAS2YW1OKGCIR2UZ3JPR5HNAAPPGWKB2CZNO" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDIVPZF1M550ICL4FOZ4JDWT2JEJGAP1SWWS4W3KOIV1CWYBGOI4SF" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 57.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCFSDSCQNAZ0PIMXC0RBRGVSIPCFXC2UVZL0SXVJOZDIXJ4M2FLEI" as="#tipoSenatore">URSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCACOGYMZ1YPHLXDIEAS2YW1OKGCIR2UZ3JPR5HNAAPPGWKB2CZNO" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIVPZF1M550ICL4FOZ4JDWT2JEJGAP1SWWS4W3KOIV1CWYBGOI4SF" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 57-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni volte a tutelare le imprese operanti in settori di rilevanza strategica e le aziende rilevanti nella produzione nazionale)</an:i>
+				</an:p>
+				<an:p>
+					        1. Al fine di tutelare le imprese nazionali attive nei settori di rilevanza strategica, di cui al decreto-legge 15 marzo 2012, n. 21, convertito con modificazioni dalla legge 11 maggio 2012, n. 56, e quelle nei settori sottoposti alla normativa vigente sul ''
+					<an:i>Golden power</an:i>
+					'' da scalate ostili o da operazioni di speculazione connesse alla grave crisi sociale ed economica determinata dall'emergenza epidemiologica da COVID-19, Cassa Depositi e Prestiti S.p.a. è autorizzata - anche in deroga ad ogni limite statutario - ad acquistare titoli, obbligazioni e capitale sociale delle suddette imprese e, su indicazioni del Ministero dell'economia e delle finanze, delle aziende il cui marchio sia stato definito ''marchio storico'' nonché di quelle di alto valore per le filiere produttive italiane, al fine di preservarne la produzione in Italia.
+				</an:p>
+				<an:p>        2. Le esposizioni assunte da Cassa Depositi e Prestiti S.p.a. ai fini delle operazioni di cui al comma 1 sono assistite dalla garanzia dello Stato, nella misura dell'ottanta per cento. A tal fine è istituito un apposito Fondo nello stato di previsione del Ministero dell'economia e delle finanze, con una dotazione iniziale pari a 1.000 milioni di euro. Al relativo onere si provvede mediante corrispondente riduzione del Fondo di riserva per le integrazioni delle autorizzazioni di cassa, di cui all'articolo 29 della legge 31 dicembre 2009, n. 196.</an:p>
+				<an:p>        3. Cassa depositi e prestiti S.p.a. procede alla vendita dei titoli, delle obbligazioni ovvero del capitale sociale acquisiti ai sensi del presente articolo, entro tre anni dalla data della loro acquisizione, in modo da non alterare le normali condizioni di concorrenzialità nel mercato».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.623/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.623"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.623/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.623"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.623/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDT4ZPGBNIE0HZMTN1FYWWSU1TAK24SRT5LEJ4CBMWNR3WVZSPOW3F" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDEUYVUP3C2AGXCOEIVNVHAU5RJBHSDPTJBTYMVUMM15WKG2O5GY4J" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDOH1J21G02IFWNQW4S5EL5U0EVOL12IYZPER2JHMVA5ZMKZKXLLBE" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.623</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDT4ZPGBNIE0HZMTN1FYWWSU1TAK24SRT5LEJ4CBMWNR3WVZSPOW3F" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEUYVUP3C2AGXCOEIVNVHAU5RJBHSDPTJBTYMVUMM15WKG2O5GY4J" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOH1J21G02IFWNQW4S5EL5U0EVOL12IYZPER2JHMVA5ZMKZKXLLBE" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 444, è aggiunto il seguente:</an:p>
+				<an:p>        «444-bis. All'articolo 47 del decreto-legge 24 aprile, n. 66, convertito, con modificazioni, in legge 23 giugno 2014, n. 89, e successive modifiche, al comma 8 sostituire le parole: «per ciascuno degli anni dal 2015 al 2018», ovunque ricorrano, con le seguenti: «per ciascuno degli anni 2015 e 2016».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 448 sostituire le parole:</an:i>
+					 «ªeuro 6.197.184.364,87» 
+					<an:i>con le seguenti:</an:i>
+					 «euro 6.760.184.365,27».;
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente dopo il comma 636 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>        «636-bis. All'articolo 5 della legge 28 dicembre 2015, n. 208, apportare le seguenti modifiche:</an:p>
+				<an:p>        a) i commi 67 e 68 sono abrogati;</an:p>
+				<an:p>        b) al comma 69 le parole: «ai commi da 65 a 68» sono sostituite dalle seguenti: «ai commi 65 e 66».</an:p>
+				<an:p>        636-ter. All'articolo 96, comma 5-bis, del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive integrazione e modificazioni, il primo periodo è sostituito dal seguente: «Gli interessi passivi sostenuti dai soggetti indicati nel primo periodo del comma 5, sono deducibili dalla base imponibile della predetta imposta nei limiti dell'89 per cento del loro ammontare».</an:p>
+				<an:p>        636-quater. Al decreto legislativo 15 dicembre 1997, n. 446, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>        a) all'articolo 6, comma 8, dopo il primo periodo è inserito il seguente: «Gli interessi passivi concorrono alla formazione del valore della produzione nella misura dell'89 per cento del loro ammontare»;</an:p>
+				<an:p>        b) all'articolo 6, comma 9, dopo il primo periodo è inserito il seguente: «Gli interessi passivi concorrono alla formazione del valore della produzione nella misura dell'89 per cento del loro ammontare»;</an:p>
+				<an:p>        c) all'articolo 7, comma 2, le parole: «nella misura del 96 per cento» sono sostituite dalle seguenti: «nella misura dell'88 per cento».</an:p>
+				<an:p>        636-quinquies. In deroga all'articolo 3 della legge 27 luglio 2000, n. 212, le disposizioni di cui ai commi da 636-bis a 636-quater si applicano a decorrere dal periodo d'imposta successivo a quello in corso al 31 dicembre 2016. Le modifiche introdotte dal commi 636-bis e 636-ter rilevano ai fmi della determinazione dell'acconto dell'imposta sul reddito delle società e dell'acconto dell'imposta regionale sulle attività produttive dovuti per il periodo d'imposta successivo a quello in corso al 31 dicembre 2016.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

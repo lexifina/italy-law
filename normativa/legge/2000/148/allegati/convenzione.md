@@ -1,0 +1,5 @@
+Allegato
+
+TRADUZIONE NON UFFICIALE
+
+Parte di provvedimento in formato grafico

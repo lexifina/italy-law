@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.100"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZYA15UAKPT20O1DYMZ3R2ACKAGF012PXO0CDW0KJTUHURXQLZXZF" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDNNYCADUUH2V3OXMZ4N104IEGKNQZA2LLTBHJUUICJF2FYF0FLKPG" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDEOA021CQAHRGHAYNMEF3W30KIIOUFE1GTQQLIAJCQCZPCYQ50SHE" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDOTHT3KS5Q1F0ONDDHCZLZCI4TOE3YUE04PJOEIPDZUFQIR1Y4MMI" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID5NSYS5BIFXANPWZACEOFHZZ1JPZ3KC14FR3PFUN5QXRNKDESUA0L" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZYA15UAKPT20O1DYMZ3R2ACKAGF012PXO0CDW0KJTUHURXQLZXZF" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNNYCADUUH2V3OXMZ4N104IEGKNQZA2LLTBHJUUICJF2FYF0FLKPG" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEOA021CQAHRGHAYNMEF3W30KIIOUFE1GTQQLIAJCQCZPCYQ50SHE" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOTHT3KS5Q1F0ONDDHCZLZCI4TOE3YUE04PJOEIPDZUFQIR1Y4MMI" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5NSYS5BIFXANPWZACEOFHZZ1JPZ3KC14FR3PFUN5QXRNKDESUA0L" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            un'altra provincia ad oggi esclusa, pur essendo fortemente colpita, è quella di Mantova, per la peculiarità di taluni Comuni;</an:p>
+				<an:p>            Canneto sull'Oglio, ad esempio, ricade amministrativamente nella provincia di Mantova ma, trattandosi di comune di confine, geograficamente, socialmente ed economicamente è più prossima alla provincia di Cremona e, di conseguenza, ha subito in pieno il focolaio di Cremona, nel mese di marzo 2020, infatti, il comune ha registrato 31 decessi su poco più di 4.000 abitanti, con un incremento della mortalità rispetto allo stesso mese dell'anno precedente pari a 337,5 per cento;</an:p>
+				<an:p>            stesso discorso vale per il comune di Viadana, confinante con la provincia di Cremona, e nello specifico con il comune di Casalmaggiore: gli intensi rapporti lavorativi con i vicinissimi comuni della zona rossa cremonese e la condivisione di numerosi servizi socio-sanitari, tra cui l'ospedale Oglio Po in comune con Casalmaggiore, hanno contribuito ad una rapida diffusione del contagio, che ha portato il comune a registrare una percentuale di soggetti contagiati superiore all'l,26 per cento della popolazione ed a 64 decessi;</an:p>
+				<an:p>            le stesse ragioni valgono anche per il comune di Castiglione delle Stlviere, confinante con i comuni bresciani di Carpenedolo, Montichiari, Lonato e Calcinato, che ha registrato una percentuale di soggetti contagiati superiore all'1104 per cento della popolazione, oltre a numerosi decessi, con gravi conseguenze negative del lockdown per tutto l'indotto economico del territorio, particolarmente rivolto al settore manifatturiero e tessile, al turismo ed all'enogastronomia;</an:p>
+				<an:p>            è indubbio, pertanto, l'importanza per i citati comuni di accedere a fondi, contributi o qualunque programma di finanziamento straordinario;</an:p>
+				<an:p>
+					            l'articolo 112
+					<an:i>-bis</an:i>
+					, introdotto nel corso dell'esame in Commissione anche con il contributo del gruppo Lega Salvini Premier, ha istituito un fondo per i Comuni;
+				</an:p>
+				<an:p>            particolarmente danneggiati dall'emergenza sanitaria da COVID-191 demandando ad un successivo decreto del ministero dell'interno la ripartizione delle risorse,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a tener conto, in sede di emanazione del decreto di riparto delle risorse, della peculiarità dei comuni citati in premessa e, più in generale, di tutti i comuni della provincia di Mantova particolarmente danneggiati dall'emergenza epidemiologica da COVID-19.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

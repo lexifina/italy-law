@@ -1,0 +1,167 @@
+-------------
+
+AGGIORNAMENTO (20)
+
+Il D.Lgs. 19 febbraio 2014, n. 14 ha disposto (con l'art. 14, comma 3) che la modifica alla presente Tabella acquista efficacia "decorsi trenta giorni dalla data di entrata in vigore del presente decreto".
+
+-------------
+
+AGGIORNAMENTO (27)
+
+Il Decreto 29 maggio 2017 (in G.U. 01/06/2017, n. 126) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata ai sensi di quanto disposto dall'art. 1 del Decreto stesso, il cui testo si riporta di seguito: "Gli uffici del Giudice di pace di Lungro, di Nicotera e di Ortona sono esclusi dall'elenco delle sedi ripristinate con oneri a carico degli enti locali, ai sensi dell'art. 3 del decreto legislativo 7 settembre 2012, n. 156, come modificato dall'art. 2, comma 1-bis, del decreto-legge 31 dicembre 2014, n. 192, convertito, con modificazioni, dalla legge 27 febbraio 2015, n. 11".
+
+-------------
+
+AGGIORNAMENTO (28)
+
+Il Decreto 19 maggio 2017 (in G.U. 23/06/2017, n. 144) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata ai sensi di quanto disposto dall'art. 1 del Decreto stesso, il cui testo si riporta di seguito: " 1. L'ufficio del Giudice di pace di Noci cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'ufficio del Giudice di pace di Putignano, la cui circoscrizione territoriale e' determinata come segue:
+
+ufficio del Giudice di pace di Putignano: Alberobello, Castellana Grotte, Locorotondo, Noci, Putignano, Turi".
+
+-------------
+
+AGGIORNAMENTO (30)
+
+Il Decreto 29 settembre 2017 (in G.U. 02/10/2017, n. 230) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata ai sensi di quanto disposto dall'art. 1 del Decreto stesso, il cui testo si riporta di seguito: "L'ufficio del giudice di pace di Osimo e' escluso dall'elenco delle sedi ripristinate con oneri a carico degli enti locali, ai sensi dell'art. 3 del decreto legislativo 7 settembre 2012, n. 156, come modificato dall'art. 2, comma 1-bis, del decreto-legge 31 dicembre 2014, n. 192, convertito, con modificazioni, con legge 27 febbraio 2015, n. 11".
+
+-------------
+
+AGGIORNAMENTO (31)
+
+Il Decreto 9 ottobre 2017 (in G.U. 06/11/2017, n. 259) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata ai sensi di quanto disposto dall'art. 1 del Decreto stesso, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Marsico Nuovo cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Potenza".
+
+-----------
+
+AGGIORNAMENTO (32)
+
+Il Decreto 22 dicembre 2017 (in G.U. 15/01/2018, n. 11) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del Giudice di pace di Casalbordino cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del Giudice di pace di Vasto".
+
+--------------
+
+AGGIORNAMENTO (33)
+
+La L. 29 dicembre 2017, n. 222 ha disposto (con l'art. 1, comma 3) che "Le disposizioni di cui al comma 1 non determinano effetti sulla competenza per territorio per i procedimenti civili e penali pendenti alla data di entrata in vigore della presente legge. I procedimenti penali si considerano pendenti dal momento in cui la notizia di reato e' acquisita o e' pervenuta agli uffici del pubblico ministero".
+
+Ha inoltre disposto (con l'art. 1, comma 4) che "I procedimenti civili e penali pendenti alla data di entrata in vigore della presente legge innanzi al giudice di pace di Citta' della Pieve sono attribuiti alla competenza del giudice di pace di Citta' della Pieve, Paciano e Piegaro".
+
+--------------
+
+AGGIORNAMENTO (35)
+
+Il Decreto 27 febbraio 2018 (in G.U. 21/03/2018, n. 67) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata ai sensi di quanto disposto dall'art. 1 del Decreto stesso, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Vizzini cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Caltagirone".
+
+--------------
+
+AGGIORNAMENTO (36)
+
+Il Decreto 4 maggio 2018 (in G.U. 29/05/2018, n. 123) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito:"1. L'ufficio del Giudice di pace di Maglie cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'ufficio del Giudice di pace di Lecce".
+
+--------------
+
+AGGIORNAMENTO (37)
+
+Il Decreto 10 maggio 2018 (in G.U. 12/06/2018, n. 134) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata secondo quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "A decorrere dalla data di entrata in vigore del presente decreto, il territorio del Comune di Marsciano, attualmente incluso nella circoscrizione dell'ufficio del giudice di pace di Spoleto, e' accorpato al territorio limitrofo della circoscrizione giudiziaria dell'ufficio del Giudice di pace di Todi".
+
+--------------
+
+AGGIORNAMENTO (38)
+
+Il Decreto 18 luglio 2019 (in G.U. 21/08/2019, n. 195) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Menfi cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Sciacca".
+
+--------------
+
+AGGIORNAMENTO (39)
+
+Il Decreto 18 luglio 2019 (in G.U. 21/08/2019, n. 195) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Porto Torres cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Sassari".
+
+--------------
+
+AGGIORNAMENTO (40)
+
+Il Decreto 18 luglio 2019 (in G.U. 21/08/2019, n. 195) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Manduria cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Taranto".
+
+--------------
+
+AGGIORNAMENTO (41)
+
+Il Decreto 19 novembre 2019 (in G.U. 22/02/2020, n. 44) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Cetraro cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Paola".
+
+--------------
+
+AGGIORNAMENTO (42)
+
+Il Decreto 2 marzo 2020 (in G.U. 06/05/2020, n. 115) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'ufficio del giudice di pace di Ramacca cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'ufficio del giudice di pace di Caltagirone".
+
+--------------
+
+AGGIORNAMENTO (43)
+
+Il Decreto 2 dicembre 2020 (in G.U. 18/01/2021, n. 13) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Gemona del Friuli cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Udine".
+
+--------------
+
+AGGIORNAMENTO (44)
+
+Il Decreto 21 dicembre 2020 (in G.U. 04/02/2021, n. 29) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Licata cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Agrigento".
+
+--------------
+
+AGGIORNAMENTO (45)
+
+Il Decreto 3 febbraio 2021 (in G.U. 30/03/2021, n. 77) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di San Sosti cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Castrovillari".
+
+--------------
+
+AGGIORNAMENTO (48)
+
+Il Decreto 1 dicembre 2021 (in G.U. 11/01/2022, n. 7) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Tortorici cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Patti".
+
+--------------
+
+AGGIORNAMENTO (49)
+
+Il Decreto 3 marzo 2022 (in G.U. 30/03/2022, n. 75) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "1. L'Ufficio del giudice di pace di Campana cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+2. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Castrovillari".
+
+--------------
+
+AGGIORNAMENTO (50)
+
+Il Decreto 6 dicembre 2022 (in G.U. 23/01/2023, n. 18) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "L'Ufficio del giudice di pace di Calvello cessa di funzionare alla data di entrata in vigore del presente decreto.
+
+Alla medesima data le relative competenze sono attribuite all'ufficio del giudice di pace di Potenza".
+
+---------------
+
+AGGIORNAMENTO (51)
+
+Il Decreto 16 luglio 2024 (in G.U. 30/08/2024, n. 203) ha disposto (con l'art. 2, comma 1) che la presente tabella e' modificata nel senso e nei limiti di quanto previsto dall'art. 1 del Decreto medesimo, il cui testo si riporta di seguito: "L'Ufficio del giudice di pace di Partinico cessa di funzionare alla data di entrata in vigore del presente decreto. Alla medesima data le relative competenze sono attribuite all'Ufficio del giudice di pace di Palermo".

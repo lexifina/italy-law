@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/896/A/G1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/896/A/G1.100"/>
+					<an:FRBRdate date="2013-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/896/A/G1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@"/>
+					<an:FRBRdate date="2013-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@.akn"/>
+					<an:FRBRdate date="2013-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-07-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-07-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/896/A/G1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/896" showAs="DDL 896"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/29107" showAs="Ginetti"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/1376" showAs="Lumia"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/21593" showAs="Capacchione"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/18499" showAs="Cirinna'"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/29097" showAs="Filippin"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/29119" showAs="Lo Giudice"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/1426" showAs="Manconi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 896</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.100 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Ginetti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Lumia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Capacchione</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Cirinna'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Filippin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Lo Giudice</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Manconi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che</an:p>
+				<an:p align="justify">            il provvedimento in esame è stato adottato per dare una prima soluzione al sovraffollamento penitenziario, un fenomeno che comporta costi molto elevati sotto il profilo umano e sociale, causati dalla lesione dei diritti fondamentali di un gran numero di persone detenute;</an:p>
+				<an:p align="justify">            si vuole favorire l'adozione di efficaci misure di riduzione dei casi di detenzione negli istituti di pena, esclusivamente per le persone di non elevata pericolosità, ferma restando la necessità della detenzione in carcere dei condannati a pena definitiva che abbiano commesso reati di particolare allarme sociale;</an:p>
+				<an:p align="justify">            il decreto legge in oggetto, entrato in vigore il 3 luglio 2013, ha introdotto misure dirette ad incidere sui flussi carcerari in particolare agendo sugli ingressi in carcere ed ha, inoltre, ampliato l'accesso alle misure alternative al carcere per i detenuti meno pericolosi;</an:p>
+				<an:p align="justify">            permangono nel nostro ordinamento numerosi automatismi che, così come applicati, impediscono a numerosi detenuti di accedere alle misure alternative della pena ed ai benefici penitenziari, precludendo una valutazione della reale pericolosità sociale del detenuto e un trattamento individualizzato nella fase dell'esecuzione della pena,</an:p>
+				<an:p align="justify">        impegna il Governo a valutare tutti gli automatismi procedurali che incidono negativamente sulla reale concretizzazione della funzione rieducativa della pena ex articolo 27 della Costituzione.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

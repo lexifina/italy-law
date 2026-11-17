@@ -1,5 +1,0 @@
-Art. 12-ter.
-
-(( (Verifiche antimafia). ))
-
-((1. Al fine di potenziare e semplificare il sistema delle verifiche antimafia e di eseguire con efficacia e celerita' gli interventi di sostegno alle imprese danneggiate dagli eventi alluvionali verificatisi a far data dal 1° maggio 2023, aventi la sede legale o la sede operativa nei territori indicati nell'allegato 1 annesso al presente decreto, fino al 31 dicembre 2023 ricorre sempre il caso d'urgenza e si procede ai sensi dell'articolo 92, comma 3, del codice delle leggi antimafia e delle misure di prevenzione, di cui al decreto legislativo 6 settembre 2011, n. 159, nei procedimenti avviati su istanza di parte, che hanno ad oggetto l'erogazione di contributi, sovvenzioni, finanziamenti, prestiti, agevolazioni, pagamenti o benefici economici comunque denominati da parte di pubbliche amministrazioni in favore delle medesime imprese, qualora il rilascio della documentazione non sia immediatamente conseguente alla consultazione della banca dati di cui all'articolo 96 del citato codice di cui al decreto legislativo n. 159 del 2011))

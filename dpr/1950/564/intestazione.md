@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-10 marzo 1950
-
-564
-
-Esecuzione degli scambi di Note fra l'Italia e gli Stati Uniti d'America circa gli investimenti americani con garanzia E. C. A. effettuati a Roma il 9-17 giugno 1949.

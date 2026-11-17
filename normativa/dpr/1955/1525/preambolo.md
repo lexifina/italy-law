@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Vista la legge 25 giugno 1909, n. 422, ed il regolamento approvato con regio decreto 12 febbraio 1911, n. 278, emanata in esecuzione di essa;
+
+Visto il decreto del Presidente della Repubblica 23 agosto 1949, n. 759, con il quale fu costituito il Consorzio napoletano cooperative lavoro, con sede in Napoli; e ne fu approvato il relativo statuto;
+
+Vista la deliberazione dell'assemblea straordinaria dei delegati dell'ente suddetto, in data 21 aprile 1955, relativa, alla proroga della durata del Consorzio e del trasferimento della sede sociale da via Enrico Pessina n. 15, e via Cavallerizza a Chiaia n. 14;
+
+Vista l'istanza 20 maggio 1955, con il quale il presidente del Consorzio in parola chiede l'approvazione delle modificazioni suddette;
+
+Udito, in via d'urgenza, il Comitato costituito in seno alla Commissione centrale per le cooperative, ai sensi dell'art. 19, lettera b) del decreto legislativo del Capo provvisorio dello Stato 14 dicembre 1947, numero 1577;
+
+Ritenuto che il cambio del recapito sociale non costituisce trasferimento di sede;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per i lavori pubblici; Decreta:

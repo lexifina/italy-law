@@ -1,9 +1,0 @@
-Allegato IV
-
-(articolo 3 - comma 1)
-
-FORMULARI PER APPALTI DI SERVIZI DI PROGETTAZIONE,
-
-INCLUSI QUELLI NEI SETTORI SPECIALI
-
-Parte di provvedimento in formato grafico

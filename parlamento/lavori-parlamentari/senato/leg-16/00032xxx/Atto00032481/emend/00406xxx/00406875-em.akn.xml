@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/10/A/01.36/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/10/A/01.36"/>
+					<an:FRBRdate date="2009-03-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/10/A/01.36/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="01.36"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@"/>
+					<an:FRBRdate date="2009-03-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@.akn"/>
+					<an:FRBRdate date="2009-03-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-03-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-03-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/10/A/01.36/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Congiunzione/16/10" showAs="Congiunzione 10"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/321" showAs="Bonino"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Congiunzione 10</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 01.36</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bonino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Prima dell'
+					<an:b>articolo 1</an:b>
+					, inserire il seguente:
+				</an:p>
+				<an:p align="center">«Art. 01.</an:p>
+				<an:p align="justify">        1. Le dichiarazioni o indicazioni dell'interessato concernenti i trattamenti cui il paziente viene sottoposto nel caso si trovi in uno stato di incoscienza persistente, sia che si tratti di dichiarazioni espresse, sono ritenute efficaci quando espresse con le modalità previste dalla presente legge.</an:p>
+				<an:p align="justify">        2. In particolare, sono efficaci e vincolanti per il medico o per la struttura sanitaria, anche quando la vita o la salute del paziente possano essere compromesse, le dichiarazioni espresse e specifiche rese per iscritto al medico o a un prossimo congiunto, in cui il paziente:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 chiede l'applicazione delle cure palliative, soprattutto sotto il profilo della terapia del dolore, per rendere più umana la fase terminale della vita;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 specifica se desidera affrontare la degenza in strutture sanitarie oppure presso la propria abitazione, ove sussistano le condizioni adeguate;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>c)</an:i>
+					 dà indicazioni sull'eventuale assistenza religiosa che desidera ricevere;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>d)</an:i>
+					 dispone in merito alle donazioni di organi e tessuti per trapianto e a fini di attività di ricerca e di didattica.
+				</an:p>
+				<an:p align="justify">        3. Le dichiarazioni relative a scelte terapeutiche e diagnostiche che possono configurare situazioni di accanimento terapeutico hanno rilevanza solo informativa e sono suscettibili di valutazione da parte del medico.</an:p>
+				<an:p align="justify">        4. Le dichiarazioni dirette alla non instaurazione o alla interruzione di terapie salvavita o di interruzione delle pratiche di sostegno vitale.</an:p>
+				<an:p align="justify">        5. In ogni caso il medico conserva il diritto di adottare le proprie determinazioni in scienza e coscienza, nel rispetto della buona pratica medica e della deontologia medica e quello di rifiutare prestazioni che contrastino con esse; in questo caso comunica la propria decisione alle strutture sanitarie responsabili».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

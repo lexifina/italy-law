@@ -1,5 +1,0 @@
-(( ALLEGATO V (articolo 54) ))
-
-((MEZZI DI SALVATAGGIO E DOTAZIONI DI SICUREZZA MINIME DA TENERE A BORDO DI IMBARCAZIONI E NATANTI DA DIPORTO IN RELAZIONE ALLA DISTANZA DALLA COSTA O DALLA RIVA PER SPECIE DI NAVIGAZIONE E LORO EQUIVALENZE (la "x" indica l'obbligatorieta', il numero tra parentesi le quantita').))
-
-((Parte di provvedimento in formato grafico))

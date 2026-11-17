@@ -1,0 +1,13 @@
+- (Art. 1.)
+
+- Titolo II ORDINAMENTO (Art. 5.)
+
+- Titolo III ORGANIZZAZIONE INTERNA DELL'ISTITUTO (Art. 14.)
+
+- Titolo IV GESTIONE FINANZIARIA (Art. 15.)
+
+- Titolo V TRATTAMENTO DEL PERSONALE (Art. 16.)
+
+- Titolo VI NORME TRANSITORIE (Art. 17.)
+
+- Titolo VII NORME FINALI (Art. 24.)

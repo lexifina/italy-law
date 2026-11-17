@@ -1,0 +1,3 @@
+Allegato XII
+
+Parte di provvedimento in formato grafico

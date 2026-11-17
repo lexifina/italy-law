@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2"/>
+					<an:FRBRdate date="2010-05-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@"/>
+					<an:FRBRdate date="2010-05-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@.akn"/>
+					<an:FRBRdate date="2010-05-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-05-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-05-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/7, 52, 146, 727, 728, 743/C/12.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Emendamento/16/7, 52, 146, 727, 728, 743" showAs="Emendamento 7, 52, 146, 727, 728, 743"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Igiene e sanita'" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22864" showAs="Belisario"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22722" showAs="Caforio"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/4414" showAs="Di Nardo"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25240" showAs="Mascitelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Emendamento 7, 52, 146, 727, 728, 743</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Belisario</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Caforio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Di Nardo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Mascitelli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Il comma 5, è sostituito dal seguente:</an:i>
+				</an:p>
+				<an:p>        «5. I farmaci necessari per la conduzione di protocolli clinici non sperimentali prescritti dai presidi della rete nazionale delle malattie rare previsti dal decreto del Ministro della sanità 18 maggio 2001, n. 279, sono erogati:</an:p>
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 dai presìdi sanitari, nel caso di somministrazione ambulatoriale del farmaco;
+				</an:p>
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 dalle Aziende sanitarie locali (ASL) di appartenenza del paziente, anche qualora la malattia rara sia stata diagnosticata in una regione diversa da quella di residenza, nel caso di farmaci necessari al trattamento dei pazienti inseriti nei programmi di assistenza domiciliare e nel caso di farmaci di fascia H, non registrati in Italia o compresi nell'elenco dell'Agenzia italiana del farmaco (AIFA) per le terapie domiciliari;
+				</an:p>
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 dalle farmacie o dalle ASL di appartenenza del paziente, nel caso dei farmaci di classe A, C e dei farmaci inseriti nell'elenco di cui all'articolo 1, comma 4, del decreto-legge 21 ottobre 1996, n. 536, convertito dalla legge 23 dicembre 1996, n. 648, e dei farmaci registrati all'estero o inseriti in protocolli clinici di sperimentazione di cui sia documentata l'esigenza terapeutica per specifiche patologie rare.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

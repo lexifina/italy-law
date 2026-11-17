@@ -1,5 +1,0 @@
-ALLEGATO 1
-
-MODELLO DI CONVENZIONE DI ARRUOLAMENTO PER ARRUOLAMENTO A VIAGGIO
-
-Parte di provvedimento in formato grafico

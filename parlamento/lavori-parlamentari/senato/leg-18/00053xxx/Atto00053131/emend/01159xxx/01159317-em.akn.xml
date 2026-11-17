@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.86/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.86"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.86/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.86"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/G1.86/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJCBJWH52IJ3DWJXNY5YPWSHWDSQSBKUQA2SFMGHKJSLSBLGDZQJ" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDIJLO5DHHW35SD53PKMDLG1A0ELOCLH5LVISOCQMNE2HX34WJXKKG" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDG3APHW10B13IDU4RD332XYIBLMS1S1H00SRHPHK2KGXP14FXVCSM" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDHKF15J5P2DZNK3RCH3VEOXDDSNKBT3SAS3BRKJGOMYXHO5M5LYSO" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDD10C1ETFHEKHJKD5AHPW2GSZRNPEDV0QXMHVYCPN5SMO52NLU4FE" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.86</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJCBJWH52IJ3DWJXNY5YPWSHWDSQSBKUQA2SFMGHKJSLSBLGDZQJ" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIJLO5DHHW35SD53PKMDLG1A0ELOCLH5LVISOCQMNE2HX34WJXKKG" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG3APHW10B13IDU4RD332XYIBLMS1S1H00SRHPHK2KGXP14FXVCSM" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHKF15J5P2DZNK3RCH3VEOXDDSNKBT3SAS3BRKJGOMYXHO5M5LYSO" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD10C1ETFHEKHJKD5AHPW2GSZRNPEDV0QXMHVYCPN5SMO52NLU4FE" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge di conversione del decreto-legge 19 maggio 2020, n. 34, recante misure urgenti in materia di salute, sostegno al lavoro e all'economia, nonché di politiche sociali connesse all'emergenza epidemiologica da COVID-19, Atto Senato 1874,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            già in sede di prima lettura del provvedimento il Governo ha accolto con parere favorevole l'ordine del giorno n. 9/2500-AR/333;</an:p>
+				<an:p>            l'articolo 195 istituisce un contributo straordinario per i servizi informativi connessi al la diffusione del contagio da COVID-19 a beneficio delle emittenti radiotelevisive locali per l'anno 2020 tralasciando incredibilmente le radio nazionali comunitarie;</an:p>
+				<an:p>            le radio non hanno mai chiuso durante l'emergenza, continuando a trasmettere musica/ informazione, aggiornamenti, intrattenimento;</an:p>
+				<an:p>            le misure di sostegno adottate nei mesi dell'emergenza sanitaria con i vari decreti, e in ultimo con il «Decreto Rilancio», a favore del settore radiofonico, sono sostanzialmente fruibili solo dai soggetti che hanno forma giuridica di società di capitali. Sono perciò rimaste escluse le emittenti radiofoniche che non hanno tale natura giuridica, ma sono comunque soggetti economici che investono risorse proprie e impegnano capitali e forza lavoro, e che sono in condizione di debolezza strutturale rispetto agli altri player del mercato in relazione sia alla propria soggettività giuridica (associazione, fondazione, cooperativa non lucrativa) sia ai limiti normativi alla raccolta di risorse pubblicitarie;</an:p>
+				<an:p>            come noto le radio comunitarie nazionali sono nate per fini sociali e per tale ragione beneficiavano di misure di favore sotto forma di contributi finanziari da parte dello Stato e della possibilità di attivare nuovi impianti radiofonici su frequenze libere;</an:p>
+				<an:p>            a fronte di tali benefici, alle emittenti radiofoniche comunitarie nazionali sono imposti dei vincoli tra i quali la forma giuridica di associazioni o fondazioni;</an:p>
+				<an:p>            il cambiamento della natura della concessione non comporta alcun aggravio di spesa a carico dell'Erario, anzi tale modifica provocherà un incremento di gettito dal momento che il canone di concessione versato dalle emittenti radiofoniche è calcolato sul fatturato,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad accelerare il seguito dell'impegno già assunto, di cui in premessa.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

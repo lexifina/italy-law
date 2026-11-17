@@ -1,7 +1,0 @@
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 23
-
-DICEMBRE 1993, N. 532.
-
-All'articolo 1, al comma 1, dopo le parole: "adottata in data 20 maggio 1992,", sono inserite le seguenti: "nonche' nei confronti delle associazioni che svolgono attivita' commerciale,"; e le parole:
-
-"nonche' l'imposta sul valore aggiunto" sono sostituite dalle seguenti: "l'imposta sul valore aggiunto e quelle dovute in qualita' di sostituto d'imposta".

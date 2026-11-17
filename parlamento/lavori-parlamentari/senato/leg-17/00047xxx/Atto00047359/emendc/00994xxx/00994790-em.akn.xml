@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/35.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/35.2"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/35.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="35.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@.akn"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/35.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVEZEXYP4UJ3EMOFK43KZMKQZUPAYWCFHRTORIBIILRLUZI2GJFUE" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDAQZTNEUJBDN0RDKKIBXR5PYOTFGESZ12LOY1OOMBVNKUY0QMRG" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDKH3RNEDVXIYEGUZAGEV3A0YSHTJJJDUDXVKVOLDJDKBMKV1HTPB" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="ID2O1G2ORD5KMCFX5OKAIFXLTW3CBL3LHM2F2LC5KK4XCT5SMSZFAI" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 35.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVEZEXYP4UJ3EMOFK43KZMKQZUPAYWCFHRTORIBIILRLUZI2GJFUE" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQZTNEUJBDN0RDKKIBXR5PYOTFGESZ12LOY1OOMBVNKUY0QMRG" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKH3RNEDVXIYEGUZAGEV3A0YSHTJJJDUDXVKVOLDJDKBMKV1HTPB" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2O1G2ORD5KMCFX5OKAIFXLTW3CBL3LHM2F2LC5KK4XCT5SMSZFAI" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, sostituire le parole:</an:i>
+					 «presso le casse edili delle Province di Rieti, Ascoli Piceno, Macerata, Fermo, Perugia, l'Aquila e Teramo riconosciute dal Ministero del lavoro e delle politiche sociali» 
+					<an:i>con le seguenti:</an:i>
+					 «presso le Casse edili/Edilcasse provinciali o regionali riconosciute dal Ministero del lavoro e delle politiche sociali e regolarmente operanti nelle Province di Rieti, Ascoli Piceno, Fermo, Macerata, Perugia, l'Aquila e Teramo».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,13 @@
+Allegato V
+
+(di cui all'articolo 21, comma 1)
+
+MARCATURA CE
+
+1. La marcatura CE e' costituita dalle iniziali «CE» nella forma seguente:
+
+Parte di provvedimento in formato grafico
+
+2. In caso di riduzione o di allargamento della marcatura CE, devono essere rispettate le proporzioni indicate nel disegno di cui al comma 1.
+
+3. La marcatura CE ha un'altezza minima di 5 mm..

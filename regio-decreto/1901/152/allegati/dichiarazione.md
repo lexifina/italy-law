@@ -1,3 +1,0 @@
-DICHIARAZIONE relativa allo scambio degli atti di stato civile.
-
-Parte di provvedimento in formato grafico

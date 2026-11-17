@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1836/C/1.40/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1836/C/1.40"/>
+					<an:FRBRdate date="2016-10-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1836/C/1.40/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.40"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@"/>
+					<an:FRBRdate date="2016-10-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@.akn"/>
+					<an:FRBRdate date="2016-10-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-10-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-10-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1836/C/1.40/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1836" showAs="DDL 1836"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="10ª Commissione permanente" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1MC0OI13TU3GIZABS1MQL0AOFDEIX0L21JKZ2QOOQKZ25OKHOV5N" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDLV15L2UQBDT5IECVDY00XOCD5POVAKMKLM2FVLK0JMU44DRCCGUB" href="http://dati.senato.it/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDJOWF5ZXTAFHYLGDR0TXHBMV3HBCO1QOQRK1I4WUPFURUIK0GAZF" href="http://dati.senato.it/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="ID5NG4HR3ECRBJDDN5CE3QNQMAHPAOJOYSCY5R0FKI5RVVWQ1AY41H" href="http://dati.senato.it/29160" showAs="PETRAGLIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1836</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.40</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1MC0OI13TU3GIZABS1MQL0AOFDEIX0L21JKZ2QOOQKZ25OKHOV5N" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLV15L2UQBDT5IECVDY00XOCD5POVAKMKLM2FVLK0JMU44DRCCGUB" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJOWF5ZXTAFHYLGDR0TXHBMV3HBCO1QOQRK1I4WUPFURUIK0GAZF" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5NG4HR3ECRBJDDN5CE3QNQMAHPAOJOYSCY5R0FKI5RVVWQ1AY41H" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis</an:i>
+					. Al fine di disporre di un quadro completo e omogeneo sul territorio nazionale degli elementi conoscitivi necessari alla programmazione delle azioni di promozione e finanziamento del recupero e della riqualificazione delle aree industriali dismesse, le Regioni entro sei mesi dall'entrata in vigore della presente legge predispongono una banca dati geografica relativa alle aree dismesse. Con decreto del Ministero dello sviluppo economico, previa intesa con la Conferenza Unificata di cui all'articolo 8 del decreto legislativo del 28 agosto 1997, n. 281, è adottato lo schema di rilevamento e sono disciplinate le modalità di trasmissione pubblicazione dei dati in modalità 
+					<an:i>Open Data</an:i>
+					, che comprenderanno anche le informazioni annuali relative alla ripartizione del Fondo».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

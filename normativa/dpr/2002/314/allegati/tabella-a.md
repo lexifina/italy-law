@@ -1,0 +1,3 @@
+Tabella A
+
+((TABELLA ABROGATA DAL D.P.R. 21 MARZO 2005, N. 85))

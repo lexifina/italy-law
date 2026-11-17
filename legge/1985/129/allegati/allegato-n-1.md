@@ -1,5 +1,0 @@
-ALLEGATO N. 1
-
-FACSIMILE DI LASCIAPASSARE
-
-Parte di provvedimento in formato grafico

@@ -1,3 +1,0 @@
-Accordo tra Francia, Regno Unito di Gran Bretagna e d'irlanda nel Nord, Stati Uniti d'America e Italia relativo ai brevetti tedeschi.
-
-Parte di provvedimento in formato grafico

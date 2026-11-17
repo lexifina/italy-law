@@ -1,5 +1,0 @@
-Protocollo sui privilegi e le immunita' dell'Organizzazione Europea di Ricerche Spaziali (E.S.R.O.). (Parigi, 31 ottobre 1963).
-
-PROTOCOLE SUR LES PRIVILEGES ET LES IMMUNITES DE L'ORGANISATION EUROPEENNE DE RECHERCHES SPATIALES
-
-Parte di provvedimento in formato grafico

@@ -1,7 +1,0 @@
-Art. 384-ter.
-
-(( (Circostanze speciali). ))
-
-((Se i fatti di cui agli articoli 371-bis, 371-ter, 372, 374 e 378 sono commessi al fine di impedire, ostacolare o sviare un'indagine o un processo penale in relazione ai delitti di cui agli articoli 270, 270-bis, 276, 280, 280-bis, 283, 284, 285, 289-bis, 304, 305, 306, 416-bis, 416-ter e 422 o ai reati previsti dall'articolo 2 della legge 25 gennaio 1982, n. 17, ovvero ai reati concernenti il traffico illegale di armi o di materiale nucleare, chimico o biologico e comunque in relazione ai reati di cui all'articolo 51, comma 3-bis, del codice di procedura penale, la pena e' aumentata dalla meta' a due terzi e non opera la sospensione del procedimento di cui agli articoli 371-bis e 371-ter.
-
-La pena e' diminuita dalla meta' a due terzi nei confronti di colui che si adopera per ripristinare lo stato originario dei luoghi, delle cose, delle persone o delle prove, nonche' per evitare che l'attivita' delittuosa venga portata a conseguenze ulteriori, ovvero aiuta concretamente l'autorita' di polizia o l'autorita' giudiziaria nella ricostruzione del fatto oggetto di inquinamento processuale e depistaggio e nell'individuazione degli autori)).

@@ -1,0 +1,5 @@
+ALLEGATO A
+
+Art. 3 - CRITERI GENERALI DI PROGETTAZIONE
+
+Parte di provvedimento in formato grafico

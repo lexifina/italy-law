@@ -1,0 +1,17 @@
+Art. 11-bis.
+
+(Misure per il sostegno del settore suinicolo (( e del settore faunistico-venatorio e agrituristico-venatorio)) ).
+
+1.
+
+Nello stato di previsione del Ministero delle politiche agricole alimentari, forestali e del turismo e' istituito il Fondo nazionale per la suinicoltura, con una dotazione di 1 milione di euro per l'anno 2019, di 4 milioni di euro per l'anno 2020 e di 10 milioni di euro per l'anno 2021, le cui risorse sono destinate a interventi volti a fare fronte alla perdita di reddito degli allevatori di suini, a garantire la massima trasparenza nella determinazione dei prezzi indicativi da parte delle commissioni uniche nazionali del settore suinicolo, a rafforzare i rapporti di filiera nel medesimo settore, a potenziare le attivita' di informazione e di promozione dei prodotti suinicoli presso i consumatori, a migliorare la qualita' dei medesimi prodotti e il benessere animale nei relativi allevamenti, nonche' a promuovere l'innovazione, a contribuire a fondo perduto alla realizzazione di progetti o investimenti finalizzati a migliorare la misurabilita' e l'incremento delle condizioni di sostenibilita' nelle aziende zootecniche, di produzione di carne e di trasformazione di carne, anche attraverso il sostegno dei contratti di filiera e delle organizzazioni interprofessionali nel predetto settore. Entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto del Ministro delle politiche agricole alimentari, forestali e del turismo, di concerto con il Ministro dell'economia e delle finanze, previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le Province autonome di Trento e di Bolzano, sono definiti i criteri e le modalita' di utilizzazione delle risorse del Fondo, nell'ambito di un apposito piano di interventi.
+
+((1-bis. Le risorse del Fondo nazionale per la suinicoltura, nella misura di 400.000 euro per l'anno 2023, sono altresi' destinate a interventi di sostegno e tutela delle aziende faunistico-venatorie e agrituristico-venatorie situate nei comuni interessati dai danni verificatisi nell'anno 2022 a seguito della comparsa della peste suina africana. Entro trenta giorni dalla data di entrata in vigore della presente disposizione, con decreto del Ministro dell'agricoltura, della sovranita' alimentare e delle foreste sono definiti i criteri e le modalita' di attribuzione delle risorse di cui al primo periodo))
+
+2.
+
+Agli oneri derivanti dal presente articolo, pari a 1 milione di euro per l'anno 2019 e a 4 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2019-2021, nell'ambito del programma "Fondi di riserva e speciali" della missione "Fondi da ripartire" dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2019, allo scopo parzialmente utilizzando l'accantonamento relativo al Ministero delle politiche agricole alimentari, forestali e del turismo.
+
+3.
+
+Gli interventi finanziati con le risorse del Fondo di cui al comma 1 devono soddisfare le disposizioni stabilite dai regolamenti (UE) n. 1407/2013 e n. 1408/2013 della Commissione, del 18 dicembre 2013, relativi all'applicazione degli articoli 107 e 108 del Trattato sul funzionamento dell'Unione europea rispettivamente agli aiuti de minimis e agli aiuti de minimis nel settore agricolo.

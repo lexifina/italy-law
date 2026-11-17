@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+23 ottobre 1969
+
+923
+
+Modificazioni allo statuto dell'Universita' degli studi di Genova.

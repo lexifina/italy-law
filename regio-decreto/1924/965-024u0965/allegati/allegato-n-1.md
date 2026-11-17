@@ -1,5 +1,0 @@
-Allegato N. 1. (Art. 87)
-
-Numero dei bidelli da adibire nei singoli istituti in proporzione della popolazione scolastica
-
-Parte di provvedimento in formato grafico

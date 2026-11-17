@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/22.39/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/22.39"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/22.39/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.39"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@.akn"/>
+					<an:FRBRdate date="2015-11-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-11-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-11-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111/C/22.39/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111" showAs="DDL 2111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAKOWQ" href="http://dati.senato.it/senatore/29163" showAs="PICCOLI"/>
+				<an:TLCPerson id="IDAUNWQ" href="http://dati.senato.it/senatore/22899" showAs="CERONI"/>
+				<an:TLCPerson id="IDANMWQ" href="http://dati.senato.it/senatore/29128" showAs="MARIN"/>
+				<an:TLCPerson id="IDAQOWQ" href="http://dati.senato.it/senatore/31009" showAs="BERTACCO"/>
+				<an:TLCPerson id="IDAFMWQ" href="http://dati.senato.it/senatore/31010" showAs="AMIDEI"/>
+				<an:TLCPerson id="IDA2LWQ" href="http://dati.senato.it/senatore/25491" showAs="GIBIINO"/>
+				<an:TLCPerson id="IDATOWQ" href="http://dati.senato.it/senatore/25398" showAs="SCILIPOTI ISGRO'"/>
+				<an:TLCPerson id="IDAXNWQ" href="http://dati.senato.it/senatore/29209" showAs="FLORIS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.39</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKOWQ" as="#tipoSenatore">PICCOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUNWQ" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANMWQ" as="#tipoSenatore">MARIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQOWQ" as="#tipoSenatore">BERTACCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFMWQ" as="#tipoSenatore">AMIDEI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2LWQ" as="#tipoSenatore">GIBIINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATOWQ" as="#tipoSenatore">SCILIPOTI ISGRO'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXNWQ" as="#tipoSenatore">FLORIS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 6, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «6-
+					<an:i>bis.</an:i>
+					 Dopo il comma 3 della legge 16 marzo 2001, n. 72 è aggiunto il seguente:
+				</an:p>
+				<an:p>
+					        "3-
+					<an:i>bis.</an:i>
+					 Con la finalità di informatizzare i documenti cartacei in possesso delle associazioni degli esuli e renderli fruibili al pubblico, concedere assgni e borse di studio a opere dell'ingegno di carattere creativo riguardanti il patrimonio storico e culturale delle comunità degli esuli italiani dall'lstria, da Fiume dalla Dalmazia, nonché per favorire la loro valorizzazione e divulgazione, per il periodo 2016, 2017 e 2018 è autorizzata la spesa di 350 mila euro per ciascun anno, da iscrivere in apposito capitolo dello stato di previsione del Ministero degli affari steri. Lo stanziamento è utilizzato mediante apposita convenzione da stipulare secondo le modalità del comma 4"».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente ridurre proporzionalmente del 5 per cento in maniera lineare tutti gli stanziamenti di parte corrente dell'allegata</an:i>
+					 Tabella C.
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

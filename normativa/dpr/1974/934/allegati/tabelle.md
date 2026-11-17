@@ -1,0 +1,11 @@
+TABELLA A
+
+Parte di provvedimento in formato grafico
+
+TABELLA B
+
+Parte di provvedimento in formato grafico
+
+TABELLA C
+
+Parte di provvedimento in formato grafico

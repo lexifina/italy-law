@@ -1,3 +1,0 @@
-Tratado de Paz, Amistad y Cooperacion entre Italia y Guatemala
-
-Parte di provvedimento in formato grafico

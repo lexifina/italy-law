@@ -1,7 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 87 della Costituzione;
-
-Visto il decreto legislativo 28 novembre 1947, n. 1430;, Sentito il Consiglio dei Ministri;
-
-Sulla proposta del Ministro per i lavori pubblici, di concerto con i Ministri per gli affari esteri, per il tesoro, per l'industria e commercio, per i trasporti e per il commercio con l'estero; Decreta:

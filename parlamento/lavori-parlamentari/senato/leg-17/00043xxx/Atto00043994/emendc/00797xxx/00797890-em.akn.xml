@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1324/C/12.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1324/C/12.1"/>
+					<an:FRBRdate date="2016-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1324/C/12.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@"/>
+					<an:FRBRdate date="2016-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@.akn"/>
+					<an:FRBRdate date="2016-05-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1324/C/12.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1324" showAs="DDL 1324"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAG3RWSCXYQJPCCOU3BIKZ0TONFBQFQ544MOXZ3OU0I40GKZSGOLF" href="http://dati.senato.it/senatore/29101" showAs="FUCKSIA"/>
+				<an:TLCPerson id="IDWVFCKXID13W3CMSQGI1IYOQZYB5OPPAZWQM3DKI3MESGVYPUSRAF" href="http://dati.senato.it/senatore/29181" showAs="SIMEONI"/>
+				<an:TLCPerson id="IDTDIME230ACFCDZ0UPWA4YEQLTF3FZQ0WGO5KLIM2PESBTAHZH22K" href="http://dati.senato.it/senatore/29189" showAs="TAVERNA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1324</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAG3RWSCXYQJPCCOU3BIKZ0TONFBQFQ544MOXZ3OU0I40GKZSGOLF" as="#tipoSenatore">FUCKSIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWVFCKXID13W3CMSQGI1IYOQZYB5OPPAZWQM3DKI3MESGVYPUSRAF" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTDIME230ACFCDZ0UPWA4YEQLTF3FZQ0WGO5KLIM2PESBTAHZH22K" as="#tipoSenatore">TAVERNA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1) inserire il seguente:</an:i>
+					 «1-
+					<an:i>bis</an:i>
+					. l'elenco di cui al precedente comma è trasmesso contestualmente alle autorità sanitarie locali di riferimento territoriale. l'attestazione dell'idoneità degli stabilimenti, ai fini dell'esportazione dei prodotti, tiene conto quindi anche della predetta iscrizione e dei relativi controlli effettuati con opportuni campionamenti e valutazioni merceologiche, al fine di verificare la conformità delle autocertificazioni presentate dalle ditte stesse».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 2 aggiungere in fine le seguenti parole:</an:i>
+					 «, ed i costi per le attività di campionamento e controllo merceologico di cui al precedente comma».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

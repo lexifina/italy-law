@@ -1,7 +1,0 @@
-APPENDICE - C
-
-Parte di provvedimento in formato grafico
-
-Visto, Il Ministro delle poste e delle telecomunicazioni
-
-MACCANICO

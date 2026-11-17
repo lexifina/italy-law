@@ -1,0 +1,11 @@
+Art. 34-bis.
+
+(( (Disposizioni per l'adeguamento dei prezzi negli appalti di lavori per impianti di energia elettrica). ))
+
+((1. All'articolo 27 del decreto-legge 17 maggio 2022, n. 50, convertito, con modificazioni, dalla legge 15 luglio 2022, n. 91, sono apportate le seguenti modificazioni:
+
+a) dopo il comma 2 e' inserito il seguente:
+
+"2-bis. Al fine di fronteggiare gli aumenti eccezionali dei prezzi dei materiali da costruzione nonche' dei carburanti e dei prodotti energetici e in considerazione della necessita' di diversificare le fonti di approvvigionamento ai fini della sicurezza energetica nazionale, anche in attuazione del Piano nazionale integrato per l'energia e il clima 2030 (PNIEC), per i contratti di appalto di lavori, sottoscritti tra il 1° gennaio 2019 ed il 31 dicembre 2021 e funzionali all'esecuzione degli interventi di realizzazione, efficientamento o ripotenziamento di impianti di energia elettrica di potenza superiore a 300 MW termici, autorizzati ai sensi del decreto-legge 7 febbraio 2002, n. 7, convertito, con modificazioni, dalla legge 9 aprile 2002, n. 55, anche strumentali alla produzione di nuova capacita' di generazione elettrica di cui al decreto legislativo 19 dicembre 2003, n. 379, i committenti adeguano i prezzi dei materiali da costruzione e di produzione, riconoscendo un incremento pari alla differenza tra le risultanze dei principali indici delle materie prime rilevati da organismi di settore, o dall'Istituto nazionale di statistica, al momento della contabilizzazione o dell'annotazione delle lavorazioni eseguite, rispetto a quelli rilevati al momento della sottoscrizione dei relativi contratti, nei limiti del 20 per cento. Tale adeguamento e' riconosciuto in relazione alle lavorazioni eseguite e contabilizzate, a seguito dell'emissione dei relativi ordini di acquisto, alla data di entrata in vigore della presente disposizione, nonche' a quelle eseguite o annotate fino al 31 dicembre 2022. Sono fatti salvi le clausole contrattuali e ogni altro atto che contenga condizioni piu' favorevoli. Dalla presente disposizione non derivano nuovi o maggiori oneri a carico della finanza pubblica";
+
+b) alla rubrica, dopo la parola: "concessioni" sono inserite le seguenti: "e di affidamenti"))

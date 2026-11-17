@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="18.0.1000/23"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@.akn"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2942/A/18.0.1000/23/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2942" showAs="DDL 2942"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID442YCHBNRHVVIGHWP3SIDLHAKOF2GQACKKXZDBPAECHNLP3JLFYG" href="http://dati.senato.it/29189" showAs="TAVERNA"/>
+				<an:TLCPerson id="IDFJEGSQZWL4JXH24ORRX1GT2RYEEOSDS2FBMIUEB5HZHU2YKRPQWE" href="http://dati.senato.it/29102" showAs="GAETTI"/>
+				<an:TLCPerson id="IDAQFEEKROAVKOGKYOCYPUSEPYOGGM2EU1K4RI2EMOLROTT1MCR5LN" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDAQQ4LBFZZRIEGJDTDTBIPBUSCE5QPBQLJOSNHHEQVZLFP4N3IHOF" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDSQLDNRNYACWAIADYRLMH2MYVOFAUKF0KF4L4PBPTENDBPVNEY0AI" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2942</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 18.0.1000/23</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID442YCHBNRHVVIGHWP3SIDLHAKOF2GQACKKXZDBPAECHNLP3JLFYG" as="#tipoSenatore">TAVERNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFJEGSQZWL4JXH24ORRX1GT2RYEEOSDS2FBMIUEB5HZHU2YKRPQWE" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQFEEKROAVKOGKYOCYPUSEPYOGGM2EU1K4RI2EMOLROTT1MCR5LN" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQQ4LBFZZRIEGJDTDTBIPBUSCE5QPBQLJOSNHHEQVZLFP4N3IHOF" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSQLDNRNYACWAIADYRLMH2MYVOFAUKF0KF4L4PBPTENDBPVNEY0AI" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 18.0.1000, dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. All'articolo i del decreto-legge 7 giugno 2017, n. 73, convertite con modificazioni dalla legge 31 n. 119, il comma 4 è sostituito dal seguente:
+				</an:p>
+				<an:p>        "4. In caso di mancata osservanza dell'obbligo vaccinale di cui al presente articolo, i genitori esercenti la responsabilità genitoriale, i tutori e gli affidatari sono convocati dall'azienda sanitaria locale territorialmente competente per un colloquio al fine di fornire ulteriori informazioni sulle vaccinazioni e di sollecitarne l'effettuazione"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

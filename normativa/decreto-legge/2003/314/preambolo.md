@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Considerata la straordinaria necessita' ed urgenza di assumere iniziative per l'immediata sistemazione in sicurezza dei rifiuti radioattivi presenti sul territorio nazionale, nonche' per la loro raccolta, smaltimento e stoccaggio in condizioni di massima sicurezza e tutela dell'ambiente e della salute dei cittadini;
+
+Ritenuto che l'attuale situazione di rischio derivante dalla presenza sul territorio nazionale di tali rifiuti radioattivi e' caratterizzata da profili di maggiore gravita' in relazione alla diffusa crisi internazionale, che richiede l'urgente realizzazione di iniziative di carattere straordinario al fine di tutelare l'interesse nazionale della sicurezza dello Stato;
+
+Visto il Documento approvato a conclusione dell'indagine conoscitiva dalla Commissione ambiente della Camera dei deputati nella seduta del 13 marzo 2003;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 13 novembre 2003;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, del Ministro dell'interno, del Ministro della difesa, del Ministro delle attivita' produttive e del Ministro dell'ambiente e della tutela del territorio, di concerto con il Ministro dell'economia e delle finanze, con il Ministro della salute e con il Ministro per gli affari regionali;
+
+Emana il seguente decreto-legge:

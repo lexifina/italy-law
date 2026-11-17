@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G10-ter.2"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@.akn"/>
+					<an:FRBRdate date="2019-08-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1437/A/G10-ter.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1437" showAs="DDL 1437"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXIOJJ32PCHD4DYZGDX0340JN4ZWKTVLGXUTN0ZMRHEZ01J1AEO" href="http://dati.senato.it/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDISFOABFUWJ5IHAQNMWRQAZ1FVFDWYVFE120TZZPBWIWTNCTAUYN" href="http://dati.senato.it/32670" showAs="MININNO"/>
+				<an:TLCPerson id="IDWGHQKVXHPMU1IPGKVWPPUA3NLJAJ0FTTQOWCNOEY1XOLDE5FJKGF" href="http://dati.senato.it/32675" showAs="ORTIS"/>
+				<an:TLCPerson id="IDVRFSZJPUHSNQPNVTQ1U5313X0IFBC5WUX41VNANALW13BPJLXFUO" href="http://dati.senato.it/32705" showAs="ROMANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1437</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G10-ter.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXIOJJ32PCHD4DYZGDX0340JN4ZWKTVLGXUTN0ZMRHEZ01J1AEO" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDISFOABFUWJ5IHAQNMWRQAZ1FVFDWYVFE120TZZPBWIWTNCTAUYN" as="#tipoSenatore">MININNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWGHQKVXHPMU1IPGKVWPPUA3NLJAJ0FTTQOWCNOEY1XOLDE5FJKGF" as="#tipoSenatore">ORTIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVRFSZJPUHSNQPNVTQ1U5313X0IFBC5WUX41VNANALW13BPJLXFUO" as="#tipoSenatore">ROMANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione dell'Atto Senato 1437 recante: «Conversione in legge, con modificazioni, del decreto-legge 14 giugno 2019, n. 53, recante disposizioni urgenti in materia di ordine e sicurezza pubblica»;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il decreto legge contiene diverse misure in favore della Polizia di Stato, da quelle per l'approvvigionamento dei pasti per il personale impegnato in servizi di ordine pubblico fuori sede (articolo 10-
+					<an:i>bis)</an:i>
+					 alle misure in tema di raccordo e coordinamento degli istituti, scuole e centri di formazione e addestramento della Polizia di Stato (articolo 10-
+					<an:i>ter)</an:i>
+					;
+				</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            al pari delle Forze armate, le Forze di Polizia svolgono un ruolo fondamentale per la tutela dell'incolumità dei cittadini;</an:p>
+				<an:p>            agli agenti è richiesta una costante preparazione psicofisica per fronteggiare le innumerevoli emergenze che ripetutamente si presentano nelle ore di servizio;</an:p>
+				<an:p>            pertanto è necessario garantire una preparazione atletica adeguata alle mansioni che sono chiamati a svolgere, sia attraverso la predisposizione di idonee strutture di allenamento, sia attraverso la determinazione di un monte ore settimanale dedicato agli esercizi fisici.</an:p>
+				<an:p>        impegna il Governo a:</an:p>
+				<an:p>            valutare l'opportunità di adottare tutti i provvedimenti necessari al fine di prevedere, anche attraverso opportune modifiche al Contratto collettivo nazionale, di concerto con le organizzazioni maggiormente rappresentative del settore, un numero minimo di ore settimanali di attività fisica o sportiva, come già stabilito per le Forze Armate, per un adeguato allenamento e mantenimento fisico idoneo rispetto alle funzioni di polizia attribuite ai personale.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

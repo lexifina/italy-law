@@ -1,0 +1,15 @@
+UMBERTO I
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Visto il testamento segreto 3 agosto 1871, nei rogiti del notaro di Milano dott. Rinaldo dell'Oro, col quale il fu nob. cav. Gian-Giacomo Poldi-Pezzoli dispose che l'appartamento da lui occupato nel suo palazzo via Alessandro Manzoni n. 42, coll'armeria, i capi d'arte, la biblioteca e mobili di valore artistico che vi si trovassero all'epoca della sua morte, costituissero una causa o fondazione artistica ad uso e beneficio del pubblico in perpetuo, al quale scopo legava pure una rendita annua di lire ottomila (L. 8000), di cui lire 6000 per la manutenzione, e lire 2000 per l'amministrazione;
+
+Visto l'atto 5 giugno 1880, approvato dal tribunale civile e correzionale di Milano con decreto 2 luglio successivo;
+
+Vista la domanda del marchese Gian-Giacomo Trivulzio, rappresentante del suo figlio minorenne Luigi Alberico, erede del testatore, del commendatore Giuseppe Berlini, direttore del museo Poldi-Pezzoli, del cav. prof. Luigi Bisi presidente dell'accademia di belle arti di Milano, e del conte commendatore Giulio Bellinzaghi, sindaco di quella citta', affinche' la fondazione artistica Poldi-Pezzoli sia eretta in ente morale;
+
+Visto il parere favorevole del consiglio di Stato in data del 28 gennaio 1881;
+
+Sulla proposta del nostro ministro segretario di Stato per la pubblica istruzione; Abbiamo decretato e decretiamo:

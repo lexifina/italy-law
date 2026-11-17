@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/843/A/G4.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/843/A/G4.102"/>
+					<an:FRBRdate date="2013-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/843/A/G4.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@"/>
+					<an:FRBRdate date="2013-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@.akn"/>
+					<an:FRBRdate date="2013-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-07-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-07-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/843/A/G4.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/843" showAs="DDL 843"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/2214" showAs="Scavone"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/22863" showAs="Barani"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/29049" showAs="Bilardi"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/17552" showAs="Bianconi"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/656" showAs="Compagna"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/29073" showAs="Compagnone"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/17704" showAs="Mauro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 843</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.102 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Scavone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Barani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Bilardi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Bianconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Compagna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Compagnone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Mauro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            considerato nel 2002 sono stati assunti lavoratori per gestire l'emergenza nella zona dell'Etna, che ha dimostrato di essere continua e non limitata al solo 2002;</an:p>
+				<an:p align="justify">            rilevato con riferimento alla caduta di cenere vulcanica, che è stato dichiarato lo stato di calamità, proprio per alcuni comuni dell'area etnea;</an:p>
+				<an:p align="justify">            valutato che è necessario completare l'attività di ricostruzione e per svolgere le connesse attività di protezione civile, di monitoraggio e di contrasto degli effetti della caduta di cenere vulcanica,</an:p>
+				<an:p align="justify">        invita il Governo, compatibilmente con le esigenze di finanza pubblica, a valutare norme che prevedano la stabilizzazione del personale assunto in base all'articolo 6 dell'Ordinanza del Presidente del Consiglio dei ministri del 29 novembre 2002 n. 3254 presso gli Enti presso i quali ha prestato il proprio lavoro.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

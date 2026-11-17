@@ -1,0 +1,37 @@
+IL MINISTRO DELLA SANITA'
+
+Vista la legge 30 aprile 1962, n. 283, concernente la disciplina igienica della produzione e della vendita delle sostanze alimentari e delle bevande ed in particolare l'art. 7 che conferisce al Ministro della sanita', sentito il Consiglio superiore di sanita', la potesta' di consentire con proprio decreto la produzione ed il commercio di sostanze alimentari e bevande che abbiano subito speciali trattamenti prescrivendo, del pari, anche le indicazioni che debbono essere riportate sul prodotto finito;
+
+Visto il proprio decreto 11 ottobre 1984, concernente norme igienico-sanitarie relative al confezionamento in atmosfera controllata, costituita da anidride carbonica, azoto e loro miscele, di taluni prodotti alimentari;
+
+Visto il proprio decreto 27 gennaio 1988, n. 49, concernente norme igienico-sanitarie relative al confezionamento in atmosfera modificata delle carni fresche refrigerate;
+
+Viste le istanze di autorizzazione all'utilizzazione di atmosfere modificate inviate al Ministero della sanita' da parte della Federalimentare in data 9 aprile 1987, della Cirio, Bertolli, De Rica, in data 1 agosto 1988, della E.A.C. in data 19 luglio 1990, della Itticonsult in data 13 febbraio 1991 e della Era in data 8 aprile 1992, nonche' quella di autorizzazione di particolari atmosfere modificate inviata dalla impresa General Gas in data 10 luglio 1990;
+
+Visto il decreto ministeriale 21 marzo 1973 e sue successive modificazioni ed integrazioni, concernente la disciplina igienica degli imballaggi, recipienti, utensili destinati a venire a contatto con le sostanze alimentari o con oggetti d'uso personale;
+
+Visto il decreto legislativo 27 gennaio 1992, n. 109, relativo all'attuazione delle direttive 89/395/CEE e 89/396/CEE, concernenti l'etichettatura, la presentazione e la pubblicita' dei prodotti alimentari;
+
+Visto il decreto del Presidente della Repubblica 1 marzo 1992, n. 227, relativo al Regolamento di attuazione della direttiva 88/657/CEE che fissa i requisiti alla produzione ed agli scambi di carni macinate, delle carni in pezzi di peso inferiore a cento grammi e delle preparazioni di carni;
+
+Considerato che l'impegno di azoto, di anidride carbonica o di loro miscele, rispondenti a particolari requisiti di purezza, e' utile per assicurare una migliore e piu' duratura conservazione di particolari prodotti alimentari creando condizioni non favorevoli per lo sviluppo della microflora ed e', per questo motivo, diffuso in diversi Stati membri della CEE;
+
+Visti i pareri resi dall'Istituto superiore di sanita' in data 12 marzo 1991 e in data 10 aprile 1992, i quali sono favorevoli all'utilizzazione di atmosfere modificate costituite da azoto, da anidride carbonica e da loro miscele per tutte le tipologie di alimenti eccezion fatta per i prodotti della pesca e per i formaggi molli e contrari, in assenza di ulteriore evidenza, alla utilizzazione della miscela formata da anidride carbonica e alcol etilico;
+
+Ritenuto consentire l'utilizzazione delle atmosfere modificate solo nei casi in cui le conoscenze gia' disponibili sono tali da dimostrare l'utilita' tecnologica e la sicurezza sanitaria;
+
+Ritenuto, altresi', di adottare specifici criteri per la presentazione e l'esame di future istanze relative ad atmosfere modificate e/o prodotti alimentari non ancora autorizzati;
+
+Visto il parere del Consiglio superiore di sanita' reso nell'adunanza del 25 maggio 1992;
+
+Visto l'art. 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+Udito il parere del Consiglio di Stato reso nell'adunanza generale del 29 ottobre 1992;
+
+Vista la comunicazione alla Commissione delle Comunita' europee effettuata in data 13 luglio 1992 ai sensi della direttiva del Consiglio del 29 marzo 1983, n. 83/189/CEE;
+
+Vista l'ulteriore comunicazione alla Commissione delle Comunita' europee ed agli altri Stati membri effettuata ai sensi dell'art. 16 della Direttiva del Consiglio del 18 dicembre 1978, n. 79/112/CEE;
+
+Vista la comunicazione alla Presidenza del Consiglio dei Ministri effettuata in data 31 dicembre 1993 a norma dell'art. 17, comma 3, della legge 23 agosto 1988, n. 400;
+
+A D O T T A il seguente regolamento:

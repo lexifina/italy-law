@@ -1,0 +1,7 @@
+Art. 19-bis.
+
+(( (Disposizioni in materia di personale medico dell'INAIL). ))
+
+((1. Al fine di contribuire all'accelerazione della campagna nazionale di vaccinazione contro la diffusione del virus SARS-CoV-2, l'Istituto nazionale per l'assicurazione contro gli infortuni sul lavoro (INAIL) si avvale, oltre che delle risorse professionali sanitarie disponibili a legislazione vigente, per le quali e' confermata la disciplina gia' adottata dall'Istituto in materia di attivita' libero-professionale medica nelle more della definizione della stessa nell'ambito della contrattazione collettiva nazionale, delle risorse rivenienti dall'incremento, per l'anno 2021, di 20 medici specialisti e di 30 infermieri del contingente di cui all'articolo 10 del decreto-legge 17 marzo 2020, n. 18, convertito, con modificazioni, dalla legge 24 aprile 2020, n. 27, da destinare anche alla somministrazione dei vaccini nei luoghi di lavoro.
+
+All'onere derivante dal primo periodo, pari ad euro 1.634.000 per l'anno 2021, si provvede a valere sul bilancio dell'Istituto, sulle risorse destinate alla copertura dei rapporti in convenzione con i medici specialisti ambulatoriali. Alla compensazione degli effetti finanziari in termini di fabbisogno e indebitamento netto, pari a euro 841.510 per l'anno 2021, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190))

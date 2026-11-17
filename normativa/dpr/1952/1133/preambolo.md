@@ -1,0 +1,9 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto lo Statuto della Regione siciliana, approvato con decreto legislativo in data 15 maggio 1946, n. 455;
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il bilancio e ad interim per il tesoro; Decreta:

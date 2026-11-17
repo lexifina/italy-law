@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1905/C/9.1/10"/>
+					<an:FRBRdate date="2010-06-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.1/10"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@"/>
+					<an:FRBRdate date="2010-06-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@.akn"/>
+					<an:FRBRdate date="2010-06-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-06-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-06-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1905/C/9.1/10/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1905" showAs="DDL 1905"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Istruzione pubblica, beni culturali" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/1091" showAs="Garavaglia"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/17767" showAs="Rusconi"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/22754" showAs="Livi Bacci"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/17633" showAs="Franco"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/25204" showAs="Ceruti"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EJC" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="EOC" href="http://dati.senato.it/senatore/22774" showAs="Procacci"/>
+				<an:TLCPerson id="ETC" href="http://dati.senato.it/senatore/2247" showAs="Serafini"/>
+				<an:TLCPerson id="EYC" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1905</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.1/10 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Rusconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Livi Bacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">Ceruti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EJC" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EOC" as="#tipoSenatore">Procacci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ETC" as="#tipoSenatore">Serafini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EYC" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4 aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					"4-
+					<an:i>bis</an:i>
+					. La partecipazione ai gruppi e ai progetti di ricerca delle università, qualunque ne sia l'ente finanziatore, e lo svolgimento delle attività di ricerca presso le università sono riservati esclusivamente:
+				</an:p>
+				<an:p>ai professori e ricercatori universitari, anche a tempo determinato;</an:p>
+				<an:p>ai titolari degli assegni di ricerca di cui all'articolo 10;</an:p>
+				<an:p>agli studenti dei corsi di dottorato di ricerca, nonché a studenti di corsi di laurea magistrale nell'ambito di specifiche attività formative;</an:p>
+				<an:p>ai professori a contratto di cui all'articolo 11;</an:p>
+				<an:p>al personale tecnico-amministrativo in servizio a tempo indeterminato presso le università purché in possesso di specifiche competenze nel campo della ricerca;</an:p>
+				<an:p>ai dipendenti di altre amministrazioni pubbliche, di enti pubblici o privati, di imprese, ovvero a titolari di borse di studio o di ricerca banditi da tali amministrazioni, enti o imprese, purché sulla base di specifiche convenzioni e senza oneri finanziari per l'università ad eccezione dei costi diretti relativi allo svolgimento dell'attività di ricerca e degli eventuali costi assicurativi.</an:p>
+				<an:p>4-ter. Alla partecipazione ai progetti di ricerca finanziati dall'Unione Europea o da altre istituzioni straniere, internazionali o sovranazionali e allo svolgimento delle relative attività si applicano le norme previste dai relativi bandi."</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

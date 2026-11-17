@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G33.44a"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G33.44a"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3223/A/G33.44a/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3223" showAs="DDL 3223"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17570" showAs="Cicolani"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17545" showAs="Barelli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17617" showAs="Nocco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17602" showAs="Fasolino"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17625" showAs="Ponzo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17563" showAs="Girfatti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3918" showAs="Lauro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3223</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G33.44a</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Cicolani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Barelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Nocco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Fasolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Ponzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Girfatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Lauro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame dell'articolo 33 del disegno di legge finanziaria per il 2005,</an:p>
+				<an:p align="justify">        premesso:</an:p>
+				<an:p align="justify">            che ai sensi dell'articolo 13 della legge n. 190 del 2002, il CIPE dovrà disporre dei fondi per la realizzazione delle opere previste dalla delibera CIPE n. 121 del 2001 e successive modifiche e integrazioni;</an:p>
+				<an:p align="justify">            che le opere in narrativa sono previste in detta delibera e nel contratto di programma stipulato fra Governo e regione Lazio;</an:p>
+				<an:p align="justify">            che dette opere sono assolutamente urgenti e indifferibili sia per ragioni di sviluppo economico della regione Lazio, sia per ragioni di sicurezza del trasporto, sia per la garanzia del diritto alla mobilità dei cittadini,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a considerare prioritari i seguenti interventi:</an:p>
+				<an:p align="justify">                1) Completamento progetti definitivi trasversale nord Orte-Civitavecchia (tratto Viterbo-Civitavecchia);</an:p>
+				<an:p align="justify">                2) Completamento dell'adeguamento della Cassia fino a Viterbo;</an:p>
+				<an:p align="justify">                3) Adeguamento della Statale Salaria;</an:p>
+				<an:p align="justify">                4) Completamento trasversale Sud-Lazio (Sora-Frosinone);</an:p>
+				<an:p align="justify">                5) Passo Corese-Rieti (opera ferroviaria);</an:p>
+				<an:p align="justify">                6) Progetto preliminare e studio di impatto ambientale raddoppio per raccordo anulare.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

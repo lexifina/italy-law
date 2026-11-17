@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/2.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/2.20"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/2.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@.akn"/>
+					<an:FRBRdate date="2019-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1264/A/2.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1264" showAs="DDL 1264"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGH4OFB3ROKN5MK0FDJLARXZNZKFED4DIDRE2MCEIZYAOQZCAFY1H" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="IDVEZF4JGP4WXEGZXCE5UOE4MEHIOTZN4W4WT2LKQFKNEKTBS2GTH" href="http://dati.senato.it/29443" showAs="IORI"/>
+				<an:TLCPerson id="IDERRD1AQVUQKTOXVEHOSPFCUXZBVQSNJTP2L5KXFL2HC0DNSTMBJD" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+				<an:TLCPerson id="IDQS2X2UQC0AFSLYH4LDSZGGJGXCF45PH3VX0JGUGBKUSTBQTDCWAN" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1264</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGH4OFB3ROKN5MK0FDJLARXZNZKFED4DIDRE2MCEIZYAOQZCAFY1H" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVEZF4JGP4WXEGZXCE5UOE4MEHIOTZN4W4WT2LKQFKNEKTBS2GTH" as="#tipoSenatore">IORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDERRD1AQVUQKTOXVEHOSPFCUXZBVQSNJTP2L5KXFL2HC0DNSTMBJD" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQS2X2UQC0AFSLYH4LDSZGGJGXCF45PH3VX0JGUGBKUSTBQTDCWAN" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 6 con i seguenti:</an:i>
+				</an:p>
+				<an:p>        «6. La valutazione intermedia e finale dell'insegnamento dell'educazione civica è espressa con un voto, in conformità con quanto previsto dal decreto legislativo 13 aprile 2017, n. 62, definito collegialmente dall'intero consiglio di classe. Il voto compare quale voto distinto nella scheda di valutazione di ciascun alunno.</an:p>
+				<an:p>
+					<an:i>6-bis</an:i>
+					. All'articolo 12 del decreto legislativo 13 aprile 2017, n. 62, il comma 3 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''3. L'insegnamento dell'educazione civica è oggetto del colloquio di esame previsto nell'ambito degli esami di Stato conclusivi del secondo ciclo di istruzione, fermo quanto previsto all'articolo 1 del decreto-legge 1º settembre 2008, n. 137, convertito, con modificazioni, dalla legge 30 ottobre 2008, n. 169''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

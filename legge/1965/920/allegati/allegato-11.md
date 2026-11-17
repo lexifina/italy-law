@@ -1,7 +1,0 @@
-ALLEGATO 11.
-
-PRILOG 11.
-
-VALICHI DELLE AREE DI CUI ALLE LETTERE c) e d) DELL'ARTICOLO 1
-
-Parte di provvedimento in formato grafico

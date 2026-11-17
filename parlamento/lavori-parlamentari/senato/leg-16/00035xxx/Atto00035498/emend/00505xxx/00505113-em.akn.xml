@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2226/A/G1.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2226/A/G1.100"/>
+					<an:FRBRdate date="2010-10-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2226/A/G1.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@"/>
+					<an:FRBRdate date="2010-10-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@.akn"/>
+					<an:FRBRdate date="2010-10-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-10-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-10-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2226/A/G1.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2226" showAs="DDL 2226"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22980" showAs="Incostante"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25267" showAs="De Sena"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/16639" showAs="Sanna"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/21507" showAs="Marino"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2226</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Incostante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Sena</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Sanna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge recante Piano straordinario contro le mafie, nonché delega al Governo in materia di normativa antimafia;</an:p>
+				<an:p align="justify">            considerato che le disposizioni contenute nella proposta di legge risultano in parte condivisibili, anche se non si rintracciano misure specifiche volte a garantire, in special modo con riferimento agli enti locali, che coloro i quali siano stati oggetti di misure di prevenzione non possano essere ricandidati al fine di garantire che - fatta salva ogni altra eventuale misura interdittiva - i medesimi soggetti responsabili, anche in parte, della decisione di scioglimento, possano tentare di usare la loro personale condizione per falsare la competizione elettorale;</an:p>
+				<an:p align="justify">        impegna il Governo</an:p>
+				<an:p align="justify">            a prendere in considerazione, nell'esercizio della delega di cui al comma 1, l'introduzione di misure che garantiscano che gli amministratori responsabili delle condotte che hanno dato causa allo scioglimento conseguente a fenomeni di infiltrazione e di condizionamento di tipo mafioso o similare non possano essere candidati alle elezioni regionali, provinciali, comunali e circoscrizionali che si svolgono nella regione nel cui territorio si trova l'ente interessato dallo scioglimento, limitatamente al primo turno elettorale successivo allo scioglimento stesso qualora il Tribunale competente per territorio abbia valutato in via definitiva, sulla base della proposta di scioglimento inviata dal Ministro dell'interno, la sussistenza di collegamenti diretti o indiretti con la criminalità organizzata di tipo mafioso o similare di uno o più amministratori locali ovvero su forme di condizionamento degli stessi, tali da determinare una alterazione del procedimento di formazione della volontà degli organi elettivi ed amministrativi e da compromettere il buon andamento o l'imparzialità delle amministrazioni comunali e provinciali, nonché il regolare funzionamento dei servizi ad esse affidati, ovvero che risultino tali da arrecare grave e perdurante pregiudizio per lo stato della sicurezza pubblica.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

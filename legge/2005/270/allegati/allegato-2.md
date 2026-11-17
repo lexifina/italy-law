@@ -1,5 +1,0 @@
-Allegato 2
-
-(articolo 4, comma 5)
-
-Parte di provvedimento in formato grafico

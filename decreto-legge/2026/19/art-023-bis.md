@@ -1,7 +1,0 @@
-Art. 23-bis.
-
-(( (Comunicazione della conclusione dei lavori per gli interventi finanziati dal PNRR, dal Piano nazionale per gli investimenti complementari al PNRR e da programmi cofinanziati dall'Unione europea).))
-
-1.
-
-((In relazione agli interventi finanziati, in tutto o in parte, con le risorse del PNRR, del Piano nazionale per gli investimenti complementari al PNRR e dei programmi cofinanziati dai fondi strutturali dell'Unione europea, l'appaltatore comunica senza indugio la conclusione dei lavori eseguiti dal subappaltatore al direttore dei lavori e al responsabile unico del procedimento. In ogni caso, ai fini del pagamento degli stati di avanzamento dei lavori o del saldo finale successivi alla conclusione dei lavori oggetto di subappalto, il documento unico di regolarita' contributiva del subappaltatore, ai sensi e per gli effetti degli articoli 11, comma 6, 119, comma 7, e 125, commi 5 e 7, del codice dei contratti pubblici, di cui al decreto legislativo 31 marzo 2023, n. 36, e' acquisito, entro dieci giorni dalla conclusione dei lavori medesimi, dalla stazione appaltante secondo le modalita' ordinarie, ovvero direttamente dal subappaltatore in caso di malfunzionamento, anche parziale, del fascicolo virtuale dell'operatore economico o delle piattaforme, delle banche di dati o dei sistemi di interoperabilita' a esso connessi ai sensi dell'articolo 24 del codice di cui al citato decreto legislativo n. 36 del 2023)).

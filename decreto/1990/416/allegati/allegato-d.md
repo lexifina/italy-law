@@ -1,7 +1,0 @@
-ALLEGATO D
-
-(riepilogo mensile dei moduli di accertamento - allegato "c"
-
-pagg. 2 e 3)
-
-Parte di provvedimento in formato grafico

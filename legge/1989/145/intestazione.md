@@ -1,9 +1,0 @@
-LEGGE
-
-24 aprile 1989
-
-145
-
-Conversione in legge del decreto-legge 2 marzo 1989, n. 68, recante proroga al 30 aprile 1989 delle tariffe e delle condizioni di polizza dell'assicurazione della responsabilita' civile derivante dalla circolazione dei veicoli a motore e di natanti, stabilite con la delibera n. 8/1988 del Comitato interministeriale prezzi.
-
-Entrata in vigore della legge: 27/04/1989.

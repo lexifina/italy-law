@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1328/A/G29.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1328/A/G29.100"/>
+					<an:FRBRdate date="2015-05-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1328/A/G29.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G29.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@"/>
+					<an:FRBRdate date="2015-05-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@.akn"/>
+					<an:FRBRdate date="2015-05-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-05-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-05-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1328/A/G29.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1328" showAs="DDL 1328"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29200" showAs="Valentini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22706" showAs="Amati"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25229" showAs="Granaiola"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29035" showAs="Albano"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/30914" showAs="Fasiolo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1328</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G29.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Valentini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Amati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Granaiola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Albano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Fasiolo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame di esame del disegno di legge recante Disposizioni in materia di semplificazione, razionalizzazione e competitività agricole del settore agricolo. Agroalimentare e della pesca (collegato alla manovra di finanza pubblica) - A.S. 1328-A,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            sembra necessario, ai fini di semplificazione e del buon funzionamento dei sistemi di raccolta dati e controllo procedere alla integrazione delle informazioni contenute nel sistema UNlMARE del Ministero del lavoro con il nuovo sistema SIGEMAR del Ministero dei trasporti e navigazione Comando generale delle Capitanerie di porto), attualmente in fase di predisposizione;</an:p>
+				<an:p align="justify">            sempre al fine della semplificazione, altrettanto necessario risulta provvedere alla sostituzione, nelle disposizioni in materia di unità da pesca, dei riferimenti alla stazza nazionale a favore della stazza internazionale, in coerenza con quanto stabilito dalla normativa europea, nonché alla semplificazione delle procedure di verifica effettuate dalle Autorità marittime e dall'Ente tecnico al fine di eliminare le sovrapposizioni per duplicazioni, attraverso l'accorpamento delle visite ispettive nei periodi di fermo pesca, con l'istituzione di un libretto unico di navigazione;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'opportunità, nelle forme più idonee e in tempi rapidi, di procedere:</an:p>
+				<an:p align="justify">
+					            
+					<an:i>a)</an:i>
+					 alla integrazione delle informazioni contenute nel sistema UNIMARE del Ministero del lavoro con il nuovo sistema SIGEMAR del Ministero dei trasporti e navigazione;
+				</an:p>
+				<an:p align="justify">
+					            
+					<an:i>b)</an:i>
+					 alla sostituzione, nelle disposizioni in materia di unità da pesca, dei riferimenti alla stazza nazionale a favore della stazza internazionale, in coerenza con quanto stabilito dalla normativa europea, nonché alla semplificazione delle procedure di verifica effettuate dalle Autorità marittime e dall'Ente tecnico al fine di eliminare le sovrapposizioni.
+				</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

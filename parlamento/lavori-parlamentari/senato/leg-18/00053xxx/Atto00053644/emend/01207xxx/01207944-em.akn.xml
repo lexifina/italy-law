@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2066/A/3.0.7"/>
+					<an:FRBRdate date="2021-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@"/>
+					<an:FRBRdate date="2021-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@.akn"/>
+					<an:FRBRdate date="2021-03-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-03-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-03-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2066/A/3.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2066" showAs="DDL 2066"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDF1UXTPV1CWRMG50WA42KGXHPBIC5FDCLMIDLRPBZIYKBJ3F4CR1" href="http://dati.senato.it/32714" showAs="SICLARI"/>
+				<an:TLCPerson id="IDILQSF2Q2SGHHFLCU4A5UWP4M4FMG3J3T243Q0OBJFASAVGXGK44J" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+				<an:TLCPerson id="IDZ4J3TIFZK5B2OOXM2AHWSGDSRIPYC25GGER1K0J3LR2N4J3SA3PH" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2066</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDF1UXTPV1CWRMG50WA42KGXHPBIC5FDCLMIDLRPBZIYKBJ3F4CR1" as="#tipoSenatore">SICLARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDILQSF2Q2SGHHFLCU4A5UWP4M4FMG3J3T243Q0OBJFASAVGXGK44J" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ4J3TIFZK5B2OOXM2AHWSGDSRIPYC25GGER1K0J3LR2N4J3SA3PH" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					, 
+					<an:i>inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p>
+					            1. Hanno priorità nella vaccinazione: gli operatori sanitari, ospiti e personale delle Rsa, ultra ottantenni, diversamente abili, familiari, 
+					<an:i>caregiver</an:i>
+					 ed insegnanti di sostegno, le Forze di polizia (Carabinieri, Guardia di finanza, Polizia locale, Polizia di Stato, Polizia penitenziaria) e protezione civile, nazionale e regionale, gli insegnanti, personale scolastico, persone con morbilità, fragilità e malattie rare, ultra sessantenni, volontari della solidarietà e della assistenza, i soggetti con mono morbilità, i lavoratori di servizi essenziali, gli ospiti ed i lavoratori delle comunità, dei centri di accoglienza e delle carceri.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

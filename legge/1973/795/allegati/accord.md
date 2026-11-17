@@ -1,5 +1,0 @@
-ALLEGATO
-
-Accord europeen sur l'instruction et la formation des infirmieres
-
-Parte di provvedimento in formato grafico

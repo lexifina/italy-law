@@ -1,0 +1,5 @@
+TABELLA B
+
+TASSE CHE SI RISCUOTONO A TITOLO DI DIRITTI DI SEGRETERIA
+
+Parte di provvedimento in formato grafico

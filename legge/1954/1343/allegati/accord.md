@@ -1,3 +1,0 @@
-Accord entre l'Italie et les Pays-Bas pour le reglement de certaines questions concernant la propriete' industrielle decoulant de mesures prises par suite de l'existence de l'etat de guerre.
-
-Parte di provvedimento in formato grafico

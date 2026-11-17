@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/11.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/11.4"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2756/A/11.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@.akn"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2756/A/11.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2756" showAs="DDL 2756"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTSA5ICMHYPZLEB0PUGJDHPAQFOO5WFQHMA5LSFGQDNQO25DT1M5E" href="http://dati.senato.it/23035" showAs="PELINO"/>
+				<an:TLCPerson id="IDDMKCHCTQXYA4PMI333MH2TVF2DWONWYXUA50JXGWV55WBL2Y3M5" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDR53PJIKWVXFDGKW5I4LXEMVAZFILKFLOEAR34LCIYE1P5KSZ11TB" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDIK5RCQEXXJ2RODX4VAPZLPIXYHSTG3PQIJDJHDPLYCFQRC5YQGQN" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="ID5KFBBENOYGCW4X0NLWZ5J1ISCBRHEXTFJASRBPOJ2TE5FXZ1YEG" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2756</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTSA5ICMHYPZLEB0PUGJDHPAQFOO5WFQHMA5LSFGQDNQO25DT1M5E" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDMKCHCTQXYA4PMI333MH2TVF2DWONWYXUA50JXGWV55WBL2Y3M5" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR53PJIKWVXFDGKW5I4LXEMVAZFILKFLOEAR34LCIYE1P5KSZ11TB" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIK5RCQEXXJ2RODX4VAPZLPIXYHSTG3PQIJDJHDPLYCFQRC5YQGQN" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5KFBBENOYGCW4X0NLWZ5J1ISCBRHEXTFJASRBPOJ2TE5FXZ1YEG" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, lettera a), dopo il numero 2), aggiungere il seguente:</an:p>
+				<an:p>
+					            «2-
+					<an:i>bis)</an:i>
+					 alla lettera 
+					<an:i>g)</an:i>
+					, sono aggiunte, in fine, le parole: ". La sospensione si applica fino al 31 dicembre 2019 anche agli enti locali delle Regioni Abruzzo, Lazio, Marche e Umbria che possono rendi contare le spese sostenute ed attestare la sussistenza del nesso di casualità tra l'evento calamitoso e il danno subito. Per l'attuazione delle disposizioni di cui al periodo precedente è autorizzata una spesa pari ad euro 20 milioni per l'anno 2017,20 milioni per l'anno 2018 e 20 milioni per l'anno 2019. Al relativo onere si provvede mediante corrispondente riduzione, nella misura corrispondente per ciascuno degli anni 2017, 2018 e 2019, dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale, nell'ambito del programma 'Fondi di riserva e speciali' della missione 'Fondi da ripartire' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2017. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio".».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

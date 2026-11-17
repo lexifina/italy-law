@@ -1,3 +1,0 @@
-Allegato 1/B
-
-Parte di provvedimento in formato grafico

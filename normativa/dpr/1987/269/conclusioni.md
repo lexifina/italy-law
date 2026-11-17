@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e farlo osservare.
+
+Dato a Roma, addi' 18 maggio 1987
+
+COSSIGA FANFANI, Presidente del Consiglio dei Ministri PALADIN, Ministro per la funzione pubblica GORIA, Ministro del tesoro e, ad interim, del bilancio e della programmazione economica GORRIERI, Ministro del lavoro e della previdenza sociale GAVA, Ministro delle poste e delle telecomunicazioni GUARINO, Ministro delle finanze ZAMBERLETTI, Ministro dei lavori pubblici SCALFARO, Ministro dell'interno PANDOLFI, Ministro dell'agricoltura e delle foreste Visto, il Guardasigilli: ROGNONI Registrato alla Corte dei conti, addi' 10 luglio 1987 Atti di Governo, registro n. 67, foglio n. 8, con esclusione di: art. 5, commi 2, 6 e 7; art. 34; art. 47, commi 2, 3 e 4; art. 50; art. 56; art. 74; art. 76; art. 82; art. 89 e art. 105, comma 1, lettera f), e secondo, ai sensi della delibera n. 1805 della sezione del controllo in data 3 luglio 1987.

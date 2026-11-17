@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2371/A/3.20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2371/A/3.20"/>
+					<an:FRBRdate date="2021-10-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2371/A/3.20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@"/>
+					<an:FRBRdate date="2021-10-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@.akn"/>
+					<an:FRBRdate date="2021-10-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-10-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-10-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2371/A/3.20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2371" showAs="DDL 2371"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYS1W524GUQ3EFBRM0W5M5KM1FI0MBXEVYS2S1INUNJT45NIFHOED" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="ID5FNXQ0V551U0VJOKL1LQKUBDPEOMXI4WI1XFPITJWLVI2KZQ4OG" href="http://dati.senato.it/18499" showAs="CIRINNA'"/>
+				<an:TLCPerson id="IDSYFACMJSAO2YKDNAOZ1AAIPF0EXLYUAI5ABOBRECC5Y2XPPV2UGP" href="http://dati.senato.it/25411" showAs="ROSSOMANDO"/>
+				<an:TLCPerson id="IDNVZMZ1XQPWAWODVMKV1B0EWKDKRYR0YH5WMZUSFNWQOFSNFE1SJP" href="http://dati.senato.it/29105" showAs="GIACOBBE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2371</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYS1W524GUQ3EFBRM0W5M5KM1FI0MBXEVYS2S1INUNJT45NIFHOED" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5FNXQ0V551U0VJOKL1LQKUBDPEOMXI4WI1XFPITJWLVI2KZQ4OG" as="#tipoSenatore">CIRINNA'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSYFACMJSAO2YKDNAOZ1AAIPF0EXLYUAI5ABOBRECC5Y2XPPV2UGP" as="#tipoSenatore">ROSSOMANDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNVZMZ1XQPWAWODVMKV1B0EWKDKRYR0YH5WMZUSFNWQOFSNFE1SJP" as="#tipoSenatore">GIACOBBE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, primo periodo, dopo le parole:</an:i>
+					 «gli iscritti da almeno cinque anni all'albo dei dottori commercialisti ed esperti contabili;» 
+					<an:i>aggiungere le seguenti</an:i>
+					: «gli iscritti da almeno cinque anni al registro dei revisori legali;».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-TABELLA C
-
-Parte di provvedimento in formato grafico

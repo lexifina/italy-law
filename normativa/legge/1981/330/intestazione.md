@@ -1,0 +1,7 @@
+LEGGE
+
+26 giugno 1981
+
+330
+
+Conversione in legge del decreto-legge 16 maggio 1981, n. 214, recante proroga di un anno della legge 22 maggio 1976, n. 392, limitatamente ai sottufficiali e militari di truppa del Corpo degli agenti di custodia.

@@ -1,0 +1,3 @@
+Convention veterinaire entre la Republique Italienne et la Confederation Suisse
+
+Parte di provvedimento in formato grafico

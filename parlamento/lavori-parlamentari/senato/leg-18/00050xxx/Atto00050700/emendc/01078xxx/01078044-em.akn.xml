@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/C/1.67/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/C/1.67"/>
+					<an:FRBRdate date="2018-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/840/C/1.67/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.67"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@"/>
+					<an:FRBRdate date="2018-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@.akn"/>
+					<an:FRBRdate date="2018-11-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-11-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-11-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/840/C/1.67/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/840" showAs="DDL 840"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDFCML4CXLJOFCICY5XQDB442APNN34BPKD10YWP3CEA0CBULONAJ" href="http://dati.senato.it/29072" showAs="COLLINA"/>
+				<an:TLCPerson id="IDX1L1WXCNQTKCGPBM5G2DGZEPYBGZXMMYGLKABFPGC1UFSW1HQD0E" href="http://dati.senato.it/29521" showAs="PARRINI"/>
+				<an:TLCPerson id="IDG1CH5ZYLDUDMGNBS2FK0ZZZZHFX13RCKOKMYMTGTNUMXCDVXKDLN" href="http://dati.senato.it/29138" showAs="MIRABELLI"/>
+				<an:TLCPerson id="IDLFSJ3CK50GQIPOBZCINTRHBCGOTRJFSLFOLZOXM5U2YCJ22TG0EM" href="http://dati.senato.it/32602" showAs="CERNO"/>
+				<an:TLCPerson id="ID31UDG3SY4P2YPNH1QQLSRSSL5NLQ5XJN0PQ44PIV0G20M5VQK4YI" href="http://dati.senato.it/20658" showAs="ZANDA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 840</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.67</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDFCML4CXLJOFCICY5XQDB442APNN34BPKD10YWP3CEA0CBULONAJ" as="#tipoSenatore">COLLINA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX1L1WXCNQTKCGPBM5G2DGZEPYBGZXMMYGLKABFPGC1UFSW1HQD0E" as="#tipoSenatore">PARRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG1CH5ZYLDUDMGNBS2FK0ZZZZHFX13RCKOKMYMTGTNUMXCDVXKDLN" as="#tipoSenatore">MIRABELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLFSJ3CK50GQIPOBZCINTRHBCGOTRJFSLFOLZOXM5U2YCJ22TG0EM" as="#tipoSenatore">CERNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID31UDG3SY4P2YPNH1QQLSRSSL5NLQ5XJN0PQ44PIV0G20M5VQK4YI" as="#tipoSenatore">ZANDA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, lettera</an:i>
+					 a)
+					<an:i>, sostituire il capoverso</an:i>
+					 «3» 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p>        «3. Nei casi in cui non accolga la domanda di protezione internazionale e ricorrano i presupposti di cui all'articolo 19, commi 1 e 1.1, del decreto legislativo 25 luglio 1998, n. 286, o riguardino stranieri il cui rimpatrio comporti il rischio di essere sottoposte a gravi maltrattamenti, la Commissione territoriale trasmette gli atti ai questore per il rilascio di un permesso di soggiorno annuale che reca la dicitura ''protezione speciale'', salvo che possa disporsi l'allontanamento verso uno Stato che provvede ad accordare una protezione analoga. Il permesso di soggiorno di cui al presente comma è rinnovabile, previ parere della Commissione territoriale, e consente di svolgere attività lavorativa e può essere convertito in permesso di soggiorno per motivi di lavoro autonomo o subordinato o per motivi familiari o per studio, se ne ricorrono i presupposti».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

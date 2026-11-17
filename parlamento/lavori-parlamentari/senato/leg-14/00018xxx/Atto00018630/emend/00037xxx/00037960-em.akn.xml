@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1827/A/G12.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1827/A/G12.1"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1827/A/G12.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G12.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1827/A/G12.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1827" showAs="DDL 1827"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3948" showAs="Nieddu"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17615" showAs="Filippelli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17620" showAs="Pascarella"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/199" showAs="Bedin"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1019" showAs="Forcieri"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2321" showAs="Stanisci"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3846" showAs="Piatti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/3851" showAs="Maconi"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/415" showAs="Caddeo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1827</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G12.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Nieddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Filippelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Pascarella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bedin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Forcieri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stanisci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Piatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Maconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Caddeo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame dello stato di previsione del Ministero della difesa per l'anno finanziario 2003,</an:p>
+				<an:p align="justify">            preso atto che il sistema previdenziale del personale militare e delle Forze di polizia prevede un riconoscimento economico del servizio prestato consistente in un incremento della base pensionabile equivalente a sei scatti stipendiali per il personale collocato in congedo per limiti di età;</an:p>
+				<an:p align="justify">            tenuto conto che in sede di armonizzazione della riforma previdenziale tale beneficio è stato riformulato prevedendo un onere contributivo a carico dei destinatari al fine di renderlo con ciò più compatibile con la necessità di mantenere un equilibrio tra contribuzioni raccolte e prestazioni erogate;</an:p>
+				<an:p align="justify">            preso atto che nello stesso provvedimento di armonizzazione è stata inserita la previsione della concessione di tale beneficio anche per le cessazioni dal servizio a domanda, previo versamento da parte dell'interessato degli oneri dovuti equivalenti al periodo mancante per il raggiungimento del limite di età;</an:p>
+				<an:p align="justify">            considerato che il personale cessato dal servizio a domanda, durante il periodo dal 28 settembre 1996 al 31 dicembre 1997, è rimasto escluso da tale possibilità a causa dell'entrata in vigore di norme transitorie emanate con decreti-legge non convertiti in legge e che questa situazione ha determinato condizioni di disparità tra il personale cessato dal servizio con anzianità contributive finanche superiori a quelle dei collocati in congedo a domanda in tempi successivi,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad assumere le opportune iniziative affinché, anche in via amministrativa, gli aumenti periodici di stipendio di cui all'articolo 4 del decreto legislativo 30 aprile 1997, n. 165, siano attribuiti a domanda anche al personale cessato dal servizio dal 17 agosto 1995 al 31 dicembre 1999, fermi restando i presupposti, le condizioni e le modalità, stabilite dallo stesso decreto legislativo, per l'attribuzione degli aumenti periodici di stipendio dietro corresponsione degli oneri dovuti, da parte dell'interessato.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

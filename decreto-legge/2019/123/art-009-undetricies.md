@@ -1,7 +1,0 @@
-Art. 9-undetricies.
-
-(( (Destinazione al Fondo per la ricostruzione delle aree terremotate delle somme versate dalla Camera dei deputati al bilancio dello Stato) ))
-
-((1. L'importo di 100 milioni di euro, versato dalla Camera dei deputati e affluito al bilancio dello Stato in data 6 novembre 2019 sul capitolo 2368, articolo 8, dello stato di previsione dell'entrata, e' destinato, nell'esercizio 2019, al Fondo per la ricostruzione delle aree terremotate, di cui all'articolo 4 del decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, per essere trasferito alla contabilita' speciale intestata al Commissario straordinario del Governo per la ricostruzione nei territori interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016, nominato con decreto del Presidente del Consiglio dei ministri 5 ottobre 2018.
-
-Dell'importo di cui al primo periodo, una quota pari a 26,8 milioni di euro e' destinata, con apposita ordinanza del Commissario straordinario, ai comuni di cui agli allegati 1, 2 e 2-bis al decreto-legge 17 ottobre 2016, n. 189, convertito, con modificazioni, dalla legge 15 dicembre 2016, n. 229, con meno di 30.000 abitanti, per la realizzazione di uno o piu' interventi fino a un importo massimo di 200.000 euro per ciascun comune, a condizione che i lavori abbiano inizio entro un anno dall'assegnazione del contributo da parte del Commissario straordinario))

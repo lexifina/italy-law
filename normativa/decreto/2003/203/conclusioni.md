@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Roma, 8 maggio 2003
+
+Il Ministro dell'ambiente e della tutela del territorio Matteoli Il Ministro delle attivita' produttive Marzano Il Ministro della salute Sirchia Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 23 luglio 2003 Ufficio di controllo sui Ministeri delle infrastrutture ed assetto del territorio, registro n. 3, foglio n. 226 Ammesso al visto e alla conseguente registrazione con esclusione: dell'art. 5; dell'art. 6, comma 1, limitatamente alle parole «al gruppo di lavoro utilizzando il modello di cui all'allegato A»; dell'art. 6, comma 2, lettera b), limitatamente alle parole «dal gruppo di lavoro» e lettera c), limitatamente alle parole «che il gruppo di lavoro si riserva di convocare in sede di valutazione della domanda»; dell'art. 8, commi 1 e 2; dell'art. 10, comma 1, ai sensi della deliberazione della Sezione del controllo in data 22 luglio 2003.

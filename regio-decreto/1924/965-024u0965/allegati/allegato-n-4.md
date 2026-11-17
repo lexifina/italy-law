@@ -1,3 +1,0 @@
-ALLEGATO N. 4 (Art. 108 e 111)
-
-Parte di provvedimento in formato grafico

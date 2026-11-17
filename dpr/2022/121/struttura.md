@@ -1,7 +1,0 @@
-- Titolo I TRATTAMENTO ECONOMICO (Art. 2.)
-
-- Titolo II ISTITUTI NORMATIVI (Art. 15.)
-
-- Titolo III RELAZIONI SINDACALI (Art. 37.)
-
-- Titolo IV NORME FINALI (Art. 48.)

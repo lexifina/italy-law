@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5"/>
+					<an:FRBRdate date="2016-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2111B/39/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@"/>
+					<an:FRBRdate date="2016-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@.akn"/>
+					<an:FRBRdate date="2016-01-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-01-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-01-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2111-B/C/G/2111B/39/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2111-B" showAs="DDL 2111-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAWBUP" href="http://dati.senato.it/senatore/29174" showAs="SANTANGELO"/>
+				<an:TLCPerson id="IDAPCUP" href="http://dati.senato.it/senatore/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDAIBUP" href="http://dati.senato.it/senatore/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDASDUP" href="http://dati.senato.it/senatore/29127" showAs="MANGILI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2111-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2111B/39/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWBUP" as="#tipoSenatore">SANTANGELO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPCUP" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIBUP" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASDUP" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge 2111-B,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            tra le modificazioni introdotte dalla Camera dei deputati al disegno di legge in titolo figura l'istituzione, in attuazione dei princìpi di cui alla direttiva 29/2012/UE del Parlamento europeo e del Consiglio del 25 ottobre 2012, in materia di diritti, assistenza e protezione delle vittime di reato, nonché in attuazione della Convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica, ratificata ai sensi della legge 27 giugno 2013, n. 77, nonché in attuazione del decreto-legge 14 agosto 2013, n. 93, convertito, con modificazioni, dalla legge 15 ottobre 2013, n. 119, nelle aziende sanitarie e ospedaliere, di un percorso di protezione denominato «Percorso di tutela delle vittime di violenza», con la finalità di tutelare le persone vulnerabili vittime della altrui violenza, con particolare riferimento alle vittime di violenza sessuale, maltrattamenti o atti persecutori (articolo 1 commi 790 e 791);</an:p>
+				<an:p>            tale opportuna previsione andrebbe integrata, a regime, con l'istituzione, come previsto da numerosi disegni di legge atti di indirizzo di iniziativa parlamentare, anche di un apposito fondo per le vittime dei reati intenzionali violenti al momento non pienamente tutelate dalla legislazione vigente, finalizzato a concedere elargizioni a ciascuna persona che non abbia potuto conseguire il risarcimento del danno patrimoniale o non patrimoniale cagionato dal reato o la rifusione delle spese e degli onorari di costituzione di parte civile e di difesa, quando il responsabile è deceduto, ovvero, successivamente alla sentenza di condanna, si è sottratto all'adempimento delle obbligazioni civili, oppure quando il responsabile è rimasto ignoto,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad assumere le opportune iniziative al fine di risolvere le problematiche di cui in premessa, con particolare riferimento alle vittime dei reati intenzionali violenti che abbiano riportato lesioni personali gravi, permanenti o gravissime, ovvero, laddove persona offesa abbia perso la vita a seguito del reato, ai loro familiari e conviventi, nei casi in cui tali persone non siano tutelate, anche dal punto di vista economico, da specifiche norme o specifici fondi già previsti dalla legislazione vigente.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

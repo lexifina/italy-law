@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7"/>
+					<an:FRBRdate date="2009-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.0.7"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@"/>
+					<an:FRBRdate date="2009-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@.akn"/>
+					<an:FRBRdate date="2009-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-11-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-11-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1167/A/G7.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1167" showAs="DDL 1167"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/22701" showAs="Adragna"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/2420" showAs="Treu"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/25196" showAs="Biondelli"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/25220" showAs="Blazina"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/25225" showAs="Ghedini"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/11320" showAs="Ichino"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/25216" showAs="Nerozzi"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/25228" showAs="Passoni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1167</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.0.7 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Adragna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Treu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Biondelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Blazina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Ghedini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Ichino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Nerozzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Passoni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la legge 23 dicembre 2005, n. 266, all'articolo 1, comma 245, ha autorizzato, per ciascuno degli anni 2006, 2007, 2008, la spesa di 370 milioni di euro per la proroga delle attività svolte da soggetti impegnati in progetti di lavori socialmente utili (LSU) di cui all'articolo 78, comma 31, della legge 23 dicembre 2000, n. 388;</an:p>
+				<an:p align="justify">            sulla parte maggiore di tali attività sono state regolarmente indette e svolte gare d'appalto, che hanno visto l'assegnazione ad imprese singole a consorzi di imprese, attualmente titolari dei contratti di servizio;</an:p>
+				<an:p align="justify">            nel corso del 2009, tramite provvedimenti successivi, sono state garantite le risorse minime necessarie alla prosecuzione dei contratti fino al 31 dicembre 2009;</an:p>
+				<an:p align="justify">            l'incertezza circa la previsione nel disegno di legge finanziaria per il 2010 delle risorse necessarie a garantire per i prossimi anni la continuità degli appalti in atto per il servizio di pulizia e custodia nelle scuole ha costretto le imprese dei servizi pulizia ad avviare le procedure di licenziamento collettivo, ai sensi della legge 23 luglio 1991, n. 223, nei confronti di oltre 14.700 lavoratori della scuola che dunque si ritroveranno a partire dal 1° gennaio 2010 senza rapporto di lavoro,</an:p>
+				<an:p>        impegna il Governo ad intervenire perché sia assicurata la continuità occupazionale ai soggetti ex LSU impegnati nello svolgimento dei servizi presso istituti scolastici e la continuità dei servizi medesimi, ai sensi dell'articolo 78, comma 31, della legge 23 dicembre 2000, n. 388.________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

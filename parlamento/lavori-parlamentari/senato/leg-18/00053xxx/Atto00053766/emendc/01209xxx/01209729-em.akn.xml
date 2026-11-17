@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2120/C/3.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2120/C/3.5"/>
+					<an:FRBRdate date="2021-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2120/C/3.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@"/>
+					<an:FRBRdate date="2021-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@.akn"/>
+					<an:FRBRdate date="2021-04-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-04-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-04-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2120/C/3.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/2120" showAs="Ddl 2120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32662" showAs="Maria Laura Mantovani"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32639" showAs="Vincenzo Garruti"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32687" showAs="Gianluca Perilli"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/29174" showAs="Vincenzo Santangelo"/>
+				<an:TLCPerson id="ID0EGC" href="http://dati.senato.it/29599" showAs="Danilo Toninelli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 2120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Mantovani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Garruti</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Perilli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Santangelo</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Toninelli</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Aggiungere in fine i seguenti commi:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «2
+					<an:i>-bis</an:i>
+					. Al testo unico delle leggi per la composizione e la elezione degli organi delle Amministrazioni comunali, di cui al decreto del Presidente della Repubblica, 16 maggio 1960, n. 570, sono apportate le seguenti modificazioni:
+				</an:p>
+				
+
+				<an:p>        a) all'articolo 47, comma 7 dopo la parola: "scheda" sono aggiunte le seguenti: ", dotata di un apposito tagliando rimovibile, dotato di codice progressivo alfanumerico generato in serie, denominato "tagliando antifrode", che è rimosso e conservato dagli uffici elettorali prima dell'inserimento della scheda nell'urna";</an:p>
+				
+
+				<an:p>        b) all'articolo 49:</an:p>
+				
+
+				<an:p>        1) al comma 1, dopo le parole: "una scheda e" sono inserite le seguenti: ", annotato il codice progressivo alfanumerico del tagliando antifrode";</an:p>
+				
+
+				<an:p>            2) al comma 2, le parole: "e pone la scheda stessa nell'urna" sono sostituite dalle seguenti: "stacca il tagliando antifrode dalla scheda, controlla che il numero progressivo sia lo stesso annotato prima della consegna e, successivamente, pone la scheda senza tagliando nell'urna".</an:p>
+				
+
+				<an:p>
+					        2
+					<an:i>-ter</an:i>
+					. All'articolo 11, comma 2 della legge 17 febbraio 1968, n. 108, è aggiunto in fine il seguente periodo: "Ogni scheda è dotata di un apposito tagliando rimovibile, dotato di codice progressivo alfanumerico generato in serie, denominato "tagliando antifrode", che è rimosso e conservato dagli uffici elettorali prima dell'inserimento della scheda nell'urna".
+				</an:p>
+				
+
+				<an:p>
+					        2
+					<an:i>-quater</an:i>
+					. All'attuazione delle disposizioni dei commi 2
+					<an:i>-bis</an:i>
+					 e 2
+					<an:i>-ter</an:i>
+					 si provvede nell'ambito delle risorse umane, strumentali e finanziarie disponibili a legislazione vigente e, comunque, senza nuovi o maggiori oneri per la finanza pubblica.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/58.0.306"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="58.0.306"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@.akn"/>
+					<an:FRBRdate date="2017-05-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-05-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-05-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2085/A/58.0.306/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2085" showAs="DDL 2085"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID2POA35NK0KSXLL5RTQPWOAC1IBVI3ZJ40ARLFDQW3NBJRNGENSD" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="ID2JG1EQHEFAX4B154O4B4LVCH3FLCNPJYWTLINHBR3RGBVL3BXQVM" href="http://dati.senato.it/29189" showAs="TAVERNA"/>
+				<an:TLCPerson id="IDZRCQHEEPPJDTM10ERZNH0LFEHG543K2MWKXV40G2X3KBZ2STHGXE" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDAO40AMW1XZLVK01QCWMFGPV21JTMIF2F44MZZIJUWE5SKCKUEGGD" href="http://dati.senato.it/29102" showAs="GAETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2085</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 58.0.306</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2POA35NK0KSXLL5RTQPWOAC1IBVI3ZJ40ARLFDQW3NBJRNGENSD" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2JG1EQHEFAX4B154O4B4LVCH3FLCNPJYWTLINHBR3RGBVL3BXQVM" as="#tipoSenatore">TAVERNA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZRCQHEEPPJDTM10ERZNH0LFEHG543K2MWKXV40G2X3KBZ2STHGXE" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAO40AMW1XZLVK01QCWMFGPV21JTMIF2F44MZZIJUWE5SKCKUEGGD" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 58-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modifiche all'articolo 1 del decreto-legge 21 ottobre 1996, n. 536, convertito, con modificazioni, dalla legge 23 dicembre 1996, n. 648, in materia di impiego di medicinali)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 1 del decreto-legge 21 ottobre 1996, n. 536, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 4-
+					<an:i>bis</an:i>
+					, dopo le parole: "previa valutazione dell'Agenzia italiana del farmaco (AIFA)" sono aggiunte le seguenti: "e sentito il Consiglio Superiore di Sanità";
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al comma 4-
+					<an:i>bis</an:i>
+					, dopo le parole: "In tal caso l'AIFA attiva idonei strumenti di monitoraggio a tutela della sicurezza dei pazienti e assume tempestivamente le necessarie determinazioni" sono aggiunte le seguenti: "La valutazione del medicinale non autorizzato da parte di AIFA ed il parere del Consiglio superiore di sanità di cui al presente comma, deve essere effettuata per tutte le patologie per cui il medicinale è stato inserito nell'elenco di cui al comma 4, ovvero in caso di inserimento del medicinale nell'elenco dei farmaci essenziali dell'OMS".
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 dopo il comma 4-
+					<an:i>bis</an:i>
+					, è inserito il seguente:
+				</an:p>
+				<an:p>
+					        "4-
+					<an:i>ter</an:i>
+					. Quando la via di somministrazione del medicinale avente indicazione autorizzata e di quello non avente l'indicazione autorizzata sia la stessa, l'utilizzo dei medicinali per un'indicazione terapeutica diversa da quella autorizzata di cui al comma 4-
+					<an:i>bis</an:i>
+					 è consentito in tutte le strutture nelle quali sia permessa la somministrazione del medicinale per l'indicazione terapeutica autorizzata"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

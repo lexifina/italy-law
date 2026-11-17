@@ -1,0 +1,9 @@
+ALLEGATO 1
+
+Lista A
+
+IMPORTAZIONE IN ITALIA DI PRODOTTI PORTOGHESI
+
+NON LIBERATI NEL QUADRO DELL'O.E.C.E.
+
+Parte di provvedimento in formato grafico

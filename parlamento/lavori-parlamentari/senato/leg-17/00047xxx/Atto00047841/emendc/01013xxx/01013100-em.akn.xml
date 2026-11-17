@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/C/9.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/C/9.4"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2754/C/9.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@.akn"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2754/C/9.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2754" showAs="DDL 2754"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCPETD4N1K4F0C5QYFNEGYQBQFJOOUTM3HHOBOMENOGZS1TU2PLVI" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDE2HG3VW4P4GCMPC4QTFHKRS4NND2TAXBFK1UJ4BJRQB53C1ULYXN" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDLH2TTTTSB30VLUFTTE20IUDXMNENYMK305KWFCKP30DNLR33UJJP" href="http://dati.senato.it/29143" showAs="MORRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2754</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCPETD4N1K4F0C5QYFNEGYQBQFJOOUTM3HHOBOMENOGZS1TU2PLVI" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE2HG3VW4P4GCMPC4QTFHKRS4NND2TAXBFK1UJ4BJRQB53C1ULYXN" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLH2TTTTSB30VLUFTTE20IUDXMNENYMK305KWFCKP30DNLR33UJJP" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, primo periodo, sostituire le parole da:</an:i>
+					 «ponga in essere» 
+					<an:i>fino a:</an:i>
+					 «all'articolo 10, l'allontanamento» 
+					<an:i>con le seguenti:</an:i>
+					 «commette le violazioni previste dagli articoli 688 e 726 del Codice penale e dell'articolo 29 del decreto legislativo 31 marzo 1998, n. 114, all'interno delle predette infrastrutture, ferma restando l'applicazione delle sanzioni amministrative previste dalle predette disposizioni, è soggetto a provvedimento di allontanamento, nelle forme e nelle modalità di cui all'articolo 10».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente sopprimere il comma 2.</an:i>
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 4, sostituire il primo periodo con il seguente:</an:i>
+					 «Per il provvedimento di allontanamento di cui al comma 1, I'autorità competente è il sindaco del comune nel cui territorio le medesime sono state accertate».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

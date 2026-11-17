@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G48.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G48.105"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G48.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G48.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@.akn"/>
+					<an:FRBRdate date="2020-04-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/A/G48.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1766" showAs="DDL 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMCSHKMUG4NGOJKEFVQ4N2XUQYEQ1NTZK2RBERFORKM4OPALLJDHI" href="http://dati.senato.it/22712" showAs="BINETTI"/>
+				<an:TLCPerson id="IDPYHRSALLEO2DC1WJEKKLHIVDSMNLH4F0RD0O4EPJCU52U2OH3DYJ" href="http://dati.senato.it/22814" showAs="DE POLI"/>
+				<an:TLCPerson id="IDAIATH5KM03WNDOEUCWFAH1FDMC1SDBMV0NP3YTGS2LWOKYTKFTTE" href="http://dati.senato.it/25198" showAs="RIZZOTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G48.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMCSHKMUG4NGOJKEFVQ4N2XUQYEQ1NTZK2RBERFORKM4OPALLJDHI" as="#tipoSenatore">BINETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPYHRSALLEO2DC1WJEKKLHIVDSMNLH4F0RD0O4EPJCU52U2OH3DYJ" as="#tipoSenatore">DE POLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAIATH5KM03WNDOEUCWFAH1FDMC1SDBMV0NP3YTGS2LWOKYTKFTTE" as="#tipoSenatore">RIZZOTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di discussione del decreto-legge recante Misure di potenziamento del Servizio sanitario nazionale e di sostegno economico per famiglie, lavoratori e imprese connesse all'emergenza epidemiologica da COVID-19;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            la pandemia in atto di COVID-19 ha concentrato l'attenzione prevalentemente sulle misure urgenti in grado di contrastare la diffusione del virus e gestire i casi di malattia più gravi che necessitano di terapia intensiva. Ma in tale contesto occorre dare una risposta anche alle numerose istanze di assistenza socio-sanitaria dei soggetti ad alta fragilità, sottoposti a specifiche terapie e al monitoraggio di malattie croniche o di malattie rare, che oggi sono più a rischio e necessitano di assistenza presso il proprio domicilio, per impedirne o comunque ridurne il rischio di contagio e, al contempo, di sollevare il sistema sanitario locale dall'obbligo di prestare tale tipo di assistenza in strutture oggi più che mai vicine al collasso;</an:p>
+				<an:p>            la situazione di emergenza dovuta alla diffusione del COVID-19 richiede quindi piena attuazione nel territorio regionale e provinciale delle misure previste dal Piano nazionale della cronicità in materia di cure domiciliari in favore delle persone non autosufficienti e in condizioni di fragilità, con patologie in atto o esiti delle stesse, per cui in questa situazione di emergenza, occorre porre a regime con disposizione immediata e urgente tutte le misure utili a favorire il ricorso all'assistenza domiciliare dei soggetti con maggiori fragilità;</an:p>
+				<an:p>            tenuto conto che per mantenere i pazienti affetti da malattie croniche e da malattie rare nel proprio domicilio per impedire o comunque ridurre il rischio di contagio, le regioni, le province autonome di Trento e Bolzano e le aziende sanitarie, si sono avvalse di società che da tempo di occupano di Programmi di supporto ai pazienti e, in particolare, di cure domiciliari che somministrano gratuitamente sulla base di accordi con le aziende farmaceutiche;</an:p>
+				<an:p>            ricordando che il Decreto del Presidente del Consiglio dei Ministri del 12 gennaio 201 7 all'articolo 22 in materia di Cure domiciliari prevede che il Servizio sanitario nazionale debba garantire «alle persone non autosufficienti e in condizioni di fragilità, con patologie in atto o esiti delle stesse, percorsi assistenziali a domicilio costituiti dall'insieme organizzato di trattamenti medici, riabilitativi, infermieristici e di aiuto infermieristico necessari per stabilizzare il quadro clinico, limitare il declino funzionale e migliorare la qualità della vita. L'azienda sanitaria locale assicura la continuità tra le fasi di assistenza ospedaliera e l'assistenza territoriale a domicilio ... »;</an:p>
+				<an:p>            considerando soprattutto in questa fase emergenziale, la necessità di attivare senza indugio tali servizi per sollevare gli ospedali da attività non critiche e ridurre i rischi di contagio di pazienti ad alta fragilità, il tutto a costo zero per il Sistema sanitario nazionale,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            a valutare l'opportunità che il Ministero della Salute, senza alcun onere per lo Stato, stipuli accordi con aziende private, aziende farmaceutiche e altri soggetti ritenuti idonei per l'erogazione di tali prestazioni ai pazienti affetti da patologia rara che ne facciano richiesta allegando una documentazione adeguata della loro condizione, per garantire ad ognuno di questi pazienti la somministrazione a domicilio 
+					<an:i>(Home Therapy)</an:i>
+					 di tutte le terapie ritenute necessarie.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

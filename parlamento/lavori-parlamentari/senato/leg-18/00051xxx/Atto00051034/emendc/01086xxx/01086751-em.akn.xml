@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1493/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1493"/>
+					<an:FRBRdate date="2018-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1493/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1493"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@"/>
+					<an:FRBRdate date="2018-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@.akn"/>
+					<an:FRBRdate date="2018-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.1493/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDVUBXS3VS01Z3CCGOZW2UVU1V2KDSCM2XXVJ20JMREGAAX5IDQWSK" href="http://dati.senato.it/28924" showAs="VERDUCCI"/>
+				<an:TLCPerson id="IDUN03JHPQF0MMORXNL3KTGC0EQQCX30IUWK0YIJG4ZOOPTTXTBMI" href="http://dati.senato.it/29443" showAs="IORI"/>
+				<an:TLCPerson id="IDU055EB5HIG0POBH1FHLK0LBGGBDPPQZLHNZASYEHSVZPHMIL5SLG" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="IDVFFJC5AORVB1I2EVBJQBIVWHUOBMUEZ5QB5LFIKFWSVQ3QPZAVAF" href="http://dati.senato.it/29552" showAs="RAMPI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1493</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVUBXS3VS01Z3CCGOZW2UVU1V2KDSCM2XXVJ20JMREGAAX5IDQWSK" as="#tipoSenatore">VERDUCCI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUN03JHPQF0MMORXNL3KTGC0EQQCX30IUWK0YIJG4ZOOPTTXTBMI" as="#tipoSenatore">IORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU055EB5HIG0POBH1FHLK0LBGGBDPPQZLHNZASYEHSVZPHMIL5SLG" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVFFJC5AORVB1I2EVBJQBIVWHUOBMUEZ5QB5LFIKFWSVQ3QPZAVAF" as="#tipoSenatore">RAMPI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 228 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «228. Per il personale dipendente da amministrazioni, istituzioni ed enti pubblici diversi dal l'amministrazione statale, con l'esclusione degli enti ed istituzioni di ricerca di cui all'articolo 1 del decreto legislativo 25 novembre 2016, n. 218, i quali rientrano nella previsione di spesa di cui al comma 226, gli oneri per i rinnovi contrattuali per il triennio 2019-2021, nonché quelli derivanti dalla corresponsione dei miglioramenti economici al personale di cui all'articolo 3, comma 2, del decreto legislativo 30 marzo 2001, n. 165, sono posti a carico dei rispettivi bilanci ai sensi dell'articolo 48, comma 2, del medesimo decreto legislativo. In sede di emanazione degli atti di indirizzo previsti dall'articolo 47, comma 1, del citato decreto legislativo n. 165 del 2001 i comitati di settore provvedono alla quantificazione delle relative risorse, attenendosi ai criteri previsti per il personale delle amministrazioni dello Stato di cui al comma 226. A tale fine i comitati di settore si avvalgono dei dati disponibili presso il Ministero dell'economia e delle finanze, comunicati dalle rispettive amministrazioni in sede di rilevazione annuale dei dati concernenti, il personale dipendente».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.13"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1110, 1410, 1544 NT3/C/2.13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Emendamento/17/1110, 1410, 1544 NT3" showAs="Emendamento 1110, 1410, 1544 NT3"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="10ª Commissione permanente" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCYP1VYS2FCZSLT4PVVYETG1N0OTSM4MORWGKATOSAI5EEM2RXBYO" href="http://dati.senato.it/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDI42A1UQ4KXLDM513TQN2RF4GGFU0ZYMXUIRE5ZLUWZVH0OH5WYNO" href="http://dati.senato.it/29058" showAs="CAMPANELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Emendamento 1110, 1410, 1544 NT3</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCYP1VYS2FCZSLT4PVVYETG1N0OTSM4MORWGKATOSAI5EEM2RXBYO" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDI42A1UQ4KXLDM513TQN2RF4GGFU0ZYMXUIRE5ZLUWZVH0OH5WYNO" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso «Art. 21», sostituire il comma 5 con il seguente:</an:i>
+				</an:p>
+				<an:p>«5. Per l'espletamento dei compiti di cui al comma 4, il Comitato si avvale, nell'ambito delle risorse proprie di ciascuna amministrazione e senza nuovi o maggiori oneri a carico della finanza pubblica, di un organo consultivo indipendente, denominato Consiglio di Esperti per Politiche Aerospaziali (CEPA), composto esclusivamente da membri scelti tra personalità di altissima e comprovata qualificazione del mondo scientifico, tecnologico, culturale, produttivo e delle parti sociali, nominati con decreto del Presidente della Repubblica, previa deliberazione del Consiglio dei Ministri, su proposta del Ministro dell'istruzione, dell'università e della ricerca, di concerto con il Ministro dello sviluppo economico, con il Ministro della difesa, con il Ministro degli affari esteri e della cooperazione internazionale e con il Ministro dell'ambiente e della tutela del territorio e del mare, sentite le Commissioni parlamentari competenti e previo esperimento di forme di consultazione della comunità scientifica ed economica, assicurando l'apporto di competenze diverse. Ai membri del CEPA sono riconosciuti i rimborsi per le spese di viaggio e per quelle sostenute in relazione ai partecipanti alla missione».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

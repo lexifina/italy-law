@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1458/A/G3.104/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1458/A/G3.104"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1458/A/G3.104/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.104"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@.akn"/>
+					<an:FRBRdate date="2016-05-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-05-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-05-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1458/A/G3.104/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1458" showAs="DDL 1458"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3DCJPMAPULJYGO41IGXI5HN0FHNFAOCFWVBALD4KSL3PE4YH3RB" href="http://dati.senato.it/senatore/29123" showAs="LUCIDI"/>
+				<an:TLCPerson id="IDSNPZV3WIX2OGNHYYMYRKVOYWNOSJBPGSFSGBJ2EU3A1D1MNYFXSD" href="http://dati.senato.it/senatore/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDMC0BLEGXZ1DYMNJWVJ1LIG1N1I0EGZ3SMNUF5MKMQKJD2JUVAV4N" href="http://dati.senato.it/senatore/29132" showAs="MARTON"/>
+				<an:TLCPerson id="IDXB0UGHE1AOKHONGNKWCVCW0P5GQHM0HMGGIZOYBA5RWIBP15ERPD" href="http://dati.senato.it/senatore/29142" showAs="MORONESE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1458</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.104</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3DCJPMAPULJYGO41IGXI5HN0FHNFAOCFWVBALD4KSL3PE4YH3RB" as="#tipoSenatore">LUCIDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSNPZV3WIX2OGNHYYMYRKVOYWNOSJBPGSFSGBJ2EU3A1D1MNYFXSD" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMC0BLEGXZ1DYMNJWVJ1LIG1N1I0EGZ3SMNUF5MKMQKJD2JUVAV4N" as="#tipoSenatore">MARTON</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXB0UGHE1AOKHONGNKWCVCW0P5GQHM0HMGGIZOYBA5RWIBP15ERPD" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge Atto Senato n. 1458, rubricato: «Istituzione del Sistema nazionale a rete per la protezione dell'ambiente e disciplina dell'Istituto superiore per la protezione e la ricerca ambientale;</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 3 indica le funzioni del «Sistema nazionale»,</an:p>
+				<an:p>        impegna il Governo ad attribuire, al sistema nazionale, compatibilmente con la normativa europea e internazionale, anche funzioni di supporto tecnico allo sviluppo e all'applicazione di procedure di certificazione sull'impatto ambientale che i singoli prodotti nonché i materiali che li compongono hanno sull'ambiente.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Firma aggiunta in corso di seduta</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

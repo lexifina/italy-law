@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./main"/>
+					<an:FRBRuri value="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100."/>
+					<an:FRBRdate date="2006-05-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.4761.100."/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@"/>
+					<an:FRBRdate date="2006-05-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@.akn"/>
+					<an:FRBRdate date="2006-05-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2006-05-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2006-05-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/13/Emend/S/4761/A/9.4761.100./ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/13/4761" showAs="DDL 4761"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/532" showAs="Castelli"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/3884" showAs="Moro"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3862" showAs="Rossi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1847" showAs="Peruzzotti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3858" showAs="Tirelli"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3875" showAs="Gasperini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/2526" showAs="Wilde"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/12836" showAs="Stiffoni"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 4761</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.4761.100.</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Castelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Moro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Peruzzotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Tirelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Gasperini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Wilde</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Stiffoni</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> esaminato il disegno di legge recante «Disposizioni per l'assestamento del bilancio dello Stato e dei bilanci delle Amministrazioni autonome per l'anno finanziario 2000»;</an:p>
+				<an:p align="justify">premesso che:</an:p>
+				<an:p align="justify">il debito pubblico in Italia è ancora pari al doppio del massimo consentito dal trattato di Maastricht e dal confronto con la situazione degli altri paesi dell'Unione europea risulta il più elevato nell'Europa comunitaria;</an:p>
+				<an:p align="justify"> per realizzare una riduzione del debito pubblico è necessario mantenere un avanzo primario consistente che allo stato attuale si colloca già a livelli elevati per effetto di un forte aumento delle entrate sul Pil;</an:p>
+				<an:p align="justify">considerato che ai fini dell'assestamento vengono proposte variazioni in aumento per le entrate finali,</an:p>
+				<an:p align="justify"> impegna il Governo:</an:p>
+				<an:p align="justify">
+					ad assumere tutte le opportune iniziative dirette a mantenere il miglioramento dei saldi anche per l'anno finanziario 2001, utilizzando le maggiori entrate derivanti dall'aumento del gettito tributario per la riduzione del 
+					<an:i>deficit</an:i>
+					 piuttosto che per la copertura di provvedimenti che determineranno maggiori spese o minori entrate.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

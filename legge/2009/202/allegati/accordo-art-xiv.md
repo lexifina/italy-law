@@ -1,7 +1,0 @@
-ARTICOLO XIV
-
-COMPOSIZIONE DELLE CONTROVERSIE
-
-1. In base alla Sezione 29 della Convenzione, lo Staff College dovra' prevedere ad istituire metodi appropriati di soluzione per le controversie nelle quali sara' implicato un funzionario dello Staff College che, per il fatto della sua posizione ufficiale, gode dell'immunita', se questa immunita' non e' stata tolta secondo l'articolo IX del presente Accordo.
-
-2. Eventuali controversie fra lo Staff College ed il Governo relative all'interpretazione e applicazione del presente Accordo, che non potranno essere composte tramite negoziato o altre modalita' di composizione concordate, saranno sottoposte ad arbitrato, su richiesta di una delle due Parti. Ciascuna Parte nominera' un arbitro, ed i due arbitri in tal modo nominati ne nomineranno un terzo, che fungera' da presidente. Qualora, entro trenta (30) giorni dalla richiesta di arbitrato una delle due Parti non abbia nominato un arbitro, ovvero qualora entro quindici (15) giorni dalla nomina dei due arbitri non sia stato nominato il terzo, una delle due Parti puo' chiedere al Presidente della Corte Internazionale di Giustizia di nominare un arbitro. La Procedura di arbitrato sara' fissata dagli arbitri, e le relative spese saranno sostenute dalle Parti in base alla valutazione degli arbitri. Il lodo arbitrale sara' corredato da una dichiarazione motivata, e sara' accettato dalle Parti come sentenza definitiva della controversia.

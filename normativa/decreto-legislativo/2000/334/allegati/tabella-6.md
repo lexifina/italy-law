@@ -1,0 +1,5 @@
+Tabella 6
+
+(richiamata dall'art. 68)
+
+((TABELLA ABROGATA DAL D.LGS. 27 DICEMBRE 2019, N. 172))

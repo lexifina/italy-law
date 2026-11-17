@@ -1,3 +1,0 @@
-Convention entre l'Italie et la France sur l'Aide Mutuelte Judiciaire
-
-Parte di provvedimento in formato grafico

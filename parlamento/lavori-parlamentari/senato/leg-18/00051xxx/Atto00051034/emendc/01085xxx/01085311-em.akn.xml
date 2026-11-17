@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.18/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.18"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.18/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.18"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@.akn"/>
+					<an:FRBRdate date="2018-12-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.18/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOUAZCV5RMRVMNF0NSXG0UKERLFKVJHNJ4FL5AEQJADJEDVMOIS" href="http://dati.senato.it/23135" showAs="MARGIOTTA"/>
+				<an:TLCPerson id="IDITHPHY2EWP1SEG0HUCPRKDEZFEV01UHV00JVVXNUFUSBIYFGENAC" href="http://dati.senato.it/29040" showAs="ASTORRE"/>
+				<an:TLCPerson id="IDFLCX5HUHP2B5F4DPDCXSO4ASQBBFPAASGPJDW5IK22RX1PXAV3JM" href="http://dati.senato.it/29358" showAs="D'ARIENZO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.18</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOUAZCV5RMRVMNF0NSXG0UKERLFKVJHNJ4FL5AEQJADJEDVMOIS" as="#tipoSenatore">MARGIOTTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDITHPHY2EWP1SEG0HUCPRKDEZFEV01UHV00JVVXNUFUSBIYFGENAC" as="#tipoSenatore">ASTORRE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFLCX5HUHP2B5F4DPDCXSO4ASQBBFPAASGPJDW5IK22RX1PXAV3JM" as="#tipoSenatore">D'ARIENZO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 4, aggiungere il seguente:</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis.</an:i>
+					 Quale azione a supporto del mantenimento di competitività delle imprese portuali, viene introdotta per la durata di 2 anni una riduzione, nel limite di spesa annua di 2 milioni di euro, delle accise sui prodotti energetici per i veicoli e macchine industriali utilizzati esclusivamente nei siti portuali della circoscrizione territoriale dell'AdSP del Mar Ligure Occidentale. La modalità della suddetta riduzione è definita con decreto del Ministro dell'economia e delle finanze, di concerto con i ministri dello sviluppo economico e delle infrastrutture e trasporti, da emanarsi entro 30 giorni dall'entrata in vigore della presente norma».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla Tabella A, voce</an:i>
+					 Ministero dell'economia e delle finanze
+					<an:i>, apportare le seguenti variazioni in diminuzione:</an:i>
+				</an:p>
+				<an:p>        2019: - 2.000.000;</an:p>
+				<an:p>        2020: - 2.000.000;</an:p>
+				<an:p>        2021: -.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

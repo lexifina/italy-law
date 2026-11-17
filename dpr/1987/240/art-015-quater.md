@@ -1,5 +1,0 @@
-Art. 15-quater.
-
-Art.15 quater
-
-((ARTICOLO ABROGATO DAL D.LGS.30 MAGGIO 2003, N. 193))

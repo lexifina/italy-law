@@ -1,7 +1,0 @@
-Allegato G
-
-(Articolo 1, comma 2)
-
-REGI DECRETI LEGISLATIVI
-
-Parte di provvedimento in formato grafico

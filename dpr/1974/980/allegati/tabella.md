@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI CASOLI
-
-Parte di provvedimento in formato grafico

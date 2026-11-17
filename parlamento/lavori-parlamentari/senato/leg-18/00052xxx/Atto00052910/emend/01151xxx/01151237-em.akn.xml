@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/2.0.26"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.26"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@.akn"/>
+					<an:FRBRdate date="2020-05-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1774/A/2.0.26/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1774" showAs="DDL 1774"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEH3KPX03PD5CMJJINOQNX3SBDD33VUQ1IY5S2BLNKKK4TFRLDNKH" href="http://dati.senato.it/25295" showAs="PITTONI"/>
+				<an:TLCPerson id="IDASXDB1B0LSI3MY42X11YUIL2AF1FEVIRWU0OI0JAGS4M5TCVDJRC" href="http://dati.senato.it/32711" showAs="SAPONARA"/>
+				<an:TLCPerson id="IDK3UVKALF2ZDWBG0CFK3TT1EVXKM0DR1P10ASONH0YXLGEKC4PH0H" href="http://dati.senato.it/25565" showAs="BARBARO"/>
+				<an:TLCPerson id="IDUD1IUTSQJ0JHJ2ESI0NGC5RCBB0DTJVOZS5WVJHG3SPLHWDCF3XK" href="http://dati.senato.it/32590" showAs="BORGONZONI"/>
+				<an:TLCPerson id="IDVCFPO2AXHAJ4FWKSW3P5XX02RF3DTCWJADMNYIDAAVGXK2DDFF5B" href="http://dati.senato.it/35119" showAs="ALESSANDRINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1774</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.26</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEH3KPX03PD5CMJJINOQNX3SBDD33VUQ1IY5S2BLNKKK4TFRLDNKH" as="#tipoSenatore">PITTONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASXDB1B0LSI3MY42X11YUIL2AF1FEVIRWU0OI0JAGS4M5TCVDJRC" as="#tipoSenatore">SAPONARA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDK3UVKALF2ZDWBG0CFK3TT1EVXKM0DR1P10ASONH0YXLGEKC4PH0H" as="#tipoSenatore">BARBARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUD1IUTSQJ0JHJ2ESI0NGC5RCBB0DTJVOZS5WVJHG3SPLHWDCF3XK" as="#tipoSenatore">BORGONZONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVCFPO2AXHAJ4FWKSW3P5XX02RF3DTCWJADMNYIDAAVGXK2DDFF5B" as="#tipoSenatore">ALESSANDRINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 2
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p align="center">
+					<an:i>(Agevolazioni al personale docente precario della scuola per la diffusione della didattica da casa)</an:i>
+				</an:p>
+				<an:p>        1. Dopo l'articolo 121 del decreto legge n. 18 del 2020, è aggiunto il seguente:</an:p>
+				<an:p>
+					<an:i>«Art. 121</an:i>
+					-bis
+					<an:i>. (Agevolazioni al personale docente precario della scuola per la diffusione della didattica da casa così da consentire chiusura istituti e costituzione di contratti a tempo determinato e digitalizzazione contratti supplenza)</an:i>
+				</an:p>
+				<an:p>            1. A decorrere dalla data del presente decreto e fino al 31.07.2020 le disposizioni previste dall'art. 1 comma 121 della legge 13 luglio 2015 n. 107 sono applicate anche nei confronti del personale docente della scuola che sia in servizio nell'anno scolastico 2019/2020 con contratto a tempo determinato per la copertura di supplenze annuali e fino al termine delle attività didattiche.</an:p>
+				<an:p>        2.Nel caso di assenza dei docenti titolari durante della sospensione delle attività didattiche in presenza e al fine di garantire la didattica a distanza, i dirigenti scolastici che si avvalgono di supplenti attivano il contratto di lavoro a tempo determinato in modalità digitale, anche da remoto, avvalendosi del personale amministrativo dell'istituto scolastico posto in smart-working.</an:p>
+				<an:p>        3. Agli oneri derivanti dal presente articolo, pari a 80 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per le esigenze indifferibili di cui all'articolo 1, comma 199, della legge 23 dicembre 2014, n. 190».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7"/>
+					<an:FRBRdate date="2018-01-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1150/31/7"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@"/>
+					<an:FRBRdate date="2018-01-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@.akn"/>
+					<an:FRBRdate date="2018-01-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1150/C/G1150/31/7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1150" showAs="DDL 1150"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="7ª Commissione permanente" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCNTHBP5M1ITHJO4SEBPGO1UHJKX5O0U1FKH0VVIGWRXR3WRYL33J" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDUVK54VW3XDV0LGIKGGAAE4WA1OQTW1YFOPVUXXKYUMN4ECGVDZL" href="http://dati.senato.it/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDJ45TJIXHUQPAM4YU33CKRWSXFC3TS4XIKUQRKQEQCNCV1T3JNOWO" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDTWL1DPBGET1VIOFXKSECACPMZDDYC41FCLJUVICHWDX2P5WTQYNK" href="http://dati.senato.it/29048" showAs="BIGNAMI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1150</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1150/31/7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCNTHBP5M1ITHJO4SEBPGO1UHJKX5O0U1FKH0VVIGWRXR3WRYL33J" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUVK54VW3XDV0LGIKGGAAE4WA1OQTW1YFOPVUXXKYUMN4ECGVDZL" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJ45TJIXHUQPAM4YU33CKRWSXFC3TS4XIKUQRKQEQCNCV1T3JNOWO" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTWL1DPBGET1VIOFXKSECACPMZDDYC41FCLJUVICHWDX2P5WTQYNK" as="#tipoSenatore">BIGNAMI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>La 7 Commissione del Senato,</an:p>
+				<an:p>        in sede di esame dell'A.S. n. 1150 (Conversione in legge del decreto-legge 12 settembre 2013, n. 104, recante misure urgenti in materia di istruzione, università e ricerca),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 5 dispone che siano realizzati progetti didattici per l'arricchimento e l'ampliamento dell'offerta formativa;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            a far tempo dall'ultimo decennio del secolo scorso l'Italia ha definitivamente accentuato quel processo di trasformazione che l'ha vista passare da Paese di emigrazione a Paese di immigrazione;</an:p>
+				<an:p>            il numero di studenti (e/o studenti lavoratori) stranieri presenti nelle scuole italiane di ogni ordine e grado ha subito un fortissimo aumento, e ciò fa sì che le istituzioni scolastiche italiane siano frequentate ormai da studenti appartenenti ai più diversi credi religiosi,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a trasformare la disciplina «religione» in «storia delle religioni», al fine di favorire e promuovere i processi di integrazione degli studenti provenienti dall'estero appartenenti a tradizioni e culture differenti da quella italiana.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

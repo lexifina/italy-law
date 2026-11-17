@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 5 luglio 2002
-
-CIAMPI Berlusconi, Presidente del Consiglio dei Ministri Tremonti, Ministro dell'economia e delle finanze Frattini, Ministro per la funzione pubblica Visto, il Guardasigilli: Castelli Registrato alla Corte dei conti il 25 luglio 2002 Ufficio di controllo dei Ministeri economico-finanziari, registro n. 5 Economia e finanze, foglio n. 342 NOTE Avvertenza: - Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, commi 2 e 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

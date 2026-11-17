@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/62.37/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/62.37"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/62.37/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="62.37"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@.akn"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-06-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-06-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2853/A/62.37/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2853" showAs="DDL 2853"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHD4M2CWM5PA3D2GREIB0HWYCDLPLQPMZRDFMXQJJXRO2PBTQUNH" href="http://dati.senato.it/29070" showAs="CIOFFI"/>
+				<an:TLCPerson id="IDEI0OEOBPA5I4CLHY5MNV0D5UMLAT4ETJT2VJFZMBZFJEYHTXZH0O" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDNSXLM0E4RYRPBLKTASWGOVXHZEBSN5N2BKNL2YNEDX22E4VLRN3L" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="ID2QXD1HXMZPVNCPAQGQMVTVYXENEVSVHY21RRJVIZXUGHO2MKJOX" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDMVTDEADRRASRNS3054TZKW0SUBPYTWWPBESZN1ONFKZN2KE3H2BF" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="ID2L4NFWAKJC4JKYXTXYJLTGKW5KOJZYSWSOS5BGNRHEES15VM3BYO" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="ID11JRUUKR1F3YRCRC4NOXC0J0MU0GCW3S4XDJVEER0IQ1EINRHXB" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2853</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 62.37</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHD4M2CWM5PA3D2GREIB0HWYCDLPLQPMZRDFMXQJJXRO2PBTQUNH" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEI0OEOBPA5I4CLHY5MNV0D5UMLAT4ETJT2VJFZMBZFJEYHTXZH0O" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNSXLM0E4RYRPBLKTASWGOVXHZEBSN5N2BKNL2YNEDX22E4VLRN3L" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2QXD1HXMZPVNCPAQGQMVTVYXENEVSVHY21RRJVIZXUGHO2MKJOX" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMVTDEADRRASRNS3054TZKW0SUBPYTWWPBESZN1ONFKZN2KE3H2BF" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2L4NFWAKJC4JKYXTXYJLTGKW5KOJZYSWSOS5BGNRHEES15VM3BYO" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID11JRUUKR1F3YRCRC4NOXC0J0MU0GCW3S4XDJVEER0IQ1EINRHXB" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 5-bis, sopprimere le seguenti parole: «, in deroga agli strumenti urbanistici e ai regolamenti delle-regioni e degli enti locali».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

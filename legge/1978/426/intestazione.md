@@ -1,7 +1,0 @@
-LEGGE
-
-01 agosto 1978
-
-426
-
-Conversione in legge del decreto-legge 16 giugno 1978, n. 282, recante modalita' di applicazione dei regolamenti (CEE) n. 1079/77 del consiglio e n. 1822/77 della commissione relativi all'istituzione di un prelievo di corresponsabilita' sulla produzione del latte bovino.

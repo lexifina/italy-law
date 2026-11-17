@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G6.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G6.102"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G6.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G6.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@.akn"/>
+					<an:FRBRdate date="2017-07-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-07-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-07-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2860/A/G6.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2860" showAs="DDL 2860"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDEJSXPQAGSNMDFP4KTMMLBFYUABJCJ2NB5CCKWHGMB0XJ2LK2R0FF" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="ID5IRVGCC5QNX3LWFJSW0T45ZMAHIBSWGTJ4NPCBBP053FYLYCGZQI" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDROEHJW0Z3K2DMPUGHV5CHOL1KHJVKKPIYYQFSAFXHDKOL2RZZJLB" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDJRJN3B5WPJMINEEBQBN0DXNZXEWJ3AZDIDI5RDC3I5OX1MJA1CZC" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2860</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G6.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEJSXPQAGSNMDFP4KTMMLBFYUABJCJ2NB5CCKWHGMB0XJ2LK2R0FF" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5IRVGCC5QNX3LWFJSW0T45ZMAHIBSWGTJ4NPCBBP053FYLYCGZQI" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDROEHJW0Z3K2DMPUGHV5CHOL1KHJVKKPIYYQFSAFXHDKOL2RZZJLB" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJRJN3B5WPJMINEEBQBN0DXNZXEWJ3AZDIDI5RDC3I5OX1MJA1CZC" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge di Conversione del decreto-legge 20 giugno 2017, n. 91, recante disposizioni urgenti per la crescita economica nel Mezzogiorno,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il Comitato per la valutazione dei progetti per il Fondo di attuazione al «Piano nazionale per la riqualificazione sociale e culturale delle aree urbane degradate» ha ritenuto ammissibili 870 progetti presentati da altrettanti comuni sono risultati ammissibili a finanziamento circa 451 progetti per un fabbisogno di finanziamento che supera di più di tre volte la dotazione iniziale del fondo, che ammontava a circa 200 milioni di euro;</an:p>
+				<an:p>            il fondo in questione, peraltro, per effetto di successivi interventi risulta ridotto a 78,5 euro e non è in grado di coprire il fabbisogno;</an:p>
+				<an:p>        impegna il Governo a:</an:p>
+				<an:p>            valutare la possibilità di prevedere una revisione della copertura del Fondo, a sostegno della riqualificazione delle aree degradate e le periferie urbane.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

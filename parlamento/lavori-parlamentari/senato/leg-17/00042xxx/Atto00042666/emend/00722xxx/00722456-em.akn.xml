@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/A/G100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/A/G100"/>
+					<an:FRBRdate date="2013-11-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1150/A/G100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@"/>
+					<an:FRBRdate date="2013-11-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@.akn"/>
+					<an:FRBRdate date="2013-11-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1150/A/G100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1150" showAs="DDL 1150"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29165" showAs="Puglisi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29112" showAs="Idem"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29087" showAs="Di Giorgi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/1458" showAs="Marcucci"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29131" showAs="Martini"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29137" showAs="Mineo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17796" showAs="Tocci"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17663" showAs="Zavoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1150</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Puglisi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Idem</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Di Giorgi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Marcucci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Martini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Mineo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Tocci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Zavoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'entrata in vigore della riforma Gelmini ha modificato sostanzialmente i parametri per la formazione delle pluriclassi previsti dal decreto ministeriale 331 del 1998 che ne fissava il limite massimo a 12 alunni, prevedendone l'istituzione qualora il totale dei bambini frequentanti classi diverse non sia superiore a 18, visto che tale limite può aumentare fino al 10 per cento se ci sono nuove iscrizioni nel corso dell'anno, senza che si abbia il diritto allo sdoppiamento delle classi, ne consegue che a seguito di tutto ciò, si sia determinato un sovraffollamento delle pluriclassi con gravi disagi per gli alunni e gli insegnanti che vi operano;</an:p>
+				<an:p align="justify">        ritenuto che:</an:p>
+				<an:p align="justify">            diciotto alunni in una pluriclasse siano troppi per offrire un ambiente favorevole alla crescita integrale dei bambini e delle bambine, non può garantire una didattica di qualità in un ambiente educativo sereno, non può favorire la formazione adeguata di ciascuno studente, nel rispetto dei suoi ritmi di crescita e di apprendimento, creando piuttosto ansia, e timore nell'affrontare in modo adeguato i successivi gradi di istruzione;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            chi vive in montagna o nelle piccole isole, affronta ogni giorno tante difficoltà, sia per motivi di lavoro, sia per motivi socio culturali, la scuola non deve essere un'ulteriore penalizzazione;</an:p>
+				<an:p align="justify">            le realtà scolastiche delle scuole montane e delle piccole isole, che operano già in condizioni di disagio devono poter offrire uno svolgimento dell'attività educativa comunque stimolante ad alunni di età diverse. La buona volontà degli insegnanti però in condizioni di sovraffollamento non basta a garantire il diritto allo studio per tutti, che deve essere assicurato anche a vive in montagna o nelle piccole isole,</an:p>
+				<an:p align="justify">            impegna il Governo a valutare la possibilità di tornare per le pluriclassi ad numerosità di studenti massima di 12 alunni.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

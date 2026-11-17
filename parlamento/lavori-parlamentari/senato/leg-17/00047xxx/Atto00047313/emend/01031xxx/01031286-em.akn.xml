@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@.akn"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G1.103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2287-BIS" showAs="DDL 2287-BIS"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5IWDTA52IKOQMIUAYXIC0YZC2OAFWWHWU2CELTCPN2QZ0LMZK4TO" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="ID32UUOM35EYKBMCRNAC5DAJ1SXKCLNOT2B5Y1ODTYG0ZNF03TSEK" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDMEXR3E2QFEEMBCNAHAYMQZH0EPYGA2D1EFCADGGA42JIURO5UNBP" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2287-BIS</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5IWDTA52IKOQMIUAYXIC0YZC2OAFWWHWU2CELTCPN2QZ0LMZK4TO" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID32UUOM35EYKBMCRNAC5DAJ1SXKCLNOT2B5Y1ODTYG0ZNF03TSEK" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMEXR3E2QFEEMBCNAHAYMQZH0EPYGA2D1EFCADGGA42JIURO5UNBP" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>
+					            in sede d'esame del disegno di legge recante Delega al Governo per il codice dello spettacolo (A.S. 2287-
+					<an:i>bis</an:i>
+					),
+				</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            con riferimento all'articolo 1, comma 1, lettera 
+					<an:i>b)</an:i>
+					, viene riconosciuto «il valore formativo ed educativo dello spettacolo», nonché «il valore delle professioni artistiche e la loro specificità, assicurando altresì la tutela dei lavoratori del settore»;
+				</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            il compito del cosiddetto «agente lirico» - figura chiamata a svolgere un'attività di collocamento nell'ambito della professione lirica - ha subìto, a far tempo dall'Ottocento e fino in anni recenti, alterne fortune, ora venendo concesso agli artisti solisti di «nominare» un agente in loro rappresentanza, ora invece venendo loro proibito;</an:p>
+				<an:p>        valutato che:</an:p>
+				<an:p>            allo stato attuale e secondo il dispositivo normativo vigente, che fa riferimento al solo Codice civile, stipulare contratti di scrittura artistica conto terzi (per commissione, cioè, di cantanti lirici solisti) è attività libera e, di fatto, deregolamentata;</an:p>
+				<an:p>            tale stato di cose appare doppiamente negativo per gli effetti che ne conseguono, proteggendo gli uni e minacciando gli altri, anche a fronte di una figura quale può essere considerata quella dell'artista lirico solista che, non avendo ancora ricevuto dal legislatore una chiara interpretazione del suo status, nutre non poche difficoltà a vedere riconosciuti i propri diritti. Il fatto che sia consentito a chiunque, spesso senza competenze specifiche adeguate, intraprendere l'attività di «agente lirico», non solo lascia chiaramente affiorare un pericoloso «vuoto normativo» ma danneggia in modo considerevole gli artisti, spesso vittime di approssimazione e incompetenza,</an:p>
+				<an:p>        impegna il Governo ad adottare ogni iniziativa utile, anche di carattere normativo, affinché siano meglio definiti requisiti e competenze degli «agenti lirici», valutando l'opportunità di emanare una disciplina specifica a tutela della professionalità degli agenti stessi e degli artisti lirici rappresentati.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

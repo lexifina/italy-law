@@ -1,5 +1,0 @@
-Convention portant loi uniforme sur la formation des contrats de vente internationale des objets mobiliers corporels.
-
-Convention relating to a uniform law on the formation of contracts for the international sale of goods
-
-Parte di provvedimento in formato grafico

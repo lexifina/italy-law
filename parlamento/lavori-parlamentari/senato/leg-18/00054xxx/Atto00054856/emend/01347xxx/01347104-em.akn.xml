@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2564/A/9.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2564/A/9.4"/>
+					<an:FRBRdate date="2022-05-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2564/A/9.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@"/>
+					<an:FRBRdate date="2022-05-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@.akn"/>
+					<an:FRBRdate date="2022-05-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2022-05-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2022-05-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2564/A/9.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2564" showAs="DDL 2564"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTZZDUYVUU1JWBFJYSD3LAEG2KT0L515N00U1DKRDMGSDFVKTL0H" href="http://dati.senato.it/32609" showAs="CRUCIOLI"/>
+				<an:TLCPerson id="IDNCL2OEG5XZAYK5Q1LBP5GWLWWMSP1QCUXJTIACM4JJWV2JEEDZWN" href="http://dati.senato.it/32580" showAs="ANGRISANI"/>
+				<an:TLCPerson id="IDPFCJC31LQE3THCA2DTLGPIQOXJFVAA4UWFXDZNFH1RQHKXRBQWXI" href="http://dati.senato.it/32576" showAs="ABATE"/>
+				<an:TLCPerson id="IDAPHVZST4RMANIH5XTFPEEMPSSPNDTIN3H4ZJS4GFAJHYMYU1NMPC" href="http://dati.senato.it/31373" showAs="GIANNUZZI"/>
+				<an:TLCPerson id="IDFBYAMCSTLFFOEN5CNZFKG5U40KA1WBN1CTSWYZKJ33XCSY3NFLIB" href="http://dati.senato.it/17211" showAs="LANNUTTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2564</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTZZDUYVUU1JWBFJYSD3LAEG2KT0L515N00U1DKRDMGSDFVKTL0H" as="#tipoSenatore">CRUCIOLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNCL2OEG5XZAYK5Q1LBP5GWLWWMSP1QCUXJTIACM4JJWV2JEEDZWN" as="#tipoSenatore">ANGRISANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPFCJC31LQE3THCA2DTLGPIQOXJFVAA4UWFXDZNFH1RQHKXRBQWXI" as="#tipoSenatore">ABATE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAPHVZST4RMANIH5XTFPEEMPSSPNDTIN3H4ZJS4GFAJHYMYU1NMPC" as="#tipoSenatore">GIANNUZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFBYAMCSTLFFOEN5CNZFKG5U40KA1WBN1CTSWYZKJ33XCSY3NFLIB" as="#tipoSenatore">LANNUTTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, il primo periodo è sostituito dal seguente:</an:i>
+					 «I crediti d'imposta di cui all'articolo 15 del decreto-legge 27 gennaio 2022, n. 4, e gli articoli 4 e 5 del decreto-legge 1º marzo 2022, n. 17, riconosciuti in favore delle imprese energivore e delle imprese a forte consumo di gas naturale, sono utilizzabili entro la data del 31 di dicembre 2022 e sono cedibili con facoltà di successiva cessione del credito, anche a parziale, ad altri soggetti, compresi gli istituti di credito e gli altri intermediari finanziari».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

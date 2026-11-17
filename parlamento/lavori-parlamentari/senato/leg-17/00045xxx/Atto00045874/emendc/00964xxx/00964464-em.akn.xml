@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2016/C/1.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2016/C/1.6"/>
+					<an:FRBRdate date="2016-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2016/C/1.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@"/>
+					<an:FRBRdate date="2016-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@.akn"/>
+					<an:FRBRdate date="2016-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2016/C/1.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2016" showAs="DDL 2016"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="12ª Commissione permanente" href="/dati.senato.it/osr/Commissione/12"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAUZDP" href="http://dati.senato.it/senatore/29134" showAs="MATURANI"/>
+				<an:TLCPerson id="IDAWYDP" href="http://dati.senato.it/senatore/25466" showAs="MATTESINI"/>
+				<an:TLCPerson id="IDATZDP" href="http://dati.senato.it/senatore/29151" showAs="PADUA"/>
+				<an:TLCPerson id="IDAG0DP" href="http://dati.senato.it/senatore/29180" showAs="SILVESTRO"/>
+				<an:TLCPerson id="IDAH0DP" href="http://dati.senato.it/senatore/29088" showAs="DIRINDIN"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2016</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUZDP" as="#tipoSenatore">MATURANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWYDP" as="#tipoSenatore">MATTESINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDATZDP" as="#tipoSenatore">PADUA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAG0DP" as="#tipoSenatore">SILVESTRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAH0DP" as="#tipoSenatore">DIRINDIN</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1, aggiungere i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. L'indennizzo di cui al comma 1 è riconosciuto, a decorrere dalla data di entrata in vigore della presente legge, anche ai soggetti che, ancorché nati al di fuori del periodo ivi previsto, possono documentare la sussistenza del nesso di causalità tra l'assunzione del farmaco e la sindrome da talidomide.
+				</an:p>
+				<an:p>
+					        1-
+					<an:i>ter</an:i>
+					. Per i soggetti di cui al comma 1-
+					<an:i>bis</an:i>
+					, con il regolamento di cui al comma 2, sono stabilite le modalità per accertare l'eventuale nesso di causalità e, in caso di riscontro positivo, per avere diritto all'indennizzo di cui al comma 1».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente al comma 3 modificare le parole:</an:i>
+					 «in 3.285.000 euro annui» 
+					<an:i>con le seguenti:</an:i>
+					 «3.960.000».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

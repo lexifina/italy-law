@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-18 marzo 1949
-
-231
-
-Riconoscimento, agli effetti civili, della erezione della parrocchia di San Floriano, in frazione Spert del comune di Farra d'Alpago (Belluno).

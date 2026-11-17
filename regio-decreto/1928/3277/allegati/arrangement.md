@@ -1,3 +1,0 @@
-Arrangement entre et la Finiande
-
-Parte di provvedimento in formato grafico

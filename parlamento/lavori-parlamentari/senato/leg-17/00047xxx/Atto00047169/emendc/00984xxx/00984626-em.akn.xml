@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2495/C/23.0.1"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@.akn"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2495/C/23.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2495" showAs="DDL 2495"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3CHDQGQ2J3HQNBRBPBL5PPVPZC0U25DP0ZGDKBOL5BZ1K0OPB3M" href="http://dati.senato.it/29059" showAs="CANDIANI"/>
+				<an:TLCPerson id="ID1FJAGWKGZR1LNBSNHUWH5DD2XB314ONQ0SNYYLDTSBGPDVYIGWXK" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2495</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3CHDQGQ2J3HQNBRBPBL5PPVPZC0U25DP0ZGDKBOL5BZ1K0OPB3M" as="#tipoSenatore">CANDIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1FJAGWKGZR1LNBSNHUWH5DD2XB314ONQ0SNYYLDTSBGPDVYIGWXK" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>«Art. 23-</an:b>
+					<an:i>
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p>        1. Al comma 1, lettera d), dell'articolo 10 del decreto legislativo 8 aprile 2010, n. 61, sono apportate le seguenti modifiche:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 il quinto periodo è sostituito dal seguente: ''Fatte salve le specifiche disposizioni dei disciplinari, per i soli vini DOC è consentito un esubero di produzione fino al 20 per cento della resa massima di uva ad ettaro o della resa massimo di vino per ettaro che non può essere destinato alla produzione della relativa DOC, mentre può essere destinato alla produzione di vini DOC o IGT a partire da un vino DOCG, oppure di vini DOC o IGT a partire da un vino DOCG, ove vengano rispettate le condizioni ed i requisiti dei relativi disciplinari di produzione, fermo restando il rispetto delle condizioni di cui all'articolo 14'';
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 dopo il sesto periodo aggiungere il seguente: ''Nel caso in cui dal medesimo vigneto, destinato alla produzione di vini DOC, il supero di uva, se previsto nel disciplinare, venga destinato ad altra DOC o IGT la resa massima di uva, comprensiva del supero stesso, non deve essere superiore alla resa massima di uva prevista-nel disciplinare della DOC o IGT di destinazione. L'esubero di produzione deve essere vinificato nel rispetto della resa massima di trasformazione prevista nel disciplinare di produzione della DOP o IGP di destinazione''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

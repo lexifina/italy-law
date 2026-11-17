@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/11.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/11.22"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/11.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="11.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/11.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4339" showAs="Basso"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17628" showAs="Flammia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17659" showAs="Vicini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3951" showAs="Murineddu"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3846" showAs="Piatti"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/415" showAs="Caddeo"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17547" showAs="Battaglia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 11.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Basso</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Flammia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Vicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Murineddu</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Piatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Caddeo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 8, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «8-
+					<an:i>bis.</an:i>
+					 Il comma 6 dell'articolo 34 del decreto del Presidente della Repubblica n. 633/1972 è sostituito dal seguente:
+				</an:p>
+				<an:p align="justify">        "I produttori agricoli che nell'anno solare precedente hanno realizzato un volume d'affari non superiore a quindici milioni di lire, sostituito per almeno due terzi da cessioni di prodotti di cui al comma 1, sono esonerati dal versamento dell'imposta e da tutti gli obblighi documentali e contabili, compresa la dichiarazione annuale, fermo restando l'obbligo di numerare e conservare le fatture e le bollette doganali a norma dell'articolo 39; i cessionari e i committenti se acquistano i beni o utilizzano i servizi nell'esercizio dell'impresa, debbono emettere fattura, con le modalità e nei termini di cui all'articolo 21, indicando la relativa imposta, determinata applicando le aliquote corrispondenti alle percentuali idi compensazione, consegnarne copia al produttore agricolo e registrarla separatamente a norma dell'articolo 25. I produttori agricoli che nell'anno solare precedente hanno realizzato un volume di affari superiore a quindici ma non a quaranta milioni di lire, costituito per almeno due terzi da cessioni di prodotti di cui al comma 1, sono esonerati dalle liquidazioni periodiche e dai relativi versamenti dell'imposta e debbono assolvere gli obblighi di fatturazione, di numerazione delle fatture ricevute, di conservazione dei documenti ai sensi dell'articolo 39, di versamento annuale dell'imposta con le modalità semplificate da determinarsi con decreto del Ministro delle finanze da adottare ai sensi dell'articolo 17, comma 3, della legge 23 agosto 1988, n. 400. Le disposizioni dei precedenti periodi del presente comma, cessano comunque di avere applicazione a partire dall'anno solare successivo a quello in cui sono stati, superati i limiti rispettivamente di quindici e di quaranta milioni di lire a condizione che non venga superato il limite di un terzo delle cessioni di altri beni. I produttori agricoli possono rinunciare alla applicazione delle precedenti disposizioni dandone comunicazione per iscritto all'ufficio competente entro il termine stabilito per la presentazione della dichiarazione"».</an:p>
+				<an:p align="justify">
+					<an:b>Compensazione del Gruppo Democratici di Sinistra-l'Ulivo (v. emend. 2.5).</an:b>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

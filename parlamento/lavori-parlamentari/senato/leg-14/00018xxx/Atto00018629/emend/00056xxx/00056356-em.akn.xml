@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G8"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G8"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/G8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17552" showAs="Bianconi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/249" showAs="Bettoni Brandani"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17636" showAs="Scalera"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3873" showAs="Giaretta"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/4358" showAs="Cambursano"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17566" showAs="Cavallaro"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/2569" showAs="Toia"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/8208" showAs="Dato"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/4696" showAs="Soliani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bianconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bettoni Brandani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Scalera</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Giaretta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Cambursano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Cavallaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Toia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Dato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Soliani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2003,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            da ormai 4 anni i farmaci basati sulle molecole acetilcolinesterasiche, ossia i farmaci sintomatici in grado di rallentare il decorso delle malattia e di migliorare la qualità di vita dei malati di 
+					<an:i>Alzheimer</an:i>
+					, sono disponibili anche in Italia;
+				</an:p>
+				<an:p align="justify">
+					            da un periodo di tempo ancora più lungo tali farmaci sono utilizzati in tutto il mondo e sono l'unico trattamento efficace per i malati di 
+					<an:i>Alzheimer;</an:i>
+				</an:p>
+				<an:p align="justify">            da 2 anni tali farmaci, nell'ambito del progetto Cronos del Ministero della salute, sono stati inseriti in fascia A;</an:p>
+				<an:p align="justify">            al termine del progetto, previsto per il mese di settembre del 2002, le autorità competenti dovrebbero disporre di dati funzionali alla valutazione del regime assistenziale più idoneo per tale malattia;</an:p>
+				<an:p align="justify">            tale termine è stato prorogato di altri sei mesi per raccogliere ulteriori elementi di valutazione;</an:p>
+				<an:p align="justify">
+					            è stata istituita una Commissione di studio dedicata alla malattia di 
+					<an:i>Alzehimer</an:i>
+					 presso il Ministero della salute, coordinata dal sottosegretario Guidi, con l'incarico di raccogliere proposte articolate per trovare finalmente una soluzione assistenziale adeguata ai molteplici bisogni dei malati e delle loro famiglie;
+				</an:p>
+				<an:p align="justify">
+					            la rete di servizi assistenziali e di sostegno ai malati di 
+					<an:i>Alzheimer</an:i>
+					 ed alle loro famiglie è ancora incompleta con preoccupanti differenze tra le diverse aree del Paese,
+				</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">
+					            a far sì che i farmaci per il trattamento della malattia di 
+					<an:i>Alzheimer</an:i>
+					 siano rimborsati a carico del Servizio sanitario nazionale in via permanente e che sia garantita assistenza a tutti i pazienti che ne necessitino in maniera adeguata e uniforme.
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

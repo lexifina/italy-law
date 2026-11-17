@@ -1,0 +1,16 @@
+# RISOLUZIONE IN ASSEMBLEA 6/docXVIII-2 presentata da MELE GIORGIO (L'ULIVO) in data 13/03/2007
+
+- Tipo: RISOLUZIONE IN ASSEMBLEA
+- Numero: 6/docXVIII-2
+- Data: 20070313-20070314
+- Titolo: RISOLUZIONE IN ASSEMBLEA 6/docXVIII-2 presentata da MELE GIORGIO (L'ULIVO) in data 13/03/2007
+- Presentatore: MELE GIORGIO (L'ULIVO)
+- Concluso: 1
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=15&ramo=CAMERA&stile=9&idDocumento=6/docXVIII-2
+- Legislatura: repubblica_15
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic6_docXVIII_2_15_S
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Senato Risoluzione in Assemblea 6-docXVIII-2 presentata da GIORGIO MELE martedì 13 marzo 2007 nella seduta n.122 La 14ª Commissione permanente, a conclusione dell'esame del Programma legislativo e di lavoro della Commissione europea per il 2007 (COM(2006) 629 def.) e del Programma di 18 mesi delle Presidenze tedesca, portoghese e slovena (17079/06); considerato il contenuto del Programma legislativo e di lavoro della Commissione europea per il 2007, in cui vengono confermati gli obiettivi strategici, già enunciati nei programmi annuali precedenti, di prosperità, solidarietà, sicurezza e ruolo mondiale dell'Europa; apprezzata la strutturazione delle singole proposte legislative in 21 "iniziative strategiche" e 60 "iniziative prioritarie"; considerata la risoluzione adottata dal Parlamento europeo, il 14 novembre 2006, sul Programma legislativo e di lavoro della Commissione europea per il 2007; considerato che con la decisione del 15 settembre 2006 il Consiglio dell'UE ha stabilito di sostituire il programma strategico triennale e il programma operativo annuale con un unico programma di 18 mesi elaborato dalle tre Presidenze che dovranno assumere le funzioni in tale periodo; considerato che il 21 dicembre 2006 le tre Presidenze tedesca, portoghese e slovena hanno presentato il loro Programma relativo al periodo che va dal 1º gennaio 2007 al 30 giugno 2008, il cui contenuto è incentrato in particolare sul processo di riforma dell'Unione europea, sull'attuazione globale della Strategia di Lisbona nelle dimensioni economica, sociale e ambientale, sul rafforzamento dello spazio di libertà, sicurezza e giustizia, sul miglioramento del ruolo esterno dell'Unione nei settori della sicurezza, dello sviluppo e delle relazioni economiche, impegna il Governo: a contribuire alla stesura della prevista Dichiarazione di Berlino del 25 marzo 2007, nel 50º anniversario dei Trattati di Roma, sottolineando la necessità di concludere positivamente, con rinnovato slancio e partecipazione dei cittadini, il processo costituzionale dell'Unione europea e riaffermando i valori di democrazia e di libertà, progresso economico, coesione e solidarietà sociale, sicurezza, rispetto ambientale, che devono guidare i meccanismi di integrazione dell'Unione europea; a sviluppare una campagna di sensibilizzazione sulle ragioni e i valori dell'integrazione europea in tutto il Paese, in particolar modo nelle scuole e nelle università . (6-docXVIII-2) MELE

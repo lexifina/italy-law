@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-26 maggio 1955
-
-697
-
-Erezione in ente morale della Cassa scolastica della Scuola media statale "G. A. Bossi", di Busto Arsizio (Varese).

@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G3.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G3.7"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G3.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.7"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@.akn"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-09-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-09-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1613/A/G3.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1613" showAs="DDL 1613"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1613</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.7 (testo corretto)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            con il decreto-legge in esame è autorizzata, a decorrere dal 1º luglio 2014 al 31 dicembre 2014, la spesa di euro 1.408.035 per la proroga della partecipazione di personale militare alla missione delle nazioni unite in Mali, denominata 
+					<an:i>United Nations Multidimensional Integrated Stabilization Mission in Mali</an:i>
+					 (MINUSMA), e per la proroga della partecipazione di personale militare alle missioni dell'Unione europea denominate EUCAP 
+					<an:i>Sahel Niger</an:i>
+					 ed EUTM 
+					<an:i>Mali</an:i>
+					, nonché per la partecipazione di personale militare alla missione dell'Unione europea denominata EUCAP 
+					<an:i>Sahel Mali</an:i>
+					;
+				</an:p>
+				<an:p align="justify">            l'operazione MINUSMA è stata istituita il 25 aprile 2013 con risoluzione 2100 del Consiglio di sicurezza dell'ONU, al fine di favorire la stabilizzazione del sistema politico, e con una serie di compiti relativi al mantenimento della sicurezza interna;</an:p>
+				<an:p align="justify">            la situazione di sicurezza nel Mali ha subito un grave deterioramento all'inizio del gennaio 2013, quando i gruppi di Ansar Dine, il Movimento per l'Unità e la Jihad in Africa Orientale, con il sostegno del gruppo AI-Quaeda del Maghreb islamico sono avanzati verso sud, infliggendo numerose sconfitte all'esercito del Mali;</an:p>
+				<an:p align="justify">            la missione MINUSMA deve far fronte a numerose difficoltà per raggiungere la piena capacità operativa prevista nel mese di settembre 2014. Solo il 60 per cento del personale militare e civile è stato dispiegato dal 28 febbraio mentre le forze francesi dell'operazione Serval si sono ridotte a 1600 unità dallo stesso mese;</an:p>
+				<an:p align="justify">            l'ONU ha reso noto a luglio 2014, che i caschi blu della missione MINUSMA utilizzeranno i droni «falco» nel territorio maliano privi di armamento a bordo. I droni italiani acquistati dall'ONU sono 4 e saranno schierati nelle basi di Gao e Timbouctou dove già operano elicotteri da guerra francesi e olandesi,</an:p>
+				<an:p align="justify">
+					        impegna il Governo a fornire chiarimenti con urgenza in merito all'impegno italiano in Mali con le missioni MINUSMA e EUCAP 
+					<an:i>Sahel Niger</an:i>
+					 ed EUTM 
+					<an:i>Mali</an:i>
+					 finanziato con 1.408.035 euro, precisando quali iniziative di cooperazione e consolidazione della pace interna stanno portando avanti i militari italiani e dell'ONU, riferendo in merito agli ultimi sviluppi sui territori coinvolti.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

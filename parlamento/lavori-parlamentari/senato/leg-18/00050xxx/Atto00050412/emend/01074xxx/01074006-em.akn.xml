@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/9.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/9.0.1"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/741/A/9.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@.akn"/>
+					<an:FRBRdate date="2018-08-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-08-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-08-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/741/A/9.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/741" showAs="DDL 741"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDPA05BPD5JWFVFHENDWAOUQ1FUKAGADXYCP4VWONA11ASX00AAZQM" href="http://dati.senato.it/29395" showAs="FARAONE"/>
+				<an:TLCPerson id="IDDKRU2XROS03AF31WJTAA5T3GZCIYOJBPAB55GCNBHNBQYRGU3LEH" href="http://dati.senato.it/29282" showAs="BINI"/>
+				<an:TLCPerson id="ID21Q0DBV5IRNGK2UX11QVLIPAOE3MQLQUI23FCIEKKXASPB0KIPFG" href="http://dati.senato.it/31143" showAs="BOLDRINI"/>
+				<an:TLCPerson id="IDMLJ0J5PYM22SILISS3JAGTTHQO1BHVP0RAN0M0IIRGCXNA0U5DHM" href="http://dati.senato.it/23011" showAs="MISIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 741</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPA05BPD5JWFVFHENDWAOUQ1FUKAGADXYCP4VWONA11ASX00AAZQM" as="#tipoSenatore">FARAONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDKRU2XROS03AF31WJTAA5T3GZCIYOJBPAB55GCNBHNBQYRGU3LEH" as="#tipoSenatore">BINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID21Q0DBV5IRNGK2UX11QVLIPAOE3MQLQUI23FCIEKKXASPB0KIPFG" as="#tipoSenatore">BOLDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMLJ0J5PYM22SILISS3JAGTTHQO1BHVP0RAN0M0IIRGCXNA0U5DHM" as="#tipoSenatore">MISIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 9
+					<an:i>-bis.</an:i>
+				</an:p>
+				<an:p>        1. A tutela della dignità della persona, della salute pubblica e del diritto degli utenti ad una corretta informazione sanitaria, l'impiego di comunicazioni informative da parte delle strutture sanitarie private di cura e degli iscritti agli albi dei relativi Ordini delle professioni sanitarie di cui al Capo II della legge 11 gennaio 2018, n. 3, in qualsiasi forma giuridica svolgano la loro attività, ivi ricomprese le società di cui all'art. 1, comma 153, legge 4 agosto 2017 n. 124, può contenere unicamente e informazioni di cui all'articolo 2, comma 1, decreto-legge 4 luglio 2006, n. 223 convertito in legge 4 agosto 2006, n. 248, funzionali all'oggetto di garantire la sicurezza dei trattamenti sanitari la loro trasparenza e veridicità nella libera e consapevole determinazione del paziente, con esclusione di qualsiasi elemento di carattere promozionale o suggestionale.</an:p>
+				<an:p>        2 A garanzia del pieno rispetto dell'efficacia delle presenti disposizioni sull'informativa sanitaria, gli Ordini professionali sanitari territoriali verificano preventivamente la correttezza delle comunicazioni procedendo in via disciplinare nei confronti dei professionisti o società iscritti e segnalando all'Autorità di cui ai commi 3 e 4 del presente articolo ogni altro caso involgente le strutture sanitarie private di cura per i provvedimenti sanzionatori di competenza».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

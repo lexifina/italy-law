@@ -1,9 +1,0 @@
-VITTORIO EMANUELE III
-
-per grazia di Dio e per volonta' della Nazione
-
-RE D'ITALIA
-
-Viste le deliberazioni del Consiglio provinciale di Forli' in data 6 aprile 1905, del Consiglio comunale di Cesena in data 8 maggio e 15 maggio 1905, della Camera di commercio ed arti di Forli' in data 24 agosto 1905 e della Congregazione di carita' di Cesena in data 2 agosto 1905;
-
-Sulla proposta del Nostro ministro segretario di Stato per l'agricoltura, industria e commercio; Abbiamo decretato e decretiamo:

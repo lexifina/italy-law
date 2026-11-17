@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/2.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/2.12"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/2.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/2.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCYFP5MIMG10MK2D1KPJMPSII2LPI1M0BFVPPWMGM2RXOSRH0EB2L" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="IDQTUSBRAFFHP2IZSS2OCC3BNZ3IXCK3GFYTFSOBDC5ZFSFH4ULKQL" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDUDTZPMWUIDQREJ4C3E0HWE0UBJ4GOZM44RF3RKH53EFA255APRNM" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="ID13LEBX21XMVFNUTZ4RJBR5LDAGUW5O4SHJG4SZFOGKBN22I0OGSO" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDSGMAWZOYVVNTIFK35LN4LRKNMOHBLT31WZHTNSJCFZDE4XU5QZRP" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCYFP5MIMG10MK2D1KPJMPSII2LPI1M0BFVPPWMGM2RXOSRH0EB2L" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQTUSBRAFFHP2IZSS2OCC3BNZ3IXCK3GFYTFSOBDC5ZFSFH4ULKQL" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUDTZPMWUIDQREJ4C3E0HWE0UBJ4GOZM44RF3RKH53EFA255APRNM" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID13LEBX21XMVFNUTZ4RJBR5LDAGUW5O4SHJG4SZFOGKBN22I0OGSO" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSGMAWZOYVVNTIFK35LN4LRKNMOHBLT31WZHTNSJCFZDE4XU5QZRP" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Aggiungere, in fine, il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        «
+					<an:i>15</an:i>
+					-bis. Gli specialisti che seguono pazienti con malattia croniche invalidanti od oncologiche o che comportano un deficit del sistema immunitario o che comunque implichino l'impiego di farmaci salvavita allegano al piano terapeutico individuale di ciascun paziente un vademecum personalizzato sugli indirizzi da seguire in caso di una nuova emergenza pandemica. Le indicazioni dovranno contenere nel dettaglio le indicazioni relative alle cure, alla somministrazione dei farmaci, alle visite di 
+					<an:i>follow-up</an:i>
+					 e ai percorsi da seguire in sicurezza all'interno delle strutture sanitarie.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

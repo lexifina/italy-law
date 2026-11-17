@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3045/A/G6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3045/A/G6"/>
+					<an:FRBRdate date="2004-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3045/A/G6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G6"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@"/>
+					<an:FRBRdate date="2004-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@.akn"/>
+					<an:FRBRdate date="2004-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-07-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-07-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3045/A/G6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3045" showAs="DDL 3045"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3045</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            premesso che</an:p>
+				<an:p align="justify">        l'intenzione del legislatore, nell'escludere dall'applicazione dell'extra sconto da parte dell'industria, i farmaci con brevetto scaduto e gli emoderivati, è quella di "tutelare" le sole categorie di farmaci, che per motivi diversi, verrebbero penalizzati da ulteriori riduzioni di prezzo;</an:p>
+				<an:p align="justify">        i medicinali con brevetto scaduto, allo scadere del brevetto, subiscono spontaneamente riduzioni di prezzo, per effetto della normativa vigente che, rimborsando totalmente a carico del SSN i soli medicinali in commercio col prezzo al pubblico più basso, induce un allineamento del costo dei farmaci al prezzo più basso;</an:p>
+				<an:p align="justify">        gli emoderivati estratti da plasma, sia per i processi produttivi, che per i controlli di stato obbligatori, da effettuare su ogni lotto prodotto, con lo scopo di scongiurare la trasmissione di eventuali infezioni virali (AIDS, Epatiti, eccetera), hanno costi di commercializzazione non riducibili;</an:p>
+				<an:p align="justify">        gli emoderivati prodotti con tecniche da DNA ricombinante, hanno invece un prezzo al pubblico, costruito secondo criteri simili a quelli utilizzati per tutti gli altri farmaci, prodotti da DNA ricombinante (esempio Interferoni, Eritropoetina, Ormone della crescita, Fattori di crescita leucocitari, farmaci per la cura dell'infertilità, eccetera),</an:p>
+				<an:p align="justify">            impegna il Governo ad intervenire sollecitamente, onde evitare che l'esclusione dell'applicazione dell'extra sconto per i soli emoderivati da DNA ricombinante, crei una situazione di disparità nei confronti di tutti gli altri farmaci prodotti con tecniche da DNA ricombinante, e sia a rischio di giusto ricorso da parte delle varie industrie farmaceutiche interessate, con grave danno economico per le finanze dello Stato e delle Regioni.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

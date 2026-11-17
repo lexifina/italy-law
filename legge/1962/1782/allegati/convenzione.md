@@ -1,9 +1,0 @@
-Convenzione internazionale sui passeggeri clandestini
-
-(Bruxelles, 10 ottobre 1957)
-
-CONVENTION INTERNATIONALE
-
-SUR LES PASSAGERS CLANDESTINS
-
-Parte di provvedimento in formato grafico

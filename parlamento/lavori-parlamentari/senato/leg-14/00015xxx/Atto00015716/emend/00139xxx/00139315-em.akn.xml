@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/35.39/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/35.39"/>
+					<an:FRBRdate date="2005-05-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699/A/35.39/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="35.39"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@"/>
+					<an:FRBRdate date="2005-05-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@.akn"/>
+					<an:FRBRdate date="2005-05-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699/A/35.39/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699" showAs="DDL 699"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/4393" showAs="Cutrufo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17569" showAs="Ciccanti"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/3918" showAs="Lauro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 35.39</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#" as="#tipoSenatore"/>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cutrufo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Ciccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#" as="#tipoSenatore"/>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Lauro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 7, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 «7
+					<an:i>-bis.</an:i>
+					 All'Associazione «Amici del Mare e della Nautica«, costituita in data 9 ottobre 2001 in Roma, è concesso un contributo statale annuo, pari a 210 migliaia di euro per il 2002 e a 105 migliaia di euro a decorrere dal 2003, al fine dello svolgimento di competizioni, convegni e manifestazioni volti alla salvaguardia delle coste italiane e degli ecosistemi marini».
+				</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, alla Tabella A,</an:i>
+					 Ministero dell'economia e delle finanze 
+					<an:i>apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 2002: -  420;
+				</an:p>
+				<an:p align="justify"> 2003: -  140;</an:p>
+				<an:p align="justify">2004: -  105».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

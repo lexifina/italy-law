@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.35/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.35"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.35/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.35"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@.akn"/>
+					<an:FRBRdate date="2018-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1299/C/13.35/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1299" showAs="DDL 1299"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 6° e 10° riunite" href="/dati.senato.it/osr/Commissione/89"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBIOHKLHUF5RQBW2ZEFHAO4CYSOH20AP3WVBTYHMNW5URAEPBDAKB" href="http://dati.senato.it/25359" showAs="CROSIO"/>
+				<an:TLCPerson id="IDKS0WK1UNZ05XGDFZF13XV01AXBTW3FM2XFFDENKUEKP5WS1SNHKH" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDZJIJJZQ0F0HWSOJFU0VM0LNLIAK0PGYKXSIWEBG0LINKUK01DPG" href="http://dati.senato.it/25528" showAs="CONSIGLIO"/>
+				<an:TLCPerson id="IDRNXV4FAAWAZBC2JPPOJG1B5PCPU51TXV1LWCJTONATYJPTTQK3XD" href="http://dati.senato.it/29043" showAs="BELLOT"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1299</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.35</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBIOHKLHUF5RQBW2ZEFHAO4CYSOH20AP3WVBTYHMNW5URAEPBDAKB" as="#tipoSenatore">CROSIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKS0WK1UNZ05XGDFZF13XV01AXBTW3FM2XFFDENKUEKP5WS1SNHKH" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZJIJJZQ0F0HWSOJFU0VM0LNLIAK0PGYKXSIWEBG0LINKUK01DPG" as="#tipoSenatore">CONSIGLIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRNXV4FAAWAZBC2JPPOJG1B5PCPU51TXV1LWCJTONATYJPTTQK3XD" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 8, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>        «8-bis. Per le finalità di cui al comma 9, dell'articolo 18, del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, è autorizzata la spesa di 30 milioni di euro per l'anno 2014, 70 milioni di euro per l'anno 2015 e 160 milioni di euro per l'anno 2016. Possono accedere al finanziamento anche i comuni con popolazione inferiore a 20.000 abitanti.</an:p>
+				<an:p>        8-ter. All'onere derivante dal comma 8-bis, pari a 30 milioni di euro per l'anno 2014, 70 milioni di euro per l'anno 2015 e 160 milioni di euro per l'anno 2016, si provvede mediante corrispondente riduzione dello stanzia mento del fondo speciale di conto capitale iscritto, ai fini del bilancio triennale 2014-2016, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2014, allo scopo parzialmente utilizzando: quanto a 10 milioni per l'anno 2014, 20 milioni per l'anno 2015 e 20 milioni per l'anno 2016 l'accantonamento relativo al Ministero dell'interno; quanto a 10 milioni per l'anno 2014, 30 milioni per l'anno 2015 e 30 milioni per l'anno 2016 l'accantonamento relativo al Ministero degli affari esteri; quanto a 10 milioni per l'anno 2014, 10 milioni per l'anno 2015 e 10 milioni per l'anno 2016 l'accantonamento relativo al Ministero del lavoro e delle politiche sociali; quanto a 10 milioni per l'anno 2015 e 100 milioni per l'anno 2016 l'accantonamento relativo al Ministero dell'economia e delle finanze. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

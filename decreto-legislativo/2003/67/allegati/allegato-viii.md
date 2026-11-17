@@ -1,9 +1,0 @@
-Allegato VIII
-
-(articolo 3 - comma 1)
-
-FORMULARIO PER L'AVVISO RELATIVO AGLI APPALTI
-
-AGGIUDICATI NEI SETTORI SPECIALI
-
-Parte di provvedimento in formato grafico

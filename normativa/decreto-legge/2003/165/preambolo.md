@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Considerati la situazione di grave emergenza umanitaria in atto in Iraq ed i conseguenti rischi per la popolazione civile;
+
+Ritenuta la straordinaria necessita' ed urgenza di fornire immediato sostegno alla popolazione irachena, mediante la partecipazione all'azione multilaterale volta alla stabilizzazione ed alla ricostruzione del Paese, nonche' al ripristino delle infrastrutture socio-economiche di base;
+
+Ritenuta la straordinaria necessita' ed urgenza di garantire le condizioni di sicurezza per la rapida realizzazione dei necessari interventi umanitari;
+
+Ritenuta, altresi', la straordinaria necessita' ed urgenza di emanare disposizioni volte ad assicurare la continuazione della partecipaziome dei contingenti italiani alle operazioni internazionali in corso e lo sviluppo dei programmi di cooperazione delle Forze di polizia italiane in Albania e nei Paesi dell'area balcanica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 3 luglio 2003;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e dei Ministri degli affari esteri, della difesa e dell'interno, di concerto con il Ministro dell'economia e delle finanze;
+
+Emana il seguente decreto-legge:

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/105.0.3"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="105.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/105.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSVGX2LUTLQ3GN02RO45RPH01DLHFSRZ5WFRU30F3SL4EMSMSPZ2M" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDC0T1PUUHIKQREWOBLTUBR0XJEIY5T2P51VRCOYCBOBZYQYFYU4XL" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="IDWLHVRV0YKXBKHKNRBZX1WFOLYXEILKRRVZK1WJUZCFFGM43TKXM" href="http://dati.senato.it/27476" showAs="FANTETTI"/>
+				<an:TLCPerson id="IDIMAVPXLRN03ONWXMVO0JTCMGZNTN00YNJ3ZSROBTUJSTTPYJNOZM" href="http://dati.senato.it/31157" showAs="SACCONE"/>
+				<an:TLCPerson id="IDAFQW0MCD3ERVXKVGUDLKVP0GKZLNG2HKILKISNQIKUMPPI5UHTB" href="http://dati.senato.it/32671" showAs="MODENA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 105.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSVGX2LUTLQ3GN02RO45RPH01DLHFSRZ5WFRU30F3SL4EMSMSPZ2M" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDC0T1PUUHIKQREWOBLTUBR0XJEIY5T2P51VRCOYCBOBZYQYFYU4XL" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWLHVRV0YKXBKHKNRBZX1WFOLYXEILKRRVZK1WJUZCFFGM43TKXM" as="#tipoSenatore">FANTETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIMAVPXLRN03ONWXMVO0JTCMGZNTN00YNJ3ZSROBTUJSTTPYJNOZM" as="#tipoSenatore">SACCONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFQW0MCD3ERVXKVGUDLKVP0GKZLNG2HKILKISNQIKUMPPI5UHTB" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 105-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Lotteria degli scontrini: trasmissione telematica dei dati)</an:i>
+				</an:p>
+				<an:p>        All'articolo 1, comma 540, della legge 11 dicembre 2016, n. 232, dopo il secondo periodo, è inserito il seguente: ''Nel caso in cui i dati dei corrispettivi di cui al periodo precedente siano stati regolarmente memorizzati dall'esercente nel dispositivo telematico ma non risultino disponibili per l'Agenzia delle entrate ovvero non risultino da questa elaborabili per cause imputabili esclusivamente ad eventi accidentali ed imprevedibili compresi quelli intervenuti nel sistema tecnico di trasmissione, con provvedimento del direttore dell'Agenzia delle dogane e dei monopoli, d'intesa con il direttore dell'Agenzia delle entrate, sono stabilite le modalità e i termini per il recupero dei medesimi corrispettivi al fine della loro partecipazione alla prima estrazione successiva al corretto ricevimento dei dati, con integrale sollievo di responsabilità per l'esercente e per i soggetti terzi che a vario titolo intervengono nel sistema tecnico di trasmissione.''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

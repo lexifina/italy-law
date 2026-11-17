@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/16.201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/16.201"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2233/A/16.201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="16.201"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@.akn"/>
+					<an:FRBRdate date="2016-11-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2233/A/16.201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2233" showAs="DDL 2233"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUWSHVNOG0ZLYKTAL2E5MV2WRLDO0RHYEAA1WMONUIPMNKIDTOIIJ" href="http://dati.senato.it/11320" showAs="ICHINO"/>
+				<an:TLCPerson id="ID14TIGV3RN4EGFPDHUZUYGYVT5FV2YPBLP5HL1OCIPA1QSTAQVFWD" href="http://dati.senato.it/29095" showAs="FAVERO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2233</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 16.201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUWSHVNOG0ZLYKTAL2E5MV2WRLDO0RHYEAA1WMONUIPMNKIDTOIIJ" as="#tipoSenatore">ICHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID14TIGV3RN4EGFPDHUZUYGYVT5FV2YPBLP5HL1OCIPA1QSTAQVFWD" as="#tipoSenatore">FAVERO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, sostituire le parole: «anche con riguardo alle forme di esercizio del potere direttivo del datore di lavoro ed agli strumenti utilizzati dal lavoratore», con le seguenti: «anche eventualmente con riguardo alle forme particolari di esercizio del potere direttivo del datore di lavoro che si rendano necessarie in relazione al segmento della prestazione destinato a svolgersi al di fuori del perimetro aziendale».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

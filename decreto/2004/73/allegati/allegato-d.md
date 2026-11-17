@@ -1,5 +1,0 @@
-Allegato D
-
-(Legge 12 dicembre 2002, n. 273)
-
-Parte di provvedimento in formato grafico

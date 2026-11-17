@@ -1,5 +1,0 @@
-Allegato 1
-
-(Articolo 14, comma 8)
-
-Parte di provvedimento in formato grafico

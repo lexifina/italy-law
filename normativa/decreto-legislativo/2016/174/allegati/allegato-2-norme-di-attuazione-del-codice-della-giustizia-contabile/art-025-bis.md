@@ -1,0 +1,9 @@
+Art. 25-bis
+
+(( (Tirocinio formativo presso la Corte dei conti). ))
+
+((1. La formazione teorico-pratica, prevista dall'articolo 73 del decreto-legge 21 giugno 2013, n. 69, convertito, con modificazioni, dalla legge 9 agosto 2013, n. 98, puo' essere svolta anche presso la Corte dei conti, sia nelle sezioni giurisdizionali che di controllo, sia presso gli uffici della procura generale e delle procure regionali.
+
+2. I requisiti, le modalita' e gli effetti della partecipazione al periodo di formazione teorico-pratica presso gli uffici della Corte dei conti sono disciplinati dall'articolo 73 del decreto-legge n. 69 del 2013 conformemente a quanto previsto per gli altri uffici giudiziari.
+
+3. Con decreto del presidente della Corte dei conti, su proposta del Segretario generale, sono disciplinate le modalita' di erogazione della borsa di studio, a valere sul bilancio autonomo della Corte dei conti.))

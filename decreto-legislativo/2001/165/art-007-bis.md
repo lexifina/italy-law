@@ -1,3 +1,0 @@
-Art. 7-bis.
-
-((ARTICOLO ABROGATO DAL D.P.R. 16 APRILE 2013, N.70))

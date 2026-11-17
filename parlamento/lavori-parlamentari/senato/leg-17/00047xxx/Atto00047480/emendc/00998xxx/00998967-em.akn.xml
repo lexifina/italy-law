@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.683/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.683"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.683/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.683"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.683/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDZL1KHW2QYNEGNFZLLPSO1O2LAFA1VYBY4PQYG3NRUNZFCRXUJY5B" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDG1THB4VJNSX3ODV3SF3EJX22VL1OWBGOCQDR54JHV0MNUC1IHUUP" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="ID32S2VP3IAQOSMWH00OYBXPRWOHDT2K3MBWVROWOLUDM3JX4QU2VH" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="ID5I00ORLBQOKEKSSGIJEG2M05EFURPVO3WBGVMLNX0MHMPUQBNIBF" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.683</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZL1KHW2QYNEGNFZLLPSO1O2LAFA1VYBY4PQYG3NRUNZFCRXUJY5B" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG1THB4VJNSX3ODV3SF3EJX22VL1OWBGOCQDR54JHV0MNUC1IHUUP" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID32S2VP3IAQOSMWH00OYBXPRWOHDT2K3MBWVROWOLUDM3JX4QU2VH" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5I00ORLBQOKEKSSGIJEG2M05EFURPVO3WBGVMLNX0MHMPUQBNIBF" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 462, inserire il seguente:</an:p>
+				<an:p>        «462-bis. Al fine di favorire l'incremento del patrimonio verde urbano, nello stato di previsione della spesa del Ministero dell'economia e delle finanze è istituito un fondo, denominato «Green city» al quale è assegnata la somma di 50 milioni di euro per ciascuno degli anni 2017, 2018, 2019.</an:p>
+				<an:p>        462-ter. La fruibilità di tale fondo, da parte degli enti locali, è condizionata al rispetto delle regole vigenti in materia urbanistica: piano regolatore generale approvato ed aggiornato in materia di sicurezza sismica, idrogeologica, di tutela del paesaggio, protezione della natura e rispette delle norme relative alla repressione dell'abusivismo edilizio».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla tabella A. voce Ministero dell'economia e delle finanze, apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p>        2017: - 50.000.000;</an:p>
+				<an:p>        2018: - 50.000.000;</an:p>
+				<an:p>        2019: - 50.000.000.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

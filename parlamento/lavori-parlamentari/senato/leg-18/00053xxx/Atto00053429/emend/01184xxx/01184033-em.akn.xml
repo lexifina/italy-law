@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/G5.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/G5.100"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/G5.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/G5.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBM4UIOJULYZY1GZT5DDIY252DQYH5KS1XCDGEPHBV41T44VSHUP" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+				<an:TLCPerson id="IDKMNBC5AHF4RPOXIHTEYSW2G5RDLYUU4LBA4WSGOWV4OLRZAIMFPB" href="http://dati.senato.it/32730" showAs="VANIN"/>
+				<an:TLCPerson id="IDBYD5YFHZN31XF2ZKQ1Q2Y24NKCKXG2PJAZERSELNPEQESZHREUAJ" href="http://dati.senato.it/32580" showAs="ANGRISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBM4UIOJULYZY1GZT5DDIY252DQYH5KS1XCDGEPHBV41T44VSHUP" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKMNBC5AHF4RPOXIHTEYSW2G5RDLYUU4LBA4WSGOWV4OLRZAIMFPB" as="#tipoSenatore">VANIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBYD5YFHZN31XF2ZKQ1Q2Y24NKCKXG2PJAZERSELNPEQESZHREUAJ" as="#tipoSenatore">ANGRISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge, recante «Conversione in legge del decreto-legge 28 ottobre 2020, n. 137, recante ulteriori misure urgenti in materia di tutela della salute, sostegno ai lavoratori e alle imprese, giustizia e sicurezza, .connesse all'emergenza epidemiologica da COVID-19» (A.S. 1994),</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il provvedimento in esame reca misure in materia di tutela della salute, sostegno ai lavoratori e alle imprese, giustizia e sicurezza, connesse all'emergenza epidemiologica da COVID-19;</an:p>
+				<an:p>            in particolare, l'articolo 5 reca misure di sostegno ai settori della cultura e del turismo;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            la pandemia da COVID-19 sta accelerando l'evoluzione di una serie di fenomeni sociali ed economici, provocando un cambiamento della società che interessa, tra l'altro, anche il modo di intendere beni e servizi culturali, evidenziando in modo incontrovertibile la loro rilevanza come fonte di benessere psico-cognitivo della collettività;</an:p>
+				<an:p>            le conseguenze sociali ed economiche della pandemia si sommano a quelle provocate dai cambiamenti climatici;</an:p>
+				<an:p>            in particolare, il bacino del Mediterraneo è tra le aree geografiche dove le manifestazioni climatiche avverse; provocate dai cambiamenti climatici, rischiano maggiormente di causare un impatto negativo sui beni culturali e sul paesaggio;</an:p>
+				<an:p>
+					            le azioni legate alla tutela e conservazione del patrimonio culturale e paesaggistico sono propedeutiche alla sua fruizione, ovvero sono la 
+					<an:i>conditio sine qua non</an:i>
+					 per l'accesso allo studio, alla conoscenza e dunque al diritto a un pieno sviluppo della persona;
+				</an:p>
+				<an:p>        considerato inoltre che:</an:p>
+				<an:p>            in questa fase di convivenza con il nuovo Coronavirus occorre sviluppare una forma di «resilienza trasformativa», come definita nel saggio Pandemia e Resilienza: persona, comunità e modello di sviluppo dopo la COVID-19, che punti alla qualità dei servizi essenziali e non cada nella tentazione di un ritorno al «prima», laddove un modello economico, basato sulla sola crescita quantitativa, non considerava le altre componenti del benessere collettivo e individuale: salute, benessere psichico, equilibrio tra specie, rispetto dell'ambiente naturale, equilibrio tra vita privata e vita lavorativa, cooperazione e solidarietà, appartenenza sociale e comunitaria, fiducia negli altri e nelle istituzioni;</an:p>
+				<an:p>            all'interno di questa visione di «resilienza trasformativa» e di benessere collettivo, la cultura svolge un ruolo determinante,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a incrementare, nel prossimo provvedimento utile, i finanziamenti per le azioni di manutenzione ordinaria e straordinaria e di conservazione del patrimonio culturale e paesaggistico, nonché ad attuare una pianificazione di gestione del rischio idrogeologico e da catastrofi naturali attuando politiche integrate di prevenzione, adattamento e mitigazione, in sinergia con il Ministero dell'Ambiente e della Tutela del Territorio e del Mare e con la Protezione civile;</an:p>
+				<an:p>            a potenziare l'investimento di risorse pubbliche per la creazione di nuovi posti di lavoro nel comparto culturale, tramite bandi e selezioni pubbliche, definendo, tra l'altro, le esigenze professionali dei vari settori legati alla tutela e alla conservazione del nostro patrimonio culturale e paesaggistico affinché sia garantito un adeguato contingente di organico e i migliori standard qualitativi all'interno degli organi periferici del Ministero per i beni e le attività culturali e per il turismo, che svolgono un ruolo determinante per la tutela del patrimonio culturale e paesaggistico.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

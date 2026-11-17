@@ -1,0 +1,7 @@
+REGIO DECRETO
+
+12 febbraio 1925
+
+321
+
+Erezione in Ente morale dell'Asilo infantile Pasi della frazione San Nicolo' Ferrarese del comune di Argenta. (025U0321)

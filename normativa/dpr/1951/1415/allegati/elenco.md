@@ -1,0 +1,15 @@
+COMUNE DI BISIGNANO (Cosenza)
+
+Elenco dei terreni espropriati nei confronti di Fasanella Giuseppe fu Luigi a termini degli articoli 1 e 2 della legge 12 maggio 1950, n. 230
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+---------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 22 - 29 dicembre 1959, n. 69 (in G.U. 1a s.s. 31/12/1959, n. 316), ha dichiarato "l'illegittimita' costituzionale del D. P. R. n. 1415 del 18 dicembre 1951 in quanto ha proceduto all'esproprio relativamente a un patrimonio che, al 15 novembre 1949, non superava i 300 ettari, In relazione all'art. 2 legge 12 maggio 1950, n. 230, e in riferimento agli artt. 76 e 77
+
+della Costituzione."

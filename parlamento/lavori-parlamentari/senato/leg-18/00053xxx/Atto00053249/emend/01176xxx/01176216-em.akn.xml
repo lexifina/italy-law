@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/101.0.1"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="101.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/101.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDU3USP34TEIMWJA21ADPXBR3RQMSQOAUPVNZESTH5HYVJEEYZYT0I" href="http://dati.senato.it/4522" showAs="PITTELLA"/>
+				<an:TLCPerson id="ID12KBXQEBV42UJMLKCLCOMR0KHKA1XUHKYC03K2M44WCHKTMY5POO" href="http://dati.senato.it/32610" showAs="D'ALFONSO"/>
+				<an:TLCPerson id="IDWWPQEGYSJAIJDBS0IISYWJVQTLJ3NARCTBLRTPFSQVBS2CQ0320L" href="http://dati.senato.it/32703" showAs="ROJC"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 101.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU3USP34TEIMWJA21ADPXBR3RQMSQOAUPVNZESTH5HYVJEEYZYT0I" as="#tipoSenatore">PITTELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID12KBXQEBV42UJMLKCLCOMR0KHKA1XUHKYC03K2M44WCHKTMY5POO" as="#tipoSenatore">D'ALFONSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWWPQEGYSJAIJDBS0IISYWJVQTLJ3NARCTBLRTPFSQVBS2CQ0320L" as="#tipoSenatore">ROJC</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 101
+					<an:i>
+						-
+						<an:b>bis.</an:b>
+					</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Riallineamento temporale delle concessioni dei giochi)</an:i>
+				</an:p>
+				<an:p>
+					        1. In ragione della straordinarietà ed imprevedibilità dell'emergenza epidemiologica COVID-19 e per l'esigenza di preservare la capacità distributiva necessaria all'offerta legale a tutela degli utenti e del flusso di entrate erariali, i termini previsti dall'articolo 1, comma 727, della legge 27 dicembre 2019, n. 160, lettere da 
+					<an:i>a)</an:i>
+					 a
+					<an:i>d)</an:i>
+					, dall'articolo 24 del decreto-legge 26 ottobre 2019, n. 124, come convertito nella legge l9 dicembre 2019, n. 157, e la durata della concessione in essere per la gestione telematica del gioco lecito di cui all'articolo 14
+					<an:i>-bis</an:i>
+					, comma 4, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 640, sono prorogati di 18 mesi oltre i termini disposti dall'articolo 69 del decreto-legge 17 marzo 2020, n. 18, come convertito nella legge 24 aprile 2020, senza oneri aggiuntivi.
+				</an:p>
+				<an:p>
+					        2. Ai fini di un allineamento temporale che consenta una decorrenza uniforme per l'avvio delle nuove concessioni ai sensi dell'articolo 1, comma 727, lettera 
+					<an:i>e)</an:i>
+					, della legge 27 dicembre 2019, n. 160, sono prorogate sino al 31 dicembre 2022 le concessioni per la raccolta del gioco a distanza aventi scadenze antecedenti a fronte della corresponsione di una somma di euro 2.800 per ciascun mese intero intercorrente tra la data di scadenza e il 31 dicembre 2022. Il termine di cui alla richiamata lettera 
+					<an:i>e)</an:i>
+					 è prorogato al 30 giugno 2022.
+				</an:p>
+				<an:p>        3. Per gli affidamenti già in proroga restano fermi gli obblighi di presentazione di adeguate garanzie proporzionate alla ridefinizione dei termini temporali, secondo le prescrizioni definite con determinazione del Direttore generale dell'Agenzia delle Dogane e dei Monopoli; a detti obblighi sono tenuti tutti gli affidatari dalla scadenza originaria delle concessioni interessate da quanto previsto ai precedenti commi».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

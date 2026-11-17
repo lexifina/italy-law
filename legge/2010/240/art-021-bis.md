@@ -1,3 +1,0 @@
-Art. 21-bis.
-
-((ARTICOLO ABROGATO DAL D.L. 22 APRILE 2023, N. 44))

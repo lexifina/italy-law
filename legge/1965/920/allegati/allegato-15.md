@@ -1,7 +1,0 @@
-ALLEGATO 15.
-
-PRILOG 15.
-
-ELENCO DEI GENERI
-
-Parte di provvedimento in formato grafico

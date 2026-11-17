@@ -1,3 +1,0 @@
-Statutes
-
-Parte di provvedimento in formato grafico

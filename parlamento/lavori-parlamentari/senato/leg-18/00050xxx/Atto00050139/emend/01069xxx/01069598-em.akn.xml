@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/624/A/2.0.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/624/A/2.0.101"/>
+					<an:FRBRdate date="2018-07-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/624/A/2.0.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.101"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@"/>
+					<an:FRBRdate date="2018-07-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@.akn"/>
+					<an:FRBRdate date="2018-07-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-07-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-07-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/624/A/2.0.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/624" showAs="DDL 624"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTP5RQLPIBIV0ICAYQFDX1CUFYCB5TEWZ4YKP0LEJUMSFSAXSPT5P" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID2ML53QOMJZKMOM0DBYY5FAUVTIB01RVR1J22W2EELPUICEI2QJSE" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDBQWFAHIQ1RDXKU2YF25WN0BJ2HYTG4RV03O4VLOW3KGI1GSGPK5H" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDP2JUOXYVY21TJPX205JTPXHOQDWNF2WX5OCHIXEQ2M3RT3OUWJHN" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 624</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTP5RQLPIBIV0ICAYQFDX1CUFYCB5TEWZ4YKP0LEJUMSFSAXSPT5P" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2ML53QOMJZKMOM0DBYY5FAUVTIB01RVR1J22W2EELPUICEI2QJSE" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBQWFAHIQ1RDXKU2YF25WN0BJ2HYTG4RV03O4VLOW3KGI1GSGPK5H" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP2JUOXYVY21TJPX205JTPXHOQDWNF2WX5OCHIXEQ2M3RT3OUWJHN" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:i>bis</an:i>
+				</an:p>
+				<an:p>        1. La cessione delle unità navali e l'impiego delle risorse volte ad assicurare le attività di cui all'articolo 1, commi 1 e 2, nonché all'articolo 2, avvengono previo accordo sottoscritto con la Guardia costiera del Ministero della difesa e degli organi per la sicurezza del Ministero dell'interno libici che garantisca la presenza sulle unità navali di personale specializzato dell'Alto Commissariato delle Nazioni Unite per i Rifugiati (UNHCR), al fine di verificare il pieno rispetto dei diritti umani e dei migranti nelle operazioni di salvataggio, riconoscimento e trasferimento delle persone recuperate in mare. ».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

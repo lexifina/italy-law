@@ -1,0 +1,11 @@
+- Capo I DISPOSIZIONI GENERALI (Art. 1.)
+
+- Capo II DISPOSIZIONI SULL'USO DI TALUNI ANIMALI NELLE PROCEDURE (Art. 7.)
+
+- Capo III PROCEDURE (Art. 12.)
+
+- Capo IV AUTORIZZAZIONE - Requisiti per gli allevatori, i fornitori e gli utilizzatori (Art. 20.)
+
+- Capo V MISURE PER EVITARE DUPLICAZIONI E APPROCCI ALTERNATIVI (Art. 36.)
+
+- Capo VI DISPOSIZIONI FINALI (Art. 39.)

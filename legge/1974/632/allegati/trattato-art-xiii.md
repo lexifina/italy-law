@@ -1,7 +1,0 @@
-Articolo XIII
-
-In caso di urgenza ciascuna Parte contraente puo' chiedere l'arresto provvisorio della persona richiesta in attesa della presentazione della domanda di estradizione per via diplomatica. La richiesta di arresto provvisorio potra' essere inoltrata sia per via diplomatica, sia direttamente tra il Ministero italiano di grazia e giustizia ed il Dipartimento federale della giustizia degli Stati Uniti; essa deve contenere la descrizione della persona richiesta, l'indicazione che si intende chiedere la sua estradizione e la dichiarazione dell'esistenza di un provvedimento restrittivo della liberta' personale o di una sentenza di condanna, incluse le sentenze di condanna in assenza o in contumacia della persona di cui trattasi, nonche' le altre eventuali informazioni che sarebbero necessarie per giustificare la emissione di un provvedimento limitativo della liberta' personale se il reato fosse stato commesso, o la persona fosse stata condannata, nel territorio della Parte richiesta.
-
-Ricevuta la domanda, la Parte richiesta compira' tutti i passi necessari al fine di assicurare l'arresto della persona richiesta.
-
-La persona arrestata in base a tale richiesta dovra' essere posta in liberta' dopo quarantacinque giorni dalla data dell'arresto se non sara' stata ricevuta la domanda di estradizione accompagnata dai documenti indicati nell'articolo XI. Questa condizione non impedira' l'instaurazione di un procedimento avente per oggetto la estradizione della persona richiesta se la domanda sara' successivamente ricevuta.

@@ -1,7 +1,0 @@
-Allegato M
-
-(Articolo 1, comma 2)
-
-DECRETO DEL CAPO DEL GOVERNO
-
-Parte di provvedimento in formato grafico

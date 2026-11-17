@@ -1,5 +1,0 @@
-ALLEGATO C
-
-VERBALE DI CONTROLLO
-
-Parte di provvedimento in formato grafico

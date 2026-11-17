@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/46.0.12"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="46.0.12"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/46.0.12/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMHYCO0MOREQUNDQT3OFYCIZGPITW35BVIWQGSBOLC503QFSVHQ3M" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+				<an:TLCPerson id="ID1RVBAYIQT1CNEB3DV3B0C523RIHY5O0MYOYNPNJKMFXXY1QKLHYG" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDFG3O41FPGDTPJWYJPB303U04XMHMFBQUTXBIU0E2PJSVR021X1NE" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDABVZEEIMHYIOGIEE3N3DPHGZFBNIFHUMY2GXEKFS24ZRZLKB0W0" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDJN5IMJNTYD5KPWOMCIZW0C0K1MQIH2C3NSYDCGMMOKE2VKSTN3SN" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 46.0.12</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMHYCO0MOREQUNDQT3OFYCIZGPITW35BVIWQGSBOLC503QFSVHQ3M" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1RVBAYIQT1CNEB3DV3B0C523RIHY5O0MYOYNPNJKMFXXY1QKLHYG" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFG3O41FPGDTPJWYJPB303U04XMHMFBQUTXBIU0E2PJSVR021X1NE" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABVZEEIMHYIOGIEE3N3DPHGZFBNIFHUMY2GXEKFS24ZRZLKB0W0" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJN5IMJNTYD5KPWOMCIZW0C0K1MQIH2C3NSYDCGMMOKE2VKSTN3SN" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 46-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Incremento delle risorse per gli investimenti degli enti territoriali)</an:i>
+				</an:p>
+				<an:p>        1. Gli stanziamenti di cui al comma 134, articolo 1, della legge 30 dicembre 2018, n. 145, sono incrementati per le medesime finalità ivi previste, di 60 milioni di euro per gli anni 2021 e 2022; di 70 milioni di euro per l'anno 2023, di 75 milioni di euro per l'anno 2024, di 95 milioni di euro per gli anni 2025 e 2026, di 335 milioni di euro dal 2027 al 2032 e di 450 milioni di euro per l'anno 2033 e di 495 milioni di euro per l'anno 2034. All'onere si provvede mediante corrispondente riduzione delle risorse di cui di cui al comma 14, dell'articolo 1, della legge 27 dicembre 2019, n. 160».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

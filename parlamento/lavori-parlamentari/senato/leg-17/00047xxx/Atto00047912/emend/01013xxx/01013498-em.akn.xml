@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/G2.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/G2.101"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2784/A/G2.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@.akn"/>
+					<an:FRBRdate date="2017-04-19" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-19"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-19" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2784/A/G2.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2784" showAs="DDL 2784"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDTSF1P4FZAT5NBSDU5ENWJES1QB1IPLAXA45TNLJ0DMCHF4EPTE" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDKET1SLDXI0HCNAS1Q5FFS3GBROHQIBFN4PS3CFLY2FFSYRMC5L3F" href="http://dati.senato.it/29066" showAs="CATALFO"/>
+				<an:TLCPerson id="IDTQMVGSXF2XWMEVT0PKCUY02SQBRVBYQOYZ2WECDCGAEMWNOWDZRP" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDZEBEFPPBSHUIFTDFABGBCHOIZGIG4P1KTIVG0NI1LMYRXY4QPJMB" href="http://dati.senato.it/29154" showAs="PAGLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2784</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTSF1P4FZAT5NBSDU5ENWJES1QB1IPLAXA45TNLJ0DMCHF4EPTE" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKET1SLDXI0HCNAS1Q5FFS3GBROHQIBFN4PS3CFLY2FFSYRMC5L3F" as="#tipoSenatore">CATALFO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTQMVGSXF2XWMEVT0PKCUY02SQBRVBYQOYZ2WECDCGAEMWNOWDZRP" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZEBEFPPBSHUIFTDFABGBCHOIZGIG4P1KTIVG0NI1LMYRXY4QPJMB" as="#tipoSenatore">PAGLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede d'esame del disegno di legge di conversione in legge del decreto-legge 17 marzo 2017, n. 25, recante disposizioni urgenti per l'abrogazione delle disposizioni in materia di lavoro accessorio nonché per la modifica delle disposizioni sulla responsabilità solidale in materia di appalti (AS 2784)</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 2 del decreto-legge in esame modifica la disciplina in materia di responsabilità solidale tra committente e appaltatore in relazione ai trattamenti retributivi (comprensivi delle quote di trattamento di fine rapporto), ai contributi previdenziali e ai premi assicurativi dovuti ai lavoratori subordinati in relazione al periodo di esecuzione del contratto di appalto,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a porre in essere opportune iniziative di carattere normativo al fine di prevedere che:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 l'appaltatore e il subappaltatore corrispondano la retribuzione ai lavoratori, nonché ogni anticipo di essa, attraverso un istituto bancario o un ufficio postale attraverso accredito diretto sul conto corrente del lavoratore anche con bonifico o emissione di un assegno da parte dell'istituto bancario o dell'ufficio postale consegnato direttamente al lavoratore o, in caso di suo comprovato impedimento, a un suo delegato;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 i soggetti di cui alla lettera 
+					<an:i>a)</an:i>
+					, i datori di lavoro o committenti non possano corrispondere la retribuzione per mezzo di assegni o di somme contanti di denaro, qualunque sia la tipologia del rapporto di lavoro instaurato, prevedendo altresì specifiche sanzioni a loro carico;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 l'appaItatore e il subappaltatore siano tenuti a comunicare rispettivamente al committente e all'appaltatore la documentazione bancaria o postale attestante il versamento delle retribuzioni spettanti ai dipendenti, in relazione alle prestazioni effettuate nell'ambito del rapporto di appalto o subappalto;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 l'appaltatore e il subappaltatore certifichino la regolarità della corresponsione della retribuzione ai dipendenti con l'esibizione dell'ordine di pagamento all'istituto bancario o all'ufficio postale;
+				</an:p>
+				<an:p>
+					<an:i>e)</an:i>
+					 il committente e l'appaltatore possano sospendere il pagamento del corrispettivo fino all'esibizione della predetta documentazione da parte rispettivamente dell'appaltatore e del subappaltatore;
+				</an:p>
+				<an:p>
+					<an:i>f)</an:i>
+					 le imprese che risultino affidatarie di un appalto siano tenute a presentare al committente la certificazione relativa alla regolarità retributiva a pena di revoca dell'affidamento o appalto.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

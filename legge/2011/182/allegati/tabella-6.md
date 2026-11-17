@@ -1,5 +1,0 @@
-Tabella 6
-
-STATO DI PREVISIONE DEL MINISTERO DEGLI AFFARI ESTERI
-
-Parte di provvedimento in formato grafico

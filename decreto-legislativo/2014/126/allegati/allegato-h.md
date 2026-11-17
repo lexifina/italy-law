@@ -1,9 +1,0 @@
-Allegato H
-
-Allegato n. 11
-
-al D.Lgs. 118/2011
-
-SCHEMA DI BILANCIO CONSOLIDATO
-
-Parte di provvedimento in formato grafico

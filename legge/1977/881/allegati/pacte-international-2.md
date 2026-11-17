@@ -1,3 +1,0 @@
-PACTE INTERNATIONAL RELATIF AUX DROITS CIVILS ET POLITIQUES
-
-Parte di provvedimento in formato grafico

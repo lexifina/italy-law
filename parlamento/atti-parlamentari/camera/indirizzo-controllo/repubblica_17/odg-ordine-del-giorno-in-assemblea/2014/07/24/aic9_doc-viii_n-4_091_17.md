@@ -1,0 +1,78 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/091 presentata da VALENTE VALERIA (PARTITO DEMOCRATICO) in data 24/07/2014
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/091
+- Data: 20140724
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/091 presentata da VALENTE VALERIA (PARTITO DEMOCRATICO) in data 24/07/2014
+- Presentatore: VALENTE VALERIA (PARTITO DEMOCRATICO)
+- Cofirmatario: AGOSTINELLI DONATELLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: AGOSTINI ROBERTA (PARTITO DEMOCRATICO)
+- Cofirmatario: BASILIO TATIANA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BECHIS ELEONORA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BENEDETTI SILVIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: BIANCOFIORE MICHAELA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: BLA&#381;INA TAMARA (PARTITO DEMOCRATICO)
+- Cofirmatario: BOSSA LUISA (PARTITO DEMOCRATICO)
+- Cofirmatario: BUSINAROLO FRANCESCA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CANCELLERI AZZURRA PIA MARIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CAPOZZOLO SABRINA (PARTITO DEMOCRATICO)
+- Cofirmatario: CAPUA ILARIA (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: CARFAGNA MARIA ROSARIA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: CARLONI ANNA MARIA (PARTITO DEMOCRATICO)
+- Cofirmatario: CENTEMERO ELENA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: CHIMIENTI SILVIA (MOVIMENTO 5 STELLE)
+- Cofirmatario: CIPRINI TIZIANA (MOVIMENTO 5 STELLE)
+- Cofirmatario: COCCIA LAURA (PARTITO DEMOCRATICO)
+- Cofirmatario: CORDA EMANUELA (MOVIMENTO 5 STELLE)
+- Cofirmatario: COSTANTINO CELESTE (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: DADONE FABIANA (MOVIMENTO 5 STELLE)
+- Cofirmatario: DI SALVO TITTI (MISTO-LIBERTA' E DIRITTI - SOCIALISTI EUROPEI (LED))
+- Cofirmatario: DURANTI DONATELLA (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: FABBRI MARILENA (PARTITO DEMOCRATICO)
+- Cofirmatario: FITZGERALD NISSOLI FUCSIA (PER L'ITALIA)
+- Cofirmatario: GAGNARLI CHIARA (MOVIMENTO 5 STELLE)
+- Cofirmatario: GALGANO ADRIANA (SCELTA CIVICA PER L'ITALIA)
+- Cofirmatario: GELMINI MARIASTELLA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: GIAMMANCO GABRIELLA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: GNECCHI MARIALUISA (PARTITO DEMOCRATICO)
+- Cofirmatario: GRANDE MARTA (MOVIMENTO 5 STELLE)
+- Cofirmatario: GRIBAUDO CHIARA (PARTITO DEMOCRATICO)
+- Cofirmatario: LABRIOLA VINCENZA (MISTO-LIBERTA' E DIRITTI - SOCIALISTI EUROPEI (LED))
+- Cofirmatario: LOCATELLI PIA ELDA (MISTO-PARTITO SOCIALISTA ITALIANO (PSI) - LIBERALI PER L'ITALIA (PLI))
+- Cofirmatario: LOMBARDI ROBERTA (MOVIMENTO 5 STELLE)
+- Cofirmatario: LUPO LOREDANA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MALISANI GIANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: MILANATO LORENA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: MUCCI MARA (MOVIMENTO 5 STELLE)
+- Cofirmatario: MURER DELIA (PARTITO DEMOCRATICO)
+- Cofirmatario: NICCHI MARISA (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: PALMA GIOVANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: PANNARALE ANNALISA (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: PELLEGRINO SERENA (SINISTRA ECOLOGIA LIBERTA')
+- Cofirmatario: PETITTI EMMA (PARTITO DEMOCRATICO)
+- Cofirmatario: PIAZZONI ILEANA CATHIA (MISTO-LIBERTA' E DIRITTI - SOCIALISTI EUROPEI (LED))
+- Cofirmatario: PINNA PAOLA (MOVIMENTO 5 STELLE)
+- Cofirmatario: POLLASTRINI BARBARA (PARTITO DEMOCRATICO)
+- Cofirmatario: ROSSOMANDO ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: ROSTELLATO GESSICA (MOVIMENTO 5 STELLE)
+- Cofirmatario: SALTAMARTINI BARBARA (NUOVO CENTRODESTRA)
+- Cofirmatario: SANTELLI JOLE (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: SAVINO SANDRA (FORZA ITALIA - IL POPOLO DELLA LIBERTA' - BERLUSCONI PRESIDENTE)
+- Cofirmatario: SCHIRO' GEA (PER L'ITALIA)
+- Cofirmatario: SCOPELLITI ROSANNA (NUOVO CENTRODESTRA)
+- Cofirmatario: SGAMBATO CAMILLA (PARTITO DEMOCRATICO)
+- Cofirmatario: SPADONI MARIA EDERA (MOVIMENTO 5 STELLE)
+- Cofirmatario: TERROSI ALESSANDRA (PARTITO DEMOCRATICO)
+- Cofirmatario: TERZONI PATRIZIA (MOVIMENTO 5 STELLE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1073
+- Argomento: http://eurovoc.europa.eu/2184
+- Argomento: http://eurovoc.europa.eu/5449
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=17&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/091
+- Legislatura: repubblica_17
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_091_17
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+## Testo
+
+Atto Camera Ordine del Giorno 9/Doc. VIII, n. 4/091 presentato da VALENTE Valeria testo di Giovedì 24 luglio 2014, seduta n. 271 La Camera, premesso che: negli ultimi venti anni, a fronte del mutato contesto sociale, nell'organizzazione delle amministrazioni e delle aziende, si sono affermati nuovi concetti come «benessere organizzativo», «non discriminazione», «pari opportunità»; di fronte alle nuove sfide poste dalla società dell'informazione e della conoscenza, si sono affermati nuovi modelli organizzativi volti alla realizzazione di un ambiente di lavoro più aperto ed inclusivo; i tempi sono maturi per un aggiornamento delle politiche di gestione del personale, in un'ottica in cui il principio di non discriminazione si coniughi con un miglioramento dell'efficienza e della produttività, secondo una logica win-win ; appare opportuna l'individuazione di nuovi moduli operativi che, assicurando una pari o una migliore efficienza dell'azione amministrativa, tengano in considerazione anche delle esigenze individuali di conciliazione dei tempi di vita; nel contesto interno ed internazionale, amministrazioni d'eccellenza, paragonabili a quelle della Camera dei deputati, quali il Parlamento europeo e la Banca d'Italia, si sono mosse già da tempo nella direzione indicata; sarebbe opportuno considerare diverse e più razionali modalità di organizzazione dei lavori parlamentari, che tengano conto delle esperienze degli altri Parlamenti, nonché a favorire la predeterminazione degli orari di inizio e di conclusione dei lavori delle sedute di Aula e di Commissione, come del resto già avviene nell'altro ramo del Parlamento, impegna l'Ufficio di Presidenza ad adottare un piano di azioni positive, che entri in vigore il 1 o gennaio 2015, e che, riprendendo le best practice delle amministrazioni di eccellenza, preveda misure, accompagnate da un cronoprogramma, per la realizzazione dei seguenti obiettivi: migliorare il benessere organizzativo, attraverso la formazione della dirigenza e dei titolari di incarichi di coordinamento sul diversity management , l'adozione di principi di organizzazione del lavoro volti a favorire la conciliazione dei tempi di vita, l'introduzione in via sperimentale di forme di smart work , la previsione &#8211; ove non attuate ma possibili in relazione alle funzioni &#8211; di forme di flessibilità negli orari e nei turni e l'istituzione di una «banca delle ore»; a tal fine occorre adottare un approccio differenziato, che tenga conto delle peculiarità dei singoli settori o servizi interessati; favorire la valorizzazione del merito nelle carriere, coniugandola con i necessari criteri di trasparenza nell'attribuzione degli incarichi; diffondere la cultura di genere a tutti i livelli professionali, attraverso la formazione di tutto il personale sulla cultura delle pari opportunità e l'adozione di un programma formativo sulla leadership al femminile e sulla valorizzazione delle professionalità femminili; recepire e attuare i principi di pari opportunità e di non discriminazione, anche al fine di evitare discriminazioni, anche de facto , al rientro dalla maternità o da periodi di congedo parentale; applicare i principi del gender budgeting , con la produzione di dati statistici in un'ottica di genere, l'integrazione della relazione sullo stato dell'amministrazione, la valutazione dell'impatto di genere delle politiche amministrative e l'introduzione di un bilancio di genere; migliorare la salute delle dipendenti e dei dipendenti, anche in un'ottica di medicina di genere, con l'introduzione di una specifica valutazione dello stress lavoro-correlato e l'adozione di misure volte a migliorare la tutela della salute delle donne in gravidanza; introdurre servizi per sostenere le esigenze di cura familiare, con particolare riguardo alla cura dei bambini e all'assistenza agli anziani e ai disabili; a presentare, in occasione dell'adozione del prossimo bilancio interno, una relazione sullo stato di attuazione del piano di azioni; a valutare il costo, sia in termini economici che di risorse umane, delle attuali modalità di organizzazione dei lavori parlamentari, al fine di consentire agli organi di programmazione dei lavori di disporre di elementi utili per la valutazione di diverse e più razionali modalità di organizzazione dei lavori. 9/Doc. VIII, n.4/ 91 . (Testo modificato nel corso della seduta)   Valeria Valente , Milanato , Ciprini , Pannarale , Rostellato , Mucci , Bechis , Chimienti , Businarolo , Agostinelli , Benedetti , Gagnarli , Lupo , Basilio , Corda , Cancelleri , Terzoni , Spadoni , Grande , Pinna , Lombardi , Dadone , Centemero , Biancofiore , Giammanco , Carfagna , Santelli , Sandra Savino , Gelmini , Saltamartini , Scopelliti , Rossomando , Roberta Agostini , Fabbri , Pollastrini , Gnecchi , Coccia , Terrosi , Petitti , Blazina , Palma , Murer , Gribaudo , Bossa , Carloni , Sgambato , Capozzolo , Schirò , Fitzgerald Nissoli , Capua , Galgano , Locatelli , Di Salvo , Labriola , Piazzoni , Malisani , Costantino , Nicchi , Pellegrino , Duranti .

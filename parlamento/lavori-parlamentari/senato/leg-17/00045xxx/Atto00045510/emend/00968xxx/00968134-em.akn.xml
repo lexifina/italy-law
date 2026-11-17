@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1870/A/7.205/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1870/A/7.205"/>
+					<an:FRBRdate date="2016-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1870/A/7.205/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.205"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@"/>
+					<an:FRBRdate date="2016-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@.akn"/>
+					<an:FRBRdate date="2016-03-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-03-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-03-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1870/A/7.205/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1870" showAs="DDL 1870"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAOGCP" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDARFCP" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAWHCP" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDA5ECP" href="http://dati.senato.it/senatore/29051" showAs="BOCCHINO"/>
+				<an:TLCPerson id="IDAYHCP" href="http://dati.senato.it/senatore/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="IDA5FCP" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDANGCP" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDADACP" href="http://dati.senato.it/senatore/29137" showAs="MINEO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1870</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.205</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAOGCP" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARFCP" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAWHCP" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5ECP" as="#tipoSenatore">BOCCHINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYHCP" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA5FCP" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANGCP" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADACP" as="#tipoSenatore">MINEO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, sostituire le parole: «dal Ministero del lavoro e delle politiche sociali», con le parole: «dall'Agenzia per il terzo settore, da istituire con decreto del Presidente del Consiglio dei ministri, su proposta dei Ministri dell'Economia e delle finanze, del Lavoro e delle politiche sociali, da emanare entro novanta giorni dalla data di entrata in vigore della presente legge,».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, sostituire, ove ricorrano nell'articolo, le parole:</an:i>
+					 «il Ministero del lavoro e delle politiche sociali», 
+					<an:i>con le parole:</an:i>
+					 «l'Agenzia per il terzo settore».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, all'articolo 10, dopo il comma 3 sono aggiunti i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «3-
+					<an:i>bis.</an:i>
+					 A copertura degli oneri delle disposizioni di cui all'articolo 7, comma 1, pari a 2 milioni di euro annui, si provvede con le risorse di cui al comma 3-
+					<an:i>ter</an:i>
+					.
+				</an:p>
+				<an:p>
+					        3-
+					<an:i>ter</an:i>
+					. Alla legge 28/12/2015, n. 208 il comma 638 è sostituito dal seguente:
+				</an:p>
+				<an:p>        "638. Il Fondo per interventi strutturali di politica economica, di cui all'articolo 10, comma 5, del decreto-legge 29 novembre 2004, n. 282, convertito, con modificazioni, dalla legge 27 dicembre 2004, n. 307, è ridotto di 7,201 milioni di euro per l'anno 2016 ed è incrementato di 37,604 milioni di euro per l'anno 2017, di 88,504 milioni di euro per l'anno 2018, di 175,294 milioni di euro per l'anno 2019, di 178,494 milioni di euro per l'anno 2020, di 175,594 milioni di euro per l'anno 2021, di 184,794 milioni di euro per l'anno 2022, di 195,294 milioni di euro per ciascuno degli anni 2023, 2024, 2025 e 2026, di 243,894 milioni di euro per l'anno 2027 e di 224,084 milioni di euro a decorrere dall'anno 2028"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-Art. 5-bis.
-
-(( ARTICOLO ABROGATO DAL D.P.R. 30 MAGGIO 2002, N. 115 ))

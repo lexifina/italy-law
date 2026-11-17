@@ -1,0 +1,5 @@
+ALLEGATO 8.
+
+LASCIAPASSARE STRAORDINARIO
+
+Parte di provvedimento in formato grafico

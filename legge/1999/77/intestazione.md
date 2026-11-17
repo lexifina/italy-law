@@ -1,9 +1,0 @@
-LEGGE
-
-29 marzo 1999
-
-77
-
-Conversione in legge, con modificazioni, del decreto-legge 28 gennaio 1999, n. 12, recante disposizioni urgenti relative a missioni internazionali di pace.
-
-Entrata in vigore della legge: 31-3-1999

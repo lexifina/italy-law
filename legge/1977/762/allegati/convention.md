@@ -1,5 +1,0 @@
-CONVENTION
-
-concernant la distribution de signaux porteurs de programmes transmis par satellite
-
-Parte di provvedimento in formato grafico

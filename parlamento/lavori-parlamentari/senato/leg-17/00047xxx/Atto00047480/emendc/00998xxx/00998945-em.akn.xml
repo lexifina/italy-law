@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.661/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.661"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.661/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.661"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@.akn"/>
+					<an:FRBRdate date="2016-12-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-12-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-12-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2611/C/1.661/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2611" showAs="DDL 2611"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQMDGVRCQXGQVH1UV2S3GS01MFD22GIB5UXERMXOPS2QVGCOAPNVO" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="IDJB0JPH34ILPEKYJBKHTCCBP5PENSNO2Y2ZTYJYLYVXSRSCC1DA0M" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2611</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.661</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQMDGVRCQXGQVH1UV2S3GS01MFD22GIB5UXERMXOPS2QVGCOAPNVO" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJB0JPH34ILPEKYJBKHTCCBP5PENSNO2Y2ZTYJYLYVXSRSCC1DA0M" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 462 inserire i seguenti:</an:p>
+				<an:p>        «462-bis. Negli anni 2017-2018, gli enti locali possono procedere all'estinzione anticipata, totale o parziale, di passività onerose derivanti dai mutui e prestiti obbligazionari, in essere al 31 dicembre 2016 con la Cassa Depositi e prestiti, con l'Istituto per il credito sportivo e con altri istituti di credito, mediante la contrazione di nuovi mutui o con emissione di prestito obbligazionario, in presenza di condizioni-di rifinanziamento che consentano una riduzione del valore finanziario delle passività totali a carico degli enti stessi. Tale facoltà non comporta alcuna modifica in ordine alla durata originaria e all'ammontare del concorso statale eventualmente concesso sul mutuo. Il conseguimento della riduzione del valore finanziario deve essere realizzato in relazione alla singola posizione di mutuo.</an:p>
+				<an:p>
+					        462-
+					<an:i>ter</an:i>
+					. In deroga alla nonnativa vigente, limitatamente alle operazioni di estinzione anticipata di cui al comma 462 bis, la riduzione del valore fmanziario delle passività totali da conseguire all'atto dell'operazione, è da considerare al netto del valore degli indennizzi dovuti per l'estinzione delle passività pregresse.
+				</an:p>
+				<an:p>
+					        462-
+					<an:i>quater</an:i>
+					. L'indennizzo per l'estinzione anticipata dei mutui previsto dal comma 462 
+					<an:i>bis</an:i>
+					, per la quota non coperta dal contributo dello Stato di cui all'art. 9-
+					<an:i>ter</an:i>
+					 del decreto-legge 24 giugno 2016, n. 113, convertito, con modificazioni, dalla legge 7 agosto 2016, n. 160, è escluso, per il periodo 2017-2018, dalle spese fmali ai fini del conseguimento del saldo di cui all'articolo 65».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,3 @@
+Protocole d'application Provisoire de l'Accord Monetaire Europeen
+
+Parte di provvedimento in formato grafico

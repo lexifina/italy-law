@@ -1,7 +1,0 @@
-LEGGE
-
-25 aprile 1957
-
-401
-
-Ratifica ed esecuzione del Trattato di commercio, stabilimento e navigazione tra l'Italia e l'Iran, concluso in Teheran il 26 gennaio 1955 con annessi scambi di Note del 26 gennaio e del 5-9 febbraio 1955.

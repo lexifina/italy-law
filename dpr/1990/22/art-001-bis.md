@@ -1,5 +1,0 @@
-Art. 1-bis.
-
-Tipi di uniforme ordinaria
-
-1. L'uniforme ordinaria e' distinta in uniforme ordinaria invernale (O.I.) e in uniforme ordinaria estiva (O.E.).

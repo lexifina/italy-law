@@ -1,3 +1,0 @@
-Convention entre la Suisse et l'Italie relative aux assurances sociales
-
-Parte di provvedimento in formato grafico

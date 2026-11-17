@@ -1,5 +1,0 @@
-((Allegato 1-bis
-
-(Articolo 20-quinquies, comma 3)
-
-Parte di provvedimento in formato grafico))

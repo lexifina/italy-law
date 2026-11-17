@@ -1,0 +1,3 @@
+Art. 687-ter.
+
+((Quando, per l'esercizio di determinati servizi, e' prescritta dalle norme del presente decreto l'installazione di un determinato tipo di macchina o di impianto e lo sviluppo della tecnica mette a disposizione degli operatori industriali nuovi differenti tipi di macchine o di impianti che offrano condizioni di sicurezza del lavoro almeno pari a quelle del tipo prescritto, l'ingegnere capo del distretto minerario puo' autorizzarne l'installazione, ove riscontri che l'installazione dei nuovi differenti tipi di macchine o di impianti possa migliorare l'economicita' dello sfruttamento del giacimento senza diminuire le condizioni di sicurezza del lavoro e degli impianti)).

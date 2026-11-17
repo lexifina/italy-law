@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11"/>
+					<an:FRBRdate date="2017-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2858/1/11"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@"/>
+					<an:FRBRdate date="2017-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@.akn"/>
+					<an:FRBRdate date="2017-10-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2858/C/G/2858/1/11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2858" showAs="DDL 2858"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNIQBPC1V5FV4FP04ZVDRUJ4CDN2IDJBMEL3PKJK1BCQ4LLOC0DCI" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="ID3AO1XMDLTGR5P4M0X04CVWCM2HWYB20ZFC53ZNJKGG2AFQD5PMWJ" href="http://dati.senato.it/25207" showAs="SERAFINI"/>
+				<an:TLCPerson id="IDCLJXS1ZKPM0BCNMYDLAK1YLULD0YDMHBE2FFBUEOYGYSC510HAWE" href="http://dati.senato.it/30913" showAs="AURICCHIO"/>
+				<an:TLCPerson id="IDU0MWG1WCTFP1DQWVTX3YVB5R5C2K5HVOBHYOIMIXLWHMKEONACC" href="http://dati.senato.it/25412" showAs="Mariarosaria ROSSI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2858</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2858/1/11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNIQBPC1V5FV4FP04ZVDRUJ4CDN2IDJBMEL3PKJK1BCQ4LLOC0DCI" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3AO1XMDLTGR5P4M0X04CVWCM2HWYB20ZFC53ZNJKGG2AFQD5PMWJ" as="#tipoSenatore">SERAFINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCLJXS1ZKPM0BCNMYDLAK1YLULD0YDMHBE2FFBUEOYGYSC510HAWE" as="#tipoSenatore">AURICCHIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU0MWG1WCTFP1DQWVTX3YVB5R5C2K5HVOBHYOIMIXLWHMKEONACC" as="#tipoSenatore">Mariarosaria ROSSI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di discussione del disegno di legge recante «Disposizioni in materia di equità del compenso e responsabilità professionale delle professioni regolamentate»,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            l'articolo 2 del disegno di legge in esame, prevede di assumere per la misura dell'equità del compenso, ferma restando la discrezionalità del giudice nel valutare caso per caso le patologie del rapporto, il riferimento ai parametri definiti dai decreti ministeriali adottati ai sensi dell'articolo 9 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, dal decreto del Ministro della giustizia adottato ai sensi dell'articolo 13, comma 6, della legge 31 dicembre 2012, n. 247, dal decreto del Ministro della giustizia 17 giugno 2016, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 174 del 27 luglio 2016, adottato ai sensi dell'articolo 24, comma 8, del decreto legislativo 18 aprile 2016, n. 50;
+				</an:p>
+				<an:p>            le disposizioni normative richiamate nel disegno di legge in esame non coprono tutte le tipologie di prestazioni svolte dalle professioni ordinistiche;</an:p>
+				<an:p>        ai fini di garantire una maggiore tutela ai professionisti, impegna il Governo:</an:p>
+				<an:p>            a prevedere la possibilità di uniformare la disciplina dell'equo compenso a tutte le tipologie di prestazioni svolte dalle professioni ordinistiche.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

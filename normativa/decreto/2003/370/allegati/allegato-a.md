@@ -1,0 +1,35 @@
+Allegato A
+
+articolo 3, comma 3 (Piani di studio)
+
+PIANI DI STUDIO DEI CORSI DI FORMAZIONE PER VICE ISPETTORI FINALITA' QUALIFICANTI
+
+I. frequentatori dei corsi di formazione devono acquisire quattro ordini di conoscenze complementari e competenze, riferibili a quattro sistemi di padronanze professionali, finalizzati all'esercizio delle funzioni previste per gli appartenenti al ruolo degli ispettori della Polizia di Stato:
+
+- Il sistema valoriale: riguarda il mondo dei valori personali del vice ispettore, cosi' come vengono esplicitati nel servizio. Comprende la deontologia e l'etica professionale, il modo di sentire e vivere il proprio ruolo (autostima e senso di se), lo spirito di appartenenza e la valorizzazione dell'immagine della Polizia, il senso di responsabilita' nel servizio e l'ottimizzazione dei risultati.
+
+- Il sistema relazionale, riguarda gli stili interpersonali del vice ispettore nel suo rapportarsi quotidiano con gli altri all'interno e all'esterno dell'Amministrazione: comprende l'equilibrio psicologico, la capacita' di gestire lo stress personale ed altrui, la consistenza e la direzionalita' della comunicazione, l'esercizio equilibrato della leadership ed il governo delle risorse umane e degli ambienti organizzativi, al proprio livello funzionale.
+
+- Il sistema gestionale, riguarda la padronanza organizzativa e gestionale delle unita' organiche che il vice ispettore e' chiamato a dirigere e/o a coordinare. Comprende le capacita' decisionali, le abilita' di analisi e sintesi dei problemi (specie in emergenza), le capacita' organizzative e di' gestione dei Distaccamento, Ufficio o unita' operativa cui e' preposto, la conoscenza e la manipolazione delle modalita' di rapporto, al proprio livello funzionale, con Enti che interagiscono con le attivita' della Polizia di Stato.
+
+- Il sistema cognitivo, riguarda l'insieme di conoscenze appositamente richieste al vice ispettore. Comprende l'acquisizione di nozioni fondamentali nel campo delle scienze giuridiche (in rapporto alla funzionalita' dei servizio), delle scienze della sicurezza e dell'articolato ventaglio delle tecniche connesse, delle scienze umane e di quelle dell'organizzazione.
+
+AREE DIDATTICHE
+
+OBIETTIVI: acquisire e sviluppare competenze specialistiche per l'utilizzo in ambito professionale degli strumenti:
+
+GIURIDICA
+
+- delle discipline penalistiche, economiche, criminologiche e medico legali per la gestione di attivita' investigative finalizzate alla prevenzione e repressione di ogni espressione di fenomeni criminosi ed alla tutela del patrimonio pubblico e dei beni individuali da ogni forma di criminalita' all'interno dello stato nazionale e nell'ambito della collaborazione internazionale di polizia. - delle discipline relative all'ordinamento pubblico ed al funzionamento dello stato nazionale e dell'Unione Europea, nonche' ai connessi ambiti applicativi nazionali ed internazionali, con particolare riferimento agli ambiti della sicurezza e della prevenzione dei fenomeni criminosi, del controllo dei flussi migratori, della tutela dei diritti umani e della collaborazione internazionale di polizia. - della legislazione di pubblica sicurezza e delle discipline relative agli ambiti applicativi amministrativo-civilistici necessarie per l'esercizio della qualifica di agente di pubblica sicurezza e per la gestione delle attivita' di polizia amministrativa e sociale di competenza degli uffici della Polizia di Stato.
+
+PSICOLOGICA E SOCIOLOGICA
+
+- delle discipline sociologiche per comprendere la realta' del sistema socio-politico italiano, interpretarne le dinamiche nelle loro molteplici interconnessioni ed acquisire gli elementi conoscitivi utili ad individuare rischi di degenerazione criminale di fenomeni sociali o pericoli di turbative all'ordine pubblico e ad attuare un piu' efficace controllo del territorio ai fini della sicurezza pubblica e della pacifica convivenza. - delle discipline psico-antropologiche per comprendere i profili psicologici che sottendono le dinamiche comportamentali individuali e di gruppo, al fine di orientare le proprie iniziative operative per la tutela dell'ordine pubblico, il controllo delle devianze, la prevenzione e repressione della criminalita' individuale ed organizzata, nonche' al fine di potenziare le capacita' di relazione interpersonale e di gestione delle risorse umane, al proprio livello funzionale.
+
+GESTIONALE
+
+- della normativa e delle procedure attinenti all'organizzazione centrale e periferica del Dipartimento della P.S. ed all'ordinamento del personale della Polizia di Stato. - delle tecniche di valutazione e gestione delle risorse umane in relazione agli obiettivi assegnati al proprio livello funzionale ed operativo, nonche' delle tecniche di formazione permanente e ricorrente del personale.
+
+PROFESSIONALE
+
+- di etica del servizio pubblico fondata sulla storia e i valori deontologici d ella Polizia di Stato, che devono essere interiorizzati, condivisi e praticati quali irrinunciabili elementi di forte coesione interna, di orientamento dei comportamenti e di integrazione dei singoli nel collettivo dell'organizzazione - di tecnica delle investigazioni e delle indagini di polizia scientifica e di contrasto alla criminalita' organizzata - delle tecniche di polizia di prevenzione, controllo delterritorio, antiterrorismo e difesa delle Istituzioni democratiche - delle tecniche professionali concernenti l'addestramento formale del personale; la tecnologia delle armi e degli esplosivi, l'impiego dei sistemi di radiocollegamenti e telecomunicazioni, dei dispositivi di equipaggiamento, dei mezzi tecnici e delle tecnologie speciali in dotazione alla Polizia di Stato - delle tecniche operative concernenti l'addestramento operativo individuale, di pattuglia, di squadra e di reparto; la gestione e l'attuazione dei servizi di protezione e scorta, di viabilita' ed infortunistica stradale, di ordine e soccorso pubblico; l'addestramento al tiro, alla difesa personale ed alla guida dei veicoli in servizio di polizia - delle discipline linguistiche, anche tramite l'approfondimento di una seconda lingua in uso nell'Unione Europea, con particolare riguardo agli ambiti professionali di competenza, nonche' delle scienze e tecniche della comunicazione, della mediazione e della risoluzione dei conflitti, per interagire in modo adeguato ed efficace con soggetti terzi. - dei sistemi telematici necessari per lo svolgimento delle proprie funzioni, per le comunicazioni interne ed esterne, per la documentazione e la consultazione delle banche dati.

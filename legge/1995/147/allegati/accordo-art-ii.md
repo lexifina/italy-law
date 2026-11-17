@@ -1,5 +1,0 @@
-ARTICOLO II
-
-1. Ove un giacimento di risorse minerarie, ivi comprese sabbia e ghiaia, venga intersecato dalla linea di delimitazione delle due zone di piattaforma continentale, e la parte del giacimento situata da uno dei due lati della linea di delimitazione sia coltivabile, in tutto o in parte, da installazioni situate dall'altro lato di tale linea, le Parti contraenti cercheranno, previa consultazione con i concessionari dei diritti di coltivazione mineraria, ove esistano, di accordarsi sulle condizioni e sul metodo di coltivazione del giacimento, affinche' tale coltivazione sia la piu' redditizia, compatibilmente con la tutela del giacimento, ed in modo che ciascuna delle Parti conservi l'insieme dei propri diritti sulle risorse minerarie del suolo e del sottosuolo della propria piattaforma continentale.
-
-2. In particolare, tale procedimento si applichera' se le condizioni od il metodo di coltivazione della parte del giacimento situata da 1 o della linea di delimitazione influisca sulle condizioni o sul metodo di coltivazione dell'altra parte del giacimento.

@@ -1,0 +1,13 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il testo unico delle leggi sul Consiglio di Stato, approvato con regio decreto 26 giugno 1924, n. 1054: ;
+
+Visto il regolamento per la esecuzione della legge sul Consiglio di Stato, approvato con regio decreto 21 aprile 1942, n. 444;
+
+Visto l'art. 5 del decreto legislativo 5 maggio 1948, n. 642;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro; Decreta:

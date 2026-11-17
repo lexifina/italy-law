@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/23.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/23.15"/>
+					<an:FRBRdate date="2005-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/699/A/23.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@"/>
+					<an:FRBRdate date="2005-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@.akn"/>
+					<an:FRBRdate date="2005-05-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/699/A/23.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/699" showAs="DDL 699"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/4391" showAs="Crema"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1470" showAs="Marini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17659" showAs="Vicini"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17594" showAs="Liguori"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17587" showAs="Iovene"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/16635" showAs="Mascioni"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4340" showAs="Bastianoni"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/17566" showAs="Cavallaro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 699</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Crema</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Marini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Vicini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Liguori</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Iovene</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Mascioni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Bastianoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Cavallaro</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire l'articolo 23 con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					 «Art. 23. - 1. All'articolo 113, comma 1, lettera 
+					<an:i>d),</an:i>
+					 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267, la parola «sociali« è soppressa.
+				</an:p>
+				<an:p align="justify"> 2. Dopo il comma 1 del citato articolo 113 del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, è aggiunto il seguente:</an:p>
+				<an:p align="justify">
+					 1-
+					<an:i>bis.</an:i>
+					 Le seguenti disposizioni si applicano ai servizi pubblici locali di rilevanza imprenditoriale:
+				</an:p>
+				<an:p align="justify">
+					<an:i>a)</an:i>
+					 la proprietà delle reti e degli impianti spetta all'ente locale;
+				</an:p>
+				<an:p align="justify">
+					<an:i>b)</an:i>
+					 nell'organizzazione del servizio, l'ente locale, titolare della funzione, può perseguire l'obiettivo della separazione tra la proprietà e gestione di reti ed infrastrutture e l'erogazione del servizio;
+				</an:p>
+				<an:p align="justify">
+					<an:i>c)</an:i>
+					 per la gestione di reti ed infrastrutture, l'ente locale può avvalersi di soggetti all'uopo costituiti, nella forma di aziende speciali o società consortili tra enti di diritto pubblico, cui può essere affidata direttamente tale attitvità, ovvero di altro soggetto idoneo, da individuarsi mediante procedure ad evidenza pubblica;
+				</an:p>
+				<an:p align="justify">
+					<an:i>d)</an:i>
+					 l'erogazione del servizio può essere assicurata da società di capitali regolate dal codice civile, individuate attraverso gare pubbliche per l'affidamento del servizio stesso. La gara, nel rispetto degli 
+					<an:i>standard</an:i>
+					 qualitativi, quantitativi, ambientali, di equa distribuzione sul territorio e di sicurezza, è aggiudicata sulla base del miglior livello di qualità e sicurezza e delle condizioni economiche e di prestazione del servizio, dei piani di investimento per lo sviluppo ed il potenziamento delle reti e degli impianti, per il loro rinnovo e manutenzione, nonché dei contenuti di innovazione tecnologica e gestionale. Tali elementi fanno parte integrante del contratto di servizio;
+				</an:p>
+				<an:p align="justify">
+					<an:i>e)</an:i>
+					 i rapporti tra gli enti locali e le società erogatrici del servizio sono regolati da contratti di servizio, allegati ai capitolati di gara che vengono approvati dagli organi consiliari;
+				</an:p>
+				<an:p align="justify">
+					<an:i>f)</an:i>
+					 l'ente locale può cedere, in tutto o in parte, la propria partecipazione di controllo nelle società erogatrici di servizio. Tale cessione non comporta effetti sulla durata delle concessioni e degli affidamenti in essere. Alla scadenza del periodo di affidamento, gli eventuali trasferimenti di dotazioni patrimoniali al nuovo gestore del servizio comportano la corresponsione a quello precedente di un indennizzo parti al valore di stima basato sul valore di mercato al termine dell'affidamento stesso;
+				</an:p>
+				<an:p align="justify">
+					<an:i>g)</an:i>
+					 sono fatti salvi i diritti e le concessioni facenti capo a soggetti affidatari di servizi pubblici locali sino alle relative scadenze;
+				</an:p>
+				<an:p align="justify">
+					<an:i>h)</an:i>
+					 i trasferimenti di beni mobili ed immobili effettuati in applicazione del presente articolo sono esenti da ogni imposta, spesa, tassa o diritto di qualsiasi specie e non rilevano ai fini fiscali».
+				</an:p>
+				<an:p align="justify">
+					 3. All'articolo 114, comma 2, lettera d), 
+					<an:i>del testo unico di cui al decreto legislativo 18 agosto 2000, n. 267, la parola «sociali«, è sostituita dalle seguenti: «senza rilevanza imprenditoriale«».</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

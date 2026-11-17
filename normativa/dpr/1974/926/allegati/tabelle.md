@@ -1,0 +1,11 @@
+TABELLA A
+
+TABELLA ORGANICA DEL LICEO ARTISTICO DI GENOVA.
+
+Parte di provvedimento in formato grafico
+
+TABELLA B
+
+TABELLA DEI CONTRIBUTI ANNUI A CARICO DELLO STATO RELATIVI AL LICEO ARTISTICO DI GENOVA.
+
+Parte di provvedimento in formato grafico

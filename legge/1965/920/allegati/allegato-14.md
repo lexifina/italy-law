@@ -1,7 +1,0 @@
-ALLEGATO 14.
-
-PRILOG 14.
-
-VALUTE E GENERI
-
-Parte di provvedimento in formato grafico

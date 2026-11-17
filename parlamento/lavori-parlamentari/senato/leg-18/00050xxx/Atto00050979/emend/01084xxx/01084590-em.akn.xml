@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/955/A/9.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/955/A/9.19"/>
+					<an:FRBRdate date="2018-12-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/955/A/9.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@"/>
+					<an:FRBRdate date="2018-12-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@.akn"/>
+					<an:FRBRdate date="2018-12-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/955/A/9.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/955" showAs="DDL 955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSWKCFSK24MXULONWB501BZ54XOPD4EKJIP4AQREFHPQOWTFWIVZK" href="http://dati.senato.it/1407" showAs="MALAN"/>
+				<an:TLCPerson id="IDCRE2LNHWFHSELRNONWGKIADV2BYPCZSO5J5FIRKG5TDFTGKYFU1D" href="http://dati.senato.it/25214" showAs="CALIENDO"/>
+				<an:TLCPerson id="IDWHDGFEGKVHVQOKR2XIZ1Q2WQQNPPBITKTOKIAUL0V433LIZCDIRG" href="http://dati.senato.it/32611" showAs="DAL MAS"/>
+				<an:TLCPerson id="IDROZWNTLGQFOYDAO2WO3CFL0EJVEK2AOC4NDE2PD1R5DPD1BICPP" href="http://dati.senato.it/32671" showAs="MODENA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSWKCFSK24MXULONWB501BZ54XOPD4EKJIP4AQREFHPQOWTFWIVZK" as="#tipoSenatore">MALAN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCRE2LNHWFHSELRNONWGKIADV2BYPCZSO5J5FIRKG5TDFTGKYFU1D" as="#tipoSenatore">CALIENDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWHDGFEGKVHVQOKR2XIZ1Q2WQQNPPBITKTOKIAUL0V433LIZCDIRG" as="#tipoSenatore">DAL MAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDROZWNTLGQFOYDAO2WO3CFL0EJVEK2AOC4NDE2PD1R5DPD1BICPP" as="#tipoSenatore">MODENA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Sostituire il comma 4 con il seguente:</an:i>
+				</an:p>
+				<an:p>        «4. Entro il quattordicesimo giorno antecedente la data delle competizioni elettorali di qualunque genere, escluse quelle relative a comuni con meno di 15.000 abitanti, i partiti e i movimenti politici, nonché le liste di cui al comma 1, primo periodo, hanno l'obbligo di pubblicare nel proprio sito internet o in altra modalità accessibile gratuitamente attraverso internet, il certificato penale rilasciato dal casellario giudiziario non oltre novanta giorni prima della data fissata per la consultazione elettorale di ciascuno dei loro candidati. Ai fini dell'ottemperanza agli obblighi di cui al presente comma non è richiesto il consenso espresso degli interessati. Nel caso in cui il certificato penale sia richiesto da coloro che intendono candidarsi alle elezioni di cui al presente comma, per le quali sono stati convocati i comizi elettorali, dichiarando contestualmente, sotto la propria responsabilità ai sensi dell'articolo 47 del testo unico delle disposizioni legislative e regolamentari in materia di documentazione amministrativa, di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, che la richiesta di tali certificati è finalizzata a rendere pubblici i dati ivi contenuti in occasione della propria candidatura, le imposte di bollo e ogni altra spesa, imposta e diritto non sono dovuti ai pubblici uffici».</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 5, sopprimere le parole:</an:i>
+					 «il curriculum vitae e».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

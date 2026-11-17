@@ -1,7 +1,0 @@
-TREATY
-
-Parte di provvedimento in formato grafico
-
-Visto, il Ministro per gli affari esteri
-
-MORO

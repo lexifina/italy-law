@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO TECNICO PER GEOMETRI DI PORDENONE
+
+Parte di provvedimento in formato grafico

@@ -1,9 +1,0 @@
-LEGGE
-
-29 febbraio 2012
-
-17
-
-Ratifica ed esecuzione del Trattato tra il Regno del Belgio, la Repubblica di Bulgaria, la Repubblica ceca, il Regno di Danimarca, la Repubblica federale di Germania, la Repubblica di Estonia, l'Irlanda, la Repubblica ellenica, il Regno di Spagna, la Repubblica francese, la Repubblica italiana, la Repubblica di Cipro, la Repubblica di Lettonia, la Repubblica di Lituania, il Granducato di Lussemburgo, la Repubblica di Ungheria, la Repubblica di Malta, il Regno dei Paesi Bassi, la Repubblica d'Austria, la Repubblica di Polonia, la Repubblica portoghese, la Romania, la Repubblica di Slovenia, la Repubblica slovacca, la Repubblica di Finlandia, il Regno di Svezia, il Regno unito di Gran Bretagna e Irlanda del nord (Stati membri dell'Unione europea) e la Repubblica di Croazia, relativo all'adesione della Repubblica di Croazia all'Unione europea, e dell'Atto relativo alle condizioni di adesione, con allegati, protocollo, Atto finale, dichiarazioni e scambio di lettere, fatto a Bruxelles il 9 dicembre 2011. (12G0037)
-
-Entrata in vigore del provvedimento: 03/03/2012

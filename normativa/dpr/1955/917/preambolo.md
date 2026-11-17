@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il Codice postale e delle telecomunicazioni, approvato con il regio decreto 27 febbraio 1936, n. 645;
+
+Visto il regio decreto 19 luglio 1941, n. 1198;
+
+Visto l'art. 46 (quarto comma) delle convenzioni stipulate con le Societa' concessionarie del servizio telefonico pubblico, approvate con i regi decreti 23 aprile 1925, nn. 505, 506, 507, 508 e 509;
+
+Visto il provvedimento del Comitato interministeriale dei prezzi n. 347 del 14 gennaio 1953, riguardante le tariffe telefoniche;
+
+Visto il decreto del Presidente della Repubblica 28 gennaio 1953, n. 56;
+
+Visto il provvedimento del Comitato interministeriale dei prezzi n. 498 del 4 giugno 1955, con il quale e' stato istituito fino al 31 dicembre 1955 un sovraprezzo integrativo delle tariffe telefoniche;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per le poste e le telecomunicazioni, di concerto con il Ministro per il tesoro; Decreta:

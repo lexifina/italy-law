@@ -1,0 +1,3 @@
+Elenco dei terreni intestati alla ditta Mariani Clementina fu Crispino, in comune di Tarquinia (provincia di Viterbo), trasferiti in proprieta' dell'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e Decreto Presidenziale 7 febbraio 1951, n. 66.
+
+Parte di provvedimento in formato grafico

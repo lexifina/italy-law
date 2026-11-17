@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2217/A/9.208/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2217/A/9.208"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2217/A/9.208/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.208"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@.akn"/>
+					<an:FRBRdate date="2016-08-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2217/A/9.208/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2217" showAs="DDL 2217"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDHP35VOJUALWSFE1Q1Z1LYQU3FK0CVIZTSUTCCPP5MZH442TSOJ2G" href="http://dati.senato.it/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDA2HT4UKFJKT1P2V1JEXNC5VCAMUG1P4HBJ42WID0UQVQ4U2HQPTD" href="http://dati.senato.it/29058" showAs="CAMPANELLA"/>
+				<an:TLCPerson id="IDUR2VSPBT0XJYPFJYHVZNCADTKKAITLC10LJVNFNAYIAQUCW2C1NH" href="http://dati.senato.it/22918" showAs="DE CRISTOFARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2217</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.208</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHP35VOJUALWSFE1Q1Z1LYQU3FK0CVIZTSUTCCPP5MZH442TSOJ2G" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2HT4UKFJKT1P2V1JEXNC5VCAMUG1P4HBJ42WID0UQVQ4U2HQPTD" as="#tipoSenatore">CAMPANELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUR2VSPBT0XJYPFJYHVZNCADTKKAITLC10LJVNFNAYIAQUCW2C1NH" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 1, inserire il seguente:</an:p>
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Il piano di cui al comma 1, deve inoltre prevedere:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 l'applicazione ai lavoratori stagionali della normativa vigente in materia di salute e sicurezza nei luoghi di lavoro, di cui al decreto legislativo n. 81 del 2008, indipendentemente dalle giornate lavorative effettuate nell'arco dell'anno;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 l'attuazione obbligatoria di interventi per la protezione individuale e collettiva per i lavoratori agricoli, per migliorare la qualità e il benessere sul lavoro ed in particolare per la prevenzione e il contrasto alle molestie di qualsiasi genere;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 la previsione di visite mediche annuali, con accertamento delle condizioni di salute in funzione delle mansioni da svolgere con riferimento ai singoli lavori, ai luoghi, ai tempi, alle procedure produttive, all'organizzazione aziendale e con particolare riguardo alla specificità di genere;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 favorire l'accesso all'assistenza sanitaria per i lavoratori stranieri attraverso l'articolazione sul territorio di presidi sanitari ambulatoriali, adiacenti ai luoghi di lavoro;
+				</an:p>
+				<an:p>
+					<an:i>e)</an:i>
+					 prevedere la presenza costante sui luoghi di lavoro di personale sanitario addetto al pronto soccorso;
+				</an:p>
+				<an:p>
+					<an:i>f)</an:i>
+					 la possibilità che gli enti territoriali e locali, nel rispetto dei propri statuti, sottoscrivano con le ASL convenzioni per la realizzazione di progetti per la salute e la sicurezza sul lavoro, al fine di ridurre il fenomeno degli infortuni e delle malattie professionali».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

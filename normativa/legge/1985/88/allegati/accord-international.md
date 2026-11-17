@@ -1,0 +1,7 @@
+ACCORD INTERNATIONAL DE 1982
+
+SUR LE JUTE ET LES ARTICLES EN JUTE NATIONS
+
+UNIES 1982
+
+Parte di provvedimento in formato grafico

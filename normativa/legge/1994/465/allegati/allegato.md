@@ -1,0 +1,9 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 27
+
+MAGGIO 1994, N. 318.
+
+Il titolo del decreto-legge e' sostituito dal seguente: "Disposizioni urgenti per assicurare la prosecuzione degli interventi di carattere sociale per l'anno 1994 in favore degli sfollati dai territori della ex Jugoslavia, dei minori soggetti a rischio di coinvolgimento in attivita' criminose e del volontariato".
+
+All'articolo 2, al comma 1, e' aggiunto, in fine, il seguente periodo: "Per l'anno 1994 il termine di cui all'articolo 2, comma 7, della legge 19 luglio 1991, n. 216, per l'inoltro della documentazione e della domanda, e' fissato al 30 settembre".

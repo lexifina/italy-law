@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI MONTEFIASCONE
-
-Parte di provvedimento in formato grafico

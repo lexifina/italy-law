@@ -1,5 +1,0 @@
-ALLEGATO 7.
-
-PERMESSO STAGIONALE DI PERMANENZA Nro
-
-Parte di provvedimento in formato grafico

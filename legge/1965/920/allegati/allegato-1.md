@@ -1,5 +1,0 @@
-ALLEGATO 1.
-
-LASCIAPASSARE
-
-Parte di provvedimento in formato grafico

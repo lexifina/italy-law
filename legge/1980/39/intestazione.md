@@ -1,7 +1,0 @@
-LEGGE
-
-05 marzo 1980
-
-39
-
-Conversione in legge del decreto-legge 30 dicembre 1979, n. 675, concernente abrogazione del decreto-legge 3 ottobre 1968, n. 1007, convertito, con modificazioni, nella legge 19 novembre 1968, n. 1188, recante norme sul divieto dei rapporti economici con la Rhodesia del Sud e sul divieto di attivita' intese a promuovere l'emigrazione verso la Rhodesia del Sud.

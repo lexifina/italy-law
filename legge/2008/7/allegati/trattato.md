@@ -1,5 +1,0 @@
-Allegato
-
-Trattato di estradizione tra il Governo della Repubblica italiana ed il Governo del Canada
-
-Parte di provvedimento in formato grafico

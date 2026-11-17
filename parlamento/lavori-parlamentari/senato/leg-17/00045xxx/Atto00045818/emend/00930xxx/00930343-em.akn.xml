@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/G2.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/G2.100"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/G2.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@.akn"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1993/A/G2.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1993" showAs="DDL 1993"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAKB0QC" href="http://dati.senato.it/senatore/25449" showAs="MUNERATO"/>
+				<an:TLCPerson id="IDAVC0QC" href="http://dati.senato.it/senatore/29043" showAs="BELLOT"/>
+				<an:TLCPerson id="IDA4B0QC" href="http://dati.senato.it/senatore/22551" showAs="BISINELLA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1993</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAKB0QC" as="#tipoSenatore">MUNERATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVC0QC" as="#tipoSenatore">BELLOT</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4B0QC" as="#tipoSenatore">BISINELLA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del decreto-legge 21 maggio 2015, n. 65, recante disposizioni urgenti in materia di pensioni, ammortizzatori sociali e di garanzie TFR;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 2 del provvedimento interviene per incrementare il Fondo sociale per occupazione e formazione ai fini del finanziamento degli ammortizzatori sociali in deroga;</an:p>
+				<an:p align="justify">            l'articolo 4 del provvedimento provvede al rifinanziamento dei contratti di solidarietà;</an:p>
+				<an:p align="justify">            trattasi di due importanti e fondamentali strumenti, di sostegno al reddito, che hanno consentito a migliaia di lavoratori e lavoratrici di mantenere un'occupazione ovvero avere una copertura reddituale in questi anni di crisi economica;</an:p>
+				<an:p align="justify">            purtroppo i predetti strumenti sono in via di estinzione, a seguito del sistema di tutele in costanza di rapporto di lavoro delineato dalla legge n. 92 del 2012 con la costituzione dei Fondi di solidarietà bilaterali e della riforma degli ammortizzatori di cui alla legge delega n. 183 del 2014;</an:p>
+				<an:p align="justify">
+					            il timore è che le risorse stanziate non siano sufficienti a coprire il fabbisogno al 1º luglio 2016, data in cui dovrebbero entrare in vigore i nuovi ammortizzatori di cui al 
+					<an:i>jobs act</an:i>
+					;
+				</an:p>
+				<an:p align="justify">            per via del mancato finanziamento dei contratti di solidarietà nella legge di stabilità 2015, l'incremento di cui al provvedimento in oggetto rischia di non coprire neanche i due terzi delle domande giacenti relative al 2014; si presume, infatti, che avranno priorità di finanziamento tutte le richieste avanzate nel 2014 e non soddisfate per esaurimento delle risorse,</an:p>
+				<an:p align="justify">        impegna il Governo a realizzare una meticolosa ricognizione delle richieste inevase del 2014, quantificando le risorse necessarie e provvedendo ad un ulteriore rifinanziamento per fronteggiare quelle del 2015.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

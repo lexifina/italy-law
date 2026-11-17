@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO FEMMINILE DI ROSSANO CALABRO
-
-Parte di provvedimento in formato grafico

@@ -1,5 +1,0 @@
-ALLEGATO 2
-
-ESPORTATORI SOGGETTI ALLE DISPOSIZIONI DELL'ARTICOLO
-
-Parte di provvedimento in formato grafico

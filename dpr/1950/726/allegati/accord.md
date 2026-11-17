@@ -1,3 +1,0 @@
-Accord commercial entre l'Italie et la Suede
-
-Parte di provvedimento in formato grafico

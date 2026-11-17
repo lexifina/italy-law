@@ -1,7 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 87 della Costituzione;
-
-Visti gli articoli 11 e 13 della legge 5 giugno 1863, n. 2359;
-
-Vista la legge 18 dicembre 1879, n. 5188, che reca modifiche alla legge anzidetta; Sulla proposta del Ministro per la difesa;

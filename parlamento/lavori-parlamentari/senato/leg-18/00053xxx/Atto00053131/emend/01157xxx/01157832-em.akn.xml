@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/24.0.15"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="24.0.15"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1874/A/24.0.15/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1874" showAs="DDL 1874"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0QHSX4HKDJXVF324GCQOT34CJDWFWWQAHUIC1XEGG2OGU0VD4B3F" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDRFAOUWGFB5RMKVZ2Z04RLFXDLKXRS1EQ50AGUBNJWLQWDRZY21HM" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDM2UMPPNPODE2O4QDKQB5TF2IPCCJWCVTDPKSUFKPLBZNKQRY1TWP" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+				<an:TLCPerson id="IDSU4FMHFBJRQMD1XFUCE1H2LPLHU001GLXOAQCWKGV4TFP51VONWI" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDE31PDJLG5OS1OIXKXAWYI4CMRLB2TVOOV1NIHRLNF44LAOEDNTFJ" href="http://dati.senato.it/25415" showAs="RIVOLTA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1874</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 24.0.15</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0QHSX4HKDJXVF324GCQOT34CJDWFWWQAHUIC1XEGG2OGU0VD4B3F" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRFAOUWGFB5RMKVZ2Z04RLFXDLKXRS1EQ50AGUBNJWLQWDRZY21HM" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM2UMPPNPODE2O4QDKQB5TF2IPCCJWCVTDPKSUFKPLBZNKQRY1TWP" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSU4FMHFBJRQMD1XFUCE1H2LPLHU001GLXOAQCWKGV4TFP51VONWI" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE31PDJLG5OS1OIXKXAWYI4CMRLB2TVOOV1NIHRLNF44LAOEDNTFJ" as="#tipoSenatore">RIVOLTA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 24, è inserito il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					        «Art. 24-
+					<an:b>
+						<an:i>bis</an:i>
+						.
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Fondo a sostegno della catena delle forniture)</an:i>
+				</an:p>
+				<an:p>
+					        1. Al fine di assicurare l'equilibrio finanziario delle imprese con sede in Italia, colpite dall'epidemia Covid-19, diverse dalle banche e da altri soggetti autorizzati all'esercizio del credito, è istituito un fondo denominato ''Fondo a sostegno della catena della forniture'', presso il Ministero dell'economia e delle finanze, con dotazione iniziale pari a 99 milioni di euro, finalizzato all'erogazione di liquidità da utilizzare esclusivamente per i pagamenti ai fornitori e per la corresponsione degli emolumenti al personale dipendente. L'erogazione è effettuata in 
+					<an:i>tranches</an:i>
+					, tramite anticipo bancario vincolato al pagamento dei fornitori e del personale dipendente, previa presentazione di un piano dei pagamenti trimestrale che certifichi i pagamenti che l'azienda si appresta ad effettuare. Alla presentazione del successivo piano trimestrale la banca provvede ad anticipare la 
+					<an:i>tranche</an:i>
+					 successiva.
+				</an:p>
+				<an:p>        2. Per i finanziamenti di cui al comma 1 del presente articolo, è consentito un periodo di preammortamento di due anni dall'erogazione.</an:p>
+				<an:p>        3. Con decreto di natura non regolamentare il Ministero dell'economia e delle finanze, nel rispetto dei principi enunciati al comma precedente, definisce i documenti per l'erogazione dei finanziamenti di cui al comma 1 del presente articolo e gli ulteriori termini e condizioni.</an:p>
+				<an:p>        4. Agli oneri derivanti dal presente articolo, pari a 99 milioni di euro per l'anno 2020, si provvede mediante corrispondente riduzione del Fondo per far fronte ad esigenze indifferibili che si manifestano nei corso della gestione di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato dall'articolo 265, comma 5, del presente decreto-legge».</an:p>
+				<an:p align="center">Art. 25.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

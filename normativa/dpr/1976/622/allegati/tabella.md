@@ -1,0 +1,11 @@
+TABELLA A
+
+CIRCOSCRIZIONI TERRITORIALI DELLA MARINA MERCANTILE
+
+Parte di provvedimento in formato grafico
+
+TABELLA B
+
+CIRCOSCRIZIONI TERRITORIALI DELLA MARINA MERCANTILE
+
+Parte di provvedimento in formato grafico

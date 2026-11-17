@@ -1,0 +1,7 @@
+DECRETO LEGISLATIVO LUOGOTENENZIALE
+
+05 aprile 1945
+
+157
+
+Proroga dei contratti agrari. (045U0157)

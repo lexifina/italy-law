@@ -1,3 +1,0 @@
-Protocole provisoire additionnel aux Accords commercial et de paiement du 2 mars 1946 entre l'Italie et le Danemark.
-
-Parte di provvedimento in formato grafico

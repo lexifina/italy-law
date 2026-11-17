@@ -1,5 +1,0 @@
-TABELLA
-
-CORTI DI ASSISE
-
-Parte di provvedimento in formato grafico

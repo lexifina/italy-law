@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-10 agosto 1956
-
-1195
-
-Esecuzione dell'Accordo fra l'Italia e la Svizzera concluso mediante scambio di Note effettuato in Roma il 22 dicembre 1955 per la sostituzione degli articoli 2, 3 e 4 dell'Accordo di pagamento italo-svizzero del 21 ottobre 1950.

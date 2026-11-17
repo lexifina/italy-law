@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/C/1.138/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/C/1.138"/>
+					<an:FRBRdate date="2011-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1955/C/1.138/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.138"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@"/>
+					<an:FRBRdate date="2011-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@.akn"/>
+					<an:FRBRdate date="2011-01-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-01-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-01-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1955/C/1.138/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1955" showAs="DDL 1955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/21978" showAs="Germontani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.138</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Germontani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 23, aggiungere, in fine, i seguenti commi:</an:i>
+				</an:p>
+				<an:p>
+					        «23-
+					<an:i>bis</an:i>
+					. Al fine di consentire il monitoraggio degli omessi versamenti, il Ministro dell'economia e delle finanze provvede, con proprio decreto, alla modifica del modello F24 introducendo, all'interno dello stesso, un apposita sezione, ove sono evidenziati gli importi dovuti per ogni singolo tributo, anche derivante da liquidazioni, in aggiunta alla sezione degli importi versati.
+				</an:p>
+				<an:p>
+					        23-
+					<an:i>ter</an:i>
+					. La regolarità formale delle liquidazioni, da cui scaturiscono i tributi da indicare nell'apposita sezione del Mod. F24, dovrà essere attestata con l'apposizione, sulle medesime, del visto di conformità, di cui all'articolo 35, comma 1, lettera 
+					<an:i>a)</an:i>
+					, del decreto legislativo 9 luglio 1997, n. 241.
+				</an:p>
+				<an:p>
+					        23-
+					<an:i>quater</an:i>
+					. In alternativa, la regolarità di cui al precedente comma, potrà essere rilasciata dai soggetti di cui all'articolo 1, comma 5, del regolamento di cui al decreto del Presidente della Repubblica n. 322 del 1998, relativamente ai contribuenti per i quali è esercitato il controllo contabile di cui all'articolo 2409-
+					<an:i>bis</an:i>
+					 del codice civile, mediante l'esecuzione dei controlli previsti dall'articolo 2, comma 2, del regolamento di cui al decreto del Ministero delle finanze 31 maggio 1999, n. 164.
+				</an:p>
+				<an:p>
+					        23-
+					<an:i>quinques</an:i>
+					. L'infedele attestazione dell'esecuzione dei controlli di cui ai precedenti periodi comporta l'applicazione della sanzione di cui all'articolo 39, comma l, lettera 
+					<an:i>a)</an:i>
+					, primo periodo del decreto legislativo 9 luglio 1997, n. 241. In caso di ripetute violazioni, ovvero di violazioni particolarmente gravi, è effettuata apposita segnalazione agli organi competenti per l'adozione di ulteriori provvedimenti».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

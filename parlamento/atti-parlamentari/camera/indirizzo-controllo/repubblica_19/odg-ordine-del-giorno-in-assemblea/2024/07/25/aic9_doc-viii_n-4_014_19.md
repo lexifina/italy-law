@@ -1,0 +1,34 @@
+# ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/014 presentata da CENTEMERO GIULIO (LEGA - SALVINI PREMIER) in data 25/07/2024
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.VIII,N.4/014
+- Data: 20240725
+- Titolo: ODG IN ASSEMBLEA SU BILANCIO INTERNO 9/DOC.VIII,N.4/014 presentata da CENTEMERO GIULIO (LEGA - SALVINI PREMIER) in data 25/07/2024
+- Presentatore: CENTEMERO GIULIO (LEGA - SALVINI PREMIER)
+- Cofirmatario: BERGAMINI DEBORAH (FORZA ITALIA - BERLUSCONI PRESIDENTE - PPE)
+- Cofirmatario: BICCHIELLI PINO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: BRAMBILLA MICHELA VITTORIA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: CAVO ILARIA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: COLUCCI ALESSANDRO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: LUPI MAURIZIO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: PISANO CALOGERO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: QUARTAPELLE PROCOPIO LIA (PARTITO DEMOCRATICO - ITALIA DEMOCRATICA E PROGRESSISTA)
+- Cofirmatario: ROMANO FRANCESCO SAVERIO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: SEMENZATO MARTINA (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Cofirmatario: TIRELLI FRANCO (NOI MODERATI (NOI CON L'ITALIA, CORAGGIO ITALIA, UDC, ITALIA AL CENTRO)-MAIE)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/1160
+- Argomento: http://eurovoc.europa.eu/1879
+- Argomento: http://eurovoc.europa.eu/2298
+- Argomento: http://eurovoc.europa.eu/3549
+- Argomento: http://eurovoc.europa.eu/4033
+- Argomento: http://eurovoc.europa.eu/4604
+- Argomento: http://eurovoc.europa.eu/5449
+- Argomento: http://eurovoc.europa.eu/5482
+- Argomento: http://eurovoc.europa.eu/5744
+- Argomento: http://eurovoc.europa.eu/6898
+- Argomento: http://eurovoc.europa.eu/6907
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=19&ramo=camera&stile=9&idDocumento=9/DOC.VIII,N.4/014
+- Legislatura: repubblica_19
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.VIII_N.4_014_19
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

@@ -1,5 +1,0 @@
-Tabella 14
-
-STATO DI PREVISIONE DEL MINISTERO DELLA SALUTE
-
-Parte di provvedimento in formato grafico

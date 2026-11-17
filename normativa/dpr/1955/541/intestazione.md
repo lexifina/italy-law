@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+28 aprile 1955
+
+541
+
+Esecuzione dell'Accordo fra l'Italia e la Francia per la consegna degli atti concernenti i territori ceduti per effetto del Trattato di pace del 10 febbraio 1947, concluso a Roma il 6 ottobre 1954.

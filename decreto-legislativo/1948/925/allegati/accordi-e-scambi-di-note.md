@@ -1,3 +1,0 @@
-Accordi e scambi di Note fra l'Italia e la Cecoslovacchia
-
-Parte di provvedimento in formato grafico

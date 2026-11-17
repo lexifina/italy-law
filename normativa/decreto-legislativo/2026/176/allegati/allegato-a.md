@@ -1,0 +1,11 @@
+Allegato A
+
+(articolo 1, comma 1, lettera i)
+
+«ALLEGATO II-novies
+
+(articolo 127-quater)
+
+MODULO EUROPEO DI INFORMAZIONI SULLA RIPARAZIONE
+
+Parte di provvedimento in formato grafico

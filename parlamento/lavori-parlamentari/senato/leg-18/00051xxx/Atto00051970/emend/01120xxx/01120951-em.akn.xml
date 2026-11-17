@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1372/A/1.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1372/A/1.25"/>
+					<an:FRBRdate date="2019-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1372/A/1.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.25"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@"/>
+					<an:FRBRdate date="2019-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@.akn"/>
+					<an:FRBRdate date="2019-08-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-08-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-08-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1372/A/1.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1372" showAs="DDL 1372"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDZZHQNBJRJJ4NRPND10WRKEOZDW5S4VO0PVHOEEUXHLWBDYJTTOC" href="http://dati.senato.it/32597" showAs="CANGINI"/>
+				<an:TLCPerson id="IDVFSAA1E0EJ53IZHENJAUYVYJPJMJ034EXMXP1DLXTO5MCDP1AQ4K" href="http://dati.senato.it/18740" showAs="MOLES"/>
+				<an:TLCPerson id="IDY54YSQZATKCOGS3KPQMP0LEURG4L0TK5G3YHBJFPZAS0XCCZUIQB" href="http://dati.senato.it/22970" showAs="GIRO"/>
+				<an:TLCPerson id="ID3ZOXZK5XXAATD0LRDOZDZXTX4KTMGALBLNT4UMEGDPUMWD12TDXB" href="http://dati.senato.it/32742" showAs="ALDERISI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1372</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.25</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDZZHQNBJRJJ4NRPND10WRKEOZDW5S4VO0PVHOEEUXHLWBDYJTTOC" as="#tipoSenatore">CANGINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVFSAA1E0EJ53IZHENJAUYVYJPJMJ034EXMXP1DLXTO5MCDP1AQ4K" as="#tipoSenatore">MOLES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDY54YSQZATKCOGS3KPQMP0LEURG4L0TK5G3YHBJFPZAS0XCCZUIQB" as="#tipoSenatore">GIRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3ZOXZK5XXAATD0LRDOZDZXTX4KTMGALBLNT4UMEGDPUMWD12TDXB" as="#tipoSenatore">ALDERISI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, dopo la lettera</an:i>
+					 d) 
+					<an:i>aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>d-bis)</an:i>
+					 nell'ambito della definizione della sfera di attività del CONI, delle Federazioni Sportive Nazionali, delle Discipline Sportive Associate e degli Enti di Promozione Sportiva, prevedere criteri espliciti di individuazione e separazione del ruolo di sviluppo e promozione dell'attività agonistica, affidato alle Federazioni Sportive Nazionali e alle Discipline Sportive Associate, dal ruolo di promozione della pratica sportiva quale attività socialmente rilevante;».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

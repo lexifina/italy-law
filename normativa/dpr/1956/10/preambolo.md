@@ -1,0 +1,15 @@
+IL PRESIDENTE BELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Visto gli articoli 1, 3 e 6 della legge 20 dicembre 1954, n. 1181, concernente delega al Governo per l'emanazione delle norme relative al nuovo statuto degli impiegati civili e degli altri dipendenti dello Stato;
+
+Visto il decreto del Presidente della Repubblica 27 aprile 1955, n. 400;
+
+Visto il decreto del Presidente della Repubblica 17 agosto 1955, n. 767, e successive aggiunte e modificazioni;
+
+Udito il parere della Commissione parlamentare di cui all'art. 3 della legge 20 dicembre 1954, n. 1181;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Presidente del Consiglio dei Ministri, di concerto con il Ministro per il tesoro; Decreta:

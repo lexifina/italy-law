@@ -1,0 +1,14 @@
+# Disegno di legge C.696 (13a legislatura)
+
+- Fase: C.696
+- Id DDL: 709
+- Id fase: 763
+- Natura: ordinaria
+- Data di presentazione: 1996-05-10
+- Titolo: Norme per il rilascio di un attestato per la conduzione dei ciclomotori
+- Stato: approvato in testo unificato
+- Data dello stato: 2001-01-31
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;696
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/763
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).

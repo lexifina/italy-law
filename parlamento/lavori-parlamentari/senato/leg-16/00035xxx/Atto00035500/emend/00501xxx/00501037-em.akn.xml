@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/45.0.4"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="45.0.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@.akn"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-07-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-07-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2228/A/45.0.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25229" showAs="Granaiola"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22720" showAs="Bubbico"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25251" showAs="Armato"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22915" showAs="Crisafulli"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17557" showAs="Garraffa"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25224" showAs="Sangalli"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/23080" showAs="Tomaselli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 45.0.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Granaiola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bubbico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Armato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Crisafulli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Garraffa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Sangalli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Tomaselli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo 45 inserire il seguente:</an:p>
+				<an:p align="center">
+					«Art. 45-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Riduzione dell'aliquota IVA sui pacchetti turistici rivolti al turismo sociale)</an:i>
+				</an:p>
+				<an:p align="justify">        1. Alla tabella A, parte II, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, dopo il numero 37 è inserito il seguente:</an:p>
+				<an:p align="justify">
+					        "37-
+					<an:i>bis.</an:i>
+					 predisposizione dei pacchetti turistici di cui all'articolo 84 del codice del consumo, di cui al decreto legislativo 6 settembre 2005, n. 206, e successive modificazioni, e dei relativi servizi, da parte di consorzi, reti e filiere piccole e medie imprese turistiche, rivolti ad organizzazioni senza scopo di lucro di turismo sociale e di cittadinanza attiva, finalizzati alla promozione del turismo sostenibile e ambientale, e caratterizzati dalla presenza di servizi turistici e culturali, da servizi di trasporto e servizi accessori, dalla vendita anche tramite 
+					<an:i>internet</an:i>
+					, e da un prezzo concorrenziale".
+				</an:p>
+				<an:p align="justify">
+					        2. I pacchetti turistici di cui al numero 37-
+					<an:i>bis)</an:i>
+					 della tabella A, parte II, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 6, inserito dal comma 1 del presente articolo, sono organizzati in collaborazione con gli enti pubblici locali e culturali, gli enti pubblici turistici, le agenzie di viaggio e di turismo e le imprese di trasporto.
+				</an:p>
+				<an:p align="justify">        3. Le modalità di organizzazione dei pacchetti di cui al comma 1 sono stabilite dalle regioni, sentite le associazioni di categoria del turismo e le associazioni del turismo sociale e di cittadinanza attiva maggiormente rappresentative sul territorio regionale.</an:p>
+				<an:p align="justify">
+					        4. Le spese per la creazione dei consorzi, delle reti e delle filiere di cui al numero 37-
+					<an:i>bis)</an:i>
+					 della tabella A, parte II, del decreto del Presidente della Repubblica 26 ottobre 1972, n. 6 inserito dal comma 1 del presente articolo, nonché per la promozione dei pacchetti di cui al medesimo numero 37-
+					<an:i>bis</an:i>
+					), sono interamente finanziate con le risorse e secondo le modalità di cui all'articolo 1, comma 1228, della legge 27 dicembre 2006, n. 296, e sucessive modificazioni».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, all'articolo 55, dopo il comma 7 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					        «7-
+					<an:i>bis</an:i>
+					. All'articolo 82, comma 11, del decreto legge 25 giugno 2008, n. 112, convertito con modificazioni dalla legge 6 agosto 2008, n. 133, le parole: "0,30 per cento" sono sostituite dalle seguenti: "0,22 per cento"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

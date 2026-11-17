@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13"/>
+					<an:FRBRdate date="2016-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2483/10/10 e 13"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@"/>
+					<an:FRBRdate date="2016-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@.akn"/>
+					<an:FRBRdate date="2016-07-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-07-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-07-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2483/C/G/2483/10/10 e 13/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2483" showAs="DDL 2483"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOV1WDFI3FL20JZ2FVV3T3XRVRLRIEN2KTOOM1WYONKRZ3F1EOGH" href="http://dati.senato.it/senatore/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDB55T0G1KY5X2EFJEY424YFF3JOWJCZO3IC00QGKUSDQYZ34A0T4D" href="http://dati.senato.it/senatore/29108" showAs="GIROTTO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2483</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2483/10/10 e 13</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOV1WDFI3FL20JZ2FVV3T3XRVRLRIEN2KTOOM1WYONKRZ3F1EOGH" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB55T0G1KY5X2EFJEY424YFF3JOWJCZO3IC00QGKUSDQYZ34A0T4D" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge 2483,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il comma 4 dell'articolo 1, novella l'articolo 2 del decreto-legge 5 gennaio 2015, n. 1, convertito, con modificazioni, dalla legge 4 marzo 2015, n. 20, consentendo la proroga di ulteriori diciotto mesi del termine ultimo per l'attuazione del Piano ambientale, nonché estendendo all'affittuario o all'acquirente, nonché ai soggetti da questi delegati, l'esclusione dalla responsabilità penale o amministrativa a fronte di condotte poste in essere in attuazione del medesimo Piano, con il limite temporale delle condotte poste in essere fino al 30 giugno 2017 ovvero fino all'ulteriore termine di 18 mesi eventualmente concesso;</an:p>
+				<an:p>            in particolare, la lettera a) del comma 4 in esame interviene sul comma 5 dell'articolo 2 citato, consentendo la possibilità di proroga del termine ultimo fissato al 30 giugno 2017, per l'attuazione del c.d. Piano ambientale, ciò su istanza dell'aggiudicatario selezionato nell'ambito della procedura avente ad oggetto il trasferimento dei complessi aziendali facenti capo ad ILVA S.p.A. in amministrazione straordinaria;</an:p>
+				<an:p>            il termine predetto, più volte prorogato, fissato da ultimo al 30 giugno 2017, viene posticipato fino a un anno e mezzo;</an:p>
+				<an:p>            ad oggi risultano ancora non attuate molte delle più importanti prescrizioni necessarie a contrastare l'emergenza ambientale che interessa lo stabilimento e la città di Taranto. Tra le prescrizioni non poste in essere figurano: la copertura parchi primari; l'avvio dei lavori per la costruzione di edifici chiusi; il rifacimento refrattari delle batterie a lotti; la chiusura edifici aree di gestione materiali polverulenti; l'aspirazione desolforazione ghisa,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad attivarsi al fine di prevedere che le eventuali modifiche e integrazioni al Piano ambientale garantiscano le condizioni ambientali e sanitarie del territorio di Taranto e siano idonee a superare efficacemente l'emergenza ambientale che interessa l'area.  </an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

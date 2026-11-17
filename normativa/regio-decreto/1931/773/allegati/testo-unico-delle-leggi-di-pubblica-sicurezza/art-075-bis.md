@@ -1,0 +1,3 @@
+Art. 75-bis.
+
+1. Chiunque intenda esercitare, a fini di lucro, attivita' di produzione, di duplicazione, di riproduzione, di vendita, di noleggio o di cessione a qualsiasi titolo di nastri, dischi, videocassette, musicassette o altro supporto contenente fonogrammi o videogrammi di opere cinematografiche o audiovisive o sequenze di immagini in movimento, ovvero intenda detenere tali oggetti ai fini dello svolgimento delle attivita' anzidette, deve darne preventivo avviso al questore che ne rilascia ricevuta, attestando l'eseguita iscrizione in apposito registro. ((PERIODO SOPPRESSO DAL D.L. 9 FEBBRAIO 2012, N. 5, CONVERTITO, CON MODIFICAZIONI, DALLA L. 4 APRILE 2012, N. 35)).

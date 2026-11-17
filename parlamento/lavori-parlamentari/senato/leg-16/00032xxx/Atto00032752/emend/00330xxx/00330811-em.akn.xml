@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.130/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.130"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.130/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.130"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@.akn"/>
+					<an:FRBRdate date="2008-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1209/A/G3.130/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1209" showAs="DDL 1209"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/23037" showAs="Pertoldi"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/25220" showAs="Blazina"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/23267" showAs="Donaggio"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/22740" showAs="Filippi"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/22790" showAs="Micheloni"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/22763" showAs="Mongiello"/>
+				<an:TLCPerson id="EGC" href="http://dati.senato.it/senatore/22770" showAs="Pignedoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1209</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.130 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Pertoldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Blazina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Donaggio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Micheloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Mongiello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGC" as="#tipoSenatore">Pignedoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame dell'atto Senato n. 1209 recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2009),</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            dopo un lungo e deplorevole periodo di oblio da parte delle istituzioni della Repubblica, sono ormai ampiamente note anche all'intera opinione pubblica le durissime sofferenze patite alla fine della II guerra mondiale dai cittadini italiani autoctoni di Istria, Fiume e Dalmazia, che furono costretti ad abbandonare in quei territori, abitati per generazioni, ogni loro bene materiale e affettivo, fino alle tombe dei loro cari;</an:p>
+				<an:p align="justify">            in base anche a una pronuncia della Corte di cassazione, che si è espressa con la sentenza n. 1549 del 18 settembre 1970, "i cittadini italiani già proprietari di beni nei territori ceduti alla Jugoslavia e dal Governo di questa nazionalizzati, vantano verso lo Stato italiano un "diritto soggettivo perfetto" alla corresponsione dell'indennizzo, avendo la Jugoslavia versato l'indennizzo globale al Governo italiano, obbligato, pertanto, a distribuire agli aventi diritto le somme così riscosse; la legge 29 marzo 2001, n. 137, recante disposizioni in materia di indennizzi a cittadini e imprese operanti in territori della ex Jugoslavia, già soggetti alla sovranità italiana, alla cui stesura concorse anche l'allora opposizione, che ora è al Governo, si è proposta di risolvere con un atto di equità la questione dei beni già appartenenti agli esuli che hanno dovuto abbandonare forzatamente la loro terra;</an:p>
+				<an:p align="justify">            a fronte di un congruo numero di richieste di indennizzo già liquidate dal Ministero dell'economia e delle finanze, molte ne rimangono ancora da evadere e talvolta, data la lunghezza dell'istruttoria delle pratiche, accade che il legittimo richiedente risulti deceduto prima di aver ottenuto l'indennizzo cui aveva diritto e sia così deprivato anche del risarcimento morale; il disegno di legge del Governo, atto Senato n. 1209, recante disposizioni per la formazione del bilancio annuale e pluriennale dello Stato (legge finanziaria 2009), impone al finanziamento della legge n. 137 del 2001 decurtazioni pari a circa 6 milioni di euro per il 2009 e il 2010 e a 10 milioni di euro per il 2011, facendo così gravare una pesante ipoteca sulla prosecuzione dell'erogazione degli indennizzi,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare l'opportunità di predisporre, con il prossimo provvedimento finanziario, le risorse necessarie a garantire agli esuli il riconoscimento di un equo e definitivo indennizzo;</an:p>
+				<an:p align="justify">            a valutare l'opportunità di autorizzare il Ministero dell'economia e delle finanze - Dipartimento del tesoro, a rinnovare gli accordi di cui all'articolo 3, comma 22, della legge 24 dicembre 2003, n. 350, finalizzati ad accelerare le procedure di liquidazione degli indennizzi previsti dalla legge 29 marzo 2001, n. 137.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

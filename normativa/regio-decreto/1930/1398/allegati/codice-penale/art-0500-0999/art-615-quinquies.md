@@ -1,0 +1,3 @@
+Art. 615-quinquies.
+
+((ARTICOLO ABROGATO DALLA L. 28 GIUGNO 2024, N. 90))

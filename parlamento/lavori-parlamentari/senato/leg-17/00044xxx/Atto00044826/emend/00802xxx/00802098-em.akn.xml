@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G3.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G3.5"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G3.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@.akn"/>
+					<an:FRBRdate date="2014-09-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-09-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-09-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1613/A/G3.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1613" showAs="DDL 1613"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1613</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            con il decreto-legge in esame è autorizzata, a decorrere dal 1 o luglio 2014 al 31 dicembre</an:p>
+				<an:p align="justify">            2014, la spesa di euro 1.408.035 per la proroga della partecipazione di personale militare alla missione delle nazioni unite in Mali, denominata United Nations Multidimensional Integrated Stabilization Mission in Mali (MINUSMA), e per la proroga della partecipazione di personale militare alle missioni dell'Unione europea denominate EUCAP Sahel Niger ed EUTM Mali, nonché per la partecipazione di personale militare alla missione dell'Unione europea denominata EUCAP Sahel Mali;</an:p>
+				<an:p align="justify">            l'operazione MINUSMA è stata istituita il 25 aprile 2013 con risoluzione 2100 del Consiglio di sicurezza dell'ONU, al fine di favorire la stabilizzazione del sistema politico, e con una serie di compiti relativi al mantenimento della sicurezza interna;</an:p>
+				<an:p align="justify">            la situazione di sicurezza nel Mali ha subito un grave deterioramento all'inizio del gennaio 2013, quando i gruppi di Ansar Dine, il Movimento per l'Unità e la Jihad in Africa Orientale, con il sostegno del gruppo Al-Quaeda del Maghreb islamico sono avanzati verso sud, infliggendo numerose sconfitte all'esercito del Mali;</an:p>
+				<an:p align="justify">            la situazione si è precarizzata ulteriormente nel corso del 2014: a febbraio nell'area di Gao si sono verificati diversi incidenti tra etnie Tuareg e Peuls, attacchi frequenti contro contingenti militari e staff MINUSMA; l'8 febbraio Mujao ha rivendicato il sequestro di quattro membri dello staff della croce rossa internazionale; granate e razzi vengono lanciati regolarmente sugli aeroporti di Gao e Toumbouctou;</an:p>
+				<an:p align="justify">            la missione MINUSMA deve far fronte a numerose difficoltà per raggiungere la piena capacità operativa prevista nel mese di settembre 2014. Solo il 60 per cento del personale militare e civile è stato dispiegato dal 28 febbraio mentre le forze francesi dell'operazione Serval si sono ridotte a 1600 unità dallo stesso mese;</an:p>
+				<an:p align="justify">            secondo i dati dell'OCRA (office for the Coordination of Humanitarian Affairs) del 27 febbraio 2014 ci sono circa 200.000 sfollati interni e 170.000 rifugiati in paesi limitrofi. Più di 800.000 persone sono dichiarate dalle nazioni unite in urgente bisogno di assistenza in viveri, e secondo l'OIM e l'OCRA solo il 52 per cento dichiara di aver ricevuto assistenza;</an:p>
+				<an:p align="justify">            l'ONU ha reso noto a luglio 2014, che i caschi blu della missione MINUSMA utilizzeranno i droni «falco» nel territorio maliano privi di armamento a bordo. I droni italiani acquistati dall'ONU sono 4 e saranno schierati nelle basi di Gao e Timbouctou dove già operano elicotteri da guerra francesi e olandesi,</an:p>
+				<an:p align="justify">        impegna il Governo a riferire con urgenza in merito all'impegno italiano in Mali con le missioni MINUSMA e EUCAP Sahel Niger ed EUTM Mali finanziato con 1.408.035 euro, precisando quali percorsi di cooperazione e consolidazione della pace interna stanno portando avanti i militari italiani e dell'ONU, producendo un'informativa in merito agli ultimi sviluppi sui territori coinvolti.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

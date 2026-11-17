@@ -1,0 +1,3 @@
+European Agreement on the exchanges of blood-grouping reagents
+
+Parte di provvedimento in formato grafico

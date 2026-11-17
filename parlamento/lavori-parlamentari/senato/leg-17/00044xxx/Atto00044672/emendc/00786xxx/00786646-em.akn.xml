@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7"/>
+					<an:FRBRdate date="2014-07-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1563/10/7"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@"/>
+					<an:FRBRdate date="2014-07-29" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@.akn"/>
+					<an:FRBRdate date="2014-07-29" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-07-29"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-07-29" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1563/C/G/1563/10/7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1563" showAs="DDL 1563"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Istruzione pubblica, beni culturali" href="/dati.senato.it/osr/Commissione/7"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29126" showAs="Mandelli"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22970" showAs="Giro"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29118" showAs="Liuzzi"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29206" showAs="Conte"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29128" showAs="Marin"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1563</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1563/10/7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Mandelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Giro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Liuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Conte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Marin</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge n. 1563 di conversione del decreto-legge 31 maggio 2014, n. 83, recante disposizioni urgenti per la tutela del patrimonio culturale, lo sviluppo della cultura e il rilancio del turismo,</an:p>
+				<an:p/>
+				<an:p>            premesso che:</an:p>
+				<an:p>            - all'articolo l del presente decreto-legge si prevede l'introduzione di un regime fiscale agevolato di natura temporanea, sotto forma di credito d'imposta, in favore delle persone fisiche e giuridiche che effettuano erogazioni liberali in denaro per interventi a favore della cultura e dello spettacolo;</an:p>
+				<an:p>            - durante l'esame in VII Commissione alla Camera viene previsto, al comma 2 dell'articolo l, che il credito di imposta sia riconosciuto anche ove le erogazioni sono destinate ai soggetti concessionari o affidatari dei beni culturali pubblici;</an:p>
+				<an:p>            - i Teatri di tradizione, grazie alle loro profonde radici storiche e ai compiti di interesse pubblico che svolgono, rappresentano una rete culturale e produttiva che si estende in tutto il Paese. La particolarità di queste istituzioni, la storia ed il rilievo dell'attività svolta, incidono positivamente sui valori culturali, civili e sociali della comunità e sull'economia locale, grazie anche all'indotto e ai positivi riflessi sul commercio,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare la possibilità, nei limiti delle compatibilità finanziari, di adottare ogni utile iniziativa, anche di tipo normativo, volta a far rientrare pienamente nell'ambito del regime fiscale agevolato di cui all'articolo l le erogazioni liberali a favore dei Teatri di tradizione, in qualità di enti o istituzioni pubbliche che, senza scopo di lucro, svolgono esclusivamente attività nello spettacolo ovvero come soggetti concessionari o affidatari dei beni culturali pubblici.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

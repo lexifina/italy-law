@@ -1,7 +1,0 @@
-APPENDICE II
-
-Modello di certificato
-
-CERTIFICATO INTERNAZIONALE DI PREVENZIONE DELL'INQUINAMENTO DA IDROCARBURI (1973)
-
-Parte di provvedimento in formato grafico

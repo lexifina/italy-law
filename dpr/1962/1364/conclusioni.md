@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, Bara' inserto nella Raccolta ufficiale delle leggi e dei decreti della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 1 agosto 1962
-
-SEGNI GUI Visto, il Guardasigilli: BOSCO Registrato alla Corte del conti, addi' 10 settembre 1962 Atti del Governo, registro n. 158, foglio n. 101. - VILLA

@@ -1,0 +1,65 @@
+ELENCO A dei porti marittimi di 2ª categoria, 1ª classe.
+
+Parte di provvedimento in formato grafico
+
+ELENCO B dei porti marittimi di 2ª categoria, 2ª classe, 2ª serie.
+
+Parte di provvedimento in formato grafico
+
+((1))
+
+ELENCO C dei porti marittimi di 2ª categoria, 3ª classe.
+
+Parte di provvedimento in formato grafico
+
+(Elenchi pubblicati in S.O. relativo alla G.U. n. 170 del 19/07/1888)
+
+---------------
+
+AGGIORNAMENTO (1)
+
+Il Regio Decreto 9 luglio 1905, n. 438 ha disposto (con l'art. 2, comma 1) che "E' approvato, con decorrenza del 1° luglio 1905, ed a modificazione di quello approvato col R. decreto 3 giugno 1888, n. 5477, l'elenco 17 marzo 1903, vistato d'ordine Nostro dal ministro proponente, degli enti chiamati a contribuire nelle spese per il porto di Licata, con la ripartizione delle quote ad essi rispettivamente spettanti per tale contributo, fermo restando quanto riguarda la classificazione di detto porto".
+
+Si riporta di seguito il suindicato Elenco:
+
+"Provincie.
+
+Girgenti . . . . . . . . . . . . . . 0.521.721
+
+Caltanissetta . . . . . . . . . . . 0.478.279
+
+-----------
+
+1.000.000
+
+-----------
+
+Comuni in provincia di Girgenti.
+
+Camastra . . . . . . . . . . . . . . 0.008.900
+
+Campobello . . . . . . . . . . . . . 0.081.004
+
+Canicatti' . . . . . . . . . . . . . 0.174.007
+
+Licata . . . . . . . . . . . . . . . 0.295.896
+
+Naro . . . . . . . . . . . . . . . . 0.123.571
+
+Palma Montechiaro . . . . . . . . . 0.085.493
+
+Ravanusa . . . . . . . . . . . . . . 0.069.146
+
+Comuni in provincia di Caltanissetta.
+
+Delia . . . . . . . . . . . . . . . 0.021.948
+
+Riesi . . . . . . . . . . . . . . . 0.081.415
+
+Sommatino . . . . . . . . . . . . . 0.058.620
+
+-----------
+
+1.000.000
+
+-----------".

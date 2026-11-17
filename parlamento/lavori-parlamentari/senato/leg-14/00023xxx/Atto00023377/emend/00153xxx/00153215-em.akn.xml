@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/G60.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/G60.1"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3613/A/G60.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G60.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@.akn"/>
+					<an:FRBRdate date="2005-12-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-12-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-12-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3613/A/G60.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3613" showAs="DDL 3613"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17587" showAs="Iovene"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/1149" showAs="Giovanelli"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17559" showAs="Gasbarri"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17634" showAs="Rotondo"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/1908" showAs="Pizzinato"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/3849" showAs="Piloni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17612" showAs="Montino"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17544" showAs="Baratella"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3613</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G60.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Iovene</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Giovanelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Gasbarri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Rotondo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Pizzinato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Piloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Montino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Baratella</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame delle parti di competenza del disegno di legge finanziaria per l'anno 2006,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            nella Tabella C, alla rubrica Ministero dell'ambiente e della tutela del territorio, è previsto uno stanziamento per contributi ad enti, istituti, associazioni, fondazioni ed altri organismi - che prevede il finanziamento del contributo ordinario dei parchi e dell'Istituto centrale per la ricerca applicata al mare (ICRAM) - di 51 milioni di euro per ciascuno degli anni 2006, 2007 e 2008;</an:p>
+				<an:p align="justify">            rispetto a quanto previsto nella legge finanziaria 2005 si registra una riduzione di spesa di 3 milioni 119 mila euro per l'anno 2005, di 1 milione 360 mila euro per l'anno 2006 e di 1 milione 240 mila euro per l'anno 2007;</an:p>
+				<an:p align="justify">            questa riduzione degli stanziamenti è in contraddizione con l'aumento del numero dei parchi e delle aree protette, istituiti nella passata legislatura, ed avviati al loro pieno funzionamento in questi anni (dell'Appennino tosco-emiliano, della Sila e dell'Alta Murgia e cinque nuove aree marine protette);</an:p>
+				<an:p align="justify">            diversamente negli anni precedenti i fondi a disposizione dei parchi nazionali erano cresciuti in modo esponenziale, passando dai circa 22 milioni e mezzo di euro del 1996, ai 62 milioni e mezzo di euro del 2001,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a ripristinare gli stanziamenti destinati ai parchi ed alle aree protette, nonché all'ICRAM, quantomeno al livello previsto dalla legge finanziaria 2005.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

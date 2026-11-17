@@ -1,3 +1,0 @@
-Art. 23-bis.
-
-((1. La violazione delle disposizioni di cui agli articoli 20, 20-bis, 20-ter e 21, relative e consequenziali alla scelta e all'uso della lingua produce la nullita' rilevabile d'ufficio di tutti gli atti, anche successivi, redatti nella lingua diversa, salve le disposizioni dell'articolo 161, primo comma, del codice di procedura civile. L'impugnazione della sentenza per far valere la suddetta nullita' puo' essere proposta solo dalla parte nel cui interesse e' stabilito l'uso della lingua omesso.))

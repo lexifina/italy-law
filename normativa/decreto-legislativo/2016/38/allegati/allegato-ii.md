@@ -1,0 +1,5 @@
+Allegato II
+
+(di cui all'articolo 13, comma 3)
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G32.56/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G32.56"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G32.56/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G32.56"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@.akn"/>
+					<an:FRBRdate date="2005-05-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-05-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-05-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3223/A/G32.56/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3223" showAs="DDL 3223"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/740" showAs="Curto"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2302" showAs="Specchia"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17637" showAs="Salerno"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17572" showAs="Grillotti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17655" showAs="Ulivi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2393" showAs="Tofani"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17555" showAs="Bongiorno"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3223</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G32.56</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Curto</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Specchia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Salerno</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Grillotti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Ulivi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Tofani</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Bongiorno</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p> Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge finanziaria per l'anno 2005,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            la situazione economica della provincia di Brindisi attraversa la fase più delicata degli ultimi decenni a causa del lento declino che sta caratterizzando soprattutto i settori della chimica, della metalmeccanica e dello stesso comparto aeronautico, fino a qualche tempo fa autentica speranza del più complessivo comparto industriale;</an:p>
+				<an:p align="justify">        rilevato che:</an:p>
+				<an:p align="justify">            molte aziende ormai hanno collocato in mobilità i lavoratori, altre hanno collocato o stanno per collocare i lavoratori in Cassa integrazione, altre, addirittura hanno cessato l'attività;</an:p>
+				<an:p align="justify">
+					            la realizzazione del 
+					<an:i>Boeing</an:i>
+					 707, essendo di fatto stata prevista in provincia di Taranto (Grottaglie), potra determinare un accorpamento di attività aeronautica proprio su quest'ultimo centro con la sostanziale cancellazione da Brindisi di importanti segmenti nello specifico settore;
+				</an:p>
+				<an:p align="justify">            si è, quindi, in presenza di un logorante processo di deindustrializzazione che, lungi dall'eliminare le attività inquinanti e nocive per l'ambiente, per favorire la presenza di quelle ad alto valore aggiunto ed ecocompatibili, paradossalmente rende strutturali le prime e precarizza le seconde;</an:p>
+				<an:p align="justify">            ove si dovessero realizzare tali condizioni, le conseguenze sui livelli occupazionali sarebbero devastanti in quanto i posti a rischio sarebbero oltre 5.000 a cui vanno sommati i lavoratori facenti parte del delicato segmento del precariato ai quali andrebbero aggiunti i circa 70.000 disoccupati dell'intera provincia di Brindisi, così come si evince dai dati ufficiali datati al 30 settembre 2004;</an:p>
+				<an:p align="justify">            sono ben noti i margini limitati entro i quali il Governo potrebbe muoversi sotto il profilo dell'assegnazione di risorse di specifico utilizzo territoriale a causa dei noti riflessi della congiuntura economica internazionale su quella nazionale, e, pur tuttavia, alcuni interventi molto positivi per il rilancio dell'economia brindisina potrebbero essere fatti con un ordinario impegno di risorse,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a non promuovere, con la legge Finanziaria attualmente all'esame di questo ramo del Parlamento, la diminuzione o i tagli delle risorse a quel comparto difesa già penalizzato negli anni scorsi per esigenze di bilancio;</an:p>
+				<an:p align="justify">            a ridefinire, nel quadro di una coerente politica programmatoria, una chiara politica industriale riguardo il settore della chimica che a Brindisi, per le sue dimensioni e per il contributo fornito alla sviluppo, anche nazionale, non può continuare ad essere mortificato attraverso scenari che conducono al suo smembramento;</an:p>
+				<an:p align="justify">            ad aprire immediatamente con Bruxelles un negoziato al fine di rendere praticabile la via di una fiscalità differenziata per le regioni del Mezzogiorno d'Italia in generale, e per le aree di crisi, come nel caso specifico di Brindisi;</an:p>
+				<an:p align="justify">            in particolare:</an:p>
+				<an:p align="justify">            a verificare, attraverso l'azione dei Ministri competenti, i risultati prodotti dalle ultime gestioni delle Autorità portuali per le determinazioni consequenziali;</an:p>
+				<an:p align="justify">            a decretare con tutta l'urgenza possibile la rivisitazione del piano di caratterizzazione relativo alla zona industiriale di Brindisi, escludendo da esso, attraverso le procedure più idonee, le aree che dimostrino di non essere né contaminate né inquinate;</an:p>
+				<an:p align="justify">            a verificare, infine, in un quadro ovviamente più generale, azioni a sostegno degli Enti locali per la definitiva stabilizzazione dei lavoratori socialmente utili;</an:p>
+				<an:p align="justify">            a sostenere l'ampliamento del raggio d'intervento e poi l'applicazione del decreto-legge 1º aprile 1989, n. 120, convertito, con modificazioni, dalla legge 15 maggio 1989, n. 181;</an:p>
+				<an:p align="justify">            a predisporre strumenti idonei alla riduzione degli oneri sociali, anche, ma non solo, attraverso una riproposizione dei contratti di gradualità;</an:p>
+				<an:p align="justify">            ad individuare risorse finanziarie per estendere l'applicazione della CIG anche ad imprese con numero di dipendenti inferiori a 15;</an:p>
+				<an:p align="justify">
+					            a prevedere in forza di legge che nei territori dove sono allocate industrie produttrici di energia, oltre a 
+					<an:i>royalties</an:i>
+					 da riconoscere agli enti locali, sia previsto un regime agevolato nell'accesso e nell'uso dell'energia medesima a favore delle imprese e delle famiglie.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

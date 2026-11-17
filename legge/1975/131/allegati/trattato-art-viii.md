@@ -1,9 +1,0 @@
-Articolo VIII
-
-1. Ognuna delle Parti del trattato puo' proporre degli emendamenti al trattato stesso. Il testo di ogni emendamento proposto sara' sottoposto ai Governi depositari che lo comunicheranno a tutte le altre Parti.
-
-Qualora ne siano stati richiesti da almeno un terzo delle Parti, i Governi depositati convocheranno una conferenza, alla quale saranno invitate tutte le Parti del trattato per esaminare l'emendamento proposto.
-
-2. Ogni emendamento al presente trattato dovra' essere approvato da una maggioranza di voti di tutte le Parti contraenti, inclusi i voti di tutti gli Stati militarmente nucleari Parti del trattato e di tutte le altre Parti che, alla data in cui l'emendamento viene comunicato, sono membri del Consiglio dei governatori dell'Agenzia internazionale per l'energia atomica. L'emendamento entrera' in vigore per ciascuna Parte che avra' depositato il suo strumento di ratifica dell'emendamento al momento in cui il deposito di tali strumenti di ratifica sara' stato effettuato dalla maggioranza delle Parti, inclusi tutti gli Stati militarmente nucleari Parti del trattato e tutte le altre parti che, al momento in cui l'emendamento viene comunicato siano membri del Consiglio dei governatori dell'A.I.E.A. Successivamente, esso entrera' in vigore per qualsiasi altra Parte contraente al momento del deposito dei suoi strumenti di ratifica dell'emendamento.
-
-3. Cinque anni dopo l'entrata in vigore del presente trattato, sara' tenuta a Ginevra, Svizzera, una conferenza delle Parti per esaminare il funzionamento del trattato, allo scopo di accertare che le finalita' del preambolo e le disposizioni del trattato stesso si stanno realizzando. Successivamente, ad intervalli di cinque anni, una maggioranza delle Parti del trattato potra' ottenere, sottoponendo una proposta a questo effetto ai Governi depositari, la convocazione di ulteriori conferenze aventi il medesimo obiettivo di riesaminare il funzionamento del trattato.

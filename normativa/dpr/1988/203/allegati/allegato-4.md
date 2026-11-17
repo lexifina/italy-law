@@ -1,0 +1,43 @@
+ALLEGATO IV
+
+MODIFICHE ED INTEGRAZIONI AI METODI DI PRELIEVO E DI ANALISI DEGLI INQUINANTI DELL'ARIA RIPORTATI NELLE APPENDICI 2 E 5 DEL DECRETO
+
+DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 28 MARZO 1983.
+
+Parte di provvedimento in formato grafico
+
+(5)(6)(7)(8)((10))
+
+------------
+
+AGGIORNAMENTO (5)
+
+Il D.Lgs. 4 agosto 1999, n. 351 ha disposto (con l'art. 13, comma 2, lettera d)) l'abrogazione del presente allegto a decorrere dalla data di entrata in vigore dei pertinenti decreti emanati ai sensi dell'articolo 4, comma 1,del medesimo D.lgs. 351/1999.
+
+-------------
+
+AGGIORNAMENTO (6)
+
+Il Decreto 2 aprile 2002, n. 60 ha disposto (con l'art. 40, comma 1, lettera b)) che "Ai sensi dell'articolo 13 del decreto legislativo 4 agosto 1999, n. 351, sono abrogate le disposizioni relative al biossido di zolfo, al biossido di azoto, alle particelle sospese e al PM10, al piombo, al monossido di carbonio e al benzene contenute nei seguenti decreti:
+
+[..]
+
+b) decreto del Presidente della Repubblica 24 maggio 1988, n. 203, limitatamente agli articoli 20, 21, 22 e 23 ed agli allegati I, II, III e IV;"
+
+-------------
+
+AGGIORNAMENTO (7)
+
+Il D.Lgs. 3 aprile 2006, n. 152 ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza e fermo restando quanto stabilito dall'articolo 14 del decreto legislativo 4 agosto 1999, n. 351.
+
+-------------
+
+AGGIORNAMENTO (8)
+
+Il D.Lgs. 13 agosto 2010, n. 155 ha disposto (con l'art. 21, comma 1, lettera d)) che e' abrogato "il decreto del Presidente della Repubblica 24 maggio 1988, n. 203, fatte salve le disposizioni di cui il decreto legislativo 3 aprile 2006, n. 152, preveda l'ulteriore vigenza".
+
+--------------
+
+AGGIORNAMENTO (10)
+
+Il D.Lgs. 3 aprile 2006, n. 152, come modificato dal D.Lgs. 15 novembre 2017, n. 183, ha disposto (con l'art. 280, comma 1, lettera a)) che e' abrogato il presente decreto escluse le disposizioni di cui il D.lgs. 152/2006 preveda l'ulteriore vigenza.

@@ -1,0 +1,3 @@
+TABELLA ORGANICA DEL II ISTITUTO D'ARTE DI NAPOLI E DELL'ANNESSA SCUOLA MEDIA
+
+Parte di provvedimento in formato grafico

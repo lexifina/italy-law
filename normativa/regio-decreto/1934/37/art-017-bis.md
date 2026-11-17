@@ -1,0 +1,41 @@
+Art. 17-bis.
+
+1.
+
+Le prove scritte sono tre. Esse vengono svolte sui temi formulati dal Ministro di grazia e giustizia ed hanno per oggetto:
+
+a)
+
+la redazione di un parere motivato, da scegliersi tra due questioni in materia regolata dal codice civile;
+
+b)
+
+la redazione di un parere motivato, da scegliersi tra due questioni in materia regolata dal codice penale;
+
+c)
+
+la redazione di un atto giudiziario che postuli conoscenze di diritto sostanziale e di diritto processuale, su un quesito proposto, in materia scelta dal candidato tra il diritto privato, il diritto penale ed il diritto amministrativo.
+
+2.
+
+Per ciascuna prova scritta ogni componente delle commissioni d'esame dispone di 10 punti di merito; alla prova orale sono ammessi i candidati che abbiano conseguito, nelle tre prove scritte, un punteggio complessivo di almeno 90 punti e con un punteggio non inferiore a 30 punti per almeno due prove.
+
+3.
+
+Le prove orali consistono:
+
+a)
+
+nella discussione, dopo una succinta illustrazione delle prove scritte, di brevi questioni relative a cinque materie, di cui almeno una di diritto processuale, scelte preventivamente dal candidato, tra le seguenti: diritto costituzionale, diritto civile, diritto commerciale, diritto del lavoro, diritto penale, diritto amministrativo, diritto tributario, diritto processuale civile, diritto processuale penale, diritto internazionale privato, diritto ecclesiastico ((e diritto comunitario));
+
+b)
+
+nella dimostrazione di conoscenza dell'ordinamento forense e dei diritti e doveri dell'avvocato.
+
+4.
+
+Per la prova orale ogni componente della commissione dispone di 10 punti di merito per ciascuna delle materie oggetto dell'esame.
+
+5.
+
+Sono considerati idonei i candidati che ricevono un punteggio complessivo per le prove orali non inferiore a 180 punti ed un punteggio non inferiore a 30 punti per almeno cinque prove.

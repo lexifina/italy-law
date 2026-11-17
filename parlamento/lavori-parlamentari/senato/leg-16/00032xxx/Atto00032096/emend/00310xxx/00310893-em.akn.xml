@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G184/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G184"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G184/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G184"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G184/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G184/ita@"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/A/G184/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/A/G184/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/A/G184/ita@.akn"/>
+					<an:FRBRdate date="2008-08-01" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/A/G184/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-08-01"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-08-01" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/A/G184/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23259" showAs="Vimercati"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22711" showAs="Bassoli"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22718" showAs="Bosone"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22801" showAs="Roilo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17541" showAs="Baio"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1538" showAs="Mazzuconi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/11320" showAs="Ichino"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/2420" showAs="Treu"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G184</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Vimercati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bassoli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Bosone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Roilo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Baio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Mazzuconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Ichino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Treu</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che,</an:p>
+				<an:p align="justify">            il Governo, ha sino ad ora affrontato il tema della rel'tli7.77.ione dell'EXPO 2015, solo con l'articolo 14 del decreto in esame;</an:p>
+				<an:p align="justify">            al comma l di tale articolo, vengono stanziati 30 milioni di euro per l'anno 2009, t45 milioni di euro per l'anno 2010, 59 milioni di euro per l'anno 2011, previste invece somme molto più consistenti per gli anni successivi e precisamente 223 milioni di euro per l'anno 2012, 564 milioni di euro per l'anno 2013, 445 milioni di euro per l'anno 2014 e 120 milioni di euro per l'anno 2015;</an:p>
+				<an:p align="justify">        in tale articolo è nominl'tto Commissario straordinario del Governo per l'attività preparatoria urgente ai fini di cui al comma l del medesimo articolo, e cioè, per la realizzazione delle opere e delle attività connesse allo svolgimento del grande evento EXPO Milano 2015: in attuazione dell'adempimento degli obblighi internazionali assunti dal governo italiano nei confrqnti del Bureau Intemational des Expositions (BIE), il Sindaco di Milano pro tempore, Letizia MOl1Otti, senza oneri aggiuntivi a carico della finl'tn7.3pubblica, senza con ciò precisare limiti e campi d'intervento di tale incarico;</an:p>
+				<an:p align="justify">            entro trenta giorni dalla data di entrata in vigore del presente decreto, con decreto del Presidente del Consiglio dei Ministri, sentito il Presidente della regione Lombardia e senti i rappresentanti degli enti locali interessati, sono istituiti gli organismi per la gestione delle attività, compresa la previsione di un tavolo istituzionale per il governo complessivo degli interventi regionali e sovra regionali presieduto dal presidente della regione Lombardia pro tempore e sono stabiliti i criteri di ripartizione e le modalità di erogazione dei finanziamenti;</an:p>
+				<an:p align="justify">        considerato che,</an:p>
+				<an:p align="justify">            questa procedura, adottata analogamente solo per gravi ed impreviste calamità naturali, non appare idonea a garantire tutti gli attori interessati, né la cittaclinl'tn7.H,sulle modalità di interveto, certezza e tempi dei finl'tn7.iamenti,esecuzione delle opere dirette e connesse, organizzazione delle iniziative;</an:p>
+				<an:p align="justify">            in altri eventi analoghi, Giubileo, Olimpiadi Invernali 2006, si è provveduto a defittire quanto sopra con apposita legge;</an:p>
+				<an:p align="justify">            gli impegni assunti con il BIE richiedono comunque l'attivazione degli interventi previsti,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad avviare con DCPM orgmi!mli provvisori rinviando gli assetti definitivi della Governance ad un disegnmo di legge organico;</an:p>
+				<an:p align="justify">        a riconsiderare nella Finanziaria una diversa distribuzione nel tempo dei finl'tn7.iamtiprevisti, aumentando la quota prevista per i primi tre anni, onde favorire la rapida partenza delle opere necessarie;</an:p>
+				<an:p align="justify">            ad acquisire il parere delle Commissioni parlamentari competenti prima della promulgazione del DCPM;</an:p>
+				<an:p align="justify">            a prevedere una formula di governance degli organismi per la gestione delle attività che :sia rispettosa della pari dignità di tutte le istituzioni milanesi e lombarde che hanno lavorato di comune accordo per ottenere l'assegnazione dell'Esposizione Universale ed in particolare: del Comune di Milano, della Provincia di Milano, della Regione Lombardia, dei Comuni di Rho e Pero, interesSati direttamente dal Sito-Expo, dell'Assemblea dei Sindaci della Provincia;</an:p>
+				<an:p align="justify">            a garantire che tale pare dignità trovi coerente conferma anche nel Consiglio di Amministrazione della Società o Azienda di gestione;</an:p>
+				<an:p align="justify">            a prevedere la presenza delle Province Lombarde al Tavolo Istituzionale regionale di cui in premessa;</an:p>
+				<an:p align="justify">            a limitare i poteri del Commissario ai casi di necessità e urgenza relativi esclusivamente agli interventi diretti sul Sito Expo;</an:p>
+				<an:p align="justify">            a garantire attraverso apposito sito accesso a tutti gli atti per assicurare la massiina trasparenza sulle decisioni, il rispetto dei tempi e i costi;</an:p>
+				<an:p align="justify">            a presentare una relazione semestrale alle Commissioni competenti sullo stato di avanzamento del progetto rispetto agli obiettivi, ai costi, alle criticità.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

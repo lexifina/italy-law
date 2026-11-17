@@ -1,7 +1,0 @@
-LEGGE
-
-02 febbraio 1970
-
-11
-
-Conversione in legge del decreto-legge 19 dicembre 1969, n. 946, concernente corresponsione della tredicesima mensilita' ai pensionati ordinari dello Stato e della indennita' speciale annua ai pensionati di guerra, per l'anno 1969.

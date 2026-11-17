@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/C/2.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/C/2.6"/>
+					<an:FRBRdate date="2019-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1633/C/2.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@"/>
+					<an:FRBRdate date="2019-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@.akn"/>
+					<an:FRBRdate date="2019-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1633/C/2.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1633" showAs="Ddl 1633"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32597" showAs="Andrea Cangini"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/22970" showAs="Francesco Maria Giro"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/18740" showAs="Giuseppe Moles"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/32742" showAs="Francesca Alderisi"/>
+				<an:TLCPerson id="ID0EGC" href="http://dati.senato.it/22814" showAs="Antonio De Poli"/>
+				<an:TLCPerson id="ID0ETC" href="http://dati.senato.it/4741" showAs="Alessandrina Lonardo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1633</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Cangini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Giro</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Moles</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Alderisi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">De</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Poli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ETC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Lonardo</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 1 inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «1-
+					<an:i>bis</an:i>
+					. Nell'ambito del contenzioso riferito al concorso per dirigente scolastico indetto con decreto direttoriale del Ministero dell'istruzione, dell'università e della ricerca 13 luglio 2011, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					, 4 serie speciale, n. 56 del 15 luglio 2011, i soggetti che non abbiano avuto alla data di entrata in vigore della legge di conversione del presente decreto-legge, alcuna sentenza definitiva, o ancora hanno in corso un contenzioso avverso il decreto direttoriale n. 499 del 20 luglio 2015 per l'accesso al corso intensivo per accesso al ruolo di Dirigente scolastico ai sensi del comma 87 e seguenti, sono ammessi a una nuova sessione del corso intensivo di formazione della durata di 80 ore complessive e della relativa prova scritta finale, volto all'immissione nei ruoli dei dirigenti scolastici, da emanare entro trenta giorni dalla data di entrata in vigore della presente legge. Alle attività di formazione e alle immissioni in ruolo si provvede, rispettivamente, nei limiti delle risorse disponibili a legislazione vigente mediante utilizzo delle risorse destinate alla contrattazione collettiva nazionale di lavoro in favore dei Dirigenti Scolastici integrate da quelle previste dall'articolo 1, comma 86 e seguenti della legge 13 luglio 2015, n. 107, come modificata dall'articolo 1, comma 591, della legge 29 dicembre 2017, n. 205».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

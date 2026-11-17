@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-18 dicembre 1952
-
-3253
-
-Trasferimento all'Opera per la valorizzazione della Sila - Sezione speciale per la riforma fondiaria - di terreni di proprieta' di Alacri Emanuele fu Giuseppe Raffaele, nel comune di Gioiosa Jonica (Reggio Calabria).

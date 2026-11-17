@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/8.0.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/8.0.22"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/989/A/8.0.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="8.0.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@.akn"/>
+					<an:FRBRdate date="2019-01-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-01-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-01-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/989/A/8.0.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/989" showAs="DDL 989"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDELWHDI2JWZPBN03UQ0TKEGZ4KDZ0MON0KY5Z5KFNWLGFMHEFGP0K" href="http://dati.senato.it/23135" showAs="MARGIOTTA"/>
+				<an:TLCPerson id="IDPHRBLRR5HJJ0IZRDAYOEKZA0PBPYMGQS4QUJUP2WE0AUEHMU2YK" href="http://dati.senato.it/29040" showAs="ASTORRE"/>
+				<an:TLCPerson id="IDKTZKCQM0GG3NKZXMW3D5DJUWXOOS1HR1332T5JLQFZYM4KSAUFME" href="http://dati.senato.it/29358" showAs="D'ARIENZO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 989</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 8.0.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDELWHDI2JWZPBN03UQ0TKEGZ4KDZ0MON0KY5Z5KFNWLGFMHEFGP0K" as="#tipoSenatore">MARGIOTTA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPHRBLRR5HJJ0IZRDAYOEKZA0PBPYMGQS4QUJUP2WE0AUEHMU2YK" as="#tipoSenatore">ASTORRE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKTZKCQM0GG3NKZXMW3D5DJUWXOOS1HR1332T5JLQFZYM4KSAUFME" as="#tipoSenatore">D'ARIENZO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 8-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>        1. All'articolo 7 del decreto legislativo 15 febbraio 2016, n. 33, dopo il comma 2, sono inseriti i seguenti:</an:p>
+				<an:p>
+					            "2-
+					<an:i>bis</an:i>
+					. Qualora siano utilizzate infrastrutture fisiche esistenti e tecnologie di scavo a basso impatto ambientale in presenza di sottoservizi, ai fini dell'autorizzazione archeologica di cui all'articolo 21 del decreto legislativo 22 gennaio 2004, n. 42, l'avvio dei lavori è subordinato esclusivamente alla previa comunicazione dell'operatore di rete all'ente titolare delle aree interessate dagli interventi. La disposizione si applica anche alla realizzazione dei pozzetti accessori alle infrastrutture stesse, qualora essi siano realizzati al di sopra dei medesimi sotto-servizi preesistenti.
+				</an:p>
+				<an:p>
+					        2-
+					<an:i>ter</an:i>
+					. Qualora siano utilizzate tecnologie di scavo a basso impatto ambientale con minitrincea, ai fini dell'autorizzazione archeologica di cui all'articolo 21 del decreto legislativo 22 gennaio 2004, n. 42, le attività di scavo sono precedute da opportune indagini in georadar volte a valutare la stratigrafia del terreno. A seguito delle suddette indagini, in considerazione del limitato impatto nella struttura del sottofondo stradale esistente, le tecnologie di scavo in minitrincea si considerano esentate da predisposizione obbligatoria di Valutazione Preventiva di Impatto Archeologico di cui all'articolo 25 del decreto legislativo 18 aprile 2016, n. 50.
+				</an:p>
+				<an:p>
+					        2-
+					<an:i>quater</an:i>
+					. Gli interventi finalizzati all'installazione di reti di comunicazione elettronica ad alta velocità tramite posa di nuovo cavo sulla facciata di edifici e immobili in aree prive di interesse paesaggistico e/o tutelate dalla legge, ai sensi degli articoli 142, 136,143, comma 1, lettera 
+					<an:i>d)</an:i>
+					, e 157, sono esentati dalla presentazione di istanza di autorizzazione paesaggistica di cui all'articolo 146 del decreto legislativo 22 gennaio 2004, n. 42"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

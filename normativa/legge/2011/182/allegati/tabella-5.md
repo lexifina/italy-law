@@ -1,0 +1,5 @@
+Tabella 5
+
+STATO DI PREVISIONE DEL MINISTERO DELLA GIUSTIZIA
+
+Parte di provvedimento in formato grafico

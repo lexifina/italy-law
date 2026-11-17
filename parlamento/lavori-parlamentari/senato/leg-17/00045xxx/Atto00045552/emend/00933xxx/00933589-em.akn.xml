@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/G1.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/G1.102"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1880/A/G1.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@.akn"/>
+					<an:FRBRdate date="2015-07-31" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-31"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-31" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1880/A/G1.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1880" showAs="DDL 1880"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAVAW2F" href="http://dati.senato.it/senatore/29070" showAs="CIOFFI"/>
+				<an:TLCPerson id="IDAXAW2F" href="http://dati.senato.it/senatore/29177" showAs="SCIBONA"/>
+				<an:TLCPerson id="IDANAW2F" href="http://dati.senato.it/senatore/29034" showAs="AIROLA"/>
+				<an:TLCPerson id="IDAUBW2F" href="http://dati.senato.it/senatore/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDA3DW2F" href="http://dati.senato.it/senatore/29069" showAs="CIAMPOLILLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1880</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVAW2F" as="#tipoSenatore">CIOFFI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAXAW2F" as="#tipoSenatore">SCIBONA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDANAW2F" as="#tipoSenatore">AIROLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUBW2F" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA3DW2F" as="#tipoSenatore">CIAMPOLILLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge recante disposizioni per la «Riforma della RAI e del servizio pubblico radiotelevisivo»;</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 1 novella l'articolo 45 del Testo unico dei servizi di media audiovisivi e radiofonici (d.lgs. 177/2005) che definisce i compiti del servizio pubblico generale radiotelevisivo, prevedendo, che per la stipula del contratto di servizio, occorra una previa delibera del Consiglio dei ministri, il quale definirà anche gli indirizzi per la fissazione delle linee-guida sul contenuto degli ulteriori obblighi del servizio pubblico generale radiotelevisivo, definite in relazione allo sviluppo dei mercati, al progresso tecnologico e alle mutate esigenze culturali, nazionali e locali;</an:p>
+				<an:p align="justify">            la missione del servizio pubblico si arricchisce con la pluralità dell'informazione e delle offerte. Tale pluralità si collega inevitabilmente alle possibili interazioni fra televisione, internet e altri strumenti di comunicazione. Non vi è ragione di ritenere che una televisione pubblica all'altezza delle sfide delle trasformazioni tecnologiche in corsa debba autoescludersi dallo sfruttamento, di queste opportunità, che riguardano peraltro tanto l'informazione quanto la formazione e la cultura;</an:p>
+				<an:p align="justify">            lo strumento televisivo rappresenta, infatti, il canale privilegiato di accesso alla conoscenza per una vasta platea di cittadini;</an:p>
+				<an:p align="justify">            non appare oggi possibile caratterizzare la missione della RAI come rispondente ai requisiti di servizio pubblico se non aggiungendo, alla sua programmazione tradizionale una serie di nuovi servizi a carattere multimediale, fungibili su tutte le piattaforme tecnologiche, e più in generale nuovi servizi che si avvalgano dell'innovazione tecnologica,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a considerare il pluralismo, dell'informazione e dell'offerta televisiva come principio fondante della riforma della Rai, anche in previsione delle necessarie trasformazioni tecnologiche;</an:p>
+				<an:p align="justify">            a favorire, nell'ambito della definizione degli indirizzi per la fissazione delle linee-guida sul contenuto degli ulteriori obblighi del servizio pubblico generale radiotelevisivo la diffusione di contenuti e programmi dedicati specificamente alla cultura digitale, al fine di elevare la cultura digitale del Paese, oggi assai carente.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

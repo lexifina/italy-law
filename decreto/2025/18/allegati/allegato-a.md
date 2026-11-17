@@ -1,5 +1,0 @@
-Allegato A
-
-Convenzione di cui all'articolo 1, comma 108,
-
-legge 30 dicembre 2023, n. 213

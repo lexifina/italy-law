@@ -1,5 +1,0 @@
-Art. 347-bis
-
-(( (Mantenimento dei diritti del personale marittimo in caso di trasferimento d'azienda). ))
-
-((Ferme restando le norme del presente codice e delle leggi speciali, le disposizioni in materia di trasferimento di azienda di cui all'articolo 2112, primo, secondo, terzo, quarto e quinto comma, del codice civile si applicano anche in caso di trasferimento di una nave marittima quale parte del trasferimento di un'impresa, di uno stabilimento o di parte di un'impresa o di uno stabilimento ai sensi dell'articolo 2112, quinto comma, del codice civile, a condizione che il cessionario si trovi ovvero che l'impresa, lo stabilimento o la parte di impresa o di stabilimento trasferiti rimangano nell'ambito di applicazione territoriale del Trattato sul funzionamento dell'Unione europea. Le disposizioni in materia di trasferimento di azienda non si applicano qualora l'oggetto del trasferimento consista esclusivamente in una o piu' navi marittime.))

@@ -1,5 +1,0 @@
-ALLEGATO N. 1
-
-L'elenco dei terreni, con l'indicazione dell'indennita' di espropriazione offerta, munito del visto del Ministro proponente, forma parte integrante del presente decreto, che entra in vigore il giorno stesso della sua pubblicazione nella Gazzetta Ufficiale della Repubblica italiana.
-
-Parte di provvedimento in formato grafico

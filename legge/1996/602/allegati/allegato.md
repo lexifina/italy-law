@@ -1,7 +1,0 @@
-ALLEGATO
-
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 28 SETTEMBRE 1996, N. 504.
-
-All'articolo 1, comma 1, sono soppresse le parole: "in banche o nelle societa' di cui all'articolo 2".
-
-All'articolo 2, comma 3, sono soppresse le parole: "e sono considerati tra i debiti di cui al numero 1) del predetto articolo 111, comma primo".

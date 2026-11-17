@@ -1,5 +1,0 @@
-ALLEGATO N. 2
-
-FACSIMILE DI LASCIAPASSARE STRAORDINARIO
-
-Parte di provvedimento in formato grafico

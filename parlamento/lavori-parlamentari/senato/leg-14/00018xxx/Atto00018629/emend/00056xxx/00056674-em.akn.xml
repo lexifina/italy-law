@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/5.44/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/5.44"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/5.44/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.44"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/5.44/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17567" showAs="Cherchi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17618" showAs="Ognibene"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3903" showAs="Ronconi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17569" showAs="Ciccanti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/3865" showAs="Tarolli"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/2518" showAs="Vizzini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.44</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Cherchi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ognibene</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Ronconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ciccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Tarolli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Vizzini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        «2-
+					<an:i>bis.</an:i>
+					 All'articolo 9, comma 1, il primo periodo è sostituito dal seguente: "1. Per i soggetti di cui all'articolo 3, comma 1, lettera 
+					<an:i>d)</an:i>
+					 e per gli esercenti attività di allevamento di animali di cui all'articolo 78 del Testo unico delle imposte sui redditi, approvato con decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, la base imponibile è determinata dalla differenza tra l'ammontare dei corrispettivi e l'ammontare degli acquisti di beni e servizi effettuati nell'esercizio dell'impresa.".
+				</an:p>
+				<an:p align="justify">
+					        2-
+					<an:i>ter.</an:i>
+					 All'articolo 9, comma 1, è aggiunto, in fine, il seguente periodo: "Nella determinazione della base imponibile è ammessa in deduzione l'imposta comunale degli immobili utilizzati nell'esercizio dell'impresa".
+				</an:p>
+				<an:p align="justify">
+					        2-
+					<an:i>quater.</an:i>
+					 All'articolo 20, dopo il comma 1, è aggiunto il seguente: "1-
+					<an:i>bis.</an:i>
+					 L'ammontare degli acquisti di beni e servizi di cui all'articolo 9, comma 1, non soggetti all'imposta sul valore aggiunto, devono essere annotati nel registro di cui all'articolo 25 del decreto del Presidente della Repubblica 6 ottobre 1972, n. 633, entro il termine di presentazione della dichiarazione annuale"».
+				</an:p>
+				<an:p align="justify">
+					        
+					<an:i>Conseguentemente, alla tabella A, alla voce</an:i>
+					 Ministero dell'economia e delle finanze, 
+					<an:i>apportare le seguenti variazioni:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					            2003:    -  40.000.000;
+				</an:p>
+				<an:p align="justify">            2004:    -  20.000.000;</an:p>
+				<an:p align="justify">            2005:    -  10.000.000.</an:p>
+				<an:p align="justify">
+					<an:b>Compensazione del Gruppo Unione Democristiana e di Centro (v. emend. 2.76).</an:b>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,3 +1,0 @@
-TESTO IN LINGUA INGLESE
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.170/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.170"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.170/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.170"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@.akn"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-09-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-09-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2887/C/1.170/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2887" showAs="DDL 2887"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25244" showAs="Calabro'"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/4639" showAs="Esposito"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25250" showAs="Sarro"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17616" showAs="Nessa"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25261" showAs="D'Ambrosio Lettieri"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2887</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.170</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Calabro'</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Esposito</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Sarro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Nessa</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">D'Ambrosio Lettieri</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 23, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «23-
+					<an:i>bis</an:i>
+					. Per le regioni sottoposte ai piani di rientro per le quali in attuazione dell'articolo 1, comma 174, quinto periodo, della legge 30 dicembre 2004, n. 311 (Finanziaria 2005), è stato applicato il blocco automatico del turn over del personale del servizio sanitario regionale, con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, sentito il Ministro per i rapporti con le regioni e per la coesione territoriale, su richiesta della regione interessata, può essere disposta la deroga al predetto blocco del turn over, previo accertamento, in sede congiunta, da parte del Comitato permanente per la verifica dell'erogazione dei livelli essenziali di assistenza e del Tavolo tecnico per la verifica degli adempimenti regionali, di cui rispettivamente agli articoli 9 e 12 dell'intesa Stato-regioni del 23 marzo 2005, sentita l'Agenzia nazionale per i servizi sanitari regionali (AGENAS), della necessità di procedere alla suddetta deroga al fine di assicurare il mantenimento dei livelli essenziali di assistenza, del conseguimento di risparmi derivanti dalla corrispondente riduzione di prestazioni di lavoro straordinario o in regime di autoconvenzionamento, nonché della compatibilità con la ristrutturazione della rete ospedaliera e con gli equilibri di bilancio sanitario, come programmati nel piano di rientro, ovvero nel programma operativo e fermo restando la previsione del raggiungimento dell'equilibrio di bilancio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

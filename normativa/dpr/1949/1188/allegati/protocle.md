@@ -1,0 +1,3 @@
+Protocole de signature
+
+Parte di provvedimento in formato grafico

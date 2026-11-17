@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1460/A/5.203/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1460/A/5.203"/>
+					<an:FRBRdate date="2011-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1460/A/5.203/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.203"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@"/>
+					<an:FRBRdate date="2011-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@.akn"/>
+					<an:FRBRdate date="2011-05-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-05-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-05-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1460/A/5.203/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Congiunzione/16/1460" showAs="Congiunzione 1460"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22795" showAs="Randazzo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/25226" showAs="Bertuzzi"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22790" showAs="Micheloni"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22767" showAs="Pegorer"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Congiunzione 1460</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.203</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Randazzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bertuzzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Micheloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Pegorer</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Sostituire l'articolo con il seguente:</an:p>
+				<an:p align="justify">        «Art. 5. - 1. In ogni Paese in cui esiste più di un Comitato è istituito un Comitato dei presidenti di cui fa parte il presidente di ciascun Comitato, ovvero un suo rappresentante membro del Comitato medesimo. Il Comitato dei presidenti si riunisce almeno una volta l'anno; alla riunione sono invitati senza diritto di voto i membri del CGIE e i parlamentari italiani residenti nella ripartizione elettorale. La riunione è convocata e presieduta dal coordinatore eletto tra i presidenti membri del predetto Comitato.</an:p>
+				<an:p align="justify">        2. Il Comitato dei presidenti, previa consultazione delle forze sociali e degli operatori presenti nella comunità italiana a livello nazionale, con la collaborazione delle autorità consolari, di eventuali esperti e dei componenti del CGIE eletti nel Paese, predispone annualmente un Piano Paese relativo alla tipologia degli interventi ed alle priorità nelle materie di cui agli articoli 1 e 2. Il suddetto piano è inviato al Ministero degli affari esteri, al CGIE e ai parlamentari italiani della ripartizione e rappresenta il riferimento degli interventi dello Stato nell'ambito territoriale considerato.</an:p>
+				<an:p align="justify">        3. Almeno una volta l'anno in ogni Paese è tenuta una riunione, indetta e presieduta dall'ambasciatore, con la partecipazione dei consoli, dei presidenti dei Comitati, dei membri del CGIE residenti nel Paese e dei parlamentari italiani residenti nella ripartizione elettorale, per discutere i problemi della comunità italiana. Per importanti e motivate ragioni, la maggioranza dei Comitati o dei membri del CGIE residenti nel Paese possono richiedere all'ambasciatore la convocazione di riunioni straordinarie.</an:p>
+				<an:p align="justify">        4. Le spese di viaggio per la partecipazione dei membri dei Comitati alle riunioni di cui ai commi 1 e 3 sono a carico dei bilanci dei Comitati ai quali ciascun membro appartiene.</an:p>
+				<an:p align="justify">        5. Per l'attuazione del presente articolo è autorizzata la spesa di 250.000 euro annui a decorrere dal 2009».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

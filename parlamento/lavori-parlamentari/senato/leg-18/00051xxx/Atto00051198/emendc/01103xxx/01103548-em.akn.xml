@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/6.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/6.8"/>
+					<an:FRBRdate date="2019-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018/C/6.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@"/>
+					<an:FRBRdate date="2019-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@.akn"/>
+					<an:FRBRdate date="2019-02-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-02-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-02-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018/C/6.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018" showAs="DDL 1018"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="11ª Commissione permanente" href="/dati.senato.it/osr/Commissione/11"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID5FBFQFZ0ETPJJMATNDQ40BBEPZQL1JJ2GHGEND32CN3FMBZXETN" href="http://dati.senato.it/29524" showAs="PATRIARCA"/>
+				<an:TLCPerson id="IDJXQYWZH1UR03PLED4EVIXQIANDBGQAT4XS35EWHPI13Y2TZAOTOO" href="http://dati.senato.it/31572" showAs="NANNICINI"/>
+				<an:TLCPerson id="IDEXOYOK50ZFSEEPEQ4UG4HYZBAMX5Y5D14GBV3TMHADH2TW04OH5D" href="http://dati.senato.it/32651" showAs="LAUS"/>
+				<an:TLCPerson id="IDS2BNOVKX443QLYAFT2GYW1G5UJPT0GK04U2F3WLJG0R2MQ5H2YCD" href="http://dati.senato.it/29467" showAs="MALPEZZI"/>
+				<an:TLCPerson id="ID1Q2GDFRRTN0HGAVKP22CBFINVIBBVUTUJ1QNPEHT0ICRNBYYK1BK" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5FBFQFZ0ETPJJMATNDQ40BBEPZQL1JJ2GHGEND32CN3FMBZXETN" as="#tipoSenatore">PATRIARCA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJXQYWZH1UR03PLED4EVIXQIANDBGQAT4XS35EWHPI13Y2TZAOTOO" as="#tipoSenatore">NANNICINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEXOYOK50ZFSEEPEQ4UG4HYZBAMX5Y5D14GBV3TMHADH2TW04OH5D" as="#tipoSenatore">LAUS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDS2BNOVKX443QLYAFT2GYW1G5UJPT0GK04U2F3WLJG0R2MQ5H2YCD" as="#tipoSenatore">MALPEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1Q2GDFRRTN0HGAVKP22CBFINVIBBVUTUJ1QNPEHT0ICRNBYYK1BK" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 5, dopo la lettera</an:i>
+					 a) 
+					<an:i>inserire la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>a-bis)</an:i>
+					 comunicazione da parte dei centri per l'impiego ai servizi competenti dei comuni, nel caso in cui i bisogni del nucleo familiare e dei suoi componenti siano risultati complessi e multidimensionali, non connessi prevalentemente alla situazione lavorativa, al fine di consentire nei termini previsti dall'articolo 4, comma 12, la sottoscrizione del Patto per l'inclusione».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

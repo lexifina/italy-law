@@ -1,3 +1,0 @@
-Accord international
-
-Parte di provvedimento in formato grafico

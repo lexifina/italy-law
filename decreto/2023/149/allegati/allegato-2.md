@@ -1,7 +1,0 @@
-Allegato 2, dell'articolo 2, comma 1, lettera b)
-
-Stemmi, emblemi e altri segni distintivi o marchi
-
-dell'Esercito Italiano
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,3 @@
+TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI CASTEL DI SANGRO
+
+Parte di provvedimento in formato grafico

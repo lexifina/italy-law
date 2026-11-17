@@ -1,5 +1,0 @@
-Art. 15-bis.
-
-(( (Misure urgenti in favore degli iscritti agli enti di previdenza obbligatoria di cui al decreto legislativo 30 giugno 1994, n. 509, e al decreto legislativo 10 febbraio 1996, n. 103). ))
-
-((1. Gli enti di previdenza obbligatoria, di cui al decreto legislativo 30 giugno 1994, n. 509, e al decreto legislativo 10 febbraio 1996, n. 103, con delibera degli organi competenti corredata di una nota che specifichi e garantisca l'equilibrio tecnico finanziario dell'ente mediante compensazione con corrispondente riduzione di altre voci di spesa relative ad interventi assistenziali e previo parere positivo dei Ministeri vigilanti da rendere entro trenta giorni dalla data di trasmissione dell'atto, possono adottare iniziative specifiche di assistenza ai propri iscritti che si trovino in condizioni di quarantena o di isolamento su indicazione delle autorita' sanitarie ovvero che abbiano subito una comprovata riduzione della propria attivita' per effetto di emergenze sanitarie o eventi calamitosi dichiarati dai Ministri competenti))

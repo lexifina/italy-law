@@ -11,9 +11,9 @@ Il diritto italiano come storia git: un file per articolo, un commit per ogni mo
 
 Fa parte di [lexifina/global-law](https://github.com/lexifina/global-law), un'unica storia git per il diritto di ogni Paese: questo è il diritto nazionale italiano, che global-law legge in `italy/national/acts/`.
 
-**Che cosa contiene ora:** la Costituzione (28 versioni dal 1948) e 58 leggi con tutte le versioni che Normattiva pubblica, tra cui tutti e quattro i codici principali: il Codice civile (318 versioni dal 1942, [`regio-decreto/1942/262/`](regio-decreto/1942/262/)), il Codice penale (374 versioni dal 1931, [`regio-decreto/1930/1398/`](regio-decreto/1930/1398/)), il Codice di procedura penale (308 versioni dal 1989, [`dpr/1988/447/`](dpr/1988/447/)) e il Codice di procedura civile (161 versioni dal 1942, [`regio-decreto/1940/1443/`](regio-decreto/1940/1443/)); il testo vigente di ogni altro atto statale, che si sta aggiungendo a blocchi dalle esportazioni open data di Normattiva (ogni commit indica la copia usata e come è stata controllata su normattiva.it) e, dove manca un'esportazione controllata, da normattiva.it stesso; le schede di 17.037 leggi (1946–2026) e di 162.267 progetti di legge (Camera 1848–2026, Senato 1996–2024), e 1.037.229 documenti del Senato come pubblicati (testi dei disegni di legge, relazioni, emendamenti, resoconti) in [`schede/`](schede/) e [`lavori-parlamentari/`](lavori-parlamentari/), con, dagli open data del Senato (legislature XIII–XIX), 61.051 atti di sindacato ispettivo, 34.970 documenti, 74.952 sedute (4.743 dell'Assemblea, 70.209 delle commissioni) e 60.617 votazioni; dagli open data della Camera, in [`atti-parlamentari/`](atti-parlamentari/), più di 520.000 atti di indirizzo e controllo come pubblicati (legislature VII–XIX; il testo che può nominare persone private non è riportato), le schede di più di 280.000 interventi, 36.769 fasi dell'iter dei progetti di legge (legislature XVI–XIX), 94.603 votazioni (legislature XIII–XIX) e i resoconti di circa 23.700 sedute dal 1848 al 2026; 5.465 misure nazionali di recepimento delle direttive UE (1958–2026) in [`eu-nim/`](eu-nim/); e 1.100.731 provvedimenti giurisdizionali in [`giurisprudenza/`](giurisprudenza/): 22.441 della Corte costituzionale per intero con 46.607 massime, 1.069.924 della giustizia amministrativa (2017–2026) e 8.366 della Corte dei conti (estremi e link). [`REPRODUCE.md`](REPRODUCE.md) elenca ogni atto con la sua cartella e le sue versioni; [`atti.csv`](atti.csv) elenca gli atti modificativi con tutte le loro date.
+**Che cosa contiene ora:** la normativa statale: la Costituzione e 58 atti con tutte le versioni che Normattiva pubblica, tra cui i quattro codici principali ([Codice civile](normativa/regio-decreto/1942/262/), [Codice penale](normativa/regio-decreto/1930/1398/), [Codice di procedura civile](normativa/regio-decreto/1940/1443/), [Codice di procedura penale](normativa/dpr/1988/447/)), e il testo vigente degli altri atti statali, aggiunto a blocchi ([`normativa/`](normativa/); la Costituzione in [`costituzione/`](costituzione/)); gli atti parlamentari di Camera e Senato dal 1848 (progetti di legge, leggi, sedute, votazioni, documenti) in [`parlamento/`](parlamento/); le misure nazionali di recepimento delle direttive UE in [`eu-nim/`](eu-nim/); circa 1,1 milioni di provvedimenti giurisdizionali (Corte costituzionale, giustizia amministrativa, Corte dei conti) in [`giurisprudenza/`](giurisprudenza/); e i provvedimenti dell'autorità garante della concorrenza in [`autorita/`](autorita/). [`REPRODUCE.md`](REPRODUCE.md) elenca ogni atto con la sua cartella e le sue versioni.
 
-Ogni atto è in `<tipo>/<anno>/<numero>/`, un file per articolo (`legge/1970/300/art-018.md` è l'art. 18 dello Statuto dei lavoratori, Legge 20 maggio 1970, n. 300); la Costituzione è in [`costituzione/`](costituzione/), con le disposizioni transitorie e finali in `costituzione/allegati/`.
+Ogni atto è in `normativa/<tipo>/<anno>/<numero>/`, un file per articolo (`normativa/legge/1970/300/art-018.md` è l'art. 18 dello Statuto dei lavoratori, Legge 20 maggio 1970, n. 300); la Costituzione è in [`costituzione/`](costituzione/), con le disposizioni transitorie e finali in `costituzione/allegati/`. Fino al 17 novembre 2026 le cartelle per tipo di atto erano nella radice del repository (`legge/`); [`data/paths.json`](data/paths.json) indica per ogni vecchia cartella quella nuova.
 
 Il testo è in italiano, come lo pubblica Normattiva, con i segni `(( ))` attorno alle parole modificate e le sue note di aggiornamento. Una traduzione inglese non fa parte di questo archivio.
 
@@ -21,10 +21,10 @@ Il testo è in italiano, come lo pubblica Normattiva, con i segni `(( ))` attorn
 
 | Domanda | Comando |
 | --- | --- |
-| Tutte le modifiche all'art. 18 dello Statuto dei lavoratori | `git log -p --word-diff -- legge/1970/300/art-018.md` |
-| Quale atto ha scritto ciascuna riga dell'art. 18? | `git blame legge/1970/300/art-018.md` |
-| Tutte le versioni dello Statuto dei lavoratori, con il giorno in cui ciascuna è entrata in vigore | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- legge/1970/300` |
-| L'art. 18 nel testo vigente al 1º gennaio 2012 | `python tools/vigente.py 2012-01-01 legge/1970/300 18` |
+| Tutte le modifiche all'art. 18 dello Statuto dei lavoratori | `git log -p --follow --word-diff -- normativa/legge/1970/300/art-018.md` |
+| Quale atto ha scritto ciascuna riga dell'art. 18? | `git blame normativa/legge/1970/300/art-018.md` |
+| Tutte le versioni dello Statuto dei lavoratori, con il giorno in cui ciascuna è entrata in vigore | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- normativa/legge/1970/300 legge/1970/300` |
+| L'art. 18 nel testo vigente al 1º gennaio 2012 | `python tools/vigente.py 2012-01-01 normativa/legge/1970/300 18` |
 
 **Fuori da git** mettiamo questo archivio anche a disposizione di tutti, gratuitamente:
 
@@ -40,7 +40,7 @@ Entrambi gli assistenti leggono l'archivio tramite il connettore gratuito Global
 ```sh
 git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
 python3 tools/countries.py add italy/national/acts
-python3 tools/law.py show 2026-01-01 italy/national/acts/legge/1970/300/art-018.md
+python3 tools/law.py show 2026-01-01 italy/national/acts/normativa/legge/1970/300/art-018.md
 ```
 
 Aperto in Claude Code, Cursor, VS Code o Codex, il clone avvia anche un server MCP locale con gli stessi strumenti ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).

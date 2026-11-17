@@ -1,3 +1,0 @@
-Allegato IX
-
-Parte di provvedimento in formato grafico

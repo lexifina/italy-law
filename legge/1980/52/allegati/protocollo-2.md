@@ -1,7 +1,0 @@
-PROTOCOLLO N° 2
-
-concernente la definizione del dazio di base per i fiammiferi della voce 36.06 della tariffa doganale comune
-
-Il dazio di base sul quale la Repubblica ellenica opera le riduzioni successive di cui all'articolo 25 per i fiammiferi della voce 36.06 della tariffa doganale comune e' del 9,6%.
-
-Per gli stessi prodotti il dazio di base preso in considerazione per i ravvicinamenti alla tariffa doganale comune, da eseguire conformemente all'articolo 31, e' del 17,2%.

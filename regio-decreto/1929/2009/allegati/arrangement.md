@@ -1,3 +1,0 @@
-Arrangement relatif a l'etablissement d'une carte de transit pour emigrants.
-
-Parte di provvedimento in formato grafico

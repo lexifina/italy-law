@@ -1,3 +1,0 @@
-Prospetto di copertura
-
-Parte di provvedimento in formato grafico

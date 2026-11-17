@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1791/A/G4.151/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1791/A/G4.151"/>
+					<an:FRBRdate date="2009-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1791/A/G4.151/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.151"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@"/>
+					<an:FRBRdate date="2009-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@.akn"/>
+					<an:FRBRdate date="2009-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-11-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-11-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1791/A/G4.151/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1791" showAs="DDL 1791"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/17685" showAs="D'Alia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22771" showAs="Pinzger"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/25194" showAs="Fosson"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22728" showAs="Cuffaro"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22792" showAs="Giai"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17624" showAs="Peterlini"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/1919" showAs="Poli Bortone"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/2389" showAs="Thaler Ausserhofer"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1791</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.151</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">D'Alia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pinzger</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Fosson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cuffaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Giai</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Peterlini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Poli Bortone</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Thaler Ausserhofer</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge recante il bilancio di previsione dello Stato per l'anno finanziario 2010 e bilancio pluriennale per il triennio 2010-2012,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            la manovra finanziaria per gli anni 2010-2012 si contraddistingue per la mancanza di misure a sostegno dei bisogni delle famiglie e, per loro tramite, a sostegno della domanda interna;</an:p>
+				<an:p align="justify">            nessuno strumento di protezione sociale o contrasto alla povertà e all'esclusione sociale è contemplato in essa;</an:p>
+				<an:p align="justify">            non predisporre una adeguata rete di protezione sociale significa non riconoscere il diritto dell'individuo ad una vita dignitosa e ad un ruolo attivo nella società, non prestare attenzione alle necessità della famiglia significa non riconoscerne il ruolo insostituibile che svolge a servizio dell'intera società;</an:p>
+				<an:p align="justify">            secondo il rapporto pubblicato dall'ISTAT, nel 2008 complessivamente sono 8.078.000 gli individui poveri, il 13,6 per cento dell'intera popolazione. Le famiglie che si trovano in condizioni di povertà relativa sono stimate in 2.737.000 e rappresentano l'11,3 per cento delle famiglie residenti, 1.126.000 sono invece quelle famiglie (il 4,6 per cento delle famiglie residenti) che risultano in condizione di povertà assoluta per un totale di 2.893.000 individui, il 4,9 per cento dell'intera popolazione. La povertà è direttamente correlata al numero dei componenti, aumenta in caso di più figli e/o anziani, e si concentra soprattutto nel Sud d'Italia;</an:p>
+				<an:p align="justify">        in particolare:</an:p>
+				<an:p align="justify">            la manovra finanziaria per l'anno 2010, relativamente alla missione «Diritti sociali, politiche sociali e famiglia», decurta risorse pari a 240.031.703 di euro in conto competenza;</an:p>
+				<an:p align="justify">            nell'ambito della suddetta missione, il programma «Programmazione sociale, trasferimenti assistenziali e finanziamento nazionale della spesa sociale» è ridotto di 238.476.348 di euro. A farne maggiormente le spese sono il Fondo nazionale per l'infanzia e l'adolescenza, finalizzato alla realizzazione di interventi a livello nazionale, regionale e locale, ridotto di 41.567.046 di euro e il Fondo per le non auto sufficienze, non rifinanziato per l'anno 2010;</an:p>
+				<an:p align="justify">            a fronte di quanto sopra, ancora una volta la famiglia sarà chiamata a far fronte ai bisogni di disabili e anziani e ne rappresenterà la principale se non l'unica risorsa ai fini di fronteggiare situazioni di non auto sufficienza. Le famiglie con un disabile grave in Italia sono circa un milione e mezzo, circa il 7 per cento di quelle italiane;</an:p>
+				<an:p align="justify">            inoltre sempre in seno alla stessa missione «Diritti sociali, politiche sociali e famiglia» e nell'ambito dello stesso programma «Programmazione sociale, trasferimenti assistenziali e finanziamento nazionale della spesa sociale», il Fondo delle politiche sociali che dovrebbe essere lo strumento principe di contrasto alle emergenze sociali e mezzo attraverso cui porre in essere politiche sociali attive, risulta decurtato, rispetto alle previsioni assestate per il 2009, di 284.547.610 di euro;</an:p>
+				<an:p align="justify">            a ciò si aggiunga in seno alla medesima missione, nell'ambito del programma «Associazionismo, volontariato e formazioni sociali» una variazione negativa del Fondo per il volontariato e contributi alle associazioni sociali e del Fondo per l'associazionismo sociale in termini di cassa rispetto alle previsioni assestate per il 2009. Questo denota una mancata considerazione del ruolo del «terzo settore» a fronte dell'alta funzione sociale, anche di supplenza rispetto alle istituzioni statali, che esso rappresenta,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad adottare misure urgenti per sostenere le famiglie, in particolare a valutare l'opportunità di introdurre con provvedimenti successivi il sistema delle deduzioni fiscali in luogo dell'attuale sistema delle detrazioni al fine di realizzare un fisco più equo e a misura delle famiglie italiane con carichi familiari;</an:p>
+				<an:p align="justify">
+					            a contrastare la povertà e l'emarginazione promuovendo politiche di inclusione sociale attraverso il reintegro del Fondo per le politiche sociali ai fini di aumentare la coesione sociale per un 
+					<an:i>welfare</an:i>
+					 sempre più inclusivo;
+				</an:p>
+				<an:p align="justify">            a ripristinare le risorse del Fondo per le non auto sufficienze al fine di rispettare e dare piena attuazione al principio di uguaglianza sancito dall'articolo 3 della Carta costituzionale;</an:p>
+				<an:p align="justify">            a prestare adeguato sostegno al «terzo settore» attraverso un riconoscimento del ruolo solidaristico dello stesso, in ossequio anche al principio di sussidiarietà.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

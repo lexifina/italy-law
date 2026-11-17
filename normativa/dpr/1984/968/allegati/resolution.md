@@ -1,0 +1,5 @@
+RESOLUTION A.231 (VII)
+
+AMENDMENTS TO THE INTERNATIONAL CONVENTION ON LOAD LINES, 1966
+
+Parte di provvedimento in formato grafico

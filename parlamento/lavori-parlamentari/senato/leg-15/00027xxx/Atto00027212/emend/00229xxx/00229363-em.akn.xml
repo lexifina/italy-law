@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/2.37/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/2.37"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1183/A/2.37/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.37"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@.akn"/>
+					<an:FRBRdate date="2007-02-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-02-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-02-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1183/A/2.37/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1183" showAs="DDL 1183"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22790" showAs="Micheloni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22799" showAs="Pollastri"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22795" showAs="Randazzo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/22794" showAs="Turano"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/21516" showAs="Legnini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1183</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.37</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Micheloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Pollastri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Randazzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Turano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Legnini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 e), 
+					<an:i>sostituire le parole:</an:i>
+					 «Le detrazioni per carichi di famiglia non competono» 
+					<an:i>con le seguenti:</an:i>
+					 «Per i soggetti non residenti, le detrazioni per carichi di famiglia di cui all'articolo 12 del decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, e successive modificazioni, spettano per gli anni 2007, 2008 e 2009, a condizione che gli stessi dimostrino, con idonea documentazione, individuata con apposito decreto del Ministro dell'economia e delle finanze da emanarsi entro trenta giorni dall'entrata in vigore della presente legge, che le persone alle quali tali detrazioni si riferiscono non siano in possesso di un reddito complessivo superiore, al lordo degli oneri deducibili, al limite di cui al suddetto articolo 12, comma 2 del decreto del Presidente della Repubblica n. 917 del 1986, compresi i redditi prodotti fuori dal territorio dello Stato, e di non godere, nel paese di residenza, di alcun beneficio fiscale connesso ai carichi familiari. Le suddette detrazioni per carichi di famiglia competono, comunque, a tutto il personale a contratto in servizio presso le rappresentanze diplomatiche consolari e gli istituti di cultura all'estero».
+				</an:p>
+				<an:p align="justify">
+					<an:i>        Conseguentemente, alla tabella A, ridurre proporzionalmente gli importi relativi a tutte le rubriche, fino a concorrenza degli oneri.</an:i>
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

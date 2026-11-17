@@ -1,0 +1,31 @@
+Art. 4-bis.
+
+(Misure di razionalizzazione e coordinamento delle agevolazioni fiscali in edilizia)
+
+1.
+
+Alle banche e agli intermediari finanziari iscritti all'albo previsto dall'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, alle societa' appartenenti a un gruppo bancario iscritto all'albo di cui all'articolo 64 del medesimo testo unico e alle imprese di assicurazione autorizzate ad operare in Italia ai sensi del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, non e' consentita la compensazione, ai sensi dell'articolo 17 del decreto legislativo 9 luglio 1997, n. 241, dei crediti d'imposta derivanti dall'esercizio delle opzioni di cui all'articolo 121, comma 1, lettere a) e b), del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, con i debiti di cui all'articolo 17, comma 2, lettere e), f) e g), del citato decreto legislativo n. 241 del 1997.
+
+2.
+
+La violazione delle disposizioni di cui al comma 1 determina il recupero del credito indebitamente compensato e dei relativi interessi ((ferma l'applicazione della sanzione di cui all'articolo 69-sexies del testo unico delle sanzioni tributarie amministrative e penali di cui al decreto legislativo 5 novembre 2024, n. 173)).
+
+3.
+
+Le previsioni dei commi 1 e 2 si applicano alle compensazioni eseguite a partire dal 1° gennaio 2025.
+
+4.
+
+Per le spese sostenute a partire dal periodo d'imposta in corso alla data di entrata in vigore della legge di conversione del presente decreto in relazione agli interventi di cui agli articoli 119 e 119-ter del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, e di cui all'articolo 16, commi da 1-bis a 1-septies, del decreto-legge 4 giugno 2013, n. 63, convertito, con modificazioni, dalla legge 3 agosto 2013, n. 90, la detrazione e' ripartita in dieci quote annuali di pari importo.
+
+5.
+
+In deroga a quanto previsto dall'articolo 121, comma 3, secondo periodo, del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, i crediti d'imposta derivanti dall'esercizio delle opzioni di cui al comma 1 dello stesso articolo 121, relativi alle spese di cui al comma 4 del presente articolo, sono ripartiti in quattro quote annuali di pari importo per gli interventi di cui all'articolo 119 del citato decreto-legge n. 34 del 2020 e in cinque quote annuali di pari importo per gli interventi di cui all'articolo 119-ter del citato decreto-legge n. 34 del 2020 e di cui all'articolo 16, commi da 1-bis a 1-septies, del citato decreto-legge n. 63 del 2013.
+
+6.
+
+All'articolo 121 del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, dopo il comma 3-bis e' inserito il seguente: "3-ter. Per le banche e gli intermediari finanziari iscritti all'albo previsto dall'articolo 106 del testo unico delle leggi in materia bancaria e creditizia, di cui al decreto legislativo 1° settembre 1993, n. 385, per le societa' appartenenti a un gruppo bancario iscritto all'albo di cui all'articolo 64 del medesimo testo unico e per le imprese di assicurazione autorizzate ad operare in Italia ai sensi del codice delle assicurazioni private, di cui al decreto legislativo 7 settembre 2005, n. 209, le rate annuali utilizzabili a partire dall'anno 2025 dei crediti d'imposta derivanti dalle comunicazioni di cessione o di sconto relative agli interventi di cui agli articoli 119 e 119-ter del presente decreto e all'articolo 16, commi da 1-bis a 1-septies, del decreto-legge 4 giugno 2013, n. 63, convertito, con modificazioni, dalla legge 3 agosto 2013, n. 90, alle quali e' stato attribuito il codice identificativo univoco ai sensi del comma 1-quater del presente articolo, sono ripartite in sei rate annuali di pari importo, in luogo dell'originaria rateazione prevista per tali crediti. La quota di credito d'imposta non utilizzata nell'anno non puo' essere usufruita negli anni successivi e non puo' essere richiesta a rimborso. Le rate dei crediti d'imposta risultanti dalla nuova ripartizione di cui ai periodi precedenti non possono essere cedute ad altri soggetti oppure ulteriormente ripartite. Le disposizioni di cui ai periodi precedenti non si applicano ai soggetti che abbiano acquistato le rate dei predetti crediti a un corrispettivo pari o superiore al 75 per cento dell'importo delle corrispondenti detrazioni, a condizione che dichiarino tale circostanza, ai sensi dell'articolo 47 del testo unico di cui al decreto del Presidente della Repubblica 28 dicembre 2000, n. 445, mediante apposita comunicazione all'Agenzia delle entrate, da inviare in via telematica, anche avvalendosi dei soggetti previsti dall'articolo 3, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 22 luglio 1998, n. 322, improrogabilmente entro il 31 dicembre 2024. Per le rate dei crediti la cui cessione e' comunicata successivamente a tale data, la comunicazione di cui al periodo precedente e' effettuata contestualmente all'accettazione della cessione prevista dal provvedimento emanato ai sensi del comma 7. Con provvedimento del direttore dell'Agenzia delle entrate sono definiti le modalita' di attuazione del presente comma e il contenuto e le modalita' di presentazione della predetta comunicazione. Ferme restando le sanzioni penali previste in caso di dichiarazioni mendaci, la violazione delle disposizioni di cui ai periodi precedenti determina il recupero del credito indebitamente compensato e dei relativi interessi e l'applicazione della sanzione tributaria amministrativa di cui all'articolo 13, comma 4, del decreto legislativo 18 dicembre 1997, n. 471".
+
+7.
+
+A decorrere dalla data di entrata in vigore della legge di conversione del presente decreto, non e' in ogni caso consentito l'esercizio dell'opzione di cui all'articolo 121, comma 1, lettera b), del decreto-legge 19 maggio 2020, n. 34, convertito, con modificazioni, dalla legge 17 luglio 2020, n. 77, in relazione alle rate residue non ancora fruite delle detrazioni derivanti dalle spese per gli interventi di cui al comma 2 del medesimo articolo 121.

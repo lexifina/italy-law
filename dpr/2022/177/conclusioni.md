@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 23 settembre 2022
-
-MATTARELLA Draghi, Presidente del Consiglio dei ministri Giovannini, Ministro delle infrastrutture e della mobilita' sostenibili Visto, il Guardasigilli: Cartabia Registrato alla Corte dei conti il 3 novembre 2022 Ufficio di controllo sugli atti del Ministero delle infrastrutture e della mobilita' sostenibili e del Ministero della transizione ecologica, reg.ne n. 2950

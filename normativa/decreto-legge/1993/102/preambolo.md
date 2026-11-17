@@ -1,0 +1,23 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 77 e 87 della Costituzione;
+
+Visti gli articoli 3 e 5 del regio decreto-legge 23 aprile 1925, n. 520, convertito dalla legge 21 marzo 1926, n. 597, come modificati ed integrati dall'articolo 23 della legge 31 dicembre 1961, n. 1406, dall'articolo 34 della legge 18 febbraio 1963, n. 81, e dall'articolo 1 della legge 12 marzo 1968, n. 325;
+
+Vista la legge 29 gennaio 1992, n. 58, recante disposizioni per la riforma del settore delle telecomunicazioni;
+
+Visto il decreto-legge 19 marzo 1993, n. 69, che ha dettato la disciplina della proroga degli organi amministrativi;
+
+Visto il decreto del Ministro delle poste e delle telecomunicazioni in data 29 dicembre 1992, pubblicato nella Gazzetta Ufficiale n. 306 del 31 dicembre 1992, che ha approvato la convenzione tra il Ministero delle poste e delle telecomunicazioni e la S.p.a. IRITEL, in materia di servizi di telecomunicazioni;
+
+Considerato che per effetto di tale convenzione l'Azienda di Stato per i servizi telefonici e' stata soppressa;
+
+Visto il decreto legislativo 3 febbraio 1993, n. 29, recante razionalizzazione della organizzazione delle Amministrazioni pubbliche e revisione della disciplina in materia di pubblico impiego, ed in particolare l'articolo 48, da cui consegue, dalla data di entrata in vigore del medesimo decreto, la decadenza dei componenti eletti dal personale nei consigli di amministrazione;
+
+Ritenuta la straordinaria necessita' ed urgenza di dettare disposizioni che consentano il regolare funzionamento del consiglio di amministrazione delle poste e delle telecomunicazioni;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione dell'8 aprile 1993;
+
+Sulla proposta del Presidente del Consiglio dei Ministri e del Ministro delle poste e delle telecomunicazioni;
+
+E M A N A il seguente decreto-legge:

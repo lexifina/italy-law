@@ -1,0 +1,19 @@
+Art. 21-bis.
+
+(( (Poteri dell'Autorita' Garante della concorrenza e del mercato sugli atti amministrativi che determinano distorsioni della concorrenza) ))
+
+((
+
+1.
+
+L'Autorita' garante della concorrenza e del mercato e' legittimata ad agire in giudizio contro gli atti amministrativi generali, i regolamenti ed i provvedimenti di qualsiasi amministrazione pubblica che violino le norme a tutela della concorrenza e del mercato.
+
+2.
+
+L'Autorita' garante della concorrenza e del mercato, se ritiene che una pubblica amministrazione abbia emanato un atto in violazione delle norme a tutela della concorrenza e del mercato, emette, entro sessanta giorni, un parere motivato, nel quale indica gli specifici profili delle violazioni riscontrate. Se la pubblica amministrazione non si conforma nei sessanta giorni successivi alla comunicazione del parere, l'Autorita' puo' presentare, tramite l'Avvocatura dello Stato, il ricorso, entro i successivi trenta giorni.
+
+3.
+
+Ai giudizi instaurati ai sensi del comma 1 si applica la disciplina di cui al Libro IV, Titolo V, del decreto legislativo 2 luglio 2010, n. 104.
+
+))

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1577-B/3/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@.akn"/>
+					<an:FRBRdate date="2015-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-08-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-08-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1577-B/C/G/1577-B/3/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1577-B" showAs="DDL 1577-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29047" showAs="Bianco"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22917" showAs="De Biasi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29088" showAs="Dirindin"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29134" showAs="Maturani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1577-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1577-B/3/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">De Biasi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Dirindin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Maturani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>
+					        in sede di esame del disegno di legge AS 1577-
+					<an:i>B,</an:i>
+					 recante «Deleghe al Governo in materia di riorganizzazione delle amministrazioni pubbliche»,
+				</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il decreto legge 31 agosto 2013, n. 101, recante disposizioni urgenti per il perseguimento di obiettivi di razionalizzazione nelle pubbliche amministrazioni, convertito, con modificazioni, dalla legge 30 ottobre 2013, n. 125, all'articolo 4, comma, 10-
+					<an:i>bis</an:i>
+					, ha disposto la trasformazione delle liste speciali, costituite dall'INPS ai sensi dell'articolo 5, comma 12, del decreto-legge 12 settembre 1983, n. 463, convertito, con modificazioni della legge 11 novembre 1983, n. 638, in liste speciali ad esaurimento;
+				</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            la rubrica del citato articolo 4, («Disposizioni urgenti in tema di immissione in servizio di idonei e vincitori di concorsi, nonché di limitazioni a proroghe di contratti e all'uso del lavoro flessibile nel pubblico impiego») sottintende ad un percorso di stabilizzazione e al superamento di quelle forme atipiche che hanno caratterizzato alcuni rapporti nelle Pubbliche Amministrazioni, tra cui quello riconosciuto ai medici addetti alle visite mediche di controllo domiciliare, convenzionati con l'INPS;</an:p>
+				<an:p>        tenuto conto che:</an:p>
+				<an:p>            nel corso dell'audizione riguardante «l'indagine conoscitiva sull'organizzazione dell'attività dei medici che svolgono gli accertamenti sanitari per verificare lo stato di salute del dipendente assente per malattia», condotta dalla Commissione Affari Sociali nel 2014, il Sottosegretario di Stato per la Semplificazione e la Pubblica Amministrazione, ha riferito che: «Con riferimento alla natura giuridica del rapporto, si potrebbe valutare l'opportunità di ridefinire i caratteri della collaborazione, secondo i canoni di stabilità rivendicati dai medici fiscali»;</an:p>
+				<an:p>            visto l'ordine del giorno accolto dal Governo G12.101 al disegno di legge n. 1577 con cui si impegna il Governo a valutare l'opportunità, in considerazione dei vincoli di bilancio e assunzionali, di assicurare la ridefinizione, secondo criteri che garantiscano la stabilità, della natura giuridica del rapporto di collaborazione in essere dei medici iscritti nelle liste speciali costituite dall'INPS;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            attenendosi alle indicazioni di cui alla lettera 
+					<an:i>I)</an:i>
+					 dell'articolo 17 del disegno di legge in esame per la effettuazione delle visite mediche di controllo domiciliare sui lavoratori assenti dal servizio per malattia e per eventuali altri compiti istituzionali, a ricorrere ai medici inseriti nelle liste speciali ad esaurimento già costituite dall'INPS attraverso la definizione di un rapporto di lavoro di tipo convenzionale con stabilità di incarico tra l'INPS ed i medici iscritti nelle liste speciali.
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

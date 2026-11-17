@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G2.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@.akn"/>
+					<an:FRBRdate date="2017-09-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-09-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-09-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2287-BIS/A/G2.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2287-BIS" showAs="DDL 2287-BIS"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0LDQFUZUP5VYCCR0ZOWHOPXTBG1WQDHNBULOHIBO4GW004OKUITG" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+				<an:TLCPerson id="IDP5V0NOZEHEEYFE5PNSNACGLETH5REQFLN10BLPG2STV2Z4LFSHC" href="http://dati.senato.it/29179" showAs="SERRA"/>
+				<an:TLCPerson id="IDARCWH42MITLAPWHZOUNOBYE0IJY0Q4T5EDB0DUFIHL10NFHX15VH" href="http://dati.senato.it/29140" showAs="MONTEVECCHI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2287-BIS</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G2.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0LDQFUZUP5VYCCR0ZOWHOPXTBG1WQDHNBULOHIBO4GW004OKUITG" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP5V0NOZEHEEYFE5PNSNACGLETH5REQFLN10BLPG2STV2Z4LFSHC" as="#tipoSenatore">SERRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARCWH42MITLAPWHZOUNOBYE0IJY0Q4T5EDB0DUFIHL10NFHX15VH" as="#tipoSenatore">MONTEVECCHI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>
+					            in sede d'esame del disegno di legge recante Delega al Governo per il codice dello spettacolo (A.S. 2287-
+					<an:i>bis</an:i>
+					),
+				</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il comma 4 dell'articolo 2, lettera 
+					<an:i>l)</an:i>
+					, prevede il riordino e l'introduzione «di norme che, in armonia e coerenza con le disposizioni generali in materia, disciplinino in modo sistematico e unitario, con le opportune differenziazioni correlate allo specifico ambito di attività, il rapporto di lavoro nel settore dello spettacolo, nel rispetto, quanto agli aspetti retributivi, dell'articolo 36 della Costituzione e dell'articolo 2099 del codice civile, tenuto conto anche del carattere intermittente delle prestazioni lavorative con riferimento alle specificità contrattuali e alle tutele sociali, anche previdenziali e assicurative»;
+				</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            l'introduzione nel testo, in sede referente, del «carattere intermittente delle prestazioni lavorative con riferimento alle specificità contrattuali e alle tutele sociali, anche previdenziali e assicurative», denota nel merito, come connaturate alla professione artistica, quelle particolari specificità che si traducono, sul piano strettamente lavorativo e funzionale, in elementi e fattori di flessibilità, precarietà e mobilità, spesso penalizzanti per chi svolge tale genere di attività;</an:p>
+				<an:p>            ci si riferisce, in parti colar modo, ai giovani artisti, per i quali - oltre a essere spesso estremamente difficile trovare inserimento nel mercato e conseguire una adeguata crescita professionale ed economica - è raro che venga puntualmente remunerato il proprio lavoro, compresi i periodi di prova, ovvero che siano riconosciute specifiche tutele nei periodi di inattività;</an:p>
+				<an:p>        ritenuto infine che:</an:p>
+				<an:p>            occorre un sistema di tutele maggiormente efficace per i lavoratori dello spettacolo e soprattutto, per i giovani artisti, al fine di garantire loro la puntualità nei pagamenti delle prestazioni lavorative, la congrua retribuzione dei periodi di prova e il riconoscimento e l'erogazione degli ammortizzatori sociali, qualora si sia in possesso dei necessari requisiti,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>        ad adottare ogni iniziativa utile, anche di carattere normativo, finalizzata a:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 prevedere l'adozione di criteri premiaIi in favore di teatri che inseriscono nel loro cast giovani artisti e degli enti che adempiono puntualmente al pagamento del personale utilizzato, nonché a valutare l'adozione di criteri sanzionatori per gli enti che ritardano nell'adempiere a tali pagamenti;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 armonizzare e rimodulare le tipologie di ammortizzatori sociali previsti dalla vigente normativa al fine di favorire una loro estensione ai lavoratori dello spettacolo;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 prevedere, in particolare, l'introduzione di una specifica disciplina vòlta a riconoscere le prove di spettacolo quale periodo lavorativo effettivo con obbligo di retribuzione.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

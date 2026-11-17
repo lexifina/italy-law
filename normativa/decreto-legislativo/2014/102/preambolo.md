@@ -1,0 +1,27 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la direttiva 2012/27/UE del Parlamento europeo e del Consiglio, del 25 ottobre 2012, sull'efficienza energetica, che modifica le direttive 2009/125/CE e 2010/30/UE e abroga le direttive 2004/8/CE e 2006/32/CE;
+
+Vista la direttiva 2013/12/UE del Consiglio del 13 maggio 2013, che adatta la direttiva 2012/27/UE del Parlamento europeo e del Consiglio sull'efficienza energetica, in conseguenza dell'adesione della Repubblica di Croazia;
+
+Vista la legge 6 agosto 2013, n. 96, recante la delega al Governo per il recepimento delle direttive europee e l'attuazione di altri atti dell'Unione europea - Legge di delegazione europea 2013, ed in particolare l'articolo 4, comma 1, con il quale sono dettatati criteri direttivi per l'attuazione della direttiva 2012/27/UE;
+
+Vista la Comunicazione della Commissione al Parlamento europeo e al Consiglio n. COM (2013) 762 recante Orientamenti della Commissione sull'attuazione della direttiva sull'efficienza energetica;
+
+Visto il decreto del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, 8 marzo 2013, pubblicato, per comunicato, nella Gazzetta Ufficiale n. 73 del 27 marzo 2013, che approva la Strategia energetica nazionale;
+
+Vista la delibera CIPE n. 17 dell'8 marzo 2013 che aggiorna il piano di azione nazionale per la riduzione dei livelli di emissione di gas a effetto serra;
+
+Vista la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 4 aprile 2014;
+
+Acquisito il parere della Conferenza unificata, di cui all'articolo 9, comma 2 del decreto legislativo 28 agosto 1997, n. 281, reso nella seduta del 29 maggio 2014;
+
+Acquisiti i pareri espressi dalle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei ministri, adottata nella riunione del 30 giugno 2014;
+
+Sulla proposta del Presidente del Consiglio dei ministri, del Ministro dello sviluppo economico e del Ministro dell'ambiente e della tutela del territorio e del mare, di concerto con i Ministri dell'economia e delle finanze, delle infrastrutture e dei trasporti, della giustizia, degli affari esteri, per gli affari regionali e le autonomie e per la semplificazione e la pubblica amministrazione;
+
+Emana il seguente decreto legislativo:

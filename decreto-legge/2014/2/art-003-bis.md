@@ -1,5 +1,0 @@
-Art. 3-bis.
-
-Art. 3 bis
-
-((ARTICOLO ABROGATO DALLA L. 21 LUGLIO 2016, N. 145))

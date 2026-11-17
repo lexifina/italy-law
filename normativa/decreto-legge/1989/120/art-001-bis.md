@@ -1,0 +1,9 @@
+Art. 1-bis.
+
+((
+
+1.
+
+La disciplina in materia di pensionamento anticipato di cui all'articolo 1 della legge 31 maggio 1984, n. 193, continua a trovare applicazione dal 1 gennaio 1989 al 31 gennaio 1990 per i lavoratori dipendenti dalle imprese per la produzione di tubi senza saldature che, alla data di entrata in vigore della legge di conversione del presente decreto, abbiano in corso di realizzazione o realizzato programmi di riconversione produttiva con le incentivazioni di cui al decreto-legge 6 febbraio 1986, n. 20, convertito, con modificazioni, dalla legge 2 aprile 1986, n. 88, e per i lavoratori dipendenti dalle imprese siderurgiche che, alla data di entrata in vigore della legge di conversione del presente decreto, fruiscano del trattamento straordinario di integrazione salariale a seguito di cessata attivita' dell'unita' produttiva cui erano addetti, a condizione che, alla data di entrata in vigore della legge di conversione del presente decreto, siano in corso di attuazione programmi pubblici o privati di riconversione e di promozione industriali accertati con la deliberazione del CIPI del 20 luglio 1988 ai sensi dell'articolo 2, quinto comma, della legge 12 agosto 1977, n. 675.
+
+2. All'onere derivante dall'applicazione del presente articolo, valutato in lire 10 miliardi per l'anno 1989, lire 8 miliardi per il 1990 e lire 8 miliardi per il 1991, si provvede per l'anno 1989 a carico delle separate contabilita' degli interventi straordinari di cassa integrazione guadagni degli operai dell'industria. Per gli anni 1990 e 1991 si provvede mediante corrispondente riduzione dello stanziamento iscritto, ai fini del bilancio triennale 1989-1991, al capitolo 6856 dello stato di previsione della spesa del Ministero del tesoro per l'anno 1989, a tal fine parzialmente utilizzando l'accantonamento: "Norme in materia di trattamento di disoccupazione"))

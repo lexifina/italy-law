@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2"/>
+					<an:FRBRdate date="2016-07-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="52.0.500 testo 2/2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@"/>
+					<an:FRBRdate date="2016-07-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@.akn"/>
+					<an:FRBRdate date="2016-07-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-07-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-07-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2085/C/52.0.500 testo 2/2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2085" showAs="DDL 2085"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="10ª Commissione permanente" href="/dati.senato.it/osr/Commissione/10"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRZ4PEMAQQ5TVNOWPD3MRGB1FVK2GNFOUZGHX1BJKMLLMJ0BQDEGN" href="http://dati.senato.it/senatore/22717" showAs="BONFRISCO"/>
+				<an:TLCPerson id="ID52UV5R1WJL4MKJG5BCRGC2RQBETMUD0JXXNIUGAL52VSPA24IOP" href="http://dati.senato.it/senatore/29159" showAs="PERRONE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2085</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 52.0.500 testo 2/2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRZ4PEMAQQ5TVNOWPD3MRGB1FVK2GNFOUZGHX1BJKMLLMJ0BQDEGN" as="#tipoSenatore">BONFRISCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID52UV5R1WJL4MKJG5BCRGC2RQBETMUD0JXXNIUGAL52VSPA24IOP" as="#tipoSenatore">PERRONE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					All'emendamento 52.0.500, capoverso «Art. 53»
+					<an:i>, sostituire le parole:</an:i>
+					 «è delegato ad adottare» 
+					<an:i>con la seguente:</an:i>
+					 «adotta» 
+					<an:i>e le parole:</an:i>
+					 «decreti legislativi» 
+					<an:i>con le seguenti:</an:i>
+					 «disegni di legge».
+				</an:p>
+				<an:p>        Conseguentemente sopprimere i commi 2 e 3.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

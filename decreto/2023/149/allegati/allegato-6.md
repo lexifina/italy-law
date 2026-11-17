@@ -1,7 +1,0 @@
-Allegato 6, dell'articolo 2, comma 1, lettera b)
-
-Stemmi, emblemi e altri segni distintivi o marchi
-
-in ambito interforze
-
-Parte di provvedimento in formato grafico

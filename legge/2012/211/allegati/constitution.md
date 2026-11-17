@@ -1,7 +1,0 @@
-RESOLUTION No. 997 (LXXVI)
-
-(Adopted by the Council at its 421 st meeting on 24 November 1998)
-
-AMENDMENTS TO THE CONSTITUTION
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1777/A/G3.105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1777/A/G3.105"/>
+					<an:FRBRdate date="2020-05-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1777/A/G3.105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.105"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@"/>
+					<an:FRBRdate date="2020-05-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@.akn"/>
+					<an:FRBRdate date="2020-05-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-05-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-05-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1777/A/G3.105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1777" showAs="DDL 1777"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFWW4LYEQ3KDUEDHDGNPAT2QZMC4HAHRX3FKKKYBSRWK1KGTWG1ZK" href="http://dati.senato.it/29358" showAs="D'ARIENZO"/>
+				<an:TLCPerson id="IDUSYV5CMFQ5V0NRAWGSEORAEGBMLVEVWF42KXKENYN5J3OS52SE2G" href="http://dati.senato.it/32632" showAs="FERRAZZI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1777</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFWW4LYEQ3KDUEDHDGNPAT2QZMC4HAHRX3FKKKYBSRWK1KGTWG1ZK" as="#tipoSenatore">D'ARIENZO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUSYV5CMFQ5V0NRAWGSEORAEGBMLVEVWF42KXKENYN5J3OS52SE2G" as="#tipoSenatore">FERRAZZI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di esame del disegno di legge recante conversione in legge, con modificazioni, del decreto-legge 11 marzo 2020, n.16, recante disposizioni urgenti per l'organizzazione e lo svolgimento dei Giochi olimpici e paralimpici invernali Milano Cortina 2026 e delle finali ATP Torino 2021 - 2025, nonché in materia di divieto di pubblicizzazione parassitaria (A.S. 1777);</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 3 stabilisce che le risorse devono essere ripartite con uno o più decreti del Ministro delle infrastrutture e dei trasporti, da adottare di concerto con il Ministro dell'economia e delle finanze, previa intesa con i Presidenti delle regioni e delle province autonome interessate. Con i medesimi decreti devono essere identificate le opere infrastrutturali, ivi comprese quelle per l'accessibilità, distinte in opere essenziali, connesse e di contesto, con l'indicazione, per ciascuna opera, del soggetto attuatore e dell'entità del finanziamento concesso;</an:p>
+				<an:p>            con riferimento ai medesimi decreti interministeriali si dispone inoltre che l'intesa dei Presidenti delle regioni Lombardia e Veneto e delle province autonome di Trento e di Bolzano deve essere resa sentiti gli enti locali territorialmente interessati,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a tenere conto nei decreti interministeriali anche dei progetti già approvati dagli enti territoriali interessati;</an:p>
+				<an:p>            a valutare l'opportunità di prevedere nel prossimo provvedimento utile, che al termine delle Olimpiadi invernali Milano Cortina 2020-2026 e delle finali ATP di tennis di Torino 2021-2025, le opere realizzate restino acquisite al patrimonio delle Regioni o degli altri enti locali territorialmente competenti e che le opere stradali restino acquisite al patrimonio dell'ente pubblico proprietario della sede viaria sulla quale è realizzato l'intervento di adeguamento.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/55.14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/55.14"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/55.14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="55.14"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@.akn"/>
+					<an:FRBRdate date="2020-09-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-09-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-09-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1883/A/55.14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1883" showAs="DDL 1883"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDLQSZRVQLEM4BMPPUGNVB1ASDSDESMI32RAVSR2CKDV1NOEXIUNRN" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDOYH4PCJLRVVWEB02YXYPG4FD5IUH0PLGVPIEYKCSGVKDER0XGCJB" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDBKW4LFYTTWTTKFY5Z43PRW2A2NIJ3L0SVUAVGTBSYWOBA1SZZT4N" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDO1IHVTMAATVKDDR1UH13NSL2EH51WGDX40Q43MF3MGFMXK30NVO" href="http://dati.senato.it/35106" showAs="RUOTOLO"/>
+				<an:TLCPerson id="IDR311PHD11RWBKFQGSGULR3JLONOYIDLS2M5I5AM52VVWBNHH2PO" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1883</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 55.14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLQSZRVQLEM4BMPPUGNVB1ASDSDESMI32RAVSR2CKDV1NOEXIUNRN" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOYH4PCJLRVVWEB02YXYPG4FD5IUH0PLGVPIEYKCSGVKDER0XGCJB" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBKW4LFYTTWTTKFY5Z43PRW2A2NIJ3L0SVUAVGTBSYWOBA1SZZT4N" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDO1IHVTMAATVKDDR1UH13NSL2EH51WGDX40Q43MF3MGFMXK30NVO" as="#tipoSenatore">RUOTOLO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDR311PHD11RWBKFQGSGULR3JLONOYIDLS2M5I5AM52VVWBNHH2PO" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1 sostituire la lettera</an:i>
+					 e) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>e)</an:i>
+					 all'articolo 15 dopo il comma 1 è inserito il seguente:
+				</an:p>
+				<an:p>
+					        ''1-
+					<an:i>bis</an:i>
+					. I beni demaniali presenti nel territorio delle aree protette, compresi quelli nelle aree marine protette, che alla data di entrata in vigore della presente disposizione non siano affidati in concessione a soggetti terzi, ad eccezione di quelli destinati alla difesa e alla sicurezza nazionale, sono dati in concessione gratuita all'ente di gestione dell'area protetta, se da esso richiesti, per un periodo di nove anni. La concessione è rinnovata automaticamente allo scadere, salvo motivato diniego del soggetto concedente. L'ente di gestione dell'area protetta può concederli in uso a terzi contro il pagamento di un canone, per il raggiungimento dei propri fini istituzionali. Resta ferma l'attività di vigilanza e sorveglianza sulla gestione delle aree naturali protette prevista dall'articolo 21 della legge 6 dicembre 1991, n. 394, nonché ogni altra norma speciale in materia di concessioni. La concessione gratuita dei beni demaniali all'ente di gestione dell'area protetta di cui al comma 1 non modifica la titolarità di tali beni, che rimangono in capo al soggetto concedente''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

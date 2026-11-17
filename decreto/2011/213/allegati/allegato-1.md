@@ -1,9 +1,0 @@
-Allegato 1
-
-ISTANZA PER IL RILASCIO DELL'AUTORIZZAZIONE
-
-ALLA GUIDA ACCOMPAGNATA
-
-(Art. 115, comma 1-bis, Codice della strada)
-
-Parte di provvedimento in formato grafico

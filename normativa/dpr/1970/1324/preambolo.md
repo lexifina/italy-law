@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87 della Costituzione;
+
+Visti gli articoli 47, 51 e 54 della legge 31 luglio 1954, n. 599, sullo stato dei sottufficiali dell'Esercito, della Marina e dell'Aeronautica;
+
+Visto l'art. 119, primo e secondo comma, del decreto presidenziale 14 febbraio 1964, n. 237, sulla leva ed il reclutamento obbligatorio nell'Esercito, nella Marina e nell'Aeronautica;
+
+Vista la legge 3 maggio 1955, n. 370, sulla conservazione del posto ai lavoratori richiamati alle armi;
+
+Vista la legge 10 dicembre 1957, n. 1248, concernente norme per l'aumento della misura dei soccorsi giornalieri alle famiglie bisognose dei militari richiamati e trattenuti alle armi;
+
+Ritenuta la necessita' di effettuare richiami di sottufficiali, graduati e comuni del C.E.M.M. della forza in congedo per speciali esigenze e per aggiornamento della preparazione dei riservisti nell'uso delle piu' recenti armi ed apparecchiature;
+
+Sulla proposta del Ministro per la difesa; Decreta:

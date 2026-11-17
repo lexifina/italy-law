@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9"/>
+					<an:FRBRdate date="2017-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2811/4/9"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@"/>
+					<an:FRBRdate date="2017-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@.akn"/>
+					<an:FRBRdate date="2017-10-25" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-10-25"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-10-25" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2811/C/G/2811/4/9/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2811" showAs="DDL 2811"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="9ª Commissione permanente" href="/dati.senato.it/osr/Commissione/9"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDXYQI55QLFHK2FQQWKMIFLQVQ1PQPMP34YA32XTMF3W3PAZZZEOSJ" href="http://dati.senato.it/29090" showAs="DONNO"/>
+				<an:TLCPerson id="IDFTKUSDODW3RXO0NJZCHW4O2KZINAY1H1OPPJIXF2IWRSV2N0IRBJ" href="http://dati.senato.it/29102" showAs="GAETTI"/>
+				<an:TLCPerson id="IDINYSWGDSEHQIGFE3XIRDDGZRFCWXVBPMYECQQPHYFCGRT0NXMVXE" href="http://dati.senato.it/31010" showAs="AMIDEI"/>
+				<an:TLCPerson id="ID30PUIZE2G5JNPLMMBJRDOYXLUETST02QCVQH0JBIIKGL1KSDJXPO" href="http://dati.senato.it/29079" showAs="DALLA TOR"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2811</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2811/4/9</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXYQI55QLFHK2FQQWKMIFLQVQ1PQPMP34YA32XTMF3W3PAZZZEOSJ" as="#tipoSenatore">DONNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFTKUSDODW3RXO0NJZCHW4O2KZINAY1H1OPPJIXF2IWRSV2N0IRBJ" as="#tipoSenatore">GAETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDINYSWGDSEHQIGFE3XIRDDGZRFCWXVBPMYECQQPHYFCGRT0NXMVXE" as="#tipoSenatore">AMIDEI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID30PUIZE2G5JNPLMMBJRDOYXLUETST02QCVQH0JBIIKGL1KSDJXPO" as="#tipoSenatore">DALLA TOR</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede d'esame del disegno di legge recante disposizioni per lo sviluppo e la competitività della produzione agricola e agroalimentare e dell'acquacoltura effettuate con metodo biologico (AS 2811);</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            un efficace sistema di controllo è elemento indispensabile a garantire che i prodotti siano ottenuti conformemente alle disposizioni della presente legge e della vigente normativa comunitaria e nazionale in materia, in particolare per quanto attiene alla tracciabilità delle produzioni bio nelle transazioni commerciali;</an:p>
+				<an:p>            pertanto, anche in considerazione delle nuove norme recate dal provvedimento in titolo, è sempre più urgente l'adozione della normativa relativa allo svolgimento dell'attività ispettiva e di controllo anche al fine di evitare la messa in vendita di prodotti falsamente presentati come biologici;</an:p>
+				<an:p>            nello svolgimento dell'attività ispettiva e di vigilanza è necessario escludere qualsiasi tipo di conflitto di interessi tra gli organismi di controllo e gli operatori assoggettati alle verifiche ed ispezioni,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>
+					            nella predisposizione del decreto legislativo di cui all'articolo 5, comma 2, lettera 
+					<an:i>g)</an:i>
+					 della legge 28 luglio 2016, n. 154, a stabilire specifici requisiti atti a garantire l'indipendenza, l'imparzialità e l'assenza di conflitti di interesse degli organismi di controllo nei confronti degli operatori assoggettati ai controlli.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

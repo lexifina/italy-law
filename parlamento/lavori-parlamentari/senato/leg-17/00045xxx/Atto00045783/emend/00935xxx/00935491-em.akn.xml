@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="4.0.1000/105"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@.akn"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/A/4.0.1000/105/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDABRH3G" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+				<an:TLCPerson id="IDAVVH3G" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDA1VH3G" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDA2XH3G" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDALWH3G" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDAFSH3G" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDARQH3G" href="http://dati.senato.it/senatore/29186" showAs="STEFANO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 4.0.1000/105</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDABRH3G" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVVH3G" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA1VH3G" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA2XH3G" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDALWH3G" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAFSH3G" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARQH3G" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>All'emendamento 4.0.1000, dopo il comma 3, aggiungere il seguente:</an:p>
+				<an:p align="justify">
+					        «3-
+					<an:i>bis</an:i>
+					. In relazione alla straordinaria e imprescindibile esigenza di garantire in modo diffuso su tutto il territorio nazionale ed in via immediata, ancor prima delle procedure selettive per la delega di funzioni di cui al comma 2, il corretto funzionamento della macchina fiscale, anche in considerazione delle rilevanti attività di sinergica cooperazione con gli Enti locali, viene riconosciuto, dalla data di entrata in vigore della legge di conversione del presente decreto, il ruolo dirigenziale, con conseguente rimodulazione delle vacanze nell'organico dei dirigenti, esclusivamente a quei fun'zionari delle agenzie fiscali, attualmente inquadrati nella terza area funzionale da almeno dieci anni ed in possesso di diploma di laurea magistrale o equipollente in materie attinenti alle attività di competenza dell'agenzia fiscale di appartenenza, che abbiano avuto accesso alla pubblica amministrazione a seguito di pubblico concorso e che siano altresì in possesso di uno dei requisiti sotto indicati:
+				</an:p>
+				<an:p align="justify">
+					<an:i>a)</an:i>
+					 aver superato una procedura selettiva indetta nelle agenzie fiscali per il conferimento di incarico dirigenziale e aver svolto funzioni dirigenziali per un periodo superiore a 36 mesi, con valutazioni annuali tutte positive, ed essere in possesso di abilitazione professionale in materie attinenti alle attività di competenza dell'Agenzia fiscale di appartenenza quale, a titolo esemplificativo, l'abilitazione all'esercizio della professione di commercialista, ovvero di avvocato, ovvero di ingegnere, ovvero di architetto;
+				</an:p>
+				<an:p align="justify">
+					<an:i>b)</an:i>
+					 aver superato una procedura selettiva indetta nelle agenzie fiscali per il conferimento di incarico dirigenziale e aver svolto funzioni dirigenziali per un periodo superiore a 60 mesi, con valutazioni annuali tutte positive, ed essere in possesso di specchiata professionalità comprovabile con pubblicazioni di carattere scientifico nelle materie attinenti alle attività di competenza dell'Agenzia fiscale di appartenenza, ovvero con lo svolgimento, nell'ambito delle stesse materie, di attività di docenza presso scuole di formazione del Ministero dell'economia e delle finanze o altre scuole superiori della Pubblica Amministrazione».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

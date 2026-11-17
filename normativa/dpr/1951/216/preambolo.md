@@ -1,0 +1,17 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto l'art. 87, comma quinto, della Costituzione;
+
+Visto il decreto legislativo luogotenenziale 1 marzo 1945, n. 177, e successive modificazioni;
+
+Visto l'art. 2 della legge 22 novembre 1949, n. 861;
+
+Visto il decreto del Presidente della Repubblica 29 luglio 1948, n. 1215;
+
+Visto il decreto del Presidente della Repubblica 1 ottobre 1948, n. 1216;
+
+Viste le proposte fatte dal Comitato speciale del Fondo di integrazione per le assicurazioni sociali;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per il lavoro e la previdenza sociale, di concerto con il Ministro per il tesoro; Decreta:

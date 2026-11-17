@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/884/A/G1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/884/A/G1"/>
+					<an:FRBRdate date="2007-02-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/884/A/G1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/884/A/G1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/884/A/G1/ita@"/>
+					<an:FRBRdate date="2007-02-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/884/A/G1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/884/A/G1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/884/A/G1/ita@.akn"/>
+					<an:FRBRdate date="2007-02-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/884/A/G1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-02-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-02-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/884/A/G1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/884" showAs="DDL 884"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/3853" showAs="Pianetta"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/1407" showAs="Malan"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 884</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Pianetta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">Malan</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify"> premesso:</an:p>
+				<an:p align="justify">che nella Repubblica popolare cinese, come recentemente riportato dai quotidiani italiani, vigerebbe una "censura a punti";</an:p>
+				<an:p align="justify">che ogni giornale ha a disposizione 12 punti;</an:p>
+				<an:p align="justify">che la pubblicazione di articoli "inopportuni" determina la cancellazione di punti;</an:p>
+				<an:p align="justify">che le sanzioni si cumulano fino a provocare l'azzeramento dei punti e la conseguente chiusura del giornale;</an:p>
+				<an:p align="justify">che secondo l'organizzazione "Reporters sans Frontieres" sono 32 i giornalisti incarcerati nella Repubblica popolare cinese in relazione a quanto hanno pubblicato;</an:p>
+				<an:p align="justify">che la RPC in quanto a libertà di stampa, sempre secondo la stessa organizzazione, occupa la 159^ posizione su 167 ed è seguita solo da Paesi quali ad esempio Cuba, Iran, Corea del Nord;</an:p>
+				<an:p align="justify">che la libertà religiosa è soggetta a restrizioni e che sacerdoti e vescovi cattolici sembra siano ancora nelle carceri della RPC;</an:p>
+				<an:p align="justify">che promuovere e tutelare i Diritti Umani non significa interferire negli affari interni di uno Stato sovrano, perché si tratta di diritti inviolabili di ogni essere umano,</an:p>
+				<an:p align="justify">
+					 richiede al Governo di mettere in atto nelle sedi e nei modi opportuni azioni che possano contribuire a 
+					<an:b>favorire nella RPC lo sviluppo delle fondamentali libertà di ogni persona, con particolare riferimento alle azioni già intraprese all'interno del dialogo strutturato Unione europea/Repubblica popolare cinese sui diritti umani</an:b>
+					.
+				</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo con le parole evidenziate che sostituiscono le altre: «garantire nella RPC le fondamentali libertà di ogni persona».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

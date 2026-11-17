@@ -1,3 +1,0 @@
-Convention relative au jaugeage des bateaux de navigation interieure
-
-Parte di provvedimento in formato grafico

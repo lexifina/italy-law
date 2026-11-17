@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/7.167/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/7.167"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/7.167/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="7.167"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@.akn"/>
+					<an:FRBRdate date="2015-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1977/A/7.167/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1977" showAs="DDL 1977"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDASJH3G" href="http://dati.senato.it/senatore/29175" showAs="SANTINI"/>
+				<an:TLCPerson id="IDAVLH3G" href="http://dati.senato.it/senatore/29054" showAs="BROGLIA"/>
+				<an:TLCPerson id="IDAZPH3G" href="http://dati.senato.it/senatore/29085" showAs="DEL BARBA"/>
+				<an:TLCPerson id="IDAJLH3G" href="http://dati.senato.it/senatore/29111" showAs="GUERRIERI PALEOTTI"/>
+				<an:TLCPerson id="IDA0NH3G" href="http://dati.senato.it/senatore/29113" showAs="LAI"/>
+				<an:TLCPerson id="IDAVNH3G" href="http://dati.senato.it/senatore/29122" showAs="LUCHERINI"/>
+				<an:TLCPerson id="IDARNH3G" href="http://dati.senato.it/senatore/25224" showAs="SANGALLI"/>
+				<an:TLCPerson id="IDA4MH3G" href="http://dati.senato.it/senatore/2313" showAs="SPOSETTI"/>
+				<an:TLCPerson id="IDADKH3G" href="http://dati.senato.it/senatore/29060" showAs="CANTINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1977</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 7.167</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDASJH3G" as="#tipoSenatore">SANTINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVLH3G" as="#tipoSenatore">BROGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAZPH3G" as="#tipoSenatore">DEL BARBA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJLH3G" as="#tipoSenatore">GUERRIERI PALEOTTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA0NH3G" as="#tipoSenatore">LAI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAVNH3G" as="#tipoSenatore">LUCHERINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDARNH3G" as="#tipoSenatore">SANGALLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA4MH3G" as="#tipoSenatore">SPOSETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDADKH3G" as="#tipoSenatore">CANTINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 9, è aggiunto, in fine, il seguente:</an:p>
+				<an:p align="justify">
+					        «9-
+					<an:i>bis</an:i>
+					. I fondi statali provenienti da leggi di finanziamento di programmi di interventi di edilizia scolastica, anche nell'ambito di programmi cofinanziati con fondi europei o comunque partecipati da istituzioni europee, sono destinati esclusivamente ad interventi su edifici di proprietà pubblica, di competenza degli enti locali, In riferimento agli articoli 8 e 9 della legge 11 gennaio 1996, n. 23, o di altre amministrazioni pubbliche».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

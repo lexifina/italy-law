@@ -1,7 +1,0 @@
-Allegato
-
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 25 FEBBRAIO 2002, n. 17
-
-All'articolo 1:
-
-al comma 4, dopo le parole: "presente decreto" sono inserite le seguenti: ", determinato nella misura massima di 2.582.284,00 euro per l'anno 2002,".

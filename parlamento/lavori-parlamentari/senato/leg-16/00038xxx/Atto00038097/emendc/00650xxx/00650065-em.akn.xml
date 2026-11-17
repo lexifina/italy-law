@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3194/C/46.0.3"/>
+					<an:FRBRdate date="2012-03-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="46.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@"/>
+					<an:FRBRdate date="2012-03-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@.akn"/>
+					<an:FRBRdate date="2012-03-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3194/C/46.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3194" showAs="DDL 3194"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Affari Costituzionali" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/23946" showAs="Della Monica"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/25258" showAs="Carofiglio"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22337" showAs="Casson"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/25263" showAs="Chiurazzi"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/22729" showAs="D'Ambrosio"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/25203" showAs="Galperti"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/12932" showAs="Maritati"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3194</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 46.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Della Monica</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Carofiglio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Casson</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Chiurazzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">D'Ambrosio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Galperti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Maritati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					Dopo l'
+					<an:b>articolo 46</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						«Art. 46-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni in materia di controversie in materia di riconoscimento della protezione internazionale)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 19 del decreto legislativo 1º settembre 2011 n. 150, il comma 10 è sostituito dal seguente:</an:p>
+				<an:p>        ''10. Avverso l'ordinanza di cui al comma precedente è proponibile reclamo alla Corte d'appello ai sensi degli articoli 739 e seguenti del codice di procedura civile.</an:p>
+				<an:p>
+					        10-
+					<an:i>bis</an:i>
+					. La controversia è trattata in ogni grado in via di urgenza. Al decorso dei relativi termini processuali non si applica la sospensione di cui alla legge 7 ottobre 1969 n. 742''.
+				</an:p>
+				<an:p>
+					        
+					<an:i>ed è aggiunto il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        ''10-
+					<an:i>ter</an:i>
+					. L'ordinanza della Corte di appello che definisce il reclamo è notificata alle parti a cura della cancelleria. Avverso la decisione può essere proposto ricorso per cassazione mediante deposito nella cancelleria della Corte di cassazione e nell'osservanza di quanto disposto dai commi 2 e 3 dell'articolo 369, nel termine perentorio di trenta giorni dalla notificazione. Ricorso e decreto di fissazione della adunanza in camera di consiglio sono immediatamente notificati a cura della cancelleria al richiedente la protezione internazionale ed al Ministero dell'interno, alla Commissione Territoriale che ha pronunciato il provvedimento impugnato, presso l'avvocatura generale dello Stato, e sono comunicati al Procuratore Generale presso la Corte di cassazione. Tra il giorno della notificazione del decreto di fissazione e quello dell'adunanza in camera di consiglio debbono intercorrere termini liberi non minori di sessanta giorni. La parte intimata svolge le proprie difese depositando controricorso entro trenta giorni dalla notificazione del decreto di fissazione d'udienza. Le parti costituite possono depositare le memorie di cui all'articolo 378. La Corte di cassazione si pronuncia con ordinanza in camera di consiglio ai sensi dell'articolo 375 del codice di procedura civile esclusa l'applicazione dell'articolo 380-
+					<an:i>bis</an:i>
+					. Le parti, se presenti, possono chiedere di essere sentite''».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

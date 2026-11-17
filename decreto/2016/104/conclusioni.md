@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Roma, 30 marzo 2016
-
-Il Ministro dell'interno Alfano Il Ministro degli affari esteri e della cooperazione internazionale Gentiloni Silveri Il Ministro dell'economia e delle finanze Padoan Visto, il Guardasigilli: Orlando Registrato alla Corte dei conti il 19 maggio 2016 Interno, foglio n. 1064

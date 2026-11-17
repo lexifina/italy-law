@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/G11.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/G11.4"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/974/A/G11.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G11.4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@.akn"/>
+					<an:FRBRdate date="2013-08-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-08-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-08-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/974/A/G11.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/974" showAs="DDL 974"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EZ" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="E5" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EDB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="EIB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="ENB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="ESB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="EXB" href="http://dati.senato.it/senatore/29084" showAs="De Pin"/>
+				<an:TLCPerson id="E3B" href="http://dati.senato.it/senatore/29104" showAs="Gambaro"/>
+				<an:TLCPerson id="EBC" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 974</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G11.4 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZ" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ENB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ESB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EXB" as="#tipoSenatore">De Pin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3B" as="#tipoSenatore">Gambaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBC" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di discussione dell'articolo 11, premesso che:</an:p>
+				<an:p align="justify">        da vari anni assistiamo alla riduzione sistematica delle risorse destinate alla cultura in generale e al cinema in particolare;</an:p>
+				<an:p align="justify">        il ridimensionamento di tali risorse, per il settore cinematografico, vanifica il sostegno pubblico che tutti i Paesi europei riconoscono al cinema e alla cultura;</an:p>
+				<an:p align="justify">        i tagli operati alle risorse, in questo specifico settore culturale, rischiano di bloccare completamente le attività dell'intera filiera cinematografica, dalla produzione alla distribuzione, dall'esercizio alla promozione, con gravissime ricadute anche sull'occupazione di centinaia di migliaia di lavoratori;</an:p>
+				<an:p align="justify">        il cinema è arte ed è preciso compito e dovere di uno Stato civile difenderla e promuoverla in tutte le sue forme;</an:p>
+				<an:p align="justify">        un uso distorto della programmazione da parte delle emittenti televisive, che trasmettono quotidianamente decine di pellicole cinematografiche, ledono pesantemente, sottraendo importanti risorse e proventi al settore cinema nel suo complesso, l'intero settore con il suo vasto ed esteso indotto;</an:p>
+				<an:p align="justify">        l'articolo 11 in esame proroga i meccanismi di incentivazione fiscale a favore degli investimenti nel settore cinematografico, introdotti dalla legge finanziaria 2008, per il solo anno 2014 e in un limite massimo di spesa di 45 milioni di euro, misura che risulta largamente insufficiente, sia dal punto di vista dell'estensione temporale che dell'entità delle risorse messe a disposizione,</an:p>
+				<an:p align="justify">        impegna il Governo a valutare l'opportunità di prevedere nella legge di stabilità 2014:</an:p>
+				<an:p align="justify">        a) la proroga, per almeno un ulteriore biennio (2015-2016), dei crediti di imposta per la produzione e la distribuzione e l'esercizio cinematografico previsti dall'articolo 1, commi da 325 a 328 e commi da 330 a 337, della legge 24 dicembre 2007, n. 244;</an:p>
+				<an:p align="justify">        b) un aumento contestuale del tetto di spesa per ciascun anno del triennio 2014-2016.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

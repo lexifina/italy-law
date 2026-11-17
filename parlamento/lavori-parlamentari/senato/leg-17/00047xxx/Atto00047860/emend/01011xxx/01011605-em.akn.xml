@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/13.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/13.1"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2756/A/13.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@.akn"/>
+					<an:FRBRdate date="2017-04-05" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-04-05"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-04-05" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2756/A/13.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2756" showAs="DDL 2756"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDMP2VY2JEYJSWKR4EJRVG5DVSVBDWOFQSKHU3HLLX4IUNRAGEWFCP" href="http://dati.senato.it/23035" showAs="PELINO"/>
+				<an:TLCPerson id="IDVD15M5V4FH4AMQKLADACOPTPDPBTNFYQ1VB4CZCRVO4XNIIELWLI" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDUXA3FDI3HQWRENQHEKNBNNSGNFB1DO2YLCEAUY0HZUKWSREE42F" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDGUMPUQW0OUCBPLK0UGBJIT0RMG1VSZCONCUGLNKA4NZHHPWD1JLM" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDUMH2MLZ4I0QLKBSCEI32TYOZTG5KUSMH430VW1OAWA0VXS1WG1ND" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2756</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMP2VY2JEYJSWKR4EJRVG5DVSVBDWOFQSKHU3HLLX4IUNRAGEWFCP" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVD15M5V4FH4AMQKLADACOPTPDPBTNFYQ1VB4CZCRVO4XNIIELWLI" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUXA3FDI3HQWRENQHEKNBNNSGNFB1DO2YLCEAUY0HZUKWSREE42F" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGUMPUQW0OUCBPLK0UGBJIT0RMG1VSZCONCUGLNKA4NZHHPWD1JLM" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUMH2MLZ4I0QLKBSCEI32TYOZTG5KUSMH430VW1OAWA0VXS1WG1ND" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, sostituire le parole: «degli edifici e delle strutture interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016», con le seguenti: «e da maltempo degli edifici e delle strutture interessati dagli eventi sismici verificatisi a far data dal 24 agosto 2016, nonché dagli eccezionali fenomeni meteorologici che hanno interessato i territori delle Regioni Abruzzo, Lazio, Marche e Umbria a partire dalla seconda decade di gennaio 2017».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

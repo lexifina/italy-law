@@ -1,0 +1,19 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Veduto lo statuto dell'Universita' di Trieste, approvato con decreto del Presidente della Repubblica 31 ottobre 1961, n. 1836 e modificato con decreto del Presidente della Repubblica 7 settembre 1962, n. 1540, e successive modificazioni;
+
+Veduto il testo unico delle leggi sull'istruzione superiore, approvato con regio decreto 31 agosto 1933, n. 1592;
+
+Veduto il regio decreto-legge 20 giugno 1935, n. 1071, convertito nella legge 2 gennaio 1936, n. 73;
+
+Veduto il regio decreto 30 settembre 1938, n. 1652, e successive modificazioni;
+
+Veduta la legge 11 aprile 1953, n. 312;
+
+Veduto il decreto del Presidente della Repubblica 6 marzo 1978, n. 102;
+
+Veduta la proposta di modifiche dello statuto formulata dalle autorita' accademiche dell'Universita' anzidetta;
+
+Sentito il parere del Consiglio superiore della pubblica istruzione;
+
+Sulla proposta del Ministro della pubblica istruzione; Decreta:

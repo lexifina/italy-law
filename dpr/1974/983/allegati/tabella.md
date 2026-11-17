@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI ALESSANO
-
-Parte di provvedimento in formato grafico

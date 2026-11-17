@@ -1,0 +1,3 @@
+Tabella C
+
+DECRETO DECADUTO

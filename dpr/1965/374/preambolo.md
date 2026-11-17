@@ -1,9 +1,0 @@
-IL PRESIDENTE DELLA REPUBBLICA
-
-Visto l'art. 87, comma quinto, della Costituzione;
-
-Vista la legge 5 dicembre 1964, n. 1268;
-
-Sentito il Consiglio dei Ministri;
-
-Sulla proposta del Presidente del Consiglio dei Ministri di concerto con i Ministri per la grazia e giustizia, per la difesa, per il bilancio e per il tesoro; Decreta:

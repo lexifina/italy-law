@@ -1,7 +1,0 @@
-Allegato IX
-
-(di cui all'art. 9, comma 1, lettera q)
-
-Allegato A
-
-Parte di provvedimento in formato grafico

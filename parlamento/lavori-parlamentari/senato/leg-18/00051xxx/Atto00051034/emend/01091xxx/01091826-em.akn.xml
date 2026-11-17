@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1555/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1555"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1555/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1555"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1555/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID3Z4OHNOED1QVEVMVPTJ0CVFV3B3ICK0B1BQHNB2QSZMOT42QIPI" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDJQSKGS4OO5MI4VVCPH4XVHA0NHTJVS2TX1O4MB5L4IKEBC0IYFC" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+				<an:TLCPerson id="IDTLKX41VB0WXJLO1SPVMGTM1JUPPPAWMT1MMAFVLJXMPUJ5MJGAVM" href="http://dati.senato.it/25468" showAs="MARSILIO"/>
+				<an:TLCPerson id="IDGJNS00VTPKJMELA0BHJNUE4HSPW3K50ZAYQVJXD0ZBMESGTZ4ZUC" href="http://dati.senato.it/2444" showAs="URSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1555</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3Z4OHNOED1QVEVMVPTJ0CVFV3B3ICK0B1BQHNB2QSZMOT42QIPI" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJQSKGS4OO5MI4VVCPH4XVHA0NHTJVS2TX1O4MB5L4IKEBC0IYFC" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTLKX41VB0WXJLO1SPVMGTM1JUPPPAWMT1MMAFVLJXMPUJ5MJGAVM" as="#tipoSenatore">MARSILIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGJNS00VTPKJMELA0BHJNUE4HSPW3K50ZAYQVJXD0ZBMESGTZ4ZUC" as="#tipoSenatore">URSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 238, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «238-
+					<an:i>bis</an:i>
+					. Alla Tabella A, parte II, allegata al decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, e successive modificazioni, è aggiunto, in fine, il seguente numero:
+				</an:p>
+				<an:p>
+					        ''41-
+					<an:i>quinquies</an:i>
+					. Pannolini, latte in polvere e liquido, latte speciale o vegetale per allergici o intolleranti, omogeneizzati e prodotti alimentari, strumenti per l'allattamento, prodotti per l'igiene, carrozzine, passeggini, culle, lettini, seggioloni, seggiolini per automobili, girelli, destinati all'infanzia;''».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente al comma 138, primo periodo, sostituire le parole:</an:i>
+					 «9.000 milioni di euro annui a decorrere dall'anno 2019» 
+					<an:i>con le seguenti:</an:i>
+					 «8.880 milioni di euro annui a decorrere dall'anno 2019».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

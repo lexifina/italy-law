@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.414/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.414"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.414/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.414"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@.akn"/>
+					<an:FRBRdate date="2017-02-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2068/A/1.414/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2068" showAs="DDL 2068"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQVEFZRR1WNYXMBZVOMNDXKLW0JTXN42WCGLCDIJ3XMAW0DZ12BGF" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="IDQQT0K2YEA5RCEPOFDJWCAZORWDDRAOVFDIB4V1LUPIWMLDAKS2E" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="ID2HM5B3N10EPCJHT4GCKFA4TPBCX2ADXFLMMXK5PG51OVS3C3RL5I" href="http://dati.senato.it/29059" showAs="CANDIANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2068</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.414</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQVEFZRR1WNYXMBZVOMNDXKLW0JTXN42WCGLCDIJ3XMAW0DZ12BGF" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQQT0K2YEA5RCEPOFDJWCAZORWDDRAOVFDIB4V1LUPIWMLDAKS2E" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2HM5B3N10EPCJHT4GCKFA4TPBCX2ADXFLMMXK5PG51OVS3C3RL5I" as="#tipoSenatore">CANDIANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo il comma 2, inserire il seguente:</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Al fine di garantire il mantenimento di un livello di eccellenza in campo internazionale e di disporre costantemente di strumenti operativi tecnologica mente e scientificamente all'avanguardia, il decreto legislativo di cui al comma 1 promuove attività di ricerca scientifica, sviluppo tecnologico e trasferimento di conoscenze e competenze e stabilisce che il Dipartimento della protezione civile della Presidenza del Consiglio dei ministri:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 possa finanziare o partecipare a progetti di ricerca applicata inerenti alla mitigazione dei rischi;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 possa stipulare apposite convenzioni con i centri di competenza, come previsto dal decreto del Presidente del Consiglio dei ministri 14 settembre 2012, pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 38 del 14 febbraio 2013. L'individuazione delle attività oggetto delle convenzioni avviene in seguito alla definizione di una specifica necessità operativa da parte del Dipartimento della protezione civile, inquadrabile come attività di ricerca, e della formulazione di offerte economiche da parte dei soggetti interessati; l'individuazione del soggetto che ha presentato l'offerta qualitativamente ed economicamente migliore avviene a seguito di gara o procedimento di evidenza pubblica. Le attività possono essere inquadrate in programmi quadro pluriennali, rimodulabili annualmente. In ogni caso le convenzioni pluriennali non possono avere durata iniziale superiore a tre anni;
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 collabora con gli ordini professionali partecipando all'aggiornamento e alla formazione dei professionisti in materia di protezione civile;
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 collabora con le università, partecipando alla formazione degli studenti in materia di protezione civile mediante la tenuta di corsi e seminari;
+				</an:p>
+				<an:p>
+					<an:i>e)</an:i>
+					 promuove la partecipazione degli enti locali come utilizzatori finali nei programmi sviluppati nei centri di competenza, attivando specifici meccanismi premiali nelle procedure di finanziamento delle convenzioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

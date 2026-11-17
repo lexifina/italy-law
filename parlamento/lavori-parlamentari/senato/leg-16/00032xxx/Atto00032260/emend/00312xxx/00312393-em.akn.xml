@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/999/A/G103/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/999/A/G103"/>
+					<an:FRBRdate date="2008-10-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/999/A/G103/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G103"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/999/A/G103/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/999/A/G103/ita@"/>
+					<an:FRBRdate date="2008-10-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/999/A/G103/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/999/A/G103/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/999/A/G103/ita@.akn"/>
+					<an:FRBRdate date="2008-10-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/999/A/G103/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-10-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-10-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/999/A/G103/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/999" showAs="DDL 999"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25251" showAs="Armato"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22720" showAs="Bubbico"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/22740" showAs="Filippi"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25256" showAs="Andria"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22725" showAs="Carloni"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/580" showAs="Chiaromonte"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/25275" showAs="De Luca"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/4427" showAs="Follini"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/22980" showAs="Incostante"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/23020" showAs="Musi"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/23072" showAs="Sircana"/>
+				<an:TLCPerson id="EPC" href="http://dati.senato.it/senatore/10369" showAs="Villari"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 999</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G103</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Armato</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bubbico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Andria</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Carloni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Chiaromonte</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">De Luca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Follini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Incostante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Musi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Sircana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPC" as="#tipoSenatore">Villari</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge n. 999, di conversione del decreto-legge 28 agosto 2008, n. 134, recante disposizioni urgenti in materia di ristrutturazione di grandi imprese in crisi;</an:p>
+				<an:p align="justify">        premesso che,</an:p>
+				<an:p align="justify">            Atitech è una società di rilievo internazionale, con sede a Napoli Capodichino, specializzata nella manutenzione di aeromobili quali MD 80, DC-9, B-737, A-320 e ERJ 145 e 170, non solo di proprietà di AIitaIia ma anche di altre compagnie nazionali ed estere;</an:p>
+				<an:p align="justify">            la suddetta società, nata nel 1994 a seguito della fusione di ATI con Alitalia, impiega attualmeme 750 lavoratori, fra cui operai specializzati in elettronica e meccanica, operai strutturalisti addetti ad interventi sulle cellule degli aerei e tecnici addetti all'addestramento, che nel loro insieme formano una struttura con professionalità in grado di garantire la piena efficienza dei velivoli sui quali intervengono;</an:p>
+				<an:p align="justify">            Atitech ha raggiunto un livello di professionalità e capacità di intervento riconosciute a livello internazionale tale da consentirle non solo di offrire servizi di manutenzione globale, ma anche di pianificazione della gestione tecnica della flotta e di soddisfare le varie esigenze delle compagnie aeree;</an:p>
+				<an:p align="justify">            l'Atitech, insieme ad altre imprese operanti nell'indotto del settore del trasporto aereo, fa parte del Polo aeronautico campano, che rappresenta uno dei distretti industriali di maggior prestigio della Campania e del Mezzogiorno;</an:p>
+				<an:p align="justify">            considerato che l'aggravarsi della crisi Alitalia rischia di determinare un danno irreparabile per tutto il settore del trasporto aereo italiano, con conseguenze drammatiche anche per società altamente specializzate come Atitech e per i lavoratori da questa impiegati;</an:p>
+				<an:p align="justify">            nel mercato europeo ed extracomunitario vi sono pochi poli manutentivi con un livello qualitativo paragonabile a quello offerto dal Polo aeronautico campano, assolutamente competitivo e idoneo ad attrarre commesse da tutti i paesi, soprattutto del Mediterraneo;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a promuovere una forte iniziativa volta ad includere l'Atitech nel perimetro industriale della nuova compagnia di bandiera in via di formazione e a garantire il mantenimento in servizio di tutti i lavoratori da questa impiegati;</an:p>
+				<an:p align="justify">            a disporre tutti i provvedimenti necessari per rilanciare il Polo aeronautico campano, messo in crisi dalla recente vicenda di Alitalia.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

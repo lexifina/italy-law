@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/35.0.3"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="35.0.3"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@.akn"/>
+					<an:FRBRdate date="2017-06-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-06-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-06-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2853/A/35.0.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2853" showAs="DDL 2853"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUWCNHXNJWY0VKI5QIYCI0DKSZBHAXSXD1W5X2NGVKI0TQTXM3NWB" href="http://dati.senato.it/22863" showAs="BARANI"/>
+				<an:TLCPerson id="IDSNV1IOTS1TC0NIMHKTAULFNTBUAY22YAHYLGGIQQD23ZZKNSLL" href="http://dati.senato.it/29114" showAs="LANGELLA"/>
+				<an:TLCPerson id="IDBJPQZJGDE203LLDJP2KBHK0GDJISTQ4WQ3B0MHEDBRC2QRSCIMNC" href="http://dati.senato.it/29212" showAs="PICCINELLI"/>
+				<an:TLCPerson id="IDFV3LLDIGVCEGKEOKNO3VMT0FZF5HRBKPUUMFXGKL0DCFC3PJ30OJ" href="http://dati.senato.it/25458" showAs="MILO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2853</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 35.0.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUWCNHXNJWY0VKI5QIYCI0DKSZBHAXSXD1W5X2NGVKI0TQTXM3NWB" as="#tipoSenatore">BARANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSNV1IOTS1TC0NIMHKTAULFNTBUAY22YAHYLGGIQQD23ZZKNSLL" as="#tipoSenatore">LANGELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBJPQZJGDE203LLDJP2KBHK0GDJISTQ4WQ3B0MHEDBRC2QRSCIMNC" as="#tipoSenatore">PICCINELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFV3LLDIGVCEGKEOKNO3VMT0FZF5HRBKPUUMFXGKL0DCFC3PJ30OJ" as="#tipoSenatore">MILO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 35-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p>        1. l concessionari della riscossione iscritti all'albo-nazionale dei cui all'articolo 53 del decreto legislativo 446/1997 e le società partecipate pubbliche sono autorizzati ad organizzare corsi di formazione a personale assunto per le funzioni connesse alle attività della riscossione. Al termine del corso al personale reclutato, superata la prova di idoneità, valutata da apposita commissione presieduta da personale direttivo dell'Agenzia dell'Entrate, viene attribuito il titolo di ufficiale della riscossione nelle previsioni della legge 106/2011.</an:p>
+				<an:p>        2. Con decreto del Ministero dell'Economia e delle Finanze, agli ufficiali della riscossione sono attribuite rispettive competenze tecniche e di compensi professionali per le attività svolte.</an:p>
+				<an:p>        3. Gli enti locali procedono all'affidamento del servizio di riscossione dei tributi locali nel rispetto dell'articolo 60 del decreto legislativo 50/2016.</an:p>
+				<an:p>        4. Dalle disposizioni di cui ai commi precedenti non devono derivare oneri a carico della finanza pubblica».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

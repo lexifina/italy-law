@@ -1,0 +1,11 @@
+TABELLA N. 7
+
+MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITA' E DELLA RICERCA
+
+Parte di provvedimento in formato grafico
+
+RIEPILOGO
+
+MINISTERO DELL'ISTRUZIONE, DELL'UNIVERSITA' E DELLA RICERCA
+
+Parte di provvedimento in formato grafico

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/G5.101/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/G5.101"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/866/A/G5.101/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G5.101"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@.akn"/>
+					<an:FRBRdate date="2008-07-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2008-07-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2008-07-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/866/A/G5.101/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/866" showAs="DDL 866"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25231" showAs="Fioroni"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22" showAs="Agostini"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/17586" showAs="Di Girolamo"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/25223" showAs="Gustavino"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22755" showAs="Lusi"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17750" showAs="Pinotti"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 866</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G5.101</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Fioroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Agostini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Di Girolamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Gustavino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Lusi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Pinotti</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato, in sede di approvazione del disegno di legge di conversione del decreto-legge 27 maggio 2008, n. 93, recante disposizioni urgenti per salvaguardare il potere d'acquisto delle famiglie,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il decreto-legge in esame dispone all'articolo 5, comma 1, nell'allegato elenco n. 1, una riduzione di autorizzazione di spesa, prevista dall'articolo 2 comma 435, della legge finanziaria per il 2008, pari a 7 milioni di euro per l'anno 2008 e a 10 milioni di euro rispettivamente per gli anni 2009 e 2010;</an:p>
+				<an:p align="justify">            in particolare, tali tagli riguardano i finanziamenti statali di cui beneficiano le Accademie di Belle Arti, tra cui l'Accademia di Belle Arti Vannucci di Perugia e l'Accademia di Belle Arti di Genova;</an:p>
+				<an:p align="justify">            considerato che il taglio delle risorse comprometterebbe irrimediabilmente la gestione ordinaria delle suddette Accademie, e precluderebbe ogni possibilità di fare progetti e programmi a lunga scadenza;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            a valutare gli effetti derivanti dalla norma citata in premessa allo scopo di adottare ulteriori iniziative normative volte ad individuare fonti alternative di finanziamento e a scongiurare il previsto definanziamento del settore dell'alta formazione artistica e musicale, che penalizzerebbe in particolare importanti istituti culturali quali l'Accademia di Belle Arti Vannucci di Perugia e l'Accademia di Belle Arti di Genova.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

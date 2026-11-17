@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/C/65.0.5"/>
+					<an:FRBRdate date="2007-11-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="65.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@"/>
+					<an:FRBRdate date="2007-11-02" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@.akn"/>
+					<an:FRBRdate date="2007-11-02" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2007-11-02"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2007-11-02" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/15/Emend/S/1817/C/65.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/15/1817" showAs="DDL 1817"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/12608" showAs="Palermi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/17881" showAs="Bulgarelli"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22766" showAs="Pecoraro Scanio"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/11134" showAs="Pellegatta"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/22808" showAs="Silvestri"/>
+				<an:TLCPerson id="EIC" href="http://dati.senato.it/senatore/22809" showAs="Tibaldi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1817</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 65.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Palermi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Pecoraro Scanio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Pellegatta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Silvestri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EIC" as="#tipoSenatore">Tibaldi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo</an:i>
+					<an:b>l'articolo 65,</an:b>
+					<an:i>aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:b>
+						Art. 65-
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Disposizioni in materia di formazione, previdenza integrativa, accesso al credito, sostegno al reddito dei lavoratori iscritti alla gestione separata INPS di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, non titolari di pensione e non iscritti ad altre forme previdenziali obbligatorie)</an:i>
+				</an:p>
+				<an:p>        1. Per i soggetti iscritti alla gestione separata INPS di cui all'articolo 2, comma 26, della legge 8 agosto 1995, n. 335, non titolari di pensione e non iscritti ad altre forme previdenziali obbligatorie, con effetto dal 1º gennaio 2008, il contributo aggiuntivo previsto dall'art. 59, comma 16, della legge 27 dicembre 1997, n. 449, fissato nella misura dello 0,5 per cento è aumentato dello 0,5 per cento all'anno per gli anni 2008, 2009 e 2010 e sarà a totale carico dei datori di lavoro.</an:p>
+				<an:p>        2. Le risorse aggiuntive di cui al comma 1, fermo restando l'attuale destinazione dello 0,5 per cento presso l'INPS, sono destinate per interventi a favore dei lavoratori di cui al comma 1 in particolare, a promuovere percorsi di qualificazione, riqualificazione e riconoscimento professionale anche in funzione di continuità di occasioni di impiego e a prevedere misure integrative di carattere previdenziale e sanitario e di accesso al credito.</an:p>
+				<an:p>        3. I contributi di cui al comma 1 sono rimessi a un fondo bilaterale appositamente costituito, dalle parti sociali così come individuate nel comitato di gestione separata istituito presso l'INPS in base a quanto stabilito all'articolo 58 della legge 17 maggio 1999, n. 144:</an:p>
+				<an:p>
+					        
+					<an:i>a)</an:i>
+					 come soggetto giuridico di natura associativa ai sensi dell'articolo 36 del codice civile;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 come soggetto dotato di personalità giuridica ai sensi dell'articolo 12 del codice civile con procedimento per il riconoscimento rientrante nelle competenze del Ministro del lavoro e delle politiche sociali ai sensi dell'articolo 2, comma 1, della legge 12 gennaio 1991, n. 13.
+				</an:p>
+				<an:p>        4. I fondi di cui al comma 1 sono attivati a seguito di autorizzazione del Ministero del lavoro e delle politiche sociali, previa verifica della congruità, rispetto alle finalità istituzionali previste al comma 2, dei criteri di gestione e delle strutture di funzionamento del fondo stesso, con particolare riferimento alla sostenibilità finanziaria complessiva del sistema. Il Ministero del lavoro e delle politiche sociali esercita la vigilanza sulla gestione dei fondi.</an:p>
+				<an:p>        5. All'eventuale adeguamento del contributo di cui ai al comma 1 si provvede con decreto del Ministro del lavoro e delle politiche sociali previa verifica con le parti sociali da effettuare decorsi due anni dalla entrata in vigore della presente norma.</an:p>
+				<an:p>        6. In caso di omissione, anche parziale, dei contributi di cui al comma 1, il datore di lavoro è tenuto a corrispondere, oltre al contributo omesso e alle relative sanzioni, una somma a titolo di sanzione amministrativa, di importo pari a quella del contributo omesso; gli importi delle sanzioni amministrative sono versati al fondo di cui al comma 2.».</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

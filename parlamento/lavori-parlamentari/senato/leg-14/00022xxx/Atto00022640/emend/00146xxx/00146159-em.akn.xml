@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3328/A/10.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3328/A/10.200"/>
+					<an:FRBRdate date="2005-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3328/A/10.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.200"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@"/>
+					<an:FRBRdate date="2005-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@.akn"/>
+					<an:FRBRdate date="2005-10-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-10-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-10-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3328/A/10.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3328" showAs="DDL 3328"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3888" showAs="Pasquini"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/2434" showAs="Turci"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/384" showAs="Brunale"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/3851" showAs="Maconi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/4377" showAs="Chiusoli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3328</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pasquini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Turci</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Brunale</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Maconi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Chiusoli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, lettera</an:i>
+					 a)
+					<an:i>, sostituire il capoverso 2-</an:i>
+					bis 
+					<an:i>con il seguente:</an:i>
+				</an:p>
+				<an:p align="justify">
+					<an:i/>
+					        2-
+					<an:i>bis.</an:i>
+					 La CONSOB, sentita, per le banche, la Banca d'Italia, stabilisce disposizioni volte a prevenire l'insorgere di conflitti d'interessi nella prestazione dei servizi d'investimento. A questo fine, essa prescrive che i diversi servizi d'investimento siano prestati da strutture organizzative distinte tra loro e, per le banche, distinte anche da quella deputata all'esercizio dell'attività bancaria, determinando criteri organizzativi volti ad assicurare la separazione dei diversi servizi esercitati e l'effettiva autonomia decisionale dei responsabili di viascuna struttura. la gestione del portafoglio dei prodotti finanziari di proprietà della banca o dell'intermediario deve essere comunque attribuita a un'apposita unità organizzativa»;
+				</an:p>
+				<an:p align="justify">        Conseguentemente, al medesimo comma, sostituire la lettera b) con la seguente:</an:p>
+				<an:p align="justify">
+					            «
+					<an:i>b)</an:i>
+					  dopo l'articolo 190 è inserito il seguente:
+				</an:p>
+				<an:p align="justify">
+					        "Art. 190-
+					<an:i>bis. - (Sanzioni per l'inosservanza delle norme sulla separazione organizzativa). - 1.</an:i>
+					 i soggetti abilitati, i quali non osservano le disposizioni previste dall'articolo 6, comma 2-
+					<an:i>bis</an:i>
+					, ovvero le disposizioni generali o particolari emanate in base al medesimo comma dalla CONSOB, sono puniti con la sanzione amministrativa pecuniaria da cinquantamila euro a cinquecentomila euro nonchè, nei casi più gravi, con la sospensione da quindici a sessanta giorni, o con la revoca dell'autorizzazione all'esercizio dei servizi d'investimento. La revoca è disposta dal Ministro dell'economia e delle finanze su proposta della CONSOB, sentita, per le banche, la Banca d'Italia.
+				</an:p>
+				<an:p align="justify">        2. Si applicano le disposizioni dell'articolo 190, commi 3 e 4"».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

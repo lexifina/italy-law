@@ -1,0 +1,17 @@
+VITTORIO EMANUELE III
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D' ITALIA
+
+In virtu' della delegazione dei poteri conferiti al Governo con la legge 3 dicembre 1922, n. 1661;
+
+Visto il testo unico delle leggi doganali, approvato con R. decreto 26 gennaio 1896, n. 20, e la legge 12 luglio 1912, n. 812;
+
+Visto il testo unico delle leggi sulle privative dei sali, tabacchi, approvato col R. decreto 15 giugno 1865, numero 2397;
+
+Viste le altre leggi tributarie in materia di bollo, produzione, consumo, lusso e scambi, ecc, che attribuiscono quote di riparto dei prodotti contravvenzionali a coloro che hanno scoperta o sorpresa la contravvenzione o la frode;
+
+Sentito il Consiglio dei ministri;
+
+Sulla proposta del Nostro ministro segretario di Stato per le finanze; Abbiamo decretato e decretiamo:

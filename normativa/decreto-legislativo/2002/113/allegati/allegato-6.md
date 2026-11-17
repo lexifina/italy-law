@@ -1,0 +1,33 @@
+Allegato 6
+
+(Art. 267)
+
+Diritto di copia senza certificazione di conformita'
+
+Numero pagine
+
+Diritto di copia forfettizzato
+
+1-4
+
+euro 0,77
+
+5-10
+
+euro 1,55
+
+11-20
+
+euro 3,10
+
+21-50
+
+euro 6,20
+
+51-100
+
+euro 12,39
+
+Oltre le 100
+
+euro 12,39 piu' euro 5,16 ogni ulteriori 100 pagine o frazione di 100

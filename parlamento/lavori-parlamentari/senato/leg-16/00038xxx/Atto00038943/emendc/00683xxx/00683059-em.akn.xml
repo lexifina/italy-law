@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3519/C/2.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3519/C/2.8"/>
+					<an:FRBRdate date="2012-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3519/C/2.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@"/>
+					<an:FRBRdate date="2012-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@.akn"/>
+					<an:FRBRdate date="2012-11-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-11-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-11-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3519/C/2.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3519" showAs="DDL 3519"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Finanze e tesoro" href="/dati.senato.it/osr/Commissione/6"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/28899" showAs="Vedani"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3519</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Vedani</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, sostituire la lettera</an:i>
+					 b) 
+					<an:i>con la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>b)</an:i>
+					 assicurare la cooperazione tra l'amministrazione finanziaria e i comuni nella gestione del catasto, in coerenza con l'assetto decentrato delle funzioni operative catastali previsto dalle vigenti normative nonché intervenire attraverso specifiche misure per:
+				</an:p>
+				<an:p>                1. valorizzare e stabilizzare le esperienze di decentramento già avviate in via sperimentale;</an:p>
+				<an:p>                2. estendere, progressivamente, le esperienze di cui al punto precedente proponendo modelli gestionali flessibili ed adatta bili alle specificità dei diversi territori, anche incentivando le gestioni associate previste dalla legge;</an:p>
+				<an:p>                3. potenziare e semplificare l'accessibilità dei Comuni, dei professionisti e dei cittadini ai dati catastali e della pubblicità immobiliare, attraverso l'integrazione dei dati immobiliari e l'interoperabilità dei sistemi informativi pubblici locali, regionali e centrali in materia catastale e territoriale;</an:p>
+				<an:p>                4. definire soluzioni sostenibili in materia di ripartizione delle dotazioni di risorse umane, materiali e finanziarie dei soggetti che esercitano le funzioni catastali, in modo coerente con l'attuazione del processo di decentramento;</an:p>
+				<an:p>                5. semplificare le procedure di esercizio delle funzioni catastali decentrate, ivi comprese le procedure di regolarizzazione degli immobili di proprietà pubblica e di incasso e riversamento dei diritti e dei tributi speciali catastali, al fine di adattarle al contesto organizzativo e contabile degli enti locali;».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

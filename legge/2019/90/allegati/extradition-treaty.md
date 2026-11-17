@@ -1,7 +1,0 @@
-EXTRADITION TREATY
-
-between the Republic of Italy and the
-
-Republic of Kazakhstan
-
-Parte di provvedimento in formato grafico

@@ -1,0 +1,7 @@
+LEGGE
+
+15 giugno 1985
+
+287
+
+Conversione in legge del decreto-legge 13 maggio 1985, n. 176, recante misure urgenti in materia di limite di eta' per il collocamento in congedo dei sottufficiali e dei militari di truppa del Corpo degli agenti di custodia.

@@ -1,0 +1,3 @@
+Accord entre la Reepublique Italienne et la Confederation Suisse concernant le financement de travaux en vue du developpement et de l'electrification de certaines lignes des "Ferrovie italiane dello Stato" accedant a' la Suisse.
+
+Parte di provvedimento in formato grafico

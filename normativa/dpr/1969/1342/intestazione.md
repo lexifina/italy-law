@@ -1,0 +1,7 @@
+DECRETO DEL PRESIDENTE DELLA REPUBBLICA
+
+30 ottobre 1969
+
+1342
+
+Modificazioni allo statuto dell'Universita' degli studi di Bari.

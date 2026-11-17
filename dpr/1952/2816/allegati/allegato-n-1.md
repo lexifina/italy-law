@@ -1,5 +1,0 @@
-ALLEGATO N. 1
-
-Elenco dei terreni intestati alla ditta Societa' anonima agricola immobiliare "Sorano", con sede in Roma, in comune di Sorano (provincia di Grosseto), trasferiti in proprieta' all'Ente per la colonizzazione della Maremma tosco-laziale e del territorio del Fucino, a norma delle leggi 12 maggio 1950, n. 230, 21 ottobre 1950, n. 841 e decreto Presidenziale 7 febbraio 1951, n. 66.
-
-Parte di provvedimento in formato grafico

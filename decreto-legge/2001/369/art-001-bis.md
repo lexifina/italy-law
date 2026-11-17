@@ -1,3 +1,0 @@
-Art. 1-bis.
-
-(( ARTICOLO ABROGATO DAL D.LGS. 22 GIUGNO 2007, N. 109 ))

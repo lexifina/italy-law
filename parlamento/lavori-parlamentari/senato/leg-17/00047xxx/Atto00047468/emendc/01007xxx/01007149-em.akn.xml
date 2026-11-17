@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2603/C/1.25/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2603/C/1.25"/>
+					<an:FRBRdate date="2018-01-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2603/C/1.25/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.25"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@"/>
+					<an:FRBRdate date="2018-01-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@.akn"/>
+					<an:FRBRdate date="2018-01-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2603/C/1.25/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2603" showAs="DDL 2603"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="8ª Commissione permanente" href="/dati.senato.it/osr/Commissione/8"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQYRKU3V0ZH5KGEVP14SORJCQKKKQZCMSHP3VRBN1C3GFTBYRFTFH" href="http://dati.senato.it/23035" showAs="PELINO"/>
+				<an:TLCPerson id="IDH5WKT3JHE1RKH2QUGCUPUDIYBNAIFLF3C1XH22CLXIYM3UMTQ1M" href="http://dati.senato.it/25412" showAs="Mariarosaria ROSSI"/>
+				<an:TLCPerson id="IDDNOQJMABRDTXK2FJPNTB3YLL2DS54FWLMBVSUXPUEJS0ZGECB5FL" href="http://dati.senato.it/25491" showAs="GIBIINO"/>
+				<an:TLCPerson id="IDEXDQA5JWPHTFGNI2KBV1Y2HSKBZPJYN5TGEKVMD4XTM3VLZURJGO" href="http://dati.senato.it/25568" showAs="ARACRI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2603</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.25</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQYRKU3V0ZH5KGEVP14SORJCQKKKQZCMSHP3VRBN1C3GFTBYRFTFH" as="#tipoSenatore">PELINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH5WKT3JHE1RKH2QUGCUPUDIYBNAIFLF3C1XH22CLXIYM3UMTQ1M" as="#tipoSenatore">Mariarosaria ROSSI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDNOQJMABRDTXK2FJPNTB3YLL2DS54FWLMBVSUXPUEJS0ZGECB5FL" as="#tipoSenatore">GIBIINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEXDQA5JWPHTFGNI2KBV1Y2HSKBZPJYN5TGEKVMD4XTM3VLZURJGO" as="#tipoSenatore">ARACRI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 3, dopo le parole:</an:i>
+					 «all'aggiornamento delle proprie liste» 
+					<an:i>aggiungere, in fine, le seguenti:</an:i>
+					 «fatto salvo quanto stabilito dall'articolo 2, comma 3, e dall'articolo 7, comma 3, del regolamento di cui al decreto del Presidente della Repubblica 7 settembre 2010, n. 178».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

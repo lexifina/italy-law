@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/C/22.17/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/C/22.17"/>
+					<an:FRBRdate date="2020-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1766/C/22.17/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="22.17"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@"/>
+					<an:FRBRdate date="2020-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@.akn"/>
+					<an:FRBRdate date="2020-04-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-04-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-04-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1766/C/22.17/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1766" showAs="Ddl 1766"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32625" showAs="Vasco Errani"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/17578" showAs="Loredana De Petris"/>
+				<an:TLCPerson id="ID0EVB" href="http://dati.senato.it/29450" showAs="Francesco Laforgia"/>
+				<an:TLCPerson id="ID0E6B" href="http://dati.senato.it/29110" showAs="Pietro Grasso"/>
+				<an:TLCPerson id="ID0EJC" href="http://dati.senato.it/29147" showAs="Paola Nugnes"/>
+				<an:TLCPerson id="ID0ETC" href="http://dati.senato.it/35106" showAs="Sandro Ruotolo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1766</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 22.17</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Errani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">De</an:span>
+					 
+					<an:span style="font-variant:small-caps;">Petris</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EVB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Laforgia</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E6B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Grasso</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EJC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Nugnes</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ETC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ruotolo</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modificazioni:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        a) 
+					<an:i>Dopo il comma 2 inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					        «
+					<an:i>2</an:i>
+					<an:i>-bis</an:i>
+					. I lavoratori intermittenti senza obbligo di rispondere alla chiamate, nell'impossibilità di accedere in concreto alle ordinarie misure di integrazione salariale per mancanza di chiamate emergenti, in alternativa all'indennità di cui all'art. 3 8, in costanza di rapporto di lavoro accedono direttamente alle misure di cui al comma 1, secondo la media delle giornate effettuate negli ultimi 12 mesi»;
+				</an:p>
+				
+
+				<an:p>
+					        b) 
+					<an:i>Al comma 3, sostituire le parole:</an:i>
+					 «3.293,2 milioni di euro» 
+					<an:i>con le seguenti:</an:i>
+					 «3.403, 2 milioni di euro».
+				</an:p>
+				
+
+				<an:p>
+					        c) 
+					<an:i>Al comma 8, aggiungere, infine, le seguenti parole:</an:i>
+					 «, comma 4.»
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

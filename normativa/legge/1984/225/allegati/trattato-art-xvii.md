@@ -1,0 +1,11 @@
+ARTICOLO XVII.
+
+(Estradizione semplificata)
+
+Se la persona richiesta, dopo essere stata resa edotta da un giudice o da un magistrato competente del suo diritto ad un procedimento formale ed alla protezione concessale ai sensi del presente Trattato, acconsente, irrevocabilmente e per iscritto, di essere consegnata alla Parte richiedente, la Parte richiesta puo' consegnare tale persona senza procedimento formale. ((1))
+
+------------
+
+AGGIORNAMENTO (1)
+
+La Corte Costituzionale, con sentenza 25-27 giugno 1996, n. 223 (in G.U. 1a s.s. 3/7/1996, n. 27) ha dichiarato "l'illegittimita' costituzionale della legge 26 maggio 1984, n. 225 (Ratifica ed esecuzione del trattato di estradizione tra il Governo della Repubblica italiana ed il Governo degli Stati Uniti d'America, firmato a Roma il 13 ottobre 1983), nella parte in cui da' esecuzione all'art. IX del trattato di estradizione ora citato".

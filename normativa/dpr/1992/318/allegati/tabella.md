@@ -1,0 +1,3 @@
+TABELLA DELLE IMPRONTE DEI PUNZONI PER IL MARCHIO DEI METALLI PREZIOSI
+
+Parte di provvedimento in formato grafico

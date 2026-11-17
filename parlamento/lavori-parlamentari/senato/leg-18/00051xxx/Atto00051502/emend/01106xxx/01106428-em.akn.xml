@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G14.1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@.akn"/>
+					<an:FRBRdate date="2019-03-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-03-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-03-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1018-B/A/G14.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1018-B" showAs="DDL 1018-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJD31CGVPEQYJHDLYZ5PSCNHDJNGLNSTSBY2RUWHC4QLULSBFDSPD" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+				<an:TLCPerson id="IDLQ0GN4115RGCHHMO5BFSE1ZBFWRCKC5RH1MF0LZA42EMKLZ1KBO" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDKYDDKIQE4YBMNMJP1U33GCC3VJPR3GLHHPBKFPMYNJGLSMLSEYXI" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDMUVRBWOPJ5ICFEO4CC2HPKZIYJIASJLSW4FLRUNFSKFLIGABVHAP" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1018-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G14.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJD31CGVPEQYJHDLYZ5PSCNHDJNGLNSTSBY2RUWHC4QLULSBFDSPD" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLQ0GN4115RGCHHMO5BFSE1ZBFWRCKC5RH1MF0LZA42EMKLZ1KBO" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKYDDKIQE4YBMNMJP1U33GCC3VJPR3GLHHPBKFPMYNJGLSMLSEYXI" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMUVRBWOPJ5ICFEO4CC2HPKZIYJIASJLSW4FLRUNFSKFLIGABVHAP" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            il decreto legge n. 4 del 2019 prevede alcune deroghe all'applicazione della cosiddetta «legge Fornero» (articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214), sul pensionamento: l'anticipo dell'età di pensionamento con le disposizioni di «Quota 100» con 62 anni di età e 38 anni di contributi, la proroga delle misure dell'Ape sociale e di Opzione donna, ma non risolve il problema dei lavoratori rimasti senza lavoro e che non possono accedere alla pensione in seguito dell'introduzione delle disposizioni della legge Fornero;</an:p>
+				<an:p>            infatti, ancora circa 6.000 lavoratori che hanno sottoscritto accordi di incentivo all'esodo prima della data di entrata in vigore dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, facendo affidamento sulla normativa vigente alla data degli accordi, non sono stati inclusi nelle otto misure di salvaguardia predisposte negli ultimi anni;</an:p>
+				<an:p>            in considerazione del limitato utilizzo della misura di salvaguardia prevista dall'articolo 1, commi da 214 a 218 della legge 11 dicembre 2016, n. 232, ai fini dell'accesso al pensionamento secondo i requisiti e le decorrenze vigenti prima della data di entrata in vigore dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, è possibile, nei limiti e mediante l'utilizzo delle accertate economie, provvedere a risolvere tale problema,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a prendere le opportune iniziative per dare una soluzione definitiva al problema dei circa 6.000 cosiddetti «esodati» di cui in premessa.</an:p>
+				<an:p>________________</an:p>
+				<an:p>(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

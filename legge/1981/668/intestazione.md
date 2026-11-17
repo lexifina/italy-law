@@ -1,7 +1,0 @@
-LEGGE
-
-07 ottobre 1981
-
-668
-
-Ratifica ed esecuzione del secondo accordo aggiuntivo alla convenzione fra la Repubblica italiana e la Confederazione svizzera relativa alla sicurezza sociale, del 14 dicembre 1962, firmato a Berna il 2 aprile 1980.

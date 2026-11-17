@@ -1,0 +1,15 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visto il decreto del Presidente della Repubblica, 9 agosto 1956, n. 1250, che approva la tabella delle circoscrizioni territoriali della Marina mercantile;
+
+Visto il regio decreto 25 novembre 1937, n. 2360;
+
+Visto l'art. 16 del Codice della navigazione, approvato con regio decreto 30 marzo 1942, n. 327;
+
+Visti gli articoli 1 e 2° del regolamento per l'esecuzione del Codice della navigazione (navigazione marittima), approvato con decreto del Presidente della Repubblica 15 febbraio 1952, n. 328;
+
+Udito il parere del Consiglio di Stato;
+
+Sentito il Consiglio dei Ministri;
+
+Sulla proposta del Ministro per la marina mercantile, di concerto con i Ministri per la grazia e giustizia, per la difesa e per il tesoro; Decreta:

@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3194/A/G3.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3194/A/G3.100"/>
+					<an:FRBRdate date="2012-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3194/A/G3.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@"/>
+					<an:FRBRdate date="2012-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@.akn"/>
+					<an:FRBRdate date="2012-03-30" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-03-30"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-03-30" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3194/A/G3.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3194" showAs="DDL 3194"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25201" showAs="Adamo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/23264" showAs="Bastico"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/262" showAs="Bianco"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/23422" showAs="Ceccanti"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/21507" showAs="Marino"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/16639" showAs="Sanna"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17660" showAs="Vitali"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3194</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Adamo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Bastico</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bianco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Ceccanti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Marino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Sanna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Vitali</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            l'articolo 3 del decreto-legge n. 5 del 2012 in corso di conversione introduce alcune misure in tema di riduzione degli oneri amministrativi;</an:p>
+				<an:p align="justify">            siffatte misure, anche a seguito di modifiche introdotte in sede referente, intervengono su materia nella quale si sono susseguiti diversi interventi normativi, costituiti non solo dal citato articolo 8, ma anche dalla legge n. 246 del 2005, dall'articolo 1 del decreto-legge n. 4 del 2006, dall'articolo 25 del decreto-legge n. 112 del 2008;</an:p>
+				<an:p align="justify">            le disposizioni recate dall'articolo 3, anche a seguito delle modifiche inserite in sede referente alla Camera, almeno relativamente all'anno 2012, recano previsioni che si intrecciano e in alcuni casi si sovrappongono con quelle previste da alcune delle disposizioni ricordate, rendendo opportuno un'armonizzazione delle differenti discipline;</an:p>
+				<an:p align="justify">
+					            in particolare è possibile riscontrare che dal punto di vista del coordinamento delle disposizioni del comma 1 (commi dal 2 al 2-
+					<an:i>septies</an:i>
+					 dell'articolo 8, legge n. 180 del 2011) con la normativa già vigente - come sopra accennato - si rileva che il procedimento per la rimozione degli oneri amministrativi che è introdotto si affianca al meccanismo del cosiddetto taglia-oneri amministrativi, già previsto dal citato articolo 25 del decreto-legge n. 112 del 2008, finalizzato alla misurazione degli oneri amministrativi derivanti da obblighi informativi nelle materie affidate alla competenza dello Stato ed alla loro riduzione;
+				</an:p>
+				<an:p align="justify">
+					            il coordinamento tra le disposizioni in corso di conversione e i riferimenti menzionati appare ancor più auspicabile in relazione alle ulteriori novelle introdotte nel corso dell'esame in sede referente con i commi da 3-
+					<an:i>bis</an:i>
+					 a 3-
+					<an:i>septies</an:i>
+					;
+				</an:p>
+				<an:p align="justify">
+					            tali commi, pur novellando il citato articolo 8 della legge n. 180 del 2011, introducono disposizioni in tema di programmazione e pianificazione, nelle pubbliche amministrazioni, per la riduzione degli oneri amministrativi, che sembrano anch'esse in parte sovrapponibili a quelle già vigenti dell'articolo 25 del decreto-legge n. 112 del 2008, convertito dalla legge 6 agosto 2008, n. 133, che vengono anche espressamente richiamate dai commi 3-
+					<an:i>ter</an:i>
+					, 3-
+					<an:i>sexies</an:i>
+					 e 3-
+					<an:i>septies</an:i>
+					 ponendo peraltro alcuni problemi di natura interpretativa;
+				</an:p>
+				<an:p align="justify">        valutato altresì che:</an:p>
+				<an:p align="justify">            l'intento del Governo, certamente apprezzabile, è quello di procedere con una riduzione degli oneri amministrativi in materia di VIR;</an:p>
+				<an:p align="justify">        impegna il Governo a:</an:p>
+				<an:p align="justify">            predisporre tutti le iniziative volte a valutare le modalità per individuare e risolvere le antinomie e sovrapposizioni che l'articolo 3 del decreto-legge genera rispetto alla legislazione vigente, tenendo presente che l'intento principale è quello di pervenire ad un'effettiva semplificazione degli oneri amministrativi in materia di Valutazione d'impatto della regolazione (VIR).</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

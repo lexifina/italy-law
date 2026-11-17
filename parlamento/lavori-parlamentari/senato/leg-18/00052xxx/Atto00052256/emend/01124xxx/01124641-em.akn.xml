@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1493/A/G4.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1493/A/G4.100"/>
+					<an:FRBRdate date="2019-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1493/A/G4.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@"/>
+					<an:FRBRdate date="2019-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@.akn"/>
+					<an:FRBRdate date="2019-11-06" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-11-06"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-11-06" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1493/A/G4.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1493" showAs="DDL 1493"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID50HEX34STMKRP4CS04FYPDZR1NLI4VVVC1WRMUM3VH31Q2MUJRCN" href="http://dati.senato.it/19244" showAs="AUGUSSORI"/>
+				<an:TLCPerson id="IDRRSNEDF5SR5LJSLEOXHFGVNAWMVW20OSW50XDNH2YTVUJDDB1MWP" href="http://dati.senato.it/18562" showAs="PIROVANO"/>
+				<an:TLCPerson id="IDRI1ACAA5VIG1KLWC3XWGXVVNSV45UDCRWM2GFNJMYJKVTZGFNFL" href="http://dati.senato.it/29185" showAs="STEFANI"/>
+				<an:TLCPerson id="IDM1XIYV0Y4ZGZNIUSF4X3RTRP1GKLIBVMVQ3CSYMM4RDXPN2TQZIM" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1493</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID50HEX34STMKRP4CS04FYPDZR1NLI4VVVC1WRMUM3VH31Q2MUJRCN" as="#tipoSenatore">AUGUSSORI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRRSNEDF5SR5LJSLEOXHFGVNAWMVW20OSW50XDNH2YTVUJDDB1MWP" as="#tipoSenatore">PIROVANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRI1ACAA5VIG1KLWC3XWGXVVNSV45UDCRWM2GFNJMYJKVTZGFNFL" as="#tipoSenatore">STEFANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDM1XIYV0Y4ZGZNIUSF4X3RTRP1GKLIBVMVQ3CSYMM4RDXPN2TQZIM" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 4 del decreto-legge 21 settembre 2019, n. 104, istituisce la Struttura tecnica per il controllo interno del Ministero delle infrastrutture e dei trasporti, al fine di potenziare il sistema dei controlli interni in materia di regolarità amministrativa e contabile e di controllo di gestione; per l'istituzione di tale struttura la citata disposizione destina 400.000 euro per il 2019 e 1,5 milioni di euro per il 2020;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            le funzioni attribuite a tale Struttura tecnica non sono del tutto chiare, anche alla luce delle ricostruzioni giornalistiche emerse rispetto ad una sua presunta competenza in materia di controllo sulle opere pubbliche e sulle infrastrutture;</an:p>
+				<an:p>            un'eventuale competenza in materia di controllo sulle opere pubbliche e sulle infrastrutture sarebbe superflua visto che il medesimo controllo è già effettuato da numerose strutture interne al Ministero, nonché « per diversi profili » dall'Autorità nazionale anti-corruzione (Anac),</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare approfonditamente l'opportunità di istituire tale Struttura tecnica per il controllo interno del Ministero delle infrastrutture e dei trasporti, in relazione alle effettive esigenze del Ministero, alle funzioni attribuite alla medesima, ed ai profili finanziari connessi alla sua istituzione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

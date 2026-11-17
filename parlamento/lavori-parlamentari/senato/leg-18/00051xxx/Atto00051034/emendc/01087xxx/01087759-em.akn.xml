@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.2239/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.2239"/>
+					<an:FRBRdate date="2018-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.2239/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.2239"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@"/>
+					<an:FRBRdate date="2018-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@.akn"/>
+					<an:FRBRdate date="2018-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.2239/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDV3ZDXYAQVHXJDEHAJB2GNP2L0OFWLHAH5M1XC3FAVH4CIAH0KMGO" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID0H2GN14OSWE1NPJPKF343CPHNJYMEQP2I3TO0RNQDTFAFRJKPLMM" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="ID1ZRRBGM5W0ZVBL21UGLYJ1USIKVJJVYFQZ0NGB2E3O11QZRFMBB" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="ID0SDTJCZXMYS3P00RYQKL4GHDDCVV15RCB1KCOMBS2GBVT1NJXUZH" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.2239</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV3ZDXYAQVHXJDEHAJB2GNP2L0OFWLHAH5M1XC3FAVH4CIAH0KMGO" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0H2GN14OSWE1NPJPKF343CPHNJYMEQP2I3TO0RNQDTFAFRJKPLMM" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1ZRRBGM5W0ZVBL21UGLYJ1USIKVJJVYFQZ0NGB2E3O11QZRFMBB" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0SDTJCZXMYS3P00RYQKL4GHDDCVV15RCB1KCOMBS2GBVT1NJXUZH" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 415, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «415-
+					<an:i>bis</an:i>
+					. Fatto salvo quanto previsto dal comma 1 dell'articolo 8 del decreto legislativo 13 Aprile 2015, n. 65, al fine di procedere ad un complessivo processo di stabilizzazione del personale delle sezioni primavera allocate presso le scuole dell'infanzia pubbliche e comunali, il Ministro dell'istruzione, dell'università e della ricerca, con proprio decreto adottato di concerto con il Ministro dell'economia e delle finanze, previo parere delle Commissioni parlamentari competenti per materia e per le conseguenze di carattere finanziario, predispone un piano pluriennale di assunzioni di educatori e di docenti, da attuare a partire dall'anno scolastico 2019-2020. Agli oneri derivanti dal presente comma si provvede mediante corrispondente riduzione delle risorse di cui all'articolo 1, comma 39, della legge 13 Luglio 2015, n. 107».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1124/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1124"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1124/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1124"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1124/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0TCMFJ4WF44IRENIA2KZJVXXGSFO1U5IPIJYGDXF43RW1HSOCIJ" href="http://dati.senato.it/29604" showAs="VALENTE"/>
+				<an:TLCPerson id="IDGFE0PUHXANNMI1RX0AQKGR34PBDZGOFBVPTFARLWD3T1GTC1ZBLI" href="http://dati.senato.it/26041" showAs="FEDELI"/>
+				<an:TLCPerson id="IDIFJQBO2HWEWOBEE0HJBHBRYEMLGWMDYA4ABQKYE1JAKR2S15CCPH" href="http://dati.senato.it/18499" showAs="CIRINNA'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1124</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0TCMFJ4WF44IRENIA2KZJVXXGSFO1U5IPIJYGDXF43RW1HSOCIJ" as="#tipoSenatore">VALENTE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGFE0PUHXANNMI1RX0AQKGR34PBDZGOFBVPTFARLWD3T1GTC1ZBLI" as="#tipoSenatore">FEDELI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIFJQBO2HWEWOBEE0HJBHBRYEMLGWMDYA4ABQKYE1JAKR2S15CCPH" as="#tipoSenatore">CIRINNA'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 146 inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «146-
+					<an:i>bis</an:i>
+					. Al fine di applicare il contrasto di interessi tra contribuenti finalizzato alla lotta all'evasione e all'elusione fiscale e alla conseguente emersione o regolarizzazione contributiva e fiscale, al testo unico di cui al decreto del Presidente della Repubblica 22 dicembre 1986, n. 917, sono apportate le seguenti modificazioni:
+				</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					all'articolo 10, comma 2, le parole: «fino all'importo di lire 3.000.000», sono sostituite dalle seguenti: «fino all'importo di 5.000 euro»;
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					all'articolo 15, comma 1, lettera 
+					<an:i>i-septies)</an:i>
+					 le parole: "non superiore a 2.100 euro", sono sostituite dalle seguenti: "4.000 euro" e le parole "40.000 euro", sono sostituite dalle seguenti: "60.000 euro".
+				</an:p>
+				<an:p>
+					        146-
+					<an:i>ter</an:i>
+					. Agli oneri derivanti dalla disposizione di cui al comma 146-
+					<an:i>bis</an:i>
+					 pari a 100 milioni di euro a decorrere dall'anno 2019, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190, come rifinanziato dall'articolo 90, comma 2.»
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 138, sostituire le parole</an:i>
+					: «9.000 milioni di euro annui a decorrere dall'anno 2019» con le seguenti: «8.900 milioni di euro annui a decorrere dall'anno 2019».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

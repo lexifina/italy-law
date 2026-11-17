@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/20.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/20.11"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/20.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="20.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@.akn"/>
+					<an:FRBRdate date="2016-11-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/20.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0RVP4TA1KHEXB420EL3X14PN0IZ1DFOWOJPBAKEFBB0X2430MH5H" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="IDAQZTNEUJBDN0RDKKIBXR5PYOTFGESZ12LOY1OOMBVNKUY0QMRG" href="http://dati.senato.it/22899" showAs="CERONI"/>
+				<an:TLCPerson id="ID5HB3JWPA0IT4JH1CKH4YMJP25M055K2X3LAGY2EEAPGCSQCGD45O" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDSDLNGKSF3002MB4WNLZAYWHOODVLJBGHLI3LDNCXLL3W41G4QSYD" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 20.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0RVP4TA1KHEXB420EL3X14PN0IZ1DFOWOJPBAKEFBB0X2430MH5H" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAQZTNEUJBDN0RDKKIBXR5PYOTFGESZ12LOY1OOMBVNKUY0QMRG" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5HB3JWPA0IT4JH1CKH4YMJP25M055K2X3LAGY2EEAPGCSQCGD45O" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSDLNGKSF3002MB4WNLZAYWHOODVLJBGHLI3LDNCXLL3W41G4QSYD" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Al fine di agevolare la stipula di contratti assicurativi contro i rischi connessi ad eventi sismici, le risorse di cui al comma 1 sono utilizzate anche per agevolazioni nella forma di contributo in conto capitale alle imprese che svolgano la propria attività in territori classificati come zone sismiche di tipo 1 o di tipo 2 e che stipulino contratti di assicurazione contro i rischi suddetti. Con provvedimenti adottati ai sensi dell'articolo 2, comma 2, è individuata una metodologia di calcolo del contributo basata sul confronto tra l'importo del premio effettivamente pagato ed il minore importo che l'impresa avrebbe pagato se il premio fosse stato calcolato utilizzando i parametri di rischio relativi alle zone sismiche di tipo 3, come individuate ai sensi dell'ordinanza del Presidente del Consiglio dei Ministri del 28 aprile 2006, n. 3519. Le imprese richiedenti sono collocate in apposite graduatorie, stilate in ordine decrescente, secondo la misura percentuale del maggior onere sostenuto. A parità di collocazione in graduatoria, costituisce titolo di priorità l'ubicazione della struttura produttiva nel territorio dei comuni elencati nell'allegato 1 del presente decreto. Alla concessione delle agevolazioni di cui al presente comma provvedono i vicecommissari, ai sensi dell'articolo 1, comma 5».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 1, sostituire le parole:</an:i>
+					 «35 milioni di euro» 
+					<an:i>con le seguenti:</an:i>
+					 «40 milioni di euro».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

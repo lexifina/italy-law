@@ -1,0 +1,7 @@
+LEGGE
+
+29 novembre 1980
+
+843
+
+Ratifica ed esecuzione dello scambio di note tra l'Italia e la Jugoslavia concernente la modifica delle liste merceologiche "C" e "D" di cui agli accordi italo-jugoslavi del 31 marzo 1955, con allegato, effettuato a Roma il 7-10 febbraio 1978.

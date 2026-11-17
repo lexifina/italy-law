@@ -1,3 +1,0 @@
-Articolo XIV.
-
-Qualsiasi controversia sull'interpretazione o l'applicazione della presente Convenzione che insorgesse tra i due Stati sara' regolata per via diplomatica.

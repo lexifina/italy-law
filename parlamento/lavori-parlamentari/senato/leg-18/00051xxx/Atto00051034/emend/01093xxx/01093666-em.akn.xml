@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/12.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/12.1"/>
+					<an:FRBRdate date="2018-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/12.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="12.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@"/>
+					<an:FRBRdate date="2018-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@.akn"/>
+					<an:FRBRdate date="2018-12-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/12.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAHMT41MV5AVBFHCZSHCJ0TITOP4EGK15CGBIVWC0PKK2X5YGJG1K" href="http://dati.senato.it/25498" showAs="GARAVINI"/>
+				<an:TLCPerson id="IDACYWZ0KI1TIBIB1H5TFEW5WD0M1L0P3MONIWCRORX02QL5E10NBH" href="http://dati.senato.it/29194" showAs="VATTUONE"/>
+				<an:TLCPerson id="IDZGX03R5N354BMNTRGQTOWYT4APNFSEPT4YDFXQLIJA4TCPKPRXPD" href="http://dati.senato.it/32703" showAs="ROJC"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 12.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHMT41MV5AVBFHCZSHCJ0TITOP4EGK15CGBIVWC0PKK2X5YGJG1K" as="#tipoSenatore">GARAVINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDACYWZ0KI1TIBIB1H5TFEW5WD0M1L0P3MONIWCRORX02QL5E10NBH" as="#tipoSenatore">VATTUONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZGX03R5N354BMNTRGQTOWYT4APNFSEPT4YDFXQLIJA4TCPKPRXPD" as="#tipoSenatore">ROJC</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 9, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «9-
+					<an:i>bis</an:i>
+					. Dopo l'articolo 614 2-
+					<an:i>bis</an:i>
+					 del decreto legislativo del 15 marzo 2010, n. 66, è inserito il seguente: ''articolo 614 3-
+					<an:i>bis</an:i>
+					 - Nella prospettiva degli interventi di valorizzazione del personale civile contrattualizzato appartenente alle aree funzionali del Ministero della difesa in relazione alla peculiarità del suo impiego e al contributo fornito in termini di integrazione delle funzioni di difesa e sicurezza assicurate dal personale delle Forze annate, è istituito un Fondo integrativo del trattamento economico accessorio del personale civile della Difesa destinato a remunerare tale peculiare situazione di impiego e la complessità e variabilità dei nuovi compiti da assolvere. La dotazione finanziaria di detto Fondo integrativo, volto a prevedere compensi per il supporto fornito alle attività delle Forze Armate in tema di difesa e sicurezza nazionale, è pari a 21 milioni annui per il triennio 2019-2021 ed è ripartito attraverso la contrattazione collettiva nazionale integrativa. Agli oneri di cui ai presente comma si provvede, per gli anni 2019 e 2020, nei termini di cui all'art 1, comma 590, della legge 27 dicembre 2017, n. 205; per il 2021, mediante quota parte dei risparmi di cui all'articolo 11, comma 5, lettera 
+					<an:i>b)</an:i>
+					 del decreto legislativo 29 maggio 2017, n. 94''.
+				</an:p>
+				<an:p>
+					        9-
+					<an:i>ter</an:i>
+					. Al fine di soddisfare le esigenze di efficientamento e ammodernamento dello strumento militare, anche mediante mirati processi di razionale rimodulazione delle dotazioni organiche del personale civile del Ministero della difesa nonché nella prospettiva della valorizzazione di tale personale, il Ministero della difesa è autorizzato, nei limiti del 50 per cento delle posizioni disponibili in dotazione organica, a indire una o più procedure interne per il passaggio del personale inquadrato nella prima area funzionale all'area seconda, con profilo professionale di addetto e attribuzione della prima fascia retributiva d'inquadramento F1. Per le stesse finalità e con gli stessi limiti, il Ministero della difesa è autorizzato, nell'ambito dei posti disponibili e in relazione al fabbisogno, ad indire una o più procedure interne per il passaggio del personale inquadrato nella seconda area alla terza area funzionale con attribuzione della prima fascia retributiva d'inquadramento F1, qualora in possesso dei prescritti titoli di studio previsti per l'accesso dall'esterno alla terza area. Gli effetti economici e giuridici decorrono dalla completa definizione delle procedure selettive. Il rapporto tra posti riservati ai dipendenti e posti riservati agli accessi dall'esterno è fissato, in deroga a quanto previsto dall'articolo 22, comma 15, del decreto legislativo 25 maggio 2017, n. 75 e nell'ambito della medesima area funzionale, nella percentuale, rispettivamente, del 50 per cento e 50 per cento, computando in tale ultima percentuale anche gli accessi per procedure assunzionali finalizzate al 31 dicembre 2018. Per le finalità di cui al comma 9-
+					<an:i>bis</an:i>
+					, si provvede alla relativa copertura finanziaria a valere sulle facoltà assunzionali annuali del Ministero della difesa. Il Ministro dell'economia e delle finanze è autorizzato ad apportare, con propri decreti, le occorrenti variazioni di bilancio».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

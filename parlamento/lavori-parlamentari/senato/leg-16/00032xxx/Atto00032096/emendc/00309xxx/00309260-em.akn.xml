@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/949/47/5"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@.akn"/>
+					<an:FRBRdate date="2009-05-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2009-05-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2009-05-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/949/C/G/949/47/5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/949" showAs="DDL 949"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/17611" showAs="Monti"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/22945" showAs="Filippi"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22963" showAs="Garavaglia"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/17632" showAs="Franco"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/25217" showAs="Vaccari"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/22874" showAs="Bodega"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/22735" showAs="Divina"/>
+				<an:TLCPerson id="EDC" href="http://dati.senato.it/senatore/25218" showAs="Vallardi"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 949</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/949/47/5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Monti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Filippi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Garavaglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Franco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Bodega</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Divina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EDC" as="#tipoSenatore">Vallardi</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato ,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            l'articolo 11, come sostituito nel corso dell'esame in sede referente alla Camera dei deputati, prevede l'adozione di un piano nazionale di edilizia abitativa, «al fine di garantire su tutto il territorio nazionale i livelli minimi essenziali di fabbisogno abitativo per il pieno sviluppo della persona umana»;</an:p>
+				<an:p>            il Piano è rivolto ad un'ampia platea di categorie sociali svantaggiate, tra le quali compaiono, per la prima volta, gli studenti fuori sede e gli immigrati regolari a basso reddito residenti da almeno dieci anni nel territorio nazionale ovvero da almeno cinque anni nel territorio regionale;</an:p>
+				<an:p>
+					            la 
+					<an:i>ratio</an:i>
+					 perseguita dalla disposizione in titolo è quella di soddisfare il fabbisogno abitativo inteso come fondamentale diritto sociale di cui è titolare la persona, seppure subordinatamente al requisito della residenza o comunque della presenza di un legame con il territorio di riferimento;
+				</an:p>
+				<an:p>
+					            alla luce di tale impostazione, non si comprende perché gli immigrati regolari a basso reddito, pur considerando il requisito distintivo della residenza da almeno dieci anni nel territorio nazionale ovvero da almeno cinque anni nella Regione, siano stati collocati in una categoria distinta rispetto a quella dei nuclei familiari a basso reddito, anche monoparentali o monoreddito (lettera 
+					<an:i>a</an:i>
+					)), della quale naturalmente fanno parte;
+				</an:p>
+				<an:p>        impegna il Governo,</an:p>
+				<an:p>
+					            in sede di adozione del piano nazionale di edilizia abitativa di cui all'articolo 11, in ottemperanza al principio di eguaglianza di cui all'articolo 3 della Costituzione, a non operare discriminazioni nella definizione delle condizioni di basso reddito che costituiscono condizione di accesso prioritario alla prima casa per le categorie di cui alle lettere 
+					<an:i>a)</an:i>
+					 e 
+					<an:i>g)</an:i>
+					 del medesimo articolo 11, comma 2.
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

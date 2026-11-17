@@ -1,3 +1,0 @@
-Traite' de paix entre Haiti et l'Italie
-
-Parte di provvedimento in formato grafico

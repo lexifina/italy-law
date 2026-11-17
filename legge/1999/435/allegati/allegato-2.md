@@ -1,5 +1,0 @@
-ALLEGATO 2
-
-ELENCO DELLE FUNZIONI OBIETTIVO VARIATE
-
-Parte di provvedimento in formato grafico

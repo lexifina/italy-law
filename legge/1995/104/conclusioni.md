@@ -1,5 +1,0 @@
-La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
-
-Data a Roma, addi' 7 aprile 1995
-
-SCALFARO DINI, Presidente del Consiglio dei Ministri e Ministro del tesoro MASERA, Ministro del bilancio e della programmazione economica Visto, il Guardasigilli: MANCUSO AVVERTENZA: Il decreto-legge 8 febbraio 1995, n. 32, e' stato pubblicato nella Gazzetta Ufficiale - serie generale - n. 33 del 9 febbraio 1995. Nella Gazzetta Ufficiale n. 89 del 15 aprile 1995 sara' ripubblicato il testo del decreto-legge 8 febbraio 1995, n. 32, corredato delle relative note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217. ------------

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/5.0.27"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.0.27"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@.akn"/>
+					<an:FRBRdate date="2020-12-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-12-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-12-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1994/A/5.0.27/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1994" showAs="DDL 1994"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDE12UNTNP2HV5H03Q4OAJXCZ3ZG5D2OYZ3F4QXTIZYU3PA0SFF40D" href="http://dati.senato.it/32645" showAs="IANNONE"/>
+				<an:TLCPerson id="IDJE4HW02LN3FPHMYNCJN5LHJJBBPTMP2YUPP14SE0F1QXUSHAU1YJ" href="http://dati.senato.it/34485" showAs="CALANDRINI"/>
+				<an:TLCPerson id="IDMHJC1PNULZMPGQB0P35WIIAYLO4LAIQT5D00L3OZOIPBRKXDNKDK" href="http://dati.senato.it/32613" showAs="DE BERTOLDI"/>
+				<an:TLCPerson id="IDWZSHC3DKT1FHG2RR0CL2UKCAJMWYTHSOSJIJLYBPMCXL5J1X5GDJ" href="http://dati.senato.it/32898" showAs="DE CARLO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1994</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.0.27</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDE12UNTNP2HV5H03Q4OAJXCZ3ZG5D2OYZ3F4QXTIZYU3PA0SFF40D" as="#tipoSenatore">IANNONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJE4HW02LN3FPHMYNCJN5LHJJBBPTMP2YUPP14SE0F1QXUSHAU1YJ" as="#tipoSenatore">CALANDRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDMHJC1PNULZMPGQB0P35WIIAYLO4LAIQT5D00L3OZOIPBRKXDNKDK" as="#tipoSenatore">DE BERTOLDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWZSHC3DKT1FHG2RR0CL2UKCAJMWYTHSOSJIJLYBPMCXL5J1X5GDJ" as="#tipoSenatore">DE CARLO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 5-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Detrazione delle spese connesse a battesimi e prime comunioni)</an:i>
+				</an:p>
+				<an:p>        1. A decorrere dal 1º gennaio 2021, per le spese documentate, sostenute in Italia, per pagamenti connessi alla celebrazione del battesimo e della prima comunione, spetta una detrazione dall'imposta lorda nella misura del 25 per cento delle spese fino ad un ammontare complessivo delle stesse non superiore a 12.000 euro, da ripartire tra gli aventi diritto in cinque quote annuali di pari importo secondo le disposizioni dell'articolo 15 del testo unico delle imposte sui redditi, di cui al decreto del Presidente della Repubblica 27 dicembre 1986, n. 917, e successive modificazioni.</an:p>
+				<an:p>        2. Le spese di cui al comma 1 ammesse alla detrazione sono quelle relative al servizio di ristorazione o di catering, all'affitto dei locali, agli addobbi floreali, al servizio di trucco e acconciatura, al servizio fotografico.</an:p>
+				<an:p>        3. Agli oneri di cui al presente articolo, pari a 40 milioni di euro a decorrere dall'anno 2021, si provvede mediante corrispondente riduzione dello stanziamento del fondo speciale di parte corrente iscritto, ai fini del bilancio triennale 2020-2022, nell'ambito del programma ''Fondi di riserva e speciali'' della missione ''Fondi da ripartire'' dello stato di previsione del Ministero dell'economia e delle finanze per l'anno 2020, allo scopo parzialmente utilizzando l'accantonamento relativo al medesimo Ministero».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

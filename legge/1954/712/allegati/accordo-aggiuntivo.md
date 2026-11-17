@@ -1,3 +1,0 @@
-Accordo aggiuntivo
-
-((PROVVEDIMENTO ABROGATO DAL D.LGS. 13 DICEMBRE 2010, N. 212))

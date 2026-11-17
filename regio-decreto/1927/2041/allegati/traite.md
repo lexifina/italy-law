@@ -1,3 +1,0 @@
-Traite' de conciliation et de reglement judiciaire entre l'Italie et le Chili.
-
-Parte di provvedimento in formato grafico

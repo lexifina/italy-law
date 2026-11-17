@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto abbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 24 aprile 2006
+
+CIAMPI Berlusconi, Presidente del Consiglio dei Ministri La Malfa, Ministro per le politiche comunitarie Berlusconi, Ministro della salute (ad interim) Fini, Ministro degli affari esteri Castelli, Ministro della giustizia Tremonti, Ministro del-l'economia e delle finanze Visto, il Guardasigilli: Mastella

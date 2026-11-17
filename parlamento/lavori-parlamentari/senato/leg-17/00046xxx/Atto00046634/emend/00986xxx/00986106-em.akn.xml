@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2290/A/3.0.200"/>
+					<an:FRBRdate date="2016-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.200"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@"/>
+					<an:FRBRdate date="2016-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@.akn"/>
+					<an:FRBRdate date="2016-08-03" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-03"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-03" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2290/A/3.0.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2290" showAs="DDL 2290"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSSYYCY03JMJPICCHVKRFYSTQTP5KKEOBMLAMH2JFSWTQDWLA0LHF" href="http://dati.senato.it/29083" showAs="DE PIETRO"/>
+				<an:TLCPerson id="IDBLST3IQTUGXZCZFPHUHPZHKK4MPYY4QU1MV1OWHTWKGCT2OLS3FP" href="http://dati.senato.it/29181" showAs="SIMEONI"/>
+				<an:TLCPerson id="IDLB3M25OCBRREEXRQAZYRGK0C0MWVNAHQTVZGQHKYVMXFHZQMSTMO" href="http://dati.senato.it/29146" showAs="MUSSINI"/>
+				<an:TLCPerson id="IDSN255GCW55Y4KWCQUXM5B5VXOBSJHVKJLEH4FGSKN1PNYUCZWCO" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2290</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSSYYCY03JMJPICCHVKRFYSTQTP5KKEOBMLAMH2JFSWTQDWLA0LHF" as="#tipoSenatore">DE PIETRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBLST3IQTUGXZCZFPHUHPZHKK4MPYY4QU1MV1OWHTWKGCT2OLS3FP" as="#tipoSenatore">SIMEONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLB3M25OCBRREEXRQAZYRGK0C0MWVNAHQTVZGQHKYVMXFHZQMSTMO" as="#tipoSenatore">MUSSINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSN255GCW55Y4KWCQUXM5B5VXOBSJHVKJLEH4FGSKN1PNYUCZWCO" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Dopo l'articolo, aggiungere il seguente:</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Misure relative agli esercizi commerciali con superficie di vendita superiore a 400 mq)</an:i>
+				</an:p>
+				<an:p>        1. Gli esercizi commerciali con una superficie di vendita superiore a 400 metri quadrati hanno l'obbligo di devolvere le eccedenze alimentari a uno o più soggetti donatari.</an:p>
+				<an:p>        2. Entro quattro mesi dalla data di entrata in vigore della presente legge gli esercizi commerciali di cui al comma 1 hanno l'obbligo di concludere un accordo con uno o più soggetti donatari.</an:p>
+				<an:p>        3. Gli esercizi commerciali che ottemperano all'obbligo di cui al comma 2 sono inseriti in un apposito elenco elaborato, su base semestrale, dal Ministero dello sviluppo economico e pubblicato sul sito istituzionale del Ministero stesso, che ne cura il costante aggiornamento.</an:p>
+				<an:p>        4. Gli esercizi commerciali inseriti nell'elenco di cui al comma 3 possono utilizzare, a fini promozionali, la denominazione di «esercizio commerciale virtuoso.</an:p>
+				<an:p>        5. Gli esercizi commerciali inseriti nell'elenco di cui al comma 3 beneficiano delle eventuali agevolazioni stabilite dal Ministero dello sviluppo economico e indirizzate a tale categoria di soggetti».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

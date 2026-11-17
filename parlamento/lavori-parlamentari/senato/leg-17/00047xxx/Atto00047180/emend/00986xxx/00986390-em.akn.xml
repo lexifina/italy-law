@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2500/A/G1.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2500/A/G1.102"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2500/A/G1.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@.akn"/>
+					<an:FRBRdate date="2016-08-04" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-08-04"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-08-04" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2500/A/G1.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2500" showAs="DDL 2500"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDDDUE4MCP2VEDC1RYC3UKUBQFF12DWZHUEOJHOF2OT4ORFGZTMTJ" href="http://dati.senato.it/29055" showAs="BUCCARELLA"/>
+				<an:TLCPerson id="IDLWNMJFMVRCR1LN3W0JVME4EVKYKARI2EYHKAPDZ02I1JFWMYO0G" href="http://dati.senato.it/29075" showAs="CRIMI"/>
+				<an:TLCPerson id="IDSZRQ3TBYKWV2JFC5HA2X51I5KMJATBHGB2TYEMOC0JVHWPDZBC3I" href="http://dati.senato.it/29091" showAs="ENDRIZZI"/>
+				<an:TLCPerson id="IDZJDNOQ4RSSNCMU1TC1UVQ1HU2MAJEJ4MZDMRGXCHT0K0EDYAX2WK" href="http://dati.senato.it/29143" showAs="MORRA"/>
+				<an:TLCPerson id="IDFBKL3N2WCR5DFEDX3GIHUQTZNOMPXJICVQAA2GNRKZLMSWLOQBGI" href="http://dati.senato.it/29061" showAs="CAPPELLETTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2500</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDDUE4MCP2VEDC1RYC3UKUBQFF12DWZHUEOJHOF2OT4ORFGZTMTJ" as="#tipoSenatore">BUCCARELLA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDLWNMJFMVRCR1LN3W0JVME4EVKYKARI2EYHKAPDZ02I1JFWMYO0G" as="#tipoSenatore">CRIMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSZRQ3TBYKWV2JFC5HA2X51I5KMJATBHGB2TYEMOC0JVHWPDZBC3I" as="#tipoSenatore">ENDRIZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZJDNOQ4RSSNCMU1TC1UVQ1HU2MAJEJ4MZDMRGXCHT0K0EDYAX2WK" as="#tipoSenatore">MORRA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFBKL3N2WCR5DFEDX3GIHUQTZNOMPXJICVQAA2GNRKZLMSWLOQBGI" as="#tipoSenatore">CAPPELLETTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del decreto-legge n. 117 del 2016 che posticipa di sei mesi il termine a decorrere dal quale tutti gli atti del processo amministrativo dovranno essere sottoscritti con firma digitale;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            l'amministrazione della giustizia registra da tempo situazioni di carenza strutturale. ed organica che devono essere definitivamente superate. Numerosi esponenti dell'ordine giudiziario hanno apertamente denunciato il concreto rischio di collasso del sistema giustizia e ribadito che una efficace lotta alla criminalità organizzata interna ed internazionale sia ottenibile non solo con un adeguato impianto normativa, ma con una concreta ed efficace funzionalità degli uffici-giudiziari inquirente e giudicanti;</an:p>
+				<an:p>            mediante alcune disposizioni introdotte alla Camera il Ministero della giustizia viene autorizzato, per il triennio 2016-2018, ad assumere a tempo indeterminato fino a 1.000 unità di personale amministrativo non dirigenziale destinato a supporta re i processi di digitalizzazione degli uffici,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            ad assumere le opportune iniziative volte ad assicurare un ulteriore incremento delle dotazioni organiche dell'amministrazione della giustizia, attraverso un reclutamento straordinario di magistrati ordinari, cancellieri ed esperti informatici, in aggiunta alle facoltà assunzionali previste dalla legislazione esistente e dal presente decreto-legge, al fine di assicurare l'immediata e piena funzionalità degli Uffici Giudiziari, dell'UNEP e dell'Ufficio del Processo, nonché alfine di realizzare il programma di digitalizzazione degli uffici giudiziari mediante il reperimento delle professionalità occorrenti per le connesse innovazioni procedurali e tecnologiche;</an:p>
+				<an:p>            a rafforzare, conseguentemente, anche il presidio dell'amministrazione della giustizia nelle aree più esposte a situazioni di criminalità diffusa e organizzata, nella parallela prospettiva di recuperare all'attività giudiziaria sul territorio anche i magistrati in distacco presso i Ministeri e altre amministrazioni centrali e periferiche dello Stato.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

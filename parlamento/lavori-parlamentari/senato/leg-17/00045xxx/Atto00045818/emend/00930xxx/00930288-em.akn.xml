@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.11/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.11"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.11/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.11"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@.akn"/>
+					<an:FRBRdate date="2015-07-24" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-24"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-24" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1993/A/1.11/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1993" showAs="DDL 1993"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDAHZ1QC" href="http://dati.senato.it/senatore/29160" showAs="PETRAGLIA"/>
+				<an:TLCPerson id="IDAK01QC" href="http://dati.senato.it/senatore/29041" showAs="BAROZZINO"/>
+				<an:TLCPerson id="IDAJ01QC" href="http://dati.senato.it/senatore/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="IDA001QC" href="http://dati.senato.it/senatore/29068" showAs="CERVELLINI"/>
+				<an:TLCPerson id="IDAUZ1QC" href="http://dati.senato.it/senatore/22918" showAs="DE CRISTOFARO"/>
+				<an:TLCPerson id="IDAYY1QC" href="http://dati.senato.it/senatore/29186" showAs="STEFANO"/>
+				<an:TLCPerson id="IDAV01QC" href="http://dati.senato.it/senatore/29191" showAs="URAS"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1993</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.11</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAHZ1QC" as="#tipoSenatore">PETRAGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAK01QC" as="#tipoSenatore">BAROZZINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAJ01QC" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA001QC" as="#tipoSenatore">CERVELLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAUZ1QC" as="#tipoSenatore">DE CRISTOFARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAYY1QC" as="#tipoSenatore">STEFANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAV01QC" as="#tipoSenatore">URAS</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, alinea, sostituire le parole da: «enunciati nella», fino alla fine del comma, con le seguenti: «di adeguatezza e di conservazione nel tempo del valore delle prestazioni previdenziali, al comma 25 dell'articolo 24 del decreto-legge 6 dicembre 2011, n. 201, convertito, con modificazioni, dalla legge 22 dicembre 2011, n. 214, il primo e il secondo periodo sono soppressi, e al comma 483 dell'articolo 1 della legge 27 dicembre 2013, n. 147, sono apportate le seguenti modificazioni:</an:p>
+				<an:p align="justify">
+					<an:i>a)</an:i>
+					 all'alinea, le parole: «Per il triennio 2014-2016» sono sostituite dalle seguenti: «A decorrere dall'anno 2014»;
+				</an:p>
+				<an:p align="justify">
+					<an:i>b)</an:i>
+					 alla lettera 
+					<an:i>c)</an:i>
+					, le parole: «75 per cento» sono sostituite dalle seguenti: «85 per cento»;
+				</an:p>
+				<an:p align="justify">
+					<an:i>c)</an:i>
+					 alla lettera 
+					<an:i>e)</an:i>
+					, le parole: «nella misura del 40 per cento, per l'anno 2014, e nella misura del 45 per cento, per ciascuno degli anni 2015 e 2016, per i trattamenti pensionistici complessivamente superiori a sei volte il trattamento minimo INPS con riferimento all'importo complessivo dei trattamenti medesimi e, per il solo anno 2014, non è riconosciuta con riferimento alle fasce di importo superiori a sei volte il trattamento minimo INPS.», sono sostituite dalle seguenti: «nella misura del 30 per cento per i trattamenti pensionistici complessivamente superiori a sei volte e fino ad otto volte il trattamento minimo INPS con riferimento all'importo complessivo dei trattamenti medesimi.»;
+				</an:p>
+				<an:p align="justify">
+					<an:i>d)</an:i>
+					 dopo la lettera 
+					<an:i>e)</an:i>
+					, è aggiunta la seguente:
+				</an:p>
+				<an:p align="justify">
+					        «
+					<an:i>f)</an:i>
+					 non è riconosciuta per i trattamenti pensionistici complessivamente superiori ad otto volte il trattamento minimo INPS con riferimento all'importo complessivo dei trattamenti medesimi».
+				</an:p>
+				<an:p align="justify">
+					<an:i>Conseguentemente, sostituire i commi da 2 a 5 con i seguenti:</an:i>
+				</an:p>
+				<an:p align="justify">        «2. Gli importi arretrati relativi agli adeguamenti automatici dei trattamenti pensionistici dovuti a partire dall'anno 2012 per effetto delle disposizioni di cui al comma 1, sono corrisposti ai beneficiari in sei anni, con rate di pari importo, a partire dal 1º agosto 2015.</an:p>
+				<an:p align="justify">        3. Il provvedimento di assestamento per l'anno 2015 e le previsioni di bilancio per gli anni successivi tengono conto degli effetti finanziari delle disposizioni di cui al presente articolo».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

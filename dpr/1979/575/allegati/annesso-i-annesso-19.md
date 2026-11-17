@@ -1,5 +1,0 @@
-ANNESSO 19
-
-CERTIFICATO SANITARIO PER LATTE E PRODOTTI LATTIERI
-
-Parte di provvedimento in formato grafico

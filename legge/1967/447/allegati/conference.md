@@ -1,3 +1,0 @@
-CONFERENCE INTERNATIONALE DU TRAVAIL
-
-Parte di provvedimento in formato grafico

@@ -1,7 +1,0 @@
-ALLEGATO 3-bis
-
-(Articoli 4, comma 1 e 9, comma 1)
-
-ATTESTATO DI FREQUENZA DEL CORSO DI FORMAZIONE PERIODICA
-
-Parte di provvedimento in formato grafico

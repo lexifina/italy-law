@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2714/A/G4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2714/A/G4"/>
+					<an:FRBRdate date="2004-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/2714/A/G4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G4"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@"/>
+					<an:FRBRdate date="2004-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@.akn"/>
+					<an:FRBRdate date="2004-02-12" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2004-02-12"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2004-02-12" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/2714/A/G4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/2714" showAs="DDL 2714"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/1932" showAs="Pontone"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2714</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Pontone</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che,</an:p>
+				<an:p align="justify">            la procedura di amministrazione straordinaria delle grandi imprese in stato d'insolvenza, disciplinata dal decreto legislativo 8 luglio 1999, n. 270, ha prodotto sinora buoni risultati, sia sotto il profilo del risanamento delle imprese coinvolte con i connessi benefici per i lavoratori, le realtà territoriali e produttive interessate, sia sotto il profilo del soddisfacimento delle ragioni creditorie;</an:p>
+				<an:p align="justify">            in presenza di imprese di maggiori dimensioni è opportuno omettere la fase di accertamento affidata al commissario giudiziale, al fine di procedere celermente e quindi in modo soddisfacente, alla tutela degli interessi sottesi alla procedura di amministrazione straordinaria;</an:p>
+				<an:p align="justify">            si rende necessario individuare, in relazione ai diversi settori di attività di impresa, quale sia la soglia dimensionale che rende efficiente l'ammissione immediata alla procedura di amministrazione straordinaria, consentendo una migliore soddisfazione degli interessi da essa tutelati;</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad approfondire tempestivamente l'ipotesi di raccordare le procedure previste dalla legislazione vigente per l'accesso all'amministrazione straordinaria al fine di giungere ad una normativa unitaria sulle crisi d'impresa che tenga conto, oltre agli altri requisiti previsti, anche delle peculiarità dei diversi settori produttivi.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43"/>
+					<an:FRBRdate date="2016-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1000/43"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@"/>
+					<an:FRBRdate date="2016-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@.akn"/>
+					<an:FRBRdate date="2016-11-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-11-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-11-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2567/C/1.1000/43/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2567" showAs="DDL 2567"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWVBPU50CAXZELCSXG4SK2Z5UVIPKMXMWL0FVKUC43YMEFA3HWOKD" href="http://dati.senato.it/29065" showAs="CASTALDI"/>
+				<an:TLCPerson id="IDX0F3UNGOO03KEIMDE2N0X3KCVMPH3VKGG2FLX5GFF241JHI1ZYPE" href="http://dati.senato.it/29108" showAs="GIROTTO"/>
+				<an:TLCPerson id="IDD1Q0MY5GGCOLBDH5SZI5D4BKNDL3D4CFPUYC3IM1AK5RKUQLMTKL" href="http://dati.senato.it/29050" showAs="BLUNDO"/>
+				<an:TLCPerson id="IDZAESWXHMGG4YMKN5KRIBL4FARELDK1M501F3ARF1J4SWGHQ0HAJN" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+				<an:TLCPerson id="IDCKXDNWAI01YPCCC1LI0YURQ1VN4HEMSACWL1HKHCIKIWSOLER2NM" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="ID5XGKZD1PG0I3BLJOV31F3LNFWOX5LMIVA2V2EUED0ISNLN5OGOMF" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2567</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1000/43</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWVBPU50CAXZELCSXG4SK2Z5UVIPKMXMWL0FVKUC43YMEFA3HWOKD" as="#tipoSenatore">CASTALDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDX0F3UNGOO03KEIMDE2N0X3KCVMPH3VKGG2FLX5GFF241JHI1ZYPE" as="#tipoSenatore">GIROTTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD1Q0MY5GGCOLBDH5SZI5D4BKNDL3D4CFPUYC3IM1AK5RKUQLMTKL" as="#tipoSenatore">BLUNDO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZAESWXHMGG4YMKN5KRIBL4FARELDK1M501F3ARF1J4SWGHQ0HAJN" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCKXDNWAI01YPCCC1LI0YURQ1VN4HEMSACWL1HKHCIKIWSOLER2NM" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5XGKZD1PG0I3BLJOV31F3LNFWOX5LMIVA2V2EUED0ISNLN5OGOMF" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 1.1000, dopo la lettera</an:i>
+					 w)
+					<an:i>, aggiungere la seguente:</an:i>
+				</an:p>
+				<an:p>
+					            «
+					<an:i>w-bis)</an:i>
+					 all'articolo 35, al comma 3, sostituire le parole: ''presso le Casse edili delle Province di Rieti, Ascoli Piceno, Macerata, Fermo, Perugia, l'Aquila e Teramo riconosciute dal Ministero del lavoro e delle politiche sociali'', con le seguenti: ''presso le Casse edili/Edilcasse provinciali o regionali riconosciute dal Ministero del lavoro e delle politiche sociali e regolarmente operanti nelle Province di Rieti, Ascoli Piceno, Fermo, Macerata, Perugia, l'Aquila e Teramo''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3111/A/3.0.7"/>
+					<an:FRBRdate date="2012-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@"/>
+					<an:FRBRdate date="2012-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@.akn"/>
+					<an:FRBRdate date="2012-02-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2012-02-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2012-02-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/3111/A/3.0.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/3111" showAs="DDL 3111"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/25200" showAs="Della Seta"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/22803" showAs="Ferrante"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3111</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Della Seta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ferrante</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis.</an:i>
+				</an:p>
+				<an:p align="justify">        1. Per la realizzazione delle finalità di cui all'articolo 1 della legge 6 dicembre 1991, n. 394, la pianta organica di ogni Ente parco nazionale viene determinata sulla base di dati statistici omogenei studiati in modo da consentire lo svolgimento di tali funzioni fondamentali. La predisposizione di questi elementi da patte di una Commissione mista formata da funzionari del Ministero dell'ambiente e della tutela del territorio e del mare e da un rappresentante per ogni Parco nazionale dove avvenire entro sei mesi dalla data di entrata in vigore della legge di conversione del presente decreto-legge. Entro i sei mesi successivi, il Ministero dell'ambiente e della tutela del territorio e del mare provvede alla loro approvazione con provvedimento di natura non regolamentare. Decorso inutilmente tale termine, le amministrazioni degli Enti Parco nazionali possono provvedere autonomamente a definire i dati statistici. Sulla base dei dati statistici, comunque definiti, gli Enti Parco nazionali, entro i sei mesi successivi, provvedono alla determinazione delle piante organiche, soggette a controllo ai sensi dell'articolo 21 della medesima legge ed all'invio al Ministero vigilante. A decorrere dall'entrata in vigore della presente legge, per evitare la scopertura delle funzioni fondamentali previste dalla legge 6 dicembre 1991, n. 394, agli Enti Parco nazionali che abbiano ridefinito le piante organiche secondo tale procedura non si applicano rideterminazioni dei contingenti di personale in applicazione di leggi di finanza pubblica".».</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

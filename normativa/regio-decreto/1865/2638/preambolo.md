@@ -1,0 +1,13 @@
+VITTORIO EMANUELE II
+
+PER GRAZIA DI DIO E PER VOLONTA' DELLA NAZIONE
+
+RE D'ITALIA
+
+Sulla proposizione del Ministro dell'Interno;
+
+Visto l'art. 13 della nuova Legge sull'amministrazione comunale e provinciale in data 20 marzo 1865;
+
+Viste le deliberazioni dei Consigli comunali di Folzano e S.
+
+Nazzaro Mella in data 18 novembre 1862, e 12 gennaio 1863, nonche' quella del Consiglio provinciale di Brescia in data 9 settembre 1863; Abbiamo decretato e decretiamo:

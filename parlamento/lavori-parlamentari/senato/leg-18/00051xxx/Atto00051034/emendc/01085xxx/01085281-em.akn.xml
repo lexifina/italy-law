@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.383/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.383"/>
+					<an:FRBRdate date="2018-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.383/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.383"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@"/>
+					<an:FRBRdate date="2018-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@.akn"/>
+					<an:FRBRdate date="2018-12-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/C/1.383/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="5ª Commissione permanente" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDCBYRLKMVIANGH1TC4JERYGHX5DNQZ3CODEMRQPBC2MOZUDBGDE3K" href="http://dati.senato.it/17578" showAs="DE PETRIS"/>
+				<an:TLCPerson id="ID3WW5QUA5U42WEI0FGIJDD0UTACX3L4Z10IEK50EXP1BMM5NLY2SG" href="http://dati.senato.it/32625" showAs="ERRANI"/>
+				<an:TLCPerson id="IDJYXRVBNDA2Z0LEHNPW0SDC3UTK4Z4N4PN2PSORDTN5V01QOJSCPJ" href="http://dati.senato.it/29110" showAs="GRASSO"/>
+				<an:TLCPerson id="IDHLHCGZO3EYQOEKV2PDXSXGMXZKRPAALNXNHNTAIGAKTJCJM5GOHF" href="http://dati.senato.it/29450" showAs="LAFORGIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.383</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCBYRLKMVIANGH1TC4JERYGHX5DNQZ3CODEMRQPBC2MOZUDBGDE3K" as="#tipoSenatore">DE PETRIS</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3WW5QUA5U42WEI0FGIJDD0UTACX3L4Z10IEK50EXP1BMM5NLY2SG" as="#tipoSenatore">ERRANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJYXRVBNDA2Z0LEHNPW0SDC3UTK4Z4N4PN2PSORDTN5V01QOJSCPJ" as="#tipoSenatore">GRASSO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHLHCGZO3EYQOEKV2PDXSXGMXZKRPAALNXNHNTAIGAKTJCJM5GOHF" as="#tipoSenatore">LAFORGIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 40 aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «40
+					<an:i>-bis</an:i>
+					. Il comma 1 dell'articolo 17 della legge 28 giugno 2016 n. 132 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''Per l'attuazione della presente legge è autorizzata la spesa di dieci milioni di euro per ciascun esercizio finanziario per il triennio a decorrere dal 2019''».</an:p>
+				<an:p>
+					<an:i>Conseguentemente al comma 652, tabella A, alla voce Ministero dell'economia e delle finanze, sostituire gli importi relativi al triennio 2019-2021 e sue proiezioni con i seguenti:</an:i>
+				</an:p>
+				<an:p>        2019: 50.019.000;</an:p>
+				<an:p>        2020: 97.226.000;</an:p>
+				<an:p>        2021: 70.492.000.</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

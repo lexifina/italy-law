@@ -1,0 +1,7 @@
+LEGGE
+
+21 maggio 1982
+
+275
+
+Conversione in legge del decreto-legge 30 marzo 1982, n. 109, recante ulteriore proroga dei termini sostanziali e processuali di cui al decreto-legge 30 aprile 1981, n. 168, convertito, con modificazioni, nella legge 27 giugno 1981, n. 331, relativi all'assunzione da parte dell'Avvocatura dello Stato del contenzioso degli enti mutualistici soppressi.

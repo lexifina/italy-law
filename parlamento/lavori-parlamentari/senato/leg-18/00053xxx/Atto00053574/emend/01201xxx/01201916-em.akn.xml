@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2040/A/G1.123/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2040/A/G1.123"/>
+					<an:FRBRdate date="2021-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2040/A/G1.123/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.123"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@"/>
+					<an:FRBRdate date="2021-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@.akn"/>
+					<an:FRBRdate date="2021-01-22" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-01-22"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-01-22" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2040/A/G1.123/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/2040" showAs="Ddl 2040"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/19244" showAs="Luigi Augussori"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/422" showAs="Roberto Calderoli"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32642" showAs="Ugo Grassi"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/18562" showAs="Daisy Pirovano"/>
+				<an:TLCPerson id="ID0EGC" href="http://dati.senato.it/32700" showAs="Alessandra Riccardi"/>
+				<an:TLCPerson id="ID0EQC" href="http://dati.senato.it/32677" showAs="Andrea Ostellari"/>
+				<an:TLCPerson id="ID0E1C" href="http://dati.senato.it/32683" showAs="Emanuele Pellegrini"/>
+				<an:TLCPerson id="ID0EGD" href="http://dati.senato.it/32690" showAs="Simone Pillon"/>
+				<an:TLCPerson id="ID0EQD" href="http://dati.senato.it/29185" showAs="Erika Stefani"/>
+				<an:TLCPerson id="ID0E1D" href="http://dati.senato.it/32728" showAs="Francesco Urraro"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 2040</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.123</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Augussori</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Calderoli</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Grassi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pirovano</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Riccardi</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EQC" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Ostellari</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E1C" as="#tipoSenatore">
+					<an:span style="font-variant:normal;">Emanuele </an:span>
+					<an:span style="font-variant:small-caps;">Pellegrini</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EGD" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pillon</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EQD" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Stefani</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E1D" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Urraro</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				
+
+				<an:p>        premesso che:</an:p>
+				
+
+				<an:p>            il provvedimento è volto a sopprimere la previsione del Testo unico immigrazione (articolo 11, comma 1- ter) sul procedimento per la limitazione o il divieto di ingresso, transito, sosta di navi nel mare territoriale per motivi di sicurezza pubblica o di contrasto di violazioni delle leggi sull'immigrazione, sostituendola con la disciplina recata dall'articolo 1, comma 2 del decreto-legge in esame;</an:p>
+				
+
+				<an:p>
+					            il comma 1, lettera 
+					<an:i>d)</an:i>
+					 sopprime le disposizioni sulla sanzione pecuniaria a seguito della violazione del divieto di ingresso, transito o sosta nelle acque territoriali italiane nonché sulla confisca ed eventuale distruzione dell'imbarcazione, previste dal decreto-legge n. 53 del 2019;
+				</an:p>
+				
+
+				<an:p>            il comma 2 dell'articolo 1 del provvedimento in esame reca disposizioni volte a contrastare l'immigrazione irregolare, prevedendo che il Ministro dell'interno, di concerto con il Ministro della difesa e con il Ministro delle infrastrutture e dei trasporti, previa informazione al Presidente del Consiglio dei ministri, può limitate o vietare il transito e la sosta di navi nel mare territoriale, salvo che si tratti di naviglio militare o di navi in servizio governativo non commerciale;</an:p>
+				
+
+				<an:p>            tali disposizioni non trovano comunque applicazione nell'ipotesi di operazioni di soccorso immediatamente comunicate al centro di coordinamento competente per il soccorso marittimo e allo Stato di bandiera ed effettuate nel rispetto delle indicazioni della competente autorità per la ricerca e il soccorso in mare, emesse sulla base degli obblighi derivanti dalle convenzioni internazionali in materia di diritto del mare;</an:p>
+				
+
+				<an:p>        impegna il Governo:</an:p>
+				
+
+				<an:p>            a valutare gli effetti applicativi delle disposizioni richiamate in premessa al fine di adottare ulteriori iniziative normative volte a far sì che l'ingresso in qualsiasi porto di ogni natante che abbia operato il salvataggio e/o il trasporto di persone in acque di competenza SAR di altri Paesi è condizionato alla raccolta delle domande di asilo o di protezione internazionale, in osservanza ed ai fini del regolamento UE n. 604/2013, articoli 3 e 6, da parte del comandante del natante, e a introdurre a carico del comandante che non abbia osservato l'indicata condizione una sanzione amministrativa, nonché a una sanzione accessoria della confisca del natante e del risarcimento dei danni conseguiti pari al rimborso dei costi da sostenere per l'accoglienza delle persone sbarcate.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

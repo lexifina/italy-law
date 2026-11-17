@@ -1,0 +1,11 @@
+Allegato 4
+
+(art. 3, comma 2)
+
+SPESE PER LE PROCEDURE DI NOTIFICA E DI SORVEGLIANZA DELLE SPEDIZIONI TRANSFRONTALIERE DI RIFIUTI.
+
+Diritti amministrativi per il rilascio dei moduli di notifica e di accompagnamento e per le attivita' di sorveglianza e controllo di:
+
+importazione = L. 500.000 per ogni notifica relativa ad un massimo di cinque trasporti, piu' L. 50.000 per ogni trasporto eccedente;
+
+esportazione = L. 250.000 per ogni notifica relativa ad un massimo di cinque trasporti, piu' L. 50.000 per ogni trasporto eccedente.

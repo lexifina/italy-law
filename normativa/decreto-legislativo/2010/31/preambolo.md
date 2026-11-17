@@ -1,0 +1,55 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+VISTI gli articoli 76 e 87 della Costituzione;
+
+VISTA la legge 23 luglio 2009, n. 99, recante "Disposizioni per lo sviluppo e l 'internazionalizzazione delle imprese, nonche' in materia di energia" ed in particolare, l'articolo 25;
+
+VISTA la legge 31 dicembre 1962, n. 1860, concernente "Impiego pacifico dell'energia nucleare", e successive modificazioni;
+
+VISTA la legge 2 agosto 1975, n. 393 recante "Norme sulla localizzazione delle centrali elettronucleari e sulla produzione e sull'impiego di energia elettrica";
+
+VISTO il decreto legislativo 17 marzo 1995, n. 230, e successive modificazioni;
+
+VISTA la legge 14 novembre 1995, n. 481, recante "Norme per la concorrenza e la regolazione dei servizi di pubblica utilita'.
+
+Istituzione delle autorita' di regolazione dei servizi di pubblica utilita'";
+
+VISTA la legge 7 giugno 2000, n. 150, recante "Disciplina delle attivita' di informazione e di comunicazione delle pubbliche amministrazioni";
+
+VISTA la direttiva del Presidente del Consiglio dei Ministri 27 settembre 2000 recante "Direttiva sul programma delle iniziative di informazione e comunicazione istituzionale delle Amministrazioni dello Stato, pubblicata nella Gazzetta Ufficiale n. 256 del 2000";
+
+VISTO il decreto-legge 14 novembre 2003, n. 314, convertito, con modificazioni, dalla legge 24 dicembre 2003, n. 368, recante disposizioni urgenti per la raccolta, lo smaltimento e lo stoccaggio, in condizioni di massima sicurezza, dei rifiuti radioattivi", e successive modificazioni;
+
+VISTA la legge 23 agosto 2004, n. 239 di "Riordino del settore energetico nonche' delega al Governo per il riassetto delle disposizioni vigenti in materia di energia;
+
+VISTO il decreto legislativo 19 agosto 2005, n. 195 di attuazione della direttiva 2003/4/CE sull'accesso del pubblico all'informazione ambientale;
+
+VISTA la legge 16 dicembre 2005, n. 282, "Ratifica della Convenzione congiunta in materia di sicurezza della gestione del combustibile esaurito e dei rifiuti radioattivi, fatta a Vienna il 5 settembre 1997";
+
+VISTO il decreto legislativo 3 aprile 2006, n. 152 recante "Norme in materia ambientale";
+
+VISTO il decreto legislativo 6 febbraio 2007, n. 52, recante "Attuazione della direttiva 2003/122/CE Euratom sul controllo delle sorgenti radioattive sigillate ad alta attivita' e delle sorgenti orfane";
+
+VISTO il decreto legislativo 16 gennaio 2008, n. 4, recante "Ulteriori disposizioni correttive ed integrative del decreto legislativo 3 aprile 2006, n. 152, recante norme in materia ambientale";
+
+VISTO l'articolo 7 del decreto-legge 23 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133;
+
+VISTA la direttiva 2009/71/Euratom del Consiglio del 25 giugno 2009 che istituisce un quadro comunitario per la sicurezza nucleare degli impianti nucleari;
+
+VISTA la preliminare deliberazione del Consiglio dei Ministri, adottata nella seduta del 22 dicembre 2009;
+
+VISTA la deliberazione, adottata nella riunione del Consiglio dei Ministri del 22 gennaio 2010, relativa alla procedura in via di urgenza, a norma dell'articolo 3, comma 4, del decreto legislativo 28 agosto 1997, n. 281;
+
+PRESO ATTO che la seduta del 27 gennaio 2010 della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, e successive modifiche e integrazioni, al cui ordine del giorno era iscritto il presente decreto legislativo, non si e' tenuta;
+
+ACQUISITO il parere del Consiglio di Stato nell'Adunanza della Sezione consultiva per gli atti normativi dell' 8 febbraio 2010;
+
+RITENUTO di adeguare il testo alle osservazioni del Consiglio di Stato tenendo conto di quanto rappresentato in ordine all'attuazione dell'articolo 25 comma 5 della legge 23 luglio 2009, n. 99 e compatibilmente con l'esigenza di non modificare gli assetti programmatici per le valutazioni ambientali strategiche a livello nazionale e considerate le peculiarita' tecniche del combustibile irraggiato e dei rifiuti radioattivi;
+
+ACQUISITI i pareri delle competenti commissioni della Camera dei deputati e del Senato della Repubblica;
+
+VISTA la deliberazione del Consiglio dei Ministri, adottata nella riunione del 10 febbraio 2010;
+
+SULLA PROPOSTA del Ministro dello sviluppo economico, di concerto con il Ministro dell'ambiente e della tutela del territorio e del mare, con il Ministro delle infrastrutture e dei trasporti e con il Ministro della semplificazione normativa:
+
+Emana il seguente decreto legislativo:

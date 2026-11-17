@@ -1,0 +1,13 @@
+Art. 15-bis.
+
+(((Modifica dell'articolo 15 del decreto-legge 28 aprile 2009, n. 39).
+
+1.All'articolo 15 del decreto-legge 28 aprile 2009, n. 39, convertito, con modificazioni, dalla legge 24 giugno 2009, n. 77, i commi 2 e 3 sono sostituiti dai seguenti:
+
+"2. L'uso del logo, degli stemmi, degli emblemi, delle denominazioni e di ogni altro segno distintivo dell'immagine, riferiti alla Presidenza del Consiglio dei Ministri - Dipartimento della protezione civile, e' esclusivamente riservato agli operatori ad esso appartenenti.
+
+3. Ferma la facolta' del Capo del Dipartimento della protezione civile di autorizzare, anche convenzionalmente, l'uso temporaneo delle denominazioni, degli stemmi, degli emblemi e dei segni distintivi, di cui al comma 2, ed in deroga al comma medesimo, anche nell'ambito di iniziative culturali ed editoriali in coerenza con le finalita' istituzionali e dell'immagine attribuite al Dipartimento della protezione civile, chiunque li utilizzi indebitamente e' punito con la multa da 1.000 a 5.000 euro, salvo che il fatto costituisca piu' grave reato.
+
+3-bis. L'uso del logo, degli stemmi, degli emblemi, delle denominazioni e di ogni altro segno distintivo dell'immagine, riferiti al Corpo nazionale dei vigili del fuoco - Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, e' esclusivamente riservato agli operatori ad esso appartenenti.
+
+3-ter. Ferma la facolta' del Capo di Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile di autorizzare, anche convenzionalmente, l'uso temporaneo delle denominazioni, degli stemmi, degli emblemi e dei segni distintivi, di cui al comma 3-bis ed in deroga al comma medesimo, anche nell'ambito di iniziative culturali ed editoriali in coerenza con le finalita' istituzionali e dell'immagine attribuite al Dipartimento dei vigili del fuoco, del soccorso pubblico e della difesa civile, chiunque fabbrica, vende, espone, adopera industrialmente, ovvero utilizza al fine di trarne profitto, le denominazioni, gli stemmi, gli emblemi e i marchi di cui al predetto comma 3-bis, in violazione delle disposizioni di cui al medesimo comma, e' punito, salvo che il fatto costituisca piu' grave reato, con la multa da 1.000 a 5.000 euro. In via transitoria, i rapporti gia' instaurati alla data di entrata in vigore della legge di conversione del decreto-legge 30 dicembre 2009, n. 195, applicativi di iniziative culturali ed editoriali intraprese nell'ambito delle finalita' istituzionali del Corpo nazionale dei vigili del fuoco, anche attraverso la costituzione di fondazioni, continuano a dispiegare la propria efficacia". ))

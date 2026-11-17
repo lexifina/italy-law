@@ -1,9 +1,0 @@
-TABELLA A
-
-(prevista dall'art. 1, comma 1)
-
-CORPO DI POLIZIA PENITENZIARIA
-
-DOTAZIONI ORGANICHE
-
-((Parte di provvedimento in formato grafico))

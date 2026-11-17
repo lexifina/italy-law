@@ -1,5 +1,0 @@
-Allegato
-
-AMENDING PROTOCOL
-
-Parte di provvedimento in formato grafico

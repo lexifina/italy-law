@@ -1,5 +1,0 @@
-Art. 36-bis.
-
-(( (Interventi in favore dei territori con insediamenti produttivi petroliferi).))
-
-((1. L'articolo 16 del decreto-legge 24 gennaio 2012, n. 1, convertito, con modificazioni, dalla legge 24 marzo 2012, n. 27, si applica alle maggiori entrate effettivamente realizzate attraverso i versamenti dei soggetti titolari di concessioni di coltivazione di idrocarburi liquidi o gassosi in terraferma con riferimento a progetti di sviluppo la cui autorizzazione all'esercizio, di cui agli articoli 85 e 90 del decreto legislativo 25 novembre 1996, n. 624, e all'articolo 42 del decreto del Presidente della Repubblica 24 maggio 1979, n. 886, e successive modificazioni, sia stata rilasciata successivamente al 12 settembre 2013. La quota delle maggiori entrate da destinare alle finalita' del citato articolo 16 del decreto-legge n. 1 del 2012 e' determinata nella misura del 30 per cento di tali maggiori entrate per i dieci periodi di imposta successivi all'entrata in esercizio dei relativi impianti. Il decreto attuativo di cui all'articolo 16 del decreto-legge n. 1 del 2012 continua ad applicarsi per le parti compatibili con le disposizioni del presente articolo))

@@ -1,5 +1,0 @@
-ALLEGATO
-
-(previsto dall'art. 2, comma 4)
-
-DECRETO DECADUTO

@@ -1,3 +1,0 @@
-TABELLA ORGANICA DELL'ISTITUTO TECNICO COMMERCIALE DI ATESSA
-
-Parte di provvedimento in formato grafico

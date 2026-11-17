@@ -1,0 +1,7 @@
+Allegato 1
+
+PRELEVAMENTO DAL FONDO DI RISERVA PER LE SPESE
+
+IMPREVISTE EFFETTUATI NELL'ANNO 2007
+
+Parte di provvedimento in formato grafico

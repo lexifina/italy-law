@@ -1,5 +1,0 @@
-AGREEMENT
-
-between the italian Republic and the Hungarian Peoples Republic concerning the settlement of pending financial and patrimonial questions
-
-Parte di provvedimento in formato grafico

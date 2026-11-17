@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-23 dicembre 1949
-
-930
-
-Concessione di indulto.

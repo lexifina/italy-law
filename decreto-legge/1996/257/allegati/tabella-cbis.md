@@ -1,3 +1,0 @@
-Tabella cbis
-
-((Parte di provvedimento in formato grafico))

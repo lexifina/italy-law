@@ -1,0 +1,7 @@
+Art. 2231-bis.
+
+(Trasferimento presso altre pubbliche amministrazioni)
+
+1.
+
+((Sino all'anno 2019)), gli ufficiali fino al grado di tenente colonnello compreso e gradi corrispondenti e i sottufficiali dell'Esercito, della Marina e dell'Aeronautica possono presentare domanda di trasferimento presso altre pubbliche amministrazioni di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, e successive modificazioni. Il trasferimento e' condizionato al preventivo parere favorevole del Ministero della difesa e all'accettazione da parte dell'amministrazione di destinazione ed e' autorizzato secondo le modalita' e nei limiti delle facolta' assunzionali annuali della medesima amministrazione, previsti dalle disposizioni vigenti. Al personale trasferito, che viene inquadrato nell'area funzionale del personale non dirigenziale individuata dall'amministrazione di destinazione sulla base di apposite tabelle di equiparazione approvate con decreto del Presidente del Consiglio dei Ministri, su proposta del Ministro per la pubblica amministrazione e l'innovazione, di concerto con il Ministro dell'economia e delle finanze, si applica il trattamento giuridico ed economico, compreso quello accessorio, previsto nei contratti collettivi per il personale non dirigente vigenti nel comparto dell'amministrazione di destinazione. Alla data di assunzione in servizio presso l'amministrazione di destinazione, il militare e' collocato in congedo nella posizione della riserva.

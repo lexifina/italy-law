@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/94.0.6"/>
+					<an:FRBRdate date="2020-10-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="94.0.6"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@"/>
+					<an:FRBRdate date="2020-10-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@.akn"/>
+					<an:FRBRdate date="2020-10-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/C/94.0.6/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1925" showAs="Ddl 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/32718" showAs="Dieter Steger"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/32727" showAs="Julia Unterberger"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32624" showAs="Meinhard Durnwalder"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/29115" showAs="Albert Laniece"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 94.0.6</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Steger</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Unterberger</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Durnwalder</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Laniece</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p align="center">
+					«Art. 94-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				
+
+				<an:p>        1. All'articolo 178, comma 5, del decreto legislativo 18 aprile 2016, n. 50, dopo il periodo: ''Per detto periodo si applica quanto previsto al comma 2'' sono aggiunte le seguenti parole: ''I benefici finanziari iniqui ottenuti dal concessionario durante la prosecuzione dell'esercizio successiva alla scadenza della concessione, corrispondenti alla quota delle tariffe riscosse in assenza di investimenti ancora da realizzare anche ai sensi del comma 7 del presente articolo, al netto degli oneri scaturenti dall'esercizio stesso e dalla manutenzione necessaria al mantenimento in condizioni di sicurezza dell'infrastruttura, sono versati all'entrate del bilancio dello Stato nella misura pari al 80 per cento''.</an:p>
+				
+
+				<an:p>
+					        2. All'articolo 216 del decreto legislativo 18 aprile 2016, n. 50 dopo il comma 27-
+					<an:i>nonies</an:i>
+					 è inserito il seguente comma:
+				</an:p>
+				
+
+				<an:p>
+					        ''27-
+					<an:i>decies</an:i>
+					. La percentuale di cui all'articolo 178, comma 5, è pari al 20 per cento per i benefici generati dalle gestioni previste nel medesimo comma anteriori al 30 settembre 2020''.
+				</an:p>
+				
+
+				<an:p>        3. Dalla presente disposizione non derivano nuovi o maggiori oneri a carico delle entrate del bilancio dello Stato».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

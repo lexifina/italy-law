@@ -1,0 +1,5 @@
+Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
+
+Dato a Roma, addi' 16 marzo 2000
+
+CIAMPI D'Alema, Presidente del Consiglio dei Ministri Bassanini, Ministro per la funzione pubblica Bindi, Ministro della sanita' Amato, Ministro del tesoro, del bilancio e della programmazione economica Visto, il Guardasigilli: Diliberto Registrato alla Corte dei conti il 6 ottobre 2000 Atti di Governo, registro n. 122, foglio n. 6 Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

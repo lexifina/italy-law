@@ -1,0 +1,17 @@
+TABELLA A
+
+MAGISTRATI GIUDICANTI E DEL PUBBLICO MINISTERO ADDETTI AI TRIBUNALI ED ALLE PROCURE PER I MINORENNI.
+
+Parte di provvedimento in formato grafico
+
+TABELLA B
+
+MAGISTRATI GIUDICANTI ADDETTI AI TRIBUNALI
+
+Parte di provvedimento in formato grafico
+
+TABELLA C
+
+MAGISTRATI ADDETTI ALLE PRETURE
+
+Parte di provvedimento in formato grafico

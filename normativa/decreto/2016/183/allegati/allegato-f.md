@@ -1,0 +1,5 @@
+Allegato F
+
+Enti fornitori
+
+Parte di provvedimento in formato grafico

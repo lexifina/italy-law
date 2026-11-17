@@ -1,5 +1,0 @@
-Allegato I
-
-(art. 3, comma 3)
-
-Parte di provvedimento in formato grafico

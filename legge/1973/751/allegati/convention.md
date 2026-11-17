@@ -1,5 +1,0 @@
-ALLEGATO
-
-Convention entre l'Italie et la Tunisie pour eviter la double imposition des revenus provenant de l'exploitation des navires et aeronefs.
-
-Parte di provvedimento in formato grafico

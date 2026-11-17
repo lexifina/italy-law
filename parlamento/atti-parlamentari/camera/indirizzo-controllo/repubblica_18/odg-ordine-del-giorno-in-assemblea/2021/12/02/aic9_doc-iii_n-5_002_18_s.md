@@ -1,0 +1,52 @@
+# ODG IN ASSEMBLEA SU MOZIONI O ALTRI ATTI 9/DOC.III,N.5/002 presentata da MALPEZZI SIMONA FLAVIA (PARTITO DEMOCRATICO) in data 02/12/2021
+
+- Tipo: ODG - ORDINE DEL GIORNO IN ASSEMBLEA
+- Numero: 9/DOC.III,N.5/002
+- Data: 20211202
+- Titolo: ODG IN ASSEMBLEA SU MOZIONI O ALTRI ATTI 9/DOC.III,N.5/002 presentata da MALPEZZI SIMONA FLAVIA (PARTITO DEMOCRATICO) in data 02/12/2021
+- Presentatore: MALPEZZI SIMONA FLAVIA (PARTITO DEMOCRATICO)
+- Cofirmatario: ALFIERI ALESSANDRO (PARTITO DEMOCRATICO)
+- Cofirmatario: ASTORRE BRUNO (PARTITO DEMOCRATICO)
+- Cofirmatario: BITI CATERINA (PARTITO DEMOCRATICO)
+- Cofirmatario: BOLDRINI PAOLA (PARTITO DEMOCRATICO)
+- Cofirmatario: CERNO TOMMASO (PARTITO DEMOCRATICO)
+- Cofirmatario: CIRINNA' MONICA (PARTITO DEMOCRATICO)
+- Cofirmatario: COLLINA STEFANO (PARTITO DEMOCRATICO)
+- Cofirmatario: COMINCINI EUGENIO (PARTITO DEMOCRATICO)
+- Cofirmatario: D'ALFONSO LUCIANO (PARTITO DEMOCRATICO)
+- Cofirmatario: D'ARIENZO VINCENZO (PARTITO DEMOCRATICO)
+- Cofirmatario: DE FALCO GREGORIO (MISTO-ALTRE COMPONENTI DEL GRUPPO)
+- Cofirmatario: FATTORI ELENA (MISTO-ALTRE COMPONENTI DEL GRUPPO)
+- Cofirmatario: FEDELI VALERIA (PARTITO DEMOCRATICO)
+- Cofirmatario: FERRARI ALAN (PARTITO DEMOCRATICO)
+- Cofirmatario: GIACOBBE FRANCESCO (PARTITO DEMOCRATICO)
+- Cofirmatario: IORI VANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: LA MURA VIRGINIA (MISTO-ALTRE COMPONENTI DEL GRUPPO)
+- Cofirmatario: LAUS MAURO ANTONIO DONATO (PARTITO DEMOCRATICO)
+- Cofirmatario: MANCA DANIELE (PARTITO DEMOCRATICO)
+- Cofirmatario: MARCUCCI ANDREA (PARTITO DEMOCRATICO)
+- Cofirmatario: MARGIOTTA SALVATORE (PARTITO DEMOCRATICO)
+- Cofirmatario: MARILOTTI GIANNI (PARTITO DEMOCRATICO)
+- Cofirmatario: MIRABELLI FRANCO (PARTITO DEMOCRATICO)
+- Cofirmatario: MISIANI ANTONIO (PARTITO DEMOCRATICO)
+- Cofirmatario: PARRINI DARIO (PARTITO DEMOCRATICO)
+- Cofirmatario: PITTELLA GIANNI (PARTITO DEMOCRATICO)
+- Cofirmatario: RAMPI ROBERTO (PARTITO DEMOCRATICO)
+- Cofirmatario: ROJC TATIANA (PARTITO DEMOCRATICO)
+- Cofirmatario: ROSSOMANDO ANNA (PARTITO DEMOCRATICO)
+- Cofirmatario: STEFANO DARIO (PARTITO DEMOCRATICO)
+- Cofirmatario: TARICCO MINO (PARTITO DEMOCRATICO)
+- Cofirmatario: VALENTE VALERIA (PARTITO DEMOCRATICO)
+- Cofirmatario: VATTUONE VITO (PARTITO DEMOCRATICO)
+- Cofirmatario: VERDUCCI FRANCESCO (PARTITO DEMOCRATICO)
+- Cofirmatario: ZANDA LUIGI (PARTITO DEMOCRATICO)
+- Concluso: 1
+- Argomento: http://eurovoc.europa.eu/2091
+- Argomento: http://eurovoc.europa.eu/3045
+- Argomento: http://eurovoc.europa.eu/5535
+- Testo (camera.it): http://documenti.camera.it/apps/commonServices/getDocumento.ashx?sezione=lavori&tipoDoc=sicross&idlegislatura=18&ramo=senato&stile=9&idDocumento=9/DOC.III,N.5/002
+- Legislatura: repubblica_18
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/aic.rdf/aic9_DOC.III_N.5_002_18_S
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).
+
+Testo non riportato: può nominare persone private (procedimenti, indagini); il testo ufficiale è al link della Camera.

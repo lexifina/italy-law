@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.24/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.24"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.24/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.24"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@.akn"/>
+					<an:FRBRdate date="2011-09-07" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-09-07"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-09-07" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2887/C/1.24/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2887" showAs="DDL 2887"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/25230" showAs="Perduca"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23048" showAs="Poretti"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/25200" showAs="Della Seta"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22803" showAs="Ferrante"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/4583" showAs="Vita"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2887</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.24</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Perduca</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Poretti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Della Seta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Ferrante</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Vita</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 2 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis.</an:i>
+					 Al decreto-legge 6 luglio 2011, n. 98, convertito con modificazioni dalla legge 15 luglio 2011, n. 111, il comma 7 dell'articolo 39 è sostituito con il seguente:
+				</an:p>
+				<an:p>        ''7. Il personale dei ruoli delle Forze annate che risulti in esubero può transitare, a domanda, nelle qualifiche funzionali del personale civile del Ministero delle finanze, o di altre amministrazioni, secondo modalità e procedure definite con decreto del Ministro della difesa, di concerto con i Ministri dell'economia e delle finanze e della pubblica amministrazione e innovazione, sentito il parere delle Organizzazioni sindacali maggiormente rappresentative a livello nazionale, da emanarsi entro sei mesi dall'entrata in vigore della presente legge. Il personale transitato nei ruoli civili delle amministrazioni di cui al precedente periodo conserva il trattamento economico in godimento, limitatamente alle voci fondamentali ed accessorie, aventi carattere fisso e continuativo, che continuano a gravare sull'amministrazione di appartenenza, e svolge i propri compiti in base ad una tabella di corrispondenza approvata dal Ministro per la pubblica amministrazione e l'innovazione, di concerto con i Ministro della difesa e dell'economia e delle finanze, che tenga conto dell'età anagrafica, della categoria, specialità e delle qualifiche possedute dal militare, nonché dell'incarico e delle mansioni svolte al momento della presentazione della domanda di transito. Ai fini dell'invarianza della spesa, con l'accordo di cui al primo periodo, vengono individuate le voci del trattamento economico accessorio spettanti per l'amministrazione di destinazione, che non risultino cumulabili con quelle in godimento''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

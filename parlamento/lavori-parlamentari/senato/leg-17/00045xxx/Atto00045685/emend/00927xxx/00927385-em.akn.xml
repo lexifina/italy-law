@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/G1.162/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/G1.162"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1934/A/G1.162/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.162"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@.akn"/>
+					<an:FRBRdate date="2015-06-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-06-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-06-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1934/A/G1.162/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1934" showAs="DDL 1934"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29051" showAs="Bocchino"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29058" showAs="Campanella"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29084" showAs="De Pin"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29181" showAs="Simeoni"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29139" showAs="Molinari"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29149" showAs="Orellana"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1934</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.162</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bocchino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Campanella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">De Pin</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Simeoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Molinari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Orellana</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">        in data 5 maggio 2015 veniva indetto uno sciopero nazionale di tutto il personale educativo, docente ed ATA nonché del personale dell'Area V, dirigenza scolastica, del Comparto scuola in servizio presso le scuole di ogni ordine e grado in Italia e all'estero indetto dalle maggiori associazioni sindacali di categoria;</an:p>
+				<an:p align="justify">        dal sito del Dipartimento della funzione pubblica si evince che hanno aderito allo sciopero ben 618.066 dipendenti e che quindi ha aderito il 64,66per cento del personale;</an:p>
+				<an:p align="justify">        la conseguenza è stata che nella giornata del 5 maggio il totale delle trattenute effettuate sullo stipendio è stato di 42.331.340 euro;</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">        la percentuale PIL di investimento in istruzione è in Italia uno dei più bassi in Europa e che negli</an:p>
+				<an:p align="justify">        ultimi decenni abbiamo assistito a continui depauperamenti delle risorse finalizzate al Fondo per il Miglioramento dell'Offerta Formativa (MOF);</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">        a valutare l'opportunità di intervenire con sollecitudine per finalizzare le trattenute stipendiali derivanti dall'adesione allo sciopero del 5 maggio all'incremento del MOF in maniera che possano beneficiarne direttamente gli alunni ed alunne delle nostre istituzioni scolastiche dando così un segno tangibile di attenzione al settore istruzione.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/2.1479/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/2.1479"/>
+					<an:FRBRdate date="2014-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/2.1479/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.1479"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@"/>
+					<an:FRBRdate date="2014-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@.akn"/>
+					<an:FRBRdate date="2014-12-18" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-12-18"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-12-18" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1698/C/2.1479/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1698" showAs="DDL 1698"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29147" showAs="Nugnes"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/29142" showAs="Moronese"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29130" showAs="Martelli"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29056" showAs="Bulgarelli"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29127" showAs="Mangili"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29066" showAs="Catalfo"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1698</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.1479</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Nugnes</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Moronese</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Martelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Bulgarelli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Mangili</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Catalfo</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 223 Il aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «223-
+					<an:i>bis</an:i>
+					. A decorrere dal 1º gennaio 2015 l'ammontare dell'imposta prevista dall'articolo 3 comma 29 della legge 28 dicembre 1995, n. 549, stabilita con legge della regione entro il 30 novembre di ogni anno per l'anno successivo è fissata per chilogrammi di rifiuti convertiti in misura non inferiore ad euro 0,001 e non superiore ad euro 0,01 per i rifiuti ammissibili al conferimento in discarica per i rifiuti inerti ai sensi dell'articolo 2 del decreto del Ministro dell'ambiente e della tutela del territorio 13 marzo 2003, pubblicato nella Gazzetta Ufficiale n. 67 del 21 marzo 2003; in misura non inferiore ad euro 0,02582 e non superiore ad euro 0,04 per i rifiuti ammissibili al conferimento in discarica per rifiuti non pericolosi ai sensi degli articoli 3 e 4 del medesimo decreto. Le entrate derivanti dalla maggiorazione del tributo affluiscono in un apposito fondo destinano a favorire la minore produzione dei rifiuti e ad incrementare sia la raccolta differenziata che il recupero di materia, nonché al finanziamento delle agenzie regionali per l'ambiente. L'impiego delle risorse, quindi, è disposto dalla regione, nell'ambito delle destinazioni sopra indicate, con propria deliberazione».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

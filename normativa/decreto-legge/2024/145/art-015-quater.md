@@ -1,0 +1,5 @@
+Art. 15-quater.
+
+(( (Modifica all'articolo 4 del testo unico di cui al decreto legislativo 25 luglio 1998, n. 286, in materia di interoperabilita' dei sistemi informativi per le frontiere, l'immigrazione e la sicurezza).))
+
+((1. All'articolo 4, comma 2-bis, del testo unico delle disposizioni concernenti la disciplina dell'immigrazione e norme sulla condizione dello straniero, di cui al decreto legislativo 25 luglio 1998, n. 286, dopo il secondo periodo sono inseriti i seguenti: "La comunicazione relativa al rilascio, al rifiuto, all'annullamento o alla revoca dell'autorizzazione e' effettuata, secondo le modalita' previste dagli articoli 38 e 42 del predetto regolamento (UE) 2018/1240, esclusivamente tramite il servizio di posta elettronica ed e' inviata all'indirizzo di posta elettronica di cui all'articolo 17, paragrafo 2, lettera g), del medesimo regolamento, fornito dal richiedente nel modulo di domanda. La notificazione si intende perfezionata nel momento dell'avvenuto invio del messaggio di posta elettronica".))

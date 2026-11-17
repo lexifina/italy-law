@@ -1,3 +1,0 @@
-Convention sur les assurances sociales entre l'Italie et la Belgique
-
-Parte di provvedimento in formato grafico

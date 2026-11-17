@@ -1,7 +1,0 @@
-Art. 48-bis.
-
-1.
-
-Per le trattative e gli aspetti che possono incidere nelle disposizioni del presente decreto, l'agenzia prevista dall'articolo 50 del decreto legislativo 3 febbraio 1993, n. 29, richiede, per gli effetti previsti dall'art. 73, comma 1, dello stesso decreto legislativo, la partecipazione alle trattative del commissario del Governo per la provincia di Bolzano o di suoi delegati, ovvero puo' essere sostituita dal predetto commissario. I contratti di cui al titolo terzo del decreto legislativo 3 febbraio 1993, n. 29, una volta conclusasi la procedura di cui all'articolo 51 dello stesso decreto, sono suscettibili di contrattazione di raccordo per le particolarita' relative all'art. 89 dello statuto della regione Trentino-Alto Adige e delle relative norme di attuazione. A tal fine entro trenta giorni dall'invio al commissario del Governo del testo dell'accordo si incontrano il consiglio di amministrazione dei ruoli locali ed i rappresentanti delle organizzazioni sindacali maggiormente rappresentative in campo provinciale. L'autorizzazione alla sottoscrizione delle trattative e' rilasciata al commissario del Governo con le modalita' di cui all'articolo 51 del decreto legislativo 3 febbraio 1993, n. 29.
-
-((2. Con i contratti collettivi di cui al comma 1 sono definite altresi' le modalita' di informazione delle organizzazioni sindacali e le nuove forme di partecipazione delle stesse ai sensi dell'articolo 48 del decreto legislativo 3 febbraio 1993, n. 29))

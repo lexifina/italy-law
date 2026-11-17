@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/1.63/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/1.63"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/1.63/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.63"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/1.63/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDJQF2X3CQRRMAL4F0SCBKFLWXZKYZAMIK2P1MQLIGXNGG4DNX2LBF" href="http://dati.senato.it/29156" showAs="PANIZZA"/>
+				<an:TLCPerson id="IDP41RKGB45ZZLLBCFITKL2I1AFCD41I5BBTXD0EOUWXRSEEK3541E" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+				<an:TLCPerson id="IDELIHHFAOUEKS1X4U5PRGUAI2LKCBNALM3GKFDLDNSTXVOPTAQ2N" href="http://dati.senato.it/29045" showAs="BERGER"/>
+				<an:TLCPerson id="IDZQHRRRTW3K1NM2GR32BZYGBRWLX3UFJQ04KSVQDYECBTL4GHSUWD" href="http://dati.senato.it/29121" showAs="Fausto Guilherme LONGO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.63</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJQF2X3CQRRMAL4F0SCBKFLWXZKYZAMIK2P1MQLIGXNGG4DNX2LBF" as="#tipoSenatore">PANIZZA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDP41RKGB45ZZLLBCFITKL2I1AFCD41I5BBTXD0EOUWXRSEEK3541E" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDELIHHFAOUEKS1X4U5PRGUAI2LKCBNALM3GKFDLDNSTXVOPTAQ2N" as="#tipoSenatore">BERGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZQHRRRTW3K1NM2GR32BZYGBRWLX3UFJQ04KSVQDYECBTL4GHSUWD" as="#tipoSenatore">Fausto Guilherme LONGO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 4, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «4-
+					<an:i>bis.</an:i>
+					 Con riferimento ai terreni agricoli contraddistinti da particelle fondiarie di estensione inferiore a 5.000 metri quadrati, site in comuni montani, ricompresi nell'elenco delle zone svantaggiate di montagna ai sensi della Direttiva 75/268/CEE del Consiglio del 28 aprile 1975, i soggetti, iscritti all'Anagrafe delle aziende agricole di cui all'articolo 1 del Decreto del Presidente della Repubblica 1º dicembre 1999, n. 503, non sono tenuti a disporre del relativo titolo di conduzione ai fini della costituzione del fascicolo aziendale di cui all'articolo 9 del citato Decreto del Presidente della Repubblica n. 503 del 1999. Non costituisce caso d'uso ai sensi dell'articolo 6 del decreto del Presidente della Repubblica n. 131 del 1986 ("Approvazione del testo unico delle disposizioni concernenti l'imposta di registro") il deposito di un titolo di conduzione nel fascicolo aziendale o il suo utilizzo al fine di accedere agli eventuali benefici di cui al comma 4 dell'articolo 9 del decreto del Presidente della Repubblica 1º dicembre 1999, n. 503».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, nella rubrica, dopo le parole:</an:i>
+					 «in materia di»
+					<an:i>, inserire le seguenti:</an:i>
+					 «semplificazione e».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/2630/19/1"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@.akn"/>
+					<an:FRBRdate date="2017-02-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-02-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-02-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2630/C/G/2630/19/1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2630" showAs="DDL 2630"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="1ª Commissione permanente" href="/dati.senato.it/osr/Commissione/1"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDGRXKLUUE4OPSL4XLLD3OTEVREDQRVQRALHB40NN5EHA3PQQOUWJ" href="http://dati.senato.it/422" showAs="CALDEROLI"/>
+				<an:TLCPerson id="IDHE0O3MH43FSIIPQJVAIL20SA3LLNIX2WNELKEONNDX05BUFCHTKG" href="http://dati.senato.it/25531" showAs="COMAROLI"/>
+				<an:TLCPerson id="ID5013EZL0ZHYSNXWNED30AKHYCMBJIXCB2JJK1IO1CM0UWFOO3XHP" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2630</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/2630/19/1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGRXKLUUE4OPSL4XLLD3OTEVREDQRVQRALHB40NN5EHA3PQQOUWJ" as="#tipoSenatore">CALDEROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDHE0O3MH43FSIIPQJVAIL20SA3LLNIX2WNELKEONNDX05BUFCHTKG" as="#tipoSenatore">COMAROLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5013EZL0ZHYSNXWNED30AKHYCMBJIXCB2JJK1IO1CM0UWFOO3XHP" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del decreto-legge 30 dicembre 2016, n. 244,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>
+					            il decreto legge n. 193 del 2016 ha fissato, all'articolo 6-
+					<an:i>ter</an:i>
+					, alla febbraio 2017 quale1ermine per gli enti locali per deliberare sula rottamazione dei1e ingiunzioni, ossia per decidere o meno se istituire la sanatori a degli atti di riscossione coattiva delle entrate tributarie e patrimoni ali notificate dalle amministrazioni locali dal 2000 al 2016;
+				</an:p>
+				<an:p>            sarebbe però opportuno riferire suddetto termine alla data ultima per l'emanazione delle delibere e dei regolamenti e per l'approvazione dei bilanci preventivi, fissata con il presente decreto al 31 marzo 2017;</an:p>
+				<an:p>            infatti, i due diversi termini, quello per l'adozione dei regolamenti sulle entrate e quello per l'istituzione, sempre con regolamento, della definizione agevolata delle ingiunzioni, causerà difficoltà agli enti locali a causa del breve lasso di tempo a disposizione che rischia, in questo modo, di costituire un impedimento alla deliberazione della sanatori a, ledendo le legittime aspettative dei contribuenti di potersene avvalere;</an:p>
+				<an:p>        impegna il governo:</an:p>
+				<an:p>
+					            ad adottare, al più presto, le opportune iniziative legislative al fine di concedere agli enti locali un più congruo lasso di tempo per l'adozione dei regolamenti concernenti la sanatoria degli atti di riscossione coattiva delle entrate locali rispetto al termine fissato dall'articolo 6-
+					<an:i>ter</an:i>
+					 del decreto legge 22 ottobre 2016, n. 193, convertito in legge, con modificazioni, dall'articolo 1, comma 1, della legge 1º dicembre 2066, n. 225, ricadente attualmente nella data del 1º febbraio 2017.
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

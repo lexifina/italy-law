@@ -1,3 +1,0 @@
-ACCORDO COLLETTIVO 5 MAGGIO 1960 PER I MEZZADRI DELLA PROVINCIA DI BELLUNO.
-
-Parte di provvedimento in formato grafico

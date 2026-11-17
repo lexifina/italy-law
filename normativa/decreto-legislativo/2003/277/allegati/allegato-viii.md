@@ -1,0 +1,7 @@
+Allegato VIII
+
+(di cui all'art. 8, comma 1, lettera c)
+
+Allegato A
+
+Parte di provvedimento in formato grafico

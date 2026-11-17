@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G32-ter.102"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1638/A/G32-ter.102/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1638" showAs="DDL 1638"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDYOECSV1IHOB5F0EOOMLSEZ4XVEO4KYVIK2AWALH5OVIO5F12QHNB" href="http://dati.senato.it/32715" showAs="SIRI"/>
+				<an:TLCPerson id="ID3AOWJEPKJNJPNWWDNZBM1CTRIIAKNLPQW4PRTZPDWM2EOKTS0NAE" href="http://dati.senato.it/32712" showAs="SAVIANE"/>
+				<an:TLCPerson id="IDB2ZQVZC5DFEAMZYWGOEFBOD1XJ22JVX0IM5T3ENC2VKNUGY01EL" href="http://dati.senato.it/23015" showAs="MONTANI"/>
+				<an:TLCPerson id="ID0I4ZLYUYSNPQCLXA5VNHCJ3T3E3TPMCCJWN1STR43FZOKNYK1ZM" href="http://dati.senato.it/32582" showAs="BAGNAI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1638</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G32-ter.102</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDYOECSV1IHOB5F0EOOMLSEZ4XVEO4KYVIK2AWALH5OVIO5F12QHNB" as="#tipoSenatore">SIRI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID3AOWJEPKJNJPNWWDNZBM1CTRIIAKNLPQW4PRTZPDWM2EOKTS0NAE" as="#tipoSenatore">SAVIANE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB2ZQVZC5DFEAMZYWGOEFBOD1XJ22JVX0IM5T3ENC2VKNUGY01EL" as="#tipoSenatore">MONTANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0I4ZLYUYSNPQCLXA5VNHCJ3T3E3TPMCCJWN1STR43FZOKNYK1ZM" as="#tipoSenatore">BAGNAI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>        in sede di esame del disegno di legge recante «Conversione in legge, con modificazioni, del decreto-legge 26 ottobre 2019, n. 124, recante disposizioni urgenti in materia fiscale e per esigenze indifferibili», premesso che:</an:p>
+				<an:p>            il decreto-legge 26 ottobre 2019, n. 124, recante «Disposizioni urgenti in materia fiscale e per esigenze indifferibili» reca all'articolo 16 misure interna di semplificazioni fiscali;</an:p>
+				<an:p>            l'emergenza demografica dell'Italia e il calo della natalità richiedono un sistema di misure che favoriscano la formazione di famiglie, incentivino il continuo passaggio lavoro-famiglia delie donne, sostengano il mantenimento dei bambini nei primi armi di età,</an:p>
+				<an:p>            occorrono misure di sostegno alla natalità cui assegnare carattere prioritario per lo sviluppo del Paese rafforzando politiche sociali di sostegno alla famiglia che al giorno d'oggi è un importante ammortizzatore sociale;</an:p>
+				<an:p>            attualmente l'IVA sui prodotti igienico sanitari per la prima infanzia, come ad esempio i pannolini, resta quella ordinaria, al 22 per cento, nessuna tassa agevolata per questi beni di prima necessità che continuano ad essere trattati, dal punto di vista fiscale, alla stregua di beni di lusso,</an:p>
+				<an:p>            nell'esame del presente decreto è stato accolto un emendamento per la riduzione dell'Iva al 5 per cento per gli assorbenti compostabili o lavabili,</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare l'opportunità di prevedere le risorse necessarie per contrastare l'emergenza demografica attraverso una riduzione dell'Iva al 5 per cento sui prodotti igienico sanitari, anche usa e getta, per la prima infanzia.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

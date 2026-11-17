@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/10.8/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/10.8"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/10.8/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="10.8"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/10.8/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQPG3BASFQCWNNJ2DGAFL1HH2CHDDB0BEBL0LFIHN1SIHDWHD1PYK" href="http://dati.senato.it/32705" showAs="ROMANO"/>
+				<an:TLCPerson id="IDFL5XIHJJ4J2LORN0BS1VIZOCGH3EYAUA0N0UTBEKPQ1EW1TVHAE" href="http://dati.senato.it/32638" showAs="GALLICCHIO"/>
+				<an:TLCPerson id="IDDZZEAYBIFU5RCOHUOLRTLTDW4J4XKB5DBQHKQ2PHS5DVOZ5ANFOD" href="http://dati.senato.it/32652" showAs="LEONE"/>
+				<an:TLCPerson id="IDZ01ZGAWSXXNZL1GI4BP5ND4HCKFYSCMWWTCB4EOZLEULCWAC05QI" href="http://dati.senato.it/32608" showAs="CROATTI"/>
+				<an:TLCPerson id="IDOKIKSGJ2LT4HB23RNE1IKGQAUEPNRJHGYEHYEFG0OUMYEEYM2FNH" href="http://dati.senato.it/32725" showAs="TRENTACOSTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 10.8</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQPG3BASFQCWNNJ2DGAFL1HH2CHDDB0BEBL0LFIHN1SIHDWHD1PYK" as="#tipoSenatore">ROMANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFL5XIHJJ4J2LORN0BS1VIZOCGH3EYAUA0N0UTBEKPQ1EW1TVHAE" as="#tipoSenatore">GALLICCHIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDDZZEAYBIFU5RCOHUOLRTLTDW4J4XKB5DBQHKQ2PHS5DVOZ5ANFOD" as="#tipoSenatore">LEONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDZ01ZGAWSXXNZL1GI4BP5ND4HCKFYSCMWWTCB4EOZLEULCWAC05QI" as="#tipoSenatore">CROATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOKIKSGJ2LT4HB23RNE1IKGQAUEPNRJHGYEHYEFG0OUMYEEYM2FNH" as="#tipoSenatore">TRENTACOSTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 2, aggiungere, in fine, il seguente periodo:</an:i>
+					 «La medesima indennità è riconosciuta altresì alle guide ambientali escursionistiche che siano titolari di partita I.V.A. ed iscritte alle associazioni nazionali di categoria riconosciute dal Ministero dello sviluppo economico, ovvero ai registri delle professioni turistiche riconosciute ai sensi delle normative regionali di riferimento.».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

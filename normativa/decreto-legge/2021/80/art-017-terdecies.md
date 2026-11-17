@@ -1,0 +1,11 @@
+Art. 17-terdecies.
+
+(( (Personale del CONI).))
+
+((1. All'articolo 1 del decreto-legge 29 gennaio 2021, n. 5, convertito dalla legge 24 marzo 2021, n. 43, sono apportate le seguenti modificazioni:
+
+a) al comma 3, dopo le parole: "ai sensi delle vigenti disposizioni in materia di assunzioni" sono inserite le seguenti: "e ai sensi del comma 4";
+
+b) il comma 4 e' sostituito dal seguente:
+
+"4. Il CONI, con proprio atto, nell'ambito dell'autonomia organizzativa e in coerenza con gli standard di indipendenza e autonomia previsti dal Comitato olimpico internazionale nonche' dalla legge 31 gennaio 1992, n. 138, e dal decreto-legge 19 agosto 2003, n. 220, convertito, con modificazioni, dalla legge 17 ottobre 2003, n. 280, determina l'articolazione della propria dotazione organica nel rispetto dei limiti di cui al comma 1. Il personale di Sport e Salute S.p.A. di cui al comma 2, incluso quello dirigenziale, e' inquadrato tenuto conto delle attribuzioni previste dalle qualifiche e dai profili di provenienza, dei compiti svolti e della specificita' delle relative professionalita'. Con il medesimo atto sono stabiliti i criteri e le modalita' per il reclutamento, attraverso una o piu' procedure concorsuali da concludere entro il 31 dicembre 2021, del personale di cui al comma 3, per le singole qualifiche professionali, incluso il contingente di personale dirigenziale, nel rispetto dei principi di trasparenza, pubblicita' e imparzialita' e dei principi di cui all'articolo 35, comma 3, del decreto legislativo 30 marzo 2001, n. 165, e in deroga alle procedure di mobilita' di cui all'articolo 30, comma 2-bis, del predetto decreto legislativo n. 165 del 2001, nonche' a ogni altra procedura per l'assorbimento del personale in esubero. Le prove concorsuali possono svolgersi con modalita' semplificate ai sensi dell'articolo 10 del decreto-legge 1° aprile 2021, n. 44, convertito, con modificazioni, dalla legge 28 maggio 2021, n. 76, e consistere in una valutazione per titoli coerenti rispetto alle professionalita' di necessaria acquisizione e nell'espletamento di almeno una prova. Al personale si applica il contratto collettivo nazionale del personale, dirigenziale e non dirigenziale, del comparto Funzioni centrali-sezione enti pubblici non economici"))

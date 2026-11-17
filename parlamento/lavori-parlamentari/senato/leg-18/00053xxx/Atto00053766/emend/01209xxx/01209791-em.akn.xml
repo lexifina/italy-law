@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2120/A/3.0.19"/>
+					<an:FRBRdate date="2021-04-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="3.0.19"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@"/>
+					<an:FRBRdate date="2021-04-08" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@.akn"/>
+					<an:FRBRdate date="2021-04-08" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-04-08"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-04-08" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2120/A/3.0.19/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2120" showAs="DDL 2120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDBPSOIDPSEGAMLWBGDGFKVPIATIV5WNMQ130GVSGCS0JUXVDEUSVO" href="http://dati.senato.it/32645" showAs="IANNONE"/>
+				<an:TLCPerson id="IDOZ2ZWZT3TSSOGQZFKGVCVVP1AL4SRYTAG3UQC0HBG1I5IG30AMEN" href="http://dati.senato.it/32603" showAs="CIRIANI"/>
+				<an:TLCPerson id="IDFNJ5XDWYKRX5GS3V3GJHL40BNBNIYCB5EEI5AOD4U4ZL53R4NPV" href="http://dati.senato.it/1275" showAs="LA RUSSA"/>
+				<an:TLCPerson id="IDG02VRK0YQO0JPNRGP13MKWHBEGBIXF5H5PIMM0CAINC4LVW1AATD" href="http://dati.senato.it/22784" showAs="TOTARO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 3.0.19</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBPSOIDPSEGAMLWBGDGFKVPIATIV5WNMQ130GVSGCS0JUXVDEUSVO" as="#tipoSenatore">IANNONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOZ2ZWZT3TSSOGQZFKGVCVVP1AL4SRYTAG3UQC0HBG1I5IG30AMEN" as="#tipoSenatore">CIRIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFNJ5XDWYKRX5GS3V3GJHL40BNBNIYCB5EEI5AOD4U4ZL53R4NPV" as="#tipoSenatore">LA RUSSA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDG02VRK0YQO0JPNRGP13MKWHBEGBIXF5H5PIMM0CAINC4LVW1AATD" as="#tipoSenatore">TOTARO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 3
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				<an:p>        1. Il Presidente della provincia e i consiglieri provinciali sono eletti a suffragio universale e diretto con il sistema elettorale previsto dagli articoli 74 e 75 del testo unico delle leggi sull'ordinamento degli enti locali, di cui al decreto legislativo 18 agosto 2000, n. 267.  All'articolo 1 della legge 7 aprile 2014, n. 56, i commi da 58 a 78 sono abrogati.</an:p>
+				<an:p>        2. Il sindaco metropolitano e il consiglio metropolitano sono eletti a suffragio universale e diretto con il medesimo sistema elettorale previsto per le province, di cui all'articolo 1 della presente legge. All'articolo 1 della legge 7 aprile 2014, n. 56, i commi 19, 22 e da 25 a 39 sono abrogati.</an:p>
+				<an:p>        3. L'indennità spettante al Presidente della provincia e al sindaco metropolitano non può superare quella del sindaco del comune capoluogo della stessa provincia.  I consiglieri provinciali e metropolitani percepiscono un gettone di presenza per la partecipazione a consigli e commissioni. In nessun caso l'ammontare percepito mensilmente da un consigliere può superare l'importo pari a un sesto dell'indennità massima prevista per il rispettivo presidente della provincia o sindaco metropolitano.»</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

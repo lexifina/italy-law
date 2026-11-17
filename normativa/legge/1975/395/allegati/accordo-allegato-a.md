@@ -1,0 +1,5 @@
+ALLEGATO A
+
+CONTINGENTI DI BASE DI CUI AL PARAGRAFO 1 DELL'ARTICOLO 30
+
+Parte di provvedimento in formato grafico

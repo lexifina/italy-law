@@ -1,0 +1,3 @@
+Art. 29-quinquies.
+
+(( ARTICOLO ABROGATO DAL D.LGS. 7 MARZO 2005, N. 82 ))

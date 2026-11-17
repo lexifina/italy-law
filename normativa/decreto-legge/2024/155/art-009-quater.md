@@ -1,0 +1,5 @@
+Art. 9-quater.
+
+(( (Spesa farmaceutica per acquisti diretti). ))
+
+((1. All'articolo 1, comma 580, quarto periodo, della legge 30 dicembre 2018, n. 145, le parole: "secondo il criterio pro capite, e la comunica sia all'azienda sia alle regioni e province autonome" sono sostituite dalle seguenti: "al 50 per cento secondo il criterio pro capite e al 50 per cento variabile in proporzione ai rispettivi superamenti dei tetti di spesa, e la comunica sia all'azienda sia alle regioni e province autonome. Con decreto del Ministro della salute, di concerto con il Ministro dell'economia e delle finanze, acquisito il parere della Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, da adottare entro dieci giorni dalla data di entrata in vigore della presente disposizione, sono stabiliti i termini, le condizioni e le modalita' per la redistribuzione delle quote variabili di ripiano spettanti ad ogni regione e provincia autonoma, assicurando che dette quote variabili non siano superiori al 70 per cento ne' inferiori al 30 per cento dello sforamento fatto registrare"))

@@ -1,7 +1,0 @@
-Allegato V
-
-(articolo 3 - comma 1)
-
-FORMULARIO PER LE GARE D'APPALTO NEI SETTORI SPECIALI
-
-Parte di provvedimento in formato grafico

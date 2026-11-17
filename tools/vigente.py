@@ -2,14 +2,15 @@
 
     python tools/vigente.py 2000-01-01 costituzione 117          # art. 117 of the Constitution on 1 January 2000
     python tools/vigente.py 2023-01-01 costituzione              # the whole Constitution on 1 January 2023
-    python tools/vigente.py 2015-06-01 decreto-legislativo/2003/196 13    # art. 13 of the privacy code
-    python tools/vigente.py 2015-06-01 legge/1990/241 art-021-quater.md   # a file by name
+    python tools/vigente.py 2015-06-01 normativa/decreto-legislativo/2003/196 13    # art. 13 of the privacy code
+    python tools/vigente.py 2015-06-01 normativa/legge/1990/241 art-021-quater.md   # a file by name
 
 Each commit carries the day its change took effect in an `In-force:` trailer (git cannot store dates before 1970, so
 the trailer, not the commit date, is the source of truth). The text in force on a day is the file as of the last
 commit on main whose In-force day is on or before it. A path that is a folder prints every file in it. Standard
 library only.
 """
+import json
 import re
 import subprocess
 import sys
@@ -19,13 +20,18 @@ def git(*args: str) -> str:
     return subprocess.run(['git', *args], capture_output=True, text=True, encoding='utf-8', check=True).stdout
 
 
-def commit_on(day: str, path: str) -> str:
-    out = git('log', '--first-parent', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--', path)
+def commit_on(day: str, *paths: str) -> str:
+    out = git('log', '--first-parent', '--format=%H%x09%(trailers:key=In-force,valueonly,separator=)', 'main', '--',
+              *dict.fromkeys(paths))
     for line in out.splitlines():
         h, _, d = line.partition('\t')
         if d.strip() and d.strip() <= day:
             return h
     return ''
+
+
+def has(spec: str) -> bool:
+    return subprocess.run(['git', 'cat-file', '-e', spec], capture_output=True).returncode == 0
 
 
 def file_for(act: str, key: str) -> str:
@@ -43,9 +49,18 @@ def main():
     day, path = sys.argv[1], sys.argv[2].strip('/')
     if len(sys.argv) > 3:
         path = f'{path}/{file_for(path, sys.argv[3])}'
-    commit = commit_on(day, path)
+    # 2026-11-17 layout move (data/paths.json): act-type folders moved into normativa/, parliament into parlamento/.
+    # Old paths are accepted, and the history before the move is read under the old path.
+    moved = json.loads(git('show', 'main:data/paths.json')).get('paths', {}) if has('main:data/paths.json') else {}
+    head = path.split('/', 1)[0]
+    if head in moved:
+        path = moved[head] + path[len(head):]
+    old = next((k + path[len(v):] for k, v in moved.items() if path == v or path.startswith(v + '/')), path)
+    commit = commit_on(day, path, old)
     if not commit:
         sys.exit(f'{path} is not in the record on {day}.')
+    if not has(f'{commit}:{path}'):
+        path = old
     try:
         kind = git('cat-file', '-t', f'{commit}:{path}').strip()
     except subprocess.CalledProcessError:

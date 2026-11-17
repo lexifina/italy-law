@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/C/9.345/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/C/9.345"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2228/C/9.345/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="9.345"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@.akn"/>
+					<an:FRBRdate date="2010-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-07-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-07-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2228/C/9.345/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2228" showAs="DDL 2228"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/22167" showAs="Papania"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/1376" showAs="Lumia"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/22772" showAs="Pistorio"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/22701" showAs="Adragna"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/17557" showAs="Garraffa"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2228</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 9.345</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Papania</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Lumia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Pistorio</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Adragna</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Garraffa</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Aggiungere il seguente comma:</an:i>
+				</an:p>
+				<an:p>
+					        «38. Al fine di consentire la stabilizzazione dei soggetti destinatari del regime transitorio dei lavori socialmente utili ed impegnati nelle predette attività, ovvero titolari di contratti a termine in attuazione di processi di stabilizzazione, complessivamente da almeno otto anni, i limiti alle assunzioni a tempo indeterminato e a tempo determinato di cui alla presente legge e delle vigenti disposizioni in materia non trovano applicazione per le amministrazioni pubbliche di cui all'articolo 1, comma 2, del decreto legislativo 30 marzo 2001, n. 165, presso cui prestano servizio o svolgano la loro attività. Le amministrazioni pubbliche che attuano le procedure di stabilizzazione di cui al presente comma sono autorizzate, ai fini della determinazione degli obiettivi stabiliti dagli articoli 76 e 77-
+					<an:i>bis</an:i>
+					 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133, ad escludere dai relativi calcoli le somme connesse al processo di stabilizzazione. Le amministrazioni pubbliche, nelle more della conclusione delle procedure di stabilizzazione ed al fine di non compromettere l'azione amministrativa dalle stesse svolte, sono autorizzate ad avvalersi del personale, individuato nel presente comma, in servizio al 31 dicembre 2009 anche in deroga a quanto previsto delle vigenti disposizioni in materia e dagli articoli 76 e 77-
+					<an:i>bis</an:i>
+					 del decreto-legge 25 giugno 2008, n. 112, convertito, con modifIcazioni, dalla legge 6 agosto 2008, n. 133. Dall'applicazione del presente comma non derivano nuovi o maggiori oneri a carico del bilancio dello Stato».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

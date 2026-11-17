@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/72.0.23"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="72.0.23"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/72.0.23/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDD2RGP2RNO1JUCFXXXCLZKDSCPBBVM0IXQES4NDLAKON1B0JMDSTB" href="http://dati.senato.it/29099" showAs="FORNARO"/>
+				<an:TLCPerson id="IDH3W3HGKDPFIXGZW40CEAHQFMWKKZYZS5RMBGLPMCHDLIOVJKGAGH" href="http://dati.senato.it/29167" showAs="RICCHIUTI"/>
+				<an:TLCPerson id="IDJLQS22QQBJQQKQPIXVTAAIYZOPCX3NK22MGYG0PKKBILG02SPQAC" href="http://dati.senato.it/22767" showAs="PEGORER"/>
+				<an:TLCPerson id="IDBQYDZ0FCCCFILAQUL1JHOFISWL542CXXPS0TH3EFJD10D1ZTQQZJ" href="http://dati.senato.it/28580" showAs="GUERRA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 72.0.23</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD2RGP2RNO1JUCFXXXCLZKDSCPBBVM0IXQES4NDLAKON1B0JMDSTB" as="#tipoSenatore">FORNARO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDH3W3HGKDPFIXGZW40CEAHQFMWKKZYZS5RMBGLPMCHDLIOVJKGAGH" as="#tipoSenatore">RICCHIUTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJLQS22QQBJQQKQPIXVTAAIYZOPCX3NK22MGYG0PKKBILG02SPQAC" as="#tipoSenatore">PEGORER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBQYDZ0FCCCFILAQUL1JHOFISWL542CXXPS0TH3EFJD10D1ZTQQZJ" as="#tipoSenatore">GUERRA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, è inserito il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 72-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Modalità di quantificazione del Fondo crediti di dubbia esigibilità (FeDE))</an:i>
+				</an:p>
+				<an:p>        1. All'esempio 5 dell'appendice tecnica del principio della contabilità finanziaria allegato 4/2 al decreto legislativo 23 giugno 2011, n, 118, sono apportate le seguenti modificazioni:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 le parole: "2) calcolare, per ciascuna entrata di cui al punto 1) la media tra incassi in competenza e accertamenti degli ultimi 5 esercizi" sono sostituite dalle seguenti: "2) calcolare, per ciascuna entrata di cui al punto 1), la media tra la somma degli incassi in competenza e in conto residui rapportati agli accertamenti degli ultimi 5 esercizi";
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 le parole: "incassi di competenza es. X + incassi esercizio X+ 1 in residui X Accertamenti esercizio X", sono sostituite dalle seguenti: "incassi di competenza es. X + incassi in residui es. X Accertamenti esercizio X";
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 le parole: "Dopo 5 anni dall'adozione del principio della competenza finanziaria a regime, fondo crediti di dubbia esigibiiità è determinato sulla base della media, calcolata come media semplice, calcolata rispetto agli incassi in competenza e agli accertamenti nel quinquennio precedente." sono abrogate».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,7 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 30 e 42 del decreto del Presidente della Repubblica 5 gennaio 1967, n. 18, sull'ordinamento dell'Amministrazione degli affari esteri;
+
+Visto il decreto ministeriale 18 dicembre 1969, registrato alla Corte dei conti, addi' 26 gennaio 1970, registro n. 299, foglio n. 263, pubblicato nella Gazzetta Ufficiale n. 115 del 9 maggio 1970, relativo all'istituzione in Noumea (Nuova Caledonia) di un vice consolato di 2ª categoria;
+
+Sulla proposta del Ministro per gli affari esteri; Decreta:

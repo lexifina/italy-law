@@ -1,5 +1,0 @@
-Convenzione Consolare tra la Repubblica Italiana
-
-e la Repubblica Algerina Democratica e Popolare
-
-Parte di provvedimento in formato grafico

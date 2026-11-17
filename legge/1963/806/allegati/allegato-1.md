@@ -1,5 +1,0 @@
-ALLEGATO 1
-
-Convention internationale concernant le transport des voyageurs et des bagages par chemins de fer (CIV)
-
-Parte di provvedimento in formato grafico

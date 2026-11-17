@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2207/A/G1.28/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2207/A/G1.28"/>
+					<an:FRBRdate date="2021-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2207/A/G1.28/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.28"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@"/>
+					<an:FRBRdate date="2021-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@.akn"/>
+					<an:FRBRdate date="2021-06-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-06-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-06-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2207/A/G1.28/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2207" showAs="DDL 2207"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDD00J2YCUEK3WNDA2TMKHCXB0OGE02IGRYG2CPGGNJXFUFOXVHQBN" href="http://dati.senato.it/32683" showAs="Emanuele PELLEGRINI"/>
+				<an:TLCPerson id="ID4SMKIOO0OZGLCWTZM14GZ21GONKN5WCRV4ZDUJJEU2OIW11YPKXK" href="http://dati.senato.it/32721" showAs="TESTOR"/>
+				<an:TLCPerson id="IDAGMB0KEXLU5EDN3NNCZ3OYJD2OI5FJLN3LLFQPD2KER4RGP0GM3I" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="IDCT33U0K11XCBPAIWRL5EWKJVBPYST5MCF0WCFZB2DYJYLG0N1N0O" href="http://dati.senato.it/30915" showAs="TOSATO"/>
+				<an:TLCPerson id="IDXQOIUF0XPO1OPOKLPL33HO05ZIJINWBXMJSYXRCSRAB42W3FC21F" href="http://dati.senato.it/32627" showAs="FAGGI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2207</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.28</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDD00J2YCUEK3WNDA2TMKHCXB0OGE02IGRYG2CPGGNJXFUFOXVHQBN" as="#tipoSenatore">Emanuele PELLEGRINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4SMKIOO0OZGLCWTZM14GZ21GONKN5WCRV4ZDUJJEU2OIW11YPKXK" as="#tipoSenatore">TESTOR</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDAGMB0KEXLU5EDN3NNCZ3OYJD2OI5FJLN3LLFQPD2KER4RGP0GM3I" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCT33U0K11XCBPAIWRL5EWKJVBPYST5MCF0WCFZB2DYJYLG0N1N0O" as="#tipoSenatore">TOSATO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXQOIUF0XPO1OPOKLPL33HO05ZIJINWBXMJSYXRCSRAB42W3FC21F" as="#tipoSenatore">FAGGI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p>            in sede di conversione in legge del decreto-legge 6 maggio 2021, n. 59, recante misure urgenti relative al Fondo complementare al Piano nazionale di ripresa e resilienza e altre misure urgenti per gli investimenti, Atto Senato 2207,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il presente provvedimento dispone l'approvazione del Piano nazionale per gli investimenti, finalizzato ad integrare con risorse nazionali per complessivi 30.622,46 milioni di euro, per gli anni dal 2021 al 2026, gli interventi del Piano nazionale di ripresa e resilienza (PNRR);</an:p>
+				<an:p>
+					            tali risorse si aggiungono dunque ai 204,5 miliardi di euro ai quali l'Italia avrà accesso grazie ai programmi europei 
+					<an:i>Recovery and Resilience Facility</an:i>
+					 e al React-EU, per il rilancio dell'economia nazionale, tra le più colpite dalla crisi economica connessa all'emergenza pandemica da COVID-19;
+				</an:p>
+				<an:p>            all'interno dei due piani, il PNRR e il piano nazionale complementare di cui al presente provvedimento, risulta centrale il settore delle infrastrutture, delle grandi opere pubbliche, nonché, in stretta connessione con l'obiettivo di una vera ed effettiva transizione ecologica, il settore dell'edilizia;</an:p>
+				<an:p>            in questo senso grande attenzione deve essere posta al tema della sicurezza e della qualità dei materiali necessari alla realizzazione delle suddette opere infrastrutturali;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            con specifico riferimento al calcestruzzo, materiale imprescindibile per il settore infrastrutturale ed edile, si segnala una differenza sostanziale tra la disciplina nazionale e quella della quasi totalità degli altri paesi europei e mondiali. La normativa italiana prevede esclusivamente un sistema di controllo della produzione, consentendo la miscelazione del calcestruzzo direttamente in autobetoniera, mentre negli altri paesi europei, come ad esempio la Francia e la Germania, la miscelazione del calcestruzzo è consentita esclusivamente in impianti fissi, destinando l'autobetoniera alla sola funzione di trasporto;</an:p>
+				<an:p>            studi recenti hanno dimostrato la presenza di una sensibile differenza qualitativa tra i due diversi sistemi di miscelazione, riscontrabile sia sul prodotto finito che, di conseguenza, sulla sicurezza stessa delle opere per le quali è utilizzato,</an:p>
+				<an:p>        impegna il Governo</an:p>
+				<an:p>            a valutare l'introduzione dell'obbligo dell'utilizzo degli impianti di miscelazione fissi, quale presupposto per una maggiore sicurezza delle grandi opere infrastrutturali che saranno realizzate all'interno del Piano nazionale di ripresa e resilienza e del Piano nazionale ad esso complementare</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

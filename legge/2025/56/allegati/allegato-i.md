@@ -1,9 +1,0 @@
-Allegato I
-
-(Articolo 1, comma 2)
-
-DECRETI LUOGOTENENZIALI
-
-(ANNI 1919-1946)
-
-Parte di provvedimento in formato grafico

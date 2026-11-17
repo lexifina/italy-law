@@ -1,0 +1,9 @@
+ALLEGATO 4
+
+Lista D
+
+PRODOTTI ITALIANI
+
+LA CUI IMPORTAZIONE E' LIBERATA IN PORTOGALLO
+
+Parte di provvedimento in formato grafico

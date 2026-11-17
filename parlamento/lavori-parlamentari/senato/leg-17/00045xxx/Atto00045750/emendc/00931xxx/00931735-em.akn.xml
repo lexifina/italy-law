@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14"/>
+					<an:FRBRdate date="2015-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G/1962/12/14"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@"/>
+					<an:FRBRdate date="2015-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@.akn"/>
+					<an:FRBRdate date="2015-07-15" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2015-07-15"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2015-07-15" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1962/C/G/1962/12/14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1962" showAs="DDL 1962"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Politiche dell'Unione europea" href="/dati.senato.it/osr/Commissione/14"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/29057" showAs="Caleo"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/29192" showAs="Vaccari"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/17698" showAs="Marinello"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/23060" showAs="Rossi"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/29062" showAs="Cardinali"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1962</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G/1962/12/14 (testo 2)</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Caleo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Vaccari</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Marinello</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Rossi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Cardinali</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato</an:p>
+				<an:p>        in sede di esame dell'A.S. 1962, recante Disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia all'Unione europea - Legge europea 2014,</an:p>
+				<an:p>        premesso che:</an:p>
+				<an:p>            il disegno di legge europea, prevista dalla legge 24 dicembre 2012, n. 234, recante «Norme generali sulla partecipazione dell'Italia alla formazione e all'attuazione della normativa e delle politiche dell'Unione europea», reca tutte le norme, diverse dalle deleghe, necessarie ad adempiere ad obblighi europei, finalizzate a superare il non corretto recepimento della normativa europea nell'ordinamento nazionale e i casi di pre-infrazione o le procedure di infrazione aperte nei confronti del nostro Paese, anche al fine di evitare oneri a carico dello Stato a seguito di sentenze di condanna della Corte di giustizia UE;</an:p>
+				<an:p>            l'articolo 21 del disegno di legge in esame interviene sulla disciplina relativa alla cattura degli uccelli a fini di richiamo, di cui all'articolo 4 della legge 11 febbraio 1992, n. 157, così come modificata, da ultimo dal decreto-legge n. 91 del 2014;</an:p>
+				<an:p>        considerato che:</an:p>
+				<an:p>            la direttiva n. 2009/147/UE, la cosiddetta «Direttiva uccelli», non ha inteso in alcun modo vietare l'uso di richiami vivi, così come risulta dalla Guida Interpretativa della Direttiva Uccelli - Comm. UE/Env. 2008;</an:p>
+				<an:p>
+					            gli uccelli possono essere prelevati in piccole quantità, con l'uso dei mezzi e metodi previsti all'articolo 8, ovvero in modo selettivo e non massivo, quale attività non di caccia, per il suo impiego misurato e pertanto lecito ai sensi dell'undicesimo considerando della direttiva, tramite l'uso di determinate reti, quali ad esempio quelle per l'attività di indagine ornitologica (
+					<an:i>mist-net</an:i>
+					), che va integrato con le competenze e l'esperienza degli operatori addetti, sia per il controllo diretto da parte del medesimo, che indiretto sotto la sorveglianza pubblica preposta, già da anni in atto;
+				</an:p>
+				<an:p>            a queste condizioni, non può sussistere alcun livello di rischio, perché la cattura è finalizzata alla cessione degli uccelli quali richiami vivi entro i contingenti prefissati, e comunque con ampia garanzia di totale verificabilità delle cessioni, così come previsto al punto 3.5.51 della citata Guida Interpretativa Direttiva Uccelli;</an:p>
+				<an:p>            questo tipo di deroga è altresì connesso all'articolo 8 della Direttiva, che indica la necessità di evitare la cattura e l'uccisione in massa o non selettiva e, in particolare, con i metodi dell'allegato IV della Direttiva stessa;</an:p>
+				<an:p>            inoltre, gli impianti gestiti su autorizzazione regionale, soprattutto quelli a reti verticali, rappresentano elementi tipici e tradizionali in molte regioni, gestite con professionalità e competenza;</an:p>
+				<an:p>        impegna il Governo:</an:p>
+				<an:p>            a valutare la possibilità di introdurre le idonee modifiche normative, compatibili con il diritto dell'Unione europea, volte a definire la portata interpretativa dell'espressione «impianti» prevista all'articolo 21 del disegno di legge in esame, cui le istituzioni dovranno attenersi, con particolare riferimento all'uso ragionevole delle piccole quantità, alla vigilanza che offra garanzie verificabili rispetto alla selettività del metodo di cattura, all'impiego misurato e alle condizioni rigidamente controllate, venendo ragionevolmente meno ogni rischio di superare il contingente di catture annualmente ammesso nonché il rischio nell'uso di reti espressamente indicate e da tempo autorizzate, garantendo così l'immediato rilascio di eventuali soggetti di altre specie non consentite".</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

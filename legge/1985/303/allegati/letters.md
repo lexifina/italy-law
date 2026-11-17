@@ -1,5 +1,0 @@
-Cairo, 28th of august 1984
-
-Excellency and Dear Friend,
-
-Parte di provvedimento in formato grafico

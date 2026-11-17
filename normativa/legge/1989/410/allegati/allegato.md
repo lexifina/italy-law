@@ -1,0 +1,11 @@
+ALLEGATO
+
+MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 13
+
+NOVEMBRE 1989, N. 370.
+
+All'articolo 1:
+
+al comma 1, lettera b), le parole: "quattro anni" sono sostituite dalle seguenti: "tre anni e tre mesi";
+
+al comma 1, lettera c), le parole: "non puo' comunque superare i due terzi del massimo della pena" sono sostituite dalle seguenti: "non puo' comunque superare un terzo del massimo della pena".

@@ -1,0 +1,15 @@
+UMBERTO I
+
+per grazia di Dio e per volonta' della Nazione
+
+RE D'ITALIA
+
+Sulla proposta del Nostro Ministro Segretario di Stato per gli Affari dell'Interno;
+
+Viste le istanze presentate dalla maggioranza degli elettori residenti nella frazione Viancino per ottenere la separazione dal comune di S. Germano Vercellese e l'aggregazione a quello di Crova;
+
+Vedute le deliberazioni del Consiglio comunale di San Germano Vercellese in data 31 gennaio 1884, 3 ottobre e 15 dicembre 1889, e quelle del Consiglio comunale di Crova, in data 8 settembre 1883, 12 maggio e 1° dicembre 1889;
+
+Vedute le deliberazioni del Consiglio provinciale di Novara in data 24 ottobre 1884 e 28 ottobre 1890;
+
+Veduto l'articolo 17 della legge comunale e provinciale vigente; Abbiamo decretato e decretiamo:

@@ -1,5 +1,0 @@
-Allegato II
-
-(previsto dall'art. 13, comma 1)
-
-((ALLEGATO ABROGATO DAL D.LGS. 25 SETTEMBRE 2026, N. 178))

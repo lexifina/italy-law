@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/6.0.248"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.0.248"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.248/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDWR5Q0RXQEG3BPPWIZZDKAGWLRN32JHGFNDFRFNH3IDSRVPW2EZDG" href="http://dati.senato.it/32718" showAs="STEGER"/>
+				<an:TLCPerson id="IDWDJKYNPTPTOOJ4QZIEDCFD5M1GYREVYXA0F3OOJUOLGZH2KZ5MRB" href="http://dati.senato.it/32624" showAs="DURNWALDER"/>
+				<an:TLCPerson id="IDV1NSMFZ1FBEGINVUEUJSLFMD0PCSBX1MXAUGVIN4TORZDHUVGDAF" href="http://dati.senato.it/29115" showAs="LANIECE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.0.248</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWR5Q0RXQEG3BPPWIZZDKAGWLRN32JHGFNDFRFNH3IDSRVPW2EZDG" as="#tipoSenatore">STEGER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDWDJKYNPTPTOOJ4QZIEDCFD5M1GYREVYXA0F3OOJUOLGZH2KZ5MRB" as="#tipoSenatore">DURNWALDER</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDV1NSMFZ1FBEGINVUEUJSLFMD0PCSBX1MXAUGVIN4TORZDHUVGDAF" as="#tipoSenatore">LANIECE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					«Art. 6-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:i>(Riduzione parte variabile TARI)</an:i>
+				</an:p>
+				<an:p>        1. Ai fini del calcolo della quota variabile della Tari, l'Arera, con propria delibera, definisce criteri di correzione del coefficiente potenziale di produzione Kd, applicando una percentuale di variazione direttamente proporzionale ai minori quantitativi di rifiuti prodotti nel corso del 2021 a causa dell'emergenza epidemiologica da Covid-19, comunque non inferiore al 30 per cento della quota totale.</an:p>
+				<an:p>        2. Per il ristoro ai comuni delle minori entrate derivanti dall'applicazione del presente articolo, è istituito, nello stato di previsione del Ministero dell'interno, un fondo con una dotazione di 400 milioni di euro per l'anno 2021. Alla ripartizione del fondo tra gli enti interessati si provvede con decreto del Ministro dell'interno, di concerto con il Ministro dell'economia e delle finanze, d'intesa con la Conferenza Stato-città ed autonomie locali, da adottare entro sessanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto. Nel caso in cui ricorra la condizione prevista dal comma 3 dell'articolo 3 del decreto legislativo 28 agosto 1997, n. 281, il decreto è comunque adottato».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

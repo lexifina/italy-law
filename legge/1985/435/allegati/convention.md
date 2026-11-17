@@ -1,3 +1,0 @@
-DES CONTROLES DES MARCHANDISES AUX FRONTIERES
-
-Parte di provvedimento in formato grafico

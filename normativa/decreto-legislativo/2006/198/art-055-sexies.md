@@ -1,0 +1,13 @@
+Art. 55-sexies.
+
+((ARTICOLO ABROGATO DAL D.LGS. 1 SETTEMBRE 2011, N. 150))
+
+((9))
+
+--------------
+
+AGGIORNAMENTO (9)
+
+Il D.Lgs. 1 settembre 2011, n. 150 ha disposto (con l'art. 36, commi 1 e 2) che "1. Le norme del presente decreto si applicano ai procedimenti instaurati successivamente alla data di entrata in vigore dello stesso.
+
+2. Le norme abrogate o modificate dal presente decreto continuano ad applicarsi alle controversie pendenti alla data di entrata in vigore dello stesso."

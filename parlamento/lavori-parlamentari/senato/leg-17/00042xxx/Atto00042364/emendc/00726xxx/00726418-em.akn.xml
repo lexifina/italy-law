@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/23.79/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/23.79"/>
+					<an:FRBRdate date="2013-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/23.79/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="23.79"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@"/>
+					<an:FRBRdate date="2013-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@.akn"/>
+					<an:FRBRdate date="2013-11-20" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2013-11-20"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2013-11-20" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1120/C/23.79/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1120" showAs="DDL 1120"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Bilancio" href="/dati.senato.it/osr/Commissione/5"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EAB" href="http://dati.senato.it/senatore/29098" showAs="Fissore"/>
+				<an:TLCPerson id="EFB" href="http://dati.senato.it/senatore/23080" showAs="Tomaselli"/>
+				<an:TLCPerson id="EKB" href="http://dati.senato.it/senatore/29040" showAs="Astorre"/>
+				<an:TLCPerson id="EPB" href="http://dati.senato.it/senatore/29072" showAs="Collina"/>
+				<an:TLCPerson id="EUB" href="http://dati.senato.it/senatore/29092" showAs="Fabbri"/>
+				<an:TLCPerson id="EZB" href="http://dati.senato.it/senatore/29105" showAs="Giacobbe"/>
+				<an:TLCPerson id="E5B" href="http://dati.senato.it/senatore/29150" showAs="Orru'"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1120</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 23.79</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAB" as="#tipoSenatore">Fissore</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFB" as="#tipoSenatore">Tomaselli</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKB" as="#tipoSenatore">Astorre</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EPB" as="#tipoSenatore">Collina</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EUB" as="#tipoSenatore">Fabbri</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EZB" as="#tipoSenatore">Giacobbe</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E5B" as="#tipoSenatore">Orru'</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 8, inserire i seguenti:</an:i>
+				</an:p>
+				<an:p>
+					        «8-
+					<an:i>bis.</an:i>
+					 All'articolo 2, comma 1, del decreto-legge 31 agosto 2013, n. 102, convertito, con modificazioni, dalla legge 28 ottobre 2013, n. 124, le parole: ''fabbricati costruiti e destinati dall'impresa costruttrice alla vendita'' sono sostituite dalle seguenti: ''fabbricati costruiti ovvero oggetto degli interventi di cui all'articolo 3, comma 1, lettere 
+					<an:i>c)</an:i>
+					, 
+					<an:i>d)</an:i>
+					 ed 
+					<an:i>f)</an:i>
+					 del Testo Unico dell'edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380 e destinati dall'impresa edile alla vendita''.
+				</an:p>
+				<an:p>
+					        8-
+					<an:i>ter</an:i>
+					. All'articolo 13, comma 9-
+					<an:i>bis</an:i>
+					, del decreto-legge n. 201 del 2011, convertito con modificazioni, dalla legge 22 dicembre 2011, n. 214, le parole: ''fabbricati costruiti e destinati dall'impresa costruttrice alla vendita'', sono sostituite dalle seguenti: ''fabbricati costruiti ovvero oggetto degli interventi di cui all'articolo 3, comma 1, lettere 
+					<an:i>c)</an:i>
+					, 
+					<an:i>d)</an:i>
+					 ed 
+					<an:i>f)</an:i>
+					 del Testo Unico dell'edilizia di cui al decreto del Presidente della Repubblica 6 giugno 2001, n. 380 e destinati dall'impresa edile alla vendita''».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

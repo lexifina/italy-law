@@ -1,0 +1,7 @@
+Art. 25-bis.
+
+(( (Disposizioni per favorire l'impiego di mezzi telematici per le notificazioni di atti civili, amministrativi e stragiudiziali da parte degli avvocati). ))
+
+((1. Al fine di semplificare il procedimento di notificazione e favorire il raggiungimento degli obiettivi di efficienza del sistema giudiziario, funzionali all'attuazione del PNRR, all'articolo 3 della legge 21 gennaio 1994, n. 53, dopo il comma 2 e' inserito il seguente:
+
+"2-bis. E' consentita la notificazione tramite un invio postale generato con mezzi telematici. A tal fine, nella relazione di notificazione il notificante da' atto delle modalita' di invio e indica il nome, il cognome, la residenza o dimora o domicilio del destinatario, nonche' il domicilio del notificante, il numero del registro cronologico di cui all'articolo 8 e gli elementi previsti dal comma 2 del presente articolo. L'atto e' sottoscritto digitalmente dal notificante nel rispetto della normativa processuale, anche regolamentare, concernente la sottoscrizione, la trasmissione e la ricezione dei documenti informatici. L'ufficiale postale appone la propria firma digitale o un sigillo elettronico qualificato sul documento informatico, stampa la copia da notificare e l'avviso di ricevimento e confeziona il piego raccomandato, riportando su ciascuna pagina della copia da notificare il numero identificativo dell'invio postale e attestando la conformita' della copia al documento informatico trasmesso. Nell'avviso di ricevimento sono contenute le indicazioni di cui al comma 2"))

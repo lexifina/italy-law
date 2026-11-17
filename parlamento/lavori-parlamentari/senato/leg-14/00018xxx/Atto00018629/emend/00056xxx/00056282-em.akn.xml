@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G48/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G48"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G48/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G48"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@.akn"/>
+					<an:FRBRdate date="2003-01-21" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2003-01-21"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2003-01-21" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/1826/A/G48/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/1826" showAs="DDL 1826"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/3835" showAs="Manfredi"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/961" showAs="Ferrara"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/3918" showAs="Lauro"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/17617" showAs="Nocco"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/17588" showAs="Izzo"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/17562" showAs="Cantoni"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/17563" showAs="Girfatti"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/17602" showAs="Fasolino"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/1794" showAs="Pasinato"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1826</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G48</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Manfredi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Ferrara</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Lauro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Nocco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Izzo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Cantoni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Girfatti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Fasolino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Pasinato</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di esame del disegno di legge finanziaria per l'anno 2003,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il terremoto del 31 ottobre 2002 che ha colpito la provincia di Campobasso ha causato la perdita di vite umane a causa di difetti strutturali delle costruzioni abitative;</an:p>
+				<an:p align="justify">            in questi ultimi anni ci sono stati numerosi eventi sismici di intensità tale da arrecare ingenti danni a strutture pubbliche e private;</an:p>
+				<an:p align="justify">            sul territorio nazionale sono diffuse le situazioni di rischio che interessano una gran quantità di edifici;</an:p>
+				<an:p align="justify">        considerato che è fermo dal settembre 2001, in 13ª Commissione ambiente del Senato, il disegno di legge sull'istituzione del libretto di fabbricato che istituisce l'assicurazione per i danni agli edifici privati causati da evento calamitoso o da difetti di costruzione o manutenzione,</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            ad emanare con urgenza provvedimenti legislativi finalizzati all'istituzione dell'assicurazione per edifici privati, che tengano conto dell'opportunità di:</an:p>
+				<an:p align="justify">                1) prevedere un assicurazione per un valore non inferiore al costo di ricostruzione, sia per rovina dell'edificio, incendio, responsabilità civile nei confronti di terzi, ai sensi dell'articolo 2054 del codice civile, sia per i rischi di invalidità permanente o di morte degli occupanti degli immobili stessi a causa di eventi determinati da cedimenti strutturali degli edifici;</an:p>
+				<an:p align="justify">                2) prevedere che l'assicurazione sia estesa anche agli impianti di riscaldamento, elettrico e telefonico;</an:p>
+				<an:p align="justify">                3) promuovere una convenzione nazionale con le società di assicurazioni e con le associazioni della proprietà edilizia per la definizione di premi assicurativi agevolati per i fabbricati privati dotati di fascicolo di sicurezza.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo come raccomandazione</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

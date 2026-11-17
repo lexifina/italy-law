@@ -1,0 +1,3 @@
+AGREEMENT BETWEEN THE REPUBLIC OF ITALY AND THE ARAB REPUBLIC OF EGYPT
+
+Parte di provvedimento in formato grafico

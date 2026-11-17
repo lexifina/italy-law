@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.36/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.36"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.36/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="13.36"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@.akn"/>
+					<an:FRBRdate date="2018-01-26" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-01-26"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-01-26" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1541/C/13.36/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1541" showAs="DDL 1541"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="Commissioni 10° e 13° riunite" href="/dati.senato.it/osr/Commissione/156"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDB30EJXFKIZJO0YSFV2REJDEFL0OXAP1G5US3VE0ECTFEK5IZELL" href="http://dati.senato.it/29142" showAs="MORONESE"/>
+				<an:TLCPerson id="ID5331S04D1YOKGGKXUSXSO2AQZLZ1D5KTUONTGRIPZ5VCIGAZRBOC" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDQRSPNLEA152JDET2F1GEYQEE4KCYHL2OV2W5EEO31PJKJSR2KLCF" href="http://dati.senato.it/29130" showAs="MARTELLI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1541</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 13.36</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDB30EJXFKIZJO0YSFV2REJDEFL0OXAP1G5US3VE0ECTFEK5IZELL" as="#tipoSenatore">MORONESE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5331S04D1YOKGGKXUSXSO2AQZLZ1D5KTUONTGRIPZ5VCIGAZRBOC" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQRSPNLEA152JDET2F1GEYQEE4KCYHL2OV2W5EEO31PJKJSR2KLCF" as="#tipoSenatore">MARTELLI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «Art. 242-
+					<an:i>bis»</an:i>
+					, 
+					<an:i>comma 3 sostituire le parole:</an:i>
+					 "Il piano è approvato nei successivi quarantacinque giorni. In via sperimentale, per i procedimenti avviati entro il 31 dicembre 2017, decorso inutilmente il termine di cui al periodo precedente, il piano di caratterizzazione si intende approvato." 
+					<an:i>con le seguenti:</an:i>
+					 "Il piano è approvato nei successivi sessanta giorni, anche con eventuali prescrizioni. L'Autorità può richiedere integrazioni una sola volta e, in tal caso, i termini sono sospesi fino all'invio da parte del proponente della documentazione richiesta. In via sperimentale, per i procedimenti avviati entro il 31 dicembre 2017, decorso inutilmente il termine di cui al periodo precedente, il piano di caratterizzazione si intende approvato fatto salvo il caso in cui siano giunte osservazioni dal pubblico interessato o da altri enti. In tal caso l'Autorità deve comunque motivare adeguatamente il provvedimento di approvazione anche rispetto alle osservazioni pervenute"».
+				</an:p>
+				<an:p/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

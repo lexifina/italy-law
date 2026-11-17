@@ -1,0 +1,12 @@
+# Legge 31 ottobre 1967, n. 1090
+
+- Tipo: Ordinaria
+- Numero: 1090
+- Data: 1967-10-31
+- Titolo: Modifica  alla  tabella  A annessa alla legge 14 luglio 1965, n. 902, per  la  promozione  alla  qualifica  di segretario capo delle scuole secondarie  di  primo  grado e degli istituti di istruzione classica, scientifica e magistrale.
+- Pubblicazione: (Pubblicata nella G.U. del 30 novembre 1967 n. 299)
+- Legislatura: IV legislatura della Repubblica (repubblica_04)
+- Testo (Normattiva): http://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:1967-10-31;1090
+- Lavori preparatori: http://www.camera.it/uri-res/N2Ls?urn:camera-it:parlamento:scheda.progetto.legge:camera;4.legislatura;3747
+- Scheda (dati.camera.it): http://dati.camera.it/ocd/legge.rdf/L1967_1090
+- Fonte: Camera dei deputati, dati.camera.it (linked open data), licenza Creative Commons Attribuzione - Condividi allo stesso modo 4.0 (CC BY-SA 4.0).

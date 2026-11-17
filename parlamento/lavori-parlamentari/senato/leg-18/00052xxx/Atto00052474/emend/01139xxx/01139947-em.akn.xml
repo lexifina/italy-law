@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/71.0.5"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="71.0.5"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@.akn"/>
+					<an:FRBRdate date="2019-12-17" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2019-12-17"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2019-12-17" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1586/A/71.0.5/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1586" showAs="DDL 1586"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDFW2BQHAA1TLCGV5HHQ5MBFDPRLFYUQT4N1L2RACNRVRUWXWKZAFC" href="http://dati.senato.it/29039" showAs="ARRIGONI"/>
+				<an:TLCPerson id="ID2CHSWIXR1VVUJMLHZC5LLHNZZFBYCOFAMUB1DHCTP1XN4UZ0SZJD" href="http://dati.senato.it/32686" showAs="PERGREFFI"/>
+				<an:TLCPerson id="IDRQ0B3AG5H2FSBOE1YQ4ZEUX14M0APWIFRL1G45HRERUJFFQVTK5M" href="http://dati.senato.it/32733" showAs="ZULIANI"/>
+				<an:TLCPerson id="IDUDE5OTHW0DSOR1RSJOEJ0PZMOUFGRT4SO1NH4C1N0JZ55BXZMAJ" href="http://dati.senato.it/32633" showAs="FERRERO"/>
+				<an:TLCPerson id="ID4L15TSBF2DJQDQTWIX43XW1T1GMIBIAQO3AKSWIPJGMNEIHRGH4D" href="http://dati.senato.it/32694" showAs="Pietro PISANI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1586</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 71.0.5</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDFW2BQHAA1TLCGV5HHQ5MBFDPRLFYUQT4N1L2RACNRVRUWXWKZAFC" as="#tipoSenatore">ARRIGONI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID2CHSWIXR1VVUJMLHZC5LLHNZZFBYCOFAMUB1DHCTP1XN4UZ0SZJD" as="#tipoSenatore">PERGREFFI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRQ0B3AG5H2FSBOE1YQ4ZEUX14M0APWIFRL1G45HRERUJFFQVTK5M" as="#tipoSenatore">ZULIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUDE5OTHW0DSOR1RSJOEJ0PZMOUFGRT4SO1NH4C1N0JZ55BXZMAJ" as="#tipoSenatore">FERRERO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID4L15TSBF2DJQDQTWIX43XW1T1GMIBIAQO3AKSWIPJGMNEIHRGH4D" as="#tipoSenatore">Pietro PISANI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 71-
+					<an:strong>
+						<an:i>bis.</an:i>
+					</an:strong>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Ritardati pagamenti nei contratti pubblici di lavori)</an:i>
+				</an:p>
+				<an:p>
+					        1. All'articolo 113-
+					<an:i>bis</an:i>
+					 del decreto legislativo 18 aprile 2016, n. 50, sono apportate le seguenti modifiche:
+				</an:p>
+				<an:p>        1) al comma 1:</an:p>
+				<an:p>            le parole: ''dall'adozione'' sono sostituite con le seguenti: ''dalla maturazione'';</an:p>
+				<an:p>            il secondo ed ultimo periodo è sostituito con il seguente: ''Nell'ambito del predetto termine, il direttore dei lavori rilascia lo stato di avanzamento e il responsabile unico del procedimento emette il certificato di pagamento relativo al medesimo, quest'ultimo comunque entro un termine non superiore a sette giorni dalla maturazione dello stato di avanzamento''.</an:p>
+				<an:p>        2) al comma 2, le parole: ''rilascia il certificato di pagamento ai fini dell'emissione della fattura da parte dell'appaltatore'' sono sostituite con le seguenti: ''emette il certificato di pagamento'';</an:p>
+				<an:p>        3) al comma 3, le parole: ''Resta fermo'' sono sostituite con le seguenti: ''I termini di cui ai commi 1 e 2 soddisfano''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

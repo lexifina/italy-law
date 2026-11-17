@@ -1,7 +1,0 @@
-Allegato A
-
-Denominazioni,stemmi,emblemi
-
-e altri distintivi della Polizia di Stato
-
-Parte di provvedimento in formato grafico

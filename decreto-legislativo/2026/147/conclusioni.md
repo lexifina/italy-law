@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Dato a Roma, addi' 7 agosto 2026
-
-MATTARELLA Meloni, Presidente del Consiglio dei ministri Giorgetti, Ministro dell'economia e delle finanze Calderoli, Ministro per gli affari regionali e le autonomie Piantedosi, Ministro dell'interno Visto, il Guardasigilli: Nordio _______ Avvertenza: Il presente decreto legislativo e' pubblicato, per motivi di massima urgenza, senza note, ai sensi dell'art. 8, comma 3, del regolamento di esecuzione del testo unico delle disposizioni sulla promulgazione delle leggi, sulla emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con decreto del Presidente della Repubblica 14 marzo 1986, n. 217. Nella Gazzetta Ufficiale - Serie generale - del 4 settembre 2026, si procedera' alla ripubblicazione del testo del presente decreto legislativo corredato delle relative note, ai sensi dell'art. 10, comma 3, del D.P.R. 28 dicembre 1985, n. 1092.

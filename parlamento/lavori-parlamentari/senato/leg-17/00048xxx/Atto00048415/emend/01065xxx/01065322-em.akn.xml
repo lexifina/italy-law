@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/50.0.4"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="50.0.4"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@.akn"/>
+					<an:FRBRdate date="2018-02-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-02-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-02-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2960/A/50.0.4/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2960" showAs="DDL 2960"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDUSCB5RBV5ODZEZWD54EYX5YCKBGC3J2WQM5PCNLFA0UXITM2IWYD" href="http://dati.senato.it/29126" showAs="MANDELLI"/>
+				<an:TLCPerson id="ID5JAVJ525YWUTOE00IJDHDZ4XQKV13PEJSHN5IXD3HV4B4KP4SRZ" href="http://dati.senato.it/3923" showAs="AZZOLLINI"/>
+				<an:TLCPerson id="IDKOIC4UN4XQVBNMT4XQIPOAL2IZOUQVYJSIFT1BYELBJPDQDQ12I" href="http://dati.senato.it/31391" showAs="BOCCARDI"/>
+				<an:TLCPerson id="IDRDJZMS5YHDKZB05A2JMGABIMMO52UFSLGBB1VGCFHEXJL2VILMPH" href="http://dati.senato.it/22899" showAs="CERONI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2960</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 50.0.4</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUSCB5RBV5ODZEZWD54EYX5YCKBGC3J2WQM5PCNLFA0UXITM2IWYD" as="#tipoSenatore">MANDELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5JAVJ525YWUTOE00IJDHDZ4XQKV13PEJSHN5IXD3HV4B4KP4SRZ" as="#tipoSenatore">AZZOLLINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDKOIC4UN4XQVBNMT4XQIPOAL2IZOUQVYJSIFT1BYELBJPDQDQ12I" as="#tipoSenatore">BOCCARDI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRDJZMS5YHDKZB05A2JMGABIMMO52UFSLGBB1VGCFHEXJL2VILMPH" as="#tipoSenatore">CERONI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 50-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="center">
+					<an:i>(Tributo speciale per il deposito in discarica e in impianti di incenerimento dei rifiuti)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 3 della legge 28 dicembre 1995;n. 549, e successive modificazioni, recante "Misure di razionalizzazione della finanzia pubblica", sono apportate le seguenti modifiche:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 al comma 27 dopo le parole: "Il tributo è dovuto alle regioni." è aggiunto il seguente periodo: "Una quota parte del gettito è destinata ai comuni ove sono ubicati le discariche o gli impianti di incenerimento senza recupero energetico e ai comuni limitrofi, effettivamente interessati dal disagio provocato dalla presenza dell'impianto, per la realizzazione di interventi inerenti il miglioramento ambientale del territorio interessato dalla presenza dell'rimpianto, la tutela igienico-sanitaria dei cittadini residenti nei territorio limitrofi all'impianto, lo sviluppo di sistemi di controllo e di monitoraggio ambientale e la gestione integrata dei rifiuti urbani."; al secondo periodo le parole: "Il gettito" sono sostituite con le seguenti: "Il restante gettito";
+				</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al comma 30, quarto periodo, dopo le parole: "presentazione della dichiarazione", sono aggiunte le seguenti: ", nonché le modalità di ripartizione della quota spettante ai comuni di cui al comma 27, sulla base dei seguenti criteri generali: caratteristiche socio-economico-ambientali dei territori interessati, superficie dei comuni interessati, popolazione residente nell'area interessata e sistema di asservita"».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100"/>
+					<an:FRBRdate date="2005-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G3.100"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@"/>
+					<an:FRBRdate date="2005-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@.akn"/>
+					<an:FRBRdate date="2005-07-27" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2005-07-27"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2005-07-27" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/14/Emend/S/3500-B/A/G3.100/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/14/3500-B" showAs="DDL 3500-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="E3" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="EBB" href="http://dati.senato.it/senatore/2437" showAs="Turroni"/>
+				<an:TLCPerson id="EGB" href="http://dati.senato.it/senatore/3852" showAs="Ripamonti"/>
+				<an:TLCPerson id="ELB" href="http://dati.senato.it/senatore/3897" showAs="Boco"/>
+				<an:TLCPerson id="EQB" href="http://dati.senato.it/senatore/479" showAs="Carella"/>
+				<an:TLCPerson id="EVB" href="http://dati.senato.it/senatore/3848" showAs="Cortiana"/>
+				<an:TLCPerson id="E1B" href="http://dati.senato.it/senatore/3907" showAs="De Zulueta"/>
+				<an:TLCPerson id="E6B" href="http://dati.senato.it/senatore/891" showAs="Donati"/>
+				<an:TLCPerson id="EEC" href="http://dati.senato.it/senatore/17661" showAs="Zancan"/>
+				<an:TLCPerson id="EJC" href="http://dati.senato.it/senatore/384" showAs="Brunale"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 3500-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G3.100</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E3" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EBB" as="#tipoSenatore">Turroni</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EGB" as="#tipoSenatore">Ripamonti</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ELB" as="#tipoSenatore">Boco</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EQB" as="#tipoSenatore">Carella</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EVB" as="#tipoSenatore">Cortiana</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E1B" as="#tipoSenatore">De Zulueta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E6B" as="#tipoSenatore">Donati</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EEC" as="#tipoSenatore">Zancan</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EJC" as="#tipoSenatore">Brunale</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">            in sede di discussione del decreto-legge 17 giugno 2005, n. 106, recante disposizioni urgenti in materia di entrate,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">
+					            all'articolo 3, comma 2 lettera a), nel corso dell'esame in assemblea, sono state apportate alcune modifiche, in particolare, è stata introdotta una procedura attraverso la quale l'elenco degli immobili individuati e consegnati ai sensi del comma 13-
+					<an:i>ter</an:i>
+					 dell'articolo 27 del decreto-legge 30 settembre 2003, n. 269, è sottoposto al Ministro per i beni e le attività culturali, il quale, nel termine di 120 giorni dalla pubblicazione del decreto di individuazione, provvede, attraverso le competenti soprintendenze, a verificare quali tra detti beni siano soggetti a tutela ai sensi del codice dei beni culturali di cui al decreto legislativo n. 42 del 2004, dandone comunicazione al Ministro dell'economia e delle finanze. L'Agenzia del demanio apporta le conseguenti modifiche all'elenco degli immobili;
+				</an:p>
+				<an:p align="justify">            nel corso dell'esame alla Camera dei deputati, il predetto termine di 120 giorni è stato ridotto a 90 giorni;</an:p>
+				<an:p align="justify">        in considerazione della necessità di procedere ad una accurata verifica dell'interesse culturale degli immobili della difesa oggetto di dismissione;</an:p>
+				<an:p align="justify">        tenendo conto che il decreto di individuazione è stato pubblicato il 20 giugno, il termine di 90 giorni per la verifica verrebbe a scadere il 20 settembre, contraendo oltre ogni modo, anche per la pausa estiva, i tempi a disposizione del Ministero dei beni culturali per l'espressione del necessario assenso per la dismissione,</an:p>
+				<an:p align="justify">        impegna il Governo ad adoperarsi al fine di rendere possibile un intervallo temporale commisurabile ai 120 giorni affinché il Ministro dei beni culturali sia messo in condizione di avere il tempo necessario per valutare attentamente la natura dei beni della difesa oggetto di dismissione.</an:p>
+				<an:p align="justify">________________</an:p>
+				<an:p align="justify">(*) Accolto dal Governo</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

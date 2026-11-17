@@ -1,5 +1,0 @@
-Il presente decreto, munito del sigillo dello Stato, sara' inserito nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarlo e di farlo osservare.
-
-Roma, 7 maggio 2001
-
-Il Ministro delle finanze Del Turco Il Ministro delle politiche agricole e forestali Pecoraro Scanio Il Ministro del tesoro, del bilancio e della programmazione economica Visco Visto, il Guardasigilli: Fassino Registrato alla Corte dei conti il 29 maggio 2001 Ufficio di controllo sui Ministeri economico-finanziari, registro n. 2 Finanze, foglio n. 18 Avvertenza: Il testo delle note qui pubblicato e' stato redatto dall'amministrazione competente per materia, ai sensi dell'art. 10, comma 3, del testo unico delle disposizioni sulla promulgazione delle leggi, sull'emanazione dei decreti del Presidente della Repubblica e sulle pubblicazioni ufficiali della Repubblica italiana, approvato con D.P.R. 28 dicembre 1985, n. 1092, al solo fine di facilitare la lettura delle disposizioni di legge modificate o alle quali e' operato il rinvio. Restano invariati il valore e l'efficacia degli atti legislativi qui trascritti.

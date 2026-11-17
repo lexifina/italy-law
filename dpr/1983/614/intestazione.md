@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-04 maggio 1983
-
-614
-
-Modificazioni allo statuto dell'Universita' degli studi di Bologna.

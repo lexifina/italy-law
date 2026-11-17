@@ -1,3 +1,0 @@
-Convention between the Government of the United Kingdom of Great Britain and Northern Ireland and the Government of the italian Republic for the Avoidance of double taxation and the prevention of fiscal evasion with respect to taxes on income.
-
-Parte di provvedimento in formato grafico

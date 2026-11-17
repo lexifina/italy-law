@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/6.0.41"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="6.0.41"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/6.0.41/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSR4PDIWZQJL5EGPVWARPI2CHBBQDQEUNAFH02CJJ1SX4AGRFG4GG" href="http://dati.senato.it/21507" showAs="MARINO"/>
+				<an:TLCPerson id="IDGK5DRVPJW4L3EBOF0I1LJENKWB45TNRRQ3BH53HM2CK1FVR0PRFF" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+				<an:TLCPerson id="IDQST2NCBEGTYOJSGNJP4FTIIIBKWGSFF1QZSTQKJHPPBEYZOXNVO" href="http://dati.senato.it/29395" showAs="FARAONE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 6.0.41</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSR4PDIWZQJL5EGPVWARPI2CHBBQDQEUNAFH02CJJ1SX4AGRFG4GG" as="#tipoSenatore">MARINO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDGK5DRVPJW4L3EBOF0I1LJENKWB45TNRRQ3BH53HM2CK1FVR0PRFF" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQST2NCBEGTYOJSGNJP4FTIIIBKWGSFF1QZSTQKJHPPBEYZOXNVO" as="#tipoSenatore">FARAONE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					«Art. 6-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:i>(Disposizioni urgenti per riqualificare e migliorare le strutture ricettive turistico-alberghiere e favorire l'imprenditorialità nel settore turistico)</an:i>
+				</an:p>
+				<an:p>        1. All'articolo 10 del decreto-legge 31 maggio 2014, n. 83, convertito, con modificazioni, dalla legge 29 luglio 2014, n. 106, e successive modificazioni, sono apportate le seguenti modifiche:</an:p>
+				<an:p>
+					<an:i>a)</an:i>
+					 il comma 1 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''1. Al fine di migliorare la qualità dell'offerta ricettiva per accrescere la competitività delle destinazioni turistiche, per il periodo d'imposta in corso al 2021 e per i due successivi, alle imprese alberghiere esistenti alla data del 1º gennaio 2018 è riconosciuto un credito d'imposta nella misura del 30 per cento delle spese sostenute fino ad un massimo di 200.000 euro nei periodi d'imposta sopra indicati per gli interventi di cui al comma 2. Il credito d'imposta è riconosciuto fino all'esaurimento dell'importo massimo di cui al comma 7.'';</an:p>
+				<an:p>
+					<an:i>b)</an:i>
+					 al comma 2, le parole: ''e di incremento dell'efficienza energetica'' sono sostituite dalle seguenti: ''o di incremento dell'efficienza energetica'';
+				</an:p>
+				<an:p>
+					<an:i>c)</an:i>
+					 dopo il comma 4, aggiungere il seguente:
+				</an:p>
+				<an:p>
+					        ''4-
+					<an:i>bis</an:i>
+					. I soggetti beneficiari dei crediti d'imposta suindicati possono, in luogo dell'utilizzo diretto, optare per la cessione, anche parziale, degli stessi crediti ad altri soggetti, ivi inclusi i locatori, gli istituti di credito e altri intermediari finanziari.'';
+				</an:p>
+				<an:p>
+					<an:i>d)</an:i>
+					 Il comma 7 è sostituito dal seguente:
+				</an:p>
+				<an:p>        ''7. Ai maggiori oneri derivanti dalla concessione del credito d'imposta di cui al comma 1, nel limite massimo complessivo di 20 milioni di euro per l'anno 2022, di 50 milioni di euro per l'anno 2023, di 41,7 milioni di euro per gli anni 2024 e 2025 e di 16,7 milioni di euro per l'armo 2026, si provvede mediante corrispondente riduzione del Fondo di cui all'articolo 1, comma 200, della legge 23 dicembre 2014, n. 190. Il credito d'imposta di cui al comma 1 in favore delle imprese alberghiere indicate al medesimo comma è riconosciuto altresì per le spese relative a ulteriori interventi, comprese quelle per l'acquisto di mobili e componenti d'arredo, a condizione che il beneficiario non ceda a terzi né destini a finalità estranee all'esercizio di impresa i beni oggetto degli investimenti prima dell'ottavo periodo d'imposta successivo''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

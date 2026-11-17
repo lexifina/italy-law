@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/54-B/C/1.22/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/54-B/C/1.22"/>
+					<an:FRBRdate date="2016-04-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/54-B/C/1.22/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.22"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@"/>
+					<an:FRBRdate date="2016-04-13" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@.akn"/>
+					<an:FRBRdate date="2016-04-13" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-04-13"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-04-13" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/54-B/C/1.22/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/54-B" showAs="DDL 54-B"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCOrganization id="commissione" showAs="2ª Commissione permanente" href="/dati.senato.it/osr/Commissione/2"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDQWK0UHUH1OZAEBKFPQ5X0AHWJGPQ1JC0QOJ22GOAEZVOGDONJGGB" href="http://dati.senato.it/senatore/17879" showAs="BUEMI"/>
+				<an:TLCPerson id="IDPFUFIIJLU1QONV1JOIGO03BWHJRZSCJQ0LFOPCP1P1VJAJP5GFHH" href="http://dati.senato.it/senatore/29121" showAs="Fausto Guilherme LONGO"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 54-B</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.22</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQWK0UHUH1OZAEBKFPQ5X0AHWJGPQ1JC0QOJ22GOAEZVOGDONJGGB" as="#tipoSenatore">BUEMI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDPFUFIIJLU1QONV1JOIGO03BWHJRZSCJQ0LFOPCP1P1VJAJP5GFHH" as="#tipoSenatore">Fausto Guilherme LONGO</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 1, capoverso</an:i>
+					 «3-
+					<an:i>bis</an:i>
+					»
+					<an:i>, in fine, dopo le parole:</an:i>
+					 «è membro.», 
+					<an:i>aggiungere le seguenti:</an:i>
+					 «Ai fini del presente articolo si considera svolta pubblicamente la condotta messa in atto mediante un prodotto editoriale di cui all'articolo 1, comma 1, della legge 7 marzo 2001, n. 62. Il precedente periodo si applica altresì alla condotta che ha luogo con l'impiego diretto od interconnesso di sistemi informatici o mezzi di comunicazione telematica, ovvero utilizzando reti di telecomunicazione disponibili, quando la comunicazione è data occultando o travisandone la provenienza».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

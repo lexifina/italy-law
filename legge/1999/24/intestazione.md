@@ -1,9 +1,0 @@
-LEGGE
-
-26 gennaio 1999
-
-24
-
-Ratifica ed esecuzione della convenzione relativa all'adesione della Repubblica d'Austria, della Repubblica di Finlandia e del Regno di Svezia alla convenzione concernente la competenza giurisdizionale e l'esecuzione delle decisioni in materia civile e commerciale, nonche' al protocollo relativo alla sua interpretazione da parte della Corte di giustizia, con gli adattamenti ad essi apportati dalle convenzioni relative all'adesione, rispettivamente, del Regno di Danimarca, dell'Irlanda e del Regno Unito di Gran Bretagna e Irlanda del Nord, della Repubblica ellenica, del Regno di Spagna e della Repubblica portoghese, fatta a Bruxelles il 29 novembre 1996.
-
-Entrata in vigore della legge: 13/2/1999

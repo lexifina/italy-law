@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/G1.3/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/G1.3"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/2518/A/G1.3/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G1.3"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@.akn"/>
+					<an:FRBRdate date="2011-02-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2011-02-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2011-02-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/2518/A/G1.3/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/2518" showAs="DDL 2518"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/22717" showAs="Bonfrisco"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2518</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G1.3</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Bonfrisco</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            con il decreto-legge 78/2010 convertito con modificazioni dalla legge 122/2010 sono state dettate norme in materia di antiriciclaggio che prescrivono adempimenti da parte degli esercenti attività commerciali;</an:p>
+				<an:p align="justify">            in particolare all'art. 21 vengono prescritti obblighi di comunicazioni telematiche all'Agenzia delle Entrate disciplinate con provvedimento del Direttore dell'Agenzia delle Entrate;</an:p>
+				<an:p align="justify">            che con provvedimento del 22/12/2010 (prot. n. 2010/184182) sono stati fissati termini e modalità che impongono adempimenti complessi e gravosi a carico degli esercenti attività commerciali indipendentemente dalla dimensione e dalla consistenza numerica di dipendenti delle aziende commerciali medesime;</an:p>
+				<an:p align="justify">            tali adempimenti sono obbligati a partire dall'importo di 3.600 euro;</an:p>
+				<an:p align="justify">            particolarmente impegnativi ed onerosi sono gli adempimenti che riguardano le transazioni effettuate con cittadini stranieri per i quali sono previsti l'acquisizione di dati personali indipendentemente dalla conoscenza delle lingue imponendo in tal modo anche un'organizzazione specificamente dedicata ed onerosa per l'effettuazione di tali adempimenti;</an:p>
+				<an:p align="justify">            la ristrettezza dei tempi di avvio di tali obblighi decorre dal 30 aprile p.v. ed allo stato l'intero settore del commercio non è in condizione di assicurare il pieno rispetto dei predetti adempimenti ed obblighi,</an:p>
+				<an:p align="justify">        ritenuto che:</an:p>
+				<an:p align="justify">            la mancata previsione di un congruo termine non inferiore almeno ad un anno per mettere in condizione l'interno settore nazionale del commercio di organizzare il proprio adeguamento organizzativo e funzionale ai nuovi adempimenti predetti potendo in tal modo creare una situazione di ulteriore indebolimento di un settore così centrale per la vita economica del Paese già colpita dalla più grave crisi finanziaria che si ricordi:</an:p>
+				<an:p align="justify">        impegna il Governo:</an:p>
+				<an:p align="justify">            pregiudizio per la vita economica e sociale del Paese.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

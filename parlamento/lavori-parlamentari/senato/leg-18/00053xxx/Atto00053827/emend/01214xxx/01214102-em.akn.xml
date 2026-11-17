@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/19.0.28"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.0.28"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@.akn"/>
+					<an:FRBRdate date="2021-05-11" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2021-05-11"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2021-05-11" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/2144/A/19.0.28/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/2144" showAs="DDL 2144"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDRFDNB3RM1STNOPOCBZT0GAZB0DROPW2BTWTHJLBGGAYRWX2EF4EL" href="http://dati.senato.it/32673" showAs="NATURALE"/>
+				<an:TLCPerson id="IDTG0PNSMQZRGFK4UUSR1AKEYYHKDIF1LWHFKOJADNBO5T5WXN0MAL" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDOSO522LS5EYKD50DWGYLM4VVPFYHIXJSK0KATCP2PJX1D4BJJQCD" href="http://dati.senato.it/32638" showAs="GALLICCHIO"/>
+				<an:TLCPerson id="IDTNI1APGSFDQNF404MMEDMAAZMH5YYRTJ2OAKRSOUHC00NWQ5QV1H" href="http://dati.senato.it/32652" showAs="LEONE"/>
+				<an:TLCPerson id="IDSV5OZAFULDF4N4VM13YWNK04PFS5JT5TDU2U3BNRRONG15F5IK2J" href="http://dati.senato.it/32725" showAs="TRENTACOSTE"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2144</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.0.28</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDRFDNB3RM1STNOPOCBZT0GAZB0DROPW2BTWTHJLBGGAYRWX2EF4EL" as="#tipoSenatore">NATURALE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTG0PNSMQZRGFK4UUSR1AKEYYHKDIF1LWHFKOJADNBO5T5WXN0MAL" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOSO522LS5EYKD50DWGYLM4VVPFYHIXJSK0KATCP2PJX1D4BJJQCD" as="#tipoSenatore">GALLICCHIO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTNI1APGSFDQNF404MMEDMAAZMH5YYRTJ2OAKRSOUHC00NWQ5QV1H" as="#tipoSenatore">LEONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSV5OZAFULDF4N4VM13YWNK04PFS5JT5TDU2U3BNRRONG15F5IK2J" as="#tipoSenatore">TRENTACOSTE</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:b>articolo</an:b>
+					<an:i>, aggiungere il seguente:</an:i>
+				</an:p>
+				<an:p>
+					«Art. 19-
+					<an:b>
+						<an:i>bis.</an:i>
+					</an:b>
+				</an:p>
+				<an:p>
+					<an:i>(Disposizioni in materia di ricerca nel settore meccanico agrario)</an:i>
+				</an:p>
+				<an:p>        1. Il Ministero delle politiche agricole, alimentari e forestali, nell'ambito delle proprie competenze, al fine di sviluppare le conoscenze tecniche indispensabili ad assicurare la competitività al settore meccanico agrario, si avvale dell'assistenza tecnica dell'Ente Nazionale Meccanizzazione Agricola (ENAMA), associazione riconosciuta ai sensi del decreto del Presidente della Repubblica io febbraio 2000, n. 361, priva di scopo di lucro, cui lo stesso Ministero è componente di diritto congiuntamente alle Regioni ed al Consiglio per la ricerca in agricoltura e l'analisi dell'economia agraria (CREA). In particolare, rientrano nell'attività di assistenza tecnica: il coordinamento ed il controllo delle operazioni di certificazione OCSE dei trattori agricoli e forestali condotte dai centri prova operanti in Italia; lo sviluppo e il controllo delle macchine agricole per l'uso sostenibile dei prodotti fitosanitari di cui al decreto del Ministero delle politiche agricole alimentari e forestali 22 gennaio 2014; lo studio e la realizzazione di nuove tecnologie nel settore della meccanica agraria, dell'agricoltura di precisione e della produzione di energia sostenibile nell'ambito delle imprese agricole, anche in collaborazione con gli enti di ricerca vigilati dal Ministero delle politiche agricole, alimentari e forestali.</an:p>
+				<an:p>        2. All'attuazione del presente articolo si provvede nell'ambito delle risorse disponibili a legislazione vigente.».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

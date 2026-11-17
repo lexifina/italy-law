@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.200/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.200"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.200/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.200"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.200/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDNHVBSJEUAP5LK5U54ZTZE40XWPFLP0525BUBKSMCEIYOWN01IWR" href="http://dati.senato.it/25199" showAs="PICHETTO FRATIN"/>
+				<an:TLCPerson id="IDSAX21Z0IN0XULCL2YT1302GO4BIYD0YV3VQ02JPWQGMEKNSAXBWE" href="http://dati.senato.it/32747" showAs="DAMIANI"/>
+				<an:TLCPerson id="IDA24WIO3D24JFE03JZ25REZFKTEH3THBGIAT0ZIO4QSYPGJROPIFD" href="http://dati.senato.it/27476" showAs="FANTETTI"/>
+				<an:TLCPerson id="IDEY1BEWJLRIUWHUXQ4ANAYTIXJGKMMEWRCOPCBPGF3RFWCBT4CTW" href="http://dati.senato.it/17841" showAs="FERRO"/>
+				<an:TLCPerson id="IDTZ5SSQN3EFQ4HY5OYR0Y1S11MNQTMTWQVTF14SM0NOEFRFHAORUP" href="http://dati.senato.it/31157" showAs="SACCONE"/>
+				<an:TLCPerson id="IDU2ZWWFHPPTEOBXUVPCYHJH3HSOCZATDDBMIT0PJRYSFKY1MNS0IK" href="http://dati.senato.it/32605" showAs="CONZATTI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.200</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDNHVBSJEUAP5LK5U54ZTZE40XWPFLP0525BUBKSMCEIYOWN01IWR" as="#tipoSenatore">PICHETTO FRATIN</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSAX21Z0IN0XULCL2YT1302GO4BIYD0YV3VQ02JPWQGMEKNSAXBWE" as="#tipoSenatore">DAMIANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDA24WIO3D24JFE03JZ25REZFKTEH3THBGIAT0ZIO4QSYPGJROPIFD" as="#tipoSenatore">FANTETTI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDEY1BEWJLRIUWHUXQ4ANAYTIXJGKMMEWRCOPCBPGF3RFWCBT4CTW" as="#tipoSenatore">FERRO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTZ5SSQN3EFQ4HY5OYR0Y1S11MNQTMTWQVTF14SM0NOEFRFHAORUP" as="#tipoSenatore">SACCONE</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDU2ZWWFHPPTEOBXUVPCYHJH3HSOCZATDDBMIT0PJRYSFKY1MNS0IK" as="#tipoSenatore">CONZATTI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Al comma 32, sostituire le parole:</an:i>
+					 «Il canone di locazione relativo ai contratti stipulati nell'anno 2019, aventi ad oggetto unità immobiliari classificate nella categoria catastale C/1, di superficie fino a 600 metri quadrati, escluse le pertinenze,» 
+					<an:i>con le seguenti:</an:i>
+					 «Il canone di locazione relativo ai contratti aventi ad oggetto immobili inclusi nella categoria catastale C/1».
+				</an:p>
+				<an:p>
+					<an:i>Conseguentemente, al comma 138, sostituire le parole:</an:i>
+					 «9.000 milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «8.000 milioni».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

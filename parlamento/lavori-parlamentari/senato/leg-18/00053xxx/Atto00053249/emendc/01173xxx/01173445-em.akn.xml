@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/60.0.14"/>
+					<an:FRBRdate date="2020-10-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="60.0.14"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@"/>
+					<an:FRBRdate date="2020-10-14" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@.akn"/>
+					<an:FRBRdate date="2020-10-14" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-14"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-14" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/C/60.0.14/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/Ddl/18/1925" showAs="Ddl 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID0E5" href="http://dati.senato.it/29527" showAs="Daniele Pesco"/>
+				<an:TLCPerson id="ID0EIB" href="http://dati.senato.it/29164" showAs="Sergio Puglia"/>
+				<an:TLCPerson id="ID0ESB" href="http://dati.senato.it/32577" showAs="Rossella Accoto"/>
+				<an:TLCPerson id="ID0E3B" href="http://dati.senato.it/32638" showAs="Agnese Gallicchio"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">Ddl 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 60.0.14</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E5" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Pesco</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0EIB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Puglia</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0ESB" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Accoto</an:span>
+				</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID0E3B" as="#tipoSenatore">
+					<an:span style="font-variant:small-caps;">Gallicchio</an:span>
+				</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'</an:i>
+					<an:strong>articolo</an:strong>
+					<an:i>, inserire il seguente:</an:i>
+				</an:p>
+				
+
+				<an:p>
+					«Art. 60
+					<an:i>-bis</an:i>
+					.
+				</an:p>
+				
+
+				<an:p>
+					<an:i>(Sospensione quote ammortamento bilancio civilistico relativo all'esercizio 2020)</an:i>
+				</an:p>
+				
+
+				<an:p>        1. In via eccezionale, ai soli fini di bilancio civilistico relativo all'esercizio 2020, non si applicano le quote ammortamento annuali su:</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>a)</an:i>
+					 immobilizzazioni materiali, come previsto dall'articolo 2425, comma 1, numero 10), lettera 
+					<an:i>b)</an:i>
+					, del codice civile, con riguardo agli immobili, agli impianti, ai macchinari e ai mobili;
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>b)</an:i>
+					 immobilizzazioni immateriali, come previsto dall'articolo 2425, comma 1, numero 10), lettera 
+					<an:i>a)</an:i>
+					, del codice civile, con riguardo ai diritti di brevetto industriale, ai diritti di utilizzazione delle opere dell'ingegno, ai diritti di concessione e ai marchi di fabbrica;
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>c)</an:i>
+					 i costi d'impianto e di ampliamento di cui all'articolo 2426, comma 1, numero 5), del codice civile;
+				</an:p>
+				
+
+				<an:p>
+					            
+					<an:i>d)</an:i>
+					 il valore di avviamento come previsto dall'articolo 2424, comma 1, lettera 
+					<an:i>b)</an:i>
+					, capoverso I, numero 5).
+				</an:p>
+				
+
+				<an:p>        2. All'articolo 2426, comma 1, del codice civile, le parole: ''cinque anni'' sono sostituite, ovunque ricorrono, dalle seguenti: ''sei anni''».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

@@ -1,0 +1,43 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+VISTI gli articoli 76 e 87, quinto comma, della Costituzione;
+
+VISTI gli articoli 14 e 16, della legge 23 agosto 1988, n. 400;
+
+VISTO l'articolo 7, della legge 8 marzo 1999, n. 50, come modificato dall'articolo 1, comma 6,
+
+lettere d) ed e), della legge 24 novembre 2000, n. 340;
+
+VISTI gli articoli 20 e 20 bis della legge 15 marzo 1997, n. 59;
+
+VISTI i numeri 9, 10 e 11 dell'allegato n. 1, della legge 8 marzo 1999, n. 50;
+
+UDITO il parere della Corte dei conti espresso dalle Sezioni riunite in sede consultiva nella adunanza del 22 novembre 2001;
+
+UDITO il parere del Consiglio di Stato espresso nella Sezione consultiva per gli atti normativi nell'adunanza del 21 gennaio 2002, le cui osservazioni sono state in generale accolte. Solo in alcuni casi marginali si e' ritenuto di discostarsi, chiarendone le ragioni nella relazione ai relativi articoli:
+
+- articolo 6, dove non e' stata disciplinata la "regolare condotta in liberta'" perche' estranea alla materia del testo unico, e si e' preferito non effettuare un rinvio espresso ad una normativa di attuazione secondaria;
+
+- articolo 30, dove non si e' estesa la previsione al processo amministrativo perche' la norma originaria e' limitata al processo civile e non e' estensibile, trattandosi di prestazione patrimoniale imposta;
+
+- articolo 33, dove se si fosse accolto il suggerimento di eliminare l'assorbimento si sarebbe introdotta un'innovazione di carattere sostanziale - incompatibile con la delega - nella disciplina degli ufficiali giudiziari;
+
+- articolo 48, dove la disciplina speciale dell'indennita' del teste e' stata coordinata con quella generale di missione, per il teste dipendente pubblico;
+
+- articoli 55 e 68, dove il rinvio alla disciplina generale in tema di missione dei dipendenti pubblici e' stato raccordato con la riforma della dirigenza;
+
+- articolo 65, dove l'indennita' speciale di cui alla legge 19 febbraio 1981, n. 27, e' compresa perche' gia' contenuta nella normativa originaria;
+
+- articolo 83, dove il limite dei valori medi per gli onorari di avvocato (articolo 82) non e' stato esteso agli ausiliari del giudice e ai consulenti di parte, perche' nella normativa originaria e' riferito solo ai primi.
+
+Con riferimento, infine, alla mancanza di una norma di chiusura contenente disposizioni non inserite nel testo unico che restano in vigore, si precisa che nel testo unico sono state inserite o sono state espressamente richiamate tutte le norme relative alle spese di giustizia e, pertanto, non e' necessaria;
+
+VISTA la preliminare deliberazione del Consiglio dei ministri, adottata nella riunione del 14 marzo 2002;
+
+ACQUISITO il parere delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+VISTA la deliberazione del Consiglio dei ministri, adottata nella riunione del 24 maggio 2002;
+
+SULLA PROPOSTA del Presidente del Consiglio dei ministri e del Ministro per la funzione pubblica, di concerto con i Ministri della giustizia e dell'economia e delle finanze;
+
+EMANA il seguente decreto legislativo:

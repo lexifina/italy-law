@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/19.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/19.7"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/19.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="19.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@.akn"/>
+					<an:FRBRdate date="2016-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2016-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2016-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2345/A/19.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2345" showAs="DDL 2345"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDSL3DSSJPBRTFGEDVC5WVL0ADSZWGJGU5HV2NKBJW1F4YIWCRORO" href="http://dati.senato.it/29139" showAs="MOLINARI"/>
+				<an:TLCPerson id="IDUWXXLRI1FAKFB3LZ0HWOD4H2DOA4RQPDDWDBPZNJY4OE1W3C5MCM" href="http://dati.senato.it/29193" showAs="VACCIANO"/>
+				<an:TLCPerson id="IDUZX5U5CGBQ34MOGTDG4I3AG1TFA4WRERYTWBBYJ3OHTCYY2S5B0L" href="http://dati.senato.it/29044" showAs="BENCINI"/>
+				<an:TLCPerson id="IDVN4OYBUJFC1OIH5FDQTXNI5KXGK2YBYZ4TXYRSE04LKZZJYPA5NF" href="http://dati.senato.it/29168" showAs="Maurizio ROMANI"/>
+				<an:TLCPerson id="IDCPFKWAFNXVTFCKCK5NMKAR005IE05M3FZ0XT3VPLJST1HSZXPIRB" href="http://dati.senato.it/29149" showAs="ORELLANA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2345</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 19.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDSL3DSSJPBRTFGEDVC5WVL0ADSZWGJGU5HV2NKBJW1F4YIWCRORO" as="#tipoSenatore">MOLINARI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUWXXLRI1FAKFB3LZ0HWOD4H2DOA4RQPDDWDBPZNJY4OE1W3C5MCM" as="#tipoSenatore">VACCIANO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDUZX5U5CGBQ34MOGTDG4I3AG1TFA4WRERYTWBBYJ3OHTCYY2S5B0L" as="#tipoSenatore">BENCINI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDVN4OYBUJFC1OIH5FDQTXNI5KXGK2YBYZ4TXYRSE04LKZZJYPA5NF" as="#tipoSenatore">Maurizio ROMANI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCPFKWAFNXVTFCKCK5NMKAR005IE05M3FZ0XT3VPLJST1HSZXPIRB" as="#tipoSenatore">ORELLANA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, lettera e), sostituire le parole: «duecento quote e non superiore a seicento quote» con le seguenti: «trecento quote e non superiore a novecento quote».</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

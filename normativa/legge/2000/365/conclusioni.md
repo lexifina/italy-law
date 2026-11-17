@@ -1,0 +1,5 @@
+La presente legge, munita del sigillo dello Stato, sara' inserita nella Raccolta ufficiale degli atti normativi della Repubblica italiana. E' fatto obbligo a chiunque spetti di osservarla e di farla osservare come legge dello Stato.
+
+Data a Roma, addi' 11 dicembre 2000
+
+CIAMPI Amato, Presidente del Consiglio dei Ministri Bordon, Ministro dell'ambiente Bianco, Ministro dell'interno Visto, il Guardasigilli: Fassino --------------- AGGIORNAMENTO (2) La Corte costituzionale, con sentenza 21 novembre-9 dicembre 2002, n. 524 (in G.U. 1a s.s. 11/12/2002, n. 49) ha dichiarato "l'illegittimita' costituzionale dell'art. 2, comma 2, della predetta legge 11 dicembre 2000, n. 365 (Conversione in legge, con modificazioni, del decreto-legge 12 ottobre 2000, n. 279, recante "Interventi urgenti per le aree a rischio idrogeologico molto elevato ed in materia di protezione civile, nonche' a favore delle zone della regione Calabria danneggiate dalle calamita' idrogeologiche di settembre e ottobre 2000")".

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1963/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1963"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1963/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="1.1963"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@.akn"/>
+					<an:FRBRdate date="2018-12-23" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2018-12-23"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2018-12-23" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/981/A/1.1963/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/981" showAs="DDL 981"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="ID1YK2YF1WJISNF4MZ4DNCY1IUQPU3HVVOYZ2EMJHZJVQ042H4GYH" href="http://dati.senato.it/29591" showAs="TARICCO"/>
+				<an:TLCPerson id="IDW0W1O5CPQGBVOPAGGSJK5CXFFHR5WWVODO1B2FCKLDC3VT4BPGWL" href="http://dati.senato.it/32588" showAs="BITI"/>
+				<an:TLCPerson id="IDCARWXHG5FVJ2JDVDYSPCMGZUONQQDWVDO3I1SMJ1TFTU2JROWWEJ" href="http://dati.senato.it/29464" showAs="MAGORNO"/>
+				<an:TLCPerson id="IDJCAJBJL0XFFFB1LEF4NPG4Y5GKVHMX15VIPXCYDLVZYF0BGCCDBH" href="http://dati.senato.it/25402" showAs="SBROLLINI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 981</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 1.1963</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID1YK2YF1WJISNF4MZ4DNCY1IUQPU3HVVOYZ2EMJHZJVQ042H4GYH" as="#tipoSenatore">TARICCO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDW0W1O5CPQGBVOPAGGSJK5CXFFHR5WWVODO1B2FCKLDC3VT4BPGWL" as="#tipoSenatore">BITI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDCARWXHG5FVJ2JDVDYSPCMGZUONQQDWVDO3I1SMJ1TFTU2JROWWEJ" as="#tipoSenatore">MAGORNO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDJCAJBJL0XFFFB1LEF4NPG4Y5GKVHMX15VIPXCYDLVZYF0BGCCDBH" as="#tipoSenatore">SBROLLINI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo il comma 374 inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «374-
+					<an:i>bis</an:i>
+					. Al fine di contrastare le emergenze ''Moria del Kiwi'' e ''invasione della Cimice asiatica Haliomorpha halys'', è istituito nello stato dì previsione del Ministero delle politiche agricole alimentari e forestali e del turismo, un Fondo volto a favorire la ricerca e la sperimentazione anche attraverso il coinvolgimento del Consiglio per la Ricerca in Agricoltura e l'analisi dell'economia agraria (CREA), delle fondazioni di ricerca e sperimentazione agricola controllate o partecipate dalle Regioni o Provincie autonome di Trento e Bolzano, e delle università che con queste collaborano, con una dotazione iniziale pari a 3 milioni di euro per l'anno2019, 2020 e 2021.
+				</an:p>
+				<an:p>        Entro novanta giorni dalla data di entrata in vigore della legge di conversione del presente decreto, con decreto di natura non regolamentare del Ministro delle politiche agricole alimentari e forestali, di concerto con il Ministro del'economia e delle finanze, adottato previa intesa in sede di Conferenza permanente per i rapporti tra lo Stato, le regioni e le province autonome di Trento e di Bolzano, sono definiti I criteri, le modalità di utilizzo e di ripartizione delle risorse del Fondo.»</an:p>
+				<an:p>
+					<an:i>Conseguentemente, alla Tabella A, voce</an:i>
+					 Ministero dell'economia e delle finanze
+					<an:i>, apportare le seguenti variazioni in diminuzione:</an:i>
+				</an:p>
+				<an:p>        2019: ? 3.000.000;</an:p>
+				<an:p>        2020: ? 3.000.000;</an:p>
+				<an:p>        2021: ? 3.000.000;</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

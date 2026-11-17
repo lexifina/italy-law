@@ -1,0 +1,41 @@
+Art. 5-bis.
+
+((
+
+1.
+
+I membri del Comitato sono sostituiti, con le modalita' di cui ai commi 5 e 6, nel caso di:
+
+a)
+
+assenza ingiustificata a tre sedute nell'arco di dodici mesi;
+
+b)
+
+assenza, ancorche' giustificata, a cinque sedute consecutive;
+
+c)
+
+dimissioni.
+
+2.
+
+Nel computo di cui al comma 1 sono calcolate anche le assenze nelle sedute dichiarate deserte per mancanza del numero legale.
+
+3.
+
+II mancato raggiungimento del numero legale per la validita' della seduta per tre volte consecutive determina la decadenza di tutti i membri del Comitato.
+
+4.
+
+I membri del Comitato cessano dalle funzioni allo scadere del termine quinquennale di cui all'articolo 1, comma 2-bis, anche se nominati in sostituzione di altri.
+
+5.
+
+Il Segretario del Comitato comunica al Presidente del Consiglio dei ministri, al Presidente della giunta regionale ed al Presidente del Consiglio regionale del Friuli-Venezia Giulia la necessita' di procedere alla sostituzione di membri ovvero al rinnovo totale del Comitato.
+
+6.
+
+Il Presidente del Consiglio dei ministri, il Presidente della giunta regionale e il Presidente del Consiglio regionale del Friuli-Venezia Giulia provvedono alle nomine dei membri del Comitato di rispettiva competenza.
+
+))

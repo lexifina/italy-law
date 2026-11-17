@@ -1,5 +1,0 @@
-Tabella 13
-
-STATO DI PREVISIONE DEL MINISTERO PER I BENI E LE ATTIVITA' CULTURALI
-
-Parte di provvedimento in formato grafico

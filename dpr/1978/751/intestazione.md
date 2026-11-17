@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-12 settembre 1978
-
-751
-
-Modificazioni allo statuto dell'Universita' degli studi di Bari.

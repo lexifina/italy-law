@@ -1,0 +1,31 @@
+IL PRESIDENTE DELLA REPUBBLICA
+
+Visti gli articoli 76 e 87 della Costituzione;
+
+Vista la direttiva 2003/4/ CE del Parlamento europeo e del Consiglio, del 28 gennaio 2003, concernente l'accesso del pubblico all'informazione ambientale, che abroga la direttiva 90/313/CEE del Consiglio;
+
+Vista la legge 31 ottobre 2003, n. 306, recante disposizioni per l'adempimento degli obblighi derivanti dall'appartenenza dell'Italia alle Comunita' europee (Legge comunitaria 2003);
+
+Visto il decreto legislativo del 24 febbraio 1997, n. 39, recante attuazione della direttiva 90/313/CEE, concernente la liberta' di accesso alle informazioni in materia di ambiente;
+
+Vista la legge 7 agosto 1990, n. 241, e successive modificazioni, recante norme in materia di procedimento amministrativo e di diritto di accesso ai documenti amministrativi e successive modifiche;
+
+Visto il decreto del Presidente della Repubblica 27 giugno 1992, n. 352, e successive modificazioni, recante regolamento per la disciplina delle modalita' di esercizio e dei casi di esclusione del diritto di accesso ai documenti amministrativi, in attuazione dell'articolo 24, comma 2, della legge 7 agosto 1990, n. 241;
+
+Vista la legge 8 luglio 1986, n. 349, e successive modificazioni, recante istituzione del Ministero dell'ambiente e norme in materia di danno ambientale;
+
+Visto il decreto legislativo 30 giugno 2003, n. 196, recante codice in materia di protezione dei dati personali;
+
+Visto il decreto legislativo 7 marzo 2005, n. 82, recante il codice dell'amministrazione digitale;
+
+Vista la preliminare deliberazione del Consiglio dei Ministri, adottata nella riunione del 20 maggio 2005;
+
+Acquisito il parere della Conferenza unificata di cui all'articolo 8 del decreto legislativo 28 agosto 1997, n. 281, reso nella seduta del 16 giugno 2005;
+
+Acquisiti i pareri delle competenti Commissioni della Camera dei deputati e del Senato della Repubblica;
+
+Vista la deliberazione del Consiglio dei Ministri, adottata nella riunione del 29 luglio 2005;
+
+Sulla proposta del Ministro per le politiche comunitarie e del Ministro dell'ambiente e della tutela del territorio, di concerto con i Ministri degli affari esteri, della giustizia, dell'economia e delle finanze, per la funzione pubblica e per gli affari regionali;
+
+Emana il seguente decreto legislativo:

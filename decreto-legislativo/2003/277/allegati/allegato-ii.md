@@ -1,5 +1,0 @@
-Allegato II (di cui all'art. 2, comma 1, lettera l)
-
-Allegato C
-
-Parte di provvedimento in formato grafico

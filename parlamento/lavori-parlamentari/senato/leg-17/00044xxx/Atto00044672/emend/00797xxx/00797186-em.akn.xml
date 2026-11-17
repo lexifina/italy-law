@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/5.7/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/5.7"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1563/A/5.7/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="5.7"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@.akn"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1563/A/5.7/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1563" showAs="DDL 1563"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29160" showAs="Petraglia"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/17578" showAs="De Petris"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29041" showAs="Barozzino"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29068" showAs="Cervellini"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/22918" showAs="De Cristofaro"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29186" showAs="Stefano"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29191" showAs="Uras"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29051" showAs="Bocchino"/>
+				<an:TLCPerson id="EAC" href="http://dati.senato.it/senatore/29146" showAs="Mussini"/>
+				<an:TLCPerson id="EFC" href="http://dati.senato.it/senatore/29048" showAs="Bignami"/>
+				<an:TLCPerson id="EKC" href="http://dati.senato.it/senatore/29133" showAs="Mastrangeli"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1563</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 5.7</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Petraglia</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">De Petris</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Barozzino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Cervellini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">De Cristofaro</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Stefano</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Uras</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Bocchino</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EAC" as="#tipoSenatore">Mussini</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EFC" as="#tipoSenatore">Bignami</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EKC" as="#tipoSenatore">Mastrangeli</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Al comma 1, lettera b), sostituire il capoverso 13 con il seguente:</an:p>
+				<an:p align="justify">
+					        «13. Per il personale risultante in eccedenza all'esito degli accordi di cui al comma 2 inerenti la rideterminazione delle dotazioni organiche, le fondazioni di cui al medesimo comma, fermo restando per la durata del soprannumero il divieto di assunzioni di personale, applicano per gli anni 2014, 2015 e 2016, l'articolo 2, comma 11, lettera 
+					<an:i>a)</an:i>
+					, del decreto-legge 6 luglio 2012, n. 95, convertito, con modificazioni, dalla legge 7 agosto 2012, n. 135, ivi comprese le disposizioni in materia di liquidazione del trattamento di fine rapporto comunque denominato; analogamente, al personale in forza a tempo indeterminato presso le fondazioni lirico-sinfoniche, è esteso per il triennio 2014, 2015, 2016 quanto previsto al comma 1 dell'articolo 72 del decreto-legge 25 giugno 2008, n. 112, convertito, con modificazioni, dalla legge 6 agosto 2008, n. 133. Il personale amministrativo e tecnico dipendente a tempo indeterminato che risulti ancora eccedente è inserito dalla fondazione in un elenco di disponibilità e, su richiesta della società Ales S.p.A. in base alle proprie esigenze produttive, nei limiti della sostenibilità finanziaria consentita dal proprio bilancio e senza nuovi o maggiori oneri per la finanza pubblica, previa prova d'idoneità finalizzata all'individuazione dell'inquadramento nelle posizioni disponibili, è comandato 
+					<an:i>pro tempore</an:i>
+					, nel rispetto della dignità professionale del lavoratore, presso la struttura richiedente. La stessa procedura può essere adottata, in presenza di specifica convenzione stipulata tra la fondazione e le pubbliche amministrazioni presenti 
+					<an:i>in loco</an:i>
+					 ovvero con aziende partecipate dalle pubbliche amministrazioni, fermo restando il divieto di procedere a nuove assunzioni o utilizzazioni esterne di prestazioni comunque compatibili con le professionalità presenti tra i lavoratori inseriti nell'elenco di disponibilità».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

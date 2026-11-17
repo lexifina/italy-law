@@ -1,9 +1,0 @@
-STIPENDI MINIMI MENSILI PER GLI IMPIEGATI RELATIVI AL PERIODO SUCCESSIVO AL 10 NOVEMBRE 1958
-
-IMPIEGATI - UOMINI
-
-Parte di provvedimento in formato grafico
-
-IMPIEGATI - DONNE
-
-Parte di provvedimento in formato grafico

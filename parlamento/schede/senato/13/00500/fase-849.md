@@ -1,0 +1,14 @@
+# Disegno di legge C.779 (13a legislatura)
+
+- Fase: C.779
+- Id DDL: 792
+- Id fase: 849
+- Natura: ordinaria
+- Data di presentazione: 1996-05-13
+- Titolo: Norme per incentivare la collaborazione al fine di eliminare il fenomeno dell' assunzione dei falsi invalidi e accertare la sussistenza dei requisiti e dei titoli per le assunzioni obbligatorie
+- Stato: assegnato (non ancora iniziato l'esame)
+- Data dello stato: 1996-10-03
+- Testo presentato (URN): urn:nir:senato.repubblica:disegno.legge:13.legislatura;779
+- Ramo: C
+- Scheda (dati.senato.it): http://dati.senato.it/ddl/849
+- Fonte: Senato della Repubblica, dati.senato.it (linked open data), licenza Creative Commons Attribuzione 3.0 (CC BY 3.0).

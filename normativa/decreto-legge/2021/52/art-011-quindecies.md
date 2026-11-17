@@ -1,0 +1,5 @@
+Art. 11-quindecies.
+
+(Misure urgenti per il rilancio delle infrastrutture)
+
+1. Al fine di evitare la revoca dei finanziamenti per lo sblocco di opere indifferibili, urgenti e cantierabili per il rilancio dell'economia, al comma 3-bis dell'articolo 3 del decreto-legge 12 settembre 2014, n. 133, convertito, con modificazioni, dalla legge 11 novembre 2014, n. 164, e' aggiunto, in fine, il seguente periodo: "Per gli interventi relativi al ponte stradale di collegamento tra l'autostrada per Fiumicino e l'EUR e agli aeroporti di Firenze e Salerno, di cui alla lettera c) del comma 2 del presente articolo, gli adempimenti previsti dal relativo decreto di finanziamento possono essere compiuti entro il ((31 dicembre 2023)), a condizione che gli enti titolari dei codici unici di progetto, entro quindici giorni dalla data di entrata in vigore della presente disposizione, trasmettano al sistema di monitoraggio di cui al decreto legislativo 29 dicembre 2011, n. 229, le informazioni necessarie per la verifica dell'avanzamento dei progetti".

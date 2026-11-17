@@ -1,0 +1,5 @@
+B) - QUADRO GENERALE RIASSUNTIVO DEL BILANCIO
+
+DI CASSA TRIENNALE 2022-2024
+
+Parte di provvedimento in formato grafico

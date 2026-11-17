@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.1000/20"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@.akn"/>
+					<an:FRBRdate date="2017-11-16" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2017-11-16"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2017-11-16" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/2942/A/2.0.1000/20/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/2942" showAs="DDL 2942"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDOOP5N2IZ0E51GY3KX5TUWQTXZH30RG5JUYZNAOKHHTVAVQDS3G0P" href="http://dati.senato.it/29147" showAs="NUGNES"/>
+				<an:TLCPerson id="IDBQDAXA2WSMIICDCUE2KGVXAEDKLZ5L35L5Q5XHJBR3BRYFELU20" href="http://dati.senato.it/29056" showAs="BULGARELLI"/>
+				<an:TLCPerson id="IDQHHVKJMBCLYJK0FVKA3WS2WI5NT2X5DQBOP5BMDZLA22WD2YCFBO" href="http://dati.senato.it/29117" showAs="LEZZI"/>
+				<an:TLCPerson id="IDTW3MFYHDOKULKEL2ZTI1XLVYSFWLJUIDKSUYIWBO0TAXAEYYZAFC" href="http://dati.senato.it/29127" showAs="MANGILI"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 2942</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.1000/20</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDOOP5N2IZ0E51GY3KX5TUWQTXZH30RG5JUYZNAOKHHTVAVQDS3G0P" as="#tipoSenatore">NUGNES</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDBQDAXA2WSMIICDCUE2KGVXAEDKLZ5L35L5Q5XHJBR3BRYFELU20" as="#tipoSenatore">BULGARELLI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDQHHVKJMBCLYJK0FVKA3WS2WI5NT2X5DQBOP5BMDZLA22WD2YCFBO" as="#tipoSenatore">LEZZI</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDTW3MFYHDOKULKEL2ZTI1XLVYSFWLJUIDKSUYIWBO0TAXAEYYZAFC" as="#tipoSenatore">MANGILI</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>All'emendamento 2.0.1000, al comma 6, capoverso</an:i>
+					 «Art. 8-
+					<an:i>bis</an:i>
+					»
+					<an:i>, comma 3, sopprimere la parola:</an:i>
+					 «non».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

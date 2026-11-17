@@ -1,7 +1,0 @@
-DICHIARAZIONE COMUNE RELATIVA AL PRINCIPATO DI ANDORRA
-
-Parte di provvedimento in formato grafico
-
-DICHIARAZIONE COMUNE RELATIVA ALLA REPUBBLICA DI SAN MARINO
-
-Parte di provvedimento in formato grafico

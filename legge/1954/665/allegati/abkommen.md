@@ -1,5 +1,0 @@
-Abkommen zwischen der Bundesrepublik Deutschland und der
-
-Italienischen Republik auf dem Gebiet des gewernblichen Rechtsschutzes.
-
-Parte di provvedimento in formato grafico

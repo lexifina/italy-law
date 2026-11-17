@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xmlns:auto-ns1="http://www.w3.org/2001/XMLSchema-instance" auto-ns1:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/51.2/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/51.2"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/51.2/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="51.2"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@.akn"/>
+					<an:FRBRdate date="2020-10-09" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2020-10-09"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2020-10-09" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/18/Emend/S/1925/A/51.2/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/18/1925" showAs="DDL 1925"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="IDIGKZGR3QGO5WBZPGEE2MPFUD3M53XOH4FSU5D0JFGUQUAKGF1V2" href="http://dati.senato.it/32698" showAs="QUARTO"/>
+				<an:TLCPerson id="ID5X0PR0F0M2MSIX10CX0F5K1WGI54IRH33QOGNONBIHY3R553XKMG" href="http://dati.senato.it/29164" showAs="PUGLIA"/>
+				<an:TLCPerson id="IDXPTQLQNGY4WMIZCZFS3KEYWD4HHZZ3OWPRVQBGO3KBUA0F3XRQ1J" href="http://dati.senato.it/32634" showAs="FLORIDIA"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1925</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 51.2</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDIGKZGR3QGO5WBZPGEE2MPFUD3M53XOH4FSU5D0JFGUQUAKGF1V2" as="#tipoSenatore">QUARTO</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ID5X0PR0F0M2MSIX10CX0F5K1WGI54IRH33QOGNONBIHY3R553XKMG" as="#tipoSenatore">PUGLIA</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#IDXPTQLQNGY4WMIZCZFS3KEYWD4HHZZ3OWPRVQBGO3KBUA0F3XRQ1J" as="#tipoSenatore">FLORIDIA</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Apportare le seguenti modifiche:</an:i>
+				</an:p>
+				<an:p>
+					        a) 
+					<an:i>al comma i, lettera</an:i>
+					 b)
+					<an:i>, sostituire le parole:</an:i>
+					 «41 milioni» 
+					<an:i>con le seguenti:</an:i>
+					 «31 milioni»;
+				</an:p>
+				<an:p>
+					        b) 
+					<an:i>dopo il comma 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p>
+					        «2-
+					<an:i>bis</an:i>
+					. Al fine di favorire gli interventi volti al miglioramento della qualità dell'aria, nonché interventi per la riduzione delle emissioni nell'atmosfera, è autorizzata la spesa di euro 10 milioni per l'anno 2021 da destinare ai comuni capoluogo di provincia, per il finanziamento di un programma sperimentale di messa a dimora di alberi, ivi compresi gli impianti arborei da legno di ciclo medio e lungo, purché non oggetto di altro finanziamento o sostegno pubblico, di reimpianto e di silvicoltura, e per la creazione di foreste urbane e periurbane, in coerenza con quanto previsto dal decreto legislativo 3 aprile 2018, n. 34. Ai comuni capoluogo di provincia, si applicano le stesse disposizioni previste per i centri metropolitani di cui all'articolo 4 del decreto-legge 14 ottobre 2019, n. 111, convertito, con modificazioni, dalla legge 12 dicembre 2019, n. 141».
+				</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

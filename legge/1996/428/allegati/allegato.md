@@ -1,7 +1,0 @@
-ALLEGATO
-
-MODIFICAZIONI APPORTATE IN SEDE DI CONVERSIONE AL DECRETO-LEGGE 1 LUGLIO 1996, N. 346.
-
-All'articolo 1, dopo il comma 2 e' aggiunto il seguente:
-
-"2-bis. Al fine di intensificare il contributo italiano al processo di pace e di ricostruzione della Bosnia-Erzegovina, il Ministero della difesa autorizza gli enti convenzionati ai sensi della legge 15 dicembre 1972, n. 772, e successive modificazioni, ad inviare nei territori della ex Jugoslavia, limitatamente alle zone di massima sicurezza individuate dal Comando militare italiano nell'ambito del territorio sottoposto alla sua responsabilita', obiettori di coscienza che ne facciano richiesta, senza oneri aggiuntivi per lo Stato, ne' interferenze con la missione della NATO svolta dal contingente militare italiano e sotto la totale responsabilita' degli enti presso cui detti obiettori prestano servizio".

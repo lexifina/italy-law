@@ -1,7 +1,0 @@
-DECRETO DEL PRESIDENTE DELLA REPUBBLICA
-
-20 settembre 1966
-
-924
-
-Modificazioni allo statuto dell'Universita' degli studi di Camerino.

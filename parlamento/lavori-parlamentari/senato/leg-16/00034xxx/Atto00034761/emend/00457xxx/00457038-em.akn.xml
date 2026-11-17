@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/2.0.1"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="2.0.1"/>
+					<an:FRBRname value="Emendamento"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@.akn"/>
+					<an:FRBRdate date="2010-02-10" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2010-02-10"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2010-02-10" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/16/Emend/S/1955/A/2.0.1/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/16/1955" showAs="DDL 1955"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/188" showAs="Battaglia"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1955</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Emendamento n. 2.0.1</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Battaglia</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>
+					<an:i>Dopo l'articolo 2, inserire il seguente:</an:i>
+				</an:p>
+				<an:p align="center">
+					«Art. 2-
+					<an:i>bis.</an:i>
+				</an:p>
+				<an:p align="justify">        Il personale con qualifica non dirigenziale, proveniente dal comparto ministeri, in servizio in posizione di comando o fuori ruolo presso la Presidenza del Consiglio dei Ministri è trasferito, su domanda da presentarsi entro sessanta giorni dall'entrata in vigore della presente legge, nei ruoli della Presidenza del Consiglio dei Ministri, con inquadramento nell'area professionale e livello economico corrispondente a quella posseduta presso le amministrazioni di provenienza.</an:p>
+				<an:p align="justify">        Nei limiti dei posti vacanti, il personale è trasferito nel rispetto dell'ordine di anzianità del servizio prestato in posizione di comando o fuori ruolo.</an:p>
+				<an:p align="justify">        A seguito delle procedure di trasferimento di cui al presente comma, le dotazioni organiche delle amministrazioni di provenienza sono ridotte in misura pari alle unità di personale trasferito e sono contemporaneamente trasferite alla Presidenza del Consiglio dei Ministri le corrispondenti risorse finanziarie relative al trattamento stipendiale.</an:p>
+				<an:p align="justify">        I dipendenti non immediatamente trasferiti, per carenza di posti in organico, permangono in servizio in posizione di comando o fuori ruolo fino all'immissione in ruolo al verificarsi delle vacanze in organico, sulla base delle domande presentate. Le immissioni in ruolo comportano, per la Presidenza del Consiglio dei Ministri, una corrispondente riduzione della dotazione organica complessiva di cui agli artt. 2 e 3 e alle relative tabelle C e D del D.P.C.M. dell'11 luglio 2003 e successive modifiche ed integrazioni. Le disposizioni di cui al presente comma non comportano nuovi o maggiori oneri a carico del bilancio dello Stato».</an:p>
+				<an:p align="justify"/>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

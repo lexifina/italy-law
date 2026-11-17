@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<an:akomaNtoso xmlns:xp_0="http://www.w3.org/2001/XMLSchema-instance" xmlns:an="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" xp_0:schemaLocation="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03 ../../Akoma/3.0/akomantoso30.xsd">
+	<an:amendment contains="originalVersion">
+		<an:meta>
+			<an:identification xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0/CSD03" source="#redattore">
+				<an:FRBRWork>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/G7.201/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/G7.201"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="wcompmain" href="http://dati.senato.it/17/Emend/S/1563/A/G7.201/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRcountry value="ita"/>
+					<an:FRBRsubtype value="EMEND"/>
+					<an:FRBRnumber value="G7.201"/>
+					<an:FRBRname value="Ordine del giorno"/>
+				</an:FRBRWork>
+				<an:FRBRExpression>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@/main"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#senato"/>
+					<an:componentInfo>
+						<an:componentData id="ecompmain" href="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@/main" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+					<an:FRBRlanguage language="it"/>
+				</an:FRBRExpression>
+				<an:FRBRManifestation>
+					<an:FRBRthis value="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@/main.xml"/>
+					<an:FRBRuri value="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@.akn"/>
+					<an:FRBRdate date="2014-07-28" name="presentazione"/>
+					<an:FRBRauthor href="#redattore"/>
+					<an:componentInfo>
+						<an:componentData id="mcompmain" href="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@/main.xml" showAs="emendamento" name="emendamento"/>
+					</an:componentInfo>
+				</an:FRBRManifestation>
+			</an:identification>
+			<an:lifecycle source="#redattore">
+				<an:eventRef source="#ro1" id="event1" date="2014-07-28"/>
+			</an:lifecycle>
+			<an:workflow source="#redattore">
+				<an:step id="step1" date="2014-07-28" actor="#senato" outcome="presentazione"/>
+			</an:workflow>
+			<an:references source="#redattore">
+				<an:original id="ro1" href="http://dati.senato.it/17/Emend/S/1563/A/G7.201/ita@/main" showAs="generation"/>
+				<an:activeRef id="ar1" href="http://dati.senato.it/DDL/17/1563" showAs="DDL 1563"/>
+				<an:TLCOrganization id="redattore" showAs="Servizio Informatica del Senato della Repubblica" href="/dati.senato.it/osr/Senato/Servizio Informatica"/>
+				<an:TLCOrganization id="senato" showAs="Senato della Repubblica" href="/dati.senato.it/osr/Senato"/>
+				<an:TLCOrganization id="camera" showAs="Camera dei Deputati" href="/dati.senato.it/osr/Camera"/>
+				<an:TLCRole id="tipoSenatore" href="http://dati.senato.it/Senatore" showAs="Senatore"/>
+				<an:TLCPerson id="EY" href="http://dati.senato.it/senatore/29174" showAs="Santangelo"/>
+				<an:TLCPerson id="E4" href="http://dati.senato.it/senatore/29179" showAs="Serra"/>
+				<an:TLCPerson id="ECB" href="http://dati.senato.it/senatore/29046" showAs="Bertorotta"/>
+				<an:TLCPerson id="EHB" href="http://dati.senato.it/senatore/29117" showAs="Lezzi"/>
+				<an:TLCPerson id="EMB" href="http://dati.senato.it/senatore/29034" showAs="Airola"/>
+				<an:TLCPerson id="ERB" href="http://dati.senato.it/senatore/29127" showAs="Mangili"/>
+				<an:TLCPerson id="EWB" href="http://dati.senato.it/senatore/29065" showAs="Castaldi"/>
+				<an:TLCPerson id="E2B" href="http://dati.senato.it/senatore/29154" showAs="Paglini"/>
+			</an:references>
+		</an:meta>
+		<an:preface>
+			<an:p>
+				<an:affectedDocument href="#ar1">DDL 1563</an:affectedDocument>
+			</an:p>
+			<an:p>
+				<an:docNumber>Ordine del giorno n. G7.201</an:docNumber>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EY" as="#tipoSenatore">Santangelo</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E4" as="#tipoSenatore">Serra</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ECB" as="#tipoSenatore">Bertorotta</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EHB" as="#tipoSenatore">Lezzi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EMB" as="#tipoSenatore">Airola</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#ERB" as="#tipoSenatore">Mangili</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#EWB" as="#tipoSenatore">Castaldi</an:docProponent>
+			</an:p>
+			<an:p>
+				<an:docProponent refersTo="#E2B" as="#tipoSenatore">Paglini</an:docProponent>
+			</an:p>
+		</an:preface>
+		<an:amendmentBody>
+			<an:amendmentContent>
+				<an:p>Il Senato,</an:p>
+				<an:p align="justify">        in sede di esame del disegno di legge di «Conversione in legge del decreto-legge 31 maggio 2014, n. 83, recante disposizioni urgenti per la tutela del patrimonio culturale, lo sviluppo della cultura e il rilancio del turismo,</an:p>
+				<an:p align="justify">        premesso che:</an:p>
+				<an:p align="justify">            il valore culturale delle biblioteche pubbliche è stato posto in rilievo anche dall'UNESCO, con il Manifesto sulle biblioteche pubbliche, formalmente approvato nel novembre 1994 nel corso del Consiglio intergovernativo del programma UNESCO per l'informazione generale. Esso dichiara la fede dell'organizzazione internazionale nella Biblioteca pubblica come forza vitale per l'istruzione, la cultura e l'informazione e come agente indispensabile per promuovere la pace e il benessere spirituale delle menti di uomini e donne, e per questo l'UNESCO incoraggia i governi nazionali e locali a sostenere le biblioteche pubbliche e a impegnarsi attivamente nel loro sviluppo;</an:p>
+				<an:p align="justify">            nello specifico, la Biblioteca Fardelliana di Trapani, su cui è stata già posta l'attenzione al Ministro dei beni e delle attività culturali e del turismo con interrogazione a risposta scritta n. 4-02479 pubblicata il 10 luglio 2014, fondata il 21 aprile del 1830, è uno dei simboli della cultura più antichi della città. Essa è scrigno di tesori inestimabili e luogo di custodia di pergamene e libri sulla storia della città dal 1300 al 1700. Contiene, dunque, un immenso patrimonio che merita di restare di proprietà pubblica;</an:p>
+				<an:p align="justify">
+					            a seguito dell'emanazione del decreto del Ministero per i beni e le attività culturali del 28 dicembre 2007 (pubblicato nella 
+					<an:i>Gazzetta Ufficiale</an:i>
+					 n. 38 del 14 febbraio 2008) è individuata come istituto depositario della seconda copia dei documenti della produzione editoriale regionale (Sicilia) per il territorio provinciale di competenza (provincia di Trapani);
+				</an:p>
+				<an:p align="justify">            la Biblioteca Fardelliana svolge, inoltre, da tempo compiti e funzioni, non già di mera biblioteca di consultazione e lettura, ma anche di servizi e funzioni biblio-documentali e di conservazione dell'eredità culturale di «area vasta», di ambito sovracomunale e interprovinciale;</an:p>
+				<an:p align="justify">            il Comune e la Provincia di Trapani sono gli enti condotanti per statuto, stabilito sotto forma consorti le dalla legge n. 393 del 24 aprile 1941, ed hanno provveduto al finanziamento per le rispettive quote e al funzionamento della Biblioteca. Tuttavia, negli ultimi anni, la Biblioteca Fardelliana ha subito una riduzione dei finanziamenti essenziali che rendono impossibile l'esecuzione di lavori di tutela, valorizzazione, riqualificazione e manutenzione, ponendo a serio rischio il mantenimento in vita della stessa,</an:p>
+				<an:p align="justify">        considerato che:</an:p>
+				<an:p align="justify">            il disegno di legge in esame, già approvato dalla Camera dei deputati il 9 luglio 2014, prevede all'articolo 7 la possibilità di adottare, entro il 31 dicembre di ogni anno, il Piano strategico «Grandi Progetti Beni culturali», ai fini della crescita della capacità attrattiva del Paese,</an:p>
+				<an:p align="justify">        considerato inoltre che:</an:p>
+				<an:p align="justify">            il Piano sopracitato sarà annualmente adottato dal Ministero per i beni e le attività culturali e il turismo e individuerà opere e luoghi sui quali concentrare risorse finanziarie, progettualità e impegno da parte delle amministrazioni competenti e «per i quali sia necessario e urgente realizzare interventi organici di tutela, riqualificazione, valorizzazione e promozione culturale, anche a fini turistici»,</an:p>
+				<an:p align="justify">        impegna il governo:</an:p>
+				<an:p align="justify">            a valutare, anche alla luce dei criteri di rilevanza precisati dall'approvato ordine del giorno n. 9/02426-A/075, la possibilità di inserire la Biblioteca Fardelliana di Trapani nel Piano strategico «Grandi Progetti Beni culturali», avendo in considerazione la precaria situazione economica in cui versa la biblioteca e il relativo rischio di chiusura al pubblico e tenendo altresì conto della necessità del ruolo culturale svolto dalla stessa nell'intero territorio attiguo e l'immenso patrimonio storico culturale e artistico che rischia di andare definitivamente perduto;</an:p>
+				<an:p align="justify">            ad assumere, in attuazione di quanto stabilito dall'articolo 1, comma 3, del vigente Codice dei beni culturali e del paesaggio di cui al decreto legislativo n. 42 del 2004 e al fine della tutela del patrimonio culturale rappresentato dalla Biblioteca Fardelliana di Trapani e delle altre biblioteche diffuse nel territorio nazionale, ogni opportuna iniziativa finalizzata a non determinare l'impoverimento di servizi e funzioni volti a conservare e valorizzare la raccolta e l'incremento delle collezioni bibliografiche e documentarie in esse contenute.</an:p>
+			</an:amendmentContent>
+		</an:amendmentBody>
+	</an:amendment>
+</an:akomaNtoso>

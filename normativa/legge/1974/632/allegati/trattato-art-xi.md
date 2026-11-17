@@ -1,0 +1,13 @@
+Articolo XI
+
+La domanda di estradizione sara' inoltrata per via diplomatica.
+
+La domanda sara' accompagnata da una descrizione della persona richiesta, dalla esposizione dei fatti relativi al procedimento, dal testo delle leggi applicabili dalla Parte richiedente comprese quelle che configurano il reato, quelle che stabiliscono la relativa pena e quelle che regolano la prescrizione dell'azione penale o dell'esecuzione della pena di cui trattasi.
+
+La domanda, se riguarda una persona non ancora condannata, deve essere inoltre accompagnata da un provvedimento restrittivo della liberta' personale, emesso da un giudice o da altra persona investita di funzioni giudiziarie della Parte richiedente, e da documenti dai quali risultino indizi tali che, secondo le leggi della Parte richiesta, giustificherebbero l'arresto ed il rinvio a giudizio se il reato fosse stato commesso sul suo territorio, nonche' dalla prova che la persona richiesta e' quella alla quale il provvedimento restrittivo della liberta' personale si riferisce.
+
+La domanda se riguarda una persona gia' condannata, deve essere accompagnata dalla sentenza di condanna pronunciata nei suoi confronti nel territorio della Parte richiedente, da una dichiarazione dalla quale risulti la quantita' di pena non espiata e dalla prova che la persona richiesta e' quella alla quale la sentenza si riferisce.
+
+Il provvedimento restrittivo della liberta' personale, le deposizioni e le altre prove, osseverate con giuramento, nonche' gli atti giudiziari dai quali risulta l'esistenza della condanna, o le copie autentiche di tali documenti, saranno ammessi come prove, in sede di esame della domanda di estradizione se, nel caso di domanda formulata dall'Italia, essi portano la firma o sono accompagnati dall'attestazione di un giudice o altro pubblico ufficiale oppure sono autenticati con il sigillo ufficiale del Ministero della giustizia e, in ogni caso, sono autenticati dal principale funzionario diplomatico o consolare degli Stati Uniti in Italia, oppure se, nel caso di domanda formulata dagli Stati Uniti, sono firmati o autenticati da un giudice o altro pubblico ufficiale degli Stati Uniti e portano il sigillo ufficiale del Dipartimento di Stato.
+
+Ogni deposizione od altro mezzo di prova che non sia stato reso sotto giuramento, ma che sia conforme agli altri requisiti di cui al presente comma, sara' ammesso come prova come se fosse una deposizione od una prova resa sotto giuramento nel caso in cui risulti che la persona, prima di deporre avanti l'autorita' giudiziaria della Parte richiedente, sia stata informata da detta autorita' sulle sanzioni penali nelle quali incorrerebbe nel caso di dichiarazione falsa o reticente.
