@@ -1,0 +1,1456 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Il diritto italiano in 20 grafici</title>
+<meta name="description" content="Venti grafici sul diritto italiano dal repository italy-law / Twenty charts on Italian law from the italy-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --sans: Inter, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --serif: "Source Serif 4", Georgia, serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.6 var(--sans); }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; }
+.bar { display: flex; justify-content: flex-end; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 18px; }
+.toggles { display: inline-flex; gap: 8px; flex-wrap: wrap; justify-content: flex-end; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 var(--sans); padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(28px, 5vw, 44px)/1.2 var(--serif); margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 780px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.15 var(--sans); font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); line-height: 1.5; display: block; margin-top: 2px; }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.25 var(--serif); margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 780px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+figure.chart h3 { font: 600 19px/1.35 var(--serif); margin: 0 0 6px; }
+figure.chart h3 .no { color: var(--text-3); font-weight: 500; margin-right: .35em; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 840px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; line-height: 1.5; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-3); border-radius: 50%; }
+.legend i.line { height: 2px; width: 14px; border-radius: 1px; vertical-align: 3px; }
+.legend i.dash { height: 0; width: 14px; border-radius: 0; border-top: 2px dashed; background: transparent !important; vertical-align: 3px; }
+.legend i.hatch { background-image: repeating-linear-gradient(135deg, currentColor 0 2px, transparent 2px 5px) !important; background-color: var(--surface-2) !important; }
+.legend i.outline { background: transparent !important; border: 2px solid; border-radius: 3px; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px var(--sans); font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.lbl.big { font-size: 12px; }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.6; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 340px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; text-align: right; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.tip .q { margin-top: 4px; color: var(--text-2); }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 18px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.4 var(--sans); }
+.mini p { margin: 0 0 6px; font-size: 12px; color: var(--text-2); }
+.multi { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px 18px; }
+.multi h4 { margin: 0; font: 600 13px/1.4 var(--sans); overflow-wrap: anywhere; min-height: 2.8em; display: flex; align-items: flex-end; }
+.multi p { margin: 0 0 2px; font-size: 12px; color: var(--text-2); }
+.ptiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 4px 0 14px; }
+.ptile { background: var(--surface-2); border-radius: 10px; padding: 10px 12px; }
+.ptile .pn { font: 500 12px/1.4 var(--sans); color: var(--text-2); overflow-wrap: anywhere; }
+.ptile .pv { font-size: 12px; color: var(--text-2); margin: 2px 0; }
+.ptile .pv b { font: 600 22px/1.15 var(--sans); color: var(--text); font-variant-numeric: tabular-nums; margin-right: 2px; }
+.ptile .ps { font-size: 12px; color: var(--text-3); line-height: 1.5; }
+.ptile .pbar { display: flex; gap: 2px; height: 6px; margin-top: 8px; border-radius: 3px; overflow: hidden; }
+.ptile .pbar i { display: block; }
+.sub { margin: 18px 0 4px; font: 600 13px/1.4 var(--sans); }
+.twocol { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 18px; align-items: start; }
+.amlist { font-size: 12px; line-height: 1.45; }
+.amlist .ar { display: grid; grid-template-columns: 40px max-content minmax(0, 1fr); gap: 8px; padding: 4px 0; border-bottom: 1px solid var(--line); align-items: baseline; }
+.amlist .ar b { font-weight: 600; font-variant-numeric: tabular-nums; }
+.amlist .ar span:nth-child(2) { color: var(--text); }
+.amlist .ar span:last-child { color: var(--text-2); text-align: right; }
+.amlist .ar i { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 4px; vertical-align: 0; }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 760px) { .twocol { grid-template-columns: minmax(0, 1fr); } }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 15px; }
+  .multi { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 12px 10px; }
+  .ptiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Lingua / Language"><button data-lang="it">IT</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = /*DATA*/null;
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+let LANG = 'it';
+try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'it') LANG = q; else { const s = localStorage.getItem('it-viz-lang'); if (s === 'en' || s === 'it') LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const t = localStorage.getItem('it-viz-theme'); if (t === 'light' || t === 'dark') THEME = t; } catch (e) {}
+
+const t = k => S[LANG][k];
+const IT = () => LANG === 'it';
+const L = (it, en) => IT() ? it : en;
+const grp = (s, sep) => s.replace(/\B(?=(\d{3})+(?!\d))/g, sep);
+const fmt = n => { if (n == null || isNaN(n)) return '–'; const v = Math.round(+n); return (v < 0 ? '−' : '') + grp(String(Math.abs(v)), IT() ? '.' : ','); };
+const dec = (v, d = 1) => { const s = Math.abs(+v).toFixed(d), [i, f] = s.split('.'); return (+v < 0 ? '−' : '') + grp(i, IT() ? '.' : ',') + (f ? (IT() ? ',' : '.') + f : ''); };
+const PS = () => IT() ? ' %' : '%';
+const pct = (a, b, d = 0) => b ? dec(100 * a / b, d) + PS() : '–';
+const pv = (v, d = 0) => dec(v, d) + PS();
+const yearTxt = v => v == null || v === '' ? '–' : String(v);   // years print plain (2015), never grouped like counts
+const MESI = ['gennaio', 'febbraio', 'marzo', 'aprile', 'maggio', 'giugno', 'luglio', 'agosto', 'settembre', 'ottobre', 'novembre', 'dicembre'];
+const MEN = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
+const MSH = { it: ['gen', 'feb', 'mar', 'apr', 'mag', 'giu', 'lug', 'ago', 'set', 'ott', 'nov', 'dic'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const DOW = { it: ['lunedì', 'martedì', 'mercoledì', 'giovedì', 'venerdì', 'sabato', 'domenica'], en: ['Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'Sunday'] };
+const DOWS = { it: ['lun', 'mar', 'mer', 'gio', 'ven', 'sab', 'dom'], en: ['Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat', 'Sun'] };
+const dayIt = d => d === 1 ? '1º' : String(d);
+const dateTxt = s => { if (!s) return '–'; const [y, m, d] = s.split('-').map(Number); return IT() ? `${dayIt(d)} ${MESI[m - 1]} ${y}` : `${d} ${MEN[m - 1]} ${y}`; };
+const pD = (p, s) => { const d = s ? +String(s).slice(8, 10) : 0; return d === 8 || d === 11 ? (p === 'il' ? 'l’' : p + 'l’') + dateTxt(s) : `${p} ${dateTxt(s)}`; };
+const dateShort = s => { if (!s) return '–'; const [y, m, d] = s.split('-').map(Number); return IT() ? `${dayIt(d)} ${MSH.it[m - 1]} ${y}` : `${d} ${MSH.en[m - 1]} ${y}`; };
+const dayMonth = (m, d) => IT() ? `${dayIt(d)} ${MESI[m - 1]}` : `${d} ${MEN[m - 1]}`;
+const monthTxt = s => { const [y, m] = s.split('-').map(Number); return IT() ? `${MESI[m - 1]} ${y}` : `${MEN[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const ROM = n => { const v = [[1000, 'M'], [900, 'CM'], [500, 'D'], [400, 'CD'], [100, 'C'], [90, 'XC'], [50, 'L'], [40, 'XL'], [10, 'X'], [9, 'IX'], [5, 'V'], [4, 'IV'], [1, 'I']]; let s = ''; for (const [k, r] of v) while (n >= k) { s += r; n -= k; } return s; };
+const andList = arr => arr.length > 1 ? arr.slice(0, -1).join(', ') + L(' e ', ' and ') + arr[arr.length - 1] : (arr[0] || '');
+
+// ------------------------------------------------------------------ strings
+const S = {
+it: {
+  title: 'Il diritto italiano in 20 grafici',
+  lede: 'Venti grafici tratti soltanto dai dati di questo repository: gli atti statali vigenti pubblicati su Normattiva, con la storia di ogni versione della Costituzione e dei quattro codici; le leggi, i progetti di legge e le votazioni di Camera e Senato; le pronunce della Corte costituzionale e della giustizia amministrativa; e le misure con cui l’Italia recepisce le direttive dell’Unione europea.',
+  profile_h: 'Profilo dei dati: che cosa è stato usato e quanto è completo',
+  tbl: 'Tabella dei dati', src: 'Fonte nel repository', n: 'Record', cover: 'Copertura', caveat: 'Limiti', ds: 'Insieme di dati',
+  foot: 'Realizzato a partire dal repository lexifina/italy-law ({built}). I numeri sono calcolati dallo script visualisations/src/prep.py a partire dalla storia git, dagli alberi del repository e dalle schede di Camera, Senato e Corte costituzionale; la pagina è composta da build.py. Tutti i grafici sono descrittivi: mostrano ciò che le fonti registrano, non il perché.',
+  year: 'Anno', total: 'Totale', share: 'Quota', partial: 'anno incompleto', count: 'Numero', leg: 'Legislatura',
+  gl: 'Grafici sul diritto di tutti i Paesi, dall’intero global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. Qui ci sono soltanto i grafici sull’Italia.',
+},
+en: {
+  title: 'Italian law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the state acts in force as Normattiva publishes them, with the history of every version of the Constitution and of the four codes; the laws, bills and votes of the Camera and the Senate; the decisions of the Constitutional Court and the administrative courts; and the measures by which Italy transposes the directives of the European Union.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit', ds: 'Dataset',
+  foot: 'Built from the lexifina/italy-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history, the repository\'s trees and the records of the Camera, the Senate and the Constitutional Court; build.py assembles the page. All charts are descriptive: they show what the sources record, not why.',
+  year: 'Year', total: 'Total', share: 'Share', partial: 'partial year', count: 'Count', leg: 'Legislature',
+  gl: 'Charts on every country\'s law, from the whole of global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. These are the charts on Italy alone.',
+}};
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+const tq = s => `<div class="q">${esc(s)}</div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c).style('border-color', it.c).style('color', it.c); s.append('span').text(it.l); });
+  return lg;
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+  return d;
+}
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(s)}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + esc(extra) : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function colPathDown(x, y0, w, y1, r = 4) {   // a column hanging below the baseline y0, rounded at its bottom y1
+  const h = y1 - y0; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 - r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 - r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+let HATCH = 0;
+function hatch(svg, color) {
+  const id = 'hatch' + (++HATCH);
+  const p = svg.append('defs').append('pattern').attr('id', id).attr('patternUnits', 'userSpaceOnUse').attr('width', 5).attr('height', 5).attr('patternTransform', 'rotate(45)');
+  p.append('rect').attr('width', 5).attr('height', 5).attr('fill', css('--surface'));
+  p.append('line').attr('x1', 0).attr('y1', 0).attr('x2', 0).attr('y2', 5).attr('stroke', color || css('--muted-mark')).attr('stroke-width', 2);
+  return `url(#${id})`;
+}
+const inkOn = c => d3.hsl(c).l > 0.6 ? '#0b0b0b' : '#fff';
+const seqRamp = () => d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'));
+const h4 = (el, txt, mt = 14) => el.append('h4').style('margin', `${mt}px 0 4px`).style('font', '600 13px/1.4 var(--sans)').text(txt);
+// the widest of these strings in a chart's label style, in pixels (measured as drawn: the page draws again once the web fonts have loaded)
+const textW = (el, strs, cls = 'lbl strong') => { const sv = el.append('svg').attr('width', 0).attr('height', 0).style('position', 'absolute'), tx = sv.append('text').attr('class', cls);
+  const w = d3.max(strs, q => { tx.text(q); return tx.node().getComputedTextLength(); }) || 0; sv.remove(); return w; };
+const halo = (g, x, y, txt, anchor = 'start', cls = 'lbl strong', fill = null) => g.append('text').attr('class', cls).attr('x', x).attr('y', y).attr('text-anchor', anchor)
+  .style('fill', fill).style('paint-order', 'stroke').style('stroke', css('--surface')).style('stroke-width', 4).style('stroke-linejoin', 'round').text(txt);
+// a label too wide for the room, broken into two lines at the space nearest its middle
+function wrap2(el, s, room, cls = 'lbl strong') {
+  if (textW(el, [s], cls) <= room) return [s];
+  const sp = [...s.matchAll(/ /g)].map(m => m.index); if (!sp.length) return [s];
+  const mid = s.length / 2, k = sp.reduce((a, b) => Math.abs(b - mid) < Math.abs(a - mid) ? b : a);
+  return [s.slice(0, k), s.slice(k + 1)];
+}
+// rows of 100% bands with rounded ends and the shares inside
+function bands(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), rowH = opt.rowH || 34;
+  const lw = opt.lw || Math.min(nw ? 150 : 300, textW(el, rows.map(r => opt.label(r, nw))) + 14), rw = opt.rw || Math.max(44, textW(el, rows.map(r => opt.right(r, nw)), 'lbl strong') + 14);
+  const m = { t: 4, r: rw, b: 22, l: lw };
+  const h = m.t + m.b + rowH * rows.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+  [0, .25, .5, .75, 1].forEach(v => g.append('text').attr('class', 'lbl mut').attr('x', x(v)).attr('y', rowH * rows.length + 14).attr('text-anchor', 'middle').text(pv(100 * v)));
+  const id0 = 'bd' + (++HATCH);
+  rows.forEach((r, i) => {
+    const y0 = i * rowH + 6, bh = rowH - 12, tot = sum(keys, k => r[k] || 0), id = id0 + '_' + i;
+    g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'end').text(opt.label(r, nw));
+    if (!tot) return;
+    g.append('clipPath').attr('id', id).append('rect').attr('x', 0).attr('y', y0).attr('width', iw).attr('height', bh).attr('rx', bh / 2);
+    const row = g.append('g').attr('clip-path', `url(#${id})`).attr('opacity', opt.partial && opt.partial(r) ? .55 : 1);
+    let acc = 0;
+    keys.forEach((k, j) => {
+      const v = r[k] || 0; if (!v) return;
+      const x0 = x(acc / tot), x1 = x((acc + v) / tot); acc += v;
+      row.append('rect').attr('x', x0).attr('width', Math.max(0, x1 - x0 - (acc < tot ? 1.5 : 0))).attr('y', y0).attr('height', bh).attr('fill', colors[j]);
+      if (x1 - x0 > (opt.minIn || 34)) row.append('text').attr('class', 'lbl').attr('x', (x0 + x1) / 2).attr('y', y0 + bh / 2 + 4).attr('text-anchor', 'middle')
+        .style('fill', inkOn(colors[j])).style('pointer-events', 'none').text(pct(v, tot));
+    });
+    g.append('text').attr('class', 'lbl strong').attr('x', iw + 10).attr('y', y0 + bh / 2 + 4).text(opt.right(r, nw));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', i * rowH).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], names[j], `${fmt(d[k])} · ${pct(d[k], tot)}`) : '').join('') + (opt.tipExtra ? opt.tipExtra(d) : trow(null, t('total'), fmt(tot))));
+  });
+  return { svg, g, iw };
+}
+// horizontal bars split into segments, label on the left (above the bar on narrow screens), total on the right
+function splitBars(el, rows, keys, colors, names, opt) {
+  const w = W(el), nw = narrow(w), up = nw && !opt.left, rh0 = opt.rowH || 26, rowH = up ? rh0 + 13 : rh0;
+  const lw = up ? 0 : Math.min(opt.cap || 420, textW(el, rows.map(r => opt.label(r, false))) + 14), rr = opt.rr || 50;
+  const m = { t: 2, r: rr, b: 4, l: lw };
+  const svg = svgIn(el, w, m.t + m.b + rowH * rows.length), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const tot = r => sum(keys, k => r[k] || 0);
+  const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).range([0, iw]);
+  rows.forEach((r, i) => {
+    const cy = i * rowH + (up ? 13 : 0), bh = Math.min(15, rh0 - 9);
+    if (up) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 1).style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, true));
+    else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rh0 / 2 + 4).attr('text-anchor', 'end').style('fill', opt.labelFill ? opt.labelFill(r) : null).text(opt.label(r, false));
+    let acc = 0; const segs = keys.map((k, j) => ({ k, j, v: r[k] || 0 })).filter(s => s.v);
+    segs.forEach((s, q) => {
+      const x0 = x(acc), x1 = x(acc + s.v); acc += s.v;
+      const last = q === segs.length - 1;
+      g.append('path').attr('d', last ? barPath(x0, cy + (rh0 - bh) / 2, x1, bh, 3) : `M${x0},${cy + (rh0 - bh) / 2}h${Math.max(0, x1 - x0 - 1)}v${bh}h${-Math.max(0, x1 - x0 - 1)}Z`).attr('fill', colors[s.j]);
+    });
+    g.append('text').attr('class', 'lbl').attr('x', x(tot(r)) + 6).attr('y', cy + rh0 / 2 + 4).text(opt.right ? opt.right(r, nw) : fmt(tot(r)));
+    bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy - (up ? 13 : 0)).attr('height', rowH).datum(r),
+      d => `<b>${esc(opt.label(d, false))}</b>` + (opt.tipHead ? opt.tipHead(d) : '') + keys.map((k, j) => d[k] ? trow(colors[j], names[j], fmt(d[k])) : '').join('') + trow(null, t('total'), fmt(tot(d))) + (opt.tipExtra ? opt.tipExtra(d) : ''));
+  });
+  return { svg, g, x, iw };
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 1px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: opt.mt || 14, r: 8, b: 26, l: opt.ml || 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(opt.pad == null ? 0.25 : opt.pad);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(opt.bw || 24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(Math.min(acc, y.domain()[1])), y1 = y(Math.min(acc + s.v, y.domain()[1])); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.55 : 1);
+    });
+    if (opt.topLabel) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(Math.min(tot(r), y.domain()[1])) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  const lab = opt.labelIf || ((r, i) => i % every === 0 || (i === rows.length - 1 && (rows.length - 1) % every >= every / 2));   // a predicate picks the labelled columns (round years)
+  rows.forEach((r, i) => { if (lab(r, i)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    r => opt.tip ? opt.tip(r) : `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + (opt.noShare ? '' : ` · ${pct(r[k], tot(r))}`)) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r))));
+  return { svg, g, x, y, iw, ih, bw };
+}
+// shaded period bands on a time axis (x in fractional years), with the period's name at the top
+function periodBands(g, x, ih, periods, opt = {}) {
+  const gg = g.append('g');
+  periods.forEach(([name, a, b], i) => {
+    const xa = x(a), xb = x(b);
+    if (xb - xa < 1) return;
+    if (i % 2 === (opt.odd ? 0 : 1)) gg.append('rect').attr('x', xa).attr('y', opt.top || 0).attr('width', xb - xa).attr('height', ih - (opt.top || 0)).attr('fill', css('--surface-2')).attr('opacity', .9);
+    const labs = [].concat(name).filter(Boolean);
+    for (const lab of labs) {
+      if (xb - xa <= (opt.minLabel || 26)) break;
+      const tx = gg.append('text').attr('class', 'lbl mut').attr('x', (xa + xb) / 2).attr('y', (opt.top || 0) + 12).attr('text-anchor', 'middle').text(lab);
+      if (tx.node().getComputedTextLength() <= xb - xa - 4) break;
+      tx.remove();
+    }
+  });
+  return gg;
+}
+const fy = s => { const [y, m, d] = s.split('-').map(Number); return y + ((m || 1) - 1) / 12 + ((d || 1) - 1) / 365; };   // a date (or a month) as a fractional year
+
+// a year as 12 rows of up to 31 rounded cells; md = {'MM-DD': count}; the darkest cell is the busiest day
+function calendarHeat(el, md, opt = {}) {
+  const w = W(el), nw = narrow(w), ramp = seqRamp(), keys = Object.keys(md), top = opt.top || keys.reduce((a, b) => (md[a] || 0) >= (md[b] || 0) ? a : b, keys[0]);
+  const mx = opt.max || d3.max(keys.filter(k => k !== top), k => md[k]) || 1, n = opt.n || sum(keys, k => md[k]);
+  const vals = keys.map(k => md[k]).filter(v => v).sort((a, b) => a - b), lo = opt.lo != null ? opt.lo : (vals[Math.floor(vals.length * 0.05)] || 0);
+  const cl = v => v ? ramp(0.08 + 0.92 * Math.pow(Math.min(1, Math.max(0, (v - lo) / Math.max(1, mx - lo))), 0.9)) : css('--surface-2');
+  const lw = textW(el, MSH[LANG], 'lbl') + 8, cw = (w - lw - 2) / 31, ch = nw ? 17 : 22;
+  const svg = svgIn(el, w, 18 + ch * 12 + 4), g = svg.append('g').attr('transform', `translate(${lw},18)`);
+  d3.range(1, 32).forEach(d => { if (!nw || d % 5 === 1 || d === 31) g.append('text').attr('class', 'lbl mut').attr('x', (d - 1) * cw + cw / 2).attr('y', -6).attr('text-anchor', 'middle').text(d); });
+  d3.range(1, 13).forEach(mo => {
+    g.append('text').attr('class', 'lbl').attr('x', -6).attr('y', (mo - 1) * ch + ch / 2 + 4).attr('text-anchor', 'end').text(MSH[LANG][mo - 1]);
+    const nd = new Date(2024, mo, 0).getDate();
+    d3.range(1, nd + 1).forEach(d => {
+      const k = `${String(mo).padStart(2, '0')}-${String(d).padStart(2, '0')}`, v = md[k] || 0, fill = k === top ? ramp(1) : cl(v);
+      g.append('rect').attr('x', (d - 1) * cw + .8).attr('y', (mo - 1) * ch + .8).attr('width', cw - 1.6).attr('height', ch - 1.6).attr('rx', 2.5).attr('fill', fill);
+      if (!nw && opt.labelMin != null && v / n >= opt.labelMin) g.append('text').attr('class', 'lbl').attr('x', (d - 1) * cw + cw / 2).attr('y', (mo - 1) * ch + ch / 2 + 3.5).attr('text-anchor', 'middle')
+        .style('fill', inkOn(fill)).style('pointer-events', 'none').style('font-size', '9px').text(dec(100 * v / n, 1).replace(/[.,]0$/, ''));
+      bindTip(g.append('rect').attr('class', 'hit').attr('x', (d - 1) * cw).attr('y', (mo - 1) * ch).attr('width', cw).attr('height', ch).datum([mo, d, v]),
+        q => `<b>${dayMonth(q[0], q[1])}</b>` + trow(null, opt.what || t('count'), `${fmt(q[2])} · ${pct(q[2], n, 1)}`));
+    });
+  });
+  return { svg, g, cl, mx, top };
+}
+
+// columns for integer bins (days, counts...): bins = [[x, n], ...]; marks = [{x, label}] drawn as dashed lines with a label on top
+function binColumns(el, bins, opt = {}) {
+  const w = W(el), nw = narrow(w), h = opt.h || 240, m = { t: opt.mt || 30, r: 10, b: 28, l: opt.ml || 40 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x0 = opt.x0 != null ? opt.x0 : d3.min(bins, b => b[0]), x1 = opt.x1 != null ? opt.x1 : d3.max(bins, b => b[0]);
+  const x = d3.scaleBand().domain(d3.range(x0, x1 + 1)).range([0, iw]).padding(opt.pad == null ? 0.15 : opt.pad);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(bins, b => b[1])]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 4, opt.yf);
+  const bw = x.bandwidth();
+  bins.forEach(b => { if (b[0] < x0 || b[0] > x1 || !b[1]) return;
+    g.append('path').attr('d', colPath(x(b[0]), ih, bw, y(b[1]), Math.min(3, bw / 2))).attr('fill', opt.color ? opt.color(b) : css('--s1')); });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = opt.every || (nw ? 10 : 5);
+  d3.range(x0, x1 + 1).forEach(v => { if ((v - x0) % every === 0 || v === x1) g.append('text').attr('class', 'lbl').attr('x', x(v) + bw / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(v) : v); });
+  (opt.marks || []).forEach(mk => {
+    const xx = x(mk.x) + bw / 2;
+    g.append('line').attr('x1', xx).attr('x2', xx).attr('y1', -m.t + 16).attr('y2', ih).attr('stroke', css('--text-2')).attr('stroke-dasharray', '3 3');
+    const tw = textW(el, [mk.label]);
+    const anc = xx + tw + 6 > iw ? 'end' : 'start';
+    halo(g, anc === 'end' ? xx - 5 : xx + 5, -m.t + 26, mk.label, anc, 'lbl strong');
+  });
+  if (opt.tip) bindTip(g.selectAll('.hit').data(bins.filter(b => b[0] >= x0 && b[0] <= x1)).join('rect').attr('class', 'hit').attr('x', b => x(b[0])).attr('width', x.step()).attr('y', 0).attr('height', ih), opt.tip);
+  if (opt.xlab) g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', ih + 28).attr('text-anchor', 'end').text(opt.xlab);
+  return { svg, g, x, y, iw, ih, bw };
+}
+
+// a vertical gradient for an area under a line
+const grad = (svg, color, a = .28) => { const id = 'gr' + (++HATCH), lg = svg.append('defs').append('linearGradient').attr('id', id).attr('x1', 0).attr('x2', 0).attr('y1', 0).attr('y2', 1);
+  lg.append('stop').attr('offset', 0).attr('stop-color', color).attr('stop-opacity', a); lg.append('stop').attr('offset', 1).attr('stop-color', color).attr('stop-opacity', 0); return `url(#${id})`; };
+// place labels (objects with x, y, text, anchor) so that no two overlap: each one moves up (or down) in steps until it is clear
+function placeLabels(el, items, opt = {}) {
+  const boxes = [], step = opt.step || 13, cls = opt.cls || 'lbl strong';
+  items.forEach(it => {
+    const tw = textW(el, [it.text], it.cls || cls), x0 = it.anchor === 'end' ? it.x - tw : it.anchor === 'middle' ? it.x - tw / 2 : it.x;
+    let y = it.y, k = 0;
+    const hit = yy => boxes.some(b => !(x0 + tw + 3 < b[0] || x0 - 3 > b[2] || yy + 3 < b[1] - 11 || yy - 11 - 3 > b[3]));
+    while (hit(y) && k < 12) { k++; y = it.y + (k % 2 ? -1 : 1) * Math.ceil(k / 2) * step * (it.dir || 1); }
+    boxes.push([x0, y - 11, x0 + tw, y + 3]);
+    it.py = y;
+  });
+  return items;
+}
+
+// ------------------------------------------------------------------ names
+const YEAR_LAST = +PF.built.slice(0, 4);
+const LANGDIR = () => IT() ? 'it' : 'en';
+// Italian article before a number: "l'8 %", "l'11 %", "l'1,5 %", otherwise "il"
+// the Italian article before a percentage: "l’8 %", "l’11 %", "l’1,5 %", "lo 0,3 %", otherwise "il 12 %"
+const artIt = s => { s = String(s).replace(/^\D+/, ''); return /^0/.test(s) ? 'lo ' : /^(8|11(?![0-9])|1(?![0-9]))/.test(s) ? 'l’' : 'il '; };
+const ilPct = (a, b, d = 0) => IT() ? artIt(dec(100 * a / b, d)) + pct(a, b, d) : pct(a, b, d);
+const ilPv = (v, d = 0) => IT() ? artIt(dec(v, d)) + pv(v, d) : pv(v, d);
+const GOVN = { 'Prodi-II': 'Prodi II', 'Berlusconi-IV': 'Berlusconi IV', 'Monti-I': 'Monti', 'Letta-I': 'Letta', 'Renzi-I': 'Renzi', 'Gentiloni Silveri-I': 'Gentiloni', 'Conte-I': 'Conte I', 'Conte-II': 'Conte II', 'Draghi-I': 'Draghi', 'Meloni-I': 'Meloni' };
+const govName = g => GOVN[g] || g.replace(/-/, ' ');
+const yrsW = n => L(n === 1 ? 'anno' : 'anni', n === 1 ? 'year' : 'years');
+// a preposition joined to the article before a percentage: "dal 79 %", "dall’80 %", "al 19 %", "allo 0,5 %"
+const prepPct = (p, a, b, d = 0) => { const ar = artIt(dec(100 * a / b, d)); return p + (ar === 'il ' ? 'l ' : ar === 'lo ' ? 'llo ' : 'll’') + pct(a, b, d); };
+const legName = (k, nw) => ROMN(k);
+const ROMN = n => ROM(n);
+const GK = ['dpr', 'legge', 'dl', 'dlgs', 'regi', 'lgt', 'altri'];
+const GKN = { dpr: ['Decreti del Presidente della Repubblica', 'Presidential decrees (D.P.R.)'], legge: ['Leggi (anche costituzionali)', 'Laws (incl. constitutional laws)'],
+  dl: ['Decreti-legge', 'Decree-laws'], dlgs: ['Decreti legislativi', 'Legislative decrees'], regi: ['Regi decreti (anche legislativi e decreti-legge)', 'Royal decrees (incl. legislative and decree-laws)'],
+  lgt: ['Decreti luogotenenziali (1944–1946)', 'Lieutenancy decrees (1944–1946)'], altri: ['Decreti ministeriali, D.P.C.M. e altri', 'Ministerial and prime-ministerial decrees, other'] };
+const GKS = { dpr: ['D.P.R.', 'D.P.R.'], legge: ['Leggi', 'Laws'], dl: ['Decreti-legge', 'Decree-laws'], dlgs: ['Decreti legislativi', 'Legislative decrees'], regi: ['Regi decreti', 'Royal decrees'],
+  lgt: ['Decreti luogotenenziali', 'Lieutenancy decrees'], altri: ['Altri decreti', 'Other decrees'] };
+const GKC = () => { const c = S8(); return [c[0], c[1], c[7], c[6], c[3], c[4], css('--muted-mark')]; };
+const TOPIC = {
+  eccl: ['Enti ecclesiastici riconosciuti agli effetti civili', 'Church bodies recognised for civil purposes'],
+  enti: ['Enti morali e persone giuridiche: erezione e riconoscimento', 'Charities and other legal persons: establishment and recognition'],
+  statuti: ['Statuti di enti, fondazioni e università', 'Statutes of bodies, foundations and universities'],
+  autor: ['Autorizzazioni a enti: lasciti, acquisti, vendite', 'Authorisations to bodies: bequests, purchases, sales'],
+  fond: ['Riforma fondiaria: terreni trasferiti agli enti', 'Land reform: land transferred to the reform bodies'],
+  enel: ["Trasferimenti di imprese all'ENEL", 'Transfers of companies to ENEL'],
+  osp: ['Enti ospedalieri', 'Hospital bodies'],
+  scuole: ['Scuole e università: istituti, cattedre, posti', 'Schools and universities: institutes, chairs, posts'],
+  comuni: ['Comuni: unioni, distacchi, nomi', 'Municipalities: mergers, splits, names'],
+  trattati: ['Trattati e accordi internazionali', 'Treaties and international agreements'],
+  conv: ['Conversioni in legge di decreti-legge', 'Conversions of decree-laws into law'],
+  ue: ['Attuazione di direttive europee', 'Transposition of EU directives'],
+  reg: ['Regolamenti', 'Regulations'],
+  altro: ['Altre leggi, decreti e provvedimenti', 'Other laws, decrees and measures'] };
+const SINGLE = ['eccl', 'enti', 'statuti', 'autor', 'osp'];
+// the twenty regions as tiles, roughly where they lie: [column, row]
+const REG = {
+  vda: ["Valle d'Aosta", 'VdA', [0, 0]], pie: ['Piemonte', 'PIE', [0, 1]], lig: ['Liguria', 'LIG', [0, 2]], lom: ['Lombardia', 'LOM', [1, 0]],
+  taa: ['Trentino-Alto Adige', 'TAA', [2, 0]], ven: ['Veneto', 'VEN', [2, 1]], fvg: ['Friuli Venezia Giulia', 'FVG', [3, 0]], emr: ['Emilia-Romagna', 'EMR', [1, 1]],
+  tos: ['Toscana', 'TOS', [1, 2]], umb: ['Umbria', 'UMB', [2, 2]], mar: ['Marche', 'MAR', [3, 2]], laz: ['Lazio', 'LAZ', [2, 3]], abr: ['Abruzzo', 'ABR', [3, 3]],
+  mol: ['Molise', 'MOL', [4, 3]], cam: ['Campania', 'CAM', [3, 4]], bas: ['Basilicata', 'BAS', [4, 4]], pug: ['Puglia', 'PUG', [5, 4]], cal: ['Calabria', 'CAL', [4, 5]],
+  sic: ['Sicilia', 'SIC', [3, 6]], sar: ['Sardegna', 'SAR', [0, 4]] };
+const SEATREG = s => { const t = s.toUpperCase(); for (const [k, re] of [['vda', /VALLE D'AOSTA/], ['pie', /PIEMONTE/], ['lig', /LIGURIA/], ['lom', /LOMBARDIA/], ['taa', /TRENTINO/], ['ven', /VENETO/], ['fvg', /FRIULI/],
+  ['emr', /EMILIA/], ['tos', /TOSCANA/], ['umb', /UMBRIA/], ['mar', /MARCHE/], ['laz', /LAZIO/], ['abr', /ABRUZZO/], ['mol', /MOLISE/], ['cam', /CAMPANIA/], ['bas', /BASILICATA/], ['pug', /PUGLIA/],
+  ['cal', /CALABRIA/], ['sic', /SICILIA/], ['sar', /SARDEGNA/]]) if (re.test(t)) return k; return null; };
+// a seat as people write it: "TAR Lazio, Roma", "Consiglio di Stato"
+const seatName = s => {
+  if (/^CdS GIURISDIZIONALE/.test(s)) return L('Consiglio di Stato', 'Council of State');
+  if (/^CdS CONSULTIVE/.test(s)) return L('Consiglio di Stato (pareri)', 'Council of State (opinions)');
+  if (/^CGA GIURISDIZIONALE/.test(s)) return L('CGA Regione siciliana', 'CGA, Sicilian Region');
+  if (/^CGA CONSULTIVE/.test(s)) return L('CGA Regione siciliana (pareri)', 'CGA, Sicilian Region (opinions)');
+  const m = s.match(/^TAR (.*?) - (.*)$/);
+  if (!m) return s;
+  const tc = x => x.toLowerCase().replace(/(^|[\s'-])([a-zà-ù])/g, (a, b, c) => b + c.toUpperCase()).replace(/ D'aosta/, " d'Aosta").replace(/D'aosta/, "d'Aosta").replace(/Venezia Giulia/, 'Venezia Giulia');
+  const reg = tc(m[1]), city = tc(m[2]);
+  return reg.split(/[ -]/)[0] === city || /Trentino/.test(reg) ? `TAR ${city}` : `TAR ${reg.replace('Emilia-romagna', 'Emilia-Romagna')}, ${city}`;
+};
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, it, en, dit, den) => CH.push({ part: true, id, it, en, dit, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Le norme in vigore', 'I. The law in force',
+  'Il repository tiene il testo vigente degli atti statali pubblicati da Normattiva, dal Regno d’Italia a oggi: leggi, decreti e regolamenti, ciascuno nella cartella del suo tipo, del suo anno e del suo numero, con la data della firma e quella della Gazzetta Ufficiale. Questi grafici contano ciò che è in vigore oggi: gli atti abrogati non ci sono.',
+  'The repository holds the text in force of the state acts Normattiva publishes, from the Kingdom of Italy to today: laws, decrees and regulations, each in the folder of its kind, year and number, with the date it was signed and the date of the Gazzetta Ufficiale. These charts count what is in force today: repealed acts are not here.');
+
+// 1. what is in force, by year and kind
+chart('c01', el => {
+  const c = D.c01, colors = GKC(), tot = r => sum(GK, k => r[k] || 0);
+  const rows = [{ y: 1860 }, ...c.rows.filter(r => r.y >= 1861)];
+  const all = sum(rows, tot), peak = rows.reduce((a, b) => tot(a) >= tot(b) ? a : b), dprN = c.kinds.dpr || 0, old = c.oldest[0];
+  return {
+    title: L(`Che cosa è in vigore: ${ilPct(c.pre1970, all)} dei ${fmt(all)} atti statali vigenti è anteriore al 1970`,
+      `What is in force: ${pct(c.pre1970, all)} of the ${fmt(all)} state acts in force date from before 1970`),
+    toc: L('Che cosa è in vigore', 'What is in force'),
+    dek: L(`Ogni colonna è un anno: quanti atti firmati quell’anno sono oggi in vigore, per tipo. ${fmt(c.pre1946)} risalgono al Regno d’Italia; il più antico è un regio decreto ${pD('del', old[1])} che autorizza la vendita di 150 metri quadrati di terreno accanto al cimitero di Monza. L’anno con più atti vigenti è il ${peak.y} (${fmt(tot(peak))}, di cui ${fmt(peak.dpr)} decreti del Presidente della Repubblica); in tutto i D.P.R. sono ${ilPct(dprN, all)} degli atti vigenti.`,
+      `Each column is one year: how many acts signed that year are in force today, by kind. ${fmt(c.pre1946)} date from the Kingdom of Italy; the oldest is a royal decree of ${dateTxt(old[1])} authorising the sale of 150 square metres of land next to the cemetery of Monza. The year with the most acts in force is ${peak.y} (${fmt(tot(peak))}, ${fmt(peak.dpr)} of them presidential decrees); presidential decrees make up ${pct(dprN, all)} of all acts in force.`),
+    draw(el) {
+      legend(el, GK.map((k, i) => ({ c: colors[i], l: L(...GKN[k]) })));
+      const nw = narrow(W(el));
+      const s = stackedColumns(el, rows, GK, colors, GK.map(k => L(...GKN[k])), { partial: r => r.y === YEAR_LAST, pad: 0.12, mt: 40, h: 320, labelIf: r => r.y % (nw ? 40 : 10) === 0, xf: y => String(y),
+        tip: r => `<b>${r.y}${r.y === YEAR_LAST ? ' (' + t('partial') + ')' : ''}</b>` + GK.map((k, i) => r[k] ? trow(colors[i], L(...GKS[k]), fmt(r[k])) : '').reverse().join('') + trow(null, t('total'), fmt(tot(r))) });
+      const bx = y => s.x(y) + s.x.bandwidth() / 2;
+      [[L('Regno d’Italia', 'Kingdom of Italy'), 1861, 1945], [L('Repubblica', 'Republic'), 1946, YEAR_LAST]].forEach(([lab, a, b], i) => {
+        const x0 = s.x(a), x1 = s.x(b) + s.x.bandwidth();
+        s.g.insert('rect', ':first-child').attr('x', x0).attr('width', x1 - x0).attr('y', -34).attr('height', s.ih + 34).attr('rx', 6).attr('fill', css('--surface-2')).attr('opacity', i ? 0 : .8);
+        s.g.append('text').attr('class', 'lbl mut').attr('x', x0 + 6).attr('y', -22).text(lab);
+      });
+      const px = bx(peak.y), py = s.y(tot(peak)), lab = L(`${peak.y}: ${fmt(tot(peak))} atti`, `${peak.y}: ${fmt(tot(peak))} acts`);
+      const right = px + 10 + textW(el, [lab]) < s.iw;
+      s.g.append('line').attr('x1', px).attr('x2', right ? px + 8 : px - 8).attr('y1', py - 2).attr('y2', py - 2).attr('stroke', css('--text-2'));
+      halo(s.g, right ? px + 11 : px - 11, py + 2, lab, right ? 'start' : 'end');
+      note(el, ['normativa/<tipo>/<anno>/<numero>/', 'git log (Enacted:)'], fmt(all) + L(' atti', ' acts'),
+        L(`l’anno è quello della cartella dell’atto, cioè della sua firma; i regi decreti comprendono anche i regi decreti legislativi e il regio decreto-legge in vigore, i decreti luogotenenziali sono del 1944–1946. Il ${YEAR_LAST} è incompleto (più chiaro). Gli atti abrogati, e quelli che Normattiva non pubblica, non sono contati.`,
+          `the year is that of the act's folder, the year it was signed; royal decrees include royal legislative decrees and the one royal decree-law in force, lieutenancy decrees date from 1944–1946. ${YEAR_LAST} is partial (lighter). Repealed acts, and acts Normattiva does not publish, are not counted.`));
+      table(el, [t('year'), ...GK.map(k => L(...GKS[k])), t('total')], rows.filter(r => tot(r)).map(r => [String(r.y), ...GK.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+// 2. what the acts in force do
+chart('c02', el => {
+  const c = D.c02, all = sum(Object.values(c.n)), keys = Object.keys(c.n).filter(k => k !== 'altro').sort((a, b) => c.n[b] - c.n[a]).concat(['altro']);
+  const single = sum(SINGLE, k => c.n[k] || 0), DEC = d3.range(1860, YEAR_LAST + 1, 10), wide = !narrow(W(el));
+  const fond50 = (c.dec.fond || {})['1950'] || 0;
+  return {
+    title: L(`Che cosa resta in vigore: ${ilPct(single, all)} degli atti riguarda un singolo ente, dalla parrocchia alla fondazione`,
+      `What remains in force: ${pct(single, all)} of the acts concern a single body, from a parish to a foundation`),
+    toc: L('Che cosa resta in vigore', 'What remains in force'),
+    dek: L(`Il titolo di ogni atto vigente, letto dalla sua intestazione, dice che cosa fa. ${fmt(c.n.eccl)} riconoscono agli effetti civili un ente ecclesiastico (una parrocchia, una chiesa, una confraternita); ${fmt(c.n.enti)} erigono in ente morale un’opera o un’associazione o ne riconoscono la personalità giuridica; ${fmt(c.n.statuti)} ne approvano o modificano lo statuto. ${fmt(c.n.fond)} trasferiscono terreni della riforma fondiaria, ${fmt(fond50)} dei quali firmati negli anni Cinquanta.${wide ? ' A destra, gli stessi atti per decennio.' : ''}`,
+      `The title of every act in force, read from its heading, says what it does. ${fmt(c.n.eccl)} recognise a church body for civil purposes (a parish, a church, a confraternity); ${fmt(c.n.enti)} establish a charity or association as a legal person or recognise it as one; ${fmt(c.n.statuti)} approve or amend its statute. ${fmt(c.n.fond)} transfer land under the land reform, ${fmt(fond50)} of them signed in the 1950s.${wide ? ' On the right, the same acts by decade.' : ''}`),
+    draw(el) {
+      const w = W(el), nwd = narrow(w), cols = S8(), labs = keys.map(k => L(...TOPIC[k]));
+      legend(el, [{ c: cols[0], l: L('atti su un singolo ente', 'acts about a single body') }, { c: cols[3], l: L('altri gruppi riconosciuti dal titolo', 'other groups recognised from the title') }, { c: css('--muted-mark'), l: L('nessuna delle formule', 'none of the formulas') }]
+        .concat(nwd ? [] : [{ c: seqRamp()(0.7), l: L('a destra: atti per decennio della firma', 'on the right: acts by decade of signature') }]));
+      const lw = nwd ? 0 : Math.min(330, textW(el, labs) + 14), rowH = nwd ? 32 : 24, cw = nwd ? 0 : Math.max(14, Math.min(24, (w - lw - 210) / DEC.length));
+      const m = { t: 22, r: 6, b: 4, l: lw }, barW = nwd ? w - 8 : w - lw - cw * DEC.length - 22;
+      const h = m.t + m.b + keys.length * rowH, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const labW = textW(el, keys.map(k => `${fmt(c.n[k])} · ${pct(c.n[k], all)}`), 'lbl') + 10;
+      const x = d3.scaleLinear().domain([0, d3.max(keys, k => c.n[k])]).range([0, barW - labW]), hx = barW + 16;
+      const mx = d3.max(keys, k => d3.max(Object.values(c.dec[k] || { 0: 0 }))), col = d3.scaleSequentialSqrt(seqRamp()).domain([0, mx]);
+      if (!nwd) DEC.forEach((d, j) => { if (d % 40 === 20) g.append('text').attr('class', 'lbl').attr('x', hx + j * cw + cw / 2).attr('y', -8).attr('text-anchor', 'middle').text(`${d}`); });
+      keys.forEach((k, i) => {
+        const cy = i * rowH + (nwd ? 13 : 0), by = c.dec[k] || {}, colr = k === 'altro' ? css('--muted-mark') : SINGLE.includes(k) ? cols[0] : cols[3];
+        if (nwd) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 2).text(labs[i]);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 15).attr('text-anchor', 'end').text(labs[i]);
+        g.append('path').attr('d', barPath(0, cy + (nwd ? 3 : 5), Math.max(2, x(c.n[k])), 13)).attr('fill', colr);
+        g.append('text').attr('class', 'lbl').attr('x', x(c.n[k]) + 6).attr('y', cy + (nwd ? 13 : 15)).text(`${fmt(c.n[k])} · ${pct(c.n[k], all)}`);
+        if (!nwd) DEC.forEach((d, j) => { const v = by[d] || 0;
+          bindTip(g.append('rect').attr('x', hx + j * cw + 1).attr('y', cy + 2).attr('width', cw - 2).attr('height', rowH - 4).attr('rx', 3).attr('fill', v ? col(v) : css('--surface-2')).datum([k, d, v]),
+            q => `<b>${esc(L(...TOPIC[q[0]]))}</b>` + trow(null, L(`Firmati negli anni ${q[1]}–${q[1] + 9}`, `Signed in ${q[1]}–${q[1] + 9}`), fmt(q[2]))); });
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -lw).attr('width', nwd ? w : lw + barW).attr('y', cy - (nwd ? 13 : 0)).attr('height', rowH).datum(k),
+          kk => `<b>${esc(L(...TOPIC[kk]))}</b>` + trow(null, t('total'), `${fmt(c.n[kk])} · ${pct(c.n[kk], all)}`) + GK.filter(g2 => (c.kind[kk] || {})[g2]).map(g2 => trow(null, L(...GKS[g2]), fmt(c.kind[kk][g2]))).join(''));
+      });
+      note(el, ['normativa/<tipo>/<anno>/<numero>/intestazione.md'], fmt(all) + L(' atti', ' acts'),
+        L('il gruppo si legge dalle parole iniziali del titolo, con le regole di src/prep.py applicate in quest’ordine: enti ecclesiastici (“Riconoscimento, agli effetti civili…”), enti morali e persone giuridiche, statuti, trattati, autorizzazioni, riforma fondiaria, ENEL, enti ospedalieri, scuole e università, comuni, conversioni, direttive, regolamenti. Ciò che nessuna regola riconosce resta in “Altre leggi, decreti e provvedimenti”.',
+          'the group is read from the opening words of the title, by the rules in src/prep.py applied in this order: church bodies ("Riconoscimento, agli effetti civili…"), charities and legal persons, statutes, treaties, authorisations, land reform, ENEL, hospital bodies, schools and universities, municipalities, conversions, directives, regulations. Whatever no rule recognises stays in "Other laws, decrees and measures".'));
+      table(el, [L('Gruppo', 'Group'), t('total'), ...DEC.map(d => `${d}–`)], keys.map(k => [L(...TOPIC[k]), c.n[k], ...DEC.map(d => (c.dec[k] || {})[d] || 0)]));
+    }
+  };
+});
+
+// 3. from signature to the Gazzetta Ufficiale
+chart('c03', el => {
+  const c = D.c03.cells, DEC = d3.range(1860, YEAR_LAST + 1, 10), rows = ['legge', 'dl', 'dlgs', 'dpr', 'regi', 'lgt', 'altri'];
+  const cell = (k, d) => c[`${k}|${d}`];
+  const ok = (k, d) => { const v = cell(k, d); return v && v[0] >= 10; };
+  const dpr80 = cell('dpr', 1980), law20 = cell('legge', 2020), dl20 = cell('dl', 2020);
+  return {
+    title: L(`Dalla firma alla Gazzetta: ${fmt(dpr80[1])} giorni per i D.P.R. degli anni Ottanta, ${fmt(law20[1])} per le leggi degli anni 2020`,
+      `From signature to the Gazzetta: ${fmt(dpr80[1])} days for presidential decrees of the 1980s, ${fmt(law20[1])} for laws of the 2020s`),
+    toc: L('Dalla firma alla Gazzetta', 'From signature to the Gazzetta'),
+    dek: L(`Per ogni atto in vigore, i giorni tra la sua data (la firma) e la pubblicazione nella Gazzetta Ufficiale: in ogni casella la mediana per tipo di atto e decennio della firma. I decreti-legge escono in Gazzetta il giorno stesso o il successivo (mediana ${fmt(dl20 ? dl20[1] : 0)} negli anni 2020); per le leggi l’attesa si è accorciata dai ${fmt(cell('legge', 1930)[1])} giorni degli anni Trenta; i D.P.R., spesso singoli provvedimenti, hanno atteso per decenni due o tre mesi.`,
+      `For every act in force, the days between its date (the signature) and its publication in the Gazzetta Ufficiale: each cell gives the median by kind of act and decade of signature. Decree-laws appear in the Gazzetta the same day or the next (median ${fmt(dl20 ? dl20[1] : 0)} in the 2020s); for laws the wait has shortened from ${fmt(cell('legge', 1930)[1])} days in the 1930s; presidential decrees, often single measures, waited two or three months for decades.`),
+    draw(el) {
+      const w = W(el), nwd = narrow(w), labs = rows.map(k => L(...GKS[k]));
+      const decs = nwd ? DEC.filter(d => d >= 1920) : DEC, lw = textW(el, labs) + 12, rowH = nwd ? 30 : 34, cw = (w - lw - 4) / decs.length;
+      const m = { t: 22, l: lw }, h = m.t + rows.length * rowH + 6, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const col = d3.scaleSequentialLog(seqRamp()).domain([1, 120]).clamp(true);
+      legend(el.insert('div', '.plot').style('margin-bottom', '6px'), [1, 7, 30, 90].map(v => ({ c: col(v), l: L(`${v} ${v === 1 ? 'giorno' : 'giorni'}`, `${v} ${v === 1 ? 'day' : 'days'}`) })));
+      decs.forEach((d, j) => { if (!nwd || j % 2 === 0) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -8).attr('text-anchor', 'middle').text(`${d}`); });
+      rows.forEach((k, i) => {
+        const cy = i * rowH;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        decs.forEach((d, j) => {
+          const v = cell(k, d);
+          if (!v) return;
+          const fill = ok(k, d) ? col(Math.max(1, v[1])) : css('--surface-2');
+          bindTip(g.append('rect').attr('x', j * cw + 1).attr('y', cy + 2).attr('width', cw - 2).attr('height', rowH - 4).attr('rx', 4).attr('fill', fill).datum([k, d, v]),
+            q => `<b>${esc(L(...GKS[q[0]]))} · ${q[1]}–${q[1] + 9}</b>` + trow(null, L('Atti vigenti', 'Acts in force'), fmt(q[2][0])) + trow(null, L('Mediana (giorni)', 'Median (days)'), fmt(q[2][1])) +
+              trow(null, L('Pubblicati entro il giorno dopo', 'Published by the next day'), pct(q[2][2], 1)) + (q[2][0] < 10 ? tq(L('meno di 10 atti: non colorata', 'fewer than 10 acts: not coloured')) : ''));
+          if (ok(k, d) && cw >= 22) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(fill)).style('pointer-events', 'none').text(fmt(v[1]));
+        });
+      });
+      note(el, ['git log (Enacted:, Published:)', 'normativa/<tipo>/<anno>/<numero>/'], fmt(sum(Object.values(c), v => v[0])) + L(' atti', ' acts'),
+        L(`la data dell’atto e quella della Gazzetta sono i trailer Enacted e Published del commit di ciascun atto; ${fmt(D.c03.bad)} atti senza una data utilizzabile (Gazzetta datata 1701 o 1702, o prima della firma) sono esclusi. Le caselle con meno di 10 atti sono grigie. Conta solo ciò che è in vigore oggi.`,
+          `the act's date and the Gazzetta's are the Enacted and Published trailers of each act's commit; ${fmt(D.c03.bad)} acts without a usable date (a Gazzetta dated 1701 or 1702, or before the signature) are left out. Cells with fewer than 10 acts are grey. Only what is in force today counts.`));
+      table(el, [L('Tipo', 'Kind'), ...DEC.map(String)], rows.map(k => [L(...GKS[k]), ...DEC.map(d => cell(k, d) ? `${fmt(cell(k, d)[1])} (${fmt(cell(k, d)[0])})` : '')]));
+    }
+  };
+});
+
+// 4. from the Gazzetta to entry into force
+chart('c04', el => {
+  const c = D.c04, keys = ['d0', 'd1', 'd2', 'd15', 'late'], ramp = seqRamp(), cols = S8();
+  const colors = [ramp(0.25), ramp(0.5), ramp(0.7), cols[1], css('--muted-mark')];
+  const names = [L('lo stesso giorno', 'the same day'), L('il giorno dopo', 'the next day'), L('da 2 a 14 giorni', '2–14 days'), L('il 15º giorno', 'the 15th day'), L('più tardi', 'later')];
+  const RN = { conv: ['Leggi di conversione', 'Conversion laws'], ratif: ['Leggi di ratifica', 'Ratification laws'], legge: ['Altre leggi', 'Other laws'], dl: ['Decreti-legge', 'Decree-laws'],
+    dlgs: ['Decreti legislativi', 'Legislative decrees'], dpr: ['D.P.R.', 'Presidential decrees'], dm: ['Decreti ministeriali e D.P.C.M.', 'Ministerial decrees and D.P.C.M.'] };
+  const order = ['conv', 'ratif', 'legge', 'dl', 'dlgs', 'dpr', 'dm'];
+  const n = k => sum(keys, q => c.rows[k][q] || 0), rows = order.map(k => ({ k, ...c.rows[k] }));
+  const PER = ['1988–1997', '1998–2007', '2008–2017', `2018–${YEAR_LAST}`];
+  const drows = [0, 1, 2, 3].map(i => ({ k: 'p' + i, p: PER[i], ...(c.law_dec[String(i)] || {}) }));
+  const lg = c.rows.legge, neg = sum(order, k => c.rows[k].neg || 0);
+  return {
+    title: L(`Il giorno dopo o il quindicesimo: ${ilPct(lg.d15, n('legge'))} delle leggi ordinarie entra in vigore il 15º giorno, le conversioni e le ratifiche il giorno dopo`,
+      `The next day or the fifteenth: ${pct(lg.d15, n('legge'))} of ordinary laws take effect on the 15th day, conversions and ratifications the next day`),
+    toc: L('Il giorno dopo o il quindicesimo', 'The next day or the fifteenth'),
+    dek: L(`La Costituzione (art. 73) fa entrare in vigore le leggi il quindicesimo giorno dopo la pubblicazione, salvo che la legge stabilisca un termine diverso. Per gli atti dal 1988 la Gazzetta annota il giorno di entrata in vigore: ogni barra divide gli atti di un tipo secondo i giorni trascorsi dalla Gazzetta. Le leggi di conversione e di ratifica entrano in vigore quasi tutte il giorno dopo, i decreti-legge il giorno stesso (${pct(c.rows.dl.d0, n('dl'))}) o il successivo (${pct(c.rows.dl.d1, n('dl'))}). Sotto, le altre leggi per decennio.`,
+      `The Constitution (art. 73) makes laws take effect on the fifteenth day after publication, unless the law sets another term. For acts since 1988 the Gazzetta notes the day of entry into force: each bar splits the acts of one kind by the days that passed since the Gazzetta. Conversion and ratification laws nearly all take effect the next day, decree-laws the same day (${pct(c.rows.dl.d0, n('dl'))}) or the next (${pct(c.rows.dl.d1, n('dl'))}). Below, the other laws by decade.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      const nw = narrow(W(el)), rl = r => nw && r.k === 'dm' ? L('D.M. e D.P.C.M.', 'Ministerial, D.P.C.M.') : L(...RN[r.k]);
+      const lw = Math.min(nw ? 150 : 300, textW(el, [...rows.map(rl), ...drows.map(r => r.p)]) + 14), rw = textW(el, ['100' + PS()]) + 18;
+      bands(el, rows, keys, colors, names, { label: rl, right: r => pct(r.d15 || 0, n(r.k)), rowH: 32, lw, rw });
+      h4(el, L('Altre leggi, per decennio della firma', 'Other laws, by decade of signature'), 12);
+      bands(el, drows, keys, colors, names, { label: r => r.p, right: r => pct(r.d15 || 0, sum(keys, q => r[q] || 0)), rowH: 30, lw, rw });
+      note(el, ['normativa/<tipo>/<anno>/<numero>/intestazione.md (Entrata in vigore del provvedimento)', 'git log (Published:)'], fmt(c.n) + L(' atti dal 1988', ' acts since 1988'),
+        L(`l’entrata in vigore è quella che la Gazzetta annota nell’intestazione dell’atto; la pubblicazione è il trailer Published. A destra la quota del 15º giorno. Leggi di conversione e di ratifica si riconoscono dal titolo. ${fmt(neg)} atti con una data di entrata in vigore anteriore alla Gazzetta sono esclusi. Solo atti in vigore oggi.`,
+          `the entry into force is the one the Gazzetta notes in the act's heading; publication is the Published trailer. On the right, the share on the 15th day. Conversion and ratification laws are recognised by their title. ${fmt(neg)} acts with an entry into force before the Gazzetta are left out. Only acts in force today.`));
+      table(el, [L('Tipo', 'Kind'), ...names, t('total')], [...rows.map(r => [L(...RN[r.k]), ...keys.map(k => r[k] || 0), n(r.k)]), ...drows.map(r => [L('Altre leggi ', 'Other laws ') + r.p, ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)])]);
+    }
+  };
+});
+
+part('p2', 'II. Il Governo legislatore', 'II. The Government as legislator',
+  'Il decreto-legge è un atto del Governo con forza di legge, che le Camere devono convertire in legge entro sessanta giorni (art. 77 della Costituzione). I progetti di legge della Camera dal Regno a oggi, le schede delle leggi e i disegni di legge del Senato dicono quanti decreti sono stati presentati, quanto ha richiesto convertirli e quanti sono decaduti.',
+  'A decree-law is an act of the Government with the force of law, which the Chambers must convert into law within sixty days (art. 77 of the Constitution). The Camera\'s bills from the Kingdom to today, the records of the laws and the Senate\'s bills tell how many decrees were presented, how long converting them took and how many lapsed.');
+
+// 5. two waves of decree-laws
+chart('c05', el => {
+  const rows = D.c05.rows, cols = S8(), get = y => rows.find(r => r.y === y) || { n: 0, rep: 0 };
+  const top1 = rows.filter(r => r.y < 1946).reduce((a, b) => a.n >= b.n ? a : b), top2 = rows.filter(r => r.y >= 1946).reduce((a, b) => a.n >= b.n ? a : b);
+  const r3 = rows.filter(r => r.y >= 1993 && r.y <= 1996), rep3 = sum(r3, r => r.rep), n3 = sum(r3, r => r.n);
+  const after = rows.filter(r => r.y >= 1997 && r.y < YEAR_LAST), avgA = sum(after, r => r.n) / after.length;
+  return {
+    title: L(`Decreti da convertire: ${fmt(top1.n)} presentati alla Camera nel ${top1.y}, ${fmt(top2.n)} nel ${top2.y}; nel 1993–1996 ${ilPct(rep3, n3)} ne ripeteva uno precedente`,
+      `Decrees to convert: ${fmt(top1.n)} presented to the Camera in ${top1.y}, ${fmt(top2.n)} in ${top2.y}; in 1993–1996, ${pct(rep3, n3)} repeated an earlier one`),
+    toc: L('Decreti da convertire', 'Decrees to convert'),
+    dek: L(`Ogni colonna è un anno: quanti decreti la Camera ha ricevuto con un disegno di legge di conversione (nel Regno anche regi decreti e decreti luogotenenziali, spesso più d’uno per disegno di legge). In arancione i decreti-legge il cui oggetto, nel titolo, ripete quello di un decreto presentato nei 400 giorni precedenti: il decreto non convertito veniva riemanato. La Corte costituzionale ha dichiarato illegittima questa reiterazione con la sentenza 360 del 1996; dal 1997 la Camera ha ricevuto in media ${dec(avgA, 0)} decreti l’anno.`,
+      `Each column is one year: how many decrees the Camera received with a bill to convert them (under the Kingdom also royal decrees and lieutenancy decrees, often several to a bill). In orange, the decree-laws whose subject, in the title, repeats that of a decree presented in the previous 400 days: the unconverted decree was issued again. The Constitutional Court held such reiteration unconstitutional in judgment 360 of 1996; since 1997 the Camera has received ${dec(avgA, 0)} decrees a year on average.`),
+    draw(el) {
+      const ramp = cols[0], repC = cols[1];
+      legend(el, [{ c: ramp, l: L('decreto nuovo', 'new decree') }, { c: repC, l: L('ripete un decreto dei 400 giorni precedenti', 'repeats a decree of the previous 400 days') }]);
+      const all = d3.range(1910, YEAR_LAST + 1).map(y => ({ y, rep: get(y).rep, nw: get(y).n - get(y).rep }));
+      const nw = narrow(W(el));
+      const s = stackedColumns(el, all, ['nw', 'rep'], [ramp, repC], [L('decreto nuovo', 'new decree'), L('ripete un decreto precedente', 'repeats an earlier decree')],
+        { pad: 0.1, mt: 44, h: 300, labelIf: r => r.y % (nw ? 20 : 10) === 0, partial: r => r.y === YEAR_LAST, xf: y => String(y) });
+      const bx = y => s.x(y) + s.x.bandwidth() / 2;
+      [[L('Regno d’Italia', 'Kingdom of Italy'), 1910, 1945], [L('Repubblica', 'Republic'), 1946, YEAR_LAST]].forEach(([lab, a, b], i) => {
+        const x0 = s.x(a), x1 = s.x(b) + s.x.bandwidth();
+        s.g.insert('rect', ':first-child').attr('x', x0).attr('width', x1 - x0).attr('y', -40).attr('height', s.ih + 40).attr('rx', 6).attr('fill', css('--surface-2')).attr('opacity', i ? 0 : .8);
+        s.g.append('text').attr('class', 'lbl mut').attr('x', x0 + 6).attr('y', -28).text(lab);
+      });
+      const xr = s.x(1996) + s.x.bandwidth() * (fy('1996-10-24') - 1996), ry = s.y(top2.n * 0.62);
+      s.g.append('line').attr('x1', xr).attr('x2', xr).attr('y1', ry - 4).attr('y2', s.ih).attr('stroke', css('--text-2')).attr('stroke-dasharray', '3 3');
+      const rl = L('sentenza 360/1996', 'judgment 360/1996'), rw = textW(el, [rl]);
+      if (xr + rw + 6 < s.iw) halo(s.g, xr + 5, ry, rl, 'start');
+      else rl.split(' ').forEach((part, i) => halo(s.g, xr + 5, ry + i * 13, part, 'start'));
+      [top1, top2].forEach(r => { const xx = bx(r.y), yy = s.y(r.n), lab = `${r.y}: ${fmt(r.n)}`, tw = textW(el, [lab]);
+        const anc = xx + tw / 2 > s.iw ? 'end' : xx - tw / 2 < 0 ? 'start' : 'middle';
+        halo(s.g, xx, yy - 6, lab, anc); });
+      note(el, ['parlamento/schede/camera/<legislatura>/', 'giurisprudenza/corte-costituzionale/1996/10/sentenza-360/'], fmt(sum(rows, r => r.n)) + L(' decreti', ' decrees'),
+        L('un decreto è contato una volta, nell’anno in cui il disegno di legge che lo converte è stato presentato alla Camera per la prima volta (data e numero dal titolo); un disegno di legge che ne converte più d’uno senza indicarli conta come uno. “Ripete” vuol dire che le prime dodici parole del suo oggetto coincidono con quelle di un decreto presentato nei 400 giorni prima. I decreti presentati prima al Senato compaiono solo se il Senato li ha approvati; per il Regno la raccolta della Camera è incompleta.',
+          'a decree is counted once, in the year the bill converting it was first presented to the Camera (date and number from the title); a bill converting several decrees without naming each counts as one. "Repeats" means the first twelve words of its subject match those of a decree presented in the previous 400 days. Decrees presented first to the Senate appear only if the Senate passed them; for the Kingdom the Camera\'s collection is incomplete.'));
+      table(el, [t('year'), L('Decreti', 'Decrees'), L('Ripetono un decreto precedente', 'Repeat an earlier decree')], rows.filter(r => r.n).map(r => [String(r.y), r.n, r.rep]));
+    }
+  };
+});
+
+// 6. sixty days
+chart('c06', el => {
+  const c = D.c06, n = c.n, hist = c.hist, last10 = sum(hist.filter(b => b[0] >= 51 && b[0] <= 60), b => b[1]);
+  const decs = Object.entries(c.dec).filter(([k, v]) => v[0] >= 20), d10 = c.dec['2010'], d20 = c.dec['2020'];
+  const mod = (d10[1] + d20[1]) / (d10[0] + d20[0]);
+  return {
+    title: L(`Sessanta giorni: ${ilPct(last10, n)} dei decreti-legge convertiti dal 1948 lo è stato negli ultimi dieci giorni`,
+      `Sixty days: ${pct(last10, n)} of the decree-laws converted since 1948 were converted in the last ten days`),
+    toc: L('Sessanta giorni', 'Sixty days'),
+    dek: L(`Per ogni legge di conversione, i giorni tra la data del decreto-legge e quella della legge che lo converte. Il termine di sessanta giorni decorre dalla pubblicazione del decreto, che di solito esce in Gazzetta il giorno stesso o il successivo: la maggior parte delle conversioni arriva nell’ultima settimana. Dal 2010 ${ilPv(100 * mod)} dei decreti è convertito con modificazioni, contro ${ilPct(c.dec['1950'][1], c.dec['1950'][0])} negli anni Cinquanta.`,
+      `For every conversion law, the days between the date of the decree-law and that of the law converting it. The sixty days run from the decree's publication, which usually appears in the Gazzetta the same day or the next: most conversions come in the last week. Since 2010, ${pv(100 * mod)} of decrees have been converted with amendments, against ${pct(c.dec['1950'][1], c.dec['1950'][0])} in the 1950s.`),
+    draw(el) {
+      const cols = S8();
+      legend(el, [{ c: cols[0], l: L('convertiti negli ultimi dieci giorni (51–60)', 'converted in the last ten days (51–60)') }, { c: cols[0] + '55', l: L('prima', 'earlier') }, { c: cols[1], l: L('oltre il 60º giorno dalla data del decreto', 'beyond the 60th day from the decree\'s date') }]);
+      binColumns(el, hist, { x0: 0, x1: 75, h: 250, mt: 34, every: narrow(W(el)) ? 15 : 5, color: b => b[0] > 60 ? cols[1] : b[0] >= 51 ? cols[0] : cols[0] + '55',
+        marks: [{ x: 60, label: L('60 giorni', '60 days') }], xlab: L('giorni dalla data del decreto alla legge di conversione', 'days from the decree\'s date to the conversion law'),
+        tip: b => `<b>${L(`${b[0]} giorni`, `${b[0]} days`)}</b>` + trow(null, L('Decreti convertiti', 'Decrees converted'), `${fmt(b[1])} · ${pct(b[1], n, 1)}`) });
+      h4(el, L('Per decennio della legge: convertiti negli ultimi dieci giorni e convertiti con modificazioni', 'By decade of the law: converted in the last ten days, and converted with amendments'), 14);
+      const w = W(el), nwd = narrow(w), h = 150, m = { t: 22, r: 4, b: 22, l: 34 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(decs.map(d => d[0])).range([0, iw]).padding(0.25), x2 = d3.scaleBand().domain([0, 1]).range([0, x.bandwidth()]).padding(0.12);
+      const y = d3.scaleLinear().domain([0, 1]).range([ih, 0]);
+      [0, .5, 1].forEach(v => { g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(v)).attr('y2', y(v)).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl mut').attr('x', -6).attr('y', y(v) + 4).attr('text-anchor', 'end').text(pv(100 * v)); });
+      const sc = [cols[0], cols[6]];
+      decs.forEach(([k, v]) => {
+        [v[2] / v[0], v[1] / v[0]].forEach((s, j) => {
+          g.append('path').attr('d', colPath(x(k) + x2(j), ih, x2.bandwidth(), y(s), 3)).attr('fill', sc[j]);
+          if (!nwd) g.append('text').attr('class', 'lbl').attr('x', x(k) + x2(j) + x2.bandwidth() / 2).attr('y', y(s) - 4).attr('text-anchor', 'middle').style('font-size', '10px').text(pv(100 * s));
+        });
+        g.append('text').attr('class', 'lbl').attr('x', x(k) + x.bandwidth() / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(nwd ? `’${k.slice(2)}` : `${k}`);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x(k)).attr('width', x.bandwidth()).attr('y', -m.t).attr('height', ih + m.t).datum([k, v]),
+          q => `<b>${q[0]}–${+q[0] + 9}</b>` + trow(null, L('Leggi di conversione', 'Conversion laws'), fmt(q[1][0])) + trow(sc[0], L('negli ultimi dieci giorni', 'in the last ten days'), pct(q[1][2], q[1][0])) +
+            trow(sc[1], L('con modificazioni', 'with amendments'), pct(q[1][1], q[1][0])) + trow(null, L('Mediana (giorni)', 'Median (days)'), fmt(q[1][3])));
+      });
+      legend(el, [{ c: sc[0], l: L('negli ultimi dieci giorni', 'in the last ten days') }, { c: sc[1], l: L('con modificazioni', 'with amendments') }]);
+      note(el, ['parlamento/schede/leggi/<anno>/<mese>/legge-<n>.md (titolo)'], fmt(n) + L(' leggi di conversione', ' conversion laws'),
+        L(`le due date vengono dal titolo della legge (“Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157…”) e dalla sua data; il termine costituzionale decorre dalla pubblicazione, perciò ${fmt(sum(hist.filter(b => b[0] > 60), b => b[1]))} conversioni cadono tra il 61º e il 75º giorno dalla data del decreto; ${fmt(c.over.filter(o => o[2] > 75 && o[2] < 400).length)} più tardi, e un titolo stampa il 1064 per il 1964, fuori dal grafico. I decreti decaduti non hanno una legge di conversione e non sono qui (grafici 5 e 7). Decenni con meno di 20 leggi esclusi dal riquadro.`,
+          `both dates come from the law's title ("Conversione in legge, con modificazioni, del decreto-legge 10 settembre 2026, n. 157…") and its date; the constitutional term runs from publication, so ${fmt(sum(hist.filter(b => b[0] > 60), b => b[1]))} conversions fall between the 61st and the 75th day from the decree's date; ${fmt(c.over.filter(o => o[2] > 75 && o[2] < 400).length)} later, and one title prints 1064 for 1964, off the chart. Lapsed decrees have no conversion law and are not here (charts 5 and 7). Decades with fewer than 20 laws are left out of the panel.`));
+      table(el, [L('Giorni', 'Days'), L('Decreti convertiti', 'Decrees converted')], hist.map(b => [String(b[0]), b[1]]));
+    }
+  };
+});
+
+// 7. decree-laws by government
+chart('c07', el => {
+  const c = D.c07, cols = S8(), keys = ['conv', 'lapsed', 'other'], colors = [cols[0], cols[1], css('--muted-mark')];
+  const names = [L('convertiti', 'converted'), L('decaduti', 'lapsed'), L('respinti o in corso', 'rejected or pending')];
+  const rows = c.govs.map(([g, s, e, o]) => { const end = e || c.to, mo = (D2(end) - D2(s)) / (30.4375 * 864e5);
+    return { g, s, e, part: !e, conv: o.conv || 0, lapsed: o.lapsed || 0, other: (o.rejected || 0) + (o.other || 0), mo, n: sum(Object.values(o)) }; });
+  const fast = rows.slice().sort((a, b) => b.n / b.mo - a.n / a.mo), lap = rows.slice().sort((a, b) => b.lapsed / b.n - a.lapsed / a.n)[0];
+  return {
+    title: L(`Decreti-legge per governo: ${dec(fast[0].n / fast[0].mo, 1)} al mese con il governo ${govName(fast[0].g)}; con ${govName(lap.g)} ne è decaduto ${ilPct(lap.lapsed, lap.n)}`,
+      `Decree-laws by government: ${dec(fast[0].n / fast[0].mo, 1)} a month under the ${govName(fast[0].g)} government; under ${govName(lap.g)}, ${pct(lap.lapsed, lap.n)} lapsed`),
+    toc: L('Decreti-legge per governo', 'Decree-laws by government'),
+    dek: L(`I disegni di legge di conversione del Senato (che registra anche quelli della Camera) nominano il governo che li ha presentati. Per ogni governo dal 2006: quanti decreti-legge, quanti al mese in carica, e che cosa ne è stato. Un decreto decaduto non è stato convertito entro sessanta giorni; il suo contenuto può essere passato in un altro decreto, che questi dati non dicono.`,
+      `The Senate's conversion bills (which also record the Camera's) name the government that presented them. For each government since 2006: how many decree-laws, how many per month in office, and what became of them. A lapsed decree was not converted within sixty days; its content may have passed into another decree, which these data do not say.`),
+    draw(el) {
+      const cards = el.append('div').attr('class', 'ptiles');
+      rows.forEach(r => {
+        const d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(`${govName(r.g)} · ${r.s.slice(0, 4)}–${r.e ? r.e.slice(0, 4) : ''}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(r.n)}</b> ${L('decreti', 'decrees')}`);
+        d.append('div').attr('class', 'ps').text(L(`${dec(r.n / r.mo, 1)} al mese · ${pct(r.lapsed, r.n)} decaduti`, `${dec(r.n / r.mo, 1)} a month · ${pct(r.lapsed, r.n)} lapsed`) + (r.part ? L(' · fino al ' + dateShort(c.to), ' · to ' + dateShort(c.to)) : ''));
+        const bar = d.append('div').attr('class', 'pbar');
+        keys.forEach((k, i) => { if (r[k]) bar.append('i').style('flex', r[k]).style('background', colors[i]); });
+      });
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      splitBars(el, rows, keys, colors, names, { label: r => govName(r.g) + (r.part ? ' *' : ''), rowH: 26, cap: 200, rr: 46,
+        tipHead: d => trow(null, L('In carica dal', 'In office from'), dateTxt(d.s)) + trow(null, L('Mesi considerati', 'Months counted'), dec(d.mo, 1)) });
+      const L13 = c.legs['13'] || {}, L14 = c.legs['14'] || {};
+      note(el, ['parlamento/schede/senato/<legislatura>/fase-<id>.md (Natura, Iniziativa, Stato)', 'parlamento/atti-parlamentari/camera/votazioni/ (mozioni di fiducia)'], fmt(sum(rows, r => r.n)) + L(' decreti-legge', ' decree-laws'),
+        L(`un decreto è contato una volta (data e numero dal titolo del disegno di legge); il governo è quello indicato nell’iniziativa, e il suo inizio è il voto sulla mozione di fiducia alla Camera o il suo primo disegno di legge, se precedente. * I dati del Senato si fermano ${pD('al', c.to)}: per il governo Meloni sono contati i mesi fino a quella data. Prima del 2006 il Senato non indica il governo: nella XIII legislatura (1996–2001) ${fmt(sum(Object.values(L13)))} decreti, ${fmt(L13.lapsed || 0)} decaduti; nella XIV (2001–2006) ${fmt(sum(Object.values(L14)))}, ${fmt(L14.lapsed || 0)} decaduti.`,
+          `a decree is counted once (date and number from the bill's title); the government is the one named as initiator, and its start is the Camera's vote on the confidence motion or its first bill, if earlier. * The Senate's data stop on ${dateTxt(c.to)}: for the Meloni government the months up to that day are counted. Before 2006 the Senate does not name the government: in the XIII legislature (1996–2001) ${fmt(sum(Object.values(L13)))} decrees, ${fmt(L13.lapsed || 0)} lapsed; in the XIV (2001–2006) ${fmt(sum(Object.values(L14)))}, ${fmt(L14.lapsed || 0)} lapsed.`));
+      table(el, [L('Governo', 'Government'), L('Dal', 'From'), L('Decreti', 'Decrees'), ...names, L('Al mese', 'Per month')], rows.map(r => [govName(r.g), r.s, r.n, r.conv, r.lapsed, r.other, dec(r.n / r.mo, 1)]));
+    }
+  };
+});
+const D2 = s => new Date(s + 'T12:00:00Z');
+
+// 8. the Milleproroghe
+chart('c08', el => {
+  const R = D.c08.rows, first = R[0], rows = R.filter(r => +r.dl.slice(0, 4) >= 2001), Y0 = 2001, Y1 = +rows[rows.length - 1].dl.slice(0, 4);
+  const yrs = d3.range(Y0, Y1 + 1), byY = y => rows.find(r => +r.dl.slice(0, 4) === y), k = yrs.filter(byY).length, mn = d3.min(rows, r => r.days), mx = d3.max(rows, r => r.days);
+  const miss = yrs.filter(y => !byY(y));
+  return {
+    title: L(`Il Milleproroghe: un decreto di fine anno in ${k} degli ultimi ${yrs.length} anni, convertito sempre tra ${mn} e ${mx} giorni dopo`,
+      `The Milleproroghe: a year-end decree in ${k} of the last ${yrs.length} years, always converted ${mn} to ${mx} days later`),
+    toc: L('Il Milleproroghe', 'The Milleproroghe'),
+    dek: L(`Ogni riga è un anno: la barra va dalla data del decreto-legge di fine anno che proroga i termini in scadenza (“recante proroga di termini previsti da disposizioni legislative”, dal 2020 “termini legislativi” e “termini normativi”) alla legge che lo converte. Non c’è nel ${andList(miss.map(String))}. Il primo decreto con lo stesso titolo nelle leggi della Camera è ${pD('del', first.dl)}.`,
+      `Each row is a year: the bar runs from the date of the year-end decree-law extending deadlines about to expire ("recante proroga di termini previsti da disposizioni legislative", since 2020 "termini legislativi" and "termini normativi") to the law converting it. There was none in ${andList(miss.map(String))}. The first decree with the same title among the Camera's laws is dated ${dateTxt(first.dl)}.`),
+    draw(el) {
+      const w = W(el), nwd = narrow(w), cols = S8(), rowH = nwd ? 20 : 22;
+      const labs = yrs.map(y => byY(y) ? `${y} · ${L('D.L.', 'D.L.')} ${byY(y).n}` : String(y)), lw = textW(el, labs) + 12, rw = textW(el, [L('nessun decreto', 'no decree'), L('65 giorni', '65 days')]) + 12;
+      const m = { t: 24, r: rw, b: 22, l: lw }, h = m.t + m.b + rowH * yrs.length, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([0, 112]).range([0, iw]);   // days from 15 November
+      const rel = (s, y) => (D2(s) - D2(`${y}-11-15`)) / 864e5;
+      [['15 nov', '15 Nov', 0], ['1º dic', '1 Dec', 16], ['1º gen', '1 Jan', 47], ['1º feb', '1 Feb', 78], ['1º mar', '1 Mar', 106]].forEach(([a, b, d]) => {
+        g.append('line').attr('x1', x(d)).attr('x2', x(d)).attr('y1', -6).attr('y2', rowH * yrs.length).attr('stroke', css('--grid'));
+        if (!nwd || d > 0) g.append('text').attr('class', 'lbl mut').attr('x', x(d)).attr('y', -10).attr('text-anchor', 'middle').text(L(a, b));
+      });
+      yrs.forEach((y, i) => {
+        const r = byY(y), cy = i * rowH;
+        g.append('text').attr('class', r ? 'lbl strong' : 'lbl mut').attr('x', -8).attr('y', cy + rowH / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        if (!r) { g.append('text').attr('class', 'lbl mut').attr('x', iw + 6).attr('y', cy + rowH / 2 + 4).text(L('nessun decreto', 'no decree')); return; }
+        const x0 = x(rel(r.dl, y)), x1 = x(rel(r.law, y)), bh = rowH - 9;
+        g.append('path').attr('d', barPath(x0, cy + 4.5, x1, bh, 4)).attr('fill', r.days > 60 ? cols[1] : cols[0]);
+        g.append('circle').attr('cx', x0).attr('cy', cy + rowH / 2).attr('r', 3.2).attr('fill', css('--surface')).attr('stroke', cols[0]).attr('stroke-width', 1.5);
+        g.append('text').attr('class', 'lbl').attr('x', iw + 6).attr('y', cy + rowH / 2 + 4).text(L(`${r.days} giorni`, `${r.days} days`));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', w).attr('y', cy).attr('height', rowH).datum(r),
+          d => `<b>${L('Decreto-legge', 'Decree-law')} ${dateTxt(d.dl)}, n. ${d.n}</b>${tq(d.title)}` + trow(null, L('Convertito dalla legge', 'Converted by law'), `${dateTxt(d.law)}, n. ${d.lawn}`) +
+            trow(null, L('Giorni', 'Days'), fmt(d.days)) + trow(null, L('Con modificazioni', 'With amendments'), d.mod ? L('sì', 'yes') : L('no', 'no')));
+      });
+      legend(el, [{ c: cols[0], l: L('dal decreto (cerchio) alla legge di conversione', 'from the decree (circle) to the conversion law') }, { c: cols[1], l: L('oltre 60 giorni dalla data del decreto', 'over 60 days from the decree\'s date') }]);
+      note(el, ['parlamento/schede/leggi/<anno>/<mese>/legge-<n>.md (titolo)'], fmt(rows.length) + L(' decreti', ' decrees'),
+        L('sono contati i decreti-legge datati dal 15 novembre al 31 dicembre il cui oggetto, nel titolo della legge di conversione, è solo la proroga di termini (regola in src/prep.py); i decreti di proroga su un singolo tema, o di altri mesi, non sono contati. Tutti sono stati convertiti con modificazioni.',
+          'counted are the decree-laws dated 15 November to 31 December whose subject, in the conversion law\'s title, is only the extension of deadlines (rule in src/prep.py); extensions on a single subject, or of other months, are not counted. All were converted with amendments.'));
+      table(el, [L('Decreto-legge', 'Decree-law'), L('Legge di conversione', 'Conversion law'), L('Giorni', 'Days'), L('Oggetto', 'Subject')], R.map(r => [`${r.dl}, n. ${r.n}`, `${r.law}, n. ${r.lawn}`, r.days, r.title]));
+    }
+  };
+});
+
+part('p3', 'III. Il Parlamento', 'III. Parliament',
+  'Le schede delle leggi e dei progetti di legge della Camera (dal 1946), i disegni di legge del Senato (dal 1996), e ogni votazione elettronica della Camera dal 1996: che cosa approva il Parlamento, chi propone le leggi, quante volte il Governo chiede la fiducia e quando si firmano le leggi.',
+  'The records of the Camera\'s laws and bills (since 1946), the Senate\'s bills (since 1996), and every electronic vote of the Camera since 1996: what Parliament passes, who proposes laws, how often the Government asks for confidence and when laws are signed.');
+
+// 9. what Parliament passes
+chart('c09', el => {
+  const rows = D.c09.rows, legs = D.legs, cols = S8(), keys = ['conv', 'ratif', 'budget', 'delega', 'other'];
+  const colors = [cols[0], cols[2], cols[3], cols[6], css('--muted-mark')];
+  const names = [L('conversioni di decreti-legge', 'conversions of decree-laws'), L('ratifiche di trattati', 'ratifications of treaties'), L('bilancio e finanza pubblica', 'budget and public finance'), L('deleghe al Governo', 'delegations to the Government'), L('altre leggi', 'other laws')];
+  const tot = r => sum(keys, k => r[k] || 0), first = rows[0], last = rows[rows.length - 1];
+  const span = k => { const i = legs.findIndex(l => l[0] === k); return `${legs[i][1].slice(0, 4)}–${legs[i + 1] ? legs[i + 1][1].slice(0, 4) : ''}`; };
+  const prev = rows[rows.length - 2];
+  return {
+    title: L(`Che cosa approva il Parlamento: ${ilPct(last.conv, tot(last))} delle leggi della XIX legislatura converte un decreto-legge, ${ilPct(first.conv, tot(first)).trim()} nella I`,
+      `What Parliament passes: ${pct(last.conv, tot(last))} of the laws of the XIX legislature convert a decree-law, ${pct(first.conv, tot(first))} in the I`),
+    toc: L('Che cosa approva il Parlamento', 'What Parliament passes'),
+    dek: L(`Ogni barra è una legislatura: le leggi approvate, per oggetto letto dal titolo. Nella I legislatura (1948–1953) il Parlamento approvò ${fmt(tot(first))} leggi, nella XVIII ${fmt(tot(prev))}; le leggi “altre”, quelle che non convertono un decreto, non ratificano un trattato né riguardano il bilancio, passano ${prepPct('da', first.other, tot(first))} ${prepPct('a', prev.other, tot(prev))}.`,
+      `Each bar is a legislature: the laws passed, by subject read from the title. In the I legislature (1948–1953) Parliament passed ${fmt(tot(first))} laws, in the XVIII ${fmt(tot(prev))}; "other" laws, those that convert no decree, ratify no treaty and are not about the budget, went from ${pct(first.other, tot(first))} to ${pct(prev.other, tot(prev))}.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      bands(el, rows, keys, colors, names, { label: (r, nw) => nw ? ROM(r.leg) : `${ROM(r.leg)} · ${span(r.leg)}`, right: r => fmt(tot(r)), rowH: 28, partial: r => r === last, minIn: 30 });
+      note(el, ['parlamento/schede/leggi/<anno>/<mese>/legge-<n>.md', 'parlamento/schede/camera/<legislatura>/ (inizio delle legislature)'], fmt(sum(rows, tot)) + L(' leggi', ' laws'),
+        L(`l’oggetto si legge dal titolo della legge, senza i nomi dei proponenti: “Conversione in legge…”, “Ratifica ed esecuzione…”, bilancio, rendiconto, assestamento, legge finanziaria o di stabilità, esercizio provvisorio, e “Delega al Governo…”; il resto è “altre leggi”. Le leggi costituzionali non sono contate. La legislatura di una legge è quella in corso alla sua data (l’inizio è il primo giorno con almeno dieci progetti di legge presentati alla Camera). La XIX è in corso (più chiara).`,
+          `the subject is read from the law's title, without the names of the proposers: "Conversione in legge…", "Ratifica ed esecuzione…", the budget, accounts, adjustment, finance or stability law, provisional budget, and "Delega al Governo…"; the rest is "other laws". Constitutional laws are not counted. A law's legislature is the one in progress on its date (the start is the first day with at least ten bills presented to the Camera). The XIX is in progress (lighter).`));
+      table(el, [t('leg'), ...names, t('total')], rows.map(r => [`${ROM(r.leg)} (${span(r.leg)})`, ...keys.map(k => r[k] || 0), tot(r)]));
+    }
+  };
+});
+
+// 10. who proposes, who gets passed
+chart('c10', el => {
+  const c = D.c10.rows, legs = Object.keys(c).sort((a, b) => a - b), cols = S8();
+  const P = [['gov', L('Governo (esclusi i decreti-legge)', 'Government (not decree-laws)'), cols[0]], ['conv', L('Conversioni di decreti-legge', 'Conversions of decree-laws'), cols[6]],
+    ['mp', L('Deputati e senatori', 'Deputies and senators'), cols[1]]];
+  const T = k => [sum(legs, l => (c[l][k] || [0, 0])[0]), sum(legs, l => (c[l][k] || [0, 0])[1])];
+  const g0 = T('gov'), m0 = T('mp'), cv = T('conv'), ot = T('other');
+  return {
+    title: L(`Chi propone e chi ottiene: dal 2006 è diventato legge ${ilPct(g0[1], g0[0])} dei disegni di legge del Governo, ${ilPct(m0[1], m0[0], 1).trim()} delle proposte dei parlamentari`,
+      `Who proposes and who gets passed: since 2006, ${pct(g0[1], g0[0])} of Government bills have become law, ${pct(m0[1], m0[0], 1)} of members' bills`),
+    toc: L('Chi propone e chi ottiene', 'Who proposes and who gets passed'),
+    dek: L(`Per ogni legislatura dal 2006, i disegni di legge presentati alla Camera o al Senato (colonna chiara) e quelli diventati legge (colonna piena), secondo chi li ha proposti. Deputati e senatori presentano ${ilPct(m0[0], m0[0] + g0[0] + cv[0] + ot[0])} dei progetti, ma le loro leggi sono ${fmt(m0[1])} contro ${fmt(g0[1] + cv[1])} del Governo, conversioni comprese.`,
+      `For each legislature since 2006, the bills presented to the Camera or the Senate (light column) and those that became law (solid column), by who proposed them. Deputies and senators present ${pct(m0[0], m0[0] + g0[0] + cv[0] + ot[0])} of the bills, but their laws number ${fmt(m0[1])} against the Government's ${fmt(g0[1] + cv[1])}, conversions included.`),
+    draw(el) {
+      legend(el, [{ c: cols[0] + '38', l: L('presentati', 'presented') }, { c: cols[0], l: L('diventati legge', 'became law') }]);
+      const box = el.append('div').attr('class', 'mini');
+      const panes = P.map(() => box.append('div'));
+      P.forEach(([k, name, ink], pi) => {
+        const p = panes[pi], tt = T(k);
+        p.append('h4').text(name);
+        p.append('p').text(L(`${fmt(tt[1])} leggi su ${fmt(tt[0])} (${pct(tt[1], tt[0], 1)})`, `${fmt(tt[1])} laws of ${fmt(tt[0])} (${pct(tt[1], tt[0], 1)})`));
+        const w = W(p), h = 200, m = { t: 18, r: 4, b: 22, l: 44 }, svg = svgIn(p, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+        const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(legs).range([0, iw]).padding(0.24);
+        const y = d3.scaleLinear().domain([0, d3.max(legs, l => (c[l][k] || [0])[0])]).nice().range([ih, 0]);
+        yAxis(g, y, iw, 4);
+        g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+        legs.forEach(l => {
+          const [n, law] = c[l][k] || [0, 0], x0 = x(l), bw = x.bandwidth(), op = l === legs[legs.length - 1] ? .55 : 1;
+          g.append('path').attr('d', colPath(x0, ih, bw, y(n))).attr('fill', ink).attr('fill-opacity', .22 * op);
+          g.append('path').attr('d', colPath(x0, ih, bw, y(law))).attr('fill', ink).attr('fill-opacity', op);
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', y(n) - 5).attr('text-anchor', 'middle').text(pct(law, n));
+          g.append('text').attr('class', 'lbl').attr('x', x0 + bw / 2).attr('y', ih + 15).attr('text-anchor', 'middle').text(ROM(+l));
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - x.step() * x.paddingInner() / 2).attr('width', x.step()).attr('y', -m.t).attr('height', ih + m.t).datum(l),
+            q => `<b>${name} · ${ROM(+q)} ${L('legislatura', 'legislature')}${q === legs[legs.length - 1] ? L(' (fino al ', ' (to ') + dateShort(D.c10.to) + ')' : ''}</b>` +
+              trow(null, L('Presentati', 'Presented'), fmt((c[q][k] || [0])[0])) + trow(ink, L('Diventati legge', 'Became law'), fmt((c[q][k] || [0, 0])[1])) + trow(null, t('share'), pct((c[q][k] || [0, 0])[1], (c[q][k] || [0])[0], 1)));
+        });
+      });
+      note(el, ['parlamento/schede/senato/<legislatura>/fase-<id>.md (Iniziativa, Natura, Stato, Legge n.)'], fmt(sum(['gov', 'conv', 'mp', 'other'], k => T(k)[0])) + L(' disegni di legge', ' bills'),
+        L(`un disegno di legge è contato una volta (l’identificativo del Senato raccoglie le sue fasi nelle due Camere); l’iniziativa è quella della prima fase che la indica. Altri ${fmt(ot[0])} progetti vengono da regioni, CNEL o cittadini (${fmt(ot[1])} leggi). I dati del Senato si fermano ${pD('al', D.c10.to)}: la XIX legislatura è incompleta (più chiara); per le legislature precedenti alla XV il Senato non indica l’iniziativa.`,
+          `a bill is counted once (the Senate's identifier groups its phases in the two Chambers); the initiative is that of the first phase that names it. Another ${fmt(ot[0])} bills come from regions, the CNEL or citizens (${fmt(ot[1])} laws). The Senate's data stop on ${dateTxt(D.c10.to)}: the XIX legislature is incomplete (lighter); for legislatures before the XV the Senate does not give the initiative.`));
+      table(el, [t('leg'), ...P.flatMap(p => [p[1] + L(': presentati', ': presented'), L('leggi', 'laws')])], legs.map(l => [ROM(+l), ...P.flatMap(p => c[l][p[0]] || [0, 0])]));
+    }
+  };
+});
+
+// 11. the questione di fiducia in the Camera
+chart('c11', el => {
+  const V = D.c11.votes, cols = S8(), KK = ['conv', 'emend', 'other', 'mot'];
+  const KC = { conv: cols[0], emend: cols[1], other: cols[2], mot: css('--muted-mark') };
+  const KN = { conv: [L('articolo di una legge di conversione', 'article of a conversion bill')], emend: [L('emendamento del Governo (maxi-emendamento)', 'Government amendment (maxi-amendment)')],
+    other: [L('articolo di un’altra legge', 'article of another bill')], mot: [L('mozione o risoluzione (anche sulla fiducia al Governo)', 'motion or resolution (incl. confidence in the Government)')] };
+  const govs = [['XIV', '2001-06-21', D.govs[0][1]], ...D.govs.map(g => [g[0], g[1], g[2]])];
+  const grp = govs.map(([g, s, e]) => { const vs = V.filter(v => v[0] >= s && (!e || v[0] < e)), end = e || D.c11.to, mo = (D2(end) - D2(s)) / (30.4375 * 864e5);
+    const o = {}; KK.forEach(k => o[k] = vs.filter(v => v[1] === k).length); return { g, s, e, n: vs.length, mo, ...o }; });
+  const last = grp[grp.length - 1], bills = r => r.conv + r.emend + r.other;
+  const rate = grp.slice(1).sort((a, b) => b.n / b.mo - a.n / a.mo)[0];
+  const gname = g => g === 'XIV' ? L('XIV legislatura', 'XIV legislature') : govName(g);
+  return {
+    title: L(`La questione di fiducia: ${fmt(V.length)} voti alla Camera dal 2001; con il governo ${govName(last.g)} ${fmt(last.n)}, ${fmt(last.conv)} su leggi di conversione`,
+      `The questione di fiducia: ${fmt(V.length)} votes in the Camera since 2001; under the ${govName(last.g)} government ${fmt(last.n)}, ${fmt(last.conv)} on conversion bills`),
+    toc: L('La questione di fiducia', 'The questione di fiducia'),
+    dek: L(`Ponendo la questione di fiducia su un testo, il Governo ne chiede l’approvazione senza modifiche e si dimette se è respinto. Ogni punto è un voto della Camera con la fiducia, per semestre e secondo l’oggetto. Fino al 2011 la fiducia cadeva spesso su un emendamento del Governo che riscriveva l’intero testo; dal 2013 cade soprattutto sull’articolo unico delle leggi di conversione. Il ritmo più alto è quello del governo ${govName(rate.g)}: ${dec(rate.n / rate.mo, 1)} voti al mese.`,
+      `By attaching the question of confidence to a text, the Government asks for its approval without amendments and resigns if it is rejected. Each dot is a Camera vote with confidence attached, by half-year and by subject. Until 2011 confidence often fell on a Government amendment rewriting the whole text; since 2013 mostly on the single article of conversion bills. The highest rate is the ${govName(rate.g)} government's: ${dec(rate.n / rate.mo, 1)} votes a month.`),
+    draw(el) {
+      const cards = el.append('div').attr('class', 'ptiles');
+      grp.forEach(r => {
+        const d = cards.append('div').attr('class', 'ptile');
+        d.append('div').attr('class', 'pn').text(r.g === 'XIV' ? L('XIV legislatura · 2001–2006', 'XIV legislature · 2001–2006') : `${govName(r.g)} · ${r.s.slice(0, 4)}–${r.e ? r.e.slice(0, 4) : ''}`);
+        d.append('div').attr('class', 'pv').html(`<b>${fmt(r.n)}</b> ${L(r.n === 1 ? 'voto' : 'voti', r.n === 1 ? 'vote' : 'votes')}`);
+        d.append('div').attr('class', 'ps').text(L(`${dec(r.n / r.mo, 1)} al mese`, `${dec(r.n / r.mo, 1)} a month`));
+        const bar = d.append('div').attr('class', 'pbar');
+        KK.forEach(k => { if (r[k]) bar.append('i').style('flex', r[k]).style('background', KC[k]); });
+      });
+      legend(el, KK.map(k => ({ c: KC[k], l: KN[k][0], shape: 'dot' })));
+      const w = W(el), nw = narrow(w);
+      const bins = new Map();
+      V.forEach(v => { const [y, mo] = v[0].split('-').map(Number), key = y + (mo >= 7 ? .5 : 0); if (!bins.has(key)) bins.set(key, []); bins.get(key).push(v); });
+      const maxN = d3.max([...bins.values()], b => b.length), step = nw ? 5 : 7, r = nw ? 2.1 : 3;
+      const m = { t: 30, r: 8, b: 24, l: 8 }, ih = maxN * step + 6, h = m.t + m.b + ih;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, x = d3.scaleLinear().domain([2001.4, YEAR_LAST + 1]).range([0, iw]);
+      govs.forEach(([gname0, s, e], i) => {
+        const x0 = x(Math.max(2001.4, fy(s))), x1 = x(e ? fy(e) : YEAR_LAST + 1);
+        if (i % 2 === 0) g.append('rect').attr('x', x0).attr('width', x1 - x0).attr('y', -m.t + 4).attr('height', ih + m.t - 4).attr('rx', 6).attr('fill', css('--surface-2'));
+        const full = gname0 === 'XIV' ? 'XIV' : govName(gname0), lab = textW(el, [full], 'lbl mut') < x1 - x0 - 4 ? full : full.split(' ')[0], tw = textW(el, [lab], 'lbl mut');
+        if (tw < x1 - x0 - 4) g.append('text').attr('class', 'lbl mut').attr('x', (x0 + x1) / 2).attr('y', -14).attr('text-anchor', 'middle').text(lab);
+      });
+      d3.range(2002, YEAR_LAST + 1, nw ? 6 : 2).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      const ORD = { conv: 0, emend: 1, other: 2, mot: 3 }, pts = [];
+      bins.forEach((vs, key) => { const cx = x(key + .25); vs.sort((a, b) => ORD[a[1]] - ORD[b[1]] || a[0].localeCompare(b[0])).forEach((v, k) => pts.push({ v, cx, cy: ih - 4 - k * step })); });
+      bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => p.cx).attr('cy', p => p.cy).attr('r', r).attr('fill', p => KC[p.v[1]]),
+        p => `<b>${dateTxt(p.v[0])}</b>${tq(p.v[6])}` + trow(KC[p.v[1]], L('Oggetto', 'Object'), KN[p.v[1]][0]) + trow(null, L('Favorevoli', 'Yes'), fmt(p.v[4])) + trow(null, L('Contrari', 'No'), fmt(p.v[5])) +
+          (p.v[3] ? trow(null, L('Governo', 'Government'), govName(p.v[3])) : ''));
+      note(el, ['parlamento/atti-parlamentari/camera/votazioni/repubblica_<n>/<anno>/<mese>/<giorno>/*.md (richiestaFiducia)'], fmt(V.length) + L(' votazioni', ' votes'),
+        L(`sono le votazioni elettroniche della Camera con richiestaFiducia = 1; nei dati della XIII legislatura (1996–2001) il campo non è mai valorizzato, perciò la serie parte dal 2001. L’oggetto si legge dal tipo e dalla descrizione del voto. I governi sono quelli del grafico 7; per il 2001–2006 i dati non nominano il governo. Al mese: voti divisi per i mesi in carica, fino ${pD('al', D.c11.to)} per l’ultimo.`,
+          `these are the Camera's electronic votes with richiestaFiducia = 1; in the data of the XIII legislature (1996–2001) the field is never set, so the series starts in 2001. The subject is read from the vote's type and description. Governments are those of chart 7; for 2001–2006 the data do not name the government. Per month: votes divided by months in office, up to ${dateTxt(D.c11.to)} for the last one.`));
+      table(el, [L('Data', 'Date'), L('Oggetto', 'Object'), L('Favorevoli', 'Yes'), L('Contrari', 'No'), L('Descrizione', 'Description')], V.map(v => [v[0], KN[v[1]][0], v[4], v[5], v[6]]));
+    }
+  };
+});
+
+// 12. the calendar of the laws
+chart('c12', el => {
+  const c = D.c12, MD = c.md, n = c.n, top = c.top[0], sept = c.mon['09'] || 0, aug = c.mon['08'] || 0;
+  return {
+    title: L(`Il calendario delle leggi: ${fmt(top[1])} portano la data del ${dayMonth(+top[0].slice(0, 2), +top[0].slice(3))}, solo ${fmt(sept)} quella di un giorno di settembre`,
+      `The calendar of laws: ${fmt(top[1])} are dated ${dayMonth(+top[0].slice(0, 2), +top[0].slice(3))}, only ${fmt(sept)} on any day in September`),
+    toc: L('Il calendario delle leggi', 'The calendar of laws'),
+    dek: L(`Ogni casella è un giorno dell’anno: quante leggi il Presidente della Repubblica ha promulgato in quel giorno dal ${c.y0} al ${c.y1}. Le leggi si addensano prima della pausa estiva (luglio e la prima metà di agosto) e a dicembre, con il bilancio; settembre, quando le Camere riprendono dopo l’estate, ne conta ${fmt(sept)} su ${fmt(n)}. Sotto, il mese e il giorno della settimana della firma e quello della pubblicazione in Gazzetta.`,
+      `Each square is a day of the year: how many laws the President of the Republic promulgated on that day from ${c.y0} to ${c.y1}. Laws cluster before the summer break (July and the first half of August) and in December, with the budget; September, when the Chambers return after the summer, counts ${fmt(sept)} of ${fmt(n)}. Below, the month and weekday of the signature and the weekday of publication in the Gazzetta.`),
+    draw(el) {
+      const lgBox = el.append('div');
+      const cal = calendarHeat(el, MD, { what: L(`Leggi firmate in quel giorno, ${c.y0}–${c.y1}`, `Laws signed on that day, ${c.y0}–${c.y1}`), n });
+      const ramp = seqRamp();
+      legend(lgBox, [20, 50, 100, 150].map(v => ({ c: cal.cl(v), l: v === 150 ? L(`${fmt(v)} leggi`, `${fmt(v)} laws`) : fmt(v) })).concat([{ c: ramp(1), l: `${dayMonth(+top[0].slice(0, 2), +top[0].slice(3))}: ${fmt(top[1])}` }]));
+      const cols = S8(), nwd = narrow(W(el));
+      const box = el.append('div').attr('class', 'mini').style('margin-top', '12px').style('grid-template-columns', `repeat(${nwd ? 1 : 3}, minmax(0, 1fr))`);
+      const MON = d3.range(1, 13).map(m => c.mon[String(m).padStart(2, '0')] || 0);
+      [[MON, L('Mese della firma', 'Month of signature'), MSH[LANG], n], [c.wd, L('Giorno della settimana della firma', 'Weekday of signature'), DOWS[LANG], sum(c.wd)],
+       [c.wdp, L('Giorno della settimana della Gazzetta', 'Weekday of the Gazzetta'), DOWS[LANG], sum(c.wdp)]].forEach(([v, lab, ticks, tt]) => {
+        const d = box.append('div'); d.append('h4').text(lab);
+        const ww = W(d), hh = 118, svg2 = svgIn(d, ww, hh), g2 = svg2.append('g').attr('transform', 'translate(0,16)');
+        const x = d3.scaleBand().domain(d3.range(v.length)).range([0, ww]).padding(0.22), y = d3.scaleLinear().domain([0, d3.max(v)]).range([hh - 36, 0]), mxv = d3.max(v);
+        v.forEach((s, q) => {
+          g2.append('path').attr('d', colPath(x(q), hh - 36, x.bandwidth(), y(s), 3)).attr('fill', s === mxv ? cols[1] : cols[0]).attr('opacity', s === mxv ? 1 : .75);
+          if (v.length <= 7 || !nwd) g2.append('text').attr('class', 'lbl').attr('x', x(q) + x.bandwidth() / 2).attr('y', y(s) - 4).attr('text-anchor', 'middle').style('font-size', v.length > 7 ? '9px' : '11px').text(pct(s, tt));
+          g2.append('text').attr('class', 'lbl').attr('x', x(q) + x.bandwidth() / 2).attr('y', hh - 22).attr('text-anchor', 'middle').text(ticks[q]);
+          bindTip(g2.append('rect').attr('class', 'hit').attr('x', x(q)).attr('width', x.bandwidth()).attr('y', -16).attr('height', hh - 20).datum([q, s]),
+            p => `<b>${v.length > 7 ? MESI[p[0]] : DOW[LANG][p[0]]}</b>` + trow(null, L('Leggi', 'Laws'), `${fmt(p[1])} · ${pct(p[1], tt)}`));
+        });
+      });
+      note(el, ['parlamento/schede/leggi/<anno>/<mese>/legge-<n>.md (Enacted:, Published:)'], fmt(n) + L(' leggi', ' laws'),
+        L(`la data della legge è quella della promulgazione (la scheda della Camera); la data della Gazzetta è quella della scheda (“Pubblicata nella G.U. del…”). Il 29 febbraio esiste solo negli anni bisestili. Il ${c.y1} è incompleto.`,
+          `a law's date is that of its promulgation (the Camera's record); the Gazzetta's date is the one in the record ("Pubblicata nella G.U. del…"). 29 February exists only in leap years. ${c.y1} is partial.`));
+      table(el, [L('Giorno', 'Day'), L('Leggi', 'Laws'), t('share')], c.top.map(([k, v]) => [dayMonth(+k.slice(0, 2), +k.slice(3)), v, pct(v, n, 1)]));
+    }
+  };
+});
+
+// 13. the budget and the esercizio provvisorio
+chart('c13', el => {
+  const R = D.c13.rows, cols = S8(), epY = R.filter(r => r.ep.length), lastEp = epY[epY.length - 1].y;
+  const upto = R.filter(r => r.y <= lastEp), after = R.filter(r => r.y > lastEp && r.budget);
+  const late = after.filter(r => r.days > 0), early = after.reduce((a, b) => (a.days <= b.days ? a : b));
+  return {
+    title: L(`Esercizio provvisorio: autorizzato per ${fmt(epY.length)} bilanci su ${fmt(upto.length)} fino al ${lastEp}, mai dopo`,
+      `Provisional budgets: authorised for ${fmt(epY.length)} of ${fmt(upto.length)} budgets up to ${lastEp}, never since`),
+    toc: L('Bilancio ed esercizio provvisorio', 'The budget and provisional budgets'),
+    dek: L(`Ogni colonna è un esercizio finanziario: i giorni tra il suo inizio (il 1º luglio fino al 1964, poi il 1º gennaio) e la legge che completa il bilancio dello Stato. Sopra lo zero il bilancio è arrivato in ritardo e una legge ha autorizzato l’esercizio provvisorio (in arancione), che la Costituzione (art. 81) consente per non più di quattro mesi; fino al 1963 il bilancio si chiudeva quasi sempre il 31 ottobre, proprio al limite. Dal ${lastEp + 1} la legge di bilancio è sempre firmata prima del 1º gennaio, quasi sempre nell’ultima settimana di dicembre; la più anticipata è quella ${pD('del', early.budget)}.`,
+      `Each column is a financial year: the days between its start (1 July until 1964, then 1 January) and the law completing the State budget. Above zero the budget came late and a law authorised a provisional budget (in orange), which the Constitution (art. 81) allows for no more than four months; until 1963 the budget was nearly always completed on 31 October, right at the limit. Since ${lastEp + 1} the budget law has always been signed before 1 January, nearly always in the last week of December; the earliest was signed on ${dateTxt(early.budget)}.`),
+    draw(el) {
+      legend(el, [{ c: cols[1], l: L('esercizio provvisorio autorizzato per legge', 'provisional budget authorised by law') }, { c: cols[0], l: L('bilancio approvato senza esercizio provvisorio', 'budget approved without a provisional budget') }]);
+      const w = W(el), nwd = narrow(w), h = 300, m = { t: nwd ? 40 : 26, r: 8, b: 26, l: 46 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleBand().domain(R.map(r => r.y)).range([0, iw]).padding(0.18);
+      const y = d3.scaleLinear().domain([d3.min(R, r => r.days) - 5, d3.max(R, r => r.days) + 10]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 6, v => v === 0 ? '0' : (v > 0 ? '+' : '−') + fmt(Math.abs(v)));
+      g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(0)).attr('y2', y(0)).attr('stroke', css('--text-3'));
+      const y4 = y(121);
+      g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y4).attr('y2', y4).attr('stroke', css('--text-2')).attr('stroke-dasharray', '4 3');
+      halo(g, iw, y4 - 5, nwd ? L('quattro mesi (art. 81)', 'four months (art. 81)') : L('quattro mesi, il massimo dell’esercizio provvisorio (art. 81)', 'four months, the limit of a provisional budget (art. 81)'), 'end', 'lbl');
+      const z0 = L('inizio dell’esercizio', 'start of the financial year');
+      halo(g, iw, y(0) - 5, z0, 'end', 'lbl mut');
+      g.append('text').attr('class', 'lbl mut').attr('x', 2).attr('y', nwd ? -26 : -10).text(L('giorni dopo l’inizio', 'days after the start'));
+      R.forEach(r => {
+        if (r.days == null) return;
+        const x0 = x(r.y), bw = x.bandwidth(), c0 = r.ep.length ? cols[1] : cols[0];
+        g.append('path').attr('d', r.days >= 0 ? colPath(x0, y(0), bw, y(r.days), 2) : colPathDown(x0, y(0), bw, y(r.days), 2)).attr('fill', c0);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0 - 1).attr('width', bw + 2).attr('y', 0).attr('height', ih).datum(r),
+          d => `<b>${L('Esercizio', 'Financial year')} ${d.y < 1965 ? `${d.y}–${String(d.y + 1).slice(2)}` : d.y}${d.y === 1964 ? L(' (secondo semestre)', ' (second half)') : ''}</b>` + trow(null, L('Inizio', 'Start'), dateTxt(d.start)) +
+            trow(null, L('Legge di bilancio', 'Budget law'), dateTxt(d.budget)) + trow(null, L('Giorni dall’inizio', 'Days from the start'), (d.days > 0 ? '+' : '') + fmt(d.days)) +
+            d.ep.map(e => trow(cols[1], e[1] === 'proroga' ? L('Proroga dell’esercizio provvisorio', 'Provisional budget extended') : L('Esercizio provvisorio autorizzato', 'Provisional budget authorised'), dateTxt(e[0]))).join(''));
+      });
+      const every = nwd ? 20 : 5;
+      R.forEach(r => { if (r.y % every === 0) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(r.y); });
+      const xs = x(1965) - x.step() * x.paddingInner() / 2;
+      g.append('line').attr('x1', xs).attr('x2', xs).attr('y1', -6).attr('y2', ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+      const t1 = nwd ? L('dal 1965: anno solare', 'from 1965: calendar year') : L('dal 1965 l’esercizio è l’anno solare', 'from 1965 the financial year is the calendar year'), tw = textW(el, [t1], 'lbl mut');
+      halo(g, xs + tw + 8 < iw ? xs + 5 : xs - 5, -6, t1, xs + tw + 8 < iw ? 'start' : 'end', 'lbl mut');
+      note(el, ['parlamento/schede/leggi/<anno>/<mese>/legge-<n>.md (titolo)'], fmt(R.filter(r => r.budget).length) + L(' leggi di bilancio', ' budget laws'),
+        L(`la legge di bilancio è quella intitolata “Bilancio di previsione dello Stato per l’anno finanziario…” (dal 1965); fino al 1963 lo stato di previsione dell’entrata e della spesa del Ministero del tesoro; per il 1964 il bilancio del solo secondo semestre. L’esercizio provvisorio è contato quando nelle leggi c’è un’“Autorizzazione all’esercizio provvisorio del bilancio” per quell’anno; per il 1980 la legge di bilancio è del 30 aprile ma non c’è una legge di esercizio provvisorio.`,
+          `the budget law is the one titled "Bilancio di previsione dello Stato per l'anno finanziario…" (from 1965); until 1963 the estimate of revenue and expenditure of the Treasury ministry; for 1964 the budget of the second half year only. A provisional budget is counted when the laws include an "Autorizzazione all'esercizio provvisorio del bilancio" for that year; for 1980 the budget law is dated 30 April but there is no provisional budget law.`));
+      table(el, [L('Esercizio', 'Financial year'), L('Legge di bilancio', 'Budget law'), L('Giorni', 'Days'), L('Esercizio provvisorio', 'Provisional budget')], R.map(r => [String(r.y), r.budget || '', r.days == null ? '' : r.days, r.ep.map(e => e[0]).join(', ')]));
+    }
+  };
+});
+
+part('p4', 'IV. La Costituzione e i codici', 'IV. The Constitution and the codes',
+  'La Costituzione del 1948 e i quattro codici sono nel repository in tutte le versioni che Normattiva pubblica, un file per articolo: ogni commit dice quali articoli sono cambiati e da quando.',
+  'The 1948 Constitution and the four codes are in the repository in every version Normattiva publishes, one file per article: each commit says which articles changed, and from when.');
+
+// 14. the Constitution, article by article
+chart('c14', el => {
+  const c = D.c14, A = c.arts.filter(a => /\/art-\d+\.md$/.test(a.p)).map(a => ({ ...a, n: +a.p.match(/art-(\d+)/)[1] })).sort((a, b) => a.n - b.n);
+  const X = c.arts.filter(a => /allegati\/allegato-/.test(a.p)).map(a => ({ ...a, r: a.p.match(/allegato-([ivxl]+)\.md/)[1].toUpperCase() }));
+  const RN = r => ({ I: 1, V: 5, X: 10, L: 50 });
+  const rnum = s => { let n = 0, p = 0; for (const ch of s.split('').reverse()) { const v = { I: 1, V: 5, X: 10, L: 50 }[ch]; n += v < p ? -v : v; p = Math.max(p, v); } return n; };
+  X.sort((a, b) => rnum(a.r) - rnum(b.r));
+  const orig = A.filter(a => !a.mods.length), rep = A.filter(a => a.rep === 2);
+  const per = a => { if (!a.mods.length) return 'o'; const y = +a.mods[a.mods.length - 1][0].slice(0, 4); return y < 1999 ? 'p1' : y < 2004 ? 'p2' : 'p3'; };
+  const laws = new Map();
+  c.arts.forEach(a => a.mods.forEach(m => { const k = m[1] + '|' + m[0]; if (!laws.has(k)) laws.set(k, { law: m[1], d: m[0], arts: [] }); laws.get(k).arts.push(a.p.match(/art-(\d+)/) ? +a.p.match(/art-(\d+)/)[1] : 'disp. ' + a.p.match(/allegato-([ivxl]+)/)[1].toUpperCase()); }));
+  const LL = [...laws.values()].sort((a, b) => a.d.localeCompare(b.d));
+  const big = LL.reduce((a, b) => a.arts.length >= b.arts.length ? a : b);
+  const TN = { 1: ['Principi fondamentali', 'Fundamental principles'], 13: ['Parte I, titolo I · Rapporti civili', 'Part I, title I · Civil relations'], 29: ['Titolo II · Rapporti etico-sociali', 'Title II · Ethical and social relations'],
+    35: ['Titolo III · Rapporti economici', 'Title III · Economic relations'], 48: ['Titolo IV · Rapporti politici', 'Title IV · Political relations'], 55: ['Parte II, titolo I · Il Parlamento', 'Part II, title I · Parliament'],
+    83: ['Titolo II · Il Presidente della Repubblica', 'Title II · The President of the Republic'], 92: ['Titolo III · Il Governo', 'Title III · The Government'], 101: ['Titolo IV · La Magistratura', 'Title IV · The Judiciary'],
+    114: ['Titolo V · Regioni, Province, Comuni', 'Title V · Regions, Provinces, Municipalities'], 134: ['Titolo VI · Garanzie costituzionali', 'Title VI · Constitutional guarantees'] };
+  const starts = c.groups.map(g => g[1]).filter(s => TN[s]);
+  return {
+    title: L(`La Costituzione del 1948: ${fmt(orig.length)} dei ${fmt(A.length)} articoli conservano il testo originale`,
+      `The 1948 Constitution: ${fmt(orig.length)} of its ${fmt(A.length)} articles keep their original text`),
+    toc: L('La Costituzione articolo per articolo', 'The Constitution article by article'),
+    dek: L(`Ogni casella è un articolo, nell’ordine delle parti e dei titoli; il colore dice quando è stato modificato l’ultima volta. La revisione più ampia è la ${lawShort(big.law)}, che ha riscritto il titolo V (regioni, province e comuni): ${fmt(big.arts.length)} articoli, ${fmt(rep.length)} dei quali abrogati. Gli articoli dei principi fondamentali e della prima parte sono cambiati di rado: il 9 e il 41 nel 2022 (ambiente), il 33 nel 2023 (sport).`,
+      `Each square is an article, in the order of the parts and titles; the colour says when it was last amended. The broadest revision is ${lawShort(big.law)}, which rewrote title V (regions, provinces and municipalities): ${fmt(big.arts.length)} articles, ${fmt(rep.length)} of them repealed. The fundamental principles and the first part rarely changed: articles 9 and 41 in 2022 (environment), 33 in 2023 (sport).`),
+    draw(el) {
+      const cols = S8(), ramp = seqRamp();
+      const CC = { o: css('--surface-2'), p1: ramp(0.45), p2: cols[1], p3: cols[6] };
+      legend(el, [{ c: CC.o, l: L('testo del 1948', '1948 text'), shape: 'outline' }, { c: CC.p1, l: L('modificato l’ultima volta nel 1958–1993', 'last amended 1958–1993') }, { c: CC.p2, l: L('nel 1999–2003', 'in 1999–2003') }, { c: CC.p3, l: L('nel 2007–2023', 'in 2007–2023') }, { c: css('--muted-mark'), l: L('abrogato', 'repealed'), shape: 'hatch' }]);
+      const w = W(el), nwd = narrow(w), sz = nwd ? 19 : 22, gap = 3, groups = starts.map((s, i) => ({ s, e: starts[i + 1] ? starts[i + 1] - 1 : 139 }));
+      const lw = nwd ? 0 : Math.min(330, textW(el, groups.map(gr => L(...TN[gr.s]))) + 14), perRow = Math.max(4, Math.floor((w - lw) / (sz + gap)));
+      let H = 0; const lay = groups.map(gr => { const n = gr.e - gr.s + 1, rows = Math.ceil(n / perRow), y0 = H + (nwd ? 16 : 0); H = y0 + rows * (sz + gap) + 8; return { ...gr, y0, rows }; });
+      const svg = svgIn(el, w, H + 4), g = svg.append('g').attr('transform', `translate(${lw},2)`), hp = hatch(svg, css('--muted-mark'));
+      lay.forEach(gr => {
+        if (nwd) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', gr.y0 - 4).text(L(...TN[gr.s]));
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', gr.y0 + sz / 2 + 4).attr('text-anchor', 'end').text(L(...TN[gr.s]));
+        A.filter(a => a.n >= gr.s && a.n <= gr.e).forEach((a, i) => {
+          const xx = (i % perRow) * (sz + gap), yy = gr.y0 + Math.floor(i / perRow) * (sz + gap), k = per(a), fill = a.rep === 2 ? hp : CC[k];
+          g.append('rect').attr('x', xx).attr('y', yy).attr('width', sz).attr('height', sz).attr('rx', 3).attr('fill', fill).attr('stroke', k === 'o' && a.rep !== 2 ? css('--line') : 'none');
+          g.append('text').attr('x', xx + sz / 2).attr('y', yy + sz / 2 + 3.5).attr('text-anchor', 'middle').style('font', `${k === 'o' ? 400 : 600} ${a.n >= 100 ? 7.5 : 8.5}px var(--sans)`)
+            .style('fill', k === 'o' || a.rep === 2 ? css('--text-3') : inkOn(CC[k])).style('pointer-events', 'none').text(a.n);
+          bindTip(g.append('rect').attr('class', 'hit').attr('x', xx).attr('y', yy).attr('width', sz).attr('height', sz).datum(a),
+            d => `<b>${L('Articolo', 'Article')} ${d.n}</b>` + (d.mods.length ? d.mods.map(m => trow(null, lawShort(m[1]), dateTxt(m[0]))).join('') : trow(null, L('Testo', 'Text'), L('del 1948', 'of 1948'))) +
+              (d.rep === 2 ? tq(L('abrogato', 'repealed')) : d.rep === 1 ? tq(L('in parte abrogato', 'partly repealed')) : ''));
+        });
+      });
+      h4(el, L('Le leggi costituzionali che hanno modificato la Costituzione', 'The constitutional laws that amended the Constitution'), 12);
+      const box = el.append('div').attr('class', 'amlist').style('display', 'grid').style('grid-template-columns', narrow(W(el)) ? '1fr' : 'repeat(2, minmax(0, 1fr))').style('column-gap', '28px');
+      LL.forEach(l => { const r = box.append('div').attr('class', 'ar');
+        r.append('b').text(l.d.slice(0, 4));
+        r.append('span').text(lawShort(l.law));
+        r.append('span').text(L('art. ', 'art. ') + l.arts.slice().sort((a, b) => (typeof a === 'number' ? a : 999) - (typeof b === 'number' ? b : 999)).join(', ')); });
+      note(el, ['costituzione/art-<n>.md', 'costituzione/allegati/', 'git log --name-status -- costituzione'], fmt(A.length) + L(' articoli', ' articles') + ', ' + fmt(X.length) + L(' disposizioni transitorie', ' transitional provisions'),
+        L(`un articolo modificato è un file che un commit di una legge costituzionale cambia dopo il testo del 1948 (in vigore dal 1º gennaio 1948); “abrogato” vuol dire che il testo vigente è solo la nota di abrogazione; l’errata corrige del 3 gennaio 1948 (art. 107) non conta come modifica. Le ${fmt(X.length)} disposizioni transitorie e finali, ${fmt(X.filter(x => x.mods.length).length)} delle quali modificate, sono nella tabella. La Costituzione nel repository arriva alla legge costituzionale 1/2023.`,
+          `an amended article is a file that a commit of a constitutional law changes after the 1948 text (in force from 1 January 1948); "repealed" means the text in force is only the note of repeal; the corrigendum of 3 January 1948 (art. 107) does not count as an amendment. The ${fmt(X.length)} transitional and final provisions, ${fmt(X.filter(x => x.mods.length).length)} of them amended, are in the table. The Constitution in the repository runs to constitutional law 1/2023.`));
+      table(el, [L('Disposizione', 'Provision'), L('Modifiche', 'Amendments'), L('Abrogata', 'Repealed')], [...A.map(a => [L('Art. ', 'Art. ') + a.n, a.mods.map(m => `${lawShort(m[1])} (${m[0]})`).join('; ') || '–', a.rep === 2 ? L('sì', 'yes') : a.rep === 1 ? L('in parte', 'in part') : '']),
+        ...X.map(x => [L('Disp. trans. ', 'Trans. prov. ') + x.r, x.mods.map(m => `${lawShort(m[1])} (${m[0]})`).join('; ') || '–', x.rep === 2 ? L('sì', 'yes') : x.rep === 1 ? L('in parte', 'in part') : ''])]);
+    }
+  };
+});
+const lawShort = s => s.replace(/^Legge costituzionale (\d+)\/(\d+)$/, (a, n, y) => IT() ? `legge costituzionale ${n}/${y}` : `constitutional law ${n}/${y}`);
+
+// 15. the four codes over time
+const CODEN = { cc: ['Codice civile (1942)', 'Civil Code (1942)'], cp: ['Codice penale (1930)', 'Criminal Code (1930)'], cpc: ['Codice di procedura civile (1940)', 'Code of Civil Procedure (1940)'], cpp: ['Codice di procedura penale (1988)', 'Code of Criminal Procedure (1988)'] };
+const CODES4 = ['cp', 'cpp', 'cc', 'cpc'];
+chart('c15', el => {
+  const c = D.c15, DEC = d3.range(1930, YEAR_LAST + 1, 10), v = (k, d) => (c.ver[k] || {})[d] || 0, tot = k => sum(DEC, d => v(k, d));
+  const cp20 = v('cp', 2020), cp50 = v('cp', 1950), big = c.big, wide = !narrow(W(el));
+  return {
+    title: L(`I codici cambiano sempre più spesso: il Codice penale ha avuto ${fmt(cp20)} versioni dal 2020, ${fmt(cp50)} in tutti gli anni Cinquanta`,
+      `The codes change more and more often: the Criminal Code has had ${fmt(cp20)} versions since 2020, ${fmt(cp50)} in the whole of the 1950s`),
+    toc: L('I quattro codici nel tempo', 'The four codes over time'),
+    dek: L(`Ogni casella conta i giorni in cui il testo di un codice è cambiato, per decennio: ogni giorno è una nuova versione in Normattiva, qualunque sia il numero di articoli toccati. ${wide ? 'A destra' : 'Accanto al nome'} il totale. I giorni con più articoli riscritti sono ${pD('il', big.cc[0][0])} per il Codice civile (${fmt(big.cc[0][1])} articoli, la riforma delle società) e ${pD('il', big.cpc[0][0])} per il Codice di procedura civile (${fmt(big.cpc[0][1])}).`,
+      `Each cell counts the days on which a code's text changed, by decade: each day is a new version in Normattiva, however many articles it touched. ${wide ? 'On the right' : 'Next to the name'}, the total. The days with the most articles rewritten are ${dateTxt(big.cc[0][0])} for the Civil Code (${fmt(big.cc[0][1])} articles, the company law reform) and ${dateTxt(big.cpc[0][0])} for the Code of Civil Procedure (${fmt(big.cpc[0][1])}).`),
+    draw(el) {
+      const w = W(el), nwd = narrow(w), labs = CODES4.map(k => L(...CODEN[k]));
+      const lw = nwd ? 0 : textW(el, labs) + 14, rowH = nwd ? 46 : 36, totW = nwd ? 0 : 110, cw = (w - lw - totW - 10) / DEC.length;
+      const m = { t: 20, l: lw }, h = m.t + CODES4.length * rowH + 4, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const mx = d3.max(CODES4, k => d3.max(DEC, d => v(k, d))), col = d3.scaleSequentialSqrt(seqRamp()).domain([0, mx]);
+      const tx = d3.scaleLinear().domain([0, d3.max(CODES4, tot)]).range([0, totW - 34]), x0 = DEC.length * cw + 10;
+      DEC.forEach((d, j) => g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(nwd ? `’${String(d).slice(2)}` : `${d}`));
+      CODES4.forEach((k, i) => {
+        const cy = i * rowH + (nwd ? 14 : 0), ch = nwd ? rowH - 18 : rowH - 6;
+        if (nwd) g.append('text').attr('class', 'lbl strong').attr('x', 0).attr('y', cy - 3).text(`${labs[i]} · ${fmt(tot(k))}`);
+        else g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + ch / 2 + 4).attr('text-anchor', 'end').text(labs[i]);
+        DEC.forEach((d, j) => {
+          const n = v(k, d), fill = n ? col(n) : css('--surface-2');
+          bindTip(g.append('rect').attr('x', j * cw + 1).attr('y', cy).attr('width', cw - 2).attr('height', ch).attr('rx', 4).attr('fill', fill).datum([k, d, n]),
+            q => `<b>${L(...CODEN[q[0]])} · ${q[1]}–${q[1] + 9}</b>` + trow(null, L('Versioni', 'Versions'), fmt(q[2])));
+          if (n) g.append('text').attr('class', 'lbl').attr('x', j * cw + cw / 2).attr('y', cy + ch / 2 + 4).attr('text-anchor', 'middle').style('fill', inkOn(fill)).style('pointer-events', 'none').text(fmt(n));
+        });
+        if (!nwd) { g.append('path').attr('d', barPath(x0, cy + ch / 2 - 6, x0 + Math.max(2, tx(tot(k))), 12, 4)).attr('fill', S8()[0]);
+          g.append('text').attr('class', 'lbl').attr('x', x0 + tx(tot(k)) + 5).attr('y', cy + ch / 2 + 4).text(fmt(tot(k))); }
+      });
+      note(el, ['git log -- normativa/regio-decreto/1930/1398', '…/1942/262', '…/1940/1443', 'normativa/dpr/1988/447'], fmt(sum(CODES4, tot)) + L(' versioni', ' versions'),
+        L(`una versione è un commit che cambia il testo del codice; la data è il primo giorno in cui Normattiva mostra il nuovo testo (il giorno dopo, o 15 giorni dopo, la Gazzetta dell’atto che modifica), quindi può seguire di qualche giorno l’entrata in vigore effettiva. La versione originale di ogni codice, la prima registrata, non è contata; quella del Codice di procedura penale è del 31 ottobre 1989. Il decennio in corso è incompleto.`,
+          `a version is a commit that changes the code's text; its date is the first day on which Normattiva shows the new text (the day after, or 15 days after, the Gazzetta of the amending act), so it may follow the actual entry into force by a few days. Each code's original version, the first recorded, is not counted; that of the Code of Criminal Procedure is dated 31 October 1989. The current decade is partial.`));
+      table(el, [L('Codice', 'Code'), ...DEC.map(String), t('total')], CODES4.map(k => [L(...CODEN[k]), ...DEC.map(d => v(k, d)), tot(k)]));
+    }
+  };
+});
+
+// 16. the codes article by article
+chart('c16', el => {
+  const c = D.c16, cols = S8(), ramp = seqRamp();
+  const cat = a => !a[1] ? 'add' : a[2] === 0 ? 'orig' : a[2] <= 2 ? 'm1' : 'm3';
+  const KEYS = ['orig', 'm1', 'm3', 'add'], CC = () => ({ orig: css('--surface-2'), m1: ramp(0.45), m3: ramp(0.95), add: cols[1] });
+  const KN = { orig: [L('testo originario, mai modificato', 'original text, never amended')], m1: [L('originario, modificato 1 o 2 volte', 'original, amended once or twice')], m3: [L('originario, modificato 3 volte o più', 'original, amended 3 times or more')], add: [L('aggiunto dopo (art. bis, ter…)', 'added later (art. bis, ter…)')] };
+  const st = k => { const A = c[k].arts, o = A.filter(a => a[1]); return { n: A.length, orig: o.length, keep: o.filter(a => a[2] === 0).length, add: A.length - o.length }; };
+  const s = Object.fromEntries(CODES4.map(k => [k, st(k)]));
+  const yr = k => c[k].first.slice(0, 4);
+  return {
+    title: L(`Articolo per articolo: ${ilPct(s.cc.keep, s.cc.orig)} degli articoli originari del Codice civile non è mai stato modificato, del Codice penale ${ilPct(s.cp.keep, s.cp.orig).trim()}`,
+      `Article by article: ${pct(s.cc.keep, s.cc.orig)} of the Civil Code's original articles have never been amended, of the Criminal Code's ${pct(s.cp.keep, s.cp.orig)}`),
+    toc: L('I codici articolo per articolo', 'The codes article by article'),
+    dek: L(`Ogni quadratino è un articolo in vigore oggi, nell’ordine del codice. Il colore dice se ha ancora il testo della prima versione in Normattiva, quante volte è stato modificato o se è stato aggiunto dopo. Il Codice penale ha ${fmt(s.cp.add)} articoli aggiunti su ${fmt(s.cp.n)}; il Codice di procedura penale, del 1988, conserva il testo originario in ${fmt(s.cpp.keep)} articoli su ${fmt(s.cpp.orig)}.`,
+      `Each small square is an article in force today, in the code's order. The colour says whether it still has the text of the first version in Normattiva, how often it was amended, or whether it was added later. The Criminal Code has ${fmt(s.cp.add)} added articles of ${fmt(s.cp.n)}; the Code of Criminal Procedure, of 1988, keeps its original text in ${fmt(s.cpp.keep)} of ${fmt(s.cpp.orig)} articles.`),
+    draw(el) {
+      const cc = CC();
+      legend(el, KEYS.map(k => ({ c: cc[k], l: KN[k][0], shape: k === 'orig' ? 'outline' : '' })));
+      const box = el.append('div').attr('class', 'mini').style('grid-template-columns', narrow(W(el)) ? '1fr' : 'repeat(2, minmax(0, 1fr))');
+      const panes = CODES4.map(() => box.append('div'));
+      CODES4.forEach((k, pi) => {
+        const p = panes[pi], A = c[k].arts, S = s[k];
+        p.append('h4').text(L(...CODEN[k]));
+        p.append('p').text(L(`${fmt(S.n)} articoli · ${pct(S.keep, S.orig)} degli originari mai modificati`, `${fmt(S.n)} articles · ${pct(S.keep, S.orig)} of the original ones never amended`));
+        const w = W(p), sz = A.length > 2000 ? 5 : 7, gap = 1, perRow = Math.floor(w / (sz + gap)), rows = Math.ceil(A.length / perRow);
+        const svg = svgIn(p, w, rows * (sz + gap) + 2), g = svg.append('g');
+        A.forEach((a, i) => g.append('rect').attr('x', (i % perRow) * (sz + gap)).attr('y', Math.floor(i / perRow) * (sz + gap)).attr('width', sz).attr('height', sz).attr('rx', 1.2).attr('fill', cc[cat(a)]).datum(a));
+        bindTip(g.selectAll('rect'), a => `<b>${L('Art.', 'Art.')} ${esc(a[0].replace(/^0+/, '').replace(/-/g, '-'))}</b>` + trow(cc[cat(a)], KN[cat(a)][0], a[1] ? L(`${fmt(a[2])} modifiche`, `${fmt(a[2])} amendments`) : ''));
+      });
+      note(el, ['normativa/regio-decreto/1942/262/allegati/codice-civile/', 'normativa/regio-decreto/1930/1398/allegati/', 'normativa/regio-decreto/1940/1443/allegati/', 'normativa/dpr/1988/447/', 'git log --name-status'],
+        fmt(sum(CODES4, k => s[k].n)) + L(' articoli', ' articles'),
+        L(`un articolo è un file del codice; è originario se c’è già nella prima versione registrata (${CODES4.map(k => `${L(...CODEN[k]).split(' (')[0]}: ${dateTxt(c[k].first)}`).join('; ')}), e una modifica è un commit successivo che lo cambia. Un articolo abrogato resta come file con la nota di abrogazione e conta come modificato. Non sono contati gli articoli dei decreti che approvano i codici né, per il Codice civile, le disposizioni sulla legge in generale.`,
+          `an article is a file of the code; it is original if it is already in the first recorded version (${CODES4.map(k => `${L(...CODEN[k]).split(' (')[0]}: ${dateTxt(c[k].first)}`).join('; ')}), and an amendment is a later commit that changes it. A repealed article stays as a file with the note of repeal and counts as amended. The articles of the decrees approving the codes are not counted, nor, for the Civil Code, the provisions on the law in general.`));
+      table(el, [L('Codice', 'Code'), L('Articoli', 'Articles'), L('Originari', 'Original'), L('Mai modificati', 'Never amended'), L('Aggiunti', 'Added')], CODES4.map(k => [L(...CODEN[k]), s[k].n, s[k].orig, s[k].keep, s[k].add]));
+    }
+  };
+});
+
+part('p5', 'V. Le corti e l’Europa', 'V. The courts and Europe',
+  'Le decisioni della Corte costituzionale dal 1956, i provvedimenti della giustizia amministrativa dal 2017 e le misure con cui l’Italia ha comunicato alla Commissione europea il recepimento delle direttive.',
+  'The decisions of the Constitutional Court since 1956, the decisions of the administrative courts since 2017 and the measures by which Italy notified the European Commission that it had transposed directives.');
+
+// 17. the Corte costituzionale
+chart('c17', el => {
+  const R = D.c17.rows, cols = S8(), top = R.reduce((a, b) => (a.s + a.o >= b.s + b.o ? a : b));
+  const lagA = R.filter(r => r.y >= 2005 && r.y <= 2014).map(r => r.lag), lagB = R.filter(r => r.y >= 2015 && r.y < YEAR_LAST).map(r => r.lag);
+  return {
+    title: L(`La Corte costituzionale: ${fmt(top.s + top.o)} decisioni nel ${top.y}; dal 2015 un mese tra decisione e deposito, prima una settimana`,
+      `The Constitutional Court: ${fmt(top.s + top.o)} decisions in ${top.y}; since 2015 a month between decision and deposit, before a week`),
+    toc: L('La Corte costituzionale', 'The Constitutional Court'),
+    dek: L(`Ogni colonna è un anno: le sentenze e le ordinanze depositate. Il picco del ${top.y} (${fmt(top.s)} sentenze e ${fmt(top.o)} ordinanze) è un caso isolato; dagli anni Duemila le ordinanze calano e le sentenze restano sulle 200 l’anno. Sotto, la mediana dei giorni fra la decisione in camera di consiglio e il deposito, che rende pubblica la pronuncia: ${fmt(d3.median(lagA))} giorni nel 2005–2014, ${fmt(d3.median(lagB))} dal 2015.`,
+      `Each column is a year: the judgments (sentenze) and orders (ordinanze) deposited. The peak of ${top.y} (${fmt(top.s)} judgments and ${fmt(top.o)} orders) stands alone; since the 2000s orders have fallen and judgments stayed around 200 a year. Below, the median days between the decision in chambers and the deposit, which makes the ruling public: ${fmt(d3.median(lagA))} days in 2005–2014, ${fmt(d3.median(lagB))} since 2015.`),
+    draw(el) {
+      legend(el, [{ c: cols[0], l: L('sentenze', 'judgments') }, { c: cols[0] + '66', l: L('ordinanze', 'orders') }]);
+      const nw = narrow(W(el));
+      const s = stackedColumns(el, R.map(r => ({ y: r.y, s: r.s, o: r.o })), ['s', 'o'], [cols[0], cols[0] + '66'], [L('sentenze', 'judgments'), L('ordinanze', 'orders')],
+        { pad: 0.14, mt: 18, h: 260, labelIf: r => r.y % (nw ? 20 : 10) === 0, partial: r => r.y === YEAR_LAST, xf: y => String(y) });
+      const tx = s.x(top.y) + s.x.bandwidth() / 2, lab = L(`${top.y}: ${fmt(top.s + top.o)}`, `${top.y}: ${fmt(top.s + top.o)}`), tw = textW(el, [lab]);
+      halo(s.g, tx + tw / 2 + 2 > s.iw ? tx - 6 : tx + 7, s.y(top.s + top.o) + 10, lab, tx + tw / 2 + 2 > s.iw ? 'end' : 'start');
+      h4(el, L('Giorni tra decisione e deposito (mediana per anno)', 'Days between decision and deposit (median per year)'), 10);
+      const w = W(el), h = 150, m = { t: 14, r: 10, b: 22, l: 44 }, svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b, x = d3.scaleLinear().domain([R[0].y, YEAR_LAST]).range([0, iw]);
+      const L2 = R.filter(r => r.lag != null), y = d3.scaleLinear().domain([0, d3.max(L2, r => r.lag)]).nice().range([ih, 0]);
+      yAxis(g, y, iw, 4);
+      d3.range(1960, YEAR_LAST + 1, nw ? 20 : 10).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v));
+      g.append('path').attr('d', d3.area().x(r => x(r.y)).y0(ih).y1(r => y(r.lag))(L2)).attr('fill', grad(svg, cols[6], .25));
+      g.append('path').attr('d', d3.line().x(r => x(r.y)).y(r => y(r.lag))(L2)).attr('fill', 'none').attr('stroke', cols[6]).attr('stroke-width', 2);
+      const x15 = x(2015);
+      g.append('line').attr('x1', x15).attr('x2', x15).attr('y1', 0).attr('y2', ih).attr('stroke', css('--text-3')).attr('stroke-dasharray', '3 3');
+      const lastR = L2[L2.length - 1];
+      g.append('circle').attr('cx', x(lastR.y)).attr('cy', y(lastR.lag)).attr('r', 3.5).attr('fill', cols[6]);
+      halo(g, x(lastR.y) - 6, y(lastR.lag) - 6, L(`${lastR.y}: ${fmt(lastR.lag)} giorni`, `${lastR.y}: ${fmt(lastR.lag)} days`), 'end');
+      halo(g, x15 - 5, nw ? y(30) : 12, '2015', 'end', 'lbl mut');
+      bindTip(g.selectAll('.hit').data(L2).join('rect').attr('class', 'hit').attr('x', r => x(r.y) - iw / L2.length / 2).attr('width', iw / L2.length).attr('y', 0).attr('height', ih),
+        r => `<b>${r.y}</b>` + trow(null, L('Sentenze', 'Judgments'), fmt(r.s)) + trow(null, L('Ordinanze', 'Orders'), fmt(r.o)) + trow(cols[6], L('Giorni fino al deposito (mediana)', 'Days to deposit (median)'), fmt(r.lag)));
+      note(el, ['giurisprudenza/corte-costituzionale/<anno>/<mese>/<tipo>-<n>/', 'git log (Decided:, In-force:)'], fmt(sum(R, r => r.s + r.o)) + L(' decisioni', ' decisions'),
+        L(`l’anno è quello del numero della pronuncia; la data della decisione e quella del deposito sono nei trailer di ciascun commit. Il ${YEAR_LAST} è incompleto (fino ${pD('al', D.c17.to)}).`,
+          `the year is that of the ruling's number; the dates of decision and deposit are in each commit's trailers. ${YEAR_LAST} is partial (to ${dateTxt(D.c17.to)}).`));
+      table(el, [t('year'), L('Sentenze', 'Judgments'), L('Ordinanze', 'Orders'), L('Giorni al deposito', 'Days to deposit')], R.map(r => [String(r.y), r.s, r.o, r.lag == null ? '' : r.lag]));
+    }
+  };
+});
+
+// 18. the kinds of proceedings before the Court
+chart('c18', el => {
+  const Y = D.c18.years, keys = ['inc', 'pri', 'enti', 'poteri', 'ref', 'other'], cols = S8();
+  const colors = [cols[0], cols[1], cols[3], cols[6], cols[2], css('--muted-mark')];
+  const names = [L('in via incidentale (da un giudice)', 'incidental (from a court)'), L('in via principale (Stato e Regioni)', 'direct action (State and Regions)'), L('conflitti tra Stato e Regioni', 'conflicts between State and Regions'),
+    L('conflitti tra poteri dello Stato', 'conflicts between powers of the State'), L('ammissibilità dei referendum', 'admissibility of referendums'), L('altro (correzioni, accusa…)', 'other (corrections, impeachment…)')];
+  const P = [['1956–1969', 1956, 1969], ['1970–1979', 1970, 1979], ['1980–1989', 1980, 1989], ['1990–2001', 1990, 2001], ['2002–2011', 2002, 2011], [`2012–${YEAR_LAST}`, 2012, YEAR_LAST]];
+  const rows = P.map(([p, a, b]) => { const o = { p }; keys.forEach(k => o[k] = sum(d3.range(a, b + 1), y => (Y[y] || {})[k] || 0)); return o; });
+  const tot = r => sum(keys, k => r[k]);
+  return {
+    title: L(`Stato contro Regioni: i giudizi in via principale passano ${prepPct('da', rows[3].pri, tot(rows[3]))} delle decisioni nel 1990–2001 ${prepPct('a', rows[5].pri, tot(rows[5]))} dal 2012`,
+      `State against Regions: direct actions go from ${pct(rows[3].pri, tot(rows[3]))} of decisions in 1990–2001 to ${pct(rows[5].pri, tot(rows[5]))} since 2012`),
+    toc: L('I giudizi della Corte', 'The Court\'s proceedings'),
+    dek: L(`Ogni barra è un periodo: le decisioni della Corte per tipo di giudizio. Quasi tutte nascevano da un giudice che dubita di una legge mentre decide una causa (in via incidentale). Dopo la riforma del titolo V del 2001, che ha diviso la potestà legislativa fra Stato e Regioni, crescono i ricorsi diretti dello Stato contro leggi regionali e delle Regioni contro leggi statali.`,
+      `Each bar is a period: the Court's decisions by kind of proceedings. Almost all used to come from a court that doubts a law while deciding a case (incidental review). After the 2001 reform of title V, which divided legislative power between the State and the Regions, direct actions grow: the State against regional laws and the Regions against state laws.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      bands(el, rows, keys, colors, names, { label: r => r.p, right: r => fmt(tot(r)), rowH: 34, partial: r => r === rows[5] && false });
+      note(el, ['giurisprudenza/corte-costituzionale/<anno>/<mese>/<tipo>-<n>/scheda.md (Giudizio)'], fmt(sum(rows, tot)) + L(' decisioni', ' decisions'),
+        L(`il tipo di giudizio è quello della scheda di ciascuna decisione; i conflitti tra poteri comprendono le decisioni sulla loro ammissibilità; “altro” raccoglie le correzioni di errori materiali, i giudizi di accusa, le sospensioni e le decisioni su più giudizi insieme. Il ${YEAR_LAST} è incompleto.`,
+          `the kind of proceedings is the one in each decision's record; conflicts between powers include the decisions on their admissibility; "other" groups corrections of clerical errors, impeachment trials, suspensions and decisions on several proceedings at once. ${YEAR_LAST} is partial.`));
+      table(el, [L('Periodo', 'Period'), ...names, t('total')], rows.map(r => [r.p, ...keys.map(k => r[k]), tot(r)]));
+    }
+  };
+});
+
+// 19. the administrative courts
+chart('c19', el => {
+  const c = D.c19, keys = ['a0', 'a1', 'a2', 'a5', 'a10'], ramp = seqRamp(), wide = !narrow(W(el));
+  const colors = [ramp(0.15), ramp(0.35), ramp(0.55), ramp(0.78), ramp(1)];
+  const names = [L('ricorso dello stesso anno', 'appeal of the same year'), L('dell’anno prima', 'of the year before'), L('di 2–4 anni prima', 'of 2–4 years before'), L('di 5–9 anni prima', 'of 5–9 years before'), L('di 10 anni prima o più', 'of 10 or more years before')];
+  const seats = Object.keys(c.age).filter(s => sum(keys, k => c.age[s][k] || 0) >= 300);
+  const tot = s => sum(keys, k => c.age[s][k] || 0), old = s => ((c.age[s].a5 || 0) + (c.age[s].a10 || 0)) / tot(s);
+  const tars = seats.filter(s => /^TAR/.test(s)).sort((a, b) => old(b) - old(a)), big = tars.filter(s => tot(s) >= 1000), hi = big[0], lo = big[big.length - 1];
+  const cityOf = s => s.replace(/^.* - /, '').toLowerCase().replace(/(^|[\s'-])([a-zà-ù])/g, (a, b, ch) => b + ch.toUpperCase()).replace(/'/g, IT() ? '’' : "'");
+  const regs = {}; tars.forEach(s => { const r = SEATREG(s); if (!r) return; regs[r] = regs[r] || { n: 0, o: 0, seats: [] }; regs[r].n += tot(s); regs[r].o += (c.age[s].a5 || 0) + (c.age[s].a10 || 0); regs[r].seats.push(s); });
+  const multi = new Set(Object.values(regs).filter(r => r.seats.length > 1).flatMap(r => r.seats));
+  const sn = s => { const m = s.match(/^TAR (.*?) - (.*)$/); if (!m) return seatName(s); const tc = x => x.toLowerCase().replace(/(^|[\s'-])([a-zà-ù])/g, (a, b, ch) => b + ch.toUpperCase()).replace("D'aosta", "d'Aosta").replace(" D'", " d'");
+    const ap = x => x.replace(/'/g, IT() ? '’' : "'");
+    if (/TRENTINO/.test(m[1])) return ap('TAR ' + tc(m[2])); return ap(multi.has(s) ? `TAR ${tc(m[1])}, ${tc(m[2])}` : `TAR ${tc(m[1])}`); };
+  const mon = c.mon, avgOther = sum(['01', '02', '03', '04', '05', '06', '07', '09', '10', '11', '12'], k => mon[k] || 0) / 11;
+  return {
+    title: L(`Giustizia amministrativa: a ${cityOf(hi)} ${ilPct((c.age[hi].a5 || 0) + (c.age[hi].a10 || 0), tot(hi))} delle sentenze del TAR decide ricorsi di cinque o più anni prima, a ${cityOf(lo)} ${ilPct((c.age[lo].a5 || 0) + (c.age[lo].a10 || 0), tot(lo), 1).trim()}`,
+      `Administrative courts: in ${cityOf(hi)}, ${pct((c.age[hi].a5 || 0) + (c.age[hi].a10 || 0), tot(hi))} of the TAR's judgments decide appeals filed five or more years earlier; in ${cityOf(lo)}, ${pct((c.age[lo].a5 || 0) + (c.age[lo].a10 || 0), tot(lo), 1)}`),
+    toc: L('Giustizia amministrativa', 'Administrative courts'),
+    dek: L(`Il numero di ricorso (NRG) comincia con l’anno del deposito: confrontato con l’anno della sentenza, dice quanto ha atteso la decisione. Sulla mappa, per regione, la quota di sentenze 2017–2025 che decidono ricorsi di cinque o più anni prima; ${wide ? 'a destra' : 'sotto'} ogni sede, dalla più lenta. In agosto, mese di sospensione feriale dei termini, si pubblicano ${ilPct(mon['08'] || 0, avgOther)} delle sentenze di un mese medio.`,
+      `The appeal number (NRG) begins with the year it was filed: compared with the year of the judgment, it says how long the decision took. On the map, by region, the share of 2017–2025 judgments deciding appeals filed five or more years earlier; ${wide ? 'on the right' : 'below'} every seat, slowest first. In August, the month when procedural time limits are suspended, ${pct(mon['08'] || 0, avgOther)} of an average month's judgments are published.`),
+    draw(el) {
+      const vals = Object.fromEntries(Object.entries(regs).map(([k, r]) => [k, r.o / r.n])), mx = d3.max(Object.values(vals));
+      const col = v => v == null ? css('--surface-2') : ramp(0.12 + 0.88 * (v / mx));
+      const w = W(el), nwd = narrow(w), box = el.append('div').attr('class', 'twocol'), left = box.append('div'), right = box.append('div');
+      const cs = Math.min(nwd ? 54 : 62, (W(left) - 4) / 6), s = cs - 3;
+      const svg = svgIn(left, cs * 6 + 2, cs * 7 + 2), g = svg.append('g').attr('transform', 'translate(1,1)');
+      Object.entries(REG).forEach(([k, [nm, ab, [cx, cy]]]) => {
+        const v = vals[k], fill = col(v), ink = inkOn(fill), x0 = cx * cs, y0 = cy * cs;
+        g.append('rect').attr('x', x0).attr('y', y0).attr('width', s).attr('height', s).attr('rx', 8).attr('fill', fill);
+        g.append('text').attr('class', 'lbl').attr('x', x0 + s / 2).attr('y', y0 + s / 2 - 3).attr('text-anchor', 'middle').style('fill', ink).style('font-size', '10px').style('pointer-events', 'none').text(ab);
+        g.append('text').attr('class', 'lbl strong').attr('x', x0 + s / 2).attr('y', y0 + s / 2 + 11).attr('text-anchor', 'middle').style('fill', ink).style('pointer-events', 'none').text(v == null ? '–' : s >= 56 ? pv(100 * v, v < .1 ? 1 : 0) : pv(100 * v, v < .1 ? 1 : 0).replace(' ', ''));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', x0).attr('y', y0).attr('width', s).attr('height', s).datum(k),
+          kk => `<b>${REG[kk][0]}</b>` + (regs[kk] ? trow(null, L('Sentenze 2017–2025', 'Judgments 2017–2025'), fmt(regs[kk].n)) + trow(null, L('Ricorsi di 5 o più anni prima', 'Appeals of 5 or more years before'), pct(regs[kk].o, regs[kk].n, 1)) + regs[kk].seats.map(q => tq(sn(q))).join('') : ''));
+      });
+      const rows = [...tars, ...seats.filter(q => !/^TAR/.test(q) && /GIURISDIZIONALE/.test(q))].map(q => ({ q, ...c.age[q] }));
+      legend(right, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      bands(right, rows, keys, colors, names, { label: r => narrow(W(el)) ? sn(r.q).replace(/^TAR [^,]+, /, 'TAR ') : sn(r.q), right: r => pct((r.a5 || 0) + (r.a10 || 0), tot(r.q)), rowH: 21, minIn: 999 });
+      note(el, ['giurisprudenza/giustizia-amministrativa/<sede>/<anno>/<mese>/<giorno>/', 'git log (Appeal:, In-force:)'], fmt(sum(rows, r => tot(r.q))) + L(' sentenze', ' judgments'),
+        L(`sono contate le sentenze e le sentenze brevi pubblicate dal 2017 al 2025 (OpenGA); l’anno del ricorso sono le prime quattro cifre del numero di registro generale. Per il Consiglio di Stato e il CGA siciliano, giudici d’appello, il numero è quello dell’appello. Le sedi con meno di 300 sentenze sono escluse; la mappa somma le sedi di una regione. In tutto il repository conta ${fmt(sum(Object.values(c.n)))} provvedimenti di ${Object.keys(c.n).length} sedi, 2017–${YEAR_LAST}.`,
+          `counted are the judgments and short-form judgments published from 2017 to 2025 (OpenGA); the appeal's year is the first four digits of its general register number. For the Council of State and the Sicilian CGA, appeal courts, the number is that of the appeal. Seats with fewer than 300 judgments are left out; the map adds up the seats of a region. In all the repository holds ${fmt(sum(Object.values(c.n)))} decisions of ${Object.keys(c.n).length} seats, 2017–${YEAR_LAST}.`));
+      table(el, [L('Sede', 'Seat'), ...names, t('total')], rows.map(r => [sn(r.q), ...keys.map(k => r[k] || 0), tot(r.q)]));
+    }
+  };
+});
+
+// 20. EU directives
+chart('c20', el => {
+  const Y = D.c20.years, keys = ['dlgs', 'legge', 'dl', 'dpr', 'dm', 'dpcm', 'adm', 'other', 'none'], cols = S8();
+  const colors = [cols[0], cols[1], cols[7], cols[3], cols[2], cols[4], cols[6], css('--muted-mark'), css('--line')];
+  const names = [L('decreti legislativi', 'legislative decrees'), L('leggi (anche comunitarie ed europee)', 'laws (incl. annual EU laws)'), L('decreti-legge', 'decree-laws'), L('D.P.R.', 'presidential decrees'),
+    L('decreti ministeriali e altri decreti', 'ministerial and other decrees'), L('D.P.C.M.', 'prime-ministerial decrees'), L('misure amministrative', 'administrative measures'), L('altro', 'other'), L('misura non necessaria', 'no measure needed')];
+  const P = [['1958–1979', 1958, 1979], ['1980–1989', 1980, 1989], ['1990–1999', 1990, 1999], ['2000–2009', 2000, 2009], ['2010–2019', 2010, 2019], [`2020–${YEAR_LAST}`, 2020, YEAR_LAST]];
+  const rows = P.map(([p, a, b]) => { const o = { p, a, b }; keys.forEach(k => o[k] = sum(d3.range(a, b + 1), y => (Y[y] || {})[k] || 0)); return o; });
+  const tot = r => sum(keys, k => r[k]), since = rows.filter(r => r.a >= 2000), dl0 = sum(since, r => r.dlgs), n0 = sum(since, tot), early = rows.filter(r => r.b <= 1989), dlE = sum(early, r => r.dlgs), nE = sum(early, tot);
+  const lag = D.c20.lag, medP = (a, b) => d3.median(d3.range(a, b + 1).flatMap(y => lag[y] ? [lag[y][1]] : []).filter(v => v != null));
+  return {
+    title: L(`Le direttive europee: i decreti legislativi sono ${ilPct(dl0, n0)} delle misure di recepimento notificate dal 2000, ${ilPct(dlE, nE, 1).trim()} fino al 1989`,
+      `EU directives: legislative decrees are ${pct(dl0, n0)} of the transposition measures notified since 2000, ${pct(dlE, nE, 1)} up to 1989`),
+    toc: L('Le direttive europee', 'EU directives'),
+    dek: L(`Per ogni direttiva, lo Stato comunica alla Commissione europea le misure con cui la recepisce. Ogni barra è un periodo di notifica: le misure italiane per tipo di atto. Le direttive si recepiscono sempre più con decreti legislativi del Governo, su delega della legge comunitaria (dal 2014 legge di delegazione europea), e sempre meno con decreti ministeriali. A destra, la mediana degli anni tra la direttiva e la notifica.`,
+      `For every directive, the State notifies the European Commission of the measures transposing it. Each bar is a period of notification: the Italian measures by kind of act. Directives are transposed more and more by legislative decrees of the Government, delegated by the annual EU law (since 2014 the European delegation law), and less and less by ministerial decrees. On the right, the median years between the directive and the notification.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      bands(el, rows, keys, colors, names, { label: r => r.p, right: r => `${fmt(tot(r))} · ${dec(medP(r.a, r.b), 0)} ${yrsW(Math.round(medP(r.a, r.b)))}`, rowH: 34 });
+      note(el, ['eu-nim/<anno>/<mese>/<id>.json', 'git log (Act-type:, Transposes:, In-force:)'], fmt(D.c20.n) + L(' misure notificate', ' notified measures'),
+        L(`il tipo d’atto si legge dal titolo della misura (“Decreto legislativo del…”, “Decreto ministeriale del…”), altrimenti dal campo Act-type della Commissione; l’anno è quello della notifica. Gli anni dalla direttiva vengono dal numero CELEX della direttiva recepita. Sono metadati della Commissione, senza il testo; una direttiva può avere più misure.`,
+          `the kind of act is read from the measure's title ("Decreto legislativo del…", "Decreto ministeriale del…"), otherwise from the Commission's Act-type field; the year is that of notification. The years since the directive come from the CELEX number of the directive transposed. These are the Commission's metadata, without the text; a directive may have several measures.`));
+      table(el, [L('Periodo', 'Period'), ...names, t('total'), L('Anni dalla direttiva (mediana)', 'Years since the directive (median)')], rows.map(r => [r.p, ...keys.map(k => r[k]), tot(r), dec(medP(r.a, r.b), 0)]));
+    }
+  };
+});
+
+// reading order (chart numbers follow it)
+const ORDER = ['p1', 'c01', 'c02', 'c03', 'c04', 'p2', 'c05', 'c06', 'c07', 'c08', 'p3', 'c09', 'c10', 'c11', 'c12', 'c13', 'p4', 'c14', 'c15', 'c16', 'p5', 'c17', 'c18', 'c19', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+const TILES = () => [[fmt(PF.acts), L('atti statali in vigore', 'state acts in force')], [fmt(PF.laws), L('leggi dal 1946', 'laws since 1946')],
+  [fmt(PF.camera_bills), L('progetti di legge della Camera', 'Camera bills')], [fmt(PF.camera_votes), L('votazioni della Camera dal 1996', 'Camera votes since 1996')],
+  [fmt(PF.cc), L('decisioni della Corte costituzionale', 'Constitutional Court decisions')], [fmt(PF.ga), L('provvedimenti della giustizia amministrativa', 'administrative court decisions')]];
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Norme in vigore', 'Acts in force'), 'normativa/<tipo>/<anno>/<numero>/', fmt(P.acts), L('il testo vigente di Normattiva, atti dal 1861 al 2026; tutte le versioni per la Costituzione, le leggi costituzionali, i quattro codici e quattro leggi', 'Normattiva\'s text in force, acts from 1861 to 2026; every version of the Constitution, the constitutional laws, the four codes and four statutes'),
+      L('solo ciò che è in vigore: gli atti abrogati non ci sono; le date delle versioni dei codici sono il primo giorno in cui Normattiva mostra il nuovo testo', 'only what is in force: repealed acts are not here; the dates of the codes\' versions are the first day Normattiva shows the new text')],
+    [L('Intestazioni degli atti', 'Act headings'), 'normativa/**/intestazione.md', fmt(P.acts), L('tipo, data, numero e titolo; per molti atti dal 1988 il giorno di entrata in vigore', 'kind, date, number and title; for many acts since 1988 the day of entry into force'), L('letti come testo, senza correzioni', 'read as text, uncorrected')],
+    [L('Storia git', 'Git history'), 'git log', fmt(P.commits), L('un commit per atto, versione, scheda o decisione, datato al giorno indicato nel trailer In-force (il 1º gennaio 1970 per i giorni precedenti)', 'one commit per act, version, record or decision, dated the day in its In-force trailer (1 January 1970 for earlier days)'), L('i trailer Enacted e Published danno firma e Gazzetta', 'the Enacted and Published trailers give signature and Gazzetta')],
+    [L('Leggi', 'Laws'), 'parlamento/schede/leggi/', fmt(P.laws), `${P.laws_from.slice(0, 4)}–${P.laws_to.slice(0, 4)}`, L('dati della Camera: titolo, data, Gazzetta; non l’entrata in vigore', 'the Camera\'s data: title, date, Gazzetta; not the entry into force')],
+    [L('Progetti di legge della Camera', 'Camera bills'), 'parlamento/schede/camera/', fmt(P.camera_bills), L('dal Regno (in parte) alla XIX legislatura', 'from the Kingdom (in part) to the XIX legislature'), L('titolo e data di presentazione; l’esito non è nella scheda', 'title and date of presentation; the outcome is not in the record')],
+    [L('Disegni di legge (Senato)', 'Bills (Senate)'), 'parlamento/schede/senato/', fmt(P.senate_phases) + L(' fasi', ' phases'), `1996–${P.senate_to.slice(0, 4)}`, L(`i dati si fermano ${pD('al', P.senate_to)}; l’iniziativa è indicata solo dalla XV legislatura`, `the data stop on ${dateTxt(P.senate_to)}; the initiative is given only from the XV legislature`)],
+    [L('Votazioni della Camera', 'Camera votes'), 'parlamento/atti-parlamentari/camera/votazioni/', fmt(P.camera_votes), '1996–' + YEAR_LAST, L('la richiesta di fiducia non è indicata nella XIII legislatura', 'the request for confidence is not given in the XIII legislature')],
+    [L('Corte costituzionale', 'Constitutional Court'), 'giurisprudenza/corte-costituzionale/', fmt(P.cc), '1956–' + YEAR_LAST, L('schede, testi e massime', 'records, texts and headnotes')],
+    [L('Giustizia amministrativa', 'Administrative courts'), 'giurisprudenza/giustizia-amministrativa/', fmt(P.ga), '2017–' + YEAR_LAST, L('metadati OpenGA, senza il testo dei provvedimenti', 'OpenGA metadata, without the decisions\' text')],
+    [L('Recepimento delle direttive', 'Transposition of directives'), 'eu-nim/', fmt(P.nim), '1958–' + YEAR_LAST, L('metadati della Commissione europea, senza testo', 'the European Commission\'s metadata, without text')],
+    [L('Non usati', 'Not used'), 'giurisprudenza/corte-dei-conti/ · autorita/agcm/ · parlamento/lavori-parlamentari/', '–', L('Corte dei conti, Autorità garante della concorrenza, documenti e votazioni del Senato, interventi e atti di indirizzo della Camera', 'Court of Audit, competition authority, Senate documents and votes, Camera speeches and motions'),
+      L('anni sparsi (Corte dei conti) o una sola data di pubblicazione dei dati (AGCM)', 'scattered years (Court of Audit) or a single data release date (AGCM)')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+
+// a label that runs past the edge of its chart's card would be cut: report it (the charts size their columns to their labels)
+function checkLeftLabels(fig) {
+  const fr = fig.node().getBoundingClientRect();
+  fig.selectAll('svg text').each(function () {
+    const r = this.getBoundingClientRect();
+    if (r.width && (r.left < fr.left - 0.5 || r.right > fr.right + 0.5)) console.warn('label outside its chart', fig.attr('id'), this.textContent);
+  });
+}
+function render() {
+  HATCH = 0;
+  document.documentElement.lang = LANG;
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  d3.select('#tiles').html('').selectAll('div').data(TILES()).join('div').attr('class', 'tile').html(d => `<b>${d[0]}</b><span>${esc(d[1])}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.it, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dit, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.it, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    let spec;
+    try { spec = c.fn(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); return; }
+    const h3 = fig.append('h3'); h3.append('span').attr('class', 'no').text(n + '.'); h3.append('span').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    checkLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.toc || spec.title.split(/:\s/)[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', dateTxt(PF.built) + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('it-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('it-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+// labels are measured as they are drawn: draw again when the web fonts have loaded, so the measures are the fonts' own
+let ft;
+const redraw = () => { clearTimeout(ft); ft = setTimeout(() => { const y = scrollY; render(); scrollTo(0, y); }, 120); };
+const T0 = Date.now();
+if (document.fonts) { if (document.fonts.status !== 'loaded') document.fonts.ready.then(redraw); document.fonts.addEventListener('loadingdone', () => { if (Date.now() - T0 < 15000) redraw(); }); }
+</script>
+</body>
+</html>

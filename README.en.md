@@ -84,7 +84,13 @@ No AI model wrote or changed legal text; the scripts were written by an AI model
 
 ## Visualisations
 
-- [visualisations/](visualisations/README.en.md): charts drawn from this repository. Not drawn yet.
+[visualisations/](visualisations/): Italian law in 20 charts, drawn from this repository.
+
+Including:
+
+- the acts in force: what they govern, when they reach the Gazzetta and when they take effect
+- decree-laws and their conversion, the questione di fiducia and the calendar of laws
+- the Constitution and the codes article by article, the Constitutional Court, the TARs and EU directives
 
 ## More
 

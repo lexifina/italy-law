@@ -86,7 +86,13 @@ Questa è una traduzione della versione inglese ([README.en.md](README.en.md)); 
 
 ## Visualizzazioni
 
-- [visualisations/](visualisations/): grafici tratti da questo repository. Non ancora disegnati.
+[visualisations/](visualisations/): il diritto italiano in 20 grafici, tratti da questo repository.
+
+Tra questi:
+
+- gli atti in vigore: che cosa regolano, quando escono in Gazzetta e quando entrano in vigore
+- i decreti-legge e la loro conversione, la questione di fiducia e il calendario delle leggi
+- la Costituzione e i codici articolo per articolo, la Corte costituzionale, i TAR e le direttive europee
 
 ## Per saperne di più
 
