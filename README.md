@@ -59,7 +59,7 @@ Ogni modifica è attribuita all'atto indicato dal registro per articolo di Norma
 - `tools/check_repo.py` rilegge da git ogni versione di ogni atto nel giorno in cui è entrata in vigore e la confronta con il file Akoma Ntoso di Normattiva per quella versione, byte per byte con il testo che ne deriva e parola per parola con ogni parola dell'XML: 340 versioni, 0 differenze.
 - Una seconda costruzione dagli stessi dati in una cartella vuota ha dato lo stesso hash per ogni commit e ogni tag.
 - `tools/test_repo.py` verifica che blame, lo strumento per le date, i tag e i trailer `In-force:` funzionino. I risultati sono in [`REPRODUCE.md`](REPRODUCE.md).
-- [vulnerabilities/](vulnerabilities/): possibili errori di redazione in questo diritto, trovati dai rilevatori di global-law e controllati a mano. Non ancora eseguito.
+- [vulnerabilities/](vulnerabilities/): possibili errori di redazione nel diritto italiano, trovati dai rilevatori di global-law e controllati a mano.
 
 ## Che cosa non mostra
 

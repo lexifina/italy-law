@@ -59,7 +59,7 @@ Each change is credited to the act that Normattiva's per-article record names (`
 - `tools/check_repo.py` reads every version of every act back from git on the day it took effect and compares it with Normattiva's Akoma Ntoso file for that version, byte for byte with the text it renders to and word for word with every word of the XML: 340 versions, 0 mismatches.
 - A second build from the same data into an empty folder gave the same hash for every commit and tag.
 - `tools/test_repo.py` checks that blame, the dated tool, the tags and the `In-force:` trailers work. The results are in [`REPRODUCE.md`](REPRODUCE.md).
-- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in this law, found by global-law's detectors and checked by hand. Not run yet.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Italian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
