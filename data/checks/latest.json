@@ -1,0 +1,112 @@
+{
+ "generated": "2026-11-24T01:21:05Z",
+ "latest": {
+  "normattiva|italy/national/acts": {
+   "attempt": 1,
+   "audit": {
+    "match_neither": 0,
+    "match_new": 5,
+    "match_old": 0,
+    "method": "read again as Normattiva's full-act export (/esporta/attoCompleto: the act as an HTML page, another service of the same publisher; the check reads the AKN export): the share of the words of the act's files (the heading apart, accents folded) found on the page, at least 0.98; the four codes are not audited this way (the export prints only part of them)",
+    "rows": [
+     {
+      "id": "normativa/legge-costituzionale/1948/5",
+      "published": true,
+      "share": 0.9972,
+      "verdict": "match_new"
+     },
+     {
+      "id": "normativa/decreto-legge/1996/475",
+      "published": false,
+      "share": 0.9983,
+      "verdict": "match_new"
+     },
+     {
+      "id": "normativa/dpr/1958/420",
+      "published": false,
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "id": "normativa/dpr/1980/1108",
+      "published": false,
+      "share": 1.0,
+      "verdict": "match_new"
+     },
+     {
+      "id": "normativa/dpr/1990/72",
+      "published": false,
+      "share": 0.9998,
+      "verdict": "match_new"
+     }
+    ],
+    "sampled": 5,
+    "unread": 0
+   },
+   "census": {
+    "checked": 305,
+    "current": 74235,
+    "gone": 0,
+    "held": 74239,
+    "newest_at_source": "2026-11-23",
+    "newest_in_repo": null,
+    "pending": 4,
+    "repo": 74239,
+    "source_in_scope": null
+   },
+   "check_id": "it-normattiva-20261124T004800Z",
+   "commits": {
+    "count": 4,
+    "from": "01737bf672e9659ed2a2918128cdc0c50798b94c",
+    "to": "4cbeeb39dbdd26677674029219ad5c0132f7bbcf"
+   },
+   "corpus": "italy/national/acts",
+   "error": null,
+   "finished": "2026-11-24T01:21:04Z",
+   "flags": [],
+   "gap": 2,
+   "note": "first check: the baseline (nothing to compare with); Gazzetta Ufficiale, Serie Generale issue(s) 273 of 2026-11-23: 2 acts of the normative series (G) followed until Normattiva holds them, 26 administrative acts (A series) outside this repository's scope; 2 new acts followed (0 in force at Normattiva now); held acts read: 0 named by new acts, 300 of the rotating sweep (every held act once in 248 days at 300 a day), 0 unread; 4 differ (3 code, 1 correction); legislation only (normativa/, costituzione/); parlamento/, giurisprudenza/, autorita/ and eu-nim/ come from other sources and are not read by this check; dati.normattiva.it and api.normattiva.it answer IPZS's protection page (HTTP 409) to this laptop and the EU egress: not requested",
+   "outcome": "changed",
+   "published": {
+    "added": [],
+    "changed": [
+     "normativa/dpr/1988/447",
+     "normativa/legge-costituzionale/1948/5",
+     "normativa/regio-decreto/1930/1398",
+     "normativa/regio-decreto/1942/262"
+    ],
+    "removed": []
+   },
+   "requests": 638,
+   "runner": "lawwatch italy (92c4e33d60)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "2026-11-24",
+   "source": "normattiva",
+   "started": "2026-11-24T00:48:00Z",
+   "unexplained": 0,
+   "update": {
+    "code_versions": 3,
+    "commits": 4,
+    "corrections": 1,
+    "failed": 0,
+    "new": 0,
+    "versions": 0
+   },
+   "verify": {
+    "cycle_days": 248,
+    "examples": [],
+    "explained": 0,
+    "method": "each act read (named by a new act, or in today's slice of a rotating sweep of 300 acts a day: every held act once in 248 days at the site's pace) re-rendered from Normattiva's AKN export of the text in force today by the builders' own read_version and compared with the act's folder file for file, byte for byte (acts from the italia-corpus Markdown copy: the lane's own token check, >= 98% both ways, the heading apart); acts published by this check counted as compared",
+    "ok": true,
+    "versions_checked": 305,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}
